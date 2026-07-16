@@ -100,10 +100,22 @@ flowchart TD
 
 - ✅ [`01-hallazgos-verificados.md`](01-hallazgos-verificados.md) — alquiler 4x4, seguros, visado, tasas
 - ✅ [`02-alojamiento-y-tasas.md`](02-alojamiento-y-tasas.md) — tarifas oficiales NWR 2026/2027
-- 🔬 `03-veredicto-fechas.md` — octubre vs noviembre vs diciembre *(en curso)*
+- ✅ [`03-guia-preparacion.md`](03-guia-preparacion.md) — **guía profunda**: cuenta atrás, conducción, logística, equipaje, normas
 - 🔬 `04-itinerario.md` — ruta día a día + veredicto de viabilidad *(en curso)*
 - 🔬 `05-alojamientos-y-reservas.md` — lodges privados y antelación *(en curso)*
 - 🔬 `06-presupuesto.md` — presupuesto total *(en curso)*
+
+### 🚨 Lo más urgente de la guía
+
+- **El sendero del Fish River Canyon está CERRADO en noviembre** (temporada may–sep, y exige mínimo
+  3 personas). En noviembre es un mirador. Eso debilita el desvío al sur.
+- **El vuelco es el 37 % de los muertos de Namibia con solo el 4,6 % de los accidentes** — y se
+  concentra en Hardap (Sossusvlei): **1 de cada 5 accidentes allí es un vuelco**, contra 1 de cada 80
+  en Windhoek.
+- **Etosha SÍ es zona de malaria** (CDC: Kunene, Oshikoto, Oshana, Omusati, Otjozondjupa). El sur, no.
+- **El portal del e-visa es `eservices.mhaiss.gov.na`.** `namibia-evisa.com` **no es el Gobierno**.
+- **La cita del Centro de Vacunación es el plazo real**, no la vacuna: A Coruña, Durán Lóriga 3,
+  981 989 570. Pídela en agosto.
 
 ---
 
