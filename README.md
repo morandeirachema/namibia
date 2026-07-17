@@ -268,7 +268,7 @@ flowchart TD
     R --> D9["09 · Lluvias historico<br/>5 temporadas observadas"]
     R --> D4["04 · Itinerario<br/>ruta y viabilidad"]
     R --> D8["08 · Huecos cerrados<br/>vuelos · tasas 2026"]
-    R -.-> D10["10 · Presupuesto<br/>🔬 en curso"]
+    R --> D10["10 · Presupuesto<br/>camping vs lodges"]
     style D1 fill:#2d6a4f,color:#fff
     style D2 fill:#2d6a4f,color:#fff
     style D3 fill:#2d6a4f,color:#fff
@@ -278,7 +278,7 @@ flowchart TD
     style D7 fill:#2d6a4f,color:#fff
     style D9 fill:#2d6a4f,color:#fff
     style D8 fill:#2d6a4f,color:#fff
-    style D10 fill:#e85d04,color:#000
+    style D10 fill:#2d6a4f,color:#fff
 ```
 
 
@@ -291,7 +291,7 @@ flowchart TD
 - ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, Línea Roja, cobertura, dinero, emergencias
 - ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas, vuelos (rutas y fiebre amarilla), tasas 2026 del MEFT *(lodges y algunas temperaturas siguen abiertos)*
 - ✅ [**`09-lluvias-historico`**](09-lluvias-historico.md) — las 5 últimas temporadas, mm a mm
-- 🔬 `10-presupuesto` — camping vs lodges *(en curso)*
+- ✅ [**`10-presupuesto`**](10-presupuesto.md) — el coste completo del viaje, **camping vs lodges de gama media**, en N$ y €, con el delta octubre vs noviembre y todo lo que queda sin verificar (lodges y vuelos)
 
 ---
 
@@ -384,7 +384,7 @@ web y capaces de costar dinero real:
 
 ### 🕳️ Lo que sigue faltando
 
-**Temperaturas con fuente meteorológica** · **Vuelos** · **Presupuesto**
+**Precios de lodges privados** · **Tarifa de vuelos para las fechas exactas** · **Temperaturas de Sossusvlei/Lüderitz/Swakopmund**
 
 *Tasas de parques: el ~N$280 se apoya solo en fuente secundaria — el MEFT sigue sirviendo la tabla
 de 2021. **Confírmalo por email antes de cerrar presupuesto.***
