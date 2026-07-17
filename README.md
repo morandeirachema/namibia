@@ -262,6 +262,33 @@ coche es cifra cerrada y el presupuesto se estrecha de golpe.
 > *Alternativa: añadir el día 13 (~€167) y devolverlo el 14 camino del aeropuerto — puede salir
 > igual o más barato que hotel + dos traslados.*
 
+### 🎥 El coche por dentro — y qué te da exactamente la Comfort
+
+▶️ **[Namibia2Go — «Experience The Fully Equipped Hilux»](https://www.youtube.com/watch?v=LPNZ-l8y3Pg)**
+*· vídeo de la propia empresa*
+
+**Es tu coche** —Toyota Hilux Double Cab camping equipped de Namibia2Go— pero **ojo al mirarlo**:
+la web ofrece **dos versiones del mismo vehículo** y el vídeo no aclara cuál enseña. La diferencia
+se ve a simple vista:
+
+- **Budget** — tiendas **blandas** Tentco + cajas de camping · *N$2.640/día temp. baja*
+- 🏆 **COMFORT** — tiendas de **carcasa rígida** + cocina a medida · *N$2.910/día temp. baja* ← **la tuya**
+
+> 👉 **Al ver el vídeo, fíjate en el techo:** si las tiendas son **hard shell** *(se abren solas,
+> tipo concha)* es la Comfort; si son de lona plegada, es la Budget.
+>
+> *La carcasa rígida se monta en un minuto y aguanta mejor el polvo y el viento — con **11 noches
+> de tienda**, se nota.*
+
+**Ficha verificada del vehículo** ✅ — 4x4 permanente · automático · **motor 2.8L GD-6 turbodiésel**
+· 5 plazas con tiendas para 4 · km ilimitados · **2 ruedas de repuesto** y **nevera eléctrica** ·
+2 tiendas de techo, mesa, 4 sillas, ropa de cama para 4 y menaje completo · *1 día = 24 h*.
+
+🎉 **Las 2 ruedas de repuesto vienen de serie** — es justo lo que recomienda todo el que conduce
+esas pistas.
+
+*Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)*
+
 ### ⛺ Sí se puede acampar dentro de Etosha — **11 de 13 noches en el coche**
 
 **Okaukuejo, Halali y Namutoni tienen camping**: **N$460/persona = N$920 la pareja** ✅, verificado
