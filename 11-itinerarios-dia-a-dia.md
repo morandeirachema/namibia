@@ -1,13 +1,14 @@
 # Los itinerarios, día a día
 
-> ## 🔄 ACTUALIZACIÓN 17/07/2026 — dos decisiones del viajero cambian la ruta
+> ## 🔄 ACTUALIZACIÓN FINAL 17/07/2026 — la ruta es la VARIANTE E
 >
-> 1. **Fechas: primera quincena de noviembre**, pudiéndose adelantar algunos días a finales de
->    octubre. El "salir tras el 15 nov" ya no aplica: el coche irá en banda alta (€179/día).
-> 2. **Sossusvlei Y Etosha van los dos en el mismo viaje.** Eso invalida la A (sin Etosha) y la B
->    (sin Sossusvlei) como recomendación, y obliga a recortar el sur.
->
-> **La ruta pasa a ser la VARIANTE D**, desarrollada aquí abajo. A y B quedan como referencia.
+> Decisiones del viajero, en orden:
+> 1. **Fechas: primera quincena de noviembre** (adelantable unos días a finales de octubre).
+> 2. **Sossusvlei y Etosha van los dos** en el mismo viaje.
+> 3. **El sur se quita entero** — tras comparar con el itinerario de
+>    [lugaresincertos.com](https://www.lugaresincertos.com/en/travel-inspiration/two-week-trip-to-namibia/),
+>    la ruta pasa a ser **la clásica del norte a ritmo lento**, como la del blog pero con nuestros
+>    datos verificados: es la **VARIANTE E**, aquí abajo. D, A y B quedan como referencia.
 
 ---
 
@@ -52,9 +53,9 @@ círculo.
 - **Los caballos de Garub** — pequeño desvío desde Aus, de camino
 - **La D707** — no es desvío, ES la carretera hacia Sesriem
 
-> ### El resultado: la Variante D
-> **Sossusvlei + Etosha + el cañón + la D707 + Garub + kokerbooms, en 14 días.**
-> Lo único que se queda fuera del sur: Ai-Ais y Lüderitz/Kolmanskop.
+> ### Nota histórica: este análisis produjo la Variante D…
+> …y después el viajero decidió **quitar el sur entero** (decisión final, 17/07). La tijera queda
+> documentada porque explica los números; la ruta vigente es la **Variante E** de abajo.
 
 ---
 
@@ -70,8 +71,180 @@ Desarrollo completo de las variantes. **Ventana real: primera quincena de noviem
 
 <div align="center">
 
-## ⭐ VARIANTE D — Las dos coronas y el cañón
-### La ruta del viaje: Sossusvlei + Etosha + Fish River, sin Lüderitz
+## ⭐ VARIANTE E — La clásica del norte, a ritmo lento
+### LA RUTA DEL VIAJE · como la del blog, con nuestros datos
+
+</div>
+
+**~2.600 km · 13 días de coche · ningún día por encima de ~390 km · dos noches en Sesriem, dos en
+la costa y CUATRO en Etosha · fechas ilustrativas: llegada el domingo 1 de noviembre de 2026**
+
+> ### 📅 El 1 de noviembre sigue siendo la fecha mágica
+> **NWR entra en tramo barato** (Sesriem, Halali, Okaukuejo, Terrace Bay) y **Namibia2Go entra en
+> SU temporada baja**: 13 días ≈ **N$35.100 (~€1.755)** con seguro incluido, frente a **€2.652**
+> de Asco. **Adelantar hasta 2 días a octubre es gratis** (Windhoek y Spreetshoogte no son NWR).
+
+> ### ❓ ¿Etosha al principio o al final? → **AL FINAL.** Tres razones con datos:
+> 1. **Dinero**: con el desierto primero, si adelantáis la salida a octubre, **todas las noches NWR
+>    caen después del 1 de noviembre** (tarifa baja). Etosha primero + salida en octubre = tarifa
+>    vieja **y** el pico de calor del parque (38,0 °C de media de máximas en octubre).
+> 2. **Termómetro**: Etosha se enfría según avanza noviembre (38,0 oct → 37,1 media nov).
+> 3. **Rodaje y crescendo**: asfalto y grava fácil primero; el safari como clímax, no aperitivo.
+>
+> *El contra, honesto: el riesgo de primeras tormentas sube mínimamente hacia el día 15 (en 2 de 5
+> temporadas cayó algún chubasco suelto en la primera quincena — aislado, no la temporada
+> asentada). Marginal frente a lo anterior.*
+
+```mermaid
+gantt
+    title Variante E · la clasica del norte · 1-14 nov 2026
+    dateFormat YYYY-MM-DD
+    axisFormat %d-%m
+    section Llegada
+    D1 Windhoek                    :e1, 2026-11-01, 1d
+    section Desierto
+    D2 Paso de Spreetshoogte       :e2, after e1, 1d
+    D3 Solitaire-Sesriem           :e3, after e2, 1d
+    D4 Sossusvlei y Deadvlei       :e4, after e3, 1d
+    section Costa
+    D5 Sesriem-Walvis Bay          :e5, after e4, 1d
+    D6 Flamencos y descanso        :e6, after e5, 1d
+    D7 Cape Cross-Terrace Bay      :e7, after e6, 1d
+    section Damaraland
+    D8 Skeleton-Twyfelfontein-Hoada :e8, after e7, 1d
+    section Safari
+    D9 Hoada-Okaukuejo             :e9, after e8, 1d
+    D10 Safari a Halali            :e10, after e9, 1d
+    D11 Safari a Namutoni          :e11, after e10, 1d
+    D12 Etosha este                :e12, after e11, 1d
+    section Vuelta
+    D13 Regreso a Windhoek         :e13, after e12, 1d
+    D14 Vuelo                      :e14, after e13, 1d
+```
+
+### D1 · dom 1 nov — Llegada a Windhoek
+- 4x4 + briefing (1–2 h): **presiones en frío apuntadas, las DOS ruedas de repuesto, gato y
+  compresor a la vista** antes de salir del patio (`05`)
+- Efectivo (~N$6.000–8.000) · **SIM de MTC** con pasaporte *(el kiosco cierra ~21:00)*
+- 🍺 **Joe's Beerhouse** · 🛏️ Windhoek
+
+### D2 · lun 2 — Windhoek → paso de Spreetshoogte · **~180–200 km · ~3h–3h30** ◐
+- B1 a Rehoboth (87 asfalto) → C24 → D1261 → **D1275: el paso**. ⚠️ **Muy empinado**, tramos de
+  hormigón para tracción, prohibido a caravanas — se baja despacio y es espectacular
+- 🌇 **Atardecer desde el mirador del paso**: el Namib a 1.000 m bajo tus pies
+- 🛏️ **Spreetshoogte Campsite** ⚠️ *precio sin verificar (el blog citaba 150–300 ZAR/persona,
+  vigencia desconocida)*
+
+### D3 · mar 3 — Spreetshoogte → Solitaire → Sesriem · **~150–170 km · ~2h30–3h** ◐
+- Bajada del paso → C14 → 🥧 **Solitaire** (tarta + depósito lleno) → D826/C19 a Sesriem
+- Tarde: **Sesriem Canyon** y atardecer en **Elim Dune** *(o el guiado de NWR, N$300/persona)*
+- 🎫 Namib-Naukluft ~N$620/24 h
+- 🛏️ **🔑 DENTRO de la puerta: Sesriem Campsite — N$1.340 (~€67)** ✅ *(44 parcelas: reservar YA)*
+
+### D4 · mié 4 — Sossusvlei y Deadvlei · **130 km · día completo** ✅
+- 🌅 **Puerta interior 1 h antes del amanecer** — Deadvlei casi en solitario
+- Con día entero: **Big Daddy** (la subida) + **Hidden Vlei** + **Duna 45** a la vuelta
+- Arena final: 4H antes de entrar, desinflar en el 2WD, reinflar en Sesriem *(o lanzadera
+  N$180/persona)*
+- 🛏️ Sesriem, segunda noche
+
+### D5 · jue 5 — Sesriem → Walvis Bay · **~270 km · ~5h30** ✅
+- C14 por los pasos de **Gaub y Kuiseb** + Trópico de Capricornio
+- ⛽ **Solitaire otra vez, sí o sí** — después, **210 km sin nada**
+- 🛏️ **Walvis Bay** ⚠️ *precio sin verificar (el blog usó Lagoon Chalets)*
+
+### D6 · vie 6 — Walvis Bay: flamencos y descanso ✅
+- 🦩 **Flamencos y pelícanos en la laguna** al amanecer y al atardecer — las mejores luces
+- Día libre: paseo marítimo, ostras, o la excursión guiada a **Sandwich Harbour**
+  *(🚫 con tu coche está prohibida por contrato — el tour es la forma correcta y mejor)*
+- 🛏️ Walvis Bay, segunda noche
+
+### D7 · sáb 7 — Cape Cross → Terrace Bay (Skeleton Coast) · **~390 km · día logístico** ✅
+- ⏰ **Salida temprana — este día tiene una hora límite.** C34 costera (sal compactada):
+  Swakopmund → Henties Bay → 🦭 **Cape Cross** (miles de lobos marinos; pañuelo para el olor)
+- 🛑 **Puerta de Ugabmund: última entrada 15:00.** Para pernoctar dentro hace falta **reserva
+  confirmada de Terrace Bay** — sin ella no se entra (el permiso de tránsito obliga a salir el
+  mismo día)
+- Dentro del parque: **60 km/h** · 🎫 Skeleton Coast ~N$620/24 h
+- 🛏️ **Terrace Bay Resort (NWR)** ⚠️ *precio sin verificar* — dormir en la Costa de los
+  Esqueletos, con la niebla y el Atlántico rugiendo
+- *Variante fácil: saltarse Terrace Bay, dormir en Henties/Swakopmund y entrar a Damaraland al día
+  siguiente por Springbokwasser en tránsito — un día mucho más corto*
+
+### D8 · dom 8 — Skeleton Coast → Twyfelfontein → Hoada · **~300 km · ~5h** ◐
+- Salida por **Springbokwasser** → C39 a Bergsig → **desvío opcional a Twyfelfontein**
+  (grabados rupestres UNESCO; Google lo lista como cerrado: **es un fallo del listado**)
+- ⚠️ **Damaraland: el Super Cover de Asco NO cubre los bajos aquí** — despacio en las piedras.
+  *(Preguntar a Namibia2Go por escrito cómo trata su seguro esta zona)*
+- 🛏️ **Hoada Campsite** (zona Grootberg) ⚠️ *precio sin verificar* — el blog lo llama su
+  campamento más bonito del viaje: rocas de granito, duchas entre peñas, cielo estrellado
+
+### D9 · lun 9 — Hoada → Etosha (Okaukuejo) · **~315 km · ~4h** ◐
+- C40 a Kamanjab → C38 a la puerta de **Andersson** (asfalto desde Kamanjab... ⚠️ firme por
+  confirmar) → **Okaukuejo a 17 km** de la puerta
+- 🎫 Etosha ~N$620/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
+- 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros
+- 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
+
+### D10 · mar 10 — Safari Okaukuejo → Halali · **~90 km de safari lento** ✅
+- 🚧 **Obras 2026**: el tramo va por desvíos (~90 km a 30–35 km/h, ~3 h) — como es día de safari
+  apenas molesta, pero **confirmar con NWR al reservar**
+- Charcas del camino · siesta en la piscina de Halali · charca de Halali al anochecer
+- 🛏️ **Camping Halali — N$920 (~€46)** ✅
+
+### D11 · mié 11 — Safari Halali → Namutoni · **~80 km de safari** ✅
+- Charcas **Goas, Nuamses, Springbokfontein, Batia, Chudop** — el corazón del safari
+- **Se duerme DENTRO, como todo Etosha en esta ruta**: sin horas de puerta, con la charca al lado
+- 🛏️ **Camping Namutoni — N$920 (~€46)** ✅ *(el fuerte alemán, y Chudop a un paso)*
+- *Capricho opcional: **Onguma** (tu pin, reserva privada justo al otro lado de la puerta de Von
+  Lindequist) ⚠️ precio sin verificar; puede ser gama alta — a cambio pierdes estar dentro*
+
+### D12 · jue 12 — Etosha este · **~60–80 km de safari** ✅
+- **Fischer's Pan**, Chudop, Klein Namutoni — la esquina que casi nadie hace
+- 🛏️ **Namutoni, segunda noche — N$920 (~€46)** ✅
+
+### D13 · vie 13 — Etosha → Windhoek · **~550 km asfalto · ~5h30–6h** ○
+- Von Lindequist → Tsumeb → Otjiwarongo → B1 · salida al alba, comida en Otjiwarongo
+- 🥩 **Línea Roja**: la carne cruda no baja del norte — el braai se come en Etosha
+- 🛏️ Windhoek — entrega del coche hoy o mañana temprano
+- *Parada opcional de camino: **Okonjima/AfriCat** (leopardos) o el meteorito de **Hoba** (desvío
+  por Grootfontein)*
+
+### D14 · sáb 14 — Vuelo
+- 💱 **Gasta o cambia los N$ antes de embarcar**: fuera de Namibia no valen nada
+
+### 💰 Coste orientativo de E *(ventana 1–15 nov)*
+- **Alquiler 13 días**: **Namibia2Go ~N$35.100 (~€1.755)** ✅◐ con seguro incluido ·
+  **Asco €2.652 (~N$53.040)** ✅ con Super Cover
+- **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 + Namutoni 2×920 =
+  **N$7.360 (~€368)** ✅ — **las 4 noches de Etosha, dentro del parque**
+  *(+ Terrace Bay, Spreetshoogte, Walvis, Hoada: sin verificar)*
+- **Tasas de parque**: Namib 2 + Skeleton 1 + Etosha 4 unidades ≈ **N$4.300 (~€215)** ◐
+- **Combustible ~2.600 km**: ~310–340 l ≈ **N$8.000–9.200 (~€400–460)** ○
+- **Visado**: N$3.200 (~€160) los dos ✅
+- **Total tierra en camping ≈ €3.300–4.200 (~N$66.000–84.000)** la pareja ○ *(el rango es la
+  compañía de coche; ~€200 menos que la D por los 500 km que se ahorra)*
+
+### 🔍 En qué se diferencia del blog *(y por qué)*
+- **Ellos, 2 noches en Spreetshoogte; nosotros, 1** — la segunda se va a Etosha, que con tu ventana
+  seca merece 4 noches
+- **Ellos duermen en Onguma (fuera); nosotros las 4 noches DENTRO del parque** (Okaukuejo, Halali,
+  Namutoni ×2 — verificado, N$920/noche) — dormir dentro es lo que da las charcas nocturnas
+  iluminadas y los amaneceres sin esperar puerta. Onguma queda como capricho opcional
+- **Mismo espíritu**: Terrace Bay, Hoada, dos noches en la costa, y el sur para otro viaje
+- ⚠️ Sus precios (Spreetshoogte 150–300 ZAR) son de la fecha de su post: **no presupuestar con ellos**
+
+### ⛔ Lo que queda fuera *(y dónde está documentado por si vuelve)*
+**Fish River Canyon** · **kokerbooms** · **caballos de Garub** · **D707** · **Lüderitz/Kolmanskop**
+*(todo en la Variante D, abajo)* · **Spitzkoppe** *(tampoco está en la ruta del blog; si os duele,
+cabe como parada larga la mañana del D13 alternativo vía Usakos — pero alarga el día)*
+
+---
+
+<div align="center">
+
+## VARIANTE D — Las dos coronas y el cañón
+### Referencia (superada: el sur se quitó entero)
 
 </div>
 

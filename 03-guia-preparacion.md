@@ -22,7 +22,12 @@ para reservarlo, y sois dos.
 > Son 85 km, 4–5 días, con certificado médico de aptitud. En noviembre, el Fish River Canyon es
 > **un mirador, no una caminata**.
 
-### ✅ Decisión tomada (17/07/2026): el sur se queda
+### 🔄 Historial de decisión (la última manda: el sur NO va)
+
+*Primero se decidió mantener el sur; después, tras comparar con un itinerario real de referencia,
+se quitó entero. La ruta vigente es la **Variante E** (`11`). Esto queda como referencia:*
+
+### Decisión intermedia (superada): el sur se queda
 
 El cañón **no se cae del viaje** por esto. El trekking nunca fue el motivo real —y además exigía
 3 personas, así que ni en temporada— y el **mirador principal de Fish River es de los grandes de

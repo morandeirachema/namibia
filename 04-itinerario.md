@@ -1,5 +1,12 @@
 # Itinerario y viabilidad — el documento que decide el viaje
 
+> ## 🔄 NOTA (17/07/2026): la ruta final NO incluye el sur
+> Decisión posterior del viajero: **el sur se quitó entero** (Fish River, Lüderitz/Kolmanskop,
+> kokerbooms, D707). La ruta vigente es la **Variante E** — la clásica del norte, en
+> [`11-itinerarios-dia-a-dia.md`](11-itinerarios-dia-a-dia.md). Lo que sigue se conserva como
+> referencia verificada por si el sur vuelve en otro viaje.
+
+
 Distancias reales, firme, tiempos calculados a velocidad de seguro, y una respuesta honesta a la
 pregunta que importa: **¿cabe todo en 14 días?**
 
