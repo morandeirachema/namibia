@@ -191,15 +191,87 @@ gantt
 ### D14 · sáb 14 — Vuelo
 - 💱 **Gasta o cambia los N$ antes de embarcar**: fuera de Namibia no valen nada
 
-### 💰 Coste orientativo de D *(ventana 1–15 nov: coche en banda alta)*
-- **Alquiler 13 días + Super Cover: €2.652 (~N$53.040)** ✅ *(€179+€25/día · la banda baja de €117
-  no es accesible con vuestras fechas — la flexibilidad tras el 15 nov habría valido ~€806)*
+### 📎 Contraste con un itinerario real de referencia (lugaresincertos.com)
+
+Un blog de viajeros con dos semanas reales en Namibia
+([two-week-trip-to-namibia](https://www.lugaresincertos.com/en/travel-inspiration/two-week-trip-to-namibia/))
+hace **la elección contraria a la tuya** y es útil ver por qué:
+
+```mermaid
+flowchart LR
+    subgraph ELLOS["Su ruta · ~2.000 km"]
+        E1["Sin NADA del sur"] --> E2["A cambio: 2 noches en<br/>Spreetshoogte · 3 en Sossusvlei<br/>2 en Walvis Bay · Terrace Bay"]
+    end
+    subgraph TU["Variante D · ~3.100 km"]
+        T1["Canon + Garub + D707<br/>+ kokerbooms"] --> T2["A cambio: ritmo mas vivo<br/>1 noche por parada salvo<br/>Sesriem, costa y Etosha"]
+    end
+    style ELLOS fill:#4a4a4a,color:#fff
+    style TU fill:#2d6a4f,color:#fff
+```
+
+Su ruta: Windhoek → **2 noches en el paso de Spreetshoogte** → **3 días en Sossusvlei** → 2 en
+Walvis Bay → Cape Cross → **noche en Terrace Bay** (dentro de Skeleton Coast) → Damaraland (Hoada) →
+**3 días de Etosha durmiendo en Onguma** → Windhoek. **Cero sur**: Fish River y Kolmanskop los
+dejan explícitamente «para otro viaje». Es la demostración práctica de nuestra aritmética: sin el
+sur, sobran días para dormir dos veces en cada sitio.
+
+**Lo que vale la pena robarle para la D:**
+- 🦁 **Onguma para la última noche de Etosha** *(tu pin)*: reserva privada pegada a la puerta de
+  Von Lindequist — justo por donde sales el D13. Safari de reserva privada la última tarde y
+  acortas la vuelta. ⚠️ Precio sin verificar; puede ser gama alta.
+- ⛺ **Hoada Campsite** (Damaraland, zona Grootberg/Kamanjab): lo describen como su campamento más
+  bonito del viaje. Encaja **solo** en la variante del D10 con Twyfelfontein. ⚠️ Sin verificar.
+- 🏜️ **Sossus Oasis como plan B de Sesriem**: si las 44 parcelas de dentro están llenas, es la
+  opción en la puerta — **perdiendo la hora de ventaja del amanecer**, que es el motivo de dormir
+  dentro. Su propio blog lo confirma: la entrada anticipada exige el camping público de dentro.
+- 🌊 **Noche en Terrace Bay** (Skeleton Coast, abierto todo el año con reserva): sustituiría el día
+  de descanso del D8 por un fondo de saco de ~240 km ida y vuelta a 60 km/h. **Posible pero caro en
+  energía**: es cambiar descanso por épica. Solo si la costa os tira mucho.
+
+**Donde nuestra D es más fuerte para vosotros:** ellos renuncian a **todo** lo que tú decidiste
+mantener (el cañón) y a Kolmanskop sin haberlo elegido — simplemente no cabía. Y su señal de
+fiabilidad es buena: su consejo de Sesriem coincide con nuestro dato verificado de la puerta
+interior. ⚠️ Sus precios (Spreetshoogte 150–300 ZAR/persona) son de la fecha del post, sin
+verificar: no los uses para presupuestar.
+
+### 🔑 El coche en tu ventana: NO todas las compañías cambian el 15 de noviembre
+
+```mermaid
+flowchart LR
+    V["Tu ventana<br/>1-15 nov"] --> A["ASCO<br/>baja el 15 NOV<br/>ventana entera en ALTA<br/>13d + Super Cover<br/>€2.652 (~N$53.040)"]
+    V --> N["NAMIBIA2GO<br/>baja el 1 NOV<br/>ventana entera en BAJA<br/>13d x N$2.700<br/>N$35.100 (~€1.755)"]
+    A --> R["Diferencia:<br/>~€900 (~N$18.000)"]
+    N --> R
+    style A fill:#e85d04,color:#000
+    style N fill:#2d6a4f,color:#fff
+    style R fill:#2d6a4f,color:#fff
+```
+
+Cada compañía tiene su propio calendario, y **tu quincena cae en lados opuestos según cuál elijas**:
+
+- **Asco** — temporada alta hasta el **14 de noviembre** ✅. Tu ventana entera va en banda alta:
+  13 días + Super Cover = **€2.652 (~N$53.040)**.
+- **Namibia2Go** — su temporada alta acaba el **31 de octubre** ✅: **tu ventana entera cae en SU
+  temporada baja**. Doble cabina equipado: **N$2.700/día (~€135)** → 13 días = **N$35.100
+  (~€1.755)**. Y su tarifa **incluye franquicia cero, cobertura de neumáticos y cristales, y km
+  ilimitados** ◐ *(confianza media: confirmar al reservar; la franquicia cero decae con
+  «negligencia probada» y excluye daños por agua)*.
+- **Savanna** — sus temporadas **no están verificadas** (sus tarifas cayeron 0–3 en verificación).
+
+> ### 👉 La conclusión que importa
+> **Eligiendo Namibia2Go, tu ventana 1–15 de noviembre captura el precio de temporada baja que
+> con Asco parecía perdido** — recuperas ~€900 de los ~€806 que costaba no poder viajar tras el
+> 15. Pide presupuesto a los dos con tus fechas exactas y compara el detalle del seguro.
+
+### 💰 Coste orientativo de D *(ventana 1–15 nov)*
+- **Alquiler 13 días**: **Asco €2.652 (~N$53.040)** ✅ con Super Cover · **Namibia2Go ~N$35.100
+  (~€1.755)** ✅ con su seguro incluido ◐
 - **Camping NWR verificado**: Hobas 960 + Sesriem 2×1.340 + Etosha 3×920 = **N$6.400 (~€320)** ✅
 - **Tasas de parque**: cañón 1–2 + Namib 2 + Etosha 3 unidades ≈ **N$3.700–4.300 (~€185–215)** ◐
 - **Combustible ~3.100 km**: ~370–400 l ≈ **N$9.500–10.500 (~€475–525)** ○
 - **Visado**: N$3.200 (~€160) los dos ✅
-- **Total tierra en camping ≈ €4.400 (~N$88.000)** la pareja ○ *(recalculado desde `10` con el
-  coche en banda alta; hereda sus partidas estimadas)*
+- **Total tierra en camping ≈ €3.500–4.400 (~N$70.000–88.000)** la pareja ○ — el rango es la
+  elección de compañía de coche *(recalculado desde `10`; hereda sus partidas estimadas)*
 
 ---
 
