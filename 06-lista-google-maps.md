@@ -29,8 +29,8 @@ flowchart TD
 **Los extremos son direcciones opuestas desde Windhoek.** No hay circuito que los una en dos
 semanas: cada uno es un viaje en sí mismo.
 
-**Decisiones ya tomadas que recortan el mapa:**
-- ✅ **El sur se queda** → suroeste dentro
+**Decisiones ya tomadas que recortan el mapa** *(actualizado 17/07 — la última manda)*:
+- ❌ **El sur se quitó entero** (decisión final): la ruta es la **Variante E**, la clásica del norte
 - ❌ **No se cruza a Sudáfrica** → sureste fuera
 
 Esto **no** es una crítica a la lista — es una lista excelente de Namibia. Es una **lista de deseos
