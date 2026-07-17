@@ -70,9 +70,98 @@ flowchart LR
     style H fill:#e85d04,color:#000
 ```
 
-> ⚠️ **Lo que aún NO sabemos:** si las lluvias, el calor y la caída de avistamientos en Etosha
-> se comen esa ventaja. Ese precipicio de precio existe **precisamente porque las condiciones
-> cambian** esa semana. Tenemos la mitad económica del asunto y todavía no la ambiental.
+> ⚠️ **Lo que aún NO sabemos:** el calor (todas las temperaturas de webs de safaris fueron
+> refutadas), la malaria en Etosha, y si la lluvia degrada de verdad los avistamientos — nadie lo
+> cuantifica. Ese precipicio de precio existe **precisamente porque las condiciones cambian**
+> esa semana.
+
+---
+
+## 🌧️ Cuándo empezó de verdad la temporada de lluvias, año a año
+
+**Las medias mienten.** El Atlas de Namibia avisa de que la lluvia es *"erratic"*, con *"a high
+degree of variation"*. La media de noviembre en Etosha (~25 mm) esconde años en que no llovió una
+gota hasta enero. Así que fuimos a los **datos observados** de las últimas 5 temporadas.
+
+> ⚠️ **No existe pluviómetro dentro de Etosha.** Lo mejor disponible es la **caja CHIRPS**
+> (satélite + estación, 0,05°) centrada en Okaukuejo y Namutoni, más datos reales del **Servicio
+> Meteorológico de Namibia**. No es un pluviómetro del parque: es lo que hay.
+
+### El inicio real en Okaukuejo y Namutoni
+
+```mermaid
+timeline
+    title Inicio efectivo de las lluvias en Etosha (criterio FEWS NET, caja CHIRPS)
+    2021/22 : Okaukuejo 11-20 ENERO 2022
+            : Namutoni 11-20 enero 2022
+            : Oct y nov practicamente secos
+    2022/23 : Okaukuejo 11-20 ENERO 2023
+            : Namutoni 11-20 enero 2023
+            : FEWS NET: mas de 40 dias tarde
+    2023/24 : Okaukuejo NUNCA llego el criterio
+            : Namutoni 1-10 enero 2024
+            : Sequia de El Nino - emergencia nacional
+    2024/25 : Namutoni NOVIEMBRE 2024 (49,5 mm)
+            : Octubre seco en casi todo el pais
+            : Arranco tarde pero luego llovio bien
+    2025/26 : Okaukuejo 11-20 DICIEMBRE 2025
+            : La UNICA adelantada: hasta 30 dias antes
+            : Segundo oct-dic mas lluvioso desde 1981
+```
+
+### Lluvia de noviembre en Okaukuejo, año a año
+
+```mermaid
+xychart-beta
+    title "Okaukuejo · lluvia de NOVIEMBRE en mm · caja CHIRPS"
+    x-axis ["nov 2021", "nov 2022", "nov 2023", "nov 2025"]
+    y-axis "mm" 0 --> 35
+    bar [9.2, 11.6, 29.2, 18.3]
+```
+
+### 🎯 El titular: en 4 de las últimas 5 temporadas, en noviembre aún no había empezado
+
+- **2021/22** — Okaukuejo: oct **0,0** mm · nov **9,2** mm · dic 15,6 · ene 62,6. Inicio: **enero**.
+- **2022/23** — Okaukuejo: oct 7,0 · nov **11,6** · dic 19,7 · ene 72,4. Inicio: **enero**. FEWS NET
+  documentó **más de 40 días de retraso** en el norte de Namibia.
+- **2023/24** — Okaukuejo: oct **0,0** · nov 29,2 · dic 28,1. **El criterio de inicio no se cumplió
+  en toda la temporada.** Fue la sequía de El Niño: estado de emergencia el 22/05/2024. La prensa
+  namibia tituló *"First rains recorded for 2024"* el **6–7 de enero**.
+- **2024/25** — **Namutoni registró 49,5 mm en noviembre de 2024**, el único noviembre con lluvia
+  seria de los cinco. Octubre: sin lluvia en casi todo el país. FEWS NET: arrancó ≥30 días tarde,
+  pero luego llovió por encima de la media.
+- **2025/26** — **la excepción**: Okaukuejo arrancó el **11–20 de diciembre de 2025**, hasta **30
+  días antes** de lo normal. Octubre–diciembre de 2025 fue el **segundo periodo más lluvioso desde
+  1981**. Cierre de temporada: Grootfontein 828 mm (normal 521), Ondangwa 654 (normal 429).
+
+> ### 👉 Esto refuerza el veredicto, no lo debilita
+> El inicio efectivo en Etosha cayó en **enero** tres veces, **nunca** una, y en **diciembre** una.
+> Solo un noviembre (2024) tuvo lluvia de verdad. **Un viaje a finales de noviembre habría pillado
+> el parque seco en 4 de las últimas 5 temporadas.**
+
+### La dispersión es brutal — y esa es la otra lección
+
+En **la misma temporada 2021/22**, con estaciones SASSCAL reales:
+
+- **Waterberg** (202 km al SE de Okaukuejo): primera lluvia ≥10 mm el **20 de octubre de 2021**
+- **Khorixas** (166 km al SO, Damaraland): **20 de enero de 2022** — **tres meses más tarde**
+- **Kaoko Otavi** (257 km al NO): **10 de febrero de 2022**
+
+Y en 2025/26: Omatjenne **19 de octubre**, Mannheim **4 de noviembre**, Okashana **29 de enero**.
+**Más de tres meses de diferencia dentro de la misma temporada y del mismo país.**
+
+> **Conclusión honesta:** nadie puede decirte cuándo lloverá en noviembre de 2026. Lo que sí puedes
+> decir es que **la probabilidad juega a tu favor** — y que si llueve, será **local y disperso**,
+> no un monzón. Planifica Etosha **al principio** del recorrido por si acaso.
+
+**Fuentes:** [Atlas of Namibia](https://atlasofnamibia.online/chapter-3/rainfall-patterns) ·
+[SASSCAL WeatherNet](https://sasscalweathernet.org) · CHIRPS/FEWS NET ·
+Servicio Meteorológico de Namibia vía *The Namibian*
+
+⚠️ **Limitaciones:** la caja CHIRPS **no es** el pluviómetro de Okaukuejo (es satélite calibrado);
+la serie de 2024/25 en CHIRPS fue **refutada parcialmente** en verificación, por eso arriba se usa
+el dato real de estación de Namutoni; y GHCN-Daily **no tiene datos namibios de precipitación
+posteriores a julio de 2025**.
 
 ---
 
