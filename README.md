@@ -254,25 +254,96 @@ alquiler (1–14 nov, **13 días**) entra entero en la **temporada baja de Namib
 
 <div align="center">
 
+## 🩺 El seguro — IATI Estrella
+
+</div>
+
+> ### €226,04 la pareja · **€113,02 por persona** *(31/10 – 15/11)*
+
+### ✅ Las fechas ya llegan hasta el 15 — y costó €14,69
+
+La primera simulación iba del **31/10 al 14/11** y **se quedaba un día corta**: sales de Windhoek el
+14 a las 14:30, pero **despegas de Adís a las 00:05 del día 15** y aterrizas en A Coruña a las
+**16:10 del 15**. Eran **16 horas de vuelta sin seguro**, justo el tramo más largo y con más
+conexiones del viaje.
+
+- Estrella · 31/10 – 14/11 *(con hueco)* — €211,35
+- Estrella · **31/10 – 15/11** *(correcto)* — **€226,04** · **€113,02 p.p.**
+- **Coste de cerrar el hueco: +€14,69** *(+€7,35 por persona)*
+
+**Catorce euros y setenta céntimos por no volver a casa sin seguro.** *(Curiosidad: al Estándar el
+día extra le sale gratis — mismo precio con y sin él.)*
+
+### ✅ Cumple la condición de entrada
+
+Namibia **exige** seguro médico con **repatriación sanitaria**. El Estrella la lleva al **100 %** —
+requisito cumplido. *(Las tres modalidades de IATI la cubren, así que por el requisito legal
+cualquiera valdría.)*
+
+**Lo que sí compra el Estrella:** asistencia médica **ilimitada** *(Mochilero 1,5 M€ · Estándar
+1 M€)*, regreso anticipado por cierre de fronteras y 4.000 € de equipaje. *En un país donde no hay
+hospital cerca de Sesriem y la evacuación aérea es todo el argumento, «ilimitado» no es marketing.*
+
+### ⚠️ Búsqueda y salvamento: el top lo deja opcional… y el Mochilero lo incluye
+
+Curiosidad de la tabla que conviene mirar dos veces: **«Búsqueda y salvamento» viene INCLUIDO en el
+Mochilero (15.000 €) pero es OPCIONAL en el Estrella.**
+
+Y en **este** viaje importa: **Damaraland, el Namib y buena parte de la ruta no tienen cobertura
+móvil**. Es exactamente el escenario para el que existe esa garantía.
+
+> 👉 **Añádele la opción de búsqueda y salvamento al Estrella.** Si no, tienes el seguro más caro sin
+> una cobertura que sí trae el más barato.
+
+### 🔁 La franquicia de coche de alquiler te sobra
+
+El Estrella cubre **1.000 € de franquicia del coche**. Pero tu **Namibia2Go lleva Premium Insurance
+Cover = franquicia CERO**: **no hay franquicia que cubrir**. Es una garantía casi redundante en tu
+caso — no la cuentes como valor. *(Único resquicio: la franquicia cero de N2Go «decae con
+negligencia probada» — pero la negligencia suele estar excluida también en el seguro de viaje.)*
+
+### ❓ La pregunta que decide: ¿evacuación aérea DENTRO del país?
+
+La tabla dice **«Repatriación o transporte de enfermos: 100 %»**. **Repatriación** es traerte a
+España. Lo que este viaje necesita es lo otro: **que te saquen en avión de una pista remota hasta
+Windhoek**. Cerca de Sesriem **no hay hospital** *(Windhoek a ~320 km, Walvis Bay a ~270, ambos 4+ h
+de grava)*. **La tabla no lo aclara.**
+
+> 👉 **Pregúntaselo a IATI por escrito antes de contratar.** Es la cobertura que de verdad cambia
+> algo aquí.
+
+### Las tres, comparadas
+
+- IATI **Estándar** — €117,41 *(€58,70 p.p.)*
+- IATI **Mochilero** — €175,49 *(€87,75 p.p.)* · **incluye búsqueda y salvamento**
+- 🏆 IATI **Estrella** — **€226,04** *(€113,02 p.p.)* · **médica ilimitada** · *búsqueda y salvamento opcional*
+
+*Estrella vs Mochilero: **+€50,55** (+€25,27 por persona).*
+
+
+---
+
+<div align="center">
+
 ## 💶 El presupuesto — por persona, partida a partida
 
 </div>
 
-> # ~€3.190 por persona · todo incluido
-> ### Rango honesto: **€3.050–3.340**. El **78 %** ya está cerrado.
+> # ~€3.306 por persona · todo incluido
+> ### Rango honesto: **€3.150–3.450**. El **79 %** ya está cerrado.
 
-**Incluye:** vuelo · coche con seguro · combustible · tasas de parque · visado · las 13 noches ·
-comida · actividades · imprevistos. **No queda nada fuera** salvo lo que compres allí por gusto.
+**Incluye:** vuelo · coche · **seguro de viaje** · combustible · tasas de parque · visado · las 13
+noches · comida · actividades · imprevistos. **No queda nada fuera** salvo lo que compres allí por gusto.
 
 ```mermaid
 xychart-beta
     title "Por persona · desglose en EUR · camping"
-    x-axis ["Vuelo", "Coche", "Alojamiento", "Combustible", "Comida", "Tasas", "Visado", "Misc+Activ"]
+    x-axis ["Vuelo", "Coche", "Alojamiento", "Combustible", "Comida", "Tasas", "Seguro", "Visado", "Misc+Activ"]
     y-axis "EUR" 0 --> 1500
-    bar [1366, 900, 285, 200, 140, 109, 80, 113]
+    bar [1366, 900, 285, 200, 140, 109, 113, 80, 113]
 ```
 
-*Vuelo y coche son el **71 %** del viaje. Todo lo demás junto son ~€925.*
+*Vuelo y coche son el **69 %** del viaje. Todo lo demás junto son ~€1.030.*
 
 ### 👤 El desglose, por persona
 
@@ -284,12 +355,13 @@ xychart-beta
 - ⛽ **Combustible** — **~€200** ○ *· mitad de ~€400 · ~2.600 km*
 - 🍖 **Comida** — **~€140** ○ *· supermercado y braai*
 - 🎫 **Tasas de parque** — **~€109** ◐ *· mitad de ~€217 · 7 unidades de 24 h*
+- 🩺 **Seguro** — **€113,02** ✅ *· IATI Estrella, 31/10–15/11*
 - 🛂 **Visado** — **€80** ✅ *· e-visa, N$1.600*
 - 🎯 **Actividades** — **~€38** ○ *· lanzadera Deadvlei + una*
 - 🧷 **Misceláneos** — **~€75** ○ *· SIM, propinas, imprevistos*
 
-> ### **TOTAL POR PERSONA: ~€3.190** *(~N$64.000)*
-> ### **TOTAL LA PAREJA: ~€6.384** *(~N$128.000)*
+> ### **TOTAL POR PERSONA: ~€3.306** *(~N$66.000)*
+> ### **TOTAL LA PAREJA: ~€6.612** *(~N$132.000)*
 
 ### 🚙 El coche: **€1.800 cerrados y disponibles**
 
@@ -356,8 +428,8 @@ de la charca iluminada.
 
 ### 🔬 Qué parte de este número es sólida
 
-- **✅ Duro — €2.505 de los €3.190 (78 %)**: vuelo €1.366 · coche €900 · 6 noches NWR €159 ·
-  visado €80
+- **✅ Duro — €2.618 de los €3.306 (79 %)**: vuelo €1.366 · coche €900 · 6 noches NWR €159 ·
+  seguro €113 · visado €80
 - **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto está en fuente secundaria; el
   ministerio aún publica la tabla vieja. **Confírmalo por email.**
 - **○ Estimado — ~€578 p.p.**: 7 noches sin precio (~€126), combustible (~€200), comida (~€140),
