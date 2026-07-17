@@ -1,0 +1,693 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Namibia 2026 · El gran roadtrip del norte</title>
+<meta name="description" content="Namibia 2026: roadtrip del norte, 14 dias dia a dia, ~3.306 EUR por persona. Investigacion verificada contra fuentes primarias.">
+<meta property="og:title" content="Namibia 2026 · El gran roadtrip del norte">
+<meta property="og:description" content="14 dias dia a dia, ~3.306 EUR por persona todo incluido. Vuelo, coche y seguro cerrados.">
+<meta property="og:type" content="article">
+<style>*,*::before,*::after{box-sizing:border-box}body{margin:0}img{max-width:100%}</style>
+</head>
+<body>
+
+<style>
+  :root {
+    --basalto: #16130F;
+    --hueso:   #E4E4DE;
+    --oxido:   #C2542F;
+
+    --ground:    var(--hueso);
+    --surface:   #EDEDE8;
+    --sunken:    #DAD9D2;
+    --ink:       var(--basalto);
+    --ink-soft:  #56514A;
+    --ink-faint: #7D776E;
+    --rule:      #C6C4BB;
+    --accent:    var(--oxido);
+
+    --ok:       #5F7043;
+    --ok-bg:    #E2E7D8;
+    --no:       #A32E28;
+    --no-bg:    #F2DCDA;
+    --dunno:    #8A6210;
+    --dunno-bg: #F1E5C9;
+
+    --mono: ui-monospace, "SF Mono", SFMono-Regular, "Cascadia Mono", Menlo, Consolas, monospace;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+    --step--1: clamp(.75rem, .72rem + .1vw, .8rem);
+    --step-0:  clamp(1rem, .96rem + .18vw, 1.09rem);
+    --step-1:  clamp(1.2rem, 1.1rem + .4vw, 1.42rem);
+    --step-2:  clamp(1.5rem, 1.3rem + .8vw, 2rem);
+    --step-3:  clamp(2.1rem, 1.6rem + 2vw, 3.4rem);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground: var(--basalto); --surface: #1E1A16; --sunken: #100E0B;
+      --ink: var(--hueso); --ink-soft: #A8A196; --ink-faint: #7C766C;
+      --rule: #332E27; --accent: #E06B40;
+      --ok: #9CB173; --ok-bg: #23291A;
+      --no: #E0645C; --no-bg: #2E1715;
+      --dunno: #DBA53C; --dunno-bg: #2C2210;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground: var(--basalto); --surface: #1E1A16; --sunken: #100E0B;
+    --ink: var(--hueso); --ink-soft: #A8A196; --ink-faint: #7C766C;
+    --rule: #332E27; --accent: #E06B40;
+    --ok: #9CB173; --ok-bg: #23291A;
+    --no: #E0645C; --no-bg: #2E1715;
+    --dunno: #DBA53C; --dunno-bg: #2C2210;
+  }
+  :root[data-theme="light"] {
+    --ground: var(--hueso); --surface: #EDEDE8; --sunken: #DAD9D2;
+    --ink: var(--basalto); --ink-soft: #56514A; --ink-faint: #7D776E;
+    --rule: #C6C4BB; --accent: var(--oxido);
+    --ok: #5F7043; --ok-bg: #E2E7D8;
+    --no: #A32E28; --no-bg: #F2DCDA;
+    --dunno: #8A6210; --dunno-bg: #F1E5C9;
+  }
+
+  body {
+    background: var(--ground); color: var(--ink);
+    font-family: var(--sans); font-size: var(--step-0); line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 74ch; margin-inline: auto; padding: 0 1.5rem 6rem;
+    display: flex; flex-direction: column; gap: 3.5rem;
+  }
+  .wrap > section, .wrap > header, .wrap > footer { display: flex; flex-direction: column; gap: 1rem; }
+
+  .eyebrow {
+    font-family: var(--mono); font-size: var(--step--1);
+    text-transform: uppercase; letter-spacing: .14em; color: var(--accent);
+  }
+  h1, h2, h3 { font-family: var(--mono); text-wrap: balance; line-height: 1.12; letter-spacing: -.02em; }
+  h1 { font-size: var(--step-3); font-weight: 700; }
+  h2 { font-size: var(--step-2); font-weight: 700; }
+  h3 { font-size: var(--step-1); font-weight: 600; }
+  p { text-wrap: pretty; }
+  strong { font-weight: 650; }
+
+  .masthead { padding: 4.5rem 0 1.75rem; border-bottom: 3px solid var(--accent); }
+  .masthead .sub { color: var(--ink); font-size: var(--step-1); max-width: 56ch; }
+  .masthead .sub2 { color: var(--ink-soft); max-width: 58ch; }
+  .meta {
+    font-family: var(--mono); font-size: var(--step--1); color: var(--ink-faint);
+    display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; margin-top: .5rem;
+  }
+
+  .chip {
+    font-family: var(--mono); font-size: var(--step--1); font-weight: 600;
+    text-transform: uppercase; letter-spacing: .08em;
+    padding: .18em .6em; border-radius: 2px; white-space: nowrap; display: inline-block;
+  }
+  .chip.ok    { background: var(--ok-bg);    color: var(--ok);    border: 1px solid var(--ok); }
+  .chip.no    { background: var(--no-bg);    color: var(--no);    border: 1px solid var(--no); }
+  .chip.dunno { background: var(--dunno-bg); color: var(--dunno); border: 1px solid var(--dunno); }
+
+  .claim {
+    background: var(--surface); border: 1px solid var(--rule); border-left-width: 4px;
+    padding: 1.1rem 1.25rem; display: flex; flex-direction: column; gap: .6rem;
+  }
+  .claim.ok    { border-left-color: var(--ok); }
+  .claim.no    { border-left-color: var(--no); }
+  .claim.dunno { border-left-color: var(--dunno); }
+  .claim.hero  { border-left-color: var(--accent); }
+  .claim-head { display: flex; align-items: center; gap: .7rem; flex-wrap: wrap; }
+  .claim-head h3 { font-size: var(--step-0); margin: 0; }
+  .claim p { margin: 0; font-size: var(--step--1); line-height: 1.6; color: var(--ink-soft); }
+  .claim p.lead { color: var(--ink); font-size: var(--step-0); }
+
+  .verdict {
+    background: var(--sunken); border: 1px solid var(--accent); border-top: 5px solid var(--accent);
+    padding: 2rem 1.5rem; display: flex; flex-direction: column; gap: 1rem;
+  }
+  .verdict .big { font-family: var(--mono); font-size: var(--step-2); font-weight: 700; line-height: 1.25; text-wrap: balance; }
+
+  .moment {
+    display: flex; gap: .9rem; align-items: baseline;
+    padding: .85rem 0; border-bottom: 1px solid var(--rule);
+  }
+  .moment .n {
+    font-family: var(--mono); font-weight: 700; color: var(--accent);
+    font-size: var(--step-1); min-width: 2ch; font-variant-numeric: tabular-nums;
+  }
+  .moment .t { display: flex; flex-direction: column; gap: .15rem; }
+  .moment .t b { font-size: var(--step-0); }
+  .moment .t span { font-size: var(--step--1); color: var(--ink-soft); }
+
+  figure {
+    background: var(--surface); border: 1px solid var(--rule);
+    padding: 1rem; overflow-x: auto; margin: 0;
+  }
+  figcaption {
+    font-family: var(--mono); font-size: var(--step--1); color: var(--ink-faint);
+    margin-top: .75rem; padding-top: .75rem; border-top: 1px solid var(--rule);
+  }
+  .mermaid { background: transparent; }
+
+  .rows { display: flex; flex-direction: column; gap: 0; border-top: 1px solid var(--rule); }
+  .row {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 1rem;
+    padding: .6rem 0; border-bottom: 1px solid var(--rule); font-size: var(--step--1);
+  }
+  .row .k { color: var(--ink-soft); }
+  .row .v { font-family: var(--mono); font-variant-numeric: tabular-nums; font-weight: 600; text-align: right; white-space: nowrap; }
+  .row .v em { font-style: normal; color: var(--ink-faint); font-weight: 400; }
+
+  .days { display: flex; flex-direction: column; gap: 0; border-top: 1px solid var(--rule); }
+  .day {
+    display: flex; gap: 1rem; align-items: baseline;
+    padding: .7rem 0; border-bottom: 1px solid var(--rule);
+  }
+  .day .d {
+    font-family: var(--mono); font-weight: 700; color: var(--accent);
+    font-size: var(--step--1); min-width: 3.5ch; letter-spacing: .04em;
+  }
+  .day .c { display: flex; flex-direction: column; gap: .1rem; }
+  .day .c b { font-size: var(--step--1); }
+  .day .c span { font-size: var(--step--1); color: var(--ink-soft); }
+  .day .km {
+    font-family: var(--mono); font-size: var(--step--1); color: var(--ink-faint);
+    margin-left: auto; white-space: nowrap; font-variant-numeric: tabular-nums;
+  }
+
+  ul { padding-left: 1.1rem; display: flex; flex-direction: column; gap: .45rem; }
+  li { padding-left: .2rem; }
+
+  a { color: var(--accent); text-underline-offset: 2px; }
+  a:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+
+  details { border-top: 1px solid var(--rule); padding-top: .75rem; }
+  summary {
+    cursor: pointer; font-family: var(--mono); font-size: var(--step--1);
+    text-transform: uppercase; letter-spacing: .08em; color: var(--ink-faint);
+  }
+  details[open] summary { color: var(--accent); margin-bottom: .75rem; }
+  .srcs { display: flex; flex-direction: column; gap: .35rem; font-family: var(--mono); font-size: var(--step--1); word-break: break-all; }
+
+  .quote { border-left: 2px solid var(--accent); padding-left: 1rem; color: var(--ink-soft); font-style: italic; }
+
+  .alarm {
+    background: var(--no-bg); border: 1px solid var(--no); border-left: 4px solid var(--no);
+    padding: 1.1rem 1.25rem; display: flex; flex-direction: column; gap: .6rem;
+  }
+  .alarm h3 { color: var(--no); font-size: var(--step-1); margin: 0; }
+  .alarm p { margin: 0; font-size: var(--step--1); }
+
+  footer { border-top: 3px solid var(--accent); padding-top: 1.5rem; font-family: var(--mono); font-size: var(--step--1); color: var(--ink-faint); }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .claim, .verdict, .alarm, .moment, .day { animation: rise .5s ease-out backwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } }
+  }
+</style>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="eyebrow">Roadtrip · Safari · Desierto — investigación verificada</div>
+    <h1>Namibia 2026</h1>
+    <p class="sub">Las dunas más altas del mundo al amanecer. La Costa de los Esqueletos. Cuatro noches durmiendo dentro de Etosha, con rinocerontes bebiendo a diez metros.</p>
+    <p class="sub2">Dos personas, un 4x4 con tienda de techo, 14 días — <strong>primera quincena de noviembre</strong> — con cada precio y cada regla verificados contra su fuente primaria.</p>
+    <div class="meta">
+      <span>17·07·2026</span>
+      <span>~2.600 km</span>
+      <span><strong>~€3.306 p.p. todo incluido</strong></span>
+      <span>rango €3.150–3.450</span>
+      <span>vuelo y coche cerrados</span>
+      <span>~N$20 = €1</span>
+    </div>
+  </header>
+
+  <section>
+    <div class="eyebrow">00 · Acción urgente</div>
+    <h2>Reserva la Budget hoy</h2>
+
+    <div class="claim hero">
+      <div class="claim-head"><span class="chip ok">Resuelto</span><h3>La Comfort no está libre — la Budget sí, y es €200 más barata</h3></div>
+      <div class="rows">
+        <div class="row"><span class="k">🚙 <strong>COMFORT</strong> · €166,67/día</span><span class="v"><strong>€2.000</strong> <em>❌ «Not Available — Contact Us»</em></span></div>
+        <div class="row"><span class="k">🚙 <strong>BUDGET</strong> · €150,00/día</span><span class="v"><strong>€1.800</strong> <em>✅ «Rent this Car»</em></span></div>
+      </div>
+      <p class="lead"><strong>Cógela.</strong> El coche es el cuello de botella del viaje entero, y tienes una disponible <strong>y más barata</strong>. <strong>No dejes que lo perfecto te quite lo disponible</strong>: si la Budget también se va, te quedas sin ruta.</p>
+      <p><em>Si te apetece, escribe a Namibia2Go en paralelo preguntando si el «Contact Us» de la Comfort es falta de coches o simplemente que el año tarifario 2026/27 aún no está abierto a venta online. Pero <strong>reserva primero, pregunta después</strong>.</em></p>
+      <p>📞 <strong>+264 61 427 220</strong> · <a href="https://namibia2go.com">namibia2go.com</a></p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Lo que pierdes</span><h3>Solo dos cosas — y ninguna afecta al coche</h3></div>
+      <div class="rows">
+        <div class="row"><span class="k">⛺ Tiendas</span><span class="v">2 Tentco <strong>de lona</strong><br/><em>(la Comfort: carcasa rígida)</em></span></div>
+        <div class="row"><span class="k">🍳 Cocina</span><span class="v"><strong>cajas de camping</strong><br/><em>(la Comfort: compartimentos a medida)</em></span></div>
+      </div>
+      <p class="lead"><strong>Todo lo demás es idéntico</strong>: el mismo Toyota Hilux Double Cab <strong>2.8L GD-6 turbodiésel</strong>, automático, 4x4 permanente, <strong>km ilimitados</strong>, <strong>Premium Insurance Cover</strong> (franquicia cero), <strong>2 ruedas de repuesto</strong> y nevera eléctrica.</p>
+      <p>La diferencia real: la lona tarda ~5 minutos en montarse en vez de ~1, y aguanta algo peor el polvo y el viento. Son <strong>~€18 por noche de tienda</strong> de sobrecoste la Comfort. <strong>Con la Budget ahorras €100 por persona</strong> — y sigues durmiendo arriba las 11 noches.</p>
+      <p>🎥 <em>Al ver el <a href="https://www.youtube.com/watch?v=LPNZ-l8y3Pg">vídeo del Hilux</a>: si las tiendas del techo son de <strong>lona plegada</strong>, ése es exactamente tu coche.</em></p>
+    </div>
+
+    <div class="claim no">
+      <div class="claim-head"><span class="chip no">Orden</span><h3>El coche antes que los vuelos</h3></div>
+      <p class="lead">El vuelo de €1.366 p.p. (31 oct–14 nov) es <strong>de referencia</strong>, no emitido. <strong>Confirma el coche primero.</strong> Este dossier lleva desde el primer día diciéndolo, y el «Not Available» de la Comfort es justo la razón: <strong>una ruta sin coche no es una ruta</strong>.</p>
+    </div>
+  </section>
+
+  <section class="verdict">
+    <div class="eyebrow">01 · La ruta</div>
+    <p class="big">La clásica del norte, a ritmo lento: desierto → costa → Damaraland → Etosha.</p>
+    <p><strong>~2.600 km en 13 días de coche, y ningún día por encima de ~390 km.</strong> Dos noches en Sesriem, dos en la costa y <strong>cuatro dentro de Etosha</strong>. El circuito que lo quería todo pedía 16–18 días; este respira.</p>
+    <p><strong>El sur queda para otro viaje</strong> — está medido y documentado en el dossier, pero fuera de esta ruta.</p>
+  </section>
+
+  <section>
+    <div class="eyebrow">02 · El plan</div>
+    <h2>Catorce días que respiran</h2>
+
+    <figure>
+      <pre class="mermaid">
+flowchart LR
+    W["WINDHOEK<br/>D1"] --> SP["SPREETSHOOGTE<br/>D2"]
+    SP --> SE["SESRIEM x2<br/>D3-D4"]
+    SE --> WB["WALVIS BAY x2<br/>D5-D6"]
+    WB --> SK["TERRACE BAY<br/>D7"]
+    SK --> DA["DAMARALAND<br/>D8"]
+    DA --> ET["ETOSHA x4<br/>D9-D12"]
+    ET --> W2["WINDHOEK<br/>D13-D14"]
+    style SE fill:#C2542F,color:#fff
+    style SK fill:#C2542F,color:#fff
+    style ET fill:#C2542F,color:#fff
+      </pre>
+      <figcaption>Tiempos calculados a 80 km/h en grava y 60 en parques — nunca los de Google Maps, que asumen velocidades que anulan el seguro.</figcaption>
+    </figure>
+
+    <div class="days">
+      <div class="day"><span class="d">D1</span><div class="c"><b>Llegada a Windhoek</b><span>4x4 y briefing, efectivo, SIM de MTC · Joe's Beerhouse</span></div><span class="km">—</span></div>
+      <div class="day"><span class="d">D2</span><div class="c"><b>Paso de Spreetshoogte</b><span>Atardecer desde el mirador, el Namib mil metros abajo</span></div><span class="km">~190 km · 3h30</span></div>
+      <div class="day"><span class="d">D3</span><div class="c"><b>Solitaire → Sesriem</b><span>Tarta y depósito lleno · Sesriem Canyon y Elim Dune · <strong>se duerme DENTRO</strong></span></div><span class="km">~160 km · 3h</span></div>
+      <div class="day"><span class="d">D4</span><div class="c"><b>Deadvlei al amanecer</b><span>Puerta interior 1 h antes · Big Daddy · Hidden Vlei · Duna 45</span></div><span class="km">130 km · día</span></div>
+      <div class="day"><span class="d">D5</span><div class="c"><b>Sesriem → Walvis Bay</b><span>C14 por los pasos de Gaub y Kuiseb · repostar en Solitaire</span></div><span class="km">~270 km · 5h30</span></div>
+      <div class="day"><span class="d">D6</span><div class="c"><b>Flamencos y descanso</b><span>La laguna al amanecer · ostras · Sandwich Harbour en tour opcional</span></div><span class="km">libre</span></div>
+      <div class="day"><span class="d">D7</span><div class="c"><b>Cape Cross → Terrace Bay</b><span>⏰ <strong>Ugabmund cierra la entrada a las 15:00</strong> · reserva obligatoria</span></div><span class="km">~390 km</span></div>
+      <div class="day"><span class="d">D8</span><div class="c"><b>Twyfelfontein → Hoada</b><span>Salida por Springbokwasser · grabados UNESCO · el campamento entre peñas</span></div><span class="km">~300 km · 5h</span></div>
+      <div class="day"><span class="d">D9</span><div class="c"><b>Hoada → Okaukuejo</b><span>Puerta de Andersson · <strong>charca iluminada de noche</strong></span></div><span class="km">~315 km · 4h</span></div>
+      <div class="day"><span class="d">D10</span><div class="c"><b>Safari a Halali</b><span>🚧 Obras 2026: desvío lento — como es día de safari, apenas molesta</span></div><span class="km">~90 km lentos</span></div>
+      <div class="day"><span class="d">D11</span><div class="c"><b>Safari a Namutoni</b><span>Goas, Nuamses, Springbokfontein, Chudop — el corazón del safari</span></div><span class="km">~80 km lentos</span></div>
+      <div class="day"><span class="d">D12</span><div class="c"><b>Etosha este</b><span>Fischer's Pan y Klein Namutoni — la esquina que casi nadie hace</span></div><span class="km">~70 km lentos</span></div>
+      <div class="day"><span class="d">D13</span><div class="c"><b>Regreso a Windhoek</b><span>Von Lindequist → Tsumeb → B1 · Okonjima o Hoba opcionales</span></div><span class="km">~550 km · 6h</span></div>
+      <div class="day"><span class="d">D14</span><div class="c"><b>Vuelo</b><span>Gasta o cambia los N$ antes de embarcar</span></div><span class="km">—</span></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">03 · La decisión de orden</div>
+    <h2>¿Etosha al principio o al final?</h2>
+
+    <div class="claim hero">
+      <div class="claim-head"><span class="chip ok">Resuelto</span><h3>Al final — y no es intuición, son tres datos</h3></div>
+      <p class="lead"><strong>1 · El dinero.</strong> Si adelantáis la salida a finales de octubre, con el desierto primero <strong>todas las noches de NWR caen después del 1 de noviembre</strong> — tarifa baja. Etosha primero + salida en octubre = pagar la tarifa vieja <strong>y</strong> pillar el parque en su pico de calor.</p>
+      <p><strong>2 · El termómetro.</strong> Etosha se enfría según avanza noviembre: <strong>38,0 °C</strong> de media de máximas en octubre → <strong>37,1</strong> en noviembre → 35,4 en diciembre. Cada día que tardas en llegar, un poco más suave.</p>
+      <p><strong>3 · El rodaje.</strong> Los primeros días son asfalto y grava amable: llegas a Damaraland con oficio, y el safari es el clímax del viaje, no el aperitivo.</p>
+      <p><em>El contra, dicho honesto: el riesgo de primeras tormentas sube mínimamente hacia el día 15 — en 2 de las últimas 5 temporadas cayó algún chubasco suelto en la primera quincena, aislado, nunca la temporada asentada. Marginal frente a lo anterior.</em></p>
+    </div>
+
+    <figure>
+      <pre class="mermaid">
+xychart-beta
+    title "Etosha · media de maximas en C · se enfria hacia diciembre"
+    x-axis ["Octubre", "Noviembre", "Diciembre"]
+    y-axis "grados C" 34 --> 39
+    bar [38.0, 37.1, 35.4]
+      </pre>
+      <figcaption>Okaukuejo, cálculo propio sobre ficheros de observación diaria de NOAA GHCN-Daily. Las temperaturas de las webs de safaris fueron todas refutadas 0–3 y rehechas con datos de estación.</figcaption>
+    </figure>
+  </section>
+
+  <section>
+    <div class="eyebrow">04 · Los momentos</div>
+    <h2>Lo que hace grande este viaje</h2>
+
+    <div>
+      <div class="moment"><span class="n">01</span><div class="t">
+        <b>🌅 Deadvlei al amanecer, casi en solitario</b>
+        <span>La puerta interior de Sesriem abre <strong>1 hora antes</strong> que la exterior — solo para quien duerme dentro (<strong>N$1.340 · ~€67</strong> los dos). Árboles negros de 900 años, la duna encendiéndose, y los demás aún en la cola de la otra puerta. ✅</span>
+      </div></div>
+      <div class="moment"><span class="n">02</span><div class="t">
+        <b>🐘 Cuatro noches de safari, todas DENTRO del parque</b>
+        <span>Okaukuejo → Halali → Namutoni ×2, a <strong>N$920 (~€46)/noche</strong> los dos ✅. Sin horas de puerta, con las charcas iluminadas al lado y los amaneceres sin esperar a que abran.</span>
+      </div></div>
+      <div class="moment"><span class="n">03</span><div class="t">
+        <b>🦏 La charca iluminada de Okaukuejo</b>
+        <span>Rinocerontes negros, elefantes y jirafas bebiendo de noche con el parque cerrado y tú dentro. El capricho: el <strong>chalet del charco, N$4.760 (~€238)</strong> — en tu ventana, tarifa baja. ✅</span>
+      </div></div>
+      <div class="moment"><span class="n">04</span><div class="t">
+        <b>🏜️ Big Daddy y Hidden Vlei</b>
+        <span>Con dos noches en Sesriem hay día entero: la subida a la gran duna, la bajada corriendo hasta Deadvlei, el vlei escondido sin gente, y Duna 45 a la vuelta. ✅</span>
+      </div></div>
+      <div class="moment"><span class="n">05</span><div class="t">
+        <b>🌊 Dormir en la Costa de los Esqueletos</b>
+        <span>Noche en <strong>Terrace Bay</strong>, dentro del parque, con la niebla y el Atlántico rugiendo. Pocos lo hacen: exige reserva confirmada y entrar por Ugabmund antes de las 15:00. ✅</span>
+      </div></div>
+      <div class="moment"><span class="n">06</span><div class="t">
+        <b>🌇 El atardecer del paso de Spreetshoogte</b>
+        <span>El Namib mil metros bajo tus pies, en una de las carreteras más empinadas del país. La primera noche de desierto, a tres horas de Windhoek. ◐</span>
+      </div></div>
+      <div class="moment"><span class="n">07</span><div class="t">
+        <b>🦭 Cape Cross</b>
+        <span>Decenas de miles de lobos marinos, de camino por la C34 costera <em>(pañuelo para la nariz — en serio)</em>. ✅</span>
+      </div></div>
+      <div class="moment"><span class="n">08</span><div class="t">
+        <b>🪨 Twyfelfontein y la noche en Hoada</b>
+        <span>Los grabados rupestres UNESCO de Damaraland, y el campamento entre peñas de granito que la ruta de referencia llama el más bonito de su viaje. ◐</span>
+      </div></div>
+      <div class="moment"><span class="n">09</span><div class="t">
+        <b>🦩 Dos noches en Walvis Bay</b>
+        <span>Flamencos y pelícanos en la laguna con las mejores luces, ostras, y un día entero de descanso a mitad de viaje. Sandwich Harbour, en tour guiado <em>(con tu coche está prohibido por contrato)</em>. ✅</span>
+      </div></div>
+      <div class="moment"><span class="n">10</span><div class="t">
+        <b>🥧 La tarta de manzana de Solitaire — dos veces</b>
+        <span>La ruta pasa dos veces por la parada más famosa del desierto, y las dos se reposta: después hay <strong>210 km sin nada</strong>. ✅</span>
+      </div></div>
+    </div>
+    <p class="quote">La renuncia: el sur entero. Está medido y guardado en el dossier — para la próxima vez.</p>
+  </section>
+
+  <section>
+    <div class="eyebrow">05 · Tu ventana</div>
+    <h2>1–15 de noviembre: lo que significa</h2>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Lluvia</span><h3>La quincena más seca del rango</h3></div>
+      <p class="lead">En las últimas 5 temporadas, el inicio real de las lluvias en Etosha cayó en <strong>enero tres veces, diciembre una y noviembre una</strong> — y esa, en la segunda mitad del mes. <strong>Charcas llenas de fauna y cielos limpios</strong>, con datos de estación, no con folletos.</p>
+    </div>
+
+    <figure>
+      <pre class="mermaid">
+timeline
+    title Inicio efectivo de las lluvias en Etosha
+    2021/22 : ENERO 2022
+    2022/23 : ENERO 2023
+    2023/24 : NUNCA llego al criterio
+            : año de El Nino
+    2024/25 : NOVIEMBRE 2024
+            : el unico humedo
+    2025/26 : DICIEMBRE 2025
+            : la unica adelantada
+      </pre>
+      <figcaption>Caja CHIRPS sobre Okaukuejo más datos de estación del Servicio Meteorológico namibio. Las medias esconden años enteros sin una gota hasta enero: por eso miramos los años reales.</figcaption>
+    </figure>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Calor</span><h3>Etosha aprieta, el desierto y la costa acompañan</h3></div>
+      <p class="lead">El norte a <strong>~37 °C</strong> de máxima: el safari se hace al amanecer y al atardecer, con siesta y charca iluminada de noche — que es como se hace bien de todas formas. Sesriem ronda los <strong>34 °C</strong> ◐ y la costa va fresca (corriente de Benguela).</p>
+      <p>Noches de <strong>15–18 °C</strong>: forro polar, no plumas. El problema real de una tienda de techo en noviembre es la sombra del mediodía, no el frío.</p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Precio</span><h3>El 1 de noviembre, la frontera que juega a tu favor — dos veces</h3></div>
+      <p class="lead"><strong>NWR entra en tramo barato el 1 de noviembre</strong> (Sesriem, Terrace Bay, Etosha). <strong>Y Namibia2Go también.</strong> Empezando ese día, todo el alojamiento de la ruta va en tarifa baja.</p>
+      <p><strong>¿Adelantar días a octubre?</strong> Hasta <strong>2 días es gratis</strong>: las primeras noches (Windhoek, Spreetshoogte) no son NWR. Más allá, cada noche NWR de octubre paga la tarifa vieja.</p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">El coche</span><h3>NO todas las compañías cambian el 15 de noviembre</h3></div>
+      <p class="lead">Cada empresa tiene su calendario, y tu quincena cae en lados opuestos según cuál elijas:</p>
+      <div class="rows">
+        <div class="row"><span class="k"><strong>Asco</strong> · baja el 15 nov → tu ventana en ALTA</span><span class="v">13 días + Super Cover<br/><strong>€2.652</strong> <em>(~N$53.040)</em></span></div>
+        <div class="row"><span class="k"><strong>Namibia2Go</strong> · baja el 1 nov → tu ventana en BAJA</span><span class="v">13 días, seguro incl.<br/><strong>~N$35.100</strong> <em>(~€1.755)</em></span></div>
+      </div>
+      <p><strong>Diferencia: ~€900 (~N$18.000).</strong> Namibia2Go incluye franquicia cero, neumáticos, cristales y km ilimitados ◐ — pero la franquicia cero decae con «negligencia probada» y excluye daños por agua. 👉 <strong>Pide presupuesto a los dos</strong> con fechas exactas y compara la letra del seguro. Y pregunta a Namibia2Go, por escrito, cómo trata los <strong>bajos en Damaraland</strong>.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">06 · El vuelo</div>
+    <h2>Cerrado: €1.366 por persona</h2>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Presupuestado</span><h3>A Coruña → Windhoek, ida y vuelta, turista</h3></div>
+      <div class="rows">
+        <div class="row"><span class="k">Gotogate <em>· 4,7/5</em></span><span class="v"><strong>€1.366</strong> <em>(~N$27.300)</em></span></div>
+        <div class="row"><span class="k">Mytrip <em>· 4,1/5</em></span><span class="v">€1.390</span></div>
+        <div class="row"><span class="k">Booking.com <em>· 4,9/5</em></span><span class="v">€1.391</span></div>
+        <div class="row"><span class="k"><strong>La pareja</strong></span><span class="v"><strong>~€2.732</strong> <em>(~N$54.640)</em></span></div>
+      </div>
+      <p><strong>IDA · sáb 31 oct — 19h20, 2 escalas.</strong> La Coruña 17:00 → Madrid <em>(Air Europa)</em> · Madrid 21:25 → Adís Abeba 6:15 <em>(Ethiopian)</em> · Adís 8:35 → <strong>Windhoek 13:20 del 1 de noviembre</strong>.</p>
+      <p><strong>VUELTA · sáb 14 nov — 26h40, 3 escalas.</strong> Windhoek 14:30 → Adís 21:20 · Adís 0:05 → Roma 4:35 · Roma 8:10 → Madrid 10:45 <em>(ITA)</em> · Madrid 14:55 → La Coruña 16:10. <strong>La vuelta es dura</strong>: salida de madrugada de Adís y 4h10 de espera en Madrid.</p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Verificado</span><h3>🎉 Sin fiebre amarilla: las escalas en Adís son cortas</h3></div>
+      <p class="lead">La regla es <strong>&gt;12 h de tránsito</strong> por país de riesgo. Tus escalas: <strong>2h20 a la ida</strong> y <strong>2h45 a la vuelta</strong>, las dos <em>airside</em>. <strong>Muy por debajo del umbral — no hace falta la vacuna.</strong></p>
+      <p>Es el punto que llevaba semanas abierto y que se decidía justo al comprar el billete: este itinerario lo resuelve solo. Una escala larga en Adís, o la parada gratis en ciudad, sí la habrían disparado.</p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Encaje</span><h3>Las fechas caen clavadas en la ruta</h3></div>
+      <p class="lead">Aterrizas el <strong>1 de noviembre a las 13:20</strong> y despegas el <strong>14 a las 14:30</strong>: <strong>13 noches, 14 días</strong> — exactamente la Variante E, con D1 el 1 de noviembre y D14 el 14.</p>
+      <p><strong>Y el detalle que vale dinero:</strong> sales el 31 de octubre pero <strong>no duermes ni una noche en Namibia en octubre</strong>. Todas tus noches NWR caen en el tramo barato desde la primera, y el alquiler (1–14 nov, <strong>13 días</strong>) entra entero en la temporada baja de Namibia2Go. <strong>El calendario no podía salir mejor.</strong></p>
+    </div>
+
+    <div class="claim dunno">
+      <div class="claim-head"><span class="chip dunno">Confirma al reservar</span><h3>Dos cosas antes de pagar</h3></div>
+      <p class="lead"><strong>1 · Que sea billete único.</strong> La vuelta lleva <strong>tres compañías</strong> (Ethiopian + ITA + Air Europa). En un solo billete, una conexión perdida es problema de la aerolínea; en billetes separados, es tuyo.</p>
+      <p><strong>2 · Que incluya maleta facturada.</strong> Con tienda de techo y camping vas justo de equipaje, y el tramo de Air Europa podría tener franquicia distinta a la de Ethiopian.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">07 · El seguro</div>
+    <h2>IATI Estrella — €113,02 por persona</h2>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Corregido</span><h3>✅ Las fechas ya llegan hasta el 15 — y costó €14,69</h3></div>
+      <p class="lead">La primera simulación iba del <strong>31/10 al 14/11</strong> y <strong>se quedaba un día corta</strong>: sales de Windhoek el 14 a las 14:30, pero <strong>despegas de Adís a las 00:05 del día 15</strong> y aterrizas en A Coruña a las <strong>16:10 del 15</strong>. Eran <strong>16 horas de vuelta sin seguro</strong>, justo el tramo más largo y con más conexiones del viaje.</p>
+      <div class="rows">
+        <div class="row"><span class="k">Estrella · 31/10 – 14/11 <em>(con hueco)</em></span><span class="v">€211,35</span></div>
+        <div class="row"><span class="k">Estrella · <strong>31/10 – 15/11</strong> <em>(correcto)</em></span><span class="v"><strong>€226,04</strong> <em>· €113,02 p.p.</em></span></div>
+        <div class="row"><span class="k">Coste de cerrar el hueco</span><span class="v"><strong>+€14,69</strong> <em>· +€7,35 p.p.</em></span></div>
+      </div>
+      <p><strong>Catorce euros y setenta céntimos por no volver a casa sin seguro.</strong> <em>(Curiosidad: al Estándar el día extra le sale gratis — mismo precio con y sin él.)</em></p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Cumple</span><h3>La repatriación al 100 % — que es condición de entrada</h3></div>
+      <p class="lead">Namibia <strong>exige</strong> seguro médico que cubra <strong>la repatriación sanitaria</strong>. El Estrella la lleva al <strong>100 %</strong> ✅ — requisito cumplido. <em>(Las tres modalidades de IATI lo cubren, así que por el requisito legal cualquiera valdría.)</em></p>
+      <p><strong>Lo que sí compra el Estrella:</strong> asistencia médica <strong>ilimitada</strong> (el Mochilero da 1,5 M€ y el Estándar 1 M€), regreso anticipado por cierre de fronteras, y 4.000 € de equipaje. <em>En un país donde no hay hospital cerca de Sesriem y la evacuación aérea es todo el argumento, «ilimitado» no es marketing.</em></p>
+    </div>
+
+    <div class="claim dunno">
+      <div class="claim-head"><span class="chip dunno">Pregunta</span><h3>Búsqueda y salvamento: el top lo deja opcional… y el Mochilero lo incluye</h3></div>
+      <p class="lead">Curiosidad de la tabla que conviene mirar dos veces: <strong>«Búsqueda y salvamento» viene INCLUIDO en el Mochilero (15.000 €) pero es OPCIONAL en el Estrella.</strong></p>
+      <p>Y en <strong>este</strong> viaje importa: <strong>Damaraland, el Namib y buena parte de la ruta no tienen cobertura móvil</strong>. Es exactamente el escenario para el que existe esa garantía.</p>
+      <p>👉 <strong>Añádele la opción de búsqueda y salvamento al Estrella.</strong> Si no, tienes el seguro más caro sin una cobertura que sí trae el más barato.</p>
+    </div>
+
+    <div class="claim dunno">
+      <div class="claim-head"><span class="chip dunno">No lo cuentes dos veces</span><h3>La franquicia de coche de alquiler te sobra</h3></div>
+      <p class="lead">El Estrella cubre <strong>1.000 € de franquicia del coche de alquiler</strong>. Pero tu <strong>Namibia2Go lleva Premium Insurance Cover = franquicia CERO</strong>: <strong>no hay franquicia que cubrir</strong>.</p>
+      <p>Es una garantía casi redundante en tu caso. <em>Único resquicio: la franquicia cero de N2Go «decae con negligencia probada» — pero la negligencia suele estar excluida también en el seguro de viaje, así que no cuentes con ella como red.</em></p>
+    </div>
+
+    <div class="claim dunno">
+      <div class="claim-head"><span class="chip dunno">Confírmalo por escrito</span><h3>La pregunta que decide: ¿evacuación aérea DENTRO del país?</h3></div>
+      <p class="lead">La tabla dice <strong>«Repatriación o transporte de enfermos: 100 %»</strong>. <strong>Repatriación</strong> es traerte a España. Lo que este viaje necesita es lo otro: <strong>que te saquen en avión de una pista remota hasta Windhoek</strong>.</p>
+      <p>Cerca de Sesriem <strong>no hay hospital</strong> (Windhoek a ~320 km, Walvis Bay a ~270, ambos 4+ h de grava). <strong>La tabla no lo aclara.</strong> 👉 <strong>Pregúntaselo a IATI por escrito antes de contratar</strong> — es la cobertura que de verdad cambia algo aquí.</p>
+    </div>
+
+    <div class="rows">
+      <div class="row"><span class="k">IATI <strong>Estándar</strong></span><span class="v">€117,41 <em>· €58,70 p.p.</em></span></div>
+      <div class="row"><span class="k">IATI <strong>Mochilero</strong> <em>· incluye búsqueda y salvamento</em></span><span class="v">€175,49 <em>· €87,75 p.p.</em></span></div>
+      <div class="row"><span class="k">🏆 IATI <strong>Estrella</strong> <em>· médica ilimitada</em></span><span class="v"><strong>€226,04</strong> <em>· €113,02 p.p.</em></span></div>
+      <div class="row"><span class="k">Diferencia Estrella vs Mochilero</span><span class="v">+€50,55 <em>· +€25,27 p.p.</em></span></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">08 · El presupuesto</div>
+    <h2>Por persona, partida a partida</h2>
+
+    <div class="claim hero">
+      <div class="claim-head"><span class="chip ok">Cifra</span><h3>~€3.306 por persona · todo incluido</h3></div>
+      <p class="lead"><strong>Vuelo · coche con seguro · combustible · tasas · visado · las 13 noches · comida · actividades · imprevistos.</strong> No queda nada fuera salvo lo que compres allí por gusto.</p>
+      <p><strong>Rango honesto: €3.150–3.450 por persona.</strong> Ya no depende de qué compañía elijas — el coche está cerrado. Lo único que se mueve son las partidas estimadas.</p>
+    </div>
+
+    <figure>
+      <pre class="mermaid">
+xychart-beta
+    title "Por persona · desglose en EUR · camping"
+    x-axis ["Vuelo", "Coche", "Alojamiento", "Combustible", "Comida", "Tasas", "Seguro", "Visado", "Misc+Activ"]
+    y-axis "EUR" 0 --> 1500
+    bar [1366, 900, 285, 200, 140, 109, 113, 80, 113]
+      </pre>
+      <figcaption>Vuelo y coche son el 69 % del viaje por persona. Todo lo demás junto son ~€1.030.</figcaption>
+    </figure>
+
+    <h3>👤 El desglose, por persona</h3>
+    <div class="rows">
+      <div class="row"><span class="k">✈️ <strong>Vuelo</strong> · ida y vuelta LCG–WDH</span><span class="v"><strong>€1.366</strong> <em>✅ presupuestado</em></span></div>
+      <div class="row"><span class="k">🚙 <strong>Coche</strong> · mitad de €1.800 · 12 días · Budget</span><span class="v"><strong>€900</strong> <em>✅ disponible</em></span></div>
+      <div class="row"><span class="k">⛺ <strong>Alojamiento</strong> · mitad de ~€570 · 13 noches</span><span class="v"><strong>~€285</strong></span></div>
+      <div class="row"><span class="k"><em>— 6 noches NWR verificadas · N$3.180 p.p.</em></span><span class="v"><em>€159 ✅</em></span></div>
+      <div class="row"><span class="k"><em>— 5 campings sin precio + Terrace Bay + hotel D13</em></span><span class="v"><em>~€126 ○</em></span></div>
+      <div class="row"><span class="k">⛽ <strong>Combustible</strong> · mitad de ~€400</span><span class="v"><strong>~€200</strong> <em>○</em></span></div>
+      <div class="row"><span class="k">🍖 <strong>Comida</strong> · supermercado y braai · mitad de ~€280</span><span class="v"><strong>~€140</strong> <em>○</em></span></div>
+      <div class="row"><span class="k">🎫 <strong>Tasas de parque</strong> · mitad de ~€217 · 7 uds de 24 h</span><span class="v"><strong>~€109</strong> <em>◐</em></span></div>
+      <div class="row"><span class="k">🩺 <strong>Seguro</strong> · IATI Estrella · 31/10–15/11</span><span class="v"><strong>€113,02</strong> <em>✅ presupuestado</em></span></div>
+      <div class="row"><span class="k">🛂 <strong>Visado</strong> · e-visa · N$1.600</span><span class="v"><strong>€80</strong> <em>✅</em></span></div>
+      <div class="row"><span class="k">🎯 <strong>Actividades</strong> · lanzadera Deadvlei + una</span><span class="v"><strong>~€38</strong> <em>○</em></span></div>
+      <div class="row"><span class="k">🧷 <strong>Misceláneos</strong> · SIM, propinas, imprevistos</span><span class="v"><strong>~€75</strong> <em>○</em></span></div>
+      <div class="row"><span class="k"><strong>TOTAL POR PERSONA</strong></span><span class="v"><strong>~€3.306</strong> <em>(~N$66.000)</em></span></div>
+      <div class="row"><span class="k"><strong>TOTAL LA PAREJA</strong></span><span class="v"><strong>~€6.612</strong> <em>(~N$132.000)</em></span></div>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Cerrado</span><h3>El coche: €1.800 por 12 días — cerrado y disponible</h3></div>
+      <p class="lead"><strong>Namibia2Go 4x4 BUDGET camping equipped double cab</strong> — €150,00/día × 12 días (1–13 nov) = <strong>€1.800</strong> con impuestos, ✅ <strong>disponible</strong>. Automático, diésel, <strong>km ilimitados</strong> y <strong>Premium Insurance Cover</strong> (franquicia cero) incluidos.</p>
+      <p><em>La Comfort (€2.000, tiendas de carcasa rígida) sale «Not Available» para estas fechas — ver sección 00. La Budget es €200 más barata y el coche es el mismo.</em></p>
+      <p><strong>Y mi estimación se queda muy cerca:</strong> calculé €1.755 para la clase budget y el precio real es <strong>€1.800</strong> — un 2,5 % de diferencia. <strong>Se acabó el rango «N2Go vs Asco»</strong>: el coche es cifra cerrada y el presupuesto se estrecha de golpe.</p>
+      <p>⚠️ <strong>Ojo al calendario:</strong> el coche son <strong>12 días (1–13)</strong> pero tú estás <strong>13 noches (1–14)</strong>. La noche del 13 en Windhoek te quedas <strong>sin coche</strong> → hotel y traslado al aeropuerto. <em>Alternativa: añadir el día 13 (~€167) y devolverlo el 14 camino del aeropuerto — puede salir igual o más barato que hotel + dos traslados.</em></p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Verificado</span><h3>🎥 El coche por dentro — y qué te da exactamente la clase Comfort</h3></div>
+      <p class="lead">▶️ <a href="https://www.youtube.com/watch?v=LPNZ-l8y3Pg"><strong>Namibia2Go — «Experience The Fully Equipped Hilux»</strong></a> · vídeo de la propia empresa.</p>
+      <p><strong>Es tu coche</strong> —Toyota Hilux Double Cab camping equipped de Namibia2Go— pero <strong>ojo al mirarlo</strong>: la web ofrece <strong>dos versiones del mismo vehículo</strong>, y el vídeo no aclara cuál enseña. La diferencia se ve a simple vista:</p>
+      <div class="rows">
+        <div class="row"><span class="k"><strong>Budget</strong> · dos tiendas <strong>blandas</strong> Tentco + cajas de camping</span><span class="v"><em>la otra</em></span></div>
+        <div class="row"><span class="k">🏆 <strong>COMFORT</strong> · dos tiendas de <strong>carcasa rígida</strong> + cocina a medida</span><span class="v"><strong>la tuya</strong> ✅</span></div>
+      </div>
+      <p>👉 <strong>Al ver el vídeo, fíjate en el techo:</strong> si las tiendas son <strong>hard shell</strong> (se abren solas, tipo concha) es la Comfort; si son de lona plegada, es la Budget. <em>La carcasa rígida se monta en un minuto y aguanta mejor el polvo y el viento — con 11 noches de tienda, se nota.</em></p>
+      <p><strong>Ficha verificada del vehículo</strong> ✅: 4x4 permanente · automático · <strong>motor 2.8L GD-6 turbodiésel</strong> · 5 plazas con tiendas para 4 · km ilimitados · <strong>2 ruedas de repuesto</strong> y <strong>nevera eléctrica</strong> · 2 tiendas de techo, mesa, 4 sillas, ropa de cama para 4 y menaje completo. <em>1 día = 24 h.</em></p>
+      <p>🎉 <strong>Las 2 ruedas de repuesto son buena noticia</strong>: es justo lo que recomienda todo el que conduce esas pistas, y viene de serie.</p>
+      <p>⚠️ <strong>Y una trampa que tu presupuesto ya esquiva:</strong> la web publica <strong>N$2.910/día</strong> para la Comfort en «temporada baja»… pero esa banda es <strong>«01 Nov 2025 – 30 Jun 2026»</strong>: <strong>caduca antes de tu viaje</strong>. Tu ventana cae en el <strong>año tarifario siguiente</strong>, que no está publicado. Tus <strong>€166,67/día son un presupuesto en vivo para tus fechas reales</strong> — un 15 % por encima de la tarifa vieja, coherente con el cambio de año tarifario. <strong>Fíate de tu presupuesto, no del precio de la web.</strong> <em>(Es exactamente la misma trampa que la tarifa de NWR.)</em></p>
+      <details><summary>Fuentes</summary><div class="srcs">
+        <a href="https://www.youtube.com/watch?v=LPNZ-l8y3Pg">youtube.com · Namibia2Go, Fully Equipped Hilux</a>
+        <a href="https://namibia2go.com/4x4-camping-equipped-double-cab">namibia2go.com · 4x4 camping equipped double cab</a>
+      </div></details>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Corrección</span><h3>🎉 SÍ se puede acampar dentro de Etosha</h3></div>
+      <p class="lead">Okaukuejo, Halali y Namutoni <strong>tienen camping</strong>: <strong>N$460/persona = N$920 la pareja</strong> ✅, verificado en la tarifa oficial NWR 2026/2027. <strong>Es justo lo que ya estaba presupuestado</strong> — y son las noches de la charca iluminada.</p>
+      <p>Así que <strong>acampas 11 de las 13 noches</strong>. Solo dos no pueden ser tienda de techo:</p>
+      <div class="rows">
+        <div class="row"><span class="k">🌊 <strong>D7 · Terrace Bay</strong></span><span class="v">es <strong>RESORT</strong>, no camping</span></div>
+        <div class="row"><span class="k"><em>— el camping de la zona es Torra Bay…</em></span><span class="v"><em>…y solo abre dic–ene ✅</em></span></div>
+        <div class="row"><span class="k">🏙️ <strong>D13 · Windhoek</strong></span><span class="v">coche ya entregado → hotel</span></div>
+      </div>
+      <p><em>Si Terrace Bay no encaja, la variante fácil del D7 es dormir en Henties Bay o Swakopmund —donde sí hay camping— y cruzar el Skeleton Coast en tránsito al día siguiente.</em></p>
+    </div>
+
+    <div class="claim dunno">
+      <div class="claim-head"><span class="chip dunno">Honestidad</span><h3>El 79 % de este número está cerrado</h3></div>
+      <p class="lead"><strong>✅ Duro — €2.618 de los €3.306 por persona:</strong> vuelo €1.366 · coche €900 · 6 noches NWR €159 · seguro €113 · visado €80. <strong>El 79 %.</strong></p>
+      <p><strong>◐ Corroborado:</strong> tasas de parque (~€109) — el N$280/adulto está en fuente secundaria; el ministerio aún publica la tabla vieja. <strong>Confírmalo por email.</strong></p>
+      <p><strong>○ Estimado — ~€578 p.p.:</strong> las 7 noches sin precio (~€126), combustible (~€200), comida (~€140), actividades (~€38) y misceláneos (~€75). <strong>Ese es el margen real: ±€145 por persona.</strong></p>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">09 · Las reservas clave</div>
+    <h2>Lo que hay que asegurar ya</h2>
+
+    <div class="claim hero">
+      <div class="claim-head"><span class="chip ok">Primero</span><h3>El 4x4 — antes que los vuelos</h3></div>
+      <p class="lead">Flota pequeña y noviembre competido. <strong>Una ruta sin coche no es una ruta.</strong> Pide presupuesto a <strong>Namibia2Go y Asco</strong> con fechas exactas. El equipo de camping va incluido: tienda de techo, nevera, mesa, sillas y menaje son ~€7/día sobre el mismo coche desnudo.</p>
+    </div>
+
+    <div class="claim hero">
+      <div class="claim-head"><span class="chip ok">Segundo</span><h3>Sesriem ×2 dentro · Etosha ×4 dentro · Terrace Bay</h3></div>
+      <p class="lead"><strong>Sesriem: solo 44 parcelas</strong> — es la diferencia entre <em>ver</em> Deadvlei y <em>tenerlo para ti</em> al amanecer. <em>(Plan B: Sossus Oasis en la puerta, perdiendo la hora de ventaja, que es justo el motivo.)</em></p>
+      <p><strong>Etosha: las 4 noches dentro</strong> — el chalet del charco es lo primero que vuela. Y <strong>Terrace Bay con reserva confirmada</strong>: sin ella <strong>no te dejan entrar</strong> a pernoctar en el Skeleton Coast; el permiso de tránsito obliga a salir el mismo día.</p>
+    </div>
+
+    <div class="alarm">
+      <h3>⚠️ El e-visa: solo en eservices.mhaiss.gov.na</h3>
+      <p><strong>namibia-evisa.com se anuncia como oficial y no lo es</strong> — te cobrará de más. El portal real es del Ministerio del Interior (<strong>N$1.600 · ~€78</strong>, ~24 h) y hay que <strong>imprimirlo y firmarlo delante del oficial</strong>.</p>
+      <p>El portal auténtico puede dar un <strong>aviso de certificado</strong>: es una mala configuración suya, no fraude. Verifica que el dominio es exactamente <code>eservices.mhaiss.gov.na</code> y sigue.</p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Salud</span><h3>Tres gestiones que se resuelven en una tarde</h3></div>
+      <p class="lead"><strong>Cita del Centro de Vacunación Internacional en agosto</strong> — A Coruña, Durán Lóriga 3 · 981 989 570. <strong>La cita es el recurso escaso</strong>, no la vacuna.</p>
+      <p><strong>Malaria:</strong> Etosha sí es zona (CDC); el desierto y la costa, no. A primeros de noviembre, antes de las lluvias, el riesgo está en su <strong>mínimo estacional</strong>. Malarone empieza 1–2 días antes; mefloquina, 2–3 semanas — el fármaco marca el calendario.</p>
+      <p><strong>Fiebre amarilla:</strong> escala corta y sin salir del aeropuerto en Adís = no hace falta. Doha, Fráncfort y Johannesburgo, limpios. La parada gratis en ciudad de Ethiopian pasa inmigración y puede romper la exención.</p>
+      <p><strong>Seguro con repatriación</strong> (condición de entrada): pide por escrito que cubra <strong>evacuación aérea dentro del país</strong> — cerca de Sesriem no hay hospital, y esa cláusula convierte cualquier percance en una anécdota.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">10 · Conducir Namibia</div>
+    <h2>Las cuatro reglas del buen roadtrip</h2>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Regla 1</span><h3>80 km/h en grava — y los tiempos ya lo saben</h3></div>
+      <p class="lead">Es tu límite contractual (el legal es 100) y el coche lo registra con caja negra. Con corrugado, la media real son 60–70; dentro de los parques, 60. <strong>Todos los tiempos de este dossier ya van calculados así</strong>: cualquier itinerario de internet a 100 es un 20 % más optimista que tu realidad.</p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Regla 2</span><h3>Nunca pases de largo una gasolinera</h3></div>
+      <p class="lead">Solitaire, Henties Bay, Kamanjab, Outjo, Otjiwarongo: se reposta en todas, marque lo que marque la aguja. Tras Solitaire: <strong>210 km de nada</strong>.</p>
+      <p>Las tarjetas <strong>sí se aceptan</strong> — el «solo efectivo» es un mito nacido de una mala lectura («credit» = a cuenta, no tarjeta). Aún así: <strong>~N$4.000 (~€200)</strong> de reserva, y propina al empleado del surtidor (N$5–10).</p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Regla 3</span><h3>Llega a las 18:00 — el sundowner es parte del plan</h3></div>
+      <p class="lead">Anochece ~19:15 y la fauna sale a los arcenes al atardecer. Los días están diseñados para acabar con sol. <strong>El único con hora límite es el D7</strong>: Ugabmund cierra la entrada a las 15:00.</p>
+    </div>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Regla 4</span><h3>Súbete al seguro alto, y conoce su letra pequeña</h3></div>
+      <p class="lead">Es lo único que cubre lo que la grava toca: neumáticos, cristales y bajos. <strong>Ojo con Damaraland (D8): el Super Cover de Asco NO cubre los bajos ahí</strong> — suavidad en las piedras. Las pistas malditas <strong>D3707/D3703 no están en esta ruta</strong>.</p>
+      <p>🚫 <em>Dune driving</em> y Sandwich Harbour, <strong>prohibidos por contrato</strong>: Sandwich Harbour se hace en tour guiado, que además es mejor plan.</p>
+    </div>
+
+    <div class="claim dunno">
+      <div class="claim-head"><span class="chip dunno">Extras</span><h3>Los detalles que ahorran sorpresas</h3></div>
+      <p class="lead">Enchufes <strong>tipo M</strong> (2 adaptadores, online — el Schuko no entra) · <strong>SIM de MTC</strong> en el aeropuerto con pasaporte, el kiosco cierra ~21:00 · zonas sin cobertura — un <strong>satelital con SOS</strong> es buena compañía en el Namib · la <strong>Línea Roja</strong>: la carne cruda sube al norte pero no baja — el braai se come en Etosha · los <strong>N$ sobrantes se cambian antes de volar</strong>: fuera de Namibia no valen nada.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">11 · El método</div>
+    <h2>Por qué puedes fiarte de estos números</h2>
+
+    <div class="claim ok">
+      <div class="claim-head"><span class="chip ok">Cero invenciones</span><h3>Cada dato, contra su fuente — y verificadores que intentan tumbarlo</h3></div>
+      <p class="lead">Cada cifra viene de una fuente descargada y pasa por verificadores independientes cuyo único trabajo es <strong>refutarla</strong> (2 de 3 la tumban). Por el camino cayeron perlas que circulan por toda la web:</p>
+      <div class="rows">
+        <div class="row"><span class="k">Tasas de parque «N$150/día»</span><span class="v">→ <strong>~N$280</strong> <em>desde abr 2026</em></span></div>
+        <div class="row"><span class="k">La tarifa NWR de los blogs</span><span class="v">→ <em>caduca antes de aterrizar</em></span></div>
+        <div class="row"><span class="k">«Solo efectivo en gasolineras»</span><span class="v">→ <em>mito · tarjetas OK</em></span></div>
+        <div class="row"><span class="k">Temperaturas de webs de safaris</span><span class="v">→ <em>todas rehechas con estación</em></span></div>
+      </div>
+    </div>
+
+    <div class="claim dunno">
+      <div class="claim-head"><span class="chip dunno">En blanco</span><h3>Lo que falta está dicho, no disimulado</h3></div>
+      <p class="lead"><strong>Varios alojamientos por noche</strong>: Terrace Bay, Hoada, Spreetshoogte y Walvis Bay — más de la mitad de las noches. Y <strong>las distancias de esta ruta</strong>: se midieron para el recorrido del sur, así que las etapas del D7 al D9 son estimaciones heredadas.</p>
+      <p>✅ <strong>Los vuelos ya no son un hueco</strong>: hay presupuesto real (€1.366 p.p.). Y sirvió para pillar un error nuestro — la estimación previa se había quedado ~1,7× corta. Un hueco reconocido vale más que un número plausible: <strong>los números plausibles se acaban usando para pagar</strong>.</p>
+      <p>Y las tasas de parque (~N$280) se apoyan aún en fuente secundaria — el ministerio sigue publicando la tabla vieja. <strong>Confírmalas por email antes de cerrar presupuesto.</strong></p>
+    </div>
+  </section>
+
+  <footer>
+    <p>Dossier completo, itinerario día a día y todas las fuentes: <a href="https://github.com/morandeirachema/namibia">github.com/morandeirachema/namibia</a></p>
+    <p>Todos los precios en N$ y € · ~N$20 = €1 a 17·07·2026 · El importe en N$ es el que se paga · Las tarifas namibias cambian: reconfirma antes de pagar</p>
+  </footer>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+<script>
+  const dark = matchMedia('(prefers-color-scheme: dark)').matches;
+  mermaid.initialize({ startOnLoad: true, theme: dark ? 'dark' : 'neutral', securityLevel: 'loose' });
+</script>
+</body>
+</html>
