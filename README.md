@@ -163,8 +163,21 @@ xychart-beta
     bar [3300, 4200, 5200, 6100]
 ```
 
-- 🏕️ **Camping** — **~€3.300–4.200 (~N$66.000–84.000)** la pareja ○ *(el rango es la compañía de coche)*
-- 🛖 **Lodges gama media** — **~€5.200–6.100 (~N$104.000–122.000)** la pareja ○
+### 👤 Por persona, todo incluido *(orientativo)*
+
+- 🏕️ **Camping** — **~€2.400–3.000** *(~N$48.000–60.000)* con vuelos
+- 🛖 **Lodges gama media** — **~€3.300–3.950** *(~N$66.000–79.000)* con vuelos
+
+*Solo tierra, sin vuelos: camping **~€1.650–2.100 p.p.** · lodges **~€2.600–3.050 p.p.***
+
+> **El ancho del rango tiene dos culpables, y los dos se cierran con un email:** la **compañía de
+> coche** *(Namibia2Go entra en temporada baja el 1 nov y Asco no — ~€450/persona de diferencia)* y
+> los **vuelos**, que siguen ❌ **sin verificar** para tus fechas.
+
+### 👥 Por pareja
+
+- 🏕️ **Camping** — **~€3.300–4.200 (~N$66.000–84.000)** en tierra ○
+- 🛖 **Lodges gama media** — **~€5.200–6.100 (~N$104.000–122.000)** en tierra ○
 - ✈️ **Vuelos** — ~€1.400–1.800 la pareja ❌ *sin verificar para tus fechas*
 
 Partidas firmes dentro de eso: **alquiler 13 días — Namibia2Go ~€1.755 ✅◐ o Asco €2.652 ✅** ·
