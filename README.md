@@ -188,6 +188,33 @@ lujo: sin cobertura móvil, es lo único que dispara el rescate.
 
 <div align="center">
 
+## 🗺️ ¿Cabe todo en 14 días? No.
+
+</div>
+
+Con el coche solo **~12–13 días útiles** y a velocidad de seguro (80 km/h en grava, 60 en parques,
+nada de noche), el circuito que lo quiere todo suma **~3.900–4.100 km reales** → necesitaría
+**16–18 días**. **El sur profundo (Fish River + Lüderitz) y Etosha están en extremos opuestos y no
+caben juntos** con Sossusvlei y la costa.
+
+```mermaid
+flowchart TD
+    D{"El sur ya esta decidido<br/>¿que priorizas ademas?"}
+    D -->|"Desierto sin prisa"| A["🟢 VARIANTE A · recomendada<br/>Sur + Sossusvlei + costa<br/>SIN Etosha · holgada"]
+    D -->|"Fauna de Etosha"| B["🟠 VARIANTE B<br/>Sur + Etosha<br/>SIN Sossusvlei"]
+    D -->|"Todo si o si"| C["🔴 Alarga a 17-18 dias<br/>NO aprietes el maraton"]
+    style A fill:#2d6a4f,color:#fff
+    style B fill:#e85d04,color:#000
+    style C fill:#9d0208,color:#fff
+```
+
+📖 Distancias tramo a tramo, tiempos auditables y las tres variantes día a día →
+[`04-itinerario`](04-itinerario.md)
+
+---
+
+<div align="center">
+
 ## 🎯 Los tres imprescindibles antes de reservar
 
 </div>
@@ -239,17 +266,17 @@ flowchart TD
     R --> D6["06 · Lista Google Maps<br/>34 pines triados"]
     R --> D7["07 · Logistica<br/>combustible · distancias · dinero"]
     R --> D9["09 · Lluvias historico<br/>5 temporadas observadas"]
-    R -.-> D4["04 · Itinerario<br/>🔬 en curso"]
+    R --> D4["04 · Itinerario<br/>ruta y viabilidad"]
     R -.-> D8["08 · Huecos cerrados<br/>🔬 en curso"]
     R -.-> D10["10 · Presupuesto<br/>🔬 en curso"]
     style D1 fill:#2d6a4f,color:#fff
     style D2 fill:#2d6a4f,color:#fff
     style D3 fill:#2d6a4f,color:#fff
+    style D4 fill:#2d6a4f,color:#fff
     style D5 fill:#2d6a4f,color:#fff
     style D6 fill:#2d6a4f,color:#fff
     style D7 fill:#2d6a4f,color:#fff
     style D9 fill:#2d6a4f,color:#fff
-    style D4 fill:#e85d04,color:#000
     style D8 fill:#e85d04,color:#000
     style D10 fill:#e85d04,color:#000
 ```
@@ -258,7 +285,7 @@ flowchart TD
 - ✅ [**`01-hallazgos-verificados`**](01-hallazgos-verificados.md) — alquiler 4x4, niveles de seguro, visado, tasas de parques, y **lo refutado**
 - ✅ [**`02-alojamiento-y-tasas`**](02-alojamiento-y-tasas.md) — tarifas oficiales NWR 2026/2027, la trampa del año tarifario
 - ✅ [**`03-guia-preparacion`**](03-guia-preparacion.md) — cuenta atrás, e-visa, vacunas, Kolmanskop, normas
-- 🔬 `04-itinerario` — ruta día a día y veredicto de viabilidad *(en curso)*
+- ✅ [**`04-itinerario`**](04-itinerario.md) — distancias y tiempos reales a velocidad de seguro, y el **veredicto de viabilidad** con tres variantes
 - ✅ [**`05-conduccion`**](05-conduccion.md) — vuelcos, cláusulas del contrato, presiones, puertas de Sesriem
 - ✅ [**`06-lista-google-maps`**](06-lista-google-maps.md) — tus 34 pines, ordenados y triados
 - ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, Línea Roja, cobertura, dinero, emergencias
@@ -357,7 +384,7 @@ web y capaces de costar dinero real:
 
 ### 🕳️ Lo que sigue faltando
 
-**El itinerario con tiempos reales** · **Temperaturas con fuente meteorológica** · **Vuelos** · **Presupuesto**
+**Temperaturas con fuente meteorológica** · **Vuelos** · **Presupuesto**
 
 *Tasas de parques: el ~N$280 se apoya solo en fuente secundaria — el MEFT sigue sirviendo la tabla
 de 2021. **Confírmalo por email antes de cerrar presupuesto.***
