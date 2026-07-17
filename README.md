@@ -138,14 +138,11 @@ flowchart LR
 - 💶 **Precio: la frontera del 1 de noviembre, dos veces.** **NWR** entra en tramo barato el 1 de
   noviembre (Sesriem, Terrace Bay, Etosha), y **Namibia2Go también**. 👉 **¿Adelantar días a
   octubre? Hasta 2 días es gratis** — las primeras noches (Windhoek, Spreetshoogte) no son NWR.
-- 🚗 **El coche: depende de la compañía — y esto es lo mejor de tu ventana:**
-  - **Asco** baja el **15 de noviembre** → tu ventana entera en banda alta: 13 días + Super Cover =
-    **€2.652 (~N$53.040)** ✅
-  - **Namibia2Go** baja el **1 de noviembre** → **tu ventana entera en SU temporada baja**:
-    **N$2.700/día (~€135)** con franquicia cero y km ilimitados → 13 días ≈ **N$35.100 (~€1.755)** ✅◐
-  - **Diferencia: ~€900.** Pide presupuesto a los dos y compara la letra del seguro *(la franquicia
-    cero de Namibia2Go decae con «negligencia probada» y excluye daños por agua; pregunta por
-    escrito cómo trata los bajos en Damaraland)*.
+- 🚗 **El coche: ✅ cerrado — Namibia2Go Comfort, €2.000 por 12 días.** Y aquí tu ventana acertó:
+  **Namibia2Go entra en temporada baja el 1 de noviembre** *(Asco no lo hace hasta el 15)*, así que
+  el presupuesto cae entero en su tarifa barata. Incluye **km ilimitados** y **Premium Insurance
+  Cover** *(franquicia cero — matiz: decae con «negligencia probada» y excluye daños por agua;
+  pregunta por escrito cómo trata los **bajos en Damaraland**, que el D8 pasa por ahí)*.
 
 
 ---
@@ -296,7 +293,7 @@ de la charca iluminada.
 
 ```mermaid
 flowchart TD
-    A["🚙 EL 4x4<br/>pedir a Namibia2Go Y Asco<br/>ANTES que los vuelos"]
+    A["🚙 EL 4x4 ✅ CERRADO<br/>Namibia2Go Comfort<br/>€2.000 · 12 dias"]
     B["⛺ SESRIEM DENTRO x2<br/>44 parcelas<br/>es EL amanecer del viaje"]
     C["🌊 TERRACE BAY<br/>sin reserva confirmada<br/>NO se entra al parque"]
     D["🛂 e-visa + CVI<br/>eservices.mhaiss.gov.na<br/>cita de vacunas en agosto"]
@@ -310,8 +307,9 @@ flowchart TD
     style D fill:#2d6a4f,color:#fff
 ```
 
-1. **El 4x4 primero** — presupuesto a Namibia2Go y Asco con fechas exactas. Flota pequeña, noviembre
-   competido: **una ruta sin coche no es una ruta**. El equipo de camping va incluido.
+1. **El 4x4 ✅ ya está** — Namibia2Go Comfort, €2.000 por 12 días con seguro y km ilimitados.
+   **Confírmalo cuanto antes**: flota pequeña y noviembre competido. *Y decide si añadir el día 13
+   (~€167) para devolverlo camino del aeropuerto en vez de hotel + dos traslados.*
 2. **Sesriem dentro de la puerta, dos noches.** Solo **44 parcelas**, y es la diferencia entre *ver*
    Deadvlei y *tenerlo para ti* al amanecer. *(Plan B: Sossus Oasis en la puerta — perdiendo la hora
    de ventaja, que es el motivo.)*
