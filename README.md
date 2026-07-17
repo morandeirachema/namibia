@@ -213,83 +213,78 @@ alquiler (1–14 nov, **13 días**) entra entero en la **temporada baja de Namib
 
 <div align="center">
 
-## 💶 El presupuesto — desglosado
+## 💶 El presupuesto — por persona, partida a partida
 
 </div>
 
-> ### ✅ Sí, está todo dentro
-> **Vuelo · coche con seguro · combustible · tasas de parque · visado · todas las noches · comida ·
-> actividades · imprevistos.** No queda nada fuera salvo lo que compres allí por gusto.
+> # ~€3.290 por persona · todo incluido
+> ### Rango honesto: **€3.150–3.440**. El **79 %** ya está cerrado.
 
-### 👤 Por persona, todo incluido
-
-- 🏕️ **Camping** — **~€3.210–3.660**
-- 🛖 **Lodges gama media** — **~€4.200–4.650**
-
-*El rango es **una sola decisión**: la compañía de coche. Namibia2Go entra en temporada baja el 1 de
-noviembre; Asco, el 15. **~€450/persona.***
+**Incluye:** vuelo · coche con seguro · combustible · tasas de parque · visado · las 13 noches ·
+comida · actividades · imprevistos. **No queda nada fuera** salvo lo que compres allí por gusto.
 
 ```mermaid
 xychart-beta
-    title "Camping · pareja · desglose en EUR · via Namibia2Go"
-    x-axis ["Vuelos", "Coche 13d", "Alojamiento", "Combustible", "Comida", "Tasas", "Visado", "Misc+Activ"]
-    y-axis "EUR" 0 --> 2800
-    bar [2732, 1755, 620, 430, 280, 217, 160, 225]
+    title "Por persona · desglose en EUR · camping"
+    x-axis ["Vuelo", "Coche", "Alojamiento", "Combustible", "Comida", "Tasas", "Visado", "Misc+Activ"]
+    y-axis "EUR" 0 --> 1500
+    bar [1366, 1000, 285, 200, 140, 109, 80, 113]
 ```
 
-*Vuelo y coche son el **70 % del viaje**. Todo lo demás junto no llega a €2.000.*
+*Vuelo y coche son el **72 %** del viaje. Todo lo demás junto son ~€925.*
 
-### 🏕️ Escenario camping · la pareja
+### 👤 El desglose, por persona
 
-- ✈️ **Vuelo** — **€2.732** *(€1.366 p.p.)* ✅ presupuestado
-- 🚙 **Coche 13 días + seguro** — **€1.755** *(~N$35.100)* ✅◐ vía **Namibia2Go**
-  · *o **€2.652** (~N$53.040) ✅ vía **Asco** + Super Cover*
-- ⛺ **Alojamiento, 13 noches** — **~€620** *(~N$12.400)* ○
-  - *6 noches NWR **verificadas**: **N$6.360 (~€318)** ✅ — Sesriem ×2 a N$1.340 + Okaukuejo,
-    Halali y Namutoni ×2 a N$920*
-  - *7 noches restantes ❌ **sin precio**: ~€300 estimado (Windhoek ×2, Spreetshoogte, Walvis ×2,
-    Terrace Bay, Hoada)*
-- ⛽ **Combustible** — **~€430** *(~N$8.600)* ○ · ~2.600 km · ~310–340 l
-- 🍖 **Comida** — **~€280** *(~N$5.600)* ○ · supermercado y braai, ~€20/día los dos
-- 🎫 **Tasas de parque** — **~€217** *(~N$4.340)* ◐ · **7 unidades de 24 h**
-  *(Namib 2 + Skeleton 1 + Etosha 4, a N$620/día los dos + coche)*
-- 🛂 **Visado** — **€160** *(N$3.200)* ✅ · e-visa ×2
-- 🎯 **Actividades** — **~€75** *(~N$1.500)* ○ · lanzadera Deadvlei + una
-- 🧷 **Misceláneos** — **~€150** *(~N$3.000)* ○ · SIM, propinas, imprevistos
+- ✈️ **Vuelo** — **€1.366** ✅ *ida y vuelta LCG–WDH, turista*
+- 🚙 **Coche** — **€1.000** ✅ *mitad de €2.000 · 12 días · Namibia2Go Comfort*
+- ⛺ **Alojamiento** — **~€285** *· mitad de ~€570 · 13 noches*
+  - *6 noches NWR **verificadas**: **€159** ✅ (N$3.180 p.p.)*
+  - *5 campings sin precio + Terrace Bay + hotel del D13: **~€126** ○*
+- ⛽ **Combustible** — **~€200** ○ *· mitad de ~€400 · ~2.600 km*
+- 🍖 **Comida** — **~€140** ○ *· supermercado y braai*
+- 🎫 **Tasas de parque** — **~€109** ◐ *· mitad de ~€217 · 7 unidades de 24 h*
+- 🛂 **Visado** — **€80** ✅ *· e-visa, N$1.600*
+- 🎯 **Actividades** — **~€38** ○ *· lanzadera Deadvlei + una*
+- 🧷 **Misceláneos** — **~€75** ○ *· SIM, propinas, imprevistos*
 
-> **TOTAL PAREJA: ~€6.420 vía Namibia2Go · ~€7.320 vía Asco**
-> **POR PERSONA: ~€3.210–3.660**
+> ### **TOTAL POR PERSONA: ~€3.290** *(~N$66.000)*
+> ### **TOTAL LA PAREJA: ~€6.584** *(~N$132.000)*
 
-### 🛖 Escenario lodges · qué cambia
+### 🚙 El coche ya no es estimación: **€2.000 cerrados**
 
-Solo cambian dos partidas: **alojamiento ~€2.400** *(❌ mayoría sin verificar)* y **comida ~€490**
-*(comiendo fuera casi siempre)*. El resto es idéntico.
+**Namibia2Go 4x4 COMFORT camping equipped double cab** — €166,67/día × 12 días *(1–13 nov)* =
+**€2.000** con impuestos. Automático, diésel, **km ilimitados** y **Premium Insurance Cover**
+(franquicia cero) incluidos.
 
-> **TOTAL PAREJA: ~€8.410–9.310 · POR PERSONA: ~€4.200–4.650**
+*Mejor de lo estimado en calidad, algo peor en precio: mi estimación de €1.755 era de la clase
+**budget**; ésta es la **Comfort**.* **Y lo importante: se acabó el rango «N2Go vs Asco»** — el
+coche es cifra cerrada y el presupuesto se estrecha de golpe.
 
-*La horquilla del escenario lodge es ancha de verdad porque su precio no está cerrado: es la parte
-más floja del presupuesto.*
+> ⚠️ **Ojo al calendario:** el coche son **12 días (1–13)** pero estás **13 noches (1–14)**. La
+> noche del **13 en Windhoek te quedas sin coche** → hotel y traslado al aeropuerto.
+> *Alternativa: añadir el día 13 (~€167) y devolverlo el 14 camino del aeropuerto — puede salir
+> igual o más barato que hotel + dos traslados.*
 
-### ⚠️ Dos correcciones — y de dónde salían
+### ⛺ Sí se puede acampar dentro de Etosha — **11 de 13 noches en el coche**
 
-1. **Las noches NWR eran N$6.360, no N$7.360.** Error de suma mío (~€50): Sesriem 2×1.340 +
-   Okaukuejo 920 + Halali 920 + Namutoni 2×920 = **N$6.360**.
-2. **El total por persona sube ~€210.** Publiqué €3.000–3.470 acampando; lo correcto es
-   **€3.210–3.660**. El motivo: el presupuesto base se calculó para **la ruta del sur** y arrastraba
-   el coche en banda barata *(no accesible en tu ventana)* y solo 2 unidades de tasas — la ruta del
-   norte cruza **tres parques** y necesita 7.
+**Okaukuejo, Halali y Namutoni tienen camping**: **N$460/persona = N$920 la pareja** ✅, verificado
+en la tarifa oficial NWR 2026/2027. **Es justo lo que ya estaba presupuestado** — y son las noches
+de la charca iluminada.
 
-*Lo dejo escrito en vez de reescribirlo en silencio: es el mismo fallo que la estimación de vuelos,
-y por eso preguntar «¿está todo?» era la pregunta correcta.*
+**Las únicas dos que no pueden ser tienda de techo:**
+- 🌊 **D7 · Terrace Bay** — es **resort**, no camping. *(El camping de la zona es **Torra Bay**, y
+  solo abre **diciembre–enero** ✅.)* Si no encaja, la variante fácil es dormir en **Henties Bay o
+  Swakopmund** —donde sí hay camping— y cruzar el Skeleton Coast en tránsito al día siguiente.
+- 🏙️ **D13 · Windhoek** — el coche ya está entregado → hotel.
 
 ### 🔬 Qué parte de este número es sólida
 
-- **✅ Duro — ~€4.870 de los ~€6.420**: vuelo €2.732 · coche €1.755 · 6 noches NWR €318 · visado
-  €160. **Tres cuartas partes del viaje están cerradas.**
-- **◐ Corroborado**: tasas de parque (~€217) — el N$280/adulto está en fuente secundaria; el
-  ministerio aún publica la tabla vieja.
-- **○ Estimado**: las 7 noches sin precio (~€300), combustible (~€430), comida (~€280), actividades
-  y misceláneos (~€225). **Suman ~€1.235: ese es el margen real de error.**
+- **✅ Duro — €2.605 de los €3.290 (79 %)**: vuelo €1.366 · coche €1.000 · 6 noches NWR €159 ·
+  visado €80
+- **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto está en fuente secundaria; el
+  ministerio aún publica la tabla vieja. **Confírmalo por email.**
+- **○ Estimado — ~€578 p.p.**: 7 noches sin precio (~€126), combustible (~€200), comida (~€140),
+  actividades (~€38), misceláneos (~€75). **Ese es el margen real: ±€145 por persona.**
 
 ---
 
