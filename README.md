@@ -109,7 +109,7 @@ lo que significan, con datos:
 flowchart LR
     A["Tu ventana<br/>1-15 nov"] --> B["🌧️ LLUVIA<br/>la quincena mas seca<br/>del rango: en 4 de 5<br/>temporadas no habia empezado"]
     A --> C["🌡️ CALOR<br/>Etosha ~37-38 C: fuerte<br/>el sur ~30-32 C: suave"]
-    A --> D["💶 PRECIO<br/>NWR barato desde el 1 nov<br/>coche en banda alta €179/dia"]
+    A --> D["💶 PRECIO<br/>NWR barato desde el 1 nov<br/>y Namibia2Go tambien:<br/>su baja empieza el 1 nov"]
     B --> E["✅ Ventana excelente<br/>para fauna y dunas"]
     C --> E
     D --> E
@@ -128,9 +128,16 @@ flowchart LR
   👉 **¿Adelantar días a octubre? Hasta 2 días es gratis** — las primeras noches (Windhoek,
   Keetmanshoop) no son NWR y el sur está fresco en octubre. Más allá, cada noche NWR de octubre paga
   la tarifa vieja (+N$200 el camping, +N$2.200 el chalet del charco).
-- 🚗 **El coche va en banda alta** (€179/día — la banda de €117 empieza el 15 de noviembre, fuera de
-  tu ventana): **12 días €2.448 · 13 días €2.652 · 14 días €2.856**, Super Cover incluido.
-  *(Dato, no reproche: la flexibilidad tras el 15 habría valido ~€800.)*
+- 🚗 **El coche: depende de la compañía, y esto es lo mejor de tu ventana.** Cada empresa tiene su
+  propio calendario de temporadas:
+  - **Asco** baja el **15 de noviembre** → tu ventana entera en banda alta: 13 días + Super Cover =
+    **€2.652 (~N$53.040)** ✅
+  - **Namibia2Go** baja el **1 de noviembre** → **tu ventana entera cae en SU temporada baja**:
+    **N$2.700/día (~€135)** con franquicia cero y km ilimitados incluidos → 13 días = **~N$35.100
+    (~€1.755)** ✅◐
+  - **Diferencia: ~€900 (~N$18.000).** 👉 Pide presupuesto a los dos con tus fechas exactas y
+    compara la letra del seguro *(la franquicia cero de Namibia2Go decae con «negligencia probada»
+    y excluye daños por agua — confirmar al reservar)*.
 
 ---
 
@@ -142,17 +149,17 @@ flowchart LR
 
 ```mermaid
 xychart-beta
-    title "Coste en tierra · pareja · sin vuelos · ventana 1-15 nov · EUR"
-    x-axis ["Camping", "Lodges gama media"]
+    title "Coste en tierra · pareja · sin vuelos · 1-15 nov · EUR"
+    x-axis ["Camping via N2Go", "Camping via Asco", "Lodge via N2Go", "Lodge via Asco"]
     y-axis "EUR" 0 --> 7000
-    bar [4400, 6300]
+    bar [3500, 4400, 5400, 6300]
 ```
 
-- 🏕️ **Camping** — **~€4.400 (~N$88.000)** la pareja · **~€2.200/persona** ○
-- 🛖 **Lodges gama media** — **~€6.300 (~N$126.000)** la pareja · **~€3.150/persona** ○
+- 🏕️ **Camping** — **~€3.500–4.400 (~N$70.000–88.000)** la pareja ○ *(el rango es la compañía de coche)*
+- 🛖 **Lodges gama media** — **~€5.400–6.300 (~N$108.000–126.000)** la pareja ○
 - ✈️ **Vuelos** — ~€1.400–1.800 la pareja ❌ *sin verificar para tus fechas*
 
-Partidas firmes dentro de eso: **alquiler 13 días + Super Cover €2.652** ✅ · noches NWR de la ruta
+Partidas firmes dentro de eso: **alquiler 13 días — Asco €2.652 ✅ o Namibia2Go ~€1.755 ✅◐** · noches NWR de la ruta
 **N$6.400 (~€320)** ✅ · tasas de parque **~N$3.700–4.300 (~€185–215)** ◐ *(~N$620 los dos + coche,
 por parque y día — el N$150 de internet es de 2021)* · combustible **~N$9.500–10.500 (~€475–525)** ○
 · visado **N$3.200 (~€160)** ✅.
