@@ -322,9 +322,45 @@ flowchart TD
 
 ## 5. Detalles que cambian un día concreto
 
+> ### 🛑 Los dos bordes del Fish River NO están conectados
+> El PDF del Fish River Lodge avisa: *«Do not take the C12 towards the Fish River Canyon as you will
+> end up on the eastern side of the canyon and **there are no roads across it**»*.
+>
+> **Ojo, que ese aviso es para ir al Lodge (borde OESTE).** Tú quieres **los miradores clásicos y
+> Hobas**, que están en el **borde ESTE** → **la C12 SÍ es tu ruta.**
+>
+> 👉 **Elige el borde ANTES de salir: no hay puente ni vado.** Equivocarse cuesta un día entero.
+>
+> Del mismo PDF: *«Please do not take the D462 as this road has riverbeds with deep sand»* —
+> **evita la D462**. Y otra fuente recomienda ir por la **presa de Naute** en vez del desvío de
+> Seeheim, *«as the Seeheim road is very bumpy and the river might obstruct your travels in the rainy
+> season»* — **relevante: finales de noviembre ya es inicio de lluvias en el sur.**
+> Fuente: https://wa-uploads.profitroom.com/fishriverlodge/17498513990699_Directions-to-FRL.pdf
+
+> ### 🚧 Obras dentro de Etosha en 2026 — Okaukuejo → Halali
+> El tramo, que sobre el papel son **70 km**, va por **pistas de desvío de ~90 km** con **maquinaria
+> pesada** y límites temporales reducidos: se circula a **30–35 km/h reales**.
+>
+> **Lo que serían 1h45 se convierte en ~3 h.** 👉 **Confírmalo con NWR al reservar**, porque cambia
+> el reparto del día de safari.
+
+> ### 🛣️ La salida de emergencia del sur: Lüderitz → Windhoek
+> **833 km, 100 % asfalto (B4 + B1), 9h00–9h30.** Es **la única etapa larga del sur totalmente libre
+> de grava**.
+>
+> Es **más horas** que Lüderitz → Sesriem (7h30–8h00), pero **sin corrugado, sin polvo y sin el
+> riesgo de vuelco que concentra Hardap**. Si el viaje se tuerce —una avería, un pinchazo doble, un
+> día perdido— **este es el cierre rápido y seguro del circuito**.
+
 - **Primer día con el coche (Windhoek → sur)**: coge el coche, revisa **presiones en frío, las DOS
   ruedas de repuesto, gato y compresor** (ver `05`) **antes de salir del patio**. El B1 al sur es
   asfalto: buen día para acostumbrarse al vehículo cargado.
+  ⚠️ **No lo hagas el día del vuelo**: recoger el 4x4 + briefing son 1–2 h; si aterrizas a mediodía y
+  sales a las 14:00, los 500 km hasta Keetmanshoop te meten en el ocaso. **Duerme en Windhoek y sal
+  al amanecer, o parte la etapa en Mariental.**
+- **El bosque de kokerbooms sale gratis**: **14 km** de Keetmanshoop por la M29 (grava buena),
+  12–15 min. Encaja en el atardecer de llegada o el amanecer siguiente **sin coste de itinerario**.
+  A mediodía la luz lo mata. **Es el mejor coste/beneficio de todo el sur.**
 - **Sesriem manda sobre tu amanecer**: la puerta interior abre **1 h antes del amanecer solo si
   duermes dentro**. Duerme fuera y **no llegas** a Deadvlei con el sol bajo (60 km + arena). Ver `05`.
 - **Deadvlei**: los últimos **5 km son arena blanda en reductora**; desinfla **en el aparcamiento
