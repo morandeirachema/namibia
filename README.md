@@ -292,6 +292,7 @@ flowchart TD
 - ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas, vuelos (rutas y fiebre amarilla), tasas 2026 del MEFT *(lodges y algunas temperaturas siguen abiertos)*
 - ✅ [**`09-lluvias-historico`**](09-lluvias-historico.md) — las 5 últimas temporadas, mm a mm
 - ✅ [**`10-presupuesto`**](10-presupuesto.md) — el coste completo del viaje, **camping vs lodges de gama media**, en N$ y €, con el delta octubre vs noviembre y todo lo que queda sin verificar (lodges y vuelos)
+- ✅ [**`11-itinerarios-dia-a-dia`**](11-itinerarios-dia-a-dia.md) — **las tres variantes desarrolladas día a día**: ruta, km, horas, dónde dormir con precio y los avisos que caen en cada jornada
 
 ---
 
