@@ -44,8 +44,7 @@ la costa y CUATRO en Etosha.**
 Es la ruta del clásico de dos semanas *(la misma familia que el itinerario de
 [lugaresincertos.com](https://www.lugaresincertos.com/en/travel-inspiration/two-week-trip-to-namibia/)
 que sirvió de referencia)*, montada con nuestros datos verificados. **El sur queda para otro
-viaje** — Fish River, Kolmanskop, la D707 y los kokerbooms están documentados en el dossier por si
-algún día vuelve.
+viaje**: está medido y documentado en el dossier por si algún día vuelve.
 
 ### ❓ ¿Etosha al principio o al final? → **Al final.** Tres razones con datos:
 
@@ -256,7 +255,7 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 - ✅ [**`01-hallazgos-verificados`**](01-hallazgos-verificados.md) — alquiler, seguros, visado, tasas, y lo refutado
 - ✅ [**`02-alojamiento-y-tasas`**](02-alojamiento-y-tasas.md) — tarifas oficiales NWR 2026/2027
 - ✅ [**`03-guia-preparacion`**](03-guia-preparacion.md) — cuenta atrás, e-visa, vacunas, normas
-- ✅ [**`04-itinerario`**](04-itinerario.md) — distancias, firme, tiempos y viabilidad
+- ✅ [**`04-itinerario`**](04-itinerario.md) — distancias, firme, tiempos y viabilidad *(incluye el análisis del sur, fuera de esta ruta)*
 - ✅ [**`05-conduccion`**](05-conduccion.md) — contrato, presiones, arena, puertas de Sesriem
 - ✅ [**`06-lista-google-maps`**](06-lista-google-maps.md) — tus 34 pines, medidos y triados
 - ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, dinero, cobertura
@@ -270,9 +269,9 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 **En la ruta E**: Joe's Beerhouse · Solitaire · Namib-Naukluft · Sesriem Canyon · Duna 45 ·
 Deadvlei · Walvis Bay · Swakopmund *(de paso)* · Cape Cross · Skeleton Coast · Twyfelfontein ·
 Etosha *(4 noches dentro)*. **Opcionales**: **Onguma** *(tu pin — capricho fuera de la puerta este,
-a cambio de no dormir dentro)* · Okonjima/AfriCat · Hoba · Waterberg *(los tres, de camino el D13)*. **Fuera esta vez**: todo el sur *(Fish River, Quiver Tree, Lüderitz — documentado en la
-Variante D por si vuelve)* · Spitzkoppe y Brandberg *(tampoco están en la ruta de referencia)* ·
-NamibRand · Messum · Bagatelle · Epupa/Opuwo · Tsumkwe · Harnas · Kgalagadi · Elizabeth Bay.
+a cambio de no dormir dentro)* · Okonjima/AfriCat · Hoba · Waterberg *(los tres, de camino el D13)*. **Fuera esta vez**: todo el sur *(documentado en la Variante D por si vuelve)* · Spitzkoppe y
+Brandberg *(tampoco están en la ruta de referencia)* · NamibRand · Messum · Bagatelle ·
+Epupa/Opuwo · Tsumkwe · Harnas · Kgalagadi.
 ℹ️ Twyfelfontein y Duna 45 salen en Google como cerrados: **fallo del listado, ambos funcionan**.
 
 ---
@@ -299,9 +298,9 @@ flowchart LR
 **Regla número uno: cero invenciones.** Cada dato viene de una fuente descargada y pasa por
 verificadores independientes cuyo trabajo es tumbarlo. Por el camino cayeron perlas que circulan
 por toda la web: las tasas de parque a N$150 *(son ~N$280 desde abril de 2026)*, la tarifa NWR de
-los blogs *(caduca antes de aterrizar)*, el precio de Hobas *(N$480, no N$510)*, el mito del «solo
-efectivo» en gasolineras, y **todas** las temperaturas de las webs de safaris — rehechas con datos
-de estación meteorológica.
+los blogs *(caduca antes de aterrizar — factura por año tarifario nov–oct)*, el mito del «solo
+efectivo» en gasolineras *(«credit» ahí significa «a cuenta», no «tarjeta»)*, y **todas** las
+temperaturas de las webs de safaris — rehechas con datos de estación meteorológica.
 
 > **Lo que no se pudo verificar está en blanco y dicho**: los vuelos para tus fechas y varios
 > alojamientos por noche (Terrace Bay, Hoada, Spreetshoogte, Walvis, Onguma). Y las tasas de parque
