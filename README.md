@@ -197,7 +197,8 @@ flowchart TD
 ### 🚨 Lo más urgente de la guía
 
 - **El sendero del Fish River Canyon está CERRADO en noviembre** (temporada may–sep, y exige mínimo
-  3 personas). En noviembre es un mirador. Eso debilita el desvío al sur.
+  3 personas). En noviembre es un **mirador**. ✅ **Decidido: el sur se queda igualmente** — el
+  cañón, Lüderitz, Kolmanskop y los kokerbooms siguen dentro. Falta medir el rodeo.
 - **El vuelco es el 37 % de los muertos de Namibia con solo el 4,6 % de los accidentes** — y se
   concentra en Hardap (Sossusvlei): **1 de cada 5 accidentes allí es un vuelco**, contra 1 de cada 80
   en Windhoek.

@@ -22,8 +22,16 @@ para reservarlo, y sois dos.
 > Son 85 km, 4–5 días, con certificado médico de aptitud. En noviembre, el Fish River Canyon es
 > **un mirador, no una caminata**.
 
-**Esto debilita mucho el argumento del desvío al sur.** Si el cañón se reduce a mirador, la
-pregunta pasa a ser si Lüderitz y Kolmanskop justifican solos ese rodeo enorme.
+### ✅ Decisión tomada (17/07/2026): el sur se queda
+
+El cañón **no se cae del viaje** por esto. El trekking nunca fue el motivo real —y además exigía
+3 personas, así que ni en temporada— y el **mirador principal de Fish River es de los grandes de
+África**: 160 km de largo, hasta 27 de ancho y 550 m de profundidad.
+
+**Lo que sí cambia:** el sur pasa a valorarse por **miradores + Lüderitz + Kolmanskop + kokerbooms**,
+no por el trekking. Y eso es un **rodeo grande** que hay que medir en km y horas, no descartar.
+Está en investigación (ver `04-itinerario.md`).
+
 Fuente: https://www.nwr.com.na/activities/
 
 ### 2. El vuelco no es un tópico: es el 37 % de los muertos ✅
