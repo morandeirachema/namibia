@@ -287,7 +287,7 @@ flowchart TD
 - ✅ [**`03-guia-preparacion`**](03-guia-preparacion.md) — cuenta atrás, e-visa, vacunas, Kolmanskop, normas
 - ✅ [**`04-itinerario`**](04-itinerario.md) — distancias y tiempos reales a velocidad de seguro, y el **veredicto de viabilidad** con tres variantes
 - ✅ [**`05-conduccion`**](05-conduccion.md) — vuelcos, cláusulas del contrato, presiones, puertas de Sesriem
-- ✅ [**`06-lista-google-maps`**](06-lista-google-maps.md) — tus 34 pines, ordenados y triados
+- ✅ [**`06-lista-google-maps`**](06-lista-google-maps.md) — tus 34 pines, ordenados y triados, **ahora con precios de entradas y tours, guía obligatorio del Brandberg, Skeleton Coast (Torra Bay cerrado en noviembre), Ongava/Okonjima confirmados como lujo, y Kaokoland descartado con km**
 - ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, Línea Roja, cobertura, dinero, emergencias
 - ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas, vuelos (rutas y fiebre amarilla), tasas 2026 del MEFT *(lodges y algunas temperaturas siguen abiertos)*
 - ✅ [**`09-lluvias-historico`**](09-lluvias-historico.md) — las 5 últimas temporadas, mm a mm

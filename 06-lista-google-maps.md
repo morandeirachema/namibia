@@ -199,12 +199,160 @@ flowchart LR
 
 ---
 
-## 🕳️ Lo que hay que verificar ahora
+## 🔎 Pines medidos — datos con fuente *(pasada del 17/07/2026)*
 
-- **Distancias y tiempos reales** de los pines nuevos (Brandberg, Messum, Cape Cross, NamibRand,
-  Okonjima, Waterberg, Hoba, Bagatelle) — en investigación
-- **Elizabeth Bay**: si hay tours, cuándo y a qué precio
-- **Skeleton Coast**: qué sector es self-drive y qué permiso hace falta
-- **Ongava** y **Okonjima**: precios por noche para dos en nov/dic 2026
-- **Kgalagadi**: si Asco autoriza el cruce, coste y validez del seguro en Sudáfrica
-- **Messum Crater**: accesibilidad real y si exige guía
+Esto cierra la lista de «Lo que hay que verificar» que dejó la pasada anterior. Cada cifra lleva su
+fuente y su marca: **✅ primaria** · **◐ secundaria** · **○ práctica común**. Todos los precios en
+**N$ y €** (~N$20 = €1; el rand ZAR cotiza ~1:1 con el N$; los importes en US$ se convierten al
+cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
+
+### 🎫 Entradas y visitas guiadas *(de camino en la Opción A)*
+
+- **Cape Cross — colonia de lobos marinos** ◐
+  - Entrada **~N$150/persona (~€7,5) + ~N$50/coche (~€2,5)**; algunas reseñas citan ~N$80/persona
+    → **rango N$80–150**, sin tabla oficial abierta. Solo **efectivo**.
+  - **Timing ideal:** el pico de cría es **noviembre-diciembre** (hasta ~210.000 focas) — justo
+    vuestras fechas.
+  - Acceso por la **C34** al norte de Swakopmund (costa). Gestiona MEFT.
+  - Fuentes: [TripAdvisor — Cape Cross](https://www.tripadvisor.com/Attraction_Review-g3650568-d547128-Reviews-Cape_Cross-Erongo_Region.html) ·
+    [MEFT — Cape Cross Seal Reserve](https://www.meft.gov.na/national-parks/cape-cross-seal-reserve/214/)
+
+- **Brandberg — la Dama Blanca** ◐
+  - **Guía OBLIGATORIO.** El sitio lo gestiona la **comunidad damara** y no se sube sin guía local.
+  - **~N$250–270/persona (~€12,5–13,5)**. Caminata de **~3 h ida y vuelta**, poca sombra
+    → planificar a primera hora por el calor (ver `08`).
+  - Fuentes: [namibweb — Brandberg Mountain Guides](http://www.namibweb.com/brandg.htm) ·
+    [TripAdvisor — White Lady](https://www.tripadvisor.com/Attraction_Review-g1182959-d2284289-Reviews-White_Lady-Khorixas_Kunene_Region.html)
+
+- **Hoba Meteorite** ◐
+  - **~N$250/persona (~€12,5)** (una reseña de 2024 lo cifra en «22,50 €/extranjero» ≈ N$250).
+    Gestiona el **National Heritage Council**.
+  - **OJO geografía:** está junto a **Grootfontein**, en el **noreste** — **fuera del eje sur** ya
+    decidido. Suma días; no encaja «gratis».
+  - Fuente: [TripAdvisor — Hoba Meteorite](https://www.tripadvisor.com/Attraction_Review-g1137965-d3609771-Reviews-Hoba_Meteorite-Grootfontein_Otjozondjupa_Region.html)
+
+- **Waterberg Plateau** ◐/✅
+  - **N$280/persona/día (~€14)** — es el **baremo premium del MEFT** vigente desde el **1/04/2026**,
+    el mismo que Etosha y Namib-Naukluft (ver `08`).
+  - Fuente: [NWR — Waterberg](https://www.nwrnamibia.com/waterberg-prices.htm) ·
+    baremo en [08-huecos-cerrados.md](08-huecos-cerrados.md)
+
+- **Otjitotongwe Cheetah Farm** ◐
+  - Interacción/alimentación de guepardos. En la **C40, a 24 km de Kamanjab** (eje camino de Etosha
+    por la puerta Galton). Alimentación **~15:00** (16:00 en invierno).
+  - **~US$33 (~€30; ~N$610)** el paseo (◐, una reseña). Los no alojados deben **avisar antes**;
+    cerrado fines de semana según una fuente.
+  - Fuente: [namibweb — Otjitotongwe](https://www.namibweb.com/otjitotongwe.htm)
+
+### 🚫 Zonas restringidas y acceso guiado
+
+- **Elizabeth Bay — SOLO con tour guiado** ✅ (Sperrgebiet restringido)
+  - **N$3.630/persona (~€182)**, mínimo 2 personas, ~4 h, salidas **08:45 / 13:45** desde Lüderitz.
+  - **Requiere copia del pasaporte 10 días antes** (permiso NAMDEB / Policía). Tarifa válida
+    **1/01–31/12/2026**.
+  - **Kolmanskop** (el que sí encaja fácil): tours **lun-sáb 09:30 y 10:45**, **dom 10:00**; el
+    permiso va **incluido en el ticket**.
+  - Fuentes: [info-namibia — Elizabeth Bay tour](https://www.info-namibia.com/activities-and-places-of-interest/luederitz/elizabeth-bay-and-diamond-area-tour) ·
+    [namibweb — tours de Lüderitz](https://www.namibweb.com/ludtour.htm)
+
+- **Messum Crater — desaconsejado como self-drive turístico** ◐
+  - **4x4 imprescindible**; permiso **gratis** en oficina MEFT / Turismo de Henties Bay
+    (requisito discutido según foros).
+  - **Líquenes extremadamente frágiles:** un 4x4 arrasa **~1 hectárea cada 10 km fuera de pista**
+    y crecen **~1 mm/año**. **Máximo 40 km/h, prohibido salir de la rodada.**
+  - Circuló un **rumor de cierre al self-drive (2014)** nunca confirmado. **Alto riesgo ecológico**
+    → no recomendado para este viaje.
+  - Fuentes: [travelnam — Messum Crater](https://travelnam.com/crater-with-a-difference-messum-crater/) ·
+    [dangerousroads — Messum](https://www.dangerousroads.org/africa/namibia/5955-messum-crater.html)
+
+- **Skeleton Coast — permiso de tránsito gratis, pero pernocta CERRADA en noviembre** ◐
+  - Sector self-drive: **entre las puertas de Ugabmund (sur) y Springbokwasser (este)**. El
+    **permiso de tránsito es gratis** y se saca en la propia puerta.
+  - Puertas **07:30–19:00**; **no se entra después de las 15:00** sin reserva confirmada.
+  - **Torra Bay abre solo diciembre-enero → CERRADO a finales de noviembre.** Terrace Bay
+    (NWR) abre todo el año, pero pernoctar exige **reserva previa**.
+  - Fuentes: [NWR — Skeleton Coast](https://www.nwrnamibia.com/skeleton-coast-national-park.htm) ·
+    [TripAdvisor — permits & gate times](https://www.tripadvisor.com/ShowTopic-g479222-i25768-k8459916-Driving_permits_and_gate_opening_times-Skeleton_Coast_National_Park_Khomas_Region.html)
+
+- **NamibRand — no es self-drive libre** ◐
+  - **Día:** ~US$10–20/persona (~€9–18; ~N$185–370). **Alojados:** tasa de conservación **por cama
+    y día** que cobra el lodge (sistema de concesiones). El acceso general va **vía alojamiento**,
+    no como pista abierta.
+  - Fuentes: [NamibRand — Tourism](https://www.namibrand.com/tourism.html) ·
+    [takeyourbackpack — NamibRand](https://www.takeyourbackpack.com/backpacking-in-namibia/visit-namibrand-nature-reserve/)
+
+### 🛏️ Los que resultaron ser LUJO *(fuera de gama media)*
+
+Se pedía saber si Ongava y Okonjima son gama media o lujo. **Respuesta: lujo.** Se apuntan para
+descartarlos del presupuesto de gama media.
+
+- **Ongava** (junto a la puerta de Andersson) — **LUJO** ◐
+  - Desde **~R17.307 ≈ N$17.300 (~€865) por persona/noche** en pensión completa; oferta puntual
+    **~N$10.950 (~€548)**. Mínimo 2 noches.
+  - Fuente: [siyabona — Ongava Tented Camp](https://www.siyabona.com/pricing_safari-lodge-ongava-tented-camp.html)
+
+- **Okonjima / AfriCat** (eje Windhoek–Etosha) — **gama alta** ◐
+  - Desde **~US$684 ≈ N$12.700 (~€630) por persona/noche** en pensión completa (Bush Camp,
+    jul-dic 2026). El **Plains Camp** (media pensión) es más barato pero **sigue siendo gama alta**.
+    Es una parada lógica del eje, pero no es camping ni gama media.
+  - Fuentes: [Okonjima — Rack Rates 2026 (PDF)](https://okonjima.com/wp-content/uploads/2025/12/Okonjima-Rack-Rates-2026.pdf) ·
+    [Okonjima — rates](https://okonjima.com/rates/)
+
+- **Bagatelle Kalahari** (eje Windhoek–sur, cerca de Mariental) — **gama media-alta** ◐
+  - Desde **~R6.400 ≈ N$6.400 (~€320) la noche para 2** en media pensión; tiene **camping** más
+    barato. Encaja como primera/última noche del eje sur si se quiere una noche de dunas rojas.
+  - Fuente: [lekkeslaap — Bagatelle rates](https://www.lekkeslaap.co.za/accommodation/bagatelle-kalahari-game-ranch/rates)
+
+### 📏 Kaokoland (Epupa + Opuwo) — el descarte, ahora CON números ◐
+
+```mermaid
+flowchart LR
+    W["Windhoek"] -->|"732 km<br/>B1 asfalto + C38 grava"| O["Opuwo"]
+    O -->|"180-190 km<br/>grava D3700, ~3-5 h"| E["Epupa Falls"]
+    E -.->|"y la vuelta<br/>otra vez"| W
+    style E fill:#9d0208,color:#fff
+```
+
+- **Windhoek → Opuwo:** **732 km** por carretera (Google ~9h15). B1 asfalto hasta Otjiwarongo,
+  luego **C38/grava**.
+- **Opuwo → Epupa:** **180–190 km de grava por la D3700** (~3–5 h), cruzando cauces secos.
+- **Ida y vuelta a Kaokoland = ~4 días SOLO de conducción** desde Windhoek, **sin contar Etosha**.
+  Con el sur dentro (Fish River + Lüderitz), **no cabe**: es aritmética, no gusto.
+- **Y de propina, el seguro:** las pistas **D3700 / D3703 / D3707** de Kaokoland-Damaraland son justo
+  donde el contrato de Asco **no cubre bajos ni garantiza rescate** aunque pagues Super Cover
+  (ver `01` y `05`). Doble motivo para dejarlo fuera.
+- Fuentes: [trippy — Windhoek↔Opuwo](https://www.trippy.com/distance/Windhoek-to-Opuwo) ·
+  [Epupa Camp — directions](https://epupa.com.na/directions/)
+
+---
+
+## 💶 Coste por persona de las visitas «de camino» *(las baratas)*
+
+Las entradas que sí encajan en la Opción A son **calderilla** comparadas con un tour del Sperrgebiet.
+El contraste, de un vistazo (N$/persona):
+
+```mermaid
+xychart-beta
+    title "Coste por persona en N-dolar - visitas de camino"
+    x-axis ["Cape Cross", "Hoba", "Brandberg", "Waterberg dia", "Otjitotongwe", "Elizabeth Bay"]
+    y-axis "N$ por persona" 0 --> 3800
+    bar [150, 250, 270, 280, 610, 3630]
+```
+
+> **Lectura:** Cape Cross, Brandberg y una tasa de parque son ~N$150–280 (~€7–14) por cabeza. El
+> tour de **Elizabeth Bay dispara a N$3.630 (~€182)** — es la única visita «cara» de la lista, y
+> encima con papeleo de 10 días. Si el sur va apretado, es el primer candidato a caer.
+
+---
+
+## 🕳️ Lo que SIGUE sin cerrarse *(honesto)*
+
+- **Cape Cross:** el **tramo exacto** de la tabla MEFT (¿N$80 o N$150?) no se pudo verificar contra
+  el PDF primario (bloqueado). Rango N$80–150.
+- **Okonjima Plains Camp:** el número fino de la media pensión no salió por fragmento (el PDF de
+  tarifas está publicado pero no se pudo abrir aquí).
+- **Waterberg (camping NWR):** la tasa de **parcela** (distinta de la entrada de N$280) no se
+  extrajo; solo la entrada.
+- **Kgalagadi:** descartado por decisión del viajero — no se investiga si Asco autoriza el cruce.
+- **Messum Crater:** el **estado real de apertura al self-drive** (tras el rumor de cierre de 2014)
+  no se pudo confirmar con fuente oficial → tratar como **incierto**.
