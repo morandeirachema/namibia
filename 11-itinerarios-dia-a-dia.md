@@ -1,7 +1,64 @@
-# Los tres itinerarios, día a día
+# Los itinerarios, día a día
 
-Desarrollo completo de las variantes de `04-itinerario.md`. Finales de noviembre de 2026, **después
-del precipicio de precio del 15/11**. Fechas ilustrativas: **llegada el viernes 20/11/2026**.
+> ## 🔄 ACTUALIZACIÓN 17/07/2026 — dos decisiones del viajero cambian la ruta
+>
+> 1. **Fechas: primera quincena de noviembre**, pudiéndose adelantar algunos días a finales de
+>    octubre. El "salir tras el 15 nov" ya no aplica: el coche irá en banda alta (€179/día).
+> 2. **Sossusvlei Y Etosha van los dos en el mismo viaje.** Eso invalida la A (sin Etosha) y la B
+>    (sin Sossusvlei) como recomendación, y obliga a recortar el sur.
+>
+> **La ruta pasa a ser la VARIANTE D**, desarrollada aquí abajo. A y B quedan como referencia.
+
+---
+
+<div align="center">
+
+## ❓ ¿Qué se puede quitar del sur? — la tijera, ordenada
+
+</div>
+
+Con Sossusvlei y Etosha fijos, el sur es lo que compite por los días. Esto es lo que cuesta y lo que
+vale cada pieza:
+
+```mermaid
+flowchart TD
+    S["EL SUR<br/>~4,5-5 dias completo"] --> A1["✂️ 1º · AI-AIS<br/>ahorra ~medio dia<br/>pierdes poco"]
+    S --> A2["✂️ 2º · LUDERITZ + KOLMANSKOP<br/>ahorra ~2 dias<br/>LA tijera que hace caber todo"]
+    S --> A3["🚫 NO CORTAR · miradores del canon<br/>+ kokerbooms + Garub + D707<br/>cuestan ~2,5 dias y son el alma del sur"]
+    A1 --> R["Con 1º y 2º cortados:<br/>Sossusvlei + Etosha + canon<br/>CABEN en 14 dias"]
+    A2 --> R
+    style A1 fill:#2d6a4f,color:#fff
+    style A2 fill:#e85d04,color:#000
+    style A3 fill:#9d0208,color:#fff
+    style R fill:#2d6a4f,color:#fff
+```
+
+**✂️ Primera tijera — Ai-Ais** *(ahorra ~½ día, pierdes casi nada)*
+Son las fuentes termales del **fondo** del cañón: 68 km de grava bacheada por trayecto, hace más
+calor que en el borde (está cientos de metros más abajo), y el sendero está cerrado en noviembre de
+todas formas. **Los miradores —que son el espectáculo— están arriba, en Hobas.**
+
+**✂️ Segunda tijera — Lüderitz y Kolmanskop** *(ahorra ~2 días; es la que decide)*
+Lüderitz es un **fondo de saco**: 334 km al oeste por la B4 que hay que deshacer o pagar con la
+etapa más dura del viaje. Kolmanskop merece un día entero para hacerlo bien (el permiso de fotógrafo
+es de amanecer a atardecer). Juntos cuestan **~2 días** que son exactamente los que necesita Etosha.
+*(Elizabeth Bay cae sola con ellos — era un capricho de N$3.630/persona con permiso a 10 días.)*
+**Es la pérdida dolorosa**: la ciudad fantasma es única. Pero es la única tijera que cierra el
+círculo.
+
+**🚫 Lo que NO hay que cortar** *(porque cuesta poco y es el alma del sur)*
+- **Los miradores del Fish River** — el motivo del sur, ~2,5 días desde el eje
+- **El bosque de kokerbooms** — 14 km de Keetmanshoop, sale gratis
+- **Los caballos de Garub** — pequeño desvío desde Aus, de camino
+- **La D707** — no es desvío, ES la carretera hacia Sesriem
+
+> ### El resultado: la Variante D
+> **Sossusvlei + Etosha + el cañón + la D707 + Garub + kokerbooms, en 14 días.**
+> Lo único que se queda fuera del sur: Ai-Ais y Lüderitz/Kolmanskop.
+
+---
+
+Desarrollo completo de las variantes. **Ventana real: primera quincena de noviembre de 2026.**
 
 **~N$20 = €1** · **✅ verificado** · **◐ secundario** · **○ estimación propia**
 
@@ -13,8 +70,143 @@ del precipicio de precio del 15/11**. Fechas ilustrativas: **llegada el viernes 
 
 <div align="center">
 
+## ⭐ VARIANTE D — Las dos coronas y el cañón
+### La ruta del viaje: Sossusvlei + Etosha + Fish River, sin Lüderitz
+
+</div>
+
+**~3.100 km · 13 días de coche · 4 días de conducción fuerte (2 de ellos en asfalto) · fechas
+ilustrativas: llegada el domingo 1 de noviembre de 2026**
+
+> ### 📅 Por qué el 1 de noviembre importa
+> **NWR cambia a su tramo barato el 1 de noviembre.** Empezando ese día, **todas** las noches de
+> NWR (Hobas, Sesriem, Etosha) van en tarifa baja.
+>
+> **¿Y si adelantáis días a octubre?** Hasta **2 días es gratis**: las primeras noches del plan
+> (Windhoek, Keetmanshoop) **no son NWR**. A partir de ahí, cada noche NWR de octubre paga la
+> tarifa vieja en su tramo caro (el chalet del charco costaría N$2.200 más, el camping N$200 más).
+> 👉 **Si se adelanta, que octubre se lo lleve el sur — que además es su época fresca (~30 °C).**
+
+```mermaid
+gantt
+    title Variante D · Sossusvlei + Etosha + canon · 1-14 nov 2026
+    dateFormat YYYY-MM-DD
+    axisFormat %d-%m
+    section Llegada
+    D1 Llegada Windhoek           :d1, 2026-11-01, 1d
+    section Sur esencial
+    D2 Windhoek-Keetmanshoop      :d2, after d1, 1d
+    D3 Keetmanshoop-Hobas         :d3, after d2, 1d
+    D4 Miradores-Garub-Tiras      :d4, after d3, 1d
+    section Namib
+    D5 D707-Sesriem               :d5, after d4, 1d
+    D6 Sossusvlei amanecer        :d6, after d5, 1d
+    D7 Sesriem-Swakopmund         :d7, after d6, 1d
+    section Costa
+    D8 Descanso costa             :d8, after d7, 1d
+    D9 Swakopmund-Spitzkoppe      :d9, after d8, 1d
+    section Safari
+    D10 Spitzkoppe-Etosha         :d10, after d9, 1d
+    D11 Safari Okaukuejo          :d11, after d10, 1d
+    D12 Safari Halali-Namutoni    :d12, after d11, 1d
+    section Vuelta
+    D13 Namutoni-Windhoek         :d13, after d12, 1d
+    D14 Vuelo                     :d14, after d13, 1d
+```
+
+### D1 · dom 1 nov — Llegada a Windhoek
+- 4x4 + briefing (1–2 h): **presiones en frío apuntadas, las DOS ruedas de repuesto, gato y
+  compresor a la vista** antes de salir del patio (`05`)
+- Efectivo (~N$6.000–8.000), **SIM de MTC** con pasaporte *(el kiosco cierra ~21:00)*
+- 🍺 **Joe's Beerhouse** · 🛏️ Windhoek — hoy no se conduce al sur
+
+### D2 · lun 2 — Windhoek → Keetmanshoop · **500 km asfalto · 5h30–6h** ✅
+- B1: sal al alba, come en Mariental. Fauna en los arcenes al atardecer: llega con luz
+- 🌳 **Kokerbooms al atardecer** (14 km, M29) — y si el cielo acompaña, **astrofoto**
+- 🛏️ Keetmanshoop / Quivertree Rest Camp ⚠️ *precio sin verificar*
+
+### D3 · mar 3 — Keetmanshoop → Hobas · **150–160 km · 2h30** ✅
+- 🛑 **Borde ESTE por la C12** *(el aviso "no tomes la C12" es para el Lodge del borde oeste; no hay
+  puente entre bordes)* · **evita la D462** · valora la ruta por la presa de Naute
+- ⛽ A tope en Keetmanshoop · 🎫 tasa ~N$620/24 h
+- 🌇 **Hell's Bend al atardecer** (10 km de pista de borde, despacio)
+- 🛏️ **Camping Hobas — N$960 (~€48)** ✅ *(tarifa baja: ya es noviembre)*
+
+### D4 · mié 4 — Amanecer en el cañón → Garub → Tiras · **~300–330 km · ~4h30–5h** ◐
+- 🌅 Amanecer en los miradores (bloque de 2–3 h) — *Ai-Ais se queda fuera: fondo del cañón, más
+  calor, sendero cerrado. Media jornada ahorrada que se va al safari*
+- Salida por C12/B4 hacia el oeste → 🐎 **desvío corto a Garub: los caballos salvajes** → Aus →
+  C13 norte hacia Helmeringhausen
+- 🛏️ Zona **Tiras / Namtib** ⚠️ *precio sin verificar*
+
+### D5 · jue 5 — La D707 → Sesriem · **~240 km grava · ~4h** ◐
+- 🏆 **La D707 entera**, dunas a un lado y las Tiras al otro — con calma, es de las joyas del viaje
+- ✅ *Recuerda: la D707 NO es la D3707 — esta está cubierta por el seguro como cualquier grava*
+- 🎫 Namib-Naukluft ~N$620/24 h
+- 🛏️ **🔑 DENTRO de la puerta: Sesriem Campsite — N$1.340 (~€67)** ✅ *(44 parcelas: reservar YA)*
+
+### D6 · vie 6 — Sossusvlei y Deadvlei · **130 km · día completo** ✅
+- 🌅 **Puerta interior 1 h antes del amanecer** — Deadvlei casi en solitario
+- Duna 45 de camino · últimos 5 km de arena: 4H antes de entrar, desinflar en el 2WD, reinflar en
+  Sesriem *(o lanzadera N$180/persona)*
+- Tarde: Sesriem Canyon · 🛏️ Sesriem, segunda noche
+
+### D7 · sáb 7 — Sesriem → Swakopmund · **345 km · 91 % grava · ~7h** ✅
+- **El día grande de grava**: sal al alba. C14, pasos de Gaub y Kuiseb, Trópico de Capricornio
+- ⛽ **Solitaire obligatorio** *(y la tarta)* — después, **210 km sin nada**
+- 🛏️ Swakopmund ⚠️ *precio sin verificar*
+
+### D8 · dom 8 — Costa: el día de descanso ✅
+- 🦩 Flamencos y pelícanos en Walvis Bay (30 km de asfalto) · ostras, café, ciudad alemana
+- 🚫 Sandwich Harbour **solo en tour guiado** (el contrato lo prohíbe con tu coche — y el tour es
+  mejor plan) · 🛏️ Swakopmund
+
+### D9 · lun 9 — Swakopmund → Spitzkoppe · **140–150 km · ~1h45** ◐
+- Día corto a propósito: tarde de arcos de granito y **noche de estrellas**
+- 🛏️ Spitzkoppe Community Campsite ⚠️ *precio sin verificar*
+
+### D10 · mar 10 — Spitzkoppe → Etosha (Okaukuejo) · **~430–450 km · ~5h** ○
+- Ruta rápida por Usakos–Otjiwarongo–Outjo (mayoría asfalto) → puerta de **Andersson**
+- *Alternativa con Damaraland: parar en **Twyfelfontein** (grabados UNESCO) y dormir allí, pasando a
+  Etosha el D11 — a cambio de un día menos de safari. Elegir según fauna vs arte rupestre*
+- 🎫 Etosha ~N$620/24 h × 3 días · trámite de puerta 20–30 min
+- 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes
+- 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
+
+### D11 · mié 11 — Safari zona Okaukuejo ✅
+- Día entero de charcas alrededor de Okaukuejo, a 60 km/h y parando
+- Primera quincena de noviembre = **parque seco casi seguro** (4 de 5 temporadas) = fauna
+  concentrada en las charcas · 🛏️ Okaukuejo
+
+### D12 · jue 12 — Safari Okaukuejo → Halali → Namutoni · **~140 km de safari** ✅
+- 🚧 **Obras 2026**: el tramo a Halali va por desvíos (~90 km lentos, ~3 h) — confirmar con NWR
+- Charcas Goas, Nuamses, Springbokfontein, Batia, Chudop
+- 🛏️ **Camping Namutoni — N$920 (~€46)** ✅ *(o Halali si el desvío come el día)*
+
+### D13 · vie 13 — Namutoni → Windhoek · **~550 km asfalto · ~5h30–6h** ○
+- Salida por **Von Lindequist** (14 km, la puerta rápida del este)
+- 🥩 **Línea Roja**: la carne cruda no baja del norte — el braai se come en Etosha
+- 🛏️ Windhoek — entrega del coche hoy o mañana temprano
+
+### D14 · sáb 14 — Vuelo
+- 💱 **Gasta o cambia los N$ antes de embarcar**: fuera de Namibia no valen nada
+
+### 💰 Coste orientativo de D *(ventana 1–15 nov: coche en banda alta)*
+- **Alquiler 13 días + Super Cover: €2.652 (~N$53.040)** ✅ *(€179+€25/día · la banda baja de €117
+  no es accesible con vuestras fechas — la flexibilidad tras el 15 nov habría valido ~€806)*
+- **Camping NWR verificado**: Hobas 960 + Sesriem 2×1.340 + Etosha 3×920 = **N$6.400 (~€320)** ✅
+- **Tasas de parque**: cañón 1–2 + Namib 2 + Etosha 3 unidades ≈ **N$3.700–4.300 (~€185–215)** ◐
+- **Combustible ~3.100 km**: ~370–400 l ≈ **N$9.500–10.500 (~€475–525)** ○
+- **Visado**: N$3.200 (~€160) los dos ✅
+- **Total tierra en camping ≈ €4.400 (~N$88.000)** la pareja ○ *(recalculado desde `10` con el
+  coche en banda alta; hereda sus partidas estimadas)*
+
+---
+
+<div align="center">
+
 ## 🟢 VARIANTE A — Sur + Namib + costa · SIN Etosha
-### La recomendada
+### Referencia (superada por la decisión de incluir Etosha)
 
 </div>
 
@@ -177,7 +369,7 @@ gantt
 <div align="center">
 
 ## 🟠 VARIANTE B — Sur + Etosha · SIN Sossusvlei
-### Si la fauna manda
+### Referencia (superada: Sossusvlei va sí o sí)
 
 </div>
 
@@ -295,30 +487,24 @@ La guía de operadores dice *«no further than 400 km per day»* y, mejor, *«ai
 
 <div align="center">
 
-## 🧭 Cómo elegir
+## 🧭 Cómo se eligió
 
 </div>
 
+Con las dos decisiones del viajero —**primera quincena de noviembre** y **Sossusvlei + Etosha
+juntos**— la elección quedó hecha: **Variante D**. A y B se conservan arriba como referencia de lo
+que costaría cada renuncia, y C sigue documentada como el porqué de que no quepa todo.
+
 ```mermaid
 flowchart TD
-    D{"¿Que es innegociable?"}
-    D -->|"Las dunas de Sossusvlei"| A["🟢 VARIANTE A<br/>sur + Namib + costa<br/>sin Etosha"]
-    D -->|"La fauna de Etosha"| B["🟠 VARIANTE B<br/>sur + Etosha<br/>sin Sossusvlei"]
-    D -->|"Las dos"| E["Alarga a 17-18 dias"]
-    E -->|"imposible"| F["Elige A:<br/>Sossusvlei no se repite<br/>la fauna se ve en otros sitios"]
-    style A fill:#2d6a4f,color:#fff
-    style B fill:#e85d04,color:#000
-    style E fill:#9d0208,color:#fff
+    D1{"Decisiones del viajero"}
+    D1 -->|"Sossusvlei + Etosha juntos"| D2["Ni A ni B valen"]
+    D2 --> D3["¿Que cede? El sur se recorta:<br/>fuera Ai-Ais y Luderitz/Kolmanskop<br/>se quedan canon, D707, Garub, kokerbooms"]
+    D3 --> D["⭐ VARIANTE D<br/>~3.100 km · 13 dias de coche"]
+    style D fill:#2d6a4f,color:#fff
 ```
 
-**Mi lectura honesta:** si tuviera que elegir por ti, **A**. Razón: **Sossusvlei y Deadvlei no
-tienen sustituto en ningún otro sitio del mundo**, mientras que la fauna africana sí se ve en otros
-parques y en otros viajes. Además A es la única que **deja margen**, y el margen es lo que te protege
-del riesgo real de este viaje, que no es perderte algo: es la fatiga en grava.
-
-**Pero la decisión es tuya, y B es perfectamente defendible** si lo que os mueve es la fauna.
-
----
+<div align="center">
 
 ## 🕳️ Lo que falta para cerrar cualquiera de los tres
 
