@@ -474,7 +474,10 @@ flowchart TD
    firma ante el oficial** — solo en `eservices.mhaiss.gov.na` ⚠️ *(`namibia-evisa.com` parece
    oficial y no lo es; el portal real puede dar un aviso de certificado — es mala configuración
    suya: verifica el dominio y sigue)*. La **cita del Centro de Vacunación** (A Coruña, Durán
-   Lóriga 3 · **981 989 570**) se pide **en agosto**.
+   Lóriga 3 · **981 989 570**) se pide **en agosto**. Y el **permiso internacional de conducir**:
+   con carnet español (que no está en inglés) **sí hace falta** — lo pide la ley namibia, el
+   alquiler y el seguro. Se saca en la DGT por **~€10,51 (~N$210)**, vale **1 año** y va **siempre
+   junto al carnet** *(detalle y evidencia en `03`)*.
 
 **Y tres datos médicos que se resuelven en una tarde:** **malaria** — Etosha sí es zona (CDC), el
 desierto y la costa no; a primeros de noviembre, antes de las lluvias, el riesgo está en su mínimo

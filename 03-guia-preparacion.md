@@ -159,6 +159,58 @@ los mismos coches la misma semana.
 del sector, no un plazo citable. **Reserva el coche antes que vuelos no reembolsables**: una ruta
 sin 4x4 disponible no es una ruta.
 
+### El permiso internacional de conducir: con carnet español, SÍ hace falta ◐
+
+Este era el último hueco que **bloqueaba la reserva** (figuraba como «sin resolver» en `01`).
+**Resuelto:** un carnet de conducir **español** necesita acompañarse de un **permiso internacional
+de conducir** —o de una traducción jurada al inglés— para conducir en Namibia.
+
+**Por qué.** Namibia deja conducir con carnet extranjero hasta 90 días, **pero el carnet tiene que
+estar en inglés**. Si no lo está, la normativa exige que lo acompañe *«a certificate of authenticity
+or validity … issued in English by a competent authority»* o *«a translation … in English by a sworn
+translator»*, y que el carnet lleve **foto y firma** del titular. El carnet español lleva foto y
+firma, pero el texto está en castellano → **no cumple por sí solo**. La base legal es el reglamento
+de la *Road Traffic and Transport Act* publicado en el *Government Gazette* de **30 de marzo de 2001**.
+
+**Y no lo pide solo la ley — lo piden tres actores a la vez:**
+
+```mermaid
+flowchart TD
+    C["Carnet espanol<br/>foto y firma, pero en castellano"] --> L["1 · La LEY namibia<br/>exige version en ingles<br/>Gazette 30-03-2001"]
+    C --> A["2 · La empresa de ALQUILER<br/>lo pide para cerrar<br/>reserva y recogida"]
+    C --> S["3 · El SEGURO<br/>en un siniestro puede<br/>exigir ver el IDP"]
+    L --> SOL["Solucion: permiso internacional<br/>modelo Convenio de Viena 1968<br/>SIEMPRE junto al carnet, nunca solo"]
+    A --> SOL
+    S --> SOL
+    style C fill:#e85d04,color:#000
+    style SOL fill:#2d6a4f,color:#fff
+```
+
+En este viaje el punto 3 pesa: con las exclusiones de bajos y vuelco de la Super Cover (`01`), no
+conviene dar a la aseguradora **ningún** motivo formal para discutir un parte.
+
+**Cómo se saca en España (DGT):**
+- Documento: **permiso internacional para conducir**, modelo del **Convenio de Viena de 1968** — que
+  es el que reconoce Namibia.
+- **Tasa 4.5 ≈ €10,51 (~N$210)**.
+- **Validez: 1 año, no renovable.** Sácalo con la vista puesta en las fechas del viaje, no con meses
+  de sobra: si caduca antes de volver, no sirve.
+- Se pide en **cualquier Jefatura de Tráfico con cita previa**, o **por internet** en la sede
+  electrónica de la DGT (se recoge ~2 días después, sin cita para recoger). Solo es válido **junto al
+  carnet español**, jamás por separado.
+
+> ⚠️ **Grado de evidencia, con honestidad.** Las páginas primarias (embajada de Namibia, AA Namibia,
+> sede de la DGT y el propio *Government Gazette*) **devolvieron HTTP 403 y no se pudieron descargar**
+> desde este entorno. El hallazgo se apoya en **varias fuentes secundarias independientes que
+> coinciden** —la guía oficial del Gobierno británico para conducir en el extranjero, el AA y
+> empresas de alquiler namibias— citando todas el mismo instrumento legal de 2001. Por eso va marcado
+> **◐**, no ✅. **Confirmad la tasa exacta y el trámite en la sede de la DGT antes de pagar.**
+
+Fuentes (consultadas vía buscador; la descarga directa la bloquearon los servidores):
+- Requisito namibio y base legal (Gazette 30/03/2001): https://internationaldrivingpermit.org/country/namibia/ · https://www.aa-namibia.com/international-driving-permit/
+- Guía del Gobierno británico (el IDP es necesario para el alquiler en Namibia): https://www.gov.uk/driving-abroad/international-driving-permit
+- Trámite, tasa y validez en España: https://sede.dgt.gob.es/es/permisos-de-conducir/permiso-internacional/
+
 ### Pasaportes: contra la fecha de VUELTA ✅
 
 El MAEC exige *«válido durante al menos 6 meses a partir de la fecha de regreso, con tres páginas en

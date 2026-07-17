@@ -255,14 +255,17 @@ flowchart TD
     end
     subgraph DUDOSAS["Refutadas 1-2 · sin resolver"]
         H["Ethiopian MAD-WDH<br/>desde €1.029"]
-        I["Permiso internacional<br/>obligatorio"]
+    end
+    subgraph CERRADO["Antes bloqueaba · ahora resuelto"]
+        I["Permiso internacional<br/>con carnet espanol SI hace falta"]
     end
     G --> AVISO["⚠️ Refutado NO significa<br/>que Etosha este libre<br/>de malaria: es DESCONOCIDO"]
-    I --> BLOQ["🛑 Bloquea la reserva<br/>si resulta ser cierto"]
+    I --> OK["✅ Resuelto en 03: IDP o<br/>traduccion jurada al ingles"]
     style MUERTAS fill:#9d0208,color:#fff
     style DUDOSAS fill:#e85d04,color:#000
+    style CERRADO fill:#2d6a4f,color:#fff
     style AVISO fill:#9d0208,color:#fff
-    style BLOQ fill:#9d0208,color:#fff
+    style OK fill:#2d6a4f,color:#fff
 ```
 
 **Refutadas por unanimidad (0–3):**
@@ -286,8 +289,14 @@ flowchart TD
 
 - **Ethiopian publica MAD–WDH ida y vuelta desde €1.029** → las fechas de muestra eran de
   septiembre de 2026, no de nuestro viaje.
-- **El permiso internacional de conducir es obligatorio** → 🛑 **sin resolver, y bloquea la
-  reserva si es cierto.**
+
+**Resuelto (antes bloqueaba la reserva):**
+
+- **El permiso internacional de conducir** → ✅ **cerrado**. Con un carnet **español** (que no está
+  en inglés) **sí hace falta** llevar el permiso internacional de conducir, o una traducción jurada
+  al inglés. No es un capricho: lo pide la normativa namibia, la empresa de alquiler y, en caso de
+  siniestro, el seguro. Trámite y coste (DGT) en `03-guia-preparacion.md`. Marcado **◐** porque las
+  páginas primarias no se pudieron descargar; ver ahí el detalle de evidencia.
 
 ---
 
@@ -305,7 +314,8 @@ Estos no tienen ni una afirmación superviviente. Hay una segunda pasada en curs
    lodges de gama media; y antelación de reserva para oct–dic. *(Parcialmente resuelto en
    `02-alojamiento-y-tasas.md`.)*
 4. **Presupuesto total** — no se puede calcular sin el punto 3.
-5. **Permiso internacional de conducir**, malaria en Etosha en nov–dic, certificado de fiebre
+5. ~~**Permiso internacional de conducir**~~ → **resuelto** (ver arriba y `03`), ~~malaria en
+   Etosha~~ → **resuelta** (sí es zona de riesgo, CDC, en `03`), certificado de fiebre
    amarilla al hacer escala en Adís Abeba (Etiopía es endémica), SIM/eSIM, efectivo vs tarjeta,
    seguridad.
 
