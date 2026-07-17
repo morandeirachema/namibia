@@ -147,6 +147,68 @@ flowchart LR
     cero de Namibia2Go decae con «negligencia probada» y excluye daños por agua; pregunta por
     escrito cómo trata los bajos en Damaraland)*.
 
+
+---
+
+<div align="center">
+
+## ✈️ El vuelo — cerrado
+
+</div>
+
+> # €1.366 por persona · €2.732 la pareja
+> ### A Coruña → Windhoek, ida y vuelta, turista *(Gotogate; Mytrip €1.390, Booking €1.391)*
+
+```mermaid
+flowchart LR
+    subgraph IDA["IDA · sab 31 oct · 19h20 · 2 escalas"]
+        I1["LCG 17:00"] --> I2["MAD 18:10<br/>Air Europa"]
+        I2 -->|"3h15"| I3["MAD 21:25"]
+        I3 --> I4["ADD 6:15+1<br/>Ethiopian"]
+        I4 -->|"2h20 ✅"| I5["ADD 8:35"]
+        I5 --> I6["WDH 13:20<br/>1 NOVIEMBRE"]
+    end
+    style I6 fill:#2d6a4f,color:#fff
+```
+
+```mermaid
+flowchart LR
+    subgraph VUELTA["VUELTA · sab 14 nov · 26h40 · 3 escalas"]
+        V1["WDH 14:30"] --> V2["ADD 21:20<br/>Ethiopian"]
+        V2 -->|"2h45 ✅"| V3["ADD 0:05+1"]
+        V3 --> V4["FCO 4:35"]
+        V4 -->|"3h35"| V5["FCO 8:10"]
+        V5 --> V6["MAD 10:45<br/>ITA"]
+        V6 -->|"4h10"| V7["MAD 14:55"]
+        V7 --> V8["LCG 16:10"]
+    end
+    style V8 fill:#e85d04,color:#000
+```
+
+### 🎉 Tres buenas noticias
+
+**1 · Sin fiebre amarilla.** La regla es **>12 h de tránsito** por país de riesgo. Tus escalas en
+Adís son de **2h20 (ida)** y **2h45 (vuelta)**, las dos *airside*: **muy por debajo del umbral**.
+Era el punto que llevaba semanas abierto y que se decidía justo al comprar el billete — **este
+itinerario lo resuelve solo**. Una escala larga, o la parada gratis en ciudad de Ethiopian, sí la
+habrían disparado.
+
+**2 · Las fechas caen clavadas en la ruta.** Aterrizas el **1 de noviembre a las 13:20** y despegas
+el **14 a las 14:30**: **13 noches, 14 días** — exactamente la Variante E, con D1 el 1 y D14 el 14.
+
+**3 · Y el calendario no podía salir mejor.** Sales el 31 de octubre pero **no duermes ni una noche
+en Namibia en octubre**: todas tus noches NWR caen en el **tramo barato** desde la primera, y el
+alquiler (1–14 nov, **13 días**) entra entero en la **temporada baja de Namibia2Go**.
+
+### ⚠️ Dos cosas que confirmar antes de pagar
+
+- **Que sea billete único.** La vuelta lleva **tres compañías** (Ethiopian + ITA + Air Europa). En
+  un solo billete, una conexión perdida es problema de la aerolínea; en billetes separados, es tuyo.
+- **Que incluya maleta facturada.** El tramo de Air Europa podría tener franquicia distinta a la de
+  Ethiopian.
+
+*La vuelta es dura, dicho sea: 26h40, salida de Adís a las 0:05 y 4h10 de espera en Madrid.*
+
 ---
 
 <div align="center">
@@ -163,22 +225,27 @@ xychart-beta
     bar [3300, 4200, 5200, 6100]
 ```
 
-### 👤 Por persona, todo incluido *(orientativo)*
+### 👤 Por persona, todo incluido *(con el vuelo real)*
 
-- 🏕️ **Camping** — **~€2.400–3.000** *(~N$48.000–60.000)* con vuelos
-- 🛖 **Lodges gama media** — **~€3.300–3.950** *(~N$66.000–79.000)* con vuelos
+- 🏕️ **Camping** — **~€3.000–3.470** *(~N$60.000–69.000)*
+- 🛖 **Lodges gama media** — **~€3.970–4.420** *(~N$79.000–88.000)*
 
-*Solo tierra, sin vuelos: camping **~€1.650–2.100 p.p.** · lodges **~€2.600–3.050 p.p.***
+*Solo tierra, sin vuelo: camping **~€1.650–2.100 p.p.** · lodges **~€2.600–3.050 p.p.***
 
-> **El ancho del rango tiene dos culpables, y los dos se cierran con un email:** la **compañía de
-> coche** *(Namibia2Go entra en temporada baja el 1 nov y Asco no — ~€450/persona de diferencia)* y
-> los **vuelos**, que siguen ❌ **sin verificar** para tus fechas.
+> ### ⚠️ Cifras corregidas al alza
+> Con el presupuesto real del vuelo (**€1.366 p.p. · €2.732 la pareja**), el total sube: nuestra
+> estimación anterior daba **€1.400–1.800 *la pareja*** cuando la realidad es **€2.732 la pareja**
+> — se había quedado **~1,7× corta**. Así es como un número plausible se cuela: parecía razonable
+> y no lo era.
+>
+> **Lo que aún puede bajar ~€450/persona:** la **compañía de coche** *(Namibia2Go entra en
+> temporada baja el 1 nov y Asco el 15)*. Se cierra pidiendo los dos presupuestos.
 
 ### 👥 Por pareja
 
-- 🏕️ **Camping** — **~€3.300–4.200 (~N$66.000–84.000)** en tierra ○
-- 🛖 **Lodges gama media** — **~€5.200–6.100 (~N$104.000–122.000)** en tierra ○
-- ✈️ **Vuelos** — ~€1.400–1.800 la pareja ❌ *sin verificar para tus fechas*
+- 🏕️ **Camping** — **~€3.300–4.200 (~N$66.000–84.000)** en tierra ○ · **+€2.732 de vuelos**
+- 🛖 **Lodges gama media** — **~€5.200–6.100 (~N$104.000–122.000)** en tierra ○ · **+€2.732**
+- ✈️ **Vuelo** — **€2.732 la pareja** ✅ *presupuestado (Gotogate €1.366 p.p.)*
 
 Partidas firmes dentro de eso: **alquiler 13 días — Namibia2Go ~€1.755 ✅◐ o Asco €2.652 ✅** ·
 noches NWR verificadas de la ruta (Sesriem ×2 + Etosha ×4, todo dentro) **N$7.360 (~€368)** ✅ · tasas de
@@ -315,9 +382,13 @@ los blogs *(caduca antes de aterrizar — factura por año tarifario nov–oct)*
 efectivo» en gasolineras *(«credit» ahí significa «a cuenta», no «tarjeta»)*, y **todas** las
 temperaturas de las webs de safaris — rehechas con datos de estación meteorológica.
 
-> **Lo que no se pudo verificar está en blanco y dicho**: los vuelos para tus fechas y varios
-> alojamientos por noche (Terrace Bay, Hoada, Spreetshoogte, Walvis, Onguma). Y las tasas de parque
-> (~N$280) se apoyan aún en fuente secundaria: **confírmalas por email antes de cerrar presupuesto.**
+> **Lo que no se pudo verificar está en blanco y dicho**: varios alojamientos por noche (Terrace
+> Bay, Hoada, Spreetshoogte, Walvis) y las distancias de esta ruta, que se midieron para el
+> recorrido del sur. Y las tasas de parque (~N$280) se apoyan aún en fuente secundaria:
+> **confírmalas por email antes de cerrar presupuesto.**
+>
+> ✅ **Los vuelos ya no son un hueco** — y sirvieron para pillar un error nuestro: la estimación se
+> había quedado ~1,7× corta. **Los números plausibles se acaban usando para pagar.**
 
 ---
 
