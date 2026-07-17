@@ -378,7 +378,7 @@ cerrada y el presupuesto se estrecha de golpe.
 > *Alternativa: añadir el día 13 (~€167) y devolverlo el 14 camino del aeropuerto — puede salir
 > igual o más barato que hotel + dos traslados.*
 
-### 🎥 El coche por dentro — y qué te da exactamente la Comfort
+### 🎥 El coche por dentro — y qué te da exactamente la Budget
 
 ▶️ **[Namibia2Go — «Experience The Fully Equipped Hilux»](https://www.youtube.com/watch?v=LPNZ-l8y3Pg)**
 *· vídeo de la propia empresa*
@@ -387,14 +387,14 @@ cerrada y el presupuesto se estrecha de golpe.
 la web ofrece **dos versiones del mismo vehículo** y el vídeo no aclara cuál enseña. La diferencia
 se ve a simple vista:
 
-- **Budget** — dos tiendas **blandas** Tentco + cajas de camping
-- 🏆 **COMFORT** — dos tiendas de **carcasa rígida** + cocina a medida ← **la tuya** ✅
+- 🏆 **Budget** — dos tiendas **blandas** Tentco + cajas de camping ← **la tuya** ✅ *(la Comfort salió «Not Available» para tus fechas)*
+- **Comfort** — dos tiendas de **carcasa rígida** + cocina a medida *(no disponible)*
 
-> 👉 **Al ver el vídeo, fíjate en el techo:** si las tiendas son **hard shell** *(se abren solas,
-> tipo concha)* es la Comfort; si son de lona plegada, es la Budget.
+> 👉 **Al ver el vídeo, fíjate en el techo:** el tuyo es el **Budget**, así que espera **tiendas de
+> lona plegada** *(no las de carcasa rígida tipo concha, que son de la Comfort)*.
 >
-> *La carcasa rígida se monta en un minuto y aguanta mejor el polvo y el viento — con **11 noches
-> de tienda**, se nota.*
+> *La lona plegada se monta y desmonta a mano cada día — con **11 noches de tienda**, es la rutina de
+> la tarde. Práctica en subir y bajar el toldo antes de salir.*
 
 **Ficha verificada del vehículo** ✅ — 4x4 permanente · automático · **motor 2.8L GD-6 turbodiésel**
 · 5 plazas con tiendas para 4 · km ilimitados · **2 ruedas de repuesto** y **nevera eléctrica** ·
@@ -404,13 +404,13 @@ se ve a simple vista:
 esas pistas.
 
 > ### ⚠️ Una trampa que tu presupuesto ya esquiva
-> La web publica **N$2.910/día** para la Comfort en «temporada baja»… pero esa banda es
-> **«01 Nov 2025 – 30 Jun 2026»**: **caduca antes de tu viaje**. La siguiente que publica es la alta
-> de julio a octubre de 2026. **Tu ventana cae en el año tarifario siguiente, que no está en la web.**
+> Los precios «temporada baja» que publica la web caen en la banda **«01 Nov 2025 – 30 Jun 2026»**:
+> **caduca antes de tu viaje**. La siguiente que publica es la alta de julio a octubre de 2026. **Tu
+> ventana cae en el año tarifario siguiente, que no está en la web.**
 >
-> Tus **€166,67/día son un presupuesto en vivo para tus fechas reales** — un ~15 % por encima de la
-> tarifa vieja convertida, coherente con el cambio de año tarifario. 👉 **Fíate de tu presupuesto,
-> no del precio de la web.** *(Es exactamente la misma trampa que la tarifa de NWR.)*
+> Tus **€150/día (€1.800 por 12 días) son una cotización en vivo para tus fechas reales**, no el
+> precio caducado de la web. 👉 **Fíate de tu cotización, no del precio publicado.** *(Es exactamente
+> la misma trampa que la tarifa de NWR.)*
 
 *Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)*
 
@@ -528,7 +528,7 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 - ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, dinero, cobertura
 - ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas medidas, vuelos, tasas 2026
 - ✅ [**`09-lluvias-historico`**](09-lluvias-historico.md) — 5 temporadas de lluvia, mm a mm
-- ✅ [**`10-presupuesto`**](10-presupuesto.md) — camping vs lodges, en N$ y €
+- ✅ [**`10-presupuesto`**](10-presupuesto.md) — el total del viaje reservado (Variante E), partida a partida, en N$ y €
 - ⭐ [**`11-itinerarios-dia-a-dia`**](11-itinerarios-dia-a-dia.md) — **la VARIANTE E día a día** *(la ruta del viaje)* + D/A/B de referencia
 
 ### 🗺️ Tus 34 pines, en una línea
