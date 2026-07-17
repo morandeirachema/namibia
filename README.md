@@ -267,7 +267,7 @@ flowchart TD
     R --> D7["07 · Logistica<br/>combustible · distancias · dinero"]
     R --> D9["09 · Lluvias historico<br/>5 temporadas observadas"]
     R --> D4["04 · Itinerario<br/>ruta y viabilidad"]
-    R -.-> D8["08 · Huecos cerrados<br/>🔬 en curso"]
+    R --> D8["08 · Huecos cerrados<br/>vuelos · tasas 2026"]
     R -.-> D10["10 · Presupuesto<br/>🔬 en curso"]
     style D1 fill:#2d6a4f,color:#fff
     style D2 fill:#2d6a4f,color:#fff
@@ -277,7 +277,7 @@ flowchart TD
     style D6 fill:#2d6a4f,color:#fff
     style D7 fill:#2d6a4f,color:#fff
     style D9 fill:#2d6a4f,color:#fff
-    style D8 fill:#e85d04,color:#000
+    style D8 fill:#2d6a4f,color:#fff
     style D10 fill:#e85d04,color:#000
 ```
 
@@ -289,7 +289,7 @@ flowchart TD
 - ✅ [**`05-conduccion`**](05-conduccion.md) — vuelcos, cláusulas del contrato, presiones, puertas de Sesriem
 - ✅ [**`06-lista-google-maps`**](06-lista-google-maps.md) — tus 34 pines, ordenados y triados
 - ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, Línea Roja, cobertura, dinero, emergencias
-- 🔬 `08-huecos-cerrados` — temperaturas, vuelos, lodges, tasas oficiales *(en curso)*
+- ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas, vuelos (rutas y fiebre amarilla), tasas 2026 del MEFT *(lodges y algunas temperaturas siguen abiertos)*
 - ✅ [**`09-lluvias-historico`**](09-lluvias-historico.md) — las 5 últimas temporadas, mm a mm
 - 🔬 `10-presupuesto` — camping vs lodges *(en curso)*
 
