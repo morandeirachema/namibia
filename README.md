@@ -271,8 +271,8 @@ coche es cifra cerrada y el presupuesto se estrecha de golpe.
 la web ofrece **dos versiones del mismo vehículo** y el vídeo no aclara cuál enseña. La diferencia
 se ve a simple vista:
 
-- **Budget** — tiendas **blandas** Tentco + cajas de camping · *N$2.640/día temp. baja*
-- 🏆 **COMFORT** — tiendas de **carcasa rígida** + cocina a medida · *N$2.910/día temp. baja* ← **la tuya**
+- **Budget** — dos tiendas **blandas** Tentco + cajas de camping
+- 🏆 **COMFORT** — dos tiendas de **carcasa rígida** + cocina a medida ← **la tuya** ✅
 
 > 👉 **Al ver el vídeo, fíjate en el techo:** si las tiendas son **hard shell** *(se abren solas,
 > tipo concha)* es la Comfort; si son de lona plegada, es la Budget.
@@ -286,6 +286,15 @@ se ve a simple vista:
 
 🎉 **Las 2 ruedas de repuesto vienen de serie** — es justo lo que recomienda todo el que conduce
 esas pistas.
+
+> ### ⚠️ Una trampa que tu presupuesto ya esquiva
+> La web publica **N$2.910/día** para la Comfort en «temporada baja»… pero esa banda es
+> **«01 Nov 2025 – 30 Jun 2026»**: **caduca antes de tu viaje**. La siguiente que publica es la alta
+> de julio a octubre de 2026. **Tu ventana cae en el año tarifario siguiente, que no está en la web.**
+>
+> Tus **€166,67/día son un presupuesto en vivo para tus fechas reales** — un ~15 % por encima de la
+> tarifa vieja convertida, coherente con el cambio de año tarifario. 👉 **Fíate de tu presupuesto,
+> no del precio de la web.** *(Es exactamente la misma trampa que la tarifa de NWR.)*
 
 *Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)*
 
