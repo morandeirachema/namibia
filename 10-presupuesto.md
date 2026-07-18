@@ -148,8 +148,12 @@ xychart-beta
 
 **N$280 (~€14)/adulto extranjero/día** (N$140 entrada + N$140 conservación) **+ N$60 (~€3)/vehículo**,
 cobrado **por parque y por cada 24 h desde la entrada** (ver `01` §7 y `08`). Dos adultos + coche =
-**N$620 (~€31)/día de parque**. Baremo del MEFT firmado el 15/01/2026, vigente desde 1/04/2026 — **◐,
-no ✅**: el PDF primario no se pudo abrir para verificar la extracción de la tabla fina.
+**N$620 (~€31)/día de parque**. Baremo del MEFT firmado el 15/01/2026, vigente desde 1/04/2026, bajo la
+Nature Conservation Ordinance de 1975 (primera subida desde 2021) — **◐, no ✅**: lo confirman dos
+páginas oficiales del MEFT (PDF de tarifas + nota de prensa `news/199`) y varias secundarias, pero
+ninguna se pudo abrir (403) para verificar la extracción de la tabla fina, y **no apareció Government
+Gazette numerado**. Los tres parques de pago de la ruta (Namib-Naukluft, Skeleton Coast, Etosha) son
+**premium**, así que el N$280 es la tarifa correcta para los tres.
 
 **La Variante E cruza tres zonas de pago:**
 - **Namib-Naukluft** (Sesriem/Sossusvlei): ~2 unidades de 24 h (tarde de llegada + amanecer en Deadvlei).
@@ -158,8 +162,9 @@ no ✅**: el PDF primario no se pudo abrir para verificar la extracción de la t
 
 → **~7 unidades × N$620 = ~N$4.340 (~€217) pareja / ~€109 por persona** ◐.
 
-> Fuente: [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF)
-> *(existe, no abierta aquí)* · secundarias concordantes en `08`. **Confírmalo por email antes de pagar.**
+> Fuentes: [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
+> [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/)
+> *(ambas oficiales; ninguna se pudo abrir, 403)* · secundarias concordantes en `08`. **Confírmalo por email antes de pagar.**
 
 ---
 
@@ -298,7 +303,8 @@ flowchart TD
 
 - **Coche**: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab) — cotización cerrada, ver README.
 - **Alojamiento NWR**: [NWR Rack Rates 2026/2027 (PDF)](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf) — ver `02` y `11`.
-- **Tasas de parque**: [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) — ver `01` y `08`.
+- **Tasas de parque**: [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
+  [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/) — ver `01` y `08`.
 - **Visado**: [MAEC — Namibia](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia) — ver `01`.
 - **Diésel**: [GlobalPetrolPrices — Namibia](https://www.globalpetrolprices.com/Namibia/diesel_prices/) ·
   [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) ·

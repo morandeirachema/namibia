@@ -212,13 +212,17 @@ La ficha del MAEC se actualizó el 26/05/2026 — tiene ~7 semanas.
 
 **No uses ninguna cifra que encuentres por internet basada en la tabla de 2021.**
 
-- Parques premium (Etosha, Namib-Naukluft/Sossusvlei, Ai-Ais/Fish River Canyon):
-  **N$150 → ~N$280 (~€14) por adulto extranjero y día** (N$140 entrada + N$140 conservación)
-- Parques estándar: N$100 → N$200 (~€10). Menores de 8 años exentos.
+- Parques **premium** (Etosha, Namib-Naukluft/Sossusvlei, **Skeleton Coast**, Waterberg y otros;
+  la ruta de pago cae ENTERA en premium): **N$150 → ~N$280 (~€14) por adulto extranjero y día**
+  (N$140 entrada + N$140 conservación) ◐
+- Parques **estándar**: N$100 → N$200 (~€10). Menores de 8 años exentos.
+- **Base legal**: Nature Conservation Ordinance de 1975; es la **primera revisión desde 2021** (por eso
+  las cifras de blogs viejos están caducadas). ◐
 
-**Mecanismo (verificado literal del PDF del MEFT):** *"Fees are valid for 24 hours period
-beginning at the time of entry, per person, per park... Minimum amount payable is for 24 hours
-(1 day), and thereafter in units of 24 hours."* Una estancia de 3 días en Etosha se cobra **3 veces**.
+**Mecanismo (citado literal — vía fragmento de búsqueda; el PDF sigue sin poder abrirse, 403):**
+*"Fees are valid for 24 hours period beginning at the time of entry, per person, per park... Minimum
+amount payable is for 24 hours (1 day), and thereafter in units of 24 hours."* Una estancia de 3 días
+en Etosha se cobra **3 veces**.
 
 **Presupuestar: ~N$280 (~€14)/adulto/día + ~N$60 (~€3)/vehículo ≈ N$620 (~€31)/día**
 para dos adultos y coche, en cada uno de Etosha, Sossusvlei y Fish River Canyon.
@@ -226,7 +230,13 @@ para dos adultos y coche, en cada uno de Etosha, Sossusvlei y Fish River Canyon.
 Ambigüedad menor: 24 h desde la entrada frente a la práctica real en la puerta — algunos
 operadores cobran por día natural y facturarían 4 unidades por una estancia de 3 noches.
 
+> ⚠️ **Estado de verificación (honesto):** ◐, no ✅. El baremo lo confirman DOS páginas oficiales del
+> MEFT (PDF de tarifas + nota de prensa `news/199`) además de secundarias concordantes, **pero ninguna
+> se pudo ABRIR** (WebFetch da 403); la extracción viene de fragmentos de búsqueda. **No se localizó
+> Government Gazette numerado.** Detalle en `08`. **Confírmalo por email antes de cerrar presupuesto.**
+
 - https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF
+- https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/
 - https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent
 
 ## 8. Vuelos — poco sólido de momento
