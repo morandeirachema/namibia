@@ -116,7 +116,7 @@ permiso** — pero Elizabeth Bay es **más restringido**: no es un sitio al que 
 - **Messum Crater** — 4,9★ (30). Cráter remoto ⚠️ ver aviso arriba
 - **Cape Cross Lodge** — hotel 3★, 4,4★ (533). **Colonia de lobos marinos**
 - **Skeleton Coast National Park** — 4,4★ (216) ⚠️ ver aviso arriba
-- **Spitzkoppe** — 4,7★ (410). El «Matterhorn de Namibia»
+- **Spitzkoppe** — 4,7★ (410). El «Matterhorn de Namibia». **Camping comunitario N$270/persona → N$540/noche (~€27)** ◐ *(incluye la entrada a la reserva, N$130 pp; solo efectivo)*
 
 ### Costa central
 - **Swakopmund** · **Walvis Bay**
