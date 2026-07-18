@@ -219,9 +219,22 @@ Airlink ni TAAG para las fechas concretas: **queda ❌ sin verificar** el precio
 
 > ### El hallazgo: el MEFT firmó un baremo nuevo el **15/01/2026**, en vigor desde el **1/04/2026**.
 > Esto responde justo a lo que se pedía («busca el documento del MEFT posterior a abril de 2026»).
-> **El documento existe y está publicado**: PDF *Park Entrance and Conservation Fees* en el sitio del
-> MEFT. **No se pudo abrir aquí** (WebFetch bloqueado), así que la extracción de la tabla viene de
-> **fuentes secundarias que coinciden** — queda **◐**, no ✅.
+> **Hay DOS documentos oficiales del propio ministerio**, no solo blogs: (a) el PDF *Park Entrance and
+> Conservation Fees* en el sitio del MEFT, y (b) la **nota de prensa oficial del MEFT** *"Implementation
+> of New Park Entrance Fees and Conservation Fee"* en `meft.gov.na/news/199`. **Ninguno de los dos se
+> pudo ABRIR aquí** (WebFetch sigue devolviendo `403` en esta pasada, igual que en las anteriores), así
+> que la extracción viene de **fragmentos de búsqueda de esas dos páginas oficiales + secundarias que
+> coinciden** — queda **◐**, no ✅. **Lo nuevo de esta pasada**: la cifra ya no se apoya solo en blogs de
+> turismo, sino también en la **nota de prensa del propio ministerio**.
+>
+> **Base legal y vigencia (vía fragmento) ◐:** el ajuste se dicta bajo la **Nature Conservation
+> Ordinance de 1975** y es la **primera revisión de tarifas desde 2021** — lo que confirma por qué las
+> cifras que circulan por internet (basadas en la tabla de 2021) están caducadas.
+>
+> ⚠️ **Government Gazette: no localizado.** La tarea pedía buscar el *Government Gazette* de 2026 con el
+> número de aviso legal. **No apareció ninguno en las búsquedas** — ni número de gaceta ni *General
+> Notice*. Las referencias oficiales que sí existen son las dos páginas del MEFT de arriba. **Es un
+> hallazgo en sí mismo: la fuente legal numerada no se pudo localizar públicamente por buscador.**
 
 **Adulto internacional (no-SADC), por persona y día — el que os aplica:**
 - **N$280 (~€14)**, desglosado en **N$140 (~€7) de entrada + N$140 (~€7) de conservación** ◐
@@ -238,13 +251,32 @@ Y el resto del baremo citado por las secundarias:
 > (1/04/2026)**. La cifra **N$280/adulto/día se mantiene como la mejor estimación**, ahora con más
 > respaldo — pero **la lectura fina de la tabla sigue sin verificarse contra el PDF primario**.
 
-**Para vuestro viaje:** Etosha y los parques del Namib-Naukluft (Sossusvlei/Sesriem) cobran esta tasa
-**por persona y por día** dentro del parque. Dos adultos = **N$560/día (~€28)** solo de tasa de parque.
+### 🅿️ Premium vs estándar — y por qué a ESTA ruta le aplica el N$280 entero
+
+El baremo distingue **parques premium** de **estándar**, y la diferencia importa: solo los premium
+cobran los N$280 ◐.
+- **Premium (N$280 adulto internacional):** Etosha, **Namib-Naukluft**, **Skeleton Coast**, Waterberg
+  Plateau «y otros». Las tres fuentes que lo detallan nombran **explícitamente los tres parques de
+  pago de la Variante E** — Namib-Naukluft (Sesriem/Sossusvlei), Skeleton Coast (tránsito + Terrace
+  Bay) y Etosha — **todos premium**. Así que el N$280 **no es una simplificación**: es la tarifa
+  correcta para cada uno de los tres parques que pisa esta ruta. ◐
+- **Estándar (N$200 adulto internacional):** Bwabwata, Mudumu, Khaudum, Nkasa Rupara… — **ninguno está
+  en la ruta**.
+- Nota: varias fuentes citan que algunos parques (Ai-Ais, Cape Cross, Dorob, la sección de Sandwich
+  Harbour) quedan **gratis para namibios** — eso es para nacionales, **no** rebaja la tarifa del
+  visitante internacional.
+
+**Para vuestro viaje:** Etosha, Namib-Naukluft (Sossusvlei/Sesriem) y Skeleton Coast cobran la tasa
+**por persona y por cada 24 h** dentro del parque. Dos adultos + coche = **N$620/día (~€31)**
+(N$560 de los dos adultos + N$60 del vehículo), coherente con `01` §7 y `10` §5.
 
 **Fuentes tasas:**
-- **Primaria (existe, no abierta aquí):** [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF)
+- **Oficiales del MEFT (existen, no abiertas aquí — 403):**
+  [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
+  [MEFT — nota de prensa «Implementation of New Park Entrance Fees and Conservation Fee»](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/)
 - Secundarias concordantes: [etoshanationalpark.com.na — gate times & fees](https://etoshanationalpark.com.na/park-information/gate-times-and-fees/) ·
-  [NWR — park entrance & conservation fees](https://www.nwr.com.na/park-entrance-and-conservation-fees-2/)
+  [NWR — park entrance & conservation fees](https://www.nwr.com.na/park-entrance-and-conservation-fees-2/) ·
+  [namibian.org — «Namibia raises park fees by 86 to 100 percent»](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent)
 
 ---
 
@@ -310,8 +342,11 @@ tarifa fijada para el periodo **1/11/2026 – 31/10/2027** ◐:
 - 🛫 **Vuelos** — **AVANZADO** ✔️: rutas, escalas, duraciones y el factor fiebre amarilla ya están
   (arriba). **Falta**: tarifa real para las fechas exactas de finales de noviembre (los precios son
   instantáneas de muestra) y precio de Qatar/Airlink/TAAG (**❌ sin verificar**).
-- 🎫 **Tasas oficiales** — **AVANZADO** ✔️: hay documento del MEFT de 2026 (firmado 15/01, vigente
-  1/04/2026) y desglose N$140+N$140. **Falta**: abrir el PDF primario para verificar la tabla fina.
+- 🎫 **Tasas oficiales** — **AVANZADO** ✔️: dos documentos oficiales del MEFT (PDF de tarifas + nota de
+  prensa `news/199`), firmado 15/01, vigente 1/04/2026, base legal Nature Conservation Ordinance 1975,
+  desglose N$140+N$140, y confirmado que **los tres parques de pago de la ruta son premium** (N$280).
+  **Falta**: abrir el PDF/nota primarios para verificar la tabla fina (siguen en 403) y **localizar el
+  Government Gazette numerado, que no apareció por buscador**.
 - 🏨 **Lodges privados** — **❌ sin cerrar**: rack rate por noche todavía no verificado. En esta pasada
   el acceso web seguía cerrado — Gondwana y las webs propias de los lodges (desertcamp.com,
   spitzkoppetentedcamp.com, etc.) devuelven **HTTP 403** a través del proxy, y NOAA/SASSCAL están

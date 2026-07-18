@@ -430,8 +430,10 @@ de la charca iluminada.
 
 - **✅ Duro — €2.618 de los €3.306 (79 %)**: vuelo €1.366 · coche €900 · 6 noches NWR €159 ·
   seguro €113 · visado €80
-- **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto está en fuente secundaria; el
-  ministerio aún publica la tabla vieja. **Confírmalo por email.**
+- **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto lo confirman **dos páginas oficiales del
+  MEFT** (PDF de tarifas + nota de prensa `news/199`, vigente 1/04/2026) y varias secundarias, pero
+  ninguna se pudo abrir aquí (403), así que queda ◐; los tres parques de la ruta son **premium**.
+  **Confírmalo por email.**
 - **○ Estimado — ~€578 p.p.**: 7 noches sin precio (~€126), combustible (~€200), comida (~€140),
   actividades (~€38), misceláneos (~€75). **Ese es el margen real: ±€145 por persona.**
 
@@ -571,8 +573,9 @@ temperaturas de las webs de safaris — rehechas con datos de estación meteorol
 
 > **Lo que no se pudo verificar está en blanco y dicho**: varios alojamientos por noche (Terrace
 > Bay, Hoada, Spreetshoogte, Walvis) y las distancias de esta ruta, que se midieron para el
-> recorrido del sur. Y las tasas de parque (~N$280) se apoyan aún en fuente secundaria:
-> **confírmalas por email antes de cerrar presupuesto.**
+> recorrido del sur. Y las tasas de parque (~N$280) las respaldan ya **dos páginas oficiales del MEFT**
+> (PDF + nota de prensa `news/199`) además de secundarias concordantes — pero como no se pudieron
+> **abrir** aquí (403), la extracción queda en ◐: **confírmalas por email antes de cerrar presupuesto.**
 >
 > ✅ **Los vuelos ya no son un hueco** — y sirvieron para pillar un error nuestro: la estimación se
 > había quedado ~1,7× corta. **Los números plausibles se acaban usando para pagar.**
