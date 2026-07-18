@@ -97,7 +97,9 @@ campings + Terrace Bay + el hotel del D13) **no tienen precio cerrado**.
 **Sin verificar ○/❌ (7 noches):**
 - D1 Windhoek, D2 Spreetshoogte, D5–D6 Walvis Bay ×2, D8 Hoada → campings/alojamientos privados,
   **precio no cerrado** (WebFetch bloqueado; ver `08`). Estimación de práctica común: **~€25–45/noche
-  para dos** cada uno.
+  para dos** cada uno. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
+  —campamento equiparable de la ruta— está cerrado en **N$540/noche para dos (~€27)**, entrada incluida
+  ◐; ver `08`.)*
 - **D7 Terrace Bay** (NWR, **resort — no camping**): **❌ precio no verificado**, hay que reservarlo
   sí o sí (sin reserva no se entra al Skeleton Coast a pernoctar).
 - **D13 Windhoek**: hotel + traslado (el coche ya está entregado). **○ estimado.**

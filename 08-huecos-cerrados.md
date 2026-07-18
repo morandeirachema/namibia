@@ -312,8 +312,19 @@ tarifa fijada para el periodo **1/11/2026 – 31/10/2027** ◐:
   instantáneas de muestra) y precio de Qatar/Airlink/TAAG (**❌ sin verificar**).
 - 🎫 **Tasas oficiales** — **AVANZADO** ✔️: hay documento del MEFT de 2026 (firmado 15/01, vigente
   1/04/2026) y desglose N$140+N$140. **Falta**: abrir el PDF primario para verificar la tabla fina.
-- 🏨 **Lodges privados** — **❌ sin cerrar**: precio/noche no verificado (WebFetch bloqueado + Gondwana
-  no publica precio estático). Solo se salvaron las *actividades* de Canyon Roadhouse.
+- 🏨 **Lodges privados** — **❌ sin cerrar**: rack rate por noche todavía no verificado. En esta pasada
+  el acceso web seguía cerrado — Gondwana y las webs propias de los lodges (desertcamp.com,
+  spitzkoppetentedcamp.com, etc.) devuelven **HTTP 403** a través del proxy, y NOAA/SASSCAL están
+  bloqueados por política de egress. Los fragmentos de buscador dan solo pistas ruidosas y contradictorias
+  (Toshari "desde N$1.961", Desert Quiver Camp "desde ~$166 USD" o "R2.835 la unidad de 4"), **sin
+  confirmar ni fecha de vigencia** → no se registran como cifra. Cuando una pasada tenga acceso, abrir
+  desertcamp.com/rates.html, desertquivercamp.com/rates.html, toshari.com/rates y
+  gondwana-collection.com para cerrarlos.
+- ⛺ **Campings privados de la ruta** — **PARCIAL**: cerrado **Spitzkoppe Community Campsite: N$270/persona
+  → N$540/noche (~€27)** ◐, que **incluye la entrada a la reserva (N$130 pp)** y es **solo en efectivo**
+  (N$ o ZAR); dos fragmentos independientes (nwrnamibia.com + guías de viaje) coinciden en la cifra 2026.
+  Siguen **sin verificar**: Hoada (Grootberg), Spreetshoogte y Quivertree Forest Rest Camp — los
+  fragmentos solo dan números viejos de iOverlander sin vigencia 2026.
 - 📅 **Antelación** — **cualitativo**: "lo antes posible"; sin cifra oficial de meses para noviembre.
 - 🌡️ **Temperaturas de Sossusvlei/Sesriem, Lüderitz y Swakopmund**: **❌ siguen sin procesarse** con
   fuente meteorológica primaria (SASSCAL/NOAA no salen por fragmento de búsqueda y WebFetch está

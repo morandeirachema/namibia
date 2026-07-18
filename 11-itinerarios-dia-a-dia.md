@@ -336,7 +336,7 @@ gantt
 
 ### D9 · lun 9 — Swakopmund → Spitzkoppe · **140–150 km · ~1h45** ◐
 - Día corto a propósito: tarde de arcos de granito y **noche de estrellas**
-- 🛏️ Spitzkoppe Community Campsite ⚠️ *precio sin verificar*
+- 🛏️ **Spitzkoppe Community Campsite — N$270/persona → N$540/noche (~€27)** ◐ *(incluye la entrada a la reserva, N$130 pp; solo efectivo en N$ o ZAR)*
 
 ### D10 · mar 10 — Spitzkoppe → Etosha (Okaukuejo) · **~430–450 km · ~5h** ○
 - Ruta rápida por Usakos–Otjiwarongo–Outjo (mayoría asfalto) → puerta de **Andersson**
@@ -591,7 +591,7 @@ gantt
 - 🏔️ **El "Matterhorn de Namibia"**. Granito, arcos, pinturas rupestres.
 - 🌌 **Cielo oscuro espectacular** — es de los mejores sitios del viaje para estrellas.
 - Día corto: **llegas con luz de sobra para la tarde de fotos**.
-- 🛏️ **Spitzkoppe Community Campsite** ⚠️ *precio sin verificar*
+- 🛏️ **Spitzkoppe Community Campsite — N$270/persona → N$540/noche (~€27)** ◐ *(incluye la entrada a la reserva, N$130 pp; solo efectivo en N$ o ZAR)*
 
 ### D13 · mié 2 dic — Spitzkoppe → Windhoek · **~280 km asfalto** ◐
 - Vuelta cómoda por Usakos y Karibib.
@@ -754,7 +754,7 @@ flowchart TD
 ## 🕳️ Lo que falta para cerrar cualquiera de los tres
 
 - ❌ **Vuelos** para tus fechas — sin tarifa verificada tras varios intentos
-- ❌ **Lodges privados** por noche — sin precios (Gondwana bloqueó el acceso)
+- ❌ **Lodges privados** por noche — sin precios (Gondwana y las webs propias siguen devolviendo 403). ⛺ Sí cerrado el **camping de Spitzkoppe: N$270/persona → N$540/noche (~€27), incluye la entrada** ◐
 - ⚠️ **Seis etapas** con km sin verificar (`04`)
 - 🚧 **Las obras de Etosha** — confirmar con NWR *(solo afecta a B)*
 - ⚠️ **Conflicto Keetmanshoop → Hobas**: 150–160 km vs ~275 derivados. **Sin resolver.**
