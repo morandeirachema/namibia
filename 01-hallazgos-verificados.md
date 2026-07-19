@@ -310,20 +310,27 @@ flowchart TD
 
 ---
 
-# 🕳️ Huecos — NO investigados, en blanco a propósito
+# 🕳️ Huecos — la segunda pasada YA está cerrada
 
-Estos no tienen ni una afirmación superviviente. Hay una segunda pasada en curso.
+Esta sección listaba los huecos que en su día quedaron **en blanco a propósito**. La segunda
+pasada ha terminado: los cuatro están resueltos en sus propios documentos. Se deja aquí el
+registro de qué se cerró y dónde, para poder auditarlo.
 
-1. **Fechas por criterios ambientales** — inicio de las lluvias, caída de avistamientos en
-   Etosha, calor en Sossusvlei / Fish River Canyon / Ai-Ais, afluencia. *Tenemos la mitad
-   económica de la decisión de noviembre (~€870, ~N$17.400) y nada de la mitad ambiental.*
-2. **Itinerario día a día y viabilidad** — sobre todo si Etosha (norte) + Fish River Canyon y
-   Lüderitz (sur profundo) + Sossusvlei + costa caben en 14 días a 80 km/h en pista. La etapa
-   de Damaraland además tiene los bajos sin cobertura incluso en el nivel más alto de seguro.
+1. **Fechas por criterios ambientales** — inicio de las lluvias, calor en Sossusvlei / Fish
+   River Canyon / Ai-Ais, afluencia. → **Cerrado** en `08-huecos-cerrados.md`: temperaturas
+   reales de NOAA GHCN-Daily y SASSCAL (las anteriores, de webs de safaris, fueron refutadas
+   0–3). Etosha **sí** hace pico en octubre; el sur, no. La mitad ambiental de la decisión de
+   noviembre ya está sobre la mesa junto a la económica (~€870, ~N$17.400).
+2. **Itinerario día a día y viabilidad** — si Etosha + sur profundo + Sossusvlei + costa caben
+   en 14 días a 80 km/h en pista. → **Cerrado** en `04-itinerario.md` (veredicto: **NO cabe
+   todo**; techo sano ~300–350 km/día) y desarrollado día a día en `11-itinerarios-dia-a-dia.md`.
+   La ruta vigente es la **Variante E** (la clásica del norte, sin el sur). La etapa de
+   Damaraland sigue con los bajos sin cobertura incluso en el nivel más alto de seguro.
 3. **Precios de alojamiento** — campings NWR (Okaukuejo/Halali/Namutoni), Sesriem, Hobas,
-   lodges de gama media; y antelación de reserva para oct–dic. *(Parcialmente resuelto en
-   `02-alojamiento-y-tasas.md`.)*
-4. **Presupuesto total** — no se puede calcular sin el punto 3.
+   lodges de gama media; y antelación de reserva para oct–dic. → **Cerrado** en
+   `02-alojamiento-y-tasas.md` y `08-huecos-cerrados.md`.
+4. **Presupuesto total** — → **Cerrado** en `10-presupuesto.md`: ya calculado sobre la
+   distancia real de la Variante E y las reservas cerradas (vuelo, coche y seguro).
 5. ~~**Permiso internacional de conducir**~~ → **resuelto** (ver arriba y `03`), ~~malaria en
    Etosha~~ → **resuelta** (sí es zona de riesgo, CDC, en `03`), certificado de fiebre
    amarilla al hacer escala en Adís Abeba (Etiopía es endémica), SIM/eSIM, efectivo vs tarjeta,
