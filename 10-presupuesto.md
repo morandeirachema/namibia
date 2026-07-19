@@ -94,18 +94,29 @@ campings + Terrace Bay + el hotel del D13) **no tienen precio cerrado**.
 → Suma verificada: 2×N$1.340 + 4×N$920 = **N$6.360 (~€318) para la pareja / ~€159 por persona** ✅
 *(coincide con `11-itinerarios-dia-a-dia.md` §resumen).*
 
-**Sin verificar ○/❌ (7 noches):**
-- D1 Windhoek, D2 Spreetshoogte, D5–D6 Walvis Bay ×2, D8 Hoada → campings/alojamientos privados,
-  **precio no cerrado** (WebFetch bloqueado; ver `08`). Estimación de práctica común: **~€25–45/noche
-  para dos** cada uno. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
+**Parcialmente cerrado / sin verificar ○/◐ (7 noches):**
+- D1 Windhoek, D2 Spreetshoogte, D5–D6 Walvis Bay ×2 → campings/alojamientos privados, **precio no
+  cerrado** (WebFetch bloqueado; ver `08`). Estimación de práctica común: **~€25–45/noche para dos**
+  cada uno. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
   —campamento equiparable de la ruta— está cerrado en **N$540/noche para dos (~€27)**, entrada incluida
   ◐; ver `08`.)*
-- **D7 Terrace Bay** (NWR, **resort — no camping**): **❌ precio no verificado**, hay que reservarlo
-  sí o sí (sin reserva no se entra al Skeleton Coast a pernoctar).
+- **D8 Hoada** (Grootberg) — **cerrado en esta pasada ◐**: **N$542–732/noche para dos (~€27–37)** según
+  temporada (la de noviembre sin fijar; ver `08`). Coincide con la estimación de práctica común.
+- **D7 Terrace Bay** (NWR, **resort con media pensión — no camping**): **la noche más cara de la ruta.**
+  Suelo publicado (doméstico/SADC, temporada baja) **N$1.440–1.920/persona DBB ≈ N$2.880–3.840 la pareja
+  (~€144–192)**; como extranjeros en temporada alta, **más** ◐. La tarifa internacional de nov 2026 sigue
+  **❌ sin verificar** (ver `08`).
 - **D13 Windhoek**: hotel + traslado (el coche ya está entregado). **○ estimado.**
 
-→ Bloque sin verificar: **~€126/persona ○** (README). **Alojamiento total: ~€570 pareja (~€285/persona)**,
-del que **solo ~€318 (56 %) está verificado**.
+> ⚠️ **Corrección de esta pasada:** el bloque de ~€126/persona daba a Terrace Bay el mismo peso que a un
+> camping (~€25–45 la pareja). El suelo real es **~€144–192 la pareja SÓLO esa noche** (media pensión
+> incluida, ojo — no es sólo cama). Eso empuja el bloque sin verificar **al alza en ~€100–150 la pareja
+> (~€50–75/persona)**: cuenta con un **buffer de alojamiento** por ese lado. El total de abajo se deja
+> como estaba (estimación conservadora ya publicada), pero **el margen real de este bloque se inclina
+> hacia arriba, no hacia abajo.**
+
+→ Bloque parcial/sin verificar: **~€126/persona ○** *(con el sesgo al alza de arriba)*. **Alojamiento
+total: ~€570 pareja (~€285/persona)**, del que **~€318 (56 %) está verificado** y **Hoada suma ◐**.
 
 ```mermaid
 xychart-beta

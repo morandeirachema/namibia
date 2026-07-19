@@ -351,7 +351,9 @@ xychart-beta
 - 🚙 **Coche** — **€900** ✅ *mitad de €1.800 · 12 días · Namibia2Go **Budget**, disponible*
 - ⛺ **Alojamiento** — **~€285** *· mitad de ~€570 · 13 noches*
   - *6 noches NWR **verificadas**: **€159** ✅ (N$3.180 p.p.)*
-  - *5 campings sin precio + Terrace Bay + hotel del D13: **~€126** ○*
+  - *Hoada (D8) cerrado ◐: N$542–732/noche pareja (~€27–37)*
+  - *4 campings sin precio + Terrace Bay + hotel del D13: **~€126** ○ — **con sesgo al alza**: Terrace
+    Bay es un resort con media pensión (suelo ~€144–192 la pareja SÓLO esa noche), no un camping ◐*
 - ⛽ **Combustible** — **~€200** ○ *· mitad de ~€400 · ~2.600 km*
 - 🍖 **Comida** — **~€140** ○ *· supermercado y braai*
 - 🎫 **Tasas de parque** — **~€109** ◐ *· mitad de ~€217 · 7 unidades de 24 h*

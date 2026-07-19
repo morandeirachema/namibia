@@ -321,6 +321,28 @@ tarifa fijada para el periodo **1/11/2026 – 31/10/2027** ◐:
 **Fuente:** [Gondwana — Canyon Roadhouse](https://gondwana-collection.com/accommodation/canyon-roadhouse)
 *(datos vía fragmento de búsqueda; no se pudo abrir la ficha para verificar la extracción).*
 
+### 🌊 Terrace Bay (NWR, D7) — no es una noche barata: es un resort con media pensión ◐
+
+El buscador **sí** devolvió tarifa de Terrace Bay, y **cambia el presupuesto**: no es un camping, es un
+**resort con DBB** *(dinner, bed & breakfast — cena, cama y desayuno incluidos)*. Las cifras del folleto
+de tarifas de NWR para el periodo **5/12/2025 – 30/6/2026** *(temporada baja, y sólo categorías
+**domésticas/SADC**, no visitante internacional)*:
+- NamLeisure Cardholder — **N$1.440/persona DBB (~€72)**
+- Individuo namibio — **N$1.660/persona DBB (~€83)**
+- Individuo SADC — **N$1.870–1.920/persona DBB (~€94–96)**
+
+> ⚠️ **Lo relevante para el presupuesto:** aun la tarifa **más barata publicada** (doméstica, temporada
+> baja) es **~N$1.440/persona ≈ N$2.880 la pareja (~€144)** por esa noche. Como **visitantes extranjeros
+> en temporada alta de noviembre**, esperad **más**. **La tarifa internacional de nov 2026 sigue ❌ sin
+> verificar** (el folleto era doméstico/SADC y caduca en junio 2026), pero el suelo ya deja claro que
+> **Terrace Bay es, con diferencia, la noche más cara de la ruta** — no los ~€30 de un camping. El
+> presupuesto lo tenía infravalorado (ver `10`).
+
+**Fuente:** [NWR — Discover Namibia special domestic & SADC rates (PDF)](https://www.nwr.com.na/icheephu/2025/12/Pages-from-NWR-flyers-A4-special-rates-NEW-3.pdf)
+· [NWR — Terrace Bay Resort](https://www.nwr.com.na/resorts/terrace-bay-resort/)
+*(datos vía fragmento de búsqueda; no se pudo abrir el PDF —403— para verificar la extracción ni la
+tarifa internacional/alta).*
+
 ---
 
 ## 📌 Cómo usar estos números
@@ -358,7 +380,12 @@ tarifa fijada para el periodo **1/11/2026 – 31/10/2027** ◐:
 - ⛺ **Campings privados de la ruta** — **PARCIAL**: cerrado **Spitzkoppe Community Campsite: N$270/persona
   → N$540/noche (~€27)** ◐, que **incluye la entrada a la reserva (N$130 pp)** y es **solo en efectivo**
   (N$ o ZAR); dos fragmentos independientes (nwrnamibia.com + guías de viaje) coinciden en la cifra 2026.
-  Siguen **sin verificar**: Hoada (Grootberg), Spreetshoogte y Quivertree Forest Rest Camp — los
+  **Nuevo en esta pasada** — cerrado **Hoada Campsite** (zona Grootberg, D8 de la ruta) ◐: tarifa por
+  temporada, **N$271/persona green · N$337 low · N$366 high** (~€14 / €17 / €18 pp) → para la pareja
+  **N$542–732/noche (~€27–37)**. *Fragmentos de journeysnamibia.com y grootberg.com coinciden en las tres
+  cifras; **no se pudo confirmar qué meses son "green/low/high"** ni abrir la ficha (403), así que queda
+  ◐ y con la temporada de noviembre sin fijar — pero encaja con el ancla de Spitzkoppe.* Siguen
+  **sin verificar**: Spreetshoogte, Walvis Bay (Lagoon Chalets) y Quivertree Forest Rest Camp — los
   fragmentos solo dan números viejos de iOverlander sin vigencia 2026.
 - 📅 **Antelación** — **cualitativo**: "lo antes posible"; sin cifra oficial de meses para noviembre.
 - 🌡️ **Temperaturas de Sossusvlei/Sesriem, Lüderitz y Swakopmund**: **❌ siguen sin procesarse** con

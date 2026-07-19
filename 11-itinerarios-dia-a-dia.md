@@ -166,8 +166,10 @@ gantt
   confirmada de Terrace Bay** — sin ella no se entra (el permiso de tránsito obliga a salir el
   mismo día)
 - Dentro del parque: **60 km/h** · 🎫 Skeleton Coast ~N$620/24 h
-- 🛏️ **Terrace Bay Resort (NWR)** ⚠️ *precio sin verificar* — dormir en la Costa de los
-  Esqueletos, con la niebla y el Atlántico rugiendo
+- 🛏️ **Terrace Bay Resort (NWR)** — dormir en la Costa de los Esqueletos, con la niebla y el
+  Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping.** Suelo publicado
+  (doméstico/SADC, temporada baja): **N$1.440–1.920/persona DBB (~€72–96)**; como extranjeros en
+  noviembre, **más** ◐ — la noche más cara de la ruta *(tarifa internacional nov 2026 aún ❌; ver `08`)*
 - *Variante fácil: saltarse Terrace Bay, dormir en Henties/Swakopmund y entrar a Damaraland al día
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 
@@ -176,8 +178,9 @@ gantt
   (grabados rupestres UNESCO; Google lo lista como cerrado: **es un fallo del listado**)
 - ⚠️ **Damaraland: el Super Cover de Asco NO cubre los bajos aquí** — despacio en las piedras.
   *(Preguntar a Namibia2Go por escrito cómo trata su seguro esta zona)*
-- 🛏️ **Hoada Campsite** (zona Grootberg) ⚠️ *precio sin verificar* — el blog lo llama su
-  campamento más bonito del viaje: rocas de granito, duchas entre peñas, cielo estrellado
+- 🛏️ **Hoada Campsite** (zona Grootberg) — el blog lo llama su campamento más bonito del viaje:
+  rocas de granito, duchas entre peñas, cielo estrellado. **N$271–366/persona según temporada
+  (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `08`)*
 
 ### D9 · lun 9 — Hoada → Etosha (Okaukuejo) · **~315 km · ~4h** ◐
 - C40 a Kamanjab → C38 a la puerta de **Andersson** (asfalto desde Kamanjab... ⚠️ firme por
