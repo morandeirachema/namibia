@@ -370,13 +370,27 @@ tarifa internacional/alta).*
   **Falta**: abrir el PDF/nota primarios para verificar la tabla fina (siguen en 403) y **localizar el
   Government Gazette numerado, que no apareció por buscador**.
 - 🏨 **Lodges privados** — **❌ sin cerrar**: rack rate por noche todavía no verificado. En esta pasada
-  el acceso web seguía cerrado — Gondwana y las webs propias de los lodges (desertcamp.com,
-  spitzkoppetentedcamp.com, etc.) devuelven **HTTP 403** a través del proxy, y NOAA/SASSCAL están
-  bloqueados por política de egress. Los fragmentos de buscador dan solo pistas ruidosas y contradictorias
-  (Toshari "desde N$1.961", Desert Quiver Camp "desde ~$166 USD" o "R2.835 la unidad de 4"), **sin
-  confirmar ni fecha de vigencia** → no se registran como cifra. Cuando una pasada tenga acceso, abrir
-  desertcamp.com/rates.html, desertquivercamp.com/rates.html, toshari.com/rates y
-  gondwana-collection.com para cerrarlos.
+  el acceso web **seguía cerrado, y ahora se sabe con más precisión por qué** — son **dos bloqueos
+  distintos**:
+  1. **Webs propias de los lodges** (desertcamp.com, desertquivercamp.com, gondwana-collection.com):
+     devuelven **HTTP 403 desde el propio servidor de destino** (protección anti-bot), no desde el proxy.
+     El WebFetch llega al host pero el sitio rechaza la petición.
+  2. **El PDF oficial de tarifas** y NOAA/SASSCAL: **denegados por la política de egress de la
+     organización** en la pasarela (el proxy responde `403 a CONNECT`, registrado en su log). Esto **no
+     se puede sortear** y no es un fallo del sitio.
+  - **🎯 Hallazgo útil de esta pasada:** se **localizó la hoja de tarifas oficial de Gondwana 2026**
+    ("NAMIBIA RACK RATES 2026 SEASON", `2026---RACK-RATE-SHEET-GONDWANA-ACCOMMODATION.pdf`), alojada en el
+    CDN de Wetu:
+    `https://stwetuproduction.blob.core.windows.net/azure-blob-resources-wetu-production/Resources/143053/1753778501605_2026---RACK-RATE-SHEET-GONDWANA-ACCOMMODATION.pdf`
+    Cubriría Canyon Roadhouse, Cañon Village, Twyfelfontein Country Lodge, Namib Desert Lodge, Etosha
+    Safari Camp y más. **No se pudo abrir**: el host `blob.core.windows.net` está denegado por la política
+    de egress (403 en CONNECT). **Queda como URL de la fuente primaria a abrir en cuanto una pasada corra
+    en un entorno que permita ese host.**
+  - Los fragmentos de buscador dan solo pistas ruidosas y contradictorias
+    (Toshari "desde N$1.961", Desert Quiver Camp "desde ~$166 USD" o "R2.835 la unidad de 4"), **sin
+    confirmar ni fecha de vigencia** → **no se registran como cifra** (regla de cero invenciones). Cuando
+    una pasada tenga acceso, abrir el PDF de arriba y, si siguen bloqueados los propios lodges,
+    desertcamp.com/rates.html, desertquivercamp.com/rates.html y toshari.com/rates para cerrarlos.
 - ⛺ **Campings privados de la ruta** — **PARCIAL**: cerrado **Spitzkoppe Community Campsite: N$270/persona
   → N$540/noche (~€27)** ◐, que **incluye la entrada a la reserva (N$130 pp)** y es **solo en efectivo**
   (N$ o ZAR); dos fragmentos independientes (nwrnamibia.com + guías de viaje) coinciden en la cifra 2026.
