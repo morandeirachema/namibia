@@ -391,6 +391,28 @@ tarifa internacional/alta).*
     confirmar ni fecha de vigencia** → **no se registran como cifra** (regla de cero invenciones). Cuando
     una pasada tenga acceso, abrir el PDF de arriba y, si siguen bloqueados los propios lodges,
     desertcamp.com/rates.html, desertquivercamp.com/rates.html y toshari.com/rates para cerrarlos.
+  - **🧪 Pasada del 20/07 — se probó `WebSearch` (que sí funciona en este entorno) contra el hueco, y el
+    resultado REFUERZA la decisión de no registrar cifras.** Comprobado de nuevo con curl y WebFetch:
+    el PDF oficial (`blob.core.windows.net`), las webs de los lodges (gondwana-collection.com,
+    desertcamp.com) y **hasta `en.wikipedia.org`** devuelven `403 a CONNECT` / `403` — el egress de la
+    organización bloquea el acceso directo a todo salvo la lista de dominios de paquetería. **`WebSearch`
+    es la única vía de web abierta**, pero solo devuelve el *resumen* que un modelo hace de los fragmentos,
+    no la fuente descargada — y **ese resumen confabula de forma peligrosa**:
+    - Una primera búsqueda dio *"Canyon Roadhouse N$1.760 pp, 1 nov 2026–31 oct 2027"*, una cifra
+      **plausible** para un lodge de gama media. Al **cruzarla con una segunda búsqueda**, resultó ser el
+      precio de una **actividad** (recorrido guiado de 3 h por el Gondwana Canyon Park), **no la tarifa de
+      alojamiento**. Es exactamente la trampa que costaría dinero: un número creíble pero falso.
+    - El resto de propiedades solo devuelven **rangos de OTAs** (Booking/Kayak/Expedia) en **monedas
+      mezcladas** (US$, ZAR, N$) que son **precios dinámicos, no rack rate**: Nest Hotel Lüderitz "desde
+      US$122–329"; Desert Quiver Camp "desde US$132–166"; Twyfelfontein Country Lodge "US$223 pp media
+      pensión, may–oct 2026"; Etosha Safari Camp / Cañon Village "N$2.220–3.580/noche" (sin dejar claro si
+      es por unidad o por persona). **Ninguno se registra como cifra.**
+    - **Conclusión operativa:** el hueco de lodges **no se puede cerrar por WebSearch** sin violar la regla
+      de cero invenciones. Para cerrarlo hace falta **abrir el PDF de rack rates** — lo que requiere o bien
+      una pasada en un entorno cuyo egress permita `blob.core.windows.net`, o bien **que el viajero
+      descargue el PDF a mano** (la URL de arriba) y lo pegue al repo. Mientras tanto, el **escenario de
+      presupuesto real sigue siendo el de camping** (ya cerrado en `10-presupuesto.md`), que no depende de
+      estas tarifas.
 - ⛺ **Campings privados de la ruta** — **PARCIAL**: cerrado **Spitzkoppe Community Campsite: N$270/persona
   → N$540/noche (~€27)** ◐, que **incluye la entrada a la reserva (N$130 pp)** y es **solo en efectivo**
   (N$ o ZAR); dos fragmentos independientes (nwrnamibia.com + guías de viaje) coinciden en la cifra 2026.
