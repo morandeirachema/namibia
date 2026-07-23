@@ -1,6 +1,6 @@
 # Huecos cerrados — temperaturas, vuelos, tasas y lodges
 
-Investigación cerrada el 17/07/2026 · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
+Investigación cerrada el 17/07/2026 · **actualizada el 23/07/2026** (localizado el Government Gazette de las tasas: ver §Tasas) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
 **✅ primaria** · **◐ secundaria concordante** · **○ práctica común** · **❌ no verificado**
 
 > ### ⚙️ Límite técnico de esta pasada — importante para auditar
@@ -231,10 +231,35 @@ Airlink ni TAAG para las fechas concretas: **queda ❌ sin verificar** el precio
 > Ordinance de 1975** y es la **primera revisión de tarifas desde 2021** — lo que confirma por qué las
 > cifras que circulan por internet (basadas en la tabla de 2021) están caducadas.
 >
-> ⚠️ **Government Gazette: no localizado.** La tarea pedía buscar el *Government Gazette* de 2026 con el
-> número de aviso legal. **No apareció ninguno en las búsquedas** — ni número de gaceta ni *General
-> Notice*. Las referencias oficiales que sí existen son las dos páginas del MEFT de arriba. **Es un
-> hallazgo en sí mismo: la fuente legal numerada no se pudo localizar públicamente por buscador.**
+> ### 🎉 Government Gazette LOCALIZADO (pasada del 23/07/2026) — es el **Nº 8877 · Government Notice Nº 115**
+> La tarea pedía «buscar el *Government Gazette* de 2026 con el número de aviso legal». Las pasadas
+> anteriores no lo encontraron y lo dejaron como «no localizado»; **esta pasada sí lo ha localizado.**
+> El baremo se publicó en el:
+> - **Government Gazette de la República de Namibia Nº 8877**, Windhoek, **1 de abril de 2026** ◐
+> - Contiene el **Government Notice Nº 115**: enmienda de las *Regulations Relating to Nature
+>   Conservation* (originalmente bajo el *Government Notice Nº 240 del 25/08/1976*), dictada bajo la
+>   **Nature Conservation Ordinance de 1975** y **en vigor desde el 1/04/2026**. ◐
+> - Firmado por **Indileni N. Daniel, Ministra de Medio Ambiente, Bosques y Turismo**, el **26/03/2026**. ◐
+> - Indexado en el archivo público de gacetas:
+>   [gazettes.africa — Gaceta 8877 (1/04/2026)](https://gazettes.africa/akn/na/officialGazette/government-gazette/2026-04-01/8877/eng@2026-04-01)
+>
+> Estos datos (número de gaceta, número de aviso, fecha, ministra firmante, aviso de 1976 enmendado)
+> salen del **índice de gazettes.africa, vía dos búsquedas independientes que coinciden** — son
+> metadatos de catálogo, fiables. **Pero la gaceta NO se pudo ABRIR aquí** (WebFetch devuelve `403`
+> también en gazettes.africa), así que **la TABLA de tarifas del GN 115 sigue SIN verificar contra el
+> documento primario**. Queda ◐, no ✅.
+>
+> ⚠️ **Y cuidado con un número confabulado:** una de las búsquedas «resumió» la tabla como *"N$75–150
+> para adulto extranjero"* — cifra que **CONTRADICE** el N$280 de la nota de prensa del MEFT. Es el
+> típico resumen de buscador que inventa al leer una tabla truncada: **se DESCARTA**. El N$280
+> (N$140+N$140) se mantiene apoyado en la nota de prensa del MEFT y las secundarias, **no** en ese
+> resumen. Para cerrar la tabla fina y subirla a ✅ hay que **abrir el PDF de la Gaceta 8877 / GN 115**
+> en un entorno cuyo egress permita `gazettes.africa`.
+>
+> 💡 **Contexto de calendario (New Era, citando a Colgar Sikopo, MEFT):** el ministerio planeaba
+> «finalizar y gacetar» el baremo *"by the end of September 2025"* para poder aplicarlo el 1/04/2026.
+> Al final se publicó el **mismo 1/04/2026** (fecha de la Gaceta 8877), no en septiembre de 2025.
+> Fuente: [New Era — «Tour operators demand proper parks»](https://neweralive.na/tour-operators-demand-proper-parks/).
 
 **Adulto internacional (no-SADC), por persona y día — el que os aplica:**
 - **N$280 (~€14)**, desglosado en **N$140 (~€7) de entrada + N$140 (~€7) de conservación** ◐
@@ -271,9 +296,12 @@ cobran los N$280 ◐.
 (N$560 de los dos adultos + N$60 del vehículo), coherente con `01` §7 y `10` §5.
 
 **Fuentes tasas:**
+- **Fuente legal primaria (LOCALIZADA 23/07, no abierta aquí — 403):**
+  [gazettes.africa — Government Gazette Nº 8877, 1/04/2026 (Government Notice Nº 115)](https://gazettes.africa/akn/na/officialGazette/government-gazette/2026-04-01/8877/eng@2026-04-01)
 - **Oficiales del MEFT (existen, no abiertas aquí — 403):**
   [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
   [MEFT — nota de prensa «Implementation of New Park Entrance Fees and Conservation Fee»](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/)
+- Calendario del gacetado: [New Era — «Tour operators demand proper parks»](https://neweralive.na/tour-operators-demand-proper-parks/)
 - Secundarias concordantes: [etoshanationalpark.com.na — gate times & fees](https://etoshanationalpark.com.na/park-information/gate-times-and-fees/) ·
   [NWR — park entrance & conservation fees](https://www.nwr.com.na/park-entrance-and-conservation-fees-2/) ·
   [namibian.org — «Namibia raises park fees by 86 to 100 percent»](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent)
@@ -365,10 +393,13 @@ tarifa internacional/alta).*
   (arriba). **Falta**: tarifa real para las fechas exactas de finales de noviembre (los precios son
   instantáneas de muestra) y precio de Qatar/Airlink/TAAG (**❌ sin verificar**).
 - 🎫 **Tasas oficiales** — **AVANZADO** ✔️: dos documentos oficiales del MEFT (PDF de tarifas + nota de
-  prensa `news/199`), firmado 15/01, vigente 1/04/2026, base legal Nature Conservation Ordinance 1975,
-  desglose N$140+N$140, y confirmado que **los tres parques de pago de la ruta son premium** (N$280).
-  **Falta**: abrir el PDF/nota primarios para verificar la tabla fina (siguen en 403) y **localizar el
-  Government Gazette numerado, que no apareció por buscador**.
+  prensa `news/199`), vigente 1/04/2026, base legal Nature Conservation Ordinance 1975, desglose
+  N$140+N$140, y confirmado que **los tres parques de pago de la ruta son premium** (N$280). ✔️ **Novedad
+  23/07**: el **Government Gazette numerado ya está LOCALIZADO** — **Nº 8877, Government Notice Nº 115,
+  1/04/2026**, firmado por la Ministra Indileni N. Daniel (26/03/2026), enmienda el GN 240 de 1976, en
+  gazettes.africa. **Ya no es «no localizado».** **Falta**: abrir esa gaceta (y el PDF/nota del MEFT)
+  para verificar la tabla fina — todos siguen en 403; y **descartar la cifra confabulada «N$75–150»** que
+  soltó un resumen de buscador y contradice el N$280.
 - 🏨 **Lodges privados** — **❌ sin cerrar**: rack rate por noche todavía no verificado. En esta pasada
   el acceso web **seguía cerrado, y ahora se sabe con más precisión por qué** — son **dos bloqueos
   distintos**:
