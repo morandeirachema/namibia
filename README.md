@@ -543,7 +543,7 @@ Deadvlei · Walvis Bay · Swakopmund *(de paso)* · Cape Cross · Skeleton Coast
 Etosha *(4 noches dentro)*. **Opcionales**: **Onguma** *(tu pin — capricho fuera de la puerta este,
 a cambio de no dormir dentro)* · Okonjima/AfriCat · Hoba · Waterberg *(los tres, de camino el D13)*. **Fuera esta vez**: todo el sur *(documentado en la Variante D por si vuelve)* · Spitzkoppe y
 Brandberg *(tampoco están en la ruta de referencia)* · NamibRand · Messum · Bagatelle ·
-Epupa/Opuwo · Tsumkwe · Harnas · Kgalagadi.
+Epupa/Opuwo *(descartado con números en `06`: ~730 km hasta Opuwo + ~180-200 km de grava C43 hasta Epupa = desvío de ~2 días cada sentido, y dentro de la zona sin cobertura de bajos)* · Tsumkwe · Harnas · Kgalagadi.
 ℹ️ Twyfelfontein y Duna 45 salen en Google como cerrados: **fallo del listado, ambos funcionan**.
 
 ---
