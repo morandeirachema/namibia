@@ -58,9 +58,42 @@ Y el **Super Cover** ya excluye de por sí los bajos *«excluding Kaokoveld and 
 > 👉 **Traducción:** en Kaokoland vas **sin cobertura de bajos y sin rescate garantizado**, pagues lo
 > que pagues. Y el rescate **no tiene tope** (cláusula 10.5.7: la franquicia elegida *«does not
 > limit The Renter's liability for... recovery costs»*).
->
-> Epupa está a un mundo de Windhoek y **la pista de Opuwo a Epupa es exactamente ese terreno**.
-> ⚠️ Distancias y estado de la pista: **por verificar**.
+
+#### Las cifras que lo descartan ◐
+
+```mermaid
+flowchart LR
+    W["Windhoek"] -->|"~730 km asfalto B1 + C40<br/>día entero al volante"| O["Opuwo"]
+    O -->|"C43 ~180-200 km grava<br/>3 h en seco / 4-5 h realista"| E["Epupa Falls"]
+    E -.->|"vuelta: otro tanto"| W
+```
+
+- **Windhoek → Opuwo: ~730 km por carretera** (línea recta ~602 km; «unos 720 km al nornoroeste de
+  Windhoek» según la ficha de Opuwo). Es **asfalto casi todo** —B1 al norte y luego Outjo→Kamanjab
+  (C40, asfaltado ese tramo)→Opuwo (~203 km)—, pero son **~730 km = un día entero de conducción** solo
+  para *llegar al punto de partida* del desvío.
+- **Opuwo → Epupa: ~180–200 km por la C43, toda grava.** Los propios lodges la cifran en «unos 200 km,
+  unas 3 h» *en seco*; realista **4–5 h** a 80 km/h con vados, lechos secos y ganado. La C43 **se
+  degrada en cada temporada de lluvias** y el vado de Okongwati puede cortar horas si baja crecido.
+- **Matiz importante (corrige una imprecisión previa):** la ruta normal Opuwo→Epupa es la **C43**, una
+  carretera de grava mantenida —**no** las pistas de *offroad* D3707/D3703 (Van Zyl's Pass, ruta oeste
+  de Marienfluss) que los T&C de Asco excluyen por su nombre. Aun así **la C43 sigue dentro de
+  «Kaokoveld»**, la zona que el Super Cover excluye de cobertura de bajos y de rescate garantizado, así
+  que **el argumento del seguro se mantiene** para toda la región.
+
+> 👉 **La aritmética del descarte:** desde el punto más cercano de la ruta prevista (el eje de Etosha /
+> Damaraland), Epupa es un **desvío de ~2 días de ida y ~2 de vuelta**, metiéndote **justo en la zona
+> sin cobertura**. Con el coche solo 12-13 días útiles (ver `04`), **no cabe** — y no por gusto, sino
+> por kilómetros. **Descartado con números.**
+
+**Fuentes** ◐ *(vía WebSearch; no descargadas —el egress de la organización bloquea WebFetch/curl a
+todos estos hosts con `403`—, pero las cifras **convergen entre calculadoras independientes y las
+páginas de indicaciones de los propios lodges**, y sirven para el descarte, no para navegar):*
+[Wikipedia — C43 road](https://en.wikipedia.org/wiki/C43_road_(Namibia)) ·
+[Wikipedia — Opuwo](https://en.wikipedia.org/wiki/Opuwo) ·
+[geodatos — Windhoek→Opuwo](https://www.geodatos.net/en/distances/from-windhoek-to-opuwo) ·
+[Epupa Falls Lodge — road conditions](https://epupafallslodge.com/the-road-less-travelled-road-conditions/) ·
+[Epupa Camp — directions](https://epupa.com.na/directions/)
 
 ### 2. ~~Mata-Mata / Kgalagadi~~ — ❌ DESCARTADO por decisión del viajero (17/07/2026)
 
