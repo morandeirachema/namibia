@@ -139,8 +139,10 @@ permiso** — pero Elizabeth Bay es **más restringido**: no es un sitio al que 
 
 ### Noreste
 - **Hoba Meteorite** — 4,0★ (800). Cerca de Grootfontein. **El meteorito más grande de la Tierra**
-- **Tsumkwe** — extremo este, **Bushmanland** (comunidades ju/'hoansi). Muy lejos del resto
-- **Harnas Wildlife Foundation** — lodge, 4,5★ (160). Este, zona de Gobabis
+- **Tsumkwe** — extremo este, **Bushmanland** (comunidades ju/'hoansi). **~640 km de Windhoek, final
+  de grava por la C44** ◐ (ver «El este», más abajo). Muy lejos del resto
+- **Harnas Wildlife Foundation** — lodge, 4,5★ (160). Este, zona de Gobabis. **~307 km de Windhoek por
+  la B6** ◐ (medido abajo)
 
 ### Damaraland y costa norte
 - **Twyfelfontein** — *(Google dice «el sitio ya no existe»: es un fallo del listado. El sitio
@@ -220,9 +222,9 @@ flowchart LR
 
 **Lo que es un viaje aparte:**
 - 🔴 **Epupa + Opuwo** (Kaokoland — y sin seguro de bajos)
-- 🔴 **Tsumkwe** (Bushmanland, extremo este)
+- 🔴 **Tsumkwe** (Bushmanland, extremo este — ~640 km, final de grava)
 - 🔴 **Mata-Mata / Kgalagadi** (Sudáfrica, cruce de frontera)
-- 🔴 **Harnas** (extremo este)
+- 🔴 **Harnas** (este, ~307 km — no lejísimos, pero dirección contraria al bucle norte)
 - 🟠 **Messum Crater**, **Skeleton Coast norte**, **Elizabeth Bay** (acceso restringido o guiado)
 
 > **Ojo a la tensión de fondo:** ya está decidido que **el sur se queda** (Fish River, Lüderitz,
@@ -356,6 +358,48 @@ flowchart LR
   (ver `01` y `05`). Doble motivo para dejarlo fuera.
 - Fuentes: [trippy — Windhoek↔Opuwo](https://www.trippy.com/distance/Windhoek-to-Opuwo) ·
   [Epupa Camp — directions](https://epupa.com.na/directions/)
+
+### 📏 El este (Tsumkwe + Harnas) — los dos pines que faltaban, ahora CON números ◐
+
+Cerraba la lista de pines sin medir. Los dos apuntan al **este**, la dirección contraria al bucle del
+norte, así que un desvío a cualquiera de ellos es una **ida y vuelta muerta** que no enlaza con nada
+de la ruta. La diferencia entre ambos es de grado.
+
+```mermaid
+flowchart LR
+    W["Windhoek"] -->|"B6 asfalto ~202 km"| G["Gobabis"]
+    G -->|"~105 km, tramo final grava"| H["Harnas"]
+    W -->|"B1 asfalto hasta Grootfontein"| GR["Grootfontein"]
+    GR -->|"C44 grava ~250-300 km"| T["Tsumkwe"]
+    style H fill:#e85d04,color:#000
+    style T fill:#9d0208,color:#fff
+```
+
+- **Harnas (Fundación de fauna) — ~307 km al este de Windhoek** ◐
+  - Ruta: **B6 (Trans-Kalahari, asfalto) hasta Gobabis (~202–204 km)**, y desde Gobabis **~105–120 km
+    al noreste** con **tramo final de grava** hasta la granja.
+  - **Matiz honesto:** 307 km **no** es «lejísimos» — es menos que Windhoek–Sesriem. **No se descarta
+    por distancia**, sino por **dirección**: cae al este, fuera del eje norte, y **no tiene nada más
+    cerca** que justifique el desvío. Un ~día de ida + otro de vuelta que no suma ruta. Por eso queda
+    fuera, no por kilómetros imposibles.
+  - Fuentes: [Harnas — Road Directions (PDF oficial, Wetu)](https://stwetuproduction.blob.core.windows.net/azure-blob-resources-wetu-production/Resources/45047/Harnas_Road_Direction_-_GPS_Co-Ordinates.pdf) ·
+    [namibweb — Harnas](https://www.namibweb.com/harnas.htm)
+
+- **Tsumkwe (Bushmanland, Nyae Nyae) — ~640 km de Windhoek, y el final es grava** ◐
+  - Calculadoras independientes: **~638 km por carretera** (rome2rio, na.utc.city). El trazado real es
+    **B1 asfalto hasta Grootfontein** y luego la **C44, ~250–300 km de grava** hacia el este *(la C44
+    mide 321 km en total y atraviesa Tsumkwe)*, así que en la práctica ronda o supera los ~640 km.
+  - **Es el extremo este del país**, pegado a **Khaudum** y la frontera con Botsuana — **~1 día de ida
+    solo de conducción**, con el último tercio en grava, y de nuevo en zona remota sin apenas
+    servicios. Con el sur ya dentro del viaje, **no cabe**: aritmética, igual que Epupa.
+  - Fuentes: [rome2rio — Windhoek↔Tsumkwe](https://www.rome2rio.com/s/Windhoek/Tsumkwe) ·
+    [na.utc.city — Tsumkwe↔Windhoek](https://na.utc.city/2357925-2358013) ·
+    [Wikipedia — C44 road](https://en.wikipedia.org/wiki/C44_road_(Namibia))
+
+> **Aviso de método (igual que en Epupa):** estas cifras vienen de **WebSearch**, no de páginas
+> descargadas (el egress bloquea WebFetch/curl a estos hosts con `403`). **Convergen entre
+> calculadoras independientes y las indicaciones oficiales de los propios destinos**, y **sirven para
+> el descarte, no para navegar**. La distancia fina de conducción hay que confirmarla con el mapa.
 
 ---
 
