@@ -454,7 +454,20 @@ tarifa internacional/alta).*
   ◐ y con la temporada de noviembre sin fijar — pero encaja con el ancla de Spitzkoppe.* Siguen
   **sin verificar**: Spreetshoogte, Walvis Bay (Lagoon Chalets) y Quivertree Forest Rest Camp — los
   fragmentos solo dan números viejos de iOverlander sin vigencia 2026.
-- 📅 **Antelación** — **cualitativo**: "lo antes posible"; sin cifra oficial de meses para noviembre.
+- 📅 **Antelación** — **AVANZADO** (◐/○, fuente secundaria — sin cifra oficial de NWR): la temporada
+  alta de Namibia es **julio–octubre** (estación seca, mejor fauna en Etosha), y **noviembre es mes de
+  hombro/tranquilo** ("November and December are Namibia's quietest months for tourism", Rough Guides).
+  En temporada alta los campings de NWR **se agotan con meses**: un viajero reporta en el foro de
+  Tripadvisor **no haber conseguido ninguna parcela de camping en Etosha reservando con ~1,5 meses de
+  antelación** ○ (anécdota, no cifra oficial). Traslación a **tu** ventana de noviembre: la presión de
+  reserva es **menor que en el pico Jul–Oct**, pero **Sesriem sigue siendo el cuello de botella
+  estructural** — solo **44 parcelas + 6 de desbordamiento** (`08`, sección Sesriem), así que su escasez
+  no depende de la temporada. **Recomendación práctica ○:** reserva Sesriem y las noches de Etosha **en
+  cuanto tengas el coche cerrado**, sin esperar. **Sigue ❌**: cifra oficial de NWR sobre meses de
+  antelación para noviembre.
+  *Fuentes: [Rough Guides — when to go](https://www.roughguides.com/namibia/when-to-go/) ·
+  [Tripadvisor — Booking Sesriem and Etosha campsites](https://www.tripadvisor.com/ShowTopic-g293820-i9680-k13730223-Booking_Sesriem_and_Etosha_campsites-Namibia.html)
+  (fragmentos de búsqueda; no se pudo abrir la ficha —403).*
 - 🌡️ **Temperaturas de Sossusvlei/Sesriem, Lüderitz y Swakopmund**: **❌ siguen sin procesarse** con
   fuente meteorológica primaria (SASSCAL/NOAA no salen por fragmento de búsqueda y WebFetch está
   bloqueado). *(Dato ◐ de NWR ya recogido en `03`: Sesriem nov **34,1 / 15,5 °C**; Etosha nov
