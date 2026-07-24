@@ -198,9 +198,18 @@ flowchart LR
 - **Lufthansa, ida y vuelta MAD-WDH**: desde **€673 (~N$13.460)**.
 - **Ethiopian**, muestra ida/vuelta 10-18 nov: **$784 (≈€710, ≈N$14.200)**.
 - **Lufthansa**, muestra 8-21 nov: **$786-787 (≈€715, ≈N$14.300)**.
+- **Suelo genérico MAD-WDH** — cifra gancho "desde" de agregador, **fecha SIN concretar**: **desde ~€416-418 (~N$8.320-8.360)** (momondo/KAYAK). Es una tarifa "desde", casi nunca disponible en fechas reales; sirve solo como **suelo teórico**. ○
+- **Qatar Airways, ida y vuelta MAD-WDH** — cifra gancho de agregador, **fecha SIN concretar**: **desde ~€631 (~N$12.620)** (trip.com). **NO** es una tarifa cotizada para finales de noviembre. ○
+- **Airlink, ida y vuelta JNB-WDH** — solo el **tramo regional** (hay que sumar el largo radio Europa-JNB con otra compañía); agregador, fecha genérica: **~$254-284 (≈€231-258, ≈N$4.620-5.160)**; ida desde ~$126 (travelocity/Skyscanner). ○
 
-*Conversión $→€ aproximada a $1,10≈€1, marcada como aproximada. No se encontró tarifa de Qatar,
-Airlink ni TAAG para las fechas concretas: **queda ❌ sin verificar** el precio de esas tres.*
+*Conversión $→€ aproximada a $1,10≈€1, marcada como aproximada.*
+
+> **Actualización 24/07 (avance parcial de este hueco):** Qatar y Airlink pasan de «sin dato» a **rango
+> típico de agregador** (arriba). Pero siguen **SIN verificar para las fechas exactas**: son cifras
+> gancho «desde», **no tarifas reservables** para finales de noviembre de 2026, y las de Airlink cubren
+> **solo el conector JNB-WDH**, no el vuelo largo. **TAAG sigue ❌ sin número alguno**: los agregadores
+> no devolvieron precio para la ruta Luanda-Windhoek. La tarifa real de las tres hay que sacarla en el
+> buscador de la aerolínea con las fechas concretas.
 
 **Fuentes vuelos:**
 - Ethiopian: [ethiopianairlines.com MAD-WDH](https://www.ethiopianairlines.com/en-es/flights-from-madrid-to-windhoek) ·
@@ -208,8 +217,12 @@ Airlink ni TAAG para las fechas concretas: **queda ❌ sin verificar** el precio
   [flightsfrom ADD-WDH](https://www.flightsfrom.com/ADD-WDH)
 - Qatar: [flightsfrom DOH-WDH](https://www.flightsfrom.com/DOH-WDH) · [qatarairways.com](https://www.qatarairways.com/en/destinations/flights-to-windhoek.html)
 - Lufthansa: [lufthansa.com MAD-WDH](https://www.lufthansa.com/xx/en/flights/flight-madrid-windhoek)
-- Airlink: [flyairlink.com JNB-WDH](https://www.flyairlink.com/en-za/flights-from-johannesburg-to-windhoek)
+- Airlink: [flyairlink.com JNB-WDH](https://www.flyairlink.com/en-za/flights-from-johannesburg-to-windhoek) ·
+  [travelocity Airlink JNB-WDH](https://travelocity.com/lp/flight-routes/airlink-from-or-tambo-intl-to-hosea-kutako/4z/jnb/wdh) ·
+  [skyscanner JNB-WDH](https://www.skyscanner.net/routes/jnba/wdha/johannesburg-to-windhoek.html)
 - TAAG: [flightconnections NBJ-WDH](https://www.flightconnections.com/flights-from-nbj-to-wdh)
+- Rangos gancho de agregador (fecha sin concretar): [trip.com airfares MAD-WDH](https://es.trip.com/flights/madrid-to-windhoek/airfares-mad-wdh/) ·
+  [momondo MAD-WDH](https://www.momondo.es/vuelos/madrid/windhoek) · [KAYAK MAD-WDH](https://www.kayak.es/vuelos/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD/Windhoek-Aeropuerto-Internacional-de-Windhoek-Hosea-Kutako-WDH)
 - Fiebre amarilla: [CDC Yellow Book — Etiopía](https://wwwnc.cdc.gov/travel/yellowbook/2024/preparing/yellow-fever-vaccine-malaria-prevention-by-country/ethiopia) ·
   [Chalo Africa — Namibia](https://www.chaloafrica.com/namibia-health-vaccinations/)
 
@@ -390,8 +403,11 @@ tarifa internacional/alta).*
 ## 🕳️ Lo que sigue sin cerrarse
 
 - 🛫 **Vuelos** — **AVANZADO** ✔️: rutas, escalas, duraciones y el factor fiebre amarilla ya están
-  (arriba). **Falta**: tarifa real para las fechas exactas de finales de noviembre (los precios son
-  instantáneas de muestra) y precio de Qatar/Airlink/TAAG (**❌ sin verificar**).
+  (arriba). **Novedad 24/07**: Qatar (MAD-WDH ida y vuelta desde ~€631) y Airlink (JNB-WDH ida y vuelta
+  ~$254-284) pasan de «sin dato» a **rango típico de agregador** — cifras gancho «desde», **sin fecha
+  concreta**, no reservables. **Falta todavía**: tarifa real para las fechas exactas de finales de
+  noviembre (los precios siguen siendo instantáneas/ganchos) y **TAAG sigue ❌ sin número** (los
+  agregadores no devuelven precio de Luanda-Windhoek).
 - 🎫 **Tasas oficiales** — **AVANZADO** ✔️: dos documentos oficiales del MEFT (PDF de tarifas + nota de
   prensa `news/199`), vigente 1/04/2026, base legal Nature Conservation Ordinance 1975, desglose
   N$140+N$140, y confirmado que **los tres parques de pago de la ruta son premium** (N$280). ✔️ **Novedad
