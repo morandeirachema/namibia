@@ -1,6 +1,6 @@
 # Huecos cerrados — temperaturas, vuelos, tasas y lodges
 
-Investigación cerrada el 17/07/2026 · **actualizada el 23/07/2026** (localizado el Government Gazette de las tasas: ver §Tasas) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
+Investigación cerrada el 17/07/2026 · **actualizada el 25/07/2026** (TAAG sale de ❌: rango de agregador para el conector Luanda-Windhoek, ver §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
 **✅ primaria** · **◐ secundaria concordante** · **○ práctica común** · **❌ no verificado**
 
 > ### ⚙️ Límite técnico de esta pasada — importante para auditar
@@ -201,15 +201,21 @@ flowchart LR
 - **Suelo genérico MAD-WDH** — cifra gancho "desde" de agregador, **fecha SIN concretar**: **desde ~€416-418 (~N$8.320-8.360)** (momondo/KAYAK). Es una tarifa "desde", casi nunca disponible en fechas reales; sirve solo como **suelo teórico**. ○
 - **Qatar Airways, ida y vuelta MAD-WDH** — cifra gancho de agregador, **fecha SIN concretar**: **desde ~€631 (~N$12.620)** (trip.com). **NO** es una tarifa cotizada para finales de noviembre. ○
 - **Airlink, ida y vuelta JNB-WDH** — solo el **tramo regional** (hay que sumar el largo radio Europa-JNB con otra compañía); agregador, fecha genérica: **~$254-284 (≈€231-258, ≈N$4.620-5.160)**; ida desde ~$126 (travelocity/Skyscanner). ○
+- **TAAG, tramo regional Luanda-Windhoek** — igual que Airlink, **solo el conector** (hay que sumar el largo radio Europa-Luanda); agregador, fecha genérica, **ida** LAD-WDH **desde ~$177-385 (≈€161-350, ≈N$3.220-7.000)** según OTA (travelocity fija ~$177; kiwi.com da ~$385 LAD-WDH y ~$252 WDH-LAD). **La ida y vuelta NO se registra**: el resumen del buscador la agregó de forma contradictoria ($230 a $1.634) sin página atribuible, y eso no se anota. ○
 
 *Conversión $→€ aproximada a $1,10≈€1, marcada como aproximada.*
 
 > **Actualización 24/07 (avance parcial de este hueco):** Qatar y Airlink pasan de «sin dato» a **rango
 > típico de agregador** (arriba). Pero siguen **SIN verificar para las fechas exactas**: son cifras
 > gancho «desde», **no tarifas reservables** para finales de noviembre de 2026, y las de Airlink cubren
-> **solo el conector JNB-WDH**, no el vuelo largo. **TAAG sigue ❌ sin número alguno**: los agregadores
-> no devolvieron precio para la ruta Luanda-Windhoek. La tarifa real de las tres hay que sacarla en el
-> buscador de la aerolínea con las fechas concretas.
+> **solo el conector JNB-WDH**, no el vuelo largo.
+>
+> **Actualización 25/07:** TAAG pasa también de «sin número» a **rango típico de agregador**, pero **solo
+> para el conector regional Luanda-Windhoek** (varias OTAs con página atribuible: travelocity ~$177 ida,
+> kiwi.com ~$385/$252 ida). Sigue **SIN verificar** el largo radio Europa-Luanda y la fecha concreta; la
+> ida y vuelta directa Luanda-Windhoek no se anota porque el buscador solo la agregó de forma
+> contradictoria. La tarifa real de las tres hay que sacarla en el buscador de la aerolínea con las fechas
+> concretas.
 
 **Fuentes vuelos:**
 - Ethiopian: [ethiopianairlines.com MAD-WDH](https://www.ethiopianairlines.com/en-es/flights-from-madrid-to-windhoek) ·
@@ -220,7 +226,9 @@ flowchart LR
 - Airlink: [flyairlink.com JNB-WDH](https://www.flyairlink.com/en-za/flights-from-johannesburg-to-windhoek) ·
   [travelocity Airlink JNB-WDH](https://travelocity.com/lp/flight-routes/airlink-from-or-tambo-intl-to-hosea-kutako/4z/jnb/wdh) ·
   [skyscanner JNB-WDH](https://www.skyscanner.net/routes/jnba/wdha/johannesburg-to-windhoek.html)
-- TAAG: [flightconnections NBJ-WDH](https://www.flightconnections.com/flights-from-nbj-to-wdh)
+- TAAG: [flightconnections NBJ-WDH](https://www.flightconnections.com/flights-from-nbj-to-wdh) ·
+  [travelocity TAAG LAD-WDH](https://www.travelocity.com/lp/flight-routes/taag-angola-airlines-from-quatro-de-fevereiro-to-hosea-kutako/dt/lad/wdh) ·
+  [kiwi.com Luanda-Windhoek](https://www.kiwi.com/en/cheap-flights/luanda-angola/windhoek-namibia/)
 - Rangos gancho de agregador (fecha sin concretar): [trip.com airfares MAD-WDH](https://es.trip.com/flights/madrid-to-windhoek/airfares-mad-wdh/) ·
   [momondo MAD-WDH](https://www.momondo.es/vuelos/madrid/windhoek) · [KAYAK MAD-WDH](https://www.kayak.es/vuelos/Madrid-Adolfo-Suarez-Madrid-Barajas-MAD/Windhoek-Aeropuerto-Internacional-de-Windhoek-Hosea-Kutako-WDH)
 - Fiebre amarilla: [CDC Yellow Book — Etiopía](https://wwwnc.cdc.gov/travel/yellowbook/2024/preparing/yellow-fever-vaccine-malaria-prevention-by-country/ethiopia) ·
@@ -405,9 +413,11 @@ tarifa internacional/alta).*
 - 🛫 **Vuelos** — **AVANZADO** ✔️: rutas, escalas, duraciones y el factor fiebre amarilla ya están
   (arriba). **Novedad 24/07**: Qatar (MAD-WDH ida y vuelta desde ~€631) y Airlink (JNB-WDH ida y vuelta
   ~$254-284) pasan de «sin dato» a **rango típico de agregador** — cifras gancho «desde», **sin fecha
-  concreta**, no reservables. **Falta todavía**: tarifa real para las fechas exactas de finales de
-  noviembre (los precios siguen siendo instantáneas/ganchos) y **TAAG sigue ❌ sin número** (los
-  agregadores no devuelven precio de Luanda-Windhoek).
+  concreta**, no reservables. **Novedad 25/07**: TAAG también sale de ❌ — el **conector regional
+  Luanda-Windhoek** ya tiene rango de agregador (ida LAD-WDH ~$177-385, travelocity/kiwi.com), del mismo
+  carácter gancho «desde» que Qatar y Airlink. **Falta todavía**: tarifa real para las fechas exactas de
+  finales de noviembre (los precios siguen siendo instantáneas/ganchos), y el **largo radio Europa-Luanda
+  de TAAG** y su **ida y vuelta directa** siguen sin número atribuible.
 - 🎫 **Tasas oficiales** — **AVANZADO** ✔️: dos documentos oficiales del MEFT (PDF de tarifas + nota de
   prensa `news/199`), vigente 1/04/2026, base legal Nature Conservation Ordinance 1975, desglose
   N$140+N$140, y confirmado que **los tres parques de pago de la ruta son premium** (N$280). ✔️ **Novedad
