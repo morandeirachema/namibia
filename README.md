@@ -177,8 +177,9 @@ flowchart LR
   de fauna y cielos limpios, con datos de estación — no de folletos.
 - 🌡️ **Calor: Etosha aprieta, el resto acompaña.** El norte a **~37–38 °C** de máxima — el safari se
   hace al amanecer y al atardecer, con siesta y charca iluminada de noche, que es como se hace bien
-  de todas formas. El desierto ~30–32 °C y la costa fresca (Benguela). Noches de 15–18 °C: **forro
-  polar, no plumas**.
+  de todas formas. El desierto ~30–32 °C y la costa fresca (Benguela): **Swakopmund/Walvis Bay ~25 °C
+  de máxima en noviembre**, medido con estación NOAA *(ver [`08`](08-huecos-cerrados.md), sección "La
+  costa")*. Noches de 15–18 °C: **forro polar, no plumas**.
 - 💶 **Precio: la frontera del 1 de noviembre, dos veces.** **NWR** entra en tramo barato el 1 de
   noviembre (Sesriem, Terrace Bay, Etosha), y **Namibia2Go también**. 👉 **¿Adelantar días a
   octubre? Hasta 2 días es gratis** — las primeras noches (Windhoek, Spreetshoogte) no son NWR.

@@ -122,6 +122,83 @@ más de 50 años**):
 
 ---
 
+## 🌊 LA COSTA (Swakopmund / Walvis Bay) — hueco CERRADO con fuente primaria ✅
+
+> ### Novedad de esta pasada. Se descubrió que el **dataset NOAA GHCN-Daily alojado en AWS S3**
+> (`noaa-ghcn-pds.s3.amazonaws.com`) **sí es accesible** desde este entorno por `curl`, aunque el PDF
+> de Gondwana y SASSCAL sigan bloqueados. Con eso se cierra la temperatura de la costa, que hasta
+> ahora estaba en ❌.
+
+**Estación WALVIS BAY AIRPORT** (WMO 68098, −22,98 / 14,65, **88 m**, serie **1990–2025**). Es la
+estación primaria más cercana a Swakopmund con temperatura máxima; **Swakopmund está a ~30 km al
+norte, bajo la misma corriente fría de Benguela** — mismo clima marino templado *(la estación
+etiquetada "Swakopmund" en GHCN, WA007350110, no tiene serie de TMAX en el inventario)*.
+
+Media de máximas diarias por mes (◐→✅ primaria, calculada sobre las máximas diarias del CSV
+`by_station`, excluidos los valores marcados por el control de calidad de NOAA):
+
+- Septiembre **22,7 °C** → Octubre **23,8 °C** → **Noviembre 25,0 °C** → Diciembre **25,4 °C** → Enero **26,1 °C**
+- Media de mínimas: noviembre **12,7 °C** · diciembre **14,5 °C** *(fresco de madrugada por el mar)*
+
+**Récord de noviembre: 38,9 °C (2010)** — un pico aislado de *berg wind* (viento cálido de tierra);
+la media manda, y la media es **templada**. `n` = 609 días de observación en 23 años (noviembre).
+
+> **Traducción: la costa es el respiro térmico del viaje.** Mientras Etosha ronda los 37 °C, en
+> Swakopmund/Walvis Bay se está a **~25 °C** de máxima. Nunca hace calor de interior; lo que puede
+> molestar es lo contrario (viento, niebla y frío marino de madrugada, ~12–14 °C).
+
+**La costa NO tiene pico en octubre: sube despacio de septiembre a enero**, igual que el sur. Confirma
+que **"octubre = pico" solo vale para el interior norte (Etosha)**: en la costa y en el sur el calor
+sigue subiendo hacia el verano.
+
+### 🔁 Etosha (Okaukuejo) — recomputado de forma independiente ✅
+
+Recalculado en esta pasada sobre la serie completa **1975–2022** del CSV de NOAA, para corroborar la
+cifra que ya estaba en el dossier: Octubre **37,8 °C** · Noviembre **37,1 °C** · Diciembre **35,6 °C**
+(mínimas de noviembre **18,9 °C**). **Coincide con el 38,0 / 37,1 / 35,4 previo dentro de ~0,2 °C** —
+mismo dato, dos extracciones independientes. Octubre sigue siendo el pico del norte.
+
+### 🏙️ Windhoek — punto de entrada y salida ✅
+
+**Estación 68110** (1.700 m, serie larga **1957–2025**): Octubre **30,5 °C** · Noviembre **31,2 °C** ·
+Diciembre **32,1 °C**; mínimas de noviembre **16,3 °C**. Cálido de día pero a 1.700 m **refresca de
+noche**. Récord de noviembre 38,7 °C (2016).
+
+```mermaid
+xychart-beta
+    title "Media de maximas C · costa y ejes del norte · sep-ene"
+    x-axis ["Sep", "Oct", "Nov", "Dic", "Ene"]
+    y-axis "grados C" 20 --> 40
+    line [22.7, 23.8, 25.0, 25.4, 26.1]
+    line [28.5, 30.5, 31.2, 32.1, 31.1]
+    line [35.8, 37.8, 37.1, 35.6, 35.3]
+```
+
+*Líneas de abajo arriba: **Walvis Bay/costa** (templada, sube despacio) · **Windhoek** (sube a dic) ·
+**Okaukuejo/Etosha** (pico en octubre, luego baja).*
+
+### ⚠️ Lo que sigue SIN cerrar — y por qué (no se inventa)
+
+- **Lüderitz: sin dato ❌.** No hay ninguna estación GHCN con temperatura máxima en Lüderitz ni en Aus
+  (Ausweiche, la más cercana, solo tiene precipitación). Por clima marino de Benguela **cabe esperar
+  algo parecido a la costa** (~20–25 °C), pero **eso es inferencia, no medición: no se registra como
+  cifra**.
+- **Sesriem / Sossusvlei: sin estación propia ❌.** La estación GHCN más cercana con máximas es
+  **Gobabeb** (−23,57 / 15,05, **400 m**, deep Namib, serie 1986–2014): noviembre **31,0 °C**,
+  diciembre 30,8 °C, récord de noviembre **43,0 °C (2012)**. **Pero Gobabeb es mal proxy de Sesriem**:
+  está ~100 km al oeste y a 400 m, mientras Sesriem está a ~1.000 m (madrugadas más frescas). Se deja
+  **como contexto del desierto interior ◐, no como la cifra de Sesriem**. La referencia ◐ que ya tenía
+  el dossier para Sesriem (34,1 / 15,5 °C, NWR) sigue siendo la mejor disponible, secundaria.
+- **Ai-Ais:** sigue sin medición (ver aviso arriba).
+
+**Fuente de todo el bloque:** NOAA GHCN-Daily, dataset público en AWS S3
+`https://noaa-ghcn-pds.s3.amazonaws.com/csv/by_station/{ESTACION}.csv` — estaciones
+`WAM00068098` (Walvis Bay), `WA010517310` (Okaukuejo), `WA007401540` (Windhoek), `WA006490640`
+(Gobabeb). Metadatos: `ghcnd-stations.txt` y `ghcnd-inventory.txt` del mismo bucket. Descargado el
+26/07/2026.
+
+---
+
 ## ✈️ VUELOS — A Coruña no tiene vuelo largo: se sale de Madrid, Lisboa u Oporto
 
 **Ningún vuelo directo une España con Windhoek (WDH, Hosea Kutako).** Todas las opciones hacen
@@ -494,9 +571,14 @@ tarifa internacional/alta).*
   *Fuentes: [Rough Guides — when to go](https://www.roughguides.com/namibia/when-to-go/) ·
   [Tripadvisor — Booking Sesriem and Etosha campsites](https://www.tripadvisor.com/ShowTopic-g293820-i9680-k13730223-Booking_Sesriem_and_Etosha_campsites-Namibia.html)
   (fragmentos de búsqueda; no se pudo abrir la ficha —403).*
-- 🌡️ **Temperaturas de Sossusvlei/Sesriem, Lüderitz y Swakopmund**: **❌ siguen sin procesarse** con
-  fuente meteorológica primaria (SASSCAL/NOAA no salen por fragmento de búsqueda y WebFetch está
-  bloqueado). *(Dato ◐ de NWR ya recogido en `03`: Sesriem nov **34,1 / 15,5 °C**; Etosha nov
+- 🌊 **Swakopmund / costa: ✅ CERRADO esta pasada** con fuente primaria (NOAA GHCN, estación Walvis
+  Bay Airport 68098) — ver la sección *"LA COSTA"* arriba. Noviembre **25,0 °C** de media de máximas.
+  Se descubrió que el bucket S3 `noaa-ghcn-pds.s3.amazonaws.com` **sí responde** por `curl` en este
+  entorno, aunque el PDF de Gondwana y SASSCAL sigan en 403.
+- 🌡️ **Sesriem/Sossusvlei y Lüderitz**: **siguen sin estación propia con máximas ❌**. No se inventan:
+  para Sesriem solo hay el proxy lejano de Gobabeb (400 m, ◐ contexto, no es su cifra); para Lüderitz,
+  ninguna estación GHCN con temperatura. Detalle en la sección *"LA COSTA"* → *"Lo que sigue sin
+  cerrar"*. *(Dato ◐ de NWR ya recogido en `03`: Sesriem nov **34,1 / 15,5 °C**; Etosha nov
   **35,5 / 18,3 °C** — coherente con Okaukuejo, pero de fuente secundaria.)*
 - ❌ **Ai-Ais**: sin estación, sin cifra. Solo se sabe que es **más caluroso que Karios**.
 - ⚠️ **Temperaturas del sur (Karios/Keetmanshoop)**: buenas, de ficheros descargados en pasadas con
@@ -504,5 +586,8 @@ tarifa internacional/alta).*
 
 **Fuentes:**
 - NOAA GHCN-Daily: `WA010517310.dly` (Okaukuejo) · `WA004191820.dly` (Keetmanshoop, WMO 68312)
+- NOAA GHCN-Daily en AWS S3 (`noaa-ghcn-pds.s3.amazonaws.com/csv/by_station/`): `WAM00068098`
+  (Walvis Bay/costa), `WA010517310` (Okaukuejo, recomputado), `WA007401540` (Windhoek), `WA006490640`
+  (Gobabeb) — descargado el 26/07/2026
 - [SASSCAL WeatherNet](https://sasscalweathernet.org) — estación 31207 (Karios, Gondwana Canyon Lodge)
 - [Servicio Meteorológico de Namibia — normales climáticas](http://www.meteona.com/attachments/035_Namibia_Long-term_Climate_Statistics_for_Specified_Places%5B1%5D.pdf)
