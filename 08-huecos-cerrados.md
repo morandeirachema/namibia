@@ -1,6 +1,6 @@
 # Huecos cerrados — temperaturas, vuelos, tasas y lodges
 
-Investigación cerrada el 17/07/2026 · **actualizada el 25/07/2026** (TAAG sale de ❌: rango de agregador para el conector Luanda-Windhoek, ver §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
+Investigación cerrada el 17/07/2026 · **actualizada el 26/07/2026** (nuevo dataset **GSOD** de NOAA en S3: valida las temperaturas con una red independiente —Keetmanshoop da 34,7 °C idéntico en GHCN y GSOD para 2000–2024— y añade **Mariental**; ver §GSOD. El 25/07 TAAG salió de ❌ en §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
 **✅ primaria** · **◐ secundaria concordante** · **○ práctica común** · **❌ no verificado**
 
 > ### ⚙️ Límite técnico de esta pasada — importante para auditar
@@ -212,6 +212,103 @@ xychart-beta
 (este último, 11 estaciones WA con TMAX, re-descargado y verificado el **26/07/2026**: S3 responde
 `200`; el resto de la web —Gondwana, PDFs, incluso Wikipedia— sigue en `403`). Descargado el
 26/07/2026.
+
+---
+
+## 🛰️ GSOD — un CUARTO dataset independiente valida las cifras y añade Mariental ✅
+
+> ### Novedad de la pasada del 26/07 (tarde). Se probó un **segundo bucket de NOAA en S3** que
+> **también responde** desde este entorno: **GSOD (Global Surface Summary of the Day)**,
+> `noaa-gsod-pds.s3.amazonaws.com`. Es un dataset **distinto** del GHCN-Daily usado arriba: sale de los
+> partes sinópticos horarios de los **aeropuertos** (base ISD), no de la red de observadores diarios.
+> Cubre estaciones que GHCN-Daily no trae con máximas, así que sirve para **dos cosas**: **validar** las
+> cifras que ya teníamos con una red independiente, y **añadir Mariental**, una estación del sur que
+> GHCN no tenía. Todo lo de abajo es **cálculo propio sobre los CSV descargados** (mismo método que el
+> resto del documento), con filtro de calidad físico.
+
+### 🎯 La validación que más tranquiliza: GSOD y GHCN dan lo MISMO ✅
+
+La estación de **Keetmanshoop es la misma** en las dos redes (aeropuerto J.G.H. van der Wath). Calculada
+la media de máximas de noviembre **en el mismo periodo** en las dos:
+
+- **GHCN-Daily, nov 2000–2024: 34,7 °C** (n=618 días)
+- **GSOD, nov 2000–2024: 34,7 °C** (n=653 días)
+
+**Coinciden en 0,0 °C.** Dos datasets de NOAA, construidos de forma independiente (observador diario vs
+parte de aeropuerto), dan el **mismo número al décimo**. Eso **descarta un sesgo del método** de GSOD y
+permite fiarse de sus estaciones nuevas.
+
+> ### 💡 Y de paso resuelve una duda: los 33,4 °C de Keetmanshoop eran la normal LARGA, no la reciente
+> El dossier tenía **33,4 °C** para Keetmanshoop (GHCN **1957–2024**). Recortada la **misma** serie GHCN
+> a **2000–2024**, sube a **34,7 °C** — idéntico a GSOD. Es decir: **el 33,4 es la normal de 68 años**;
+> la **década reciente corre ~1,3 °C más caliente** porque las décadas frías de mediados de siglo tiran
+> de la media larga hacia abajo. **Para un viaje en 2026, la cifra reciente (~34,7 °C) es la esperable.**
+>
+> ⚠️ **Ojo, no lo generalices sin comprobarlo:** en **Etosha (Okaukuejo)** ese salto **no existe** — la
+> serie GHCN empieza en 1983 y ya es "reciente", así que completo (**37,1 °C**) y 2000–2021 (**37,2 °C**)
+> coinciden. El desfase de Keetmanshoop es un **efecto de longitud de la serie**, no un calentamiento
+> uniforme que puedas aplicar a todas las estaciones.
+
+### 🆕 Mariental — estación del sur que GHCN no tenía, ahora medida ✅
+
+**MARIENTAL** (WMO 68212, −24,50 / 17,87, **1.100 m**), en la B1 al sur de Windhoek, borde del Kalahari.
+Es **la misma latitud que Sesriem** (−24,5) pero ~210 km al este y en otro régimen (Kalahari interior,
+más caliente que el Namib). **22 temporadas, 2003–2024**, media de máximas:
+
+- Octubre **35,5 °C** → **Noviembre 37,0 °C** → Diciembre **38,4 °C** (n=440 días de noviembre, 19 temporadas)
+- **El sur sube hacia el verano** (oct<nov<dic), igual que Fish River y Keetmanshoop — confirma otra vez
+  que el pico de octubre es **solo** cosa de Etosha.
+- Récord de noviembre **44,6 °C** *(tras filtro de calidad; ver aviso abajo)*.
+
+Es útil para el pin de **Bagatelle Kalahari** y para la documentación del sur: donde no hay estación en
+Sesriem, Mariental es un **acompañante del lado Kalahari** al proxy de Gobabeb del lado Namib.
+
+### 🔁 Y el resto, corroborado por una red independiente ✅
+
+Media de máximas de noviembre (GSOD, sobre CSV descargados, filtro de calidad ≤45 °C):
+
+- **Windhoek Eros** (68110, 1.725 m, 25 temporadas): **32,9 °C** · **Hosea Kutako** (68112, aeropuerto
+  intl., 1.719 m): **32,1 °C** — encajan con el **31,2 °C** de GHCN Windhoek (misma lógica de periodo).
+- **Outjo** (68102, 1.250 m, norte-centro, camino de la puerta de Andersson): **35,6 °C**.
+- **Keetmanshoop** (68312): **34,7 °C** (validado arriba).
+
+```mermaid
+xychart-beta
+    title "Media de maximas nov en C · GSOD 2000-2024 · costa a interior"
+    x-axis ["Walvis (costa)", "Hosea Kutako", "Windhoek Eros", "Keetmanshoop", "Outjo", "Okaukuejo", "Mariental"]
+    y-axis "grados C" 20 --> 40
+    bar [25.0, 32.1, 32.9, 34.7, 35.6, 37.1, 37.0]
+```
+
+*Walvis y Okaukuejo son las cifras GHCN ya cerradas arriba, puestas de referencia; las otras cinco son
+GSOD. Cuanto más al interior y al norte-Kalahari, más calor; la costa manda el respiro.*
+
+### 🔬 Honestidad de calidad — GSOD está MENOS depurado que GHCN
+
+GSOD no pasa el control de calidad fino de GHCN-Daily, así que se aplicó un **filtro físico**: se
+descartan las máximas diarias **>45 °C** por implausibles a estas altitudes. Solo afectó a **Mariental**
+(**5 días** de 440, todos en la ola de calor de nov 2023, con dos jornadas repetidas a 48,5 °C que
+parecen un valor pegado). **Quitarlos mueve la media de noviembre 0,1 °C** (37,0→36,9), y **ninguna otra
+estación tuvo un solo día por encima de 45 °C**. Las medias son **robustas**; el único dato que NO se
+publica es ese récord bruto de 48,5 °C — se da el **44,6 °C ya filtrado**. *(Regla de cero invenciones:
+un pico sin depurar no es un récord.)*
+
+### 🕳️ GSOD refuerza el negativo: tampoco hay Lüderitz, Sesriem ni Ai-Ais
+
+Enumerado el bloque WMO 68 completo en GSOD (139 ficheros estación-año de 2024), **las únicas estaciones
+namibias con máximas son las mismas del norte-centro y la costa**: Outjo, Windhoek (Eros y Hosea Kutako),
+Omaruru, Gobabis, **Mariental**, **Keetmanshoop**, Walvis Bay y Gobabeb. **No hay ninguna en Lüderitz,
+Sesriem ni Ai-Ais/Fish River** — y la que lleva el número 68106 resultó ser **Gobabeb** (−23,57 / 15,05),
+el mismo proxy del Namib que ya usábamos, no Lüderitz. Así que **dos datasets de NOAA independientes
+(GHCN + GSOD) coinciden en el negativo**: esos tres puntos **no tienen estación medida**. No es un fallo
+de búsqueda; se confirma por partida doble.
+
+**Fuente del bloque GSOD:** NOAA GSOD, dataset público en AWS S3
+`https://noaa-gsod-pds.s3.amazonaws.com/{AÑO}/{ID}099999.csv` — estaciones `68212` (Mariental), `68312`
+(Keetmanshoop), `68102` (Outjo), `68112` (Hosea Kutako), `68110` (Windhoek Eros), `68098` (Walvis Bay),
+`68106` (Gobabeb). Validación cruzada con GHCN-Daily `WA004191820` (Keetmanshoop) y `WA010517310`
+(Okaukuejo) del bucket `noaa-ghcn-pds`. Todo descargado y calculado el **26/07/2026**; GSOD responde
+`200` por `curl`, igual que GHCN (el resto de la web sigue en `403`).
 
 ---
 
@@ -591,11 +688,17 @@ tarifa internacional/alta).*
   Bay Airport 68098) — ver la sección *"LA COSTA"* arriba. Noviembre **25,0 °C** de media de máximas.
   Se descubrió que el bucket S3 `noaa-ghcn-pds.s3.amazonaws.com` **sí responde** por `curl` en este
   entorno, aunque el PDF de Gondwana y SASSCAL sigan en 403.
-- 🌡️ **Sesriem/Sossusvlei y Lüderitz**: **siguen sin estación propia con máximas ❌**. No se inventan:
-  para Sesriem solo hay el proxy lejano de Gobabeb (400 m, ◐ contexto, no es su cifra); para Lüderitz,
-  ninguna estación GHCN con temperatura. Detalle en la sección *"LA COSTA"* → *"Lo que sigue sin
-  cerrar"*. *(Dato ◐ de NWR ya recogido en `03`: Sesriem nov **34,1 / 15,5 °C**; Etosha nov
-  **35,5 / 18,3 °C** — coherente con Okaukuejo, pero de fuente secundaria.)*
+- 🌡️ **Sesriem/Sossusvlei y Lüderitz**: **siguen sin estación propia con máximas ❌**, y ahora
+  **confirmado por partida doble**: **GSOD tampoco los tiene** (ver §GSOD). No se inventan:
+  para Sesriem solo hay el proxy lejano de Gobabeb (400 m, ◐ contexto, no es su cifra) más el nuevo
+  acompañante Kalahari de Mariental (misma latitud, otro régimen); para Lüderitz, ninguna estación en
+  las dos redes. Detalle en la sección *"LA COSTA"* → *"Lo que sigue sin cerrar"*. *(Dato ◐ de NWR ya
+  recogido en `03`: Sesriem nov **34,1 / 15,5 °C**; Etosha nov **35,5 / 18,3 °C** — coherente con
+  Okaukuejo, pero de fuente secundaria.)*
+- 🛰️ **GSOD (nuevo, 26/07)** — **CIERRE/VALIDACIÓN** ✅: segundo bucket de NOAA en S3 accesible. Valida
+  Keetmanshoop (34,7 °C idéntico a GHCN en 2000–2024), añade **Mariental** (nov **37,0 °C**), corrobora
+  Windhoek y Outjo, y **refuerza el negativo** de Lüderitz/Sesriem/Ai-Ais. Hallazgo de método: los
+  33,4 °C de Keetmanshoop eran la normal **larga** (1957–2024); la **década reciente** corre ~34,7 °C.
 - ❌ **Ai-Ais / Fish River**: sin estación propia. Cuantificado el 26/07 contra el inventario GHCN
   completo (11 estaciones TMAX en toda Namibia): la más cercana es **Keetmanshoop a ~128–167 km**, en
   otro régimen; la única fuente local es SASSCAL Karios (nov 32,2 °C ◐, bloqueada aquí). Ai-Ais, en el
@@ -608,5 +711,8 @@ tarifa internacional/alta).*
 - NOAA GHCN-Daily en AWS S3 (`noaa-ghcn-pds.s3.amazonaws.com/csv/by_station/`): `WAM00068098`
   (Walvis Bay/costa), `WA010517310` (Okaukuejo, recomputado), `WA007401540` (Windhoek), `WA006490640`
   (Gobabeb) — descargado el 26/07/2026
+- **NOAA GSOD en AWS S3** (`noaa-gsod-pds.s3.amazonaws.com/{año}/{id}099999.csv`): `68212` (Mariental),
+  `68312` (Keetmanshoop), `68102` (Outjo), `68112` (Hosea Kutako), `68110` (Windhoek Eros), `68098`
+  (Walvis Bay), `68106` (Gobabeb) — descargado y calculado el 26/07/2026 (ver §GSOD)
 - [SASSCAL WeatherNet](https://sasscalweathernet.org) — estación 31207 (Karios, Gondwana Canyon Lodge)
 - [Servicio Meteorológico de Namibia — normales climáticas](http://www.meteona.com/attachments/035_Namibia_Long-term_Climate_Statistics_for_Specified_Places%5B1%5D.pdf)
