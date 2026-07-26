@@ -189,12 +189,28 @@ xychart-beta
   está ~100 km al oeste y a 400 m, mientras Sesriem está a ~1.000 m (madrugadas más frescas). Se deja
   **como contexto del desierto interior ◐, no como la cifra de Sesriem**. La referencia ◐ que ya tenía
   el dossier para Sesriem (34,1 / 15,5 °C, NWR) sigue siendo la mejor disponible, secundaria.
-- **Ai-Ais:** sigue sin medición (ver aviso arriba).
+- **Ai-Ais / Fish River Canyon: sin estación propia ❌.** Cuantificado esta pasada contra el
+  inventario completo: la estación GHCN con máximas **más cercana** al cañón es **Keetmanshoop**
+  (WA004191820), a **~128 km del mirador de Hobas** y **~167 km de las termas de Ai-Ais** — al NE, en
+  la meseta interior, otro régimen que el fondo del cañón (Ai-Ais es **más caluroso que Karios**, ver
+  aviso arriba). **No hay ninguna estación GHCN más próxima**, así que la única fuente local sigue
+  siendo la SASSCAL Karios (bloqueada este entorno, 403). El dato de Karios ya recogido arriba (nov
+  **32,2 °C** de media de máximas, ◐) es lo mejor disponible; para Ai-Ais en el fondo, **espera más**.
+
+> **Enumeración completa (verificación del negativo, no inferencia).** Descargado el `ghcnd-inventory.txt`
+> del bucket S3 esta pasada, **Namibia tiene en total 11 estaciones GHCN con serie de máximas (TMAX)**,
+> todas en la mitad norte-central, el corredor de Windhoek o la costa de Walvis Bay. **Ninguna cae cerca
+> de Sesriem, Lüderitz ni el Fish River**: la más próxima a cada uno está a **128 km (Sesriem→Gobabeb),
+> 295 km (Lüderitz→Keetmanshoop) y 128–167 km (Fish River/Ai-Ais→Keetmanshoop)**, y en clima distinto en
+> los tres casos. Los tres huecos de temperatura no son un fallo de búsqueda: **no existe una estación
+> medida representativa**. Distancias por fórmula de haversine sobre las coordenadas del inventario.
 
 **Fuente de todo el bloque:** NOAA GHCN-Daily, dataset público en AWS S3
 `https://noaa-ghcn-pds.s3.amazonaws.com/csv/by_station/{ESTACION}.csv` — estaciones
 `WAM00068098` (Walvis Bay), `WA010517310` (Okaukuejo), `WA007401540` (Windhoek), `WA006490640`
-(Gobabeb). Metadatos: `ghcnd-stations.txt` y `ghcnd-inventory.txt` del mismo bucket. Descargado el
+(Gobabeb), `WA004191820` (Keetmanshoop). Metadatos: `ghcnd-stations.txt` y `ghcnd-inventory.txt`
+(este último, 11 estaciones WA con TMAX, re-descargado y verificado el **26/07/2026**: S3 responde
+`200`; el resto de la web —Gondwana, PDFs, incluso Wikipedia— sigue en `403`). Descargado el
 26/07/2026.
 
 ---
@@ -580,7 +596,10 @@ tarifa internacional/alta).*
   ninguna estación GHCN con temperatura. Detalle en la sección *"LA COSTA"* → *"Lo que sigue sin
   cerrar"*. *(Dato ◐ de NWR ya recogido en `03`: Sesriem nov **34,1 / 15,5 °C**; Etosha nov
   **35,5 / 18,3 °C** — coherente con Okaukuejo, pero de fuente secundaria.)*
-- ❌ **Ai-Ais**: sin estación, sin cifra. Solo se sabe que es **más caluroso que Karios**.
+- ❌ **Ai-Ais / Fish River**: sin estación propia. Cuantificado el 26/07 contra el inventario GHCN
+  completo (11 estaciones TMAX en toda Namibia): la más cercana es **Keetmanshoop a ~128–167 km**, en
+  otro régimen; la única fuente local es SASSCAL Karios (nov 32,2 °C ◐, bloqueada aquí). Ai-Ais, en el
+  fondo del cañón, es **más caluroso que Karios**. Detalle en la sección de temperatura del sur.
 - ⚠️ **Temperaturas del sur (Karios/Keetmanshoop)**: buenas, de ficheros descargados en pasadas con
   acceso, pero algunas quedaron **1-1** de verificación. No se refutan; les falta el tercer voto.
 
