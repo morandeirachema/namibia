@@ -1,6 +1,6 @@
-# Huecos cerrados — temperaturas, vuelos, tasas y lodges
+# Huecos cerrados — temperaturas, viento, luz, vuelos, tasas y lodges
 
-Investigación cerrada el 17/07/2026 · **actualizada el 27/07/2026** (**reanálisis ERA5** vía Google Cloud pone por fin número a los tres huecos sin estación —**Lüderitz ~24,5 °C, Sesriem ~32,5 °C, Fish River ~32 °C** en nov—, validado contra estaciones; ver §ERA5. El 26/07 el dataset **GSOD** de NOAA validó las temperaturas con una red independiente y añadió **Mariental**; ver §GSOD. El 25/07 TAAG salió de ❌ en §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
+Investigación cerrada el 17/07/2026 · **actualizada el 27/07/2026** (**reanálisis ERA5** vía Google Cloud pone por fin número a los tres huecos sin estación —**Lüderitz ~24,5 °C, Sesriem ~32,5 °C, Fish River ~32 °C** en nov—, validado contra estaciones; ver §ERA5. El 26/07 el dataset **GSOD** de NOAA validó las temperaturas con una red independiente y añadió **Mariental**; ver §GSOD. El 25/07 TAAG salió de ❌ en §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas. El 27/07 se cerró el **viento de la costa** con GSOD —Walvis Bay en noviembre es suave de media, ~13 km/h, ver §Viento— y se calculó la **ventana de luz** por longitud, ver §Luz) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
 **✅ primaria** · **◐ secundaria concordante** · **○ práctica común** · **❌ no verificado**
 
 > ### ⚙️ Límite técnico de esta pasada — importante para auditar
@@ -405,6 +405,104 @@ Google Cloud Storage
 máximos diarios de las horas 10–17 UTC, 9 noviembres 2013–2021, n=270 días/punto; `storage.googleapis.com`
 responde `200` por `curl` en este entorno, igual que los buckets S3 de NOAA). Referencia sobre el dataset:
 [ARCO-ERA5, Google Research](https://github.com/google-research/arco-era5).
+
+---
+
+## 🌬️ VIENTO EN LA COSTA — cerrado con fuente primaria, y NO es lo que la fama de Lüderitz sugiere ✅
+
+**Por qué importa para ESTE viaje.** Se duerme en **tienda de techo**, y la parada de la costa
+(**Walvis Bay / Swakopmund**) es la única en la franja donde el viento manda. La costa namibia tiene
+fama de ventosa por **Lüderitz** —capital mundial de récords de velocidad a vela—, y es fácil
+proyectar esa fama sobre toda la costa. **Los datos dicen otra cosa para Walvis Bay.**
+
+**La única estación costera con datos en la red que este entorno SÍ puede descargar** es el
+**aeropuerto de Walvis Bay** (GSOD **68098**, −22,98 / 14,65, 91 m) — la misma red NOAA-GSOD usada
+para validar las temperaturas (§GSOD). **Lüderitz no tiene estación** ni en GHCN ni en GSOD (negativo
+ya documentado arriba), así que **su viento extremo sigue sin cuantificar** — pero **Lüderitz está
+fuera de la ruta Variante E**, y Walvis Bay sí está dentro.
+
+**Noviembre en Walvis Bay** (GSOD, 20 temporadas 2005–2024, n=581 días con dato de viento) ✅:
+
+- **Viento medio del día: ~7 nudos = ~13 km/h.** Es una **media de 24 h**, así que aplana el pico de
+  la tarde: de madrugada suele estar en calma y el nordeste/suroeste entra por la tarde.
+- **Máximo sostenido típico del día: ~13,7 nudos = ~25 km/h** (brisa moderada). Este es el número
+  que importa para montar la tienda por la tarde, no la media.
+- **Día más ventoso de esos 20 noviembres: ~30 nudos sostenidos = ~55 km/h.**
+- **Racha máxima registrada: ~42 nudos = ~78 km/h** (15/11/2017). La media de rachas fue ~18 nudos =
+  ~34 km/h.
+- **Días con viento medio ≥25 km/h: ~0 %** (1 de 581). El viento **fuerte y sostenido de todo el día
+  es raro** aquí en noviembre.
+
+```mermaid
+xychart-beta
+    title "Viento en Walvis Bay en noviembre · km/h · GSOD 2005-2024"
+    x-axis ["medio 24h", "max sostenido tipico", "dia mas ventoso", "racha record"]
+    y-axis "km/h" 0 --> 80
+    bar [13, 25, 55, 78]
+```
+
+**Lectura operativa ✅:** en Walvis Bay/Swakopmund en noviembre, la **tienda de techo es viable la
+mayoría de las noches**; ancla bien las esquinas y cuenta con **alguna tarde de brisa fuerte** (~25
+km/h) y, de forma aislada, un día de viento serio. **No es Lüderitz.** Octubre y diciembre salen
+prácticamente iguales (medias ~12,5 y ~13 km/h; máximos sostenidos ~25 y ~24,5 km/h), así que la
+elección de finales de noviembre **no penaliza** por viento en la costa.
+
+**Honestidad de la extracción:**
+- El campo **GUST solo trae dato ~30 % de los días** (173 de 581), así que la **racha máxima de 78
+  km/h es un SUELO**: hubo días sin registro de racha que pudieron ser peores.
+- GSOD **no da dirección de viento**, así que el patrón de brisa marina suroeste **no se puede
+  cuantificar** aquí — solo la intensidad.
+- Es la estación del **aeropuerto**, representativa de la franja Walvis–Swakopmund; microclimas
+  puntuales (Sandwich Harbour, dunas) pueden variar.
+
+**Fuente:** NOAA **GSOD**, dataset público en AWS S3
+`https://noaa-gsod-pds.s3.amazonaws.com/{AÑO}/68098099999.csv` — estación Walvis Bay, años 2005–2024.
+Campos `WDSP` (viento medio, nudos), `MXSPD` (máximo sostenido, nudos) y `GUST` (racha, nudos);
+conversión **1 nudo = 1,852 km/h**; se descartaron los `999.9` (sin dato). Descargado y calculado el
+**27/07/2026**; `noaa-gsod-pds.s3.amazonaws.com` responde `200` por `curl`, igual que el resto de
+buckets NOAA (la web de lodges y meteo sigue en `403`).
+
+---
+
+## 🌅 VENTANA DE LUZ — el "anochece ~19:15" es correcto para Windhoek, pero el OESTE se alarga ○
+
+**Por qué importa.** Todo el dossier se apoya en una regla de seguridad: **no conducir de noche,
+apuntar a llegar a las 18:00** porque **anochece ~19:15** (ver `05` y `03`). Ese ~19:15 estaba puesto
+como valor único para todo el país y **sin fuente**. La puesta de sol **cambia con la longitud**: el
+oeste de Namibia está muy al oeste dentro de su huso (**UTC+2 todo el año, sin horario de verano
+desde 2018**), así que allí anochece **más tarde**.
+
+**Orto y ocaso calculados para el 25 de noviembre de 2026** (algoritmo solar NOAA/Meeus, ver
+método) ○:
+
+- **Windhoek** — orto **05:58**, ocaso **19:19** *(confirma el ~19:15 del dossier)*
+- **Etosha (Okaukuejo)** — orto **06:09**, ocaso **19:17**
+- **Twyfelfontein** — orto **06:13**, ocaso **19:26**
+- **Sesriem / Sossusvlei** — orto **06:00**, ocaso **19:27**
+- **Swakopmund / Walvis Bay (costa)** — orto **06:08**, ocaso **19:29**
+- **Keetmanshoop** — orto **05:47**, ocaso **19:22**
+- **Lüderitz (extremo suroeste)** — orto **05:58**, ocaso **19:34**
+
+Todas dan **~13,1–13,6 horas de luz**.
+
+**Lectura operativa ○:**
+- La regla **"llegar a las 18:00"** sigue siendo la buena — deja **~1 h 20 min de margen** hasta el
+  ocaso incluso en el punto que antes anochece (Etosha, 19:17).
+- En la **costa y en Sossusvlei** hay luz utilizable hasta **~19:27–19:29**, unos **10–15 min más**
+  de lo que sugería el ~19:15 uniforme. Útil para el amanecer/atardecer de Deadvlei y para la última
+  etapa del día en la C14.
+- **Sesriem**: la puerta interior abre **~1 h antes del orto** (ver `05`) → en torno a las **05:00**
+  a finales de noviembre. Con orto a las 06:00, estar en Deadvlei al amanecer significa **arrancar
+  hacia las 05:15–05:30**.
+
+**Método y honestidad ○:** es un **cálculo propio**, no un dato descargado, así que va en **○** (no
+✅). Usa el algoritmo solar estándar (NOAA Solar Calculator / *Astronomical Algorithms* de Meeus),
+sin librerías externas, con ángulo cenital 90,833° (refracción + radio solar) y huso **UTC+2**. Se
+**validó contra dos casos de referencia conocidos** y coincide a **±2 min** (Nueva York, 21/06/2021:
+calculado 05:25/20:31; Greenwich equinoccio 20/03/2020: calculado 06:02/18:12). Aun así, **reconfírmalo
+contra USNO o timeanddate.com** cuando una pasada tenga egress a esos hosts (ahora en `403`).
+Referencia del algoritmo:
+[NOAA Global Monitoring Laboratory — Solar Calculator](https://gml.noaa.gov/grad/solcalc/).
 
 ---
 

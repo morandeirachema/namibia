@@ -534,7 +534,7 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 - ✅ [**`05-conduccion`**](05-conduccion.md) — contrato, presiones, arena, puertas de Sesriem
 - ✅ [**`06-lista-google-maps`**](06-lista-google-maps.md) — tus 34 pines, medidos y triados
 - ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, dinero, cobertura
-- ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas medidas *(GHCN **y** GSOD de NOAA, más **reanálisis ERA5** para los puntos sin estación: Lüderitz, Sesriem, Fish River)*, vuelos, tasas 2026
+- ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas medidas *(GHCN **y** GSOD de NOAA, más **reanálisis ERA5** para los puntos sin estación: Lüderitz, Sesriem, Fish River)*, **viento de la costa** *(Walvis Bay, GSOD)*, **ventana de luz** *(orto/ocaso calculados)*, vuelos, tasas 2026
 - ✅ [**`09-lluvias-historico`**](09-lluvias-historico.md) — 5 temporadas de lluvia, mm a mm
 - ✅ [**`10-presupuesto`**](10-presupuesto.md) — el total del viaje reservado (Variante E), partida a partida, en N$ y €
 - ⭐ [**`11-itinerarios-dia-a-dia`**](11-itinerarios-dia-a-dia.md) — **la VARIANTE E día a día** *(la ruta del viaje)* + D/A/B de referencia
