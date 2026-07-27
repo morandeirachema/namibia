@@ -1,6 +1,6 @@
 # Huecos cerrados — temperaturas, vuelos, tasas y lodges
 
-Investigación cerrada el 17/07/2026 · **actualizada el 26/07/2026** (nuevo dataset **GSOD** de NOAA en S3: valida las temperaturas con una red independiente —Keetmanshoop da 34,7 °C idéntico en GHCN y GSOD para 2000–2024— y añade **Mariental**; ver §GSOD. El 25/07 TAAG salió de ❌ en §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
+Investigación cerrada el 17/07/2026 · **actualizada el 27/07/2026** (**reanálisis ERA5** vía Google Cloud pone por fin número a los tres huecos sin estación —**Lüderitz ~24,5 °C, Sesriem ~32,5 °C, Fish River ~32 °C** en nov—, validado contra estaciones; ver §ERA5. El 26/07 el dataset **GSOD** de NOAA validó las temperaturas con una red independiente y añadió **Mariental**; ver §GSOD. El 25/07 TAAG salió de ❌ en §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
 **✅ primaria** · **◐ secundaria concordante** · **○ práctica común** · **❌ no verificado**
 
 > ### ⚙️ Límite técnico de esta pasada — importante para auditar
@@ -177,19 +177,24 @@ xychart-beta
 *Líneas de abajo arriba: **Walvis Bay/costa** (templada, sube despacio) · **Windhoek** (sube a dic) ·
 **Okaukuejo/Etosha** (pico en octubre, luego baja).*
 
-### ⚠️ Lo que sigue SIN cerrar — y por qué (no se inventa)
+### ⚠️ Lo que sigue SIN cerrar por ESTACIÓN — pero ya con número por REANÁLISIS (ver §ERA5)
 
-- **Lüderitz: sin dato ❌.** No hay ninguna estación GHCN con temperatura máxima en Lüderitz ni en Aus
-  (Ausweiche, la más cercana, solo tiene precipitación). Por clima marino de Benguela **cabe esperar
-  algo parecido a la costa** (~20–25 °C), pero **eso es inferencia, no medición: no se registra como
-  cifra**.
-- **Sesriem / Sossusvlei: sin estación propia ❌.** La estación GHCN más cercana con máximas es
-  **Gobabeb** (−23,57 / 15,05, **400 m**, deep Namib, serie 1986–2014): noviembre **31,0 °C**,
-  diciembre 30,8 °C, récord de noviembre **43,0 °C (2012)**. **Pero Gobabeb es mal proxy de Sesriem**:
-  está ~100 km al oeste y a 400 m, mientras Sesriem está a ~1.000 m (madrugadas más frescas). Se deja
-  **como contexto del desierto interior ◐, no como la cifra de Sesriem**. La referencia ◐ que ya tenía
-  el dossier para Sesriem (34,1 / 15,5 °C, NWR) sigue siendo la mejor disponible, secundaria.
-- **Ai-Ais / Fish River Canyon: sin estación propia ❌.** Cuantificado esta pasada contra el
+> **Actualización 27/07:** estos tres puntos **siguen sin estación** (lo de abajo es correcto), pero el
+> **reanálisis ERA5** ya les pone un número ◐ validado — **Lüderitz ~24,5 °C, Sesriem ~32,5 °C, Fish
+> River/meseta ~32 °C** de media de máximas de noviembre. Detalle y validación en la nueva **§ERA5**. Lo
+> de abajo explica por qué **no hay dato de ESTACIÓN**, que es distinto de no tener dato.
+
+- **Lüderitz: sin ESTACIÓN ❌ (pero ERA5 ~24,5 °C ◐, §ERA5).** No hay ninguna estación GHCN con
+  temperatura máxima en Lüderitz ni en Aus (Ausweiche, la más cercana, solo tiene precipitación). La
+  inferencia de clima marino (~20–25 °C) **queda ahora respaldada por ERA5**.
+- **Sesriem / Sossusvlei: sin ESTACIÓN ❌ (pero ERA5 ~32,5 °C ◐, §ERA5).** La estación GHCN más cercana
+  con máximas es **Gobabeb** (−23,57 / 15,05, **400 m**, deep Namib, serie 1986–2014): noviembre
+  **31,0 °C**, diciembre 30,8 °C, récord de noviembre **43,0 °C (2012)**. **Pero Gobabeb es mal proxy de
+  Sesriem**: está ~100 km al oeste y a 400 m, mientras Sesriem está a ~1.000 m (madrugadas más frescas).
+  Se deja **como contexto del desierto interior ◐**. La referencia ◐ de NWR (34,1 / 15,5 °C) y el nuevo
+  ERA5 (32,5 °C) **coinciden en el mismo entorno de ~32–34 °C**.
+- **Ai-Ais / Fish River Canyon: sin ESTACIÓN ❌ (ERA5 meseta ~32 °C ◐, §ERA5; fondo aún sin cifra).**
+  Cuantificado esta pasada contra el
   inventario completo: la estación GHCN con máximas **más cercana** al cañón es **Keetmanshoop**
   (WA004191820), a **~128 km del mirador de Hobas** y **~167 km de las termas de Ai-Ais** — al NE, en
   la meseta interior, otro régimen que el fondo del cañón (Ai-Ais es **más caluroso que Karios**, ver
@@ -309,6 +314,97 @@ de búsqueda; se confirma por partida doble.
 `68106` (Gobabeb). Validación cruzada con GHCN-Daily `WA004191820` (Keetmanshoop) y `WA010517310`
 (Okaukuejo) del bucket `noaa-ghcn-pds`. Todo descargado y calculado el **26/07/2026**; GSOD responde
 `200` por `curl`, igual que GHCN (el resto de la web sigue en `403`).
+
+---
+
+## 🌍 ERA5 — el REANÁLISIS pone por fin un número a Lüderitz, Sesriem y el Fish River ◐
+
+> ### Novedad de la pasada del 27/07. Los tres huecos de temperatura que quedaban abiertos
+> —**Lüderitz, Sesriem/Sossusvlei y Ai-Ais/Fish River**— lo estaban porque **no existe estación
+> meteorológica** que los mida (verificado por partida doble con GHCN y GSOD, ver arriba). Un dato de
+> estación no se puede inventar. **Pero sí hay una fuente que cubre cualquier punto del planeta: el
+> reanálisis.** Se descubrió que el egress de esta sesión **permite `storage.googleapis.com`**, y ahí
+> vive **ARCO-ERA5**, la versión analizable en la nube del reanálisis **ERA5 del ECMWF** (rejilla de
+> **0,25° ≈ 28 km**, horario). Con eso se calcula, para cada punto, la temperatura — **descargando y
+> procesando los ficheros de datos**, igual que se hizo con GHCN/GSOD.
+
+> ### ⚠️ Qué es y qué NO es este dato — leer antes de usarlo
+> ERA5 **no es una observación de estación: es un modelo** (reanálisis) que asimila observaciones a una
+> rejilla. Por eso estos números van en **◐**, no en ✅, aunque el dataset sea primario y el cálculo sea
+> propio. Dos límites concretos:
+> 1. **Rejilla de 28 km**: promedia el relieve dentro de la celda. **No “ve” el fondo del cañón del Fish
+>    River** (una hendidura de ~500 m es sub-rejilla), ni la línea exacta de costa.
+> 2. **Sesgo conocido en zona árida**: ERA5 tiende a **quedarse algo corto en la máxima diurna** tierra
+>    adentro. Se cuantifica abajo con puntos de control.
+>
+> **Método (auditable):** para cada día de noviembre se toma el **máximo de las horas 10–17 UTC**
+> (= 12–19 local, Namibia es UTC+2; esa ventana **encierra el pico**, comprobado: ningún día alcanza su
+> máximo en el borde de las 17 UTC), y se promedian esos máximos diarios sobre **9 noviembres completos,
+> 2013–2021** (n=270 días por punto). *2022 no está: la versión ARCO-ERA5 usada termina antes de
+> noviembre de 2022 (devuelve 404), por eso el periodo es 2013–2021 y no 2013–2022.*
+
+### 🎯 Primero, la validación: ¿miente ERA5? En 3 de 4 controles, no ◐
+
+Se corrió el **mismo cálculo** sobre cuatro puntos que **sí tienen estación** en el dossier, para medir
+el error del reanálisis antes de fiarse de los puntos sin estación:
+
+- **Windhoek Eros** — ERA5 **31,0 °C** vs GHCN **31,2 °C** → **−0,2 °C** (casi idéntico).
+- **Keetmanshoop** — ERA5 **33,9 °C** vs GHCN **33,4 °C** (normal larga) / **34,7 °C** (2000–24) → **dentro de ±0,8 °C**.
+- **Walvis Bay / costa** — ERA5 **25,8 °C** vs GHCN **25,0 °C** → **+0,8 °C** (algo cálido; la celda costera mezcla mar y tierra).
+- **Okaukuejo / Etosha** — ERA5 **35,2 °C** vs GHCN **37,1 °C** → **−1,9 °C** (aquí ERA5 **sí se queda corto**, el mayor error).
+
+> **Lectura honesta:** ERA5 **clava** el interior de meseta (Windhoek, Keetmanshoop), va **~1 °C cálido**
+> en la costa y **~2 °C frío** en la sabana seca de Etosha. **El sesgo NO es uniforme** — no se puede
+> “corregir” con una constante. Se publican las cifras **tal cual las da ERA5**, avisando de en qué
+> dirección tira el error en cada tipo de terreno.
+
+### 🆕 Los tres huecos, ahora con número ◐
+
+**🌊 Lüderitz — media de máximas de noviembre ≈ 24,5 °C ◐**
+- Celda (−26,75 / 15,25), a ~13 km del pueblo. Récord de la serie **33,1 °C** (día de *berg wind*), mínimo diario **18,1 °C**.
+- Su control análogo es **Walvis Bay**, donde ERA5 salió **+0,8 °C cálido** → el valor real de Lüderitz
+  ronda **~23–25 °C**. **Confirma con un número lo que antes era solo inferencia** (“clima marino de
+  Benguela, ~20–25 °C”): Lüderitz es, como la costa, **el respiro térmico**, no un punto de calor.
+
+**🏜️ Sesriem / Sossusvlei — media de máximas de noviembre ≈ 32,5 °C ◐**
+- Celda (−24,50 / 15,75), a ~4 km de la puerta de Sesriem. Récord de la serie **39,9 °C**, p90 **36,7 °C**.
+- No tiene control cercano (Gobabeb, 400 m, daba 31,0 ◐; Mariental Kalahari 37,0). ERA5 **32,5 °C** cae
+  de forma coherente entre ambos. Con el sesgo frío de interior (~−1 a −2 °C visto en Okaukuejo), la
+  máxima real puede ser **algo mayor**, del orden de **~33–34 °C** — lo que **encaja** con el dato ◐
+  secundario de NWR que ya tenía el dossier (**34,1 °C**). Dos fuentes independientes, mismo entorno.
+
+**🔥 Ai-Ais / Fish River Canyon — meseta ≈ 32 °C ◐, y el fondo MÁS ◐**
+- Celda del mirador de **Hobas** (−27,50 / 17,75): **32,2 °C** · celda de **Ai-Ais** (−28,00 / 17,50):
+  **32,0 °C**. Récord de la celda de Ai-Ais **42,9 °C**.
+- **Hallazgo que da confianza:** ERA5 en Hobas (**32,2 °C**) **coincide al décimo con la estación SASSCAL
+  Karios** (**32,2 °C**, la única del sur, a 893 m en el borde del cañón) que ya estaba en el dossier.
+  Dos fuentes totalmente distintas —una estación automática y un reanálisis global— dan **el mismo
+  número** para la meseta del cañón.
+- **PERO ojo al fondo:** que ERA5 dé Ai-Ais (fondo) **0,2 °C por DEBAJO** de Hobas (borde) es un
+  **artefacto de la rejilla**, no la realidad: a 28 km ERA5 **no resuelve la hendidura del cañón**. En el
+  fondo, ~500 m más abajo, hace **más calor** que esos 32 °C — como ya avisaba el dossier. **ERA5
+  confirma la meseta (~32 °C) pero, igual que Karios, subestima el fondo de Ai-Ais.** Ese fondo **sigue
+  sin cifra fiable** y no se inventa.
+
+```mermaid
+xychart-beta
+    title "Media de maximas nov · reanalisis ERA5 2013-2021 · grados C"
+    x-axis ["Luderitz", "WalvisBay(v)", "Windhoek(v)", "Ai-Ais fondo", "Hobas", "Sesriem", "Keetmans(v)", "Okaukuejo(v)"]
+    y-axis "grados C" 20 --> 38
+    bar [24.5, 25.8, 31.0, 32.0, 32.2, 32.5, 33.9, 35.2]
+```
+
+*Las (v) son puntos de control con estación; las otras cuatro (Lüderitz, Ai-Ais, Hobas, Sesriem) son los
+huecos que ERA5 acaba de rellenar. El sur (Sesriem, Fish River) queda en ~32–33 °C; Lüderitz, con la
+costa, en ~24–25 °C.*
+
+**Fuente ERA5:** ECMWF **ERA5** vía **ARCO-ERA5** (Analysis-Ready, Cloud-Optimized), dataset público en
+Google Cloud Storage
+`https://storage.googleapis.com/gcp-public-data-arco-era5/ar/1959-2022-full_37-1h-0p25deg-chunk-1.zarr-v2`
+— variable `2m_temperature` (K), rejilla 0,25°. Descargado y calculado el **27/07/2026** (media de los
+máximos diarios de las horas 10–17 UTC, 9 noviembres 2013–2021, n=270 días/punto; `storage.googleapis.com`
+responde `200` por `curl` en este entorno, igual que los buckets S3 de NOAA). Referencia sobre el dataset:
+[ARCO-ERA5, Google Research](https://github.com/google-research/arco-era5).
 
 ---
 
@@ -688,21 +784,26 @@ tarifa internacional/alta).*
   Bay Airport 68098) — ver la sección *"LA COSTA"* arriba. Noviembre **25,0 °C** de media de máximas.
   Se descubrió que el bucket S3 `noaa-ghcn-pds.s3.amazonaws.com` **sí responde** por `curl` en este
   entorno, aunque el PDF de Gondwana y SASSCAL sigan en 403.
-- 🌡️ **Sesriem/Sossusvlei y Lüderitz**: **siguen sin estación propia con máximas ❌**, y ahora
-  **confirmado por partida doble**: **GSOD tampoco los tiene** (ver §GSOD). No se inventan:
-  para Sesriem solo hay el proxy lejano de Gobabeb (400 m, ◐ contexto, no es su cifra) más el nuevo
-  acompañante Kalahari de Mariental (misma latitud, otro régimen); para Lüderitz, ninguna estación en
-  las dos redes. Detalle en la sección *"LA COSTA"* → *"Lo que sigue sin cerrar"*. *(Dato ◐ de NWR ya
-  recogido en `03`: Sesriem nov **34,1 / 15,5 °C**; Etosha nov **35,5 / 18,3 °C** — coherente con
-  Okaukuejo, pero de fuente secundaria.)*
+- 🌡️ **Sesriem/Sossusvlei y Lüderitz** — **sin ESTACIÓN ❌, pero YA CON NÚMERO por reanálisis ◐
+  (27/07, §ERA5)**: sigue sin haber estación propia con máximas (confirmado por partida doble, GHCN y
+  GSOD), pero **ERA5 pone cifra**: **Sesriem ~32,5 °C**, **Lüderitz ~24,5 °C** de media de máximas de
+  noviembre, validado contra estaciones (§ERA5). El dato ◐ de NWR para Sesriem (**34,1 °C**) y ERA5
+  (32,5 °C) **coinciden en ~32–34 °C**. *(Dato ◐ de NWR en `03`: Sesriem nov 34,1 / 15,5 °C; Etosha nov
+  35,5 / 18,3 °C, secundario.)*
+- 🌍 **ERA5 (nuevo, 27/07)** — **CIERRE por reanálisis ◐**: se descubrió que el egress permite
+  `storage.googleapis.com` → **ARCO-ERA5** (reanálisis del ECMWF, 0,25°). Rellena los tres huecos sin
+  estación (Lüderitz, Sesriem, Fish River) con máximas de noviembre calculadas sobre 9 años (2013–2021),
+  **validadas** contra Windhoek (−0,2 °C), Keetmanshoop (±0,8 °C), Walvis Bay (+0,8 °C) y Okaukuejo
+  (−1,9 °C). Es dato de **modelo**, no de estación → ◐, no ✅. Detalle en §ERA5.
 - 🛰️ **GSOD (nuevo, 26/07)** — **CIERRE/VALIDACIÓN** ✅: segundo bucket de NOAA en S3 accesible. Valida
   Keetmanshoop (34,7 °C idéntico a GHCN en 2000–2024), añade **Mariental** (nov **37,0 °C**), corrobora
   Windhoek y Outjo, y **refuerza el negativo** de Lüderitz/Sesriem/Ai-Ais. Hallazgo de método: los
   33,4 °C de Keetmanshoop eran la normal **larga** (1957–2024); la **década reciente** corre ~34,7 °C.
-- ❌ **Ai-Ais / Fish River**: sin estación propia. Cuantificado el 26/07 contra el inventario GHCN
-  completo (11 estaciones TMAX en toda Namibia): la más cercana es **Keetmanshoop a ~128–167 km**, en
-  otro régimen; la única fuente local es SASSCAL Karios (nov 32,2 °C ◐, bloqueada aquí). Ai-Ais, en el
-  fondo del cañón, es **más caluroso que Karios**. Detalle en la sección de temperatura del sur.
+- 🔥 **Ai-Ais / Fish River** — **meseta ◐ con número (27/07), fondo aún ❌**: sin estación propia (la más
+  cercana, Keetmanshoop, a ~128–167 km, otro régimen). Ahora **dos fuentes independientes coinciden en la
+  meseta**: SASSCAL Karios **32,2 °C** y **ERA5 Hobas 32,2 °C** (§ERA5). Pero **el fondo del cañón (Ai-Ais)
+  es más caluroso que la meseta** y **ERA5 no lo resuelve** (rejilla de 28 km) — ese fondo **sigue sin
+  cifra fiable** y no se inventa.
 - ⚠️ **Temperaturas del sur (Karios/Keetmanshoop)**: buenas, de ficheros descargados en pasadas con
   acceso, pero algunas quedaron **1-1** de verificación. No se refutan; les falta el tercer voto.
 
@@ -714,5 +815,10 @@ tarifa internacional/alta).*
 - **NOAA GSOD en AWS S3** (`noaa-gsod-pds.s3.amazonaws.com/{año}/{id}099999.csv`): `68212` (Mariental),
   `68312` (Keetmanshoop), `68102` (Outjo), `68112` (Hosea Kutako), `68110` (Windhoek Eros), `68098`
   (Walvis Bay), `68106` (Gobabeb) — descargado y calculado el 26/07/2026 (ver §GSOD)
+- **ECMWF ERA5 vía ARCO-ERA5 en Google Cloud Storage**
+  (`storage.googleapis.com/gcp-public-data-arco-era5/ar/1959-2022-full_37-1h-0p25deg-chunk-1.zarr-v2`),
+  variable `2m_temperature`, rejilla 0,25° — puntos Lüderitz, Sesriem, Ai-Ais, Hobas (huecos) y Walvis
+  Bay, Keetmanshoop, Windhoek, Okaukuejo (validación); descargado y calculado el 27/07/2026 (ver §ERA5).
+  [ARCO-ERA5, Google Research](https://github.com/google-research/arco-era5)
 - [SASSCAL WeatherNet](https://sasscalweathernet.org) — estación 31207 (Karios, Gondwana Canyon Lodge)
 - [Servicio Meteorológico de Namibia — normales climáticas](http://www.meteona.com/attachments/035_Namibia_Long-term_Climate_Statistics_for_Specified_Places%5B1%5D.pdf)

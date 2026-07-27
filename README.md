@@ -177,9 +177,11 @@ flowchart LR
   de fauna y cielos limpios, con datos de estación — no de folletos.
 - 🌡️ **Calor: Etosha aprieta, el resto acompaña.** El norte a **~37–38 °C** de máxima — el safari se
   hace al amanecer y al atardecer, con siesta y charca iluminada de noche, que es como se hace bien
-  de todas formas. El desierto ~30–32 °C y la costa fresca (Benguela): **Swakopmund/Walvis Bay ~25 °C
-  de máxima en noviembre**, medido con estación NOAA *(ver [`08`](08-huecos-cerrados.md), sección "La
-  costa")*. Noches de 15–18 °C: **forro polar, no plumas**.
+  de todas formas. El desierto **Sesriem ~32,5 °C**, el **Fish River ~32 °C** (meseta), y la costa
+  fresca (Benguela): **Swakopmund/Walvis Bay ~25 °C** y **Lüderitz ~24,5 °C** de máxima en noviembre.
+  Los tres primeros venían de estación NOAA; **Lüderitz, Sesriem y el Fish River no tienen estación y
+  se cerraron con el reanálisis ERA5** (validado contra estaciones) *(ver [`08`](08-huecos-cerrados.md),
+  secciones "La costa" y §ERA5)*. Noches de 15–18 °C: **forro polar, no plumas**.
 - 💶 **Precio: la frontera del 1 de noviembre, dos veces.** **NWR** entra en tramo barato el 1 de
   noviembre (Sesriem, Terrace Bay, Etosha), y **Namibia2Go también**. 👉 **¿Adelantar días a
   octubre? Hasta 2 días es gratis** — las primeras noches (Windhoek, Spreetshoogte) no son NWR.
@@ -532,7 +534,7 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 - ✅ [**`05-conduccion`**](05-conduccion.md) — contrato, presiones, arena, puertas de Sesriem
 - ✅ [**`06-lista-google-maps`**](06-lista-google-maps.md) — tus 34 pines, medidos y triados
 - ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, dinero, cobertura
-- ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas medidas *(GHCN **y** GSOD, dos redes de NOAA que coinciden)*, vuelos, tasas 2026
+- ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas medidas *(GHCN **y** GSOD de NOAA, más **reanálisis ERA5** para los puntos sin estación: Lüderitz, Sesriem, Fish River)*, vuelos, tasas 2026
 - ✅ [**`09-lluvias-historico`**](09-lluvias-historico.md) — 5 temporadas de lluvia, mm a mm
 - ✅ [**`10-presupuesto`**](10-presupuesto.md) — el total del viaje reservado (Variante E), partida a partida, en N$ y €
 - ⭐ [**`11-itinerarios-dia-a-dia`**](11-itinerarios-dia-a-dia.md) — **la VARIANTE E día a día** *(la ruta del viaje)* + D/A/B de referencia
