@@ -534,7 +534,7 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 - ✅ [**`05-conduccion`**](05-conduccion.md) — contrato, presiones, arena, puertas de Sesriem
 - ✅ [**`06-lista-google-maps`**](06-lista-google-maps.md) — tus 34 pines, medidos y triados
 - ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, dinero, cobertura
-- ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas medidas *(GHCN **y** GSOD de NOAA, más **reanálisis ERA5** para los puntos sin estación: Lüderitz, Sesriem, Fish River)*, **viento de la costa** *(Walvis Bay, GSOD)*, **ventana de luz** *(orto/ocaso calculados)*, vuelos, tasas 2026
+- ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas medidas *(GHCN **y** GSOD de NOAA, más **reanálisis ERA5** para los puntos sin estación: Lüderitz, Sesriem, Fish River)*, **viento de la costa** *(Walvis Bay, GSOD)*, **ventana de luz** *(orto/ocaso calculados)*, vuelos, tasas 2026 y **rango orientativo de lodges** *(agregadores «desde», ~€75–170/noche los 2 en gama media; rack primario aún bloqueado)*
 - ✅ [**`09-lluvias-historico`**](09-lluvias-historico.md) — 5 temporadas de lluvia, mm a mm
 - ✅ [**`10-presupuesto`**](10-presupuesto.md) — el total del viaje reservado (Variante E), partida a partida, en N$ y €
 - ⭐ [**`11-itinerarios-dia-a-dia`**](11-itinerarios-dia-a-dia.md) — **la VARIANTE E día a día** *(la ruta del viaje)* + D/A/B de referencia
@@ -577,8 +577,11 @@ los blogs *(caduca antes de aterrizar — factura por año tarifario nov–oct)*
 efectivo» en gasolineras *(«credit» ahí significa «a cuenta», no «tarjeta»)*, y **todas** las
 temperaturas de las webs de safaris — rehechas con datos de estación meteorológica.
 
-> **Lo que no se pudo verificar está en blanco y dicho**: varios alojamientos por noche (Terrace
-> Bay, Hoada, Spreetshoogte, Walvis) y las distancias de esta ruta, que se midieron para el
+> **Lo que no se pudo verificar está en blanco y dicho**: el **rack rate primario** de los lodges
+> privados sigue bloqueado (egress + anti-bot), aunque su **nivel de precio ya está dimensionado con
+> rangos de agregador** en `08` *(gama media ~€75–170/noche los 2; los rack que asoman caducan el
+> 31/10/2026, así que noviembre es año tarifario nuevo sin publicar)*; y varios campings por noche
+> (Spreetshoogte, Walvis, Quivertree) y las distancias de esta ruta, que se midieron para el
 > recorrido del sur. Y las tasas de parque (~N$280) las respaldan ya **dos páginas oficiales del MEFT**
 > (PDF + nota de prensa `news/199`), secundarias concordantes y ya el **Government Gazette Nº 8877 (GN
 > Nº 115, 1/04/2026)** — la fuente legal numerada, **localizada el 23/07** — pero como ninguna se pudo

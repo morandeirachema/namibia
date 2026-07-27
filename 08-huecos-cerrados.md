@@ -730,19 +730,80 @@ en Semana Santa**. ◐
 
 ---
 
-## 🏨 LODGES PRIVADOS — el precio por noche NO se pudo cerrar (y por qué)
+## 🏨 LODGES PRIVADOS — la tarifa rack PRIMARIA sigue bloqueada, pero ya hay rango orientativo (agregadores)
 
-**Sigue sin haber tarifa por noche verificada.** Motivo doble y honesto:
-1. **WebFetch bloqueado**: no se pudieron abrir las páginas de tarifas (Gondwana, Desert Camp, NWR,
-   info-namibia… todas dan `403`).
+**El precio rack por noche desde la fuente PRIMARIA sigue sin cerrarse**, por dos bloqueos distintos:
+1. **WebFetch bloqueado**: las páginas de tarifas (Gondwana, Desert Camp, NWR, info-namibia, siyabona,
+   booking.com…) devuelven `403` — unas por protección anti-bot del propio host, el PDF oficial y NOAA/SASSCAL
+   por la política de egress de la organización (ver detalle al final de este documento). No se puede sortear.
 2. **Gondwana no publica precio estático**: sus fichas usan un botón *"Check Availability"* con fechas,
-   así que **el precio por noche no aparece en el fragmento de búsqueda**. No hay número que copiar sin
-   inventarlo.
+   así que el rack no aparece entero en el fragmento.
 
-> **Se deja en ❌ sin verificar** el precio/noche de Desert Camp, Desert Quiver Camp, Sossus Oasis,
-> Taleni/Toshari/Etosha Safari Camp, Twyfelfontein Country Lodge, Quivertree Forest Rest Camp, Canyon
-> Roadhouse, Cañon Village y Nest Hotel. Una pasada con descarga habilitada debería abrir
-> gondwana-collection.com y desertcamp.com/rates.html y subirlos.
+**Novedad 27/07 — se cierra el hueco a nivel de RANGO ORIENTATIVO.** Aunque no se pueda abrir la ficha, el
+resumidor de WebSearch sí devuelve fragmentos con cifras de **agregadores y páginas secundarias**. Son del
+mismo carácter «desde» / instantánea de plataforma que las tarifas gancho de los vuelos: **sirven para
+dimensionar el presupuesto, NO son reservables ni rack verificado.** Cada una va marcada ◐ (secundaria) u ○
+(agregador suelto), nunca ✅.
+
+> ⚠️ **Doble aviso de honestidad.** (a) El resumidor de WebSearch **ya confabuló una tarifa** en una pasada
+> anterior (soltó el precio de una actividad como si fuera de alojamiento). Por eso, abajo, **solo se anota lo
+> que apareció de forma consistente y con la unidad clara**; lo que salió una sola vez o con la unidad ambigua
+> se etiqueta como tal. (b) **La EXTRACCIÓN no está verificada contra la ficha**: son fragmentos, no la tabla
+> abierta.
+
+### 💤 El nivel «gama media» comparable — habitación/unidad para 2, autocatering o guesthouse
+
+Estas cotizan por **unidad o habitación doble** (comparables entre sí y con el camping). «Desde» de agregador ◐/○:
+
+- ⛺🏠 **Desert Camp (Sesriem)** — **desde ~N$2.980/noche los 2** (~€149), autocatering. Apareció en dos
+  búsquedas independientes citando *"from R2.980 per night for 2 people"*; el NAD va a la par con el ZAR
+  (N$1 = ZAR1). ◐ *(lekkeslaap / siyabona, vía fragmento)*
+- 🏠 **Desert Quiver Camp (Sesriem)** — **desde ~$120–166/noche** (~€109–151 · ~N$2.180–3.020), autocatering.
+  ○ *(travelated / booking, «desde» de plataforma)*
+- 🏨 **Nest Hotel (Lüderitz)** — habitación doble **desde ~$140–190/noche** (~€127–173 · ~N$2.540–3.800); el
+  rango completo de plataformas iba de $122 a $258. ○ *(kayak / priceline / momondo)*
+- 🏨 **Swakopmund, guesthouse gama media** (Cornerstone, Sea Breeze) — doble **desde ~$80–90/noche**
+  (~€73–82 · ~N$1.460–1.640). ○ *(tripadvisor / expedia, «desde»)*
+
+```mermaid
+xychart-beta
+    title "Gama media · doble para 2 · EUR/noche · suelo de agregador, no rack verificado"
+    x-axis ["Swakopmund gh", "Desert Quiver", "Desert Camp", "Nest Luderitz"]
+    y-axis "EUR/noche los 2" 0 --> 200
+    bar [78, 130, 149, 150]
+```
+
+*Orden de magnitud del nivel «gama media» de habitación: **~€75–170/noche los 2**. Frente a los **~€46 los 2**
+del camping NWR verificado, cambiar a lodge en este tramo es del orden de **+€50 a +€120/noche**.*
+
+### 🍽️ Los safari-lodge (por PERSONA y a menudo con media pensión) — otro nivel de precio
+
+Aquí las cifras que devolvió el buscador son **por persona** y, varias, con **media pensión** — no comparables
+con lo de arriba y bastante más caras:
+
+- 🦁 **Twyfelfontein Country Lodge (Damaraland)** — **desde ~$223/persona media pensión** (~€203 pp ·
+  ~N$4.060 pp → **~€406 · ~N$8.120 los 2** con cena y desayuno), periodo **1 may – 31 oct 2026**. ◐
+  *(siyabona, price list)*
+- 🦁 **Etosha Safari Camp (Gondwana, puerta sur)** — **~N$445/persona/noche** (~€22 pp → ~N$890 / ~€45 los 2),
+  periodo **1/11/2025 – 31/10/2026**. ◐ *(fragmento Gondwana)*
+- 🏞️ **Cañon Village (Gondwana, Fish River)** — rango de agregador **~N$2.230–3.580/noche** (~€112–179), pero
+  **la unidad (por persona vs por habitación) quedó ambigua en el fragmento** → ○, tómese como muy suelto.
+- 🏞️ **Toshari Lodge (puerta Andersson)** — **desde ~N$1.961/noche** (~€98) según un agregador ◐, pero **un
+  segundo fragmento dio "$300–600 pp" — contradictorio e inverosímil como B&B**, probablemente un paquete;
+  se anota el conflicto y **no se fija cifra**.
+
+> 🎯 **El hallazgo estructural, y es el importante para el presupuesto:** las únicas tarifas rack que asoman
+> —Etosha Safari Camp (N$445 pp) y Twyfelfontein ($223 pp)— tienen **validez que TERMINA el 31 de octubre de
+> 2026**, es decir **caducan justo antes del viaje**. Y las tarifas de *actividades* de Gondwana ya saltan al
+> periodo siguiente **1/11/2026 – 31/10/2027**. Conclusión: **el rack de ALOJAMIENTO para noviembre de 2026 es
+> el del año tarifario nuevo, que todavía no está publicado** — exactamente la misma trampa que ya pilló a NWR
+> y a Namibia2Go. Cualquier € por noche de lodge para las fechas reales **hay que cotizarlo en vivo**, no
+> copiarlo de la web.
+
+> **Sigue en ❌ sin cifra**: Quivertree Forest Rest Camp (Keetmanshoop), Sossus Oasis, Taleni, Canyon Roadhouse
+> (solo salieron sus *actividades*, abajo — el room rate no), y toda tarifa **internacional de temporada alta
+> de nov 2026**. Una pasada con egress abierto debería abrir gondwana-collection.com, desertcamp.com/rates.html
+> y la hoja rack de Gondwana 2026 (URL al final) y subir el rack primario.
 
 **Lo único concreto que sí devolvió el buscador** — **actividades** de Canyon Roadhouse (Fish River),
 tarifa fijada para el periodo **1/11/2026 – 31/10/2027** ◐:
@@ -810,9 +871,14 @@ tarifa internacional/alta).*
   gazettes.africa. **Ya no es «no localizado».** **Falta**: abrir esa gaceta (y el PDF/nota del MEFT)
   para verificar la tabla fina — todos siguen en 403; y **descartar la cifra confabulada «N$75–150»** que
   soltó un resumen de buscador y contradice el N$280.
-- 🏨 **Lodges privados** — **❌ sin cerrar**: rack rate por noche todavía no verificado. En esta pasada
-  el acceso web **seguía cerrado, y ahora se sabe con más precisión por qué** — son **dos bloqueos
-  distintos**:
+- 🏨 **Lodges privados** — **◐ rango orientativo CERRADO (27/07); rack primario aún ❌**. El precio rack
+  verificado por noche sigue sin abrirse, pero **el nivel de precio ya está dimensionado** con rangos de
+  agregador «desde», marcados ◐/○ — ver la sección **§Lodges privados** de arriba, con el chart de gama media
+  (~€75–170/noche los 2) y el hallazgo estructural (los rack que asoman **caducan el 31/10/2026**, así que
+  noviembre es año tarifario nuevo sin publicar). **Esto revierte, con criterio, la decisión del 20/07 de no
+  registrar ninguna cifra**: se aplica el **mismo estándar «gancho de agregador, sin fecha, no reservable» que
+  el repo YA usa para los vuelos** (Qatar/Airlink/TAAG). Lo que sigue firme del análisis del 20/07 es **por qué
+  está bloqueado** y **la trampa de confabulación**:
   1. **Webs propias de los lodges** (desertcamp.com, desertquivercamp.com, gondwana-collection.com):
      devuelven **HTTP 403 desde el propio servidor de destino** (protección anti-bot), no desde el proxy.
      El WebFetch llega al host pero el sitio rechaza la petición.
@@ -848,12 +914,14 @@ tarifa internacional/alta).*
       US$122–329"; Desert Quiver Camp "desde US$132–166"; Twyfelfontein Country Lodge "US$223 pp media
       pensión, may–oct 2026"; Etosha Safari Camp / Cañon Village "N$2.220–3.580/noche" (sin dejar claro si
       es por unidad o por persona). **Ninguno se registra como cifra.**
-    - **Conclusión operativa:** el hueco de lodges **no se puede cerrar por WebSearch** sin violar la regla
-      de cero invenciones. Para cerrarlo hace falta **abrir el PDF de rack rates** — lo que requiere o bien
-      una pasada en un entorno cuyo egress permita `blob.core.windows.net`, o bien **que el viajero
-      descargue el PDF a mano** (la URL de arriba) y lo pegue al repo. Mientras tanto, el **escenario de
-      presupuesto real sigue siendo el de camping** (ya cerrado en `10-presupuesto.md`), que no depende de
-      estas tarifas.
+    - **Conclusión operativa (revisada el 27/07):** el **rack VERIFICADO** de lodges sigue sin poder cerrarse
+      por WebSearch — para eso hace falta **abrir el PDF de rack rates** (egress que permita
+      `blob.core.windows.net`, o que el viajero lo descargue a mano). **Lo que SÍ se cierra** es el **rango
+      orientativo**: los «desde» de agregador dimensionan el nivel de precio (§Lodges), con la misma etiqueta
+      gancho que los vuelos y con el aviso de que caducan el 31/10/2026. La cifra confabulada (Canyon Roadhouse
+      N$1.760 = actividad, no habitación) **se mantiene descartada** y no se usa como room rate. El **escenario
+      de presupuesto real sigue siendo el de camping** (ya cerrado en `10-presupuesto.md`), que no depende de
+      estas tarifas — el rango de lodge solo sirve para valorar el *upgrade*.
 - ⛺ **Campings privados de la ruta** — **PARCIAL**: cerrado **Spitzkoppe Community Campsite: N$270/persona
   → N$540/noche (~€27)** ◐, que **incluye la entrada a la reserva (N$130 pp)** y es **solo en efectivo**
   (N$ o ZAR); dos fragmentos independientes (nwrnamibia.com + guías de viaje) coinciden en la cifra 2026.
