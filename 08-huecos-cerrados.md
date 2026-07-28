@@ -805,6 +805,26 @@ con lo de arriba y bastante más caras:
 > de nov 2026**. Una pasada con egress abierto debería abrir gondwana-collection.com, desertcamp.com/rates.html
 > y la hoja rack de Gondwana 2026 (URL al final) y subir el rack primario.
 
+> ⚠️ **Re-intento del 28/07/2026 — por qué el rack de lodge SIGUE en ❌ y no se fija cifra.** El resumidor de
+> WebSearch devolvió esta vez un número muy tentador: **Canyon Roadhouse «N$1.760 pp sharing» para el periodo
+> 1/11/2026 – 31/10/2027 (~€88)** — justo el año tarifario del viaje, el hueco que llevamos toda la
+> investigación sin poder cerrar. **NO se anota como hallazgo**, por tres motivos concretos, y se deja escrito
+> para que una pasada futura no caiga en la tentación:
+> 1. **No se pudo verificar contra la primaria.** gondwana-collection.com sigue en **403** por WebFetch en este
+>    entorno (probado hoy). La cifra sale **solo** del resumen del buscador, que es exactamente la capa que ya
+>    confabuló una tarifa de lodge en una pasada anterior.
+> 2. **El propio buscador se contradice el mismo día.** Una búsqueda paralela devolvió **Etosha Safari Camp
+>    «N$445 pp» etiquetado como 1/11/2026 – 31/10/2027** — pero **ese N$445 es el rack del año VIEJO
+>    (1/11/2025 – 31/10/2026)** que ya teníamos anotado arriba: el resumidor **le cambió la etiqueta de año
+>    tarifario**. Si mislabela el año en un caso comprobable, no es fiable en el que no podemos comprobar.
+> 3. **Cifras internamente imposibles.** La misma tanda dio **Etosha Safari Camp y el más caro Etosha Safari
+>    Lodge al MISMO precio (N$445 pp)**, y una búsqueda de Canyon Village dijo explícitamente que **el rate del
+>    año nuevo «doesn't appear to be publicly available».** Un rate card real no pone el mismo precio a dos
+>    categorías distintas.
+> **Conclusión sin cambios:** el rack de alojamiento del año tarifario nov·2026–oct·2027 **sigue sin publicar de
+> forma verificable**; para el presupuesto se mantienen los **rangos de agregador** de arriba y la instrucción de
+> **cotizar en vivo**. El N$1.760 queda registrado como *número candidato NO verificado*, no como dato.
+
 **Lo único concreto que sí devolvió el buscador** — **actividades** de Canyon Roadhouse (Fish River),
 tarifa fijada para el periodo **1/11/2026 – 31/10/2027** ◐:
 - Sendero a pie: **N$300/persona (~€15)**
