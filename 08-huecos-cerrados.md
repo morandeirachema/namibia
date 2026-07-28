@@ -952,6 +952,28 @@ tarifa internacional/alta).*
   ◐ y con la temporada de noviembre sin fijar — pero encaja con el ancla de Spitzkoppe.* Siguen
   **sin verificar**: Spreetshoogte, Walvis Bay (Lagoon Chalets) y Quivertree Forest Rest Camp — los
   fragmentos solo dan números viejos de iOverlander sin vigencia 2026.
+  > **Re-intento del 28/07/2026 (Spreetshoogte D2 y Walvis Bay D5–6) — SIGUEN ❌, y con trampa anotada.**
+  > Se buscaron ambos por WebSearch (la única vía web abierta; las webs propias y agregadores dan **403** a
+  > WebFetch: barkhan.africa, namibweb.com, lagoonchaletswb.com, probados hoy). Ninguno cierra, por motivos
+  > distintos que conviene dejar escritos:
+  > - **Spreetshoogte:** hay fragmentos **etiquetados 2026**, pero **conflación de propiedades**. En el paso
+  >   conviven varias — *Spreetshoogte Campsite* (Barkhan Dune Retreat), *Namibgrens Guest Farm*, *Camp Gecko* —
+  >   y las cifras **divergen**: un fragmento da *"~N$120 pp"* para "Spreetshoogte Campsite" (con una reseña que
+  >   dice *"$150 pppn"*), y otro da para **Namibgrens** *"N$269,50 pp con tienda propia · N$390 pp tienda
+  >   montada · N$825 pppn"* (este último parece tarifa de habitación, no de parcela). **El N$269,50 es tentador**
+  >   —cae justo en el ancla de Spitzkoppe/Hoada (~N$270)— **pero es de OTRA propiedad** (Namibgrens), no de la que
+  >   reserva el día a día, con unidad ambigua y sin poder abrir la primaria. **No se registra como cifra** (misma
+  >   regla que tumbó el N$1.760 de Canyon Roadhouse): queda como *candidato NO verificado* para que una pasada
+  >   futura no lo copie.
+  > - **Walvis Bay (Lagoon Chalets):** el buscador es explícito — **no hay tarifa publicada para la ventana del
+  >   viaje**: *"Rates are not available for 01 March 2026 – 28 February 2027"*. Solo asoman números **viejos de
+  >   2019** de Langstrand. Es decir, el hueco no es «no encontrado» sino **«el propio establecimiento no publica
+  >   precio para esas fechas»** → **cotizar en vivo por email**, igual que el rack de lodge.
+  > *Fuentes (vía fragmento; ninguna se pudo abrir —403— para verificar extracción):*
+  > *[TripAdvisor — Spreetshoogte Campsite](https://www.tripadvisor.com/Hotel_Review-g2187009-d32863681-Reviews-Spreetshoogte_Campsite-Solitaire_Khomas_Region.html) ·*
+  > *[Namibgrens Guest Farm](https://www.namibgrens.com/) ·*
+  > *[TripAdvisor — Lagoon Chalets & Caravan Park](https://www.tripadvisor.com/Hotel_Review-g298358-d1999881-Reviews-Lagoon_Chalets_Caravan_Park-Walvis_Bay_Erongo_Region.html) ·*
+  > *[Lagoon Chalets & Camping](https://lagoonchaletswb.com/camping/).*
 - 📅 **Antelación** — **AVANZADO** (◐/○, fuente secundaria — sin cifra oficial de NWR): la temporada
   alta de Namibia es **julio–octubre** (estación seca, mejor fauna en Etosha), y **noviembre es mes de
   hombro/tranquilo** ("November and December are Namibia's quietest months for tourism", Rough Guides).
