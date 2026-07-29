@@ -825,6 +825,11 @@ con lo de arriba y bastante más caras:
 > forma verificable**; para el presupuesto se mantienen los **rangos de agregador** de arriba y la instrucción de
 > **cotizar en vivo**. El N$1.760 queda registrado como *número candidato NO verificado*, no como dato.
 
+> ⚠️ **Re-intento del 29/07/2026 — confirma que el bloqueo es de POLÍTICA de red, no un fallo puntual, y para de gastar pasadas en lo mismo.**
+> - **La hoja rack oficial de Gondwana 2026** (el PDF de blob de WETU cuya URL está más abajo) se pidió esta vez **directa**, por `curl` y por WebFetch: ambos devuelven **403 en el CONNECT del proxy** —el estado del proxy lo marca literalmente como `connect_rejected` para `stwetuproduction.blob.core.windows.net` («policy denial»)—. **No es anti-bot del sitio: es la política de egress de este entorno.** Con el mismo criterio fallaron **todos** los hosts turísticos probados (gondwana-collection.com, nwr.com.na, tracks4africa) **e incluso Wikipedia**: WebFetch está cerrado de forma general aquí.
+> - **La trampa del N$1.760 se reprodujo idéntica.** El resumen de WebSearch volvió a dar «N$1.760 pp para 1/11/2026 – 31/10/2027» como rack de Canyon Roadhouse **y en la misma respuesta** listó ese **mismísimo N$1.760 como el precio de la actividad «3-hour drive through Gondwana Canyon Park»**. Es la prueba directa de que el número es el de la excursión, no el de la habitación. Sigue **NO** anotado.
+> - **Qué SÍ hace falta para cerrar esto:** una pasada desde un entorno con egress abierto (o confirmarlo por email/teléfono al lodge). Desde aquí no se puede, y re-intentar los mismos hosts es tiempo perdido.
+
 **Lo único concreto que sí devolvió el buscador** — **actividades** de Canyon Roadhouse (Fish River),
 tarifa fijada para el periodo **1/11/2026 – 31/10/2027** ◐:
 - Sendero a pie: **N$300/persona (~€15)**

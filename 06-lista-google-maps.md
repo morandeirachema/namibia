@@ -114,14 +114,18 @@ decidido.
 
 Está junto a Lüderitz, **dentro del Sperrgebiet** (zona vedada). Como Kolmanskop, ✅ que **exige
 permiso** — pero Elizabeth Bay es **más restringido**: no es un sitio al que se entre por libre.
-⚠️ **Por verificar**: si hay tours y con qué frecuencia salen.
+✅ **Resuelto abajo** (§Zonas restringidas): sí hay tour guiado obligatorio (N$3.630/persona,
+salidas 08:45 / 13:45 desde Lüderitz, copia de pasaporte 10 días antes).
 
 ### ⚠️ Y dos avisos menores
 
 - **Skeleton Coast National Park**: exige permiso, y **el sector norte es solo por concesión** (no
-  self-drive). ⚠️ Por verificar qué parte es accesible.
+  self-drive). ✅ **Resuelto abajo** (§Zonas restringidas): el self-drive es el tramo Ugabmund–
+  Springbokwasser con permiso de tránsito **gratis**; **Torra Bay abre solo diciembre-enero, así que
+  a finales de noviembre está CERRADO** (Terrace Bay, NWR, sí abre todo el año con reserva previa).
 - **Messum Crater**: remoto, sin señalizar, sobre campos de **líquenes** que se dañan con las ruedas.
-  ⚠️ Por verificar accesibilidad y si hace falta guía.
+  ✅ **Resuelto abajo** (§Zonas restringidas): 4x4 imprescindible, permiso gratis en Henties Bay,
+  **desaconsejado como self-drive turístico** por el riesgo ecológico → fuera de este viaje.
 
 ---
 
