@@ -294,15 +294,26 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
   - Fuentes: [info-namibia — Elizabeth Bay tour](https://www.info-namibia.com/activities-and-places-of-interest/luederitz/elizabeth-bay-and-diamond-area-tour) ·
     [namibweb — tours de Lüderitz](https://www.namibweb.com/ludtour.htm)
 
-- **Messum Crater — desaconsejado como self-drive turístico** ◐
-  - **4x4 imprescindible**; permiso **gratis** en oficina MEFT / Turismo de Henties Bay
-    (requisito discutido según foros).
+- **Messum Crater — abierto al self-drive con permiso, pero desaconsejado** ◐
+  - **Sigue abierto al self-drive:** la parte oeste del cráter cae dentro del **Dorob National
+    Park** y **exige permiso** — **gratis**, en la **oficina de Turismo de Henties Bay** (o MEFT).
+    Ya no es "requisito discutido": las fuentes coinciden en que hay que sacarlo. La pista **"está
+    ahora nivelada"** (graded), señal de que se mantiene transitable; **no hay cierre confirmado**.
+  - **4x4 imprescindible** todo el año, con depósito suficiente para ir y volver desde Henties Bay.
+    Ruta: Henties Bay → **Milla 100** → desvío a la **D2303** → río Messum hasta el cráter *(algunos
+    tramos exigen coordenadas GPS)*.
   - **Líquenes extremadamente frágiles:** un 4x4 arrasa **~1 hectárea cada 10 km fuera de pista**
-    y crecen **~1 mm/año**. **Máximo 40 km/h, prohibido salir de la rodada.**
-  - Circuló un **rumor de cierre al self-drive (2014)** nunca confirmado. **Alto riesgo ecológico**
-    → no recomendado para este viaje.
+    y crecen **~1 mm/año**. **Máximo 40 km/h, prohibido salir de la rodada** — el polvo daña los
+    líquenes y las welwitschias. Los campos de líquenes se ven ya en la **Milla 30** al sur de
+    Henties Bay *(aparcar junto a la pista y verlos a pie)*.
+  - Circuló un **rumor de cierre al self-drive (2014)** que **las fuentes actuales NO confirman**;
+    hoy el permiso se sigue emitiendo. **Alto riesgo ecológico** → no recomendado para este viaje.
   - Fuentes: [travelnam — Messum Crater](https://travelnam.com/crater-with-a-difference-messum-crater/) ·
-    [dangerousroads — Messum](https://www.dangerousroads.org/africa/namibia/5955-messum-crater.html)
+    [dangerousroads — Messum](https://www.dangerousroads.org/africa/namibia/5955-messum-crater.html) ·
+    [Henties Bay Tourism — 4x4 routes](https://www.hentiesbaytourism.com/things-to-do-and-see/4x4routes/)
+  - *Nota de fuente: extracción vía WebSearch (páginas descargadas por el buscador); el egress de la
+    organización bloquea WebFetch/curl a estos hosts (403). Fuente primaria MEFT del permiso no
+    abierta aquí → nivel ◐.*
 
 - **Skeleton Coast — permiso de tránsito gratis, pero pernocta CERRADA en noviembre** ◐
   - Sector self-drive: **entre las puertas de Ugabmund (sur) y Springbokwasser (este)**. El
@@ -435,5 +446,8 @@ xychart-beta
 - **Waterberg (camping NWR):** la tasa de **parcela** (distinta de la entrada de N$280) no se
   extrajo; solo la entrada.
 - **Kgalagadi:** descartado por decisión del viajero — no se investiga si Asco autoriza el cruce.
-- **Messum Crater:** el **estado real de apertura al self-drive** (tras el rumor de cierre de 2014)
-  no se pudo confirmar con fuente oficial → tratar como **incierto**.
+- **Messum Crater:** ✔️ **avanzado (31/07)** — el estado de apertura al self-drive queda **◐
+  cerrado a nivel secundario**: sigue **abierto con permiso gratis** de Turismo de Henties Bay
+  (la parte oeste está en el **Dorob National Park**), la pista está **nivelada** y **no hay cierre
+  confirmado**; el rumor de 2014 no lo respalda ninguna fuente actual (ver la ficha arriba). **Falta
+  solo** la confirmación contra la fuente primaria del MEFT (bloqueada por egress, 403).
