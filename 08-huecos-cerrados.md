@@ -1,6 +1,6 @@
 # Huecos cerrados — temperaturas, viento, luz, vuelos, tasas y lodges
 
-Investigación cerrada el 17/07/2026 · **actualizada el 27/07/2026** (**reanálisis ERA5** vía Google Cloud pone por fin número a los tres huecos sin estación —**Lüderitz ~24,5 °C, Sesriem ~32,5 °C, Fish River ~32 °C** en nov—, validado contra estaciones; ver §ERA5. El 26/07 el dataset **GSOD** de NOAA validó las temperaturas con una red independiente y añadió **Mariental**; ver §GSOD. El 25/07 TAAG salió de ❌ en §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas. El 27/07 se cerró el **viento de la costa** con GSOD —Walvis Bay en noviembre es suave de media, ~13 km/h, ver §Viento— y se calculó la **ventana de luz** por longitud, ver §Luz) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
+Investigación cerrada el 17/07/2026 · **actualizada el 31/07/2026** (**ventana de luz recalculada para las fechas REALES del viaje, 1–15 nov** —antes estaba solo para el 25 nov—: a comienzos de noviembre **anochece ~13–18 min ANTES** y el margen para no conducir de noche es algo menor; ver §Luz) · actualizada el 27/07/2026 (**reanálisis ERA5** vía Google Cloud pone por fin número a los tres huecos sin estación —**Lüderitz ~24,5 °C, Sesriem ~32,5 °C, Fish River ~32 °C** en nov—, validado contra estaciones; ver §ERA5. El 26/07 el dataset **GSOD** de NOAA validó las temperaturas con una red independiente y añadió **Mariental**; ver §GSOD. El 25/07 TAAG salió de ❌ en §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas. El 27/07 se cerró el **viento de la costa** con GSOD —Walvis Bay en noviembre es suave de media, ~13 km/h, ver §Viento— y se calculó la **ventana de luz** por longitud, ver §Luz) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
 **✅ primaria** · **◐ secundaria concordante** · **○ práctica común** · **❌ no verificado**
 
 > ### ⚙️ Límite técnico de esta pasada — importante para auditar
@@ -464,44 +464,55 @@ buckets NOAA (la web de lodges y meteo sigue en `403`).
 
 ---
 
-## 🌅 VENTANA DE LUZ — el "anochece ~19:15" es correcto para Windhoek, pero el OESTE se alarga ○
+## 🌅 VENTANA DE LUZ — recalculada para la ventana REAL del viaje (1–15 nov): anochece ANTES de lo que decía el dossier ○
 
 **Por qué importa.** Todo el dossier se apoya en una regla de seguridad: **no conducir de noche,
 apuntar a llegar a las 18:00** porque **anochece ~19:15** (ver `05` y `03`). Ese ~19:15 estaba puesto
-como valor único para todo el país y **sin fuente**. La puesta de sol **cambia con la longitud**: el
-oeste de Namibia está muy al oeste dentro de su huso (**UTC+2 todo el año, sin horario de verano
-desde 2018**), así que allí anochece **más tarde**.
+como valor único para todo el país y **sin fuente**. Dos correcciones:
 
-**Orto y ocaso calculados para el 25 de noviembre de 2026** (algoritmo solar NOAA/Meeus, ver
-método) ○:
+1. **La puesta de sol cambia con la longitud**: el oeste de Namibia está muy al oeste dentro de su
+   huso (**UTC+2 todo el año, sin horario de verano desde 2018**), así que allí anochece **más tarde**.
+2. **Y cambia con la fecha.** El primer cálculo de esta sección se hizo para el **25 de noviembre**,
+   pero el viaje real es la **primera quincena (1–14 nov)**. A comienzos de noviembre **anochece
+   ~13–18 min ANTES** que el 25 — el ~19:15 del dossier se queda **largo** para las fechas reales.
 
-- **Windhoek** — orto **05:58**, ocaso **19:19** *(confirma el ~19:15 del dossier)*
-- **Etosha (Okaukuejo)** — orto **06:09**, ocaso **19:17**
-- **Twyfelfontein** — orto **06:13**, ocaso **19:26**
-- **Sesriem / Sossusvlei** — orto **06:00**, ocaso **19:27**
-- **Swakopmund / Walvis Bay (costa)** — orto **06:08**, ocaso **19:29**
-- **Keetmanshoop** — orto **05:47**, ocaso **19:22**
-- **Lüderitz (extremo suroeste)** — orto **05:58**, ocaso **19:34**
+**Orto y ocaso para las fechas reales del viaje** — se dan el **1 nov** y el **15 nov** (cierre de la
+ventana), con el **25 nov** al lado solo como referencia para ver el desplazamiento (algoritmo solar
+NOAA/Meeus, ver método) ○:
 
-Todas dan **~13,1–13,6 horas de luz**.
+- **Windhoek** — 1 nov **06:07 / 19:03** · 15 nov **06:01 / 19:12** · *(ref. 25 nov 05:59 / 19:19)*
+- **Etosha (Okaukuejo)** — 1 nov **06:16 / 19:04** · 15 nov **06:10 / 19:11** · *(ref. 25 nov 06:09 / 19:17)*
+- **Twyfelfontein** — 1 nov **06:20 / 19:12** · 15 nov **06:14 / 19:20** · *(ref. 25 nov 06:13 / 19:26)*
+- **Sesriem / Sossusvlei** — 1 nov **06:10 / 19:11** · 15 nov **06:02 / 19:20** · *(ref. 25 nov 06:00 / 19:27)*
+- **Swakopmund / Walvis Bay (costa)** — 1 nov **06:17 / 19:14** · 15 nov **06:11 / 19:22** · *(ref. 25 nov 06:08 / 19:29)*
+- **Keetmanshoop** — 1 nov **05:58 / 19:04** · 15 nov **05:50 / 19:14** · *(ref. 25 nov 05:47 / 19:22)*
+- **Lüderitz (extremo suroeste)** — 1 nov **06:09 / 19:16** · 15 nov **06:01 / 19:26** · *(ref. 25 nov 05:58 / 19:34)*
 
-**Lectura operativa ○:**
-- La regla **"llegar a las 18:00"** sigue siendo la buena — deja **~1 h 20 min de margen** hasta el
-  ocaso incluso en el punto que antes anochece (Etosha, 19:17).
-- En la **costa y en Sossusvlei** hay luz utilizable hasta **~19:27–19:29**, unos **10–15 min más**
-  de lo que sugería el ~19:15 uniforme. Útil para el amanecer/atardecer de Deadvlei y para la última
-  etapa del día en la C14.
-- **Sesriem**: la puerta interior abre **~1 h antes del orto** (ver `05`) → en torno a las **05:00**
-  a finales de noviembre. Con orto a las 06:00, estar en Deadvlei al amanecer significa **arrancar
-  hacia las 05:15–05:30**.
+Todas dan **~13,0–13,4 horas de luz** en la ventana del viaje (un pelín menos que a finales de mes).
+
+**Lectura operativa ○ (corregida para 1–15 nov):**
+- La regla **"llegar a las 18:00"** sigue siendo la buena, pero **el margen es menor de lo que decía
+  el dossier**: con el ocaso más temprano de la ruta al arrancar el viaje (**Windhoek / Etosha
+  ~19:03–19:04 el 1 nov**), llegar a las 18:00 deja **~1 h**, no «1 h 20 min». Es cómodo, pero **la
+  franja del anochecer —la más mortal— llega ~15 min antes** en los primeros días. Si algo se
+  tuerce, **adelanta la llegada a las 17:30** en las etapas largas del principio.
+- En la **costa y en Sossusvlei** hay luz utilizable hasta **~19:11–19:22** en la ventana del viaje
+  (el 1 nov, ~19:14 en la costa y ~19:11 en Sesriem), no los ~19:27–19:29 del cálculo de finales de
+  mes. Aun así siguen siendo los puntos donde más tarde anochece: útil para el atardecer de Deadvlei
+  y la última etapa de la C14.
+- **Sesriem / Deadvlei al amanecer**: la puerta interior abre **~1 h antes del orto** (ver `05`). Con
+  orto **06:10 el 1 nov** (06:02 el 15), la puerta abre **~05:10** y estar en Deadvlei al alba
+  significa **arrancar hacia las 05:20–05:35** — unos minutos más tarde que lo que sugería el cálculo
+  del 25 nov (orto 06:00).
 
 **Método y honestidad ○:** es un **cálculo propio**, no un dato descargado, así que va en **○** (no
 ✅). Usa el algoritmo solar estándar (NOAA Solar Calculator / *Astronomical Algorithms* de Meeus),
 sin librerías externas, con ángulo cenital 90,833° (refracción + radio solar) y huso **UTC+2**. Se
 **validó contra dos casos de referencia conocidos** y coincide a **±2 min** (Nueva York, 21/06/2021:
-calculado 05:25/20:31; Greenwich equinoccio 20/03/2020: calculado 06:02/18:12). Aun así, **reconfírmalo
-contra USNO o timeanddate.com** cuando una pasada tenga egress a esos hosts (ahora en `403`).
-Referencia del algoritmo:
+calculado 05:25/20:31; Greenwich equinoccio 20/03/2020: calculado 06:02/18:12); además **reproduce
+exactamente (±1 min) la tabla del 25 nov** que ya tenía el dossier, lo que confirma que el único
+cambio de arriba es la **fecha**, no el método. Aun así, **reconfírmalo contra USNO o timeanddate.com**
+cuando una pasada tenga egress a esos hosts (ahora en `403`). Referencia del algoritmo:
 [NOAA Global Monitoring Laboratory — Solar Calculator](https://gml.noaa.gov/grad/solcalc/).
 
 ---

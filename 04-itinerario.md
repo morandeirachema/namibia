@@ -32,7 +32,7 @@ flowchart TD
     C --> F["+ paradas foto, repostaje,<br/>pinchazo posible +1 h"]
     D --> F
     E --> F
-    F --> G["LLEGAR ANTES DE LAS 18:00<br/>anochece ~19:15 · nunca de noche"]
+    F --> G["LLEGAR ANTES DE LAS 18:00<br/>anochece ~19:05-19:15 en 1-15 nov · nunca de noche"]
     style D fill:#e85d04,color:#000
     style E fill:#e85d04,color:#000
     style G fill:#9d0208,color:#fff
@@ -380,8 +380,10 @@ flowchart TD
   obligatorio**; pero **NO es de las carreteras sin seguro**. Las que anulan la cobertura de bajos y
   rescate pagues lo que pagues son la **D3707 y la D3703** en Kaokoland/Damaraland (ver `05` y `06`) —
   **no la confundas con la D707, que es otra carretera**.
-- **Sin conducir de noche, jamás**: anochece **~19:15**; apunta a llegar a las **18:00**. Cualquier
-  etapa que no dé para eso, **pártela**.
+- **Sin conducir de noche, jamás**: en tu ventana (1–15 nov) anochece **~19:05–19:15** en el interior
+  (ocaso recalculado en `08` para las fechas reales, algo más temprano que a fin de mes); apunta a
+  llegar a las **18:00** —**17:30** en las etapas largas de los primeros días—. Cualquier etapa que no
+  dé para eso, **pártela**.
 
 ---
 

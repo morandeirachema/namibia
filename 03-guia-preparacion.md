@@ -332,8 +332,10 @@ El consejo es bueno y está corroborado, pero **con la fuente puesta en su sitio
 
 - **El dato que sí aguanta** ✅: NRSC 2019, tabla 6 — *«Most crashes occurred between 16:00 - 19:59
   (4.811)»*, y tabla 11: **121 de 413 muertos (29,3 %)** en esa franja.
-- **El anochecer a finales de noviembre en Windhoek es ~19:16**. Es decir: la franja más mortal del
-  país **coincide con tu último tramo del día**.
+- **El anochecer en Windhoek en tu ventana (1–15 nov) es ~19:03–19:12** (ocaso recalculado en `08`
+  para las fechas reales; el ~19:16 antiguo era de finales de mes). Es decir: la franja más mortal
+  del país **coincide con tu último tramo del día**, y a comienzos de noviembre anochece **~15 min
+  antes** que a fin de mes — un motivo más para llegar con luz de sobra.
 - ❌ **Lo que NO puedes citar**: el FCDO británico sí dice *«avoid driving at night outside towns,
   as wildlife and livestock are serious hazards»*, **pero ese punto está dentro de una lista
   encabezada por «During the rainy season from January to April»**. No es consejo anual: presentarlo

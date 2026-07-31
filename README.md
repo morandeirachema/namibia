@@ -508,8 +508,9 @@ limpios · **seguro con repatriación** — es condición de entrada; pide por e
 - **Nunca pases de largo una gasolinera.** Solitaire, Henties Bay, Kamanjab, Outjo, Otjiwarongo: se
   reposta en todas, marque lo que marque la aguja. Las tarjetas **sí** se aceptan *(el «solo
   efectivo» es un mito de mala traducción)*, pero lleva **~N$4.000 (~€200)** de reserva.
-- **Llega a las 18:00.** Anochece ~19:15 y la fauna sale a los arcenes al atardecer. El día crítico
-  es el D7: **Ugabmund cierra la entrada a las 15:00**.
+- **Llega a las 18:00** (17:30 en las etapas largas de los primeros días). En tu ventana (1–15 nov)
+  anochece ~19:05–19:15 en el interior —algo antes que a fin de mes; ocaso recalculado en `08`— y la
+  fauna sale a los arcenes al atardecer. El día crítico es el D7: **Ugabmund cierra la entrada a las 15:00**.
 - **El seguro y Damaraland**: el Super Cover de Asco **no cubre los bajos en Damaraland/Kaokoveld**
   — el tramo D8 pide suavidad en las piedras. Las pistas malditas **D3707/D3703 no están en esta
   ruta**. *Dune driving* y Sandwich Harbour, **prohibidos por contrato** — el tour guiado es el plan.
