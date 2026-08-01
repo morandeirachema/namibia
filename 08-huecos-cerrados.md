@@ -1,6 +1,6 @@
 # Huecos cerrados — temperaturas, viento, luz, vuelos, tasas y lodges
 
-Investigación cerrada el 17/07/2026 · **actualizada el 31/07/2026** (**ventana de luz recalculada para las fechas REALES del viaje, 1–15 nov** —antes estaba solo para el 25 nov—: a comienzos de noviembre **anochece ~13–18 min ANTES** y el margen para no conducir de noche es algo menor; ver §Luz) · actualizada el 27/07/2026 (**reanálisis ERA5** vía Google Cloud pone por fin número a los tres huecos sin estación —**Lüderitz ~24,5 °C, Sesriem ~32,5 °C, Fish River ~32 °C** en nov—, validado contra estaciones; ver §ERA5. El 26/07 el dataset **GSOD** de NOAA validó las temperaturas con una red independiente y añadió **Mariental**; ver §GSOD. El 25/07 TAAG salió de ❌ en §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas. El 27/07 se cerró el **viento de la costa** con GSOD —Walvis Bay en noviembre es suave de media, ~13 km/h, ver §Viento— y se calculó la **ventana de luz** por longitud, ver §Luz) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
+Investigación cerrada el 17/07/2026 · **actualizada el 01/08/2026** (**Camp Gecko, al pie del paso de Spreetshoogte, identificado como opción de camping D2**, con banda de precio ○ contradictoria entre dos búsquedas —N$220 vs N$280 pp— y primaria 403: sigue sin verificarse, pero es la propiedad del paso que faltaba por precisar y su ventana de tarifa parece cubrir nov·2026; ver §Campings) · **actualizada el 31/07/2026** (**ventana de luz recalculada para las fechas REALES del viaje, 1–15 nov** —antes estaba solo para el 25 nov—: a comienzos de noviembre **anochece ~13–18 min ANTES** y el margen para no conducir de noche es algo menor; ver §Luz) · actualizada el 27/07/2026 (**reanálisis ERA5** vía Google Cloud pone por fin número a los tres huecos sin estación —**Lüderitz ~24,5 °C, Sesriem ~32,5 °C, Fish River ~32 °C** en nov—, validado contra estaciones; ver §ERA5. El 26/07 el dataset **GSOD** de NOAA validó las temperaturas con una red independiente y añadió **Mariental**; ver §GSOD. El 25/07 TAAG salió de ❌ en §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas. El 27/07 se cerró el **viento de la costa** con GSOD —Walvis Bay en noviembre es suave de media, ~13 km/h, ver §Viento— y se calculó la **ventana de luz** por longitud, ver §Luz) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
 **✅ primaria** · **◐ secundaria concordante** · **○ práctica común** · **❌ no verificado**
 
 > ### ⚙️ Límite técnico de esta pasada — importante para auditar
@@ -968,7 +968,9 @@ tarifa internacional/alta).*
   cifras; **no se pudo confirmar qué meses son "green/low/high"** ni abrir la ficha (403), así que queda
   ◐ y con la temporada de noviembre sin fijar — pero encaja con el ancla de Spitzkoppe.* Siguen
   **sin verificar**: Spreetshoogte, Walvis Bay (Lagoon Chalets) y Quivertree Forest Rest Camp — los
-  fragmentos solo dan números viejos de iOverlander sin vigencia 2026.
+  fragmentos solo dan números viejos de iOverlander sin vigencia 2026. **En Spreetshoogte (D2) ya hay
+  una opción D2 identificada —Camp Gecko, al pie del paso—, pero con banda de precio ○ y contradictoria
+  entre dos búsquedas (N$220 vs N$280 pp): sigue sin verificarse.** Ver la nota del 01/08 abajo.
   > **Re-intento del 28/07/2026 (Spreetshoogte D2 y Walvis Bay D5–6) — SIGUEN ❌, y con trampa anotada.**
   > Se buscaron ambos por WebSearch (la única vía web abierta; las webs propias y agregadores dan **403** a
   > WebFetch: barkhan.africa, namibweb.com, lagoonchaletswb.com, probados hoy). Ninguno cierra, por motivos
@@ -982,6 +984,21 @@ tarifa internacional/alta).*
   >   reserva el día a día, con unidad ambigua y sin poder abrir la primaria. **No se registra como cifra** (misma
   >   regla que tumbó el N$1.760 de Canyon Roadhouse): queda como *candidato NO verificado* para que una pasada
   >   futura no lo copie.
+  >   > **Re-intento del 01/08/2026 — Camp Gecko (D2, «al pie del paso de Spreetshoogte, cerca de Solitaire»):
+  >   > candidato con rango, PERO dos búsquedas se CONTRADICEN → sigue sin verificarse.** Es la propiedad del paso
+  >   > que faltaba por precisar. Dos WebSearch independientes al mismo `camp-gecko.com/rates.php` (403 por
+  >   > WebFetch/curl, no se pudo abrir para adjudicar la extracción) dan cifras **distintas** para la parcela:
+  >   > una summariza *"N$280 pp/noche (Hilltop/Eagle/Moonlight), válido 01.01.2025–31.12.2026"* y la otra
+  >   > *"N$220 pp/noche en los sitios de la colina"* (más *"safari tent N$800/noche"*). **N$220 ≠ N$280**: es
+  >   > justo la trampa de confabulación del buscador, así que **no se registra ninguna cifra dura** — a lo sumo
+  >   > una **banda orientativa ○ de ~N$220–280 pp** (≈**N$440–560/noche la pareja, ~€22–28**) a confirmar por
+  >   > email. **Lo que SÍ aporta valor y es un hallazgo estructural:** el fragmento que trae la cifra también trae
+  >   > una **ventana de vigencia (01.01.2025–31.12.2026) que, de ser cierta, CUBRE noviembre de 2026** — al revés
+  >   > que el rack de Gondwana (caduca 31/10/2026); es decir, Camp Gecko sería un candidato D2 cuya tarifa
+  >   > publicada no vence antes del viaje. Queda como **opción D2 identificada** (alternativa a Namibgrens), rango
+  >   > ○ y contradictorio, a cerrar abriendo `camp-gecko.com/rates.php` desde un entorno con egress o por email.
+  >   > *Fuentes (vía fragmento; primaria 403): [Rates | Camp Gecko](https://camp-gecko.com/rates.php) ·
+  >   > [TripAdvisor — Camp Gecko Tented Camp & Campsite](https://www.tripadvisor.com/Hotel_Review-g2187009-d1546193-Reviews-Camp_Gecko_Tented_Camp_Campsite-Solitaire_Khomas_Region.html).*
   > - **Walvis Bay (Lagoon Chalets):** el buscador es explícito — **no hay tarifa publicada para la ventana del
   >   viaje**: *"Rates are not available for 01 March 2026 – 28 February 2027"*. Solo asoman números **viejos de
   >   2019** de Langstrand. Es decir, el hueco no es «no encontrado» sino **«el propio establecimiento no publica
