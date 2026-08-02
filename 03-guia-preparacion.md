@@ -476,30 +476,29 @@ delito**.
 ### ❄️→🔥 Corrección de premisa: las noches de noviembre NO son frías ◐
 
 La idea de «noches heladas en el desierto» es un dato de **junio/julio** mal aplicado a noviembre.
-Datos climáticos de la propia NWR:
+Cifras **de estación**, no de folleto *(NOAA GHCN y ERA5 — el detalle y la validación, en `08`; el
+día a día de la ruta, en `11`)*:
 
 ```mermaid
 xychart-beta
-    title "Temperatura NWR · maxima y minima en C · noviembre"
-    x-axis ["Sesriem max", "Sesriem min", "Etosha max", "Etosha min"]
+    title "Media de maximas y minimas de noviembre · donde duermes"
+    x-axis ["Windhoek", "Sesriem", "Costa (Walvis)", "Etosha"]
     y-axis "grados C" 0 --> 40
-    bar [34.1, 15.5, 35.5, 18.3]
+    bar [31.2, 32.5, 25.0, 37.1]
+    bar [16.3, 15.5, 12.7, 18.9]
 ```
 
-- **Sesriem, noviembre**: 34,1 °C máx / **15,5 °C mín** (salto de 18,6°, no de 20+)
-- **Sesriem, diciembre**: 34,5 / 15,8
-- **Etosha, noviembre**: 35,5 / **18,3**
-- **Etosha, diciembre**: 34,4 / 18,8
+- **Windhoek** ✅ — 31,2 máx / **16,3 mín** *(GHCN 68110, 1957–2025)*
+- **Sesriem** ◐ — ~32,5 máx *(ERA5; la real ronda 33–34, y NWR daba 34,1)* / **15,5 mín** *(NWR ◐)*
+- **Costa, Walvis Bay** ✅ — 25,0 máx / **12,7 mín** *(GHCN 68098, 1990–2025)*
+- **Etosha, Okaukuejo** ✅ — 37,1 máx / **18,9 mín** *(GHCN, 1975–2022)*
 
-> Una noche de 15–18 °C es **forro polar y pantalón largo**, no plumas. **Deja en casa el plumas,
-> los térmicos, el gorro y los guantes**: son peso muerto en el poco sitio de una tienda de techo.
+> Todas las noches del viaje caen entre **12 y 19 °C**: eso es **forro polar y pantalón largo**, no
+> plumas. **Deja en casa el plumas, los térmicos, el gorro y los guantes**: son peso muerto en el
+> poco sitio de una tienda de techo. *(La lista completa, en `14`.)*
 
-**El problema real de tu ventana de noviembre es el CALOR**, no el frío: 34–35 °C de día, y una
-tienda de techo al sol **es inhabitable hasta bien entrada la noche**.
-
-⚠️ Estas cifras son de **nwrnamibia.com** (secundaria). En `01` consta que **todas** las temperaturas
-que veníamos manejando de webs de safaris fueron **refutadas 0–3** — estas son mejores, pero no son
-la agencia meteorológica namibia.
+**El problema real de tu ventana de noviembre es el CALOR**, no el frío: **37 °C en Etosha** y
+32–34 en el desierto, y una tienda de techo al sol **es inhabitable hasta bien entrada la noche**.
 
 **El frío que sí hay que llevar es el de la costa**, no el del desierto: Swakopmund y Walvis Bay
 tienen la corriente de Benguela y son otra cosa.

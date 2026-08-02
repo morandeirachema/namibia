@@ -11,8 +11,8 @@ se sabe, dice **«sin dato»**. Escrito el 02/08/2026.
 ```mermaid
 flowchart TD
     R1["1 · El coche YA trae el camping<br/>tiendas, ropa de cama, menaje,<br/>nevera, sillas, compresor ✅"] --> M["LA MOCHILA<br/>petate blando + daypack"]
-    R2["2 · Noches de 15-18 C:<br/>forro polar, NO plumas ◐"] --> M
-    R3["3 · Dias de 30-38 C, sol y polvo:<br/>el enemigo es el CALOR"] --> M
+    R2["2 · Noches de 13-19 C:<br/>forro polar, NO plumas ✅"] --> M
+    R3["3 · Dias de 25 C en la costa<br/>a 37 C en Etosha:<br/>el enemigo es el CALOR"] --> M
     R4["4 · Enchufe tipo M:<br/>tu Schuko NO entra ◐"] --> M
     R5["5 · Namibia funciona con PAPEL:<br/>todo impreso ✅"] --> M
     R6["6 · Maletero justo:<br/>doble cabina + nevera + cajas ○"] --> M
@@ -24,11 +24,14 @@ flowchart TD
    ni saco, ni esterilla, ni cacharros.** ⚠️ Lo que NO consta en la ficha: **toallas** y detalle
    fino del menaje — **sin dato: entra en el inventario por escrito que hay que pedir al reservar**
    (`03`).
-2. **Las noches NO son frías** ◐ *(datos NWR, `03`)*: mínimas de 15–18 °C. **Plumas, térmicos,
-   gorro y guantes se quedan en casa** — son peso muerto en una tienda de techo.
-3. **El problema es el calor** ◐: 34–38 °C de día (Etosha lo peor), sol vertical y polvo. La
-   equipación es de sol, no de frío — con UNA excepción: **la costa** (Benguela: niebla y viento,
-   `03`) y **la madrugada de Deadvlei** (en marcha a las ~05:10, `11`).
+2. **Las noches NO son frías** ✅ *(medias de mínimas de noviembre, estaciones GHCN/ERA5 — `08` y
+   `11`)*: **12,7 °C en la costa · 15,5 en Sesriem · 16,3 en Windhoek · 18,9 en Etosha**. **Plumas,
+   térmicos, gorro y guantes se quedan en casa** — son peso muerto en una tienda de techo. *La
+   noche fría del viaje es la de la costa, no la del desierto.*
+3. **El problema es el calor** ✅: **37,1 °C de media de máximas en Etosha**, 32–34 en el desierto,
+   sol vertical y polvo. La equipación es de sol, no de frío — con UNA excepción: **la costa**
+   (Benguela: 25 °C de día, **12,7 de madrugada**, niebla y viento) y **la salida de Deadvlei**
+   (en marcha a las ~05:10, `11`).
 4. **Enchufe tipo M** ◐ (`03`): **DOS adaptadores comprados online antes de salir** — «el fallo
    tonto más probable del viaje». Los Europlug finos (tipo C) suelen entrar; el Schuko gordo, no.
 5. **Papel** ✅ (`03`): e-visa impreso y firmado, reservas, póliza — todo impreso una semana antes.

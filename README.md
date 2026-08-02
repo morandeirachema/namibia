@@ -181,7 +181,9 @@ flowchart LR
   fresca (Benguela): **Swakopmund/Walvis Bay ~25 °C** y **Lüderitz ~24,5 °C** de máxima en noviembre.
   Los tres primeros venían de estación NOAA; **Lüderitz, Sesriem y el Fish River no tienen estación y
   se cerraron con el reanálisis ERA5** (validado contra estaciones) *(ver [`08`](08-huecos-cerrados.md),
-  secciones "La costa" y §ERA5)*. Noches de 15–18 °C: **forro polar, no plumas**.
+  secciones "La costa" y §ERA5)*. **Las noches, entre 12,7 °C (la costa) y 18,9 °C (Etosha)**:
+  **forro polar, no plumas** — la lista completa de equipaje, en [`14`](14-equipaje.md), y la
+  temperatura noche a noche en [`11`](11-itinerarios-dia-a-dia.md).
 - 💶 **Precio: la frontera del 1 de noviembre, dos veces.** **NWR** entra en tramo barato el 1 de
   noviembre (Sesriem, Terrace Bay, Etosha), y **Namibia2Go también**. 👉 **¿Adelantar días a
   octubre? Hasta 2 días es gratis** — las primeras noches (Windhoek, Spreetshoogte) no son NWR.
