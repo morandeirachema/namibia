@@ -244,6 +244,61 @@ Namibian Dollar is not legal tender in South Africa.»*
   tienen cajeros. Usa **cajeros pegados a una sucursal, de día, mejor dentro de un centro comercial**
 - Los **cheques de viaje** ya casi no se aceptan
 
+### El plan de dinero, paso a paso *(añadido 02/08/2026 — con fuentes nuevas)*
+
+**Estrategia base: cajero mejor que cambiar euros.** Las guías de viaje coinciden ○: no lleves
+grandes cantidades de euros — saca NAD del cajero con tarjeta en las ciudades
+([wild-wings-safaris](https://wild-wings-safaris.com/frequently-asked-questions/what-currency-is-used-in-namibia-and-can-i-use-credit-cards)),
+y haz **pocas retiradas grandes** (la comisión es fija, ~N$40–60 · ~€2–3 por operación ○,
+[travelwithhello](https://www.travelwithhello.com/blog/namibia-currency-money-guide)). El bureau
+de cambio de aeropuerto suele dar el peor tipo ○ — cambiar euros es posible en los cuatro bancos
+(L–V 09:00–15:30, S 09:00–11:00 ✅ [visitnamibia](https://visitnamibia.com.na/currencies/)), pero
+el cajero gana.
+
+**El día 1 en el aeropuerto** ✅ *(listado oficial de la
+[Namibia Airports Company](https://www.airports.com.na/useful-information/passenger-information/10/))*:
+hay **cajeros de FNB y Bank Windhoek** y oficinas de cambio (Cambio Seguro, Nova Cambio, NAMPOST) —
+horarios y comisiones **sin dato publicado**. Plan ○: saca **N$500–1.000 (~€25–50) de bolsillo**
+al aterrizar y la carga grande en Windhoek ciudad.
+
+**Cajeros por TU ruta** *(listados oficiales:
+[índice de cajeros FNB](https://www.fnbnamibia.com.na/ways-to-bank/for-me/atmIndex.html) ✅ ·
+[PDF Cash Express de Bank Windhoek](https://www.bankwindhoek.com.na/Documents/CashExpressATMs.pdf) ✅)*:
+- **HAY**: Windhoek · Swakopmund · Walvis Bay · Otjiwarongo · Okahandja · **Henties Bay** (FNB +
+  Cash Express en Spar/Woermann/OK) · **Outjo** (FNB + Standard + OK Grocer) · **Kamanjab** (solo
+  un Cash Express en Sentra) · **Solitaire** (un Cash Express en el lodge)
+- **NO consta ninguno**: **Sesriem** *(la propia NWR pide llevar reserva de efectivo ✅
+  [nwrnamibia](https://www.nwrnamibia.com/sesriem-cash-credit-cards.htm))* · **Terrace Bay** · y
+  los de **dentro de Etosha** figuran pero con fama de poco fiables ○
+- Límites reportados por viajeros ○: **~N$1.500–2.000 por operación** con ~N$50–55 de comisión
+  local *(además de lo que cobre tu banco)*; el del aeropuerto hasta ~N$3.000
+- 👉 **Los Cash Express de Solitaire y Kamanjab son un bonus, no un plan**: la regla sigue siendo
+  cargar efectivo en **Windhoek → Swakopmund → Otjiwarongo/Outjo**
+
+**Tarjetas** — Visa y Mastercard, aceptación amplia en lodges, súper y la mayoría de gasolineras
+✅/◐ *(NWR Sesriem: aceptan tarjeta en oficina, alojamiento, gasolinera y tienda «pero dependen de
+electricidad e internet — ten reserva de efectivo» ✅)*. **Amex flojea** ○ — no la lleves de
+principal. **DCC: si el datáfono ofrece cobrar en euros, di SIEMPRE que en NAD** ○ — la conversión
+«dinámica» da peor cambio. Contactless: común en comercios grandes ○. Y **avisa a tu banco** del
+viaje ○.
+
+**El rand (ZAR)** ✅ — curso legal en Namibia por ley, **billetes Y monedas**
+*(Bank of Namibia Act 15/1997, [texto legal](https://www.fnbnamibia.com.na/downloads/namibia/act15_1997.pdf))*,
+1:1 con el NAD. La asimetría de siempre: **el NAD no vale en Sudáfrica** — si la vuelta pasa por
+Johannesburgo, mejor quedarse ZAR que NAD.
+
+**Propinas** ◐ *(operador local [Namibia Tours & Safaris](https://www.namibia-tours-safaris.com/travel-guide/tipping-on-your-namibia-safari))*:
+gasolinero **~N$10 (~€0,50)** · cuidacoches ~N$10 · camarero **10–15 %** · guía de safari
+N$75–150 (~€4–8) por persona y día · personal de lodge/campamento N$50–150 por persona y día, en
+la caja común de recepción.
+
+**Al salir** — **gasta o cambia los NAD antes de embarcar** (fuera del área monetaria común apenas
+se negocian). Límite oficial de billetes: **N$10.000 por viaje** fuera del CMA ◐ *(FAQ de Exchange
+Control del [Bank of Namibia](https://www.bon.com.na/Informations/FAQ/Exchange-Control.aspx) — la
+web daba error al verificarla; corroborado en guía secundaria)*. La aduana
+([NamRA](https://www.namra.org.na/documents/cms/uploaded/customs-procedure-travellers-guide-information-1579b9600b.pdf) ✅)
+exige **declarar divisas** al entrar y salir, sin umbral publicado.
+
 ### Cuánto efectivo
 
 Tus restricciones reales:
@@ -252,11 +307,14 @@ Tus restricciones reales:
 - **Lodges remotos, campings y puestos de artesanía**: efectivo
 - **Propinas**
 
-> **Plan:** saca efectivo en **Windhoek** y recarga en **Swakopmund** y **Otjiwarongo** — los últimos
-> cajeros fiables antes de Damaraland y Etosha. **Nunca dejes que la reserva baje de ~N$4.000
-> (~€200)** entrando en tramos remotos.
+> **Plan:** saca efectivo en **Windhoek** y recarga en **Swakopmund** y **Otjiwarongo/Outjo** — los
+> últimos cajeros fiables antes de Damaraland y Etosha. **Nunca dejes que la reserva baje de
+> ~N$4.000 (~€200)** entrando en tramos remotos.
 >
 > ❌ **No cuentes con encontrar un cajero que funcione en Khorixas, Kamanjab, Solitaire ni Sesriem.**
+> *(Matiz del 02/08: en Kamanjab y Solitaire SÍ figuran puntos Cash Express en el listado oficial
+> de Bank Windhoek — ver «El plan de dinero» arriba — pero trátalos como bonus: en Sesriem y
+> Terrace Bay no consta nada.)*
 >
 > Lleva el efectivo **en dos sitios distintos del coche**, no todo en una cartera.
 
