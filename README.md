@@ -534,6 +534,39 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 
 <div align="center">
 
+## 🗣️ Cuatro palabras que hay que entender antes de seguir
+
+</div>
+
+El paisaje namibio se nombra en **afrikáans**, y los mapas, los carteles del parque y este dossier
+usan esas palabras. Tres de ellas se confunden entre sí constantemente:
+
+```mermaid
+flowchart TD
+    P["<b>PAN</b> · la depresion salina<br/>Etosha Pan son ~5.000 km2 de arcilla y sal<br/>SECA casi todo el año — solo se inunda<br/>en una buena temporada de lluvias<br/><i>no es agua, es un desierto blanco</i>"]
+    C["<b>CHARCA</b> (waterhole) · el abrevadero<br/>la poza pequeña, de manantial o de sondeo,<br/>donde bebe la fauna. Es donde se aparca<br/>y se espera. Okaukuejo, Chudop, Goas...<br/><i>esto SI es agua, y es el safari</i>"]
+    V["<b>VLEI</b> · la hondonada que se encharca<br/>Deadvlei, Sossusvlei, Hidden Vlei<br/>Deadvlei lleva 900 años sin agua:<br/>por eso los arboles estan muertos y de pie"]
+    K["<b>KOPPIE</b> · el cerro rocoso aislado<br/>el de Halali se puede subir a pie:<br/>el unico sitio del parque donde se<br/>puede andar fuera del coche"]
+    style P fill:#c9b98f,color:#22201d
+    style C fill:#2d6a4f,color:#fff
+    style V fill:#C2542F,color:#fff
+    style K fill:#7a3a22,color:#fff
+```
+
+> **El error que evita esto:** leer «hay agua en la depresión» y pensar en las charcas. Son cosas
+> distintas y **no van juntas**: en tu quincena **la depresión está seca** —por eso no hay
+> flamencos— y precisamente por eso **las charcas concentran a toda la fauna**. La depresión seca
+> es la razón de que el safari funcione.
+
+**Y las de la mesa**, que también salen en el dossier: **braai** *(la barbacoa, que es casi una
+institución)* · **biltong** *(cecina curada)* · **boerewors** *(la salchicha del braai)* ·
+**potjiekos** *(guiso de olla de tres patas)* · **kapana** *(tiras de vacuno a la brasa de los
+mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongololo** *(el milpiés)*.
+
+---
+
+<div align="center">
+
 ## 📚 El dossier completo
 
 </div>

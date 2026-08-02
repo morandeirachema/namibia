@@ -39,7 +39,7 @@ específica de Etosha en ninguna fuente decente, y rellenarlo a ojo sería inven
 
 ### Y cuatro avisos que corrigen lo que dicen las webs de safaris
 
-- **Flamencos: en noviembre no hay.** La pan está seca —la NASA la fotografió «bone dry» en
+- **Flamencos: en noviembre no hay.** La depresión está seca —la NASA la fotografió «bone dry» en
   diciembre— y solo crían cuando la lluvia pasa de 400 mm, algo que ocurrió **tres veces en cuarenta
   años**. Los flamencos de vuestro viaje están en **Walvis Bay**, donde el máximo va de junio a
   noviembre.
