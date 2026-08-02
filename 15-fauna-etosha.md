@@ -1,6 +1,6 @@
 # Fauna del viaje — la guía de campo en PDF
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 14 páginas A4,
+📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 18 páginas A4,
 **83 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
 cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
@@ -19,11 +19,26 @@ buscar una especie desde el repo.)*
 - **Foto** de Wikimedia Commons, todas con **licencia libre** (CC BY, CC BY-SA, CC0 o dominio
   público), con autoría y licencia bajo la imagen y en los créditos finales
 
-## Y lo que NO trae, dicho claro
+## El «dónde y cuándo», en 37 de las 83 fichas
 
-**No lleva un «dónde ver» de cada especie.** Solo tienen esa línea las **tres** que el dossier tiene
-verificadas *(rinoceronte negro, elefante y jirafa en la charca iluminada de Okaukuejo de noche)*.
-Para el resto habría que inventárselo, y aquí no se hace.
+Charca por charca y con su fuente: **Okondeka** para el león, **Halali y Goas** para el leopardo,
+**Salvadora–Sueda–Charitsaub** para el guepardo, el **Dik-dik Drive** nada más entrar por Von
+Lindequist, y el nido de tejedor republicano **a diez metros de la charca de Okaukuejo**.
+
+Las 46 fichas restantes **no llevan esa línea**: no apareció información
+específica de Etosha en ninguna fuente decente, y rellenarlo a ojo sería inventar.
+
+### Y cuatro avisos que corrigen lo que dicen las webs de safaris
+
+- **Flamencos: en noviembre no hay.** La pan está seca —la NASA la fotografió «bone dry» en
+  diciembre— y solo crían cuando la lluvia pasa de 400 mm, algo que ocurrió **tres veces en cuarenta
+  años**. Los flamencos de vuestro viaje están en **Walvis Bay**, donde el máximo va de junio a
+  noviembre.
+- **El abejaruco carmesí no está en Etosha**: cero registros dentro del parque. El que sí veréis es
+  el **abejaruco europeo**, que llega en octubre.
+- **La cigüeña de Abdim tampoco**: en Etosha es ave de febrero y marzo.
+- **La cebra de montaña de Hartmann no está en vuestro eje**: vive en las lomas de dolomita del
+  extremo oeste del parque.
 
 Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horarios de puerta calculados
 para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las tres charcas

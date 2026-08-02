@@ -215,6 +215,9 @@ gantt
 ### D6 · vie 6 — Walvis Bay: flamencos y descanso ✅
 - 🌡️ **Walvis Bay 25,0 / 12,7** ✅ — el día fresco del viaje: aprovecha para el Welwitschia Drive
 - ☀️ amanecer **06:14** · anochecer **19:17** — *flamencos con la primera luz, ~06:15–07:30*
+- 🦩 **Y tu mes es de los buenos**: en Walvis Bay los flamencos tienen su **máximo de junio a
+  noviembre** ✅ *(SABAP1)*. Aquí sí los hay en cantidad — en Etosha, en cambio, **no**: la pan está
+  seca en noviembre *(ver `15`)*
 - 🦩 **Flamencos y pelícanos en la laguna** al amanecer y al atardecer — las mejores luces
 - Día libre: paseo marítimo, ostras, o la excursión guiada a **Sandwich Harbour**
   *(🚫 con tu coche está prohibida por contrato — el tour es la forma correcta y mejor)*
@@ -271,8 +274,13 @@ gantt
   del parque)* — la cifra más alta del viaje. **A mediodía no se hace safari: piscina** ○
 - ☀️ amanecer **06:12** · anochecer **19:06** (Halali) — *dentro del campamento, del ocaso al
   amanecer: la charca iluminada ES el plan de la noche*
-- 🚧 **Obras 2026**: el tramo va por desvíos (~90 km a 30–35 km/h, ~3 h) — como es día de safari
-  apenas molesta, pero **confirmar con NWR al reservar**
+- 🚧 **Obras — el detalle, actualizado 03/08**: están **asfaltando la pista Okaukuejo–Halali–
+  Namutoni**. En 2025 el MEFT desvió el tráfico **por la carretera de Gemsbokvlakte** y cerró la
+  salida de Okaukuejo hacia Halali; en 2026 seguía habiendo bypass. Las charcas de **Nebrownii y
+  Kapupuhedi quedaron inaccesibles** por la obra. ⚠️ **No hay nota oficial posterior a 2025:
+  llama a NWR Okaukuejo (+264 67 229 800) antes de ir.**
+- ✅ **Y el desvío no es un castigo**: pasa por **Gemsbokvlakte y luego Sueda–Salvadora–Charitsaub**,
+  que es el mejor tramo de borde de pan para **guepardo y león**
 - Charcas del camino · siesta en la piscina de Halali · charca de Halali al anochecer
 - 🛏️ **Camping Halali — N$920 (~€46)** ✅
 
@@ -289,7 +297,9 @@ gantt
 ### D12 · jue 12 — Etosha este · **~60–80 km de safari** ✅
 - 🌡️ **Etosha 37,1 / 18,9 ✅**
 - ☀️ amanecer **06:08** · anochecer **19:05**
-- **Fischer's Pan**, Chudop, Klein Namutoni — la esquina que casi nadie hace
+- **Fischer's Pan**, Chudop, Klein Namutoni — la esquina que casi nadie hace. *Ojo: Fischer's Pan
+  es el mejor sitio de aves acuáticas del parque **cuando hay agua**, y en noviembre está seco —
+  lo que va bien es Chudop (león fiable) y el **Dik-dik Drive** de Klein Namutoni* ◐
 - 🛏️ **Namutoni, segunda noche — N$920 (~€46)** ✅
 
 ### D13 · vie 13 — Etosha → Windhoek · **~550 km asfalto · ~5h30–6h** ○
@@ -331,8 +341,13 @@ gantt
   15:00** y con **reserva confirmada** (`06`). Horarios de puerta: las fuentes bailan — NWR/foros
   daban 07:30–19:00; guías recientes, Ugab 07:30–15:00 y Springbokwasser 07:30–17:00 (`13`). **En
   la práctica manda el 15:00.**
-- **Etosha** ✅/◐: puertas del parque y de los campamentos **del amanecer al ocaso** — tus días
-  (9–12 nov) ☀️: **~06:10 a ~19:05**. De noche te quedas dentro: la charca iluminada es el plan.
+- **Etosha** ✅ — **horarios oficiales de puerta**, de la tabla que publica el parque *(cambian cada
+  semana siguiendo al sol, y están puestas en cada puerta)*: **3–9 nov: 06:13–19:06** ·
+  **10–16 nov: 06:10–19:10**. Son **trece horas de parque al día**, casi dos más que en invierno.
+  *(Cuadra al minuto con el cálculo astronómico de arriba.)* Dentro: **60 km/h**, **20 en los
+  campamentos**, y **solo se puede bajar del coche dentro de los campamentos** — la única excepción
+  es el *koppie* de dolomita de **Halali**, que sí se puede pasear. De noche te quedas dentro: la
+  charca iluminada es el plan.
 - **Kiosco SIM de MTC en el aeropuerto** ◐: cierra **~21:00** — aterrizas a las 13:20, de sobra.
 - **Alcohol** ✅: bottle stores y secciones de licores **cierran domingos y festivos**. Tus
   domingos de viaje: **1 nov (el día que llegas) y 8 nov** — compra el sábado.

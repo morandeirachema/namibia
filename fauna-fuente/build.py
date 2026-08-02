@@ -12,7 +12,12 @@ except ImportError:          # aun sin el informe con fuentes
 
 man = json.load(open(os.path.join(HERE, "manifest.json")))
 
+AVISOS = {"\u26a0\ufe0f": '<b class="ojo">OJO</b> ', "\u26a0": '<b class="ojo">OJO</b> ',
+          "\U0001f6a7": '<b class="ojo">OBRAS</b> '}
+
 def negrita(t):
+    for e, r in AVISOS.items():          # los emoji salen como cuadrado: se cambian por etiqueta
+        t = t.replace(e + " ", r).replace(e, r)
     t = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t)   # negrita PRIMERO
     return re.sub(r"(?<![\w*])\*(?!\*)(.+?)(?<!\*)\*(?![\w*])", r"<em>\1</em>", t)
 
@@ -97,6 +102,8 @@ HTML = f"""<!doctype html>
             padding: 1.6mm 2mm; text-align: justify; }}
   .donde .et {{ font-weight: 700; color: #2d6a4f; text-transform: uppercase;
                 font-size: 6.8pt; letter-spacing: .09em; margin-right: 1mm; }}
+  .ojo {{ background: #9d0208; color: #fff; padding: 0 1mm; border-radius: .8mm;
+          font-size: 6.4pt; letter-spacing: .04em; }}
   .cred {{ margin: 1mm 0 0; padding: 0 2.4mm 1.6mm; font-size: 6pt; color: #8d867a; }}
 
   /* ---------- creditos ---------- */
@@ -131,7 +138,7 @@ HTML = f"""<!doctype html>
 <div class="intro">
   <p><strong>Cada ficha</strong> lleva el nombre en castellano, el científico y el inglés —el de los
   carteles del parque— y los rasgos que sirven para distinguirla <em>en el campo</em>.</p>
-  {INTRO_EXTRA}
+  {negrita(INTRO_EXTRA)}
 </div>
 <div class="grid">{''.join(tarjeta(m) for m in mam)}</div>
 

@@ -52,7 +52,7 @@ AVES = [
     ("azor-lagartijero", "Azor lagartijero claro", "Pale chanting goshawk", "Melierax canorus", "Pale chanting goshawk", None),
     ("alcaudon-carmesi", "Alcaudón de pecho carmesí", "Crimson-breasted shrike", "Laniarius atrococcineus", "Crimson-breasted shrike", None),
     ("buho-lacteo", "Búho lácteo de Verreaux", "Verreaux's eagle-owl", "Bubo lacteus", "Verreaux's eagle-owl", None),
-    ("abejaruco-carmin", "Abejaruco carmesí sureño", "Southern carmine bee-eater", "Merops nubicoides", "Southern carmine bee-eater", None),
+    ("abejaruco-europeo", "Abejaruco europeo", "European bee-eater", "Merops apiaster", "European bee-eater", None),
     ("ciguena-abdim", "Cigüeña de Abdim", "Abdim's stork", "Ciconia abdimii", "Abdim's stork", None),
     ("estornino-cabo", "Estornino brillante del Cabo", "Cape starling", "Lamprotornis nitens", "Cape starling", None),
     ("pigargo-vocinglero", "Pigargo vocinglero", "African fish eagle", "Icthyophaga vocifer", "African fish eagle", None),
