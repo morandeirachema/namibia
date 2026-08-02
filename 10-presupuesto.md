@@ -119,11 +119,13 @@ campings + Terrace Bay + el hotel del D13) **no tienen precio cerrado**.
 total: ~€570 pareja (~€285/persona)**, del que **~€318 (56 %) está verificado** y **Hoada suma ◐**.
 
 ```mermaid
-xychart-beta
-    title "Alojamiento 13 noches · pareja · EUR"
-    x-axis ["6 NWR verificadas", "7 restantes estimadas"]
-    y-axis "EUR" 0 --> 400
-    bar [318, 252]
+flowchart TD
+    T["<b>Alojamiento 13 noches · pareja · EUR · <i>EUR</i></b>"]
+    n0["6 NWR verificadas<br/>██████████████████ <b>318</b>"]
+    n1["7 restantes estimadas<br/>██████████████ <b>252</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 > Fuentes verificadas: [NWR Rack Rates 2026/2027 (PDF)](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf)
@@ -241,11 +243,27 @@ colchón **~N$3.000 (~€150) pareja / ~€75 por persona**. No verificado.
 ## 10. El total — pareja y por persona
 
 ```mermaid
-xychart-beta
-    title "Total del viaje · Variante E · por persona · EUR · camping"
-    x-axis ["Vuelo", "Coche", "Alojam.", "Combust.", "Comida", "Tasas", "Seguro", "Visado", "Misc+Act"]
-    y-axis "EUR" 0 --> 1500
-    bar [1366, 900, 285, 200, 140, 109, 113, 80, 113]
+flowchart TD
+    T["<b>Total del viaje · Variante E · por persona · EUR · camping · <i>EUR</i></b>"]
+    n0["Vuelo<br/>██████████████████ <b>1.366</b>"]
+    n1["Coche<br/>████████████ <b>900</b>"]
+    n2["Alojam.<br/>████ <b>285</b>"]
+    n3["Combust.<br/>███ <b>200</b>"]
+    n4["Comida<br/>██ <b>140</b>"]
+    n5["Tasas<br/>█ <b>109</b>"]
+    n6["Seguro<br/>█ <b>113</b>"]
+    n7["Visado<br/>█ <b>80</b>"]
+    n8["Misc+Act<br/>█ <b>113</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    n4 ~~~ n5
+    n5 ~~~ n6
+    n6 ~~~ n7
+    n7 ~~~ n8
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 **Desglose por persona (escenario camping):**
@@ -286,11 +304,15 @@ por cabeza:
   (~€98)** · seguro ~€113 · visado €80 · actividades ~€38 · misceláneos ~€75 → **~€2.195 (~N$43.900)**
 
 ```mermaid
-xychart-beta
-    title "Total por persona segun cuantos vais · EUR · camping"
-    x-axis ["2 personas", "3 personas", "4 personas"]
-    y-axis "EUR por persona" 0 --> 3500
-    bar [3306, 2935, 2750]
+flowchart TD
+    T["<b>Total por persona segun cuantos vais · EUR · camping</b>"]
+    n0["2 personas<br/>██████████████████ <b>3.306</b>"]
+    n1["3 personas<br/>████████████████ <b>2.935</b>"]
+    n2["4 personas<br/>███████████████ <b>2.750</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 - **2 personas** — **~€3.306 (~N$66.000)/persona** · grupo ~€6.612 (~N$132.000)

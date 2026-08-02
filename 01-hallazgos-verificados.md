@@ -89,11 +89,17 @@ aparte las tasas de camping.
 ### Asco (4 niveles)
 
 ```mermaid
-xychart-beta
-    title "Asco · franquicia que asumes segun el nivel · en NAD"
-    x-axis ["Standard (€0/dia)", "Reduced 1 (€8/dia)", "Reduced 2 (€15/dia)", "Super Cover (€25/dia)"]
-    y-axis "Franquicia en NAD" 0 --> 42000
-    bar [40000, 20000, 5000, 0]
+flowchart TD
+    T["<b>Asco · franquicia que asumes segun el nivel · en NAD</b>"]
+    n0["Standard (€0/dia)<br/>██████████████████ <b>40.000</b>"]
+    n1["Reduced 1 (€8/dia)<br/>█████████ <b>20.000</b>"]
+    n2["Reduced 2 (€15/dia)<br/>██ <b>5.000</b>"]
+    n3["Super Cover (€25/dia)<br/>█ <b>0</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 - **Standard** — €0/día · franquicia **N$40.000 (~€2.000)**
@@ -114,11 +120,17 @@ Vollkasko or All Risk insurance"* (no es comparable a un todo riesgo europeo).
 ### Savanna (Hilux/Ranger con camping)
 
 ```mermaid
-xychart-beta
-    title "Savanna · franquicia que asumes segun el nivel · en NAD"
-    x-axis ["Standard", "Opcion 1 (N$100/dia)", "Opcion 2 (N$150/dia)", "Opcion 3 (N$220/dia)"]
-    y-axis "Franquicia en NAD" 0 --> 37000
-    bar [35000, 17500, 8500, 2500]
+flowchart TD
+    T["<b>Savanna · franquicia que asumes segun el nivel · en NAD</b>"]
+    n0["Standard<br/>██████████████████ <b>35.000</b>"]
+    n1["Opcion 1 (N$100/dia)<br/>█████████ <b>17.500</b>"]
+    n2["Opcion 2 (N$150/dia)<br/>████ <b>8.500</b>"]
+    n3["Opcion 3 (N$220/dia)<br/>█ <b>2.500</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 - **Standard** — sin coste · franquicia **N$35.000 (~€1.750)**

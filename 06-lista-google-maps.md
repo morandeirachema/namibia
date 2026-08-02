@@ -447,11 +447,21 @@ Las entradas que sí encajan en la Opción A son **calderilla** comparadas con u
 El contraste, de un vistazo (N$/persona):
 
 ```mermaid
-xychart-beta
-    title "Coste por persona en N-dolar - visitas de camino"
-    x-axis ["Cape Cross", "Hoba", "Brandberg", "Waterberg dia", "Otjitotongwe", "Elizabeth Bay"]
-    y-axis "N$ por persona" 0 --> 3800
-    bar [150, 250, 270, 280, 610, 3630]
+flowchart TD
+    T["<b>Coste por persona en N-dolar - visitas de camino</b>"]
+    n0["Cape Cross<br/>█ <b>150</b>"]
+    n1["Hoba<br/>█ <b>250</b>"]
+    n2["Brandberg<br/>█ <b>270</b>"]
+    n3["Waterberg dia<br/>█ <b>280</b>"]
+    n4["Otjitotongwe<br/>███ <b>610</b>"]
+    n5["Elizabeth Bay<br/>██████████████████ <b>3.630</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    n4 ~~~ n5
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 > **Lectura:** Cape Cross, Brandberg y una tasa de parque son ~N$150–280 (~€7–14) por cabeza. El

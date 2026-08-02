@@ -137,12 +137,19 @@ gantt
 > aquí solo hay estación o secundaria que cite estación — **y donde no la hay, dice «sin dato»**.
 >
 > ```mermaid
-> xychart-beta
->     title "Noviembre donde duermes · maxima y minima media en C"
->     x-axis ["Windhoek", "Sesriem", "Walvis Bay", "Okaukuejo/Etosha"]
->     y-axis "grados C" 0 --> 40
->     bar [31.2, 32.5, 25.0, 37.1]
->     bar [16.3, 15.5, 12.7, 18.9]
+> flowchart TD
+>     T["<b>Noviembre donde duermes · media de máxima / mínima, en °C</b>"]
+>     n0["Walvis Bay · la costa<br/>████████████ <b>25,0</b> día / <b>12,7</b> noche"]
+>     n1["Windhoek<br/>███████████████ <b>31,2</b> día / <b>16,3</b> noche"]
+>     n2["Sesriem · el desierto<br/>████████████████ <b>32,5</b> día / <b>15,5</b> noche"]
+>     n3["Okaukuejo · Etosha<br/>██████████████████ <b>37,1</b> día / <b>18,9</b> noche"]
+>     T ~~~ n0
+>     n0 ~~~ n1
+>     n1 ~~~ n2
+>     n2 ~~~ n3
+>     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
+>     style n0 fill:#2d6a4f,color:#fff,stroke:#2d6a4f
+>     style n3 fill:#9d0208,color:#fff,stroke:#9d0208
 > ```
 >
 > **El viaje entero cabe en una frase: la costa fresca (25 °C), el desierto y la meseta calurosos

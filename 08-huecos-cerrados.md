@@ -26,13 +26,15 @@ Investigación cerrada el 17/07/2026 · **actualizada el 01/08/2026** (**Camp Ge
 > ### Las webs de safaris lo generalizan mal. En Etosha octubre SÍ es el pico. En el sur, NO.
 
 ```mermaid
-xychart-beta
-    title "Media de maximas en C · Etosha vs sur · oct / nov / dic"
-    x-axis ["Octubre", "Noviembre", "Diciembre"]
-    y-axis "grados C" 28 --> 39
-    line [38.0, 37.1, 35.4]
-    line [30.1, 32.2, 33.7]
-    line [31.1, 33.4, 35.3]
+flowchart TD
+    T["<b>Media de maximas en C · Etosha vs sur · oct / nov / dic · <i>grados C</i></b>"]
+    n0["Octubre<br/>██████████████████ <b>38 / 30,1 / 31,1</b>"]
+    n1["Noviembre<br/>██████████████████ <b>37,1 / 32,2 / 33,4</b>"]
+    n2["Diciembre<br/>█████████████████ <b>35,4 / 33,7 / 35,3</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 *Líneas: **Okaukuejo (Etosha)** baja de oct a dic · **Fish River (Karios)** sube · **Keetmanshoop** sube.*
@@ -165,13 +167,19 @@ Diciembre **32,1 °C**; mínimas de noviembre **16,3 °C**. Cálido de día pero
 noche**. Récord de noviembre 38,7 °C (2016).
 
 ```mermaid
-xychart-beta
-    title "Media de maximas C · costa y ejes del norte · sep-ene"
-    x-axis ["Sep", "Oct", "Nov", "Dic", "Ene"]
-    y-axis "grados C" 20 --> 40
-    line [22.7, 23.8, 25.0, 25.4, 26.1]
-    line [28.5, 30.5, 31.2, 32.1, 31.1]
-    line [35.8, 37.8, 37.1, 35.6, 35.3]
+flowchart TD
+    T["<b>Media de maximas C · costa y ejes del norte · sep-ene · <i>grados C</i></b>"]
+    n0["Sep<br/>████████████████ <b>22,7 / 28,5 / 35,8</b>"]
+    n1["Oct<br/>████████████████ <b>23,8 / 30,5 / 37,8</b>"]
+    n2["Nov<br/>█████████████████ <b>25 / 31,2 / 37,1</b>"]
+    n3["Dic<br/>██████████████████ <b>25,4 / 32,1 / 35,6</b>"]
+    n4["Ene<br/>██████████████████ <b>26,1 / 31,1 / 35,3</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 *Líneas de abajo arriba: **Walvis Bay/costa** (templada, sube despacio) · **Windhoek** (sube a dic) ·
@@ -278,11 +286,23 @@ Media de máximas de noviembre (GSOD, sobre CSV descargados, filtro de calidad �
 - **Keetmanshoop** (68312): **34,7 °C** (validado arriba).
 
 ```mermaid
-xychart-beta
-    title "Media de maximas nov en C · GSOD 2000-2024 · costa a interior"
-    x-axis ["Walvis (costa)", "Hosea Kutako", "Windhoek Eros", "Keetmanshoop", "Outjo", "Okaukuejo", "Mariental"]
-    y-axis "grados C" 20 --> 40
-    bar [25.0, 32.1, 32.9, 34.7, 35.6, 37.1, 37.0]
+flowchart TD
+    T["<b>Media de maximas nov en C · GSOD 2000-2024 · costa a interior · <i>grados C</i></b>"]
+    n0["Walvis (costa)<br/>████████████ <b>25</b>"]
+    n1["Hosea Kutako<br/>████████████████ <b>32,1</b>"]
+    n2["Windhoek Eros<br/>████████████████ <b>32,9</b>"]
+    n3["Keetmanshoop<br/>█████████████████ <b>34,7</b>"]
+    n4["Outjo<br/>█████████████████ <b>35,6</b>"]
+    n5["Okaukuejo<br/>██████████████████ <b>37,1</b>"]
+    n6["Mariental<br/>██████████████████ <b>37</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    n4 ~~~ n5
+    n5 ~~~ n6
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 *Walvis y Okaukuejo son las cifras GHCN ya cerradas arriba, puestas de referencia; las otras cinco son
@@ -387,11 +407,25 @@ el error del reanálisis antes de fiarse de los puntos sin estación:
   sin cifra fiable** y no se inventa.
 
 ```mermaid
-xychart-beta
-    title "Media de maximas nov · reanalisis ERA5 2013-2021 · grados C"
-    x-axis ["Luderitz", "WalvisBay(v)", "Windhoek(v)", "Ai-Ais fondo", "Hobas", "Sesriem", "Keetmans(v)", "Okaukuejo(v)"]
-    y-axis "grados C" 20 --> 38
-    bar [24.5, 25.8, 31.0, 32.0, 32.2, 32.5, 33.9, 35.2]
+flowchart TD
+    T["<b>Media de maximas nov · reanalisis ERA5 2013-2021 · grados C</b>"]
+    n0["Luderitz<br/>█████████████ <b>24,5</b>"]
+    n1["WalvisBay(v)<br/>█████████████ <b>25,8</b>"]
+    n2["Windhoek(v)<br/>████████████████ <b>31</b>"]
+    n3["Ai-Ais fondo<br/>████████████████ <b>32</b>"]
+    n4["Hobas<br/>████████████████ <b>32,2</b>"]
+    n5["Sesriem<br/>█████████████████ <b>32,5</b>"]
+    n6["Keetmans(v)<br/>█████████████████ <b>33,9</b>"]
+    n7["Okaukuejo(v)<br/>██████████████████ <b>35,2</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    n4 ~~~ n5
+    n5 ~~~ n6
+    n6 ~~~ n7
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 *Las (v) son puntos de control con estación; las otras cuatro (Lüderitz, Ai-Ais, Hobas, Sesriem) son los
@@ -434,11 +468,17 @@ fuera de la ruta Variante E**, y Walvis Bay sí está dentro.
   es raro** aquí en noviembre.
 
 ```mermaid
-xychart-beta
-    title "Viento en Walvis Bay en noviembre · km/h · GSOD 2005-2024"
-    x-axis ["medio 24h", "max sostenido tipico", "dia mas ventoso", "racha record"]
-    y-axis "km/h" 0 --> 80
-    bar [13, 25, 55, 78]
+flowchart TD
+    T["<b>Viento en Walvis Bay en noviembre · km/h · GSOD 2005-2024</b>"]
+    n0["medio 24h<br/>███ <b>13</b>"]
+    n1["max sostenido tipico<br/>██████ <b>25</b>"]
+    n2["dia mas ventoso<br/>█████████████ <b>55</b>"]
+    n3["racha record<br/>██████████████████ <b>78</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 **Lectura operativa ✅:** en Walvis Bay/Swakopmund en noviembre, la **tienda de techo es viable la
@@ -777,11 +817,17 @@ Estas cotizan por **unidad o habitación doble** (comparables entre sí y con el
   (~€73–82 · ~N$1.460–1.640). ○ *(tripadvisor / expedia, «desde»)*
 
 ```mermaid
-xychart-beta
-    title "Gama media · doble para 2 · EUR/noche · suelo de agregador, no rack verificado"
-    x-axis ["Swakopmund gh", "Desert Quiver", "Desert Camp", "Nest Luderitz"]
-    y-axis "EUR/noche los 2" 0 --> 200
-    bar [78, 130, 149, 150]
+flowchart TD
+    T["<b>Gama media · doble para 2 · EUR/noche · suelo de agregador, no rack verificado</b>"]
+    n0["Swakopmund gh<br/>█████████ <b>78</b>"]
+    n1["Desert Quiver<br/>████████████████ <b>130</b>"]
+    n2["Desert Camp<br/>██████████████████ <b>149</b>"]
+    n3["Nest Luderitz<br/>██████████████████ <b>150</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 *Orden de magnitud del nivel «gama media» de habitación: **~€75–170/noche los 2**. Frente a los **~€46 los 2**

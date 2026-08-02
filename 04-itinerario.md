@@ -179,11 +179,25 @@ y ten en cuenta que la grava real va a 60–70, no a 80. La columna «día reali
 colchón y la regla de las 18:00.
 
 ```mermaid
-xychart-beta
-    title "Horas de conduccion por etapa · a velocidad de seguro"
-    x-axis ["WH-Keetm 500 asf", "Keetm-Hobas 150", "Hobas-Luderitz 350", "Aus-Sesriem D707 350", "Sesriem-Swakop 300", "Swakop-Twyfel 370", "Palmwag-Etosha 385", "Etosha-WH 440 asf"]
-    y-axis "horas de transito" 0 --> 8
-    bar [5.0, 2.3, 4.6, 4.4, 3.8, 5.0, 5.2, 4.4]
+flowchart TD
+    T["<b>Horas de conduccion por etapa · a velocidad de seguro</b>"]
+    n0["WH-Keetm 500 asf<br/>█████████████████ <b>5</b>"]
+    n1["Keetm-Hobas 150<br/>████████ <b>2,3</b>"]
+    n2["Hobas-Luderitz 350<br/>████████████████ <b>4,6</b>"]
+    n3["Aus-Sesriem D707 350<br/>███████████████ <b>4,4</b>"]
+    n4["Sesriem-Swakop 300<br/>█████████████ <b>3,8</b>"]
+    n5["Swakop-Twyfel 370<br/>█████████████████ <b>5</b>"]
+    n6["Palmwag-Etosha 385<br/>██████████████████ <b>5,2</b>"]
+    n7["Etosha-WH 440 asf<br/>███████████████ <b>4,4</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    n4 ~~~ n5
+    n5 ~~~ n6
+    n6 ~~~ n7
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 Cómo salen (redondeo al alza):

@@ -45,11 +45,21 @@ flowchart LR
 ## 🏕️ Camping — por persona y noche
 
 ```mermaid
-xychart-beta
-    title "Camping NWR · por persona y noche · nov 2026 - jun 2027 · en NAD"
-    x-axis ["Khorixas", "Waterberg", "Okaukuejo/Halali/Namutoni", "Hobas", "Olifantsrus", "Sesriem"]
-    y-axis "NAD por persona" 0 --> 700
-    bar [330, 430, 460, 480, 510, 670]
+flowchart TD
+    T["<b>Camping NWR · por persona y noche · nov 2026 - jun 2027 · en NAD</b>"]
+    n0["Khorixas<br/>█████████ <b>330</b>"]
+    n1["Waterberg<br/>████████████ <b>430</b>"]
+    n2["Okaukuejo/Halali/Namutoni<br/>████████████ <b>460</b>"]
+    n3["Hobas<br/>█████████████ <b>480</b>"]
+    n4["Olifantsrus<br/>██████████████ <b>510</b>"]
+    n5["Sesriem<br/>██████████████████ <b>670</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    n4 ~~~ n5
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 Precios **nov 2026 – jun 2027** (nuestra ventana) → *jul–oct 2027*:
@@ -73,11 +83,29 @@ Las parcelas admiten **máximo 8 personas**, pero el precio es **por persona**: 
 ## 🛖 Chalets y habitaciones — por persona en doble, con desayuno (nov 2026 – jun 2027)
 
 ```mermaid
-xychart-beta
-    title "Alojamiento NWR · 2 personas por noche · nov 2026 - jun 2027 · en NAD"
-    x-axis ["Halali doble", "Halali chalet", "Namutoni doble", "Okaukuejo doble", "Namutoni chalet", "Okaukuejo bush", "Okaukuejo charco", "Dolomite MP", "Okaukuejo Premier", "Sossus Dune MP"]
-    y-axis "NAD · 2 personas" 0 --> 9000
-    bar [2800, 3080, 3680, 3800, 4320, 4420, 4760, 6360, 7920, 8060]
+flowchart TD
+    T["<b>Alojamiento NWR · 2 personas por noche · nov 2026 - jun 2027 · en NAD</b>"]
+    n0["Halali doble<br/>██████ <b>2.800</b>"]
+    n1["Halali chalet<br/>███████ <b>3.080</b>"]
+    n2["Namutoni doble<br/>████████ <b>3.680</b>"]
+    n3["Okaukuejo doble<br/>████████ <b>3.800</b>"]
+    n4["Namutoni chalet<br/>██████████ <b>4.320</b>"]
+    n5["Okaukuejo bush<br/>██████████ <b>4.420</b>"]
+    n6["Okaukuejo charco<br/>███████████ <b>4.760</b>"]
+    n7["Dolomite MP<br/>██████████████ <b>6.360</b>"]
+    n8["Okaukuejo Premier<br/>██████████████████ <b>7.920</b>"]
+    n9["Sossus Dune MP<br/>██████████████████ <b>8.060</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    n4 ~~~ n5
+    n5 ~~~ n6
+    n6 ~~~ n7
+    n7 ~~~ n8
+    n8 ~~~ n9
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 **Okaukuejo**
@@ -105,11 +133,21 @@ xychart-beta
 ## 💰 La bajada de octubre a noviembre es mayor en alojamiento que en el coche
 
 ```mermaid
-xychart-beta
-    title "Okaukuejo · misma unidad · 2 personas por noche · en NAD"
-    x-axis ["Camping oct", "Camping nov", "Doble oct", "Doble nov", "Charco oct", "Charco nov"]
-    y-axis "NAD · 2 personas" 0 --> 7500
-    bar [1120, 920, 4760, 3800, 6960, 4760]
+flowchart TD
+    T["<b>Okaukuejo · misma unidad · 2 personas por noche · en NAD</b>"]
+    n0["Camping oct<br/>███ <b>1.120</b>"]
+    n1["Camping nov<br/>██ <b>920</b>"]
+    n2["Doble oct<br/>████████████ <b>4.760</b>"]
+    n3["Doble nov<br/>██████████ <b>3.800</b>"]
+    n4["Charco oct<br/>██████████████████ <b>6.960</b>"]
+    n5["Charco nov<br/>████████████ <b>4.760</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    n4 ~~~ n5
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 Misma unidad, mismo campamento, una semana de diferencia:

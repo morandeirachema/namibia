@@ -51,11 +51,19 @@ Del informe estadístico de la NRSC (2019), sobre 18.665 accidentes y 413 muerto
 **Y se concentra justo en nuestra ruta.** Porcentaje de accidentes que son vuelcos, por región:
 
 ```mermaid
-xychart-beta
-    title "Vuelcos como % de todos los accidentes registrados, por region"
-    x-axis ["Khomas (Windhoek)", "Erongo (Swakopmund)", "Kunene (Damaraland)", "Karas (Fish River)", "Hardap (Sossusvlei)"]
-    y-axis "% de accidentes que son vuelcos" 0 --> 20
-    bar [1.2, 5.8, 7.4, 13.3, 18.9]
+flowchart TD
+    T["<b>Vuelcos como % de todos los accidentes registrados, por region</b>"]
+    n0["Khomas (Windhoek)<br/>█ <b>1,2</b>"]
+    n1["Erongo (Swakopmund)<br/>██████ <b>5,8</b>"]
+    n2["Kunene (Damaraland)<br/>███████ <b>7,4</b>"]
+    n3["Karas (Fish River)<br/>█████████████ <b>13,3</b>"]
+    n4["Hardap (Sossusvlei)<br/>██████████████████ <b>18,9</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 - **Hardap** (Sesriem/Sossusvlei): 119 de 628 = **18,9 %** — casi **1 de cada 5**
@@ -480,12 +488,17 @@ Cifras **de estación**, no de folleto *(NOAA GHCN y ERA5 — el detalle y la va
 día a día de la ruta, en `11`)*:
 
 ```mermaid
-xychart-beta
-    title "Media de maximas y minimas de noviembre · donde duermes"
-    x-axis ["Windhoek", "Sesriem", "Costa (Walvis)", "Etosha"]
-    y-axis "grados C" 0 --> 40
-    bar [31.2, 32.5, 25.0, 37.1]
-    bar [16.3, 15.5, 12.7, 18.9]
+flowchart TD
+    T["<b>Media de maximas y minimas de noviembre · donde duermes · <i>grados C</i></b>"]
+    n0["Windhoek<br/>███████████████ <b>31,2 / 16,3</b>"]
+    n1["Sesriem<br/>████████████████ <b>32,5 / 15,5</b>"]
+    n2["Costa (Walvis)<br/>████████████ <b>25 / 12,7</b>"]
+    n3["Etosha<br/>██████████████████ <b>37,1 / 18,9</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 - **Windhoek** ✅ — 31,2 máx / **16,3 mín** *(GHCN 68110, 1957–2025)*

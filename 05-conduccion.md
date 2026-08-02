@@ -23,11 +23,13 @@ Todo lo que la investigación sacó sobre conducción, con las cifras completas 
 Informe **NRSC «Road Crashes in Namibia» 2019**, sobre **18.665 accidentes** y **413 muertos**:
 
 ```mermaid
-xychart-beta
-    title "Letalidad por tipo de accidente · muertos por cada 100 accidentes"
-    x-axis ["Vuelco de vehiculo unico", "Choque frontal/alcance"]
-    y-axis "muertos por 100 accidentes" 0 --> 20
-    bar [17.7, 0.64]
+flowchart TD
+    T["<b>Letalidad por tipo de accidente · muertos por cada 100 accidentes</b>"]
+    n0["Vuelco de vehiculo unico<br/>██████████████████ <b>17,7</b>"]
+    n1["Choque frontal/alcance<br/>█ <b>0,64</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 - **Vuelco de vehículo único**: **857 accidentes (4,6 %)** → **152 muertos = 36,8 % de TODOS los
@@ -44,11 +46,19 @@ xychart-beta
 Porcentaje de accidentes de cada región que son vuelcos (tabla 5 cruzada):
 
 ```mermaid
-xychart-beta
-    title "Vuelcos como % de los accidentes de la region"
-    x-axis ["Khomas Windhoek", "Erongo Swakopmund", "Kunene Damaraland", "Karas Fish River", "Hardap Sossusvlei"]
-    y-axis "%" 0 --> 20
-    bar [1.2, 5.8, 7.4, 13.3, 18.9]
+flowchart TD
+    T["<b>Vuelcos como % de los accidentes de la region · <i>%</i></b>"]
+    n0["Khomas Windhoek<br/>█ <b>1,2</b>"]
+    n1["Erongo Swakopmund<br/>██████ <b>5,8</b>"]
+    n2["Kunene Damaraland<br/>███████ <b>7,4</b>"]
+    n3["Karas Fish River<br/>█████████████ <b>13,3</b>"]
+    n4["Hardap Sossusvlei<br/>██████████████████ <b>18,9</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 - **Hardap** (Sesriem/Sossusvlei): **119 de 628 = 18,9 %** → **1 de cada 5**

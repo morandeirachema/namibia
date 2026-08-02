@@ -66,18 +66,24 @@ timeline
 ```
 
 ```mermaid
-xychart-beta
-    title "Okaukuejo · lluvia mensual observada en mm · caja CHIRPS"
-    x-axis ["Oct", "Nov", "Dic", "Ene", "Feb"]
-    y-axis "mm" 0 --> 110
-    line [0, 9.2, 15.6, 62.6, 105.2]
-    line [7, 11.6, 19.7, 72.4, 9.7]
-    line [0, 29.2, 28.1, 47.2, 48.9]
-    line [8.7, 18.3, 83, 42.5, 79.1]
+flowchart TD
+    T["<b>Okaukuejo · lluvia mensual observada, en mm · caja CHIRPS</b><br/>la barra es la MEDIA de las 4 temporadas; detrás, el año a año"]
+    n0["<b>OCT</b> · media 3,9 mm<br/>█<br/>2021/22 0 · 2022/23 7 · 2023/24 0 · 2025/26 8,7"]
+    n1["<b>NOV</b> ← tu mes · media 17,1 mm<br/>████<br/>2021/22 9,2 · 2022/23 11,6 · 2023/24 29,2 · 2025/26 18,3"]
+    n2["<b>DIC</b> · media 36,6 mm<br/>█████████<br/>2021/22 15,6 · 2022/23 19,7 · 2023/24 28,1 · 2025/26 83"]
+    n3["<b>ENE</b> · media 56,2 mm<br/>██████████████<br/>2021/22 62,6 · 2022/23 72,4 · 2023/24 47,2 · 2025/26 42,5"]
+    n4["<b>FEB</b> · media 60,7 mm<br/>███████████████<br/>2021/22 105,2 · 2022/23 9,7 · 2023/24 48,9 · 2025/26 79,1"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
+    style n1 fill:#2d6a4f,color:#fff,stroke:#2d6a4f
 ```
 
-*Líneas, por orden: 2021/22 · 2022/23 · 2023/24 · 2025/26. En las cuatro, octubre y noviembre son
-planos y el despegue llega en diciembre o enero.*
+*En las cuatro temporadas, octubre y noviembre son planos y el despegue llega en diciembre o enero.
+**Noviembre —tu mes— promedia 17 mm, y en dos de las cuatro temporadas no pasó de 12.***
 
 ---
 
@@ -109,11 +115,19 @@ planos y el despegue llega en diciembre o enero.*
 Con estaciones SASSCAL **reales**, misma temporada:
 
 ```mermaid
-xychart-beta
-    title "Temporada 2021/22 · primer dia con 10 mm o mas · dias desde el 1 de octubre"
-    x-axis ["Waterberg", "Grootfontein", "Okaukuejo CHIRPS", "Khorixas", "Kaoko Otavi"]
-    y-axis "dias desde el 1 oct" 0 --> 140
-    bar [19, 27, 109, 111, 132]
+flowchart TD
+    T["<b>Temporada 2021/22 · primer dia con 10 mm o mas · dias desde el 1 de octubre</b>"]
+    n0["Waterberg<br/>███ <b>19</b>"]
+    n1["Grootfontein<br/>████ <b>27</b>"]
+    n2["Okaukuejo CHIRPS<br/>███████████████ <b>109</b>"]
+    n3["Khorixas<br/>███████████████ <b>111</b>"]
+    n4["Kaoko Otavi<br/>██████████████████ <b>132</b>"]
+    T ~~~ n0
+    n0 ~~~ n1
+    n1 ~~~ n2
+    n2 ~~~ n3
+    n3 ~~~ n4
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 - **Waterberg** (202 km al SE): **20 de octubre de 2021** — oct 42,4 mm
