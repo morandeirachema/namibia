@@ -166,9 +166,10 @@ permitted»*.
 - Los accidentes **pican entre las 16:00 y las 19:59**: **4.811** (texto del propio informe:
   *«Most crashes occurred between 16:00 - 19:59 (4.811)»*)
 - Esa franja de **cuatro horas** concentra **121 de los 413 muertos = 29,3 %**
-- En tu ventana (1–14 nov) anochece entre las **~19:04** (Windhoek) y las **~19:20** (la costa)
-  *(cálculo astronómico, ver `11`)* → **la franja más mortal del país coincide con tu último
-  tramo del día**
+- Anochece **~19:03–19:20** en tu ventana (**1–15 nov**): interior (Windhoek/Etosha) ~19:03–19:12 y
+  **la costa hasta ~19:20** — ocaso recalculado en `08` para las fechas reales y desglosado día a
+  día en `11` → **la franja más mortal del país coincide con tu último tramo del día**, y a
+  comienzos de noviembre llega **~15 min antes** que a fin de mes
 
 ❌ **Lo que NO puedes citar** (refutado 0–2): que el FCDO desaconseje conducir de noche **todo el
 año**. Su frase *«avoid driving at night outside towns, as wildlife and livestock are serious
@@ -179,7 +180,8 @@ El consejo es bueno; la cita, mal usada.
 > **Las distancias namibias te mienten.** Un día de 300 km que parece de 3,5 h son **5–6 h** a
 > velocidad real de grava con paradas de fotos, y **cualquier pinchazo suma una hora**.
 >
-> **Planifica llegar 1 hora antes del ocaso** (finales de noviembre: apunta a las **18:00**).
+> **Planifica llegar 1 hora antes del ocaso** (en tu ventana de 1–15 nov el ocaso del interior es
+> ~19:05, así que **apunta a las 18:00**; en las etapas largas de los primeros días, mejor **17:30**).
 > Si vas tarde, **párate y llega mañana**: una noche de alojamiento imprevista no vale nada al lado
 > del riesgo.
 

@@ -212,13 +212,17 @@ La ficha del MAEC se actualizó el 26/05/2026 — tiene ~7 semanas.
 
 **No uses ninguna cifra que encuentres por internet basada en la tabla de 2021.**
 
-- Parques premium (Etosha, Namib-Naukluft/Sossusvlei, Ai-Ais/Fish River Canyon):
-  **N$150 → ~N$280 (~€14) por adulto extranjero y día** (N$140 entrada + N$140 conservación)
-- Parques estándar: N$100 → N$200 (~€10). Menores de 8 años exentos.
+- Parques **premium** (Etosha, Namib-Naukluft/Sossusvlei, **Skeleton Coast**, Waterberg y otros;
+  la ruta de pago cae ENTERA en premium): **N$150 → ~N$280 (~€14) por adulto extranjero y día**
+  (N$140 entrada + N$140 conservación) ◐
+- Parques **estándar**: N$100 → N$200 (~€10). Menores de 8 años exentos.
+- **Base legal**: Nature Conservation Ordinance de 1975; es la **primera revisión desde 2021** (por eso
+  las cifras de blogs viejos están caducadas). ◐
 
-**Mecanismo (verificado literal del PDF del MEFT):** *"Fees are valid for 24 hours period
-beginning at the time of entry, per person, per park... Minimum amount payable is for 24 hours
-(1 day), and thereafter in units of 24 hours."* Una estancia de 3 días en Etosha se cobra **3 veces**.
+**Mecanismo (citado literal — vía fragmento de búsqueda; el PDF sigue sin poder abrirse, 403):**
+*"Fees are valid for 24 hours period beginning at the time of entry, per person, per park... Minimum
+amount payable is for 24 hours (1 day), and thereafter in units of 24 hours."* Una estancia de 3 días
+en Etosha se cobra **3 veces**.
 
 **Presupuestar: ~N$280 (~€14)/adulto/día + ~N$60 (~€3)/vehículo ≈ N$620 (~€31)/día**
 para dos adultos y coche, en cada uno de Etosha, Sossusvlei y Fish River Canyon.
@@ -226,7 +230,13 @@ para dos adultos y coche, en cada uno de Etosha, Sossusvlei y Fish River Canyon.
 Ambigüedad menor: 24 h desde la entrada frente a la práctica real en la puerta — algunos
 operadores cobran por día natural y facturarían 4 unidades por una estancia de 3 noches.
 
+> ⚠️ **Estado de verificación (honesto):** ◐, no ✅. El baremo lo confirman DOS páginas oficiales del
+> MEFT (PDF de tarifas + nota de prensa `news/199`) además de secundarias concordantes, **pero ninguna
+> se pudo ABRIR** (WebFetch da 403); la extracción viene de fragmentos de búsqueda. **No se localizó
+> Government Gazette numerado.** Detalle en `08`. **Confírmalo por email antes de cerrar presupuesto.**
+
 - https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF
+- https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/
 - https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent
 
 ## 8. Vuelos — poco sólido de momento
@@ -255,14 +265,17 @@ flowchart TD
     end
     subgraph DUDOSAS["Refutadas 1-2 · sin resolver"]
         H["Ethiopian MAD-WDH<br/>desde €1.029"]
-        I["Permiso internacional<br/>obligatorio"]
+    end
+    subgraph CERRADO["Antes bloqueaba · ahora resuelto"]
+        I["Permiso internacional<br/>con carnet espanol SI hace falta"]
     end
     G --> AVISO["⚠️ Refutado NO significa<br/>que Etosha este libre<br/>de malaria: es DESCONOCIDO"]
-    I --> BLOQ["🛑 Bloquea la reserva<br/>si resulta ser cierto"]
+    I --> OK["✅ Resuelto en 03: IDP o<br/>traduccion jurada al ingles"]
     style MUERTAS fill:#9d0208,color:#fff
     style DUDOSAS fill:#e85d04,color:#000
+    style CERRADO fill:#2d6a4f,color:#fff
     style AVISO fill:#9d0208,color:#fff
-    style BLOQ fill:#9d0208,color:#fff
+    style OK fill:#2d6a4f,color:#fff
 ```
 
 **Refutadas por unanimidad (0–3):**
@@ -286,26 +299,40 @@ flowchart TD
 
 - **Ethiopian publica MAD–WDH ida y vuelta desde €1.029** → las fechas de muestra eran de
   septiembre de 2026, no de nuestro viaje.
-- **El permiso internacional de conducir es obligatorio** → 🛑 **sin resolver, y bloquea la
-  reserva si es cierto.**
+
+**Resuelto (antes bloqueaba la reserva):**
+
+- **El permiso internacional de conducir** → ✅ **cerrado**. Con un carnet **español** (que no está
+  en inglés) **sí hace falta** llevar el permiso internacional de conducir, o una traducción jurada
+  al inglés. No es un capricho: lo pide la normativa namibia, la empresa de alquiler y, en caso de
+  siniestro, el seguro. Trámite y coste (DGT) en `03-guia-preparacion.md`. Marcado **◐** porque las
+  páginas primarias no se pudieron descargar; ver ahí el detalle de evidencia.
 
 ---
 
-# 🕳️ Huecos — NO investigados, en blanco a propósito
+# 🕳️ Huecos — la segunda pasada YA está cerrada
 
-Estos no tienen ni una afirmación superviviente. Hay una segunda pasada en curso.
+Esta sección listaba los huecos que en su día quedaron **en blanco a propósito**. La segunda
+pasada ha terminado: los cuatro están resueltos en sus propios documentos. Se deja aquí el
+registro de qué se cerró y dónde, para poder auditarlo.
 
-1. **Fechas por criterios ambientales** — inicio de las lluvias, caída de avistamientos en
-   Etosha, calor en Sossusvlei / Fish River Canyon / Ai-Ais, afluencia. *Tenemos la mitad
-   económica de la decisión de noviembre (~€870, ~N$17.400) y nada de la mitad ambiental.*
-2. **Itinerario día a día y viabilidad** — sobre todo si Etosha (norte) + Fish River Canyon y
-   Lüderitz (sur profundo) + Sossusvlei + costa caben en 14 días a 80 km/h en pista. La etapa
-   de Damaraland además tiene los bajos sin cobertura incluso en el nivel más alto de seguro.
+1. **Fechas por criterios ambientales** — inicio de las lluvias, calor en Sossusvlei / Fish
+   River Canyon / Ai-Ais, afluencia. → **Cerrado** en `08-huecos-cerrados.md`: temperaturas
+   reales de NOAA GHCN-Daily y SASSCAL (las anteriores, de webs de safaris, fueron refutadas
+   0–3). Etosha **sí** hace pico en octubre; el sur, no. La mitad ambiental de la decisión de
+   noviembre ya está sobre la mesa junto a la económica (~€870, ~N$17.400).
+2. **Itinerario día a día y viabilidad** — si Etosha + sur profundo + Sossusvlei + costa caben
+   en 14 días a 80 km/h en pista. → **Cerrado** en `04-itinerario.md` (veredicto: **NO cabe
+   todo**; techo sano ~300–350 km/día) y desarrollado día a día en `11-itinerarios-dia-a-dia.md`.
+   La ruta vigente es la **Variante E** (la clásica del norte, sin el sur). La etapa de
+   Damaraland sigue con los bajos sin cobertura incluso en el nivel más alto de seguro.
 3. **Precios de alojamiento** — campings NWR (Okaukuejo/Halali/Namutoni), Sesriem, Hobas,
-   lodges de gama media; y antelación de reserva para oct–dic. *(Parcialmente resuelto en
-   `02-alojamiento-y-tasas.md`.)*
-4. **Presupuesto total** — no se puede calcular sin el punto 3.
-5. **Permiso internacional de conducir**, malaria en Etosha en nov–dic, certificado de fiebre
+   lodges de gama media; y antelación de reserva para oct–dic. → **Cerrado** en
+   `02-alojamiento-y-tasas.md` y `08-huecos-cerrados.md`.
+4. **Presupuesto total** — → **Cerrado** en `10-presupuesto.md`: ya calculado sobre la
+   distancia real de la Variante E y las reservas cerradas (vuelo, coche y seguro).
+5. ~~**Permiso internacional de conducir**~~ → **resuelto** (ver arriba y `03`), ~~malaria en
+   Etosha~~ → **resuelta** (sí es zona de riesgo, CDC, en `03`), certificado de fiebre
    amarilla al hacer escala en Adís Abeba (Etiopía es endémica), SIM/eSIM, efectivo vs tarjeta,
    seguridad.
 

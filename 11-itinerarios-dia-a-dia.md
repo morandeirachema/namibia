@@ -225,8 +225,10 @@ gantt
   confirmada de Terrace Bay** — sin ella no se entra (el permiso de tránsito obliga a salir el
   mismo día)
 - Dentro del parque: **60 km/h** · 🎫 Skeleton Coast ~N$620/24 h
-- 🛏️ **Terrace Bay Resort (NWR)** ⚠️ *precio sin verificar* — dormir en la Costa de los
-  Esqueletos, con la niebla y el Atlántico rugiendo
+- 🛏️ **Terrace Bay Resort (NWR)** — dormir en la Costa de los Esqueletos, con la niebla y el
+  Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping.** Suelo publicado
+  (doméstico/SADC, temporada baja): **N$1.440–1.920/persona DBB (~€72–96)**; como extranjeros en
+  noviembre, **más** ◐ — la noche más cara de la ruta *(tarifa internacional nov 2026 aún ❌; ver `08`)*
 - *Variante fácil: saltarse Terrace Bay, dormir en Henties/Swakopmund y entrar a Damaraland al día
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 
@@ -241,8 +243,9 @@ gantt
 - ⚠️ **Damaraland: los bajos son el punto delicado del seguro** — la referencia de Asco los
   excluía aquí, y **cómo los trata el Premium Cover de tu Namibia2Go Budget sigue SIN confirmar:
   pregúntalo por escrito al reservar**. Despacio en las piedras.
-- 🛏️ **Hoada Campsite** (zona Grootberg) ⚠️ *precio sin verificar* — el blog lo llama su
-  campamento más bonito del viaje: rocas de granito, duchas entre peñas, cielo estrellado
+- 🛏️ **Hoada Campsite** (zona Grootberg) — el blog lo llama su campamento más bonito del viaje:
+  rocas de granito, duchas entre peñas, cielo estrellado. **N$271–366/persona según temporada
+  (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `08`)*
 
 ### D9 · lun 9 — Hoada → Etosha (Okaukuejo) · **~315 km · ~4h** ◐
 - 🌡️ **Okaukuejo, máxima media de noviembre: 37,1 °C** ✅ *(NOAA GHCN-Daily, serie 2010–2021,
@@ -490,7 +493,7 @@ gantt
 
 ### D9 · lun 9 — Swakopmund → Spitzkoppe · **140–150 km · ~1h45** ◐
 - Día corto a propósito: tarde de arcos de granito y **noche de estrellas**
-- 🛏️ Spitzkoppe Community Campsite ⚠️ *precio sin verificar*
+- 🛏️ **Spitzkoppe Community Campsite — N$270/persona → N$540/noche (~€27)** ◐ *(incluye la entrada a la reserva, N$130 pp; solo efectivo en N$ o ZAR)*
 
 ### D10 · mar 10 — Spitzkoppe → Etosha (Okaukuejo) · **~430–450 km · ~5h** ○
 - Ruta rápida por Usakos–Otjiwarongo–Outjo (mayoría asfalto) → puerta de **Andersson**
@@ -749,7 +752,7 @@ gantt
 - 🏔️ **El "Matterhorn de Namibia"**. Granito, arcos, pinturas rupestres.
 - 🌌 **Cielo oscuro espectacular** — es de los mejores sitios del viaje para estrellas.
 - Día corto: **llegas con luz de sobra para la tarde de fotos**.
-- 🛏️ **Spitzkoppe Community Campsite** ⚠️ *precio sin verificar*
+- 🛏️ **Spitzkoppe Community Campsite — N$270/persona → N$540/noche (~€27)** ◐ *(incluye la entrada a la reserva, N$130 pp; solo efectivo en N$ o ZAR)*
 
 ### D13 · mié 2 dic — Spitzkoppe → Windhoek · **~280 km asfalto** ◐
 - Vuelta cómoda por Usakos y Karibib.
@@ -917,8 +920,11 @@ flowchart TD
 
 - ✅ **Vuelos** — ya hay presupuesto real: €1.366 (~N$27.300) p.p., 31 oct – 14 nov. *Pendiente
   solo de emitir el billete*
-- ❌ **Cuatro noches sin precio** — Terrace Bay, Spreetshoogte, Walvis ×2 y Hoada *(más el hotel
-  del D13)*; los lodges privados siguen sin precio/noche (Gondwana bloqueó el acceso)
+- ❌ **Tres noches sin precio** — Terrace Bay, Spreetshoogte *(candidato: Camp Gecko, banda
+  contradictoria)* y Walvis Bay ×2, más el hotel del D13. **Hoada ya tiene precio** ◐ (arriba), y
+  los lodges privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También
+  cerrado el **camping de Spitzkoppe: N$270/persona → N$540/noche (~€27), entrada incluida** ◐
+  *(fuera de la ruta E)*
 - ⚠️ **Etapas con km sin verificar** — el eje de la costa y Damaraland (D7–D9) y el
   Namutoni → Windhoek del D13 (`04`)
 - 🚧 **Las obras de Etosha** — confirmar con NWR al reservar *(afectan al D10 de la E,

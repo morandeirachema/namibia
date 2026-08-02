@@ -177,8 +177,11 @@ flowchart LR
   de fauna y cielos limpios, con datos de estación — no de folletos.
 - 🌡️ **Calor: Etosha aprieta, el resto acompaña.** El norte a **~37–38 °C** de máxima — el safari se
   hace al amanecer y al atardecer, con siesta y charca iluminada de noche, que es como se hace bien
-  de todas formas. El desierto ~30–32 °C y la costa fresca (Benguela). Noches de 15–18 °C: **forro
-  polar, no plumas**.
+  de todas formas. El desierto **Sesriem ~32,5 °C**, el **Fish River ~32 °C** (meseta), y la costa
+  fresca (Benguela): **Swakopmund/Walvis Bay ~25 °C** y **Lüderitz ~24,5 °C** de máxima en noviembre.
+  Los tres primeros venían de estación NOAA; **Lüderitz, Sesriem y el Fish River no tienen estación y
+  se cerraron con el reanálisis ERA5** (validado contra estaciones) *(ver [`08`](08-huecos-cerrados.md),
+  secciones "La costa" y §ERA5)*. Noches de 15–18 °C: **forro polar, no plumas**.
 - 💶 **Precio: la frontera del 1 de noviembre, dos veces.** **NWR** entra en tramo barato el 1 de
   noviembre (Sesriem, Terrace Bay, Etosha), y **Namibia2Go también**. 👉 **¿Adelantar días a
   octubre? Hasta 2 días es gratis** — las primeras noches (Windhoek, Spreetshoogte) no son NWR.
@@ -351,7 +354,9 @@ xychart-beta
 - 🚙 **Coche** — **€900** ✅ *mitad de €1.800 · 12 días · Namibia2Go **Budget**, disponible*
 - ⛺ **Alojamiento** — **~€285** *· mitad de ~€570 · 13 noches*
   - *6 noches NWR **verificadas**: **€159** ✅ (N$3.180 p.p.)*
-  - *5 campings sin precio + Terrace Bay + hotel del D13: **~€126** ○*
+  - *Hoada (D8) cerrado ◐: N$542–732/noche pareja (~€27–37)*
+  - *4 campings sin precio + Terrace Bay + hotel del D13: **~€126** ○ — **con sesgo al alza**: Terrace
+    Bay es un resort con media pensión (suelo ~€144–192 la pareja SÓLO esa noche), no un camping ◐*
 - ⛽ **Combustible** — **~€200** ○ *· mitad de ~€400 · ~2.600 km*
 - 🍖 **Comida** — **~€140** ○ *· supermercado y braai*
 - 🎫 **Tasas de parque** — **~€109** ◐ *· mitad de ~€217 · 7 unidades de 24 h*
@@ -378,7 +383,7 @@ cerrada y el presupuesto se estrecha de golpe.
 > *Alternativa: añadir el día 13 (~€150) y devolverlo el 14 camino del aeropuerto — puede salir
 > igual o más barato que hotel + dos traslados.*
 
-### 🎥 El coche por dentro — y qué enseña exactamente el vídeo
+### 🎥 El coche por dentro — y qué te da exactamente la Budget
 
 ▶️ **[Namibia2Go — «Experience The Fully Equipped Hilux»](https://www.youtube.com/watch?v=LPNZ-l8y3Pg)**
 *· vídeo de la propia empresa*
@@ -387,12 +392,15 @@ cerrada y el presupuesto se estrecha de golpe.
 la web ofrece **dos versiones del mismo vehículo** y el vídeo no aclara cuál enseña. La diferencia
 se ve a simple vista:
 
-- ✅ **BUDGET** — dos tiendas **blandas** Tentco + cajas de camping ← **la tuya**
-- **Comfort** — dos tiendas de **carcasa rígida** + cocina a medida *(«Not Available» para tus fechas)*
+- 🏆 **Budget** — dos tiendas **blandas** Tentco + cajas de camping ← **la tuya** ✅ *(la Comfort salió «Not Available» para tus fechas)*
+- **Comfort** — dos tiendas de **carcasa rígida** + cocina a medida *(no disponible)*
 
-> 👉 **Al ver el vídeo, fíjate en el techo:** si las tiendas son de **lona plegada**, ése es
-> exactamente tu coche. Si son **hard shell** *(se abren solas, tipo concha)* es la Comfort — pero
-> todo lo demás que enseña el vídeo (motor, nevera, mesa, menaje) es idéntico en la tuya.
+> 👉 **Al ver el vídeo, fíjate en el techo:** el tuyo es el **Budget**, así que espera **tiendas de
+> lona plegada** *(no las de carcasa rígida tipo concha, que son de la Comfort)*. Todo lo demás que
+> enseña el vídeo —motor, nevera, mesa, menaje— es idéntico en la tuya.
+>
+> *La lona plegada se monta y desmonta a mano cada día — con **11 noches de tienda**, es la rutina de
+> la tarde. Práctica en subir y bajar el toldo antes de salir.*
 
 **Ficha verificada del vehículo** ✅ — 4x4 permanente · automático · **motor 2.8L GD-6 turbodiésel**
 · 5 plazas con tiendas para 4 · km ilimitados · **2 ruedas de repuesto** y **nevera eléctrica** ·
@@ -402,14 +410,13 @@ se ve a simple vista:
 esas pistas.
 
 > ### ⚠️ Una trampa que tu presupuesto ya esquiva
-> La web publica **N$2.910/día** para la Comfort en «temporada baja»… pero esa banda es
-> **«01 Nov 2025 – 30 Jun 2026»**: **caduca antes de tu viaje**. La siguiente que publica es la alta
-> de julio a octubre de 2026. **Tu ventana cae en el año tarifario siguiente, que no está en la web.**
+> Los precios «temporada baja» que publica la web caen en la banda **«01 Nov 2025 – 30 Jun 2026»**:
+> **caduca antes de tu viaje**. La siguiente que publica es la alta de julio a octubre de 2026. **Tu
+> ventana cae en el año tarifario siguiente, que no está en la web.**
 >
-> Tus **precios en vivo para tus fechas reales (€150,00/día la Budget · €166,67 la Comfort) son el
-> presupuesto que vale** — un ~15 % por encima de la tarifa vieja convertida, coherente con el
-> cambio de año tarifario. 👉 **Fíate de tu presupuesto, no del precio de la web.** *(Es
-> exactamente la misma trampa que la tarifa de NWR.)*
+> Tus **€150/día (€1.800 por 12 días) son una cotización en vivo para tus fechas reales**, no el
+> precio caducado de la web. 👉 **Fíate de tu cotización, no del precio publicado.** *(Es exactamente
+> la misma trampa que la tarifa de NWR.)*
 
 *Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)*
 
@@ -429,8 +436,11 @@ de la charca iluminada.
 
 - **✅ Duro — €2.618 de los €3.306 (79 %)**: vuelo €1.366 · coche €900 · 6 noches NWR €159 ·
   seguro €113 · visado €80
-- **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto está en fuente secundaria; el
-  ministerio aún publica la tabla vieja. **Confírmalo por email.**
+- **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto lo confirman **dos páginas oficiales del
+  MEFT** (PDF de tarifas + nota de prensa `news/199`, vigente 1/04/2026), varias secundarias y ya la
+  **fuente legal primaria localizada** (*Government Gazette Nº 8877, Government Notice Nº 115, 1/04/2026*),
+  pero ninguna se pudo abrir aquí (403), así que la extracción de la tabla queda ◐; los tres parques de
+  la ruta son **premium**. **Confírmalo por email o abriendo la Gaceta 8877 desde fuera.**
 - **○ Estimado — ~€578 p.p.**: 7 noches sin precio (~€126), combustible (~€200), comida (~€140),
   actividades (~€38), misceláneos (~€75). **Ese es el margen real: ±€145 por persona.**
 
@@ -473,7 +483,10 @@ flowchart TD
    firma ante el oficial** — solo en `eservices.mhaiss.gov.na` ⚠️ *(`namibia-evisa.com` parece
    oficial y no lo es; el portal real puede dar un aviso de certificado — es mala configuración
    suya: verifica el dominio y sigue)*. La **cita del Centro de Vacunación** (A Coruña, Durán
-   Lóriga 3 · **981 989 570**) se pide **en agosto**.
+   Lóriga 3 · **981 989 570**) se pide **en agosto**. Y el **permiso internacional de conducir**:
+   con carnet español (que no está en inglés) **sí hace falta** — lo pide la ley namibia, el
+   alquiler y el seguro. Se saca en la DGT por **~€10,51 (~N$210)**, vale **1 año** y va **siempre
+   junto al carnet** *(detalle y evidencia en `03`)*.
 
 **Y tres datos médicos que se resuelven en una tarde:** **malaria** — Etosha sí es zona (CDC), el
 desierto y la costa no; a primeros de noviembre, antes de las lluvias, el riesgo está en su mínimo
@@ -496,10 +509,10 @@ limpios · **seguro con repatriación** — es condición de entrada; pide por e
 - **Nunca pases de largo una gasolinera.** Solitaire, Henties Bay, Kamanjab, Outjo, Otjiwarongo: se
   reposta en todas, marque lo que marque la aguja. Las tarjetas **sí** se aceptan *(el «solo
   efectivo» es un mito de mala traducción)*, pero lleva **~N$4.000 (~€200)** de reserva.
-- **Llega a las 18:00.** En tu quincena anochece entre las **~19:04** (Windhoek, 1 nov) y las
-  **~19:20** (la costa) según el día *(cálculo astronómico — el sol día a día está en `11`)*, y la
-  fauna sale a los arcenes al atardecer. El día crítico es el D7: **Ugabmund cierra la entrada a
-  las 15:00**.
+- **Llega a las 18:00** (17:30 en las etapas largas de los primeros días). En tu ventana (1–15 nov)
+  anochece **~19:03–19:12 en el interior y hasta ~19:20 en la costa** —algo antes que a fin de mes;
+  ocaso recalculado en `08` y desglosado día a día en `11`— y la fauna sale a los arcenes al
+  atardecer. El día crítico es el D7: **Ugabmund cierra la entrada a las 15:00**.
 - **El seguro y Damaraland**: el Super Cover de Asco **no cubre los bajos en Damaraland/Kaokoveld**
   — el tramo D8 pide suavidad en las piedras. Las pistas malditas **D3707/D3703 no están en esta
   ruta**. *Dune driving* y Sandwich Harbour, **prohibidos por contrato** — el tour guiado es el plan.
@@ -524,9 +537,9 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 - ✅ [**`05-conduccion`**](05-conduccion.md) — contrato, presiones, arena, puertas de Sesriem
 - ✅ [**`06-lista-google-maps`**](06-lista-google-maps.md) — tus 34 pines, medidos y triados
 - ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, dinero, cobertura
-- ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas medidas, vuelos, tasas 2026
+- ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas medidas *(GHCN **y** GSOD de NOAA, más **reanálisis ERA5** para los puntos sin estación: Lüderitz, Sesriem, Fish River)*, **viento de la costa** *(Walvis Bay, GSOD)*, **ventana de luz** *(orto/ocaso calculados)*, vuelos, tasas 2026 y **rango orientativo de lodges** *(agregadores «desde», ~€75–170/noche los 2 en gama media; rack primario aún bloqueado)*
 - ✅ [**`09-lluvias-historico`**](09-lluvias-historico.md) — 5 temporadas de lluvia, mm a mm
-- ✅ [**`10-presupuesto`**](10-presupuesto.md) — camping vs lodges, en N$ y €
+- ✅ [**`10-presupuesto`**](10-presupuesto.md) — el total del viaje reservado (Variante E), partida a partida, en N$ y €
 - ⭐ [**`11-itinerarios-dia-a-dia`**](11-itinerarios-dia-a-dia.md) — **la VARIANTE E día a día** *(la ruta del viaje)* + D/A/B de referencia
 - 💎 [**`12-joyas-ocultas`**](12-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, círculos de hadas… lo no típico, día a día
 - 🛒 [**`13-comida-compras-y-regalos`**](13-comida-compras-y-regalos.md) — súper por parada, la ley del alcohol, dónde comer, regalos y aduana
@@ -539,7 +552,7 @@ Deadvlei · Walvis Bay · Swakopmund *(de paso)* · Cape Cross · Skeleton Coast
 Etosha *(4 noches dentro)*. **Opcionales**: **Onguma** *(tu pin — capricho fuera de la puerta este,
 a cambio de no dormir dentro)* · Okonjima/AfriCat · Hoba · Waterberg *(los tres, de camino el D13)*. **Fuera esta vez**: todo el sur *(documentado en la Variante D por si vuelve)* · Spitzkoppe y
 Brandberg *(tampoco están en la ruta de referencia)* · NamibRand · Messum · Bagatelle ·
-Epupa/Opuwo · Tsumkwe · Harnas · Kgalagadi.
+Epupa/Opuwo *(descartado con números en `06`: ~730 km hasta Opuwo + ~180-200 km de grava C43 hasta Epupa = desvío de ~2 días cada sentido, y dentro de la zona sin cobertura de bajos)* · Tsumkwe · Harnas · Kgalagadi.
 ℹ️ Twyfelfontein y Duna 45 salen en Google como cerrados: **fallo del listado, ambos funcionan**.
 
 ---
@@ -570,10 +583,15 @@ los blogs *(caduca antes de aterrizar — factura por año tarifario nov–oct)*
 efectivo» en gasolineras *(«credit» ahí significa «a cuenta», no «tarjeta»)*, y **todas** las
 temperaturas de las webs de safaris — rehechas con datos de estación meteorológica.
 
-> **Lo que no se pudo verificar está en blanco y dicho**: varios alojamientos por noche (Terrace
-> Bay, Hoada, Spreetshoogte, Walvis) y las distancias de esta ruta, que se midieron para el
-> recorrido del sur. Y las tasas de parque (~N$280) se apoyan aún en fuente secundaria:
-> **confírmalas por email antes de cerrar presupuesto.**
+> **Lo que no se pudo verificar está en blanco y dicho**: el **rack rate primario** de los lodges
+> privados sigue bloqueado (egress + anti-bot), aunque su **nivel de precio ya está dimensionado con
+> rangos de agregador** en `08` *(gama media ~€75–170/noche los 2; los rack que asoman caducan el
+> 31/10/2026, así que noviembre es año tarifario nuevo sin publicar)*; y varios campings por noche
+> (Spreetshoogte, Walvis, Quivertree) y las distancias de esta ruta, que se midieron para el
+> recorrido del sur. Y las tasas de parque (~N$280) las respaldan ya **dos páginas oficiales del MEFT**
+> (PDF + nota de prensa `news/199`), secundarias concordantes y ya el **Government Gazette Nº 8877 (GN
+> Nº 115, 1/04/2026)** — la fuente legal numerada, **localizada el 23/07** — pero como ninguna se pudo
+> **abrir** aquí (403), la extracción de la tabla fina queda en ◐: **confírmalas por email antes de cerrar presupuesto.**
 >
 > ✅ **Los vuelos ya no son un hueco** — y sirvieron para pillar un error nuestro: la estimación se
 > había quedado ~1,7× corta. **Los números plausibles se acaban usando para pagar.**

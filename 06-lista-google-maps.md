@@ -63,9 +63,42 @@ de todas formas.)*
 > 👉 **Traducción:** en Kaokoland vas **sin cobertura de bajos y sin rescate garantizado**, pagues lo
 > que pagues. Y el rescate **no tiene tope** (cláusula 10.5.7: la franquicia elegida *«does not
 > limit The Renter's liability for... recovery costs»*).
->
-> Epupa está a un mundo de Windhoek y **la pista de Opuwo a Epupa es exactamente ese terreno**.
-> ⚠️ Distancias y estado de la pista: **por verificar**.
+
+#### Las cifras que lo descartan ◐
+
+```mermaid
+flowchart LR
+    W["Windhoek"] -->|"~730 km asfalto B1 + C40<br/>día entero al volante"| O["Opuwo"]
+    O -->|"C43 ~180-200 km grava<br/>3 h en seco / 4-5 h realista"| E["Epupa Falls"]
+    E -.->|"vuelta: otro tanto"| W
+```
+
+- **Windhoek → Opuwo: ~730 km por carretera** (línea recta ~602 km; «unos 720 km al nornoroeste de
+  Windhoek» según la ficha de Opuwo). Es **asfalto casi todo** —B1 al norte y luego Outjo→Kamanjab
+  (C40, asfaltado ese tramo)→Opuwo (~203 km)—, pero son **~730 km = un día entero de conducción** solo
+  para *llegar al punto de partida* del desvío.
+- **Opuwo → Epupa: ~180–200 km por la C43, toda grava.** Los propios lodges la cifran en «unos 200 km,
+  unas 3 h» *en seco*; realista **4–5 h** a 80 km/h con vados, lechos secos y ganado. La C43 **se
+  degrada en cada temporada de lluvias** y el vado de Okongwati puede cortar horas si baja crecido.
+- **Matiz importante (corrige una imprecisión previa):** la ruta normal Opuwo→Epupa es la **C43**, una
+  carretera de grava mantenida —**no** las pistas de *offroad* D3707/D3703 (Van Zyl's Pass, ruta oeste
+  de Marienfluss) que los T&C de Asco excluyen por su nombre. Aun así **la C43 sigue dentro de
+  «Kaokoveld»**, la zona que el Super Cover excluye de cobertura de bajos y de rescate garantizado, así
+  que **el argumento del seguro se mantiene** para toda la región.
+
+> 👉 **La aritmética del descarte:** desde el punto más cercano de la ruta prevista (el eje de Etosha /
+> Damaraland), Epupa es un **desvío de ~2 días de ida y ~2 de vuelta**, metiéndote **justo en la zona
+> sin cobertura**. Con el coche solo 12-13 días útiles (ver `04`), **no cabe** — y no por gusto, sino
+> por kilómetros. **Descartado con números.**
+
+**Fuentes** ◐ *(vía WebSearch; no descargadas —el egress de la organización bloquea WebFetch/curl a
+todos estos hosts con `403`—, pero las cifras **convergen entre calculadoras independientes y las
+páginas de indicaciones de los propios lodges**, y sirven para el descarte, no para navegar):*
+[Wikipedia — C43 road](https://en.wikipedia.org/wiki/C43_road_(Namibia)) ·
+[Wikipedia — Opuwo](https://en.wikipedia.org/wiki/Opuwo) ·
+[geodatos — Windhoek→Opuwo](https://www.geodatos.net/en/distances/from-windhoek-to-opuwo) ·
+[Epupa Falls Lodge — road conditions](https://epupafallslodge.com/the-road-less-travelled-road-conditions/) ·
+[Epupa Camp — directions](https://epupa.com.na/directions/)
 
 ### 2. ~~Mata-Mata / Kgalagadi~~ — ❌ DESCARTADO por decisión del viajero (17/07/2026)
 
@@ -86,17 +119,20 @@ decidido.
 
 Está junto a Lüderitz, **dentro del Sperrgebiet** (zona vedada). Como Kolmanskop, ✅ que **exige
 permiso** — pero Elizabeth Bay es **más restringido**: no es un sitio al que se entre por libre.
-✅ **Resuelto más abajo**: solo con tour guiado (N$3.630, salidas 08:45/13:45 desde Lüderitz,
-pasaporte 10 días antes). *Y en todo caso: **fuera de la ruta E** — el sur quedó descartado.*
+✅ **Resuelto abajo** (§Zonas restringidas): sí hay tour guiado obligatorio (N$3.630/persona,
+salidas 08:45 / 13:45 desde Lüderitz, copia de pasaporte 10 días antes). *Y en todo caso: **fuera
+de la ruta E** — el sur quedó descartado.*
 
 ### ⚠️ Y dos avisos menores
 
 - **Skeleton Coast National Park**: exige permiso, y **el sector norte es solo por concesión** (no
-  self-drive). ✅ **Resuelto más abajo**: el sector self-drive va **de Ugabmund a Springbokwasser**
-  — justo el tramo del D7 de la ruta E; puertas 07:30–19:00, pernocta solo con reserva y entrando
-  antes de las 15:00.
+  self-drive). ✅ **Resuelto abajo** (§Zonas restringidas): el self-drive es el tramo Ugabmund–
+  Springbokwasser con permiso de tránsito **gratis** — justo el D7 de la ruta E, con **entrada
+  antes de las 15:00 y reserva confirmada** para pernoctar; **Torra Bay abre solo diciembre-enero,
+  así que en tu ventana está CERRADO** (Terrace Bay, NWR, sí abre todo el año con reserva previa).
 - **Messum Crater**: remoto, sin señalizar, sobre campos de **líquenes** que se dañan con las ruedas.
-  ◐ **Medido más abajo**: estado real incierto y alto riesgo ecológico — desaconsejado.
+  ✅ **Resuelto abajo** (§Zonas restringidas): 4x4 imprescindible, permiso gratis en Henties Bay,
+  **desaconsejado como self-drive turístico** por el riesgo ecológico → fuera de este viaje.
 
 ---
 
@@ -118,8 +154,10 @@ pasaporte 10 días antes). *Y en todo caso: **fuera de la ruta E** — el sur qu
 
 ### Noreste
 - **Hoba Meteorite** — 4,0★ (800). Cerca de Grootfontein. **El meteorito más grande de la Tierra**
-- **Tsumkwe** — extremo este, **Bushmanland** (comunidades ju/'hoansi). Muy lejos del resto
-- **Harnas Wildlife Foundation** — lodge, 4,5★ (160). Este, zona de Gobabis
+- **Tsumkwe** — extremo este, **Bushmanland** (comunidades ju/'hoansi). **~640 km de Windhoek, final
+  de grava por la C44** ◐ (ver «El este», más abajo). Muy lejos del resto
+- **Harnas Wildlife Foundation** — lodge, 4,5★ (160). Este, zona de Gobabis. **~307 km de Windhoek por
+  la B6** ◐ (medido abajo)
 
 ### Damaraland y costa norte
 - **Twyfelfontein** — *(Google dice «el sitio ya no existe»: es un fallo del listado. El sitio
@@ -128,7 +166,7 @@ pasaporte 10 días antes). *Y en todo caso: **fuera de la ruta E** — el sur qu
 - **Messum Crater** — 4,9★ (30). Cráter remoto ⚠️ ver aviso arriba
 - **Cape Cross Lodge** — hotel 3★, 4,4★ (533). **Colonia de lobos marinos**
 - **Skeleton Coast National Park** — 4,4★ (216) ⚠️ ver aviso arriba
-- **Spitzkoppe** — 4,7★ (410). El «Matterhorn de Namibia»
+- **Spitzkoppe** — 4,7★ (410). El «Matterhorn de Namibia». **Camping comunitario N$270/persona → N$540/noche (~€27)** ◐ *(incluye la entrada a la reserva, N$130 pp; solo efectivo)*
 
 ### Costa central
 - **Swakopmund** · **Walvis Bay**
@@ -207,9 +245,9 @@ flowchart LR
 
 **Lo que es un viaje aparte:**
 - 🔴 **Epupa + Opuwo** (Kaokoland — y sin seguro de bajos)
-- 🔴 **Tsumkwe** (Bushmanland, extremo este)
+- 🔴 **Tsumkwe** (Bushmanland, extremo este — ~640 km, final de grava)
 - 🔴 **Mata-Mata / Kgalagadi** (Sudáfrica, cruce de frontera)
-- 🔴 **Harnas** (extremo este)
+- 🔴 **Harnas** (este, ~307 km — no lejísimos, pero dirección contraria al bucle norte)
 - 🟠 **Messum Crater**, **Skeleton Coast norte**, **Elizabeth Bay** (acceso restringido o guiado)
 
 > **Cómo acabó la tensión de fondo:** primero se decidió que el sur se quedaba; **la decisión final
@@ -279,15 +317,26 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
   - Fuentes: [info-namibia — Elizabeth Bay tour](https://www.info-namibia.com/activities-and-places-of-interest/luederitz/elizabeth-bay-and-diamond-area-tour) ·
     [namibweb — tours de Lüderitz](https://www.namibweb.com/ludtour.htm)
 
-- **Messum Crater — desaconsejado como self-drive turístico** ◐
-  - **4x4 imprescindible**; permiso **gratis** en oficina MEFT / Turismo de Henties Bay
-    (requisito discutido según foros).
+- **Messum Crater — abierto al self-drive con permiso, pero desaconsejado** ◐
+  - **Sigue abierto al self-drive:** la parte oeste del cráter cae dentro del **Dorob National
+    Park** y **exige permiso** — **gratis**, en la **oficina de Turismo de Henties Bay** (o MEFT).
+    Ya no es "requisito discutido": las fuentes coinciden en que hay que sacarlo. La pista **"está
+    ahora nivelada"** (graded), señal de que se mantiene transitable; **no hay cierre confirmado**.
+  - **4x4 imprescindible** todo el año, con depósito suficiente para ir y volver desde Henties Bay.
+    Ruta: Henties Bay → **Milla 100** → desvío a la **D2303** → río Messum hasta el cráter *(algunos
+    tramos exigen coordenadas GPS)*.
   - **Líquenes extremadamente frágiles:** un 4x4 arrasa **~1 hectárea cada 10 km fuera de pista**
-    y crecen **~1 mm/año**. **Máximo 40 km/h, prohibido salir de la rodada.**
-  - Circuló un **rumor de cierre al self-drive (2014)** nunca confirmado. **Alto riesgo ecológico**
-    → no recomendado para este viaje.
+    y crecen **~1 mm/año**. **Máximo 40 km/h, prohibido salir de la rodada** — el polvo daña los
+    líquenes y las welwitschias. Los campos de líquenes se ven ya en la **Milla 30** al sur de
+    Henties Bay *(aparcar junto a la pista y verlos a pie)*.
+  - Circuló un **rumor de cierre al self-drive (2014)** que **las fuentes actuales NO confirman**;
+    hoy el permiso se sigue emitiendo. **Alto riesgo ecológico** → no recomendado para este viaje.
   - Fuentes: [travelnam — Messum Crater](https://travelnam.com/crater-with-a-difference-messum-crater/) ·
-    [dangerousroads — Messum](https://www.dangerousroads.org/africa/namibia/5955-messum-crater.html)
+    [dangerousroads — Messum](https://www.dangerousroads.org/africa/namibia/5955-messum-crater.html) ·
+    [Henties Bay Tourism — 4x4 routes](https://www.hentiesbaytourism.com/things-to-do-and-see/4x4routes/)
+  - *Nota de fuente: extracción vía WebSearch (páginas descargadas por el buscador); el egress de la
+    organización bloquea WebFetch/curl a estos hosts (403). Fuente primaria MEFT del permiso no
+    abierta aquí → nivel ◐.*
 
 - **Skeleton Coast — permiso de tránsito gratis, pero pernocta CERRADA en noviembre** ◐
   - Sector self-drive: **entre las puertas de Ugabmund (sur) y Springbokwasser (este)**. El
@@ -348,6 +397,48 @@ flowchart LR
 - Fuentes: [trippy — Windhoek↔Opuwo](https://www.trippy.com/distance/Windhoek-to-Opuwo) ·
   [Epupa Camp — directions](https://epupa.com.na/directions/)
 
+### 📏 El este (Tsumkwe + Harnas) — los dos pines que faltaban, ahora CON números ◐
+
+Cerraba la lista de pines sin medir. Los dos apuntan al **este**, la dirección contraria al bucle del
+norte, así que un desvío a cualquiera de ellos es una **ida y vuelta muerta** que no enlaza con nada
+de la ruta. La diferencia entre ambos es de grado.
+
+```mermaid
+flowchart LR
+    W["Windhoek"] -->|"B6 asfalto ~202 km"| G["Gobabis"]
+    G -->|"~105 km, tramo final grava"| H["Harnas"]
+    W -->|"B1 asfalto hasta Grootfontein"| GR["Grootfontein"]
+    GR -->|"C44 grava ~250-300 km"| T["Tsumkwe"]
+    style H fill:#e85d04,color:#000
+    style T fill:#9d0208,color:#fff
+```
+
+- **Harnas (Fundación de fauna) — ~307 km al este de Windhoek** ◐
+  - Ruta: **B6 (Trans-Kalahari, asfalto) hasta Gobabis (~202–204 km)**, y desde Gobabis **~105–120 km
+    al noreste** con **tramo final de grava** hasta la granja.
+  - **Matiz honesto:** 307 km **no** es «lejísimos» — es menos que Windhoek–Sesriem. **No se descarta
+    por distancia**, sino por **dirección**: cae al este, fuera del eje norte, y **no tiene nada más
+    cerca** que justifique el desvío. Un ~día de ida + otro de vuelta que no suma ruta. Por eso queda
+    fuera, no por kilómetros imposibles.
+  - Fuentes: [Harnas — Road Directions (PDF oficial, Wetu)](https://stwetuproduction.blob.core.windows.net/azure-blob-resources-wetu-production/Resources/45047/Harnas_Road_Direction_-_GPS_Co-Ordinates.pdf) ·
+    [namibweb — Harnas](https://www.namibweb.com/harnas.htm)
+
+- **Tsumkwe (Bushmanland, Nyae Nyae) — ~640 km de Windhoek, y el final es grava** ◐
+  - Calculadoras independientes: **~638 km por carretera** (rome2rio, na.utc.city). El trazado real es
+    **B1 asfalto hasta Grootfontein** y luego la **C44, ~250–300 km de grava** hacia el este *(la C44
+    mide 321 km en total y atraviesa Tsumkwe)*, así que en la práctica ronda o supera los ~640 km.
+  - **Es el extremo este del país**, pegado a **Khaudum** y la frontera con Botsuana — **~1 día de ida
+    solo de conducción**, con el último tercio en grava, y de nuevo en zona remota sin apenas
+    servicios. Con el sur ya dentro del viaje, **no cabe**: aritmética, igual que Epupa.
+  - Fuentes: [rome2rio — Windhoek↔Tsumkwe](https://www.rome2rio.com/s/Windhoek/Tsumkwe) ·
+    [na.utc.city — Tsumkwe↔Windhoek](https://na.utc.city/2357925-2358013) ·
+    [Wikipedia — C44 road](https://en.wikipedia.org/wiki/C44_road_(Namibia))
+
+> **Aviso de método (igual que en Epupa):** estas cifras vienen de **WebSearch**, no de páginas
+> descargadas (el egress bloquea WebFetch/curl a estos hosts con `403`). **Convergen entre
+> calculadoras independientes y las indicaciones oficiales de los propios destinos**, y **sirven para
+> el descarte, no para navegar**. La distancia fina de conducción hay que confirmarla con el mapa.
+
 ---
 
 ## 💶 Coste por persona de las visitas «de camino» *(las baratas)*
@@ -379,5 +470,8 @@ xychart-beta
 - **Waterberg (camping NWR):** la tasa de **parcela** (distinta de la entrada de N$280) no se
   extrajo; solo la entrada.
 - **Kgalagadi:** descartado por decisión del viajero — no se investiga si Asco autoriza el cruce.
-- **Messum Crater:** el **estado real de apertura al self-drive** (tras el rumor de cierre de 2014)
-  no se pudo confirmar con fuente oficial → tratar como **incierto**.
+- **Messum Crater:** ✔️ **avanzado (31/07)** — el estado de apertura al self-drive queda **◐
+  cerrado a nivel secundario**: sigue **abierto con permiso gratis** de Turismo de Henties Bay
+  (la parte oeste está en el **Dorob National Park**), la pista está **nivelada** y **no hay cierre
+  confirmado**; el rumor de 2014 no lo respalda ninguna fuente actual (ver la ficha arriba). **Falta
+  solo** la confirmación contra la fuente primaria del MEFT (bloqueada por egress, 403).
