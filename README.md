@@ -341,11 +341,17 @@ de grava)*. **La tabla no lo aclara.**
 noches · comida · actividades · imprevistos. **No queda nada fuera** salvo lo que compres allí por gusto.
 
 ```mermaid
-xychart-beta
-    title "Por persona · desglose en EUR · camping"
-    x-axis ["Vuelo", "Coche", "Alojamiento", "Combustible", "Comida", "Tasas", "Seguro", "Visado", "Misc+Activ"]
-    y-axis "EUR" 0 --> 1500
-    bar [1366, 900, 285, 200, 140, 109, 113, 80, 113]
+pie showData
+    title Por persona · desglose en EUR · camping
+    "Vuelo" : 1366
+    "Coche" : 900
+    "Alojamiento" : 285
+    "Combustible" : 200
+    "Comida" : 140
+    "Seguro" : 113
+    "Misc + actividades" : 113
+    "Tasas de parque" : 109
+    "Visado" : 80
 ```
 
 *Vuelo y coche son el **69 %** del viaje. Todo lo demás junto son ~€1.030.*
