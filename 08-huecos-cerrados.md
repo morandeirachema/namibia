@@ -319,6 +319,14 @@ tarifa fijada para el periodo **1/11/2026 – 31/10/2027** ◐:
   fuente meteorológica primaria (SASSCAL/NOAA no salen por fragmento de búsqueda y WebFetch está
   bloqueado). *(Dato ◐ de NWR ya recogido en `03`: Sesriem nov **34,1 / 15,5 °C**; Etosha nov
   **35,5 / 18,3 °C** — coherente con Okaukuejo, pero de fuente secundaria.)*
+  > **Avance del 02/08/2026** — pasada por las paradas donde se duerme (todas en `11`, día a día):
+  > **Windhoek 29,6 / 15,6 ◐** *(Wikipedia citando al Deutscher Wetterdienst)* · **Walvis Bay
+  > 24,0 / 14,7 ◐** *(Infoclimat, normales 2000–2025, estación del aeropuerto)* · **Etosha
+  > 35,5 / 18,3 ◐** *(Namibia Weather Network, Etosha Safari Lodge 2010–2018 — la misma cifra que
+  > daba NWR, ahora con estación y periodo)*. **Siguen ❌ sin dato de estación: Spreetshoogte,
+  > Terrace Bay/Möwe Bay y Hoada/Grootberg** — para las dos últimas no existe serie pública y solo
+  > hay webs de viajes y modelos, que **no se usan**. Y falta la **mínima de Okaukuejo** en la
+  > serie GHCN del repo (la máxima ✅ es 37,1).
 - ❌ **Ai-Ais**: sin estación, sin cifra. Solo se sabe que es **más caluroso que Karios**.
 - ⚠️ **Temperaturas del sur (Karios/Keetmanshoop)**: buenas, de ficheros descargados en pasadas con
   acceso, pero algunas quedaron **1-1** de verificación. No se refutan; les falta el tercer voto.

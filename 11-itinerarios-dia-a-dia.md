@@ -130,7 +130,28 @@ gantt
 > (~19:05, está al este) y en la costa después (~19:20)** — la regla de «en el campamento a las
 > 18:00» vale igual en toda la ruta.
 
+> ### 🌡️ Y la temperatura donde duermes — medias de NOVIEMBRE
+> Cada noche lleva su **máxima media / mínima media** del mes. **Son medias mensuales, no la
+> previsión de tu día**: el récord de noviembre en el sur llega a 41–42 °C (`08`).
+> **Regla de fuentes de este repo:** las webs de safaris fueron **refutadas 0–3** (`08`), así que
+> aquí solo hay estación o secundaria que cite estación — **y donde no la hay, dice «sin dato»**.
+>
+> ```mermaid
+> xychart-beta
+>     title "Noviembre donde duermes · maxima y minima media en C"
+>     x-axis ["Windhoek", "Sesriem", "Walvis Bay", "Khorixas (proxy Hoada)", "Okaukuejo"]
+>     y-axis "grados C" 0 --> 40
+>     bar [29.6, 34.1, 24.0, 28.0, 37.1]
+>     bar [15.6, 15.5, 14.7, 15.0, 18.3]
+> ```
+>
+> **El viaje entero cabe en una frase: la costa fresca (24 °C), el desierto caluroso (34 °C) y
+> Etosha duro (37 °C) — y TODAS las noches entre 14 y 19 °C.** Por eso el equipaje lleva forro
+> polar y no plumas (`14`).
+
 ### D1 · dom 1 nov — Llegada a Windhoek
+- 🌡️ **Windhoek, medias de noviembre: 29,6 °C máx / 15,6 °C mín** ◐ *(tabla climática de
+  Wikipedia citando al Deutscher Wetterdienst; periodo no indicado — 1.728 m de altitud)*
 - ☀️ amanecer **06:07** · anochecer **19:04**
 - ⚠️ **Es domingo: las bottle stores y las secciones de alcohol cierran por ley** (ver `03`) — la
   compra de cervezas para el braai espera al lunes
@@ -140,6 +161,9 @@ gantt
 - 🍺 **Joe's Beerhouse** · 🛏️ Windhoek
 
 ### D2 · lun 2 — Windhoek → paso de Spreetshoogte · **~180–200 km · ~3h–3h30** ◐
+- 🌡️ **Spreetshoogte: sin dato de estación.** El proxy razonable es **Windhoek (29,6/15,6 ◐)**:
+  misma altitud (~1.700 m) en el borde de la escarpa. Arriba corre viento y refresca al caer el
+  sol ○
 - ☀️ amanecer **06:09** · anochecer **19:10** — *el atardecer en el paso es el plan del día: en
   posición hacia las 18:40*
 - B1 a Rehoboth (87 asfalto) → C24 → D1261 → **D1275: el paso**. ⚠️ **Muy empinado**, tramos de
@@ -149,6 +173,8 @@ gantt
   vigencia desconocida)*
 
 ### D3 · mar 3 — Spreetshoogte → Solitaire → Sesriem · **~150–170 km · ~2h30–3h** ◐
+- 🌡️ **Sesriem, medias de noviembre: 34,1 °C máx / 15,5 °C mín** ◐ *(NWR — el propio `08` avisa
+  de que Sesriem sigue sin procesarse con fuente meteorológica primaria)*
 - ☀️ amanecer **06:09** · anochecer **19:12** — *la puerta exterior de Sesriem funciona de
   amanecer a ocaso: dentro antes de ~19:10*
 - Bajada del paso → C14 → 🥧 **Solitaire** (tarta + depósito lleno) → D826/C19 a Sesriem
@@ -157,6 +183,8 @@ gantt
 - 🛏️ **🔑 DENTRO de la puerta: Sesriem Campsite — N$1.340 (~€67)** ✅ *(44 parcelas: reservar YA)*
 
 ### D4 · mié 4 — Sossusvlei y Deadvlei · **130 km · día completo** ✅
+- 🌡️ **Sesriem 34,1 / 15,5 ◐** — y en la duna, a mediodía, la arena está muy por encima de eso:
+  **Big Daddy se sube al amanecer o no se sube** ○
 - ☀️ amanecer **06:10** (Deadvlei) · anochecer **19:16** — **la puerta interior abre 1 h antes del
   amanecer: ~05:10.** Son ~60 km de asfalto + arena hasta el aparcamiento: saliendo al abrirse,
   llegas con la duna encendiéndose *(horas de puerta: confírmalas en recepción al llegar, se
@@ -168,12 +196,16 @@ gantt
 - 🛏️ Sesriem, segunda noche
 
 ### D5 · jue 5 — Sesriem → Walvis Bay · **~270 km · ~5h30** ✅
+- 🌡️ **Walvis Bay, medias de noviembre: 24,0 °C máx / 14,7 °C mín** ◐ *(Infoclimat, normales
+  2000–2025, estación del aeropuerto de Walvis Bay)* — **10 grados menos de máxima que en
+  Sesriem**: la corriente de Benguela. Cortavientos a mano
 - ☀️ amanecer **06:15** · anochecer **19:17** (Walvis Bay)
 - C14 por los pasos de **Gaub y Kuiseb** + Trópico de Capricornio
 - ⛽ **Solitaire otra vez, sí o sí** — después, **210 km sin nada**
 - 🛏️ **Walvis Bay** ⚠️ *precio sin verificar (el blog usó Lagoon Chalets)*
 
 ### D6 · vie 6 — Walvis Bay: flamencos y descanso ✅
+- 🌡️ **Walvis Bay 24,0 / 14,7** ◐ — el día fresco del viaje: aprovecha para el Welwitschia Drive
 - ☀️ amanecer **06:14** · anochecer **19:17** — *flamencos con la primera luz, ~06:15–07:30*
 - 🦩 **Flamencos y pelícanos en la laguna** al amanecer y al atardecer — las mejores luces
 - Día libre: paseo marítimo, ostras, o la excursión guiada a **Sandwich Harbour**
@@ -181,6 +213,10 @@ gantt
 - 🛏️ Walvis Bay, segunda noche
 
 ### D7 · sáb 7 — Cape Cross → Terrace Bay (Skeleton Coast) · **~390 km · día logístico** ✅
+- 🌡️ **Terrace Bay: sin dato de estación** — no hay serie pública ni en Möwe Bay ni en Terrace
+  Bay *(solo webs de viajes y modelos, que este dossier no usa)*. Proxy honesto: **la costa
+  ronda los 24 °C de Walvis Bay ◐**, 400 km más al sur — cuenta con **niebla, viento y menos
+  calor que tierra adentro** ○
 - ☀️ amanecer **06:18** (Cape Cross) · anochecer **19:20** (Terrace Bay) — *pero aquí el sol no es
   el límite: lo es la puerta de las 15:00*
 - ⏰ **Salida temprana — este día tiene una hora límite.** C34 costera (sal compactada):
@@ -195,6 +231,9 @@ gantt
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 
 ### D8 · dom 8 — Skeleton Coast → Twyfelfontein → Hoada · **~300 km · ~5h** ◐
+- 🌡️ **Hoada/Grootberg: sin dato de estación.** Lo más cercano publicado es **Khorixas: 28 °C máx
+  / 15 °C mín** ○ *(tabla de Wikipedia citando «World Climate Guide» — fuente floja, y Hoada está
+  más alto)*. Twyfelfontein, en el valle, es **notablemente más caluroso a mediodía** ○
 - ☀️ amanecer **06:17** (Twyfelfontein) · anochecer **19:15** (Hoada) — *y es domingo otra vez:
   sin alcohol a la venta*
 - Salida por **Springbokwasser** → C39 a Bergsig → **desvío opcional a Twyfelfontein**
@@ -206,6 +245,9 @@ gantt
   campamento más bonito del viaje: rocas de granito, duchas entre peñas, cielo estrellado
 
 ### D9 · lun 9 — Hoada → Etosha (Okaukuejo) · **~315 km · ~4h** ◐
+- 🌡️ **Okaukuejo, máxima media de noviembre: 37,1 °C** ✅ *(NOAA GHCN-Daily, serie 2010–2021,
+  calculada en `08`)* — y **baja según avanza el mes** (38,0 en octubre → 35,4 en diciembre).
+  Mínima: la serie del repo no la trae; la referencia de zona es **18,3 °C** ◐
 - ☀️ amanecer **06:18** (Hoada) · anochecer **19:08** (Okaukuejo) — *las puertas de Etosha cierran
   al ocaso: pasa Andersson con margen de sobra*
 - C40 a Kamanjab → C38 a la puerta de **Andersson** (asfalto desde Kamanjab... ⚠️ firme por
@@ -215,6 +257,10 @@ gantt
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
 
 ### D10 · mar 10 — Safari Okaukuejo → Halali · **~90 km de safari lento** ✅
+- 🌡️ **Etosha, medias de noviembre: 35,5 °C máx / 18,3 °C mín** ◐ *(Namibia Weather Network,
+  estación de Etosha Safari Lodge, 2010–2018 — vía la tabla climática de Wikipedia; 1,6 °C por
+  debajo del ✅ de Okaukuejo, así que toma 35–37 como banda real)*. **A mediodía no se hace
+  safari: piscina** ○
 - ☀️ amanecer **06:12** · anochecer **19:06** (Halali) — *dentro del campamento, del ocaso al
   amanecer: la charca iluminada ES el plan de la noche*
 - 🚧 **Obras 2026**: el tramo va por desvíos (~90 km a 30–35 km/h, ~3 h) — como es día de safari
@@ -223,6 +269,7 @@ gantt
 - 🛏️ **Camping Halali — N$920 (~€46)** ✅
 
 ### D11 · mié 11 — Safari Halali → Namutoni · **~80 km de safari** ✅
+- 🌡️ **Etosha 35,5 / 18,3 ◐ (banda real 35–37)** — la noche más cálida del viaje: 18 °C
 - ☀️ amanecer **06:08** · anochecer **19:05** — *el safari bueno es 06:10–09:00 y 16:30–19:00;
   al mediodía, piscina y siesta*
 - Charcas **Goas, Nuamses, Springbokfontein, Batia, Chudop** — el corazón del safari
@@ -232,11 +279,13 @@ gantt
   Lindequist) ⚠️ precio sin verificar; puede ser gama alta — a cambio pierdes estar dentro*
 
 ### D12 · jue 12 — Etosha este · **~60–80 km de safari** ✅
+- 🌡️ **Etosha 35,5 / 18,3 ◐**
 - ☀️ amanecer **06:08** · anochecer **19:05**
 - **Fischer's Pan**, Chudop, Klein Namutoni — la esquina que casi nadie hace
 - 🛏️ **Namutoni, segunda noche — N$920 (~€46)** ✅
 
 ### D13 · vie 13 — Etosha → Windhoek · **~550 km asfalto · ~5h30–6h** ○
+- 🌡️ De **Etosha (35,5 ◐)** a **Windhoek (29,6 ◐)**: el día de bajar 6 grados y 550 km
 - ☀️ amanecer **06:08** (Namutoni) · anochecer **19:11** (Windhoek) — *la puerta de Von Lindequist
   abre al amanecer: saliendo a las 06:10 llegas a Windhoek con la tarde entera*
 - Von Lindequist → Tsumeb → Otjiwarongo → B1 · salida al alba, comida en Otjiwarongo
