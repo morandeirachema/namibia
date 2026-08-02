@@ -159,12 +159,15 @@ xychart-beta
 
 **N$280 (~€14)/adulto extranjero/día** (N$140 entrada + N$140 conservación) **+ N$60 (~€3)/vehículo**,
 cobrado **por parque y por cada 24 h desde la entrada** (ver `01` §7 y `08`). Dos adultos + coche =
-**N$620 (~€31)/día de parque**. Baremo del MEFT firmado el 15/01/2026, vigente desde 1/04/2026, bajo la
-Nature Conservation Ordinance de 1975 (primera subida desde 2021) — **◐, no ✅**: lo confirman dos
-páginas oficiales del MEFT (PDF de tarifas + nota de prensa `news/199`) y varias secundarias, pero
-ninguna se pudo abrir (403) para verificar la extracción de la tabla fina, y **no apareció Government
-Gazette numerado**. Los tres parques de pago de la ruta (Namib-Naukluft, Skeleton Coast, Etosha) son
-**premium**, así que el N$280 es la tarifa correcta para los tres.
+**N$620 (~€31)/día de parque**. Baremo del MEFT publicado en el **Government Gazette Nº 8877 ·
+Government Notice Nº 115** (firmado por la ministra el 26/03/2026, en vigor desde el **1/04/2026**),
+bajo la Nature Conservation Ordinance de 1975 (primera subida desde 2021) — **◐, no ✅**: lo confirman
+dos páginas oficiales del MEFT (PDF de tarifas + nota de prensa `news/199`) y varias secundarias, pero
+ninguna se pudo abrir (403) para verificar la extracción de la tabla fina; la **gaceta está localizada
+en el índice de gazettes.africa pero tampoco se pudo abrir aquí** (403), así que la tabla sigue sin
+verificarse contra el documento primario (detalle en `08` §Tasas). Los tres parques de pago de la ruta
+(Namib-Naukluft, Skeleton Coast, Etosha) son **premium**, así que el N$280 es la tarifa correcta para
+los tres.
 
 **La Variante E cruza tres zonas de pago:**
 - **Namib-Naukluft** (Sesriem/Sossusvlei): ~2 unidades de 24 h (tarde de llegada + amanecer en Deadvlei).
@@ -173,9 +176,10 @@ Gazette numerado**. Los tres parques de pago de la ruta (Namib-Naukluft, Skeleto
 
 → **~7 unidades × N$620 = ~N$4.340 (~€217) pareja / ~€109 por persona** ◐.
 
-> Fuentes: [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
+> Fuentes: [gazettes.africa — Government Gazette Nº 8877, 1/04/2026 (Government Notice Nº 115)](https://gazettes.africa/akn/na/officialGazette/government-gazette/2026-04-01/8877/eng@2026-04-01) ·
+> [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
 > [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/)
-> *(ambas oficiales; ninguna se pudo abrir, 403)* · secundarias concordantes en `08`. **Confírmalo por email antes de pagar.**
+> *(las tres localizadas; ninguna se pudo abrir, 403)* · secundarias concordantes en `08`. **Confírmalo por email antes de pagar.**
 
 ---
 
