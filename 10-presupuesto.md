@@ -237,6 +237,44 @@ xychart-beta
 - **○ Estimado — ~€578**: 7 noches (~€126), combustible (~€200), comida (~€140), actividades (~€38),
   misceláneos (~€75)
 
+### 👥 ¿Y si vais 3 o 4 en el mismo 4x4? — la economía de escala, calculada
+
+El coche duerme y sienta a más de dos: **ficha verificada ✅ — 5 plazas y 2 tiendas de techo para
+4 personas**. Lo único que de verdad se reparte es el coche y su gasoil; casi todo lo demás va
+por cabeza:
+
+- **Se reparte (fijo del grupo)**: coche **€1.800 (~N$36.000)** + combustible **~€400 (~N$8.000)** +
+  el vehículo en las tasas (7 × N$60 = **N$420 · ~€21**) → **~€2.221 (~N$44.420)** entre los que vayáis
+- **Va por cabeza**: vuelo €1.366 · alojamiento ~€285 *(el camping NWR se cobra POR PERSONA ✅:
+  Sesriem N$670/pax, Etosha N$460/pax)* · comida ~€140 · tasas de persona 7 × N$280 = **N$1.960
+  (~€98)** · seguro ~€113 · visado €80 · actividades ~€38 · misceláneos ~€75 → **~€2.195 (~N$43.900)**
+
+```mermaid
+xychart-beta
+    title "Total por persona segun cuantos vais · EUR · camping"
+    x-axis ["2 personas", "3 personas", "4 personas"]
+    y-axis "EUR por persona" 0 --> 3500
+    bar [3306, 2935, 2750]
+```
+
+- **2 personas** — **~€3.306 (~N$66.000)/persona** · grupo ~€6.612 (~N$132.000)
+- **3 personas** — **~€2.935 (~N$58.700)/persona** · grupo ~€8.806 (~N$176.000) → *ahorra
+  ~€371/persona (−11 %) respecto a ir dos*
+- **4 personas** — **~€2.750 (~N$55.000)/persona** · grupo ~€11.001 (~N$220.000) → *ahorra
+  ~€556/persona (−17 %)*
+
+> ⚠️ **Cuatro letras pequeñas antes de invitar a nadie:**
+> 1. **El vuelo (€1.366) está cotizado para 2 plazas** — para 3–4 la tarifa por asiento puede
+>    cambiar: recotiza antes de prometer el número ❌.
+> 2. **El seguro (€113,02 p.p.) es la simulación de 2 viajeros** — el p.p. a 3–4 se asume lineal ○:
+>    pide cotización.
+> 3. **Las 7 noches sin precio (~€126 p.p. ○)** mezclan campings por persona con habitaciones
+>    (Terrace Bay, hotel del D13): con 3–4 puede salir algo mejor o algo peor. Y el **límite de
+>    personas por parcela NWR no está verificado** — pregúntalo al reservar ❌.
+> 4. **El espacio es el precio oculto**: doble cabina con nevera, cajas de camping y equipaje de 4 —
+>    el maletero va MUY justo ○. Y el **coste del conductor adicional en Namibia2Go no está
+>    verificado** ❌: pregúntalo al reservar.
+
 ---
 
 ## 11. Por qué tu ventana ya es la barata — el precipicio del 1 de noviembre
