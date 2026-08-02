@@ -284,6 +284,47 @@ gantt
   campamentos (importa para salir al alba: pide desayuno para llevar o hazlo tú), horario y
   existencia real de gasolinera en cada campamento de Etosha, y el horario de Joe's Beerhouse.
 
+### 🦁 En los parques: ¿tu 4x4 o el vehículo del parque?
+
+**Regla general de esta ruta: tu 4x4 vale para TODO el safari diurno — lo guiado se compra solo
+donde añade algo que por libre es imposible o está prohibido.**
+
+- **Etosha → tu 4x4, self-drive** ✅. Las pistas principales son aptas para tu Hilux (60 km/h,
+  parando en cada charca); no hace falta ningún vehículo del parque para el safari de día. Lo que
+  **sí** merece pagarse: el **safari nocturno guiado de NWR (N$750 · ~€38/persona)** ✅ — de noche
+  está **prohibido circular por libre**, así que es literalmente la única forma de moverse por el
+  parque a oscuras. Buen plan: una noche en Okaukuejo (D9). *(La charca iluminada del campamento
+  es gratis y no necesita vehículo: andando desde tu parcela.)* Tips ○: en las charcas apaga el
+  motor y dale 15–20 min — la fauna llega por turnos; los coches parados en racimo delatan un
+  avistamiento; lleva los prismáticos EN el asiento, no en el maletero.
+- **Sossusvlei → tu 4x4 hasta el final** *(estado a 16/07: self-drive permitido — reconfirma en
+  octubre, ver `05`)*. Los últimos ~5 km de arena son 4H de verdad; si no te apetece la arena, la
+  **lanzadera del concesionario (N$180 · ~€9/persona)** ✅ hace exactamente ese tramo. Big Daddy y
+  Deadvlei son a pie de todas formas.
+- **Sandwich Harbour → SOLO tour guiado.** Con tu coche está vetado por contrato (referencia Asco;
+  asume lo mismo en Namibia2Go hasta leer el tuyo, `05`) — y el tour es mejor plan de todas formas.
+  Precio ❌ sin verificar: pregúntalo en Walvis Bay.
+- **Skeleton Coast → tu 4x4** con permiso de la puerta (tránsito gratis ◐; pernocta = reserva de
+  Terrace Bay). El **sector norte** del parque es solo por concesión aérea/guiada — no aplica a
+  esta ruta.
+- **Cape Cross → tu 4x4** hasta el aparcamiento y pasarelas a pie.
+
+**¿Y las reservas PRIVADAS — valen la pena frente a Etosha?** Con precios verificados, el
+veredicto es fácil para este viaje:
+
+- **Ongava** (puerta de Andersson) — **~N$17.300 (~€865)/persona/noche** ◐ pensión completa.
+  **Una sola noche para dos ≈ N$34.600 — el TRIPLE de lo que cuestan las 13 noches de camping
+  de todo el viaje (~N$11.400).** Es otro producto (lodge de lujo con game drives), no un upgrade.
+- **Okonjima/AfriCat** (eje Windhoek–Etosha) — desde **~N$12.700 (~€630)/persona/noche** ◐. Su
+  argumento real son los **leopardos habituados** — lo único que Etosha casi nunca da. Si algún
+  día cae un capricho, es este, como **parada del D13**; como sustituto de Etosha, no.
+- **Onguma** (puerta este) — precio ❌ sin verificar, «puede ser gama alta». Lo que pierdes seguro:
+  dormir DENTRO y las charcas iluminadas.
+
+> 👉 **Veredicto:** a **N$460/persona el camping dentro** ✅ + **N$750 el safari nocturno** ✅,
+> Etosha por libre da más horas de safari por menos dinero que cualquier privado. Los privados son
+> un capricho legítimo (Okonjima por los leopardos), **no una mejora del plan**.
+
 ### 🔍 En qué se diferencia del blog *(y por qué)*
 - **Ellos, 2 noches en Spreetshoogte; nosotros, 1** — la segunda se va a Etosha, que con tu ventana
   seca merece 4 noches
