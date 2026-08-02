@@ -1,7 +1,8 @@
-# Fauna de Etosha — la guía de campo en PDF
+# Fauna del viaje — la guía de campo en PDF
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 9 páginas A4,
-**24 mamíferos y 20 aves**, con foto **completa** de cada especie — sin recortes: cuernos, cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
+📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 14 páginas A4,
+**83 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
+cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
 
 *(GitHub no previsualiza PDF: pulsa el enlace y se descarga. Este documento es el índice, para poder
@@ -14,26 +15,26 @@ buscar una especie desde el repo.)*
 - **Nombre en castellano, científico e inglés** — el inglés importa: es el que veréis en los
   carteles del parque y el que usa todo el mundo allí
 - **Cómo reconocerla en el campo**: los rasgos que de verdad distinguen, no una descripción de
-  enciclopedia *(labio del rinoceronte, rosetas frente a manchas, rayas de la cebra, pico del cálao…)*
-- **Foto** de Wikimedia Commons, todas con **licencia libre CC BY o CC BY-SA**, con su autoría y
-  licencia bajo la imagen y en los créditos finales
+  enciclopedia *(labio del rinoceronte, rosetas frente a manchas, orejas de la hiena, pico del cálao…)*
+- **Foto** de Wikimedia Commons, todas con **licencia libre** (CC BY, CC BY-SA, CC0 o dominio
+  público), con autoría y licencia bajo la imagen y en los créditos finales
 
 ## Y lo que NO trae, dicho claro
 
 **No lleva un «dónde ver» de cada especie.** Solo tienen esa línea las **tres** que el dossier tiene
 verificadas *(rinoceronte negro, elefante y jirafa en la charca iluminada de Okaukuejo de noche)*.
-Para el resto habría que inventárselo, y aquí no se hace — la [regla de siempre](README.md).
+Para el resto habría que inventárselo, y aquí no se hace.
 
 Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horarios de puerta calculados
 para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las tres charcas
-iluminadas, el safari nocturno guiado de NWR (**N$750 ≈ €38** por persona) y las charcas que caen en
-la ruta de esos cuatro días—.
+iluminadas y el safari nocturno guiado de NWR (**N$750 ≈ €38** por persona)—, y un **bloque de
+seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ---
 
-## Las 44 especies
+## Las 83 especies
 
-### 🦁 Mamíferos
+### 🦁 Mamíferos (31)
 
 - **Elefante africano de sabana** — *Loxodonta africana* · African bush elephant
 - **Rinoceronte negro** — *Diceros bicornis* · Black rhinoceros
@@ -59,8 +60,15 @@ la ruta de esos cuatro días—.
 - **Suricata** — *Suricata suricatta* · Meerkat
 - **Alcélafo rojo** — *Alcelaphus buselaphus caama* · Red hartebeest
 - **Steenbok** — *Raphicerus campestris* · Steenbok
+- **Zorro orejudo** — *Otocyon megalotis* · Bat-eared fox
+- **Jineta de manchas pequeñas** — *Genetta genetta* · Small-spotted genet
+- **Puercoespín del Cabo** — *Hystrix africaeaustralis* · Cape porcupine
+- **Liebre saltadora** — *Pedetes capensis* · Springhare
+- **Klipspringer o saltarrocas** — *Oreotragus oreotragus* · Klipspringer
+- **Mangosta amarilla** — *Cynictis penicillata* · Yellow mongoose
+- **Oricteropo o cerdo hormiguero** — *Orycteropus afer* · Aardvark
 
-### 🦅 Aves
+### 🦅 Aves (28)
 
 - **Avestruz común** — *Struthio camelus* · Common ostrich
 - **Avutarda kori** — *Ardeotis kori* · Kori bustard
@@ -82,18 +90,65 @@ la ruta de esos cuatro días—.
 - **Cigüeña de Abdim** — *Ciconia abdimii* · Abdim's stork
 - **Estornino brillante del Cabo** — *Lamprotornis nitens* · Cape starling
 - **Pigargo vocinglero** — *Icthyophaga vocifer* · African fish eagle
+- **Pelícano blanco común** — *Pelecanus onocrotalus* · Great white pelican
+- **Águila volatinera o bateleur** — *Terathopius ecaudatus* · Bateleur
+- **Buitre orejudo** — *Torgos tracheliotos* · Lappet-faced vulture
+- **Flamenco común** — *Phoenicopterus roseus* · Greater flamingo
+- **Cormorán del Cabo** — *Phalacrocorax capensis* · Cape cormorant
+- **Charrán damara** — *Sternula balaenarum* · Damara tern
+- **Ostrero africano** — *Haematopus moquini* · African oystercatcher
+- **Francolín de pico rojo** — *Pternistis adspersus* · Red-billed spurfowl
+
+### 🦎 Reptiles (11)
+
+*Las tres primeras van por seguridad: dormís once noches en tienda.*
+
+- **Víbora bufadora** — *Bitis arietans* · Puff adder
+- **Cobra escupidora cebra** — *Naja nigricincta* · Zebra spitting cobra
+- **Mamba negra** — *Dendroaspis polylepis* · Black mamba
+- **Víbora de Péringuey** — *Bitis peringueyi* · Peringuey's adder
+- **Víbora cornuda** — *Bitis caudalis* · Horned adder
+- **Camaleón del Namib** — *Chamaeleo namaquensis* · Namaqua chameleon
+- **Gecko palmeado del Namib** — *Pachydactylus rangei* · Web-footed gecko
+- **Agama de roca de Namibia** — *Agama planiceps* · Namibian rock agama
+- **Varano de roca** — *Varanus albigularis* · Rock monitor
+- **Tortuga leopardo** — *Stigmochelys pardalis* · Leopard tortoise
+- **Lagarto de nariz de pala** — *Meroles anchietae* · Shovel-snouted lizard
+
+### 🌊 La costa, la roca y la arena (4)
+
+*Lo de fuera de Etosha: Cape Cross (D7), la laguna de Walvis Bay (D5–D6) y los roquedos de Damaraland.*
+
+- **Lobo marino del Cabo** — *Arctocephalus pusillus* · Cape fur seal
+- **Delfín de Heaviside** — *Cephalorhynchus heavisidii* · Heaviside's dolphin
+- **Damán roquero** — *Procavia capensis* · Rock hyrax
+- **Ardilla terrestre del Cabo** — *Xerus inauris* · Cape ground squirrel
+
+### 🐞 Bichos (9)
+
+*Los que se ven seguro en un viaje de camping — más que al leopardo.*
+
+- **Escarabajo de la niebla** — *Onymacris unguicularis* · Fog-basking beetle
+- **Escorpión de cola gruesa** — *Parabuthus villosus* · Black hairy thick-tailed scorpion
+- **Araña blanca del Namib** — *Leucorchestris arenicola* · Dancing white lady spider
+- **Termita constructora** — *Macrotermes michaelseni* · Termite
+- **Escarabajo pelotero** — *Scarabaeus satyrus* · Dung beetle
+- **Solífugo o araña camello** — *Solifugae* · Sun spider / camel spider
+- **Gusano de mopane** — *Gonimbrasia belina* · Mopane worm
+- **Milpiés gigante o shongololo** — *Archispirostreptus gigas* · Giant African millipede
+- **Mosquito anofeles** — *Anopheles* · Anopheles mosquito
 
 ---
 
 ## Cómo se regenera
 
-En [`fauna-fuente/`](fauna-fuente/) está lo necesario: `fetch.py` descarga las fotos de Wikimedia
-Commons con su licencia y autoría vía API, `especies.py` tiene los textos, `etosha.py` lo específico
-del parque, y `build.py` arma el HTML. El PDF sale con Chrome:
+En [`fauna-fuente/`](fauna-fuente/) está todo: `fetch.py` descarga las fotos de Wikimedia Commons
+con su licencia y autoría vía API, `especies.py` tiene los textos, `etosha.py` lo específico del
+parque y `build.py` arma el HTML. El PDF sale con Chrome:
 
 ```
 python3 fetch.py && python3 build.py
 google-chrome --headless --no-pdf-header-footer --print-to-pdf=guia-fauna-etosha.pdf guia.html
 ```
 
-*Las fotos no se guardan en el repo (pesan): `fetch.py` las vuelve a bajar. · 03/08/2026*
+*Las fotos no se guardan en el repo (pesan 5,6 MB): `fetch.py` las vuelve a bajar. · 03/08/2026*

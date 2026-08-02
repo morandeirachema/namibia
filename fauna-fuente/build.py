@@ -41,6 +41,9 @@ def tarjeta(m):
 
 mam = [m for m in man if m["grupo"] == "mamifero" and "local" in m]
 ave = [m for m in man if m["grupo"] == "ave" and "local" in m]
+rep = [m for m in man if m["grupo"] == "reptil" and "local" in m]
+cos = [m for m in man if m["grupo"] == "costa" and "local" in m]
+bic = [m for m in man if m["grupo"] == "bicho" and "local" in m]
 
 creditos = "".join(
     f"<li><strong>{m['es']}</strong> — {m['artist'] or 'autor no indicado'}, "
@@ -103,14 +106,16 @@ HTML = f"""<!doctype html>
                font-size: 7.2pt; line-height: 1.45; }}
   .final li {{ break-inside: avoid; margin-bottom: 1mm; }}
   .final .u {{ color: #8d867a; word-break: break-all; }}
+  .intro.peligro {{ background: #fbeeea; border-left-color: #9d0208; }}
   .nota {{ background: #f3ede2; padding: 3mm 4mm; border-radius: 2mm; font-size: 8pt; }}
 </style></head><body>
 
 <section class="portada">
   <div class="kicker">Namibia · 1–14 de noviembre de 2026</div>
   <h1>Fauna de Etosha</h1>
-  <h2>Guía de campo · {len(mam)} mamíferos y {len(ave)} aves</h2>
+  <h2>Guía de campo · {len(mam)+len(ave)+len(rep)+len(cos)+len(bic)} especies de toda la ruta</h2>
   <div class="datos">
+    <b>{len(mam)}</b> mamíferos · <b>{len(ave)}</b> aves · <b>{len(rep)}</b> reptiles · <b>{len(cos)}</b> de costa y roca · <b>{len(bic)}</b> bichos<br>
     Cuatro noches <b>dentro del parque</b><br>
     <b>Okaukuejo</b> · 9 nov &nbsp;—&nbsp; <b>Halali</b> · 10 nov &nbsp;—&nbsp; <b>Namutoni</b> · 11 y 12 nov<br>
     Final de la estación seca: la fauna, concentrada en las charcas
@@ -137,6 +142,40 @@ HTML = f"""<!doctype html>
 </div>
 <div class="grid">{''.join(tarjeta(m) for m in ave)}</div>
 
+<h2 class="sec" style="margin-top:6mm">Reptiles <span>{len(rep)} especies</span></h2>
+<div class="intro peligro">
+  <p><strong>Las tres primeras son seguridad, no coleccionismo.</strong> Dormís once noches en tienda
+  y andáis por Sossusvlei y Damaraland: lo útil no es distinguirlas de lejos, es
+  <strong>saber qué NO hacer</strong>. Nunca metas la mano donde no ves, <strong>mira dónde pisas al
+  anochecer</strong> —que es cuando salen a la pista tibia—, linterna para ir al baño, y si te
+  encuentras una, <strong>quédate quieto y retrocede</strong>: casi todas las mordeduras pasan al
+  intentar matarlas o cogerlas.</p>
+  <p>Las otras ocho son de las que apetece ver: el <strong>camaleón que corre</strong>, el
+  <strong>gecko translúcido</strong> de las dunas y el <strong>agama naranja</strong> de las rocas de
+  Damaraland.</p>
+</div>
+<div class="grid">{''.join(tarjeta(m) for m in rep)}</div>
+
+<h2 class="sec" style="margin-top:6mm">La costa, la roca y la arena <span>{len(cos)} especies</span></h2>
+<div class="intro">
+  <p>Etosha no es toda la fauna del viaje. Esto es lo que veréis <strong>fuera del parque</strong>:
+  en <strong>Cape Cross</strong> (D7), en la laguna de <strong>Walvis Bay</strong> (D5–D6), en los
+  roquedos de Damaraland y en la arena del Namib — incluidos los tres bichos pequeños que explican
+  cómo se sobrevive en un desierto de niebla.</p>
+</div>
+<div class="grid">{''.join(tarjeta(m) for m in cos)}</div>
+
+<h2 class="sec" style="margin-top:6mm">Bichos: los que de verdad te vas a encontrar <span>{len(bic)} especies</span></h2>
+<div class="intro">
+  <p>En un viaje de camping, <strong>estos los ves seguro</strong> — más que al leopardo. Van aquí por
+  tres motivos distintos: los que hay que <strong>respetar</strong> (escorpión), los que dan un susto
+  y son <strong>inofensivos</strong> (solífugo, shongololo), y los que explican cómo funciona este
+  desierto (el escarabajo que bebe niebla, la termita que construye).</p>
+  <p><strong>Y uno que no es anécdota:</strong> el mosquito. Es, de largo, el animal más peligroso de
+  la ruta — la profilaxis y el repelente están en <strong>`03`</strong>.</p>
+</div>
+<div class="grid">{''.join(tarjeta(m) for m in bic)}</div>
+
 <section class="final">
   <h2>Créditos de las fotografías</h2>
   <p class="nota">Todas las imágenes proceden de <strong>Wikimedia Commons</strong> y se reproducen
@@ -154,5 +193,5 @@ HTML = f"""<!doctype html>
 
 out = os.path.join(HERE, "guia.html")
 open(out, "w").write(HTML)
-print(f"HTML escrito: {out} ({len(HTML)//1024} KB) · {len(mam)} mamíferos + {len(ave)} aves"
+print(f"HTML escrito: {out} ({len(HTML)//1024} KB) · {len(mam)}M + {len(ave)}A + {len(rep)}R + {len(cos)}C + {len(bic)}B = {len(mam)+len(ave)+len(rep)+len(cos)+len(bic)}"
       f" · fichas con dato de Etosha: {sum(1 for m in man if DONDE.get(m.get('slug')))}")

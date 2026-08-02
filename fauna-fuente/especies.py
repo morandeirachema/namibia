@@ -24,7 +24,7 @@ ID = {
  "chacal": "La «silla de montar» negra y plateada sobre el lomo, y orejas grandes. Omnipresente en las charcas y desvergonzado en los campamentos.",
  "ratel": "Manto gris claro desde la cabeza hasta la cola sobre cuerpo negro. Pequeño, bajo, y con una fama de temerario que se ha ganado a pulso.",
  "facocero": "Verrugas en la cara y colmillos curvos hacia arriba. Corre con la cola tiesa como una antena y **se arrodilla sobre los codos** para pacer.",
- "suricata": "Se la ve antes de pie, haciendo de centinela sobre un montículo, que caminando. Terreno abierto, seco y con vista.",
+ "suricata": "De pie, haciendo de centinela sobre un montículo. ⚠️ **Ojo: NO es de Etosha** — vive en el Kalahari y el sur del país, así que en esta ruta no toca. Va aquí porque todo el mundo la busca.",
  "hartebeest": "Cara larguísima y estrecha, cuernos en forma de arpa montados sobre un pedúnculo, y grupa muy caída. Color rojizo brillante al sol.",
  "steenbok": "Pequeño, rojizo y con orejas enormes; solo el macho lleva cuernos, cortos y rectos. Se queda clavado mirándote y sale disparado en zigzag.",
  # --- AVES ---
@@ -48,4 +48,52 @@ ID = {
  "ciguena-abdim": "Cigüeña pequeña y oscura, de patas grises con las «rodillas» rojas. Llega con las primeras lluvias y por eso la llaman la cigüeña de la lluvia.",
  "estornino-cabo": "Azul verdoso metálico con el ojo naranja. En los campamentos, siempre atento a las migas de la mesa.",
  "pigargo-vocinglero": "Cabeza blanca y pecho castaño; su reclamo es, literalmente, el sonido de África. Necesita agua abierta, así que aquí depende del pan y de las charcas grandes.",
+
+ # --- REPTILES ---
+ "vibora-bufadora": "Gruesa, corta y con galones en uve por el lomo. **No huye: se queda quieta confiando en su camuflaje**, y de ahí que se le atribuyan la mayoría de mordeduras graves del continente. Mira dónde pisas al anochecer y nada de andar descalzo por el campamento.",
+ "cobra-cebra": "Del suroeste africano, con bandas oscuras. **Escupe el veneno a los ojos** a varios metros y con puntería. Si levanta el cuerpo y abre la capucha, retrocede despacio: nunca la acorrales.",
+ "mamba-negra": "Larga, delgada y **gris oliva** —lo negro es el interior de la boca, no la piel—. Rapidísima y nerviosa, pero esquiva: lo normal es no verla. La peor fama de África, y en buena parte merecida.",
+ "vibora-peringuey": "Diminuta, de la arena del Namib. **Se entierra dejando fuera solo los ojos** y se desplaza de lado. Suya es la huella en zigzag que aparece en las dunas por la mañana.",
+ "vibora-cornuda": "Un «cuerno» escamoso sobre cada ojo. Se entierra en la arena o la grava del desierto y espera. Pequeña, pero con veneno de verdad.",
+ "camaleon-namib": "El camaleón que **corre por el suelo del desierto** en vez de trepar. Cambia de color para regular su temperatura: oscuro de mañana para calentarse, pálido al mediodía. La estrella de los tours de «desierto vivo» de Swakopmund.",
+ "gecko-palmato": "Translúcido, con **membranas entre los dedos** que le hacen de raqueta sobre la arena y unos ojos enormes de nocturno. No tiene párpados: se limpia los ojos con la lengua.",
+ "agama-namibia": "El macho no se puede pasar por alto: **cabeza y cuello naranja encendido** sobre cuerpo azul violáceo. Toma el sol en lo alto de los peñascos de granito.",
+ "varano-roca": "Lagarto grande y robusto, de lengua bífida, que se ve cruzando pistas o rondando las charcas. Inofensivo si no lo arrinconas.",
+ "tortuga-leopardo": "La tortuga terrestre grande del sur de África, con el caparazón moteado como un felino. **Cruza las carreteras muy despacio**: es de lo que más se atropella, así que ojo al asfalto.",
+ "lagarto-pala": "El lagarto de las dunas. El hocico en forma de pala le sirve para **«nadar» dentro de la arena**, y hace el baile térmico: levanta las patas por parejas para no quemarse.",
+ # --- COSTA, ROCA Y ARENA ---
+ "lobo-marino": "En **Cape Cross** hay una de las mayores colonias del mundo: decenas de miles a la vista y oyéndose desde lejos. Aviso serio: **el olor es parte de la visita** — llevad pañuelo.",
+ "delfin-heaviside": "Pequeño y rechoncho, con el dorso oscuro en forma de cono. **Endémico de la corriente de Benguela**: no vive en ninguna otra parte del mundo. Salta girando sobre sí mismo.",
+ "daman": "Parece un roedor gordo, pero su pariente vivo más cercano es **el elefante**. En colonias sobre los roquedos, tomando el sol a primera hora.",
+ "ardilla-terrestre": "En el suelo, con la **cola en abanico sobre el lomo haciendo de sombrilla**. Vive en colonias junto a sus madrigueras y es de lo más visible en las llanuras de Etosha.",
+ "escarabajo-niebla": "El bicho que **bebe niebla**: sube a lo alto de la duna de madrugada y **hace el pino** para que la humedad condense en su caparazón y le resbale hasta la boca.",
+ "escorpion": "Grande y negro, con la **cola gruesa**. Regla de oro: cola gruesa y pinzas finas = veneno potente; pinzas grandes y cola fina = poco peligro. **Sacude las botas cada mañana** y no dejes ropa en el suelo.",
+ "arana-rueda": "Araña blanca y grande de las dunas, cazadora nocturna. El macho recorre cientos de metros por la noche buscando hembra y **«tamborilea» en la arena** para comunicarse — de ahí lo de *dancing white lady*.",
+ # --- AVE anadida ---
+ "pelicano": "Enorme y blanco, con el pico de bolsa amarillenta. Pesca en grupo en la laguna de **Walvis Bay**, y en el muelle se posan a un metro de la gente.",
+
+ # --- BICHOS ---
+ "termita": "No la verás a ella: verás **su edificio**. Los termiteros de metros de alto salpican toda la ruta, orientados para ventilarse solos. Son también las sospechosas del misterio de los **círculos de hadas** *(están en el cuaderno de joyas ocultas)*.",
+ "escarabajo-pelotero": "Modela una bola de estiércol más grande que él y la empuja **de espaldas y en línea recta**. Esta especie se orienta de noche **por la Vía Láctea** — se le comprobó tapándole la vista del cielo.",
+ "solifugo": "Ni araña ni escorpión: parece las dos cosas y **no es venenoso**. Corre como una bala hacia tu linterna —no hacia ti— y por eso asusta tanto en el campamento. Muerde si lo agarras: no lo agarres.",
+ "gusano-mopane": "La oruga a rayas que devora los mopanes… y que en el norte se come **frita con tomate y chili**: es proteína seria y la venden en los mercados *(ver el manual de intendencia)*.",
+ "shongololo": "Milpiés negro y brillante del grosor de un dedo. **Inofensivo**: se enrosca en espiral si lo tocas. Aparece a montones tras las primeras lluvias.",
+ "anofeles": "Se posa con **el cuerpo inclinado**, en ángulo con la piel, y pica de noche. Sin dramatismo: **es el animal más peligroso del viaje** — Etosha es zona de malaria *(profilaxis, en la guía de preparación)*. Repelente al anochecer y manga larga.",
+
+ # --- MAMIFEROS anadidos ---
+ "zorro-orejudo": "Orejas descomunales que usa de radar para **oír insectos bajo tierra**. En pareja o en grupillo familiar, trotando por la llanura al amanecer y al atardecer.",
+ "jineta": "Cuerpo alargado de gato, pelaje moteado y **cola anillada larguísima**. Nocturna y trepadora: la típica sombra que cruza el foco del campamento cuando cenáis.",
+ "puercoespin": "El roedor grande de África, cubierto de **púas blancas y negras**. Nocturno; a menudo se ven solo las púas que va perdiendo por el camino.",
+ "liebre-saltadora": "Ni liebre ni canguro, pero lo parece: **salta a dos patas** y sus ojos devuelven un reflejo rojo intenso a la linterna. Es de lo más visto en el safari nocturno.",
+ "klipspringer": "Antilopito de los roquedos: se sostiene **de puntillas, sobre las pezuñas**, en piedras imposibles. Casi siempre en pareja y quieto, mirándote desde arriba. Damaraland y Twyfelfontein.",
+ "mangosta-amarilla": "Rojiza-amarillenta, con la **punta de la cola blanca** y aire de zorrillo. Es la mangosta que de verdad se ve en Etosha, de día y junto a sus madrigueras.",
+ "oricteropo": "El premio gordo del safari nocturno: orejas de burro, hocico de cerdo y cola de canguro. **Estrictamente nocturno y rarísimo de ver** — sus excavaciones en los termiteros sí se ven por todas partes.",
+ # --- AVES anadidas ---
+ "bateleur": "En vuelo **no se le ve cola**: es una tabla negra con la cabeza roja, y se balancea de lado a lado planeando. De los rapaces más reconocibles del parque.",
+ "buitre-orejudo": "El buitre grande y feo, de **cabeza rosada desnuda** y pico enorme: es el que abre la piel del cadáver y deja comer al resto. Manda en la carroña.",
+ "flamenco-comun": "**Más grande y más pálido** que el enano, y con el pico rosa con la punta negra —el del enano se ve oscuro entero—. Los dos comparten la laguna de Walvis Bay.",
+ "cormoran-cabo": "Azulado oscuro con la cara amarilla. Vuela en **cintas larguísimas a ras del agua** frente a la costa; en Walvis Bay hay plataformas construidas para su guano.",
+ "charran-damara": "Charrán pequeño con **gorra negra completa** y pico negro. Cría casi solo en la costa namibia y es **especie amenazada**: si veis un nido en la grava de la costa, ni acercarse.",
+ "ostrero-africano": "Negro entero con **pico y patas rojo intenso**. De la costa rocosa; no llega a diez mil individuos en el mundo entero.",
+ "francolin-picorrojo": "El «pollo» ruidoso de los campamentos: pardo con **pico y patas rojos**. Os despertará al amanecer, sin falta.",
 }

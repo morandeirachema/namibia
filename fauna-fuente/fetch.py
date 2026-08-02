@@ -58,6 +58,63 @@ AVES = [
     ("pigargo-vocinglero", "Pigargo vocinglero", "African fish eagle", "Icthyophaga vocifer", "African fish eagle", None),
 ]
 
+REPTILES = [
+    ("vibora-bufadora", "Víbora bufadora", "Puff adder", "Bitis arietans", "Puff adder", None),
+    ("cobra-cebra", "Cobra escupidora cebra", "Zebra spitting cobra", "Naja nigricincta", "Naja nigricincta", None),
+    ("mamba-negra", "Mamba negra", "Black mamba", "Dendroaspis polylepis", "Black mamba", None),
+    ("vibora-peringuey", "Víbora de Péringuey", "Peringuey's adder", "Bitis peringueyi", "Peringuey's adder", None),
+    ("vibora-cornuda", "Víbora cornuda", "Horned adder", "Bitis caudalis", "Horned adder", None),
+    ("camaleon-namib", "Camaleón del Namib", "Namaqua chameleon", "Chamaeleo namaquensis", "Namaqua chameleon", None),
+    ("gecko-palmato", "Gecko palmeado del Namib", "Web-footed gecko", "Pachydactylus rangei", "Pachydactylus rangei", None),
+    ("agama-namibia", "Agama de roca de Namibia", "Namibian rock agama", "Agama planiceps", "Agama planiceps", None),
+    ("varano-roca", "Varano de roca", "Rock monitor", "Varanus albigularis", "Varanus albigularis", None),
+    ("tortuga-leopardo", "Tortuga leopardo", "Leopard tortoise", "Stigmochelys pardalis", "Leopard tortoise", None),
+    ("lagarto-pala", "Lagarto de nariz de pala", "Shovel-snouted lizard", "Meroles anchietae", "Meroles anchietae", None),
+]
+
+COSTA = [
+    ("lobo-marino", "Lobo marino del Cabo", "Cape fur seal", "Arctocephalus pusillus", "Brown fur seal", None),
+    ("delfin-heaviside", "Delfín de Heaviside", "Heaviside's dolphin", "Cephalorhynchus heavisidii", "Haviside's dolphin", None),
+    ("daman", "Damán roquero", "Rock hyrax", "Procavia capensis", "Rock hyrax", None),
+    ("ardilla-terrestre", "Ardilla terrestre del Cabo", "Cape ground squirrel", "Xerus inauris", "Cape ground squirrel", None),
+]
+
+BICHOS = [
+    ("escarabajo-niebla", "Escarabajo de la niebla", "Fog-basking beetle", "Onymacris unguicularis", "Onymacris unguicularis", None),
+    ("escorpion", "Escorpión de cola gruesa", "Black hairy thick-tailed scorpion", "Parabuthus villosus", "Parabuthus villosus", None),
+    ("arana-rueda", "Araña blanca del Namib", "Dancing white lady spider", "Leucorchestris arenicola", "Leucorchestris arenicola", None),
+    ("termita", "Termita constructora", "Termite", "Macrotermes michaelseni", "Macrotermes michaelseni", None),
+    ("escarabajo-pelotero", "Escarabajo pelotero", "Dung beetle", "Scarabaeus satyrus", "Scarabaeus satyrus", None),
+    ("solifugo", "Solífugo o araña camello", "Sun spider / camel spider", "Solifugae", "Solifugae", None),
+    ("gusano-mopane", "Gusano de mopane", "Mopane worm", "Gonimbrasia belina", "Gonimbrasia belina", None),
+    ("shongololo", "Milpiés gigante o shongololo", "Giant African millipede", "Archispirostreptus gigas", "Archispirostreptus gigas", None),
+    ("anofeles", "Mosquito anofeles", "Anopheles mosquito", "Anopheles", "Anopheles", None),
+]
+
+MAS_MAMIFEROS = [
+    ("zorro-orejudo", "Zorro orejudo", "Bat-eared fox", "Otocyon megalotis", "Bat-eared fox", None),
+    ("jineta", "Jineta de manchas pequeñas", "Small-spotted genet", "Genetta genetta", "Common genet", None),
+    ("puercoespin", "Puercoespín del Cabo", "Cape porcupine", "Hystrix africaeaustralis", "Cape porcupine", None),
+    ("liebre-saltadora", "Liebre saltadora", "Springhare", "Pedetes capensis", "Springhare", None),
+    ("klipspringer", "Klipspringer o saltarrocas", "Klipspringer", "Oreotragus oreotragus", "Klipspringer", None),
+    ("mangosta-amarilla", "Mangosta amarilla", "Yellow mongoose", "Cynictis penicillata", "Yellow mongoose", None),
+    ("oricteropo", "Oricteropo o cerdo hormiguero", "Aardvark", "Orycteropus afer", "Aardvark", None),
+]
+
+MAS_AVES = [
+    ("bateleur", "Águila volatinera o bateleur", "Bateleur", "Terathopius ecaudatus", "Bateleur", None),
+    ("buitre-orejudo", "Buitre orejudo", "Lappet-faced vulture", "Torgos tracheliotos", "Lappet-faced vulture", None),
+    ("flamenco-comun", "Flamenco común", "Greater flamingo", "Phoenicopterus roseus", "Greater flamingo", None),
+    ("cormoran-cabo", "Cormorán del Cabo", "Cape cormorant", "Phalacrocorax capensis", "Cape cormorant", None),
+    ("charran-damara", "Charrán damara", "Damara tern", "Sternula balaenarum", "Damara tern", None),
+    ("ostrero-africano", "Ostrero africano", "African oystercatcher", "Haematopus moquini", "African oystercatcher", None),
+    ("francolin-picorrojo", "Francolín de pico rojo", "Red-billed spurfowl", "Pternistis adspersus", "Red-billed spurfowl", None),
+]
+
+PELICANO = [
+    ("pelicano", "Pelícano blanco común", "Great white pelican", "Pelecanus onocrotalus", "Great white pelican", None),
+]
+
 
 def api(base, params):
     params = dict(params)
@@ -119,7 +176,9 @@ def download(url, dest):
 
 
 manifest = []
-for grupo, lista in (("mamifero", MAMIFEROS), ("ave", AVES)):
+for grupo, lista in (("mamifero", MAMIFEROS), ("mamifero", MAS_MAMIFEROS),
+                     ("ave", AVES), ("ave", PELICANO), ("ave", MAS_AVES),
+                     ("reptil", REPTILES), ("costa", COSTA), ("bicho", BICHOS)):
     for slug, es, en, sci, wtitle, override in lista:
         try:
             if override:
@@ -131,6 +190,8 @@ for grupo, lista in (("mamifero", MAMIFEROS), ("ave", AVES)):
                 manifest.append({"slug": slug, "grupo": grupo, "es": es, "en": en,
                                  "sci": sci, "wiki": wtitle, "error": "sin pageimage"})
                 continue
+            if os.path.exists(os.path.join(IMG, slug + ".jpg")) and not override:
+                pass
             info = commons_info(fname)
             if not info:
                 print(f"!! SIN META    {slug} -> {fname}")
