@@ -1,7 +1,8 @@
 # Guía de preparación y de carretera
 
-Namibia, 4x4 por libre, dos personas, 14 días, finales de noviembre de 2026.
-Investigación cerrada el 16/07/2026 · **Tipo de cambio: ~N$20 = €1** (rango N$19,5–20,5)
+Namibia, 4x4 por libre, dos personas, **31 de octubre – 15 de noviembre de 2026** (14 días en el país).
+Investigación cerrada el 16/07/2026 · **cuenta atrás y plazos recalculados a las fechas reales el
+02/08/2026** · **Tipo de cambio: ~N$20 = €1** (rango N$19,5–20,5)
 
 Cada dato lleva su grado de evidencia:
 **✅ verificado en fuente primaria** · **◐ corroborado en fuente secundaria** · **○ práctica común sin fuente citable**
@@ -15,8 +16,8 @@ de dato verificado. Un hueco reconocido vale más que un número plausible.
 
 ### 1. El sendero del Fish River Canyon está CERRADO en noviembre ✅
 
-La temporada del *Fish River Canyon Hike* es **mayo–septiembre**. Un viaje a finales de noviembre
-cae **entero fuera**. Y aunque fuera temporada, tampoco podríais: NWR exige **mínimo 3 personas**
+La temporada del *Fish River Canyon Hike* es **mayo–septiembre**. Un viaje en noviembre cae
+**entero fuera**. Y aunque fuera temporada, tampoco podríais: NWR exige **mínimo 3 personas**
 para reservarlo, y sois dos.
 
 > Son 85 km, 4–5 días, con certificado médico de aptitud. En noviembre, el Fish River Canyon es
@@ -58,7 +59,8 @@ xychart-beta
 ```
 
 - **Hardap** (Sesriem/Sossusvlei): 119 de 628 = **18,9 %** — casi **1 de cada 5**
-- **!Karas** (Fish River, Lüderitz, Kolmanskop): 72 de 540 = **13,3 %**
+- **!Karas** (Fish River, Lüderitz, Kolmanskop): 72 de 540 = **13,3 %** *(ya no se pisa en la
+  ruta E; se deja como contexto)*
 - **Kunene** (Damaraland, Twyfelfontein): 37 de 502 = **7,4 %**
 - **Erongo** (Swakopmund, Spitzkoppe): 125 de 2.170 = **5,8 %**
 - **Khomas** (Windhoek): 94 de 7.839 = **1,2 %**
@@ -81,23 +83,27 @@ Otjozondjupa: **está dentro**.
 
 ```mermaid
 flowchart LR
-    N["Etapa NORTE<br/>Etosha + Damaraland"] --> R["⚠️ Zona de riesgo<br/>de malaria"]
-    S["Etapa SUR<br/>Sossusvlei · Swakopmund<br/>Luderitz"] --> NR["✅ Sin riesgo"]
+    N["Etapa NORTE<br/>Etosha D9-D12 + Damaraland D8"] --> R["⚠️ Zona de riesgo<br/>de malaria"]
+    S["Desierto y costa<br/>Sossusvlei · Walvis Bay"] --> NR["✅ Sin riesgo"]
     W["Windhoek"] --> NR
-    R --> T["Finales de nov = inicio<br/>de lluvias = mas mosquitos"]
+    R --> T["Tu ventana 1-14 nov va ANTES<br/>del arranque tipico de lluvias:<br/>riesgo en su minimo estacional"]
     T --> P["Consultar profilaxis<br/>en la cita del CVI"]
     style R fill:#9d0208,color:#fff
     style NR fill:#2d6a4f,color:#fff
-    style T fill:#e85d04,color:#000
+    style T fill:#2d6a4f,color:#fff
 ```
 
-El itinerario queda **partido**: las etapas de Etosha y Damaraland/Kaokoveld llevan riesgo; las del
-desierto sur, prácticamente ninguno. **Finales de noviembre importa**: es el arranque de las lluvias,
-cuando sube el mosquito.
+El itinerario queda **partido**: las etapas de Etosha y Damaraland llevan riesgo; las del desierto
+y la costa, prácticamente ninguno. **Y tu ventana juega a favor**: la primera quincena de noviembre
+va **antes** del arranque típico de las lluvias (ver `09`), con el mosquito en su mínimo estacional.
+El riesgo bajo no es riesgo cero: la consulta del CVI decide.
 
-**La profilaxis marca la cuenta atrás**, porque cada fármaco tiene su plazo:
+**La profilaxis marca la cuenta atrás**, porque cada fármaco tiene su plazo — y con Etosha al final
+del viaje (**D9–D12, del 9 al 12 de noviembre**), las fechas reales son:
 - **Atovacuona/proguanil (Malarone)** — empieza **1–2 días antes** de entrar en zona de riesgo
-- **Mefloquina** — empieza **2–3 semanas antes**
+  (~7–8 de noviembre, ya de viaje: hay que llevarla comprada)
+- **Mefloquina** — empieza **2–3 semanas antes** → **~19–26 de octubre**, receta necesaria en la
+  cita del CVI de septiembre
 
 👉 **Saca la receta en la cita del CVI, no la semana antes.**
 Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
@@ -110,22 +116,27 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
+*Recalculada el 02/08/2026 a la salida real del **31 de octubre**. Los hitos de julio ya vencieron
+y siguen pendientes: van los primeros.*
+
 ```mermaid
 timeline
-    title Cuenta atras hasta finales de noviembre de 2026
-    AHORA · julio (4 meses) : Reservar el 4x4 — es el cuello de botella
-                            : Reservar Sesriem y campamentos de Etosha
-                            : Comprobar pasaportes contra la fecha de VUELTA
-                            : Decidir la escala ANTES de emitir billetes
-    Agosto (3 meses) : Pedir cita en el Centro de Vacunacion Internacional
-                     : La cita es el recurso escaso, no la vacuna
-    Septiembre-octubre : Acudir al CVI · recetas de profilaxis
-                       : Pedir el permiso internacional de conducir
-    Octubre (6-8 sem) : Seguro con REPATRIACION — es condicion de entrada
-                      : Adaptadores tipo M · mapa en papel
-    Finales de octubre : Solicitar el e-visa
-    ~10 de noviembre : Ultimo dia para la fiebre amarilla si la ruta la exige
-    1 semana antes : Imprimirlo TODO — Namibia funciona con papel
+    title Cuenta atras hasta el 31 de octubre de 2026 — quedan ~90 dias
+    VENCIDO · era julio : Reservar el 4x4 — Namibia2Go Budget, disponible a 17-07
+                        : Reservar Sesriem, Terrace Bay y campamentos de Etosha
+                        : Comprobar pasaportes contra la vuelta del 15 nov
+    AHORA · agosto : Pedir cita YA en el Centro de Vacunacion Internacional
+                   : La cita es el recurso escaso, no la vacuna
+                   : Emitir el vuelo — el presupuesto de referencia se mueve
+                   : Preguntas por escrito a Namibia2Go e IATI
+    Septiembre : Acudir al CVI (para el 31-10, atendidos hacia el 19-26 sep)
+               : Recetas de profilaxis — la mefloquina empieza ~19-26 oct
+               : Resolver el permiso internacional de conducir
+    Primera semana de octubre : Solicitar el e-visa — necesita billete y reservas
+                              : Adaptadores tipo M · mapa en papel
+    ~22 de octubre : Ultimo dia fiebre amarilla SI la ruta la exigiera (llegada 1 nov)
+    ~24 de octubre : Imprimirlo TODO — Namibia funciona con papel
+                   : Recomprobar diesel y self-drive a Deadvlei
 ```
 
 ### El portal del e-visa — y las webs que te van a cobrar de más ✅
@@ -151,9 +162,10 @@ Fuente: https://www.airports.com.na/useful-information/e-visa-information/129/
 ### Reserva el coche primero ○
 
 El vehículo, no el vuelo, es lo que se agota. Los doble cabina equipados con tienda de techo son una
-flota pequeña compartida por todo el mercado de Windhoek — y **finales de noviembre concentra la
-demanda justo en el precipicio del 15 de noviembre**: todo el que persigue ese ahorro compite por
-los mismos coches la misma semana.
+flota pequeña compartida por todo el mercado de Windhoek. **Tu coche ya está elegido y estaba
+disponible a 17/07 — Namibia2Go Budget, €1.800 (~N$36.000) por 12 días: resérvalo antes que nada**
+(la Comfort ya salía «Not Available»). Y tu quincena compite con todo el que persigue la temporada
+baja de Namibia2Go, que arranca justo el 1 de noviembre.
 
 ⚠️ **Sin fuente:** no encontré ninguna empresa que publique un «reserva con X meses». Es práctica
 del sector, no un plazo citable. **Reserva el coche antes que vuelos no reembolsables**: una ruta
@@ -165,8 +177,8 @@ El MAEC exige *«válido durante al menos 6 meses a partir de la fecha de regres
 blanco»*. **Ojo a la trampa:** el organismo de turismo namibio lo redacta como 6 meses desde la
 **entrada**, que es más laxo. **Usa la lectura estricta española.**
 
-Para una vuelta a primeros de diciembre de 2026 → pasaporte válido **hasta junio de 2027 como
-mínimo**. Tres páginas en blanco **de verdad**: las que ya tienen sellos no cuentan.
+Para la vuelta real del **15 de noviembre de 2026** → pasaporte válido **hasta el 15 de mayo de
+2027 como mínimo**. Tres páginas en blanco **de verdad**: las que ya tienen sellos no cuentan.
 
 > Si alguno falla, **renuévalo YA**. El cuello de botella es la **cita previa** en Policía Nacional,
 > no la impresión. Dejarlo para noviembre es como se pierden los viajes.
@@ -184,7 +196,8 @@ atendido**, no cuánto antes hay que **llamar**. En verano, la cita es el recurs
 > La fiebre amarilla **solo** se pone en un Centro de Vacunación Internacional autorizado.
 > **Tu médico de cabecera no puede emitir la cartilla amarilla.**
 
-👉 **Pide cita en agosto para que te atiendan a finales de septiembre u octubre.**
+👉 **Estamos en agosto: pide la cita ESTA SEMANA.** Para la salida del 31 de octubre, «4–6 semanas
+de antelación» significa ser atendidos **hacia el 19–26 de septiembre** — «u octubre» ya no vale.
 Fuente: https://www.sanidad.gob.es/areas/sanidadExterior/laSaludTambienViaja/centrosVacunacionInternacional/centrosvacu.htm
 
 ### La fiebre amarilla tiene mecha de 10 días — y luego dura toda la vida ✅
@@ -195,7 +208,8 @@ certificado *«shall extend for the life of the person vaccinated, beginning 10 
 of vaccination»*.
 
 - Si tu ruta la exige, la vacuna debe ser **10 días completos antes de LLEGAR** a Namibia
-- Para llegar ~20 de noviembre → **como muy tarde ~10 de noviembre** (y apurarlo así es una locura)
+- Para la llegada real del **1 de noviembre** → **como muy tarde el ~22 de octubre** (y apurarlo
+  así es una locura)
 - **Lo bueno:** es **vitalicia**, obliga a todos los estados del RSI desde el 11/07/2016, y **nadie
   puede exigirte un refuerzo jamás**. Una dosis te cubre todos los viajes futuros.
 
@@ -224,6 +238,12 @@ certificado a quien venga de —o **transite 12 h por**— un país de riesgo.
 >
 > ⚠️ No intentes apurar con una escala de 11 horas. O evitas el país de riesgo, o te pinchas.
 
+> ✅ **Con el vuelo de referencia ya elegido, esto se resuelve solo**: las escalas en Adís son de
+> **2h20 (ida)** y **2h45 (vuelta)**, las dos *airside* — muy por debajo del umbral de 12 h, la
+> exención aplica y **no hace falta la vacuna** (ver README). ⚠️ Si el itinerario cambiara al
+> emitir (escala larga, otra ruta, la parada gratis en ciudad de Ethiopian), **esta decisión se
+> reabre** — recomprueba este árbol antes de pagar.
+
 ---
 
 ## 🚗 Conducir en Namibia
@@ -232,6 +252,10 @@ certificado a quien venga de —o **transite 12 h por**— un país de riesgo.
 
 Ya está en `01`: **80 km/h contractuales en grava**, con **caja negra** que registra velocidad y
 posición y **se lee tras un accidente**. Superarlo **anula el seguro**.
+
+⚠️ *Matiz de contrato: eso está documentado en los contratos de **Asco y African Tracks** (ver
+`05`). La cláusula concreta del contrato vigente —**Namibia2Go Budget**— sigue **sin verificar**:
+pídela al reservar. Mientras tanto, asume el 80 igualmente: es el número que te separa del 37 %.*
 
 Cruzado con el dato de vuelcos de arriba, el 80 deja de ser burocracia: es el número que te separa
 del 37 % de los muertos.
@@ -271,7 +295,7 @@ los que los ~4 finales exigen 4x4 de verdad.
 > Board and to self-drive visitors with 4x4 vehicles»*.
 >
 > A 16/07/2026 **el self-drive está permitido**, pero **ya ha bailado una vez en tres meses**.
-> 👉 **Reconfírmalo ~4 semanas antes.**
+> 👉 **Reconfírmalo ~4 semanas antes = primeros de octubre de 2026.**
 > Fuente: https://www.tourismupdate.com/article/namibia-restores-self-drive-access-to-deadvlei
 
 ### No conduzcas de noche
@@ -280,8 +304,10 @@ El consejo es bueno y está corroborado, pero **con la fuente puesta en su sitio
 
 - **El dato que sí aguanta** ✅: NRSC 2019, tabla 6 — *«Most crashes occurred between 16:00 - 19:59
   (4.811)»*, y tabla 11: **121 de 413 muertos (29,3 %)** en esa franja.
-- **El anochecer a finales de noviembre en Windhoek es ~19:16**. Es decir: la franja más mortal del
-  país **coincide con tu último tramo del día**.
+- **El anochecer en Windhoek ronda las ~19:16 a finales de noviembre** *(el dato se calculó para la
+  ventana antigua; en tu quincena del 1–14 anochece algo antes — no hay cifra verificada, planifica
+  con margen)*. En cualquier caso: la franja más mortal del país **coincide con tu último tramo del
+  día**.
 - ❌ **Lo que NO puedes citar**: el FCDO británico sí dice *«avoid driving at night outside towns,
   as wildlife and livestock are serious hazards»*, **pero ese punto está dentro de una lista
   encabezada por «During the rainy season from January to April»**. No es consejo anual: presentarlo
@@ -302,9 +328,11 @@ El texto real es:
 La lista **está condicionada a la temporada de lluvias de enero a abril**. En toda la página, «spare»
 solo aparece ahí. **No existe una recomendación FCDO incondicional de llevar dos repuestos.**
 
-✅ **Lo que sí es cierto y relevante:** **Asco incluye una segunda rueda de repuesto** en su tarifa
-(ver `01`). Con **un solo neumático cubierto por el Super Cover** y 2.500–3.500 km de grava por
-delante, llevar dos repuestos físicos es sensato **por criterio propio**, no porque lo mande el FCDO.
+✅ **Lo que sí es cierto y relevante:** la ficha de **tu Namibia2Go Budget lista 2 ruedas de
+repuesto de serie** (ver README) — justo lo sensato con ~2.600 km de grava por delante, **por
+criterio propio**, no porque lo mande el FCDO. *(Asco, la descartada, también las incluía: es
+práctica del sector.)* ⚠️ Una ficha web no es una garantía: **pide por escrito al reservar que tu
+unidad concreta sale con las dos.**
 
 👉 **En la entrega**: que te enseñen físicamente el gato, la llave, **los dos repuestos**, el
 compresor y las herramientas. Antes de salir del depósito.
@@ -413,8 +441,8 @@ xychart-beta
 > Una noche de 15–18 °C es **forro polar y pantalón largo**, no plumas. **Deja en casa el plumas,
 > los térmicos, el gorro y los guantes**: son peso muerto en el poco sitio de una tienda de techo.
 
-**El problema real de finales de noviembre es el CALOR**, no el frío: 34–35 °C de día, y una tienda
-de techo al sol **es inhabitable hasta bien entrada la noche**.
+**El problema real de tu ventana de noviembre es el CALOR**, no el frío: 34–35 °C de día, y una
+tienda de techo al sol **es inhabitable hasta bien entrada la noche**.
 
 ⚠️ Estas cifras son de **nwrnamibia.com** (secundaria). En `01` consta que **todas** las temperaturas
 que veníamos manejando de webs de safaris fueron **refutadas 0–3** — estas son mejores, pero no son
@@ -440,19 +468,23 @@ tienen la corriente de Benguela y son otra cosa.
 
 Los 12V del coche se saltan el problema entero.
 
-### Lo que Asco ya incluye — y el «etc.» peligroso ✅
+### Lo que el coche ya incluye — y el inventario que hay que pedir POR ESCRITO ✅
 
-Asco dice incluir *«one roof tent (or ground tent if desired), a refrigerator, tables, chairs,
-pillows and duvets, BBQ grill, pots and pans, kitchen tools, **etc.**»*
+La ficha de **tu Namibia2Go Budget** lista: 2 tiendas de techo Tentco, mesa, 4 sillas, ropa de cama
+para 4, menaje completo, nevera eléctrica, compresor y 2 ruedas de repuesto (ver README).
 
-> ⚠️ Ese **«etc.»** no es un inventario. 👉 **Pide por email a info@ascocarhire.com el inventario
-> detallado POR ESCRITO** antes de cerrar la reserva, y no compres nada que ya venga.
+> ⚠️ Una ficha web no es un inventario firmado. 👉 **Pide a Namibia2Go el inventario detallado POR
+> ESCRITO al reservar** (📞 +264 61 427 220 · [namibia2go.com](https://namibia2go.com)) y no
+> compres nada que ya venga. *(La lección viene de Asco, la descartada, cuyo listado acababa en un
+> «etc.» que no es un inventario.)*
 
 ---
 
 ## 🦁 Normas, seguridad y trato
 
 ### Kolmanskop necesita permiso — y el de fotógrafo es otro ticket ✅
+
+> 🕳️ **Fuera de la ruta E** — el sur quedó para otro viaje. Se conserva por si vuelve.
 
 Kolmanskop está **dentro de la zona restringida de diamantes**: se entra **con permiso**.
 Tarifas **etiquetadas «2026/2027» en la web del operador** (vigentes para el viaje):
