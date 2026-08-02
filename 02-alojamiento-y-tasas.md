@@ -167,7 +167,10 @@ es la pregunta abierta.
 - Sesriem, safari guiado de mañana — N$600 (~€30) *(sin desayuno)* / N$700 (~€35) *(con desayuno)*
 - Sesriem, ruta al atardecer a Elim Dune — N$300 (~€15)
 - Sesriem, ruta del cañón — N$200 (~€10)
-- **Okaukuejo, safari nocturno guiado** — N$750 (~€38)
+- **Etosha — los TRES campamentos donde dormís** *(Okaukuejo, Halali y Namutoni)*, verificado el
+  03/08/2026 en sus fichas de nwr.com.na: safari guiado de **mañana N$650 (~€33)** · de **tarde
+  N$650 (~€33)** · **NOCTURNO N$750 (~€38)**. ❌ *Horarios de salida: NWR no los publica en ninguna
+  parte — hay que preguntarlos en recepción (ver `11`).*
 - Dolomite, safari guiado de mañana/tarde — N$650 (~€33)
 - Sossus Dune Lodge, safari guiado — N$750 (~€38)
 

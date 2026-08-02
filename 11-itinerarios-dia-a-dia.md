@@ -367,13 +367,82 @@ gantt
 donde añade algo que por libre es imposible o está prohibido.**
 
 - **Etosha → tu 4x4, self-drive** ✅. Las pistas principales son aptas para tu Hilux (60 km/h,
-  parando en cada charca); no hace falta ningún vehículo del parque para el safari de día. Lo que
-  **sí** merece pagarse: el **safari nocturno guiado de NWR (N$750 · ~€38/persona)** ✅ — de noche
-  está **prohibido circular por libre**, así que es literalmente la única forma de moverse por el
-  parque a oscuras. Buen plan: una noche en Okaukuejo (D9). *(La charca iluminada del campamento
-  es gratis y no necesita vehículo: andando desde tu parcela.)* Tips ○: en las charcas apaga el
-  motor y dale 15–20 min — la fauna llega por turnos; los coches parados en racimo delatan un
-  avistamiento; lleva los prismáticos EN el asiento, no en el maletero.
+  parando en cada charca); **no hace falta ningún vehículo del parque para el safari de día**, y
+  además tenéis **13 horas de puerta a puerta**. Lo que **sí** merece pagarse: el **safari nocturno
+  guiado de NWR (N$750 · ~€38/persona)** ✅ — de noche está **prohibido circular por libre**, así que
+  es literalmente la única forma de estar en el parque a oscuras. Buen plan: una noche en Okaukuejo
+  (D9). *(La charca iluminada del campamento es gratis y no necesita vehículo: andando desde tu
+  parcela.)* Tips ○: en las charcas apaga el motor y dale 15–20 min — la fauna llega por turnos;
+  los coches parados en racimo delatan un avistamiento; lleva los prismáticos EN el asiento.
+
+#### 🎟️ Las excursiones que se pueden contratar, con precio ✅
+
+**Verificado el 03/08/2026 en las fichas de los propios campamentos de NWR** — y **los tres donde
+dormís venden lo mismo**, por persona:
+
+- 🌅 **Safari guiado de mañana — N$650 (~€33)**
+- 🌇 **Safari guiado de tarde — N$650 (~€33)**
+- 🌙 **Safari NOCTURNO guiado — N$750 (~€38)**
+
+*(Fuentes: fichas de [Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/),
+[Halali](https://www.nwr.com.na/resorts/halali-resort/) y
+[Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/) en nwr.com.na.)*
+
+#### 🕐 Los horarios de salida: **NWR no los publica** ❌
+
+Buscado el 03/08/2026 y no aparecen en ninguna parte: **ni en las fichas de los tres campamentos,
+ni en la [página de actividades](https://www.nwr.com.na/activities/) de NWR** —que solo dice que
+podrás hacer *«an early, afternoon or late evening Game Drive»*, sin una sola hora—, **ni en su
+motor de reservas**, que exige registro. **No hay horario oficial que copiar, así que no se
+inventa.**
+
+**Lo que sí se puede deducir**, porque los guiados van atados al sol igual que las puertas ○:
+
+- **El de mañana** sale con la apertura o poco antes → hacia las **06:00–06:15** en vuestros días
+- **El de tarde** sale a media tarde y aprovecha la última luz → vuelta hacia el **cierre, ~19:10**
+- **El nocturno** empieza **cuando ya es de noche**, después de cenar → **a partir de ~19:30–20:00**
+
+👉 **Confírmalos en recepción el día que llegues** y apunta la hora: es lo que decide si el D9 lo
+dedicas a la charca o al vehículo. 📞 Okaukuejo **+264 67 229 800** · reservas centrales NWR
+**+264 61 285 7200**.
+
+*Nota sobre «las empresas que operan»: durmiendo **dentro**, tu operador es **NWR** y punto. Los
+lodges privados de las puertas (Ongava, Onguma, Etosha Safari Lodge, Mokuti) hacen sus propios
+game drives, pero **son para sus huéspedes** y están sujetos a las mismas horas de puerta — no
+puedes contratarles una salida desde el camping.*
+
+Y fuera de Etosha, ya en el dossier: **lanzadera de Deadvlei N$180 (~€9)** ✅, safari guiado de
+mañana en Sesriem N$600–700, Elim Dune N$300, cañón N$200 *(ver `02`)*.
+
+#### 🌙 El nocturno: el único que compra algo imposible por libre
+
+**De día, pagar N$650/persona no tiene mucho sentido en vuestro caso**: ya tenéis 4x4, trece horas
+de puerta a puerta y libertad para quedaros en una charca el rato que queráis. Lo que compra el
+guiado de día son **los ojos del guía** y un vehículo alto y abierto — legítimo, pero no cambia el
+viaje.
+
+**El nocturno sí**: de noche está prohibido circular por libre, así que es **la única forma de estar
+en el parque a oscuras** y ver lo que solo sale entonces — oricteropo, puercoespín, liebre saltadora,
+leones cazando. **N$1.500 (~€75) los dos.**
+
+> ### 👉 Hazlo desde NAMUTONI, no desde Okaukuejo
+> Suena raro, pero sale de cruzar dos datos verificados: **la charca iluminada de Okaukuejo es
+> probablemente el mejor sitio de África para ver rinoceronte negro de noche**, y la de **Halali es
+> famosa por el leopardo y el puercoespín** — las dos son **gratis y sin coche, andando desde la
+> parcela**. En cambio la de **Namutoni (King Nehale) es la más floja de las tres**: «se ven animales
+> ocasionalmente».
+>
+> **Conclusión: gasta el nocturno la noche en que menos pierdes** — el **D11 o el D12, en
+> Namutoni** —, y deja intactas las noches de Okaukuejo (D9) y Halali (D10) para sentarte en sus
+> charcas, que es gratis y de las mejores cosas del viaje.
+
+> ⚠️ **Dos cosas que preguntar al reservar:** los **horarios de salida** (no están publicados) y si
+> el nocturno **se puede dejar cerrado desde España** — la tarifa de NWR avisa de que *«no se
+> aceptan reservas anticipadas de actividades en temporada de lluvias»*, y vuestra quincena es el
+> hombro justo antes. 📞 Okaukuejo **+264 67 229 800**.
+>
+> 💶 **Y ojo al presupuesto:** el nocturno **se come entero** el margen de actividades (~€38 p.p. en
+> `10`). Con la lanzadera de Deadvlei son **~€47 p.p.**: cuenta ~€10 más por cabeza.
 - **Sossusvlei → tu 4x4 hasta el final** *(estado a 16/07: self-drive permitido — reconfirma en
   octubre, ver `05`)*. Los últimos ~5 km de arena son 4H de verdad; si no te apetece la arena, la
   **lanzadera del concesionario (N$180 · ~€9/persona)** ✅ hace exactamente ese tramo. Big Daddy y
