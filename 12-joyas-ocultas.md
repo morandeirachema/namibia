@@ -97,7 +97,7 @@ Fuentes ◐/○: [sandwich-harbor.com](https://www.sandwich-harbor.com/tours) ·
 ### D6 · Moon Landscape + Welwitschia Drive *(la excursión del día de descanso)*
 Badlands lunares del valle del Swakop y **ruta autoguiada de 13 paradas** que acaba en una
 welwitschia de **~1.500 años**, con el oasis de Goanikontes en medio. **Permiso obligatorio en la
-oficina del MEFT en Swakopmund** (Bismarck Str. esq. Sam Nujoma Ave.) — los blogs citan N$50–80 +
+oficina del MEFT en Swakopmund** (Bismarck Str. esq. Sam Nujoma Ave.) — los blogs citan N$50–80 (~€2,5–4) +
 vehículo, pero es Namib-Naukluft (parque premium): **cuenta con N$280 (~€14)/adulto y confírmalo
 en la oficina**. ⚠️ La oficina cierra el fin de semana según blogs — **tu D6 es viernes** ✓.
 Fuentes ○/◐: [The Orange Backpack](https://theorangebackpack.nl/en/namibia/the-welwitschia-drive/) ·
@@ -141,7 +141,7 @@ Fuentes: [Windhoek Express](https://www.we.com.na/scoreboard/exorbitant-fees-for
 ### D8 · Petrified Forest *(pequeño desvío por la C39 hacia Khorixas)*
 Troncos fosilizados del Pérmico (**~260 millones de años**), algunos de decenas de metros, con
 welwitschias creciendo entre ellos. Guía obligatorio incluido. Precio ◐: **N$270 (~€13,5)/adulto**
-(N$220 niños). Mejor luz: antes de las 9:00 o después de las 15:00 ○.
+(N$220 · ~€11 niños). Mejor luz: antes de las 9:00 o después de las 15:00 ○.
 Fuentes: [Windhoek Express](https://www.we.com.na/scoreboard/exorbitant-fees-for-dilapidated-heritage-areas2023-09-11) ◐ ·
 [namibia-safaris.com](https://www.namibia-safaris.com/petrified-forest-in-namibia/) ·
 [Atlas Obscura](https://www.atlasobscura.com/places/petrified-forest-of-khorixas) ○
@@ -150,11 +150,11 @@ Fuentes: [Windhoek Express](https://www.we.com.na/scoreboard/exorbitant-fees-for
 Dolina kárstica de **145 m de profundidad** donde las tropas alemanas **arrojaron sus cañones y
 munición antes de rendirse en 1915** — parte se expone en el museo de Tsumeb, parte sigue abajo
 como «museo subacuático». La parada perfecta para partir el D13. Precio ◐: **N$250 (~€12,5)**
-según el tarifario NHC vía prensa *(las fuentes viejas decían N$25: caducado)*. Abre desde las
+según el tarifario NHC vía prensa *(las fuentes viejas decían N$25 · ~€1,25: caducado)*. Abre desde las
 08:00 ○, cierre sin dato.
 Fuentes: [Windhoek Express](https://www.we.com.na/scoreboard/exorbitant-fees-for-dilapidated-heritage-areas2023-09-11) ◐ ·
 [info-namibia](https://www.info-namibia.com/activities-and-places-of-interest/otavi/lake-otjikoto) ○
-*(Y de propina en el mismo día: el meteorito de **Hoba** — N$250 ◐ — si vais sobrados; ya está en `11`.)*
+*(Y de propina en el mismo día: el meteorito de **Hoba** — N$250 (~€12,5) ◐ — si vais sobrados; ya está en `11`.)*
 
 ### D2/D4 · Solitaire, el ángulo no típico
 Ya paras dos veces — pero la historia mejora la foto: **los Chevy y Ford oxidados de los 50 fueron
@@ -177,7 +177,7 @@ Fuentes ○: [HuffPost](https://www.huffpost.com/entry/a-moose-an-apple-pie-in-t
   desvío serio del D7, con permiso (Henties Bay/MEFT), líquenes fragilísimos y estado incierto:
   **ya desaconsejado en `06`**. Si algún día sobra un día, existe.
 - **Vingerklip** *(el «dedo de Dios», monolito de 35 m)* — solo encaja **cambiando el D9 a la
-  variante Khorixas–Outjo**, que no es el plan. Precio ○: ~N$20. Se apunta por si el D8-D9 se
+  variante Khorixas–Outjo**, que no es el plan. Precio ○: ~N$20 (~€1). Se apunta por si el D8-D9 se
   reordena sobre la marcha. Fuentes ◐: [Wikipedia](https://en.wikipedia.org/wiki/Vingerklip) ·
   [info-namibia](https://www.info-namibia.com/activities-and-places-of-interest/damaraland/vingerklip)
 

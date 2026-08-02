@@ -103,6 +103,64 @@ bebida** *(viernes = alcohol disponible; el domingo 8 no habrá)*.
 
 ---
 
+## ⛽ Las gasolineras del recorrido, una a una — y qué tienen al lado
+
+*Contexto que manda sobre todo esto ◐: NWR (la estatal) sufrió **cortes de combustible en sus
+resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos de su proveedor
+([crónica](http://umhambi.blogspot.com/2025/03/namibia-wildlife-resorts-nwr-issues.html)). Regla:
+**todo surtidor de NWR es «probable, no garantizado» — se entra siempre lleno.***
+
+- **Windhoek** ✅ — decenas, todas las marcas, muchas 24 h ([localizador Puma](https://pumaenergy.com/wp-content/uploads/2025/08/Puma-Energy-Africa-Stations-Locations.pdf) ·
+  [Shell](https://find.shell.com/na/fuel/locations/en_NA)). **Sal lleno**: por Spreetshoogte no hay
+  NADA hasta Solitaire (~250 km).
+- **Solitaire** ✅ — gasolina + diésel + **taller de neumáticos**; al lado, la panadería McGregor
+  (la tarta, sándwiches y pies para llevar), el **Café van der Lee** (comidas y cenas a diario) y
+  el general dealer **con cajero** ([solitairenamibia.com](https://www.solitairenamibia.com/)).
+- **Sesriem** ✅ — **doble surtidor**: la **Sossus Oasis (Engen)** frente a la puerta — diésel
+  50 ppm, tienda gorda (hielo, leña, pies, congelados), taller, «acepta la mayoría de tarjetas»
+  ([sossus-oasis.com](https://www.sossus-oasis.com/servicestation.html)) — y el del **campsite NWR**
+  (oficial, pero con historial de cortes). Comer: el buffet del **Sossusvlei Lodge** en la puerta ✅.
+- **Walvis Bay / Swakopmund** ✅ — varias 24 h (Puma, Engen, Shell); tienda 24/7 en Walvis Bay
+  Express ✅.
+- **Henties Bay** ✅ — **Puma 24 h con mini-tienda**; la última «de marca» antes del parque. Comer
+  ○: **Fishy Corner** (el nº 1 del pueblo). *(El Spar: incendio y reconstrucción — estado por
+  reverificar, ver arriba.)*
+- **Cape Cross** ◐ — sin estación: el **lodge guarda una reserva limitada «de cortesía»** para
+  campistas ([capecross.org](https://www.capecross.org/camping/)) — no cuentes con ella. *(Un blog
+  sitúa combustible en **Mile 108**, en la C34 ○.)*
+- **Puertas Ugabmund / Springbokwasser** — **sin combustible en el parque** ○
+  ([guía 2026](https://4x4afrika.com/2026/01/26/skeleton-coast-national-park-guide-2026/)).
+  Horarios ○: Ugab 07:30–15:00 *(coherente con la regla de pernocta)*, Springbokwasser
+  07:30–17:00.
+- **Terrace Bay** ⚠️ — **hay surtidor físico** (ficha de viajeros ◐, «tarjeta a veces, lleva
+  efectivo»), pero **la página oficial de NWR NO lo lista**, se quedó seco en 2025 y alguna guía
+  lo da «solo para huéspedes» ○. 👉 **La regla de `07` se mantiene: entra con autonomía para
+  salir sin repostar aquí.** Tienda pequeña y restaurante de menú fijo, sí ✅/◐.
+- **Bergsig** ❌ — **ninguna gasolinera documentada en ninguna fuente**; solo una tienda de
+  básicos ○. Planifica como si no hubiera nada.
+- **Palmwag** *(fuera de la E, el respaldo del tramo)* ✅ — **surtidor 07:00–19:00, diésel
+  50 ppm** en el lodge de Gondwana ([oficial](https://gondwana-collection.com/accommodation/palmwag-lodge));
+  lleva efectivo por si el datáfono ○.
+- **Twyfelfontein** ◐/○ — irregular: la bomba histórica ya no va; hay reportes de surtidor tras el
+  Country Lodge, **pero la web oficial del lodge no lo menciona** → respaldo de emergencia, no plan.
+- **Grootberg / Hoada** ❌ — nada; los puntos más cercanos son Palmwag (23 km del pass) y Kamanjab.
+- **Kamanjab** ✅/◐ — **Shell con tienda SaveMor Spar** (comida fresca para llevar) + una segunda
+  estación con general dealer (pan, ferretería, recambios).
+- **Outjo** ✅ — Shell **Eyambeko** con tienda; y la parada clásica: la **Outjo Bakkery** ✅
+  (panadería-cafetería histórica frente al Spar — [outjobakkery.com](https://outjobakkery.com/)).
+  **Aquí se llena antes de Andersson.**
+- **Dentro de Etosha** ✅⚠️ — **los tres campamentos listan «Filling Station» en la web oficial de
+  NWR** ([Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
+  [Halali](https://www.nwr.com.na/resorts/halali-resort/) ·
+  [Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/)) — con el historial de cortes de
+  2025 encima: efectivo a mano y depósito lleno desde Outjo. **Respaldo justo fuera**: la **Etosha
+  Trading Post** a 6,5 km de Andersson — «suministro estable», diésel 50 ppm, take-away caliente y
+  taller ✅ ([etosha-tradingpost.com](https://www.etosha-tradingpost.com/facilities.html)).
+- **Tsumeb / Otjiwarongo / Okahandja (D13)** ✅ — Puma 24 h y Shell en la B1; ciudades con de todo.
+- **Uis** *(solo si el D8 se desvía)* ✅/○ — Engen con tienda; ojo: se ha visto cerrada en festivo.
+
+---
+
 ## 🍖 Comidas típicas — y dónde cae cada una en TU ruta
 
 ### Los platos
@@ -192,7 +250,7 @@ flowchart TD
 - **Marfil: prohibido en la UE desde el 19/01/2022** ◐/✅; **welwitschia = CITES Apéndice II** ✅
   (nada de semillas ni plantas — [CITES](https://cites.org/eng/gallery/species/other_plant/welwitschia_mirabilis.html)).
 - **Namibia a la salida** ✅ ([guía NamRA](https://www.namra.org.na/documents/cms/uploaded/customs-procedure-travellers-guide-information-1579b9600b.pdf)):
-  declarar efectivo ≥ **N$100.000**; productos de especies controladas, solo con permiso
+  declarar efectivo ≥ **N$100.000 (~€5.000)**; productos de especies controladas, solo con permiso
   (Act 9/2008).
 - **España a la entrada** ✅ ([AEAT](https://sede.agenciatributaria.gob.es/Sede/viajeros-trabajadores-desplazados-fronterizos/viajeros/franquicias-tabaco-alcohol-otras-mercancias.html)):
   franquicia de **430 €/persona** en compras (guarda tickets), 200 cigarrillos, **1 L de >22° o

@@ -270,8 +270,10 @@ gantt
 - **Sesriem** ✅: puerta exterior de amanecer a ocaso; la interior, **1 h antes del amanecer y 1 h
   después del ocaso**. Para tus noches del 3–4 nov ☀️: interior **~05:10–20:10**, exterior
   **~06:10–19:10**. *Confírmalo en recepción al llegar: se mueve con el orto real (`05`).*
-- **Skeleton Coast** ◐: puertas de Ugabmund y Springbokwasser **07:30–19:00**; para pernoctar en
-  Terrace Bay hay que cruzar Ugabmund **antes de las 15:00** y con **reserva confirmada** (`06`).
+- **Skeleton Coast** ◐: para pernoctar en Terrace Bay hay que cruzar Ugabmund **antes de las
+  15:00** y con **reserva confirmada** (`06`). Horarios de puerta: las fuentes bailan — NWR/foros
+  daban 07:30–19:00; guías recientes, Ugab 07:30–15:00 y Springbokwasser 07:30–17:00 (`13`). **En
+  la práctica manda el 15:00.**
 - **Etosha** ✅/◐: puertas del parque y de los campamentos **del amanecer al ocaso** — tus días
   (9–12 nov) ☀️: **~06:10 a ~19:05**. De noche te quedas dentro: la charca iluminada es el plan.
 - **Kiosco SIM de MTC en el aeropuerto** ◐: cierra **~21:00** — aterrizas a las 13:20, de sobra.
@@ -280,9 +282,12 @@ gantt
 - **Otjitotongwe (guepardos)** ◐ — C40, a 24 km de Kamanjab, de camino el D9 (lunes):
   alimentación **~15:00**; si no te alojas, avisa antes. *(Una fuente dice que cierra los fines
   de semana — tu paso es lunes.)*
+- **Gasolinera en Etosha** ✅⚠️: los tres campamentos **listan «Filling Station» en la web oficial
+  de NWR**, pero con historial de cortes en 2025 — entra lleno desde Outjo; respaldo: la Etosha
+  Trading Post a 6,5 km de Andersson (`13`).
 - **❌ Sin verificar — pídelo al reservar con NWR:** horarios de desayuno/restaurante de los
-  campamentos (importa para salir al alba: pide desayuno para llevar o hazlo tú), horario y
-  existencia real de gasolinera en cada campamento de Etosha, y el horario de Joe's Beerhouse.
+  campamentos (importa para salir al alba: pide desayuno para llevar o hazlo tú) y el horario de
+  Joe's Beerhouse.
 
 ### 🦁 En los parques: ¿tu 4x4 o el vehículo del parque?
 

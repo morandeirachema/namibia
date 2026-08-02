@@ -132,10 +132,13 @@ flowchart LR
    presupuesta **130–150 km de combustible que quizá no habías contado**
 3. **🚨 El tramo crítico REAL de la E — el bucle de la Costa de los Esqueletos (D7–D8):** Henties
    Bay → Cape Cross → Ugabmund → **Terrace Bay**, y al día siguiente Springbokwasser → Bergsig →
-   Twyfelfontein → Hoada. **❌ No está verificado si hay diésel en Terrace Bay ni en ese bucle:
-   trátalo como si NO lo hubiera.** Llena en **Henties Bay** (✅ tiene gasolinera, ver README) y
-   calcula el bucle entero costa→Damaraland con ese depósito. *Distancia del bucle: solo
-   estimaciones de `11` (~390 + ~300 km) — km sin verificar.*
+   Twyfelfontein → Hoada. **Actualización 02/08 ◐: en Terrace Bay HAY surtidor físico (reportes de
+   viajeros), pero la web oficial de NWR no lo lista, se quedó seco en los cortes de 2025 y alguna
+   guía lo da «solo huéspedes» — la regla NO cambia: trátalo como si no hubiera.** En **Bergsig no
+   hay gasolinera documentada** y la de Twyfelfontein es irregular (ver `13`). Llena en **Henties
+   Bay** (✅ Puma 24 h) y calcula el bucle entero costa→Damaraland con ese depósito; el respaldo
+   del tramo es **Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅ Gondwana)**, a 23 km del paso de
+   Grootberg. *Distancia del bucle: solo estimaciones de `11` (~390 + ~300 km) — km sin verificar.*
 4. *(Del eje antiguo, ya fuera de la E: Palmwag → Okaukuejo 385 km y Khorixas → Palmwag — se dejan
    como referencia por si se cambia de plan.)*
 
@@ -408,8 +411,8 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
 
 - **Precio exacto del combustible** en Windhoek, Solitaire o cualquier estación del interior: la
   tabla oficial de diferenciales del MME no respondía
-- **Si hay diésel en Terrace Bay** y en el bucle Ugabmund–Springbokwasser (D7–D8 de la E):
-  **trátalo como que NO** y llena en Henties Bay
+- **El surtidor de Terrace Bay**: existe físicamente ◐ pero NWR no lo publicita y se secó en 2025
+  — **trátalo como que NO** y llena en Henties Bay (detalle estación a estación: `13`)
 - **Los km reales del eje de la costa y Damaraland** (D7–D9): solo estimaciones de `11`
 - **Precios actuales de los bonos turistas de MTC** y de la eSIM: sus páginas no respondían
 - **Disponibilidad de combustible dentro de los campamentos de parques**: reportes sin confirmar
