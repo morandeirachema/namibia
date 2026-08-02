@@ -552,6 +552,7 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 - 💎 [**`12-joyas-ocultas`**](12-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, círculos de hadas… lo no típico, día a día
 - 🛒 [**`13-comida-compras-y-regalos`**](13-comida-compras-y-regalos.md) — súper por parada, la ley del alcohol, dónde comer, regalos y aduana
 - 🎒 [**`14-equipaje`**](14-equipaje.md) — el petate que dictan los datos: qué llevar, qué no, y los tres micro-kits
+- 🦁 [**`15-fauna-etosha`**](15-fauna-etosha.md) — **guía de campo en PDF** con foto de 24 mamíferos y 20 aves, para imprimir y llevar en la guantera
 
 ### 🗺️ Tus 34 pines, en una línea
 
