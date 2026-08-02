@@ -1,7 +1,14 @@
-# Conducir en Namibia — documento profundo
+# 05 · Conducir en Namibia
 
-Todo lo que la investigación sacó sobre conducción, con las cifras completas y sus límites.
-**~N$20 = €1** (16/07/2026) · **✅ primaria** · **◐ secundaria** · **○ práctica común sin fuente**
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> El documento duro: el vuelco, el contrato, las presiones, la arena de Sossusvlei y las puertas de Sesriem.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 03/08/2026*
+
 
 > Este documento no endulza nada. En Namibia lo que te puede matar es la carretera, no los
 > animales ni el crimen — lo dice explícitamente el MAEC. Aquí están los números.
@@ -133,7 +140,7 @@ personas, depósitos llenos, agua y tienda de techo está **en el extremo pesado
 presión que uno vacío, sobre todo en el eje trasero.
 
 👉 **No cojas un número de un foro.** Pide en el depósito la presión en frío **para tu vehículo con
-tu carga** y apúntala. **Comprueba en frío cada mañana**: con el calor de finales de noviembre la
+tu carga** y apúntala. **Comprueba en frío cada mañana**: con el calor de noviembre la
 presión sube mucho en caliente, y **bajar un neumático caliente hasta la cifra “de frío” te deja
 peligrosamente desinflado a la mañana siguiente**.
 

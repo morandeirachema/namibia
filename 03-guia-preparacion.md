@@ -1,11 +1,14 @@
-# Guía de preparación y de carretera
+# 03 · Guía de preparación y de carretera
 
-Namibia, 4x4 por libre, dos personas, **31 de octubre – 15 de noviembre de 2026** (14 días en el país).
-Investigación cerrada el 16/07/2026 · **cuenta atrás y plazos recalculados a las fechas reales el
-02/08/2026** · **Tipo de cambio: ~N$20 = €1** (rango N$19,5–20,5)
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> La cuenta atrás hasta la salida, el e-visa, las vacunas, las normas de conducción y lo que hay que llevar hecho desde casa.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 03/08/2026*
 
-Cada dato lleva su grado de evidencia:
-**✅ verificado en fuente primaria** · **◐ corroborado en fuente secundaria** · **○ práctica común sin fuente citable**
 
 La técnica de conducción en grava no tiene fuente oficial: va marcada como ○ en vez de disfrazarla
 de dato verificado. Un hueco reconocido vale más que un número plausible.

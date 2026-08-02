@@ -1,4 +1,13 @@
-# Itinerario y viabilidad — el documento que decide el viaje
+# 04 · Itinerario y viabilidad
+
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> Distancias, firme y tiempos calculados a velocidad de seguro — y la respuesta honesta a qué cabe de verdad en catorce días.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
 
 > ## 🔄 NOTA (17/07/2026): la ruta final NO incluye el sur
 > Decisión posterior del viajero: **el sur se quitó entero** (Fish River, Lüderitz/Kolmanskop,
@@ -17,7 +26,6 @@
 Distancias reales, firme, tiempos calculados a velocidad de seguro, y una respuesta honesta a la
 pregunta que importa: **¿cabe todo en 14 días?**
 
-**~N$20 = €1** (17/07/2026) · **✅ verificado/convergente** · **◐ secundario** · **○ estimación propia marcada**
 
 > Este documento **no infla la ruta para complacer**. Una ruta ajustada y factible vale más que una
 > completa e imposible. Donde un número es una estimación, lo dice. Donde una etapa no cabe, lo dice.

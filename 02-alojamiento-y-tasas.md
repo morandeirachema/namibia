@@ -1,11 +1,17 @@
-# Alojamiento y tasas — verificado contra la tarifa oficial 2026/2027
+# 02 · Alojamiento y tasas
 
-Fuente: **NWR Rack Rates 2026/2027, "01 November 2026 – 31 October 2027"**
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> Las tarifas oficiales de NWR 2026/2027, leídas del PDF: campings, chalets, actividades y tasas de parque.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 03/08/2026*
+
 https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf
 *(descargado y leído directamente el 16/07/2026)*
 
-**Tipo de cambio usado: ~N$20 = €1** (rango observado N$19,5–20,5 = €1, a 16/07/2026).
-El importe en N$ es el que se paga; el euro es orientativo.
 
 ---
 

@@ -1,4 +1,13 @@
-# Los itinerarios, día a día
+# 11 · Los itinerarios, día a día
+
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> La Variante E desarrollada día por día —con sol, temperatura, horarios y precios— y las variantes descartadas, como referencia.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
 
 > ## 🔄 ACTUALIZACIÓN FINAL 17/07/2026 — la ruta es la VARIANTE E
 >

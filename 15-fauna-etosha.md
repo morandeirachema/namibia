@@ -1,4 +1,13 @@
-# Fauna del viaje — la guía de campo en PDF
+# 15 · Fauna del viaje
+
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> El índice de la guía de campo en PDF: 83 especies con foto, cómo reconocerlas y dónde y cuándo verlas.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 03/08/2026 · formato y contenido revisados el 03/08/2026*
 
 📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 18 páginas A4,
 **83 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,

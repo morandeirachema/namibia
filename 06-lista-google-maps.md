@@ -1,7 +1,14 @@
-# Tu lista de Google Maps — análisis
+# 06 · Tus 34 pines de Google Maps
 
-34 sitios marcados, aportados por el viajero el 17/07/2026.
-**~N$20 = €1** · **✅ verificado** · **◐ secundario** · **⚠️ por verificar**
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> La lista del viajero, medida y triada: qué cabe, qué cuesta un desvío y qué choca con el seguro.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+
 
 ---
 

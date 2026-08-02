@@ -1,8 +1,14 @@
-# Comida, compras y regalos — el manual de intendencia
+# 13 · Comida, compras y regalos
 
-Dónde comprar, qué comer y qué traer a casa, parada a parada de la Variante E. Investigado el
-**02/08/2026**. **~N$20 = €1** · **✅ primaria/oficial** · **◐ secundaria** · **○ blogs/foros** ·
-lo que no tiene fuente dice **«sin dato»**.
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> El manual de intendencia: supermercados y gasolineras parada a parada, la ley del alcohol, qué comer y qué se puede traer a casa.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 02/08/2026 · formato y contenido revisados el 03/08/2026*
+
 
 ---
 

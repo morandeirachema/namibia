@@ -1,7 +1,14 @@
-# Logística de carretera — documento profundo
+# 07 · Logística de carretera
 
-Combustible, distancias, agua, comida, cobertura, dinero y emergencias.
-**~N$20 = €1** (17/07/2026) · **✅ primaria** · **◐ secundaria** · **○ práctica común sin fuente**
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> Combustible, distancias, dinero, cobertura y emergencias — el documento que se consulta con el coche en marcha.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+
 
 ---
 
@@ -25,7 +32,7 @@ Energía, Modestus Amutse:
 > así que **no hay cifra exacta para Windhoek ni Solitaire**. 👉 **No dejes que nadie te dé un precio
 > preciso de una estación remota sin enseñarte el boletín oficial.**
 >
-> **2. Namibia revisa el precio CADA MES.** La cifra de julio **no vale para finales de noviembre**.
+> **2. Namibia revisa el precio CADA MES.** La cifra de julio **no vale para tu quincena de noviembre**.
 > Solo en 2026 los precios han pegado bandazos: **+N$2,50 gasolina / +N$4,00 diésel el 1 de abril**,
 > más subidas en mayo y junio, y **esta bajada de N$4,00 en julio**.
 >

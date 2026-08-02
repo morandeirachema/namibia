@@ -1,7 +1,33 @@
-# Huecos cerrados — temperaturas, viento, luz, vuelos, tasas y lodges
+# 08 · Huecos cerrados
 
-Investigación cerrada el 17/07/2026 · **actualizada el 01/08/2026** (**Camp Gecko, al pie del paso de Spreetshoogte, identificado como opción de camping D2**, con banda de precio ○ contradictoria entre dos búsquedas —N$220 vs N$280 pp— y primaria 403: sigue sin verificarse, pero es la propiedad del paso que faltaba por precisar y su ventana de tarifa parece cubrir nov·2026; ver §Campings) · **actualizada el 31/07/2026** (**ventana de luz recalculada para las fechas REALES del viaje, 1–15 nov** —antes estaba solo para el 25 nov—: a comienzos de noviembre **anochece ~13–18 min ANTES** y el margen para no conducir de noche es algo menor; ver §Luz) · actualizada el 27/07/2026 (**reanálisis ERA5** vía Google Cloud pone por fin número a los tres huecos sin estación —**Lüderitz ~24,5 °C, Sesriem ~32,5 °C, Fish River ~32 °C** en nov—, validado contra estaciones; ver §ERA5. El 26/07 el dataset **GSOD** de NOAA validó las temperaturas con una red independiente y añadió **Mariental**; ver §GSOD. El 25/07 TAAG salió de ❌ en §Vuelos; el 23/07 se localizó el Government Gazette de las tasas, ver §Tasas. El 27/07 se cerró el **viento de la costa** con GSOD —Walvis Bay en noviembre es suave de media, ~13 km/h, ver §Viento— y se calculó la **ventana de luz** por longitud, ver §Luz) · **~N$20 = €1** · para el euro/dólar (vuelos) se usa **~$1,10 ≈ €1** e se avisa donde se aplica
-**✅ primaria** · **◐ secundaria concordante** · **○ práctica común** · **❌ no verificado**
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> El cuaderno de bitácora de la investigación: temperaturas de estación, viento, luz, vuelos, tasas y lodges.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+
+### 📓 Registro de la investigación
+
+Este documento es el cuaderno de bitácora: cada pasada añade lo que cerró y lo que sigue abierto.
+
+- **01/08** — **Camp Gecko**, al pie del paso de Spreetshoogte, identificado como opción de camping
+  del D2. Banda de precio ○ **contradictoria** entre dos búsquedas (N$220 vs N$280 p.p.) y primaria
+  en 403: **sigue sin verificarse**. Ver §Campings.
+- **31/07** — **Ventana de luz recalculada para las fechas reales** (1–15 nov; antes estaba solo
+  para el 25). A comienzos de noviembre **anochece 13–18 min antes**. Ver §Luz.
+- **27/07** — El **reanálisis ERA5** pone número a los tres huecos sin estación: **Lüderitz ~24,5 °C,
+  Sesriem ~32,5 °C y Fish River ~32 °C** en noviembre, validado contra estaciones (§ERA5). Cerrado
+  también el **viento de la costa** con GSOD —Walvis Bay ~13 km/h de media en noviembre (§Viento)—
+  y calculada la ventana de luz por longitud.
+- **26/07** — El dataset **GSOD** de la NOAA valida las temperaturas con una red independiente y
+  añade **Mariental**. Ver §GSOD.
+- **25/07** — **TAAG** sale de ❌ en §Vuelos.
+- **23/07** — Localizado el **Government Gazette** de las tasas de parque. Ver §Tasas.
+
+*Para el euro/dólar de los vuelos se usa **~$1,10 ≈ €1**, y se avisa donde se aplica.*
 
 > ### ⚙️ Límite técnico de esta pasada — importante para auditar
 > En este entorno **la descarga directa de páginas (WebFetch) está bloqueada** por la política de red:
@@ -485,7 +511,7 @@ flowchart TD
 mayoría de las noches**; ancla bien las esquinas y cuenta con **alguna tarde de brisa fuerte** (~25
 km/h) y, de forma aislada, un día de viento serio. **No es Lüderitz.** Octubre y diciembre salen
 prácticamente iguales (medias ~12,5 y ~13 km/h; máximos sostenidos ~25 y ~24,5 km/h), así que la
-elección de finales de noviembre **no penaliza** por viento en la costa.
+elección de noviembre **no penaliza** por viento en la costa.
 
 **Honestidad de la extracción:**
 - El campo **GUST solo trae dato ~30 % de los días** (173 de 581), así que la **racha máxima de 78
@@ -622,10 +648,10 @@ flowchart LR
   **Luanda → Windhoek** directo **2 h 30**, **4 vuelos/semana** (TAAG es la única que lo hace sin escala).
 - ⚠️ Misma cautela de fiebre amarilla que Adís (Luanda es zona de riesgo).
 
-### Precios — SOLO instantáneas de fechas de muestra, NO una tarifa para finales de noviembre
+### Precios — SOLO instantáneas de fechas de muestra, NO una tarifa para tus fechas
 
 > **Aviso rojo:** los números de abajo son **capturas sueltas de fechas concretas** que devolvió el
-> buscador, **no tarifas cotizadas para finales de noviembre de 2026**. Sirven para hacerse una idea
+> buscador, **no tarifas cotizadas para el 31 oct – 14 nov de 2026**. Sirven para hacerse una idea
 > del **orden de magnitud**, nada más. La tarifa real hay que sacarla en el buscador de la aerolínea
 > con las fechas exactas.
 

@@ -1,6 +1,14 @@
-# Cuándo empezaron de verdad las lluvias — histórico, temporada a temporada
+# 09 · Cuándo empiezan de verdad las lluvias
 
-Datos **observados** de las últimas 5 temporadas. Investigación cerrada el 17/07/2026.
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> Cinco temporadas observadas, milímetro a milímetro, para decidir fechas con datos y no con folletos.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+
 
 > ## Por qué existe este documento
 >

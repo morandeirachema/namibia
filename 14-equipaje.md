@@ -1,8 +1,14 @@
-# Equipaje — la mochila que dicta el dossier, no el instinto
+# 14 · Equipaje
 
-Qué llevar para 31 oct – 15 nov 2026, deducido de lo ya verificado en este repo. **✅/◐ = viene de
-un dato del dossier (se indica el doc)** · **○ = práctica común, sin fuente citable** · lo que no
-se sabe, dice **«sin dato»**. Escrito el 02/08/2026.
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> La mochila que dictan los datos del dossier: qué llevar, qué dejar en casa y los tres micro-kits de los días señalados.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 02/08/2026 · formato y contenido revisados el 03/08/2026*
+
 
 ---
 

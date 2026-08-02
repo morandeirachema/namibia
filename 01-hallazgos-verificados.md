@@ -1,13 +1,18 @@
-# Namibia 4x4 por libre, oct–dic 2026 — Hallazgos verificados (1ª pasada)
+# 01 · Hallazgos verificados
 
-Dos adultos, 14 días, ida y vuelta desde A Coruña. Fecha de investigación: 16/07/2026.
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> Lo que sobrevivió a la verificación adversarial a tres votos: alquiler, seguros, visado, tasas — y lo que quedó refutado.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 03/08/2026*
 
-Todo lo de abajo ha superado una verificación adversarial a 3 votos contra fuentes primarias.
+
 Lo **refutado** está al final — varias de esas afirmaciones circulan por toda la web y habrían
 costado dinero real.
 
-**Tipo de cambio usado: ~N$20 = €1** (rango observado N$19,5–20,5 = €1, a 16/07/2026).
-El importe en la moneda de la fuente es el bueno; la conversión es orientativa.
 
 ---
 

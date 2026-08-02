@@ -1,8 +1,14 @@
-# Joyas ocultas — lo no típico, pegado a TU ruta
+# 12 · Joyas ocultas
 
-Lo que no sale en el itinerario estándar, ordenado por el día de la Variante E en que cae.
-Investigado el **02/08/2026** con la regla de siempre: **cada dato lleva fuente; lo que no la
-tiene, dice «sin dato»**. **~N$20 = €1** · **✅ primaria** · **◐ secundaria** · **○ blogs/foros**.
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> Lo que no sale en el itinerario estándar, ordenado por el día en que cae: los Lone Stone Men, la cascada del Uniab, los círculos de hadas.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 02/08/2026 · formato y contenido revisados el 03/08/2026*
+
 
 > ⚠️ **Aviso de precios de monumentos:** el baremo del National Heritage Council que citan estas
 > fuentes es el **2024/25 vía prensa local** ([Windhoek Express](https://www.we.com.na/scoreboard/exorbitant-fees-for-dilapidated-heritage-areas2023-09-11))

@@ -1,12 +1,18 @@
-# Presupuesto — dos personas, 14 días / 13 noches, 1–14 de noviembre de 2026
+# 10 · Presupuesto
+
+> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+>
+> Lo que cuesta el viaje, partida a partida, con el porcentaje que ya está cerrado y el que sigue siendo estimación.
+>
+> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
+>
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
 
 Coste real del viaje **ya cerrado en lo grande** (vuelo, coche y seguro reservados), en N$ y €. Cada
 cifra lleva su marca de confianza y su fuente. **Donde no hay dato verificado, se dice y se deja como
 estimación marcada: un número plausible presentado como hallazgo es un fallo grave — aquí no se hace.**
 
-**~N$20 = €1** (rango 19,5–20,5; a 17/07/2026) · el importe en la moneda de la fuente es el bueno, la
-conversión es orientativa · **✅ primaria** · **◐ secundaria concordante** · **○ práctica común sin
-fuente** · **❌ no verificado / en blanco**
 
 > ## 🔄 NOTA (17/07/2026): este presupuesto es el de la RUTA VIGENTE (Variante E, norte)
 > Versiones anteriores de este documento presupuestaban la **Variante A** (sur + Namib + costa, con
