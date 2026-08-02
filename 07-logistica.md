@@ -36,9 +36,11 @@ Energía, Modestus Amutse:
 **Para presupuestar:** **N$25–27/l (~€1,25–1,35)** de diésel en el interior, **como estimación, no
 como dato**. 👉 **Recomprueba la semana antes de salir.**
 
-**Cálculo del viaje** *(aritmética nuestra, no cifra de fuente)*: un Hilux doble cabina cargado en
-**2.800–3.200 km** mixtos de asfalto y grava, a **~11–13 l/100 km**, quema **~350–400 l** →
-**~N$9.000–10.500 (~€450–525)**.
+**Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta E)*: un Hilux
+doble cabina cargado en los **~2.600 km de la Variante E** (banda 2.400–2.800), a **~11–13 l/100 km**,
+quema **~290–365 l** → banda **N$6.336–9.828 (~€317–491)**, central **~N$7.956**. **Se presupuestan
+~N$8.000 (~€400)** — el detalle, en `10`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
+2.800–3.200 km de la ruta con el sur.)*
 
 Fuente: https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/
 
@@ -61,8 +63,8 @@ Fuente: https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-
 por satélite fuera de servicio, sitios remotos. **Un depósito de 80 l a ~N$26/l son ~N$2.080 (~€104)
 por repostaje.**
 
-👉 Pregunta a Asco **por escrito** si su tarjeta de combustible sirve **en Solitaire y en Palmwag
-concretamente**, no «en Namibia».
+👉 Pregunta a **Namibia2Go** *(tu proveedor)* **por escrito** si tienen tarjeta o acuerdo de
+combustible y si sirve **en Solitaire y en Henties Bay concretamente**, no «en Namibia».
 
 ### Te sirven ellos, y se propina ○
 
@@ -106,16 +108,21 @@ Distancias **por carretera** (km), de la matriz de Namibia Tours & Safaris:
 
 > ⚠️ **Aviso de antigüedad:** la matriz tiene **copyright de septiembre de 2010**. Las distancias por
 > carretera cambian poco, pero **verifícalas** contra Tracks4Africa o GPS actual.
+>
+> 🕳️ **Y aviso de cobertura (02/08/2026):** la matriz **no tiene los tramos propios de la ruta E**
+> — Henties Bay → Cape Cross → **Ugabmund → Terrace Bay** (D7), la salida por **Springbokwasser →
+> Bergsig → Twyfelfontein → Hoada** (D8) ni **Hoada → Kamanjab** (D9). De esos solo hay
+> estimaciones ◐/○ en `11`.
 
 ### 🚨 Los tramos peligrosos
 
 ```mermaid
 flowchart LR
     S["Solitaire"] -->|"210 km · NADA en medio<br/>pasos de Gaub y Kuiseb"| W["Walvis Bay<br/>Swakopmund"]
-    P["Palmwag"] -->|"385 km via Kamanjab<br/>fuera del alcance comodo<br/>de un deposito en grava"| O["Okaukuejo"]
     SE["Sesriem"] -->|"ida y vuelta ~120 km<br/>+ 5 km de arena en reductora"| D["Sossusvlei<br/>Deadvlei"]
+    H["Henties Bay<br/>ultima gasolinera<br/>segura de la costa"] -->|"Ugabmund → Terrace Bay<br/>y salida por Springbokwasser<br/>❌ diesel en Terrace Bay<br/>SIN VERIFICAR"| T["Terrace Bay<br/>D7-D8 de la E"]
     style S fill:#e85d04,color:#000
-    style P fill:#9d0208,color:#fff
+    style T fill:#9d0208,color:#fff
 ```
 
 1. **Solitaire → Walvis Bay/Swakopmund (210 km)**: los pasos de **Gaub** y **Kuiseb** con **NADA** en
@@ -123,19 +130,26 @@ flowchart LR
 2. **Sesriem → Sossusvlei ida y vuelta**: son **~120 km MÁS los 5 km finales de arena blanda en
    reductora**, todo dentro del parque, **sin gasolinera** y con **consumo alto en arena** →
    presupuesta **130–150 km de combustible que quizá no habías contado**
-3. **Palmwag → Okaukuejo (385 km)** vía Kamanjab: **más allá del alcance cómodo de un solo depósito
-   en grava** para algunos vehículos
-4. **Khorixas → Palmwag → Damaraland**: suministro escaso y poco fiable
+3. **🚨 El tramo crítico REAL de la E — el bucle de la Costa de los Esqueletos (D7–D8):** Henties
+   Bay → Cape Cross → Ugabmund → **Terrace Bay**, y al día siguiente Springbokwasser → Bergsig →
+   Twyfelfontein → Hoada. **❌ No está verificado si hay diésel en Terrace Bay ni en ese bucle:
+   trátalo como si NO lo hubiera.** Llena en **Henties Bay** (✅ tiene gasolinera, ver README) y
+   calcula el bucle entero costa→Damaraland con ese depósito. *Distancia del bucle: solo
+   estimaciones de `11` (~390 + ~300 km) — km sin verificar.*
+4. *(Del eje antiguo, ya fuera de la E: Palmwag → Okaukuejo 385 km y Khorixas → Palmwag — se dejan
+   como referencia por si se cambia de plan.)*
 
 ### La regla
 
 > ### 👉 «Nunca pases de largo una gasolinera», no «reposta cuando estés bajo»
 
-**Puntos de anclaje**: **Solitaire · Khorixas · Kamanjab · Outjo · Otjiwarongo**.
-Llena en **todos**, mires lo que mires en el indicador.
+**Puntos de anclaje de la ruta E**: **Solitaire · Henties Bay · Kamanjab · Outjo · Otjiwarongo** —
+llena en **todos**, mires lo que mires en el indicador. En ciudad (Windhoek, Walvis Bay,
+Swakopmund), sal siempre lleno. *(Khorixas era ancla del eje antiguo.)*
 
-⚠️ **Y con el límite contractual de 80 km/h en grava**, Palmwag → Okaukuejo es un día de **5–6 horas,
-no de 4** — planifica llegar mucho antes del anochecer (las puertas de Etosha cierran al ocaso).
+⚠️ **Y con el límite contractual de 80 km/h en grava**, los días largos rinden menos de lo que
+parece — planifica llegar mucho antes del anochecer (las puertas de Etosha cierran al ocaso, y
+la de Ugabmund no deja pasar a pernoctar después de las 15:00).
 
 ○ **Sin confirmar**: hay reportes de **falta de combustible dentro de los campamentos de los
 parques**. Planifica como si fuera cierto. No se pudo verificar.
@@ -310,11 +324,15 @@ zona de Etosha.
 > **Un trauma grave en Sossusvlei significa evacuación aérea, o significa muchísimo tiempo.**
 
 **Por eso, tres cosas encajan en una sola:**
-1. Tu seguro con **REPATRIACIÓN** —que además es **condición de entrada**— **no es papeleo**.
-   👉 **Confirma por escrito que cubre evacuación AÉREA dentro del país desde una pista remota**, no
-   solo el vuelo de vuelta a casa desde Windhoek.
-2. La **exclusión del vuelco sin terceros** en los niveles bajos y la exposición de **~N$165.000
-   (~€8.250)** es **el mismo evento** que te mete en una ambulancia aérea.
+1. Tu seguro con **REPATRIACIÓN** —que además es **condición de entrada**— **no es papeleo**. El
+   elegido es el **IATI Estrella** (ver README y `10`), y la pregunta clave **sigue pendiente por
+   escrito**: 👉 **confirma que cubre evacuación AÉREA dentro del país desde una pista remota**, no
+   solo el vuelo de vuelta a casa desde Windhoek. *(Y añádele la opción de búsqueda y salvamento.)*
+2. La exposición de **~N$165.000 (~€8.250)** del **vuelco sin terceros** era el escenario de los
+   niveles bajos de **Asco** (la referencia descartada). Con el **Premium Cover de tu Namibia2Go la
+   franquicia es cero** ◐ — pero **decae con «negligencia probada»**, **excluye daños por agua** y
+   el **rescate sin tope sigue sin confirmar por escrito**: el evento que te mete en una ambulancia
+   aérea es el mismo.
 3. Un **dispositivo satelital con SOS** es lo que **dispara el rescate** donde no hay cobertura.
 
 **Atención definitiva para algo grave: Windhoek** — Windhoek Central Hospital **061 203 9111**;
@@ -332,6 +350,9 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
 
 - **Precio exacto del combustible** en Windhoek, Solitaire o cualquier estación del interior: la
   tabla oficial de diferenciales del MME no respondía
+- **Si hay diésel en Terrace Bay** y en el bucle Ugabmund–Springbokwasser (D7–D8 de la E):
+  **trátalo como que NO** y llena en Henties Bay
+- **Los km reales del eje de la costa y Damaraland** (D7–D9): solo estimaciones de `11`
 - **Precios actuales de los bonos turistas de MTC** y de la eSIM: sus páginas no respondían
 - **Disponibilidad de combustible dentro de los campamentos de parques**: reportes sin confirmar
 - **La matriz de distancias es de 2010**: verificar contra Tracks4Africa

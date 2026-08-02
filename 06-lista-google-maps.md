@@ -18,12 +18,13 @@ flowchart TD
     W --> NW["EXTREMO NOROESTE<br/>Epupa · Opuwo<br/>Kaokoland"]
     W --> NE["EXTREMO NORESTE<br/>Tsumkwe<br/>Bushmanland"]
     W --> SE["SURESTE<br/>Kgalagadi<br/>❌ DESCARTADO<br/>no se cruza a Sudafrica"]
-    W --> SW["EXTREMO SUROESTE<br/>Luderitz · Elizabeth Bay<br/>✅ el sur se queda"]
-    W --> C["CENTRO Y COSTA<br/>Etosha · Swakopmund<br/>Sossusvlei · Damaraland"]
+    W --> SW["EXTREMO SUROESTE<br/>Luderitz · Elizabeth Bay<br/>❌ DESCARTADO 17/07<br/>el sur quedo fuera entero"]
+    W --> C["CENTRO Y COSTA<br/>Etosha · Swakopmund<br/>Sossusvlei · Damaraland<br/>✅ LA RUTA · Variante E"]
     style NW fill:#9d0208,color:#fff
     style NE fill:#9d0208,color:#fff
     style SE fill:#4a4a4a,color:#fff
-    style SW fill:#2d6a4f,color:#fff
+    style SW fill:#4a4a4a,color:#fff
+    style C fill:#2d6a4f,color:#fff
 ```
 
 **Los extremos son direcciones opuestas desde Windhoek.** No hay circuito que los una en dos
@@ -55,6 +56,10 @@ técnica en 24 horas** en *«Namibia: Kaokoland and Damaraland»*. Y peor, para
 
 Y el **Super Cover** ya excluye de por sí los bajos *«excluding Kaokoveld and Damaraland Area»*.
 
+*(Cláusulas de **Asco** — la referencia descargada; el contrato del proveedor contratado,
+Namibia2Go, sigue sin verificar. Para este descarte da igual: Kaokoland queda fuera de la ruta E
+de todas formas.)*
+
 > 👉 **Traducción:** en Kaokoland vas **sin cobertura de bajos y sin rescate garantizado**, pagues lo
 > que pagues. Y el rescate **no tiene tope** (cláusula 10.5.7: la franquicia elegida *«does not
 > limit The Renter's liability for... recovery costs»*).
@@ -81,18 +86,25 @@ decidido.
 
 Está junto a Lüderitz, **dentro del Sperrgebiet** (zona vedada). Como Kolmanskop, ✅ que **exige
 permiso** — pero Elizabeth Bay es **más restringido**: no es un sitio al que se entre por libre.
-⚠️ **Por verificar**: si hay tours y con qué frecuencia salen.
+✅ **Resuelto más abajo**: solo con tour guiado (N$3.630, salidas 08:45/13:45 desde Lüderitz,
+pasaporte 10 días antes). *Y en todo caso: **fuera de la ruta E** — el sur quedó descartado.*
 
 ### ⚠️ Y dos avisos menores
 
 - **Skeleton Coast National Park**: exige permiso, y **el sector norte es solo por concesión** (no
-  self-drive). ⚠️ Por verificar qué parte es accesible.
+  self-drive). ✅ **Resuelto más abajo**: el sector self-drive va **de Ugabmund a Springbokwasser**
+  — justo el tramo del D7 de la ruta E; puertas 07:30–19:00, pernocta solo con reserva y entrando
+  antes de las 15:00.
 - **Messum Crater**: remoto, sin señalizar, sobre campos de **líquenes** que se dañan con las ruedas.
-  ⚠️ Por verificar accesibilidad y si hace falta guía.
+  ◐ **Medido más abajo**: estado real incierto y alto riesgo ecológico — desaconsejado.
 
 ---
 
 ## 📍 Tu lista, ordenada por geografía
+
+> ⚠️ **Esta es tu lista original de pines.** Varias paradas de la **ruta E** no estaban en ella y
+> por eso no aparecen aquí — **Spreetshoogte, Terrace Bay, Hoada** — pero están medidas y con
+> alojamiento en `11`.
 
 ### Extremo noroeste — Kaokoland *(el más caro en tiempo)*
 - **Cataratas Epupa** — atracción turística, 4,6★ (398). Río Kunene, frontera con Angola
@@ -102,7 +114,7 @@ permiso** — pero Elizabeth Bay es **más restringido**: no es un sitio al que 
 ### Etosha y alrededores
 - **Parque Nacional Etosha** — 4,5★ (4.691)
 - **Ongava Private Game Reserve** — Ombika, junto a la **puerta de Andersson** (sur de Etosha).
-  Reserva privada de gama alta ⚠️ precio por verificar
+  Reserva privada de gama alta → ✅ resuelto abajo: **LUJO** (~N$17.300/persona/noche)
 
 ### Noreste
 - **Hoba Meteorite** — 4,0★ (800). Cerca de Grootfontein. **El meteorito más grande de la Tierra**
@@ -124,7 +136,8 @@ permiso** — pero Elizabeth Bay es **más restringido**: no es un sitio al que 
 ### Centro
 - **Waterberg** — la meseta
 - **Okonjima Nature Reserve** — hotel 4★, 4,7★ (602). **AfriCat**: leopardos y guepardos.
-  De camino natural entre Windhoek y Etosha ⚠️ precio por verificar
+  De camino natural entre Windhoek y Etosha → ✅ resuelto abajo: **gama alta**
+  (desde ~N$12.700/persona/noche)
 - **Joe's Beerhouse** — Windhoek, 4,4★ (6.834), 200–400 N$ (~€10–20). Institución de la ciudad
 
 ### Namib y Sossusvlei
@@ -140,7 +153,8 @@ permiso** — pero Elizabeth Bay es **más restringido**: no es un sitio al que 
 - **Bagatelle Kalahari Game Ranch** — hotel 3★, 4,6★ (738). Kalahari, zona de Mariental
 - **Mariental**
 - **Mata-Mata @ Kgalagadi** — 4,5★ (410) ⚠️ **SUDÁFRICA**, ver aviso arriba
-- **Canyon Roadhouse (Gondwana)** — hotel 3★, 4,6★ (1.318). Fish River ⚠️ precio por verificar
+- **Canyon Roadhouse (Gondwana)** — hotel 3★, 4,6★ (1.318). Fish River *(sur descartado — el
+  precio ya no se investiga)*
 - **Cañón del río Fish** — 4,7★ (72) ✅ **sendero cerrado en noviembre**; mirador sí
 - **Quiver Tree Forest** — 3,8★ (51). Keetmanshoop
 - **Lüderitz** · **Elizabeth Bay** ⚠️ ver aviso arriba
@@ -165,9 +179,15 @@ flowchart LR
     A --> D{"Hay que elegir<br/>UNO"}
     B --> D
     C --> D
+    D --> G["✅ ELEGIDA: la C<br/>= VARIANTE E (ver 11)"]
     D --> E["Epupa y Tsumkwe y Kgalagadi<br/>quedan fuera de los tres"]
     style E fill:#9d0208,color:#fff
+    style G fill:#2d6a4f,color:#fff
 ```
+
+> 🔄 **La elección ya está hecha (17/07/2026): la Opción C — que es la Variante E.** El triaje de
+> abajo se escribió con la Opción A (sur) sobre la mesa; se conserva porque las mediciones valen,
+> pero **la lista que manda es la del README** («Tus 34 pines, en una línea»).
 
 **Lo que encaja «gratis»** — están *de camino* en la Opción A y cuestan poco o nada:
 - ✅ **Joe's Beerhouse** (Windhoek, primera o última noche)
@@ -192,10 +212,10 @@ flowchart LR
 - 🔴 **Harnas** (extremo este)
 - 🟠 **Messum Crater**, **Skeleton Coast norte**, **Elizabeth Bay** (acceso restringido o guiado)
 
-> **Ojo a la tensión de fondo:** ya está decidido que **el sur se queda** (Fish River, Lüderitz,
-> Kolmanskop, kokerbooms). El sur y el noroeste profundo **compiten por los mismos días**. Con el sur
-> dentro, **Kaokoland y Epupa quedan fuera** por pura aritmética — y de propina te ahorras la zona
-> donde el seguro no cubre.
+> **Cómo acabó la tensión de fondo:** primero se decidió que el sur se quedaba; **la decisión final
+> (17/07) fue la contraria — el sur entero fuera, y sus días fueron a Etosha (Variante E)**.
+> Kaokoland y Epupa siguen fuera igualmente: ahora compiten contra las 4 noches de Etosha, y
+> pierden por la misma aritmética — y de propina te ahorras la zona donde el seguro no cubre.
 
 ---
 
@@ -227,8 +247,8 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
 - **Hoba Meteorite** ◐
   - **~N$250/persona (~€12,5)** (una reseña de 2024 lo cifra en «22,50 €/extranjero» ≈ N$250).
     Gestiona el **National Heritage Council**.
-  - **OJO geografía:** está junto a **Grootfontein**, en el **noreste** — **fuera del eje sur** ya
-    decidido. Suma días; no encaja «gratis».
+  - **OJO geografía:** está junto a **Grootfontein**, en el **noreste**. Con la ruta E queda como
+    **desvío opcional del D13** (Namutoni → Windhoek vía Grootfontein) — ver `11`.
   - Fuente: [TripAdvisor — Hoba Meteorite](https://www.tripadvisor.com/Attraction_Review-g1137965-d3609771-Reviews-Hoba_Meteorite-Grootfontein_Otjozondjupa_Region.html)
 
 - **Waterberg Plateau** ◐/✅
@@ -317,7 +337,7 @@ flowchart LR
   luego **C38/grava**.
 - **Opuwo → Epupa:** **180–190 km de grava por la D3700** (~3–5 h), cruzando cauces secos.
 - **Ida y vuelta a Kaokoland = ~4 días SOLO de conducción** desde Windhoek, **sin contar Etosha**.
-  Con el sur dentro (Fish River + Lüderitz), **no cabe**: es aritmética, no gusto.
+  Tampoco cabe en la ruta E final — esos días son las 4 noches de Etosha: es aritmética, no gusto.
 - **Y de propina, el seguro:** las pistas **D3700 / D3703 / D3707** de Kaokoland-Damaraland son justo
   donde el contrato de Asco **no cubre bajos ni garantiza rescate** aunque pagues Super Cover
   (ver `01` y `05`). Doble motivo para dejarlo fuera.
@@ -341,7 +361,8 @@ xychart-beta
 
 > **Lectura:** Cape Cross, Brandberg y una tasa de parque son ~N$150–280 (~€7–14) por cabeza. El
 > tour de **Elizabeth Bay dispara a N$3.630 (~€182)** — es la única visita «cara» de la lista, y
-> encima con papeleo de 10 días. Si el sur va apretado, es el primer candidato a caer.
+> encima con papeleo de 10 días. *Con el sur descartado, cayó con él: queda apuntada para el
+> hipotético viaje del sur.*
 
 ---
 

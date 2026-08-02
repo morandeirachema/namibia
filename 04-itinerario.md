@@ -5,6 +5,13 @@
 > kokerbooms, D707). La ruta vigente es la **Variante E** — la clásica del norte, en
 > [`11-itinerarios-dia-a-dia.md`](11-itinerarios-dia-a-dia.md). Lo que sigue se conserva como
 > referencia verificada por si el sur vuelve en otro viaje.
+>
+> ⚠️ **Hueco reconocido (02/08/2026): las etapas propias de la E no están medidas aquí.** Este
+> documento midió el eje del sur y el central; el eje que la E sí usa —Swakopmund → Cape Cross →
+> **Ugabmund → Terrace Bay** (D7), **Springbokwasser → Twyfelfontein → Hoada** (D8), la entrada
+> por **Andersson** (D9) y el **Namutoni → Windhoek ~550 km ○** del D13— solo tiene las
+> estimaciones día a día de `11` (◐/○). 👉 **Verifícalas con Tracks4Africa o GPS actual antes de
+> reservar alojamientos con horario ajustado** — sobre todo el D7, que tiene puerta a las 15:00.
 
 
 Distancias reales, firme, tiempos calculados a velocidad de seguro, y una respuesta honesta a la
@@ -32,7 +39,7 @@ flowchart TD
     C --> F["+ paradas foto, repostaje,<br/>pinchazo posible +1 h"]
     D --> F
     E --> F
-    F --> G["LLEGAR ANTES DE LAS 18:00<br/>anochece ~19:15 · nunca de noche"]
+    F --> G["LLEGAR ANTES DE LAS 18:00<br/>anochece ~19:15 a fin de nov<br/>en tu quincena, algo antes"]
     style D fill:#e85d04,color:#000
     style E fill:#e85d04,color:#000
     style G fill:#9d0208,color:#fff
@@ -53,6 +60,10 @@ viajero cita un tramo de *«288 km that took over 4 hours»* y que después **ac
 👉 **Trabajo con un techo de ~300–350 km/día de tránsito**, y menos si el día tiene grava dura o
 actividad (Sossusvlei, safari).
 
+⚠️ *Los 80 km/h con caja negra están documentados en los contratos de **Asco/Savanna** (ver `05`);
+la cláusula del contrato vigente —**Namibia2Go Budget**— sigue sin verificar: pídela al reservar.
+Los tiempos de este documento se mantienen a 80 igualmente.*
+
 Fuentes de la regla: `01` y `05` (contratos Asco/Savanna, ya descargados) ·
 https://www.expertafrica.com/namibia/info/self-drive-driving-tips-and-techniques ·
 https://www.safaribookings.com/blog/guide-to-driving-in-namibia-10-useful-self-drive-tips
@@ -65,7 +76,7 @@ Números **por carretera**. Marco la fuente y la confianza de cada uno. Los del 
 vienen de la matriz de Namibia Tours & Safaris (**◐, copyright 2010** — las distancias cambian poco,
 pero es secundaria y vieja; ver `07`). Los del **sur** los verifiqué en esta pasada.
 
-### Eje sur (el que se decidió mantener)
+### Eje sur *(decisión intermedia — superada: el sur quedó fuera de la ruta E)*
 
 - **Windhoek → Mariental**: **~270 km**, **asfalto B1** ✅ *(Wikipedia Mariental: «274 km southeast of Windhoek»)*
 - **Mariental → Keetmanshoop**: **~230 km**, **asfalto B1** ✅ *(Wikipedia Mariental: «232 km north of Keetmanshoop»)*
@@ -209,11 +220,18 @@ flowchart TD
 > pasa 14 días **conduciendo delante de los sitios en vez de estar en ellos** — y encima acumula
 > fatiga, que en grava es exactamente el factor del vuelco (ver `05`).
 
+> 🔄 **Cómo acabó esto (para quien aterrice aquí):** la decisión final fue la contraria a la premisa
+> de este apartado — **cayó el sur, no Etosha**. La ruta del viaje es la **Variante E** (`11`):
+> Sossusvlei + costa + Damaraland + **cuatro noches en Etosha**, sin el sur. El análisis de arriba
+> sigue siendo la prueba de que no cabía todo.
+
 ---
 
 ## 4. Tres variantes reales — elige una
 
-*(Fechas ilustrativas: finales de noviembre, DESPUÉS del precipicio de precio del 15/11 ✅. D1 = llegada.)*
+*(Fechas ilustrativas de esta sección: finales de noviembre, tras el umbral del 15/11 — **que era
+el de Asco, la empresa descartada**. Las fechas reales del viaje son **1–14 de noviembre**, y su
+precipicio de precio es el **1 de noviembre** — NWR y Namibia2Go; ver `10` y `11`. D1 = llegada.)*
 
 ### 🟢 Variante A — «El sur completo + Namib + costa» · SIN Etosha · RECOMENDADA
 
@@ -317,13 +335,18 @@ flowchart LR
 ```mermaid
 flowchart TD
     D{"¿Que priorizas?"}
-    D -->|"Sur + desierto sin prisa"| A["VARIANTE A · recomendada"]
+    D -->|"Sur + desierto sin prisa"| A["VARIANTE A · recomendada<br/>(con el sur dentro)"]
     D -->|"Fauna de Etosha innegociable"| B["VARIANTE B · pierdes Sossusvlei"]
     D -->|"Todo si o si"| C["Alarga a 17-18 dias<br/>NO aprietes C"]
-    style A fill:#2d6a4f,color:#fff
+    D -->|"DECISION FINAL:<br/>el sur entero fuera"| E["⭐ VARIANTE E · la del viaje<br/>Sossusvlei + costa + Etosha<br/>ver 11"]
+    style A fill:#e85d04,color:#000
     style B fill:#e85d04,color:#000
     style C fill:#9d0208,color:#fff
+    style E fill:#2d6a4f,color:#fff
 ```
+
+> 🔄 **Este árbol es anterior a la última decisión.** Al quitarse el sur entero apareció la cuarta
+> rama: la **Variante E**, que es la ruta del viaje. A y B quedan como referencia.
 
 ---
 
@@ -341,7 +364,8 @@ flowchart TD
 > Del mismo PDF: *«Please do not take the D462 as this road has riverbeds with deep sand»* —
 > **evita la D462**. Y otra fuente recomienda ir por la **presa de Naute** en vez del desvío de
 > Seeheim, *«as the Seeheim road is very bumpy and the river might obstruct your travels in the rainy
-> season»* — **relevante: finales de noviembre ya es inicio de lluvias en el sur.**
+> season»* — **relevante si el sur volviera: noviembre avanzado ya es inicio de lluvias allí.**
+> *(Tramo del sur — fuera de la ruta E.)*
 > Fuente: https://wa-uploads.profitroom.com/fishriverlodge/17498513990699_Directions-to-FRL.pdf
 
 > ### 🚧 Obras dentro de Etosha en 2026 — Okaukuejo → Halali

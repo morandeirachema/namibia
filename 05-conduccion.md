@@ -6,6 +6,16 @@ Todo lo que la investigación sacó sobre conducción, con las cifras completas 
 > Este documento no endulza nada. En Namibia lo que te puede matar es la carretera, no los
 > animales ni el crimen — lo dice explícitamente el MAEC. Aquí están los números.
 
+> ### ⚠️ Sobre las cláusulas de contrato citadas aquí (nota del 02/08/2026)
+> Las cláusulas literales de este documento (80 km/h con caja negra, dune driving, rescate,
+> D3707/D3703, cláusula 10.9…) son de los contratos **descargados y verificados de Asco y African
+> Tracks**. **El coche contratado es otro: Namibia2Go BUDGET**, y su contrato **no se ha podido
+> descargar ni verificar todavía**. Trata lo de abajo como **la referencia del sector** —los
+> límites reales pueden ser iguales o peores— y **pide el contrato de Namibia2Go por escrito al
+> reservar** con tres preguntas concretas: bajos en Damaraland, número de ruedas de repuesto de la
+> Budget, y coste orientativo de rescate. Buena noticia de ruta: **las pistas malditas D3707/D3703
+> NO están en la Variante E.**
+
 ---
 
 ## 1. El vuelco: el número más importante del viaje ✅
@@ -128,7 +138,7 @@ y los visitantes *«may also use the concessionaire's shuttle service but buses 
 permitted»*.
 
 > A 16/07/2026 **el self-drive está permitido**, pero **ya bailó una vez en tres meses**.
-> 👉 **Reconfirmar ~4 semanas antes.**
+> 👉 **Reconfirmar ~4 semanas antes = primeros de octubre de 2026.**
 
 **(B) La conducción.** Desde el aparcamiento 2WD son ~5 km, de los que los **~4 finales** exigen 4x4:
 
@@ -141,11 +151,12 @@ permitted»*.
 - Presión de arena típica **~1,0–1,6 bar** (African Tracks da 1,6) — pero **necesitas el compresor**
   para volver a subir: **confirma que funciona en la entrega**
 
-> ### 🚫 Cláusula crítica del contrato de Asco
+> ### 🚫 Cláusula crítica del contrato de Asco *(referencia del sector — confirma la de Namibia2Go)*
 > *«Dune Driving and driving to Sandwich Harbour: This is strictly prohibited.»*
 >
 > La pista de arena hasta Deadvlei **no** es *dune driving*. Pero **Sandwich Harbour y cualquier
-> excursión por dunas anulan tu cobertura entera**. Para eso, **tour guiado**.
+> excursión por dunas anulan tu cobertura entera**. Para eso, **tour guiado** — que además es el
+> plan del D6. *Asume que el contrato de Namibia2Go dirá lo mismo hasta que lo leas.*
 
 ---
 
@@ -205,6 +216,9 @@ chapa.
 
 ## 8. Grúa y rescate: la responsabilidad es segura, el precio no ✅
 
+*(Contrato de **Asco** — la referencia descargada; el de Namibia2Go sigue sin verificar, ver la
+nota de cabecera.)*
+
 **Lo que está establecido — T&C de Asco, versión 01/06/2026:**
 
 - **Cláusula 2.2** define el coste de rescate: *«Any costs incurred due to but not restricted to
@@ -224,6 +238,7 @@ chapa.
 
 > ### 🛑 Apréndete estos dos números: **D3707** y **D3703**
 > En esas carreteras **estás sin seguro** para bajos y rescate **pagues lo que pagues**.
+> ✅ *Alivio de ruta: ninguna de las dos está en la Variante E.*
 
 - **Cláusula 11.3**: Asco puede **exigirte una garantía** antes de que salgas del país.
 
@@ -236,8 +251,9 @@ Lo que sí puedes inferir: un rescate desde Damaraland profundo hasta Windhoek s
 de kilómetros de plataforma especializada**, **no tiene tope** por tu franquicia, y Asco puede
 pedirte garantía.
 
-👉 **Acción:** pide a Asco **por escrito, al reservar**, un **coste orientativo de rescate desde
-Twyfelfontein y desde Sesriem**. Su respuesta vale más que cualquier número que yo te dé.
+👉 **Acción:** pide a **Namibia2Go** *(el proveedor contratado)* **por escrito, al reservar**, un
+**coste orientativo de rescate desde Twyfelfontein y desde Sesriem**. Su respuesta vale más que
+cualquier número que yo te dé.
 
 Fuente: https://www.ascocarhire.com/app/web/upload/tinymce-source/T&C%2001.06.2026.pdf
 
@@ -258,7 +274,9 @@ parabrisas simplemente picados son **muchísimos más** y no se registran.
 - **Las dos manos al volante**, espera un muro de polvo y un golpe seco
 - **No esquives una piedra**
 
-**Coberturas — cláusula 10.9 de Asco:**
+**Coberturas — cláusula 10.9 de Asco** *(referencia; tu Premium Cover de Namibia2Go dice
+«franquicia cero» ◐, pero sus exclusiones —sandblasting, bajos, agua— hay que pedirlas por
+escrito)*:
 - (c) daños en **bajos** → excluidos **salvo Super Cover**
 - (d) daños por **sandblasting** (arenado) → **NUNCA cubiertos, en ningún nivel** ← relevante en los
   tramos costeros cerca de Swakopmund y la Costa de los Esqueletos
@@ -323,9 +341,10 @@ en 1 día, 11 h de sol al día (80 % de las horas de luz).
    16:00 y las 19:00 sea **genuinamente difícil de ver** — parte de por qué esa franja tiene el 29 %
    de los muertos. 👉 **Limpia el parabrisas por dentro**: película de polvo + sol bajo = ciego
 
-**Bonus de fechas:** finales de noviembre es también **la parte del año con menos accidentes**:
-diciembre registró **los menos de cualquier mes en 2019 (1.353)** frente al pico de julio (**1.722**)
-— aunque eso refleja **volumen de tráfico nacional**, no tu riesgo en grava.
+**Bonus de fechas (modesto):** el final del año es la parte con menos accidentes del registro:
+diciembre tuvo **los menos de cualquier mes en 2019 (1.353)** frente al pico de julio (**1.722**).
+El dato mensual de noviembre no está desglosado en el informe, y en todo caso refleja **volumen de
+tráfico nacional**, no tu riesgo en grava — no le des más peso.
 
 ---
 
@@ -355,8 +374,8 @@ Dormir fuera significa que **no puedes llegar físicamente** antes de que el sol
 
 **Y por qué esto es un asunto de conducción, no de logística:** quien reserva fuera y aun así intenta
 llegar al amanecer **hace esos 60 km demasiado rápido y a oscuras**, justo en la ventana del alba en
-que se mueven kudús y órix — y el contrato de Asco te limita a **60 km/h dentro de parques** de todas
-formas.
+que se mueven kudús y órix — y el límite contractual de **60 km/h dentro de parques** (documentado
+en Asco; asume lo mismo en Namibia2Go) manda de todas formas.
 
 > ❌ **Refutado 0–2 por exceso**: la cita de NWR es exacta, pero el documento original estiraba dos
 > conclusiones que la fuente no sostiene, y una tenía un error aritmético. **Lo que aguanta es la
@@ -376,11 +395,13 @@ en la cláusula 10.8 de Asco) que da prestaciones médicas y por lesión a **cua
 accidente de tráfico en Namibia, **sin importar nacionalidad ni culpa**.
 👉 **Como visitante español, estás cubierto por él.** Centralita: **+264 61 289 7000**
 
+- **Namibia2Go** *(tu proveedor)*, centralita: **+264 61 427 220** — ⚠️ **su número de emergencias
+  24 h no está en el dossier: pídelo al reservar y grábalo**, es el que de verdad importa
 - **AA Namibia**, asistencia 24/7: **+264 81 555 9432** / **+264 85 25 555 00**
   *(es por membresía: te van a pedir datos de socio, así que es un plan B, no una garantía)*
-- **Asco**, emergencias: **+264 (0)81 127 2949** / **+264 (0)81 129 2514** *(impresos en la hoja de
-  firma del contrato)*
-- **African Tracks**, averías 24 h: **+264 81 128 0266**
+- **Asco**, emergencias: **+264 (0)81 127 2949** / **+264 (0)81 129 2514** *(empresa descartada —
+  no te sirven)*
+- **African Tracks**, averías 24 h: **+264 81 128 0266** *(ídem, referencia)*
 
 ❌ **Refutado 0–2** el envoltorio legal de este punto, **no los contactos**: todos los teléfonos
 están verificados y la cita del CEO del MVA Fund es literal en su web.
@@ -403,6 +424,8 @@ que existen la regla de la noche y la de los repuestos.
 aparece **solo ahí**.
 
 ✅ **Lo que sí es cierto:**
+- **Tu Namibia2Go Budget lista 2 ruedas de repuesto de serie en su ficha** (ver README) — es el
+  dato que te aplica; conviértelo en garantía escrita al reservar
 - **African Tracks** dice llevar **2 ruedas de repuesto sin coste extra**; **AfriCar** anuncia una
   segunda gratis además de la de debajo del chasis
 - **Asco incluye una segunda rueda de repuesto** en su tarifa (ver `01`), aunque sus T&C **no
