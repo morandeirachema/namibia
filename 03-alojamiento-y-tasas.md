@@ -1,4 +1,4 @@
-# 02 · Alojamiento y tasas
+# 03 · Alojamiento y tasas
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -176,12 +176,12 @@ es la pregunta abierta.
 - **Etosha — los TRES campamentos donde dormís** *(Okaukuejo, Halali y Namutoni)*, verificado el
   03/08/2026 en sus fichas de nwr.com.na: safari guiado de **mañana N$650 (~€33)** · de **tarde
   N$650 (~€33)** · **NOCTURNO N$750 (~€38)**. ❌ *Horarios de salida: NWR no los publica en ninguna
-  parte — hay que preguntarlos en recepción (ver `11`).*
+  parte — hay que preguntarlos en recepción (ver `01`).*
 - Dolomite, safari guiado de mañana/tarde — N$650 (~€33)
 - Sossus Dune Lodge, safari guiado — N$750 (~€38)
 
 La **lanzadera a Deadvlei por N$180 (~€9)** merece atención: los últimos 5 km son arena profunda.
-Llevamos 4x4 y puede que no haga falta, pero conviene releer las exclusiones del seguro en `01`.
+Llevamos 4x4 y puede que no haga falta, pero conviene releer las exclusiones del seguro en `12`.
 
 > ⚠️ La propia tarifa dice: *"No pre-bookings for activities are acceptable during rainy season"*
 > (no se aceptan reservas anticipadas de actividades en temporada de lluvias). Es la propia NWR
@@ -189,7 +189,7 @@ Llevamos 4x4 y puede que no haga falta, pero conviene releer las exclusiones del
 
 ---
 
-## 🎫 Tasas de parques (de la 1ª pasada — ver `01-hallazgos-verificados.md`)
+## 🎫 Tasas de parques (de la 1ª pasada — ver `12-hallazgos-verificados.md`)
 
 Subieron un **80–100 % el 1 de abril de 2026**: **~N$280 (~€14) por adulto extranjero y día**
 en Etosha, Namib-Naukluft/Sossusvlei y Ai-Ais/Fish River Canyon, **más ~N$60 (~€3) de vehículo**,

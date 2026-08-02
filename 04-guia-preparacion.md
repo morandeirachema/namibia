@@ -1,4 +1,4 @@
-# 03 · Guía de preparación y de carretera
+# 04 · Guía de preparación y de carretera
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -29,7 +29,7 @@ para reservarlo, y sois dos.
 ### 🔄 Historial de decisión (la última manda: el sur NO va)
 
 *Primero se decidió mantener el sur; después, tras comparar con un itinerario real de referencia,
-se quitó entero. La ruta vigente es la **Variante E** (`11`). Esto queda como referencia:*
+se quitó entero. La ruta vigente es la **Variante E** (`01`). Esto queda como referencia:*
 
 ### Decisión intermedia (superada): el sur se queda
 
@@ -39,7 +39,7 @@ El cañón **no se cae del viaje** por esto. El trekking nunca fue el motivo rea
 
 **Lo que sí cambia:** el sur pasa a valorarse por **miradores + Lüderitz + Kolmanskop + kokerbooms**,
 no por el trekking. Y eso es un **rodeo grande** que hay que medir en km y horas, no descartar.
-Está en investigación (ver `04-itinerario.md`).
+Está en investigación (ver `13-itinerario.md`).
 
 Fuente: https://www.nwr.com.na/activities/
 
@@ -106,7 +106,7 @@ flowchart LR
 
 El itinerario queda **partido**: las etapas de Etosha y Damaraland llevan riesgo; las del desierto
 y la costa, prácticamente ninguno. **Y tu ventana juega a favor**: la primera quincena de noviembre
-va **antes** del arranque típico de las lluvias (ver `09`), con el mosquito en su mínimo estacional.
+va **antes** del arranque típico de las lluvias (ver `14`), con el mosquito en su mínimo estacional.
 El riesgo bajo no es riesgo cero: la consulta del CVI decide.
 
 **La profilaxis marca la cuenta atrás**, porque cada fármaco tiene su plazo — y con Etosha al final
@@ -184,7 +184,7 @@ sin 4x4 disponible no es una ruta.
 
 ### El permiso internacional de conducir: con carnet español, SÍ hace falta ◐
 
-Este era el último hueco que **bloqueaba la reserva** (figuraba como «sin resolver» en `01`).
+Este era el último hueco que **bloqueaba la reserva** (figuraba como «sin resolver» en `12`).
 **Resuelto:** un carnet de conducir **español** necesita acompañarse de un **permiso internacional
 de conducir** —o de una traducción jurada al inglés— para conducir en Namibia.
 
@@ -209,7 +209,7 @@ flowchart TD
     style SOL fill:#2d6a4f,color:#fff
 ```
 
-En este viaje el punto 3 pesa: con las exclusiones de bajos y vuelco de la Super Cover (`01`), no
+En este viaje el punto 3 pesa: con las exclusiones de bajos y vuelco de la Super Cover (`12`), no
 conviene dar a la aseguradora **ningún** motivo formal para discutir un parte.
 
 **Cómo se saca en España (DGT):**
@@ -313,11 +313,11 @@ certificado a quien venga de —o **transite 12 h por**— un país de riesgo.
 
 ### El límite: la ley dice 100, tu contrato dice 80, y la carretera a veces dice 50 ✅
 
-Ya está en `01`: **80 km/h contractuales en grava**, con **caja negra** que registra velocidad y
+Ya está en `12`: **80 km/h contractuales en grava**, con **caja negra** que registra velocidad y
 posición y **se lee tras un accidente**. Superarlo **anula el seguro**.
 
 ⚠️ *Matiz de contrato: eso está documentado en los contratos de **Asco y African Tracks** (ver
-`05`). La cláusula concreta del contrato vigente —**Namibia2Go Budget**— sigue **sin verificar**:
+`06`). La cláusula concreta del contrato vigente —**Namibia2Go Budget**— sigue **sin verificar**:
 pídela al reservar. Mientras tanto, asume el 80 igualmente: es el número que te separa del 37 %.*
 
 Cruzado con el dato de vuelcos de arriba, el 80 deja de ser burocracia: es el número que te separa
@@ -367,9 +367,9 @@ El consejo es bueno y está corroborado, pero **con la fuente puesta en su sitio
 
 - **El dato que sí aguanta** ✅: NRSC 2019, tabla 6 — *«Most crashes occurred between 16:00 - 19:59
   (4.811)»*, y tabla 11: **121 de 413 muertos (29,3 %)** en esa franja.
-- **El anochecer en Windhoek en tu ventana (1–15 nov) es ~19:03–19:12** (ocaso recalculado en `08`
+- **El anochecer en Windhoek en tu ventana (1–15 nov) es ~19:03–19:12** (ocaso recalculado en `15`
   para las fechas reales; el ~19:16 antiguo era de finales de mes), y en **la costa se alarga hasta
-  ~19:20** — el sol día a día, parada a parada, está en `11`. Es decir: la franja más mortal del
+  ~19:20** — el sol día a día, parada a parada, está en `01`. Es decir: la franja más mortal del
   país **coincide con tu último tramo del día**, y a comienzos de noviembre anochece **~15 min
   antes** que a fin de mes — un motivo más para llegar con luz de sobra.
 - ❌ **Lo que NO puedes citar**: el FCDO británico sí dice *«avoid driving at night outside towns,
@@ -487,8 +487,8 @@ delito**.
 ### ❄️→🔥 Corrección de premisa: las noches de noviembre NO son frías ◐
 
 La idea de «noches heladas en el desierto» es un dato de **junio/julio** mal aplicado a noviembre.
-Cifras **de estación**, no de folleto *(NOAA GHCN y ERA5 — el detalle y la validación, en `08`; el
-día a día de la ruta, en `11`)*:
+Cifras **de estación**, no de folleto *(NOAA GHCN y ERA5 — el detalle y la validación, en `15`; el
+día a día de la ruta, en `01`)*:
 
 ```mermaid
 flowchart TD
@@ -511,7 +511,7 @@ flowchart TD
 
 > Todas las noches del viaje caen entre **12 y 19 °C**: eso es **forro polar y pantalón largo**, no
 > plumas. **Deja en casa el plumas, los térmicos, el gorro y los guantes**: son peso muerto en el
-> poco sitio de una tienda de techo. *(La lista completa, en `14`.)*
+> poco sitio de una tienda de techo. *(La lista completa, en `05`.)*
 
 **El problema real de tu ventana de noviembre es el CALOR**, no el frío: **37 °C en Etosha** y
 32–34 en el desierto, y una tienda de techo al sol **es inhabitable hasta bien entrada la noche**.
@@ -605,7 +605,7 @@ guía es contexto; el vuelco en pista es el riesgo real.
 
 ## 🕳️ Lo que NO pude verificar — no lo trates como cerrado
 
-- **Coste de rescate/grúa** desde una pista remota: la responsabilidad es segura (ver `01`), el
+- **Coste de rescate/grúa** desde una pista remota: la responsabilidad es segura (ver `12`), el
   precio no lo pude sacar de ninguna fuente
 - **Multa por llegar tarde a la puerta** de un campamento: es infracción, pero no encontré el importe
   publicado

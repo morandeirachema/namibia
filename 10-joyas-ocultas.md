@@ -1,4 +1,4 @@
-# 12 · Joyas ocultas
+# 10 · Joyas ocultas
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -160,7 +160,7 @@ según el tarifario NHC vía prensa *(las fuentes viejas decían N$25 · ~€1,2
 08:00 ○, cierre sin dato.
 Fuentes: [Windhoek Express](https://www.we.com.na/scoreboard/exorbitant-fees-for-dilapidated-heritage-areas2023-09-11) ◐ ·
 [info-namibia](https://www.info-namibia.com/activities-and-places-of-interest/otavi/lake-otjikoto) ○
-*(Y de propina en el mismo día: el meteorito de **Hoba** — N$250 (~€12,5) ◐ — si vais sobrados; ya está en `11`.)*
+*(Y de propina en el mismo día: el meteorito de **Hoba** — N$250 (~€12,5) ◐ — si vais sobrados; ya está en `01`.)*
 
 ### D2/D4 · Solitaire, el ángulo no típico
 Ya paras dos veces — pero la historia mejora la foto: **los Chevy y Ford oxidados de los 50 fueron
@@ -181,7 +181,7 @@ Fuentes ○: [HuffPost](https://www.huffpost.com/entry/a-moose-an-apple-pie-in-t
   [Gondwana](https://gondwana-collection.com/blog/why-the-dragons-breath-cave-in-namibia-is-so-special)
 - **Cráter de Messum y sus welwitschias gigantes** — la joya «expedición» más cercana, pero es un
   desvío serio del D7, con permiso (Henties Bay/MEFT), líquenes fragilísimos y estado incierto:
-  **ya desaconsejado en `06`**. Si algún día sobra un día, existe.
+  **ya desaconsejado en `11`**. Si algún día sobra un día, existe.
 - **Vingerklip** *(el «dedo de Dios», monolito de 35 m)* — solo encaja **cambiando el D9 a la
   variante Khorixas–Outjo**, que no es el plan. Precio ○: ~N$20 (~€1). Se apunta por si el D8-D9 se
   reordena sobre la marcha. Fuentes ◐: [Wikipedia](https://en.wikipedia.org/wiki/Vingerklip) ·
@@ -190,4 +190,4 @@ Fuentes ○: [HuffPost](https://www.huffpost.com/entry/a-moose-an-apple-pie-in-t
 ---
 
 *Precios en N$ y € (~N$20 = €1) · Tarifas NHC/MEFT por confirmar contra PDF oficial — el mismo
-email pendiente de `10` · Investigado el 02/08/2026*
+email pendiente de `02` · Investigado el 02/08/2026*

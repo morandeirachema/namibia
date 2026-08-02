@@ -73,7 +73,7 @@ flowchart TD
 (en 2 de las últimas 5 temporadas cayó algún chubasco suelto en la primera quincena — aislado, no
 la temporada asentada). Marginal frente a las tres razones de arriba.*
 
-📖 **El día a día completo, con dónde dormir y precios** → [`11-itinerarios-dia-a-dia`](11-itinerarios-dia-a-dia.md)
+📖 **El día a día completo, con dónde dormir y precios** → [`01-itinerarios-dia-a-dia`](01-itinerarios-dia-a-dia.md)
 
 ---
 
@@ -180,10 +180,10 @@ flowchart LR
   de todas formas. El desierto **Sesriem ~32,5 °C**, el **Fish River ~32 °C** (meseta), y la costa
   fresca (Benguela): **Swakopmund/Walvis Bay ~25 °C** y **Lüderitz ~24,5 °C** de máxima en noviembre.
   Los tres primeros venían de estación NOAA; **Lüderitz, Sesriem y el Fish River no tienen estación y
-  se cerraron con el reanálisis ERA5** (validado contra estaciones) *(ver [`08`](08-huecos-cerrados.md),
+  se cerraron con el reanálisis ERA5** (validado contra estaciones) *(ver [`15`](15-huecos-cerrados.md),
   secciones "La costa" y §ERA5)*. **Las noches, entre 12,7 °C (la costa) y 18,9 °C (Etosha)**:
-  **forro polar, no plumas** — la lista completa de equipaje, en [`14`](14-equipaje.md), y la
-  temperatura noche a noche en [`11`](11-itinerarios-dia-a-dia.md).
+  **forro polar, no plumas** — la lista completa de equipaje, en [`05`](05-equipaje.md), y la
+  temperatura noche a noche en [`01`](01-itinerarios-dia-a-dia.md).
 - 💶 **Precio: la frontera del 1 de noviembre, dos veces.** **NWR** entra en tramo barato el 1 de
   noviembre (Sesriem, Terrace Bay, Etosha), y **Namibia2Go también**. 👉 **¿Adelantar días a
   octubre? Hasta 2 días es gratis** — las primeras noches (Windhoek, Spreetshoogte) no son NWR.
@@ -494,7 +494,7 @@ flowchart TD
    Lóriga 3 · **981 989 570**) se pide **en agosto**. Y el **permiso internacional de conducir**:
    con carnet español (que no está en inglés) **sí hace falta** — lo pide la ley namibia, el
    alquiler y el seguro. Se saca en la DGT por **~€10,51 (~N$210)**, vale **1 año** y va **siempre
-   junto al carnet** *(detalle y evidencia en `03`)*.
+   junto al carnet** *(detalle y evidencia en `04`)*.
 
 **Y tres datos médicos que se resuelven en una tarde:** **malaria** — Etosha sí es zona (CDC), el
 desierto y la costa no; a primeros de noviembre, antes de las lluvias, el riesgo está en su mínimo
@@ -519,7 +519,7 @@ limpios · **seguro con repatriación** — es condición de entrada; pide por e
   efectivo» es un mito de mala traducción)*, pero lleva **~N$4.000 (~€200)** de reserva.
 - **Llega a las 18:00** (17:30 en las etapas largas de los primeros días). En tu ventana (1–15 nov)
   anochece **~19:03–19:12 en el interior y hasta ~19:20 en la costa** —algo antes que a fin de mes;
-  ocaso recalculado en `08` y desglosado día a día en `11`— y la fauna sale a los arcenes al
+  ocaso recalculado en `15` y desglosado día a día en `01`— y la fauna sale a los arcenes al
   atardecer. El día crítico es el D7: **Ugabmund cierra la entrada a las 15:00**.
 - **El seguro y Damaraland**: el Super Cover de Asco **no cubre los bajos en Damaraland/Kaokoveld**
   — el tramo D8 pide suavidad en las piedras. Las pistas malditas **D3707/D3703 no están en esta
@@ -538,21 +538,36 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 
 </div>
 
-- ✅ [**`01-hallazgos-verificados`**](01-hallazgos-verificados.md) — alquiler, seguros, visado, tasas, y lo refutado
-- ✅ [**`02-alojamiento-y-tasas`**](02-alojamiento-y-tasas.md) — tarifas oficiales NWR 2026/2027
-- ✅ [**`03-guia-preparacion`**](03-guia-preparacion.md) — cuenta atrás, e-visa, vacunas, normas
-- ✅ [**`04-itinerario`**](04-itinerario.md) — distancias, firme, tiempos y viabilidad *(incluye el análisis del sur, fuera de esta ruta)*
-- ✅ [**`05-conduccion`**](05-conduccion.md) — contrato, presiones, arena, puertas de Sesriem
-- ✅ [**`06-lista-google-maps`**](06-lista-google-maps.md) — tus 34 pines, medidos y triados
-- ✅ [**`07-logistica`**](07-logistica.md) — combustible, distancias, dinero, cobertura
-- ✅ [**`08-huecos-cerrados`**](08-huecos-cerrados.md) — temperaturas medidas *(GHCN **y** GSOD de NOAA, más **reanálisis ERA5** para los puntos sin estación: Lüderitz, Sesriem, Fish River)*, **viento de la costa** *(Walvis Bay, GSOD)*, **ventana de luz** *(orto/ocaso calculados)*, vuelos, tasas 2026 y **rango orientativo de lodges** *(agregadores «desde», ~€75–170/noche los 2 en gama media; rack primario aún bloqueado)*
-- ✅ [**`09-lluvias-historico`**](09-lluvias-historico.md) — 5 temporadas de lluvia, mm a mm
-- ✅ [**`10-presupuesto`**](10-presupuesto.md) — el total del viaje reservado (Variante E), partida a partida, en N$ y €
-- ⭐ [**`11-itinerarios-dia-a-dia`**](11-itinerarios-dia-a-dia.md) — **la VARIANTE E día a día** *(la ruta del viaje)* + D/A/B de referencia
-- 💎 [**`12-joyas-ocultas`**](12-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, círculos de hadas… lo no típico, día a día
-- 🛒 [**`13-comida-compras-y-regalos`**](13-comida-compras-y-regalos.md) — súper por parada, la ley del alcohol, dónde comer, regalos y aduana
-- 🎒 [**`14-equipaje`**](14-equipaje.md) — el petate que dictan los datos: qué llevar, qué no, y los tres micro-kits
-- 🦁 [**`15-fauna-etosha`**](15-fauna-etosha.md) — **guía de campo en PDF** con 83 especies de toda la ruta —mamíferos, aves, reptiles y bichos—, para imprimir y llevar en la guantera
+*Numerados por **el momento en que se usan**, no por el orden en que se investigaron.*
+
+**🚗 La ruta y el dinero — para decidir y reservar**
+
+1. ⭐ [**`01-itinerarios-dia-a-dia`**](01-itinerarios-dia-a-dia.md) — **la Variante E día a día**: sol, temperatura, horarios, precios y qué se ve en cada charca. *El documento del viaje.*
+2. 💶 [**`02-presupuesto`**](02-presupuesto.md) — el total partida a partida, lo cerrado y lo estimado, y qué cambia si vais 3 o 4
+3. 🛏️ [**`03-alojamiento-y-tasas`**](03-alojamiento-y-tasas.md) — tarifas oficiales de NWR 2026/2027 y tasas de parque
+
+**🧳 Preparar — antes de salir de casa**
+
+4. 📅 [**`04-guia-preparacion`**](04-guia-preparacion.md) — la cuenta atrás, el e-visa, las vacunas y los plazos que vencen
+5. 🎒 [**`05-equipaje`**](05-equipaje.md) — el petate que dictan los datos: qué llevar, qué dejar y los tres micro-kits
+
+**🧭 En ruta — lo que se consulta con el coche en marcha**
+
+6. 🚙 [**`06-conduccion`**](06-conduccion.md) — el vuelco, el contrato, las presiones, la arena y las puertas de Sesriem
+7. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
+8. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
+9. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 83 especies con foto, y dónde y cuándo verlas
+10. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
+11. 📍 [**`11-lista-google-maps`**](11-lista-google-maps.md) — tus 34 pines, medidos y triados
+
+**🔬 El respaldo — por qué te puedes fiar de estos números**
+
+12. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
+13. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad *(incluye el análisis del sur, que quedó fuera)*
+14. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
+15. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora: temperaturas de estación *(GHCN, GSOD y ERA5)*, viento, luz, vuelos, tasas y lodges
+
+📕 Y el PDF: [**`guia-fauna-etosha.pdf`**](guia-fauna-etosha.pdf) — la guía de campo, para imprimir.
 
 ### 🗺️ Tus 34 pines, en una línea
 
@@ -561,7 +576,7 @@ Deadvlei · Walvis Bay · Swakopmund *(de paso)* · Cape Cross · Skeleton Coast
 Etosha *(4 noches dentro)*. **Opcionales**: **Onguma** *(tu pin — capricho fuera de la puerta este,
 a cambio de no dormir dentro)* · Okonjima/AfriCat · Hoba · Waterberg *(los tres, de camino el D13)*. **Fuera esta vez**: todo el sur *(documentado en la Variante D por si vuelve)* · Spitzkoppe y
 Brandberg *(tampoco están en la ruta de referencia)* · NamibRand · Messum · Bagatelle ·
-Epupa/Opuwo *(descartado con números en `06`: ~730 km hasta Opuwo + ~180-200 km de grava C43 hasta Epupa = desvío de ~2 días cada sentido, y dentro de la zona sin cobertura de bajos)* · Tsumkwe · Harnas · Kgalagadi.
+Epupa/Opuwo *(descartado con números en `11`: ~730 km hasta Opuwo + ~180-200 km de grava C43 hasta Epupa = desvío de ~2 días cada sentido, y dentro de la zona sin cobertura de bajos)* · Tsumkwe · Harnas · Kgalagadi.
 ℹ️ Twyfelfontein y Duna 45 salen en Google como cerrados: **fallo del listado, ambos funcionan**.
 
 ---
@@ -594,7 +609,7 @@ temperaturas de las webs de safaris — rehechas con datos de estación meteorol
 
 > **Lo que no se pudo verificar está en blanco y dicho**: el **rack rate primario** de los lodges
 > privados sigue bloqueado (egress + anti-bot), aunque su **nivel de precio ya está dimensionado con
-> rangos de agregador** en `08` *(gama media ~€75–170/noche los 2; los rack que asoman caducan el
+> rangos de agregador** en `15` *(gama media ~€75–170/noche los 2; los rack que asoman caducan el
 > 31/10/2026, así que noviembre es año tarifario nuevo sin publicar)*; y varios campings por noche
 > (Spreetshoogte, Walvis, Quivertree) y las distancias de esta ruta, que se midieron para el
 > recorrido del sur. Y las tasas de parque (~N$280) las respaldan ya **dos páginas oficiales del MEFT**

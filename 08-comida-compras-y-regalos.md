@@ -1,4 +1,4 @@
-# 13 · Comida, compras y regalos
+# 08 · Comida, compras y regalos
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -196,7 +196,7 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
 ### Los sitios, día a día
 - **D1/D13 · Windhoek** — Joe's Beerhouse (ya en el plan) · Xwama · kapana en Katutura ·
   Leo's at the Castle.
-- **D3/D5 · Solitaire** — la **apple pie de Moose McGregor** ✅ (la historia, en `12`).
+- **D3/D5 · Solitaire** — la **apple pie de Moose McGregor** ✅ (la historia, en `10`).
 - **D5–D6 · Walvis Bay** — **OSTRAS de la laguna** ◐, «de las mejores del hemisferio sur»:
   **The Raft** (~**N$100–140 (~€5–7) la docena** ○) o **Anchors @ the Jetty** ◐; también cruceros
   con ostras y espumoso ○.
@@ -208,7 +208,7 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
 - **D7 · Terrace Bay** — la cena es **el buffet del resort frente al Atlántico o tu braai** ◐: no
   hay más, y esa es la gracia.
 - **D9–D12 · Etosha** — restaurantes de los tres campamentos, abiertos a todos ◐; horarios
-  concretos: sin dato — **pídelos al reservar** (`11`).
+  concretos: sin dato — **pídelos al reservar** (`01`).
 
 ---
 

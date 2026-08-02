@@ -1,4 +1,4 @@
-# 05 · Conducir en Namibia
+# 06 · Conducir en Namibia
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -108,7 +108,7 @@ Para que sepas hasta dónde llega la evidencia y no le pidas más de lo que da:
 
 ## 3. El límite: 80 en grava, 60 en parques ✅
 
-Ya está en `01`: **80 km/h contractuales en grava** (el legal es 100), **caja negra**, y superarlo
+Ya está en `12`: **80 km/h contractuales en grava** (el legal es 100), **caja negra**, y superarlo
 **anula el seguro**. Añadidos de este bloque:
 
 - **Asco te limita a 60 km/h dentro de los parques nacionales**, pase lo que pase
@@ -184,8 +184,8 @@ permitted»*.
   *«Most crashes occurred between 16:00 - 19:59 (4.811)»*)
 - Esa franja de **cuatro horas** concentra **121 de los 413 muertos = 29,3 %**
 - Anochece **~19:03–19:20** en tu ventana (**1–15 nov**): interior (Windhoek/Etosha) ~19:03–19:12 y
-  **la costa hasta ~19:20** — ocaso recalculado en `08` para las fechas reales y desglosado día a
-  día en `11` → **la franja más mortal del país coincide con tu último tramo del día**, y a
+  **la costa hasta ~19:20** — ocaso recalculado en `15` para las fechas reales y desglosado día a
+  día en `01` → **la franja más mortal del país coincide con tu último tramo del día**, y a
   comienzos de noviembre llega **~15 min antes** que a fin de mes
 
 ❌ **Lo que NO puedes citar** (refutado 0–2): que el FCDO desaconseje conducir de noche **todo el
@@ -452,7 +452,7 @@ aparece **solo ahí**.
   dato que te aplica; conviértelo en garantía escrita al reservar
 - **African Tracks** dice llevar **2 ruedas de repuesto sin coste extra**; **AfriCar** anuncia una
   segunda gratis además de la de debajo del chasis
-- **Asco incluye una segunda rueda de repuesto** en su tarifa (ver `01`), aunque sus T&C **no
+- **Asco incluye una segunda rueda de repuesto** en su tarifa (ver `12`), aunque sus T&C **no
   especifican número**
 - **Drive Namibia** describe la segunda como *«highly recommended»*
 

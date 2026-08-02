@@ -1,4 +1,4 @@
-# 08 · Huecos cerrados
+# 15 · Huecos cerrados
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -533,7 +533,7 @@ buckets NOAA (la web de lodges y meteo sigue en `403`).
 ## 🌅 VENTANA DE LUZ — recalculada para la ventana REAL del viaje (1–15 nov): anochece ANTES de lo que decía el dossier ○
 
 **Por qué importa.** Todo el dossier se apoya en una regla de seguridad: **no conducir de noche,
-apuntar a llegar a las 18:00** porque **anochece ~19:15** (ver `05` y `03`). Ese ~19:15 estaba puesto
+apuntar a llegar a las 18:00** porque **anochece ~19:15** (ver `06` y `04`). Ese ~19:15 estaba puesto
 como valor único para todo el país y **sin fuente**. Dos correcciones:
 
 1. **La puesta de sol cambia con la longitud**: el oeste de Namibia está muy al oeste dentro de su
@@ -566,7 +566,7 @@ Todas dan **~13,0–13,4 horas de luz** en la ventana del viaje (un pelín menos
   (el 1 nov, ~19:14 en la costa y ~19:11 en Sesriem), no los ~19:27–19:29 del cálculo de finales de
   mes. Aun así siguen siendo los puntos donde más tarde anochece: útil para el atardecer de Deadvlei
   y la última etapa de la C14.
-- **Sesriem / Deadvlei al amanecer**: la puerta interior abre **~1 h antes del orto** (ver `05`). Con
+- **Sesriem / Deadvlei al amanecer**: la puerta interior abre **~1 h antes del orto** (ver `06`). Con
   orto **06:10 el 1 nov** (06:02 el 15), la puerta abre **~05:10** y estar en Deadvlei al alba
   significa **arrancar hacia las 05:20–05:35** — unos minutos más tarde que lo que sugería el cálculo
   del 25 nov (orto 06:00).
@@ -775,7 +775,7 @@ cobran los N$280 ◐.
 
 **Para vuestro viaje:** Etosha, Namib-Naukluft (Sossusvlei/Sesriem) y Skeleton Coast cobran la tasa
 **por persona y por cada 24 h** dentro del parque. Dos adultos + coche = **N$620/día (~€31)**
-(N$560 de los dos adultos + N$60 del vehículo), coherente con `01` §7 y `10` §5.
+(N$560 de los dos adultos + N$60 del vehículo), coherente con `12` §7 y `02` §5.
 
 **Fuentes tasas:**
 - **Fuente legal primaria (LOCALIZADA 23/07, no abierta aquí — 403):**
@@ -800,7 +800,7 @@ en Semana Santa**. ◐
   Sesriem tiene **muy pocas parcelas** y se llena todo el año.
 - **No se encontró una cifra oficial de "X meses de antelación" para noviembre** → **❌ sin dato duro**.
   Práctica común ○: para dormir **dentro** de la puerta de Sesriem (imprescindible para el amanecer en
-  Deadvlei, ver `05`) conviene reservar **con varios meses**, y cuanto antes mejor dado el poco cupo.
+  Deadvlei, ver `06`) conviene reservar **con varios meses**, y cuanto antes mejor dado el poco cupo.
 
 **Fuentes:** [NWR — Sesriem bookings](https://www.nwrnamibia.com/sesriem-bookings.htm) ·
 [sossusvlei.org — Sesriem campsite](https://www.sossusvlei.org/accommodation/sesriem-camp-site/)
@@ -939,7 +939,7 @@ de tarifas de NWR para el periodo **5/12/2025 – 30/6/2026** *(temporada baja, 
 > en temporada alta de noviembre**, esperad **más**. **La tarifa internacional de nov 2026 sigue ❌ sin
 > verificar** (el folleto era doméstico/SADC y caduca en junio 2026), pero el suelo ya deja claro que
 > **Terrace Bay es, con diferencia, la noche más cara de la ruta** — no los ~€30 de un camping. El
-> presupuesto lo tenía infravalorado (ver `10`).
+> presupuesto lo tenía infravalorado (ver `02`).
 
 **Fuente:** [NWR — Discover Namibia special domestic & SADC rates (PDF)](https://www.nwr.com.na/icheephu/2025/12/Pages-from-NWR-flyers-A4-special-rates-NEW-3.pdf)
 · [NWR — Terrace Bay Resort](https://www.nwr.com.na/resorts/terrace-bay-resort/)
@@ -954,7 +954,7 @@ tarifa internacional/alta).*
   2026, **no como predicción**.
 - Los **récords son del periodo descargado** (2012–2025 en Karios, 1957–2024 en Keetmanshoop), **no
   récords históricos absolutos**.
-- Enlaza con `05-conduccion.md`: **el calor es un peligro de conducción**. Neumáticos calientes ganan
+- Enlaza con `06-conduccion.md`: **el calor es un peligro de conducción**. Neumáticos calientes ganan
   presión → mide **en frío cada mañana**; calor + poca presión + corrugado = **reventón**, y un
   reventón delantero a 80 en grava **es un vuelco**.
 - Y con `07-logistica.md`: **4+ litros de agua por persona y día** en el coche. Un pinchazo a las
@@ -1029,7 +1029,7 @@ tarifa internacional/alta).*
       orientativo**: los «desde» de agregador dimensionan el nivel de precio (§Lodges), con la misma etiqueta
       gancho que los vuelos y con el aviso de que caducan el 31/10/2026. La cifra confabulada (Canyon Roadhouse
       N$1.760 = actividad, no habitación) **se mantiene descartada** y no se usa como room rate. El **escenario
-      de presupuesto real sigue siendo el de camping** (ya cerrado en `10-presupuesto.md`), que no depende de
+      de presupuesto real sigue siendo el de camping** (ya cerrado en `02-presupuesto.md`), que no depende de
       estas tarifas — el rango de lodge solo sirve para valorar el *upgrade*.
 - ⛺ **Campings privados de la ruta** — **PARCIAL**: cerrado **Spitzkoppe Community Campsite: N$270/persona
   → N$540/noche (~€27)** ◐, que **incluye la entrada a la reserva (N$130 pp)** y es **solo en efectivo**
@@ -1087,7 +1087,7 @@ tarifa internacional/alta).*
   Tripadvisor **no haber conseguido ninguna parcela de camping en Etosha reservando con ~1,5 meses de
   antelación** ○ (anécdota, no cifra oficial). Traslación a **tu** ventana de noviembre: la presión de
   reserva es **menor que en el pico Jul–Oct**, pero **Sesriem sigue siendo el cuello de botella
-  estructural** — solo **44 parcelas + 6 de desbordamiento** (`08`, sección Sesriem), así que su escasez
+  estructural** — solo **44 parcelas + 6 de desbordamiento** (`15`, sección Sesriem), así que su escasez
   no depende de la temporada. **Recomendación práctica ○:** reserva Sesriem y las noches de Etosha **en
   cuanto tengas el coche cerrado**, sin esperar. **Sigue ❌**: cifra oficial de NWR sobre meses de
   antelación para noviembre.
@@ -1102,7 +1102,7 @@ tarifa internacional/alta).*
   (27/07, §ERA5)**: sigue sin haber estación propia con máximas (confirmado por partida doble, GHCN y
   GSOD), pero **ERA5 pone cifra**: **Sesriem ~32,5 °C**, **Lüderitz ~24,5 °C** de media de máximas de
   noviembre, validado contra estaciones (§ERA5). El dato ◐ de NWR para Sesriem (**34,1 °C**) y ERA5
-  (32,5 °C) **coinciden en ~32–34 °C**. *(Dato ◐ de NWR en `03`: Sesriem nov 34,1 / 15,5 °C; Etosha nov
+  (32,5 °C) **coinciden en ~32–34 °C**. *(Dato ◐ de NWR en `04`: Sesriem nov 34,1 / 15,5 °C; Etosha nov
   35,5 / 18,3 °C, secundario.)*
 - 🌍 **ERA5 (nuevo, 27/07)** — **CIERRE por reanálisis ◐**: se descubrió que el egress permite
   `storage.googleapis.com` → **ARCO-ERA5** (reanálisis del ECMWF, 0,25°). Rellena los tres huecos sin

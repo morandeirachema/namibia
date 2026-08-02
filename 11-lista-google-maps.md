@@ -1,4 +1,4 @@
-# 06 · Tus 34 pines de Google Maps
+# 11 · Tus 34 pines de Google Maps
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -95,7 +95,7 @@ flowchart LR
 
 > 👉 **La aritmética del descarte:** desde el punto más cercano de la ruta prevista (el eje de Etosha /
 > Damaraland), Epupa es un **desvío de ~2 días de ida y ~2 de vuelta**, metiéndote **justo en la zona
-> sin cobertura**. Con el coche solo 12-13 días útiles (ver `04`), **no cabe** — y no por gusto, sino
+> sin cobertura**. Con el coche solo 12-13 días útiles (ver `13`), **no cabe** — y no por gusto, sino
 > por kilómetros. **Descartado con números.**
 
 **Fuentes** ◐ *(vía WebSearch; no descargadas —el egress de la organización bloquea WebFetch/curl a
@@ -113,7 +113,7 @@ páginas de indicaciones de los propios lodges**, y sirven para el descarte, no 
 **Mata-Mata es el puesto fronterizo** de entrada desde Namibia, así que queda **fuera del viaje**.
 
 **Y es una buena decisión**, porque se evita todo esto:
-- **Tasas de frontera**: ✅ verificado en `01` que Asco **excluye** *«cross-border fees»* de la
+- **Tasas de frontera**: ✅ verificado en `12` que Asco **excluye** *«cross-border fees»* de la
   tarifa, y Namibia2Go excluye *«Border Fees»* (aunque incluya la documentación del cruce)
 - **Autorización escrita del propietario del vehículo** para cruzar, que hay que pedir al reservar
 - La duda de si **el seguro sigue vigente** al otro lado
@@ -147,7 +147,7 @@ de la ruta E** — el sur quedó descartado.*
 
 > ⚠️ **Esta es tu lista original de pines.** Varias paradas de la **ruta E** no estaban en ella y
 > por eso no aparecen aquí — **Spreetshoogte, Terrace Bay, Hoada** — pero están medidas y con
-> alojamiento en `11`.
+> alojamiento en `01`.
 
 ### Extremo noroeste — Kaokoland *(el más caro en tiempo)*
 - **Cataratas Epupa** — atracción turística, 4,6★ (398). Río Kunene, frontera con Angola
@@ -191,7 +191,7 @@ de la ruta E** — el sur quedó descartado.*
 - **Sesriem Canyon** — mirador, 4,4★ (997)
 - **Duna 45** — *(Google dice «cerrado permanentemente»: otro fallo del listado. La duna sigue ahí)*
 - **Deadvlei** — reserva natural, 4,8★ (1.718). ✅ Requiere dormir **dentro** de la puerta de
-  Sesriem para el amanecer (ver `05`)
+  Sesriem para el amanecer (ver `06`)
 - **Reserva natural de NamibRand** — 4,7★ (197). **Reserva internacional de cielo oscuro**
 
 ### Kalahari y sur
@@ -279,7 +279,7 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
   - ⚠️ **Actualización 02/08/2026 ◐:** una secundaria ([namibian.org](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent))
     sitúa Cape Cross entre los parques **«premium» del baremo MEFT vigente desde abril de 2026 →
     N$280 (~€14)/adulto**. El rango N$80–150 de las reseñas sería la tarifa vieja. **Presupuesta
-    N$280 y confírmalo contra el PDF del MEFT** (el mismo email pendiente de las tasas, ver `10`).
+    N$280 y confírmalo contra el PDF del MEFT** (el mismo email pendiente de las tasas, ver `02`).
   - **Timing ideal:** el pico de cría es **noviembre-diciembre** (hasta ~210.000 focas) — justo
     vuestras fechas.
   - Acceso por la **C34** al norte de Swakopmund (costa). Gestiona MEFT.
@@ -289,7 +289,7 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
 - **Brandberg — la Dama Blanca** ◐
   - **Guía OBLIGATORIO.** El sitio lo gestiona la **comunidad damara** y no se sube sin guía local.
   - **~N$250–270/persona (~€12,5–13,5)**. Caminata de **~3 h ida y vuelta**, poca sombra
-    → planificar a primera hora por el calor (ver `08`).
+    → planificar a primera hora por el calor (ver `15`).
   - Fuentes: [namibweb — Brandberg Mountain Guides](http://www.namibweb.com/brandg.htm) ·
     [TripAdvisor — White Lady](https://www.tripadvisor.com/Attraction_Review-g1182959-d2284289-Reviews-White_Lady-Khorixas_Kunene_Region.html)
 
@@ -297,14 +297,14 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
   - **~N$250/persona (~€12,5)** (una reseña de 2024 lo cifra en «22,50 €/extranjero» ≈ N$250).
     Gestiona el **National Heritage Council**.
   - **OJO geografía:** está junto a **Grootfontein**, en el **noreste**. Con la ruta E queda como
-    **desvío opcional del D13** (Namutoni → Windhoek vía Grootfontein) — ver `11`.
+    **desvío opcional del D13** (Namutoni → Windhoek vía Grootfontein) — ver `01`.
   - Fuente: [TripAdvisor — Hoba Meteorite](https://www.tripadvisor.com/Attraction_Review-g1137965-d3609771-Reviews-Hoba_Meteorite-Grootfontein_Otjozondjupa_Region.html)
 
 - **Waterberg Plateau** ◐/✅
   - **N$280/persona/día (~€14)** — es el **baremo premium del MEFT** vigente desde el **1/04/2026**,
-    el mismo que Etosha y Namib-Naukluft (ver `08`).
+    el mismo que Etosha y Namib-Naukluft (ver `15`).
   - Fuente: [NWR — Waterberg](https://www.nwrnamibia.com/waterberg-prices.htm) ·
-    baremo en [08-huecos-cerrados.md](08-huecos-cerrados.md)
+    baremo en [15-huecos-cerrados.md](15-huecos-cerrados.md)
 
 - **Otjitotongwe Cheetah Farm** ◐
   - Interacción/alimentación de guepardos. En la **C40, a 24 km de Kamanjab** (eje camino de Etosha
@@ -400,7 +400,7 @@ flowchart LR
   Tampoco cabe en la ruta E final — esos días son las 4 noches de Etosha: es aritmética, no gusto.
 - **Y de propina, el seguro:** las pistas **D3700 / D3703 / D3707** de Kaokoland-Damaraland son justo
   donde el contrato de Asco **no cubre bajos ni garantiza rescate** aunque pagues Super Cover
-  (ver `01` y `05`). Doble motivo para dejarlo fuera.
+  (ver `12` y `06`). Doble motivo para dejarlo fuera.
 - Fuentes: [trippy — Windhoek↔Opuwo](https://www.trippy.com/distance/Windhoek-to-Opuwo) ·
   [Epupa Camp — directions](https://epupa.com.na/directions/)
 

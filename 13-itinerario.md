@@ -1,4 +1,4 @@
-# 04 · Itinerario y viabilidad
+# 13 · Itinerario y viabilidad
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -12,14 +12,14 @@
 > ## 🔄 NOTA (17/07/2026): la ruta final NO incluye el sur
 > Decisión posterior del viajero: **el sur se quitó entero** (Fish River, Lüderitz/Kolmanskop,
 > kokerbooms, D707). La ruta vigente es la **Variante E** — la clásica del norte, en
-> [`11-itinerarios-dia-a-dia.md`](11-itinerarios-dia-a-dia.md). Lo que sigue se conserva como
+> [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md). Lo que sigue se conserva como
 > referencia verificada por si el sur vuelve en otro viaje.
 >
 > ⚠️ **Hueco reconocido (02/08/2026): las etapas propias de la E no están medidas aquí.** Este
 > documento midió el eje del sur y el central; el eje que la E sí usa —Swakopmund → Cape Cross →
 > **Ugabmund → Terrace Bay** (D7), **Springbokwasser → Twyfelfontein → Hoada** (D8), la entrada
 > por **Andersson** (D9) y el **Namutoni → Windhoek ~550 km ○** del D13— solo tiene las
-> estimaciones día a día de `11` (◐/○). 👉 **Verifícalas con Tracks4Africa o GPS actual antes de
+> estimaciones día a día de `01` (◐/○). 👉 **Verifícalas con Tracks4Africa o GPS actual antes de
 > reservar alojamientos con horario ajustado** — sobre todo el D7, que tiene puerta a las 15:00.
 
 
@@ -34,7 +34,7 @@ pregunta que importa: **¿cabe todo en 14 días?**
 
 ## 0. Las reglas del cálculo — por qué NO valen los tiempos de Google Maps
 
-Google Maps asume velocidades que **anulan tu seguro** (ver `01` y `05`: 80 km/h contractuales en
+Google Maps asume velocidades que **anulan tu seguro** (ver `12` y `06`: 80 km/h contractuales en
 grava, caja negra, límite de 60 km/h en parques). Todos los tiempos de este documento se calculan
 con **tus** reglas, no las de Google:
 
@@ -59,7 +59,7 @@ flowchart TD
   media real cae a **60–70**. Calculo el *tiempo mínimo* a 80 y aviso de que el real es mayor.
 - **Parque**: **60 km/h**, y en la práctica mucho menos porque vas parando a mirar.
 - **Sumo** una franja de paradas/repostaje a cada etapa y recuerdo que **un solo pinchazo suma ~1 h**.
-- **Regla de oro (de `05`)**: apuntar a **llegar a las 18:00**, una hora antes del ocaso. La franja
+- **Regla de oro (de `06`)**: apuntar a **llegar a las 18:00**, una hora antes del ocaso. La franja
   16:00–20:00 concentra el **29 % de los muertos** del país. Si vas tarde, **te paras y llegas mañana**.
 
 Guía independiente de operadores, que coincide: *«plan your daily routing to be no further than
@@ -68,11 +68,11 @@ viajero cita un tramo de *«288 km that took over 4 hours»* y que después **ac
 👉 **Trabajo con un techo de ~300–350 km/día de tránsito**, y menos si el día tiene grava dura o
 actividad (Sossusvlei, safari).
 
-⚠️ *Los 80 km/h con caja negra están documentados en los contratos de **Asco/Savanna** (ver `05`);
+⚠️ *Los 80 km/h con caja negra están documentados en los contratos de **Asco/Savanna** (ver `06`);
 la cláusula del contrato vigente —**Namibia2Go Budget**— sigue sin verificar: pídela al reservar.
 Los tiempos de este documento se mantienen a 80 igualmente.*
 
-Fuentes de la regla: `01` y `05` (contratos Asco/Savanna, ya descargados) ·
+Fuentes de la regla: `12` y `06` (contratos Asco/Savanna, ya descargados) ·
 https://www.expertafrica.com/namibia/info/self-drive-driving-tips-and-techniques ·
 https://www.safaribookings.com/blog/guide-to-driving-in-namibia-10-useful-self-drive-tips
 
@@ -81,19 +81,19 @@ https://www.safaribookings.com/blog/guide-to-driving-in-namibia-10-useful-self-d
 ## 0-bis. Los tiempos de la VARIANTE E, calculados con esas reglas *(añadido 02/08/2026)*
 
 La ruta del viaje, día a día, con la aritmética a la vista. **Ojo a la base**: las distancias son
-las estimaciones ◐/○ de `11` (varias sin verificar — ver la nota de cabecera), así que esto es
+las estimaciones ◐/○ de `01` (varias sin verificar — ver la nota de cabecera), así que esto es
 **cálculo transparente sobre datos marcados**, no medición. Método: asfalto a 100 · grava al techo
 de 80 con **media real 60–70** · parque a 60 · **+30–60 min de paradas** por día de tránsito · un
 pinchazo = +1 h que no está en ninguna cifra.
 
 - **D2 · Windhoek → Spreetshoogte (~180–200 km ◐)** — 87 km asfalto (~50 min) + ~95–115 km de
-  grava (a 60–70: 1h25–1h55) → **mínimo ~2h15 · realista 3h–3h30 con paradas** ✓ *(coincide con `11`)*
+  grava (a 60–70: 1h25–1h55) → **mínimo ~2h15 · realista 3h–3h30 con paradas** ✓ *(coincide con `01`)*
 - **D3 · Spreetshoogte → Solitaire → Sesriem (~150–170 km ◐)** — grava entera (a 60–70:
   2h10–2h50) + parada en Solitaire → **realista ~2h30–3h** ✓
 - **D4 · Sossusvlei (130 km, dentro del parque ✅)** — ~120 km a 60 = 2h de volante repartidas en
   el día + arena + dunas a pie → **día completo, y por eso se madruga a las ~05:10**
 - **D5 · Sesriem → Walvis Bay (~270 km ✅)** — grava y paso del Kuiseb (a 60–70: 3h50–4h30) +
-  paradas → **realista ~4h30–5h30** ✓ *(el «~5h30» de `11` es el honesto)*
+  paradas → **realista ~4h30–5h30** ✓ *(el «~5h30» de `01` es el honesto)*
 - **D7 · Walvis Bay → Cape Cross → Terrace Bay (~390 km ○, km sin verificar)** — el día con hora
   límite: a 70–80 de media son **~5h–5h30 SOLO de volante**, más Cape Cross (~1 h) y el trámite de
   Ugabmund. **Cuenta atrás desde las 15:00 de la puerta: salir de Walvis a las 7:30 deja ~6h30 de
@@ -101,7 +101,7 @@ pinchazo = +1 h que no está en ninguna cifra.
 - **D8 · Terrace Bay → Twyfelfontein → Hoada (~300 km ○)** — grava (a 60–70: 4h20–5h) + grabados →
   **realista ~5h de volante + visita** ✓
 - **D9 · Hoada → Okaukuejo (~315 km ◐)** — grava hasta Kamanjab, asfalto después (firme de la C38
-  por confirmar, `11`) → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
+  por confirmar, `01`) → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
 - **D10–D12 · Etosha (60–90 km/día ✅)** — a 60 km/h y parando en cada charca: **el día entero ES
   el trayecto** — no son horas de tránsito, son horas de safari
 - **D13 · Namutoni → Windhoek (~550 km ○, estimación propia)** — asfalto a ~100 → **mínimo ~5h30 ·
@@ -110,7 +110,7 @@ pinchazo = +1 h que no está en ninguna cifra.
 
 > **Lectura de conjunto:** ningún día de la E baja de las reglas — el único que exige disciplina de
 > reloj es el **D7** (puerta a las 15:00) y el único largo de verdad es el **D13** (asfalto). Las
-> franjas de `11` son coherentes con este cálculo; donde los km están sin verificar (D7, D8, D13),
+> franjas de `01` son coherentes con este cálculo; donde los km están sin verificar (D7, D8, D13),
 > el tiempo hereda la incertidumbre — **Tracks4Africa antes de apurar horarios**.
 
 ---
@@ -126,7 +126,7 @@ pero es secundaria y vieja; ver `07`). Los del **sur** los verifiqué en esta pa
 - **Windhoek → Mariental**: **~270 km**, **asfalto B1** ✅ *(Wikipedia Mariental: «274 km southeast of Windhoek»)*
 - **Mariental → Keetmanshoop**: **~230 km**, **asfalto B1** ✅ *(Wikipedia Mariental: «232 km north of Keetmanshoop»)*
 - **Windhoek → Keetmanshoop**: **~500 km**, **asfalto B1**, ~4h45 de tránsito ✅ *(convergente en varias fuentes)*
-- **Keetmanshoop → Quiver Tree Forest (kokerbooms)**: **~14 km** ✅ *(ya en `06`; a las afueras de Keetmanshoop)*
+- **Keetmanshoop → Quiver Tree Forest (kokerbooms)**: **~14 km** ✅ *(ya en `11`; a las afueras de Keetmanshoop)*
 - **Keetmanshoop → Hobas (Fish River Canyon)**: **~150 km**. Ruta: **B1 → B4 (~35 km asfalto) → C12 (~80 km grava) → C37 (~30 km grava)** ◐ *(descripción de ruta en blogs de viaje; el número converge en «~150 km, 2 h»)*
 - **Keetmanshoop → Lüderitz**: **334 km**, **asfalto B4** ✅ *(Wikipedia «B4 road (Namibia)»: «west–east direction for 334 kilometres, connecting Lüderitz… to Keetmanshoop»)*
 - **Aus → Lüderitz**: **~125 km**, **asfalto B4**, atraviesa el **Sperrgebiet** ◐ *(tramo final de la B4; «12 km antes de Lüderitz está Kolmanskop»)*
@@ -148,7 +148,7 @@ pero es secundaria y vieja; ver `07`). Los del **sur** los verifiqué en esta pa
   llevadero** para el primer día con el coche recién cogido.
 - **Windhoek → Sesriem** *(matriz 2010)*: **320 km** ◐ · **Windhoek → Solitaire**: **300 km** ◐
 - **Sesriem → Sossusvlei / Deadvlei**: **60 km cada trayecto** (120 ida y vuelta) **+ 5 km de arena
-  blanda** en reductora al final ◐ *(matriz 2010 + `05`)*
+  blanda** en reductora al final ◐ *(matriz 2010 + `06`)*
 - **Sesriem → Solitaire**: **90 km** ◐ · **Solitaire → Swakopmund**: **210 km** ◐ ·
   **Sesriem → Swakopmund** *(por la C14, pasos de Gaub y Kuiseb)*: **300 km** grava ◐
 
@@ -277,10 +277,10 @@ flowchart TD
 > costa NO cabe en 14 días.** Puedes tener **el sur + el Namib + la costa** (sin Etosha), o **el sur +
 > Etosha** (sacrificando el Namib/Sossusvlei), pero **no las dos coronas a la vez**. Quien lo intenta
 > pasa 14 días **conduciendo delante de los sitios en vez de estar en ellos** — y encima acumula
-> fatiga, que en grava es exactamente el factor del vuelco (ver `05`).
+> fatiga, que en grava es exactamente el factor del vuelco (ver `06`).
 
 > 🔄 **Cómo acabó esto (para quien aterrice aquí):** la decisión final fue la contraria a la premisa
-> de este apartado — **cayó el sur, no Etosha**. La ruta del viaje es la **Variante E** (`11`):
+> de este apartado — **cayó el sur, no Etosha**. La ruta del viaje es la **Variante E** (`01`):
 > Sossusvlei + costa + Damaraland + **cuatro noches en Etosha**, sin el sur. El análisis de arriba
 > sigue siendo la prueba de que no cabía todo.
 
@@ -290,7 +290,7 @@ flowchart TD
 
 *(Fechas ilustrativas de esta sección: finales de noviembre, tras el umbral del 15/11 — **que era
 el de Asco, la empresa descartada**. Las fechas reales del viaje son **1–14 de noviembre**, y su
-precipicio de precio es el **1 de noviembre** — NWR y Namibia2Go; ver `10` y `11`. D1 = llegada.)*
+precipicio de precio es el **1 de noviembre** — NWR y Namibia2Go; ver `02` y `01`. D1 = llegada.)*
 
 ### 🟢 Variante A — «El sur completo + Namib + costa» · SIN Etosha · RECOMENDADA
 
@@ -326,7 +326,7 @@ gantt
 - **Coche**: ~12 días útiles. **Días de conducción dura**: solo el Windhoek–Keetmanshoop (asfalto,
   fácil) y los dos de grava del D707, ya partidos. **Ningún día pasa de ~300 km de grava.**
 - **Duerme DENTRO de la puerta de Sesriem** la noche antes de Deadvlei (Sesriem Campsite o Sossus
-  Dune Lodge): es la **única forma** de estar en Deadvlei al amanecer (ver `05` y `02`).
+  Dune Lodge): es la **única forma** de estar en Deadvlei al amanecer (ver `06` y `03`).
 - **Lo que ganas**: el sur entero sin prisa, Sossusvlei al amanecer, un día de descanso en la costa.
 - **Lo que pierdes**: Etosha y el Damaraland profundo (Twyfelfontein, Palmwag).
 
@@ -387,7 +387,7 @@ flowchart LR
   y el ocaso a las 19:15. La guía de operadores dice **máximo 400 y ojalá 300** — C vive pegada al techo.
 - **Etosha quedaría reducido a atravesarlo** (sin tiempo de safari) y **Sossusvlei a un amanecer con
   prisa**. Pagas por llegar a los sitios y no llegas a *estar* en ellos.
-- El coste real no es el dinero: es la **fatiga**, que en grava es el ingrediente del vuelco (`05`).
+- El coste real no es el dinero: es la **fatiga**, que en grava es el ingrediente del vuelco (`06`).
 - ❌ **No la recomiendo.** Si de verdad quieres las dos coronas, la respuesta honesta no es apretar C:
   es **alargar el viaje a 17–18 días**, que no es una opción de este encargo.
 
@@ -443,7 +443,7 @@ flowchart TD
 > día perdido— **este es el cierre rápido y seguro del circuito**.
 
 - **Primer día con el coche (Windhoek → sur)**: coge el coche, revisa **presiones en frío, las DOS
-  ruedas de repuesto, gato y compresor** (ver `05`) **antes de salir del patio**. El B1 al sur es
+  ruedas de repuesto, gato y compresor** (ver `06`) **antes de salir del patio**. El B1 al sur es
   asfalto: buen día para acostumbrarse al vehículo cargado.
   ⚠️ **No lo hagas el día del vuelo**: recoger el 4x4 + briefing son 1–2 h; si aterrizas a mediodía y
   sales a las 14:00, los 500 km hasta Keetmanshoop te meten en el ocaso. **Duerme en Windhoek y sal
@@ -452,19 +452,19 @@ flowchart TD
   12–15 min. Encaja en el atardecer de llegada o el amanecer siguiente **sin coste de itinerario**.
   A mediodía la luz lo mata. **Es el mejor coste/beneficio de todo el sur.**
 - **Sesriem manda sobre tu amanecer**: la puerta interior abre **1 h antes del amanecer solo si
-  duermes dentro**. Duerme fuera y **no llegas** a Deadvlei con el sol bajo (60 km + arena). Ver `05`.
+  duermes dentro**. Duerme fuera y **no llegas** a Deadvlei con el sol bajo (60 km + arena). Ver `06`.
 - **Deadvlei**: los últimos **5 km son arena blanda en reductora**; desinfla **en el aparcamiento
-  2WD, no antes**, y reinfla en Sesriem. O usa la **lanzadera 4x4 de NWR por N$180 (~€9)** (`02`).
+  2WD, no antes**, y reinfla en Sesriem. O usa la **lanzadera 4x4 de NWR por N$180 (~€9)** (`03`).
 - **Pasos de Gaub y Kuiseb (C14, Sesriem→Swakopmund)**: **210 km sin nada en medio** desde Solitaire
   (ver `07`). **Reposta en Solitaire** sí o sí; es el salvavidas de combustible (y la tarta de manzana).
 - **Línea Roja veterinaria** (si haces Etosha, Variante B): **no bajes carne cruda** del norte; cómela
   o cocínala antes de salir de Etosha (ver `07`).
 - **La D707 (Variantes A)**: es **grava exigente** —arena blanda, corrugado, piedras— y **4x4
   obligatorio**; pero **NO es de las carreteras sin seguro**. Las que anulan la cobertura de bajos y
-  rescate pagues lo que pagues son la **D3707 y la D3703** en Kaokoland/Damaraland (ver `05` y `06`) —
+  rescate pagues lo que pagues son la **D3707 y la D3703** en Kaokoland/Damaraland (ver `06` y `11`) —
   **no la confundas con la D707, que es otra carretera**.
 - **Sin conducir de noche, jamás**: en tu ventana (1–15 nov) anochece **~19:05–19:15** en el interior
-  (ocaso recalculado en `08` para las fechas reales, algo más temprano que a fin de mes); apunta a
+  (ocaso recalculado en `15` para las fechas reales, algo más temprano que a fin de mes); apunta a
   llegar a las **18:00** —**17:30** en las etapas largas de los primeros días—. Cualquier etapa que no
   dé para eso, **pártela**.
 
@@ -490,7 +490,7 @@ flowchart TD
 
 ## Fuentes
 
-- Reglas de conducción y velocidad: `01-hallazgos-verificados.md`, `05-conduccion.md` (contratos
+- Reglas de conducción y velocidad: `12-hallazgos-verificados.md`, `06-conduccion.md` (contratos
   Asco/Savanna ya descargados) ·
   https://www.expertafrica.com/namibia/info/self-drive-driving-tips-and-techniques ·
   https://www.safaribookings.com/blog/guide-to-driving-in-namibia-10-useful-self-drive-tips

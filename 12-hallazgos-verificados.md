@@ -1,4 +1,4 @@
-# 01 · Hallazgos verificados
+# 12 · Hallazgos verificados
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -250,7 +250,7 @@ operadores cobran por día natural y facturarían 4 unidades por una estancia de
 > ⚠️ **Estado de verificación (honesto):** ◐, no ✅. El baremo lo confirman DOS páginas oficiales del
 > MEFT (PDF de tarifas + nota de prensa `news/199`) además de secundarias concordantes, **pero ninguna
 > se pudo ABRIR** (WebFetch da 403); la extracción viene de fragmentos de búsqueda. **No se localizó
-> Government Gazette numerado.** Detalle en `08`. **Confírmalo por email antes de cerrar presupuesto.**
+> Government Gazette numerado.** Detalle en `15`. **Confírmalo por email antes de cerrar presupuesto.**
 
 - https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF
 - https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/
@@ -322,7 +322,7 @@ flowchart TD
 - **El permiso internacional de conducir** → ✅ **cerrado**. Con un carnet **español** (que no está
   en inglés) **sí hace falta** llevar el permiso internacional de conducir, o una traducción jurada
   al inglés. No es un capricho: lo pide la normativa namibia, la empresa de alquiler y, en caso de
-  siniestro, el seguro. Trámite y coste (DGT) en `03-guia-preparacion.md`. Marcado **◐** porque las
+  siniestro, el seguro. Trámite y coste (DGT) en `04-guia-preparacion.md`. Marcado **◐** porque las
   páginas primarias no se pudieron descargar; ver ahí el detalle de evidencia.
 
 ---
@@ -334,22 +334,22 @@ pasada ha terminado: los cuatro están resueltos en sus propios documentos. Se d
 registro de qué se cerró y dónde, para poder auditarlo.
 
 1. **Fechas por criterios ambientales** — inicio de las lluvias, calor en Sossusvlei / Fish
-   River Canyon / Ai-Ais, afluencia. → **Cerrado** en `08-huecos-cerrados.md`: temperaturas
+   River Canyon / Ai-Ais, afluencia. → **Cerrado** en `15-huecos-cerrados.md`: temperaturas
    reales de NOAA GHCN-Daily y SASSCAL (las anteriores, de webs de safaris, fueron refutadas
    0–3). Etosha **sí** hace pico en octubre; el sur, no. La mitad ambiental de la decisión de
    noviembre ya está sobre la mesa junto a la económica (~€870, ~N$17.400).
 2. **Itinerario día a día y viabilidad** — si Etosha + sur profundo + Sossusvlei + costa caben
-   en 14 días a 80 km/h en pista. → **Cerrado** en `04-itinerario.md` (veredicto: **NO cabe
-   todo**; techo sano ~300–350 km/día) y desarrollado día a día en `11-itinerarios-dia-a-dia.md`.
+   en 14 días a 80 km/h en pista. → **Cerrado** en `13-itinerario.md` (veredicto: **NO cabe
+   todo**; techo sano ~300–350 km/día) y desarrollado día a día en `01-itinerarios-dia-a-dia.md`.
    La ruta vigente es la **Variante E** (la clásica del norte, sin el sur). La etapa de
    Damaraland sigue con los bajos sin cobertura incluso en el nivel más alto de seguro.
 3. **Precios de alojamiento** — campings NWR (Okaukuejo/Halali/Namutoni), Sesriem, Hobas,
    lodges de gama media; y antelación de reserva para oct–dic. → **Cerrado** en
-   `02-alojamiento-y-tasas.md` y `08-huecos-cerrados.md`.
-4. **Presupuesto total** — → **Cerrado** en `10-presupuesto.md`: ya calculado sobre la
+   `03-alojamiento-y-tasas.md` y `15-huecos-cerrados.md`.
+4. **Presupuesto total** — → **Cerrado** en `02-presupuesto.md`: ya calculado sobre la
    distancia real de la Variante E y las reservas cerradas (vuelo, coche y seguro).
-5. ~~**Permiso internacional de conducir**~~ → **resuelto** (ver arriba y `03`), ~~malaria en
-   Etosha~~ → **resuelta** (sí es zona de riesgo, CDC, en `03`), certificado de fiebre
+5. ~~**Permiso internacional de conducir**~~ → **resuelto** (ver arriba y `04`), ~~malaria en
+   Etosha~~ → **resuelta** (sí es zona de riesgo, CDC, en `04`), certificado de fiebre
    amarilla al hacer escala en Adís Abeba (Etiopía es endémica), SIM/eSIM, efectivo vs tarjeta,
    seguridad.
 

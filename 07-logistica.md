@@ -46,7 +46,7 @@ como dato**. 👉 **Recomprueba la semana antes de salir.**
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta E)*: un Hilux
 doble cabina cargado en los **~2.600 km de la Variante E** (banda 2.400–2.800), a **~11–13 l/100 km**,
 quema **~290–365 l** → banda **N$6.336–9.828 (~€317–491)**, central **~N$7.956**. **Se presupuestan
-~N$8.000 (~€400)** — el detalle, en `10`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
+~N$8.000 (~€400)** — el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
 2.800–3.200 km de la ruta con el sur.)*
 
 Fuente: https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/
@@ -87,7 +87,7 @@ hace y no está permitido.
 - Lleva monedas y billetes pequeños **en el hueco de la puerta** para esto: lo harás **10–15 veces**
   en el circuito → **~N$100 (~€5) en total**. Dinero trivial que compra buena voluntad real
 - 👉 **Pídeles que miren las presiones en CADA parada**: es tu defensa más barata contra las
-  exclusiones de neumáticos y bajos del seguro (ver `05`)
+  exclusiones de neumáticos y bajos del seguro (ver `06`)
 
 ---
 
@@ -119,7 +119,7 @@ Distancias **por carretera** (km), de la matriz de Namibia Tours & Safaris:
 > 🕳️ **Y aviso de cobertura (02/08/2026):** la matriz **no tiene los tramos propios de la ruta E**
 > — Henties Bay → Cape Cross → **Ugabmund → Terrace Bay** (D7), la salida por **Springbokwasser →
 > Bergsig → Twyfelfontein → Hoada** (D8) ni **Hoada → Kamanjab** (D9). De esos solo hay
-> estimaciones ◐/○ en `11`.
+> estimaciones ◐/○ en `01`.
 
 ### 🚨 Los tramos peligrosos
 
@@ -142,10 +142,10 @@ flowchart LR
    Twyfelfontein → Hoada. **Actualización 02/08 ◐: en Terrace Bay HAY surtidor físico (reportes de
    viajeros), pero la web oficial de NWR no lo lista, se quedó seco en los cortes de 2025 y alguna
    guía lo da «solo huéspedes» — la regla NO cambia: trátalo como si no hubiera.** En **Bergsig no
-   hay gasolinera documentada** y la de Twyfelfontein es irregular (ver `13`). Llena en **Henties
+   hay gasolinera documentada** y la de Twyfelfontein es irregular (ver `08`). Llena en **Henties
    Bay** (✅ Puma 24 h) y calcula el bucle entero costa→Damaraland con ese depósito; el respaldo
    del tramo es **Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅ Gondwana)**, a 23 km del paso de
-   Grootberg. *Distancia del bucle: solo estimaciones de `11` (~390 + ~300 km) — km sin verificar.*
+   Grootberg. *Distancia del bucle: solo estimaciones de `01` (~390 + ~300 km) — km sin verificar.*
 4. *(Del eje antiguo, ya fuera de la E: Palmwag → Okaukuejo 385 km y Khorixas → Palmwag — se dejan
    como referencia por si se cambia de plan.)*
 
@@ -365,7 +365,7 @@ Y recuerda: **visado N$1.600 (~€78)** y **referencia de fondos ~N$1.200 (~€6
 👉 **Guárdalos OFFLINE** — como contactos **y en papel en la guantera** — porque los vas a necesitar
 **justo donde no hay señal para buscarlos**.
 
-Y de `05`: **MVA Fund 9682** (gratuito), organismo estatutario que cubre a **cualquier** herido en
+Y de `06`: **MVA Fund 9682** (gratuito), organismo estatutario que cubre a **cualquier** herido en
 accidente de tráfico **sin importar nacionalidad ni culpa**.
 
 ---
@@ -393,7 +393,7 @@ zona de Etosha.
 
 **Por eso, tres cosas encajan en una sola:**
 1. Tu seguro con **REPATRIACIÓN** —que además es **condición de entrada**— **no es papeleo**. El
-   elegido es el **IATI Estrella** (ver README y `10`), y la pregunta clave **sigue pendiente por
+   elegido es el **IATI Estrella** (ver README y `02`), y la pregunta clave **sigue pendiente por
    escrito**: 👉 **confirma que cubre evacuación AÉREA dentro del país desde una pista remota**, no
    solo el vuelo de vuelta a casa desde Windhoek. *(Y añádele la opción de búsqueda y salvamento.)*
 2. La exposición de **~N$165.000 (~€8.250)** del **vuelco sin terceros** era el escenario de los
@@ -419,8 +419,8 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
 - **Precio exacto del combustible** en Windhoek, Solitaire o cualquier estación del interior: la
   tabla oficial de diferenciales del MME no respondía
 - **El surtidor de Terrace Bay**: existe físicamente ◐ pero NWR no lo publicita y se secó en 2025
-  — **trátalo como que NO** y llena en Henties Bay (detalle estación a estación: `13`)
-- **Los km reales del eje de la costa y Damaraland** (D7–D9): solo estimaciones de `11`
+  — **trátalo como que NO** y llena en Henties Bay (detalle estación a estación: `08`)
+- **Los km reales del eje de la costa y Damaraland** (D7–D9): solo estimaciones de `01`
 - **Precios actuales de los bonos turistas de MTC** y de la eSIM: sus páginas no respondían
 - **Disponibilidad de combustible dentro de los campamentos de parques**: reportes sin confirmar
 - **La matriz de distancias es de 2010**: verificar contra Tracks4Africa

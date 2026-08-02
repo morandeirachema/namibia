@@ -1,4 +1,4 @@
-# 11 · Los itinerarios, día a día
+# 01 · Los itinerarios, día a día
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -74,8 +74,8 @@ Desarrollo completo de las variantes. **Ventana real: primera quincena de noviem
 
 > **Reglas aplicadas en todos:** grava a **80 km/h como techo** (media real 60–70) · asfalto ~105 ·
 > **60 km/h en parques** · **llegar a las 18:00** (en tu quincena anochece entre las 19:04 y las
-> 19:20 según día y lugar — cálculo ☀️, ver la Variante E) · **nunca de noche**. Ver `04` y `05`.
-> 🧮 **El cálculo de tiempos de la E, día a día y con la aritmética a la vista, está en `04` §0-bis.**
+> 19:20 según día y lugar — cálculo ☀️, ver la Variante E) · **nunca de noche**. Ver `13` y `06`.
+> 🧮 **El cálculo de tiempos de la E, día a día y con la aritmética a la vista, está en `13` §0-bis.**
 
 ---
 
@@ -141,8 +141,8 @@ gantt
 
 > ### 🌡️ Y la temperatura donde duermes — medias de NOVIEMBRE
 > Cada noche lleva su **máxima media / mínima media** del mes. **Son medias mensuales, no la
-> previsión de tu día**: el récord de noviembre en el sur llega a 41–42 °C (`08`).
-> **Regla de fuentes de este repo:** las webs de safaris fueron **refutadas 0–3** (`08`), así que
+> previsión de tu día**: el récord de noviembre en el sur llega a 41–42 °C (`15`).
+> **Regla de fuentes de este repo:** las webs de safaris fueron **refutadas 0–3** (`15`), así que
 > aquí solo hay estación o secundaria que cite estación — **y donde no la hay, dice «sin dato»**.
 >
 > ```mermaid
@@ -163,16 +163,16 @@ gantt
 >
 > **El viaje entero cabe en una frase: la costa fresca (25 °C), el desierto y la meseta calurosos
 > (31–33 °C) y Etosha duro (37 °C) — y TODAS las noches entre 12 y 19 °C.** Por eso el equipaje
-> lleva forro polar y no plumas (`14`).
+> lleva forro polar y no plumas (`05`).
 
 ### D1 · dom 1 nov — Llegada a Windhoek
 - 🌡️ **Windhoek, medias de noviembre: 31,2 °C máx / 16,3 °C mín** ✅ *(NOAA GHCN, estación 68110,
-  1.700 m, serie 1957–2025; ver `08`)* — cálido de día, pero a 1.700 m **refresca de noche**
+  1.700 m, serie 1957–2025; ver `15`)* — cálido de día, pero a 1.700 m **refresca de noche**
 - ☀️ amanecer **06:07** · anochecer **19:04**
-- ⚠️ **Es domingo: las bottle stores y las secciones de alcohol cierran por ley** (ver `03`) — la
+- ⚠️ **Es domingo: las bottle stores y las secciones de alcohol cierran por ley** (ver `04`) — la
   compra de cervezas para el braai espera al lunes
 - 4x4 + briefing (1–2 h): **presiones en frío apuntadas, las DOS ruedas de repuesto, gato y
-  compresor a la vista** antes de salir del patio (`05`)
+  compresor a la vista** antes de salir del patio (`06`)
 - Efectivo (~N$6.000–8.000) · **SIM de MTC** con pasaporte *(el kiosco cierra ~21:00)*
 - 🍺 **Joe's Beerhouse** · 🛏️ Windhoek
 
@@ -191,7 +191,7 @@ gantt
 ### D3 · mar 3 — Spreetshoogte → Solitaire → Sesriem · **~150–170 km · ~2h30–3h** ◐
 - 🌡️ **Sesriem, media de máximas de noviembre: ~32,5 °C** ◐ *(reanálisis ERA5, celda a 4 km de la
   puerta; con el sesgo frío del interior la real ronda **33–34 °C**, que es justo el 34,1 ◐ de NWR —
-  dos fuentes independientes, mismo entorno; ver `08` §ERA5)*. Mínima **~15,5 °C** ◐ (NWR)
+  dos fuentes independientes, mismo entorno; ver `15` §ERA5)*. Mínima **~15,5 °C** ◐ (NWR)
 - ☀️ amanecer **06:09** · anochecer **19:12** — *la puerta exterior de Sesriem funciona de
   amanecer a ocaso: dentro antes de ~19:10*
 - Bajada del paso → C14 → 🥧 **Solitaire** (tarta + depósito lleno) → D826/C19 a Sesriem
@@ -205,7 +205,7 @@ gantt
 - ☀️ amanecer **06:10** (Deadvlei) · anochecer **19:16** — **la puerta interior abre 1 h antes del
   amanecer: ~05:10.** Son ~60 km de asfalto + arena hasta el aparcamiento: saliendo al abrirse,
   llegas con la duna encendiéndose *(horas de puerta: confírmalas en recepción al llegar, se
-  mueven con el orto real — ver `05`)*
+  mueven con el orto real — ver `06`)*
 - 🌅 **Puerta interior 1 h antes del amanecer** — Deadvlei casi en solitario
 - Con día entero: **Big Daddy** (la subida) + **Hidden Vlei** + **Duna 45** a la vuelta
 - Arena final: 4H antes de entrar, desinflar en el 2WD, reinflar en Sesriem *(o lanzadera
@@ -214,7 +214,7 @@ gantt
 
 ### D5 · jue 5 — Sesriem → Walvis Bay · **~270 km · ~5h30** ✅
 - 🌡️ **Walvis Bay, medias de noviembre: 25,0 °C máx / 12,7 °C mín** ✅ *(NOAA GHCN, estación del
-  aeropuerto WMO 68098, serie 1990–2025; ver `08`)* — **la costa es el respiro térmico del viaje**:
+  aeropuerto WMO 68098, serie 1990–2025; ver `15`)* — **la costa es el respiro térmico del viaje**:
   la corriente de Benguela. Pero ojo a la madrugada: **12–14 °C**, y viento. Cortavientos a mano
 - ☀️ amanecer **06:15** · anochecer **19:17** (Walvis Bay)
 - C14 por los pasos de **Gaub y Kuiseb** + Trópico de Capricornio
@@ -225,8 +225,8 @@ gantt
 - 🌡️ **Walvis Bay 25,0 / 12,7** ✅ — el día fresco del viaje: aprovecha para el Welwitschia Drive
 - ☀️ amanecer **06:14** · anochecer **19:17** — *flamencos con la primera luz, ~06:15–07:30*
 - 🦩 **Y tu mes es de los buenos**: en Walvis Bay los flamencos tienen su **máximo de junio a
-  noviembre** ✅ *(SABAP1)*. Aquí sí los hay en cantidad — en Etosha, en cambio, **no**: la pan está
-  seca en noviembre *(ver `15`)*
+  noviembre** ✅ *(SABAP1)*. Aquí sí los hay en cantidad — en Etosha, en cambio, **no**: la depresión está
+  seca en noviembre *(ver `09`)*
 - 🦩 **Flamencos y pelícanos en la laguna** al amanecer y al atardecer — las mejores luces
 - Día libre: paseo marítimo, ostras, o la excursión guiada a **Sandwich Harbour**
   *(🚫 con tu coche está prohibida por contrato — el tour es la forma correcta y mejor)*
@@ -247,13 +247,13 @@ gantt
 - 🛏️ **Terrace Bay Resort (NWR)** — dormir en la Costa de los Esqueletos, con la niebla y el
   Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping.** Suelo publicado
   (doméstico/SADC, temporada baja): **N$1.440–1.920/persona DBB (~€72–96)**; como extranjeros en
-  noviembre, **más** ◐ — la noche más cara de la ruta *(tarifa internacional nov 2026 aún ❌; ver `08`)*
+  noviembre, **más** ◐ — la noche más cara de la ruta *(tarifa internacional nov 2026 aún ❌; ver `15`)*
 - *Variante fácil: saltarse Terrace Bay, dormir en Henties/Swakopmund y entrar a Damaraland al día
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 
 ### D8 · dom 8 — Skeleton Coast → Twyfelfontein → Hoada · **~300 km · ~5h** ◐
 - 🌡️ **Hoada/Grootberg: sin dato de estación** *(ninguna de las 11 estaciones GHCN de Namibia cae
-  cerca — ver `08`)*. Está entre la meseta (~31 °C) y el norte caluroso; Twyfelfontein, en el
+  cerca — ver `15`)*. Está entre la meseta (~31 °C) y el norte caluroso; Twyfelfontein, en el
   valle, es **notablemente más caluroso a mediodía** ○
 - ☀️ amanecer **06:17** (Twyfelfontein) · anochecer **19:15** (Hoada) — *y es domingo otra vez:
   sin alcohol a la venta*
@@ -264,11 +264,11 @@ gantt
   pregúntalo por escrito al reservar**. Despacio en las piedras.
 - 🛏️ **Hoada Campsite** (zona Grootberg) — el blog lo llama su campamento más bonito del viaje:
   rocas de granito, duchas entre peñas, cielo estrellado. **N$271–366/persona según temporada
-  (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `08`)*
+  (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `15`)*
 
 ### D9 · lun 9 — Hoada → Etosha (Okaukuejo) · **~315 km · ~4h** ◐
 - 🌡️ **Okaukuejo, medias de noviembre: 37,1 °C máx / 18,9 °C mín** ✅ *(NOAA GHCN, serie completa
-  1975–2022, recomputada en `08` en dos extracciones independientes)* — y **baja según avanza el
+  1975–2022, recomputada en `15` en dos extracciones independientes)* — y **baja según avanza el
   mes**: 37,8 en octubre → 37,1 en noviembre → 35,6 en diciembre
 - ☀️ amanecer **06:18** (Hoada) · anochecer **19:08** (Okaukuejo) — *las puertas de Etosha cierran
   al ocaso: pasa Andersson con margen de sobra*
@@ -289,7 +289,7 @@ gantt
   Kapupuhedi quedaron inaccesibles** por la obra. ⚠️ **No hay nota oficial posterior a 2025:
   llama a NWR Okaukuejo (+264 67 229 800) antes de ir.**
 - ✅ **Y el desvío no es un castigo**: pasa por **Gemsbokvlakte y luego Sueda–Salvadora–Charitsaub**,
-  que es el mejor tramo de borde de pan para **guepardo y león**
+  que es el mejor tramo de borde de la depresión para **guepardo y león**
 - Charcas del camino · siesta en la piscina de Halali · charca de Halali al anochecer
 - 🛏️ **Camping Halali — N$920 (~€46)** ✅
 
@@ -327,7 +327,7 @@ gantt
 - ☀️ amanecer **06:01** · *(despegue 14:30 — mañana tranquila)*
 - 💱 **Gasta o cambia los N$ antes de embarcar**: fuera de Namibia no valen nada
 
-### 💰 Coste real de E *(1–15 nov · el detalle completo, en `10-presupuesto.md`)*
+### 💰 Coste real de E *(1–15 nov · el detalle completo, en `02-presupuesto.md`)*
 - **Alquiler 12 días (1–13 nov)**: **Namibia2Go Budget €1.800 (~N$36.000)** ✅ **cerrado y
   disponible**, con Premium Insurance Cover (franquicia cero) y km ilimitados *(Asco, descartada:
   €2.652 en su banda alta)*
@@ -339,16 +339,16 @@ gantt
 - **Visado**: N$3.200 (~€160) los dos ✅
 - **Total tierra en camping ≈ ~€3.650 (~N$73.000)** la pareja ○, banda ~€3.350–3.950 — *ya sin
   rango de compañía: el coche es cifra cerrada. Sumando vuelos (€2.732) y seguro IATI Estrella
-  (€226,04): **~€6.612 (~N$132.000) la pareja · ~€3.306 por persona** (ver `10`)*
+  (€226,04): **~€6.612 (~N$132.000) la pareja · ~€3.306 por persona** (ver `02`)*
 
 ### ⏰ Los horarios que mandan *(✅/◐ = con fuente en el dossier · ☀️ = cálculo astronómico ±5 min)*
 
 - **Sesriem** ✅: puerta exterior de amanecer a ocaso; la interior, **1 h antes del amanecer y 1 h
   después del ocaso**. Para tus noches del 3–4 nov ☀️: interior **~05:10–20:10**, exterior
-  **~06:10–19:10**. *Confírmalo en recepción al llegar: se mueve con el orto real (`05`).*
+  **~06:10–19:10**. *Confírmalo en recepción al llegar: se mueve con el orto real (`06`).*
 - **Skeleton Coast** ◐: para pernoctar en Terrace Bay hay que cruzar Ugabmund **antes de las
-  15:00** y con **reserva confirmada** (`06`). Horarios de puerta: las fuentes bailan — NWR/foros
-  daban 07:30–19:00; guías recientes, Ugab 07:30–15:00 y Springbokwasser 07:30–17:00 (`13`). **En
+  15:00** y con **reserva confirmada** (`11`). Horarios de puerta: las fuentes bailan — NWR/foros
+  daban 07:30–19:00; guías recientes, Ugab 07:30–15:00 y Springbokwasser 07:30–17:00 (`08`). **En
   la práctica manda el 15:00.**
 - **Etosha** ✅ — **horarios oficiales de puerta**, de la tabla que publica el parque *(cambian cada
   semana siguiendo al sol, y están puestas en cada puerta)*: **3–9 nov: 06:13–19:06** ·
@@ -365,7 +365,7 @@ gantt
   de semana — tu paso es lunes.)*
 - **Gasolinera en Etosha** ✅⚠️: los tres campamentos **listan «Filling Station» en la web oficial
   de NWR**, pero con historial de cortes en 2025 — entra lleno desde Outjo; respaldo: la Etosha
-  Trading Post a 6,5 km de Andersson (`13`).
+  Trading Post a 6,5 km de Andersson (`08`).
 - **❌ Sin verificar — pídelo al reservar con NWR:** horarios de desayuno/restaurante de los
   campamentos (importa para salir al alba: pide desayuno para llevar o hazlo tú) y el horario de
   Joe's Beerhouse.
@@ -421,7 +421,7 @@ game drives, pero **son para sus huéspedes** y están sujetos a las mismas hora
 puedes contratarles una salida desde el camping.*
 
 Y fuera de Etosha, ya en el dossier: **lanzadera de Deadvlei N$180 (~€9)** ✅, safari guiado de
-mañana en Sesriem N$600–700, Elim Dune N$300, cañón N$200 *(ver `02`)*.
+mañana en Sesriem N$600–700, Elim Dune N$300, cañón N$200 *(ver `03`)*.
 
 #### 🌙 El nocturno: el único que compra algo imposible por libre
 
@@ -451,13 +451,13 @@ leones cazando. **N$1.500 (~€75) los dos.**
 > hombro justo antes. 📞 Okaukuejo **+264 67 229 800**.
 >
 > 💶 **Y ojo al presupuesto:** el nocturno **se come entero** el margen de actividades (~€38 p.p. en
-> `10`). Con la lanzadera de Deadvlei son **~€47 p.p.**: cuenta ~€10 más por cabeza.
+> `02`). Con la lanzadera de Deadvlei son **~€47 p.p.**: cuenta ~€10 más por cabeza.
 - **Sossusvlei → tu 4x4 hasta el final** *(estado a 16/07: self-drive permitido — reconfirma en
-  octubre, ver `05`)*. Los últimos ~5 km de arena son 4H de verdad; si no te apetece la arena, la
+  octubre, ver `06`)*. Los últimos ~5 km de arena son 4H de verdad; si no te apetece la arena, la
   **lanzadera del concesionario (N$180 · ~€9/persona)** ✅ hace exactamente ese tramo. Big Daddy y
   Deadvlei son a pie de todas formas.
 - **Sandwich Harbour → SOLO tour guiado.** Con tu coche está vetado por contrato (referencia Asco;
-  asume lo mismo en Namibia2Go hasta leer el tuyo, `05`) — y el tour es mejor plan de todas formas.
+  asume lo mismo en Namibia2Go hasta leer el tuyo, `06`) — y el tour es mejor plan de todas formas.
   Precio ❌ sin verificar: pregúntalo en Walvis Bay.
 - **Skeleton Coast → tu 4x4** con permiso de la puerta (tránsito gratis ◐; pernocta = reserva de
   Terrace Bay). El **sector norte** del parque es solo por concesión aérea/guiada — no aplica a
@@ -544,7 +544,7 @@ gantt
 
 ### D1 · dom 1 nov — Llegada a Windhoek
 - 4x4 + briefing (1–2 h): **presiones en frío apuntadas, las DOS ruedas de repuesto, gato y
-  compresor a la vista** antes de salir del patio (`05`)
+  compresor a la vista** antes de salir del patio (`06`)
 - Efectivo (~N$6.000–8.000), **SIM de MTC** con pasaporte *(el kiosco cierra ~21:00)*
 - 🍺 **Joe's Beerhouse** · 🛏️ Windhoek — hoy no se conduce al sur
 
@@ -703,7 +703,7 @@ Cada compañía tiene su propio calendario, y **tu quincena cae en lados opuesto
 - **Combustible ~3.100 km**: ~370–400 l ≈ **N$9.500–10.500 (~€475–525)** ○
 - **Visado**: N$3.200 (~€160) los dos ✅
 - **Total tierra en camping ≈ €3.500–4.400 (~N$70.000–88.000)** la pareja ○ — el rango es la
-  elección de compañía de coche *(recalculado desde `10`; hereda sus partidas estimadas)*
+  elección de compañía de coche *(recalculado desde `02`; hereda sus partidas estimadas)*
 
 ---
 
@@ -744,7 +744,7 @@ gantt
 
 ### D1 · vie 20 — Llegada a Windhoek
 - Aterrizas, recoges el 4x4. **Briefing 1–2 h**: que te enseñen **físicamente** gato, llave, **las
-  dos ruedas de repuesto**, compresor y herramientas (`05`).
+  dos ruedas de repuesto**, compresor y herramientas (`06`).
 - **Pide la presión en frío para TU vehículo cargado y apúntala.** No la de un foro.
 - Saca **efectivo** (~N$6.000–8.000) y compra la **SIM de MTC** *(el kiosco del aeropuerto cierra
   ~21:00)*. Registro obligatorio **con pasaporte** (`07`).
@@ -774,7 +774,7 @@ gantt
   (*"a horrible dirt road"*), 15–20 min a 40–50 reales.
 - Bloque de miradores: **3–4 h**. El cañón: 160 km de largo, 27 de ancho, 550 m de profundidad.
 - Tarde: **Ai-Ais** — 68 km, grava bacheada (D324+C10), **1h10–1h20**, con descenso al final.
-  ⚠️ **Ai-Ais está en el fondo del cañón: es sistemáticamente más caluroso que el borde** (`08`).
+  ⚠️ **Ai-Ais está en el fondo del cañón: es sistemáticamente más caluroso que el borde** (`15`).
 - ❌ **El sendero está CERRADO** (temporada may–sep, y exige mínimo 3 personas). Hoy es mirador.
 - 🛏️ **Hobas** o **Ai-Ais** ⚠️ *precio Ai-Ais sin verificar*
 
@@ -804,7 +804,7 @@ gantt
   Namib a un lado, montañas Tiras al otro.
 - ⚠️ **Es grava exigente**: arena blanda, corrugado, piedras. **4x4 obligatorio.**
 - ✅ **NO la confundas con la D3707**: la que anula tu seguro de bajos y rescate es la **D3707/D3703
-  en Kaokoland/Damaraland** (`05`), **no** la D707.
+  en Kaokoland/Damaraland** (`06`), **no** la D707.
 - **Partir aquí es lo que salva la variante A**: convierte la etapa asesina de 8 h en dos de ~4 h.
 - 🛏️ **Zona Tiras / Namtib** ⚠️ *precio sin verificar*
 
@@ -815,7 +815,7 @@ gantt
 - 🛏️ **🔑 DUERME DENTRO DE LA PUERTA — Sesriem Campsite, N$670/persona → N$1.340 (~€67)** ✅
   > **Es la única forma de ver el amanecer en Deadvlei.** La puerta interior abre **1 h antes del
   > amanecer solo si duermes dentro**; la exterior abre **al amanecer**, y son **60 km + arena** hasta
-  > allí. Dormir fuera = **no llegas** (`05`).
+  > allí. Dormir fuera = **no llegas** (`06`).
   > ⚠️ **Solo 44 parcelas + 6 de desbordamiento.** Reserva **ya**.
 
 ### D9 · sáb 28 — Sossusvlei y Deadvlei · **130 km · día completo 6–8 h** ✅
@@ -823,7 +823,7 @@ gantt
 - 60 km de asfalto **de parque: límite 60 km/h**, con órix, avestruces y springbok.
 - **Duna 45** de camino *(Google la lista como "cerrada permanentemente": es un fallo del listado)*.
 - Últimos **~5 km de arena blanda**: **4H ANTES de entrar**, desinfla **en el aparcamiento 2WD, no
-  antes**, métete en las roderas, no pares en subida. **Reinfla en Sesriem** (`05`).
+  antes**, métete en las roderas, no pares en subida. **Reinfla en Sesriem** (`06`).
   O usa la **lanzadera de NWR: N$180/persona (~€9)**.
 - Tarde: **Sesriem Canyon** (está en la entrada, incluido).
 - 🛏️ **Sesriem** *(segunda noche)*
@@ -866,7 +866,7 @@ gantt
 - **Kolmanskop foto**: N$960 la pareja (~€48) ✅
 - **Combustible ~2.400 km**: ~280 l × ~N$26 ≈ **N$7.280 (~€364)** ○
 - **Visado**: N$3.200 (~€160) ✅
-- **Resto** (noches sin verificar, comida, actividades) → ver `10-presupuesto.md`
+- **Resto** (noches sin verificar, comida, actividades) → ver `02-presupuesto.md`
 
 ---
 
@@ -950,7 +950,7 @@ gantt
 **Sossusvlei y Deadvlei** — para mucha gente, **el motivo entero de venir a Namibia**. También
 Swakopmund, la costa y todo el Damaraland.
 
-> 👉 **Pregúntatelo en serio antes de elegir B.** Y ojo al dato de `08`: **en Etosha, noviembre
+> 👉 **Pregúntatelo en serio antes de elegir B.** Y ojo al dato de `15`: **en Etosha, noviembre
 > (37,1 °C) es algo más fresco que octubre (38,0)** — vas en buen momento para el norte.
 
 ---
@@ -983,7 +983,7 @@ La guía de operadores dice *«no further than 400 km per day»* y, mejor, *«ai
 
 > **El coste real no es el dinero: es la fatiga.** Y en grava, la fatiga es el ingrediente del
 > vuelco — que es el **37 % de los muertos de Namibia con el 4,6 % de los accidentes**, concentrado
-> justo en Hardap y !Karas, que son **tus** regiones (`05`).
+> justo en Hardap y !Karas, que son **tus** regiones (`06`).
 >
 > ❌ **Si quieres las dos coronas, la respuesta honesta no es apretar C: es alargar a 17–18 días.**
 
@@ -1024,7 +1024,7 @@ flowchart TD
   cerrado el **camping de Spitzkoppe: N$270/persona → N$540/noche (~€27), entrada incluida** ◐
   *(fuera de la ruta E)*
 - ⚠️ **Etapas con km sin verificar** — el eje de la costa y Damaraland (D7–D9) y el
-  Namutoni → Windhoek del D13 (`04`)
+  Namutoni → Windhoek del D13 (`13`)
 - 🚧 **Las obras de Etosha** — confirmar con NWR al reservar *(afectan al D10 de la E,
   Okaukuejo → Halali)*
 - 🕳️ *Residuos del sur (conflicto Keetmanshoop → Hobas, lodges del cañón): **sin efecto en la E***

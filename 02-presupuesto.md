@@ -1,4 +1,4 @@
-# 10 · Presupuesto
+# 02 · Presupuesto
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -17,11 +17,11 @@ estimación marcada: un número plausible presentado como hallazgo es un fallo g
 > ## 🔄 NOTA (17/07/2026): este presupuesto es el de la RUTA VIGENTE (Variante E, norte)
 > Versiones anteriores de este documento presupuestaban la **Variante A** (sur + Namib + costa, con
 > coche de **Asco** y fechas de «finales de noviembre»). **Esa ruta se descartó** (ver la nota de
-> `04-itinerario.md`) y **las reservas se han cerrado sobre otra realidad**:
+> `13-itinerario.md`) y **las reservas se han cerrado sobre otra realidad**:
 >
 > - **Ruta**: la **Variante E** — la clásica del norte con **Etosha** (4 noches) y **sin el sur**
 >   (Fish River, Lüderitz, kokerbooms quedan para otro viaje; su presupuesto sigue documentado en el
->   histórico de `04`). Detalle día a día en [`11-itinerarios-dia-a-dia.md`](11-itinerarios-dia-a-dia.md).
+>   histórico de `13`). Detalle día a día en [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md).
 > - **Fechas**: **1–14 de noviembre de 2026** (vuelo ya comprado), no «finales de noviembre».
 > - **Coche**: **Namibia2Go Budget**, no Asco. **El «precipicio del 15/11» era de Asco y ya no
 >   aplica**: Namibia2Go entra en temporada baja el **1 de noviembre**, así que todo el alquiler cae
@@ -98,20 +98,20 @@ campings + Terrace Bay + el hotel del D13) **no tienen precio cerrado**.
   (~€46)/noche** ✅
 
 → Suma verificada: 2×N$1.340 + 4×N$920 = **N$6.360 (~€318) para la pareja / ~€159 por persona** ✅
-*(coincide con `11-itinerarios-dia-a-dia.md` §resumen).*
+*(coincide con `01-itinerarios-dia-a-dia.md` §resumen).*
 
 **Parcialmente cerrado / sin verificar ○/◐ (7 noches):**
 - D1 Windhoek, D2 Spreetshoogte, D5–D6 Walvis Bay ×2 → campings/alojamientos privados, **precio no
-  cerrado** (WebFetch bloqueado; ver `08`). Estimación de práctica común: **~€25–45/noche para dos**
+  cerrado** (WebFetch bloqueado; ver `15`). Estimación de práctica común: **~€25–45/noche para dos**
   cada uno. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
   —campamento equiparable de la ruta— está cerrado en **N$540/noche para dos (~€27)**, entrada incluida
-  ◐; ver `08`.)*
+  ◐; ver `15`.)*
 - **D8 Hoada** (Grootberg) — **cerrado en esta pasada ◐**: **N$542–732/noche para dos (~€27–37)** según
-  temporada (la de noviembre sin fijar; ver `08`). Coincide con la estimación de práctica común.
+  temporada (la de noviembre sin fijar; ver `15`). Coincide con la estimación de práctica común.
 - **D7 Terrace Bay** (NWR, **resort con media pensión — no camping**): **la noche más cara de la ruta.**
   Suelo publicado (doméstico/SADC, temporada baja) **N$1.440–1.920/persona DBB ≈ N$2.880–3.840 la pareja
   (~€144–192)**; como extranjeros en temporada alta, **más** ◐. La tarifa internacional de nov 2026 sigue
-  **❌ sin verificar** (ver `08`).
+  **❌ sin verificar** (ver `15`).
 - **D13 Windhoek**: hotel + traslado (el coche ya está entregado). **○ estimado.**
 
 > ⚠️ **Corrección de esta pasada:** el bloque de ~€126/persona daba a Terrace Bay el mismo peso que a un
@@ -135,7 +135,7 @@ flowchart TD
 ```
 
 > Fuentes verificadas: [NWR Rack Rates 2026/2027 (PDF)](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf)
-> (ver `02`). Resto: **❌ sin fuente de precio abierta.**
+> (ver `03`). Resto: **❌ sin fuente de precio abierta.**
 
 ---
 
@@ -143,7 +143,7 @@ flowchart TD
 
 **No se copia el consumo de nadie: se calcula.** Tres factores, cada uno con su banda:
 
-- **Distancia (Variante E)**: **~2.600 km** (○, sumando las etapas del `gantt` de `11`: Windhoek–
+- **Distancia (Variante E)**: **~2.600 km** (○, sumando las etapas del `gantt` de `01`: Windhoek–
   Spreetshoogte, bajada a Sesriem, Sesriem–Walvis, costa hasta Terrace Bay, Damaraland, subida a
   Etosha, safaris internos y vuelta a Windhoek; ningún día por encima de ~390 km).
 - **Consumo** del Hilux doble cabina cargado con tienda de techo: **11–13 l/100 km** (○, práctica
@@ -166,14 +166,14 @@ flowchart TD
 ## 5. Tasas de parque — N$620/día para pareja + coche ◐
 
 **N$280 (~€14)/adulto extranjero/día** (N$140 entrada + N$140 conservación) **+ N$60 (~€3)/vehículo**,
-cobrado **por parque y por cada 24 h desde la entrada** (ver `01` §7 y `08`). Dos adultos + coche =
+cobrado **por parque y por cada 24 h desde la entrada** (ver `12` §7 y `15`). Dos adultos + coche =
 **N$620 (~€31)/día de parque**. Baremo del MEFT publicado en el **Government Gazette Nº 8877 ·
 Government Notice Nº 115** (firmado por la ministra el 26/03/2026, en vigor desde el **1/04/2026**),
 bajo la Nature Conservation Ordinance de 1975 (primera subida desde 2021) — **◐, no ✅**: lo confirman
 dos páginas oficiales del MEFT (PDF de tarifas + nota de prensa `news/199`) y varias secundarias, pero
 ninguna se pudo abrir (403) para verificar la extracción de la tabla fina; la **gaceta está localizada
 en el índice de gazettes.africa pero tampoco se pudo abrir aquí** (403), así que la tabla sigue sin
-verificarse contra el documento primario (detalle en `08` §Tasas). Los tres parques de pago de la ruta
+verificarse contra el documento primario (detalle en `15` §Tasas). Los tres parques de pago de la ruta
 (Namib-Naukluft, Skeleton Coast, Etosha) son **premium**, así que el N$280 es la tarifa correcta para
 los tres.
 
@@ -187,13 +187,13 @@ los tres.
 > Fuentes: [gazettes.africa — Government Gazette Nº 8877, 1/04/2026 (Government Notice Nº 115)](https://gazettes.africa/akn/na/officialGazette/government-gazette/2026-04-01/8877/eng@2026-04-01) ·
 > [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
 > [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/)
-> *(las tres localizadas; ninguna se pudo abrir, 403)* · secundarias concordantes en `08`. **Confírmalo por email antes de pagar.**
+> *(las tres localizadas; ninguna se pudo abrir, 403)* · secundarias concordantes en `15`. **Confírmalo por email antes de pagar.**
 
 ---
 
 ## 6. Visado — cifra dura ✅
 
-**e-visa: N$1.600 (~€80)/persona** → **pareja N$3.200 (~€160)**, pago único. Ver `01` §6.
+**e-visa: N$1.600 (~€80)/persona** → **pareja N$3.200 (~€160)**, pago único. Ver `12` §6.
 ⚠️ El visado **manual a la llegada** puede llevar un recargo de N$2.000 (~€100) aprobado pero sin
 publicar en el boletín: **usa el e-visa**. Fuente:
 [MAEC — Namibia](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia).
@@ -383,12 +383,12 @@ flowchart TD
 ## Fuentes
 
 - **Coche**: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab) — cotización cerrada, ver README.
-- **Alojamiento NWR**: [NWR Rack Rates 2026/2027 (PDF)](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf) — ver `02` y `11`.
+- **Alojamiento NWR**: [NWR Rack Rates 2026/2027 (PDF)](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf) — ver `03` y `01`.
 - **Tasas de parque**: [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
-  [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/) — ver `01` y `08`.
-- **Visado**: [MAEC — Namibia](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia) — ver `01`.
+  [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/) — ver `12` y `15`.
+- **Visado**: [MAEC — Namibia](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia) — ver `12`.
 - **Diésel**: [GlobalPetrolPrices — Namibia](https://www.globalpetrolprices.com/Namibia/diesel_prices/) ·
   [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) ·
   [thebrief.com.na — rebaja julio 2026](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/).
 - **Seguro y vuelos**: cotizaciones cerradas (IATI Estrella; Gotogate/Mytrip/Booking) — ver README.
-- **Ruta y distancias**: [`04-itinerario.md`](04-itinerario.md) *(histórico del sur)* y [`11-itinerarios-dia-a-dia.md`](11-itinerarios-dia-a-dia.md) *(Variante E vigente)*.
+- **Ruta y distancias**: [`13-itinerario.md`](13-itinerario.md) *(histórico del sur)* y [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md) *(Variante E vigente)*.

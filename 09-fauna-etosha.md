@@ -1,4 +1,4 @@
-# 15 · Fauna del viaje
+# 09 · Fauna del viaje
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >

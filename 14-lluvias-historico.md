@@ -1,4 +1,4 @@
-# 09 · Cuándo empiezan de verdad las lluvias
+# 14 · Cuándo empiezan de verdad las lluvias
 
 > **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -302,7 +302,7 @@ Tres veces hemos visto **>3 meses de dispersión** entre estaciones de la misma 
 monzón que tapa el país: son tormentas que caen donde caen.
 
 > ℹ️ **El consejo original de este documento era «pon Etosha al principio, por si acaso». La
-> decisión final fue la contraria: Etosha va AL FINAL** (ver README y `11`) — la tarifa NWR desde
+> decisión final fue la contraria: Etosha va AL FINAL** (ver README y `01`) — la tarifa NWR desde
 > el 1 de noviembre, el termómetro y el rodaje pesaron más que este «por si acaso», y el riesgo
 > real de lluvia en la primera quincena es marginal (chubascos aislados en 2 de 5 temporadas).
 > El consejo queda aquí como registro de qué decía el análisis de lluvias por sí solo.
