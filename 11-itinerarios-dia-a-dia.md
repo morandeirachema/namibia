@@ -76,13 +76,15 @@ Desarrollo completo de las variantes. **Ventana real: primera quincena de noviem
 
 </div>
 
-**~2.600 km · 13 días de coche · ningún día por encima de ~390 km · dos noches en Sesriem, dos en
-la costa y CUATRO en Etosha · fechas ilustrativas: llegada el domingo 1 de noviembre de 2026**
+**~2.600 km · 12 días de coche contratados (1–13 nov) · ningún día por encima de ~390 km · dos
+noches en Sesriem, dos en la costa y CUATRO en Etosha · fechas reales del vuelo: llegada el domingo
+1 de noviembre de 2026, vuelta el sábado 14**
 
 > ### 📅 El 1 de noviembre sigue siendo la fecha mágica
 > **NWR entra en tramo barato** (Sesriem, Halali, Okaukuejo, Terrace Bay) y **Namibia2Go entra en
-> SU temporada baja**: 13 días ≈ **N$35.100 (~€1.755)** con seguro incluido, frente a **€2.652**
-> de Asco. **Adelantar hasta 2 días a octubre es gratis** (Windhoek y Spreetshoogte no son NWR).
+> SU temporada baja**: el coche está **cerrado — Budget, €1.800 (~N$36.000) por 12 días, disponible**
+> *(la estimación previa de ~€1.755 quedó a un 2,5 % del precio real)*. **Adelantar hasta 2 días a
+> octubre es gratis** (Windhoek y Spreetshoogte no son NWR).
 
 > ### ❓ ¿Etosha al principio o al final? → **AL FINAL.** Tres razones con datos:
 > 1. **Dinero**: con el desierto primero, si adelantáis la salida a octubre, **todas las noches NWR
@@ -174,8 +176,9 @@ gantt
 ### D8 · dom 8 — Skeleton Coast → Twyfelfontein → Hoada · **~300 km · ~5h** ◐
 - Salida por **Springbokwasser** → C39 a Bergsig → **desvío opcional a Twyfelfontein**
   (grabados rupestres UNESCO; Google lo lista como cerrado: **es un fallo del listado**)
-- ⚠️ **Damaraland: el Super Cover de Asco NO cubre los bajos aquí** — despacio en las piedras.
-  *(Preguntar a Namibia2Go por escrito cómo trata su seguro esta zona)*
+- ⚠️ **Damaraland: los bajos son el punto delicado del seguro** — la referencia de Asco los
+  excluía aquí, y **cómo los trata el Premium Cover de tu Namibia2Go Budget sigue SIN confirmar:
+  pregúntalo por escrito al reservar**. Despacio en las piedras.
 - 🛏️ **Hoada Campsite** (zona Grootberg) ⚠️ *precio sin verificar* — el blog lo llama su
   campamento más bonito del viaje: rocas de granito, duchas entre peñas, cielo estrellado
 
@@ -206,24 +209,28 @@ gantt
 ### D13 · vie 13 — Etosha → Windhoek · **~550 km asfalto · ~5h30–6h** ○
 - Von Lindequist → Tsumeb → Otjiwarongo → B1 · salida al alba, comida en Otjiwarongo
 - 🥩 **Línea Roja**: la carne cruda no baja del norte — el braai se come en Etosha
-- 🛏️ Windhoek — entrega del coche hoy o mañana temprano
+- 🛏️ Windhoek — **entrega del coche HOY**: el contrato de 12 días acaba el 13. *(Alternativa
+  pendiente de decidir: añadir el día 13, ~€150 · ~N$3.000, y devolverlo el 14 camino del
+  aeropuerto)*
 - *Parada opcional de camino: **Okonjima/AfriCat** (leopardos) o el meteorito de **Hoba** (desvío
   por Grootfontein)*
 
 ### D14 · sáb 14 — Vuelo
 - 💱 **Gasta o cambia los N$ antes de embarcar**: fuera de Namibia no valen nada
 
-### 💰 Coste orientativo de E *(ventana 1–15 nov)*
-- **Alquiler 13 días**: **Namibia2Go ~N$35.100 (~€1.755)** ✅◐ con seguro incluido ·
-  **Asco €2.652 (~N$53.040)** ✅ con Super Cover
+### 💰 Coste real de E *(1–15 nov · el detalle completo, en `10-presupuesto.md`)*
+- **Alquiler 12 días (1–13 nov)**: **Namibia2Go Budget €1.800 (~N$36.000)** ✅ **cerrado y
+  disponible**, con Premium Insurance Cover (franquicia cero) y km ilimitados *(Asco, descartada:
+  €2.652 en su banda alta)*
 - **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 + Namutoni 2×920 =
-  **N$7.360 (~€368)** ✅ — **las 4 noches de Etosha, dentro del parque**
+  **N$6.360 (~€318)** ✅ — **las 4 noches de Etosha, dentro del parque**
   *(+ Terrace Bay, Spreetshoogte, Walvis, Hoada: sin verificar)*
-- **Tasas de parque**: Namib 2 + Skeleton 1 + Etosha 4 unidades ≈ **N$4.300 (~€215)** ◐
+- **Tasas de parque**: Namib 2 + Skeleton 1 + Etosha 4 = 7 unidades × N$620 ≈ **N$4.340 (~€217)** ◐
 - **Combustible ~2.600 km**: ~310–340 l ≈ **N$8.000–9.200 (~€400–460)** ○
 - **Visado**: N$3.200 (~€160) los dos ✅
-- **Total tierra en camping ≈ €3.300–4.200 (~N$66.000–84.000)** la pareja ○ *(el rango es la
-  compañía de coche; ~€200 menos que la D por los 500 km que se ahorra)*
+- **Total tierra en camping ≈ ~€3.650 (~N$73.000)** la pareja ○, banda ~€3.350–3.950 — *ya sin
+  rango de compañía: el coche es cifra cerrada. Sumando vuelos (€2.732) y seguro IATI Estrella
+  (€226,04): **~€6.612 (~N$132.000) la pareja · ~€3.306 por persona** (ver `10`)*
 
 ### 🔍 En qué se diferencia del blog *(y por qué)*
 - **Ellos, 2 noches en Spreetshoogte; nosotros, 1** — la segunda se va a Etosha, que con tu ventana
@@ -408,12 +415,13 @@ interior. ⚠️ Sus precios (Spreetshoogte 150–300 ZAR/persona) son de la fec
 verificar: no los uses para presupuestar.
 
 ### 🔑 El coche en tu ventana: NO todas las compañías cambian el 15 de noviembre
+*(análisis que decidió la compañía — el coche ya está cerrado: **Namibia2Go Budget, €1.800**)*
 
 ```mermaid
 flowchart LR
     V["Tu ventana<br/>1-15 nov"] --> A["ASCO<br/>baja el 15 NOV<br/>ventana entera en ALTA<br/>13d + Super Cover<br/>€2.652 (~N$53.040)"]
-    V --> N["NAMIBIA2GO<br/>baja el 1 NOV<br/>ventana entera en BAJA<br/>13d x N$2.700<br/>N$35.100 (~€1.755)"]
-    A --> R["Diferencia:<br/>~€900 (~N$18.000)"]
+    V --> N["NAMIBIA2GO<br/>baja el 1 NOV<br/>ventana entera en BAJA<br/>Budget 12d = 1.800 EUR<br/>(~N$36.000) CERRADO"]
+    A --> R["Diferencia:<br/>~€850 (~N$17.000)"]
     N --> R
     style A fill:#e85d04,color:#000
     style N fill:#2d6a4f,color:#fff
@@ -423,18 +431,21 @@ flowchart LR
 Cada compañía tiene su propio calendario, y **tu quincena cae en lados opuestos según cuál elijas**:
 
 - **Asco** — temporada alta hasta el **14 de noviembre** ✅. Tu ventana entera va en banda alta:
-  13 días + Super Cover = **€2.652 (~N$53.040)**.
+  13 días + Super Cover = **€2.652 (~N$53.040)**. **Descartada.**
 - **Namibia2Go** — su temporada alta acaba el **31 de octubre** ✅: **tu ventana entera cae en SU
-  temporada baja**. Doble cabina equipado: **N$2.700/día (~€135)** → 13 días = **N$35.100
-  (~€1.755)**. Y su tarifa **incluye franquicia cero, cobertura de neumáticos y cristales, y km
-  ilimitados** ◐ *(confianza media: confirmar al reservar; la franquicia cero decae con
-  «negligencia probada» y excluye daños por agua)*.
+  temporada baja**. La tarifa publicada de ~N$2.700/día (~€135) era del año tarifario viejo; el
+  **presupuesto en vivo para tus fechas salió a €150,00/día → Budget, 12 días (1–13 nov) =
+  €1.800 (~N$36.000), disponible** ✅. La tarifa **incluye franquicia cero (Premium Insurance
+  Cover), cobertura de neumáticos y cristales, y km ilimitados** ◐ *(confianza media: confirmar
+  por escrito al reservar; la franquicia cero decae con «negligencia probada» y excluye daños por
+  agua)*.
 - **Savanna** — sus temporadas **no están verificadas** (sus tarifas cayeron 0–3 en verificación).
 
 > ### 👉 La conclusión que importa
-> **Eligiendo Namibia2Go, tu ventana 1–15 de noviembre captura el precio de temporada baja que
-> con Asco parecía perdido** — recuperas ~€900 de los ~€806 que costaba no poder viajar tras el
-> 15. Pide presupuesto a los dos con tus fechas exactas y compara el detalle del seguro.
+> **Con Namibia2Go, tu ventana 1–15 de noviembre captura el precio de temporada baja que con Asco
+> parecía perdido** — recuperas ~€850 (~N$17.000). La decisión está tomada y la Budget está
+> disponible: **lo que queda es reservarla** y pedir por escrito el detalle del seguro (bajos en
+> Damaraland, ruedas de repuesto de la Budget).
 
 ### 💰 Coste orientativo de D *(ventana 1–15 nov)*
 - **Alquiler 13 días**: **Asco €2.652 (~N$53.040)** ✅ con Super Cover · **Namibia2Go ~N$35.100
@@ -736,25 +747,33 @@ La guía de operadores dice *«no further than 400 km per day»* y, mejor, *«ai
 
 </div>
 
-Con las dos decisiones del viajero —**primera quincena de noviembre** y **Sossusvlei + Etosha
-juntos**— la elección quedó hecha: **Variante D**. A y B se conservan arriba como referencia de lo
-que costaría cada renuncia, y C sigue documentada como el porqué de que no quepa todo.
+Con las dos primeras decisiones del viajero —**primera quincena de noviembre** y **Sossusvlei +
+Etosha juntos**— la elección apuntó a la **Variante D** (recortar el sur). La **tercera y última
+decisión la superó**: el sur se quita **entero** y queda para otro viaje — menos kilómetros, más
+Etosha y el ritmo del blog de referencia. **La ruta del viaje es la VARIANTE E.** D, A y B se
+conservan arriba como referencia de lo que costaría cada renuncia, y C sigue documentada como el
+porqué de que no quepa todo.
 
 ```mermaid
 flowchart TD
     D1{"Decisiones del viajero"}
     D1 -->|"Sossusvlei + Etosha juntos"| D2["Ni A ni B valen"]
-    D2 --> D3["¿Que cede? El sur se recorta:<br/>fuera Ai-Ais y Luderitz/Kolmanskop<br/>se quedan canon, D707, Garub, kokerbooms"]
-    D3 --> D["⭐ VARIANTE D<br/>~3.100 km · 13 dias de coche"]
-    style D fill:#2d6a4f,color:#fff
+    D2 --> D3["¿Que cede? El sur se recorta:<br/>VARIANTE D · ~3.100 km"]
+    D3 -->|"ultima decision:<br/>el sur entero fuera"| E["⭐ VARIANTE E<br/>la clasica del norte<br/>~2.600 km · 12 dias de coche"]
+    style D3 fill:#e85d04,color:#000
+    style E fill:#2d6a4f,color:#fff
 ```
 
 <div align="center">
 
-## 🕳️ Lo que falta para cerrar cualquiera de los tres
+## 🕳️ Lo que falta para cerrar LA RUTA DEL VIAJE (la E)
 
-- ❌ **Vuelos** para tus fechas — sin tarifa verificada tras varios intentos
-- ❌ **Lodges privados** por noche — sin precios (Gondwana bloqueó el acceso)
-- ⚠️ **Seis etapas** con km sin verificar (`04`)
-- 🚧 **Las obras de Etosha** — confirmar con NWR *(solo afecta a B)*
-- ⚠️ **Conflicto Keetmanshoop → Hobas**: 150–160 km vs ~275 derivados. **Sin resolver.**
+- ✅ **Vuelos** — ya hay presupuesto real: €1.366 (~N$27.300) p.p., 31 oct – 14 nov. *Pendiente
+  solo de emitir el billete*
+- ❌ **Cuatro noches sin precio** — Terrace Bay, Spreetshoogte, Walvis ×2 y Hoada *(más el hotel
+  del D13)*; los lodges privados siguen sin precio/noche (Gondwana bloqueó el acceso)
+- ⚠️ **Etapas con km sin verificar** — el eje de la costa y Damaraland (D7–D9) y el
+  Namutoni → Windhoek del D13 (`04`)
+- 🚧 **Las obras de Etosha** — confirmar con NWR al reservar *(afectan al D10 de la E,
+  Okaukuejo → Halali)*
+- 🕳️ *Residuos del sur (conflicto Keetmanshoop → Hobas, lodges del cañón): **sin efecto en la E***

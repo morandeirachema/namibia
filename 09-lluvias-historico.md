@@ -262,10 +262,11 @@ Por eso aquí se usa el **dato real de estación de Namutoni**, no CHIRPS.
 
 ## 🎯 Qué sacamos de todo esto
 
-### 1. La probabilidad juega a favor de finales de noviembre
+### 1. La probabilidad juega a favor de tu quincena (1–15 de noviembre)
 
 En **4 de las 5 últimas temporadas**, el inicio efectivo en Etosha fue **diciembre o enero** — es
-decir, **después** de un viaje a finales de noviembre. El único noviembre con lluvia seria fue
+decir, **después** de tu viaje (1–15 de noviembre), y con **más margen aún** que el plan original
+de finales de mes sobre el que se escribió este análisis. El único noviembre con lluvia seria fue
 **2024 (Namutoni, 49,5 mm)**.
 
 ### 2. Pero nadie puede predecir 2026
@@ -277,7 +278,12 @@ desde 1981»** (2025/26). **La variabilidad interanual es el hallazgo, no el pro
 
 Tres veces hemos visto **>3 meses de dispersión** entre estaciones de la misma temporada. No es un
 monzón que tapa el país: son tormentas que caen donde caen.
-👉 **Pon Etosha al principio del recorrido**, por si acaso.
+
+> ℹ️ **El consejo original de este documento era «pon Etosha al principio, por si acaso». La
+> decisión final fue la contraria: Etosha va AL FINAL** (ver README y `11`) — la tarifa NWR desde
+> el 1 de noviembre, el termómetro y el rodaje pesaron más que este «por si acaso», y el riesgo
+> real de lluvia en la primera quincena es marginal (chubascos aislados en 2 de 5 temporadas).
+> El consejo queda aquí como registro de qué decía el análisis de lluvias por sí solo.
 
 ### 4. Cuidado con el falso arranque
 
