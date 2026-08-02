@@ -52,12 +52,12 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    T["<b>Camping NWR · por persona y noche · nov 2026 - jun 2027 · en NAD</b>"]
-    n0["Khorixas<br/>█████████ <b>330</b>"]
-    n1["Waterberg<br/>████████████ <b>430</b>"]
-    n2["Okaukuejo/Halali/Namutoni<br/>████████████ <b>460</b>"]
-    n4["Olifantsrus<br/>██████████████ <b>510</b>"]
-    n5["Sesriem<br/>██████████████████ <b>670</b>"]
+    T["Camping NWR · por persona y noche<br/>nov 2026 - jun 2027 · en NAD"]
+    n0["Khorixas<br/>330"]
+    n1["Waterberg<br/>430"]
+    n2["Okaukuejo/Halali/Namutoni<br/>460"]
+    n4["Olifantsrus<br/>510"]
+    n5["Sesriem<br/>670"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -88,17 +88,17 @@ Las parcelas admiten **máximo 8 personas**, pero el precio es **por persona**: 
 
 ```mermaid
 flowchart TD
-    T["<b>Alojamiento NWR · 2 personas por noche · nov 2026 - jun 2027 · en NAD</b>"]
-    n0["Halali doble<br/>██████ <b>2.800</b>"]
-    n1["Halali chalet<br/>███████ <b>3.080</b>"]
-    n2["Namutoni doble<br/>████████ <b>3.680</b>"]
-    n3["Okaukuejo doble<br/>████████ <b>3.800</b>"]
-    n4["Namutoni chalet<br/>██████████ <b>4.320</b>"]
-    n5["Okaukuejo bush<br/>██████████ <b>4.420</b>"]
-    n6["Okaukuejo charco<br/>███████████ <b>4.760</b>"]
-    n7["Dolomite MP<br/>██████████████ <b>6.360</b>"]
-    n8["Okaukuejo Premier<br/>██████████████████ <b>7.920</b>"]
-    n9["Sossus Dune MP<br/>██████████████████ <b>8.060</b>"]
+    T["Alojamiento NWR · 2 personas por noche<br/>nov 2026 - jun 2027 · en NAD"]
+    n0["Halali doble<br/>2.800"]
+    n1["Halali chalet<br/>3.080"]
+    n2["Namutoni doble<br/>3.680"]
+    n3["Okaukuejo doble<br/>3.800"]
+    n4["Namutoni chalet<br/>4.320"]
+    n5["Okaukuejo bush<br/>4.420"]
+    n6["Okaukuejo charco<br/>4.760"]
+    n7["Dolomite MP<br/>6.360"]
+    n8["Okaukuejo Premier<br/>7.920"]
+    n9["Sossus Dune MP<br/>8.060"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -138,13 +138,13 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    T["<b>Okaukuejo · misma unidad · 2 personas por noche · en NAD</b>"]
-    n0["Camping oct<br/>███ <b>1.120</b>"]
-    n1["Camping nov<br/>██ <b>920</b>"]
-    n2["Doble oct<br/>████████████ <b>4.760</b>"]
-    n3["Doble nov<br/>██████████ <b>3.800</b>"]
-    n4["Charco oct<br/>██████████████████ <b>6.960</b>"]
-    n5["Charco nov<br/>████████████ <b>4.760</b>"]
+    T["Okaukuejo · misma unidad<br/>2 personas por noche · en NAD"]
+    n0["Camping oct<br/>1.120"]
+    n1["Camping nov<br/>920"]
+    n2["Doble oct<br/>4.760"]
+    n3["Doble nov<br/>3.800"]
+    n4["Charco oct<br/>6.960"]
+    n5["Charco nov<br/>4.760"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2

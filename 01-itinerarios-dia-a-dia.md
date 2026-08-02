@@ -56,25 +56,25 @@ gantt
     dateFormat YYYY-MM-DD
     axisFormat %d-%m
     section Llegada
-    D1 Windhoek                    :e1, 2026-11-01, 1d
+    D1 Windhoek :e1, 2026-11-01, 1d
     section Desierto
-    D2 Paso de Spreetshoogte       :e2, after e1, 1d
-    D3 Solitaire-Sesriem           :e3, after e2, 1d
-    D4 Sossusvlei y Deadvlei       :e4, after e3, 1d
+    D2 Paso de Spreetshoogte :e2, after e1, 1d
+    D3 Solitaire-Sesriem :e3, after e2, 1d
+    D4 Sossusvlei y Deadvlei :e4, after e3, 1d
     section Costa
-    D5 Sesriem-Walvis Bay          :e5, after e4, 1d
-    D6 Flamencos y descanso        :e6, after e5, 1d
-    D7 Cape Cross-Terrace Bay      :e7, after e6, 1d
+    D5 Sesriem-Walvis Bay :e5, after e4, 1d
+    D6 Flamencos y descanso :e6, after e5, 1d
+    D7 Cape Cross-Terrace Bay :e7, after e6, 1d
     section Damaraland
     D8 Skeleton-Twyfelfontein-Hoada :e8, after e7, 1d
     section Safari
-    D9 Hoada-Okaukuejo             :e9, after e8, 1d
-    D10 Safari a Halali            :e10, after e9, 1d
-    D11 Safari a Namutoni          :e11, after e10, 1d
-    D12 Etosha este                :e12, after e11, 1d
+    D9 Hoada-Okaukuejo :e9, after e8, 1d
+    D10 Safari a Halali :e10, after e9, 1d
+    D11 Safari a Namutoni :e11, after e10, 1d
+    D12 Etosha este :e12, after e11, 1d
     section Vuelta
-    D13 Regreso a Windhoek         :e13, after e12, 1d
-    D14 Vuelo                      :e14, after e13, 1d
+    D13 Regreso a Windhoek :e13, after e12, 1d
+    D14 Vuelo :e14, after e13, 1d
 ```
 
 > ### ☀️ El sol de tu viaje *(cálculo astronómico NOAA, hora local UTC+2, coordenadas aproximadas — margen ±5 min; cuadra con el ~19:15 de fin de noviembre que da NWR ◐)*
@@ -90,19 +90,19 @@ gantt
 >
 > ```mermaid
 > flowchart TD
->     T["<b>Noviembre donde duermes · media de máxima / mínima, en °C</b>"]
->     n0["Walvis Bay · la costa<br/>████████████ <b>25,0</b> día / <b>12,7</b> noche"]
->     n1["Windhoek<br/>███████████████ <b>31,2</b> día / <b>16,3</b> noche"]
->     n2["Sesriem · el desierto<br/>████████████████ <b>32,5</b> día / <b>15,5</b> noche"]
->     n3["Okaukuejo · Etosha<br/>██████████████████ <b>37,1</b> día / <b>18,9</b> noche"]
->     T ~~~ n0
->     n0 ~~~ n1
->     n1 ~~~ n2
->     n2 ~~~ n3
->     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
->     style n0 fill:#2d6a4f,color:#fff,stroke:#2d6a4f
->     style n3 fill:#9d0208,color:#fff,stroke:#9d0208
-> ```
+> T["Noviembre donde duermes<br/>media de máxima / mínima, en °C"]
+> n0["Walvis Bay · la costa<br/>25,0 día / 12,7 noche"]
+> n1["Windhoek<br/>31,2 día / 16,3 noche"]
+> n2["Sesriem · el desierto<br/>32,5 día / 15,5 noche"]
+> n3["Okaukuejo · Etosha<br/>37,1 día / 18,9 noche"]
+> T ~~~ n0
+> n0 ~~~ n1
+> n1 ~~~ n2
+> n2 ~~~ n3
+> style T fill:#7a3a22,color:#fff,stroke:#7a3a22
+> style n0 fill:#2d6a4f,color:#fff,stroke:#2d6a4f
+> style n3 fill:#9d0208,color:#fff,stroke:#9d0208
+>```
 >
 > **El viaje entero cabe en una frase: la costa fresca (25 °C), el desierto y la meseta calurosos
 > (31–33 °C) y Etosha duro (37 °C) — y TODAS las noches entre 12 y 19 °C.** Por eso el equipaje

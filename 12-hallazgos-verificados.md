@@ -95,11 +95,11 @@ aparte las tasas de camping.
 
 ```mermaid
 flowchart TD
-    T["<b>Asco · franquicia que asumes segun el nivel · en NAD</b>"]
-    n0["Standard (€0/dia)<br/>██████████████████ <b>40.000</b>"]
-    n1["Reduced 1 (€8/dia)<br/>█████████ <b>20.000</b>"]
-    n2["Reduced 2 (€15/dia)<br/>██ <b>5.000</b>"]
-    n3["Super Cover (€25/dia)<br/>█ <b>0</b>"]
+    T["Asco · franquicia que asumes segun el nivel · en NAD"]
+    n0["Standard (€0/dia)<br/>40.000"]
+    n1["Reduced 1 (€8/dia)<br/>20.000"]
+    n2["Reduced 2 (€15/dia)<br/>5.000"]
+    n3["Super Cover (€25/dia)<br/>0"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -126,11 +126,11 @@ Vollkasko or All Risk insurance"* (no es comparable a un todo riesgo europeo).
 
 ```mermaid
 flowchart TD
-    T["<b>Savanna · franquicia que asumes segun el nivel · en NAD</b>"]
-    n0["Standard<br/>██████████████████ <b>35.000</b>"]
-    n1["Opcion 1 (N$100/dia)<br/>█████████ <b>17.500</b>"]
-    n2["Opcion 2 (N$150/dia)<br/>████ <b>8.500</b>"]
-    n3["Opcion 3 (N$220/dia)<br/>█ <b>2.500</b>"]
+    T["Savanna · franquicia que asumes segun el nivel · en NAD"]
+    n0["Standard<br/>35.000"]
+    n1["Opcion 1 (N$100/dia)<br/>17.500"]
+    n2["Opcion 2 (N$150/dia)<br/>8.500"]
+    n3["Opcion 3 (N$220/dia)<br/>2.500"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -286,8 +286,8 @@ flowchart TD
     subgraph CERRADO["Antes bloqueaba · ahora resuelto"]
         I["Permiso internacional<br/>con carnet espanol SI hace falta"]
     end
-    G --> AVISO["⚠️ Refutado NO significa<br/>que Etosha este libre<br/>de malaria: es DESCONOCIDO"]
-    I --> OK["✅ Resuelto en 03: IDP o<br/>traduccion jurada al ingles"]
+    G --> AVISO["Refutado NO significa<br/>que Etosha este libre<br/>de malaria: es DESCONOCIDO"]
+    I --> OK["Resuelto en 03: IDP o<br/>traduccion jurada al ingles"]
     style MUERTAS fill:#9d0208,color:#fff
     style DUDOSAS fill:#e85d04,color:#000
     style CERRADO fill:#2d6a4f,color:#fff

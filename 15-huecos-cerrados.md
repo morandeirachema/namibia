@@ -59,10 +59,10 @@ Este documento es el cuaderno de bitácora: cada pasada añade lo que cerró y l
 
 ```mermaid
 flowchart TD
-    T["<b>Media de maximas en C · Etosha vs sur · oct / nov / dic · <i>grados C</i></b>"]
-    n0["Octubre<br/>██████████████████ <b>38 / 30,1 / 31,1</b>"]
-    n1["Noviembre<br/>██████████████████ <b>37,1 / 32,2 / 33,4</b>"]
-    n2["Diciembre<br/>█████████████████ <b>35,4 / 33,7 / 35,3</b>"]
+    T["Media de maximas en C · Etosha vs sur<br/>oct / nov / dic · grados C"]
+    n0["Octubre<br/>38 / 30,1 / 31,1"]
+    n1["Noviembre<br/>37,1 / 32,2 / 33,4"]
+    n2["Diciembre<br/>35,4 / 33,7 / 35,3"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -135,12 +135,12 @@ noche**. Récord de noviembre 38,7 °C (2016).
 
 ```mermaid
 flowchart TD
-    T["<b>Media de maximas C · costa y ejes del norte · sep-ene · <i>grados C</i></b>"]
-    n0["Sep<br/>████████████████ <b>22,7 / 28,5 / 35,8</b>"]
-    n1["Oct<br/>████████████████ <b>23,8 / 30,5 / 37,8</b>"]
-    n2["Nov<br/>█████████████████ <b>25 / 31,2 / 37,1</b>"]
-    n3["Dic<br/>██████████████████ <b>25,4 / 32,1 / 35,6</b>"]
-    n4["Ene<br/>██████████████████ <b>26,1 / 31,1 / 35,3</b>"]
+    T["Media de maximas C · costa y ejes del norte<br/>sep-ene · grados C"]
+    n0["Sep<br/>22,7 / 28,5 / 35,8"]
+    n1["Oct<br/>23,8 / 30,5 / 37,8"]
+    n2["Nov<br/>25 / 31,2 / 37,1"]
+    n3["Dic<br/>25,4 / 32,1 / 35,6"]
+    n4["Ene<br/>26,1 / 31,1 / 35,3"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -229,14 +229,14 @@ Media de máximas de noviembre (GSOD, sobre CSV descargados, filtro de calidad �
 
 ```mermaid
 flowchart TD
-    T["<b>Media de maximas nov en C · GSOD 2000-2024 · costa a interior · <i>grados C</i></b>"]
-    n0["Walvis (costa)<br/>████████████ <b>25</b>"]
-    n1["Hosea Kutako<br/>████████████████ <b>32,1</b>"]
-    n2["Windhoek Eros<br/>████████████████ <b>32,9</b>"]
-    n3["Keetmanshoop<br/>█████████████████ <b>34,7</b>"]
-    n4["Outjo<br/>█████████████████ <b>35,6</b>"]
-    n5["Okaukuejo<br/>██████████████████ <b>37,1</b>"]
-    n6["Mariental<br/>██████████████████ <b>37</b>"]
+    T["Media de maximas nov en C · GSOD 2000-2024<br/>costa a interior · grados C"]
+    n0["Walvis (costa)<br/>25"]
+    n1["Hosea Kutako<br/>32,1"]
+    n2["Windhoek Eros<br/>32,9"]
+    n3["Keetmanshoop<br/>34,7"]
+    n4["Outjo<br/>35,6"]
+    n5["Okaukuejo<br/>37,1"]
+    n6["Mariental<br/>37"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -336,13 +336,13 @@ el error del reanálisis antes de fiarse de los puntos sin estación:
 
 ```mermaid
 flowchart TD
-    T["<b>Media de maximas nov · reanalisis ERA5 2013-2021 · grados C</b>"]
-    n0["Luderitz<br/>█████████████ <b>24,5</b>"]
-    n1["WalvisBay(v)<br/>█████████████ <b>25,8</b>"]
-    n2["Windhoek(v)<br/>████████████████ <b>31</b>"]
-    n5["Sesriem<br/>█████████████████ <b>32,5</b>"]
-    n6["Keetmans(v)<br/>█████████████████ <b>33,9</b>"]
-    n7["Okaukuejo(v)<br/>██████████████████ <b>35,2</b>"]
+    T["Media de maximas nov<br/>reanalisis ERA5 2013-2021 · grados C"]
+    n0["Luderitz<br/>24,5"]
+    n1["WalvisBay(v)<br/>25,8"]
+    n2["Windhoek(v)<br/>31"]
+    n5["Sesriem<br/>32,5"]
+    n6["Keetmans(v)<br/>33,9"]
+    n7["Okaukuejo(v)<br/>35,2"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -395,11 +395,11 @@ fuera de la ruta la ruta**, y Walvis Bay sí está dentro.
 
 ```mermaid
 flowchart TD
-    T["<b>Viento en Walvis Bay en noviembre · km/h · GSOD 2005-2024</b>"]
-    n0["medio 24h<br/>███ <b>13</b>"]
-    n1["max sostenido tipico<br/>██████ <b>25</b>"]
-    n2["dia mas ventoso<br/>█████████████ <b>55</b>"]
-    n3["racha record<br/>██████████████████ <b>78</b>"]
+    T["Viento en Walvis Bay en noviembre<br/>km/h · GSOD 2005-2024"]
+    n0["medio 24h<br/>13"]
+    n1["max sostenido tipico<br/>25"]
+    n2["dia mas ventoso<br/>55"]
+    n3["racha record<br/>78"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2

@@ -24,9 +24,9 @@ flowchart TD
     W["WINDHOEK<br/>base"]
     W --> NW["EXTREMO NOROESTE<br/>Epupa · Opuwo<br/>Kaokoland"]
     W --> NE["EXTREMO NORESTE<br/>Tsumkwe<br/>Bushmanland"]
-    W --> SE["SURESTE<br/>Kgalagadi<br/>❌ DESCARTADO<br/>no se cruza a Sudafrica"]
-    W --> SW["EXTREMO SUROESTE<br/>Luderitz · Elizabeth Bay<br/>❌ DESCARTADO 17/07<br/>el sur quedo fuera entero"]
-    W --> C["CENTRO Y COSTA<br/>Etosha · Swakopmund<br/>Sossusvlei · Damaraland<br/>✅ LA RUTA · la ruta"]
+    W --> SE["SURESTE<br/>Kgalagadi<br/>DESCARTADO<br/>no se cruza a Sudafrica"]
+    W --> SW["EXTREMO SUROESTE<br/>Luderitz · Elizabeth Bay<br/>DESCARTADO 17/07<br/>el sur quedo fuera entero"]
+    W --> C["CENTRO Y COSTA<br/>Etosha · Swakopmund<br/>Sossusvlei · Damaraland<br/>LA RUTA · la ruta"]
     style NW fill:#9d0208,color:#fff
     style NE fill:#9d0208,color:#fff
     style SE fill:#4a4a4a,color:#fff
@@ -372,12 +372,12 @@ El contraste, de un vistazo (N$/persona):
 
 ```mermaid
 flowchart TD
-    T["<b>Coste por persona en N-dolar - visitas de camino</b>"]
-    n0["Cape Cross<br/>█ <b>150</b>"]
-    n1["Hoba<br/>█ <b>250</b>"]
-    n2["Brandberg<br/>█ <b>270</b>"]
-    n3["Waterberg dia<br/>█ <b>280</b>"]
-    n4["Otjitotongwe<br/>███ <b>610</b>"]
+    T["Coste por persona en N-dolar -<br/>visitas de camino"]
+    n0["Cape Cross<br/>150"]
+    n1["Hoba<br/>250"]
+    n2["Brandberg<br/>270"]
+    n3["Waterberg dia<br/>280"]
+    n4["Otjitotongwe<br/>610"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2

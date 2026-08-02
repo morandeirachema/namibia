@@ -16,12 +16,12 @@
 
 ```mermaid
 flowchart TD
-    R1["1 · El coche YA trae el camping<br/>tiendas, ropa de cama, menaje,<br/>nevera, sillas, compresor ✅"] --> M["LA MOCHILA<br/>petate blando + daypack"]
-    R2["2 · Noches de 13-19 C:<br/>forro polar, NO plumas ✅"] --> M
+    R1["1 · El coche YA trae el camping<br/>tiendas, ropa de cama, menaje,<br/>nevera, sillas, compresor"] --> M["LA MOCHILA<br/>petate blando + daypack"]
+    R2["2 · Noches de 13-19 C:<br/>forro polar, NO plumas"] --> M
     R3["3 · Dias de 25 C en la costa<br/>a 37 C en Etosha:<br/>el enemigo es el CALOR"] --> M
-    R4["4 · Enchufe tipo M:<br/>tu Schuko NO entra ◐"] --> M
-    R5["5 · Namibia funciona con PAPEL:<br/>todo impreso ✅"] --> M
-    R6["6 · Maletero justo:<br/>doble cabina + nevera + cajas ○"] --> M
+    R4["4 · Enchufe tipo M:<br/>tu Schuko NO entra"] --> M
+    R5["5 · Namibia funciona con PAPEL:<br/>todo impreso"] --> M
+    R6["6 · Maletero justo:<br/>doble cabina + nevera + cajas"] --> M
     style M fill:#2d6a4f,color:#fff
 ```
 

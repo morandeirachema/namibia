@@ -127,7 +127,7 @@ Distancias **por carretera** (km), de la matriz de Namibia Tours & Safaris:
 flowchart LR
     S["Solitaire"] -->|"210 km · NADA en medio<br/>pasos de Gaub y Kuiseb"| W["Walvis Bay<br/>Swakopmund"]
     SE["Sesriem"] -->|"ida y vuelta ~120 km<br/>+ 5 km de arena en reductora"| D["Sossusvlei<br/>Deadvlei"]
-    H["Henties Bay<br/>ultima gasolinera<br/>segura de la costa"] -->|"Ugabmund → Terrace Bay<br/>y salida por Springbokwasser<br/>❌ diesel en Terrace Bay<br/>SIN VERIFICAR"| T["Terrace Bay<br/>D7-D8 de la E"]
+    H["Henties Bay<br/>ultima gasolinera<br/>segura de la costa"] -->|"Ugabmund Terrace Bay<br/>y salida por Springbokwasser<br/>diesel en Terrace Bay<br/>SIN VERIFICAR"| T["Terrace Bay<br/>D7-D8 de la E"]
     style S fill:#e85d04,color:#000
     style T fill:#9d0208,color:#fff
 ```
@@ -173,8 +173,8 @@ exportación. **Corre por el límite SUR de Etosha.**
 
 ```mermaid
 flowchart LR
-    O["Otjiwarongo · Outjo<br/>compras aqui"] -->|"✅ carne cruda SI sube"| E["ETOSHA<br/>zona infectada"]
-    E -->|"❌ carne cruda NO baja"| S["Sur<br/>zona certificada"]
+    O["Otjiwarongo · Outjo<br/>compras aqui"] -->|" carne cruda SI sube"| E["ETOSHA<br/>zona infectada"]
+    E -->|" carne cruda NO baja"| S["Sur<br/>zona certificada"]
     E --> X["Comela o cocinala<br/>ANTES de salir"]
     style E fill:#e85d04,color:#000
     style X fill:#2d6a4f,color:#fff

@@ -126,9 +126,9 @@ total: ~€570 pareja (~€285/persona)**, del que **~€318 (56 %) está verifi
 
 ```mermaid
 flowchart TD
-    T["<b>Alojamiento 13 noches · pareja · EUR · <i>EUR</i></b>"]
-    n0["6 NWR verificadas<br/>██████████████████ <b>318</b>"]
-    n1["7 restantes estimadas<br/>██████████████ <b>252</b>"]
+    T["Alojamiento 13 noches · pareja · EUR · EUR"]
+    n0["6 NWR verificadas<br/>318"]
+    n1["7 restantes estimadas<br/>252"]
     T ~~~ n0
     n0 ~~~ n1
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
@@ -250,16 +250,16 @@ colchón **~N$3.000 (~€150) pareja / ~€75 por persona**. No verificado.
 
 ```mermaid
 flowchart TD
-    T["<b>Total del viaje · la ruta · por persona · EUR · camping · <i>EUR</i></b>"]
-    n0["Vuelo<br/>██████████████████ <b>1.366</b>"]
-    n1["Coche<br/>████████████ <b>900</b>"]
-    n2["Alojam.<br/>████ <b>285</b>"]
-    n3["Combust.<br/>███ <b>200</b>"]
-    n4["Comida<br/>██ <b>140</b>"]
-    n5["Tasas<br/>█ <b>109</b>"]
-    n6["Seguro<br/>█ <b>113</b>"]
-    n7["Visado<br/>█ <b>80</b>"]
-    n8["Misc+Act<br/>█ <b>113</b>"]
+    T["Total del viaje · la ruta · por persona<br/>EUR · camping · EUR"]
+    n0["Vuelo<br/>1.366"]
+    n1["Coche<br/>900"]
+    n2["Alojam.<br/>285"]
+    n3["Combust.<br/>200"]
+    n4["Comida<br/>140"]
+    n5["Tasas<br/>109"]
+    n6["Seguro<br/>113"]
+    n7["Visado<br/>80"]
+    n8["Misc+Act<br/>113"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -311,10 +311,10 @@ por cabeza:
 
 ```mermaid
 flowchart TD
-    T["<b>Total por persona segun cuantos vais · EUR · camping</b>"]
-    n0["2 personas<br/>██████████████████ <b>3.306</b>"]
-    n1["3 personas<br/>████████████████ <b>2.935</b>"]
-    n2["4 personas<br/>███████████████ <b>2.750</b>"]
+    T["Total por persona segun cuantos vais<br/>EUR · camping"]
+    n0["2 personas<br/>3.306"]
+    n1["3 personas<br/>2.935"]
+    n2["4 personas<br/>2.750"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -345,17 +345,17 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    subgraph V["✅ Verificado / cerrado"]
+    subgraph V["Verificado / cerrado"]
         A["Vuelo 2.732 EUR pareja"]
         B["Coche Namibia2Go Budget 1.800 EUR"]
         C["Seguro IATI Estrella 226 EUR"]
         D["6 noches NWR · Visado"]
     end
-    subgraph M["◐ Secundario"]
+    subgraph M["Secundario"]
         E["Tasas de parque N$280/adulto"]
         F["Diesel N$24-27/l (revisa mensual)"]
     end
-    subgraph X["○/❌ Estimado o SIN VERIFICAR"]
+    subgraph X["/ Estimado o SIN VERIFICAR"]
         G["7 noches sin precio + Terrace Bay"]
         H["Combustible · comida · SIM · fianza tarjeta"]
         I["Barco de Walvis Bay"]

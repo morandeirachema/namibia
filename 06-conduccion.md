@@ -31,9 +31,9 @@ Informe **NRSC «Road Crashes in Namibia» 2019**, sobre **18.665 accidentes** y
 
 ```mermaid
 flowchart TD
-    T["<b>Letalidad por tipo de accidente · muertos por cada 100 accidentes</b>"]
-    n0["Vuelco de vehiculo unico<br/>██████████████████ <b>17,7</b>"]
-    n1["Choque frontal/alcance<br/>█ <b>0,64</b>"]
+    T["Letalidad por tipo de accidente<br/>muertos por cada 100 accidentes"]
+    n0["Vuelco de vehiculo unico<br/>17,7"]
+    n1["Choque frontal/alcance<br/>0,64"]
     T ~~~ n0
     n0 ~~~ n1
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
@@ -54,12 +54,12 @@ Porcentaje de accidentes de cada región que son vuelcos (tabla 5 cruzada):
 
 ```mermaid
 flowchart TD
-    T["<b>Vuelcos como % de los accidentes de la region · <i>%</i></b>"]
-    n0["Khomas Windhoek<br/>█ <b>1,2</b>"]
-    n1["Erongo Swakopmund<br/>██████ <b>5,8</b>"]
-    n2["Kunene Damaraland<br/>███████ <b>7,4</b>"]
-    n3["!Karas (sur, fuera de ruta)<br/>█████████████ <b>13,3</b>"]
-    n4["Hardap Sossusvlei<br/>██████████████████ <b>18,9</b>"]
+    T["Vuelcos como % de los accidentes<br/>de la region · %"]
+    n0["Khomas Windhoek<br/>1,2"]
+    n1["Erongo Swakopmund<br/>5,8"]
+    n2["Kunene Damaraland<br/>7,4"]
+    n3["!Karas (sur, fuera de ruta)<br/>13,3"]
+    n4["Hardap Sossusvlei<br/>18,9"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -377,10 +377,10 @@ before sunrise and closes 1 hour after sunset»*.
 ```mermaid
 flowchart LR
     A["Duermes DENTRO<br/>Sesriem Campsite<br/>o Sossus Dune Lodge"] --> B["Puerta interior:<br/>1 h ANTES del amanecer"]
-    B --> C["✅ Amanecer<br/>en Deadvlei"]
+    B --> C["Amanecer<br/>en Deadvlei"]
     D["Duermes FUERA"] --> E["Puerta exterior:<br/>al amanecer"]
-    E --> F["❌ Imposible llegar<br/>antes de que salga el sol"]
-    F --> G["⚠️ Tentacion: correr<br/>60 km a oscuras"]
+    E --> F["Imposible llegar<br/>antes de que salga el sol"]
+    F --> G["Tentacion: correr<br/>60 km a oscuras"]
     G --> H["Justo en la franja en que<br/>se mueven kudu y orix<br/>y con limite de 60 km/h"]
     style C fill:#2d6a4f,color:#fff
     style F fill:#9d0208,color:#fff

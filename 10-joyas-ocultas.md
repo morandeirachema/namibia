@@ -53,13 +53,13 @@ la polémica de Venecia: [Artnet](https://news.artnet.com/art-world/namibia-pavi
 
 ```mermaid
 flowchart TD
-    D3["D3 · Solitaire→Sesriem"] --> J1["⭕ Circulos de hadas<br/>desde la C19/C27 · gratis"]
-    D4["D4 · Sossusvlei"] --> J2["⭕ Circulos junto a Elim Dune ○<br/>ya dentro de la puerta"]
-    D5["D5 · Sesriem→Walvis"] --> J3["🕳️ Refugio de Henno Martin<br/>paso del Kuiseb"] --> J4["🏜️ Dune 7<br/>llegando a Walvis"]
-    D6["D6 · dia de descanso"] --> J5["🌙 Moon Landscape +<br/>Welwitschia Drive<br/>permiso MEFT Swakopmund"] --> J6["💗 Pelican Point +<br/>salinas rosas"]
-    D7["D7 · costa norte"] --> J7["🏚️ Wlotzkasbaken"] --> J8["🚢 Pecio Zeila"] --> J9["🗿 LONE MEN +<br/>delta del Uniab"]
-    D8["D8 · Damaraland"] --> J10["🎼 Organ Pipes +<br/>Burnt Mountain"] --> J11["🪵 Petrified Forest<br/>desvio C39"]
-    D13["D13 · vuelta"] --> J12["💧 Lago Otjikoto<br/>B1, de frente"] --> J13["☄️ Hoba"]
+    D3["D3 · SolitaireSesriem"] --> J1["Circulos de hadas<br/>desde la C19/C27 · gratis"]
+    D4["D4 · Sossusvlei"] --> J2["Circulos junto a Elim Dune<br/>ya dentro de la puerta"]
+    D5["D5 · SesriemWalvis"] --> J3["Refugio de Henno Martin<br/>paso del Kuiseb"] --> J4["Dune 7<br/>llegando a Walvis"]
+    D6["D6 · dia de descanso"] --> J5["Moon Landscape +<br/>Welwitschia Drive<br/>permiso MEFT Swakopmund"] --> J6["Pelican Point +<br/>salinas rosas"]
+    D7["D7 · costa norte"] --> J7["Wlotzkasbaken"] --> J8["Pecio Zeila"] --> J9["LONE MEN +<br/>delta del Uniab"]
+    D8["D8 · Damaraland"] --> J10["Organ Pipes +<br/>Burnt Mountain"] --> J11["Petrified Forest<br/>desvio C39"]
+    D13["D13 · vuelta"] --> J12["Lago Otjikoto<br/>B1, de frente"] --> J13["Hoba"]
     style J9 fill:#C2542F,color:#fff
     style J12 fill:#2d6a4f,color:#fff
 ```

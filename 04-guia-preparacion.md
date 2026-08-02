@@ -29,12 +29,12 @@ Del informe estadístico de la NRSC (2019), sobre 18.665 accidentes y 413 muerto
 
 ```mermaid
 flowchart TD
-    T["<b>Vuelcos como % de todos los accidentes registrados, por region</b>"]
-    n0["Khomas (Windhoek)<br/>█ <b>1,2</b>"]
-    n1["Erongo (Swakopmund)<br/>██████ <b>5,8</b>"]
-    n2["Kunene (Damaraland)<br/>███████ <b>7,4</b>"]
-    n3["!Karas (sur, fuera de ruta)<br/>█████████████ <b>13,3</b>"]
-    n4["Hardap (Sossusvlei)<br/>██████████████████ <b>18,9</b>"]
+    T["Vuelcos como % de todos los accidentes<br/>registrados, por region"]
+    n0["Khomas (Windhoek)<br/>1,2"]
+    n1["Erongo (Swakopmund)<br/>5,8"]
+    n2["Kunene (Damaraland)<br/>7,4"]
+    n3["!Karas (sur, fuera de ruta)<br/>13,3"]
+    n4["Hardap (Sossusvlei)<br/>18,9"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -67,8 +67,8 @@ Otjozondjupa: **está dentro**.
 
 ```mermaid
 flowchart LR
-    N["Etapa NORTE<br/>Etosha D9-D12 + Damaraland D8"] --> R["⚠️ Zona de riesgo<br/>de malaria"]
-    S["Desierto y costa<br/>Sossusvlei · Walvis Bay"] --> NR["✅ Sin riesgo"]
+    N["Etapa NORTE<br/>Etosha D9-D12 + Damaraland D8"] --> R["Zona de riesgo<br/>de malaria"]
+    S["Desierto y costa<br/>Sossusvlei · Walvis Bay"] --> NR["Sin riesgo"]
     W["Windhoek"] --> NR
     R --> T["Tu ventana 1-14 nov va ANTES<br/>del arranque tipico de lluvias:<br/>riesgo en su minimo estacional"]
     T --> P["Consultar profilaxis<br/>en la cita del CVI"]
@@ -255,11 +255,11 @@ of vaccination»*.
 flowchart TD
     A["Elegir escala"] --> B{"¿Escala en pais<br/>con fiebre amarilla?"}
     B -->|"Adis Abeba<br/>(Ethiopian)"| C["Riesgo: Etiopia SI<br/>es zona de fiebre amarilla"]
-    B -->|"Frankfurt · Doha<br/>Johannesburgo"| D["✅ Sin vacuna"]
+    B -->|"Frankfurt · Doha<br/>Johannesburgo"| D["Sin vacuna"]
     C --> E{"¿Transito > 12 h?"}
-    E -->|"Si"| F["🚑 Vacuna OBLIGATORIA<br/>10 dias antes"]
+    E -->|"Si"| F["Vacuna OBLIGATORIA<br/>10 dias antes"]
     E -->|"No, y sin salir<br/>del aeropuerto"| G["Exento — pero la exencion<br/>es CONJUNTIVA"]
-    G --> H["⚠️ La parada gratis en ciudad<br/>pasa inmigracion:<br/>puede romper la exencion"]
+    G --> H["La parada gratis en ciudad<br/>pasa inmigracion:<br/>puede romper la exencion"]
     style D fill:#2d6a4f,color:#fff
     style F fill:#9d0208,color:#fff
     style H fill:#e85d04,color:#000
@@ -424,8 +424,8 @@ del sur certificado para exportación. **Pasa por el límite SUR de Etosha.**
 
 ```mermaid
 flowchart LR
-    O["Otjiwarongo · Outjo<br/>compras la carne"] -->|"✅ SI puedes<br/>subir carne cruda"| E["ETOSHA<br/>zona infectada"]
-    E -->|"❌ NO puedes<br/>bajar carne cruda"| S["Sur<br/>zona certificada"]
+    O["Otjiwarongo · Outjo<br/>compras la carne"] -->|" SI puedes<br/>subir carne cruda"| E["ETOSHA<br/>zona infectada"]
+    E -->|" NO puedes<br/>bajar carne cruda"| S["Sur<br/>zona certificada"]
     E --> X["Cometela o cocinala<br/>ANTES de salir"]
     style E fill:#e85d04,color:#000
     style X fill:#2d6a4f,color:#fff
@@ -465,11 +465,11 @@ día a día de la ruta, en `01`)*:
 
 ```mermaid
 flowchart TD
-    T["<b>Media de maximas y minimas de noviembre · donde duermes · <i>grados C</i></b>"]
-    n0["Windhoek<br/>███████████████ <b>31,2 / 16,3</b>"]
-    n1["Sesriem<br/>████████████████ <b>32,5 / 15,5</b>"]
-    n2["Costa (Walvis)<br/>████████████ <b>25 / 12,7</b>"]
-    n3["Etosha<br/>██████████████████ <b>37,1 / 18,9</b>"]
+    T["Media de maximas y minimas de noviembre<br/>donde duermes · grados C"]
+    n0["Windhoek<br/>31,2 / 16,3"]
+    n1["Sesriem<br/>32,5 / 15,5"]
+    n2["Costa (Walvis)<br/>25 / 12,7"]
+    n3["Etosha<br/>37,1 / 18,9"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2

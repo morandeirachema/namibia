@@ -25,9 +25,9 @@ humano» a scripts; en navegador abren)* ✅:
 
 ```mermaid
 flowchart LR
-    A["Tus domingos de viaje:<br/>1 nov (llegada) y 8 nov"] --> B["❌ Sin alcohol para llevar<br/>en tienda"]
-    C["Sabados y laborables"] --> D["✅ Cerveza/vino en el super<br/>destilados en la bottle store"]
-    B --> E["👉 La compra de bebida:<br/>LUNES 2 en Windhoek<br/>y SABADO 7 NO - es dia de ruta:<br/>el viernes 6 en Swakopmund"]
+    A["Tus domingos de viaje:<br/>1 nov (llegada) y 8 nov"] --> B["Sin alcohol para llevar<br/>en tienda"]
+    C["Sabados y laborables"] --> D["Cerveza/vino en el super<br/>destilados en la bottle store"]
+    B --> E["La compra de bebida:<br/>LUNES 2 en Windhoek<br/>y SABADO 7 NO - es dia de ruta:<br/>el viernes 6 en Swakopmund"]
     D --> E
     style E fill:#2d6a4f,color:#fff
 ```
@@ -243,9 +243,9 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
 
 ```mermaid
 flowchart TD
-    R["¿Que traigo a casa?"] --> OK["✅ SIN PROBLEMA<br/>tallas de madera y makalani<br/>cesteria · textiles · joyeria<br/>garra del diablo · !nara<br/>1L licor + 4L vino p.p."]
-    R --> NO["❌ NI LO INTENTES<br/>BILTONG y toda carne/lacteo<br/>marfil (prohibido UE 2022)<br/>semillas/plantas de welwitschia<br/>caparazon, pieles sin CITES"]
-    R --> DOC["📋 CON PAPELES<br/>pieles de caza de Nakara:<br/>factura + permiso CITES<br/>compras > ~430 EUR p.p.:<br/>guarda tickets"]
+    R["¿Que traigo a casa?"] --> OK["SIN PROBLEMA<br/>tallas de madera y makalani<br/>cesteria · textiles · joyeria<br/>garra del diablo · !nara<br/>1L licor + 4L vino p.p."]
+    R --> NO["NI LO INTENTES<br/>BILTONG y toda carne/lacteo<br/>marfil (prohibido UE 2022)<br/>semillas/plantas de welwitschia<br/>caparazon, pieles sin CITES"]
+    R --> DOC["CON PAPELES<br/>pieles de caza de Nakara:<br/>factura + permiso CITES<br/>compras > ~430 EUR p.p.:<br/>guarda tickets"]
     style OK fill:#2d6a4f,color:#fff
     style NO fill:#9d0208,color:#fff
     style DOC fill:#e85d04,color:#000

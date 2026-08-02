@@ -168,12 +168,12 @@ colchón y la regla de las 18:00.
 
 ```mermaid
 flowchart TD
-    T["<b>Horas de conduccion por etapa · a velocidad de seguro</b>"]
-    n0["WH-Keetm 500 asf<br/>█████████████████ <b>5</b>"]
-    n4["Sesriem-Swakop 300<br/>█████████████ <b>3,8</b>"]
-    n5["Swakop-Twyfel 370<br/>█████████████████ <b>5</b>"]
-    n6["Palmwag-Etosha 385<br/>██████████████████ <b>5,2</b>"]
-    n7["Etosha-WH 440 asf<br/>███████████████ <b>4,4</b>"]
+    T["Horas de conduccion por etapa<br/>a velocidad de seguro"]
+    n0["WH-Keetm 500 asf<br/>5"]
+    n4["Sesriem-Swakop 300<br/>3,8"]
+    n5["Swakop-Twyfel 370<br/>5"]
+    n6["Palmwag-Etosha 385<br/>5,2"]
+    n7["Etosha-WH 440 asf<br/>4,4"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2

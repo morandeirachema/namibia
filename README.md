@@ -51,10 +51,10 @@ viaje**: está medido y documentado en el dossier por si algún día vuelve.
 ```mermaid
 flowchart TD
     Q{"¿Etosha primero<br/>o al final?"}
-    Q --> R1["💶 Si adelantais dias a octubre,<br/>el desierto primero deja TODAS las<br/>noches NWR despues del 1 nov<br/>= tarifa baja"]
-    Q --> R2["🌡️ Etosha se enfria segun avanza<br/>noviembre: 38,0 C en oct<br/>37,1 de media en nov"]
-    Q --> R3["🎢 Rodaje y crescendo: asfalto y<br/>grava facil primero, y el safari<br/>como climax, no como aperitivo"]
-    R1 --> V["✅ ETOSHA AL FINAL<br/>como en la ruta de referencia"]
+    Q --> R1["Si adelantais dias a octubre,<br/>el desierto primero deja TODAS las<br/>noches NWR despues del 1 nov<br/>= tarifa baja"]
+    Q --> R2["Etosha se enfria segun avanza<br/>noviembre: 38,0 C en oct<br/>37,1 de media en nov"]
+    Q --> R3["Rodaje y crescendo: asfalto y<br/>grava facil primero, y el safari<br/>como climax, no como aperitivo"]
+    R1 --> V["ETOSHA AL FINAL<br/>como en la ruta de referencia"]
     R2 --> V
     R3 --> V
     style V fill:#2d6a4f,color:#fff
@@ -163,10 +163,10 @@ justo la razón: **una ruta sin coche no es una ruta**.
 
 ```mermaid
 flowchart LR
-    A["Tu ventana<br/>1-15 nov"] --> B["🌧️ LLUVIA<br/>la quincena mas seca del rango:<br/>en 4 de 5 temporadas<br/>no habia empezado"]
-    A --> C["🌡️ CALOR<br/>Etosha ~37-38 C: fuerte<br/>desierto y costa: suaves"]
-    A --> D["💶 PRECIO<br/>NWR barato desde el 1 nov<br/>y Namibia2Go tambien"]
-    B --> E["✅ Ventana excelente<br/>para fauna y dunas"]
+    A["Tu ventana<br/>1-15 nov"] --> B["LLUVIA<br/>la quincena mas seca del rango:<br/>en 4 de 5 temporadas<br/>no habia empezado"]
+    A --> C["CALOR<br/>Etosha ~37-38 C: fuerte<br/>desierto y costa: suaves"]
+    A --> D["PRECIO<br/>NWR barato desde el 1 nov<br/>y Namibia2Go tambien"]
+    B --> E["Ventana excelente<br/>para fauna y dunas"]
     C --> E
     D --> E
     style E fill:#2d6a4f,color:#fff
@@ -210,7 +210,7 @@ flowchart LR
         I1["LCG 17:00"] --> I2["MAD 18:10<br/>Air Europa"]
         I2 -->|"3h15"| I3["MAD 21:25"]
         I3 --> I4["ADD 6:15+1<br/>Ethiopian"]
-        I4 -->|"2h20 ✅"| I5["ADD 8:35"]
+        I4 -->|"2h20 "| I5["ADD 8:35"]
         I5 --> I6["WDH 13:20<br/>1 NOVIEMBRE"]
     end
     style I6 fill:#2d6a4f,color:#fff
@@ -220,7 +220,7 @@ flowchart LR
 flowchart LR
     subgraph VUELTA["VUELTA · sab 14 nov · 26h40 · 3 escalas"]
         V1["WDH 14:30"] --> V2["ADD 21:20<br/>Ethiopian"]
-        V2 -->|"2h45 ✅"| V3["ADD 0:05+1"]
+        V2 -->|"2h45 "| V3["ADD 0:05+1"]
         V3 --> V4["FCO 4:35"]
         V4 -->|"3h35"| V5["FCO 8:10"]
         V5 --> V6["MAD 10:45<br/>ITA"]
@@ -461,11 +461,11 @@ de la charca iluminada.
 
 ```mermaid
 flowchart TD
-    A["🚙 EL 4x4 · RESERVAR HOY<br/>Namibia2Go Budget<br/>€1.800 · 12 dias · disponible"]
-    B["⛺ SESRIEM DENTRO x2<br/>44 parcelas<br/>es EL amanecer del viaje"]
-    C["🌊 TERRACE BAY<br/>sin reserva confirmada<br/>NO se entra al parque"]
-    D["🛂 e-visa + CVI<br/>eservices.mhaiss.gov.na<br/>cita de vacunas en agosto"]
-    A --> E["🏆 1-15 de noviembre<br/>asegurado"]
+    A["EL 4x4 · RESERVAR HOY<br/>Namibia2Go Budget<br/>€1.800 · 12 dias · disponible"]
+    B["SESRIEM DENTRO x2<br/>44 parcelas<br/>es EL amanecer del viaje"]
+    C["TERRACE BAY<br/>sin reserva confirmada<br/>NO se entra al parque"]
+    D["e-visa + CVI<br/>eservices.mhaiss.gov.na<br/>cita de vacunas en agosto"]
+    A --> E["1-15 de noviembre<br/>asegurado"]
     B --> E
     C --> E
     D --> E
@@ -542,10 +542,10 @@ usan esas palabras. Tres de ellas se confunden entre sí constantemente:
 
 ```mermaid
 flowchart TD
-    P["<b>PAN</b> · la depresion salina<br/>Etosha Pan son ~5.000 km2 de arcilla y sal<br/>SECA casi todo el año — solo se inunda<br/>en una buena temporada de lluvias<br/><i>no es agua, es un desierto blanco</i>"]
-    C["<b>CHARCA</b> (waterhole) · el abrevadero<br/>la poza pequeña, de manantial o de sondeo,<br/>donde bebe la fauna. Es donde se aparca<br/>y se espera. Okaukuejo, Chudop, Goas...<br/><i>esto SI es agua, y es el safari</i>"]
-    V["<b>VLEI</b> · la hondonada que se encharca<br/>Deadvlei, Sossusvlei, Hidden Vlei<br/>Deadvlei lleva 900 años sin agua:<br/>por eso los arboles estan muertos y de pie"]
-    K["<b>KOPPIE</b> · el cerro rocoso aislado<br/>el de Halali se puede subir a pie:<br/>el unico sitio del parque donde se<br/>puede andar fuera del coche"]
+    P["PAN · la depresion salina<br/>Etosha Pan son ~5.000 km2 de arcilla y sal<br/>SECA casi todo el año — solo se inunda<br/>en una buena temporada de lluvias<br/>no es agua, es un desierto blanco"]
+    C["CHARCA (waterhole) · el abrevadero<br/>la poza pequeña, de manantial o de sondeo,<br/>donde bebe la fauna. Es donde se aparca<br/>y se espera. Okaukuejo, Chudop, Goas...<br/>esto SI es agua, y es el safari"]
+    V["VLEI · la hondonada que se encharca<br/>Deadvlei, Sossusvlei, Hidden Vlei<br/>Deadvlei lleva 900 años sin agua:<br/>por eso los arboles estan muertos y de pie"]
+    K["KOPPIE · el cerro rocoso aislado<br/>el de Halali se puede subir a pie:<br/>el unico sitio del parque donde se<br/>puede andar fuera del coche"]
     style P fill:#c9b98f,color:#22201d
     style C fill:#2d6a4f,color:#fff
     style V fill:#C2542F,color:#fff
@@ -624,9 +624,9 @@ flowchart LR
     A["Busqueda<br/>multi-fuente"] --> B["Afirmacion<br/>falsable"]
     B --> C["3 verificadores<br/>intentan REFUTARLA"]
     C --> D{"¿2 de 3<br/>la tumban?"}
-    D -->|"Si"| E["❌ REFUTADA<br/>no se publica"]
-    D -->|"No"| F["✅ VERIFICADA<br/>con enlace"]
-    D -->|"Sin fuente"| G["🕳️ EN BLANCO<br/>a proposito"]
+    D -->|"Si"| E["REFUTADA<br/>no se publica"]
+    D -->|"No"| F["VERIFICADA<br/>con enlace"]
+    D -->|"Sin fuente"| G["EN BLANCO<br/>a proposito"]
     style E fill:#9d0208,color:#fff
     style F fill:#2d6a4f,color:#fff
     style G fill:#e85d04,color:#000

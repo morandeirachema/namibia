@@ -25,7 +25,7 @@ estaciones que sí existen:
 
 ```mermaid
 flowchart TD
-    E["ETOSHA<br/>Okaukuejo / Namutoni<br/>❌ sin estacion propia"]
+    E["ETOSHA<br/>Okaukuejo / Namutoni<br/>sin estacion propia"]
     E -.->|"54 km de Namutoni"| A["Okashana<br/>id 60987<br/>la mas cercana"]
     E -.->|"96 km de Namutoni"| B["Mannheim<br/>id 60900"]
     E -.->|"~135 km al norte"| C["Ondangwa<br/>WMO 68006"]
@@ -75,12 +75,12 @@ timeline
 
 ```mermaid
 flowchart TD
-    T["<b>Okaukuejo · lluvia mensual observada, en mm · caja CHIRPS</b><br/>la barra es la MEDIA de las 4 temporadas; detrás, el año a año"]
-    n0["<b>OCT</b> · media 3,9 mm<br/>█<br/>2021/22 0 · 2022/23 7 · 2023/24 0 · 2025/26 8,7"]
-    n1["<b>NOV</b> ← tu mes · media 17,1 mm<br/>████<br/>2021/22 9,2 · 2022/23 11,6 · 2023/24 29,2 · 2025/26 18,3"]
-    n2["<b>DIC</b> · media 36,6 mm<br/>█████████<br/>2021/22 15,6 · 2022/23 19,7 · 2023/24 28,1 · 2025/26 83"]
-    n3["<b>ENE</b> · media 56,2 mm<br/>██████████████<br/>2021/22 62,6 · 2022/23 72,4 · 2023/24 47,2 · 2025/26 42,5"]
-    n4["<b>FEB</b> · media 60,7 mm<br/>███████████████<br/>2021/22 105,2 · 2022/23 9,7 · 2023/24 48,9 · 2025/26 79,1"]
+    T["Okaukuejo · lluvia mensual observada, en mm · caja CHIRPS<br/>la barra es la MEDIA de las 4 temporadas; detrás, el año a año"]
+    n0["OCT · media 3,9 mm<br/><br/>2021/22 0 · 2022/23 7 · 2023/24 0 · 2025/26 8,7"]
+    n1["NOV tu mes · media 17,1 mm<br/><br/>2021/22 9,2 · 2022/23 11,6 · 2023/24 29,2 · 2025/26 18,3"]
+    n2["DIC · media 36,6 mm<br/><br/>2021/22 15,6 · 2022/23 19,7 · 2023/24 28,1 · 2025/26 83"]
+    n3["ENE · media 56,2 mm<br/><br/>2021/22 62,6 · 2022/23 72,4 · 2023/24 47,2 · 2025/26 42,5"]
+    n4["FEB · media 60,7 mm<br/><br/>2021/22 105,2 · 2022/23 9,7 · 2023/24 48,9 · 2025/26 79,1"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -124,12 +124,12 @@ Con estaciones SASSCAL **reales**, misma temporada:
 
 ```mermaid
 flowchart TD
-    T["<b>Temporada 2021/22 · primer dia con 10 mm o mas · dias desde el 1 de octubre</b>"]
-    n0["Waterberg<br/>███ <b>19</b>"]
-    n1["Grootfontein<br/>████ <b>27</b>"]
-    n2["Okaukuejo CHIRPS<br/>███████████████ <b>109</b>"]
-    n3["Khorixas<br/>███████████████ <b>111</b>"]
-    n4["Kaoko Otavi<br/>██████████████████ <b>132</b>"]
+    T["Temporada 2021/22 · primer dia con 10 mm o mas<br/>dias desde el 1 de octubre"]
+    n0["Waterberg<br/>19"]
+    n1["Grootfontein<br/>27"]
+    n2["Okaukuejo CHIRPS<br/>109"]
+    n3["Khorixas<br/>111"]
+    n4["Kaoko Otavi<br/>132"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
