@@ -530,6 +530,7 @@ Etosha · los **N$ sobrantes se cambian antes de volar**.
 - ⭐ [**`11-itinerarios-dia-a-dia`**](11-itinerarios-dia-a-dia.md) — **la VARIANTE E día a día** *(la ruta del viaje)* + D/A/B de referencia
 - 💎 [**`12-joyas-ocultas`**](12-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, círculos de hadas… lo no típico, día a día
 - 🛒 [**`13-comida-compras-y-regalos`**](13-comida-compras-y-regalos.md) — súper por parada, la ley del alcohol, dónde comer, regalos y aduana
+- 🎒 [**`14-equipaje`**](14-equipaje.md) — el petate que dictan los datos: qué llevar, qué no, y los tres micro-kits
 
 ### 🗺️ Tus 34 pines, en una línea
 
