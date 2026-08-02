@@ -166,8 +166,9 @@ permitted»*.
 - Los accidentes **pican entre las 16:00 y las 19:59**: **4.811** (texto del propio informe:
   *«Most crashes occurred between 16:00 - 19:59 (4.811)»*)
 - Esa franja de **cuatro horas** concentra **121 de los 413 muertos = 29,3 %**
-- Anochece **~19:15** a finales de noviembre → **la franja más mortal del país coincide con tu
-  último tramo del día**
+- En tu ventana (1–14 nov) anochece entre las **~19:04** (Windhoek) y las **~19:20** (la costa)
+  *(cálculo astronómico, ver `11`)* → **la franja más mortal del país coincide con tu último
+  tramo del día**
 
 ❌ **Lo que NO puedes citar** (refutado 0–2): que el FCDO desaconseje conducir de noche **todo el
 año**. Su frase *«avoid driving at night outside towns, as wildlife and livestock are serious
@@ -383,6 +384,10 @@ en Asco; asume lo mismo en Namibia2Go) manda de todas formas.
 
 ⚠️ **Detalle que pilla a la gente:** estos horarios **se mueven con el año** (van con el orto y el
 ocaso). **Confirma la hora real con el campamento al llegar**, no con una tabla leída meses antes.
+
+☀️ *Para tus fechas (cálculo astronómico ±5 min): el 4 de noviembre el sol sale a las **06:09** en
+Sesriem — puerta interior desde **~05:10**, exterior desde **~06:10** — y se pone a las **19:12**.
+El amanecer en Deadvlei mismo: **06:10**.*
 
 ---
 

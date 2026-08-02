@@ -137,8 +137,9 @@ cobrado **por parque y por cada 24 h desde la entrada** (ver `01` §7 y `08`). D
 > **◐, no ✅**: el N$280/adulto se apoya en secundarias concordantes; el
 > [PDF del MEFT](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF)
 > existe pero no se pudo abrir para verificar la tabla fina. **Confírmalo por email antes de cerrar
-> presupuesto.** Aparte: la entrada de **Cape Cross** (parada del D7) es **N$80–150 ◐** — el tramo
-> exacto sigue sin cerrarse (ver `06`).
+> presupuesto.** Aparte: la entrada de **Cape Cross** (parada del D7) es **N$80–150 ◐** según
+> reseñas — pero una secundaria sitúa Cape Cross como parque «premium» del baremo 2026 →
+> **N$280 (~€14)/adulto**: presupuesta lo alto y confírmalo en el mismo email (ver `06`).
 
 ---
 

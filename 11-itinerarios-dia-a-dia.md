@@ -64,8 +64,8 @@ Desarrollo completo de las variantes. **Ventana real: primera quincena de noviem
 **~N$20 = €1** · **✅ verificado** · **◐ secundario** · **○ estimación propia**
 
 > **Reglas aplicadas en todos:** grava a **80 km/h como techo** (media real 60–70) · asfalto ~105 ·
-> **60 km/h en parques** · **llegar a las 18:00** (anochece ~19:15) · **nunca de noche**.
-> Ver `04` y `05`.
+> **60 km/h en parques** · **llegar a las 18:00** (en tu quincena anochece entre las 19:04 y las
+> 19:20 según día y lugar — cálculo ☀️, ver la Variante E) · **nunca de noche**. Ver `04` y `05`.
 
 ---
 
@@ -124,13 +124,23 @@ gantt
     D14 Vuelo                      :e14, after e13, 1d
 ```
 
+> ### ☀️ El sol de tu viaje *(cálculo astronómico NOAA, hora local UTC+2, coordenadas aproximadas — margen ±5 min; cuadra con el ~19:15 de fin de noviembre que da NWR ◐)*
+> Cada día lleva abajo su amanecer y anochecer. El patrón que importa: **en Etosha anochece antes
+> (~19:05, está al este) y en la costa después (~19:20)** — la regla de «en el campamento a las
+> 18:00» vale igual en toda la ruta.
+
 ### D1 · dom 1 nov — Llegada a Windhoek
+- ☀️ amanecer **06:07** · anochecer **19:04**
+- ⚠️ **Es domingo: las bottle stores y las secciones de alcohol cierran por ley** (ver `03`) — la
+  compra de cervezas para el braai espera al lunes
 - 4x4 + briefing (1–2 h): **presiones en frío apuntadas, las DOS ruedas de repuesto, gato y
   compresor a la vista** antes de salir del patio (`05`)
 - Efectivo (~N$6.000–8.000) · **SIM de MTC** con pasaporte *(el kiosco cierra ~21:00)*
 - 🍺 **Joe's Beerhouse** · 🛏️ Windhoek
 
 ### D2 · lun 2 — Windhoek → paso de Spreetshoogte · **~180–200 km · ~3h–3h30** ◐
+- ☀️ amanecer **06:09** · anochecer **19:10** — *el atardecer en el paso es el plan del día: en
+  posición hacia las 18:40*
 - B1 a Rehoboth (87 asfalto) → C24 → D1261 → **D1275: el paso**. ⚠️ **Muy empinado**, tramos de
   hormigón para tracción, prohibido a caravanas — se baja despacio y es espectacular
 - 🌇 **Atardecer desde el mirador del paso**: el Namib a 1.000 m bajo tus pies
@@ -138,12 +148,18 @@ gantt
   vigencia desconocida)*
 
 ### D3 · mar 3 — Spreetshoogte → Solitaire → Sesriem · **~150–170 km · ~2h30–3h** ◐
+- ☀️ amanecer **06:09** · anochecer **19:12** — *la puerta exterior de Sesriem funciona de
+  amanecer a ocaso: dentro antes de ~19:10*
 - Bajada del paso → C14 → 🥧 **Solitaire** (tarta + depósito lleno) → D826/C19 a Sesriem
 - Tarde: **Sesriem Canyon** y atardecer en **Elim Dune** *(o el guiado de NWR, N$300/persona)*
 - 🎫 Namib-Naukluft ~N$620/24 h
 - 🛏️ **🔑 DENTRO de la puerta: Sesriem Campsite — N$1.340 (~€67)** ✅ *(44 parcelas: reservar YA)*
 
 ### D4 · mié 4 — Sossusvlei y Deadvlei · **130 km · día completo** ✅
+- ☀️ amanecer **06:10** (Deadvlei) · anochecer **19:16** — **la puerta interior abre 1 h antes del
+  amanecer: ~05:10.** Son ~60 km de asfalto + arena hasta el aparcamiento: saliendo al abrirse,
+  llegas con la duna encendiéndose *(horas de puerta: confírmalas en recepción al llegar, se
+  mueven con el orto real — ver `05`)*
 - 🌅 **Puerta interior 1 h antes del amanecer** — Deadvlei casi en solitario
 - Con día entero: **Big Daddy** (la subida) + **Hidden Vlei** + **Duna 45** a la vuelta
 - Arena final: 4H antes de entrar, desinflar en el 2WD, reinflar en Sesriem *(o lanzadera
@@ -151,17 +167,21 @@ gantt
 - 🛏️ Sesriem, segunda noche
 
 ### D5 · jue 5 — Sesriem → Walvis Bay · **~270 km · ~5h30** ✅
+- ☀️ amanecer **06:15** · anochecer **19:17** (Walvis Bay)
 - C14 por los pasos de **Gaub y Kuiseb** + Trópico de Capricornio
 - ⛽ **Solitaire otra vez, sí o sí** — después, **210 km sin nada**
 - 🛏️ **Walvis Bay** ⚠️ *precio sin verificar (el blog usó Lagoon Chalets)*
 
 ### D6 · vie 6 — Walvis Bay: flamencos y descanso ✅
+- ☀️ amanecer **06:14** · anochecer **19:17** — *flamencos con la primera luz, ~06:15–07:30*
 - 🦩 **Flamencos y pelícanos en la laguna** al amanecer y al atardecer — las mejores luces
 - Día libre: paseo marítimo, ostras, o la excursión guiada a **Sandwich Harbour**
   *(🚫 con tu coche está prohibida por contrato — el tour es la forma correcta y mejor)*
 - 🛏️ Walvis Bay, segunda noche
 
 ### D7 · sáb 7 — Cape Cross → Terrace Bay (Skeleton Coast) · **~390 km · día logístico** ✅
+- ☀️ amanecer **06:18** (Cape Cross) · anochecer **19:20** (Terrace Bay) — *pero aquí el sol no es
+  el límite: lo es la puerta de las 15:00*
 - ⏰ **Salida temprana — este día tiene una hora límite.** C34 costera (sal compactada):
   Swakopmund → Henties Bay → 🦭 **Cape Cross** (miles de lobos marinos; pañuelo para el olor)
 - 🛑 **Puerta de Ugabmund: última entrada 15:00.** Para pernoctar dentro hace falta **reserva
@@ -174,6 +194,8 @@ gantt
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 
 ### D8 · dom 8 — Skeleton Coast → Twyfelfontein → Hoada · **~300 km · ~5h** ◐
+- ☀️ amanecer **06:17** (Twyfelfontein) · anochecer **19:15** (Hoada) — *y es domingo otra vez:
+  sin alcohol a la venta*
 - Salida por **Springbokwasser** → C39 a Bergsig → **desvío opcional a Twyfelfontein**
   (grabados rupestres UNESCO; Google lo lista como cerrado: **es un fallo del listado**)
 - ⚠️ **Damaraland: los bajos son el punto delicado del seguro** — la referencia de Asco los
@@ -183,6 +205,8 @@ gantt
   campamento más bonito del viaje: rocas de granito, duchas entre peñas, cielo estrellado
 
 ### D9 · lun 9 — Hoada → Etosha (Okaukuejo) · **~315 km · ~4h** ◐
+- ☀️ amanecer **06:18** (Hoada) · anochecer **19:08** (Okaukuejo) — *las puertas de Etosha cierran
+  al ocaso: pasa Andersson con margen de sobra*
 - C40 a Kamanjab → C38 a la puerta de **Andersson** (asfalto desde Kamanjab... ⚠️ firme por
   confirmar) → **Okaukuejo a 17 km** de la puerta
 - 🎫 Etosha ~N$620/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
@@ -190,12 +214,16 @@ gantt
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
 
 ### D10 · mar 10 — Safari Okaukuejo → Halali · **~90 km de safari lento** ✅
+- ☀️ amanecer **06:12** · anochecer **19:06** (Halali) — *dentro del campamento, del ocaso al
+  amanecer: la charca iluminada ES el plan de la noche*
 - 🚧 **Obras 2026**: el tramo va por desvíos (~90 km a 30–35 km/h, ~3 h) — como es día de safari
   apenas molesta, pero **confirmar con NWR al reservar**
 - Charcas del camino · siesta en la piscina de Halali · charca de Halali al anochecer
 - 🛏️ **Camping Halali — N$920 (~€46)** ✅
 
 ### D11 · mié 11 — Safari Halali → Namutoni · **~80 km de safari** ✅
+- ☀️ amanecer **06:08** · anochecer **19:05** — *el safari bueno es 06:10–09:00 y 16:30–19:00;
+  al mediodía, piscina y siesta*
 - Charcas **Goas, Nuamses, Springbokfontein, Batia, Chudop** — el corazón del safari
 - **Se duerme DENTRO, como todo Etosha en esta ruta**: sin horas de puerta, con la charca al lado
 - 🛏️ **Camping Namutoni — N$920 (~€46)** ✅ *(el fuerte alemán, y Chudop a un paso)*
@@ -203,10 +231,13 @@ gantt
   Lindequist) ⚠️ precio sin verificar; puede ser gama alta — a cambio pierdes estar dentro*
 
 ### D12 · jue 12 — Etosha este · **~60–80 km de safari** ✅
+- ☀️ amanecer **06:08** · anochecer **19:05**
 - **Fischer's Pan**, Chudop, Klein Namutoni — la esquina que casi nadie hace
 - 🛏️ **Namutoni, segunda noche — N$920 (~€46)** ✅
 
 ### D13 · vie 13 — Etosha → Windhoek · **~550 km asfalto · ~5h30–6h** ○
+- ☀️ amanecer **06:08** (Namutoni) · anochecer **19:11** (Windhoek) — *la puerta de Von Lindequist
+  abre al amanecer: saliendo a las 06:10 llegas a Windhoek con la tarde entera*
 - Von Lindequist → Tsumeb → Otjiwarongo → B1 · salida al alba, comida en Otjiwarongo
 - 🥩 **Línea Roja**: la carne cruda no baja del norte — el braai se come en Etosha
 - 🛏️ Windhoek — **entrega del coche HOY**: el contrato de 12 días acaba el 13. *(Alternativa
@@ -216,6 +247,7 @@ gantt
   por Grootfontein)*
 
 ### D14 · sáb 14 — Vuelo
+- ☀️ amanecer **06:01** · *(despegue 14:30 — mañana tranquila)*
 - 💱 **Gasta o cambia los N$ antes de embarcar**: fuera de Namibia no valen nada
 
 ### 💰 Coste real de E *(1–15 nov · el detalle completo, en `10-presupuesto.md`)*
@@ -231,6 +263,25 @@ gantt
 - **Total tierra en camping ≈ ~€3.650 (~N$73.000)** la pareja ○, banda ~€3.350–3.950 — *ya sin
   rango de compañía: el coche es cifra cerrada. Sumando vuelos (€2.732) y seguro IATI Estrella
   (€226,04): **~€6.612 (~N$132.000) la pareja · ~€3.306 por persona** (ver `10`)*
+
+### ⏰ Los horarios que mandan *(✅/◐ = con fuente en el dossier · ☀️ = cálculo astronómico ±5 min)*
+
+- **Sesriem** ✅: puerta exterior de amanecer a ocaso; la interior, **1 h antes del amanecer y 1 h
+  después del ocaso**. Para tus noches del 3–4 nov ☀️: interior **~05:10–20:10**, exterior
+  **~06:10–19:10**. *Confírmalo en recepción al llegar: se mueve con el orto real (`05`).*
+- **Skeleton Coast** ◐: puertas de Ugabmund y Springbokwasser **07:30–19:00**; para pernoctar en
+  Terrace Bay hay que cruzar Ugabmund **antes de las 15:00** y con **reserva confirmada** (`06`).
+- **Etosha** ✅/◐: puertas del parque y de los campamentos **del amanecer al ocaso** — tus días
+  (9–12 nov) ☀️: **~06:10 a ~19:05**. De noche te quedas dentro: la charca iluminada es el plan.
+- **Kiosco SIM de MTC en el aeropuerto** ◐: cierra **~21:00** — aterrizas a las 13:20, de sobra.
+- **Alcohol** ✅: bottle stores y secciones de licores **cierran domingos y festivos**. Tus
+  domingos de viaje: **1 nov (el día que llegas) y 8 nov** — compra el sábado.
+- **Otjitotongwe (guepardos)** ◐ — C40, a 24 km de Kamanjab, de camino el D9 (lunes):
+  alimentación **~15:00**; si no te alojas, avisa antes. *(Una fuente dice que cierra los fines
+  de semana — tu paso es lunes.)*
+- **❌ Sin verificar — pídelo al reservar con NWR:** horarios de desayuno/restaurante de los
+  campamentos (importa para salir al alba: pide desayuno para llevar o hazlo tú), horario y
+  existencia real de gasolinera en cada campamento de Etosha, y el horario de Joe's Beerhouse.
 
 ### 🔍 En qué se diferencia del blog *(y por qué)*
 - **Ellos, 2 noches en Spreetshoogte; nosotros, 1** — la segunda se va a Etosha, que con tu ventana

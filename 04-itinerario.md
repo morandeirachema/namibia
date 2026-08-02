@@ -39,7 +39,7 @@ flowchart TD
     C --> F["+ paradas foto, repostaje,<br/>pinchazo posible +1 h"]
     D --> F
     E --> F
-    F --> G["LLEGAR ANTES DE LAS 18:00<br/>anochece ~19:15 a fin de nov<br/>en tu quincena, algo antes"]
+    F --> G["LLEGAR ANTES DE LAS 18:00<br/>anochece 19:04-19:20 segun<br/>dia y lugar (calculo, ver 11)"]
     style D fill:#e85d04,color:#000
     style E fill:#e85d04,color:#000
     style G fill:#9d0208,color:#fff

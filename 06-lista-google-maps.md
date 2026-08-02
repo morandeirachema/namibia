@@ -231,6 +231,10 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
 - **Cape Cross — colonia de lobos marinos** ◐
   - Entrada **~N$150/persona (~€7,5) + ~N$50/coche (~€2,5)**; algunas reseñas citan ~N$80/persona
     → **rango N$80–150**, sin tabla oficial abierta. Solo **efectivo**.
+  - ⚠️ **Actualización 02/08/2026 ◐:** una secundaria ([namibian.org](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent))
+    sitúa Cape Cross entre los parques **«premium» del baremo MEFT vigente desde abril de 2026 →
+    N$280 (~€14)/adulto**. El rango N$80–150 de las reseñas sería la tarifa vieja. **Presupuesta
+    N$280 y confírmalo contra el PDF del MEFT** (el mismo email pendiente de las tasas, ver `10`).
   - **Timing ideal:** el pico de cría es **noviembre-diciembre** (hasta ~210.000 focas) — justo
     vuestras fechas.
   - Acceso por la **C34** al norte de Swakopmund (costa). Gestiona MEFT.
