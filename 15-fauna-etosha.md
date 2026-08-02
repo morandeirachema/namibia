@@ -1,7 +1,7 @@
 # Fauna de Etosha — la guía de campo en PDF
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 11 páginas A4,
-**24 mamíferos y 20 aves**, con foto de cada especie.
+📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 9 páginas A4,
+**24 mamíferos y 20 aves**, con foto **completa** de cada especie — sin recortes: cuernos, cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
 
 *(GitHub no previsualiza PDF: pulsa el enlace y se descarga. Este documento es el índice, para poder

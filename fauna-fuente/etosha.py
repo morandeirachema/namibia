@@ -2,21 +2,15 @@
 # Donde no hay fuente, NO se pone linea: la ficha se queda solo con la identificacion.
 
 INTRO_EXTRA = """
-  <p><strong>Cómo funciona el safari aquí, en corto:</strong> dormís <strong>dentro del parque</strong>
-  las cuatro noches, así que no perdéis horas en las puertas —abren al amanecer y cierran al ocaso, y
-  en vuestras fechas eso es de ~06:10 a ~19:05—. Dentro, el límite es <strong>60 km/h</strong> y
-  <strong>no se puede bajar del coche</strong> salvo en los campamentos y en los sitios señalizados.</p>
-  <p><strong>El método que funciona:</strong> salir con la primera luz y volver a media mañana; el
-  mediodía, a la piscina; y de 16:30 al cierre, otra vez fuera. En una charca, <strong>apagad el motor
-  y dadle 15–20 minutos</strong>: la fauna llega por turnos. Un racimo de coches parados delata un
-  avistamiento.</p>
-  <p><strong>Las tres charcas iluminadas de los campamentos</strong> (Okaukuejo, Halali y Namutoni)
-  son el plan de la noche, andando desde la parcela y sin coche. Y de noche <strong>no se puede
-  circular por libre</strong>: la única forma de moverse a oscuras es el
-  <strong>safari nocturno guiado de NWR (N$750 ≈ €38 por persona)</strong>.</p>
-  <p><em>Las charcas que caen en la ruta de estos días: Okaukuejo y Olifantsbad el primero; Goas,
-  Nuamses, Salvadora y Rietfontein camino de Halali; y Chudop, Klein Namutoni y Fischer's Pan en el
-  este. El tramo Okaukuejo–Halali tiene obras en 2026: va por desvíos, a 30–35 km/h.</em></p>
+  <p><strong>El safari, en corto:</strong> dormís <strong>dentro</strong> las cuatro noches, así que
+  no perdéis horas en las puertas —abren al amanecer y cierran al ocaso: en vuestras fechas, de
+  ~06:10 a ~19:05—. Dentro, <strong>60 km/h</strong> y <strong>no se baja del coche</strong> salvo en
+  campamentos y sitios señalizados.</p>
+  <p><strong>Lo que funciona:</strong> fuera con la primera luz, vuelta a media mañana, piscina al
+  mediodía y otra salida de 16:30 al cierre. En una charca, <strong>apagad el motor y dadle 15–20
+  minutos</strong>: la fauna llega por turnos. De noche <strong>no se circula por libre</strong>: la
+  única forma es el <strong>safari nocturno guiado de NWR (N$750 ≈ €38 p.p.)</strong> — pero las
+  <strong>tres charcas iluminadas</strong> de los campamentos se ven andando desde la parcela.</p>
 """
 
 DONDE = {

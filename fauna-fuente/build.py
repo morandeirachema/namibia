@@ -76,24 +76,25 @@ HTML = f"""<!doctype html>
             background: #7a3a22; border-radius: 2mm; page-break-after: avoid; }}
   h2.sec span {{ float: right; font-weight: 400; font-size: 9.5pt; opacity: .85; }}
   .intro {{ background: #f3ede2; border-left: 3px solid #7a3a22; padding: 3mm 4mm;
-            margin: 0 0 5mm; font-size: 8.8pt; border-radius: 0 2mm 2mm 0; }}
-  .intro p {{ margin: 0 0 1.6mm; }} .intro p:last-child {{ margin: 0; }}
+            margin: 0 0 4mm; font-size: 8.1pt; border-radius: 0 2mm 2mm 0; }}
+  .intro p {{ margin: 0 0 1.2mm; }} .intro p:last-child {{ margin: 0; }}
 
   /* ---------- rejilla de especies ---------- */
-  .grid {{ display: grid; grid-template-columns: 1fr 1fr; gap: 4mm; }}
+  .grid {{ display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 3.5mm; align-items: start; }}
   .sp {{ border: .4pt solid #d8d0c2; border-radius: 2mm; overflow: hidden;
          page-break-inside: avoid; break-inside: avoid; background: #fff; }}
-  .foto {{ height: 34mm; overflow: hidden; background: #ded8cc; }}
-  .foto img {{ width: 100%; height: 100%; object-fit: cover; display: block; }}
-  .txt {{ padding: 2.4mm 3mm 1mm; }}
-  .sp h3 {{ margin: 0; font-size: 11pt; color: #7a3a22; line-height: 1.15; }}
-  .nom {{ margin: .4mm 0 1.8mm; font-size: 7.6pt; color: #6d675d; }}
-  .id {{ margin: 0; font-size: 8.4pt; text-align: justify; hyphens: auto; }}
-  .donde {{ margin: 1.8mm 0 0; font-size: 8.2pt; background: #eaf1ea; border-radius: 1.2mm;
+  /* caja 3:2, la proporcion mediana de las fotos · contain = NUNCA recorta */
+  .foto {{ height: 39mm; background: #e6e0d4; }}
+  .foto img {{ width: 100%; height: 100%; object-fit: contain; display: block; }}
+  .txt {{ padding: 2mm 2.4mm .8mm; }}
+  .sp h3 {{ margin: 0; font-size: 9.6pt; color: #7a3a22; line-height: 1.15; }}
+  .nom {{ margin: .3mm 0 1.4mm; font-size: 6.9pt; color: #6d675d; }}
+  .id {{ margin: 0; font-size: 7.7pt; text-align: justify; hyphens: auto; }}
+  .donde {{ margin: 1.4mm 0 0; font-size: 7.5pt; background: #eaf1ea; border-radius: 1.2mm;
             padding: 1.6mm 2mm; text-align: justify; }}
   .donde .et {{ font-weight: 700; color: #2d6a4f; text-transform: uppercase;
                 font-size: 6.8pt; letter-spacing: .09em; margin-right: 1mm; }}
-  .cred {{ margin: 1.4mm 0 0; padding: 0 3mm 2mm; font-size: 6.4pt; color: #8d867a; }}
+  .cred {{ margin: 1mm 0 0; padding: 0 2.4mm 1.6mm; font-size: 6pt; color: #8d867a; }}
 
   /* ---------- creditos ---------- */
   .final {{ page-break-before: always; }}
@@ -123,16 +124,15 @@ HTML = f"""<!doctype html>
 
 <h2 class="sec">Mamíferos <span>{len(mam)} especies</span></h2>
 <div class="intro">
-  <p><strong>Cómo se usa esto:</strong> cada ficha lleva el nombre en castellano, el científico y el
-  inglés —que es el que oiréis y el que está en los carteles del parque— y los rasgos que de verdad
-  sirven para distinguirla en el campo, no una descripción de enciclopedia.</p>
+  <p><strong>Cada ficha</strong> lleva el nombre en castellano, el científico y el inglés —el de los
+  carteles del parque— y los rasgos que sirven para distinguirla <em>en el campo</em>.</p>
   {INTRO_EXTRA}
 </div>
 <div class="grid">{''.join(tarjeta(m) for m in mam)}</div>
 
 <h2 class="sec" style="margin-top:6mm">Aves <span>{len(ave)} especies</span></h2>
 <div class="intro">
-  <p>Con el coche parado en una charca, las aves son lo que llena las esperas. Estas son las que
+  <p>Con el coche parado en una charca, las aves llenan las esperas. Estas son las que
   <strong>se ven sin ser ornitólogo</strong>: grandes, ruidosas o de color imposible.</p>
 </div>
 <div class="grid">{''.join(tarjeta(m) for m in ave)}</div>
