@@ -9,7 +9,13 @@
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos · rinocerontes
 bebiendo de noche a diez metros · cuatro noches de safari en Etosha*
 
-Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 02·08·2026.
+Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 03·08·2026.
+
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 150 páginas
+
+*Todo esto en un solo documento maquetado, con fotos y los 56 diagramas — para leer del tirón,
+imprimir o llevar sin conexión.*
+🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(18 páginas, 83 especies con foto)*.
 
 </div>
 

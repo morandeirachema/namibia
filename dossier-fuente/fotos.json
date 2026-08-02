@@ -1,0 +1,182 @@
+[
+ {
+  "slug": "portada",
+  "pie": "Deadvlei al amanecer — el motivo del viaje",
+  "file": "File:Petrified In Time (200653949).jpeg",
+  "local": "portada.jpg",
+  "license": "CC0",
+  "artist": "Jonathan Lin",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Petrified_In_Time_(200653949).jpeg"
+ },
+ {
+  "slug": "windhoek",
+  "pie": "Windhoek, punto de entrada y de salida",
+  "file": "File:Windhoek - Namibie - panoramio.jpg",
+  "local": "windhoek.jpg",
+  "license": "CC BY 3.0",
+  "artist": "Pavel Špindler",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Windhoek_-_Namibie_-_panoramio.jpg"
+ },
+ {
+  "slug": "spreetshoogte",
+  "pie": "El paso de Spreetshoogte, con el Namib mil metros abajo",
+  "file": "File:Spreetshoogte Pass panorama.jpg",
+  "local": "spreetshoogte.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Olyon01",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Spreetshoogte_Pass_panorama.jpg"
+ },
+ {
+  "slug": "solitaire",
+  "pie": "Solitaire: gasolina, tarta de manzana y coches oxidados",
+  "file": "File:Solitaire, Namibia (17143158888).jpg",
+  "local": "solitaire.jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "Domenico Convertini from Zurich, Schweiz",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Solitaire,_Namibia_(17143158888).jpg"
+ },
+ {
+  "slug": "sossusvlei",
+  "pie": "Las dunas de Sossusvlei",
+  "file": "File:Dead Vlei, Sossusvlei, Namibia, 2018-08-06, DD 041-049 PAN.jpg",
+  "local": "sossusvlei.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Dead_Vlei,_Sossusvlei,_Namibia,_2018-08-06,_DD_041-049_PAN.jpg"
+ },
+ {
+  "slug": "deadvlei",
+  "pie": "Los árboles muertos de Deadvlei",
+  "file": "File:Dead Vlei, Sossusvlei, Namibia, 2018-08-06, DD 086.jpg",
+  "local": "deadvlei.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Dead_Vlei,_Sossusvlei,_Namibia,_2018-08-06,_DD_086.jpg"
+ },
+ {
+  "slug": "duna45",
+  "pie": "Duna 45, en la carretera de Sossusvlei",
+  "file": "File:Dead Vlei, Sossusvlei, Namibia, 2018-08-06, DD 041-049 PAN.jpg",
+  "local": "duna45.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Dead_Vlei,_Sossusvlei,_Namibia,_2018-08-06,_DD_041-049_PAN.jpg"
+ },
+ {
+  "slug": "sesriem",
+  "pie": "El cañón de Sesriem",
+  "file": "File:Cañón Sesriem, Sossusvlei, Namibia, 2018-08-06, DD 177-185 PAN.jpg",
+  "local": "sesriem.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Ca%C3%B1%C3%B3n_Sesriem,_Sossusvlei,_Namibia,_2018-08-06,_DD_177-185_PAN.jpg"
+ },
+ {
+  "slug": "walvisbay",
+  "pie": "Flamencos en la laguna de Walvis Bay",
+  "file": "File:NA-walvisbay-lagoon-famingo.jpg",
+  "local": "walvisbay.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Balou46",
+  "descurl": "https://commons.wikimedia.org/wiki/File:NA-walvisbay-lagoon-famingo.jpg"
+ },
+ {
+  "slug": "swakopmund",
+  "pie": "Swakopmund, la costa alemana",
+  "file": "File:Jetty, Swakopmund, Namibia, 2018-08-04, DD 57-60 PAN.jpg",
+  "local": "swakopmund.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Jetty,_Swakopmund,_Namibia,_2018-08-04,_DD_57-60_PAN.jpg"
+ },
+ {
+  "slug": "capecross",
+  "pie": "La colonia de lobos marinos de Cape Cross",
+  "file": "File:Largest Seal Colony on Earth (37503969060).jpg",
+  "local": "capecross.jpg",
+  "license": "CC BY 2.0",
+  "artist": "Sonse",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Largest_Seal_Colony_on_Earth_(37503969060).jpg"
+ },
+ {
+  "slug": "skeleton",
+  "pie": "La Costa de los Esqueletos",
+  "file": "File:Shipwreck in Skeleton Coast (16683455783).jpg",
+  "local": "skeleton.jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "Domenico Convertini from Zurich, Schweiz",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Shipwreck_in_Skeleton_Coast_(16683455783).jpg"
+ },
+ {
+  "slug": "twyfelfontein",
+  "pie": "Los grabados rupestres de Twyfelfontein",
+  "file": "File:Rock Engravings (37713171646).jpg",
+  "local": "twyfelfontein.jpg",
+  "license": "CC BY 2.0",
+  "artist": "Sonse",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Rock_Engravings_(37713171646).jpg"
+ },
+ {
+  "slug": "damaraland",
+  "pie": "Damaraland, camino de Grootberg",
+  "file": "File:Damaraland 10.jpg",
+  "local": "damaraland.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Lidine Mia",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Damaraland_10.jpg"
+ },
+ {
+  "slug": "etosha-pan",
+  "pie": "La depresión de Etosha",
+  "file": "File:The Etosha Pan (gmt306 16 27 for-esa andreas-mogensen etosha-pan).jpg",
+  "local": "etosha-pan.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "descurl": "https://commons.wikimedia.org/wiki/File:The_Etosha_Pan_(gmt306_16_27_for-esa_andreas-mogensen_etosha-pan).jpg"
+ },
+ {
+  "slug": "okaukuejo",
+  "pie": "La charca de Okaukuejo",
+  "file": "File:Drinking Giraffe at the Okaukuejo Waterhole, Etosha National Park, Namibia.jpg",
+  "local": "okaukuejo.jpg",
+  "license": "CC BY-SA 2.0",
+  "artist": "Christoph Strässler",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Drinking_Giraffe_at_the_Okaukuejo_Waterhole,_Etosha_National_Park,_Namibia.jpg"
+ },
+ {
+  "slug": "grava",
+  "pie": "La pista de grava: donde vive el riesgo del viaje",
+  "file": "File:Namibia D826.JPG",
+  "local": "grava.jpg",
+  "license": "CC BY-SA 2.5",
+  "artist": "Winfried Bruenken (Amrum)",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Namibia_D826.JPG"
+ },
+ {
+  "slug": "termitero",
+  "pie": "Termitero en la sabana",
+  "file": "File:Dunst Namibia Oct 2002 slide342 - Termitenbau.jpg",
+  "local": "termitero.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Bernhard Dunst",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Dunst_Namibia_Oct_2002_slide342_-_Termitenbau.jpg"
+ },
+ {
+  "slug": "cielo",
+  "pie": "El cielo del desierto namibio",
+  "file": "File:Lajedo de Pai Mateus - Pedra do Capacete.jpg",
+  "local": "cielo.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Ruy Carvalho",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Lajedo_de_Pai_Mateus_-_Pedra_do_Capacete.jpg"
+ },
+ {
+  "slug": "hilux",
+  "pie": "Un 4x4 con tienda de techo, como el vuestro",
+  "file": "File:Minziro-bos, kampeer op ekotoon, Tanzanië, b.jpg",
+  "local": "hilux.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Friedemann Vetter",
+  "descurl": "https://commons.wikimedia.org/wiki/File:Minziro-bos,_kampeer_op_ekotoon,_Tanzani%C3%AB,_b.jpg"
+ }
+]

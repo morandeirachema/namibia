@@ -1,0 +1,99 @@
+@page { size: A4; margin: 16mm 15mm 18mm 15mm; }
+
+* { box-sizing: border-box; }
+body { font-family: "DejaVu Sans", "Liberation Sans", Arial, sans-serif; color: #24211d;
+       margin: 0; font-size: 9.6pt; line-height: 1.5;
+       -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+/* ---------- portada ---------- */
+.portada { position: relative; width: 100%; height: 261mm; overflow: hidden; border-radius: 2mm;
+           page-break-after: always; color: #fff; }
+.portada .fondo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
+                  object-position: 50% 42%; }
+.portada .velo { position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(12,20,26,.10) 0%, rgba(12,20,26,.18) 38%, rgba(12,20,26,.72) 62%, rgba(10,16,20,.95) 100%); }
+.portada .txt { position: absolute; inset: auto 0 0 0; padding: 0 16mm 16mm; text-align: center; }
+.portada .kicker { letter-spacing: .3em; text-transform: uppercase; font-size: 8pt; color: #d9c99b; }
+.portada h1 { color: #fff; border: 0; padding: 0; font-size: 58pt; line-height: .92; margin: 5mm 0 3mm; font-weight: 800; letter-spacing: -.02em; }
+.portada h2 { border: 0; padding: 0; font-size: 16pt; font-weight: 400; color: #e4d9bd; margin: 0 0 9mm; }
+.portada .datos { font-size: 10.5pt; line-height: 1.85; }
+.portada .datos b { color: #f0e6cc; }
+.portada .pie { margin-top: 9mm; font-size: 7.6pt; color: #a9b8a8; line-height: 1.6; }
+
+/* ---------- separadores de bloque ---------- */
+.separador { page-break-before: always; height: 250mm; display: flex; align-items: center;
+             justify-content: center; text-align: center; }
+.separador span { display: block; letter-spacing: .26em; text-transform: uppercase;
+                  font-size: 8.5pt; color: #9a8f7d; margin-bottom: 4mm; }
+.separador h1 { font-size: 34pt; color: #7a3a22; margin: 0; border: 0; }
+
+/* ---------- documentos ---------- */
+.doc { page-break-before: always; }
+h1 { font-size: 20pt; color: #7a3a22; margin: 0 0 4mm; padding-bottom: 2mm;
+     border-bottom: 2.4pt solid #7a3a22; line-height: 1.15; }
+h2 { font-size: 13.5pt; color: #7a3a22; margin: 7mm 0 2.5mm; page-break-after: avoid; line-height: 1.2; }
+h3 { font-size: 11pt; margin: 5mm 0 1.5mm; page-break-after: avoid; }
+h4 { font-size: 9.8pt; margin: 4mm 0 1mm; page-break-after: avoid; }
+p, li { orphans: 2; widows: 2; }
+p { margin: 0 0 2.2mm; }
+ul, ol { margin: 0 0 2.8mm; padding-left: 5mm; }
+li { margin-bottom: 1mm; }
+a { color: #7a3a22; text-decoration: none; }
+strong { color: #1a1815; }
+code { background: #f1ece2; padding: 0 .8mm; border-radius: .8mm; font-size: 8.6pt;
+       font-family: "DejaVu Sans Mono", monospace; }
+hr { border: 0; border-top: .5pt solid #ddd5c7; margin: 6mm 0; }
+
+blockquote { margin: 3mm 0; padding: 2.6mm 4mm; background: #f5f0e6;
+             border-left: 3pt solid #c9a227; border-radius: 0 2mm 2mm 0; }
+blockquote h1, blockquote h2, blockquote h3 { border: 0; margin-top: 0; font-size: 11.5pt; }
+blockquote p:last-child { margin-bottom: 0; }
+
+table { border-collapse: collapse; width: 100%; font-size: 8.6pt; margin: 3mm 0; }
+th, td { border: .4pt solid #d8d0c2; padding: 1.4mm 2mm; text-align: left; }
+th { background: #f1ece2; }
+
+/* ---------- figuras ---------- */
+figure { margin: 4mm 0; page-break-inside: avoid; }
+figure.ancha img { width: 100%; height: 62mm; object-fit: cover; border-radius: 2mm; display: block; }
+figure.media img { width: 100%; height: 48mm; object-fit: cover; border-radius: 2mm; display: block; }
+figcaption { font-size: 7.4pt; color: #6d675d; margin-top: 1.2mm; font-style: italic; }
+figcaption .cr { float: right; font-style: normal; color: #a09889; font-size: 6.6pt; }
+
+/* ---------- mermaid ---------- */
+.mermaid { text-align: center; margin: 4mm 0; background: none; }
+.mermaid svg { max-height: 210mm; }
+blockquote { break-inside: auto; }
+.mermaid svg { max-width: 100% !important; height: auto !important; }
+
+/* ---------- indice ---------- */
+.toc ol { columns: 1; font-size: 11pt; line-height: 2; padding-left: 6mm; }
+.toc .nota { margin-top: 8mm; background: #f5f0e6; padding: 3mm 4mm; border-radius: 2mm; font-size: 9pt; }
+
+/* ---------- fichas de fauna ---------- */
+.grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 3.5mm; align-items: start; }
+.sp { border: .4pt solid #d8d0c2; border-radius: 2mm; overflow: hidden; background: #fff;
+      page-break-inside: avoid; }
+.sp .foto { height: 39mm; background: #e6e0d4; }
+.sp .foto img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.sp .txt { padding: 2mm 2.4mm .8mm; }
+.sp h3 { margin: 0; font-size: 9.6pt; color: #7a3a22; line-height: 1.15; }
+.sp .nom { margin: .3mm 0 1.4mm; font-size: 6.9pt; color: #6d675d; }
+.sp .id { margin: 0; font-size: 7.7pt; text-align: justify; hyphens: auto; }
+.sp .donde { margin: 1.4mm 0 0; font-size: 7.5pt; background: #eaf1ea; border-radius: 1.2mm;
+             padding: 1.4mm 1.8mm; text-align: justify; }
+.sp .donde .et { font-weight: 700; color: #2d6a4f; text-transform: uppercase;
+                 font-size: 6.6pt; letter-spacing: .08em; margin-right: .8mm; }
+.sp .cred { margin: 1mm 0 0; padding: 0 2.4mm 1.6mm; font-size: 6pt; color: #8d867a; }
+.ojo { background: #9d0208; color: #fff; padding: 0 1mm; border-radius: .8mm; font-size: 6.4pt; }
+.cuenta { float: right; font-weight: 400; font-size: 9.5pt; color: #9a8f7d; }
+
+/* ---------- creditos ---------- */
+.creditos ul.dos { columns: 2; column-gap: 8mm; font-size: 7.4pt; line-height: 1.5; list-style: none;
+                   padding-left: 0; }
+.creditos li { break-inside: avoid; margin-bottom: .8mm; }
+.creditos .nota { background: #f5f0e6; padding: 3mm 4mm; border-radius: 2mm; font-size: 8.4pt; }
+
+/* el README trae divs centrados */
+div[align="center"] { text-align: center; }
+div[align="center"] h1 { border: 0; }

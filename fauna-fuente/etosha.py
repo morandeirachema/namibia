@@ -16,7 +16,7 @@ INTRO_EXTRA = """
   el tráfico iba desviado por <strong>Gemsbokvlakte</strong> con la puerta de Okaukuejo hacia Halali
   cerrada, y en 2026 seguía habiendo bypass. <strong>Reconfirmad con NWR al reservar</strong>
   (+264 67 229 800). Lado bueno: el desvío pasa por Sueda–Salvadora–Charitsaub, el mejor tramo de
-  borde de la depresión para guepardo y león.</p>
+  borde de pan para guepardo y león.</p>
 """
 
 DONDE = {
@@ -26,9 +26,9 @@ DONDE = {
   "rino-blanco": "Se extinguió aquí y lo reintrodujeron en 1995: hoy es **apenas una docena**. Se cita de vez en cuando en Springbokfontein. No cuentes con verlo.",
   "leon": "**Okondeka** es la mejor (manada residente), y luego Chudop, Rietfontein, Nebrownii y Ombika. Primera y última hora. Ojo: **usan las pistas como caminos**.",
   "leopardo": "**Halali/Moringa y Goas son las dos mejores apuestas** del parque; también Ngobib, Kalkheuwel y Klein Namutoni. La charca iluminada de Halali es famosa por él.",
-  "guepardo": "Llanura abierta del borde de la depresión: **Salvadora, Sueda, Charitsaub, Batia y Okerfontein**. De día, que es cuando caza — su presa aquí es el springbok.",
+  "guepardo": "Llanura abierta del borde de la pan: **Salvadora, Sueda, Charitsaub, Batia y Okerfontein**. De día, que es cuando caza — su presa aquí es el springbok.",
   "jirafa": "En cualquier charca abierta y, de noche, en la iluminada de Okaukuejo. Batia y Kalkheuwel la tienen habitual.",
-  "cebra-burchell": "Por todo el parque, en las llanuras del borde de la depresión. **En noviembre siguen concentradas**: no vuelven al oeste hasta finales de diciembre.",
+  "cebra-burchell": "Por todo el parque, en las llanuras del borde de la pan. **En noviembre siguen concentradas**: no vuelven al oeste hasta finales de diciembre.",
   "cebra-hartmann": "⚠️ **En esta ruta NO la veréis.** En Etosha vive solo en las lomas de dolomita del **extremo oeste** (Dolomite, Galton Gate), no en el eje Okaukuejo–Namutoni.",
   "orix": "Charcas abiertas: Olifantsbad, Kalkheuwel, King Nehale. Aguanta el calor mejor que nadie, así que se ve a horas en que el resto se esconde.",
   "springbok": "Por todas partes en llanura abierta, y en Okaukuejo llegan **en manada por la tarde**. Es la presa principal del guepardo.",
@@ -44,8 +44,8 @@ DONDE = {
   "hartebeest": "Llanuras abiertas del este; se cita en la charca de King Nehale, en Namutoni.",
   # --- AVES ---
   "tejedor-republicano": "**En Okaukuejo, a diez metros de la charca**: hay un nido enorme junto al agua y dos más en el camping. Dentro viven halcones pigmeos y agapornis de cara rosa.",
-  "flamenco-enano": "⚠️ **En noviembre no están aquí:** la depresión está seca. Solo crían cuando llueve por encima de 400 mm — pasó **tres veces en cuarenta años**. Los tuyos están en **Walvis Bay**.",
-  "flamenco-comun": "⚠️ Lo mismo: **la depresión está seca en noviembre**. En cambio en **Walvis Bay el máximo va de junio a noviembre** — allí sí, y en cantidad.",
+  "flamenco-enano": "⚠️ **En noviembre no están aquí:** la pan está seca. Solo crían cuando llueve por encima de 400 mm — pasó **tres veces en cuarenta años**. Los tuyos están en **Walvis Bay**.",
+  "flamenco-comun": "⚠️ Lo mismo: **la pan está seca en noviembre**. En cambio en **Walvis Bay el máximo va de junio a noviembre** — allí sí, y en cantidad.",
   "grulla-azul": "**Andoni**, al norte de Namutoni, es el sitio. Pero quedaban **19 aves en 2021** —eran 138 en los 70—: es la población más aislada del mundo, a 1.200 km de la siguiente.",
   "abejaruco-europeo": "**Sí está en vuestras fechas**: llega en octubre y en noviembre se registra en el parque. Caza al vuelo desde ramas secas y postes.",
   "ciguena-abdim": "⚠️ **En noviembre, no.** En Etosha es ave de **febrero y marzo**: en noviembre su tasa de registro es cero. Va aquí para que no la busquéis en balde.",
@@ -68,7 +68,7 @@ FUENTES_ETOSHA = [
   "<b>Rinoceronte negro:</b> MEFT (ficha de Etosha) y NWR confirman león, elefante y rinoceronte negro de noche en Okaukuejo. Lo de «mayor población mundial» es de la <i>subespecie suroccidental</i>: WWF sitúa el 72 % de la población nacional en Etosha.",
   "<b>Impala de cara negra:</b> UICN (Vulnerable, endémica de Kaokoveld y suroeste de Angola) y Matson 2006 — cinco subpoblaciones que coinciden con los cinco puntos de suelta de los años 70.",
   "<b>Grulla azul:</b> Craig 2017 (<i>Bull. B.O.C.</i>) y el Namibia Crane Working Group — 19 aves en el censo de noviembre de 2021, y 1.200 km hasta la población sudafricana.",
-  "<b>Flamencos:</b> NASA Earth Observatory (la depresión seca en diciembre, inundada en enero), Simmons 1996 (tres eventos de cría en 40 años) y BirdLife (umbral de 400 mm). Máximos de Walvis Bay de junio a noviembre: SABAP1.",
+  "<b>Flamencos:</b> NASA Earth Observatory (la pan seca en diciembre, inundada en enero), Simmons 1996 (tres eventos de cría en 40 años) y BirdLife (umbral de 400 mm). Máximos de Walvis Bay de junio a noviembre: SABAP1.",
   "<b>Migradores:</b> tasas de registro mensuales de SABAP2 / African Bird Atlas filtradas a Etosha. Ahí se ve que el abejaruco carmesí tiene <i>cero</i> registros en el parque y que la cigüeña de Abdim es de febrero-marzo.",
   "<b>Cebra de montaña:</b> |Uiseb 2024 — en Etosha está restringida a las lomas de dolomita del oeste; la de llanura, por todo el parque.",
   "<b>Dik-dik:</b> Travel News Namibia (Dik-dik Drive) y registros de GBIF: ~206 en la cuadrícula de Namutoni frente a 4 en Okaukuejo.",
