@@ -8,7 +8,9 @@ lo que no tiene fuente dice **«sin dato»**.
 
 ## 🍺 Primero, la ley que organiza tu calendario de compras ✅
 
-Verificado en el texto de la **[Liquor Act 6 de 1998](http://www.lac.org.na/laws/annoSTAT/Liquor%20Act%206%20of%201998.pdf)** ✅:
+Verificado en el texto de la **[Liquor Act 6 de 1998](http://www.lac.org.na/laws/annoSTAT/Liquor%20Act%206%20of%201998.pdf)**
+*([espejo en NamibLII](https://namiblii.org/akn/na/act/1998/6) — ambos pueden pedir «prueba de
+humano» a scripts; en navegador abren)* ✅:
 
 - **Domingos y festivos = «closed day»**: **prohibida la venta de alcohol para llevar** (art. 46(2))
   — ni bottle stores ni supermercados. *Bares y restaurantes sí sirven.*
