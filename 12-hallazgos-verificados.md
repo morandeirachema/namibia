@@ -1,6 +1,6 @@
 # 12 · Hallazgos verificados
 
-> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Lo que sobrevivió a la verificación adversarial a tres votos: alquiler, seguros, visado, tasas — y lo que quedó refutado.
 >
@@ -242,7 +242,7 @@ amount payable is for 24 hours (1 day), and thereafter in units of 24 hours."* U
 en Etosha se cobra **3 veces**.
 
 **Presupuestar: ~N$280 (~€14)/adulto/día + ~N$60 (~€3)/vehículo ≈ N$620 (~€31)/día**
-para dos adultos y coche, en cada uno de Etosha, Sossusvlei y Fish River Canyon.
+para dos adultos y coche, en cada uno de Etosha, Sossusvlei y Skeleton Coast.
 
 Ambigüedad menor: 24 h desde la entrada frente a la práctica real en la puerta — algunos
 operadores cobran por día natural y facturarían 4 unidades por una estancia de 3 noches.
@@ -341,13 +341,13 @@ registro de qué se cerró y dónde, para poder auditarlo.
 2. **Itinerario día a día y viabilidad** — si Etosha + sur profundo + Sossusvlei + costa caben
    en 14 días a 80 km/h en pista. → **Cerrado** en `13-itinerario.md` (veredicto: **NO cabe
    todo**; techo sano ~300–350 km/día) y desarrollado día a día en `01-itinerarios-dia-a-dia.md`.
-   La ruta vigente es la **Variante E** (la clásica del norte, sin el sur). La etapa de
+   La ruta vigente es **la ruta del norte** (la clásica del norte, sin el sur). La etapa de
    Damaraland sigue con los bajos sin cobertura incluso en el nivel más alto de seguro.
 3. **Precios de alojamiento** — campings NWR (Okaukuejo/Halali/Namutoni), Sesriem, Hobas,
    lodges de gama media; y antelación de reserva para oct–dic. → **Cerrado** en
    `03-alojamiento-y-tasas.md` y `15-huecos-cerrados.md`.
 4. **Presupuesto total** — → **Cerrado** en `02-presupuesto.md`: ya calculado sobre la
-   distancia real de la Variante E y las reservas cerradas (vuelo, coche y seguro).
+   distancia real de la ruta y las reservas cerradas (vuelo, coche y seguro).
 5. ~~**Permiso internacional de conducir**~~ → **resuelto** (ver arriba y `04`), ~~malaria en
    Etosha~~ → **resuelta** (sí es zona de riesgo, CDC, en `04`), certificado de fiebre
    amarilla al hacer escala en Adís Abeba (Etiopía es endémica), SIM/eSIM, efectivo vs tarjeta,

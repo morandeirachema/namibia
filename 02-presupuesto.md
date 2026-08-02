@@ -1,6 +1,6 @@
 # 02 · Presupuesto
 
-> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Lo que cuesta el viaje, partida a partida, con el porcentaje que ya está cerrado y el que sigue siendo estimación.
 >
@@ -14,12 +14,12 @@ cifra lleva su marca de confianza y su fuente. **Donde no hay dato verificado, s
 estimación marcada: un número plausible presentado como hallazgo es un fallo grave — aquí no se hace.**
 
 
-> ## 🔄 NOTA (17/07/2026): este presupuesto es el de la RUTA VIGENTE (Variante E, norte)
-> Versiones anteriores de este documento presupuestaban la **Variante A** (sur + Namib + costa, con
+> ## 🔄 NOTA (17/07/2026): este presupuesto es el de la RUTA VIGENTE (la ruta, norte)
+> Versiones anteriores de este documento presupuestaban **otra ruta** (sur + Namib + costa, con
 > coche de **Asco** y fechas de «finales de noviembre»). **Esa ruta se descartó** (ver la nota de
 > `13-itinerario.md`) y **las reservas se han cerrado sobre otra realidad**:
 >
-> - **Ruta**: la **Variante E** — la clásica del norte con **Etosha** (4 noches) y **sin el sur**
+> - **Ruta**: **la ruta del norte** — la clásica del norte con **Etosha** (4 noches) y **sin el sur**
 >   (Fish River, Lüderitz, kokerbooms quedan para otro viaje; su presupuesto sigue documentado en el
 >   histórico de `13`). Detalle día a día en [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md).
 > - **Fechas**: **1–14 de noviembre de 2026** (vuelo ya comprado), no «finales de noviembre».
@@ -33,12 +33,12 @@ estimación marcada: un número plausible presentado como hallazgo es un fallo g
 
 ## 1. La foto de conjunto — dónde se va el dinero
 
-**Variante E · 1–14 nov · dos personas · TODO incluido (con vuelos) · escenario camping.** Reparto del
+**la ruta · 1–14 nov · dos personas · TODO incluido (con vuelos) · escenario camping.** Reparto del
 gasto de la pareja en euros:
 
 ```mermaid
 pie showData
-    title "Presupuesto total · Variante E · pareja · EUR · camping"
+    title "Presupuesto total · la ruta · pareja · EUR · camping"
     "Vuelo ida y vuelta x2" : 2732
     "Coche Namibia2Go Budget 12d" : 1800
     "Alojamiento 13 noches" : 570
@@ -143,7 +143,7 @@ flowchart TD
 
 **No se copia el consumo de nadie: se calcula.** Tres factores, cada uno con su banda:
 
-- **Distancia (Variante E)**: **~2.600 km** (○, sumando las etapas del `gantt` de `01`: Windhoek–
+- **Distancia (la ruta)**: **~2.600 km** (○, sumando las etapas del `gantt` de `01`: Windhoek–
   Spreetshoogte, bajada a Sesriem, Sesriem–Walvis, costa hasta Terrace Bay, Damaraland, subida a
   Etosha, safaris internos y vuelta a Windhoek; ningún día por encima de ~390 km).
 - **Consumo** del Hilux doble cabina cargado con tienda de techo: **11–13 l/100 km** (○, práctica
@@ -177,7 +177,7 @@ verificarse contra el documento primario (detalle en `15` §Tasas). Los tres par
 (Namib-Naukluft, Skeleton Coast, Etosha) son **premium**, así que el N$280 es la tarifa correcta para
 los tres.
 
-**La Variante E cruza tres zonas de pago:**
+**La la ruta cruza tres zonas de pago:**
 - **Namib-Naukluft** (Sesriem/Sossusvlei): ~2 unidades de 24 h (tarde de llegada + amanecer en Deadvlei).
 - **Skeleton Coast** (permiso de tránsito + Terrace Bay): ~1 unidad.
 - **Etosha**: 4 noches dentro → ~4 unidades.
@@ -250,7 +250,7 @@ colchón **~N$3.000 (~€150) pareja / ~€75 por persona**. No verificado.
 
 ```mermaid
 flowchart TD
-    T["<b>Total del viaje · Variante E · por persona · EUR · camping · <i>EUR</i></b>"]
+    T["<b>Total del viaje · la ruta · por persona · EUR · camping · <i>EUR</i></b>"]
     n0["Vuelo<br/>██████████████████ <b>1.366</b>"]
     n1["Coche<br/>████████████ <b>900</b>"]
     n2["Alojam.<br/>████ <b>285</b>"]
@@ -391,4 +391,4 @@ flowchart TD
   [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) ·
   [thebrief.com.na — rebaja julio 2026](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/).
 - **Seguro y vuelos**: cotizaciones cerradas (IATI Estrella; Gotogate/Mytrip/Booking) — ver README.
-- **Ruta y distancias**: [`13-itinerario.md`](13-itinerario.md) *(histórico del sur)* y [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md) *(Variante E vigente)*.
+- **Ruta y distancias**: [`13-itinerario.md`](13-itinerario.md) *(histórico del sur)* y [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md) *(la ruta vigente)*.

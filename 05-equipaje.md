@@ -1,6 +1,6 @@
 # 05 · Equipaje
 
-> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > La mochila que dictan los datos del dossier: qué llevar, qué dejar en casa y los tres micro-kits de los días señalados.
 >

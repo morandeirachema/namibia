@@ -1,6 +1,6 @@
 # 06 · Conducir en Namibia
 
-> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > El documento duro: el vuelco, el contrato, las presiones, la arena de Sossusvlei y las puertas de Sesriem.
 >
@@ -21,7 +21,7 @@
 > límites reales pueden ser iguales o peores— y **pide el contrato de Namibia2Go por escrito al
 > reservar** con tres preguntas concretas: bajos en Damaraland, número de ruedas de repuesto de la
 > Budget, y coste orientativo de rescate. Buena noticia de ruta: **las pistas malditas D3707/D3703
-> NO están en la Variante E.**
+> NO están en la ruta.**
 
 ---
 
@@ -58,7 +58,7 @@ flowchart TD
     n0["Khomas Windhoek<br/>█ <b>1,2</b>"]
     n1["Erongo Swakopmund<br/>██████ <b>5,8</b>"]
     n2["Kunene Damaraland<br/>███████ <b>7,4</b>"]
-    n3["Karas Fish River<br/>█████████████ <b>13,3</b>"]
+    n3["!Karas (sur, fuera de ruta)<br/>█████████████ <b>13,3</b>"]
     n4["Hardap Sossusvlei<br/>██████████████████ <b>18,9</b>"]
     T ~~~ n0
     n0 ~~~ n1
@@ -69,7 +69,7 @@ flowchart TD
 ```
 
 - **Hardap** (Sesriem/Sossusvlei): **119 de 628 = 18,9 %** → **1 de cada 5**
-- **!Karas** (Fish River, Lüderitz, Kolmanskop): **72 de 540 = 13,3 %**
+- **!Karas** (el sur profundo, fuera de esta ruta): **72 de 540 = 13,3 %**
 - **Kunene** (Damaraland, Twyfelfontein): **37 de 502 = 7,4 %**
 - **Erongo** (Swakopmund, Walvis Bay, Spitzkoppe): **125 de 2.170 = 5,8 %**
 - **Khomas** (Windhoek): **94 de 7.839 = 1,2 %** → **1 de cada 80**
@@ -258,7 +258,7 @@ nota de cabecera.)*
 
 > ### 🛑 Apréndete estos dos números: **D3707** y **D3703**
 > En esas carreteras **estás sin seguro** para bajos y rescate **pagues lo que pagues**.
-> ✅ *Alivio de ruta: ninguna de las dos está en la Variante E.*
+> ✅ *Alivio de ruta: ninguna de las dos está en la ruta.*
 
 - **Cláusula 11.3**: Asco puede **exigirte una garantía** antes de que salgas del país.
 
@@ -437,7 +437,7 @@ hay cobertura móvil en buena parte de Damaraland, el Namib y el sur profundo** 
 que existen la regla de la noche y la de los repuestos.
 
 > Dado que **Asco admite que no puede garantizar asistencia en 24 h en Damaraland**, plantearse un
-> **mensajero satelital** para las etapas de Damaraland y Fish River **no es paranoia**.
+> **mensajero satelital** para las etapas de Damaraland y el Namib **no es paranoia**.
 
 ---
 

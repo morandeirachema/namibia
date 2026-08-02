@@ -1,6 +1,6 @@
 # 03 · Alojamiento y tasas
 
-> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Las tarifas oficiales de NWR 2026/2027, leídas del PDF: campings, chalets, actividades y tasas de parque.
 >
@@ -56,7 +56,6 @@ flowchart TD
     n0["Khorixas<br/>█████████ <b>330</b>"]
     n1["Waterberg<br/>████████████ <b>430</b>"]
     n2["Okaukuejo/Halali/Namutoni<br/>████████████ <b>460</b>"]
-    n3["Hobas<br/>█████████████ <b>480</b>"]
     n4["Olifantsrus<br/>██████████████ <b>510</b>"]
     n5["Sesriem<br/>██████████████████ <b>670</b>"]
     T ~~~ n0
@@ -75,7 +74,6 @@ Precios **nov 2026 – jun 2027** (nuestra ventana) → *jul–oct 2027*:
 - **Namutoni** *(Etosha)* — N$460 (~€23) → *N$550* · **2 pax: N$920 (~€46)**
 - **Olifantsrus** *(Etosha)* — N$510 (~€26) → *N$510* · **2 pax: N$1.020 (~€51)**
 - **Sesriem** *(Sossusvlei)* — N$670 (~€34) → *N$670* · **2 pax: N$1.340 (~€67)**
-- **Hobas** *(Fish River Canyon)* — N$480 (~€24) → *N$480* · **2 pax: N$960 (~€48)**
 - **Waterberg** — N$430 (~€22) → *N$430* · 2 pax: N$860 (~€43)
 - **Khorixas** *(Damaraland)* — N$330 (~€17) → *N$330* · 2 pax: N$660 (~€33)
 
@@ -192,7 +190,7 @@ Llevamos 4x4 y puede que no haga falta, pero conviene releer las exclusiones del
 ## 🎫 Tasas de parques (de la 1ª pasada — ver `12-hallazgos-verificados.md`)
 
 Subieron un **80–100 % el 1 de abril de 2026**: **~N$280 (~€14) por adulto extranjero y día**
-en Etosha, Namib-Naukluft/Sossusvlei y Ai-Ais/Fish River Canyon, **más ~N$60 (~€3) de vehículo**,
+en Etosha, Namib-Naukluft/Sossusvlei y Skeleton Coast, **más ~N$60 (~€3) de vehículo**,
 cobrado **por parque y por cada 24 h desde la entrada**.
 
 **Presupuestar ~N$620 (~€31)/día** para dos adultos y coche, en cada parque.

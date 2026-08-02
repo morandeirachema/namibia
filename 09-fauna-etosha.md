@@ -1,6 +1,6 @@
 # 09 · Fauna del viaje
 
-> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > El índice de la guía de campo en PDF: 83 especies con foto, cómo reconocerlas y dónde y cuándo verlas.
 >

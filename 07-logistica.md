@@ -1,6 +1,6 @@
 # 07 · Logística de carretera
 
-> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Combustible, distancias, dinero, cobertura y emergencias — el documento que se consulta con el coche en marcha.
 >
@@ -44,7 +44,7 @@ Energía, Modestus Amutse:
 como dato**. 👉 **Recomprueba la semana antes de salir.**
 
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta E)*: un Hilux
-doble cabina cargado en los **~2.600 km de la Variante E** (banda 2.400–2.800), a **~11–13 l/100 km**,
+doble cabina cargado en los **~2.600 km de la ruta** (banda 2.400–2.800), a **~11–13 l/100 km**,
 quema **~290–365 l** → banda **N$6.336–9.828 (~€317–491)**, central **~N$7.956**. **Se presupuestan
 ~N$8.000 (~€400)** — el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
 2.800–3.200 km de la ruta con el sur.)*

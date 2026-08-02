@@ -1,6 +1,6 @@
 # 11 · Tus 34 pines de Google Maps
 
-> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > La lista del viajero, medida y triada: qué cabe, qué cuesta un desvío y qué choca con el seguro.
 >
@@ -26,7 +26,7 @@ flowchart TD
     W --> NE["EXTREMO NORESTE<br/>Tsumkwe<br/>Bushmanland"]
     W --> SE["SURESTE<br/>Kgalagadi<br/>❌ DESCARTADO<br/>no se cruza a Sudafrica"]
     W --> SW["EXTREMO SUROESTE<br/>Luderitz · Elizabeth Bay<br/>❌ DESCARTADO 17/07<br/>el sur quedo fuera entero"]
-    W --> C["CENTRO Y COSTA<br/>Etosha · Swakopmund<br/>Sossusvlei · Damaraland<br/>✅ LA RUTA · Variante E"]
+    W --> C["CENTRO Y COSTA<br/>Etosha · Swakopmund<br/>Sossusvlei · Damaraland<br/>✅ LA RUTA · la ruta"]
     style NW fill:#9d0208,color:#fff
     style NE fill:#9d0208,color:#fff
     style SE fill:#4a4a4a,color:#fff
@@ -37,9 +37,12 @@ flowchart TD
 **Los extremos son direcciones opuestas desde Windhoek.** No hay circuito que los una en dos
 semanas: cada uno es un viaje en sí mismo.
 
-**Decisiones ya tomadas que recortan el mapa** *(actualizado 17/07 — la última manda)*:
-- ❌ **El sur se quitó entero** (decisión final): la ruta es la **Variante E**, la clásica del norte
-- ❌ **No se cruza a Sudáfrica** → sureste fuera
+**Decisiones ya tomadas que recortan el mapa**:
+- ❌ **El sur se quitó entero** — Lüderitz, Kolmanskop, Fish River y los kokerbooms quedan para otro
+  viaje, y **ya no se documentan en este dossier**
+- ❌ **No se cruza a Sudáfrica** → el sureste, fuera
+- ❌ **Kaokoland (Epupa, Opuwo)**, fuera: ~4 días solo de conducción y sin cobertura de seguro
+
 
 Esto **no** es una crítica a la lista — es una lista excelente de Namibia. Es una **lista de deseos
 de país entero**, y el trabajo ahora es **triar**, no meterlo todo con calzador. Y hay motivos
@@ -122,14 +125,6 @@ páginas de indicaciones de los propios lodges**, y sirven para el descarte, no 
 👉 Al caer Kgalagadi, **el sureste desaparece del mapa** y los días vuelven al eje que ya está
 decidido.
 
-### 3. Elizabeth Bay ⚠️ — zona restringida de diamantes
-
-Está junto a Lüderitz, **dentro del Sperrgebiet** (zona vedada). Como Kolmanskop, ✅ que **exige
-permiso** — pero Elizabeth Bay es **más restringido**: no es un sitio al que se entre por libre.
-✅ **Resuelto abajo** (§Zonas restringidas): sí hay tour guiado obligatorio (N$3.630/persona,
-salidas 08:45 / 13:45 desde Lüderitz, copia de pasaporte 10 días antes). *Y en todo caso: **fuera
-de la ruta E** — el sur quedó descartado.*
-
 ### ⚠️ Y dos avisos menores
 
 - **Skeleton Coast National Park**: exige permiso, y **el sector norte es solo por concesión** (no
@@ -194,76 +189,6 @@ de la ruta E** — el sur quedó descartado.*
   Sesriem para el amanecer (ver `06`)
 - **Reserva natural de NamibRand** — 4,7★ (197). **Reserva internacional de cielo oscuro**
 
-### Kalahari y sur
-- **Bagatelle Kalahari Game Ranch** — hotel 3★, 4,6★ (738). Kalahari, zona de Mariental
-- **Mariental**
-- **Mata-Mata @ Kgalagadi** — 4,5★ (410) ⚠️ **SUDÁFRICA**, ver aviso arriba
-- **Canyon Roadhouse (Gondwana)** — hotel 3★, 4,6★ (1.318). Fish River *(sur descartado — el
-  precio ya no se investiga)*
-- **Cañón del río Fish** — 4,7★ (72) ✅ **sendero cerrado en noviembre**; mirador sí
-- **Quiver Tree Forest** — 3,8★ (51). Keetmanshoop
-- **Lüderitz** · **Elizabeth Bay** ⚠️ ver aviso arriba
-
----
-
-## 🧭 Cómo se tría esto
-
-Los cuatro extremos son **excluyentes entre sí** en 14 días. Hay que elegir **un** eje:
-
-```mermaid
-flowchart LR
-    subgraph A["OPCION A · Circuito clasico + sur"]
-        A1["Sossusvlei · Swakopmund<br/>Spitzkoppe · Twyfelfontein<br/>Etosha + Fish River<br/>Luderitz · kokerbooms"]
-    end
-    subgraph B["OPCION B · Norte profundo"]
-        B1["Etosha · Damaraland<br/>Brandberg · Kaokoland<br/>Epupa · Opuwo"]
-    end
-    subgraph C["OPCION C · Clasico sin sur"]
-        C1["Sossusvlei · costa<br/>Damaraland · Etosha<br/>con dias de sobra"]
-    end
-    A --> D{"Hay que elegir<br/>UNO"}
-    B --> D
-    C --> D
-    D --> G["✅ ELEGIDA: la C<br/>= VARIANTE E (ver 11)"]
-    D --> E["Epupa y Tsumkwe y Kgalagadi<br/>quedan fuera de los tres"]
-    style E fill:#9d0208,color:#fff
-    style G fill:#2d6a4f,color:#fff
-```
-
-> 🔄 **La elección ya está hecha (17/07/2026): la Opción C — que es la Variante E.** El triaje de
-> abajo se escribió con la Opción A (sur) sobre la mesa; se conserva porque las mediciones valen,
-> pero **la lista que manda es la del README** («Tus 34 pines, en una línea»).
-
-**Lo que encaja «gratis»** — están *de camino* en la Opción A y cuestan poco o nada:
-- ✅ **Joe's Beerhouse** (Windhoek, primera o última noche)
-- ✅ **Solitaire** (parada obligada de combustible camino de Sossusvlei)
-- ✅ **Sesriem Canyon** y **Duna 45** (están dentro del día de Sossusvlei)
-- ✅ **Quiver Tree Forest** (14 km de Keetmanshoop, que ya es parada del sur)
-- ✅ **Canyon Roadhouse** (es *el* alojamiento clásico de Fish River)
-- ✅ **Spitzkoppe** (está entre Swakopmund y Damaraland)
-- ✅ **Okonjima** (está justo en el eje Windhoek–Etosha; es una parada natural de vuelta)
-
-**Lo que cuesta un desvío pero es asumible:**
-- **Cape Cross** (norte de Swakopmund por la costa)
-- **Brandberg** (cerca del eje Spitzkoppe–Twyfelfontein)
-- **Waterberg** / **Hoba Meteorite** (eje Windhoek–Etosha, pero suman días)
-- **NamibRand** (sur de Sesriem; cielo oscuro espectacular)
-- **Bagatelle / Mariental** (Kalahari, en el eje Windhoek–sur)
-
-**Lo que es un viaje aparte:**
-- 🔴 **Epupa + Opuwo** (Kaokoland — y sin seguro de bajos)
-- 🔴 **Tsumkwe** (Bushmanland, extremo este — ~640 km, final de grava)
-- 🔴 **Mata-Mata / Kgalagadi** (Sudáfrica, cruce de frontera)
-- 🔴 **Harnas** (este, ~307 km — no lejísimos, pero dirección contraria al bucle norte)
-- 🟠 **Messum Crater**, **Skeleton Coast norte**, **Elizabeth Bay** (acceso restringido o guiado)
-
-> **Cómo acabó la tensión de fondo:** primero se decidió que el sur se quedaba; **la decisión final
-> (17/07) fue la contraria — el sur entero fuera, y sus días fueron a Etosha (Variante E)**.
-> Kaokoland y Epupa siguen fuera igualmente: ahora compiten contra las 4 noches de Etosha, y
-> pierden por la misma aritmética — y de propina te ahorras la zona donde el seguro no cubre.
-
----
-
 ## 🔎 Pines medidos — datos con fuente *(pasada del 17/07/2026)*
 
 Esto cierra la lista de «Lo que hay que verificar» que dejó la pasada anterior. Cada cifra lleva su
@@ -271,7 +196,7 @@ fuente y su marca: **✅ primaria** · **◐ secundaria** · **○ práctica com
 **N$ y €** (~N$20 = €1; el rand ZAR cotiza ~1:1 con el N$; los importes en US$ se convierten al
 cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
 
-### 🎫 Entradas y visitas guiadas *(de camino en la Opción A)*
+### 🎫 Entradas y visitas guiadas *(las que caen en la ruta)*
 
 - **Cape Cross — colonia de lobos marinos** ◐
   - Entrada **~N$150/persona (~€7,5) + ~N$50/coche (~€2,5)**; algunas reseñas citan ~N$80/persona
@@ -315,14 +240,6 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
 
 ### 🚫 Zonas restringidas y acceso guiado
 
-- **Elizabeth Bay — SOLO con tour guiado** ✅ (Sperrgebiet restringido)
-  - **N$3.630/persona (~€182)**, mínimo 2 personas, ~4 h, salidas **08:45 / 13:45** desde Lüderitz.
-  - **Requiere copia del pasaporte 10 días antes** (permiso NAMDEB / Policía). Tarifa válida
-    **1/01–31/12/2026**.
-  - **Kolmanskop** (el que sí encaja fácil): tours **lun-sáb 09:30 y 10:45**, **dom 10:00**; el
-    permiso va **incluido en el ticket**.
-  - Fuentes: [info-namibia — Elizabeth Bay tour](https://www.info-namibia.com/activities-and-places-of-interest/luederitz/elizabeth-bay-and-diamond-area-tour) ·
-    [namibweb — tours de Lüderitz](https://www.namibweb.com/ludtour.htm)
 
 - **Messum Crater — abierto al self-drive con permiso, pero desaconsejado** ◐
   - **Sigue abierto al self-drive:** la parte oeste del cráter cae dentro del **Dorob National
@@ -450,7 +367,7 @@ flowchart LR
 
 ## 💶 Coste por persona de las visitas «de camino» *(las baratas)*
 
-Las entradas que sí encajan en la Opción A son **calderilla** comparadas con un tour del Sperrgebiet.
+Las entradas que sí encajan en la ruta son **calderilla** comparadas con un tour del Sperrgebiet.
 El contraste, de un vistazo (N$/persona):
 
 ```mermaid
@@ -461,7 +378,6 @@ flowchart TD
     n2["Brandberg<br/>█ <b>270</b>"]
     n3["Waterberg dia<br/>█ <b>280</b>"]
     n4["Otjitotongwe<br/>███ <b>610</b>"]
-    n5["Elizabeth Bay<br/>██████████████████ <b>3.630</b>"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -472,9 +388,6 @@ flowchart TD
 ```
 
 > **Lectura:** Cape Cross, Brandberg y una tasa de parque son ~N$150–280 (~€7–14) por cabeza. El
-> tour de **Elizabeth Bay dispara a N$3.630 (~€182)** — es la única visita «cara» de la lista, y
-> encima con papeleo de 10 días. *Con el sur descartado, cayó con él: queda apuntada para el
-> hipotético viaje del sur.*
 
 ---
 

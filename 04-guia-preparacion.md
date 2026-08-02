@@ -1,6 +1,6 @@
 # 04 · Guía de preparación y de carretera
 
-> **Namibia · 31 oct – 15 nov 2026 · Variante E, la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > La cuenta atrás hasta la salida, el e-visa, las vacunas, las normas de conducción y lo que hay que llevar hecho desde casa.
 >
@@ -15,35 +15,9 @@ de dato verificado. Un hueco reconocido vale más que un número plausible.
 
 ---
 
-## 🚨 Tres cosas que cambian el viaje, antes de nada
+## 🚨 Dos cosas que cambian el viaje, antes de nada
 
-### 1. El sendero del Fish River Canyon está CERRADO en noviembre ✅
-
-La temporada del *Fish River Canyon Hike* es **mayo–septiembre**. Un viaje en noviembre cae
-**entero fuera**. Y aunque fuera temporada, tampoco podríais: NWR exige **mínimo 3 personas**
-para reservarlo, y sois dos.
-
-> Son 85 km, 4–5 días, con certificado médico de aptitud. En noviembre, el Fish River Canyon es
-> **un mirador, no una caminata**.
-
-### 🔄 Historial de decisión (la última manda: el sur NO va)
-
-*Primero se decidió mantener el sur; después, tras comparar con un itinerario real de referencia,
-se quitó entero. La ruta vigente es la **Variante E** (`01`). Esto queda como referencia:*
-
-### Decisión intermedia (superada): el sur se queda
-
-El cañón **no se cae del viaje** por esto. El trekking nunca fue el motivo real —y además exigía
-3 personas, así que ni en temporada— y el **mirador principal de Fish River es de los grandes de
-África**: 160 km de largo, hasta 27 de ancho y 550 m de profundidad.
-
-**Lo que sí cambia:** el sur pasa a valorarse por **miradores + Lüderitz + Kolmanskop + kokerbooms**,
-no por el trekking. Y eso es un **rodeo grande** que hay que medir en km y horas, no descartar.
-Está en investigación (ver `13-itinerario.md`).
-
-Fuente: https://www.nwr.com.na/activities/
-
-### 2. El vuelco no es un tópico: es el 37 % de los muertos ✅
+### 1. El vuelco no es un tópico: es el 37 % de los muertos ✅
 
 Del informe estadístico de la NRSC (2019), sobre 18.665 accidentes y 413 muertos:
 
@@ -59,7 +33,7 @@ flowchart TD
     n0["Khomas (Windhoek)<br/>█ <b>1,2</b>"]
     n1["Erongo (Swakopmund)<br/>██████ <b>5,8</b>"]
     n2["Kunene (Damaraland)<br/>███████ <b>7,4</b>"]
-    n3["Karas (Fish River)<br/>█████████████ <b>13,3</b>"]
+    n3["!Karas (sur, fuera de ruta)<br/>█████████████ <b>13,3</b>"]
     n4["Hardap (Sossusvlei)<br/>██████████████████ <b>18,9</b>"]
     T ~~~ n0
     n0 ~~~ n1
@@ -70,8 +44,7 @@ flowchart TD
 ```
 
 - **Hardap** (Sesriem/Sossusvlei): 119 de 628 = **18,9 %** — casi **1 de cada 5**
-- **!Karas** (Fish River, Lüderitz, Kolmanskop): 72 de 540 = **13,3 %** *(ya no se pisa en la
-  ruta E; se deja como contexto)*
+- **!Karas** (el sur profundo): 72 de 540 = **13,3 %** *(fuera de esta ruta; va como contraste)*
 - **Kunene** (Damaraland, Twyfelfontein): 37 de 502 = **7,4 %**
 - **Erongo** (Swakopmund, Spitzkoppe): 125 de 2.170 = **5,8 %**
 - **Khomas** (Windhoek): 94 de 7.839 = **1,2 %**
@@ -86,7 +59,7 @@ hay un vacío de datos 2020–2026), y **no desglosa por tipo de firme**, así q
 exactamente con nuestro itinerario.
 Fuente: informe NRSC 2019 · https://www.nrsc.org.na/page/downloads/
 
-### 3. La malaria SÍ afecta a Etosha ✅
+### 2. La malaria SÍ afecta a Etosha ✅
 
 El CDC lista transmisión de malaria en **Kavango, Kunene, Ohangwena, Omaheke, Omusati, Oshana,
 Oshikoto, Otjozondjupa y Zambezi**. Etosha se extiende por Kunene, Oshikoto, Oshana, Omusati y
@@ -550,32 +523,6 @@ para 4, menaje completo, nevera eléctrica, compresor y 2 ruedas de repuesto (ve
 
 ## 🦁 Normas, seguridad y trato
 
-### Kolmanskop necesita permiso — y el de fotógrafo es otro ticket ✅
-
-> 🕳️ **Fuera de la ruta E** — el sur quedó para otro viaje. Se conserva por si vuelve.
-
-Kolmanskop está **dentro de la zona restringida de diamantes**: se entra **con permiso**.
-Tarifas **etiquetadas «2026/2027» en la web del operador** (vigentes para el viaje):
-
-- Tour adulto estándar — **N$230 (~€12)**
-- Niños 6–14 — N$90 (~€5)
-- **Permiso de fotógrafo aficionado — N$480 (~€24)**
-- Tour de grupo (6+) — N$330 (~€17)
-
-**Horarios**: L–V 08:00–15:00 · S/D/festivos 08:00–13:00. Tours guiados L–S 09:30 y 11:00;
-D/festivos 10:00. Duran 45–60 min, **en inglés y alemán**.
-
-> 🎯 **Clave si vas a fotografiar:** el permiso de **N$480 (~€24)** es el que te da acceso **de
-> amanecer a atardecer**. El ticket normal de N$230 te encierra en la franja del tour — que es
-> exactamente **la luz dura del mediodía** que no quieres para las habitaciones llenas de arena.
->
-> Una fuente secundaria dice que el permiso de foto **hay que comprarlo con un día de antelación** y
-> que no se vende en la puerta; la web oficial no lo dice. 👉 **Cómpralo la víspera en Lüderitz**
-> (Desert Deli, esquina Bahnhof/Moltke) por si acaso.
-
-Las tasas de parque van **aparte**, «for the visitors' own account».
-Fuente: https://kolmanskuppe.com/tours-prices/
-
 ### Salir del coche en Etosha
 
 La norma de NWR dice, literal, que no puedes *«leave or hang out from the vehicle in any other place
@@ -610,8 +557,6 @@ guía es contexto; el vuelco en pista es el riesgo real.
 - **Multa por llegar tarde a la puerta** de un campamento: es infracción, pero no encontré el importe
   publicado
 - **Disponibilidad de combustible** dentro de los campamentos de parques: reportes sin confirmar
-- **Permiso del Fish River (N$540 pp)** y validez del certificado médico (40 días): son secundarias,
-  no las pude confirmar en NWR — da igual, en noviembre está cerrado
 - **Antelación real** con que se llenan Sesriem y Etosha: el inventario (44+6 parcelas) sí está
   verificado; la demanda, no
 - **Los tiempos de conducción del itinerario**: siguen sin existir. Ver `README`

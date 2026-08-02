@@ -177,10 +177,9 @@ flowchart LR
   de fauna y cielos limpios, con datos de estación — no de folletos.
 - 🌡️ **Calor: Etosha aprieta, el resto acompaña.** El norte a **~37–38 °C** de máxima — el safari se
   hace al amanecer y al atardecer, con siesta y charca iluminada de noche, que es como se hace bien
-  de todas formas. El desierto **Sesriem ~32,5 °C**, el **Fish River ~32 °C** (meseta), y la costa
-  fresca (Benguela): **Swakopmund/Walvis Bay ~25 °C** y **Lüderitz ~24,5 °C** de máxima en noviembre.
-  Los tres primeros venían de estación NOAA; **Lüderitz, Sesriem y el Fish River no tienen estación y
-  se cerraron con el reanálisis ERA5** (validado contra estaciones) *(ver [`15`](15-huecos-cerrados.md),
+  de todas formas. El desierto **Sesriem ~32,5 °C** y la costa fresca (Benguela):
+  **Swakopmund/Walvis Bay ~25 °C** de máxima en noviembre. Etosha y la costa vienen de **estación
+  NOAA**; Sesriem no tiene estación y se cerró con el **reanálisis ERA5**, validado contra estaciones *(ver [`15`](15-huecos-cerrados.md),
   secciones "La costa" y §ERA5)*. **Las noches, entre 12,7 °C (la costa) y 18,9 °C (Etosha)**:
   **forro polar, no plumas** — la lista completa de equipaje, en [`05`](05-equipaje.md), y la
   temperatura noche a noche en [`01`](01-itinerarios-dia-a-dia.md).
@@ -240,7 +239,7 @@ itinerario lo resuelve solo**. Una escala larga, o la parada gratis en ciudad de
 habrían disparado.
 
 **2 · Las fechas caen clavadas en la ruta.** Aterrizas el **1 de noviembre a las 13:20** y despegas
-el **14 a las 14:30**: **13 noches, 14 días** — exactamente la Variante E, con D1 el 1 y D14 el 14.
+el **14 a las 14:30**: **13 noches, 14 días** — exactamente la ruta, con D1 el 1 y D14 el 14.
 
 **3 · Y el calendario no podía salir mejor.** Sales el 31 de octubre pero **no duermes ni una noche
 en Namibia en octubre**: todas tus noches NWR caen en el **tramo barato** desde la primera, y el
@@ -575,7 +574,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 
 **🚗 La ruta y el dinero — para decidir y reservar**
 
-1. ⭐ [**`01-itinerarios-dia-a-dia`**](01-itinerarios-dia-a-dia.md) — **la Variante E día a día**: sol, temperatura, horarios, precios y qué se ve en cada charca. *El documento del viaje.*
+1. ⭐ [**`01-itinerarios-dia-a-dia`**](01-itinerarios-dia-a-dia.md) — **la ruta día a día**: sol, temperatura, horarios, precios y qué se ve en cada charca. *El documento del viaje.*
 2. 💶 [**`02-presupuesto`**](02-presupuesto.md) — el total partida a partida, lo cerrado y lo estimado, y qué cambia si vais 3 o 4
 3. 🛏️ [**`03-alojamiento-y-tasas`**](03-alojamiento-y-tasas.md) — tarifas oficiales de NWR 2026/2027 y tasas de parque
 
@@ -607,7 +606,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 **En la ruta E**: Joe's Beerhouse · Solitaire · Namib-Naukluft · Sesriem Canyon · Duna 45 ·
 Deadvlei · Walvis Bay · Swakopmund *(de paso)* · Cape Cross · Skeleton Coast · Twyfelfontein ·
 Etosha *(4 noches dentro)*. **Opcionales**: **Onguma** *(tu pin — capricho fuera de la puerta este,
-a cambio de no dormir dentro)* · Okonjima/AfriCat · Hoba · Waterberg *(los tres, de camino el D13)*. **Fuera esta vez**: todo el sur *(documentado en la Variante D por si vuelve)* · Spitzkoppe y
+a cambio de no dormir dentro)* · Okonjima/AfriCat · Hoba · Waterberg *(los tres, de camino el D13)*. **Fuera esta vez**: todo el sur *(quedó fuera del dossier; está en el historial de git por si vuelve)* · Spitzkoppe y
 Brandberg *(tampoco están en la ruta de referencia)* · NamibRand · Messum · Bagatelle ·
 Epupa/Opuwo *(descartado con números en `11`: ~730 km hasta Opuwo + ~180-200 km de grava C43 hasta Epupa = desvío de ~2 días cada sentido, y dentro de la zona sin cobertura de bajos)* · Tsumkwe · Harnas · Kgalagadi.
 ℹ️ Twyfelfontein y Duna 45 salen en Google como cerrados: **fallo del listado, ambos funcionan**.
