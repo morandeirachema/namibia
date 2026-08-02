@@ -9,7 +9,7 @@
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos · rinocerontes
 bebiendo de noche a diez metros · cuatro noches de safari en Etosha*
 
-Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 17·07·2026.
+Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 02·08·2026.
 
 </div>
 
@@ -375,10 +375,10 @@ cerrada y el presupuesto se estrecha de golpe.
 
 > ⚠️ **Ojo al calendario:** el coche son **12 días (1–13)** pero estás **13 noches (1–14)**. La
 > noche del **13 en Windhoek te quedas sin coche** → hotel y traslado al aeropuerto.
-> *Alternativa: añadir el día 13 (~€167) y devolverlo el 14 camino del aeropuerto — puede salir
+> *Alternativa: añadir el día 13 (~€150) y devolverlo el 14 camino del aeropuerto — puede salir
 > igual o más barato que hotel + dos traslados.*
 
-### 🎥 El coche por dentro — y qué te da exactamente la Comfort
+### 🎥 El coche por dentro — y qué enseña exactamente el vídeo
 
 ▶️ **[Namibia2Go — «Experience The Fully Equipped Hilux»](https://www.youtube.com/watch?v=LPNZ-l8y3Pg)**
 *· vídeo de la propia empresa*
@@ -387,14 +387,12 @@ cerrada y el presupuesto se estrecha de golpe.
 la web ofrece **dos versiones del mismo vehículo** y el vídeo no aclara cuál enseña. La diferencia
 se ve a simple vista:
 
-- **Budget** — dos tiendas **blandas** Tentco + cajas de camping
-- 🏆 **COMFORT** — dos tiendas de **carcasa rígida** + cocina a medida ← **la tuya** ✅
+- ✅ **BUDGET** — dos tiendas **blandas** Tentco + cajas de camping ← **la tuya**
+- **Comfort** — dos tiendas de **carcasa rígida** + cocina a medida *(«Not Available» para tus fechas)*
 
-> 👉 **Al ver el vídeo, fíjate en el techo:** si las tiendas son **hard shell** *(se abren solas,
-> tipo concha)* es la Comfort; si son de lona plegada, es la Budget.
->
-> *La carcasa rígida se monta en un minuto y aguanta mejor el polvo y el viento — con **11 noches
-> de tienda**, se nota.*
+> 👉 **Al ver el vídeo, fíjate en el techo:** si las tiendas son de **lona plegada**, ése es
+> exactamente tu coche. Si son **hard shell** *(se abren solas, tipo concha)* es la Comfort — pero
+> todo lo demás que enseña el vídeo (motor, nevera, mesa, menaje) es idéntico en la tuya.
 
 **Ficha verificada del vehículo** ✅ — 4x4 permanente · automático · **motor 2.8L GD-6 turbodiésel**
 · 5 plazas con tiendas para 4 · km ilimitados · **2 ruedas de repuesto** y **nevera eléctrica** ·
@@ -408,9 +406,10 @@ esas pistas.
 > **«01 Nov 2025 – 30 Jun 2026»**: **caduca antes de tu viaje**. La siguiente que publica es la alta
 > de julio a octubre de 2026. **Tu ventana cae en el año tarifario siguiente, que no está en la web.**
 >
-> Tus **€166,67/día son un presupuesto en vivo para tus fechas reales** — un ~15 % por encima de la
-> tarifa vieja convertida, coherente con el cambio de año tarifario. 👉 **Fíate de tu presupuesto,
-> no del precio de la web.** *(Es exactamente la misma trampa que la tarifa de NWR.)*
+> Tus **precios en vivo para tus fechas reales (€150,00/día la Budget · €166,67 la Comfort) son el
+> presupuesto que vale** — un ~15 % por encima de la tarifa vieja convertida, coherente con el
+> cambio de año tarifario. 👉 **Fíate de tu presupuesto, no del precio de la web.** *(Es
+> exactamente la misma trampa que la tarifa de NWR.)*
 
 *Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)*
 
