@@ -66,6 +66,7 @@ Desarrollo completo de las variantes. **Ventana real: primera quincena de noviem
 > **Reglas aplicadas en todos:** grava a **80 km/h como techo** (media real 60–70) · asfalto ~105 ·
 > **60 km/h en parques** · **llegar a las 18:00** (en tu quincena anochece entre las 19:04 y las
 > 19:20 según día y lugar — cálculo ☀️, ver la Variante E) · **nunca de noche**. Ver `04` y `05`.
+> 🧮 **El cálculo de tiempos de la E, día a día y con la aritmética a la vista, está en `04` §0-bis.**
 
 ---
 

@@ -70,6 +70,43 @@ https://www.safaribookings.com/blog/guide-to-driving-in-namibia-10-useful-self-d
 
 ---
 
+## 0-bis. Los tiempos de la VARIANTE E, calculados con esas reglas *(añadido 02/08/2026)*
+
+La ruta del viaje, día a día, con la aritmética a la vista. **Ojo a la base**: las distancias son
+las estimaciones ◐/○ de `11` (varias sin verificar — ver la nota de cabecera), así que esto es
+**cálculo transparente sobre datos marcados**, no medición. Método: asfalto a 100 · grava al techo
+de 80 con **media real 60–70** · parque a 60 · **+30–60 min de paradas** por día de tránsito · un
+pinchazo = +1 h que no está en ninguna cifra.
+
+- **D2 · Windhoek → Spreetshoogte (~180–200 km ◐)** — 87 km asfalto (~50 min) + ~95–115 km de
+  grava (a 60–70: 1h25–1h55) → **mínimo ~2h15 · realista 3h–3h30 con paradas** ✓ *(coincide con `11`)*
+- **D3 · Spreetshoogte → Solitaire → Sesriem (~150–170 km ◐)** — grava entera (a 60–70:
+  2h10–2h50) + parada en Solitaire → **realista ~2h30–3h** ✓
+- **D4 · Sossusvlei (130 km, dentro del parque ✅)** — ~120 km a 60 = 2h de volante repartidas en
+  el día + arena + dunas a pie → **día completo, y por eso se madruga a las ~05:10**
+- **D5 · Sesriem → Walvis Bay (~270 km ✅)** — grava y paso del Kuiseb (a 60–70: 3h50–4h30) +
+  paradas → **realista ~4h30–5h30** ✓ *(el «~5h30» de `11` es el honesto)*
+- **D7 · Walvis Bay → Cape Cross → Terrace Bay (~390 km ○, km sin verificar)** — el día con hora
+  límite: a 70–80 de media son **~5h–5h30 SOLO de volante**, más Cape Cross (~1 h) y el trámite de
+  Ugabmund. **Cuenta atrás desde las 15:00 de la puerta: salir de Walvis a las 7:30 deja ~6h30 de
+  margen — justo.** Un pinchazo aquí se come el margen entero: sal a las 7:00.
+- **D8 · Terrace Bay → Twyfelfontein → Hoada (~300 km ○)** — grava (a 60–70: 4h20–5h) + grabados →
+  **realista ~5h de volante + visita** ✓
+- **D9 · Hoada → Okaukuejo (~315 km ◐)** — grava hasta Kamanjab, asfalto después (firme de la C38
+  por confirmar, `11`) → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
+- **D10–D12 · Etosha (60–90 km/día ✅)** — a 60 km/h y parando en cada charca: **el día entero ES
+  el trayecto** — no son horas de tránsito, son horas de safari
+- **D13 · Namutoni → Windhoek (~550 km ○, estimación propia)** — asfalto a ~100 → **mínimo ~5h30 ·
+  realista 6h–6h30 con comida en Otjiwarongo**. Saliendo al amanecer (~06:10), en Windhoek a media
+  tarde ✓
+
+> **Lectura de conjunto:** ningún día de la E baja de las reglas — el único que exige disciplina de
+> reloj es el **D7** (puerta a las 15:00) y el único largo de verdad es el **D13** (asfalto). Las
+> franjas de `11` son coherentes con este cálculo; donde los km están sin verificar (D7, D8, D13),
+> el tiempo hereda la incertidumbre — **Tracks4Africa antes de apurar horarios**.
+
+---
+
 ## 1. Las distancias, con su firme y su fuente
 
 Números **por carretera**. Marco la fuente y la confianza de cada uno. Los del **eje central**
