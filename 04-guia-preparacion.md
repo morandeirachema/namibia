@@ -15,51 +15,9 @@ de dato verificado. Un hueco reconocido vale más que un número plausible.
 
 ---
 
-## 🚨 Dos cosas que cambian el viaje, antes de nada
+## 🚨 Lo que hay que saber antes de nada
 
-### 1. El vuelco no es un tópico: es el 37 % de los muertos ✅
-
-Del informe estadístico de la NRSC (2019), sobre 18.665 accidentes y 413 muertos:
-
-- «Vuelco de vehículo único»: **857 accidentes (4,6 %)** … pero **152 muertos = 36,8 % del total**
-- Letalidad: **17,7 muertos por cada 100 vuelcos**, frente a **0,64** en el choque más frecuente
-- O sea: un vuelco es **~28 veces más letal por evento** que el accidente más común
-
-**Y se concentra justo en nuestra ruta.** Porcentaje de accidentes que son vuelcos, por región:
-
-```mermaid
-flowchart TD
-    T["Vuelcos como % de todos los accidentes<br/>registrados, por region"]
-    n0["Khomas (Windhoek)<br/>1,2"]
-    n1["Erongo (Swakopmund)<br/>5,8"]
-    n2["Kunene (Damaraland)<br/>7,4"]
-    n3["!Karas (sur, fuera de ruta)<br/>13,3"]
-    n4["Hardap (Sossusvlei)<br/>18,9"]
-    T ~~~ n0
-    n0 ~~~ n1
-    n1 ~~~ n2
-    n2 ~~~ n3
-    n3 ~~~ n4
-    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
-```
-
-- **Hardap** (Sesriem/Sossusvlei): 119 de 628 = **18,9 %** — casi **1 de cada 5**
-- **!Karas** (el sur profundo): 72 de 540 = **13,3 %** *(fuera de esta ruta; va como contraste)*
-- **Kunene** (Damaraland, Twyfelfontein): 37 de 502 = **7,4 %**
-- **Erongo** (Swakopmund, Spitzkoppe): 125 de 2.170 = **5,8 %**
-- **Khomas** (Windhoek): 94 de 7.839 = **1,2 %**
-
-> **El peligro no es el tráfico de la capital. Es la pista vacía, rápida y preciosa donde te sientes
-> más seguro.** En la región de Sossusvlei, uno de cada cinco accidentes es un vuelco; en Windhoek,
-> uno de cada ochenta.
-
-⚠️ **Dos límites honestos:** el informe es de **2019** (es el último completo que publica la NRSC —
-hay un vacío de datos 2020–2026), y **no desglosa por tipo de firme**, así que la región es un
-*proxy* de «grava y remoto», no una prueba de causalidad. El proxy, aun así, es brutal y coincide
-exactamente con nuestro itinerario.
-Fuente: informe NRSC 2019 · https://www.nrsc.org.na/page/downloads/
-
-### 2. La malaria SÍ afecta a Etosha ✅
+### La malaria SÍ afecta a Etosha ✅
 
 El CDC lista transmisión de malaria en **Kavango, Kunene, Ohangwena, Omaheke, Omusati, Oshana,
 Oshikoto, Otjozondjupa y Zambezi**. Etosha se extiende por Kunene, Oshikoto, Oshana, Omusati y
@@ -282,284 +240,46 @@ certificado a quien venga de —o **transite 12 h por**— un país de riesgo.
 
 ---
 
-## 🚗 Conducir en Namibia
+## 👉 Y lo de la carretera, en su documento
 
-### El límite: la ley dice 100, tu contrato dice 80, y la carretera a veces dice 50 ✅
-
-Ya está en `12`: **80 km/h contractuales en grava**, con **caja negra** que registra velocidad y
-posición y **se lee tras un accidente**. Superarlo **anula el seguro**.
-
-⚠️ *Matiz de contrato: eso está documentado en los contratos de **Asco y African Tracks** (ver
-`06`). La cláusula concreta del contrato vigente —**Namibia2Go Budget**— sigue **sin verificar**:
-pídela al reservar. Mientras tanto, asume el 80 igualmente: es el número que te separa del 37 %.*
-
-Cruzado con el dato de vuelcos de arriba, el 80 deja de ser burocracia: es el número que te separa
-del 37 % de los muertos.
-
-### La mecánica: por qué la grava vuelca un Hilux y el asfalto no ○
-
-*(Práctica común, sin fuente citable. Lo marco como tal.)*
-
-- La grava tiene **una fracción del agarre** del asfalto. El coche empieza a irse **mucho antes** de
-  lo que el cuerpo espera, porque el motor y la postura van igual que en asfalto.
-- El error clásico es la **sobrecorrección**: la trasera se va, corriges de más, el coche cruza,
-  agarra de golpe al morder tierra firme o el arcén — y **un 4x4 alto y cargado, con tienda de techo
-  arriba, tiene el centro de gravedad donde no debe**. Ahí es donde vuelca.
-- **La tienda de techo empeora la física**: peso arriba del todo.
-- **Corrugado** (*washboard*): produce esa vibración en que el coche parece «flotar». Estás con
-  agarre intermitente. La tentación es acelerar porque a más velocidad vibra menos: es exactamente
-  la trampa.
-- **Frena antes**, no dentro. Nada de gestos bruscos: dirección, freno y acelerador, todo suave.
-
-### El neumático: hazle caso al depósito, no a internet ✅
-
-Pide en la entrega que te digan **las presiones en frío recomendadas para TU vehículo y TU carga**,
-y **apúntalas**. Varían con el modelo y el peso; la cifra de un foro no vale para tu coche.
-
-**Arena de Sossusvlei/Deadvlei** ◐: los últimos ~5 km desde el aparcamiento 2WD son arena blanda, de
-los que los ~4 finales exigen 4x4 de verdad.
-- Mete **4H ANTES** de entrar en la arena, no cuando ya estés atascado
-- **Desinfla en el aparcamiento 2WD, no antes**: los ~60 km desde la puerta de Sesriem son buen
-  asfalto y hacerlos con poca presión es como destrozas las ruedas
-- Mantén inercia, **métete en las roderas** del de delante, no pares en subida, no patines
-- Si te encajas, **marcha atrás por tus propias huellas** suele funcionar antes que ponerse a cavar
-- **Reinfla en cuanto pises duro**; en Sesriem hay aire
-
-> ⚠️ **Y esto puede cambiar antes de ir:** el 1 de mayo de 2026 se anunció una **prohibición al
-> self-drive** hacia Deadvlei… y se **revirtió al día siguiente**. La nota del MEFT del 2 de mayo
-> dice que *«Deadvlei will remain accessible to tour guides registered with the Namibia Tourism
-> Board and to self-drive visitors with 4x4 vehicles»*.
->
-> A 16/07/2026 **el self-drive está permitido**, pero **ya ha bailado una vez en tres meses**.
-> 👉 **Reconfírmalo ~4 semanas antes = primeros de octubre de 2026.**
-> Fuente: https://www.tourismupdate.com/article/namibia-restores-self-drive-access-to-deadvlei
-
-### No conduzcas de noche
-
-El consejo es bueno y está corroborado, pero **con la fuente puesta en su sitio**:
-
-- **El dato que sí aguanta** ✅: NRSC 2019, tabla 6 — *«Most crashes occurred between 16:00 - 19:59
-  (4.811)»*, y tabla 11: **121 de 413 muertos (29,3 %)** en esa franja.
-- **El anochecer en Windhoek en tu ventana (1–15 nov) es ~19:03–19:12** (ocaso recalculado en `15`
-  para las fechas reales; el ~19:16 antiguo era de finales de mes), y en **la costa se alarga hasta
-  ~19:20** — el sol día a día, parada a parada, está en `01`. Es decir: la franja más mortal del
-  país **coincide con tu último tramo del día**, y a comienzos de noviembre anochece **~15 min
-  antes** que a fin de mes — un motivo más para llegar con luz de sobra.
-- ❌ **Lo que NO puedes citar**: el FCDO británico sí dice *«avoid driving at night outside towns,
-  as wildlife and livestock are serious hazards»*, **pero ese punto está dentro de una lista
-  encabezada por «During the rainy season from January to April»**. No es consejo anual: presentarlo
-  como tal es estirar la fuente. Refutado 0–2 en verificación.
-
-**Regla práctica:** planifica llegar **con luz**, y trata el atardecer como hora punta de riesgo,
-no como «un ratito más».
-
-### Ruedas de repuesto: lo que de verdad dice el FCDO
-
-❌ **Refutado 0–2**: la idea de que el FCDO recomienda «llevar 2 repuestos en pista» **todo el año**.
-El texto real es:
-
-> *«During the rainy season from January to April, many gravel roads deteriorate. You should: not go
-> faster than 80 km/h · carry 2 spare tyres for punctures · carry plenty of water · check the road
-> conditions before setting off · avoid driving at night outside towns…»*
-
-La lista **está condicionada a la temporada de lluvias de enero a abril**. En toda la página, «spare»
-solo aparece ahí. **No existe una recomendación FCDO incondicional de llevar dos repuestos.**
-
-✅ **Lo que sí es cierto y relevante:** la ficha de **tu Namibia2Go Budget lista 2 ruedas de
-repuesto de serie** (ver README) — justo lo sensato con ~2.600 km de grava por delante, **por
-criterio propio**, no porque lo mande el FCDO. *(Asco, la descartada, también las incluía: es
-práctica del sector.)* ⚠️ Una ficha web no es una garantía: **pide por escrito al reservar que tu
-unidad concreta sale con las dos.**
-
-👉 **En la entrega**: que te enseñen físicamente el gato, la llave, **los dos repuestos**, el
-compresor y las herramientas. Antes de salir del depósito.
-
----
-
-## ⛽ Logística de carretera
-
-### El mito de la tarjeta ❌→✅
-
-> ### La gasolinera SÍ te acepta la tarjeta. Lo que no acepta es «a crédito».
-
-Este es el bulo mejor extendido del viaje a Namibia, y nació de **leer mal una frase**.
-
-- La web del Namibia Tourism Board dice: *«Please note, service stations **do not accept credit for
-  petrol**»*.
-- En inglés del sur de África, *«credit»* en una gasolinera significa **comprar a cuenta / con
-  tarjeta de carburante de la vieja escuela**. **No significa tarjeta de crédito.**
-- **La misma página** dice: *«American Express, Diners Club, MasterCard and Visa are accepted»* y
-  *«credit cards are also accepted throughout the country, though not in every case»*.
-- Y la autoridad de pagos lo confirma **desde 2010**: la Payment Association of Namibia (licenciada
-  por el Banco de Namibia) publicó *«USE OF CREDIT AND DEBIT CARDS FOR FUEL PURCHASES IN NAMIBIA»*,
-  anunciando que **se descontinuaban las petrol cards** y que el público **podría pagar el
-  combustible con tarjeta**.
-
-**Traducción práctica:** lleva efectivo igualmente —cobertura, averías de datáfono, sitios remotos—
-pero **no planifiques el viaje como si fuera un país de solo-efectivo**, porque no lo es.
-Fuentes: https://visitnamibia.com.na/currencies/ · https://www.bon.com.na/
-
-### Te sirven ellos, y se propina ○
-
-No hay autoservicio. Un empleado te llena el depósito, limpia el parabrisas y comprueba el aceite si
-se lo pides. **Se propina** — billetes pequeños, en dólares namibios.
-
-### Combustible y tramos sin gasolinera ◐
-
-⚠️ **El precio cambia CADA MES en Namibia.** Cualquier cifra de julio de 2026 **no vale** para
-noviembre. **Recomprueba la semana antes de salir.**
-
-- **Solitaire** es el salvavidas del tramo de Sossusvlei — y también su famosa tarta de manzana
-- ○ **Sin confirmar**: hay reportes de falta de combustible en campamentos de NWR dentro de parques.
-  **Planifica como si fuera cierto**: repostar **siempre que puedas**, no cuando lo necesites.
-  No pude verificarlo.
-
-👉 **Regla:** depósito lleno al salir de cada pueblo con gasolinera. La autonomía sobrante es gratis;
-quedarse tirado, no.
-
-### La Línea Roja: la carne va al norte, nunca al sur ◐
-
-La **Red Line** es una doble valla veterinaria de 1.250 km que separa el norte (con fiebre aftosa)
-del sur certificado para exportación. **Pasa por el límite SUR de Etosha.**
-
-```mermaid
-flowchart LR
-    O["Otjiwarongo · Outjo<br/>compras la carne"] -->|" SI puedes<br/>subir carne cruda"| E["ETOSHA<br/>zona infectada"]
-    E -->|" NO puedes<br/>bajar carne cruda"| S["Sur<br/>zona certificada"]
-    E --> X["Cometela o cocinala<br/>ANTES de salir"]
-    style E fill:#e85d04,color:#000
-    style X fill:#2d6a4f,color:#fff
-```
-
-> ⚠️ **Ojo a la dirección: hay una web muy citada de Etosha que lo cuenta AL REVÉS.** La carne cruda
-> puede entrar en la zona infectada pero **no salir** de ella.
-
-- **Puedes** subir carne cruda de Otjiwarongo/Outjo **hacia** Etosha
-- **No puedes** bajarla cuando salgas hacia el sur: te la confiscan y destruyen
-- Controles relevantes: **límite sur de Etosha**, y **Palmwag** bajando a Damaraland
-- La carne **cocinada** suele pasar; envasados al vacío y biltong, normalmente bien
-
-👉 **Plan:** compra el braai en Otjiwarongo subiendo, y **cómetelo todo antes de salir de Etosha
-hacia el sur**. No llenes la nevera de filetes crudos para el viaje de vuelta.
-**Declara siempre**: al turista que declara no se le multa, pero **saltarse un control veterinario es
-delito**.
-
-### Dinero, cobertura y emergencias
-
-- **ZAR sirve en Namibia; el NAD no sirve en Sudáfrica** ✅ (el NAD está vinculado al rand 1:1)
-- **MTC** es la única opción realista de cobertura ◐ — y **hay tramos enteros de la ruta sin señal**
-- ○ **Comunicador satelital** (Garmin inReach o similar) si quieres margen real: Sossusvlei,
-  Damaraland y buena parte de la ruta no tienen cobertura
-- ⚠️ **El 10111 es una trampa**: es el número de policía **sudafricano**, no el namibio. Guardar los
-  namibios **antes** de volar.
-
----
-
-## 🎒 Equipaje
-
-### ❄️→🔥 Corrección de premisa: las noches de noviembre NO son frías ◐
-
-La idea de «noches heladas en el desierto» es un dato de **junio/julio** mal aplicado a noviembre.
-Cifras **de estación**, no de folleto *(NOAA GHCN y ERA5 — el detalle y la validación, en `15`; el
-día a día de la ruta, en `01`)*:
+Este documento acaba donde arranca el viaje. Lo que se consulta **con el coche ya en marcha** vive
+en sus propios documentos, para no contarlo dos veces:
 
 ```mermaid
 flowchart TD
-    T["Media de maximas y minimas de noviembre<br/>donde duermes · grados C"]
-    n0["Windhoek<br/>31,2 / 16,3"]
-    n1["Sesriem<br/>32,5 / 15,5"]
-    n2["Costa (Walvis)<br/>25 / 12,7"]
-    n3["Etosha<br/>37,1 / 18,9"]
-    T ~~~ n0
-    n0 ~~~ n1
-    n1 ~~~ n2
-    n2 ~~~ n3
-    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
+    P["04 · Esto que estas leyendo<br/>lo que hay que dejar hecho<br/>ANTES de salir de casa"]
+    P --> C["06 · Conducir en Namibia<br/>el vuelco y sus numeros, los 80 km/h<br/>presiones, arena, puertas de Sesriem"]
+    P --> L["07 · Logistica de carretera<br/>gasolineras, dinero y tarjetas<br/>Linea Roja, cobertura, emergencias"]
+    P --> E["05 · Equipaje<br/>que llevar, que dejar en casa<br/>enchufe tipo M, botiquin"]
+    P --> A["08 · Comida y compras<br/>super parada a parada<br/>y la ley del alcohol"]
+    style P fill:#7a3a22,color:#fff
 ```
 
-- **Windhoek** ✅ — 31,2 máx / **16,3 mín** *(GHCN 68110, 1957–2025)*
-- **Sesriem** ◐ — ~32,5 máx *(ERA5; la real ronda 33–34, y NWR daba 34,1)* / **15,5 mín** *(NWR ◐)*
-- **Costa, Walvis Bay** ✅ — 25,0 máx / **12,7 mín** *(GHCN 68098, 1990–2025)*
-- **Etosha, Okaukuejo** ✅ — 37,1 máx / **18,9 mín** *(GHCN, 1975–2022)*
-
-> Todas las noches del viaje caen entre **12 y 19 °C**: eso es **forro polar y pantalón largo**, no
-> plumas. **Deja en casa el plumas, los térmicos, el gorro y los guantes**: son peso muerto en el
-> poco sitio de una tienda de techo. *(La lista completa, en `05`.)*
-
-**El problema real de tu ventana de noviembre es el CALOR**, no el frío: **37 °C en Etosha** y
-32–34 en el desierto, y una tienda de techo al sol **es inhabitable hasta bien entrada la noche**.
-
-**El frío que sí hay que llevar es el de la costa**, no el del desierto: Swakopmund y Walvis Bay
-tienen la corriente de Benguela y son otra cosa.
-
-### El enchufe: tipo M, y tu adaptador europeo te va a fallar ◐
-
-- Namibia: **220–230 V / 50 Hz** → tus cargadores españoles funcionan. Necesitas **adaptador**,
-  **nunca** transformador.
-- El estándar oficial es **tipo M**: el sudafricano gordo de **tres clavijas redondas de 8 mm**.
-- **Tu Schuko español (tipo F) NO entra en un tipo M.**
-- Lo bueno: los **tipo C** (Europlug fino) están por todas partes, y lo construido/reformado después
-  de 2018 suele llevar tipo N, que acepta tipo C.
-
-> **Regla:** cualquier cargador con **clavija fina de dos pines** suele entrar tal cual; **cualquier
-> cosa con cuerpo gordo de Schuko, no**.
->
-> 👉 **Compra DOS adaptadores tipo M antes de salir** — no se venden en supermercados españoles,
-> hay que pedirlos online. Es el fallo tonto más probable del viaje.
-
-Los 12V del coche se saltan el problema entero.
-
-### Lo que el coche ya incluye — y el inventario que hay que pedir POR ESCRITO ✅
-
-La ficha de **tu Namibia2Go Budget** lista: 2 tiendas de techo Tentco, mesa, 4 sillas, ropa de cama
-para 4, menaje completo, nevera eléctrica, compresor y 2 ruedas de repuesto (ver README).
-
-> ⚠️ Una ficha web no es un inventario firmado. 👉 **Pide a Namibia2Go el inventario detallado POR
-> ESCRITO al reservar** (📞 +264 61 427 220 · [namibia2go.com](https://namibia2go.com)) y no
-> compres nada que ya venga. *(La lección viene de Asco, la descartada, cuyo listado acababa en un
-> «etc.» que no es un inventario.)*
-
----
-
-## 🦁 Normas, seguridad y trato
-
-### Salir del coche en Etosha
-
-La norma de NWR dice, literal, que no puedes *«leave or hang out from the vehicle in any other place
-than in a rest camp or an assigned camping site»*.
-
-❌ **Pero presentarlo como «prohibición absoluta» fue refutado 0–2.** El texto **estatutario** real
-(GN 240 de 1976, reg. 13(a), bajo la Nature Conservation Ordinance de 1975) añade una excepción que
-el folleto de NWR **se salta**:
-
-> *«…except in a rest camp or designated camping site **save for a sound reason which he/she must be
-> able to substantiate**.»*
-
-**En la práctica no cambia tu comportamiento** —te quedas dentro del coche— pero sí cambia el
-titular: hay una excepción por causa justificada que tienes que poder acreditar. No es un absoluto.
-
-### Alcohol: los sábados ✅
-
-Las bottle stores y las secciones de licores **cierran domingos y festivos por ley**.
-👉 **Compra el sábado** lo que quieras beber el domingo.
-
-### Y lo que más probablemente te mate no es ni el crimen ni los animales ✅
-
-Es **la carretera**. Lo dice explícitamente el MAEC en su ficha de Namibia. Todo lo demás de esta
-guía es contexto; el vuelco en pista es el riesgo real.
+- **El vuelco** —el 37 % de los muertos del país con el 4,6 % de los accidentes, y concentrado en
+  las regiones por las que pasáis— está desarrollado en [`06-conduccion`](06-conduccion.md), con el
+  desglose por región y los límites honestos del dato.
+- **Los 80 km/h contractuales**, las presiones en frío, la arena de Sossusvlei y las puertas de
+  Sesriem: también en [`06`](06-conduccion.md).
+- **El mito del «solo efectivo» en gasolineras**, el reparto de repostajes, la Línea Roja
+  veterinaria y los teléfonos de emergencia: en [`07-logistica`](07-logistica.md).
+- **Los adaptadores tipo M** —el fallo tonto más probable del viaje— y el resto del petate: en
+  [`05-equipaje`](05-equipaje.md).
+- **Que las bottle stores cierran los domingos**, y tus dos domingos de viaje: en
+  [`08-comida-compras-y-regalos`](08-comida-compras-y-regalos.md).
 
 ---
 
 ## 🕳️ Lo que NO pude verificar — no lo trates como cerrado
 
-- **Coste de rescate/grúa** desde una pista remota: la responsabilidad es segura (ver `12`), el
-  precio no lo pude sacar de ninguna fuente
-- **Multa por llegar tarde a la puerta** de un campamento: es infracción, pero no encontré el importe
-  publicado
-- **Disponibilidad de combustible** dentro de los campamentos de parques: reportes sin confirmar
+*(Solo lo de este documento: los huecos de carretera están en [`06`](06-conduccion.md) y
+[`07`](07-logistica.md), y el inventario completo de lo que falta, en
+[`15`](15-huecos-cerrados.md).)*
+
 - **Antelación real** con que se llenan Sesriem y Etosha: el inventario (44+6 parcelas) sí está
   verificado; la demanda, no
-- **Los tiempos de conducción del itinerario**: siguen sin existir. Ver `README`
+- **Si el permiso internacional de conducir es exigible de verdad** con carnet español: la fuente
+  es ◐ y conviene sacarlo igual, que cuesta poco
+- **El coste de la opción de búsqueda y salvamento** del seguro IATI: sin cotizar
 
 ---
 
