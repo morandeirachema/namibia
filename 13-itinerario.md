@@ -72,7 +72,7 @@ https://www.safaribookings.com/blog/guide-to-driving-in-namibia-10-useful-self-d
 
 ---
 
-## 0-bis. Los tiempos de la VARIANTE E, calculados con esas reglas *(añadido 02/08/2026)*
+## 0-bis. Los tiempos de la ruta, calculados con esas reglas
 
 La ruta del viaje, día a día, con la aritmética a la vista. **Ojo a la base**: las distancias son
 las estimaciones ◐/○ de `01` (varias sin verificar — ver la nota de cabecera), así que esto es
