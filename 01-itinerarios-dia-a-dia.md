@@ -281,13 +281,22 @@ gantt
   del parque)* — la cifra más alta del viaje. **A mediodía no se hace safari: piscina** ○
 - ☀️ amanecer **06:12** · anochecer **19:06** (Halali) — *dentro del campamento, del ocaso al
   amanecer: la charca iluminada ES el plan de la noche*
-- 🚧 **Obras — el detalle, actualizado 03/08**: están **asfaltando la pista Okaukuejo–Halali–
-  Namutoni**. En 2025 el MEFT desvió el tráfico **por la carretera de Gemsbokvlakte** y cerró la
-  salida de Okaukuejo hacia Halali; en 2026 seguía habiendo bypass. Las charcas de **Nebrownii y
-  Kapupuhedi quedaron inaccesibles** por la obra. ⚠️ **No hay nota oficial posterior a 2025:
-  llama a NWR Okaukuejo (+264 67 229 800) antes de ir.**
-- ✅ **Y el desvío no es un castigo**: pasa por **Gemsbokvlakte y luego Sueda–Salvadora–Charitsaub**,
-  que es el mejor tramo de borde de la depresión para **guepardo y león**
+- 🚧 **Obras Okaukuejo–Halali–Namutoni — CONFIRMADO que te afectan (act. 03/08, ◐)**: el MEFT
+  reconstruye la pista central para asfaltarla, y ya hay **nota oficial de 2026** —«Traffic deviation
+  via Gemsbokvlakte road from Okaukuejo to Halali» *(meft.gov.na/news/335)*, con aviso paralelo de
+  NWR— que fija un **desvío OBLIGATORIO desde el 2 de junio de 2026 y hasta julio de 2027**. Tu
+  ventana de finales de noviembre **cae de lleno dentro**: da por hecho que la carretera directa
+  Okaukuejo→Halali estará **cerrada** y que irás por el bypass — no lo dejes como un «quizá».
+  *(No se pudo abrir la página oficial (403); las fechas las dan cinco fuentes secundarias que
+  concuerdan, por eso va en ◐. Confírmalo con NWR Okaukuejo **+264 67 229 800** por si hubiera
+  cambio de última hora.)*
+- 🚗 **El desvío en la práctica ◐**: desde Okaukuejo se sigue por grava hasta **~km 47** y ahí se
+  toma el **bypass nuevo y el Rhino Drive** hacia Halali. Las charcas accesibles en ese tramo se
+  reducen a **Gemsbokvlakte, Sueda y Salvadora**; **Nebrownii y Kapupuhedi quedan fuera** por la
+  obra. Recomiendan vehículo alto —tu Hilux cumple—. **No hay cifra oficial del sobrecoste en tiempo**:
+  cuéntalo despacio.
+- ✅ **Y el desvío no es un castigo**: **Gemsbokvlakte–Sueda–Salvadora** es de los mejores tramos de
+  borde de la depresión para **guepardo y león**
 - Charcas del camino · siesta en la piscina de Halali · charca de Halali al anochecer
 - 🛏️ **Camping Halali — N$920 (~€46)** ✅
 
@@ -464,5 +473,5 @@ y el safari como clímax final.
   cola Twyfelfontein → Hoada ≈ ~155 km** (Palmwag ~110 + ~50, o Grootberg ~130 + 25; «~2,5 h» del
   operador), fuentes convergentes. El **D8 sube así a ~370 km**: es un día largo. El ~85 km anterior
   quedó **refutado** (menor que la línea recta de ~95 km). Detalle y fuentes en `13`.
-- 🚧 **Las obras de Etosha** — confirmar con NWR al reservar *(afectan al D10,
-  Okaukuejo → Halali)*
+- 🚧 **Las obras de Etosha** — **desvío obligatorio Okaukuejo→Halali en vigor hasta julio de 2027**
+  *(afecta al D10; detalle y fuente en ese día)*. Confírmalo con NWR al reservar.

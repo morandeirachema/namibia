@@ -225,10 +225,18 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 - 📏 **La discrepancia del D9**: Hoada → Okaukuejo son **~315 km según `01` y ~340 sumando tramos
   citados**. Nadie las ha conciliado; hasta entonces, presupuesta combustible con los 340.
-- ⛽ **Si hay diésel en Terrace Bay** y en el bucle Ugabmund–Springbokwasser.
+- ⛽ **Diésel en Terrace Bay** — hay **surtidor con gasolina y diésel** junto a la recepción del
+  resort *(ioverlander + relatos de viajeros ◐/○)*, pero **se queda sin combustible a veces** y
+  conviene llevar efectivo: trátalo como respaldo, no como garantía. Sigue sin cerrar si hay diésel
+  en el bucle Ugabmund–Springbokwasser.
 - 🎫 **La tabla fina de tasas del MEFT**: el PDF primario sigue sin abrirse.
-- 🚧 **El estado de las obras Okaukuejo–Halali en noviembre de 2026**: la última nota oficial es de
-  abril de 2025. **Hay que llamar** *(NWR Okaukuejo, +264 67 229 800)*.
+- 🚧 **Obras Okaukuejo–Halali — ACTUALIZADO 03/08 (◐, antes «hay que llamar»)**: ya hay **nota
+  oficial de 2026** —MEFT `news/335` «Traffic deviation via Gemsbokvlakte road from Okaukuejo to
+  Halali», con aviso paralelo de NWR— que fija un **desvío obligatorio del 2 jun 2026 al jul 2027**,
+  así que en noviembre de 2026 estará activo con seguridad. La página oficial no se pudo **abrir**
+  (403); las fechas convergen en **cinco fuentes secundarias**, por eso queda en ◐. Lo que sigue
+  abierto: el **sobrecoste exacto en tiempo y km del desvío** —no lo publica nadie— y reconfirmar que
+  sigue en pie *(NWR Okaukuejo, +264 67 229 800)*.
 - 🕐 **Los horarios de salida de los safaris guiados de NWR**: no los publican en ninguna parte.
 - 🌡️ **Sin estación meteorológica**: Spreetshoogte, Terrace Bay y Hoada/Grootberg.
 
