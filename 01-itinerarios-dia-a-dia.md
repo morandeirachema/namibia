@@ -242,7 +242,7 @@ gantt
 - *Variante fácil: saltarse Terrace Bay, dormir en Henties/Swakopmund y entrar a Damaraland al día
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 
-### D8 · dom 8 — Skeleton Coast → Twyfelfontein → Hoada · **~300 km · ~5h** ◐
+### D8 · dom 8 — Skeleton Coast → Twyfelfontein → Hoada · **~370 km · ~5h30–6h de volante** ◐
 - 🌡️ **Hoada/Grootberg: sin dato de estación** *(ninguna de las 11 estaciones GHCN de Namibia cae
   cerca — ver `15`)*. Está entre la meseta (~31 °C) y el norte caluroso; Twyfelfontein, en el
   valle, es **notablemente más caluroso a mediodía** ○
@@ -250,8 +250,10 @@ gantt
   sin alcohol a la venta*
 - Salida por **Springbokwasser** → C39/D3245 → **Twyfelfontein** (grabados rupestres UNESCO; Google
   lo lista como cerrado: **es un fallo del listado**). **Terrace Bay → Twyfelfontein son ~216 km ◐**
-  *(verificado 03/08: 96 a la puerta de Springbokwasser + 120 a Twyfelfontein; ver `13` y `15`)*;
-  la cola a **Hoada (~85 km) sigue ○**.
+  *(verificado 03/08: 96 a la puerta de Springbokwasser + 120 a Twyfelfontein; ver `13` y `15`)*; y la
+  cola **Twyfelfontein → Hoada son ~155 km ◐** *(verificado 03/08 — vía Palmwag o vía Grootberg, ambas
+  convergen; «~2,5 h» del operador)*. **Es un día largo (~370 km de grava): sal temprano de Terrace
+  Bay.** El ~85 km que se manejaba antes quedó **refutado** —era menor que la línea recta (~95 km).
 - ⚠️ **Damaraland: los bajos son el punto delicado del seguro** — la referencia de Asco los
   excluía aquí, y **cómo los trata el Premium Cover de tu Namibia2Go Budget sigue SIN confirmar:
   pregúntalo por escrito al reservar**. Despacio en las piedras.
@@ -458,7 +460,9 @@ y el safari como clímax final.
   (C34 300 km Swakopmund→Torra Bay + 50 a Terrace Bay + 30 de Walvis, fuentes convergentes) y el
   **Namutoni → Windhoek ≈ ~555–575 km** (web de Etosha NP y rome2rio). Detalle y fuentes en `13`.
 - ◐ **Km del D8 ya cerrados (03/08)** — **Terrace Bay → Twyfelfontein ≈ ~216 km** por la ruta directa
-  de Springbokwasser (96 a la puerta + 120 a Twyfelfontein; routeplanner + negativo de la C39,
-  fuentes convergentes). Solo queda ○ la cola **Twyfelfontein → Hoada (~85 km)**. Detalle y fuentes en `13`.
+  de Springbokwasser (96 a la puerta + 120 a Twyfelfontein; routeplanner + negativo de la C39) **y la
+  cola Twyfelfontein → Hoada ≈ ~155 km** (Palmwag ~110 + ~50, o Grootberg ~130 + 25; «~2,5 h» del
+  operador), fuentes convergentes. El **D8 sube así a ~370 km**: es un día largo. El ~85 km anterior
+  quedó **refutado** (menor que la línea recta de ~95 km). Detalle y fuentes en `13`.
 - 🚧 **Las obras de Etosha** — confirmar con NWR al reservar *(afectan al D10,
   Okaukuejo → Halali)*
