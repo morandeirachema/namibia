@@ -2,7 +2,7 @@
 
 > **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> La la ruta desarrollada día por día —con sol, temperatura, horarios y precios— y las variantes descartadas, como referencia.
+> La ruta desarrollada día por día: qué se conduce, a qué hora sale y se pone el sol, qué temperatura hace donde se duerme y qué cuesta cada noche.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
@@ -20,6 +20,7 @@
 > *Las variantes que se estudiaron y se descartaron (con el sur, sin Etosha, o todo comprimido) ya
 > no están en el dossier: se quitaron el 03/08/2026 para dejar solo lo que se va a hacer. Quedan en
 > el historial de git.*
+
 ---
 
 <div align="center">
@@ -89,7 +90,7 @@ gantt
 > aquí solo hay estación o secundaria que cite estación — **y donde no la hay, dice «sin dato»**.
 >
 > ```mermaid
-> flowchart TD
+> flowchart LR
 > T["Noviembre donde duermes<br/>media de máxima / mínima, en °C"]
 > n0["Walvis Bay · la costa<br/>25,0 día / 12,7 noche"]
 > n1["Windhoek<br/>31,2 día / 16,3 noche"]
@@ -266,6 +267,9 @@ gantt
   al ocaso: pasa Andersson con margen de sobra*
 - C40 a Kamanjab → C38 a la puerta de **Andersson** (asfalto desde Kamanjab... ⚠️ firme por
   confirmar) → **Okaukuejo a 17 km** de la puerta
+- ⚠️ **Cuenta con ~340 km, no con 315**: sumando los tramos citados *(Hoada está a 75 km de Kamanjab
+  y Kamanjab a 265 de Okaukuejo)* salen ~340. Son 25 km de diferencia que no rompen el día, pero sí
+  cuentan para el depósito y la hora de puerta. Ver [`13`](13-itinerario.md).
 - 🎫 Etosha ~N$620/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
 - 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
@@ -449,13 +453,12 @@ y el safari como clímax final.
   contradictoria)* y Walvis Bay ×2, más el hotel del D13. **Hoada ya tiene precio** ◐ (arriba), y
   los lodges privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También
   cerrado el **camping de Spitzkoppe: N$270/persona → N$540/noche (~€27), entrada incluida** ◐
-  *(fuera de la ruta E)*
+  *(fuera de la ruta)*
 - ◐ **Km del D7 y del D13 ya cerrados (03/08)** — la costa **Walvis Bay → Terrace Bay ≈ ~380 km**
   (C34 300 km Swakopmund→Torra Bay + 50 a Terrace Bay + 30 de Walvis, fuentes convergentes) y el
   **Namutoni → Windhoek ≈ ~555–575 km** (web de Etosha NP y rome2rio). Detalle y fuentes en `13`.
 - ◐ **Km del D8 ya cerrados (03/08)** — **Terrace Bay → Twyfelfontein ≈ ~216 km** por la ruta directa
   de Springbokwasser (96 a la puerta + 120 a Twyfelfontein; routeplanner + negativo de la C39,
   fuentes convergentes). Solo queda ○ la cola **Twyfelfontein → Hoada (~85 km)**. Detalle y fuentes en `13`.
-- 🚧 **Las obras de Etosha** — confirmar con NWR al reservar *(afectan al D10 de la E,
+- 🚧 **Las obras de Etosha** — confirmar con NWR al reservar *(afectan al D10,
   Okaukuejo → Halali)*
-- 🕳️ *Residuos del sur (conflicto Keetmanshoop → Hobas, lodges del cañón): **sin efecto en la E***

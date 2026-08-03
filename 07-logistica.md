@@ -43,7 +43,7 @@ Energía, Modestus Amutse:
 **Para presupuestar:** **N$25–27/l (~€1,25–1,35)** de diésel en el interior, **como estimación, no
 como dato**. 👉 **Recomprueba la semana antes de salir.**
 
-**Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta E)*: un Hilux
+**Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: un Hilux
 doble cabina cargado en los **~2.600 km de la ruta** (banda 2.400–2.800), a **~11–13 l/100 km**,
 quema **~290–365 l** → banda **N$6.336–9.828 (~€317–491)**, central **~N$7.956**. **Se presupuestan
 ~N$8.000 (~€400)** — el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
@@ -102,7 +102,7 @@ en [`13`](13-itinerario.md).** Lo que importa aquí es dónde **no** hay gasolin
 flowchart LR
     S["Solitaire"] -->|"210 km · NADA en medio<br/>pasos de Gaub y Kuiseb"| W["Walvis Bay<br/>Swakopmund"]
     SE["Sesriem"] -->|"ida y vuelta ~120 km<br/>+ 5 km de arena en reductora"| D["Sossusvlei<br/>Deadvlei"]
-    H["Henties Bay<br/>ultima gasolinera<br/>segura de la costa"] -->|"Ugabmund Terrace Bay<br/>y salida por Springbokwasser<br/>diesel en Terrace Bay<br/>SIN VERIFICAR"| T["Terrace Bay<br/>D7-D8 de la E"]
+    H["Henties Bay<br/>ultima gasolinera<br/>segura de la costa"] -->|"Ugabmund Terrace Bay<br/>y salida por Springbokwasser<br/>diesel en Terrace Bay<br/>SIN VERIFICAR"| T["Terrace Bay<br/>D7 y D8"]
     style S fill:#e85d04,color:#000
     style T fill:#9d0208,color:#fff
 ```
@@ -112,7 +112,7 @@ flowchart LR
 2. **Sesriem → Sossusvlei ida y vuelta**: son **~120 km MÁS los 5 km finales de arena blanda en
    reductora**, todo dentro del parque, **sin gasolinera** y con **consumo alto en arena** →
    presupuesta **130–150 km de combustible que quizá no habías contado**
-3. **🚨 El tramo crítico REAL de la E — el bucle de la Costa de los Esqueletos (D7–D8):** Henties
+3. **🚨 El tramo crítico REAL — el bucle de la Costa de los Esqueletos (D7–D8):** Henties
    Bay → Cape Cross → Ugabmund → **Terrace Bay**, y al día siguiente Springbokwasser → Bergsig →
    Twyfelfontein → Hoada. **Actualización 02/08 ◐: en Terrace Bay HAY surtidor físico (reportes de
    viajeros), pero la web oficial de NWR no lo lista, se quedó seco en los cortes de 2025 y alguna
@@ -121,17 +121,16 @@ flowchart LR
    Bay** (✅ Puma 24 h) y calcula el bucle entero costa→Damaraland con ese depósito; el respaldo
    del tramo es **Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅ Gondwana)**, a 23 km del paso de
    Grootberg. *Distancia del bucle: el **D7 ya está cerrado en ~380 km** ◐ (la C34 medida tramo a tramo, ver
-   `13`); el **D8 (salida por la C39 hacia Twyfelfontein, ~300 km) sigue sin verificar** ○.*
-4. *(Del eje antiguo, ya fuera de la E: Palmwag → Okaukuejo 385 km y Khorixas → Palmwag — se dejan
-   como referencia por si se cambia de plan.)*
+   `13`); el **D8 también, en ~216 km hasta Twyfelfontein** ◐ *(por Springbokwasser)*, más la cola
+   a Hoada.*
 
 ### La regla
 
 > ### 👉 «Nunca pases de largo una gasolinera», no «reposta cuando estés bajo»
 
-**Puntos de anclaje de la ruta E**: **Solitaire · Henties Bay · Kamanjab · Outjo · Otjiwarongo** —
+**Puntos de anclaje de la ruta**: **Solitaire · Henties Bay · Kamanjab · Outjo · Otjiwarongo** —
 llena en **todos**, mires lo que mires en el indicador. En ciudad (Windhoek, Walvis Bay,
-Swakopmund), sal siempre lleno. *(Khorixas era ancla del eje antiguo.)*
+Swakopmund), sal siempre lleno.
 
 ⚠️ **Y con el límite contractual de 80 km/h en grava**, los días largos rinden menos de lo que
 parece — planifica llegar mucho antes del anochecer (las puertas de Etosha cierran al ocaso, y

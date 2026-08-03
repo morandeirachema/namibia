@@ -130,7 +130,7 @@ campings + el hotel del D13) **no tienen precio cerrado**.
 total: ~€570 pareja (~€285/persona)**, del que **~€318 (56 %) está verificado** y **Hoada suma ◐**.
 
 ```mermaid
-flowchart TD
+flowchart LR
     T["Alojamiento 13 noches · pareja · EUR · EUR"]
     n0["6 NWR verificadas<br/>318"]
     n1["7 restantes estimadas<br/>252"]
@@ -366,26 +366,20 @@ colchón **~N$3.000 (~€150) pareja / ~€75 por persona**. No verificado.
 ## 10. El total — pareja y por persona
 
 ```mermaid
-flowchart TD
-    T["Total del viaje · la ruta · por persona<br/>EUR · camping · EUR"]
+flowchart LR
+    T["Por persona<br/>en EUR · camping"]
     n0["Vuelo<br/>1.366"]
     n1["Coche<br/>900"]
     n2["Alojam.<br/>285"]
     n3["Combust.<br/>200"]
     n4["Comida<br/>140"]
-    n5["Tasas<br/>109"]
-    n6["Seguro<br/>113"]
-    n7["Visado<br/>80"]
-    n8["Misc+Act<br/>113"]
+    n5["Tasas, seguro,<br/>visado y varios<br/>415"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
     n2 ~~~ n3
     n3 ~~~ n4
     n4 ~~~ n5
-    n5 ~~~ n6
-    n6 ~~~ n7
-    n7 ~~~ n8
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
@@ -427,7 +421,7 @@ por cabeza:
   (~€98)** · seguro ~€113 · visado €80 · actividades ~€38 · misceláneos ~€75 → **~€2.195 (~N$43.900)**
 
 ```mermaid
-flowchart TD
+flowchart LR
     T["Total por persona segun cuantos vais<br/>EUR · camping"]
     n0["2 personas<br/>3.306"]
     n1["3 personas<br/>2.935"]

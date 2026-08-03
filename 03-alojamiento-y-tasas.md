@@ -51,7 +51,7 @@ flowchart LR
 ## 🏕️ Camping — por persona y noche
 
 ```mermaid
-flowchart TD
+flowchart LR
     T["Camping NWR · por persona y noche<br/>nov 2026 - jun 2027 · en NAD"]
     n0["Khorixas<br/>330"]
     n1["Waterberg<br/>430"]
@@ -61,8 +61,7 @@ flowchart TD
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
-    n2 ~~~ n3
-    n3 ~~~ n4
+    n2 ~~~ n4
     n4 ~~~ n5
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
@@ -79,36 +78,28 @@ Precios **nov 2026 – jun 2027** (nuestra ventana) → *jul–oct 2027*:
 
 Las parcelas admiten **máximo 8 personas**, pero el precio es **por persona**: dos pagan dos.
 
-> ⚠️ **Una cifra muy repetida está mal:** Hobas es **N$480 (~€24)**, no N$510. El N$510 es de
-> **Olifantsrus**, que está en la columna de al lado. El PDF va a dos columnas y la extracción
-> automática de texto las entrelaza y las intercambia sin avisar. Separé las columnas para
-> confirmarlo.
+> ⚠️ **Por qué estas cifras se separaron a mano:** el PDF de NWR va **a dos columnas**, y la
+> extracción automática de texto las entrelaza e **intercambia precios entre campings vecinos** sin
+> avisar — así circula por ahí más de una cifra cruzada. Las de arriba están leídas columna por
+> columna.
 
 ## 🛖 Chalets y habitaciones — por persona en doble, con desayuno (nov 2026 – jun 2027)
 
 ```mermaid
-flowchart TD
-    T["Alojamiento NWR · 2 personas por noche<br/>nov 2026 - jun 2027 · en NAD"]
+flowchart LR
+    T["La escalera<br/>2 pax/noche · NAD"]
     n0["Halali doble<br/>2.800"]
-    n1["Halali chalet<br/>3.080"]
-    n2["Namutoni doble<br/>3.680"]
-    n3["Okaukuejo doble<br/>3.800"]
-    n4["Namutoni chalet<br/>4.320"]
-    n5["Okaukuejo bush<br/>4.420"]
-    n6["Okaukuejo charco<br/>4.760"]
-    n7["Dolomite MP<br/>6.360"]
-    n8["Okaukuejo Premier<br/>7.920"]
-    n9["Sossus Dune MP<br/>8.060"]
+    n1["Namutoni doble<br/>3.680"]
+    n2["Okaukuejo doble<br/>3.800"]
+    n3["Okaukuejo charco<br/>4.760"]
+    n4["Okauk. Premier<br/>7.920"]
+    n5["Sossus Dune<br/>8.060"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
     n2 ~~~ n3
     n3 ~~~ n4
     n4 ~~~ n5
-    n5 ~~~ n6
-    n6 ~~~ n7
-    n7 ~~~ n8
-    n8 ~~~ n9
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
@@ -137,7 +128,7 @@ flowchart TD
 ## 💰 La bajada de octubre a noviembre es mayor en alojamiento que en el coche
 
 ```mermaid
-flowchart TD
+flowchart LR
     T["Okaukuejo · misma unidad<br/>2 personas por noche · en NAD"]
     n0["Camping oct<br/>1.120"]
     n1["Camping nov<br/>920"]

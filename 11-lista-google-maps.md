@@ -45,7 +45,7 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
 - **Hoba Meteorite** ◐
   - **~N$250/persona (~€12,5)** (una reseña de 2024 lo cifra en «22,50 €/extranjero» ≈ N$250).
     Gestiona el **National Heritage Council**.
-  - **OJO geografía:** está junto a **Grootfontein**, en el **noreste**. Con la ruta E queda como
+  - **OJO geografía:** está junto a **Grootfontein**, en el **noreste**. Con esta ruta queda como
     **desvío opcional del D13** (Namutoni → Windhoek vía Grootfontein) — ver `01`.
   - Fuente: [TripAdvisor — Hoba Meteorite](https://www.tripadvisor.com/Attraction_Review-g1137965-d3609771-Reviews-Hoba_Meteorite-Grootfontein_Otjozondjupa_Region.html)
 
@@ -119,11 +119,6 @@ descartarlos del presupuesto de gama media.
   - Fuentes: [Okonjima — Rack Rates 2026 (PDF)](https://okonjima.com/wp-content/uploads/2025/12/Okonjima-Rack-Rates-2026.pdf) ·
     [Okonjima — rates](https://okonjima.com/rates/)
 
-- **Bagatelle Kalahari** (eje Windhoek–sur, cerca de Mariental) — **gama media-alta** ◐
-  - Desde **~R6.400 ≈ N$6.400 (~€320) la noche para 2** en media pensión; tiene **camping** más
-    barato. Encaja como primera/última noche del eje sur si se quiere una noche de dunas rojas.
-  - Fuente: [lekkeslaap — Bagatelle rates](https://www.lekkeslaap.co.za/accommodation/bagatelle-kalahari-game-ranch/rates)
-
 ### 📏 Kaokoland (Epupa + Opuwo) — el descarte, ahora CON números ◐
 
 ```mermaid
@@ -138,7 +133,7 @@ flowchart LR
   luego **C38/grava**.
 - **Opuwo → Epupa:** **180–190 km de grava por la D3700** (~3–5 h), cruzando cauces secos.
 - **Ida y vuelta a Kaokoland = ~4 días SOLO de conducción** desde Windhoek, **sin contar Etosha**.
-  Tampoco cabe en la ruta E final — esos días son las 4 noches de Etosha: es aritmética, no gusto.
+  Tampoco cabe en la ruta final — esos días son las 4 noches de Etosha: es aritmética, no gusto.
 - **Y de propina, el seguro:** las pistas **D3700 / D3703 / D3707** de Kaokoland-Damaraland son justo
   donde el contrato de Asco **no cubre bajos ni garantiza rescate** aunque pagues Super Cover
   (ver `12` y `06`). Doble motivo para dejarlo fuera.
@@ -177,7 +172,7 @@ flowchart LR
     mide 321 km en total y atraviesa Tsumkwe)*, así que en la práctica ronda o supera los ~640 km.
   - **Es el extremo este del país**, pegado a **Khaudum** y la frontera con Botsuana — **~1 día de ida
     solo de conducción**, con el último tercio en grava, y de nuevo en zona remota sin apenas
-    servicios. Con el sur ya dentro del viaje, **no cabe**: aritmética, igual que Epupa.
+    servicios. **No cabe**: aritmética, igual que Epupa.
   - Fuentes: [rome2rio — Windhoek↔Tsumkwe](https://www.rome2rio.com/s/Windhoek/Tsumkwe) ·
     [na.utc.city — Tsumkwe↔Windhoek](https://na.utc.city/2357925-2358013) ·
     [Wikipedia — C44 road](https://en.wikipedia.org/wiki/C44_road_(Namibia))
@@ -195,7 +190,7 @@ Las entradas que sí encajan en la ruta son **calderilla** comparadas con un tou
 El contraste, de un vistazo (N$/persona):
 
 ```mermaid
-flowchart TD
+flowchart LR
     T["Coste por persona en N-dolar -<br/>visitas de camino"]
     n0["Cape Cross<br/>150"]
     n1["Hoba<br/>250"]
@@ -207,7 +202,6 @@ flowchart TD
     n1 ~~~ n2
     n2 ~~~ n3
     n3 ~~~ n4
-    n4 ~~~ n5
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 

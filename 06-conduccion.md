@@ -30,7 +30,7 @@
 Informe **NRSC «Road Crashes in Namibia» 2019**, sobre **18.665 accidentes** y **413 muertos**:
 
 ```mermaid
-flowchart TD
+flowchart LR
     T["Letalidad por tipo de accidente<br/>muertos por cada 100 accidentes"]
     n0["Vuelco de vehiculo unico<br/>17,7"]
     n1["Choque frontal/alcance<br/>0,64"]

@@ -146,7 +146,7 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
   salir sin repostar aquí.** Tienda pequeña y restaurante de menú fijo, sí ✅/◐.
 - **Bergsig** ❌ — **ninguna gasolinera documentada en ninguna fuente**; solo una tienda de
   básicos ○. Planifica como si no hubiera nada.
-- **Palmwag** *(fuera de la E, el respaldo del tramo)* ✅ — **surtidor 07:00–19:00, diésel
+- **Palmwag** *(fuera de la ruta, el respaldo del tramo)* ✅ — **surtidor 07:00–19:00, diésel
   50 ppm** en el lodge de Gondwana ([oficial](https://gondwana-collection.com/accommodation/palmwag-lodge));
   lleva efectivo por si el datáfono ○.
 - **Twyfelfontein** ◐/○ — irregular: la bomba histórica ya no va; hay reportes de surtidor tras el

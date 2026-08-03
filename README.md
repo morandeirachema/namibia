@@ -11,7 +11,7 @@ bebiendo de noche a diez metros · cuatro noches de safari en Etosha*
 
 Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 03·08·2026.
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 110 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 99 páginas
 
 *Todo esto en un solo documento maquetado, con fotos y diagramas — para leer del tirón,
 imprimir o llevar sin conexión.*
@@ -413,7 +413,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 
 ### 🗺️ Tus 34 pines, en una línea
 
-**En la ruta E**: Joe's Beerhouse · Solitaire · Namib-Naukluft · Sesriem Canyon · Duna 45 ·
+**En la ruta**: Joe's Beerhouse · Solitaire · Namib-Naukluft · Sesriem Canyon · Duna 45 ·
 Deadvlei · Walvis Bay · Swakopmund *(de paso)* · Cape Cross · Skeleton Coast · Twyfelfontein ·
 Etosha *(4 noches dentro)*. **Opcionales**: **Onguma** *(tu pin — capricho fuera de la puerta este,
 a cambio de no dormir dentro)* · Okonjima/AfriCat · Hoba · Waterberg *(los tres, de camino el D13)*. **Fuera esta vez**: todo el sur *(quedó fuera del dossier; está en el historial de git por si vuelve)* · Spitzkoppe y
