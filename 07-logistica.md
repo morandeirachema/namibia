@@ -145,7 +145,8 @@ flowchart LR
    hay gasolinera documentada** y la de Twyfelfontein es irregular (ver `08`). Llena en **Henties
    Bay** (✅ Puma 24 h) y calcula el bucle entero costa→Damaraland con ese depósito; el respaldo
    del tramo es **Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅ Gondwana)**, a 23 km del paso de
-   Grootberg. *Distancia del bucle: solo estimaciones de `01` (~390 + ~300 km) — km sin verificar.*
+   Grootberg. *Distancia del bucle: el **D7 ya está cerrado en ~380 km** ◐ (la C34 medida tramo a tramo, ver
+   `13`); el **D8 (salida por la C39 hacia Twyfelfontein, ~300 km) sigue sin verificar** ○.*
 4. *(Del eje antiguo, ya fuera de la E: Palmwag → Okaukuejo 385 km y Khorixas → Palmwag — se dejan
    como referencia por si se cambia de plan.)*
 
