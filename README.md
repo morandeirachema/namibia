@@ -11,7 +11,7 @@ bebiendo de noche a diez metros · cuatro noches de safari en Etosha*
 
 Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 03·08·2026.
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 143 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 144 páginas
 
 *Todo esto en un solo documento maquetado, con fotos y los 56 diagramas — para leer del tirón,
 imprimir o llevar sin conexión.*
