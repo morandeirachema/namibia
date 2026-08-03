@@ -116,9 +116,9 @@ gantt
 > ```mermaid
 > flowchart TD
 >     T["TIENDA DE TECHO · 8 noches ya resueltas<br/>D2 Spreetshoogte · D3-D4 Sesriem dentro de la puerta<br/>D8 Hoada · D9 Okaukuejo · D10 Halali · D11-D12 Namutoni"]
->     D["POR ELEGIR CAMPING · 3 noches<br/>D1 Windhoek y D5-D6 Walvis Bay: SI hay coche,<br/>asi que se puede dormir arriba — falta elegir sitio"]
->     P["LA PISTA QUE LO CAMBIA · D7 Terrace Bay<br/>la tabla de tarifas de NWR lista camping a N$460/persona<br/>pero su descripcion solo habla de chalets: PREGUNTAR"]
->     N["NO SE PUEDE · D13 Windhoek<br/>el coche se entrega ese dia, asi que toca habitacion<br/>salvo que se anada el dia 13 de alquiler (~150 EUR)"]
+>     D["POR ELEGIR CAMPING · 3 noches<br/>D1 Windhoek: Urban Camp o Arebbusch<br/>D5-D6 Walvis Bay: Lagoon Chalets<br/>existen y tienen camping, pero NO publican precio"]
+>     P["HABITACION, NO TIENDA · D7 Terrace Bay<br/>el tarifario oficial de NWR no tiene camping aqui:<br/>doble en media pension, N$3.480 los dos"]
+>     N["TAMPOCO · D13 Windhoek<br/>el coche se entrega ese dia: habitacion<br/>salvo que se anada el dia 13 (~150 EUR)"]
 >     T ~~~ D ~~~ P ~~~ N
 >     style T fill:#2d6a4f,color:#fff
 >     style P fill:#e85d04,color:#000
@@ -126,11 +126,11 @@ gantt
 > ```
 >
 > **El recuento, que suma 13:** **8** ya resueltas en tienda · **3** en las que se puede dormir
-> arriba pero falta elegir camping *(D1 y D5–D6)* · **1** que depende de una llamada *(D7 Terrace
-> Bay)* · **1** imposible *(D13, sin coche)*.
+> arriba pero falta elegir camping *(D1 y D5–D6)* · **2 imposibles**: *D7 Terrace Bay* (no tiene
+> camping) y *D13* (sin coche).
 >
-> 👉 **Si Terrace Bay confirma el camping y se añade el día 13 de alquiler, se puede dormir arriba
-> las 13 noches.** Sin tocar nada, ya son 12 de 13.
+> 👉 **El techo real son 11 de 13 noches arriba** (12 si añadís el día 13 de alquiler). Las dos que
+> no pueden ser: Terrace Bay, que solo tiene habitaciones, y la última, sin coche.
 >
 > ### 🚗 ¿Y cuántos días estáis en Windhoek sin coche? **Uno.**
 >
@@ -156,7 +156,9 @@ gantt
 - 4x4 + briefing (1–2 h): **presiones en frío apuntadas, las DOS ruedas de repuesto, gato y
   compresor a la vista** antes de salir del patio (`06`)
 - Efectivo (~N$6.000–8.000) · **SIM de MTC** con pasaporte *(el kiosco cierra ~21:00)*
-- 🍺 **Joe's Beerhouse** · 🛏️ Windhoek
+- 🍺 **Joe's Beerhouse** · 🛏️ **Windhoek — y aquí ya se puede dormir arriba**, porque el coche se
+  recoge hoy. Candidatos con camping verificado *(precio ❌, no lo publican)*: **Urban Camp**
+  *(Schanzen Road, en la ciudad; piscina, bar, wifi, cajero)* y **Arebbusch Travel Lodge**
 
 ### D2 · lun 2 — Windhoek → paso de Spreetshoogte · **~180–200 km · ~3h–3h30** ◐
 - 🌡️ **Spreetshoogte: sin dato de estación.** El proxy razonable es **Windhoek (31,2/16,3 ✅)**:
@@ -201,7 +203,9 @@ gantt
 - ☀️ amanecer **06:15** · anochecer **19:17** (Walvis Bay)
 - C14 por los pasos de **Gaub y Kuiseb** + Trópico de Capricornio
 - ⛽ **Solitaire otra vez, sí o sí** — después, **210 km sin nada**
-- 🛏️ **Walvis Bay** ⚠️ *precio sin verificar (el blog usó Lagoon Chalets)*
+- 🛏️ **Walvis Bay — también en tienda.** El único sitio con camping que aparece listado en la
+  ciudad es **Lagoon Chalets**, que es además el que usó el blog de referencia ◐. **Precio ❌: no
+  lo publica.** *(Si no cuadra, Swakopmund a 30 km tiene más oferta de camping.)*
 
 ### D6 · vie 6 — Walvis Bay: flamencos y descanso ✅
 - 🌡️ **Walvis Bay 25,0 / 12,7** ✅ — el día fresco del viaje: aprovecha para el Welwitschia Drive
@@ -230,12 +234,10 @@ gantt
   Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping.** Suelo publicado
   (doméstico/SADC, temporada baja): **N$1.440–1.920/persona DBB (~€72–96)**; como extranjeros en
   noviembre, **más** ◐ — la noche más cara de la ruta *(tarifa internacional nov 2026 aún ❌; ver `15`)*
-- 💡 **Y una pista que puede cambiar la noche (03/08):** la **tabla de tarifas de NWR para Terrace
-  Bay lista «Campsite (Max 5 People) — N$460/persona»**, el mismo precio que los campings de
-  Etosha, para las dos temporadas. Pero **la descripción del sitio solo habla de 3 beach chalets y
-  20 habitaciones dobles**, así que es ambiguo. 👉 **Pregúntalo al reservar**: si hay camping, esta
-  noche pasa de ser **la más cara del viaje (~€144–192 los dos, media pensión)** a **N$920 (~€46)**
-  — y de habitación a tienda de techo.
+- 💰 **Precio cerrado (03/08) ✅:** el PDF oficial de tarifas de NWR 2026/2027 da para Terrace Bay
+  **habitación doble en media pensión a N$1.740/persona → N$3.480 (~€174) los dos**, en tu ventana.
+  **No hay camping**: la ficha web listaba una fila de «Campsite» que **no existe en el tarifario**
+  — es un error de su web. Es **la noche más cara del viaje**, pero incluye **cena y desayuno**.
 - *Variante fácil: saltarse Terrace Bay, dormir en Henties/Swakopmund y entrar a Damaraland al día
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 

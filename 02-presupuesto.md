@@ -89,7 +89,7 @@ ilimitados** y **Premium Insurance Cover** (franquicia cero) incluidos.
 ## 3. Alojamiento — 13 noches, 6 verificadas ◐/○
 
 **13 noches en tierra.** De ellas, **6 son campings NWR con precio verificado**; las otras 7 (5
-campings + Terrace Bay + el hotel del D13) **no tienen precio cerrado**.
+campings + el hotel del D13) **no tienen precio cerrado**.
 
 **Verificado (NWR, ventana nov 2026 – jun 2027, 2 pax):**
 - **Sesriem × 2** *(dentro de la puerta — imprescindible para Deadvlei al amanecer)* — **N$1.340
@@ -108,19 +108,23 @@ campings + Terrace Bay + el hotel del D13) **no tienen precio cerrado**.
   ◐; ver `15`.)*
 - **D8 Hoada** (Grootberg) — **cerrado en esta pasada ◐**: **N$542–732/noche para dos (~€27–37)** según
   temporada (la de noviembre sin fijar; ver `15`). Coincide con la estimación de práctica común.
-- **D7 Terrace Bay** (NWR): **la noche más cara de la ruta… o la más barata, según lo que contesten.**
-  Como habitación con media pensión, el suelo publicado es **N$1.440–1.920/persona DBB ≈ N$2.880–3.840
-  la pareja (~€144–192)** ◐. **Pero (03/08) la tabla de tarifas de NWR para Terrace Bay lista
-  «Campsite (Max 5 People) — N$460/persona»** en las dos temporadas, lo mismo que Etosha → **N$920
-  (~€46) la pareja**. La descripción del sitio solo menciona chalets y habitaciones, así que es
-  **ambiguo**. 👉 **Pregúntalo al reservar: se juega ~€100–150 y una noche de tienda.**
-- **D13 Windhoek**: hotel + traslado (el coche ya está entregado). **○ estimado.**
+- **D7 Terrace Bay** (NWR) — **cerrado ✅ y es la noche más cara del viaje**: el tarifario oficial
+  2026/2027 da **doble en media pensión a N$1.740/persona → N$3.480 (~€174) la pareja** en la
+  ventana nov 2026 – jun 2027. **No hay camping en Terrace Bay** *(la ficha web lista una fila de
+  «Campsite» que no aparece en el tarifario: es un error suyo)*. Consuelo: **incluye cena y
+  desayuno**, así que descuenta esa comida del presupuesto del D7.
 
-> ⚠️ **El margen de este bloque depende de una llamada.** Si Terrace Bay resulta ser habitación con
-> media pensión, esa noche sola son **~€144–192 la pareja** y el bloque sin verificar se va **al alza
-> en ~€100–150**. Si tienen camping a N$460/persona —como dice su propia tabla—, la noche cae a
-> **~€46** y el bloque se queda como está. **Es la mayor incertidumbre del presupuesto de
-> alojamiento, y se resuelve preguntando.** El total de abajo mantiene la estimación conservadora.
+- **D13 Windhoek**: habitación + traslado, porque el coche ya está entregado. **○ estimado.**
+  *(Alternativa: añadir el día 13 de alquiler ~€150 y acampar también esta noche, devolviendo el
+  coche el 14 camino del aeropuerto — se ahorra el hotel y dos traslados.)*
+- **Los campings sin cotizar (D1, D5–D6)**: existen y están identificados —**Urban Camp** o
+  **Arebbusch** en Windhoek, **Lagoon Chalets** en Walvis Bay— pero **ninguno publica tarifa** ❌.
+  Se mantienen en la estimación de práctica común de ~N$600–1.000 la pareja.
+
+> ✅ **Y esto cierra el mayor hueco del bloque:** Terrace Bay ya no es una incógnita de ±€130. Son
+> **~€174 la pareja, verificados**, con cena y desayuno dentro. El bloque sin cerrar se queda en
+> **6 noches** —las dos de Windhoek, Spreetshoogte y las dos de Walvis—, todas de camping, que es
+> el tramo barato y predecible.
 
 → Bloque parcial/sin verificar: **~€126/persona ○** *(con el sesgo al alza de arriba)*. **Alojamiento
 total: ~€570 pareja (~€285/persona)**, del que **~€318 (56 %) está verificado** y **Hoada suma ◐**.

@@ -720,8 +720,9 @@ El inventario de huecos abiertos, para que no haya que reconstruirlo leyendo tod
 - 🪪 **El permiso internacional de conducir**: fuente ◐, y la DGT pide cita.
 
 **Precios sin cerrar (el margen real del presupuesto):**
-- 🛏️ **Terrace Bay**: ¿habitación con media pensión (~€144–192 los dos) o camping a N$460/persona
-  (~€46)? Su tabla de tarifas dice una cosa y su descripción otra. **La mayor incertidumbre.**
+- ✅ **Terrace Bay: CERRADO el 03/08** — el tarifario oficial de NWR 2026/2027 da **doble en media
+  pensión, N$1.740/persona (N$3.480 los dos, ~€174)** y **no lista camping** para ese resort. La
+  fila de «Campsite» que aparece en su ficha web **no existe en el tarifario**: error de la web.
 - 🛏️ **D1 y D13 Windhoek**, **D5–D6 Walvis Bay**: campings sin elegir ni cotizar *(candidato en
   Windhoek: Urban Camp, Schanzen Road — no publica precio)*.
 - 🛏️ **D2 Spreetshoogte**: candidato Camp Gecko, con banda contradictoria (N$220 vs N$280 p.p.).
