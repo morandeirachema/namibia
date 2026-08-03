@@ -85,10 +85,12 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
   límite: a 70–80 de media son **~5h–5h30 SOLO de volante**, más Cape Cross (~1 h) y el trámite de
   Ugabmund. **Cuenta atrás desde las 15:00 de la puerta: salir de Walvis a las 7:30 deja ~6h30 de
   margen — justo.** Un pinchazo aquí se come el margen entero: sal a las 7:00.
-- **D8 · Terrace Bay → Twyfelfontein → Hoada (~300 km)** — grava entera. El grueso, **Terrace Bay →
-  Twyfelfontein, son ~216 km ◐** *(96 a la puerta de Springbokwasser + 120)*: a 60–70, **~3h10–3h35
-  de volante**; + grabados (~1 h) + la cola a Hoada *(~85 km, aún ○)* → **realista ~5h de volante
-  más la visita** ✓
+- **D8 · Terrace Bay → Twyfelfontein → Hoada (~370 km ◐, verificado 03/08)** — grava entera, y **el
+  día más largo de grava del viaje**. El grueso, **Terrace Bay → Twyfelfontein, son ~216 km ◐** *(96 a
+  la puerta de Springbokwasser + 120)*: a 60–70, **~3h10–3h35 de volante**; **+ grabados (~1 h) + la
+  cola Twyfelfontein → Hoada ~155 km** *(~2h15–2h35 a 60–70; «~2,5 h» del operador)* → **realista
+  ~5h30–6h de volante más la visita: es la tercera etapa larga, junto al D7 y al D13**. No tiene puerta
+  con hora, así que **basta con salir temprano de Terrace Bay** ✓
 - **D9 · Hoada → Okaukuejo (~315–340 km ◐, ver §3)** — grava hasta Kamanjab, asfalto después (firme de la C38
   por confirmar, `01`) → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
 - **D10–D12 · Etosha (60–90 km/día ✅)** — a 60 km/h y parando en cada charca: **el día entero ES
@@ -97,10 +99,12 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
   realista 6h–6h30 con comida en Otjiwarongo**. Saliendo al amanecer (~06:10), en Windhoek a media
   tarde ✓
 
-> **Lectura de conjunto:** ningún día se sale de las reglas. El único que exige disciplina de reloj
-> es el **D7** —la puerta de Ugabmund cierra a las 15:00— y el único largo de verdad es el **D13**,
-> que es asfalto. Lo único que aún hereda incertidumbre de kilómetros es la **cola Twyfelfontein →
-> Hoada** *(~85 km ○)*. **Tracks4Africa antes de apurar horarios.**
+> **Lectura de conjunto:** ningún día rompe las reglas de velocidad, pero hay **tres etapas grandes**,
+> no una: el **D7** exige disciplina de reloj —la puerta de Ugabmund cierra a las 15:00— y el **D8**
+> (~370 km de grava, con la visita de Twyfelfontein en medio) y el **D13** (asfalto) son los dos largos
+> de verdad. La **cola Twyfelfontein → Hoada quedó medida en ~155 km** (03/08), lo que **refuta el ~85
+> km anterior** —era menor que la línea recta entre los dos puntos (~95 km por coordenadas), imposible
+> por carretera. **Tracks4Africa antes de apurar horarios.**
 
 ---
 
@@ -139,8 +143,12 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   **Springbokwasser → Twyfelfontein ~120 km** por la D3245/D2612. *(El routeplanner lo da en 216 km;
   cuadra con el negativo: la puerta de Springbokwasser está a 40 km al este de Torra Bay y a 170 km al
   oeste de Khorixas por la C39 —Wikipedia—, así que ir por Khorixas serían ~360 km; la ruta directa se
-  ahorra esa vuelta.)* La **cola Twyfelfontein → Hoada (~85 km ○)** sigue sin fuente propia — Hoada
-  está a 75 km al oeste de Kamanjab por la C40, 25 km al este de Grootberg.
+  ahorra esa vuelta.)* La **cola Twyfelfontein → Hoada mide ~155 km ◐** *(verificado 03/08)*. Hoada
+  está en la **C40, a 25 km al este de Grootberg, ~50 km al este de Palmwag y 75 km al oeste de
+  Kamanjab** (GPS S 19°43,9′ E 14°18,4′). Dos rutas convergen: **Twyfelfontein → Palmwag ~110 km +
+  Palmwag → Hoada ~50 km ≈ 160 km**, y **Twyfelfontein → Grootberg ~130 km + Hoada 25 km al este ≈
+  155 km**; el operador da el trayecto en **«~2,5 h»**. **El ~85 km anterior queda refutado**: es menor
+  que la línea recta Twyfelfontein–Hoada (~95 km, por coordenadas), imposible por carretera.
 - **Twyfelfontein → Palmwag**: **~110 km** ◐ *(operadores namibios convergentes: padlangsnamibia y
   foro 4x4community lo dan en «~2,5 h» de grava)*. **No está en la ruta**, pero se apunta porque
   **Palmwag es el surtidor de respaldo** del tramo si el de Terrace Bay falla *(ver `07`)*.
@@ -174,7 +182,9 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   desglose del D7 por la C34, el D8 por Springbokwasser y el D13 Namutoni → Windhoek— **dejaron de
   ser triangulaciones**: las apoyan varias fuentes secundarias independientes que convergen en el
   rango (◐, ver §3 y Fuentes). Siguen sin ser un GPS.
-- **La cola Twyfelfontein → Hoada (~85 km) sigue ○**: es el último tramo de la ruta sin fuente propia.
+- **La cola Twyfelfontein → Hoada quedó cerrada en ~155 km ◐** (03/08): el ~85 km que se manejaba
+  antes está **refutado** por ser menor que la línea recta (~95 km). Con esto **la ruta E ya no tiene
+  distancias sin medir**; sigue pendiente solo la discrepancia del D9 (abajo).
 - **Ni la web de NWR ni las de los lodges se dejaron descargar** (**HTTP 403** desde este entorno):
   lo que hay son descripciones de operadores cruzadas entre sí, no la web oficial. **Confírmalo al
   reservar.**
@@ -207,7 +217,14 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   https://www.distancesfrom.com/na/Twyfelfontein-to-Terrace-bay-Namibia-Route/RouteplannerHistory/6599689.aspx
   *(216 km vía Springbokwasser: 96 + 120)* · puerta de Springbokwasser «40 km east of Torra Bay»
   (https://skeletoncoastparkspringbokwassergate.wheretostay.na/) y «170 km west of Khorixas» +
-  C39 de 494 km Torra Bay→Khorixas→Outjo→Otavi (https://en.wikipedia.org/wiki/C39_road_(Namibia)) ·
-  Hoada «75 km west of Kamanjab on the C40, 25 km east of Grootberg» (https://grootberg.com/hoada-campsite/)
+  C39 de 494 km Torra Bay→Khorixas→Outjo→Otavi (https://en.wikipedia.org/wiki/C39_road_(Namibia))
   *(páginas no descargadas; datos de los extractos de búsqueda, convergentes)*
+- **Cola del D8 Twyfelfontein → Hoada ~155 km — verificado 03/08 (◐):** Hoada «75 km west of Kamanjab
+  on the C40, 25 km east of Grootberg, ~50 km east of Palmwag», GPS S 19°43,930′ E 14°18,401′
+  (https://grootberg.com/ · https://www.namibweb.com/camping-coordinates-namibia.htm ·
+  https://www.places.co.za/accommodation/hoada-campsite.html) · Twyfelfontein 20,5906°S 14,3722°E
+  (https://en.wikipedia.org/wiki/Twyfelfontein ·
+  https://latitude.to/articles-by-country/na/namibia/39007/twyfelfontein) → la línea recta de ~95 km
+  que refuta el ~85 km · Twyfelfontein → Grootberg «~130 km, ~2,5 h» y Twyfelfontein → Hoada «about two
+  and a half hours» (extractos de distancesfrom y journeysnamibia.com) *(páginas no descargadas por 403)*
 - Matriz de distancias del eje central: Namibia Tours & Safaris (2010), recogida en `07-logistica.md`

@@ -121,8 +121,9 @@ flowchart LR
    Bay** (✅ Puma 24 h) y calcula el bucle entero costa→Damaraland con ese depósito; el respaldo
    del tramo es **Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅ Gondwana)**, a 23 km del paso de
    Grootberg. *Distancia del bucle: el **D7 ya está cerrado en ~380 km** ◐ (la C34 medida tramo a tramo, ver
-   `13`); el **D8 también, en ~216 km hasta Twyfelfontein** ◐ *(por Springbokwasser)*, más la cola
-   a Hoada.*
+   `13`); el **D8 también, en ~370 km** ◐ — 216 hasta Twyfelfontein *(por Springbokwasser)* + **~155
+   de cola a Hoada** *(vía Palmwag o Grootberg; el ~85 km anterior quedó refutado)*. **Es un día largo
+   de grava con este único depósito: sale con el tanque lleno de Henties Bay.***
 
 ### La regla
 

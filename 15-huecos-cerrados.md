@@ -193,10 +193,6 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 **Datos que siguen abiertos:**
 
-- 🛣️ **La cola del D8**: Twyfelfontein → Hoada, **~85 km ○** — el último tramo de la ruta sin fuente
-  propia. El grueso ya está cerrado (03/08, ◐): Terrace Bay → Twyfelfontein son **~216 km** por
-  Springbokwasser *(96 hasta la puerta + 120)*, con el negativo de la C39 como control. El D7 y el
-  D13 también se cerraron. Detalle en [`13`](13-itinerario.md).
 - 📏 **La discrepancia del D9**: Hoada → Okaukuejo son **~315 km según `01` y ~340 sumando tramos
   citados**. Nadie las ha conciliado; hasta entonces, presupuesta combustible con los 340.
 - ⛽ **Si hay diésel en Terrace Bay** y en el bucle Ugabmund–Springbokwasser.
