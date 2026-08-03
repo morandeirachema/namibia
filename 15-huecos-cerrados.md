@@ -20,6 +20,10 @@
 
 Este documento es el cuaderno de bitácora: cada pasada añade lo que cerró y lo que sigue abierto.
 
+- **03/08** — **Cerrado el grueso del D8**: Terrace Bay → Twyfelfontein **~216 km ◐** por la ruta
+  directa de Springbokwasser (96 a la puerta + 120 a Twyfelfontein), con el negativo de la C39 como
+  control. Era el último tramo de km ○ de la ruta E; solo queda la cola Twyfelfontein → Hoada (~85 km).
+  Ver §«Lo que sigue sin cerrarse» y `13`.
 - **01/08** — **Camp Gecko**, al pie del paso de Spreetshoogte, identificado como opción de camping
   del D2. Banda de precio ○ **contradictoria** entre dos búsquedas (N$220 vs N$280 p.p.) y primaria
   en 403: **sigue sin verificarse**. Ver §Campings.
@@ -731,8 +735,10 @@ El inventario de huecos abiertos, para que no haya que reconstruirlo leyendo tod
 - 🩺 **La opción de búsqueda y salvamento del IATI**: sin cotizar.
 
 **Datos que siguen abiertos:**
-- 🛣️ **Los km del D8** (salida de la costa por la C39 hacia Twyfelfontein): el D7 y el D13 ya se
-  cerraron; este no.
+- 🛣️ **Los km del D8** — **el grueso cerrado el 03/08 (◐):** Terrace Bay → Twyfelfontein son
+  **~216 km** por la ruta directa de Springbokwasser (96 a la puerta + 120 a Twyfelfontein), con el
+  negativo de la C39 como control (Springbokwasser a 40 km de Torra Bay y 170 de Khorixas, Wikipedia).
+  **Solo queda ○ la cola Twyfelfontein → Hoada (~85 km).** Detalle y fuentes en `13`.
 - ⛽ **Si hay diésel en Terrace Bay** y en el bucle Ugabmund–Springbokwasser.
 - 🎫 **La tabla fina de tasas del MEFT**: el N$280/adulto se apoya en secundarias concordantes y en
   la gaceta localizada, pero el PDF primario sigue sin abrirse.
