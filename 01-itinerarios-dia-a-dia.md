@@ -247,8 +247,10 @@ gantt
   valle, es **notablemente más caluroso a mediodía** ○
 - ☀️ amanecer **06:17** (Twyfelfontein) · anochecer **19:15** (Hoada) — *y es domingo otra vez:
   sin alcohol a la venta*
-- Salida por **Springbokwasser** → C39 a Bergsig → **desvío opcional a Twyfelfontein**
-  (grabados rupestres UNESCO; Google lo lista como cerrado: **es un fallo del listado**)
+- Salida por **Springbokwasser** → C39/D3245 → **Twyfelfontein** (grabados rupestres UNESCO; Google
+  lo lista como cerrado: **es un fallo del listado**). **Terrace Bay → Twyfelfontein son ~216 km ◐**
+  *(verificado 03/08: 96 a la puerta de Springbokwasser + 120 a Twyfelfontein; ver `13` y `15`)*;
+  la cola a **Hoada (~85 km) sigue ○**.
 - ⚠️ **Damaraland: los bajos son el punto delicado del seguro** — la referencia de Asco los
   excluía aquí, y **cómo los trata el Premium Cover de tu Namibia2Go Budget sigue SIN confirmar:
   pregúntalo por escrito al reservar**. Despacio en las piedras.
@@ -451,8 +453,9 @@ y el safari como clímax final.
 - ◐ **Km del D7 y del D13 ya cerrados (03/08)** — la costa **Walvis Bay → Terrace Bay ≈ ~380 km**
   (C34 300 km Swakopmund→Torra Bay + 50 a Terrace Bay + 30 de Walvis, fuentes convergentes) y el
   **Namutoni → Windhoek ≈ ~555–575 km** (web de Etosha NP y rome2rio). Detalle y fuentes en `13`.
-- ⚠️ **Sigue sin verificar el D8** — la salida de la costa hacia Twyfelfontein (Terrace Bay →
-  interior por la C39) no se pudo cerrar con fuente (`13`)
+- ◐ **Km del D8 ya cerrados (03/08)** — **Terrace Bay → Twyfelfontein ≈ ~216 km** por la ruta directa
+  de Springbokwasser (96 a la puerta + 120 a Twyfelfontein; routeplanner + negativo de la C39,
+  fuentes convergentes). Solo queda ○ la cola **Twyfelfontein → Hoada (~85 km)**. Detalle y fuentes en `13`.
 - 🚧 **Las obras de Etosha** — confirmar con NWR al reservar *(afectan al D10 de la E,
   Okaukuejo → Halali)*
 - 🕳️ *Residuos del sur (conflicto Keetmanshoop → Hobas, lodges del cañón): **sin efecto en la E***

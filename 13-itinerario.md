@@ -92,8 +92,10 @@ pinchazo = +1 h que no está en ninguna cifra.
   límite: a 70–80 de media son **~5h–5h30 SOLO de volante**, más Cape Cross (~1 h) y el trámite de
   Ugabmund. **Cuenta atrás desde las 15:00 de la puerta: salir de Walvis a las 7:30 deja ~6h30 de
   margen — justo.** Un pinchazo aquí se come el margen entero: sal a las 7:00.
-- **D8 · Terrace Bay → Twyfelfontein → Hoada (~300 km ○)** — grava (a 60–70: 4h20–5h) + grabados →
-  **realista ~5h de volante + visita** ✓
+- **D8 · Terrace Bay → Twyfelfontein → Hoada (~300 km; el tramo Terrace Bay → Twyfelfontein ~216 km
+  ◐ verificado 03/08, la cola a Hoada sigue ○)** — grava. **Terrace Bay → Twyfelfontein son ~216 km**
+  (96 a la puerta de Springbokwasser + 120 de Springbokwasser a Twyfelfontein): a 60–70 son
+  **~3h10–3h35 de volante**; + grabados (~1 h) + la cola a Hoada → **realista ~5h de volante + visita** ✓
 - **D9 · Hoada → Okaukuejo (~315 km ◐)** — grava hasta Kamanjab, asfalto después (firme de la C38
   por confirmar, `01`) → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
 - **D10–D12 · Etosha (60–90 km/día ✅)** — a 60 km/h y parando en cada charca: **el día entero ES
@@ -105,8 +107,9 @@ pinchazo = +1 h que no está en ninguna cifra.
 > **Lectura de conjunto:** ningún día de la E baja de las reglas — el único que exige disciplina de
 > reloj es el **D7** (puerta a las 15:00) y el único largo de verdad es el **D13** (asfalto). Las
 > franjas de `01` son coherentes con este cálculo; el **D7 y el D13 ya se cerraron** (03/08, ver
-> §1 y las fuentes al pie); el que aún hereda incertidumbre de km es el **D8** (Terrace Bay →
-> Twyfelfontein) — **Tracks4Africa antes de apurar horarios**.
+> §1 y las fuentes al pie), y el **03/08 se cerró también el grueso del D8** — Terrace Bay →
+> Twyfelfontein (~216 km ◐, fuentes convergentes) —; lo único que aún hereda incertidumbre de km es
+> la **cola Twyfelfontein → Hoada** (~85 km ○). **Tracks4Africa antes de apurar horarios.**
 
 ---
 
@@ -142,6 +145,14 @@ pero es secundaria y vieja; ver `07`). Los del **sur** los verifiqué en esta pa
   300 km Swakopmund → Torra Bay** (Wikipedia) y **Torra Bay → Terrace Bay son ~50 km**, así que
   **Walvis Bay → Terrace Bay ≈ 30 + 300 + 50 = ~380 km**, y el cruce por Cape Cross (que está sobre
   la propia C34, no es desvío) da ~370–380 km. **Cuadra con el ~390 estimado.**
+- **Salida de la costa (D8) — Terrace Bay → Twyfelfontein ~216 km** ◐ *(verificado 03/08)*: es la ruta
+  **directa por Springbokwasser** (no la vuelta por Khorixas). Desglose: **Terrace Bay → puerta de
+  Springbokwasser ~96 km** (por la costa hasta Torra Bay ~50 + tierra adentro ~40–46 a la puerta) →
+  **Springbokwasser → Twyfelfontein ~120 km** por la D3245/D2612. *(El routeplanner lo da en 216 km;
+  cuadra con el negativo: la puerta de Springbokwasser está a 40 km al este de Torra Bay y a 170 km al
+  oeste de Khorixas por la C39 —Wikipedia—, así que ir por Khorixas serían ~360 km; la ruta directa se
+  ahorra esa vuelta.)* La **cola Twyfelfontein → Hoada (~85 km ○)** sigue sin fuente propia — Hoada
+  está a 75 km al oeste de Kamanjab por la C40, 25 km al este de Grootberg.
 - **Swakopmund → Spitzkoppe**: **~150–180 km** (B2/asfalto vía Usakos + grava final) ◐
 - **Spitzkoppe → Brandberg (Uis)**: **~130 km** de grava ◐ · **Uis → Twyfelfontein**: **~100 km** ◐
 - **Swakopmund → Twyfelfontein** *(directo)*: **400 km** ◐ *(matriz 2010)*
@@ -224,8 +235,10 @@ Cómo salen (redondeo al alza):
 - **Twyfelfontein → Palmwag ~110 km**, **Namutoni → Windhoek ~555–575 km** y el **desglose del D7 por
   la C34** ya **dejaron de ser triangulaciones** (03/08): ahora los apoyan varias fuentes secundarias
   independientes que convergen (◐, ver §1 y Fuentes). Siguen sin ser un GPS 2026, pero coinciden en el rango.
-- **Terrace Bay → Twyfelfontein (parte del D8) sigue sin verificar** (○): la salida de la costa hacia
-  el interior por la C39/D2620 no la pude cerrar con fuente hoy.
+- **Terrace Bay → Twyfelfontein (el grueso del D8) — verificado 03/08 (◐):** ~216 km por la ruta
+  directa de Springbokwasser (96 a la puerta + 120 a Twyfelfontein), con el negativo de la C39 como
+  control (Springbokwasser a 40 km de Torra Bay y 170 de Khorixas). **Solo queda ○ la cola
+  Twyfelfontein → Hoada (~85 km).**
 - **Ninguna de las páginas oficiales de NWR ni de lodges** (fishriverlodge, nwrnamibia) se dejó
   descargar hoy (**HTTP 403**): las rutas del sur se apoyan en descripciones de blogs cruzadas entre
   sí, no en la web del operador. **Confírmalo con el lodge al reservar.**
@@ -255,4 +268,11 @@ Cómo salen (redondeo al alza):
   Otjiwarongo and Tsumeb») y rome2rio (~575 km) *(vía extractos de búsqueda; páginas devuelven 403 al descargar)*
 - **Twyfelfontein → Palmwag — verificado 03/08:** https://padlangsnamibia.com/padlangs-namibia/the-palmwag-experience
   y foro 4x4community *(«~2,5 h» de grava; ~110 km)*
+- **Salida de la costa (D8) Terrace Bay → Twyfelfontein — verificado 03/08 (◐):**
+  https://www.distancesfrom.com/na/Twyfelfontein-to-Terrace-bay-Namibia-Route/RouteplannerHistory/6599689.aspx
+  *(216 km vía Springbokwasser: 96 + 120)* · puerta de Springbokwasser «40 km east of Torra Bay»
+  (https://skeletoncoastparkspringbokwassergate.wheretostay.na/) y «170 km west of Khorixas» +
+  C39 de 494 km Torra Bay→Khorixas→Outjo→Otavi (https://en.wikipedia.org/wiki/C39_road_(Namibia)) ·
+  Hoada «75 km west of Kamanjab on the C40, 25 km east of Grootberg» (https://grootberg.com/hoada-campsite/)
+  *(páginas no descargadas; datos de los extractos de búsqueda, convergentes)*
 - Matriz de distancias del eje central: Namibia Tours & Safaris (2010), recogida en `07-logistica.md`

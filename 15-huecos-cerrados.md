@@ -193,8 +193,9 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 **Datos que siguen abiertos:**
 
-- 🛣️ **Los km del D8** *(salida de la costa por la C39 hacia Twyfelfontein)* — el D7 y el D13 ya se
-  cerraron con fuentes convergentes.
+- 🛣️ **La cola del D8**: Twyfelfontein → Hoada, **~85 km ○**. El grueso ya está cerrado (03/08, ◐):
+  Terrace Bay → Twyfelfontein son **~216 km** por Springbokwasser *(96 hasta la puerta + 120)*, con
+  el negativo de la C39 como control. El D7 y el D13 también se cerraron. Detalle en [`13`](13-itinerario.md).
 - ⛽ **Si hay diésel en Terrace Bay** y en el bucle Ugabmund–Springbokwasser.
 - 🎫 **La tabla fina de tasas del MEFT**: el PDF primario sigue sin abrirse.
 - 🚧 **El estado de las obras Okaukuejo–Halali en noviembre de 2026**: la última nota oficial es de
