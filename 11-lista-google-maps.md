@@ -54,25 +54,14 @@ además del tiempo: tres de tus pines **chocan con cláusulas del seguro ya veri
 
 ### 1. Epupa + Opuwo = Kaokoland ✅ — la zona donde tu seguro se cae
 
-Los T&C de Asco (versión 01/06/2026) dicen literalmente que **no pueden garantizar asistencia
-técnica en 24 horas** en *«Namibia: Kaokoland and Damaraland»*. Y peor, para
-*«Kaokoland and Damaraland: Offroad tracks and Van Zyl's Pass, including official gravel roads
-**D3707 and D3703**»*:
+**El seguro no cubre esa zona.** Los contratos del sector excluyen expresamente **Kaokoveld y
+Damaraland** de la cobertura de bajos y no garantizan asistencia en 24 h; en las pistas de
+*offroad* de allí el arrendatario paga **todo** —grúa, reparación, sustitución del vehículo—
+aunque haya contratado la cobertura máxima. **La cláusula literal, con su cita y su fuente, está en
+[`06-conduccion`](06-conduccion.md) §7**, que es donde vive el contrato.
 
-> *«The renter will be responsible for all costs (tow-in costs, repairs, and vehicle exchange costs)
-> resulting from any damages, including undercarriage damages, damages or breakdowns caused by heavy
-> vibrations due to the poor condition of the roads/tracks, or damages and breakdowns caused by
-> collisions with large stones or crevices... **EVEN IF THE SUPER COVER IS CHOSEN**.»*
-
-Y el **Super Cover** ya excluye de por sí los bajos *«excluding Kaokoveld and Damaraland Area»*.
-
-*(Cláusulas de **Asco** — la referencia descargada; el contrato del proveedor contratado,
-Namibia2Go, sigue sin verificar. Para este descarte da igual: Kaokoland queda fuera de la ruta E
-de todas formas.)*
-
-> 👉 **Traducción:** en Kaokoland vas **sin cobertura de bajos y sin rescate garantizado**, pagues lo
-> que pagues. Y el rescate **no tiene tope** (cláusula 10.5.7: la franquicia elegida *«does not
-> limit The Renter's liability for... recovery costs»*).
+*(Para este descarte da igual el proveedor: Kaokoland queda fuera de la ruta por kilómetros, y el
+seguro es solo el segundo motivo.)*
 
 #### Las cifras que lo descartan ◐
 

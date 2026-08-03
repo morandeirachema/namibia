@@ -11,7 +11,7 @@ bebiendo de noche a diez metros · cuatro noches de safari en Etosha*
 
 Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 03·08·2026.
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 144 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 143 páginas
 
 *Todo esto en un solo documento maquetado, con fotos y los 56 diagramas — para leer del tirón,
 imprimir o llevar sin conexión.*
@@ -203,135 +203,28 @@ flowchart LR
 
 <div align="center">
 
-## ✈️ El vuelo — cerrado
+## ✈️ El vuelo y 🩺 el seguro — los dos cerrados
 
 </div>
 
-> # €1.366 por persona · €2.732 la pareja
-> ### A Coruña → Windhoek, ida y vuelta, turista *(Gotogate; Mytrip €1.390, Booking €1.391)*
+> # €1.366 por persona el vuelo · €113,02 el seguro
+> ### A Coruña → Windhoek 31 oct – 14 nov · IATI Estrella 31/10 – 15/11
 
-```mermaid
-flowchart LR
-    subgraph IDA["IDA · sab 31 oct · 19h20 · 2 escalas"]
-        I1["LCG 17:00"] --> I2["MAD 18:10<br/>Air Europa"]
-        I2 -->|"3h15"| I3["MAD 21:25"]
-        I3 --> I4["ADD 6:15+1<br/>Ethiopian"]
-        I4 -->|"2h20 "| I5["ADD 8:35"]
-        I5 --> I6["WDH 13:20<br/>1 NOVIEMBRE"]
-    end
-    style I6 fill:#2d6a4f,color:#fff
-```
+- ✈️ **Ida** sáb 31 oct por Madrid y Adís, **aterrizas el 1 de noviembre a las 13:20**. **Vuelta**
+  sáb 14 por Adís, Roma y Madrid — dura 26h40 y llegas a casa el día 15 a las 16:10.
+- 🎉 **Y resuelve solo la fiebre amarilla**: las escalas en Adís son de 2h20 y 2h45, *airside*, muy
+  por debajo del umbral de 12 h. **No hace falta vacunarse.**
+- ⚠️ **Dos cosas antes de pagar**: que sea **billete único** *(la vuelta lleva tres compañías)* y
+  que **incluya maleta facturada**.
+- 🩺 **El seguro llega hasta el día 15**, no hasta el 14: son 16 horas de vuelta que sin eso irían
+  sin cobertura, y cerrar ese hueco costó **€14,69**.
+- 👉 **Dos cosas que pedirle a IATI por escrito**: que cubra **evacuación aérea DENTRO del país**
+  *(cerca de Sesriem no hay hospital)* y **añadirle búsqueda y salvamento**, que en el Estrella es
+  opcional y el Mochilero sí trae.
 
-```mermaid
-flowchart LR
-    subgraph VUELTA["VUELTA · sab 14 nov · 26h40 · 3 escalas"]
-        V1["WDH 14:30"] --> V2["ADD 21:20<br/>Ethiopian"]
-        V2 -->|"2h45 "| V3["ADD 0:05+1"]
-        V3 --> V4["FCO 4:35"]
-        V4 -->|"3h35"| V5["FCO 8:10"]
-        V5 --> V6["MAD 10:45<br/>ITA"]
-        V6 -->|"4h10"| V7["MAD 14:55"]
-        V7 --> V8["LCG 16:10"]
-    end
-    style V8 fill:#e85d04,color:#000
-```
-
-### 🎉 Tres buenas noticias
-
-**1 · Sin fiebre amarilla.** La regla es **>12 h de tránsito** por país de riesgo. Tus escalas en
-Adís son de **2h20 (ida)** y **2h45 (vuelta)**, las dos *airside*: **muy por debajo del umbral**.
-Era el punto que llevaba semanas abierto y que se decidía justo al comprar el billete — **este
-itinerario lo resuelve solo**. Una escala larga, o la parada gratis en ciudad de Ethiopian, sí la
-habrían disparado.
-
-**2 · Las fechas caen clavadas en la ruta.** Aterrizas el **1 de noviembre a las 13:20** y despegas
-el **14 a las 14:30**: **13 noches, 14 días** — exactamente la ruta, con D1 el 1 y D14 el 14.
-
-**3 · Y el calendario no podía salir mejor.** Sales el 31 de octubre pero **no duermes ni una noche
-en Namibia en octubre**: todas tus noches NWR caen en el **tramo barato** desde la primera, y el
-alquiler (1–14 nov, **13 días**) entra entero en la **temporada baja de Namibia2Go**.
-
-### ⚠️ Dos cosas que confirmar antes de pagar
-
-- **Que sea billete único.** La vuelta lleva **tres compañías** (Ethiopian + ITA + Air Europa). En
-  un solo billete, una conexión perdida es problema de la aerolínea; en billetes separados, es tuyo.
-- **Que incluya maleta facturada.** El tramo de Air Europa podría tener franquicia distinta a la de
-  Ethiopian.
-
-*La vuelta es dura, dicho sea: 26h40, salida de Adís a las 0:05 y 4h10 de espera en Madrid.*
-
----
-
-<div align="center">
-
-## 🩺 El seguro — IATI Estrella
-
-</div>
-
-> ### €226,04 la pareja · **€113,02 por persona** *(31/10 – 15/11)*
-
-### ✅ Las fechas ya llegan hasta el 15 — y costó €14,69
-
-La primera simulación iba del **31/10 al 14/11** y **se quedaba un día corta**: sales de Windhoek el
-14 a las 14:30, pero **despegas de Adís a las 00:05 del día 15** y aterrizas en A Coruña a las
-**16:10 del 15**. Eran **16 horas de vuelta sin seguro**, justo el tramo más largo y con más
-conexiones del viaje.
-
-- Estrella · 31/10 – 14/11 *(con hueco)* — €211,35
-- Estrella · **31/10 – 15/11** *(correcto)* — **€226,04** · **€113,02 p.p.**
-- **Coste de cerrar el hueco: +€14,69** *(+€7,35 por persona)*
-
-**Catorce euros y setenta céntimos por no volver a casa sin seguro.** *(Curiosidad: al Estándar el
-día extra le sale gratis — mismo precio con y sin él.)*
-
-### ✅ Cumple la condición de entrada
-
-Namibia **exige** seguro médico con **repatriación sanitaria**. El Estrella la lleva al **100 %** —
-requisito cumplido. *(Las tres modalidades de IATI la cubren, así que por el requisito legal
-cualquiera valdría.)*
-
-**Lo que sí compra el Estrella:** asistencia médica **ilimitada** *(Mochilero 1,5 M€ · Estándar
-1 M€)*, regreso anticipado por cierre de fronteras y 4.000 € de equipaje. *En un país donde no hay
-hospital cerca de Sesriem y la evacuación aérea es todo el argumento, «ilimitado» no es marketing.*
-
-### ⚠️ Búsqueda y salvamento: el top lo deja opcional… y el Mochilero lo incluye
-
-Curiosidad de la tabla que conviene mirar dos veces: **«Búsqueda y salvamento» viene INCLUIDO en el
-Mochilero (15.000 €) pero es OPCIONAL en el Estrella.**
-
-Y en **este** viaje importa: **Damaraland, el Namib y buena parte de la ruta no tienen cobertura
-móvil**. Es exactamente el escenario para el que existe esa garantía.
-
-> 👉 **Añádele la opción de búsqueda y salvamento al Estrella.** Si no, tienes el seguro más caro sin
-> una cobertura que sí trae el más barato.
-
-### 🔁 La franquicia de coche de alquiler te sobra
-
-El Estrella cubre **1.000 € de franquicia del coche**. Pero tu **Namibia2Go lleva Premium Insurance
-Cover = franquicia CERO**: **no hay franquicia que cubrir**. Es una garantía casi redundante en tu
-caso — no la cuentes como valor. *(Único resquicio: la franquicia cero de N2Go «decae con
-negligencia probada» — pero la negligencia suele estar excluida también en el seguro de viaje.)*
-
-### ❓ La pregunta que decide: ¿evacuación aérea DENTRO del país?
-
-La tabla dice **«Repatriación o transporte de enfermos: 100 %»**. **Repatriación** es traerte a
-España. Lo que este viaje necesita es lo otro: **que te saquen en avión de una pista remota hasta
-Windhoek**. Cerca de Sesriem **no hay hospital** *(Windhoek a ~320 km, Walvis Bay a ~270, ambos 4+ h
-de grava)*. **La tabla no lo aclara.**
-
-> 👉 **Pregúntaselo a IATI por escrito antes de contratar.** Es la cobertura que de verdad cambia
-> algo aquí.
-
-### Las tres, comparadas
-
-- IATI **Estándar** — €117,41 *(€58,70 p.p.)*
-- IATI **Mochilero** — €175,49 *(€87,75 p.p.)* · **incluye búsqueda y salvamento**
-- 🏆 IATI **Estrella** — **€226,04** *(€113,02 p.p.)* · **médica ilimitada** · *búsqueda y salvamento opcional*
-
-*Estrella vs Mochilero: **+€50,55** (+€25,27 por persona).*
-
-
----
+📖 **El detalle completo de los dos —el itinerario tramo a tramo, la comparativa de las tres
+modalidades de IATI y por qué la franquicia de coche sobra— está en
+[`02-presupuesto`](02-presupuesto.md).**
 
 <div align="center">
 
@@ -361,40 +254,20 @@ pie showData
 
 *Vuelo y coche son el **69 %** del viaje. Todo lo demás junto son ~€1.030.*
 
-### 👤 El desglose, por persona
+### 👤 El desglose y el coche, en una línea
 
-- ✈️ **Vuelo** — **€1.366** ✅ *ida y vuelta LCG–WDH, turista*
-- 🚙 **Coche** — **€900** ✅ *mitad de €1.800 · 12 días · Namibia2Go **Budget**, disponible*
-- ⛺ **Alojamiento** — **~€285** *· mitad de ~€570 · 13 noches*
-  - *6 noches NWR **verificadas**: **€159** ✅ (N$3.180 p.p.)*
-  - *Hoada (D8) cerrado ◐: N$542–732/noche pareja (~€27–37)*
-  - *4 campings sin precio + Terrace Bay + hotel del D13: **~€126** ○ — **con sesgo al alza**: Terrace
-    Bay es un resort con media pensión (suelo ~€144–192 la pareja SÓLO esa noche), no un camping ◐*
-- ⛽ **Combustible** — **~€200** ○ *· mitad de ~€400 · ~2.600 km*
-- 🍖 **Comida** — **~€140** ○ *· supermercado y braai*
-- 🎫 **Tasas de parque** — **~€109** ◐ *· mitad de ~€217 · 7 unidades de 24 h*
-- 🩺 **Seguro** — **€113,02** ✅ *· IATI Estrella, 31/10–15/11*
-- 🛂 **Visado** — **€80** ✅ *· e-visa, N$1.600*
-- 🎯 **Actividades** — **~€38** ○ *· lanzadera Deadvlei + una*
-- 🧷 **Misceláneos** — **~€75** ○ *· SIM, propinas, imprevistos*
+- ✈️ Vuelo **€1.366** ✅ · 🚙 Coche **€900** ✅ · ⛺ Alojamiento **~€285** · ⛽ Combustible **~€200** ·
+  🍖 Comida **~€140** · 🩺 Seguro **€113** ✅ · 🎫 Tasas **~€109** ◐ · 🛂 Visado **€80** ✅ ·
+  🎯 Actividades y varios **~€113**
+- **El 79 % ya está cerrado** con precio real: vuelo, coche, seguro, visado y las 6 noches de NWR.
+  Lo estimado (~€578) son las 7 noches sin precio, el combustible, la comida y los misceláneos.
+- 🚙 **El coche**: Namibia2Go **Budget**, €150,00/día × 12 días (1–13 nov) = **€1.800** con
+  impuestos, ✅ disponible, con **km ilimitados** y **Premium Insurance Cover**.
+- ⚠️ **Ojo al calendario**: son **12 días de coche pero 13 noches**. La del 13 en Windhoek te quedas
+  sin coche → hotel y traslado, o añadir el día (~€150) y devolverlo el 14 camino del aeropuerto.
 
-> ### **TOTAL POR PERSONA: ~€3.306** *(~N$66.000)*
-> ### **TOTAL LA PAREJA: ~€6.612** *(~N$132.000)*
-
-### 🚙 El coche: **€1.800 cerrados y disponibles**
-
-**Namibia2Go 4x4 BUDGET camping equipped double cab** — €150,00/día × 12 días *(1–13 nov)* =
-**€1.800** con impuestos, ✅ **disponible**. Automático, diésel, **km ilimitados** y **Premium
-Insurance Cover** (franquicia cero) incluidos.
-
-*Y mi estimación se queda muy cerca: calculé €1.755 para la clase budget y el precio real es
-**€1.800** — un 2,5 % de diferencia.* **Se acabó el rango «N2Go vs Asco»**: el coche es cifra
-cerrada y el presupuesto se estrecha de golpe.
-
-> ⚠️ **Ojo al calendario:** el coche son **12 días (1–13)** pero estás **13 noches (1–14)**. La
-> noche del **13 en Windhoek te quedas sin coche** → hotel y traslado al aeropuerto.
-> *Alternativa: añadir el día 13 (~€150) y devolverlo el 14 camino del aeropuerto — puede salir
-> igual o más barato que hotel + dos traslados.*
+📖 **El desglose completo, partida a partida, con qué está cerrado y qué es estimación —y qué pasa
+si vais 3 o 4 en el mismo coche— está en [`02-presupuesto`](02-presupuesto.md).**
 
 ### 🎥 El coche por dentro — y qué te da exactamente la Budget
 

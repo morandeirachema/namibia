@@ -82,7 +82,7 @@ ilimitados** y **Premium Insurance Cover** (franquicia cero) incluidos.
 **❌ Importe exacto no verificado.** Hay que tener margen en la tarjeta.
 
 > Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)
-> · precio de la cotización cerrada (ver README).
+> · precio de la cotización cerrada .
 
 ---
 
@@ -202,25 +202,129 @@ publicar en el boletín: **usa el e-visa**. Fuente:
 
 ## 7. Seguro de viaje — cerrado ✅
 
-**IATI Estrella, pareja, fechas 31/10 – 15/11** *(la vuelta aterriza en A Coruña el día 15 → el seguro
-llega hasta el 15)*: **€226,04 la pareja / €113,02 por persona** ✅. Cubre la **repatriación sanitaria
-al 100 %** (requisito legal de entrada a Namibia) y asistencia médica **ilimitada**.
+> ### €226,04 la pareja · **€113,02 por persona** *(31/10 – 15/11)*
 
-> ⚠️ **Dos matices del detalle del seguro** (ver README): la **búsqueda y salvamento** es **opcional**
-> en el Estrella (incluida en el Mochilero) — **conviene añadirla** para Damaraland/Namib sin cobertura
-> móvil; y la **franquicia de coche** del seguro sobra, porque el Namibia2Go ya lleva franquicia cero.
+### ✅ Las fechas ya llegan hasta el 15 — y costó €14,69
+
+La primera simulación iba del **31/10 al 14/11** y **se quedaba un día corta**: sales de Windhoek el
+14 a las 14:30, pero **despegas de Adís a las 00:05 del día 15** y aterrizas en A Coruña a las
+**16:10 del 15**. Eran **16 horas de vuelta sin seguro**, justo el tramo más largo y con más
+conexiones del viaje.
+
+- Estrella · 31/10 – 14/11 *(con hueco)* — €211,35
+- Estrella · **31/10 – 15/11** *(correcto)* — **€226,04** · **€113,02 p.p.**
+- **Coste de cerrar el hueco: +€14,69** *(+€7,35 por persona)*
+
+**Catorce euros y setenta céntimos por no volver a casa sin seguro.** *(Curiosidad: al Estándar el
+día extra le sale gratis — mismo precio con y sin él.)*
+
+### ✅ Cumple la condición de entrada
+
+Namibia **exige** seguro médico con **repatriación sanitaria**. El Estrella la lleva al **100 %** —
+requisito cumplido. *(Las tres modalidades de IATI la cubren, así que por el requisito legal
+cualquiera valdría.)*
+
+**Lo que sí compra el Estrella:** asistencia médica **ilimitada** *(Mochilero 1,5 M€ · Estándar
+1 M€)*, regreso anticipado por cierre de fronteras y 4.000 € de equipaje. *En un país donde no hay
+hospital cerca de Sesriem y la evacuación aérea es todo el argumento, «ilimitado» no es marketing.*
+
+### ⚠️ Búsqueda y salvamento: el top lo deja opcional… y el Mochilero lo incluye
+
+Curiosidad de la tabla que conviene mirar dos veces: **«Búsqueda y salvamento» viene INCLUIDO en el
+Mochilero (15.000 €) pero es OPCIONAL en el Estrella.**
+
+Y en **este** viaje importa: **Damaraland, el Namib y buena parte de la ruta no tienen cobertura
+móvil**. Es exactamente el escenario para el que existe esa garantía.
+
+> 👉 **Añádele la opción de búsqueda y salvamento al Estrella.** Si no, tienes el seguro más caro sin
+> una cobertura que sí trae el más barato.
+
+### 🔁 La franquicia de coche de alquiler te sobra
+
+El Estrella cubre **1.000 € de franquicia del coche**. Pero tu **Namibia2Go lleva Premium Insurance
+Cover = franquicia CERO**: **no hay franquicia que cubrir**. Es una garantía casi redundante en tu
+caso — no la cuentes como valor. *(Único resquicio: la franquicia cero de N2Go «decae con
+negligencia probada» — pero la negligencia suele estar excluida también en el seguro de viaje.)*
+
+### ❓ La pregunta que decide: ¿evacuación aérea DENTRO del país?
+
+La tabla dice **«Repatriación o transporte de enfermos: 100 %»**. **Repatriación** es traerte a
+España. Lo que este viaje necesita es lo otro: **que te saquen en avión de una pista remota hasta
+Windhoek**. Cerca de Sesriem **no hay hospital** *(Windhoek a ~320 km, Walvis Bay a ~270, ambos 4+ h
+de grava)*. **La tabla no lo aclara.**
+
+> 👉 **Pregúntaselo a IATI por escrito antes de contratar.** Es la cobertura que de verdad cambia
+> algo aquí.
+
+### Las tres, comparadas
+
+- IATI **Estándar** — €117,41 *(€58,70 p.p.)*
+- IATI **Mochilero** — €175,49 *(€87,75 p.p.)* · **incluye búsqueda y salvamento**
+- 🏆 IATI **Estrella** — **€226,04** *(€113,02 p.p.)* · **médica ilimitada** · *búsqueda y salvamento opcional*
+
+*Estrella vs Mochilero: **+€50,55** (+€25,27 por persona).*
+
+
+---
 
 ---
 
 ## 8. Vuelos — cerrados ✅
 
-**A Coruña → Windhoek, ida y vuelta, turista.** Comprado: **€1.366/persona → €2.732 la pareja** ✅.
-Ida sáb 31 oct (LCG–MAD–ADD–WDH, aterriza **1 nov 13:20**), vuelta sáb 14 nov (WDH–ADD–FCO–MAD–LCG,
-aterriza **15 nov 16:10**). *(Gotogate; Mytrip €1.390, Booking €1.391 — ver README.)*
+> # €1.366 por persona · €2.732 la pareja
+> ### A Coruña → Windhoek, ida y vuelta, turista *(Gotogate; Mytrip €1.390, Booking €1.391)*
 
-> Las escalas en Adís (2h20 ida, 2h45 vuelta, *airside*) quedan **muy por debajo** del umbral de 12 h
-> que activaría el certificado de fiebre amarilla: **no hace falta**. Confirmar que es **billete único**
-> y que **incluye maleta facturada** (ver README).
+```mermaid
+flowchart LR
+    subgraph IDA["IDA · sab 31 oct · 19h20 · 2 escalas"]
+        I1["LCG 17:00"] --> I2["MAD 18:10<br/>Air Europa"]
+        I2 -->|"3h15"| I3["MAD 21:25"]
+        I3 --> I4["ADD 6:15+1<br/>Ethiopian"]
+        I4 -->|"2h20 "| I5["ADD 8:35"]
+        I5 --> I6["WDH 13:20<br/>1 NOVIEMBRE"]
+    end
+    style I6 fill:#2d6a4f,color:#fff
+```
+
+```mermaid
+flowchart LR
+    subgraph VUELTA["VUELTA · sab 14 nov · 26h40 · 3 escalas"]
+        V1["WDH 14:30"] --> V2["ADD 21:20<br/>Ethiopian"]
+        V2 -->|"2h45 "| V3["ADD 0:05+1"]
+        V3 --> V4["FCO 4:35"]
+        V4 -->|"3h35"| V5["FCO 8:10"]
+        V5 --> V6["MAD 10:45<br/>ITA"]
+        V6 -->|"4h10"| V7["MAD 14:55"]
+        V7 --> V8["LCG 16:10"]
+    end
+    style V8 fill:#e85d04,color:#000
+```
+
+### 🎉 Tres buenas noticias
+
+**1 · Sin fiebre amarilla.** La regla es **>12 h de tránsito** por país de riesgo. Tus escalas en
+Adís son de **2h20 (ida)** y **2h45 (vuelta)**, las dos *airside*: **muy por debajo del umbral**.
+Era el punto que llevaba semanas abierto y que se decidía justo al comprar el billete — **este
+itinerario lo resuelve solo**. Una escala larga, o la parada gratis en ciudad de Ethiopian, sí la
+habrían disparado.
+
+**2 · Las fechas caen clavadas en la ruta.** Aterrizas el **1 de noviembre a las 13:20** y despegas
+el **14 a las 14:30**: **13 noches, 14 días** — exactamente la ruta, con D1 el 1 y D14 el 14.
+
+**3 · Y el calendario no podía salir mejor.** Sales el 31 de octubre pero **no duermes ni una noche
+en Namibia en octubre**: todas tus noches NWR caen en el **tramo barato** desde la primera, y el
+alquiler (1–14 nov, **13 días**) entra entero en la **temporada baja de Namibia2Go**.
+
+### ⚠️ Dos cosas que confirmar antes de pagar
+
+- **Que sea billete único.** La vuelta lleva **tres compañías** (Ethiopian + ITA + Air Europa). En
+  un solo billete, una conexión perdida es problema de la aerolínea; en billetes separados, es tuyo.
+- **Que incluya maleta facturada.** El tramo de Air Europa podría tener franquicia distinta a la de
+  Ethiopian.
+
+*La vuelta es dura, dicho sea: 26h40, salida de Adís a las 0:05 y 4h10 de espera en Madrid.*
+
+---
 
 ---
 
@@ -382,7 +486,7 @@ flowchart TD
 
 ## Fuentes
 
-- **Coche**: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab) — cotización cerrada, ver README.
+- **Coche**: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab) — cotización cerrada, arriba.
 - **Alojamiento NWR**: [NWR Rack Rates 2026/2027 (PDF)](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf) — ver `03` y `01`.
 - **Tasas de parque**: [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
   [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/) — ver `12` y `15`.
@@ -390,5 +494,5 @@ flowchart TD
 - **Diésel**: [GlobalPetrolPrices — Namibia](https://www.globalpetrolprices.com/Namibia/diesel_prices/) ·
   [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) ·
   [thebrief.com.na — rebaja julio 2026](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/).
-- **Seguro y vuelos**: cotizaciones cerradas (IATI Estrella; Gotogate/Mytrip/Booking) — ver README.
+- **Seguro y vuelos**: cotizaciones cerradas (IATI Estrella; Gotogate/Mytrip/Booking) — arriba.
 - **Ruta y distancias**: [`13-itinerario.md`](13-itinerario.md) *(histórico del sur)* y [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md) *(la ruta vigente)*.
