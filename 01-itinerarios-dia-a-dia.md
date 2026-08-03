@@ -465,8 +465,11 @@ y el safari como clímax final.
   los lodges privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También
   cerrado el **camping de Spitzkoppe: N$270/persona → N$540/noche (~€27), entrada incluida** ◐
   *(fuera de la ruta E)*
-- ⚠️ **Etapas con km sin verificar** — el eje de la costa y Damaraland (D7–D9) y el
-  Namutoni → Windhoek del D13 (`13`)
+- ◐ **Km del D7 y del D13 ya cerrados (03/08)** — la costa **Walvis Bay → Terrace Bay ≈ ~380 km**
+  (C34 300 km Swakopmund→Torra Bay + 50 a Terrace Bay + 30 de Walvis, fuentes convergentes) y el
+  **Namutoni → Windhoek ≈ ~555–575 km** (web de Etosha NP y rome2rio). Detalle y fuentes en `13`.
+- ⚠️ **Sigue sin verificar el D8** — la salida de la costa hacia Twyfelfontein (Terrace Bay →
+  interior por la C39) no se pudo cerrar con fuente (`13`)
 - 🚧 **Las obras de Etosha** — confirmar con NWR al reservar *(afectan al D10 de la E,
   Okaukuejo → Halali)*
 - 🕳️ *Residuos del sur (conflicto Keetmanshoop → Hobas, lodges del cañón): **sin efecto en la E***
