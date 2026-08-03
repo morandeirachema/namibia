@@ -1,8 +1,9 @@
-# 11 · Tus 34 pines de Google Maps
+# 11 · Entradas, permisos y qué cuesta cada visita
 
 > **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> La lista del viajero, medida y triada: qué cabe, qué cuesta un desvío y qué choca con el seguro.
+> Lo que cuesta entrar en cada sitio de la ruta, con su fuente — y, al final, qué quedó fuera de
+> tus 34 pines de Google Maps y por qué.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
@@ -12,173 +13,7 @@
 
 ---
 
-## 🔴 El titular, sin rodeos
-
-> ### Esta lista no cabe en 14 días. Ni de lejos.
-
-Tus pines van desde **Cataratas Epupa** (frontera con Angola, extremo noroeste) hasta **Lüderitz**
-(suroeste atlántico), pasando por **Tsumkwe** (extremo este, Bushmanland). Eso es **el país entero**.
-
-```mermaid
-flowchart TD
-    W["WINDHOEK<br/>base"]
-    W --> NW["EXTREMO NOROESTE<br/>Epupa · Opuwo<br/>Kaokoland"]
-    W --> NE["EXTREMO NORESTE<br/>Tsumkwe<br/>Bushmanland"]
-    W --> SE["SURESTE<br/>Kgalagadi<br/>DESCARTADO<br/>no se cruza a Sudafrica"]
-    W --> SW["EXTREMO SUROESTE<br/>Luderitz · Elizabeth Bay<br/>DESCARTADO 17/07<br/>el sur quedo fuera entero"]
-    W --> C["CENTRO Y COSTA<br/>Etosha · Swakopmund<br/>Sossusvlei · Damaraland<br/>LA RUTA · la ruta"]
-    style NW fill:#9d0208,color:#fff
-    style NE fill:#9d0208,color:#fff
-    style SE fill:#4a4a4a,color:#fff
-    style SW fill:#4a4a4a,color:#fff
-    style C fill:#2d6a4f,color:#fff
-```
-
-**Los extremos son direcciones opuestas desde Windhoek.** No hay circuito que los una en dos
-semanas: cada uno es un viaje en sí mismo.
-
-**Decisiones ya tomadas que recortan el mapa**:
-- ❌ **El sur se quitó entero** — Lüderitz, Kolmanskop, Fish River y los kokerbooms quedan para otro
-  viaje, y **ya no se documentan en este dossier**
-- ❌ **No se cruza a Sudáfrica** → el sureste, fuera
-- ❌ **Kaokoland (Epupa, Opuwo)**, fuera: ~4 días solo de conducción y sin cobertura de seguro
-
-
-Esto **no** es una crítica a la lista — es una lista excelente de Namibia. Es una **lista de deseos
-de país entero**, y el trabajo ahora es **triar**, no meterlo todo con calzador. Y hay motivos
-además del tiempo: tres de tus pines **chocan con cláusulas del seguro ya verificadas**.
-
----
-
-## 🚨 Tres pines que chocan con lo ya verificado
-
-### 1. Epupa + Opuwo = Kaokoland ✅ — la zona donde tu seguro se cae
-
-**El seguro no cubre esa zona.** Los contratos del sector excluyen expresamente **Kaokoveld y
-Damaraland** de la cobertura de bajos y no garantizan asistencia en 24 h; en las pistas de
-*offroad* de allí el arrendatario paga **todo** —grúa, reparación, sustitución del vehículo—
-aunque haya contratado la cobertura máxima. **La cláusula literal, con su cita y su fuente, está en
-[`06-conduccion`](06-conduccion.md) §7**, que es donde vive el contrato.
-
-*(Para este descarte da igual el proveedor: Kaokoland queda fuera de la ruta por kilómetros, y el
-seguro es solo el segundo motivo.)*
-
-#### Las cifras que lo descartan ◐
-
-```mermaid
-flowchart LR
-    W["Windhoek"] -->|"~730 km asfalto B1 + C40<br/>día entero al volante"| O["Opuwo"]
-    O -->|"C43 ~180-200 km grava<br/>3 h en seco / 4-5 h realista"| E["Epupa Falls"]
-    E -.->|"vuelta: otro tanto"| W
-```
-
-- **Windhoek → Opuwo: ~730 km por carretera** (línea recta ~602 km; «unos 720 km al nornoroeste de
-  Windhoek» según la ficha de Opuwo). Es **asfalto casi todo** —B1 al norte y luego Outjo→Kamanjab
-  (C40, asfaltado ese tramo)→Opuwo (~203 km)—, pero son **~730 km = un día entero de conducción** solo
-  para *llegar al punto de partida* del desvío.
-- **Opuwo → Epupa: ~180–200 km por la C43, toda grava.** Los propios lodges la cifran en «unos 200 km,
-  unas 3 h» *en seco*; realista **4–5 h** a 80 km/h con vados, lechos secos y ganado. La C43 **se
-  degrada en cada temporada de lluvias** y el vado de Okongwati puede cortar horas si baja crecido.
-- **Matiz importante (corrige una imprecisión previa):** la ruta normal Opuwo→Epupa es la **C43**, una
-  carretera de grava mantenida —**no** las pistas de *offroad* D3707/D3703 (Van Zyl's Pass, ruta oeste
-  de Marienfluss) que los T&C de Asco excluyen por su nombre. Aun así **la C43 sigue dentro de
-  «Kaokoveld»**, la zona que el Super Cover excluye de cobertura de bajos y de rescate garantizado, así
-  que **el argumento del seguro se mantiene** para toda la región.
-
-> 👉 **La aritmética del descarte:** desde el punto más cercano de la ruta prevista (el eje de Etosha /
-> Damaraland), Epupa es un **desvío de ~2 días de ida y ~2 de vuelta**, metiéndote **justo en la zona
-> sin cobertura**. Con el coche solo 12-13 días útiles (ver `13`), **no cabe** — y no por gusto, sino
-> por kilómetros. **Descartado con números.**
-
-**Fuentes** ◐ *(vía WebSearch; no descargadas —el egress de la organización bloquea WebFetch/curl a
-todos estos hosts con `403`—, pero las cifras **convergen entre calculadoras independientes y las
-páginas de indicaciones de los propios lodges**, y sirven para el descarte, no para navegar):*
-[Wikipedia — C43 road](https://en.wikipedia.org/wiki/C43_road_(Namibia)) ·
-[Wikipedia — Opuwo](https://en.wikipedia.org/wiki/Opuwo) ·
-[geodatos — Windhoek→Opuwo](https://www.geodatos.net/en/distances/from-windhoek-to-opuwo) ·
-[Epupa Falls Lodge — road conditions](https://epupafallslodge.com/the-road-less-travelled-road-conditions/) ·
-[Epupa Camp — directions](https://epupa.com.na/directions/)
-
-### 2. ~~Mata-Mata / Kgalagadi~~ — ❌ DESCARTADO por decisión del viajero (17/07/2026)
-
-**No se cruza a Sudáfrica.** El **Kgalagadi Transfrontier Park** es sudafricano-botsuano y
-**Mata-Mata es el puesto fronterizo** de entrada desde Namibia, así que queda **fuera del viaje**.
-
-**Y es una buena decisión**, porque se evita todo esto:
-- **Tasas de frontera**: ✅ verificado en `12` que Asco **excluye** *«cross-border fees»* de la
-  tarifa, y Namibia2Go excluye *«Border Fees»* (aunque incluya la documentación del cruce)
-- **Autorización escrita del propietario del vehículo** para cruzar, que hay que pedir al reservar
-- La duda de si **el seguro sigue vigente** al otro lado
-- ✅ El **NAD no sirve en Sudáfrica** (aunque el ZAR sí sirva en Namibia)
-
-👉 Al caer Kgalagadi, **el sureste desaparece del mapa** y los días vuelven al eje que ya está
-decidido.
-
-### ⚠️ Y dos avisos menores
-
-- **Skeleton Coast National Park**: exige permiso, y **el sector norte es solo por concesión** (no
-  self-drive). ✅ **Resuelto abajo** (§Zonas restringidas): el self-drive es el tramo Ugabmund–
-  Springbokwasser con permiso de tránsito **gratis** — justo el D7 de la ruta E, con **entrada
-  antes de las 15:00 y reserva confirmada** para pernoctar; **Torra Bay abre solo diciembre-enero,
-  así que en tu ventana está CERRADO** (Terrace Bay, NWR, sí abre todo el año con reserva previa).
-- **Messum Crater**: remoto, sin señalizar, sobre campos de **líquenes** que se dañan con las ruedas.
-  ✅ **Resuelto abajo** (§Zonas restringidas): 4x4 imprescindible, permiso gratis en Henties Bay,
-  **desaconsejado como self-drive turístico** por el riesgo ecológico → fuera de este viaje.
-
----
-
-## 📍 Tu lista, ordenada por geografía
-
-> ⚠️ **Esta es tu lista original de pines.** Varias paradas de la **ruta E** no estaban en ella y
-> por eso no aparecen aquí — **Spreetshoogte, Terrace Bay, Hoada** — pero están medidas y con
-> alojamiento en `01`.
-
-### Extremo noroeste — Kaokoland *(el más caro en tiempo)*
-- **Cataratas Epupa** — atracción turística, 4,6★ (398). Río Kunene, frontera con Angola
-- **Opuwo** — capital de Kaokoland, base para Epupa
-- **Otjitotongwe Cheetah Guestfarm** — alojamiento, 4,0★ (100). Zona de Kamanjab, de camino
-
-### Etosha y alrededores
-- **Parque Nacional Etosha** — 4,5★ (4.691)
-- **Ongava Private Game Reserve** — Ombika, junto a la **puerta de Andersson** (sur de Etosha).
-  Reserva privada de gama alta → ✅ resuelto abajo: **LUJO** (~N$17.300/persona/noche)
-
-### Noreste
-- **Hoba Meteorite** — 4,0★ (800). Cerca de Grootfontein. **El meteorito más grande de la Tierra**
-- **Tsumkwe** — extremo este, **Bushmanland** (comunidades ju/'hoansi). **~640 km de Windhoek, final
-  de grava por la C44** ◐ (ver «El este», más abajo). Muy lejos del resto
-- **Harnas Wildlife Foundation** — lodge, 4,5★ (160). Este, zona de Gobabis. **~307 km de Windhoek por
-  la B6** ◐ (medido abajo)
-
-### Damaraland y costa norte
-- **Twyfelfontein** — *(Google dice «el sitio ya no existe»: es un fallo del listado. El sitio
-  UNESCO de grabados rupestres existe y funciona)*
-- **Montaña Brandberg** — 4,5★ (38). El pico más alto de Namibia, con la *Dama Blanca*
-- **Messum Crater** — 4,9★ (30). Cráter remoto ⚠️ ver aviso arriba
-- **Cape Cross Lodge** — hotel 3★, 4,4★ (533). **Colonia de lobos marinos**
-- **Skeleton Coast National Park** — 4,4★ (216) ⚠️ ver aviso arriba
-- **Spitzkoppe** — 4,7★ (410). El «Matterhorn de Namibia». **Camping comunitario N$270/persona → N$540/noche (~€27)** ◐ *(incluye la entrada a la reserva, N$130 pp; solo efectivo)*
-
-### Costa central
-- **Swakopmund** · **Walvis Bay**
-
-### Centro
-- **Waterberg** — la meseta
-- **Okonjima Nature Reserve** — hotel 4★, 4,7★ (602). **AfriCat**: leopardos y guepardos.
-  De camino natural entre Windhoek y Etosha → ✅ resuelto abajo: **gama alta**
-  (desde ~N$12.700/persona/noche)
-- **Joe's Beerhouse** — Windhoek, 4,4★ (6.834), 200–400 N$ (~€10–20). Institución de la ciudad
-
-### Namib y Sossusvlei
-- **Parque nacional de Namib-Naukluft** — 4,6★ (2.201)
-- **Solitaire** — ✅ el salvavidas de combustible del tramo (y su tarta de manzana)
-- **Sesriem Canyon** — mirador, 4,4★ (997)
-- **Duna 45** — *(Google dice «cerrado permanentemente»: otro fallo del listado. La duna sigue ahí)*
-- **Deadvlei** — reserva natural, 4,8★ (1.718). ✅ Requiere dormir **dentro** de la puerta de
-  Sesriem para el amanecer (ver `06`)
-- **Reserva natural de NamibRand** — 4,7★ (197). **Reserva internacional de cielo oscuro**
-
-## 🔎 Pines medidos — datos con fuente *(pasada del 17/07/2026)*
+## 💶 Lo que cuesta entrar en cada sitio
 
 Esto cierra la lista de «Lo que hay que verificar» que dejó la pasada anterior. Cada cifra lleva su
 fuente y su marca: **✅ primaria** · **◐ secundaria** · **○ práctica común**. Todos los precios en
@@ -377,6 +212,34 @@ flowchart TD
 ```
 
 > **Lectura:** Cape Cross, Brandberg y una tasa de parque son ~N$150–280 (~€7–14) por cabeza. El
+
+---
+
+## 🗺️ Y lo que quedó fuera de tus 34 pines
+
+Tu lista iba de **Epupa** (frontera con Angola) a **Lüderitz** (suroeste atlántico) pasando por
+**Tsumkwe** (extremo este): eso es el país entero, y **no cabe en catorce días**. Lo que se descartó,
+con el motivo:
+
+- **Kaokoland (Epupa, Opuwo)** — **~730 km solo hasta Opuwo** y otros 180–200 de grava hasta Epupa:
+  **cuatro días de ida y vuelta** que salen de Etosha. Y de propina, es la zona donde **el seguro
+  excluye los bajos y no garantiza rescate** *(ver [`06`](06-conduccion.md))*.
+- **El sur entero** (Fish River, Lüderitz, Kolmanskop, kokerbooms) — decisión del viajero: queda para
+  otro viaje, y sus días fueron a Etosha.
+- **Mata-Mata / Kgalagadi** — es Sudáfrica: cruce de frontera, tasas aparte, autorización escrita del
+  propietario del vehículo y la duda de si el seguro sigue vigente al otro lado.
+- **Tsumkwe y Harnas** (extremo este) — mismo problema que Kaokoland: son un viaje aparte.
+- **Spitzkoppe y Brandberg** — no están en la ruta de referencia y obligan a desviarse del eje de la
+  costa. *(El camping comunitario de Spitzkoppe está cerrado en **N$270/persona**, entrada incluida ◐,
+  por si algún día se recupera.)*
+
+**Lo que sí sobrevivió** está repartido por el dossier: Joe's Beerhouse, Solitaire, Sesriem Canyon,
+Duna 45, Deadvlei, Walvis Bay, Swakopmund, Cape Cross, Skeleton Coast, Twyfelfontein y las cuatro
+noches de Etosha. Los caprichos opcionales del D13 —Okonjima, Hoba, Waterberg— siguen abajo con su
+precio.
+
+ℹ️ *Twyfelfontein y Duna 45 aparecen en Google como cerrados: **es un fallo del listado**, los dos
+funcionan.*
 
 ---
 

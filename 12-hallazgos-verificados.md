@@ -16,55 +16,21 @@ costado dinero real.
 
 ---
 
-## 1. El precipicio de precio del 14/15 de noviembre — la mayor palanca de coste
+## 1. El precipicio de precio de noviembre — la palanca que decidió las fechas ✅
 
-Todas las empresas consultadas bajan de temporada alta a baja a mediados de noviembre.
-El **mismo Toyota Hilux doble cabina con equipo de camping, 14 días**:
+**Cada compañía cambia de temporada en una fecha distinta, y eso vale cientos de euros.** Asco baja
+el **15 de noviembre**; **Namibia2Go baja el 1 de noviembre**. Con la ventana 1–14, elegir
+Namibia2Go metió **el alquiler entero en tarifa baja** — lo que con Asco habría sido temporada alta
+de principio a fin, unos **€850 más**.
 
-**Tarifa verificada de Asco** (Grupo S, Hilux 2.4l TD 4x4 automático doble cabina, equipado
-para camping, 1–2 pax, banda de 6–15 días):
+**NWR hace el mismo salto el 1 de noviembre**, así que las seis noches de campings oficiales
+(Sesriem ×2 y las cuatro de Etosha) también caen en el tramo barato. *(Aterrizáis el 1: ni una noche
+namibia en octubre.)*
 
-- **Octubre 2026** *(banda 15/08–14/11)* → **€179/día (~N$3.580)**
-- **Tras el 15/11/2026** *(banda 15/11–14/03)* → **€117/día (~N$2.340)**
+> El detalle tarifa a tarifa está en [`03-alojamiento-y-tasas`](03-alojamiento-y-tasas.md) y el
+> cálculo cerrado, en [`02-presupuesto`](02-presupuesto.md).
 
-### Cálculo del alquiler para 12, 13 y 14 días
-
-El viaje son 14 días, pero el coche no se necesita todos: los días de vuelo se van en trayecto.
-La tarifa/día es **la misma en toda la banda de 6–15 días**, así que solo cambia el número de días.
-
-**Solo alquiler:**
-
-- **12 días** → octubre **€2.148 (~N$42.960)** · tras 15 nov **€1.404 (~N$28.080)**
-- **13 días** → octubre **€2.327 (~N$46.540)** · tras 15 nov **€1.521 (~N$30.420)**
-- **14 días** → octubre **€2.506 (~N$50.120)** · tras 15 nov **€1.638 (~N$32.760)**
-
-**Alquiler + Super Cover** (€25/día, ~N$500/día — el único seguro que sirve, ver §3):
-
-- **12 días** → octubre **€2.448 (~N$48.960)** · tras 15 nov **€1.704 (~N$34.080)** · ahorro **€744 (~N$14.880)**
-- **13 días** → octubre **€2.652 (~N$53.040)** · tras 15 nov **€1.846 (~N$36.920)** · ahorro **€806 (~N$16.120)**
-- **14 días** → octubre **€2.856 (~N$57.120)** · tras 15 nov **€1.988 (~N$39.760)** · ahorro **€868 (~N$17.360)**
-
-> ℹ️ **Estos totales son cálculo nuestro**, no cifras publicadas: multiplican las tarifas/día
-> verificadas de Asco por los días. Lo verificado es el **€179/día** y el **€117/día**.
-> El **Super Cover exige más de 10 días** de alquiler, así que 12, 13 y 14 cumplen (10 no).
-
-**Diferencia a 14 días: ~€870 (~N$17.400).** Namibia2Go confirma el patrón de forma independiente:
-su temporada alta acaba el 31/10/2026 (N$3.520/día, ~€176), y baja a N$2.700/día (~€135)
-desde el 01/11/2026 — un 23,3 % menos.
-
-Notas:
-- La banda posterior al 15/11 de Asco llega hasta el 14/03/2027 y está a un ~6 % del mínimo
-  anual de enero.
-- En Namibia es habitual **prorratear entre bandas de temporada**: la penalización de octubre
-  solo se aplica entera si el viaje cae completo dentro de la banda alta.
-- El precipicio existe **porque las condiciones cambian** ese día. La parte ambiental
-  (lluvia, calor, avistamientos) **aún no está investigada** — ver huecos al final.
-
-Fuentes:
-- https://www.ascocarhire.com/app/web/upload/tinymce-source/Asco-4x4-Car-Hire-Namibia-and-Southern-Africa-2026-Rates.pdf
-- https://www.ascocarhire.com/rates-2026.html
-- https://namibia2go.com/4x4-camping-equipped-double-cab
-- https://namibia2go.com/rack-rates
+---
 
 ## 2. El equipo de camping va incluido, no se factura aparte
 
@@ -87,103 +53,37 @@ aparte las tasas de camping.
 - https://www.ascocarhire.com/4x4-with-camping-1-2-persons.html
 - https://www.ascocarhire.com/4x4-standard.html
 
-## 3. El riesgo económico real es el seguro, no la tarifa diaria
+## 3. El riesgo real es el seguro, no la tarifa diaria ✅
 
-**Todos los niveles por debajo del más alto excluyen justo los daños que vas a sufrir en pista.**
+**El hallazgo que decidió la contratación:** en las tres empresas verificadas, **todos los niveles de
+cobertura por debajo del máximo excluyen justo lo que se sufre en pista** —vuelco sin terceros,
+bajos, cristales, neumáticos—. Las franquicias de los niveles básicos iban de **N$35.000 a N$40.000
+(~€1.750–2.000)**, y la exposición por un vuelco sin terceros llegaba a **N$165.000 (~€8.250)** más
+un rescate **sin tope**.
 
-### Asco (4 niveles)
+**Por eso el criterio fue «franquicia cero o nada»**, y por eso el coche contratado —Namibia2Go
+Budget— lleva **Premium Insurance Cover con franquicia cero incluida en el precio**, en vez de
+sumarse aparte a €25/día como en la competencia.
 
-```mermaid
-flowchart TD
-    T["Asco · franquicia que asumes segun el nivel · en NAD"]
-    n0["Standard (€0/dia)<br/>40.000"]
-    n1["Reduced 1 (€8/dia)<br/>20.000"]
-    n2["Reduced 2 (€15/dia)<br/>5.000"]
-    n3["Super Cover (€25/dia)<br/>0"]
-    T ~~~ n0
-    n0 ~~~ n1
-    n1 ~~~ n2
-    n2 ~~~ n3
-    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
-```
+> ⚠️ **Lo que sigue sin verificar del contrato firmado**: cómo trata **los bajos en Damaraland** (el
+> D8 pasa por ahí), **cuántas ruedas de repuesto** cubre y el **coste orientativo de un rescate**.
+> Son las tres preguntas a hacer por escrito al reservar. Ver [`06-conduccion`](06-conduccion.md).
 
-- **Standard** — €0/día · franquicia **N$40.000 (~€2.000)**
-- **Reduced Excess 1** — €8/día (~N$160) · franquicia **N$20.000 (~€1.000)**
-- **Reduced Excess 2** — €15/día (~N$300) · franquicia **N$5.000 (~€250)**
-- **Super Cover** — **€25/día (~N$500)** · franquicia **N$0**
+**Fuentes:** [ascocarhire.com/insurance](https://www.ascocarhire.com/insurance.html) ·
+[savannacarhire.com.na](https://www.savannacarhire.com.na/reduced-excess-insurance)
 
-Literal: *"Reduced Excess 1 and 2 do not cover damages to tires, windows, damages to the
-undercarriage of the vehicle, and Single-Vehicle-Accidents"* — el nivel base excluye lo mismo.
+---
 
-**Super Cover** añade cristales, **un (1)** neumático, accidentes sin terceros (excluida la
-negligencia) y daños en los bajos *"excluding Kaokoveld and Damaraland Area"* — una exclusión
-que afecta directamente a la etapa de Twyfelfontein.
+## 4. El límite de 80 km/h en pista, con caja negra ✅
 
-Aviso del propio Asco, que conviene citar: Super Cover *"cannot be compared with the European
-Vollkasko or All Risk insurance"* (no es comparable a un todo riesgo europeo).
+Verificado en los contratos: **80 km/h en grava** —el legal es 100—, **60 dentro de los parques**, y
+**caja negra** que registra velocidad y posición y **se lee después de un accidente**. Superarlo
+**anula la cobertura**. Todos los tiempos de este dossier se calculan con ese límite.
 
-### Savanna (Hilux/Ranger con camping)
+> El desarrollo, con las cláusulas literales y lo que implica para cada etapa, está en
+> [`06-conduccion`](06-conduccion.md).
 
-```mermaid
-flowchart TD
-    T["Savanna · franquicia que asumes segun el nivel · en NAD"]
-    n0["Standard<br/>35.000"]
-    n1["Opcion 1 (N$100/dia)<br/>17.500"]
-    n2["Opcion 2 (N$150/dia)<br/>8.500"]
-    n3["Opcion 3 (N$220/dia)<br/>2.500"]
-    T ~~~ n0
-    n0 ~~~ n1
-    n1 ~~~ n2
-    n2 ~~~ n3
-    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
-```
-
-- **Standard** — sin coste · franquicia **N$35.000 (~€1.750)**
-- **Opción 1** — N$100/día (~€5) · franquicia **N$17.500 (~€875)**
-- **Opción 2** — N$150/día (~€7,5) · franquicia **N$8.500 (~€425)**
-- **Opción 3** — N$220/día (~€11) · franquicia **N$2.500 (~€125)**
-- **Opción 4** — **N$450/día (~€23)** · franquicia **no publicada** *(no está en el gráfico
-  porque Savanna no publica el importe; su página insinúa "reduce the excess to Zero" pero
-  no lo confirma — no asumas que Opción 4 = N$2.500)*
-
-La cobertura de neumáticos y parabrisas cuesta **N$250/día (~€12,5) aparte** en Standard y
-opciones 1–3; va incluida en la Opción 4. Las opciones 1–4 exigen un alquiler mínimo de 8 días.
-
-**Ojo al límite de neumáticos:** Asco cubre **uno**, Savanna **dos**. Cualquier pinchazo
-adicional en 2.500–3.500 km de pista lo pagas tú.
-
-### La trampa del accidente sin terceros
-Según las condiciones de Savanna, un vuelco o una pérdida de control sin terceros expone a
-**N$165.000 (~€8.250)** más todos los costes de rescate — y **los niveles bajos no lo eliminan**.
-Literal: *"Also not when you tried to avoid hitting an animal crossing the road."*
-
-⚠️ Las propias páginas de Savanna **se contradicen** sobre la Opción 4: en un sitio listan
-"Vehicle role over/overturning" como cubierto y en otro excluyen los accidentes sin terceros
-también de la Opción 4. **Pedir aclaración por escrito antes de reservar.**
-
-- https://www.ascocarhire.com/insurance.html
-- https://www.savannacarhire.com.na/reduced-excess-insurance
-- https://www.savannacarhire.com.na/rental-conditions
-
-## 4. El límite de 80 km/h en pista se controla con caja negra
-
-Asco impone **80 km/h en todas las pistas de grava** —20 por debajo del límite nacional— y
-*"if speed regulations are broken, your insurance and excess will lapse and become invalid."*
-
-Su FAQ desmonta la idea de que sea letra pequeña sin efecto:
-*"The cars are equipped with a black box that tracks both speed and location. In the event of
-an accident, the data will be read and analyzed."*
-
-Es estándar del sector, no una manía de Asco: Namibia Car Rental impone lo mismo. En foros de
-TripAdvisor hay quejas por denegaciones de siniestro basadas en la caja negra, lo que confirma
-que se aplica de verdad.
-
-**Consecuencia de planificación:** todos los tiempos de conducción hay que calcularlos a
-80 km/h en pista, no a 100. Eso recorta ~20 % la distancia diaria realista frente a la mayoría
-de itinerarios que circulan por internet.
-
-- https://www.ascocarhire.com/insurance.html
-- https://www.ascocarhire.com/faq.html
+---
 
 ## 5. Namibia2Go — mejores condiciones de seguro (confianza media)
 
@@ -225,133 +125,28 @@ La ficha del MAEC se actualizó el 26/05/2026 — tiene ~7 semanas.
 - https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia
 - https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements
 
-## 7. Las tasas de parques subieron un 80–100 % el 1 de abril de 2026
+## 7. Las tasas de parque subieron un 80–100 % el 1 de abril de 2026 ✅
 
-**No uses ninguna cifra que encuentres por internet basada en la tabla de 2021.**
+**N$280 (~€14) por adulto internacional y día**, más **N$60 (~€3) por vehículo, por parque y por cada
+24 h**. Es casi el doble de la cifra que sigue circulando por los blogs (N$150), y es de las
+correcciones que más dinero mueven del dossier: en esta ruta son **7 unidades**.
 
-- Parques **premium** (Etosha, Namib-Naukluft/Sossusvlei, **Skeleton Coast**, Waterberg y otros;
-  la ruta de pago cae ENTERA en premium): **N$150 → ~N$280 (~€14) por adulto extranjero y día**
-  (N$140 entrada + N$140 conservación) ◐
-- Parques **estándar**: N$100 → N$200 (~€10). Menores de 8 años exentos.
-- **Base legal**: Nature Conservation Ordinance de 1975; es la **primera revisión desde 2021** (por eso
-  las cifras de blogs viejos están caducadas). ◐
-
-**Mecanismo (citado literal — vía fragmento de búsqueda; el PDF sigue sin poder abrirse, 403):**
-*"Fees are valid for 24 hours period beginning at the time of entry, per person, per park... Minimum
-amount payable is for 24 hours (1 day), and thereafter in units of 24 hours."* Una estancia de 3 días
-en Etosha se cobra **3 veces**.
-
-**Presupuestar: ~N$280 (~€14)/adulto/día + ~N$60 (~€3)/vehículo ≈ N$620 (~€31)/día**
-para dos adultos y coche, en cada uno de Etosha, Sossusvlei y Skeleton Coast.
-
-Ambigüedad menor: 24 h desde la entrada frente a la práctica real en la puerta — algunos
-operadores cobran por día natural y facturarían 4 unidades por una estancia de 3 noches.
-
-> ⚠️ **Estado de verificación (honesto):** ◐, no ✅. El baremo lo confirman DOS páginas oficiales del
-> MEFT (PDF de tarifas + nota de prensa `news/199`) además de secundarias concordantes, **pero ninguna
-> se pudo ABRIR** (WebFetch da 403); la extracción viene de fragmentos de búsqueda. **No se localizó
-> Government Gazette numerado.** Detalle en `15`. **Confírmalo por email antes de cerrar presupuesto.**
-
-- https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF
-- https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/
-- https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent
-
-## 8. Vuelos — poco sólido de momento
-
-Ethiopian Airlines es una opción real de **una sola compañía** Madrid → Windhoek vía Adís Abeba
-(los dos tramos en avión de ET), ~13 h de vuelo más escala. Su ruta Adís–Oporto pasa por Madrid,
-lo que convierte a **Oporto en una segunda opción servida por ET** desde Galicia.
-
-La afirmación sobre el **precio** (desde €1.029) fue **refutada 1–2** y no es fiable.
-Las tarifas siguen en investigación.
+> El baremo completo, la gaceta que lo publica y lo que falta por verificar están en
+> [`15-huecos-cerrados`](15-huecos-cerrados.md).
 
 ---
 
-# ⛔ REFUTADO — no te lo creas
+## 8. Vuelos ✅ *(cerrado después de esta pasada)*
 
-```mermaid
-flowchart TD
-    subgraph MUERTAS["Refutadas 0-3 · unanimidad en contra"]
-        A["Tasas parques<br/>N$150/adulto/dia"]
-        B["Tasa vehiculo<br/>N$50/dia"]
-        C["Savanna camping<br/>N$2.050 / N$1.575 dia"]
-        D["Equipo camping<br/>Savanna (nevera 40L)"]
-        E["Exclusiones Savanna<br/>agua y arena"]
-        F["Namibia2Go<br/>N$2.640/dia"]
-        G["Malaria Etosha<br/>dic-abr + profilaxis"]
-    end
-    subgraph DUDOSAS["Refutadas 1-2 · sin resolver"]
-        H["Ethiopian MAD-WDH<br/>desde €1.029"]
-    end
-    subgraph CERRADO["Antes bloqueaba · ahora resuelto"]
-        I["Permiso internacional<br/>con carnet espanol SI hace falta"]
-    end
-    G --> AVISO["Refutado NO significa<br/>que Etosha este libre<br/>de malaria: es DESCONOCIDO"]
-    I --> OK["Resuelto en 03: IDP o<br/>traduccion jurada al ingles"]
-    style MUERTAS fill:#9d0208,color:#fff
-    style DUDOSAS fill:#e85d04,color:#000
-    style CERRADO fill:#2d6a4f,color:#fff
-    style AVISO fill:#9d0208,color:#fff
-    style OK fill:#2d6a4f,color:#fff
-```
+En la primera pasada esto era el punto más flojo del dossier: no había tarifa fiable y la estimación
+se quedó **1,7 veces corta**. Se cerró después con una cotización real para las fechas exactas —
+**€1.366 por persona**—, que está en [`02-presupuesto`](02-presupuesto.md), y con el contexto de
+mercado en [`15`](15-huecos-cerrados.md).
 
-**Refutadas por unanimidad (0–3):**
-
-- **Tasas de parques N$150/adulto/día** (N$100 + N$50) → tabla **obsoleta de 2021**; ahora
-  ~N$280 (~€14).
-- **Tasa de vehículo N$50/día**; pareja paga N$350/parque/día → superada por la subida de
-  abril de 2026.
-- **Savanna Hilux camping N$2.050/día alta / N$1.575 baja** → las cifras no se sostienen.
-- **Lista del equipo de camping de Savanna** (nevera Engel 40L, etc.) → no verificada tal como
-  se afirmaba.
-- **Los niveles de Savanna excluyen daños por agua/tormenta de arena** tal como se describía →
-  mal formulado; ver §3 para el texto verificado.
-- **Namibia2Go temporada baja N$2.640/día** (01/11/25–30/06/26) → **banda caducada**; la tarifa
-  aplicable en nov 2026 es N$2.700 (~€135).
-- **Malaria en el norte incl. Etosha, dic–abr; profilaxis + fiebre amarilla recomendadas** →
-  refutado **tal como se afirmaba**. ⚠️ **Eso no significa que Etosha esté libre de malaria**:
-  significa que **no lo sabemos**. Hay que investigarlo antes de reservar.
-
-**Refutadas parcialmente (1–2), sin resolver:**
-
-- **Ethiopian publica MAD–WDH ida y vuelta desde €1.029** → las fechas de muestra eran de
-  septiembre de 2026, no de nuestro viaje.
-
-**Resuelto (antes bloqueaba la reserva):**
-
-- **El permiso internacional de conducir** → ✅ **cerrado**. Con un carnet **español** (que no está
-  en inglés) **sí hace falta** llevar el permiso internacional de conducir, o una traducción jurada
-  al inglés. No es un capricho: lo pide la normativa namibia, la empresa de alquiler y, en caso de
-  siniestro, el seguro. Trámite y coste (DGT) en `04-guia-preparacion.md`. Marcado **◐** porque las
-  páginas primarias no se pudieron descargar; ver ahí el detalle de evidencia.
+> **La lección que dejó, y que ordena el resto del dossier:** un hueco reconocido vale más que un
+> número plausible. **Los números plausibles se acaban usando para pagar.**
 
 ---
-
-# 🕳️ Huecos — la segunda pasada YA está cerrada
-
-Esta sección listaba los huecos que en su día quedaron **en blanco a propósito**. La segunda
-pasada ha terminado: los cuatro están resueltos en sus propios documentos. Se deja aquí el
-registro de qué se cerró y dónde, para poder auditarlo.
-
-1. **Fechas por criterios ambientales** — inicio de las lluvias, calor en Sossusvlei / Fish
-   River Canyon / Ai-Ais, afluencia. → **Cerrado** en `15-huecos-cerrados.md`: temperaturas
-   reales de NOAA GHCN-Daily y SASSCAL (las anteriores, de webs de safaris, fueron refutadas
-   0–3). Etosha **sí** hace pico en octubre; el sur, no. La mitad ambiental de la decisión de
-   noviembre ya está sobre la mesa junto a la económica (~€870, ~N$17.400).
-2. **Itinerario día a día y viabilidad** — si Etosha + sur profundo + Sossusvlei + costa caben
-   en 14 días a 80 km/h en pista. → **Cerrado** en `13-itinerario.md` (veredicto: **NO cabe
-   todo**; techo sano ~300–350 km/día) y desarrollado día a día en `01-itinerarios-dia-a-dia.md`.
-   La ruta vigente es **la ruta del norte** (la clásica del norte, sin el sur). La etapa de
-   Damaraland sigue con los bajos sin cobertura incluso en el nivel más alto de seguro.
-3. **Precios de alojamiento** — campings NWR (Okaukuejo/Halali/Namutoni), Sesriem, Hobas,
-   lodges de gama media; y antelación de reserva para oct–dic. → **Cerrado** en
-   `03-alojamiento-y-tasas.md` y `15-huecos-cerrados.md`.
-4. **Presupuesto total** — → **Cerrado** en `02-presupuesto.md`: ya calculado sobre la
-   distancia real de la ruta y las reservas cerradas (vuelo, coche y seguro).
-5. ~~**Permiso internacional de conducir**~~ → **resuelto** (ver arriba y `04`), ~~malaria en
-   Etosha~~ → **resuelta** (sí es zona de riesgo, CDC, en `04`), certificado de fiebre
-   amarilla al hacer escala en Adís Abeba (Etiopía es endémica), SIM/eSIM, efectivo vs tarjeta,
-   seguridad.
 
 ## Advertencia sobre la calidad de las fuentes
 

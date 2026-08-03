@@ -93,33 +93,8 @@ hace y no está permitido.
 
 ## 📏 Distancias reales y los tramos sin gasolinera ◐
 
-Distancias **por carretera** (km), de la matriz de Namibia Tours & Safaris:
-
-**Eje Windhoek – desierto**
-- Windhoek → Solitaire **300** · Windhoek → Sesriem **320** · Sesriem → Solitaire **90**
-- Sesriem → Sossusvlei **60** *(cada trayecto, DENTRO del parque)*
-- Sesriem → Walvis Bay **270** · Sesriem → Swakopmund **300**
-- Solitaire → Walvis Bay **210** · Solitaire → Swakopmund **210**
-- Windhoek → Swakopmund **360**
-
-**Eje costa – Damaraland**
-- Swakopmund → Uis **190** · Swakopmund → Twyfelfontein **400**
-- Uis → Khorixas **115** · Khorixas → Twyfelfontein **100**
-- Khorixas → Palmwag **170** · Palmwag → Kamanjab **120**
-
-**Eje Etosha**
-- Kamanjab → Okaukuejo **265** · Palmwag → Okaukuejo **385**
-- Outjo → Okaukuejo **120** · Otjiwarongo → Outjo **75**
-- Okaukuejo → Halali **70** · Halali → Namutoni **~70**
-- Okaukuejo → Windhoek **440**
-
-> ⚠️ **Aviso de antigüedad:** la matriz tiene **copyright de septiembre de 2010**. Las distancias por
-> carretera cambian poco, pero **verifícalas** contra Tracks4Africa o GPS actual.
->
-> 🕳️ **Y aviso de cobertura (02/08/2026):** la matriz **no tiene los tramos propios de la ruta E**
-> — Henties Bay → Cape Cross → **Ugabmund → Terrace Bay** (D7), la salida por **Springbokwasser →
-> Bergsig → Twyfelfontein → Hoada** (D8) ni **Hoada → Kamanjab** (D9). De esos solo hay
-> estimaciones ◐/○ en `01`.
+**Los kilómetros de cada etapa están en [`01`](01-itinerarios-dia-a-dia.md) y el cálculo de tiempos
+en [`13`](13-itinerario.md).** Lo que importa aquí es dónde **no** hay gasolinera:
 
 ### 🚨 Los tramos peligrosos
 

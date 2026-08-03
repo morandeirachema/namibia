@@ -374,101 +374,37 @@ donde añade algo que por libre es imposible o está prohibido.**
   parcela.)* Tips ○: en las charcas apaga el motor y dale 15–20 min — la fauna llega por turnos;
   los coches parados en racimo delatan un avistamiento; lleva los prismáticos EN el asiento.
 
-#### 🎟️ Las excursiones que se pueden contratar, con precio ✅
+#### 🎟️ Las excursiones que se pueden contratar
 
-**Verificado el 03/08/2026 en las fichas de los propios campamentos de NWR** — y **los tres donde
-dormís venden lo mismo**, por persona:
+Los **tres campamentos donde dormís venden lo mismo** ✅ *(fichas de NWR, 03/08)*: safari guiado de
+**mañana N$650**, de **tarde N$650** y **nocturno N$750**, por persona. ❌ **Los horarios de salida
+no los publican en ninguna parte**: pregúntalos en recepción al llegar.
 
-- 🌅 **Safari guiado de mañana — N$650 (~€33)**
-- 🌇 **Safari guiado de tarde — N$650 (~€33)**
-- 🌙 **Safari NOCTURNO guiado — N$750 (~€38)**
+**De día no compensa** en vuestro caso: ya tenéis 4x4, trece horas de puerta a puerta y libertad para
+quedaros en una charca el rato que queráis. Lo que compra el guiado son los ojos del guía y un
+vehículo alto — legítimo, pero no cambia el viaje.
 
-*(Fuentes: fichas de [Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/),
-[Halali](https://www.nwr.com.na/resorts/halali-resort/) y
-[Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/) en nwr.com.na.)*
+**El nocturno sí**, porque de noche está **prohibido circular por libre**: es la única forma de estar
+en el parque a oscuras y ver oricteropo, puercoespín, liebre saltadora o leones cazando. **N$1.500
+(~€75) los dos.**
 
-#### 🕐 Los horarios de salida: **NWR no los publica** ❌
-
-Buscado el 03/08/2026 y no aparecen en ninguna parte: **ni en las fichas de los tres campamentos,
-ni en la [página de actividades](https://www.nwr.com.na/activities/) de NWR** —que solo dice que
-podrás hacer *«an early, afternoon or late evening Game Drive»*, sin una sola hora—, **ni en su
-motor de reservas**, que exige registro. **No hay horario oficial que copiar, así que no se
-inventa.**
-
-**Lo que sí se puede deducir**, porque los guiados van atados al sol igual que las puertas ○:
-
-- **El de mañana** sale con la apertura o poco antes → hacia las **06:00–06:15** en vuestros días
-- **El de tarde** sale a media tarde y aprovecha la última luz → vuelta hacia el **cierre, ~19:10**
-- **El nocturno** empieza **cuando ya es de noche**, después de cenar → **a partir de ~19:30–20:00**
-
-👉 **Confírmalos en recepción el día que llegues** y apunta la hora: es lo que decide si el D9 lo
-dedicas a la charca o al vehículo. 📞 Okaukuejo **+264 67 229 800** · reservas centrales NWR
-**+264 61 285 7200**.
-
-*Nota sobre «las empresas que operan»: durmiendo **dentro**, tu operador es **NWR** y punto. Los
-lodges privados de las puertas (Ongava, Onguma, Etosha Safari Lodge, Mokuti) hacen sus propios
-game drives, pero **son para sus huéspedes** y están sujetos a las mismas horas de puerta — no
-puedes contratarles una salida desde el camping.*
-
-Y fuera de Etosha, ya en el dossier: **lanzadera de Deadvlei N$180 (~€9)** ✅, safari guiado de
-mañana en Sesriem N$600–700, Elim Dune N$300, cañón N$200 *(ver `03`)*.
-
-#### 🌙 El nocturno: el único que compra algo imposible por libre
-
-**De día, pagar N$650/persona no tiene mucho sentido en vuestro caso**: ya tenéis 4x4, trece horas
-de puerta a puerta y libertad para quedaros en una charca el rato que queráis. Lo que compra el
-guiado de día son **los ojos del guía** y un vehículo alto y abierto — legítimo, pero no cambia el
-viaje.
-
-**El nocturno sí**: de noche está prohibido circular por libre, así que es **la única forma de estar
-en el parque a oscuras** y ver lo que solo sale entonces — oricteropo, puercoespín, liebre saltadora,
-leones cazando. **N$1.500 (~€75) los dos.**
-
-> ### 👉 Hazlo desde NAMUTONI, no desde Okaukuejo
-> Suena raro, pero sale de cruzar dos datos verificados: **la charca iluminada de Okaukuejo es
-> probablemente el mejor sitio de África para ver rinoceronte negro de noche**, y la de **Halali es
-> famosa por el leopardo y el puercoespín** — las dos son **gratis y sin coche, andando desde la
-> parcela**. En cambio la de **Namutoni (King Nehale) es la más floja de las tres**: «se ven animales
-> ocasionalmente».
+> ### 👉 Y hazlo desde NAMUTONI, no desde Okaukuejo
+> Sale de cruzar dos datos: la charca iluminada de **Okaukuejo es probablemente el mejor sitio de
+> África para ver rinoceronte negro de noche**, y la de **Halali es famosa por el leopardo y el
+> puercoespín** — las dos **gratis y andando desde la parcela**. La de **Namutoni es la más floja**.
+> **Gasta el nocturno la noche en que menos pierdes.**
 >
-> **Conclusión: gasta el nocturno la noche en que menos pierdes** — el **D11 o el D12, en
-> Namutoni** —, y deja intactas las noches de Okaukuejo (D9) y Halali (D10) para sentarte en sus
-> charcas, que es gratis y de las mejores cosas del viaje.
+> ⚠️ Pregunta al reservar si **se puede dejar cerrado desde España**: la tarifa de NWR avisa de que
+> no acepta reservas anticipadas de actividades en temporada de lluvias. 📞 +264 67 229 800.
+> 💶 Y ojo: el nocturno **se come entero** el margen de actividades del presupuesto (~€38 p.p.).
 
-> ⚠️ **Dos cosas que preguntar al reservar:** los **horarios de salida** (no están publicados) y si
-> el nocturno **se puede dejar cerrado desde España** — la tarifa de NWR avisa de que *«no se
-> aceptan reservas anticipadas de actividades en temporada de lluvias»*, y vuestra quincena es el
-> hombro justo antes. 📞 Okaukuejo **+264 67 229 800**.
->
-> 💶 **Y ojo al presupuesto:** el nocturno **se come entero** el margen de actividades (~€38 p.p. en
-> `02`). Con la lanzadera de Deadvlei son **~€47 p.p.**: cuenta ~€10 más por cabeza.
-- **Sossusvlei → tu 4x4 hasta el final** *(estado a 16/07: self-drive permitido — reconfirma en
-  octubre, ver `06`)*. Los últimos ~5 km de arena son 4H de verdad; si no te apetece la arena, la
-  **lanzadera del concesionario (N$180 · ~€9/persona)** ✅ hace exactamente ese tramo. Big Daddy y
-  Deadvlei son a pie de todas formas.
-- **Sandwich Harbour → SOLO tour guiado.** Con tu coche está vetado por contrato (referencia Asco;
-  asume lo mismo en Namibia2Go hasta leer el tuyo, `06`) — y el tour es mejor plan de todas formas.
-  Precio ❌ sin verificar: pregúntalo en Walvis Bay.
-- **Skeleton Coast → tu 4x4** con permiso de la puerta (tránsito gratis ◐; pernocta = reserva de
-  Terrace Bay). El **sector norte** del parque es solo por concesión aérea/guiada — no aplica a
-  esta ruta.
-- **Cape Cross → tu 4x4** hasta el aparcamiento y pasarelas a pie.
+**Fuera de Etosha**, ya en el dossier: la **lanzadera de Deadvlei N$180** ✅, el safari guiado de
+mañana de Sesriem N$600–700, Elim Dune N$300 y el cañón N$200 *(ver [`03`](03-alojamiento-y-tasas.md))*.
 
-**¿Y las reservas PRIVADAS — valen la pena frente a Etosha?** Con precios verificados, el
-veredicto es fácil para este viaje:
-
-- **Ongava** (puerta de Andersson) — **~N$17.300 (~€865)/persona/noche** ◐ pensión completa.
-  **Una sola noche para dos ≈ N$34.600 — el TRIPLE de lo que cuestan las 13 noches de camping
-  de todo el viaje (~N$11.400).** Es otro producto (lodge de lujo con game drives), no un upgrade.
-- **Okonjima/AfriCat** (eje Windhoek–Etosha) — desde **~N$12.700 (~€630)/persona/noche** ◐. Su
-  argumento real son los **leopardos habituados** — lo único que Etosha casi nunca da. Si algún
-  día cae un capricho, es este, como **parada del D13**; como sustituto de Etosha, no.
-- **Onguma** (puerta este) — precio ❌ sin verificar, «puede ser gama alta». Lo que pierdes seguro:
-  dormir DENTRO y las charcas iluminadas.
-
-> 👉 **Veredicto:** a **N$460/persona el camping dentro** ✅ + **N$750 el safari nocturno** ✅,
-> Etosha por libre da más horas de safari por menos dinero que cualquier privado. Los privados son
-> un capricho legítimo (Okonjima por los leopardos), **no una mejora del plan**.
+**Y las reservas privadas —Ongava, Okonjima, Onguma— no son una mejora del plan**: una sola noche en
+Ongava cuesta **~N$34.600 los dos**, el triple que las trece noches de camping de todo el viaje. Son
+otro producto. *(Okonjima, por sus leopardos habituados, es el único capricho con argumento — como
+parada del D13.)*
 
 ### 🔍 En qué se diferencia del blog *(y por qué)*
 - **Ellos, 2 noches en Spreetshoogte; nosotros, 1** — la segunda se va a Etosha, que con tu ventana

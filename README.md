@@ -11,9 +11,9 @@ bebiendo de noche a diez metros · cuatro noches de safari en Etosha*
 
 Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 03·08·2026.
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 144 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 110 páginas
 
-*Todo esto en un solo documento maquetado, con fotos y los 56 diagramas — para leer del tirón,
+*Todo esto en un solo documento maquetado, con fotos y diagramas — para leer del tirón,
 imprimir o llevar sin conexión.*
 🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(18 páginas, 83 especies con foto)*.
 
@@ -52,32 +52,12 @@ Es la ruta del clásico de dos semanas *(la misma familia que el itinerario de
 que sirvió de referencia)*, montada con nuestros datos verificados. **El sur queda para otro
 viaje**: está medido y documentado en el dossier por si algún día vuelve.
 
-### ❓ ¿Etosha al principio o al final? → **Al final.** Tres razones con datos:
+### ❓ ¿Etosha al principio o al final? → **Al final**, por tres razones con datos
 
-```mermaid
-flowchart TD
-    Q{"¿Etosha primero<br/>o al final?"}
-    Q --> R1["Si adelantais dias a octubre,<br/>el desierto primero deja TODAS las<br/>noches NWR despues del 1 nov<br/>= tarifa baja"]
-    Q --> R2["Etosha se enfria segun avanza<br/>noviembre: 38,0 C en oct<br/>37,1 de media en nov"]
-    Q --> R3["Rodaje y crescendo: asfalto y<br/>grava facil primero, y el safari<br/>como climax, no como aperitivo"]
-    R1 --> V["ETOSHA AL FINAL<br/>como en la ruta de referencia"]
-    R2 --> V
-    R3 --> V
-    style V fill:#2d6a4f,color:#fff
-```
-
-1. **El dinero.** Si adelantáis la salida a finales de octubre, con el desierto primero **todas las
-   noches de NWR (Sesriem, Terrace Bay, Etosha) caen después del 1 de noviembre** — tarifa baja.
-   Etosha primero + salida en octubre = pagar la tarifa vieja **y** pillar el parque en su pico de
-   calor (38,0 °C de media de máximas en octubre).
-2. **El termómetro.** Etosha se enfría según avanza noviembre (38,0 oct → 37,1 media nov): cada día
-   que tardas en llegar, un poco más suave.
-3. **El rodaje.** Los primeros días son asfalto y grava amable — llegas a Damaraland con oficio, y
-   el safari es el clímax final, no el aperitivo.
-
-*El único contra, dicho honesto: el riesgo de primeras tormentas sube mínimamente hacia el día 15
-(en 2 de las últimas 5 temporadas cayó algún chubasco suelto en la primera quincena — aislado, no
-la temporada asentada). Marginal frente a las tres razones de arriba.*
+**El dinero** *(con el desierto primero, todas las noches de NWR caen después del 1 de noviembre, en
+tarifa baja)*, **el termómetro** *(Etosha se enfría según avanza el mes: 38,0 °C de media en octubre,
+37,1 en noviembre)* y **el crescendo** *(asfalto y grava amable primero; el safari como clímax, no
+como aperitivo)*. El razonamiento completo, con el contra dicho honestamente, está en el itinerario.
 
 📖 **El día a día completo, con dónde dormir y precios** → [`01-itinerarios-dia-a-dia`](01-itinerarios-dia-a-dia.md)
 
@@ -270,68 +250,18 @@ pie showData
 📖 **El desglose completo, partida a partida, con qué está cerrado y qué es estimación —y qué pasa
 si vais 3 o 4 en el mismo coche— está en [`02-presupuesto`](02-presupuesto.md).**
 
-### 🎥 El coche por dentro — y qué te da exactamente la Budget
+### ⛺ Y se duerme arriba casi todo el viaje
 
-▶️ **[Namibia2Go — «Experience The Fully Equipped Hilux»](https://www.youtube.com/watch?v=LPNZ-l8y3Pg)**
-*· vídeo de la propia empresa*
-
-**Es tu coche** —Toyota Hilux Double Cab camping equipped de Namibia2Go— pero **ojo al mirarlo**:
-la web ofrece **dos versiones del mismo vehículo** y el vídeo no aclara cuál enseña. La diferencia
-se ve a simple vista:
-
-- 🏆 **Budget** — dos tiendas **blandas** Tentco + cajas de camping ← **la tuya** ✅ *(la Comfort salió «Not Available» para tus fechas)*
-- **Comfort** — dos tiendas de **carcasa rígida** + cocina a medida *(no disponible)*
-
-> 👉 **Al ver el vídeo, fíjate en el techo:** el tuyo es el **Budget**, así que espera **tiendas de
-> lona plegada** *(no las de carcasa rígida tipo concha, que son de la Comfort)*. Todo lo demás que
-> enseña el vídeo —motor, nevera, mesa, menaje— es idéntico en la tuya.
->
-> *La lona plegada se monta y desmonta a mano cada día — con **11 noches de tienda**, es la rutina de
-> la tarde. Práctica en subir y bajar el toldo antes de salir.*
-
-**Ficha verificada del vehículo** ✅ — 4x4 permanente · automático · **motor 2.8L GD-6 turbodiésel**
-· 5 plazas con tiendas para 4 · km ilimitados · **2 ruedas de repuesto** y **nevera eléctrica** ·
-2 tiendas de techo, mesa, 4 sillas, ropa de cama para 4 y menaje completo · *1 día = 24 h*.
-
-🎉 **Las 2 ruedas de repuesto vienen de serie** — es justo lo que recomienda todo el que conduce
-esas pistas.
-
-> ### ⚠️ Una trampa que tu presupuesto ya esquiva
-> Los precios «temporada baja» que publica la web caen en la banda **«01 Nov 2025 – 30 Jun 2026»**:
-> **caduca antes de tu viaje**. La siguiente que publica es la alta de julio a octubre de 2026. **Tu
-> ventana cae en el año tarifario siguiente, que no está en la web.**
->
-> Tus **€150/día (€1.800 por 12 días) son una cotización en vivo para tus fechas reales**, no el
-> precio caducado de la web. 👉 **Fíate de tu cotización, no del precio publicado.** *(Es exactamente
-> la misma trampa que la tarifa de NWR.)*
-
-*Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)*
-
-### ⛺ Sí se puede acampar dentro de Etosha — **11 de 13 noches en el coche**
-
-**Okaukuejo, Halali y Namutoni tienen camping**: **N$460/persona = N$920 la pareja** ✅, verificado
-en la tarifa oficial NWR 2026/2027. **Es justo lo que ya estaba presupuestado** — y son las noches
-de la charca iluminada.
-
-**Las únicas dos que no pueden ser tienda de techo:**
-- 🌊 **D7 · Terrace Bay** — es **resort**, no camping. *(El camping de la zona es **Torra Bay**, y
-  solo abre **diciembre–enero** ✅.)* Si no encaja, la variante fácil es dormir en **Henties Bay o
-  Swakopmund** —donde sí hay camping— y cruzar el Skeleton Coast en tránsito al día siguiente.
-- 🏙️ **D13 · Windhoek** — el coche ya está entregado → hotel.
+**11 de las 13 noches en la tienda de techo**, campings incluidos los tres de dentro de Etosha
+*(N$920 la pareja ✅)*. Las dos que no pueden ser: **Terrace Bay**, que solo tiene habitaciones, y **la
+última**, cuando el coche ya está entregado. *(El plan noche a noche está en
+[`01`](01-itinerarios-dia-a-dia.md).)*
 
 ### 🔬 Qué parte de este número es sólida
 
-- **✅ Duro — €2.618 de los €3.306 (79 %)**: vuelo €1.366 · coche €900 · 6 noches NWR €159 ·
-  seguro €113 · visado €80
-- **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto lo confirman **dos páginas oficiales del
-  MEFT** (PDF de tarifas + nota de prensa `news/199`, vigente 1/04/2026), varias secundarias y ya la
-  **fuente legal primaria localizada** (*Government Gazette Nº 8877, Government Notice Nº 115, 1/04/2026*),
-  pero ninguna se pudo abrir aquí (403), así que la extracción de la tabla queda ◐; los tres parques de
-  la ruta son **premium**. **Confírmalo por email o abriendo la Gaceta 8877 desde fuera.**
-- **○ Estimado — ~€578 p.p.**: 7 noches sin precio (~€126), combustible (~€200), comida (~€140),
-  actividades (~€38), misceláneos (~€75). **Ese es el margen real: ±€145 por persona.**
-
----
+**El 79 % está cerrado con precio real** —vuelo, coche, seguro, visado y las seis noches de NWR—.
+Lo estimado (~€578 por persona) son las siete noches de camping sin cotizar, el combustible, la
+comida y los misceláneos: **ese es el margen honesto, ±€145 por persona**.
 
 <div align="center">
 

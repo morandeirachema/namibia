@@ -458,42 +458,17 @@ flowchart TD
 
 ---
 
-## 11. Lo que este presupuesto NO pudo verificar — dicho claro
+## 11. Qué parte de este número es sólida
 
-```mermaid
-flowchart TD
-    subgraph V["Verificado / cerrado"]
-        A["Vuelo 2.732 EUR pareja"]
-        B["Coche Namibia2Go Budget 1.800 EUR"]
-        C["Seguro IATI Estrella 226 EUR"]
-        D["6 noches NWR · Visado"]
-    end
-    subgraph M["Secundario"]
-        E["Tasas de parque N$280/adulto"]
-        F["Diesel N$24-27/l (revisa mensual)"]
-    end
-    subgraph X["/ Estimado o SIN VERIFICAR"]
-        G["7 noches sin precio + Terrace Bay"]
-        H["Combustible · comida · SIM · fianza tarjeta"]
-        I["Barco de Walvis Bay"]
-    end
-    style V fill:#2d6a4f,color:#fff
-    style M fill:#e85d04,color:#000
-    style X fill:#9d0208,color:#fff
-```
+- **✅ Duro — €2.618 de los €3.306 (79 %)**: vuelo €1.366 · coche €900 · las 6 noches de NWR €159 ·
+  seguro €113 · visado €80. Todo con precio real para las fechas exactas.
+- **◐ Corroborado — ~€109**: las tasas de parque. El N$280/adulto se apoya en la gaceta localizada y
+  en secundarias concordantes, pero **el PDF primario del MEFT sigue sin abrirse**.
+- **○ Estimado — ~€578**: seis noches de camping sin cotizar, combustible, comida, actividades y
+  misceláneos. **Ese es el margen real: ±€145 por persona.**
 
-- **○/❌ 7 noches de las 13**: Windhoek ×2, Spreetshoogte, Walvis ×2, Hoada y **Terrace Bay** (esta
-  última NWR pero resort, hay que reservarla) sin precio cerrado.
-- **◐ Tasas de parque**: N$280/adulto se apoya en secundarias concordantes; el PDF del MEFT no se abrió
-  para verificar la tabla fina, y las **7 unidades** son un recuento de la ruta, no una factura.
-- **◐ Diésel**: costa ~N$24,3/l (julio 2026, vía fragmento) — **se revisa cada mes**; el interior es
-  estimación. Reconfírmalo.
-- **○ Consumo, distancia exacta, comida, SIM, misceláneos**: prácticas comunes y triangulaciones.
-- **❌ Fianza/depósito retenido en la tarjeta** y **barco de Walvis Bay**: importes no verificados.
-
-> **Regla de oro:** lo **verificado/cerrado** (vuelo + coche + 6 noches NWR + seguro + visado =
-> **€2.618/persona**) es el **79 %** del total. El margen de incertidumbre real vive en las 7 noches
-> sin precio y en las partidas de práctica común (combustible, comida, misceláneos): **±~€145/persona.**
+> **El inventario completo de lo que sigue abierto** —incluidos los importes que faltan y las
+> preguntas por escrito pendientes— está en [`15-huecos-cerrados`](15-huecos-cerrados.md).
 
 ---
 

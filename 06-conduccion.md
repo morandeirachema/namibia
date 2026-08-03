@@ -50,59 +50,36 @@ flowchart TD
 
 ### Y se concentra exactamente en nuestra ruta ✅
 
-Porcentaje de accidentes de cada región que son vuelcos (tabla 5 cruzada):
+Porcentaje de los accidentes de cada región que son vuelcos:
 
-```mermaid
-flowchart TD
-    T["Vuelcos como % de los accidentes<br/>de la region · %"]
-    n0["Khomas Windhoek<br/>1,2"]
-    n1["Erongo Swakopmund<br/>5,8"]
-    n2["Kunene Damaraland<br/>7,4"]
-    n3["!Karas (sur, fuera de ruta)<br/>13,3"]
-    n4["Hardap Sossusvlei<br/>18,9"]
-    T ~~~ n0
-    n0 ~~~ n1
-    n1 ~~~ n2
-    n2 ~~~ n3
-    n3 ~~~ n4
-    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
-```
-
-- **Hardap** (Sesriem/Sossusvlei): **119 de 628 = 18,9 %** → **1 de cada 5**
-- **!Karas** (el sur profundo, fuera de esta ruta): **72 de 540 = 13,3 %**
-- **Kunene** (Damaraland, Twyfelfontein): **37 de 502 = 7,4 %**
-- **Erongo** (Swakopmund, Walvis Bay, Spitzkoppe): **125 de 2.170 = 5,8 %**
-- **Khomas** (Windhoek): **94 de 7.839 = 1,2 %** → **1 de cada 80**
+- **Hardap** *(Sesriem, Sossusvlei)*: 119 de 628 = **18,9 %** → **uno de cada cinco**
+- **Kunene** *(Damaraland, Twyfelfontein)*: 37 de 502 = **7,4 %**
+- **Erongo** *(Swakopmund, Walvis Bay)*: 125 de 2.170 = **5,8 %**
+- **Khomas** *(Windhoek)*: 94 de 7.839 = **1,2 %** → uno de cada ochenta
 - Media nacional: 4,6 %
 
-> **La C19/C27 hacia Sesriem y las C14/D de Hardap es donde vive el riesgo estadístico de este
-> viaje.** El peligro no es el tráfico de la capital: es la pista vacía, rápida y preciosa donde te
-> sientes más seguro.
+> **El peligro no es el tráfico de la capital: es la pista vacía, rápida y preciosa donde te sientes
+> más seguro.** La C19/C27 hacia Sesriem y las C14/D de Hardap son donde vive el riesgo estadístico
+> de este viaje.
 
-Fuente: NRSC 2019 · https://www.nrsc.org.na/page/downloads/
+Fuente: informe NRSC 2019 · https://www.nrsc.org.na/page/downloads/
 
 ---
 
-## 2. Lo que los datos NO dicen — dicho claramente ✅
+## 2. Hasta dónde llega esta evidencia — y hasta dónde no ✅
 
-Para que sepas hasta dónde llega la evidencia y no le pidas más de lo que da:
+Para que no le pidas al dato más de lo que da:
 
-1. **No hay desglose grava/asfalto.** El informe NRSC 2019 **no** separa por firme. El análisis
-   regional de arriba es un *proxy* que encaja bien con «grava y remoto», pero **es inferencia, no
-   una tasa publicada**. Quien te diga «el X % de los accidentes de Namibia son en grava» **no lo
-   está sacando del NRSC**.
-2. **No hay desglose turista/local.** Los datos **no identifican** conductores extranjeros ni
-   vehículos de alquiler. La idea de que el vuelco es «el accidente del turista» es plausible y se
-   la cree todo el sector, pero **no se pudo verificar en ninguna fuente namibia**. Lo que **sí**
-   está verificado: los vuelcos dominan las **muertes** y se agrupan en las **regiones turísticas**.
-3. **Los datos son de 2019.** Es el informe completo más reciente en la web del NRSC. La prensa de
-   2026 apunta a un **+13 % interanual** de fallecidos y **+2 %** de accidentes en 2025/26, y el
-   NRSC/MVA Fund han **disputado públicamente** algunas cifras internacionales por *«inaccurate,
-   misleading»*. No se pudo obtener un desglose de vuelcos del año en curso: el panel estadístico
-   en vivo del NRSC no devolvió datos.
-4. **No hay datos de kudú.** «With animal» es **una sola categoría** de 2.756 accidentes, sin
-   desglose por especie.
-5. **Nadie publica tarifa de grúa.** Ver §7.
+1. **No hay desglose grava/asfalto.** El informe no separa por firme: el análisis regional es un
+   *proxy* que encaja bien con «grava y remoto», pero **es inferencia, no una tasa publicada**. Quien
+   te diga «el X % de los accidentes de Namibia son en grava» **no lo saca del NRSC**.
+2. **No hay desglose turista/local.** Los datos no identifican conductores extranjeros ni coches de
+   alquiler. Que el vuelco sea «el accidente del turista» es plausible, lo cree todo el sector y
+   **no se pudo verificar**. Lo verificado: los vuelcos dominan las muertes y se agrupan en las
+   regiones turísticas.
+3. **Los datos son de 2019** — el último informe completo publicado. La prensa de 2026 apunta a un
+   **+13 %** interanual de fallecidos, sin desglose de vuelcos.
+4. **No hay datos de kudú**: «con animal» es una sola categoría de 2.756 accidentes, sin especie.
 
 ---
 
