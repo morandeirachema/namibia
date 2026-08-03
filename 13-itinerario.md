@@ -88,7 +88,7 @@ pinchazo = +1 h que no está en ninguna cifra.
   el día + arena + dunas a pie → **día completo, y por eso se madruga a las ~05:10**
 - **D5 · Sesriem → Walvis Bay (~270 km ✅)** — grava y paso del Kuiseb (a 60–70: 3h50–4h30) +
   paradas → **realista ~4h30–5h30** ✓ *(el «~5h30» de `01` es el honesto)*
-- **D7 · Walvis Bay → Cape Cross → Terrace Bay (~390 km ○, km sin verificar)** — el día con hora
+- **D7 · Walvis Bay → Cape Cross → Terrace Bay (~380 km ◐, verificado 03/08)** — el día con hora
   límite: a 70–80 de media son **~5h–5h30 SOLO de volante**, más Cape Cross (~1 h) y el trámite de
   Ugabmund. **Cuenta atrás desde las 15:00 de la puerta: salir de Walvis a las 7:30 deja ~6h30 de
   margen — justo.** Un pinchazo aquí se come el margen entero: sal a las 7:00.
@@ -98,14 +98,15 @@ pinchazo = +1 h que no está en ninguna cifra.
   por confirmar, `01`) → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
 - **D10–D12 · Etosha (60–90 km/día ✅)** — a 60 km/h y parando en cada charca: **el día entero ES
   el trayecto** — no son horas de tránsito, son horas de safari
-- **D13 · Namutoni → Windhoek (~550 km ○, estimación propia)** — asfalto a ~100 → **mínimo ~5h30 ·
+- **D13 · Namutoni → Windhoek (~555–575 km ◐, verificado 03/08)** — asfalto a ~100 → **mínimo ~5h30 ·
   realista 6h–6h30 con comida en Otjiwarongo**. Saliendo al amanecer (~06:10), en Windhoek a media
   tarde ✓
 
 > **Lectura de conjunto:** ningún día de la E baja de las reglas — el único que exige disciplina de
 > reloj es el **D7** (puerta a las 15:00) y el único largo de verdad es el **D13** (asfalto). Las
-> franjas de `01` son coherentes con este cálculo; donde los km están sin verificar (D7, D8, D13),
-> el tiempo hereda la incertidumbre — **Tracks4Africa antes de apurar horarios**.
+> franjas de `01` son coherentes con este cálculo; el **D7 y el D13 ya se cerraron** (03/08, ver
+> §1 y las fuentes al pie); el que aún hereda incertidumbre de km es el **D8** (Terrace Bay →
+> Twyfelfontein) — **Tracks4Africa antes de apurar horarios**.
 
 ---
 
@@ -135,11 +136,18 @@ pero es secundaria y vieja; ver `07`). Los del **sur** los verifiqué en esta pa
 ### Eje costa y Damaraland
 
 - **Swakopmund → Walvis Bay**: **~30 km**, **asfalto B2** ✅ *(convergente: «30 km of straight tarmac»)*
+- **Costa (C34) — desglose del D7** ◐ *(verificado 03/08)*: **Swakopmund → Henties Bay ~70 km**
+  *(asfaltado en 2019; Wikipedia C34 / geodatos)* → **Henties Bay → Cape Cross ~70 km** →
+  **Cape Cross → Terrace Bay ~200 km** *(guías de la Costa de los Esqueletos)*. La **C34 mide
+  300 km Swakopmund → Torra Bay** (Wikipedia) y **Torra Bay → Terrace Bay son ~50 km**, así que
+  **Walvis Bay → Terrace Bay ≈ 30 + 300 + 50 = ~380 km**, y el cruce por Cape Cross (que está sobre
+  la propia C34, no es desvío) da ~370–380 km. **Cuadra con el ~390 estimado.**
 - **Swakopmund → Spitzkoppe**: **~150–180 km** (B2/asfalto vía Usakos + grava final) ◐
 - **Spitzkoppe → Brandberg (Uis)**: **~130 km** de grava ◐ · **Uis → Twyfelfontein**: **~100 km** ◐
 - **Swakopmund → Twyfelfontein** *(directo)*: **400 km** ◐ *(matriz 2010)*
 - **Uis → Khorixas**: **115 km** ◐ · **Khorixas → Twyfelfontein**: **100 km** ◐ ·
-  **Khorixas → Palmwag**: **170 km** ◐ · **Twyfelfontein → Palmwag**: **~110 km** ○ *(estimación por triangulación)*
+  **Khorixas → Palmwag**: **170 km** ◐ · **Twyfelfontein → Palmwag**: **~110 km** ◐ *(operadores
+  namibios convergentes: padlangsnamibia y foro 4x4community lo dan en «~2,5 h» de grava — verificado 03/08)*
 
 ### Eje Etosha y vuelta
 
@@ -151,7 +159,9 @@ pero es secundaria y vieja; ver `07`). Los del **sur** los verifiqué en esta pa
 - **Etosha, travesía interior**: **Okaukuejo → Halali ~70 km → Namutoni ~70 km** (a 60 km/h y parando
   a mirar: **es un día entero de safari**, no un traslado) ◐
 - **Okaukuejo → Windhoek**: **440 km**, mayormente asfalto (Outjo–Otjiwarongo–B1) ◐
-- **Namutoni → Windhoek** *(por Tsumeb/Otjiwarongo)*: **~550 km** ○ *(estimación; Namutoni queda más al este)*
+- **Namutoni → Windhoek** *(por Tsumeb–Otjiwarongo–Okahandja, asfalto B1/B8)*: **~555–575 km** ◐
+  *(convergente: Etosha «553 km» por la web de Etosha NP y ~575 km por rome2rio, ambos vía search 03/08;
+  Namutoni queda más al este que Okaukuejo)*
 - **Otjiwarongo → Outjo**: 75 km ◐ · **Outjo → Okaukuejo**: 120 km ◐
 
 > ⚠️ **Aviso de fuente:** el bloque del eje central se apoya en una matriz con **copyright de 2010**.
@@ -211,7 +221,11 @@ Cómo salen (redondeo al alza):
 - **Varias distancias del eje central** salen de una **matriz de 2010** (◐): Windhoek–Sesriem,
   Sesriem–Swakopmund, Palmwag–Okaukuejo, travesía de Etosha. Cambian poco, pero **no las tomé de un
   GPS 2026**. Verifícalas con **Tracks4Africa** antes de fijar reservas con hora.
-- **Twyfelfontein → Palmwag ~110 km** y **Namutoni → Windhoek ~550 km** son **triangulaciones** (○).
+- **Twyfelfontein → Palmwag ~110 km**, **Namutoni → Windhoek ~555–575 km** y el **desglose del D7 por
+  la C34** ya **dejaron de ser triangulaciones** (03/08): ahora los apoyan varias fuentes secundarias
+  independientes que convergen (◐, ver §1 y Fuentes). Siguen sin ser un GPS 2026, pero coinciden en el rango.
+- **Terrace Bay → Twyfelfontein (parte del D8) sigue sin verificar** (○): la salida de la costa hacia
+  el interior por la C39/D2620 no la pude cerrar con fuente hoy.
 - **Ninguna de las páginas oficiales de NWR ni de lodges** (fishriverlodge, nwrnamibia) se dejó
   descargar hoy (**HTTP 403**): las rutas del sur se apoyan en descripciones de blogs cruzadas entre
   sí, no en la web del operador. **Confírmalo con el lodge al reservar.**
@@ -232,4 +246,13 @@ Cómo salen (redondeo al alza):
   (travelnam.com, tripadvisor Namibia) *(páginas no descargadas hoy; datos de los extractos de búsqueda)*
 - Swakopmund–Walvis Bay–Spitzkoppe–Brandberg: extractos de búsqueda cruzados (siyabona, distancesfrom)
 - Palmwag/Galton–Etosha: foro NWR y https://www.etoshanationalpark.org/map
+- **Costa (D7) — C34, verificado 03/08:** https://en.wikipedia.org/wiki/C34_road_(Namibia)
+  *(«C34 is 300 km long, Swakopmund → Torra Bay»; Swakopmund → Henties Bay asfaltado en 2019)* ·
+  https://www.geodatos.net/en/distances/from-swakopmund-to-hentiesbaai · Cape Cross → Terrace Bay ~200 km
+  y Torra Bay → Terrace Bay ~50 km vía guías de la Costa de los Esqueletos (mistersafari, wild-wings-safaris)
+  *(páginas no descargadas; datos de los extractos de búsqueda)*
+- **Namutoni → Windhoek — verificado 03/08:** web de Etosha NP («553 km north of Windhoek via
+  Otjiwarongo and Tsumeb») y rome2rio (~575 km) *(vía extractos de búsqueda; páginas devuelven 403 al descargar)*
+- **Twyfelfontein → Palmwag — verificado 03/08:** https://padlangsnamibia.com/padlangs-namibia/the-palmwag-experience
+  y foro 4x4community *(«~2,5 h» de grava; ~110 km)*
 - Matriz de distancias del eje central: Namibia Tours & Safaris (2010), recogida en `07-logistica.md`
