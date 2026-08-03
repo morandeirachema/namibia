@@ -108,6 +108,45 @@ gantt
 > (31–33 °C) y Etosha duro (37 °C) — y TODAS las noches entre 12 y 19 °C.** Por eso el equipaje
 > lleva forro polar y no plumas (`05`).
 
+> ### 🏕️ Dónde se duerme: **en la tienda de techo siempre que se pueda**
+>
+> El plan es dormir arriba las 13 noches y **meterse en campings**, incluidos los tres de dentro de
+> Etosha. Estado noche a noche:
+>
+> ```mermaid
+> flowchart TD
+>     T["TIENDA DE TECHO · 8 noches ya resueltas<br/>D2 Spreetshoogte · D3-D4 Sesriem dentro de la puerta<br/>D8 Hoada · D9 Okaukuejo · D10 Halali · D11-D12 Namutoni"]
+>     D["POR ELEGIR CAMPING · 3 noches<br/>D1 Windhoek y D5-D6 Walvis Bay: SI hay coche,<br/>asi que se puede dormir arriba — falta elegir sitio"]
+>     P["LA PISTA QUE LO CAMBIA · D7 Terrace Bay<br/>la tabla de tarifas de NWR lista camping a N$460/persona<br/>pero su descripcion solo habla de chalets: PREGUNTAR"]
+>     N["NO SE PUEDE · D13 Windhoek<br/>el coche se entrega ese dia, asi que toca habitacion<br/>salvo que se anada el dia 13 de alquiler (~150 EUR)"]
+>     T ~~~ D ~~~ P ~~~ N
+>     style T fill:#2d6a4f,color:#fff
+>     style P fill:#e85d04,color:#000
+>     style N fill:#9d0208,color:#fff
+> ```
+>
+> **El recuento, que suma 13:** **8** ya resueltas en tienda · **3** en las que se puede dormir
+> arriba pero falta elegir camping *(D1 y D5–D6)* · **1** que depende de una llamada *(D7 Terrace
+> Bay)* · **1** imposible *(D13, sin coche)*.
+>
+> 👉 **Si Terrace Bay confirma el camping y se añade el día 13 de alquiler, se puede dormir arriba
+> las 13 noches.** Sin tocar nada, ya son 12 de 13.
+>
+> ### 🚗 ¿Y cuántos días estáis en Windhoek sin coche? **Uno.**
+>
+> El alquiler va del **1 al 13 de noviembre** —12 días—, así que:
+>
+> - **D1, 1 de noviembre**: aterrizáis a las 13:20 y **recogéis el coche ese mismo día**. Esa noche
+>   **sí** hay 4x4: se puede acampar.
+> - **De D2 a D12**: coche todos los días.
+> - **D13, viernes 13**: se **entrega** el coche. Esa noche, y solo esa, dormís **sin 4x4** →
+>   habitación en Windhoek y **traslado al aeropuerto** al día siguiente.
+> - **D14, sábado 14**: el vuelo sale a las 14:30 y ya no hay coche.
+>
+> 💡 **La alternativa que lo evita:** añadir el **día 13 de alquiler (~€150 · ~N$3.000)** y devolver
+> el coche el 14 camino del aeropuerto. Te ahorras el hotel y **dos traslados**, así que puede salir
+> igual o más barato — y duermes arriba también la última noche.
+
 ### D1 · dom 1 nov — Llegada a Windhoek
 - 🌡️ **Windhoek, medias de noviembre: 31,2 °C máx / 16,3 °C mín** ✅ *(NOAA GHCN, estación 68110,
   1.700 m, serie 1957–2025; ver `15`)* — cálido de día, pero a 1.700 m **refresca de noche**
@@ -187,10 +226,16 @@ gantt
   confirmada de Terrace Bay** — sin ella no se entra (el permiso de tránsito obliga a salir el
   mismo día)
 - Dentro del parque: **60 km/h** · 🎫 Skeleton Coast ~N$620/24 h
-- 🛏️ **Terrace Bay Resort (NWR)** — dormir en la Costa de los Esqueletos, con la niebla y el
+- 🛏️ **Terrace Bay (NWR)** — dormir en la Costa de los Esqueletos, con la niebla y el
   Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping.** Suelo publicado
   (doméstico/SADC, temporada baja): **N$1.440–1.920/persona DBB (~€72–96)**; como extranjeros en
   noviembre, **más** ◐ — la noche más cara de la ruta *(tarifa internacional nov 2026 aún ❌; ver `15`)*
+- 💡 **Y una pista que puede cambiar la noche (03/08):** la **tabla de tarifas de NWR para Terrace
+  Bay lista «Campsite (Max 5 People) — N$460/persona»**, el mismo precio que los campings de
+  Etosha, para las dos temporadas. Pero **la descripción del sitio solo habla de 3 beach chalets y
+  20 habitaciones dobles**, así que es ambiguo. 👉 **Pregúntalo al reservar**: si hay camping, esta
+  noche pasa de ser **la más cara del viaje (~€144–192 los dos, media pensión)** a **N$920 (~€46)**
+  — y de habitación a tienda de techo.
 - *Variante fácil: saltarse Terrace Bay, dormir en Henties/Swakopmund y entrar a Damaraland al día
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 

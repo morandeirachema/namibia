@@ -22,7 +22,7 @@ estimación marcada: un número plausible presentado como hallazgo es un fallo g
 > - **Ruta**: **la ruta del norte** — la clásica del norte con **Etosha** (4 noches) y **sin el sur**
 >   (Fish River, Lüderitz, kokerbooms quedan para otro viaje; su presupuesto sigue documentado en el
 >   histórico de `13`). Detalle día a día en [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md).
-> - **Fechas**: **1–14 de noviembre de 2026** (vuelo ya comprado), no «finales de noviembre».
+> - **Fechas**: **1–14 de noviembre de 2026**, no «finales de noviembre».
 > - **Coche**: **Namibia2Go Budget**, no Asco. **El «precipicio del 15/11» era de Asco y ya no
 >   aplica**: Namibia2Go entra en temporada baja el **1 de noviembre**, así que todo el alquiler cae
 >   en tarifa barata sin esperar al 15.
@@ -108,18 +108,19 @@ campings + Terrace Bay + el hotel del D13) **no tienen precio cerrado**.
   ◐; ver `15`.)*
 - **D8 Hoada** (Grootberg) — **cerrado en esta pasada ◐**: **N$542–732/noche para dos (~€27–37)** según
   temporada (la de noviembre sin fijar; ver `15`). Coincide con la estimación de práctica común.
-- **D7 Terrace Bay** (NWR, **resort con media pensión — no camping**): **la noche más cara de la ruta.**
-  Suelo publicado (doméstico/SADC, temporada baja) **N$1.440–1.920/persona DBB ≈ N$2.880–3.840 la pareja
-  (~€144–192)**; como extranjeros en temporada alta, **más** ◐. La tarifa internacional de nov 2026 sigue
-  **❌ sin verificar** (ver `15`).
+- **D7 Terrace Bay** (NWR): **la noche más cara de la ruta… o la más barata, según lo que contesten.**
+  Como habitación con media pensión, el suelo publicado es **N$1.440–1.920/persona DBB ≈ N$2.880–3.840
+  la pareja (~€144–192)** ◐. **Pero (03/08) la tabla de tarifas de NWR para Terrace Bay lista
+  «Campsite (Max 5 People) — N$460/persona»** en las dos temporadas, lo mismo que Etosha → **N$920
+  (~€46) la pareja**. La descripción del sitio solo menciona chalets y habitaciones, así que es
+  **ambiguo**. 👉 **Pregúntalo al reservar: se juega ~€100–150 y una noche de tienda.**
 - **D13 Windhoek**: hotel + traslado (el coche ya está entregado). **○ estimado.**
 
-> ⚠️ **Corrección de esta pasada:** el bloque de ~€126/persona daba a Terrace Bay el mismo peso que a un
-> camping (~€25–45 la pareja). El suelo real es **~€144–192 la pareja SÓLO esa noche** (media pensión
-> incluida, ojo — no es sólo cama). Eso empuja el bloque sin verificar **al alza en ~€100–150 la pareja
-> (~€50–75/persona)**: cuenta con un **buffer de alojamiento** por ese lado. El total de abajo se deja
-> como estaba (estimación conservadora ya publicada), pero **el margen real de este bloque se inclina
-> hacia arriba, no hacia abajo.**
+> ⚠️ **El margen de este bloque depende de una llamada.** Si Terrace Bay resulta ser habitación con
+> media pensión, esa noche sola son **~€144–192 la pareja** y el bloque sin verificar se va **al alza
+> en ~€100–150**. Si tienen camping a N$460/persona —como dice su propia tabla—, la noche cae a
+> **~€46** y el bloque se queda como está. **Es la mayor incertidumbre del presupuesto de
+> alojamiento, y se resuelve preguntando.** El total de abajo mantiene la estimación conservadora.
 
 → Bloque parcial/sin verificar: **~€126/persona ○** *(con el sesgo al alza de arriba)*. **Alojamiento
 total: ~€570 pareja (~€285/persona)**, del que **~€318 (56 %) está verificado** y **Hoada suma ◐**.
@@ -269,7 +270,15 @@ de grava)*. **La tabla no lo aclara.**
 
 ---
 
-## 8. Vuelos — cerrados ✅
+## 8. Vuelos — precio cerrado ✅, emisión por confirmar ⚠️
+
+> ### ⚠️ El dossier se contradice a sí mismo: ¿está emitido o no?
+> Hay **precio real para las fechas exactas** (€1.366 p.p., cotizado en tres agencias), eso es
+> seguro. Lo que no está claro es si **el billete llegó a emitirse**: el README dice que es «de
+> referencia, no emitido» y la cuenta atrás de [`04`](04-guia-preparacion.md) todavía lista
+> «emitir el vuelo» como tarea de agosto. **Confírmalo tú y que quede escrito aquí** — de ello
+> dependen el e-visa (exige billete de vuelta) y el margen de que la tarifa se mueva.
+
 
 > # €1.366 por persona · €2.732 la pareja
 > ### A Coruña → Windhoek, ida y vuelta, turista *(Gotogate; Mytrip €1.390, Booking €1.391)*

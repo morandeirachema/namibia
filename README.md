@@ -203,11 +203,12 @@ flowchart LR
 
 <div align="center">
 
-## ✈️ El vuelo y 🩺 el seguro — los dos cerrados
+## ✈️ El vuelo y 🩺 el seguro
 
 </div>
 
 > # €1.366 por persona el vuelo · €113,02 el seguro
+> ### ⚠️ Con el precio cerrado — pero **confirma si el billete está emitido**: el dossier dice las dos cosas
 > ### A Coruña → Windhoek 31 oct – 14 nov · IATI Estrella 31/10 – 15/11
 
 - ✈️ **Ida** sáb 31 oct por Madrid y Adís, **aterrizas el 1 de noviembre a las 13:20**. **Vuelta**

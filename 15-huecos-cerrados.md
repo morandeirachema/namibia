@@ -706,6 +706,42 @@ en Semana Santa**. ◐
 
 ---
 
+## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 03/08/2026)*
+
+El inventario de huecos abiertos, para que no haya que reconstruirlo leyendo todo el dossier.
+
+**Bloquean algo con fecha:**
+- ✈️ **¿Está emitido el billete?** Hay precio real (€1.366 p.p.) pero **el dossier se contradice**:
+  el README dice «no emitido» y `02` decía «ya comprado». **Sin billete no hay e-visa.**
+- 🏕️ **Ninguna reserva consta hecha en el repo**: ni coche, ni Sesriem ×2, ni Terrace Bay *(sin ella
+  no se entra al parque a pernoctar)*, ni las cuatro de Etosha.
+- 💉 **La cita del Centro de Vacunación Internacional** — para salir el 31/10 hay que ser atendidos
+  hacia el 19–26 de septiembre. Se pide en agosto; **estamos en agosto**.
+- 🪪 **El permiso internacional de conducir**: fuente ◐, y la DGT pide cita.
+
+**Precios sin cerrar (el margen real del presupuesto):**
+- 🛏️ **Terrace Bay**: ¿habitación con media pensión (~€144–192 los dos) o camping a N$460/persona
+  (~€46)? Su tabla de tarifas dice una cosa y su descripción otra. **La mayor incertidumbre.**
+- 🛏️ **D1 y D13 Windhoek**, **D5–D6 Walvis Bay**: campings sin elegir ni cotizar *(candidato en
+  Windhoek: Urban Camp, Schanzen Road — no publica precio)*.
+- 🛏️ **D2 Spreetshoogte**: candidato Camp Gecko, con banda contradictoria (N$220 vs N$280 p.p.).
+- 💳 **La fianza que retiene Namibia2Go** en la tarjeta: importe desconocido.
+- 🚤 **El barco de Walvis Bay / Sandwich Harbour** y **la SIM de MTC**: sin precio verificado.
+- 🩺 **La opción de búsqueda y salvamento del IATI**: sin cotizar.
+
+**Datos que siguen abiertos:**
+- 🛣️ **Los km del D8** (salida de la costa por la C39 hacia Twyfelfontein): el D7 y el D13 ya se
+  cerraron; este no.
+- ⛽ **Si hay diésel en Terrace Bay** y en el bucle Ugabmund–Springbokwasser.
+- 🎫 **La tabla fina de tasas del MEFT**: el N$280/adulto se apoya en secundarias concordantes y en
+  la gaceta localizada, pero el PDF primario sigue sin abrirse.
+- 🚧 **El estado de las obras Okaukuejo–Halali en noviembre de 2026**: la última nota oficial es de
+  abril de 2025. **Hay que llamar.**
+- 🕐 **Los horarios de salida de los safaris guiados de NWR**: no los publican en ninguna parte.
+- 🌡️ **Sin estación meteorológica**: Spreetshoogte, Terrace Bay/Möwe Bay y Hoada/Grootberg.
+
+---
+
 ## 🏨 LODGES PRIVADOS — la tarifa rack PRIMARIA sigue bloqueada, pero ya hay rango orientativo (agregadores)
 
 **El precio rack por noche desde la fuente PRIMARIA sigue sin cerrarse**, por dos bloqueos distintos:
