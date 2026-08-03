@@ -449,10 +449,13 @@ los blogs *(caduca antes de aterrizar — factura por año tarifario nov–oct)*
 efectivo» en gasolineras *(«credit» ahí significa «a cuenta», no «tarjeta»)*, y **todas** las
 temperaturas de las webs de safaris — rehechas con datos de estación meteorológica.
 
-> **Lo que no se pudo verificar está en blanco y dicho**: el **rack rate primario** de los lodges
-> privados sigue bloqueado (egress + anti-bot), aunque su **nivel de precio ya está dimensionado con
-> rangos de agregador** en `15` *(gama media ~€75–170/noche los 2; los rack que asoman caducan el
-> 31/10/2026, así que noviembre es año tarifario nuevo sin publicar)*; y varios campings por noche
+> **Lo que no se pudo verificar está en blanco y dicho**: la ficha propia de los lodges privados
+> sigue en **`403`** (egress + anti-bot), pero **el año tarifario del viaje —1 nov 2026 a 31 oct
+> 2027— ya está publicado** *(el «sin publicar» de antes caducó)* y en `15` hay **tarifas candidatas
+> con URL** rescatadas del índice del buscador —Damara Mopane ~N$2.970 pp B&B, Etosha Safari Camp
+> ~N$2.220–3.550/noche— **en ◐ porque no se pudo abrir la página para verificar la extracción**
+> *(una pasada llegó a colar «N$445» de puro error)*: son pistas, no precios cerrados; confírmalos
+> por email. Como referencia de gama media sigue ~€75–170/noche los 2; y varios campings por noche
 > (Spreetshoogte, Walvis, Quivertree) y las distancias de esta ruta, que se midieron para el
 > recorrido del sur. Y las tasas de parque (~N$280) las respaldan ya **dos páginas oficiales del MEFT**
 > (PDF + nota de prensa `news/199`), secundarias concordantes y ya el **Government Gazette Nº 8877 (GN

@@ -158,11 +158,41 @@ con el que se juzgó si ese precio era razonable, y la lógica de la fiebre amar
 
 ## 🏨 Lodges privados y antelación de reserva
 
-**El precio rack por noche sigue bloqueado** ❌: las webs de los lodges (Gondwana, Desert Camp y
-compañía) devuelven `403` desde este entorno. Lo que sí hay es **rango de agregador ◐**: la gama
-media namibia se mueve en **~€75–170 por noche para dos**. Hallazgo estructural que conviene
-recordar: **los rack rates que asoman caducan el 31/10/2026**, así que noviembre entra en año
-tarifario nuevo sin publicar.
+**Novedad (03/08/2026): el año tarifario que cubre el viaje YA está publicado.** El hallazgo
+anterior decía que noviembre caía en un año tarifario nuevo «sin publicar»; **eso ha caducado**.
+Gondwana Collection publica ya su tarifa **1 nov 2026 – 31 oct 2027** —el año exacto del viaje— en
+las páginas de cada alojamiento. Confirmado el rango de fechas en **cinco búsquedas independientes**
+sobre sus propias URL *(gondwana-collection.com/accommodation/…)*.
+
+> ⚠️ **Pero la extracción NO está verificada, y por eso todo esto va en ◐, no en ✅.** Las páginas
+> de Gondwana siguen devolviendo **`403`** al abrirlas directamente desde este entorno; los números
+> de abajo vienen de **fragmentos («snippets») del índice del buscador**, resumidos por un modelo,
+> **sin poder abrir la ficha para comprobar la extracción**. Y ese riesgo es real: una pasada devolvió
+> «Etosha Safari Lodge N$445 pp» —un disparate— que otra pasada corrigió a ~N$3.790–6.060/noche.
+> **Trátalos como pistas con URL, no como precios cerrados. Confírmalos por email o teléfono antes de
+> presupuestar.**
+
+**Tarifas candidatas para 1 nov 2026 – 31 oct 2027** *(◐ extracción sin verificar, página en 403)*:
+
+- 🛖 **Damara Mopane Lodge** *(Damaraland, cerca de la ruta D8)* — **B&B ~N$2.970 por persona en
+  habitación compartida (~€149)**. Fuente: página propia de Gondwana vía snippet. *(Es tarifa de
+  alojamiento, distinta de sus actividades: rastreo de elefante N$3.300 pp, sendero autoguiado
+  N$250 pp — que el buscador tiende a devolver primero.)*
+- 🦁 **Etosha Safari Camp** *(chalets junto a la puerta de Andersson, EN la ruta)* — **~N$2.220–3.550
+  por noche (~€111–178)**. Fuente: agregador `south-african-lodges.com`, no la web propia → ◐ más
+  débil; lo da como «media», sin distinguir por persona vs por unidad.
+- 🏨 **Etosha Safari Lodge** *(el hermano de gama alta, misma zona)* — **~N$3.790–6.060 por noche
+  (~€190–303)**. Mismo agregador, misma cautela.
+- ⛺ **Camping de los Roadhouse de Gondwana** — **N$300 por persona (~€15)** para 1 nov 2026 – 31 oct
+  2027, dato de la página propia *(medido en Canyon Roadhouse; el sur ya no está en la ruta, pero
+  fija el nivel del camping Gondwana para el año nuevo)*.
+
+**Lo que sigue sin cerrarse:** la tarifa **DBB por noche de la web propia** de los lodges de la ruta
+*(Sesriem: Desert Camp, Desert Quiver, The Desert Grace; Swakopmund; Twyfelfontein Country Lodge —
+que NO es de Gondwana; puertas de Etosha: Taleni, Toshari)*. El buscador devuelve sus **actividades**
+antes que el alojamiento, y el `403` impide leer la ficha. Como referencia de gama media namibia
+sigue valiendo **~€75–170 por noche para dos ◐** (rango de agregador). *(Twyfelfontein Country Lodge:
+un agregador da «desde ~$223 pp DBB» para may–oct 2026 ◐; sin cifra limpia para noviembre.)*
 
 **Antelación** ◐: la temporada alta namibia es **julio–octubre**, y **noviembre es hombro**. El
 cuello de botella no es la temporada: es **estructural**, porque **Sesriem tiene 44 parcelas** y es
