@@ -91,7 +91,7 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
   cola Twyfelfontein → Hoada ~155 km** *(~2h15–2h35 a 60–70; «~2,5 h» del operador)* → **realista
   ~5h30–6h de volante más la visita: es la tercera etapa larga, junto al D7 y al D13**. No tiene puerta
   con hora, así que **basta con salir temprano de Terrace Bay** ✓
-- **D9 · Hoada → Okaukuejo (~315–340 km ◐, ver §3)** — grava hasta Kamanjab, asfalto después (firme de la C38
+- **D9 · Hoada → Okaukuejo (~340 km ◐, resuelto 04/08 — ver §3)** — grava hasta Kamanjab, asfalto después (firme de la C38
   por confirmar, `01`) → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
 - **D10–D12 · Etosha (60–90 km/día ✅)** — a 60 km/h y parando en cada charca: **el día entero ES
   el trayecto** — no son horas de tránsito, son horas de safari
@@ -155,11 +155,16 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
 
 ### Eje Etosha y vuelta
 
-- **Hoada → Okaukuejo (D9)**: aquí hay que avisar de una **discrepancia sin resolver**. `01` da
-  **~315 km ◐**; la aritmética sobre la matriz da **~340 km** *(Hoada está «75 km al oeste de
-  Kamanjab por la C40» según el propio campamento, y la matriz pone Kamanjab → Okaukuejo en 265)*.
-  **Son 25 km de diferencia** — nada que rompa el día, pero **cuenta con los 340** al calcular
-  combustible y hora de puerta. Firme: grava hasta Kamanjab, asfalto después *(la C38 sin confirmar)*.
+- **Hoada → Okaukuejo (D9) — DISCREPANCIA RESUELTA (04/08): son ~340 km, y el ~315 queda refutado.**
+  Se cierra sumando tramos con fuente propia: **Hoada → Kamanjab 75 km** *(el campamento se sitúa «75 km
+  al oeste de Kamanjab por la C40»)* **+ Kamanjab → Okaukuejo por Outjo ~265–271 km**. Esta última pata
+  se corroboró con **dos fuentes independientes que convergen con la matriz de 2010**: **distancesto.com
+  da Kamanjab → Outjo en 156 km** *(C40, asfaltado Outjo–Kamanjab, coincide con la ficha de Wikipedia del
+  C40)* y **CityMeter da Kamanjab → Okaukuejo vía Outjo en 271 km** —a 6 km de los 265 de la matriz—.
+  Total **75 + 265…271 = ~340–346 km**, que **confirma el ~340 y descarta el ~315** *(un subconteo de
+  `01`)*. No hay ruta más corta: cualquier alternativa a Okaukuejo pasa por Kamanjab y Outjo *(Galton, al
+  oeste, exige reserva y es más largo por dentro)*. Firme: grava hasta Kamanjab, asfalto después *(la C38
+  sin confirmar)*.
 - **Etosha, travesía interior**: **Okaukuejo → Halali ~70 km → Namutoni ~70 km** (a 60 km/h y parando
   a mirar: **es un día entero de safari**, no un traslado) ◐
 - **Namutoni → Windhoek** *(por Tsumeb–Otjiwarongo–Okahandja, asfalto B1/B8)*: **~555–575 km** ◐
@@ -184,13 +189,14 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   rango (◐, ver §3 y Fuentes). Siguen sin ser un GPS.
 - **La cola Twyfelfontein → Hoada quedó cerrada en ~155 km ◐** (03/08): el ~85 km que se manejaba
   antes está **refutado** por ser menor que la línea recta (~95 km). Con esto **la ruta E ya no tiene
-  distancias sin medir**; sigue pendiente solo la discrepancia del D9 (abajo).
+  distancias sin medir**, y **la discrepancia del D9 quedó resuelta el 04/08 en ~340 km** *(ver §3)*.
 - **Ni la web de NWR ni las de los lodges se dejaron descargar** (**HTTP 403** desde este entorno):
   lo que hay son descripciones de operadores cruzadas entre sí, no la web oficial. **Confírmalo al
   reservar.**
 - **Estado real del firme en noviembre de 2026**: el corrugado y los baches cambian mes a mes; los
   reportes de foros (4x4community, roadtripster) son de años anteriores.
-- **La discrepancia del D9** (~315 vs ~340 km hasta Okaukuejo) **no está resuelta** — ver §3.
+- ~~**La discrepancia del D9** (~315 vs ~340 km hasta Okaukuejo)~~ **RESUELTA el 04/08 en ~340 km**
+  con dos fuentes de distancia convergentes — ver §3.
 
 ---
 
@@ -227,4 +233,11 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   https://latitude.to/articles-by-country/na/namibia/39007/twyfelfontein) → la línea recta de ~95 km
   que refuta el ~85 km · Twyfelfontein → Grootberg «~130 km, ~2,5 h» y Twyfelfontein → Hoada «about two
   and a half hours» (extractos de distancesfrom y journeysnamibia.com) *(páginas no descargadas por 403)*
+- **D9 Hoada → Okaukuejo ~340 km — resuelto 04/08 (◐):** Kamanjab → Outjo **156 km**
+  (https://www.distancesto.com/road-map/na/kamanjab-to-outjo/history/1188283.html) · Kamanjab →
+  Okaukuejo vía Outjo **271 km** (https://citymeter.net/distance-between-kamanjab-and-okaukuejo-via-Outjo-2016870196)
+  · C40 «259 km, Outjo vía Kamanjab a Palmwag, asfaltado Outjo–Kamanjab» y C38 «asfaltado Otjiwarongo–Okaukuejo»
+  (https://en.wikipedia.org/wiki/C40_road_(Namibia) · https://en.wikipedia.org/wiki/C38_road_(Namibia))
+  · Hoada «75 km al oeste de Kamanjab por la C40» (fichas de grootberg.com y places.co.za, ya citadas arriba)
+  *(datos de los extractos de búsqueda; las páginas devuelven 403 al descargar)*
 - Matriz de distancias del eje central: Namibia Tours & Safaris (2010), recogida en `07-logistica.md`
