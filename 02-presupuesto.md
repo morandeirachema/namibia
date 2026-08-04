@@ -191,12 +191,19 @@ verificarse contra el documento primario (detalle en `15` §Tasas). Los tres par
 (Namib-Naukluft, Skeleton Coast, Etosha) son **premium**, así que el N$280 es la tarifa correcta para
 los tres.
 
-**La la ruta cruza tres zonas de pago:**
+**La ruta cruza tres zonas de pago:**
 - **Namib-Naukluft** (Sesriem/Sossusvlei): ~2 unidades de 24 h (tarde de llegada + amanecer en Deadvlei).
 - **Skeleton Coast** (permiso de tránsito + Terrace Bay): ~1 unidad.
 - **Etosha**: 4 noches dentro → ~4 unidades.
 
 → **~7 unidades × N$620 = ~N$4.340 (~€217) pareja / ~€109 por persona** ◐.
+
+> ➕ **Aparte, FUERA de esas 7 unidades premium: Cape Cross (D7).** El reserva de lobos cobra su
+> propia entrada — **N$150 (~€8)/extranjero + N$50 (~€3)/coche = ~N$350 (~€18) la pareja** ◐, en
+> **efectivo**, en recepción (Dorob NP; tarifa menor que el baremo premium). **Súmalo al total de
+> tasas.** Fuentes secundarias convergentes: una reseña de visitante de 2025 y una guía dan la misma
+> cifra (N$150 + N$50); la primaria del MEFT sigue en 403. Detalle y horario (abre 08:00 del 16 nov
+> al 30 jun) en [`01` §D7](01-itinerarios-dia-a-dia.md).
 
 > Fuentes: [gazettes.africa — Government Gazette Nº 8877, 1/04/2026 (Government Notice Nº 115)](https://gazettes.africa/akn/na/officialGazette/government-gazette/2026-04-01/8877/eng@2026-04-01) ·
 > [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
