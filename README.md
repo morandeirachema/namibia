@@ -165,7 +165,8 @@ flowchart LR
   hace al amanecer y al atardecer, con siesta y charca iluminada de noche, que es como se hace bien
   de todas formas. El desierto **Sesriem ~32,5 °C** y la costa fresca (Benguela):
   **Swakopmund/Walvis Bay ~25 °C** de máxima en noviembre. Etosha y la costa vienen de **estación
-  NOAA**; Sesriem no tiene estación y se cerró con el **reanálisis ERA5**, validado contra estaciones *(ver [`15`](15-huecos-cerrados.md),
+  NOAA**; los puntos sin estación —**Sesriem, Spreetshoogte (~31,5) y Hoada (~33,1)**— se cerraron con
+  el **reanálisis ERA5**, validado a ±0,04 °C contra las estaciones *(ver [`15`](15-huecos-cerrados.md),
   secciones "La costa" y §ERA5)*. **Las noches, entre 12,7 °C (la costa) y 18,9 °C (Etosha)**:
   **forro polar, no plumas** — la lista completa de equipaje, en [`05`](05-equipaje.md), y la
   temperatura noche a noche en [`01`](01-itinerarios-dia-a-dia.md).

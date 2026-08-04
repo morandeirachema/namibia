@@ -103,6 +103,41 @@ n=270 días por punto.
 > sabana seca. **El sesgo no se puede corregir con una constante**, así que las cifras se publican
 > tal cual, avisando de hacia dónde tira el error en cada terreno.
 
+### 🆕 Cerrados dos de los tres puntos sin estación: Spreetshoogte y Hoada ◐
+
+**Método idéntico al de arriba, y validado antes de fiarse de él.** Se recalculó ERA5 con la misma
+receta —máximo diario de las horas **10–17 UTC**, mínimo de las **00–07 UTC**, promediado sobre los
+**9 noviembres 2013–2021 (n=270 días)** del mismo fichero ARCO-ERA5— y **primero se comprobó que el
+cálculo reproduce los números ya publicados** en las celdas conocidas:
+
+- **Windhoek** — recalculado **31,0** vs el 31,0 de arriba → **Δ +0,03 °C**
+- **Okaukuejo** — recalculado **35,2** vs 35,2 → **Δ +0,04 °C**
+- **Sesriem** — recalculado **32,5** vs 32,5 → **Δ −0,01 °C**
+
+Tres regímenes distintos (meseta, sabana, desierto) clavados a **±0,04 °C**: el mismo tubo de
+cálculo aplicado a los puntos sin medir es fiable. Con eso:
+
+- 🏔️ **Spreetshoogte** *(campamento del D2, borde de la escarpa ~1.700 m)* — **media de máximas de
+  noviembre 31,5 °C / mínima 17,1 °C** ◐ *(ERA5, celda −24,00 / 16,00)*. **Corrobora el proxy de
+  Windhoek** que ya usaba `01`: misma altitud, mismo clima de meseta. Días extremos de la serie
+  entre 22,5 y **38,0 °C**. Como es meseta —el terreno donde ERA5 apenas tiene sesgo— el número se
+  puede tomar casi tal cual.
+- 🔥 **Hoada / Grootberg** *(campamento del D8, Damaraland)* — **media de máximas 33,1 °C / mínima
+  18,4 °C** ◐ *(ERA5, celda −20,00 / 14,00)*. Días extremos hasta **39,2 °C**. **Ojo al sesgo:**
+  Damaraland es «sabana seca», el terreno donde ERA5 se quedó **~2 °C corto** en Okaukuejo, así que
+  **el mediodía real de Hoada probablemente ronda 34–35 °C**, no 33. Trátese 33,1 como suelo, no como
+  techo. Encaja con lo que decía `01`: entre la meseta (~31) y el norte caluroso, y con Twyfelfontein
+  —en el valle, más abajo— aún más caliente a mediodía.
+
+**El tercer punto, Terrace Bay, NO se puede cerrar así, y es un hallazgo en sí mismo.** Su celda ERA5
+más cercana (−20,00 / **13,00**) cae **sobre el océano**: devuelve **~19,3 °C**, que es aire marino
+sobre la corriente fría de Benguela, **no la temperatura en tierra del campamento**. Lo confirma el
+control: la misma celda-más-cercana para **Walvis Bay dio 18,5 °C**, un absurdo frente a los **25,0
+✅** de su estación —la celda es mar, no tierra—. Por eso, para la costa **sigue mandando el proxy de
+estación real (Walvis Bay 25,0 ✅)** y no el reanálisis. Lo que ERA5 sí confirma de Terrace Bay es
+que la capa marina la mantiene fría y estable *(máximos de la serie que no pasan de ~25 °C)*, en
+línea con la niebla y el viento que ya se anotaban.
+
 ---
 
 ## 🌬️ Viento en la costa — y no es lo que su fama sugiere ✅
@@ -242,7 +277,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   abierto: el **sobrecoste exacto en tiempo y km del desvío** —no lo publica nadie— y reconfirmar que
   sigue en pie *(NWR Okaukuejo, +264 67 229 800)*.
 - 🕐 **Los horarios de salida de los safaris guiados de NWR**: no los publican en ninguna parte.
-- 🌡️ **Sin estación meteorológica**: Spreetshoogte, Terrace Bay y Hoada/Grootberg.
+- 🌡️ ~~**Sin estación meteorológica**: Spreetshoogte, Terrace Bay y Hoada/Grootberg.~~ **CERRADOS
+  DOS (04/08) con ERA5, validado a ±0,04 °C contra las celdas conocidas** *(ver arriba, §ERA5)*:
+  **Spreetshoogte 31,5/17,1** y **Hoada 33,1/18,4** ◐. **Terrace Bay queda abierto a propósito**: su
+  celda más cercana es océano (da 19,3 °C de aire marino, no tierra), así que la costa se sigue
+  cubriendo con el proxy de estación real de Walvis Bay (25,0 ✅).
 
 ---
 
