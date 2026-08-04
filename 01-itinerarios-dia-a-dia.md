@@ -215,8 +215,10 @@ gantt
   noviembre** ✅ *(SABAP1)*. Aquí sí los hay en cantidad — en Etosha, en cambio, **no**: la depresión está
   seca en noviembre *(ver `09`)*
 - 🦩 **Flamencos y pelícanos en la laguna** al amanecer y al atardecer — las mejores luces
-- Día libre: paseo marítimo, ostras, o la excursión guiada a **Sandwich Harbour**
-  *(🚫 con tu coche está prohibida por contrato — el tour es la forma correcta y mejor)*
+- Día libre: paseo marítimo, ostras, el **crucero de delfines y lobos** *(~N$1.400–1.990, ~€70–100 pp
+  ◐)* o la excursión guiada a **Sandwich Harbour** *(~N$2.600–3.220, ~€130–161 pp ◐)*
+  *(🚫 con tu coche Sandwich Harbour está prohibida por contrato — el tour es la forma correcta y mejor;
+  precios y fuentes en [`02`](02-presupuesto.md), §9)*
 - 🛏️ Walvis Bay, segunda noche
 
 ### D7 · sáb 7 — Cape Cross → Terrace Bay (Skeleton Coast) · **~390 km · día logístico** ✅

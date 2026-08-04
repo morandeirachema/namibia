@@ -361,10 +361,30 @@ Precios **por persona**, verificados salvo aviso:
 - Lanzadera 4x4 a Deadvlei — **N$180 (~€9)** ✅ (NWR)
 - Sesriem, guiado de mañana / paseo — N$300–700 (~€15–35) ✅ (NWR)
 - Etosha, safari nocturno guiado — N$750 (~€38) ✅ (NWR)
-- **Walvis Bay** (barco / Sandwich Harbour): **❌ precio no verificado** — pregúntalo allí.
+- **Walvis Bay — crucero en barco** (delfines y lobos marinos, ~3 h, del muelle a Pelican Point, con
+  refrigerio a bordo): **~N$1.400–1.990 (~€70–100) por persona** ◐. Catamaran Charters / Sailnamibia
+  marcan la banda baja (~N$1.400); Mola Mola la alta, **N$1.990 (~€100)**, mínimo 2 personas, con
+  recogida opcional de **+N$470 (~€24)**. *(Un agregador suelta un N$4.570 que contradice a todos los
+  demás — descartado por atípico, seguramente charter privado o error de extracción.)*
+- **Walvis Bay — Sandwich Harbour en 4x4** (~4–5 h; **la única forma legal de ir: con tu coche lo
+  prohíbe el contrato**): **~N$2.600–3.220 (~€130–161) por persona** ◐, mínimo 2. Desert Compass Tours
+  N$2.600 (+N$300, ~€15, de recogida en Swakopmund); Red Dune Safaris N$3.220.
+- **Combo crucero + dunas de Sandwich Harbour el mismo día** (~8,5 h, Mola Mola): **N$4.740 (~€237)
+  por persona** ◐, mínimo 2, **sin la tasa de parque** de Namib-Naukluft.
 
-→ Partida flexible de **~N$1.520 (~€76) pareja / ~€38 por persona** (p. ej. lanzadera Deadvlei + una
-actividad). Sube fácil con safaris extra o el barco de Walvis.
+> ⚠️ **Todo esto va en ◐, no en ✅.** La ficha propia de cada operador devuelve **`403`** desde este
+> entorno *(la misma pared anti-bot que los lodges)*, así que las cifras salen del **resumen del
+> buscador sobre sus páginas y las de Viator**, cruzadas entre varios operadores independientes:
+> concuerdan en el orden de magnitud, pero **no se pudo abrir la página para verificar la extracción**.
+> Vigencia: tarifas anunciadas para **2026**. **Confírmalo por email antes de reservar.** Fuentes:
+> `mola-namibia.com/marine-dolphin-cruise`, `sailnamibia.com`, `namibiancharters.com/activities/dolphin-seal-cruise`,
+> `sandwichharbour-namibia.com`, `reddunesafarisnamibia.com/sandwich-harbour-4x4` y las fichas de
+> Viator `d4467-105190P1` (crucero), `-105190P2` (combo) y `-37950P1` (Sandwich Harbour).
+
+→ Partida flexible de **~N$1.520 (~€76) pareja / ~€38 por persona** con lo básico (lanzadera Deadvlei
++ una actividad de NWR). **El día de mar en Walvis** es el capricho que más mueve esta partida: el
+crucero para dos ~**N$2.800–3.980 (~€140–199)**, o el combo con Sandwich Harbour ~**N$9.480 (~€474)**
+la pareja.
 
 ### Misceláneos ○
 SIM/eSIM (~N$150–300, ~€8–15, ❌ no verificado), propinas, peajes/tasas menores, imprevistos →
