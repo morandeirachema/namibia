@@ -87,19 +87,25 @@ gantt
 > Cada noche lleva su **máxima media / mínima media** del mes. **Son medias mensuales, no la
 > previsión de tu día**: el récord de noviembre en el sur llega a 41–42 °C (`15`).
 > **Regla de fuentes de este repo:** las webs de safaris fueron **refutadas 0–3** (`15`), así que
-> aquí solo hay estación o secundaria que cite estación — **y donde no la hay, dice «sin dato»**.
+> aquí solo hay **estación ✅** (o secundaria que la cite) y, donde no hay estación, **reanálisis
+> ERA5 ◐** validado a ±0,04 °C contra las estaciones (`15` §ERA5). Terrace Bay se queda en «sin
+> dato» a propósito: su celda ERA5 es mar.
 >
 > ```mermaid
 > flowchart LR
 > T["Noviembre donde duermes<br/>media de máxima / mínima, en °C"]
 > n0["Walvis Bay · la costa<br/>25,0 día / 12,7 noche"]
 > n1["Windhoek<br/>31,2 día / 16,3 noche"]
+> n1b["Spreetshoogte · escarpa<br/>31,5 / 17,1 · ERA5"]
 > n2["Sesriem · el desierto<br/>32,5 día / 15,5 noche"]
+> n2b["Hoada · Damaraland<br/>33,1 / 18,4 · ERA5"]
 > n3["Okaukuejo · Etosha<br/>37,1 día / 18,9 noche"]
 > T ~~~ n0
 > n0 ~~~ n1
-> n1 ~~~ n2
-> n2 ~~~ n3
+> n1 ~~~ n1b
+> n1b ~~~ n2
+> n2 ~~~ n2b
+> n2b ~~~ n3
 > style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 > style n0 fill:#2d6a4f,color:#fff,stroke:#2d6a4f
 > style n3 fill:#9d0208,color:#fff,stroke:#9d0208
@@ -162,9 +168,10 @@ gantt
   *(Schanzen Road, en la ciudad; piscina, bar, wifi, cajero)* y **Arebbusch Travel Lodge**
 
 ### D2 · lun 2 — Windhoek → paso de Spreetshoogte · **~180–200 km · ~3h–3h30** ◐
-- 🌡️ **Spreetshoogte: sin dato de estación.** El proxy razonable es **Windhoek (31,2/16,3 ✅)**:
-  misma altitud (~1.700 m) en el borde de la escarpa. Arriba corre viento y refresca al caer el
-  sol ○
+- 🌡️ **Spreetshoogte: medias de noviembre ~31,5 °C máx / ~17,1 °C mín** ◐ *(reanálisis ERA5,
+  celda del borde de la escarpa; el cálculo reproduce Windhoek/Sesriem a ±0,04 °C — ver `15` §ERA5)*.
+  **Confirma el proxy de Windhoek** (31,2/16,3 ✅): misma altitud (~1.700 m), mismo clima de meseta.
+  Arriba corre viento y refresca al caer el sol ○
 - ☀️ amanecer **06:09** · anochecer **19:10** — *el atardecer en el paso es el plan del día: en
   posición hacia las 18:40*
 - B1 a Rehoboth (87 asfalto) → C24 → D1261 → **D1275: el paso**. ⚠️ **Muy empinado**, tramos de
@@ -223,8 +230,9 @@ gantt
 
 ### D7 · sáb 7 — Cape Cross → Terrace Bay (Skeleton Coast) · **~390 km · día logístico** ✅
 - 🌡️ **Terrace Bay: sin dato de estación** — no hay serie pública ni en Möwe Bay ni en Terrace
-  Bay. Proxy honesto: **la costa ronda los 25,0 °C de Walvis Bay ✅**, 400 km más al sur — cuenta
-  con **niebla, viento y menos calor que tierra adentro** ○
+  Bay, y **ERA5 tampoco sirve aquí**: su celda más cercana cae sobre el mar *(da aire marino ~19 °C,
+  no tierra; ver `15` §ERA5)*. Proxy honesto: **la costa ronda los 25,0 °C de Walvis Bay ✅**, 400 km
+  más al sur — con **niebla, viento y menos calor que tierra adentro** ○
 - ☀️ amanecer **06:18** (Cape Cross) · anochecer **19:20** (Terrace Bay) — *pero aquí el sol no es
   el límite: lo es la puerta de las 15:00*
 - ⏰ **Salida temprana — este día tiene una hora límite.** C34 costera (sal compactada):
@@ -250,9 +258,10 @@ gantt
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 
 ### D8 · dom 8 — Skeleton Coast → Twyfelfontein → Hoada · **~370 km · ~5h30–6h de volante** ◐
-- 🌡️ **Hoada/Grootberg: sin dato de estación** *(ninguna de las 11 estaciones GHCN de Namibia cae
-  cerca — ver `15`)*. Está entre la meseta (~31 °C) y el norte caluroso; Twyfelfontein, en el
-  valle, es **notablemente más caluroso a mediodía** ○
+- 🌡️ **Hoada/Grootberg: medias de noviembre ~33,1 °C máx / ~18,4 °C mín** ◐ *(reanálisis ERA5,
+  ninguna estación GHCN cae cerca; ver `15` §ERA5)*. **Es un suelo, no un techo**: en sabana seca
+  ERA5 se queda ~2 °C corto, así que el mediodía real ronda **34–35 °C**. Está entre la meseta (~31)
+  y el norte caluroso; Twyfelfontein, en el valle, es **aún más caluroso a mediodía** ○
 - ☀️ amanecer **06:17** (Twyfelfontein) · anochecer **19:15** (Hoada) — *y es domingo otra vez:
   sin alcohol a la venta*
 - Salida por **Springbokwasser** → C39/D3245 → **Twyfelfontein** (grabados rupestres UNESCO; Google
