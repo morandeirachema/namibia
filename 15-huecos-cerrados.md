@@ -223,8 +223,10 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 **Datos que siguen abiertos:**
 
-- 📏 **La discrepancia del D9**: Hoada → Okaukuejo son **~315 km según `01` y ~340 sumando tramos
-  citados**. Nadie las ha conciliado; hasta entonces, presupuesta combustible con los 340.
+- 📏 ~~**La discrepancia del D9**: Hoada → Okaukuejo, ~315 vs ~340 km~~ **RESUELTA (04/08): son
+  ~340 km.** Kamanjab → Outjo 156 km *(distancesto)* + Kamanjab → Okaukuejo 271 km *(CityMeter, vía
+  Outjo)* corroboran los 265 de la matriz, y con los 75 km Hoada → Kamanjab dan **~340–346 km**. El
+  ~315 de `01` queda refutado; ya corregido a 340. Detalle en [`13`](13-itinerario.md), §3.
 - ⛽ **Diésel en Terrace Bay** — hay **surtidor con gasolina y diésel** junto a la recepción del
   resort *(ioverlander + relatos de viajeros ◐/○)*, pero **se queda sin combustible a veces** y
   conviene llevar efectivo: trátalo como respaldo, no como garantía. Sigue sin cerrar si hay diésel
