@@ -219,7 +219,9 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 - 🛏️ **Tres campings sin cotizar**: Windhoek (D1 y D13), Walvis Bay (D5–D6) y Spreetshoogte. Los
   sitios están identificados; **ninguno publica tarifa**.
 - 💳 **La fianza que retiene Namibia2Go** en la tarjeta: importe desconocido.
-- 🚤 El **barco de Walvis Bay**, la **SIM de MTC** y la **opción de búsqueda y salvamento del IATI**.
+- 🚤 La **SIM de MTC** y la **opción de búsqueda y salvamento del IATI** *(el **crucero de Walvis Bay**
+  ~N$1.400–1.990 pp y el **4x4 a Sandwich Harbour** ~N$2.600–3.220 pp ya tienen rango de mercado 2026
+  ◐ en [`02`](02-presupuesto.md), §9 — cruzado entre operadores, pero con la ficha propia en `403`).
 
 **Datos que siguen abiertos:**
 
