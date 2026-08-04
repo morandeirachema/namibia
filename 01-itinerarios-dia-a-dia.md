@@ -229,6 +229,11 @@ gantt
   el límite: lo es la puerta de las 15:00*
 - ⏰ **Salida temprana — este día tiene una hora límite.** C34 costera (sal compactada):
   Swakopmund → Henties Bay → 🦭 **Cape Cross** (miles de lobos marinos; pañuelo para el olor)
+- 🎫 **Cape Cross cobra entrada propia, aparte del permiso de Skeleton Coast:** **N$150 (~€8)/extranjero
+  + N$50 (~€3)/coche** (≤10 plazas) = **~N$350 (~€18) los dos** ◐, en **efectivo**, se paga en recepción
+  al entrar (reserva dentro del Dorob NP; tarifa menor que el baremo premium, **no** son las 7 unidades
+  de `02` §5 — súmalo). Horario: **abre a las 08:00 del 16 nov al 30 jun** (10:00 el resto del año), así
+  que en vuestra ventana de finales de noviembre entráis temprano y cabe holgado antes de Ugabmund
 - 🛑 **Puerta de Ugabmund: última entrada 15:00.** Para pernoctar dentro hace falta **reserva
   confirmada de Terrace Bay** — sin ella no se entra (el permiso de tránsito obliga a salir el
   mismo día)
