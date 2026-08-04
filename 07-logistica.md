@@ -7,7 +7,8 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026 · precio del
+> combustible actualizado a la revisión del 5 ago 2026*
 
 
 ---
@@ -22,6 +23,19 @@ Energía, Modestus Amutse:
 - **Gasolina 95** — **N$22,48/l (~€1,12)** *(baja N$1,00)*
 - **Diésel 50 ppm** — **N$24,26/l (~€1,21)** *(baja N$4,00)*
 - **Diésel 10 ppm** — **N$24,36/l (~€1,22)** *(baja N$4,00)*
+
+**Y ya subió otra vez: revisión del 5 de agosto de 2026 (+N$2,00/l en todas las calidades) ◐** al
+restituirse cuatro gravámenes que se habían recortado un 50 % durante tres meses (y con el barril de
+diésel 50 ppm subiendo de ~US$120 a ~US$141). Aplicando el +N$2,00 a las cifras de julio, la costa
+queda en:
+
+- **Diésel 50 ppm** — **~N$26,26/l (~€1,31)**
+- **Diésel 10 ppm** — **~N$26,36/l (~€1,32)**
+
+*(◐ — la subida y su fecha convergen en varias búsquedas, pero thebrief.com.na y el boletín del MME
+devuelven 403 aquí, así que el precio de bomba exacto no se ha leído del primario. El «emergency
+coordinated fuel supply arrangement» que había contenido los precios expiraba en septiembre: esta
+subida es justo esa presión al alza que ya se avisaba abajo, materializándose.)*
 
 > ### ⚠️ Dos avisos que invalidan esa cifra para tu viaje
 >
@@ -40,16 +54,18 @@ Energía, Modestus Amutse:
 > compra al Basic Fuel Price sin primas de importación— **solo dura de julio a septiembre de 2026**.
 > **Caduca antes de tu viaje.**
 
-**Para presupuestar:** **N$25–27/l (~€1,25–1,35)** de diésel en el interior, **como estimación, no
-como dato**. 👉 **Recomprueba la semana antes de salir.**
+**Para presupuestar (tras la subida de agosto):** **N$26–29/l (~€1,30–1,45)** de diésel en el
+interior, **como estimación, no como dato**. 👉 **Recomprueba la semana antes de salir.**
 
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: un Hilux
 doble cabina cargado en los **~2.600 km de la ruta** (banda 2.400–2.800), a **~11–13 l/100 km**,
-quema **~290–365 l** → banda **N$6.336–9.828 (~€317–491)**, central **~N$7.956**. **Se presupuestan
-~N$8.000 (~€400)** — el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
+quema **~290–365 l** → banda **N$6.336–9.828 (~€317–491)**, central **~N$8.424 (~€421)** con el diésel
+a N$27/l de agosto *(era ~N$7.956 con el precio de julio)*. **Se presupuestan ~N$8.000–8.400
+(~€400–420)** — el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
 2.800–3.200 km de la ruta con el sur.)*
 
-Fuente: https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/
+Fuentes: [rebaja de julio](https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/) ·
+[subida de N$2,00/l del 5 ago 2026](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/) *(403 aquí; vía fragmento del buscador)*
 
 ### ❌ El mito de la tarjeta — corregido
 
