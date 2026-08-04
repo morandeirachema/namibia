@@ -7,7 +7,8 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026 · precio del
+> combustible actualizado a la revisión del 5 ago 2026*
 
 Coste real del viaje **ya cerrado en lo grande** (vuelo, coche y seguro reservados), en N$ y €. Cada
 cifra lleva su marca de confianza y su fuente. **Donde no hay dato verificado, se dice y se deja como
@@ -153,18 +154,26 @@ flowchart LR
   Etosha, safaris internos y vuelta a Windhoek; ningún día por encima de ~390 km).
 - **Consumo** del Hilux doble cabina cargado con tienda de techo: **11–13 l/100 km** (○, práctica
   común; no verificado contra ficha del vehículo). Central **12 l/100 km**.
-- **Precio del diésel**: **costa ~N$24,3/l en julio 2026** tras la rebaja de N$4/l del Gobierno ◐; en
-  el **interior y bombas remotas** (Solitaire, Sesriem, Okaukuejo) sube — banda **N$24–27/l**, central
-  **~N$25,5/l**. ⚠️ **El precio se revisa cada mes**: reconfírmalo cerca de la salida.
+- **Precio del diésel**: la costa (Walvis Bay, precio base nacional) marcaba **N$24,26/l en julio
+  2026** tras la rebaja de N$4/l del Gobierno; **pero el 5 de agosto de 2026 subió +N$2,00/l** al
+  restituirse los gravámenes que se habían recortado tres meses → **costa ~N$26,26/l ◐** *(N$24,26 +
+  N$2,00; coincide con la cifra que devuelve el buscador para agosto)*. En el **interior y bombas
+  remotas** (Solitaire, Sesriem, Okaukuejo) sube sobre eso → banda **N$26–29/l**, central **~N$27/l**.
+  ⚠️ **El precio se revisa cada mes**: entre agosto y la salida de noviembre habrá **~3 revisiones más**,
+  así que esto sigue siendo estimación — reconfírmalo la semana antes de salir.
 
-- **Cálculo central**: 2.600 km × 0,12 l/km × N$25,5/l = **~N$7.956 (~€398)** para la pareja.
-- **Banda**: **N$6.336–9.828 (~€317–491)**.
+- **Cálculo central**: 2.600 km × 0,12 l/km × N$27/l = **~N$8.424 (~€421)** para la pareja.
+- **Banda**: **N$6.336–9.828 (~€317–491)** *(la banda ya cubría precios de hasta ~N$29/l, así que solo
+  se movió el central; la subida de agosto no la desborda)*.
 
-> **Se presupuesta ~N$8.000 (~€400) pareja / ~€200 por persona.** Fuentes del precio:
+> **Se presupuesta ~N$8.000–8.400 (~€400–420) pareja / ~€200–210 por persona** *(el central subió al
+> extremo alto de la banda tras la revisión de agosto)*. Fuentes del precio:
 > [GlobalPetrolPrices — Namibia diésel](https://www.globalpetrolprices.com/Namibia/diesel_prices/) ·
 > [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) *(403, no abierta aquí)* ·
 > rebaja de julio 2026 en [thebrief.com.na](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/)
-> *(vía fragmento; extracción no verificada)*.
+> y **subida de agosto** en [thebrief.com.na](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/)
+> *(ambas vía fragmento; el sitio y el boletín del MME devuelven 403 aquí, así que la extracción del
+> precio de bomba exacto no está verificada contra el primario — de ahí el ◐)*.
 
 ---
 
@@ -475,6 +484,7 @@ flowchart LR
 - **Visado**: [MAEC — Namibia](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia) — ver `12`.
 - **Diésel**: [GlobalPetrolPrices — Namibia](https://www.globalpetrolprices.com/Namibia/diesel_prices/) ·
   [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) ·
-  [thebrief.com.na — rebaja julio 2026](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/).
+  [thebrief.com.na — rebaja julio 2026](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/) ·
+  [thebrief.com.na — subida de N$2,00/l del 5 ago 2026](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/).
 - **Seguro y vuelos**: cotizaciones cerradas (IATI Estrella; Gotogate/Mytrip/Booking) — arriba.
 - **Ruta y distancias**: [`13-itinerario.md`](13-itinerario.md) *(histórico del sur)* y [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md) *(la ruta vigente)*.
