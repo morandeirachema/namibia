@@ -138,7 +138,8 @@ Esto es importante y el propio dossier se contradecía: **no consta hecha ningun
 
 - 🛏️ Ni coche, ni las **2 noches de Sesriem**, ni Terrace Bay, ni las 4 de Etosha *(`15` §lista
   maestra; `07`)*. Todo son precios cotizados o estimados, **ninguno pagado**.
-- ✈️ El vuelo tiene **precio real cotizado (€1.366 p.p. ◐)** pero **no consta emitido** *(`15`; `04`
+- ✈️ El vuelo tiene **precio real cotizado (€1.450 p.p. ◐, Oporto → Windhoek, 30 oct – 14 nov)**
+  pero **no consta emitido** *(`15`; `04`
   todavía lo lista como pendiente)*. Sin billete no hay e-visa.
 - ✈️ **Y el 05/08 apareció un candidato distinto, que además mueve las fechas** ◐: **Oporto →
   Windhoek con Lufthansa, 30 oct – 14 nov, €1.341 p.p.**, una escala por sentido y **12h40 menos de

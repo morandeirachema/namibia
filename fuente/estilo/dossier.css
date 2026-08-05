@@ -35,12 +35,16 @@
   --azul:     #2F6E8E;
   --azul-bg:  #EAF1F5;
 
-  /* Caja util de la pagina: A4 menos los margenes que pone imprimir.py (14/12/16/12).
-     Las paginas «de imagen» miden exactamente esto, encuadradas dentro del margen.
-     A sangre no tiene sentido: esto se imprime en una impresora de casa, que no llega
-     al borde del papel — y ademas el pie de pagina vive en ese margen. */
+  /* Caja util de la pagina. El ancho es A4 menos los margenes que pone imprimir.py
+     (14/12/16/12) y sale exacto. El alto NO: al imprimir, Chrome resuelve los
+     porcentajes de las paginas «de imagen» contra un fragmento mas corto que la caja
+     real, y con 267mm se quedaban en 245. Con 291 el bloque mide 267,0 mm medidos
+     sobre el PDF, que es lo que hay que llenar. Si cambian los margenes de
+     imprimir.py, vuelve a medir: `pdftoppm` la pagina 1 y mira donde acaba la foto.
+     A sangre no se va: esto se imprime en una impresora de casa, que no llega al
+     borde del papel — y el pie de pagina vive en ese margen. */
   --caja-ancho: 186mm;
-  --caja-alto:  267mm;
+  --caja-alto:  291mm;   /* = 267 mm reales sobre el papel */
 
   --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
   --sans:  "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
@@ -99,6 +103,9 @@ body {
    asi el pie de pagina cae dentro del margen y no hay que contarlo dos veces. */
 .doc { page-break-before: always; padding: 0;
        columns: 2; column-gap: 8mm; column-fill: auto; }
+/* Nada puede pasarse del ancho de caja: ver la nota de .mermaid. */
+.doc, .indice, .mapa-plena { max-width: var(--caja-ancho); }
+.doc img, .doc svg, .doc pre, .doc table, .indice svg, .mapa-plena svg { max-width: 100%; }
 .doc.sin-columnas { columns: 1; }
 
 /* --------------------------------------------------------- separadores    */
@@ -157,7 +164,16 @@ a { color: var(--oxido-os); text-decoration: none; border-bottom: .4pt solid var
 hr { border: 0; border-top: .5pt solid var(--regla); margin: 4mm 0; }
 
 code { font-family: var(--mono); font-size: 7.9pt; background: var(--crema-2);
-       padding: .2mm 1mm; border-radius: .8mm; color: var(--tinta-2); }
+       padding: .2mm 1mm; border-radius: .8mm; color: var(--tinta-2);
+       overflow-wrap: break-word; }
+/* Un bloque de codigo que no rompa linea ensancha la pagina, y con la pagina ancha
+   Chrome encoge el documento entero al imprimirlo. Aqui se rompe siempre. */
+pre { white-space: pre-wrap; overflow-wrap: anywhere; word-break: break-word;
+      max-width: 100%; overflow: hidden; background: var(--crema); padding: 2.4mm 3mm;
+      border-radius: 1.5mm; font-size: 7.6pt; margin: 2.5mm 0; }
+pre code { background: none; padding: 0; font-size: inherit; }
+pre.mermaid { white-space: normal; background: none; padding: 0; }
+a { overflow-wrap: break-word; }
 a code { color: var(--oxido-os); }
 
 /* ------------------------------------------------------------- avisos     */
@@ -209,7 +225,11 @@ figcaption .credito { color: var(--tinta-3); font-size: 6.6pt; text-align: right
 
 /* ------------------------------------------------------------- diagramas  */
 
-.mermaid { text-align: center; margin: 3.5mm 0; break-inside: avoid; background: none; }
+/* Aqui NO se recorta: recortar el SVG de Mermaid corta las etiquetas de los nodos.
+   Lo que ensanchaba la pagina eran los mapas, y esos se acotan al proyectar
+   (ver Lienzo.d en mapa.py). Aqui solo se limita el ancho de maquetacion. */
+.mermaid { text-align: center; margin: 3.5mm 0; break-inside: avoid; background: none;
+           max-width: 100%; }
 .mermaid svg { max-width: 100% !important; height: auto !important; max-height: 150mm; }
 /* Mermaid mete su propia tipografia por diagrama: se unifica con la del dossier. */
 .mermaid svg text, .mermaid svg tspan, .mermaid svg .titleText, .mermaid svg .taskText,
@@ -229,27 +249,29 @@ thead th { background: var(--crema-2); border-bottom: 1pt solid var(--regla-2);
 /* ------------------------------------------------------------- indice     */
 
 .indice { page-break-before: always; padding: 0; }
-.indice h1 { font-size: 24pt; border-bottom: 2.4pt solid var(--oxido);
-             padding-bottom: 3mm; margin: 0 0 6mm; }
-.indice .grupo { font-family: var(--sans); font-size: 8pt; letter-spacing: .22em;
-  text-transform: uppercase; color: var(--tinta-3); margin: 7mm 0 2.5mm;
-  padding-bottom: 1.4mm; border-bottom: .5pt solid var(--regla); }
+.indice h1 { font-size: 22pt; border-bottom: 2.4pt solid var(--oxido);
+             padding-bottom: 2.6mm; margin: 0 0 4.5mm; }
+.indice .grupo { font-family: var(--sans); font-size: 7.6pt; letter-spacing: .22em;
+  text-transform: uppercase; color: var(--tinta-3); margin: 5mm 0 2mm;
+  padding-bottom: 1.2mm; border-bottom: .5pt solid var(--regla); }
 .indice .grupo:first-of-type { margin-top: 0; }
 .indice ol { list-style: none; padding: 0; margin: 0; }
-.indice li { display: flex; align-items: baseline; gap: 2mm; margin-bottom: 2.4mm; }
+.indice li { display: flex; align-items: baseline; gap: 2mm; margin-bottom: 1.7mm; }
 .indice li::before { content: none; }
 .indice .n { font-family: var(--sans); font-weight: 700; font-size: 8.4pt;
   color: var(--oxido); flex: 0 0 7mm; }
-.indice .t { font-family: var(--sans); font-size: 10pt; font-weight: 600;
+.indice .t { font-family: var(--sans); font-size: 9.4pt; font-weight: 600;
              color: var(--basalto); flex: 0 1 auto; }
 .indice .t small { display: block; font-family: var(--serif); font-weight: 400;
-  font-style: italic; font-size: 8.4pt; color: var(--tinta-2); margin-top: .4mm; }
+  font-style: italic; font-size: 7.9pt; color: var(--tinta-2); margin-top: .3mm;
+  line-height: 1.3; }
 .indice .puntos { flex: 1 1 auto; border-bottom: .5pt dotted var(--regla-2);
                   transform: translateY(-1mm); min-width: 6mm; }
 .indice .p { font-family: var(--sans); font-weight: 700; font-size: 9.4pt;
              color: var(--basalto); flex: 0 0 auto; }
-.indice .nota { margin-top: 8mm; background: var(--crema); padding: 3.5mm 4.5mm;
-  border-radius: 1.5mm; font-size: 8.6pt; border-left: 2.6pt solid var(--regla-2); }
+.indice .nota { margin-top: 4mm; background: var(--crema); padding: 2.6mm 3.5mm;
+  border-radius: 1.5mm; font-size: 7.8pt; line-height: 1.4;
+  border-left: 2.6pt solid var(--regla-2); }
 
 /* ------------------------------------------------------------- fauna      */
 

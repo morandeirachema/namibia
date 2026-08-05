@@ -1,6 +1,6 @@
 # 01 · Los itinerarios, día a día
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > La ruta desarrollada día por día: qué se conduce, a qué hora sale y se pone el sol, qué temperatura hace donde se duerme y qué cuesta cada noche.
 >
@@ -139,22 +139,32 @@ gantt
 > 👉 **El techo real son 11 de 13 noches arriba** (12 si añadís el día 13 de alquiler). Las dos que
 > no pueden ser: Terrace Bay, que solo tiene habitaciones, y la última, sin coche.
 >
-> ### 🚗 ¿Y cuántos días estáis en Windhoek sin coche? **Uno.**
+> ### 🚗 ¿Y cuántos días estáis en Windhoek sin coche? **Dos, con la cotización actual.**
 >
-> El alquiler va del **1 al 13 de noviembre** —12 días—, así que:
+> El coche está cotizado del **1 nov 08:00 al 13 nov 17:00** —13 días— y el vuelo va del **31 de
+> octubre al 14 de noviembre**. No cuadra por las dos puntas:
 >
-> - **D1, 1 de noviembre**: aterrizáis a las 13:20 y **recogéis el coche ese mismo día**. Esa noche
->   **sí** hay 4x4: se puede acampar.
-> - **De D2 a D12**: coche todos los días.
-> - **D13, viernes 13**: se **entrega** el coche. Esa noche, y solo esa, dormís **sin 4x4** →
->   habitación en Windhoek y **traslado al aeropuerto** al día siguiente.
-> - **D14, sábado 14**: el vuelo sale a las 14:30 y ya no hay coche.
+> - **D0, 31 de octubre**: aterrizáis a las **09:25** y **el alquiler no ha empezado** → noche de
+>   hotel en Windhoek y traslado desde el aeropuerto *(~45 km)*.
+> - **De D1 a D13**: coche todos los días. La noche del 13 ya es **sin 4x4**.
+> - **D14, sábado 14**: el vuelo sale a las **20:45** — un día entero en Windhoek, otra vez a pie.
 >
-> 💡 **La alternativa que lo evita:** añadir el **día 13 de alquiler (~€150 · ~N$3.000)** y devolver
-> el coche el 14 camino del aeropuerto. Te ahorras el hotel y **dos traslados**, así que puede salir
-> igual o más barato — y duermes arriba también la última noche.
+> 💡 **La alternativa que lo evita:** recotizar el alquiler **del 31 oct 11:00 al 14 nov 18:00**
+> —15 días—. Son **~N$5.400 (~€270)** más la pareja con la Budget, y te ahorras **dos noches de
+> hotel y tres traslados**, además de dormir arriba la última noche. ⚠️ **Ojo: el 31 de octubre cae
+> fuera de la temporada baja de Namibia2Go** — pide ese día por separado *(ver
+> [`02`](02-presupuesto.md) §2)*.
 
-### D1 · dom 1 nov — Llegada a Windhoek
+### D0 · sáb 31 oct — **Aterrizas, y este día es nuevo** ⚠️
+- ✈️ **Llegada a Windhoek a las 09:25** con el vuelo de Oporto *(ver [`02`](02-presupuesto.md) §8)*
+- ⚠️ **Este día NO estaba en el plan y todavía no tiene contenido.** El vuelo aterriza un día antes
+  de lo que asumía la ruta, así que **hay una jornada entera de regalo en Windhoek** — y una noche
+  más que resolver. **Dos cosas que decidir**: si se adelanta la recogida del coche al 31
+  *(recotizar, [`02`](02-presupuesto.md) §2)* y si ese día se usa para **descansar del vuelo** o
+  para **adelantar etapa** hacia Spreetshoogte.
+- 🛏️ **Windhoek, noche extra** — sin resolver ❌
+
+### D1 · dom 1 nov — Windhoek, el día que ya estaba planificado
 - 🌡️ **Windhoek, medias de noviembre: 31,2 °C máx / 16,3 °C mín** ✅ *(NOAA GHCN, estación 68110,
   1.700 m, serie 1957–2025; ver `15`)* — cálido de día, pero a 1.700 m **refresca de noche**
 - ☀️ amanecer **06:07** · anochecer **19:04**
@@ -351,7 +361,12 @@ gantt
   por Grootfontein)*
 
 ### D14 · sáb 14 — Vuelo
-- ☀️ amanecer **06:01** · *(despegue 14:30 — mañana tranquila)*
+- ✈️ **Despegue a las 20:45** *(vuelo de Oporto, [`02`](02-presupuesto.md) §8)* — no es una mañana
+  de aeropuerto: es **un día entero en Windhoek** antes de embarcar
+- ☀️ amanecer **06:01**
+- ⚠️ **Y ese día no tienes coche** con la cotización actual, que lo devuelve el 13 a las 17:00.
+  **O se alarga el alquiler al 14 por la tarde, o hay que llenar el día a pie y con traslado al
+  aeropuerto** *(~45 km)* — ver [`02`](02-presupuesto.md) §2
 - 💱 **Gasta o cambia los N$ antes de embarcar**: fuera de Namibia no valen nada
 
 ### 💰 Coste real de E *(1–15 nov · el detalle completo, en `02-presupuesto.md`)*
@@ -384,7 +399,7 @@ gantt
   campamentos**, y **solo se puede bajar del coche dentro de los campamentos** — la única excepción
   es el *koppie* de dolomita de **Halali**, que sí se puede pasear. De noche te quedas dentro: la
   charca iluminada es el plan.
-- **Kiosco SIM de MTC en el aeropuerto** ◐: cierra **~21:00** — aterrizas a las 13:20, de sobra.
+- **Kiosco SIM de MTC en el aeropuerto** ◐: cierra **~21:00** — aterrizas a las **09:25**, de sobra.
 - **Alcohol** ✅: bottle stores y secciones de licores **cierran domingos y festivos**. Tus
   domingos de viaje: **1 nov (el día que llegas) y 8 nov** — compra el sábado.
 - **Otjitotongwe (guepardos)** ◐ — C40, a 24 km de Kamanjab, de camino el D9 (lunes):
@@ -478,7 +493,7 @@ y el safari como clímax final.
 
 ## 🕳️ Lo que falta para cerrar LA RUTA DEL VIAJE
 
-- ✅ **Vuelos** — ya hay presupuesto real: €1.366 (~N$27.300) p.p., 31 oct – 14 nov. *Pendiente
+- ✅ **Vuelos** — precio final: €1.450 (~N$29.000) p.p., **Oporto → Windhoek, 30 oct – 14 nov**. *Pendiente
   solo de emitir el billete*
 - ❌ **Tres noches sin precio** — Terrace Bay, Spreetshoogte *(candidato: Camp Gecko, banda
   contradictoria)* y Walvis Bay ×2, más el hotel del D13. **Hoada ya tiene precio** ◐ (arriba), y

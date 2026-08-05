@@ -1,6 +1,6 @@
 # 15 · Cómo se verificó esto
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Los datos duros del dossier con su fuente y su método: temperaturas de estación, viento, tasas,
 > vuelos y lodges. Y al final, **la lista de lo que sigue sin cerrar**.
@@ -173,18 +173,21 @@ Government Notice nº 115**:
 
 ---
 
-## ✈️ Vuelos — cerrado en €1.366, y con qué se comparó
+## ✈️ Vuelos — cerrado en €1.450 (Oporto), y con qué se comparó
 
-El billete del viaje está en [`02`](02-presupuesto.md). Lo que sigue es el **contexto de mercado**
+El billete del viaje está en [`02`](02-presupuesto.md) §8. Lo que sigue es el **contexto de mercado**
 con el que se juzgó si ese precio era razonable, y la lógica de la fiebre amarilla:
 
-- **Ethiopian vía Adís** — la ruta elegida. MAD–ADD directo (~7 h) y ADD–WDH directo (~5 h 45), 4
-  vuelos/semana. ⚠️ Adís **es zona de fiebre amarilla**: solo la escala corta *airside* evita el
-  certificado, y la del viaje son 2h20 y 2h45.
+- **Lufthansa vía Fráncfort y Múnich** — **la ruta elegida**, saliendo de **Oporto**. Una escala por
+  sentido, **sin fiebre amarilla** *(ninguno de los dos hubs es zona de riesgo)*, y el largo radio
+  parcialmente operado por **Discover Airlines**. Muestras de agregador anteriores la situaban en
+  **~€673–715** ida y vuelta ◐ — el precio real del viaje, con equipaje y cargos, es **€1.450 p.p.**
 - **Qatar vía Doha** ◐ — sin fiebre amarilla; rango gancho de agregador **desde ~€631** ida y vuelta.
-- **Lufthansa vía Fráncfort** ◐ — sin fiebre amarilla; muestras de **~€673–715** ida y vuelta.
 - **Airlink (JNB–WDH)** y **TAAG (Luanda–WDH)** ◐ — son solo el **conector regional**: hay que sumar
   el largo radio desde Europa. TAAG es la única que hace Luanda–Windhoek sin escala (2 h 30).
+- ⚠️ **Los hubs que sí obligan a vacunarse** son los que están en zona de fiebre amarilla. La ruta
+  elegida los evita por completo, así que **el certificado no hace falta** *(el árbol de decisión,
+  en [`04`](04-guia-preparacion.md))*.
 
 > Todas las cifras de arriba son **ganchos «desde» de agregador, sin fecha concreta** ◐ — sirven para
 > situar el orden de magnitud, no para reservar. El precio real del viaje se cotizó aparte.
@@ -241,7 +244,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 **Bloquean algo con fecha:**
 
-- ✈️ **¿Está emitido el billete?** Hay precio real (€1.366 p.p.) pero **el dossier se contradice**.
+- ✈️ **¿Está emitido el billete?** Hay precio real (€1.450 p.p.) pero **el dossier se contradice**.
   **Sin billete no hay e-visa**, porque exige billete de vuelta.
 - 🏕️ **Ninguna reserva consta hecha**: ni coche, ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
   al parque a pernoctar)*, ni las cuatro de Etosha.

@@ -1,6 +1,6 @@
 # 05 · Equipaje
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > La mochila que dictan los datos del dossier: qué llevar, qué dejar en casa y los tres micro-kits de los días señalados.
 >
@@ -73,8 +73,8 @@ flowchart TD
   entras al parque, `11`)
 - **Carné de conducir + permiso internacional** — ⚠️ si es obligatorio **sigue sin resolver** (`12`):
   está en la cuenta atrás de septiembre (`04`)
-- **Cartilla de vacunación** (la amarilla solo si el itinerario cambiara — con las escalas cortas
-  de Adís **no hace falta**, `04`/README)
+- **Cartilla de vacunación** (la de fiebre amarilla **no hace falta**: el vuelo escala en
+  Fráncfort y Múnich, que no son zona de riesgo — `04`/README)
 - ○ Copias: fotocopias de todo en una bolsa aparte del original + fotos en el móvil (offline)
 
 ## 🩺 Salud y botiquín

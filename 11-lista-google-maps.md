@@ -1,6 +1,6 @@
 # 11 · Entradas, permisos y qué cuesta cada visita
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Lo que cuesta entrar en cada sitio de la ruta, con su fuente — y, al final, qué quedó fuera de
 > tus 34 pines de Google Maps y por qué.

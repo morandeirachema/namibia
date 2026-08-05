@@ -1,6 +1,6 @@
 # 04 · Guía de preparación y de carretera
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > La cuenta atrás hasta la salida, el e-visa, las vacunas, las normas de conducción y lo que hay que llevar hecho desde casa.
 >
@@ -211,32 +211,28 @@ of vaccination»*.
 
 ```mermaid
 flowchart TD
-    A["Elegir escala"] --> B{"¿Escala en pais<br/>con fiebre amarilla?"}
-    B -->|"Adis Abeba<br/>(Ethiopian)"| C["Riesgo: Etiopia SI<br/>es zona de fiebre amarilla"]
-    B -->|"Frankfurt · Doha<br/>Johannesburgo"| D["Sin vacuna"]
-    C --> E{"¿Transito > 12 h?"}
+    A["Elegir escala"] --> B{"¿La escala es en un pais<br/>con fiebre amarilla?"}
+    B -->|"NO · Francfort y Munich<br/>tu vuelo · tambien Doha<br/>y Johannesburgo"| D["Sin vacuna<br/>y sin nada que calcular"]
+    B -->|"SI · cualquier hub<br/>de zona de riesgo"| E{"¿El transito<br/>pasa de 12 h?"}
     E -->|"Si"| F["Vacuna OBLIGATORIA<br/>10 dias antes"]
-    E -->|"No, y sin salir<br/>del aeropuerto"| G["Exento — pero la exencion<br/>es CONJUNTIVA"]
-    G --> H["La parada gratis en ciudad<br/>pasa inmigracion:<br/>puede romper la exencion"]
+    E -->|"No, y sin salir<br/>del aeropuerto"| G["Exento — pero la exencion<br/>es CONJUNTIVA:<br/>si pasas inmigracion, se rompe"]
     style D fill:#2d6a4f,color:#fff
     style F fill:#9d0208,color:#fff
-    style H fill:#e85d04,color:#000
+    style G fill:#e85d04,color:#000
 ```
 
 Namibia no tiene fiebre amarilla, pero figura en la lista de la Unión Africana de países que exigen
 certificado a quien venga de —o **transite 12 h por**— un país de riesgo.
 
-> **Dos salidas limpias:** (1) ruta por un hub sin riesgo — Frankfurt/Múnich, Doha o Johannesburgo —
-> y te ahorras la vacuna; (2) si vas por Adís, vacúnate. **Decide antes de emitir**, porque la
-> opción 2 tiene mecha de 10 días.
+> ✅ **Con el vuelo elegido, esto está resuelto y no hay que hacer nada.** El itinerario escala en
+> **Fráncfort** a la ida y en **Múnich** a la vuelta *(ver [`02`](02-presupuesto.md) §8)*, y
+> **ninguno de los dos es zona de fiebre amarilla**: no hay exención que calcular ni umbral que
+> apurar. **No hace falta vacunarse.**
 >
-> ⚠️ No intentes apurar con una escala de 11 horas. O evitas el país de riesgo, o te pinchas.
-
-> ✅ **Con el vuelo de referencia ya elegido, esto se resuelve solo**: las escalas en Adís son de
-> **2h20 (ida)** y **2h45 (vuelta)**, las dos *airside* — muy por debajo del umbral de 12 h, la
-> exención aplica y **no hace falta la vacuna** (ver README). ⚠️ Si el itinerario cambiara al
-> emitir (escala larga, otra ruta, la parada gratis en ciudad de Ethiopian), **esta decisión se
-> reabre** — recomprueba este árbol antes de pagar.
+> ⚠️ **La única forma de reabrir esto es cambiar de vuelo** a un itinerario que escale en un país
+> de riesgo. Si eso pasa, vuelve a este árbol **antes de emitir**: la vacuna tiene mecha de **10
+> días** y no se puede improvisar. Y no intentes apurar con una escala de once horas: o evitas el
+> país de riesgo, o te pinchas.
 
 ---
 

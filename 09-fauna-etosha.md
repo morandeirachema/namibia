@@ -1,6 +1,6 @@
 # 09 · Fauna del viaje
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > El índice de la guía de campo en PDF: 83 especies con foto, cómo reconocerlas y dónde y cuándo verlas.
 >
@@ -9,7 +9,7 @@
 >
 > *Investigación cerrada el 03/08/2026 · formato y contenido revisados el 03/08/2026*
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 18 páginas A4,
+📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 15 páginas A4,
 **83 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
 cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
@@ -166,13 +166,15 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ## Cómo se regenera
 
-En [`fauna-fuente/`](fauna-fuente/) está todo: `fetch.py` descarga las fotos de Wikimedia Commons
-con su licencia y autoría vía API, `especies.py` tiene los textos, `etosha.py` lo específico del
-parque y `build.py` arma el HTML. El PDF sale con Chrome:
+Todo vive en [`fuente/`](fuente/): `catalogo.py` fija qué fichero exacto de Wikimedia Commons usa
+cada especie, `descargar.py` los baja con su licencia y autoría, `textos_especies.py` guarda los
+rasgos de identificación, `textos_etosha.py` lo específico del parque y `guia_fauna.py` arma el
+HTML. El PDF lo imprime Chrome desde `imprimir.py`, que es quien pone los números de página.
 
-```
-python3 fetch.py && python3 build.py
-google-chrome --headless --no-pdf-header-footer --print-to-pdf=guia-fauna-etosha.pdf guia.html
-```
+Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
+imágenes incluidas)*. Y **`make comprueba`** valida que están las 120 imágenes, que ninguna se
+ha colado con licencia no libre y que los dos PDF tienen las páginas que deben.
 
-*Las fotos no se guardan en el repo (pesan 5,6 MB): `fetch.py` las vuelve a bajar. · 03/08/2026*
+*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son 5,6 MB, y a cambio el PDF
+se puede regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una
+búsqueda. · 05/08/2026*

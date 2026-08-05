@@ -1,6 +1,6 @@
 # 10 · Joyas ocultas
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Lo que no sale en el itinerario estándar, ordenado por el día en que cae: los Lone Stone Men, la cascada del Uniab, los círculos de hadas.
 >

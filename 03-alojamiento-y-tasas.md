@@ -1,6 +1,6 @@
 # 03 · Alojamiento y tasas
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Las tarifas oficiales de NWR 2026/2027, leídas del PDF: campings, chalets, actividades y tasas de parque.
 >

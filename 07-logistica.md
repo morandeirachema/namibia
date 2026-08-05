@@ -1,6 +1,6 @@
 # 07 · Logística de carretera
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Combustible, distancias, dinero, cobertura y emergencias — el documento que se consulta con el coche en marcha.
 >
