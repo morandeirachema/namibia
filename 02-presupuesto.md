@@ -1,6 +1,6 @@
 # 02 · Presupuesto
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Lo que cuesta el viaje, partida a partida, con el porcentaje que ya está cerrado y el que sigue siendo estimación.
 >
@@ -49,7 +49,7 @@ gasto de la pareja en euros:
 ```mermaid
 pie showData
     title "Presupuesto total · la ruta · pareja · EUR · camping"
-    "Vuelo ida y vuelta x2" : 2732
+    "Vuelo ida y vuelta x2" : 2900
     "Coche Namibia2Go Budget 13d" : 1755
     "Alojamiento 13 noches" : 570
     "Combustible" : 400
@@ -110,43 +110,37 @@ la nevera— es idéntico.
 
 ### ⏰ El encaje con el calendario — **aquí está el problema, y es de verdad**
 
-**La cotización va del 1 de noviembre a las 08:00 al 13 a las 17:00.** Contra los vuelos que hay
-sobre la mesa, **ninguno de los dos encaja**:
+**La cotización va del 1 de noviembre a las 08:00 al 13 a las 17:00. El vuelo va del 31 de octubre
+al 14 de noviembre** *(§8)*. **Faltan dos días, uno por cada punta:**
 
 ```mermaid
-flowchart TD
-    C["COCHE cotizado<br/>1 nov 08:00 -> 13 nov 17:00"]
-    C --> A["Con el vuelo de A CORUNA<br/>aterrizas 1 nov 13:20<br/>vuelas 14 nov 14:30"]
-    C --> B["Con el vuelo de OPORTO<br/>aterrizas 31 oct 09:25<br/>vuelas 14 nov 20:45"]
-    A --> A1["Recoges 5h20 tarde: pagas horas que no usas<br/>y el 14 te quedas SIN coche<br/>-> hotel + 2 traslados"]
-    B --> B1["El 31 de octubre ENTERO sin coche<br/>y el 14 tambien, con vuelo a las 20:45<br/>-> un dia y medio perdido"]
-    style A1 fill:#e85d04,color:#000
-    style B1 fill:#9d0208,color:#fff
+flowchart LR
+    A["31 oct 09:25<br/>ATERRIZAS<br/>y no hay coche"] --> B["1 nov 08:00<br/>empieza la<br/>cotizacion actual"]
+    B --> C["13 nov 17:00<br/>acaba la<br/>cotizacion actual"]
+    C --> D["14 nov 20:45<br/>DESPEGAS<br/>y no hay coche"]
+    style A fill:#9d0208,color:#fff
+    style D fill:#9d0208,color:#fff
 ```
 
-- 🚗 **La devolución del 13 a las 17:00 sí cabe en la ruta** ✅. El D13 es **Namutoni → Windhoek,
-  ~548 km** *(medido con OSRM, ver [`13`](13-itinerario.md))*. Saliendo al abrirse la puerta de Von
-  Lindequist **a las 06:08** y contando ~6h20 de volante más paradas, estás en Windhoek sobre las
-  **13:30–14:30**: sobran **dos horas y media largas** de margen. **El horario no es el problema.**
-- ⚠️ **El problema es el día que falta al final.** Con **cualquiera** de los dos vuelos, devolver el
-  13 a las 17:00 te deja **el día 14 sin coche en Windhoek**, con vuelo a las 14:30 (A Coruña) o a
-  las **20:45** (Oporto). Eso son **hotel más dos traslados** — y con el vuelo de Oporto, **un día
-  entero de Windhoek a pie**.
-- ⚠️ **Y con el vuelo de Oporto falta también un día al principio**: aterrizas el **31 de octubre a
-  las 09:25** y el coche no empieza hasta el **1 a las 08:00**. Otra noche de hotel y otro traslado.
+- ✅ **La ruta sí cabe en ese horario.** El D13 es **Namutoni → Windhoek, ~548 km** *(medido con
+  OSRM, ver [`13`](13-itinerario.md))*. Saliendo al abrirse la puerta de Von Lindequist **a las
+  06:08** y contando ~6h20 de volante más paradas, estás en Windhoek sobre las **13:30–14:30**:
+  sobran **dos horas y media largas** antes de las 17:00. **El horario no es el problema.**
+- ⚠️ **El 31 de octubre te quedas a pie**: aterrizas a las 09:25 y el coche no empieza hasta el día
+  siguiente. Una noche de hotel en Windhoek y un traslado desde el aeropuerto *(~45 km)*.
+- ⚠️ **Y el 14 también**, que es el día del vuelo de vuelta: despegas a las **20:45**, así que sería
+  **un día entero de Windhoek sin coche** después de haberlo devuelto la tarde anterior.
 
 > ### 🧾 Lo que hay que pedirle a Namibia2Go antes de reservar
-> **Vuelve a cotizar con las fechas del vuelo que elijas, no con las del dossier:**
-> - Si sale el de **A Coruña** *(1–14 nov)*: pide **1 nov 14:00 → 14 nov 12:00** — **14 días**.
->   Sobrecoste ~**N$2.700 (~€135)** la Budget · **N$3.000 (~€150)** la Comfort.
-> - Si sale el de **Oporto** *(31 oct – 14 nov)*: pide **31 oct 11:00 → 14 nov 18:00** — **15 días**.
->   Sobrecoste ~**N$5.400 (~€270)** la Budget · **N$6.000 (~€300)** la Comfort ⚠️, **y ojo: el 31 de
->   octubre cae fuera de la temporada baja, que empieza el 1 de noviembre** — ese día puede ir a
->   tarifa alta. **Pregunta el precio exacto de ese día.**
+> **Recotiza con las fechas del vuelo: 31 oct 11:00 → 14 nov 18:00, que son 15 días.**
+> - Sobrecoste sobre los 13 cotizados: **~N$5.400 (~€270)** la Budget · **~N$6.000 (~€300)** la
+>   Comfort — **los dos, la pareja**.
+> - ⚠️ **Ojo con el 31 de octubre**: la temporada baja de Namibia2Go **empieza el 1 de noviembre**,
+>   así que ese día puede irse a tarifa alta. **Pide el precio exacto de ese día por separado.**
 >
-> **Compáralo con la alternativa**: hotel en Windhoek + traslado al aeropuerto ×2. Con el vuelo de
-> Oporto, alargar el coche gana casi seguro; con el de A Coruña, está más ajustado. **❌ El precio
-> del traslado aeropuerto–Windhoek no está cotizado**, y son ~45 km.
+> **Compáralo con la alternativa**: dos noches de hotel en Windhoek más traslados al aeropuerto.
+> Con este vuelo, alargar el coche gana casi seguro — pero **❌ el precio del traslado
+> aeropuerto–Windhoek no está cotizado**.
 
 > ⚠️ **La web NO sirve para este precio:** publica N$2.910/día «temporada baja», pero esa banda es
 > **«01 Nov 2025 – 30 Jun 2026»** y **caduca antes del viaje**; la siguiente que enseña es la alta de
@@ -300,20 +294,26 @@ publicar en el boletín: **usa el e-visa**. Fuente:
 ## 7. Seguro de viaje — cerrado ✅
 
 > ### €226,04 la pareja · **€113,02 por persona** *(31/10 – 15/11)*
+> ### ⚠️ **Con el vuelo de Oporto hay que rehacerla: empieza el 30, no el 31**
 
-### ✅ Las fechas ya llegan hasta el 15 — y costó €14,69
+### ✅ El final ya está bien: llega hasta el 15 — y costó €14,69
 
-La primera simulación iba del **31/10 al 14/11** y **se quedaba un día corta**: sales de Windhoek el
-14 a las 14:30, pero **despegas de Adís a las 00:05 del día 15** y aterrizas en A Coruña a las
-**16:10 del 15**. Eran **16 horas de vuelta sin seguro**, justo el tramo más largo y con más
-conexiones del viaje.
+La póliza tiene que **cubrir el día del aterrizaje en casa, no el del despegue en Windhoek**. Con
+la vuelta llegando **el día 15**, una póliza que acabase el 14 dejaba el tramo más largo del viaje
+sin cobertura:
 
-- Estrella · 31/10 – 14/11 *(con hueco)* — €211,35
-- Estrella · **31/10 – 15/11** *(correcto)* — **€226,04** · **€113,02 p.p.**
+- Estrella · 31/10 – 14/11 *(con hueco al final)* — €211,35
+- Estrella · **31/10 – 15/11** — **€226,04** · **€113,02 p.p.**
 - **Coste de cerrar el hueco: +€14,69** *(+€7,35 por persona)*
 
 **Catorce euros y setenta céntimos por no volver a casa sin seguro.** *(Curiosidad: al Estándar el
 día extra le sale gratis — mismo precio con y sin él.)*
+
+> ### ⚠️ Y ahora falta el otro extremo
+> El vuelo elegido **sale de Oporto el 30 de octubre** *(§8)*, no el 31. **Hay que adelantar el
+> inicio de la póliza al 30/10** — si no, el vuelo de ida va sin cobertura, con el traslado a
+> Oporto incluido. **Simulación 30/10 – 15/11: ❌ sin cotizar.** Es el mismo trámite que cerró el
+> hueco del final; hazlo antes de pagar el billete.
 
 ### ✅ Cumple la condición de entrada
 
@@ -366,169 +366,86 @@ de grava)*. **La tabla no lo aclara.**
 
 ---
 
-## 8. Vuelos — precio cerrado ✅, emisión por confirmar ⚠️
+## 8. El vuelo — **Oporto, con Lufthansa** ✅
 
-> ### ⚠️ El dossier se contradice a sí mismo: ¿está emitido o no?
-> Hay **precio real para las fechas exactas** (€1.366 p.p., cotizado en tres agencias), eso es
-> seguro. Lo que no está claro es si **el billete llegó a emitirse**: el README dice que es «de
-> referencia, no emitido» y la cuenta atrás de [`04`](04-guia-preparacion.md) todavía lista
-> «emitir el vuelo» como tarea de agosto. **Confírmalo tú y que quede escrito aquí** — de ello
-> dependen el e-visa (exige billete de vuelta) y el margen de que la tarifa se mueva.
-
-
-> # €1.366 por persona · €2.732 la pareja
-> ### A Coruña → Windhoek, ida y vuelta, turista *(Gotogate; Mytrip €1.390, Booking €1.391)*
+> ### €1.450 por persona · €2.900 la pareja
+> ### **Oporto → Windhoek**, ida y vuelta, turista · **30 oct – 14 nov** · Lufthansa, parcialmente
+> operado por **Discover Airlines** · **una sola escala en cada sentido**
 
 ```mermaid
 flowchart LR
-    subgraph IDA["IDA · sab 31 oct · 19h20 · 2 escalas"]
-        I1["LCG 17:00"] --> I2["MAD 18:10<br/>Air Europa"]
-        I2 -->|"3h15"| I3["MAD 21:25"]
-        I3 --> I4["ADD 6:15+1<br/>Ethiopian"]
-        I4 -->|"2h20 "| I5["ADD 8:35"]
-        I5 --> I6["WDH 13:20<br/>1 NOVIEMBRE"]
-    end
-    style I6 fill:#2d6a4f,color:#fff
-```
-
-```mermaid
-flowchart LR
-    subgraph VUELTA["VUELTA · sab 14 nov · 26h40 · 3 escalas"]
-        V1["WDH 14:30"] --> V2["ADD 21:20<br/>Ethiopian"]
-        V2 -->|"2h45 "| V3["ADD 0:05+1"]
-        V3 --> V4["FCO 4:35"]
-        V4 -->|"3h35"| V5["FCO 8:10"]
-        V5 --> V6["MAD 10:45<br/>ITA"]
-        V6 -->|"4h10"| V7["MAD 14:55"]
-        V7 --> V8["LCG 16:10"]
-    end
-    style V8 fill:#e85d04,color:#000
-```
-
-### 🎉 Tres buenas noticias
-
-**1 · Sin fiebre amarilla.** La regla es **>12 h de tránsito** por país de riesgo. Tus escalas en
-Adís son de **2h20 (ida)** y **2h45 (vuelta)**, las dos *airside*: **muy por debajo del umbral**.
-Era el punto que llevaba semanas abierto y que se decidía justo al comprar el billete — **este
-itinerario lo resuelve solo**. Una escala larga, o la parada gratis en ciudad de Ethiopian, sí la
-habrían disparado.
-
-**2 · Las fechas caen clavadas en la ruta.** Aterrizas el **1 de noviembre a las 13:20** y despegas
-el **14 a las 14:30**: **13 noches, 14 días** — exactamente la ruta, con D1 el 1 y D14 el 14.
-
-**3 · Y el calendario no podía salir mejor.** Sales el 31 de octubre pero **no duermes ni una noche
-en Namibia en octubre**: todas tus noches NWR caen en el **tramo barato** desde la primera, y el
-alquiler (1–14 nov, **13 días**) entra entero en la **temporada baja de Namibia2Go**.
-
-### ⚠️ Dos cosas que confirmar antes de pagar
-
-- **Que sea billete único.** La vuelta lleva **tres compañías** (Ethiopian + ITA + Air Europa). En
-  un solo billete, una conexión perdida es problema de la aerolínea; en billetes separados, es tuyo.
-- **Que incluya maleta facturada.** El tramo de Air Europa podría tener franquicia distinta a la de
-  Ethiopian.
-
-*La vuelta es dura, dicho sea: 26h40, salida de Adís a las 0:05 y 4h10 de espera en Madrid.*
-
----
-
-## 8-bis. El candidato de Oporto — **mejor viaje por el mismo dinero, pero mueve tres cosas** ◐
-
-> ### Lo que estás mirando (captura del buscador, 05/08/2026)
-> **Oporto → Windhoek, 30 oct – 14 nov · €1.341 por persona · Lufthansa, parcialmente operado por
-> Discover Airlines · una sola escala en cada sentido.** Vendido por **eDreams**, no por la
-> compañía. En la misma búsqueda salían **586 resultados**, con la opción **más barata en €1.026**
-> *(21h33)* y la **más rápida en €1.462** *(16h08)*.
-
-```mermaid
-flowchart LR
-    subgraph IDA["IDA · vie 30 oct · 15h15 · 1 escala"]
-        I1["OPO 16:10"] --> I2["FRA<br/>Fráncfort"]
-        I2 --> I3["WDH 9:25+1<br/>31 DE OCTUBRE"]
+    subgraph IDA["IDA · viernes 30 de octubre · 15 h 15 · una escala"]
+        direction LR
+        I1["OPORTO<br/>16:10"] --> I2["FRANCFORT<br/>escala"]
+        I2 --> I3["WINDHOEK<br/>09:25 · 31 oct"]
     end
     style I3 fill:#2d6a4f,color:#fff
 ```
 
 ```mermaid
 flowchart LR
-    subgraph VUELTA["VUELTA · sab 14 nov · 18h05 · 1 escala"]
-        V1["WDH 20:45"] --> V2["MUC<br/>Munich"]
-        V2 --> V3["OPO 12:50+1<br/>15 DE NOVIEMBRE"]
+    subgraph VUELTA["VUELTA · sábado 14 de noviembre · 18 h 05 · una escala"]
+        direction LR
+        V1["WINDHOEK<br/>20:45"] --> V2["MUNICH<br/>escala"]
+        V2 --> V3["OPORTO<br/>12:50 · 15 nov"]
     end
     style V3 fill:#2d6a4f,color:#fff
 ```
 
-### ⚖️ Cara a cara con el de A Coruña
+*Precio final por persona, **€1.450** — el buscador lo anunciaba en €1.341 y sube al cerrar con
+equipaje y cargos. En la misma búsqueda salían **586 resultados**: el más barato en **€1.026**
+(21 h 33 de media) y el más rápido en **€1.462** (16 h 08 de media) — cotizado el 05/08/2026.*
 
-```mermaid
-flowchart LR
-    T["Horas de vuelo ida + vuelta"]
-    n0["OPORTO<br/>33 h 20"]
-    n1["A CORUNA<br/>46 h 00"]
-    T ~~~ n0
-    n0 ~~~ n1
-    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
-    style n0 fill:#2d6a4f,color:#fff,stroke:#2d6a4f
-    style n1 fill:#9d0208,color:#fff,stroke:#9d0208
-```
+### 🎉 Lo que este itinerario resuelve solo
 
-- 💶 **Dinero: empate.** €1.341 frente a €1.366 son **€25 menos por persona** — pero hay que sumarle
-  el traslado a Oporto ida y vuelta *(ver abajo)*, así que en el bolsillo **se queda igual o algo
-  peor**. **El vuelo no se elige aquí por precio.**
-- ⏱️ **Tiempo: gana Oporto, y no de poco.** **12h40 menos de viaje en total.** La diferencia gorda
-  está en la vuelta: **18h05 frente a 26h40** — te ahorras **8h35 y dos escalas**, incluida la
-  salida de Adís a las 0:05 y las 4h10 muertas en Madrid.
-- 🧳 **Riesgo de conexión: gana Oporto.** Una escala por sentido y **todo dentro del grupo
-  Lufthansa** *(Lufthansa + Discover)*, en vez de **tres compañías distintas** en la vuelta
-  (Ethiopian + ITA + Air Europa). Menos manos, menos costuras.
-- 🩺 **Fiebre amarilla: sigue sin hacer falta.** Fráncfort y Múnich **no son zona de riesgo** — el
-  dossier ya los tenía marcados como limpios. Con este itinerario el asunto **desaparece**, en vez
-  de resolverse por los pelos con escalas cortas en Adís.
-- 🚌 **Y el precio de todo esto: Oporto está a ~270 km de casa.** Hay autobús directo
-  **A Coruña → terminal del aeropuerto Francisco Sá Carneiro** con ALSA y FlixBus, **~3h43 y desde
-  ~17 €/persona** ◐. Con salida a las 16:10, el bus de la mañana llega con margen. A la vuelta
-  aterrizas a las **12:50 del día 15** y todavía quedan ~4 h hasta casa.
+**1 · La fiebre amarilla deja de ser un tema.** **Fráncfort y Múnich no son zona de riesgo**, así
+que **no hace falta vacunarse** y no hay nada que calcular sobre duración de escalas. ✅
 
-### 🗓️ Ganas un día entero en Namibia — y eso toca tres cosas
+**2 · Una escala por sentido, y todo dentro del grupo Lufthansa** *(Lufthansa + Discover)*. Menos
+manos y menos costuras que cualquier itinerario con tres compañías distintas.
 
-**Aterrizas el 31 de octubre a las 09:25 en vez del 1 de noviembre a las 13:20: son 15 días de
-suelo en vez de 14, y con la mañana entera del primero.** Antes de decidir, comprueba estas tres:
+**3 · Y son 33 h 20 de avión en total**, ida y vuelta — con la vuelta en **18 h 05**, no en una
+noche entera de aeropuertos.
 
-1. ⚠️ **El seguro se queda corto por un día.** La póliza del dossier es **IATI Estrella del 31/10 al
-   15/11** *(€113,02 p.p.)*. Con salida el **30 de octubre**, hay que **adelantar el inicio al 30** o
-   el primer vuelo va sin cobertura. Es un cambio menor de precio, pero **hay que hacerlo antes de
-   pagar el vuelo**.
-2. ⚠️ **El coche pilla un día en tarifa vieja.** **Namibia2Go entra en temporada baja el 1 de
-   noviembre** ✅. Recogiendo el **31 de octubre** ese primer día cae en el tramo caro, y el alquiler
-   pasa de **12 a 14 días**. **Pídeles el precio exacto de la recogida del 31** — puede que compense
-   recogerlo el 1 y pasar la primera noche en Windhoek sin coche.
-3. ✅ **Las noches de NWR no se tocan.** La noche del 31 es en **Windhoek**, que no es NWR: **todas
-   las noches de parque siguen cayendo del 1 de noviembre en adelante**, en tramo barato. El
-   calendario aguanta.
+### ⏰ Lo que este vuelo mueve en el plan — **y hay que tocarlo**
 
-> ### 🧾 El veredicto
-> **Es mejor viaje por el mismo dinero: media jornada menos de aviones, una escala en vez de tres y
-> un día más de Namibia.** El coste no es económico, es logístico: **un traslado de ~4 h a Oporto en
-> cada punta**, mover el seguro un día y renegociar el primer día de coche.
->
-> **Antes de pagar, tres comprobaciones que en este caso importan más de lo normal** ⚠️:
-> 1. **Maleta facturada incluida.** Lufthansa vende **Economy Light sin maleta**, y en un buscador
->    eso no siempre se ve. Con dos semanas de camping, **no es opcional**.
-> 2. **Billete único.** Aquí es fácil —todo es grupo Lufthansa—, pero **confírmalo en el localizador**.
-> 3. **Que lo vende eDreams**, no Lufthansa. Mira el precio final con maleta y equipaje en la web de
->    **Lufthansa directamente**: si la diferencia es pequeña, comprar en la compañía te ahorra el
->    intermediario cuando algo se tuerce. ⚠️ **Y ábrele la ficha al de €1.026** antes de cerrar: son
->    **€315 menos por persona — €630 la pareja**, y el propio buscador le pone **21h33 de media**
->    frente a las 16h40 de la «mejor opción». Son medias del buscador, no de un itinerario
->    concreto ◐: **mira el itinerario real antes de descartarlo**, porque €630 pagan las cuatro
->    noches de Etosha y el combustible del viaje entero.
+**Aterrizas el 31 de octubre a las 09:25 y despegas el 14 a las 20:45: son 15 días de suelo, con
+la mañana entera del primero y el día 14 completo.** Tres consecuencias, todas accionables:
 
-*Fuentes del traslado: [ALSA — A Coruña ↔ Oporto](https://www.alsa.com/en/coach/a-coruna-porto) ·
-[FlixBus — A Coruña → aeropuerto de Oporto](https://www.flixbus.es/rutas/la-coruna-aeropuerto-de-oporto-francisco-sa-carneiro)
-· horarios y precios **sin cotizar para tus fechas** ❌.*
+1. ⚠️ **El seguro se queda corto por un día.** La póliza contratada en §7 va del **31/10 al 15/11**.
+   Con salida el **30 de octubre**, hay que **adelantar el inicio al 30** o el primer vuelo va sin
+   cobertura. *(El coste del día extra: **❌ sin cotizar** — pídelo a IATI.)*
+2. ⚠️ **El coche no cubre ni el principio ni el final.** La cotización de Namibia2Go va del **1 nov
+   08:00 al 13 nov 17:00**: sobran el **31 de octubre** y el **14 de noviembre** — el día del vuelo
+   de vuelta, que sale a las 20:45. **Recotiza 31 oct 11:00 → 14 nov 18:00, 15 días** *(§2)*.
+3. ✅ **Las noches de NWR no se tocan.** La del 31 es en **Windhoek**, que no es NWR: todas las
+   noches de parque siguen cayendo del **1 de noviembre** en adelante, en tramo barato.
+
+### 🚌 Y el precio de salir de Oporto: **~270 km hasta el aeropuerto**
+
+Hay autobús directo **A Coruña → terminal del aeropuerto Francisco Sá Carneiro** con ALSA y
+FlixBus, **~3 h 43 y desde ~€17 por persona** ◐. Con salida a las 16:10, el autobús de la mañana
+llega con margen; a la vuelta aterrizas a las **12:50 del día 15** y quedan ~4 h hasta casa.
+**❌ Sin cotizar para tus fechas.**
+
+### ⚠️ Tres comprobaciones antes de pagar
+
+- 🧳 **Maleta facturada incluida.** Lufthansa vende **Economy Light sin maleta**, y en un buscador
+  eso no siempre se ve. Con dos semanas de camping, **no es opcional**.
+- 🎫 **Billete único.** Aquí es fácil —todo es grupo Lufthansa—, pero **confírmalo en el
+  localizador**: en un solo billete, una conexión perdida es problema de la aerolínea.
+- 💳 **Lo vende eDreams, no Lufthansa.** Mira el precio final **con maleta** en la web de Lufthansa
+  directamente: si la diferencia es pequeña, comprar en la compañía te ahorra el intermediario
+  cuando algo se tuerce. Y **ábrele la ficha al de €1.026** antes de cerrar: sobre los €1.450
+  finales son **hasta €424 menos por persona**, aunque hay que compararlo también **con equipaje
+  incluido** — el anunciado y el final no son el mismo número en ningún caso.
+
+> ⚠️ **«Cotizado» no es «emitido».** Al 05/08/2026 **no consta emitido** ningún billete. Sin
+> billete no hay e-visa *(que exige billete de vuelta)*, así que esto va delante de los trámites
+> de [`04`](04-guia-preparacion.md).
 
 ---
 
----
 
 ## 9. Comida, actividades y misceláneos ○
 
@@ -577,7 +494,7 @@ colchón **~N$3.000 (~€150) pareja / ~€75 por persona**. No verificado.
 ```mermaid
 flowchart LR
     T["Por persona<br/>en EUR · camping"]
-    n0["Vuelo<br/>1.366"]
+    n0["Vuelo<br/>1.450"]
     n1["Coche<br/>900"]
     n2["Alojam.<br/>285"]
     n3["Combust.<br/>200"]
@@ -593,7 +510,7 @@ flowchart LR
 ```
 
 **Desglose por persona (escenario camping):**
-- ✈️ Vuelo **€1.366** ✅
+- ✈️ Vuelo **€1.450** ✅
 - 🚙 Coche **~€877,50** ✅ *(mitad de N$35.100 · ~€1.755, la Budget 13 días)* — **~€975 si es la Comfort** *(N$39.000)*
 - ⛺ Alojamiento **~€285** *(€159 verificado + ~€126 estimado)*
 - ⛽ Combustible **~€200** ○/◐
@@ -604,18 +521,18 @@ flowchart LR
 - 🎯 Actividades **~€38** ○
 - 🧷 Misceláneos **~€75** ○
 
-> ### **TOTAL POR PERSONA: ~€3.284 (~N$65.700)** *con la Budget y el vuelo de A Coruña*
-> ### **TOTAL LA PAREJA: ~€6.567 (~N$131.300)**
-> Rango honesto: **€3.130–3.430 por persona** — el margen (±~€145) está casi todo en las 7 noches sin
+> ### **TOTAL POR PERSONA: ~€3.368 (~N$67.400)** *con la Budget*
+> ### **TOTAL LA PAREJA: ~€6.736 (~N$134.700)**
+> Rango honesto: **€3.220–3.520 por persona** — el margen (±~€145) está casi todo en las 7 noches sin
 > precio, el combustible, la comida y los misceláneos.
 >
-> **Las dos decisiones abiertas mueven el total así** *(ver §2 y §8-bis)*:
-> **+€97,50 p.p.** si sale la **Comfort** en vez de la Budget · **−€25 p.p.** si sale el vuelo de
-> **Oporto**, pero con **+~€135–270** de coche extra la pareja por los días que faltan y el traslado
-> a Oporto. **Ninguna de las dos cambia el orden de magnitud.**
+> **Lo que todavía puede moverlo** *(ver §2, §7 y §8)*: **+€97,50 p.p.** si sale la **Comfort** en
+> vez de la Budget · **+€135–150 p.p.** de coche si se alarga a los 15 días que pide el vuelo ·
+> **+el traslado a Oporto** ida y vuelta y **+el día extra de seguro**, los dos ❌ sin cotizar.
+> **Cuenta ~€3.500 por persona para no llevarte sorpresas.**
 
 **Qué parte de este número es sólida:**
-- **✅ Duro — €2.596 de los €3.284 (79 %)**: vuelo €1.366 · coche €877,50 · 6 noches NWR €159 ·
+- **✅ Duro — €2.680 de los €3.368 (80 %)**: vuelo €1.450 · coche €877,50 · 6 noches NWR €159 ·
   seguro €113 · visado €80.
 - **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto está en fuente secundaria; el ministerio
   aún publica la tabla vieja. **Confírmalo por email.**
@@ -630,14 +547,14 @@ por cabeza:
 
 - **Se reparte (fijo del grupo)**: coche **N$35.100 (~€1.755)** la Budget *(N$39.000 · ~€1.950 la Comfort)* + combustible **~€400 (~N$8.000)** +
   el vehículo en las tasas (7 × N$60 = **N$420 · ~€21**) → **~€2.221 (~N$44.420)** entre los que vayáis
-- **Va por cabeza**: vuelo €1.366 · alojamiento ~€285 *(el camping NWR se cobra POR PERSONA ✅:
+- **Va por cabeza**: vuelo €1.450 · alojamiento ~€285 *(el camping NWR se cobra POR PERSONA ✅:
   Sesriem N$670/pax, Etosha N$460/pax)* · comida ~€140 · tasas de persona 7 × N$280 = **N$1.960
   (~€98)** · seguro ~€113 · visado €80 · actividades ~€38 · misceláneos ~€75 → **~€2.195 (~N$43.900)**
 
 ```mermaid
 flowchart LR
     T["Total por persona segun cuantos vais<br/>EUR · camping"]
-    n0["2 personas<br/>3.284"]
+    n0["2 personas<br/>3.368"]
     n1["3 personas<br/>2.935"]
     n2["4 personas<br/>2.750"]
     T ~~~ n0
@@ -646,14 +563,14 @@ flowchart LR
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
-- **2 personas** — **~€3.284 (~N$65.700)/persona** · grupo ~€6.567 (~N$131.300)
+- **2 personas** — **~€3.368 (~N$67.400)/persona** · grupo ~€6.736 (~N$134.700)
 - **3 personas** — **~€2.935 (~N$58.700)/persona** · grupo ~€8.806 (~N$176.000) → *ahorra
   ~€371/persona (−11 %) respecto a ir dos*
 - **4 personas** — **~€2.750 (~N$55.000)/persona** · grupo ~€11.001 (~N$220.000) → *ahorra
   ~€556/persona (−17 %)*
 
 > ⚠️ **Cuatro letras pequeñas antes de invitar a nadie:**
-> 1. **El vuelo (€1.366) está cotizado para 2 plazas** — para 3–4 la tarifa por asiento puede
+> 1. **El vuelo (€1.450) está cotizado para 2 plazas** — para 3–4 la tarifa por asiento puede
 >    cambiar: recotiza antes de prometer el número ❌.
 > 2. **El seguro (€113,02 p.p.) es la simulación de 2 viajeros** — el p.p. a 3–4 se asume lineal ○:
 >    pide cotización.
@@ -668,7 +585,7 @@ flowchart LR
 
 ## 11. Qué parte de este número es sólida
 
-- **✅ Duro — €2.596 de los €3.284 (79 %)**: vuelo €1.366 · coche €877,50 · las 6 noches de NWR €159 ·
+- **✅ Duro — €2.680 de los €3.368 (80 %)**: vuelo €1.450 · coche €877,50 · las 6 noches de NWR €159 ·
   seguro €113 · visado €80. Todo con precio real para las fechas exactas.
 - **◐ Corroborado — ~€109**: las tasas de parque. El N$280/adulto se apoya en la gaceta localizada y
   en secundarias concordantes, pero **el PDF primario del MEFT sigue sin abrirse**.

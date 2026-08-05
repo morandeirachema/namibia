@@ -1,6 +1,6 @@
 # 08 · Comida, compras y regalos
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > El manual de intendencia: supermercados y gasolineras parada a parada, la ley del alcohol, qué comer y qué se puede traer a casa.
 >

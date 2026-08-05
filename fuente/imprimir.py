@@ -228,6 +228,8 @@ def a_pdf(html, salida, izquierda="Namibia 2026", derecha="", espera=8.0,
                   if (document.readyState !== 'complete') return null;
                   var t = document.querySelectorAll('pre.mermaid, .mermaid').length;
                   var h = document.querySelectorAll('.mermaid svg, pre.mermaid svg').length;
+                  var estado = document.documentElement.dataset.diagramas || '';
+                  if (t && estado !== 'listos' && estado !== 'error') return '1:0';
                   return t + ':' + h;
                 })()""")
             v = r.get("result", {}).get("value")

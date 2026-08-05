@@ -1,6 +1,6 @@
 # 06 · Conducir en Namibia
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > El documento duro: el vuelco, el contrato, las presiones, la arena de Sossusvlei y las puertas de Sesriem.
 >

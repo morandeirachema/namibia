@@ -64,13 +64,28 @@ class Lienzo:
         return (self.margen + (lon - self.oeste) * self.k * self.esc,
                 self.margen + (self.norte - lat) * self.esc)
 
+    # El dibujo se recorta EXACTAMENTE al marco: cualquier holgura la sigue contando
+    # el navegador como ancho de pagina.
+    HOLGURA = 0
+
     def d(self, puntos, cerrar=False, dec=1):
-        """Path SVG a partir de [(lat, lon), ...]."""
+        """Path SVG a partir de [(lat, lon), ...], con las coordenadas acotadas al marco.
+
+        El acotado importa mas de lo que parece: los contornos de Natural Earth abarcan
+        paises enteros y se salen del encuadre por miles de unidades. Esa geometria no
+        se ve —queda fuera del viewBox— pero al incrustar el SVG en el HTML del dossier
+        ensancha la caja, y con la caja ancha Chrome encoge el documento ENTERO al
+        imprimirlo. Recortando aqui, el dibujo es el mismo y la pagina no se mueve.
+        """
         if not puntos:
             return ""
+        lim_x = (-self.HOLGURA, self.ancho + self.HOLGURA)
+        lim_y = (-self.HOLGURA, self.alto + self.HOLGURA)
         trozos = []
         for i, (lat, lon) in enumerate(puntos):
             x, y = self.xy(lat, lon)
+            x = min(max(x, lim_x[0]), lim_x[1])
+            y = min(max(y, lim_y[0]), lim_y[1])
             trozos.append(f"{'M' if i == 0 else 'L'}{x:.{dec}f} {y:.{dec}f}")
         return "".join(trozos) + ("Z" if cerrar else "")
 
@@ -255,11 +270,27 @@ def punto(L, clave, texto=None, dx=7, dy=2.6, anclaje="start", tam=8.4, clase=No
     return "".join(g)
 
 
+_ENVOLTORIOS = [0]
+
+
 def envoltorio(ancho, alto, cuerpo, fondo=None):
+    """Cierra el SVG, con TODO el dibujo recortado al marco.
+
+    El recorte no es cosmetico. Los contornos de Natural Earth abarcan paises enteros y
+    se salen del encuadre por miles de unidades; al incrustar el SVG en el HTML del
+    dossier, esa geometria desbordada ensancha la pagina y Chrome, al imprimir, encoge
+    el documento ENTERO para que quepa — la portada y los mapas salian a tres cuartos
+    de su tamano. Con un clipPath explicito no se escapa nada.
+    """
+    _ENVOLTORIOS[0] += 1
+    marco = f"marco{_ENVOLTORIOS[0]}"
     return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {ancho:.0f} {alto:.0f}" '
-            f'role="img" style="width:100%;height:auto;display:block">'
+            f'role="img" overflow="hidden" style="display:block;overflow:hidden">'
+            f'<defs><clipPath id="{marco}">'
+            f'<rect width="{ancho:.0f}" height="{alto:.0f}"/></clipPath></defs>'
+            f'<g clip-path="url(#{marco})">'
             f'<rect width="{ancho:.0f}" height="{alto:.0f}" fill="{fondo or C["mar"]}"/>'
-            f'{cuerpo}</svg>')
+            f'{cuerpo}</g></svg>')
 
 
 # ---------------------------------------------------------------------------
@@ -328,12 +359,39 @@ BLOQUES_LEYENDA = [
 ]
 
 
+def situacion(L, x, y, ancho):
+    """Mapa de situacion: Namibia entera y, encima, el recuadro de lo que se esta viendo.
+
+    El mapa grande esta recortado al norte, que es por donde va la ruta. Sin esta
+    esquina no se ve que el viaje ocupa media Namibia y deja el sur fuera.
+    """
+    m = Lienzo(sur=-29.0, oeste=11.6, norte=-16.9, este=25.4, ancho=ancho)
+    piezas = [f'<g transform="translate({x:.0f} {y:.0f})">',
+              f'<rect x="-6" y="-6" width="{ancho + 12:.0f}" height="{m.alto + 26:.0f}" rx="5" '
+              f'fill="{C["papel"]}" opacity=".93" stroke="{C["borde"]}" stroke-width=".8"/>',
+              f'<rect width="{ancho:.0f}" height="{m.alto:.0f}" fill="{C["mar"]}"/>',
+              capa_paises(m)]
+    # el recuadro de lo que se ve en el mapa grande
+    x0, y0 = m.xy(L.norte, L.oeste)
+    x1, y1 = m.xy(L.sur, L.este)
+    piezas.append(f'<rect x="{x0:.1f}" y="{y0:.1f}" width="{x1 - x0:.1f}" height="{y1 - y0:.1f}" '
+                  f'fill="none" stroke="{C["oxido"]}" stroke-width="1.8"/>')
+    piezas.append(capa_ruta(m, ancho=1.4, halo=False))
+    piezas.append(f'<text x="{ancho / 2:.0f}" y="{m.alto + 16:.0f}" text-anchor="middle" '
+                  f'font-size="8" fill="{C["tinta2"]}" font-weight="600">'
+                  f'El viaje, sobre Namibia entera</text>')
+    piezas.append("</g>")
+    return "".join(piezas)
+
+
 def _kms():
     return {e["id"]: e.get("km") for e in carga("ruta.json")}
 
 
 def mapa_ruta(ancho=1000):
-    L = Lienzo(sur=-25.25, oeste=12.55, norte=-18.15, este=18.15, ancho=ancho, margen=0)
+    # El encuadre esta elegido para que el mapa quepa a ancho de caja en una pagina
+    # A4 junto con el titular y el pie: proporcion alto/ancho ~1,25.
+    L = Lienzo(sur=-25.05, oeste=12.62, norte=-18.32, este=18.42, ancho=ancho, margen=0)
     km = _kms()
     total = sum(v for v in km.values() if v)
 
@@ -412,6 +470,7 @@ def mapa_ruta(ancho=1000):
         sim.append(f'<text x="{sx + 26}" y="{y0 + 3.4}" font-size="9.4" fill="{C["tinta"]}">{esc(txt)}</text>')
     cuerpo.append("".join(sim))
 
+    cuerpo.append(situacion(L, L.ancho - 178, L.alto - 208, 158))
     cuerpo.append(f'<text x="{L.ancho - 14}" y="{L.alto - 12}" text-anchor="end" font-size="7.6" '
                   f'fill="{C["tinta3"]}">Contornos: Natural Earth (dominio público) · '
                   f'trazado de carretera: OSRM sobre OpenStreetMap (ODbL)</text>')

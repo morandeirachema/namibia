@@ -181,7 +181,10 @@ def a_html(texto, doc=None):
     def desescapa(m):
         c = (m.group(1).replace("&amp;", "&").replace("&lt;", "<")
              .replace("&gt;", ">").replace("&quot;", '"'))
-        return '<pre class="mermaid">' + c + "</pre>"
+        # Los gantt y los quesos no caben en una columna de 89 mm: esos si cruzan.
+        tipo = c.strip().split("\n", 1)[0].strip().split()[0].lower()
+        ancho = " ancho" if tipo in ("gantt", "pie", "timeline") else ""
+        return f'<pre class="mermaid{ancho}">' + c + "</pre>"
 
     h = re.sub(r'<pre><code class="language-mermaid">(.*?)</code></pre>', desescapa, h, flags=re.S)
 
@@ -236,11 +239,17 @@ def poda(cuerpo, doc):
                         lambda m: "" if aguja.lower() in _texto(m.group(0)).lower() else m.group(0),
                         cuerpo, flags=re.S)
 
-    # 3 · frases sueltas que remiten al material de trabajo o a otra compania
+    # 3 · la cabecera comun: se repite igual en los quince documentos. En GitHub tiene
+    #     sentido (cada fichero se lee suelto); en el PDF son quince copias del mismo
+    #     parrafo, y la leyenda de las marcas ya esta en el indice.
+    cuerpo = re.sub(r"<p><strong>Namibia · [^<]*</strong>[^<]*<a [^>]*>[^<]*</a></p>\s*", "", cuerpo)
+    cuerpo = re.sub(r"<p><strong>~N\$20 = €1</strong>.*?</p>\s*", "", cuerpo, flags=re.S)
+
+    # 4 · frases sueltas que remiten al material de trabajo o a otra compania
     for patron, nuevo in REEMPLAZOS:
         cuerpo = re.sub(patron, nuevo, cuerpo)
 
-    # 4 · los separadores <hr> que se quedan pegados de dos en dos
+    # 5 · los separadores <hr> que se quedan pegados de dos en dos
     return re.sub(r"(?:<hr\s*/?>\s*){2,}", "<hr>", cuerpo)
 
 
@@ -386,7 +395,7 @@ def paginas_de_mapas():
     return f"""
 <section class="mapa-plena" id="mapas">
   <h1 class="titulo">La ruta, en el mapa</h1>
-  <div class="mapa">{mapa.mapa_ruta()}
+  <div class="mapa mapa-ruta">{mapa.mapa_ruta()}
     <figcaption>Trazado real de carretera, calculado con <b>OSRM</b> sobre OpenStreetMap a
     partir de las coordenadas de cada parada. Los contornos son de <b>Natural Earth</b>
     (dominio público). La suma de las catorce etapas da <b>{miles(total)}</b>, que cuadra con
@@ -409,7 +418,7 @@ def paginas_de_mapas():
   medidos con OSRM sobre el trazado de OpenStreetMap el 4 de agosto de 2026. No incluyen los
   desvíos a charcas dentro de Etosha ni las vueltas del día de descanso.</p>
 
-  <div class="mapa">{mapa.mapa_etosha()}
+  <div class="mapa mapa-etosha">{mapa.mapa_etosha()}
     <figcaption><b>Etosha, charca a charca.</b> En seca la fauna no está repartida por el
     parque: está en el agua. Las charcas, las pistas y el límite del parque salen de
     OpenStreetMap; el relleno blanco es la depresión, que en noviembre está seca —y por eso
@@ -519,12 +528,24 @@ ol.etapas .total { font-family: var(--sans); font-weight: 700; border-bottom: 0;
 .nota-tabla { font-size: 8pt; color: var(--tinta-2); margin: 3mm 0 6mm;
               padding-left: 3mm; border-left: 2pt solid var(--regla); }
 .mapa-plena h1.titulo { font-size: 19pt; }
-/* El mapa de la ruta es casi cuadrado y a ancho de caja se come mas de una pagina:
-   se limita por alto para que titulo, mapa y pie quepan juntos. */
-.mapa-plena .mapa svg { max-height: 232mm; width: auto; margin: 0 auto; }
+/* Con `height: auto`, Chrome mete el SVG en el hueco que le queda a la pagina y lo
+   encoge —el mapa salia a dos tercios—. Con el alto en milimetros no puede. */
+.mapa-ruta svg   { height: 226mm; width: auto; margin: 0 auto; }
+.mapa-etosha svg { height: 108mm; width: auto; margin: 0 auto; }
 .remite blockquote { padding: 6mm 7mm; }
 .remite blockquote h2 { font-size: 14pt; color: var(--oxido-os); }
 .remite blockquote p { font-size: 10.2pt; }
+/* Mermaid trae su propia tipografia por diagrama; se unifica con la del dossier. */
+.mermaid, .mermaid svg, .mermaid svg text, .mermaid svg tspan, .mermaid .nodeLabel,
+.mermaid .edgeLabel, .mermaid .titleText, .mermaid .taskText, .mermaid .sectionTitle,
+.mermaid .tick text, .mermaid .slice, .mermaid .pieTitleText, .mermaid .legend text {
+  font-family: "Source Sans 3", Helvetica, Arial, sans-serif !important; }
+.mermaid .node rect, .mermaid .node polygon, .mermaid .node circle,
+.mermaid .node path { stroke-width: 1px; }
+/* Un gantt de catorce dias o un queso de diez porciones no caben en una columna:
+   estos dos cruzan las dos. El resto de diagramas, no — cada cruce corta el flujo. */
+.mermaid.ancho { column-span: all; }
+.mermaid.ancho svg { max-height: 120mm; }
 """
 
 
@@ -543,14 +564,31 @@ def html_completo(paginas=None):
 {creditos_seccion()}
 <script src="{VENDOR}"></script>
 <script>
-mermaid.initialize({{startOnLoad:true, securityLevel:'loose', theme:'base',
+// startOnLoad va a false y se dibuja DESPUES de que carguen las tipografias: si
+// Mermaid mide las etiquetas con la fuente de respaldo, calcula cajas mas pequenas
+// que el texto definitivo y los rotulos se salen por abajo.
+mermaid.initialize({{startOnLoad:false, securityLevel:'loose', theme:'base',
   themeVariables:{{
-    fontFamily:'Source Sans 3, Helvetica, Arial, sans-serif', fontSize:'13px',
+    fontFamily:'Source Sans 3, Helvetica, Arial, sans-serif', fontSize:'12px',
     primaryColor:'#F7F4ED', primaryTextColor:'#16130F', primaryBorderColor:'#C6C1B4',
     lineColor:'#7D776E', tertiaryColor:'#EFEAE0'
   }},
-  flowchart:{{useMaxWidth:true, htmlLabels:true, curve:'basis'}},
-  gantt:{{useMaxWidth:true}}, pie:{{useMaxWidth:true}}}});
+  // wrappingWidth manda cuando parte la etiqueta de un nodo: con el valor por
+  // defecto (200) las cajas salen estrechas y el texto se sale por abajo.
+  // htmlLabels a false: con etiquetas HTML, Mermaid calcula la caja con una medida
+  // que no coincide con la del texto final y los rotulos se salen por abajo. Con
+  // texto SVG mide lo que luego pinta.
+  flowchart:{{useMaxWidth:true, htmlLabels:false, curve:'basis',
+              wrappingWidth:420, padding:14, nodeSpacing:32, rankSpacing:42}},
+  gantt:{{useMaxWidth:true, fontSize:11, barHeight:15, barGap:4, topPadding:36,
+          leftPadding:96, gridLineStartPadding:28}},
+  pie:{{useMaxWidth:true, textPosition:0.62}}}});
+
+(document.fonts ? document.fonts.ready : Promise.resolve())
+  .then(function () {{ return new Promise(function (r) {{ setTimeout(r, 120); }}); }})
+  .then(function () {{ return mermaid.run({{querySelector: 'pre.mermaid'}}); }})
+  .then(function () {{ document.documentElement.dataset.diagramas = 'listos'; }})
+  .catch(function (e) {{ document.documentElement.dataset.diagramas = 'error'; console.error(e); }});
 </script>
 </body></html>"""
 

@@ -110,9 +110,9 @@ por persona** — y sigues durmiendo arriba las 11 noches.
 
 ### 🛑 Y el orden importa: el coche antes que los vuelos
 
-El vuelo de €1.366 p.p. (31 oct–14 nov) es **de referencia**, no emitido. **Confirma el coche
-primero.** Este dossier lleva desde el primer día diciéndolo, y el «Not Available» de la Comfort es
-justo la razón: **una ruta sin coche no es una ruta**.
+El vuelo de **€1.450 p.p.** (Oporto, 30 oct – 14 nov) está **cotizado, no emitido**. **Confirma el
+coche primero**: hay dos modelos y flota pequeña, mientras que asientos de avión hay 586 opciones.
+**Una ruta sin coche no es una ruta.**
 
 
 ---
@@ -198,17 +198,23 @@ flowchart LR
 
 </div>
 
-> # €1.366 por persona el vuelo · €113,02 el seguro
-> ### ⚠️ Con el precio cerrado — pero **confirma si el billete está emitido**: el dossier dice las dos cosas
-> ### A Coruña → Windhoek 31 oct – 14 nov · IATI Estrella 31/10 – 15/11
+> # €1.341 por persona el vuelo · €113,02 el seguro
+> ### ⚠️ Precio cotizado el 05·08·2026 — **ningún billete está emitido todavía**
+> ### **Oporto → Windhoek, 30 oct – 14 nov** · Lufthansa *(parcialmente Discover Airlines)*
 
-- ✈️ **Ida** sáb 31 oct por Madrid y Adís, **aterrizas el 1 de noviembre a las 13:20**. **Vuelta**
-  sáb 14 por Adís, Roma y Madrid — dura 26h40 y llegas a casa el día 15 a las 16:10.
-- 🎉 **Y resuelve solo la fiebre amarilla**: las escalas en Adís son de 2h20 y 2h45, *airside*, muy
-  por debajo del umbral de 12 h. **No hace falta vacunarse.**
-- ⚠️ **Dos cosas antes de pagar**: que sea **billete único** *(la vuelta lleva tres compañías)* y
-  que **incluya maleta facturada**.
-- 🩺 **El seguro llega hasta el día 15**, no hasta el 14: son 16 horas de vuelta que sin eso irían
+- ✈️ **Ida** vie 30 oct, **una sola escala en Fráncfort**: 15h15 y **aterrizas el 31 de octubre a
+  las 09:25**. **Vuelta** sáb 14 a las 20:45 por **Múnich** — 18h05, y en casa el día 15.
+- 🎉 **La fiebre amarilla deja de ser un tema**: **Fráncfort y Múnich no son zona de riesgo**.
+  **No hace falta vacunarse**, y no hay que calcular duraciones de escala.
+- 🗓️ **Ganas un día de Namibia**: 15 días de suelo en vez de 14. ⚠️ **Pero hay que mover dos cosas**:
+  **adelantar el seguro al 30/10** y **recotizar el coche** *(la cotización actual empieza el 1 nov
+  y acaba el 13, así que faltan el 31 de octubre y el día del vuelo de vuelta)*.
+- 🚌 **Sale de Oporto, a ~270 km**: hay bus directo a la terminal del aeropuerto, **~3h43 desde ~€17
+  por persona** ◐ — súmalo ida y vuelta.
+- ⚠️ **Tres cosas antes de pagar**: que **incluya maleta facturada** *(Lufthansa vende Economy Light
+  sin ella)*, que sea **billete único**, y **compara con el precio directo de Lufthansa** — lo vende
+  eDreams. *(Y mira el de **€1.026**: son €630 menos la pareja.)*
+- 🩺 **El seguro llega hasta el día 15**, no hasta el 14: son las horas de vuelta que sin eso irían
   sin cobertura, y cerrar ese hueco costó **€14,69**.
 - 👉 **Dos cosas que pedirle a IATI por escrito**: que cubra **evacuación aérea DENTRO del país**
   *(cerca de Sesriem no hay hospital)* y **añadirle búsqueda y salvamento**, que en el Estrella es
@@ -248,7 +254,7 @@ pie showData
 
 ### 👤 El desglose y el coche, en una línea
 
-- ✈️ Vuelo **€1.366** ✅ · 🚙 Coche **~€877,50** ✅ · ⛺ Alojamiento **~€285** · ⛽ Combustible **~€200** ·
+- ✈️ Vuelo **€1.450** ✅ · 🚙 Coche **~€877,50** ✅ · ⛺ Alojamiento **~€285** · ⛽ Combustible **~€200** ·
   🍖 Comida **~€140** · 🩺 Seguro **€113** ✅ · 🎫 Tasas **~€109** ◐ · 🛂 Visado **€80** ✅ ·
   🎯 Actividades y varios **~€113**
 - **El 79 % ya está cerrado** con precio real: vuelo, coche, seguro, visado y las 6 noches de NWR.
@@ -320,8 +326,8 @@ flowchart TD
 **Y tres datos médicos que se resuelven en una tarde:** **malaria** — Etosha sí es zona (CDC), el
 desierto y la costa no; a primeros de noviembre, antes de las lluvias, el riesgo está en su mínimo
 estacional *(Malarone empieza 1–2 días antes; mefloquina, 2–3 semanas)* · **fiebre amarilla** —
-escala corta y sin salir del aeropuerto en Adís = no hace falta; Doha, Fráncfort y Johannesburgo,
-limpios · **seguro con repatriación** — es condición de entrada; pide por escrito que cubra
+con el vuelo elegido **no hace falta**, porque **Fráncfort y Múnich no son zona de riesgo**
+*(Doha y Johannesburgo, también limpios)* · **seguro con repatriación** — es condición de entrada; pide por escrito que cubra
 **evacuación aérea dentro del país** (cerca de Sesriem no hay hospital).
 
 ---

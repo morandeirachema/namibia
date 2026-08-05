@@ -1,6 +1,6 @@
 # 14 · Cuándo empiezan de verdad las lluvias
 
-> **Namibia · 31 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Cinco temporadas observadas, milímetro a milímetro, para decidir fechas con datos y no con folletos.
 >
