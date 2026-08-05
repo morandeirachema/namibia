@@ -299,9 +299,9 @@ def portada(total_paginas=None):
     <p class="lema">El gran roadtrip del norte: las dunas más altas del mundo al amanecer,
     la Costa de los Esqueletos y cuatro noches dentro de Etosha.</p>
     <div class="datos">
-      Dos personas · un 4×4 con tienda de techo · <b>31 de octubre – 15 de noviembre</b><br>
+      Dos personas · un 4×4 con tienda de techo · <b>30 de octubre – 15 de noviembre</b><br>
       Desierto → costa → Damaraland → <b>cuatro noches dentro de Etosha</b><br>
-      ~2.700 km · <b>~€3.306 por persona</b>, todo incluido
+      ~2.728 km · <b>~€3.368 por persona</b>, todo incluido
     </div>
     <div class="pie"><span>{pie_izq}</span><span>{pie_der}</span></div>
   </div>
