@@ -252,7 +252,27 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 **Precios sin cerrar — el margen real del presupuesto:**
 
 - 🛏️ **Tres campings sin cotizar**: Windhoek (D1 y D13), Walvis Bay (D5–D6) y Spreetshoogte. Los
-  sitios están identificados; **ninguno publica tarifa**.
+  sitios están identificados; **ninguno publica tarifa abrible desde aquí**. **Reintento 05/08 —
+  el muro de `403` es total**: no solo las webs propias, también **todos los agregadores y hasta
+  ioverlander** *(arebbusch.com, africanreservations.com, madbookings.com, booking.com y
+  ioverlander.com devuelven `403`)*, así que **la ficha no se puede abrir para comprobar la
+  extracción**. Lo único que asoma son **fragmentos del índice del buscador, de un solo origen cada
+  uno y sin verificar** — se anotan como pista **○, NO entran al presupuesto**:
+  - **Urban Camp (Windhoek)** — el buscador da «desde ~R660–700 la noche para dos» *(booking.com,
+    agregador, precio-gancho «desde»)* ≈ **N$660–700 (~€33–35) la pareja ○**. Encaja en la horquilla
+    de práctica común que ya usa `02` (~N$600–1.000), así que **no la mueve**.
+  - **Lagoon Chalets (Walvis Bay)** — un fragmento cita «N$600 la parcela para 1 coche + 2 personas»
+    *(~€30 ○, origen único)*, pero **africanreservations marca «sin tarifas para 01 mar 2026 – 28 feb
+    2027»**: corrobora que **para la ventana del viaje no hay tarifa publicada**. Queda en ○.
+  - **Spreetshoogte** — ⚠️ **trampa de nombre viva**: hay al menos **tres** cosas llamadas
+    «Spreetshoogte» junto al paso —el camping propio, **Namibgrens Guest Farm** y **Barkhan Dune
+    Retreat**—, la misma confusión que ya dio el gancho de N$269,50 (Namibgrens). Los fragmentos dan
+    «~N$120–150 por persona» *(~€6–7,50 ○, orígenes que se contradicen entre sí)*. **No se cierra**:
+    sin abrir la ficha no se puede saber a cuál de las tres propiedades corresponde cada cifra. En
+    `01` (D2) sigue como está: 150–300 ZAR/persona, vigencia desconocida.
+  > **Conclusión 05/08:** ninguno pasa el listón de «verifica la extracción, no solo la fuente». Los
+  > tres siguen en la estimación de práctica común de `02`; **estos números son pistas con URL para el
+  > que llame a reservar, no precios para presupuestar**.
 - 💳 **La fianza que retiene Namibia2Go** en la tarjeta — **PARCIALMENTE CERRADO ◐ (05/08), con un
   conflicto sin resolver**: la propia Namibia2Go se anuncia como **«No Deposit»** *(sin fianza, a
   diferencia de casi todos los operadores)* y su FAQ dice que **no hay depósito de combustible**;
