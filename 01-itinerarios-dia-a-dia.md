@@ -36,8 +36,8 @@ noches en Sesriem, dos en la costa y CUATRO en Etosha · fechas reales del vuelo
 
 > ### 📅 El 1 de noviembre sigue siendo la fecha mágica
 > **NWR entra en tramo barato** (Sesriem, Halali, Okaukuejo, Terrace Bay) y **Namibia2Go entra en
-> SU temporada baja**: el coche está **cerrado — Budget, €1.800 (~N$36.000) por 12 días, disponible**
-> *(la estimación previa de ~€1.755 quedó a un 2,5 % del precio real)*. **Adelantar hasta 2 días a
+> SU temporada baja**: el coche está **cotizado — Budget N$35.100 (~€1.755) o Comfort N$39.000
+> (~€1.950) por 13 días, las dos disponibles**. **Adelantar hasta 2 días a
 > octubre es gratis** (Windhoek y Spreetshoogte no son NWR).
 
 > ### ❓ ¿Etosha al principio o al final? → **AL FINAL.** Tres razones con datos:
@@ -370,18 +370,19 @@ gantt
 - 💱 **Gasta o cambia los N$ antes de embarcar**: fuera de Namibia no valen nada
 
 ### 💰 Coste real de E *(1–15 nov · el detalle completo, en `02-presupuesto.md`)*
-- **Alquiler 12 días (1–13 nov)**: **Namibia2Go Budget €1.800 (~N$36.000)** ✅ **cerrado y
-  disponible**, con Premium Insurance Cover (franquicia cero) y km ilimitados *(Asco, descartada:
+- **Alquiler 13 días (1 nov 08:00 – 13 nov 17:00)**: **Namibia2Go Budget N$35.100 (~€1.755)** ✅
+  — o **Comfort N$39.000 (~€1.950)**; las dos disponibles. ⚠️ **Hay que recotizarlo a 15 días** para
+  que cubra el vuelo (ver `02` §2), con Premium Insurance Cover (franquicia cero) y km ilimitados *(Asco, descartada:
   €2.652 en su banda alta)*
 - **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 + Namutoni 2×920 =
   **N$6.360 (~€318)** ✅ — **las 4 noches de Etosha, dentro del parque**
   *(+ Terrace Bay, Spreetshoogte, Walvis, Hoada: sin verificar)*
 - **Tasas de parque**: Namib 2 + Skeleton 1 + Etosha 4 = 7 unidades × N$620 ≈ **N$4.340 (~€217)** ◐
-- **Combustible ~2.600 km**: ~310–340 l ≈ **N$8.000–9.200 (~€400–460)** ○
+- **Combustible ~2.728 km**: ~310–340 l ≈ **N$8.000–9.200 (~€400–460)** ○
 - **Visado**: N$3.200 (~€160) los dos ✅
-- **Total tierra en camping ≈ ~€3.650 (~N$73.000)** la pareja ○, banda ~€3.350–3.950 — *ya sin
-  rango de compañía: el coche es cifra cerrada. Sumando vuelos (€2.732) y seguro IATI Estrella
-  (€226,04): **~€6.612 (~N$132.000) la pareja · ~€3.306 por persona** (ver `02`)*
+- **Total tierra en camping ≈ ~€3.610 (~N$72.200)** la pareja ○, banda ~€3.310–3.910 — *el coche es
+  cifra cerrada. Sumando vuelos (**€2.900**) y seguro IATI Estrella (€226,04):
+  **~€6.736 (~N$134.700) la pareja · ~€3.368 por persona** (ver `02`)*
 
 ### ⏰ Los horarios que mandan *(✅/◐ = con fuente en el dossier · ☀️ = cálculo astronómico ±5 min)*
 

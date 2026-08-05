@@ -105,7 +105,8 @@ Fuente: https://www.airports.com.na/useful-information/e-visa-information/129/
 
 El vehículo, no el vuelo, es lo que se agota. Los doble cabina equipados con tienda de techo son una
 flota pequeña compartida por todo el mercado de Windhoek. **Tu coche ya está elegido y estaba
-disponible a 17/07 — Namibia2Go Budget, €1.800 (~N$36.000) por 12 días: resérvalo antes que nada**
+cotizado a 05/08 — Namibia2Go: Budget N$35.100 (~€1.755) o Comfort N$39.000 (~€1.950) por 13
+días, las dos disponibles: resérvalo antes que nada**
 (la Comfort ya salía «Not Available»). Y tu quincena compite con todo el que persigue la temporada
 baja de Namibia2Go, que arranca justo el 1 de noviembre.
 
