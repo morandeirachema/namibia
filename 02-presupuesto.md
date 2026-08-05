@@ -10,25 +10,34 @@
 > *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026 · precio del
 > combustible actualizado a la revisión del 5 ago 2026*
 
-Coste real del viaje **ya cerrado en lo grande** (vuelo, coche y seguro reservados), en N$ y €. Cada
-cifra lleva su marca de confianza y su fuente. **Donde no hay dato verificado, se dice y se deja como
-estimación marcada: un número plausible presentado como hallazgo es un fallo grave — aquí no se hace.**
+Coste del viaje con el **precio de las partidas grandes ya cotizado** (vuelo, coche y seguro), en N$ y
+€. Cada cifra lleva su marca de confianza y su fuente. **Donde no hay dato verificado, se dice y se
+deja como estimación marcada: un número plausible presentado como hallazgo es un fallo grave — aquí
+no se hace.**
+
+> ⚠️ **«Cotizado» no es «reservado».** Al 05/08/2026 **no consta hecha ninguna reserva** —ni coche, ni
+> Sesriem ×2, ni Terrace Bay, ni Etosha, ni el vuelo emitido *(ver [`15`](15-huecos-cerrados.md) §lista
+> maestra y [`16`](16-punto-de-decision.md))*. Los importes son precios de mercado para reservar, no
+> pagos hechos. **Y la ruta que presupuestan está pendiente de tu confirmación** — ver
+> [`16`](16-punto-de-decision.md).
 
 
-> ## 🔄 NOTA (17/07/2026): este presupuesto es el de la RUTA VIGENTE (la ruta, norte)
-> Versiones anteriores de este documento presupuestaban **otra ruta** (sur + Namib + costa, con
-> coche de **Asco** y fechas de «finales de noviembre»). **Esa ruta se descartó** (ver la nota de
-> `13-itinerario.md`) y **las reservas se han cerrado sobre otra realidad**:
+> ## 🔄 NOTA: este presupuesto asume la RUTA DEL NORTE (Variante E) — que está PENDIENTE de tu confirmación
+> Este documento presupuesta la **ruta del norte** (sur fuera), con coche de **Namibia2Go** y fechas de
+> **1–14 de noviembre**. **⚠️ Ojo: esa ruta y esas fechas contradicen dos decisiones que habías dado
+> por cerradas** («el sur se queda» y «finales de noviembre») y **no constan confirmadas por ti** — el
+> porqué, y las variantes que respetan el sur, están en [`16`](16-punto-de-decision.md). **Léelo antes
+> de fiarte de estos totales.** Los supuestos concretos de esta versión:
 >
-> - **Ruta**: **la ruta del norte** — la clásica del norte con **Etosha** (4 noches) y **sin el sur**
->   (Fish River, Lüderitz, kokerbooms quedan para otro viaje; su presupuesto sigue documentado en el
->   histórico de `13`). Detalle día a día en [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md).
+> - **Ruta**: **la del norte** — la clásica con **Etosha** (4 noches) y **sin el sur** (Fish River,
+>   Lüderitz, kokerbooms). Si eliges una variante con el sur, este presupuesto cambia; la base medida
+>   sigue en el histórico de `13` *(`git show d0320c3^:13-itinerario.md`)*. Día a día en [`01`](01-itinerarios-dia-a-dia.md).
 > - **Fechas**: **1–14 de noviembre de 2026**, no «finales de noviembre».
-> - **Coche**: **Namibia2Go Budget**, no Asco. **El «precipicio del 15/11» era de Asco y ya no
->   aplica**: Namibia2Go entra en temporada baja el **1 de noviembre**, así que todo el alquiler cae
->   en tarifa barata sin esperar al 15.
+> - **Coche**: **Namibia2Go Budget**, no Asco. Con Namibia2Go **el «precipicio del 15/11» —que era de
+>   Asco— ya no aplica**: entra en temporada baja el **1 de noviembre**, así que el alquiler cae en
+>   tarifa barata sin esperar al 15. ◐ *(su web da 403; tarifa vía revendedor)*.
 >
-> Los importes de abajo son los de esta ruta y estas reservas.
+> Los importes de abajo son los de esta ruta, **cotizados, no reservados**.
 
 ---
 
