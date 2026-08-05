@@ -253,10 +253,22 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 - 🛏️ **Tres campings sin cotizar**: Windhoek (D1 y D13), Walvis Bay (D5–D6) y Spreetshoogte. Los
   sitios están identificados; **ninguno publica tarifa**.
-- 💳 **La fianza que retiene Namibia2Go** en la tarjeta: importe desconocido.
-- 🚤 La **SIM de MTC** y la **opción de búsqueda y salvamento del IATI** *(el **crucero de Walvis Bay**
+- 💳 **La fianza que retiene Namibia2Go** en la tarjeta — **PARCIALMENTE CERRADO ◐ (05/08), con un
+  conflicto sin resolver**: la propia Namibia2Go se anuncia como **«No Deposit»** *(sin fianza, a
+  diferencia de casi todos los operadores)* y su FAQ dice que **no hay depósito de combustible**;
+  pero un revendedor —madbookings— y un directorio —goArid— citan que **se retiene N$2.500 (~€125) de
+  depósito de combustible**, liberado si devuelves el depósito lleno. Las dos versiones son de fuentes
+  secundarias *(la web propia está en 403)* y **se contradicen**: puede ser un cambio de política o
+  depender del canal de reserva. **No lo des por sentado en ningún sentido — pregunta por escrito, al
+  reservar, si hay retención en tarjeta y de cuánto.** Aceptan todas las tarjetas salvo Diners y Amex.
+- 🚤 La **opción de búsqueda y salvamento del IATI** *(el **crucero de Walvis Bay**
   ~N$1.400–1.990 pp y el **4x4 a Sandwich Harbour** ~N$2.600–3.220 pp ya tienen rango de mercado 2026
   ◐ en [`02`](02-presupuesto.md), §9 — cruzado entre operadores, pero con la ficha propia en `403`).
+- 📱 ~~La **SIM de MTC**~~ **CERRADA ◐ (05/08)**: paquete turista **«Leisure» N$349 (~€17) / 14 días /
+  10,1 GB** *(justo la duración del viaje)* y **«Premium» N$659 (~€33) / 30 días / 20,1 GB**, solo en
+  la tienda MTC del aeropuerto. Cifras convergentes entre la web de MTC, su PDF de T&C y un blog
+  independiente, internamente coherentes; ◐ porque no se pudo abrir la página. Detalle en
+  [`07`](07-logistica.md), §Cobertura.
 
 **Datos que siguen abiertos:**
 
