@@ -7,27 +7,37 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026 · precio del
+> combustible actualizado a la revisión del 5 ago 2026*
 
-Coste real del viaje **ya cerrado en lo grande** (vuelo, coche y seguro reservados), en N$ y €. Cada
-cifra lleva su marca de confianza y su fuente. **Donde no hay dato verificado, se dice y se deja como
-estimación marcada: un número plausible presentado como hallazgo es un fallo grave — aquí no se hace.**
+Coste del viaje con el **precio de las partidas grandes ya cotizado** (vuelo, coche y seguro), en N$ y
+€. Cada cifra lleva su marca de confianza y su fuente. **Donde no hay dato verificado, se dice y se
+deja como estimación marcada: un número plausible presentado como hallazgo es un fallo grave — aquí
+no se hace.**
+
+> ⚠️ **«Cotizado» no es «reservado».** Al 05/08/2026 **no consta hecha ninguna reserva** —ni coche, ni
+> Sesriem ×2, ni Terrace Bay, ni Etosha, ni el vuelo emitido *(ver [`15`](15-huecos-cerrados.md) §lista
+> maestra y [`16`](16-punto-de-decision.md))*. Los importes son precios de mercado para reservar, no
+> pagos hechos. **Y la ruta que presupuestan está pendiente de tu confirmación** — ver
+> [`16`](16-punto-de-decision.md).
 
 
-> ## 🔄 NOTA (17/07/2026): este presupuesto es el de la RUTA VIGENTE (la ruta, norte)
-> Versiones anteriores de este documento presupuestaban **otra ruta** (sur + Namib + costa, con
-> coche de **Asco** y fechas de «finales de noviembre»). **Esa ruta se descartó** (ver la nota de
-> `13-itinerario.md`) y **las reservas se han cerrado sobre otra realidad**:
+> ## 🔄 NOTA: este presupuesto asume la RUTA DEL NORTE (Variante E) — que está PENDIENTE de tu confirmación
+> Este documento presupuesta la **ruta del norte** (sur fuera), con coche de **Namibia2Go** y fechas de
+> **1–14 de noviembre**. **⚠️ Ojo: esa ruta y esas fechas contradicen dos decisiones que habías dado
+> por cerradas** («el sur se queda» y «finales de noviembre») y **no constan confirmadas por ti** — el
+> porqué, y las variantes que respetan el sur, están en [`16`](16-punto-de-decision.md). **Léelo antes
+> de fiarte de estos totales.** Los supuestos concretos de esta versión:
 >
-> - **Ruta**: **la ruta del norte** — la clásica del norte con **Etosha** (4 noches) y **sin el sur**
->   (Fish River, Lüderitz, kokerbooms quedan para otro viaje; su presupuesto sigue documentado en el
->   histórico de `13`). Detalle día a día en [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md).
+> - **Ruta**: **la del norte** — la clásica con **Etosha** (4 noches) y **sin el sur** (Fish River,
+>   Lüderitz, kokerbooms). Si eliges una variante con el sur, este presupuesto cambia; la base medida
+>   sigue en el histórico de `13` *(`git show d0320c3^:13-itinerario.md`)*. Día a día en [`01`](01-itinerarios-dia-a-dia.md).
 > - **Fechas**: **1–14 de noviembre de 2026**, no «finales de noviembre».
-> - **Coche**: **Namibia2Go Budget**, no Asco. **El «precipicio del 15/11» era de Asco y ya no
->   aplica**: Namibia2Go entra en temporada baja el **1 de noviembre**, así que todo el alquiler cae
->   en tarifa barata sin esperar al 15.
+> - **Coche**: **Namibia2Go Budget**, no Asco. Con Namibia2Go **el «precipicio del 15/11» —que era de
+>   Asco— ya no aplica**: entra en temporada baja el **1 de noviembre**, así que el alquiler cae en
+>   tarifa barata sin esperar al 15. ◐ *(su web da 403; tarifa vía revendedor)*.
 >
-> Los importes de abajo son los de esta ruta y estas reservas.
+> Los importes de abajo son los de esta ruta, **cotizados, no reservados**.
 
 ---
 
@@ -153,18 +163,26 @@ flowchart LR
   Etosha, safaris internos y vuelta a Windhoek; ningún día por encima de ~390 km).
 - **Consumo** del Hilux doble cabina cargado con tienda de techo: **11–13 l/100 km** (○, práctica
   común; no verificado contra ficha del vehículo). Central **12 l/100 km**.
-- **Precio del diésel**: **costa ~N$24,3/l en julio 2026** tras la rebaja de N$4/l del Gobierno ◐; en
-  el **interior y bombas remotas** (Solitaire, Sesriem, Okaukuejo) sube — banda **N$24–27/l**, central
-  **~N$25,5/l**. ⚠️ **El precio se revisa cada mes**: reconfírmalo cerca de la salida.
+- **Precio del diésel**: la costa (Walvis Bay, precio base nacional) marcaba **N$24,26/l en julio
+  2026** tras la rebaja de N$4/l del Gobierno; **pero el 5 de agosto de 2026 subió +N$2,00/l** al
+  restituirse los gravámenes que se habían recortado tres meses → **costa ~N$26,26/l ◐** *(N$24,26 +
+  N$2,00; coincide con la cifra que devuelve el buscador para agosto)*. En el **interior y bombas
+  remotas** (Solitaire, Sesriem, Okaukuejo) sube sobre eso → banda **N$26–29/l**, central **~N$27/l**.
+  ⚠️ **El precio se revisa cada mes**: entre agosto y la salida de noviembre habrá **~3 revisiones más**,
+  así que esto sigue siendo estimación — reconfírmalo la semana antes de salir.
 
-- **Cálculo central**: 2.600 km × 0,12 l/km × N$25,5/l = **~N$7.956 (~€398)** para la pareja.
-- **Banda**: **N$6.336–9.828 (~€317–491)**.
+- **Cálculo central**: 2.600 km × 0,12 l/km × N$27/l = **~N$8.424 (~€421)** para la pareja.
+- **Banda**: **N$6.336–9.828 (~€317–491)** *(la banda ya cubría precios de hasta ~N$29/l, así que solo
+  se movió el central; la subida de agosto no la desborda)*.
 
-> **Se presupuesta ~N$8.000 (~€400) pareja / ~€200 por persona.** Fuentes del precio:
+> **Se presupuesta ~N$8.000–8.400 (~€400–420) pareja / ~€200–210 por persona** *(el central subió al
+> extremo alto de la banda tras la revisión de agosto)*. Fuentes del precio:
 > [GlobalPetrolPrices — Namibia diésel](https://www.globalpetrolprices.com/Namibia/diesel_prices/) ·
 > [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) *(403, no abierta aquí)* ·
 > rebaja de julio 2026 en [thebrief.com.na](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/)
-> *(vía fragmento; extracción no verificada)*.
+> y **subida de agosto** en [thebrief.com.na](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/)
+> *(ambas vía fragmento; el sitio y el boletín del MME devuelven 403 aquí, así que la extracción del
+> precio de bomba exacto no está verificada contra el primario — de ahí el ◐)*.
 
 ---
 
@@ -182,12 +200,19 @@ verificarse contra el documento primario (detalle en `15` §Tasas). Los tres par
 (Namib-Naukluft, Skeleton Coast, Etosha) son **premium**, así que el N$280 es la tarifa correcta para
 los tres.
 
-**La la ruta cruza tres zonas de pago:**
+**La ruta cruza tres zonas de pago:**
 - **Namib-Naukluft** (Sesriem/Sossusvlei): ~2 unidades de 24 h (tarde de llegada + amanecer en Deadvlei).
 - **Skeleton Coast** (permiso de tránsito + Terrace Bay): ~1 unidad.
 - **Etosha**: 4 noches dentro → ~4 unidades.
 
 → **~7 unidades × N$620 = ~N$4.340 (~€217) pareja / ~€109 por persona** ◐.
+
+> ➕ **Aparte, FUERA de esas 7 unidades premium: Cape Cross (D7).** El reserva de lobos cobra su
+> propia entrada — **N$150 (~€8)/extranjero + N$50 (~€3)/coche = ~N$350 (~€18) la pareja** ◐, en
+> **efectivo**, en recepción (Dorob NP; tarifa menor que el baremo premium). **Súmalo al total de
+> tasas.** Fuentes secundarias convergentes: una reseña de visitante de 2025 y una guía dan la misma
+> cifra (N$150 + N$50); la primaria del MEFT sigue en 403. Detalle y horario (abre 08:00 del 16 nov
+> al 30 jun) en [`01` §D7](01-itinerarios-dia-a-dia.md).
 
 > Fuentes: [gazettes.africa — Government Gazette Nº 8877, 1/04/2026 (Government Notice Nº 115)](https://gazettes.africa/akn/na/officialGazette/government-gazette/2026-04-01/8877/eng@2026-04-01) ·
 > [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
@@ -352,10 +377,30 @@ Precios **por persona**, verificados salvo aviso:
 - Lanzadera 4x4 a Deadvlei — **N$180 (~€9)** ✅ (NWR)
 - Sesriem, guiado de mañana / paseo — N$300–700 (~€15–35) ✅ (NWR)
 - Etosha, safari nocturno guiado — N$750 (~€38) ✅ (NWR)
-- **Walvis Bay** (barco / Sandwich Harbour): **❌ precio no verificado** — pregúntalo allí.
+- **Walvis Bay — crucero en barco** (delfines y lobos marinos, ~3 h, del muelle a Pelican Point, con
+  refrigerio a bordo): **~N$1.400–1.990 (~€70–100) por persona** ◐. Catamaran Charters / Sailnamibia
+  marcan la banda baja (~N$1.400); Mola Mola la alta, **N$1.990 (~€100)**, mínimo 2 personas, con
+  recogida opcional de **+N$470 (~€24)**. *(Un agregador suelta un N$4.570 que contradice a todos los
+  demás — descartado por atípico, seguramente charter privado o error de extracción.)*
+- **Walvis Bay — Sandwich Harbour en 4x4** (~4–5 h; **la única forma legal de ir: con tu coche lo
+  prohíbe el contrato**): **~N$2.600–3.220 (~€130–161) por persona** ◐, mínimo 2. Desert Compass Tours
+  N$2.600 (+N$300, ~€15, de recogida en Swakopmund); Red Dune Safaris N$3.220.
+- **Combo crucero + dunas de Sandwich Harbour el mismo día** (~8,5 h, Mola Mola): **N$4.740 (~€237)
+  por persona** ◐, mínimo 2, **sin la tasa de parque** de Namib-Naukluft.
 
-→ Partida flexible de **~N$1.520 (~€76) pareja / ~€38 por persona** (p. ej. lanzadera Deadvlei + una
-actividad). Sube fácil con safaris extra o el barco de Walvis.
+> ⚠️ **Todo esto va en ◐, no en ✅.** La ficha propia de cada operador devuelve **`403`** desde este
+> entorno *(la misma pared anti-bot que los lodges)*, así que las cifras salen del **resumen del
+> buscador sobre sus páginas y las de Viator**, cruzadas entre varios operadores independientes:
+> concuerdan en el orden de magnitud, pero **no se pudo abrir la página para verificar la extracción**.
+> Vigencia: tarifas anunciadas para **2026**. **Confírmalo por email antes de reservar.** Fuentes:
+> `mola-namibia.com/marine-dolphin-cruise`, `sailnamibia.com`, `namibiancharters.com/activities/dolphin-seal-cruise`,
+> `sandwichharbour-namibia.com`, `reddunesafarisnamibia.com/sandwich-harbour-4x4` y las fichas de
+> Viator `d4467-105190P1` (crucero), `-105190P2` (combo) y `-37950P1` (Sandwich Harbour).
+
+→ Partida flexible de **~N$1.520 (~€76) pareja / ~€38 por persona** con lo básico (lanzadera Deadvlei
++ una actividad de NWR). **El día de mar en Walvis** es el capricho que más mueve esta partida: el
+crucero para dos ~**N$2.800–3.980 (~€140–199)**, o el combo con Sandwich Harbour ~**N$9.480 (~€474)**
+la pareja.
 
 ### Misceláneos ○
 SIM/eSIM (~N$150–300, ~€8–15, ❌ no verificado), propinas, peajes/tasas menores, imprevistos →
@@ -475,6 +520,7 @@ flowchart LR
 - **Visado**: [MAEC — Namibia](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia) — ver `12`.
 - **Diésel**: [GlobalPetrolPrices — Namibia](https://www.globalpetrolprices.com/Namibia/diesel_prices/) ·
   [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) ·
-  [thebrief.com.na — rebaja julio 2026](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/).
+  [thebrief.com.na — rebaja julio 2026](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/) ·
+  [thebrief.com.na — subida de N$2,00/l del 5 ago 2026](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/).
 - **Seguro y vuelos**: cotizaciones cerradas (IATI Estrella; Gotogate/Mytrip/Booking) — arriba.
 - **Ruta y distancias**: [`13-itinerario.md`](13-itinerario.md) *(histórico del sur)* y [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md) *(la ruta vigente)*.
