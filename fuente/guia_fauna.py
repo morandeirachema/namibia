@@ -92,27 +92,30 @@ def total():
     return sum(len(l) for _, _, l in catalogo.GRUPOS_FAUNA)
 
 
-def seccion_embebida(ancla=""):
-    """La guia, tal cual, para meterla al final del dossier."""
-    cr = comun.creditos()["lugares/etosha-jirafas"]
+def remite_desde_dossier(ancla=""):
+    """El dossier NO lleva las fichas dentro: solo remite a la guia suelta.
+
+    Meter las 83 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
+    varios megas, y duplicaba un documento que ya existe aparte y que ademas se imprime
+    solo para llevarlo en la guantera. Aqui queda el enlace y el resumen de lo que hay.
+    """
+    cuentas = " · ".join(f"<b>{len(l)}</b> {n.lower()}" for _, n, l in catalogo.GRUPOS_FAUNA)
     return f"""
-<section class="separador">
-  <img src="{comun.img_lugar('etosha-jirafas')}" alt="{cr['pie']}">
-  <div class="velo"></div>
-  <div class="txt">
-    <div class="epi">Bloque cinco</div>
-    <h1>Guía de campo</h1>
-    <p>Las {total()} especies del viaje, con foto: qué es, cómo se reconoce y —donde hay
-    fuente— dónde y cuándo verla.</p>
-  </div>
-</section>
-<section class="doc sin-columnas fauna" id="fauna">
-  <h1 class="titulo">Fauna — {total()} especies con foto{ancla}</h1>
-  <blockquote><p>La misma guía que va suelta en <code>guia-fauna-etosha.pdf</code> para
-  imprimir aparte y llevarla en la guantera. Cada ficha: nombre en castellano, científico e
-  inglés —el de los carteles del parque—, cómo reconocerla y, donde hay fuente, dónde y
-  cuándo verla.</p></blockquote>
-  {secciones()}
+<section class="doc sin-columnas remite" id="fauna">
+  <h1 class="titulo">La guía de campo va aparte{ancla}</h1>
+  <blockquote>
+    <h2>{total()} especies con foto, en su propio PDF</h2>
+    <p>La fauna <strong>no está dentro de este dossier a propósito</strong>: son
+    {total()} fichas con fotografía que engordarían el volumen en veinte páginas y varios
+    megas, y que se usan en otro momento y de otra forma — en el coche, con el motor
+    apagado en una charca, no leyendo del tirón en casa.</p>
+    <p><strong>Está en <code>guia-fauna-etosha.pdf</code></strong>, en la raíz del repo:
+    {cuentas}. Cada ficha lleva el nombre en castellano, el científico y el inglés —el de
+    los carteles del parque—, cómo reconocer la especie y, donde hay fuente, dónde y
+    cuándo verla en Etosha.</p>
+    <p><strong>Imprímela aparte y déjala en la guantera.</strong> Son quince páginas: cabe
+    grapada en la puerta del coche y se consulta con una mano.</p>
+  </blockquote>
 </section>"""
 
 

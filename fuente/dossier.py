@@ -70,7 +70,14 @@ PLENAS = {
                              "tres campamentos y una charca iluminada en cada uno."),
 }
 
+# El 16 no es un documento mas: es el aviso de que el dossier se desvio de dos
+# decisiones del viajero. Va delante de todo, justo detras del indice.
+DESTACADO = "16"
+
 RESUMEN = {
+    "16": "El dossier planifica el norte sin el sur y del 1 al 14 de noviembre, y eso "
+          "contradice dos decisiones que dabas por cerradas. Nada está reservado: la "
+          "decisión sigue entera en tu mano.",
     "01": "La ruta desarrollada día por día: qué se conduce, a qué hora sale y se pone el sol, "
           "qué temperatura hace donde se duerme y qué cuesta cada noche.",
     "02": "El total partida a partida, lo que ya está cerrado con precio real y lo que sigue "
@@ -91,8 +98,13 @@ RESUMEN = {
 }
 
 
-def documentos():
-    return sorted(f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
+def documentos(con_destacado=True):
+    todos = sorted(f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
+    return todos if con_destacado else [f for f in todos if num(f) != DESTACADO]
+
+
+def fichero_de(n):
+    return next(f for f in documentos() if num(f) == n)
 
 
 def num(fich):
@@ -166,7 +178,7 @@ def reparte_fotos(cuerpo, slugs):
 
 def portada(total_paginas=None):
     cr = comun.creditos()["lugares/portada"]
-    pie_izq = f"{len(documentos())} documentos · 83 especies con foto · 2 mapas"
+    pie_izq = f"{len(documentos())} documentos · 2 mapas · guía de fauna aparte"
     pie_der = f"Fotografía de portada: {cr['autor']} · {cr['licencia']}"
     return f"""
 <section class="portada" id="portada">
@@ -209,7 +221,7 @@ def ancla(doc):
 
 def indice(paginas):
     grupos, actual = [], None
-    for f in documentos():
+    for f in documentos(con_destacado=False):
         n = num(f)
         for b in BLOQUES:
             if b["desde"] == n:
@@ -231,9 +243,10 @@ def indice(paginas):
         filas.append("</ol>")
 
     extra = []
-    for clave, nombre in [("mapas", "Los mapas: la ruta y las charcas de Etosha"),
+    for clave, nombre in [("doc" + DESTACADO, "Punto de decisión — léelo antes que nada"),
+                          ("mapas", "Los mapas: la ruta y las charcas de Etosha"),
                           ("presentacion", "El viaje de un vistazo"),
-                          ("fauna", "Guía de campo — 83 especies con foto"),
+                          ("fauna", "La guía de campo va aparte — 83 especies con foto"),
                           ("creditos", "Créditos de las fotografías")]:
         p = paginas.get(clave, "")
         extra.append(f'<li><span class="n"></span><span class="t">{nombre}</span>'
@@ -242,9 +255,9 @@ def indice(paginas):
     return f"""
 <section class="indice" id="indice">
   <h1>Qué hay aquí dentro</h1>
-  <div class="grupo">Antes de empezar</div><ol>{"".join(extra[:2])}</ol>
+  <div class="grupo">Antes de empezar</div><ol>{"".join(extra[:3])}</ol>
   {"".join(filas)}
-  <div class="grupo">Al final</div><ol>{"".join(extra[2:])}</ol>
+  <div class="grupo">Al final</div><ol>{"".join(extra[3:])}</ol>
   <p class="nota">Los documentos van numerados por <b>el momento en que se usan</b>, no por el
   orden en que se investigaron: primero la ruta y el dinero, luego lo que hay que preparar en
   casa, después lo que se consulta con el coche en marcha, y al final el respaldo de por qué
@@ -305,26 +318,34 @@ def paginas_de_mapas():
 </section>"""
 
 
-def cuerpo_documentos():
+def documento(fich, con_separador=True):
+    """Un documento del dossier, con su separador de bloque y sus fotos."""
+    n = num(fich)
+    texto = open(os.path.join(RAIZ, fich)).read()
     partes = []
-    for f in documentos():
-        n = num(f)
-        texto = open(os.path.join(RAIZ, f)).read()
-
+    if con_separador:
         for b in BLOQUES:
             if b["desde"] == n:
                 partes.append(separador(b))
+    if n in PLENAS:
+        slug, pie = PLENAS[n]
+        partes.append(comun.foto_plena(slug, pie))
+    html = a_html(texto, doc=n)
+    html = re.sub(r"<h1>(.*?)</h1>",
+                  lambda m: f'<h1 class="titulo">{m.group(1)}{ancla(n)}</h1>', html, count=1)
+    html = reparte_fotos(html, FOTOS.get(n, []))
+    partes.append(f'<section class="doc" id="doc-{n}">{html}</section>')
+    return "".join(partes)
 
-        if n in PLENAS:
-            slug, pie = PLENAS[n]
-            partes.append(comun.foto_plena(slug, pie))
 
-        html = a_html(texto, doc=n)
-        # el primer <h1> se convierte en titulo de documento
-        html = re.sub(r"<h1>(.*?)</h1>",
-                      lambda m: f'<h1 class="titulo">{m.group(1)}{ancla(n)}</h1>', html, count=1)
-        html = reparte_fotos(html, FOTOS.get(n, []))
-        partes.append(f'<section class="doc" id="doc-{n}">{html}</section>')
+def destacado():
+    return documento(fichero_de(DESTACADO), con_separador=False)
+
+
+def cuerpo_documentos():
+    partes = []
+    for f in documentos(con_destacado=False):
+        partes.append(documento(f))
     return "".join(partes)
 
 
@@ -341,26 +362,24 @@ def presentacion():
 
 def fauna():
     import guia_fauna
-    return guia_fauna.seccion_embebida(ancla("FA"))
+    return guia_fauna.remite_desde_dossier(ancla("FA"))
 
 
 def creditos_seccion():
     cr = comun.creditos()
     lug = "".join(f'<li><b>{v["pie"]}</b> — {v["autor"]}, <i>{v["licencia"]}</i></li>'
                   for k, v in sorted(cr.items()) if k.startswith("lugares/"))
-    fau = "".join(f'<li><b>{v["es"]}</b> — {v["autor"]}, <i>{v["licencia"]}</i></li>'
-                  for k, v in sorted(cr.items(), key=lambda x: x[1].get("es", ""))
-                  if k.startswith("fauna/"))
+    n_fauna = sum(1 for k in cr if k.startswith("fauna/"))
     return f"""
 <section class="doc sin-columnas creditos" id="creditos">
   <h1 class="titulo">Créditos de las fotografías{ancla('CR')}</h1>
-  <p class="nota">Las {len(cr)} fotografías de este dossier proceden de <b>Wikimedia
-  Commons</b> y están bajo licencia libre (CC BY, CC BY-SA, CC0 o dominio público), que exige
-  citar autor y licencia — es lo que hace esta lista. El fichero exacto de cada una está en
+  <p class="nota">Las fotografías de este dossier proceden de <b>Wikimedia Commons</b> y están
+  bajo licencia libre (CC BY, CC BY-SA, CC0 o dominio público), que exige citar autor y
+  licencia — es lo que hace esta lista. El fichero exacto de cada una está en
   <code>fuente/catalogo.py</code>, y <code>fuente/descargar.py</code> rechaza cualquier imagen
-  cuya licencia no sea libre.</p>
-  <h2>Los lugares y los mapas</h2><ul class="dos">{lug}</ul>
-  <h2>La fauna</h2><ul class="dos">{fau}</ul>
+  cuya licencia no sea libre. Los créditos de las <b>{n_fauna} fotografías de fauna</b> van en su
+  propio PDF, <code>guia-fauna-etosha.pdf</code>, donde se usan.</p>
+  <h2>Los lugares</h2><ul class="dos">{lug}</ul>
   <h2>Los mapas</h2>
   <ul class="dos">
     <li><b>Contornos de países</b> — Natural Earth 1:10M, <i>dominio público</i></li>
@@ -396,6 +415,9 @@ table.etapas tfoot td.km { text-align: right; }
 .nota-tabla { font-size: 8pt; color: var(--tinta-2); margin: 3mm 0 6mm;
               padding-left: 3mm; border-left: 2pt solid var(--regla); }
 .mapa-plena h1.titulo { font-size: 19pt; }
+.remite blockquote { padding: 6mm 7mm; }
+.remite blockquote h2 { font-size: 14pt; color: var(--oxido-os); }
+.remite blockquote p { font-size: 10.2pt; }
 """
 
 
@@ -407,6 +429,7 @@ def html_completo(paginas=None):
 <style>{tipos}</style><style>{css}</style></head><body>
 {portada()}
 {indice(paginas or {})}
+{destacado()}
 {paginas_de_mapas()}
 {presentacion()}
 {cuerpo_documentos()}
