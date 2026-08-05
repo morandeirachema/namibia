@@ -132,6 +132,28 @@ def revisa_escala(nombre, alto_minimo=250):
         bien(f"{nombre}: escala correcta, la portada llena la pagina ({mm:.0f} mm)")
 
 
+def revisa_paginas_readme():
+    """El README anuncia cuantas paginas tiene cada PDF: que no se quede desfasado."""
+    import re
+    texto = open(os.path.join(RAIZ, "README.md")).read()
+    for nombre in ("dossier-namibia-2026.pdf", "guia-fauna-etosha.pdf"):
+        ruta = os.path.join(RAIZ, nombre)
+        if not os.path.exists(ruta):
+            continue
+        salida = subprocess.run(["pdfinfo", ruta], capture_output=True, text=True).stdout
+        real = next((int(l.split()[1]) for l in salida.splitlines()
+                     if l.startswith("Pages:")), 0)
+        dichas = {int(n) for n in re.findall(
+            re.escape(nombre) + r"[^\n]*?(\d+)\s+páginas", texto)}
+        dichas |= {int(n) for n in re.findall(
+            r"\((\d+)\s+páginas[^\n]*?\)", texto)} if "guia-fauna" in nombre else set()
+        malas = {n for n in dichas if n != real}
+        if malas:
+            mal(f"el README dice {sorted(malas)} paginas de {nombre}, y tiene {real}")
+        else:
+            bien(f"{nombre}: el README dice las paginas que son ({real})")
+
+
 def revisa_documentos():
     import re
     docs = sorted(f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
@@ -150,6 +172,7 @@ def main():
     revisa_pdf("dossier-namibia-2026.pdf", 40)
     revisa_pdf("guia-fauna-etosha.pdf", 8)
     revisa_escala("dossier-namibia-2026.pdf")
+    revisa_paginas_readme()
     print(f"\n{'TODO EN ORDEN' if not FALLOS else str(len(FALLOS)) + ' FALLOS'}")
     return 1 if FALLOS else 0
 
