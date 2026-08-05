@@ -10,6 +10,7 @@ import json
 import os
 import subprocess
 import sys
+import tempfile
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(HERE)
@@ -94,6 +95,43 @@ def revisa_pdf(nombre, minimo):
         bien(f"{nombre}: {paginas} paginas, {mb:.1f} MB")
 
 
+def revisa_escala(nombre, alto_minimo=250):
+    """Vigila que Chrome no haya encogido el PDF entero.
+
+    Si algo no cabe a lo ancho —el caso tipico es un diagrama alto que obliga a
+    Chrome a abrir una tercera columna en una pagina a dos— el navegador reduce
+    TODAS las paginas para que quepan, y el documento sale a dos tercios sin
+    avisar de nada. El ancho no lo delata (la portada es `width:100%` y se
+    encoge con el resto, asi que sigue llenando la caja); el alto si: la portada
+    pide 291 mm y en un PDF sano ocupa la pagina entera.
+    """
+    ruta = os.path.join(RAIZ, nombre)
+    if not os.path.exists(ruta):
+        return
+    with tempfile.TemporaryDirectory() as tmp:
+        base = os.path.join(tmp, "p")
+        r = subprocess.run(["pdftoppm", "-f", "1", "-l", "1", "-r", "72", "-png", ruta, base],
+                           capture_output=True)
+        png = sorted(f for f in os.listdir(tmp) if f.endswith(".png"))
+        if r.returncode or not png:
+            return bien(f"{nombre}: sin pdftoppm, no se mide la escala")
+        try:
+            from PIL import Image
+        except ImportError:
+            return bien(f"{nombre}: sin Pillow, no se mide la escala")
+        im = Image.open(os.path.join(tmp, png[0])).convert("L")
+        w, h = im.size
+        px = im.load()
+        filas = [y for y in range(h)
+                 if sum(1 for x in range(w) if px[x, y] < 200) > w * .5]
+        mm = (filas[-1] - filas[0] + 1) / 72 * 25.4 if filas else 0
+    if mm < alto_minimo:
+        mal(f"{nombre}: la portada mide {mm:.0f} mm de alto, esperaba >= {alto_minimo}. "
+            f"Chrome ha encogido el PDF entero: algo no cabe a lo ancho de la caja")
+    else:
+        bien(f"{nombre}: escala correcta, la portada llena la pagina ({mm:.0f} mm)")
+
+
 def revisa_documentos():
     import re
     docs = sorted(f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
@@ -111,6 +149,7 @@ def main():
     revisa_geo()
     revisa_pdf("dossier-namibia-2026.pdf", 40)
     revisa_pdf("guia-fauna-etosha.pdf", 8)
+    revisa_escala("dossier-namibia-2026.pdf")
     print(f"\n{'TODO EN ORDEN' if not FALLOS else str(len(FALLOS)) + ' FALLOS'}")
     return 1 if FALLOS else 0
 

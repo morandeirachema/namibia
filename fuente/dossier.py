@@ -182,8 +182,11 @@ def a_html(texto, doc=None):
         c = (m.group(1).replace("&amp;", "&").replace("&lt;", "<")
              .replace("&gt;", ">").replace("&quot;", '"'))
         # Los gantt y los quesos no caben en una columna de 89 mm: esos si cruzan.
+        # Cualquier otro diagrama puede pedirlo con una linea `%% ancho`, que
+        # Mermaid lee como comentario y GitHub sigue pintando igual.
         tipo = c.strip().split("\n", 1)[0].strip().split()[0].lower()
-        ancho = " ancho" if tipo in ("gantt", "pie", "timeline") else ""
+        ancho = (" ancho" if tipo in ("gantt", "pie", "timeline")
+                 or re.search(r'^\s*%%\s*ancho\s*$', c, re.M) else "")
         return f'<pre class="mermaid{ancho}">' + c + "</pre>"
 
     h = re.sub(r'<pre><code class="language-mermaid">(.*?)</code></pre>', desescapa, h, flags=re.S)
@@ -292,18 +295,21 @@ def portada(total_paginas=None):
 <section class="portada" id="portada">
   <img src="{comun.img_lugar('portada')}" alt="{cr['pie']}">
   <div class="velo"></div>
-  <div class="marca">Dossier de viaje<span>Actualizado el {FECHA}</span></div>
+  <div class="capa">
+  <div class="marca"><span>Dossier de viaje</span><span>Actualizado el {FECHA}</span></div>
   <div class="txt">
     <h1>Namibia<em>2026</em></h1>
     <div class="regla"></div>
     <p class="lema">El gran roadtrip del norte: las dunas más altas del mundo al amanecer,
     la Costa de los Esqueletos y cuatro noches dentro de Etosha.</p>
+    <p class="viajan"><b>Chema Morandeira</b> y <b>Miguel Rivera</b></p>
     <div class="datos">
-      Dos personas · un 4×4 con tienda de techo · <b>30 de octubre – 15 de noviembre</b><br>
+      Un 4×4 con tienda de techo · <b>30 de octubre – 15 de noviembre</b><br>
       Desierto → costa → Damaraland → <b>cuatro noches dentro de Etosha</b><br>
       ~2.728 km · <b>~€3.368 por persona</b>, todo incluido
     </div>
     <div class="pie"><span>{pie_izq}</span><span>{pie_der}</span></div>
+  </div>
   </div>
 </section>"""
 
