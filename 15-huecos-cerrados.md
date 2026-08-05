@@ -103,6 +103,41 @@ n=270 días por punto.
 > sabana seca. **El sesgo no se puede corregir con una constante**, así que las cifras se publican
 > tal cual, avisando de hacia dónde tira el error en cada terreno.
 
+### 🆕 Cerrados dos de los tres puntos sin estación: Spreetshoogte y Hoada ◐
+
+**Método idéntico al de arriba, y validado antes de fiarse de él.** Se recalculó ERA5 con la misma
+receta —máximo diario de las horas **10–17 UTC**, mínimo de las **00–07 UTC**, promediado sobre los
+**9 noviembres 2013–2021 (n=270 días)** del mismo fichero ARCO-ERA5— y **primero se comprobó que el
+cálculo reproduce los números ya publicados** en las celdas conocidas:
+
+- **Windhoek** — recalculado **31,0** vs el 31,0 de arriba → **Δ +0,03 °C**
+- **Okaukuejo** — recalculado **35,2** vs 35,2 → **Δ +0,04 °C**
+- **Sesriem** — recalculado **32,5** vs 32,5 → **Δ −0,01 °C**
+
+Tres regímenes distintos (meseta, sabana, desierto) clavados a **±0,04 °C**: el mismo tubo de
+cálculo aplicado a los puntos sin medir es fiable. Con eso:
+
+- 🏔️ **Spreetshoogte** *(campamento del D2, borde de la escarpa ~1.700 m)* — **media de máximas de
+  noviembre 31,5 °C / mínima 17,1 °C** ◐ *(ERA5, celda −24,00 / 16,00)*. **Corrobora el proxy de
+  Windhoek** que ya usaba `01`: misma altitud, mismo clima de meseta. Días extremos de la serie
+  entre 22,5 y **38,0 °C**. Como es meseta —el terreno donde ERA5 apenas tiene sesgo— el número se
+  puede tomar casi tal cual.
+- 🔥 **Hoada / Grootberg** *(campamento del D8, Damaraland)* — **media de máximas 33,1 °C / mínima
+  18,4 °C** ◐ *(ERA5, celda −20,00 / 14,00)*. Días extremos hasta **39,2 °C**. **Ojo al sesgo:**
+  Damaraland es «sabana seca», el terreno donde ERA5 se quedó **~2 °C corto** en Okaukuejo, así que
+  **el mediodía real de Hoada probablemente ronda 34–35 °C**, no 33. Trátese 33,1 como suelo, no como
+  techo. Encaja con lo que decía `01`: entre la meseta (~31) y el norte caluroso, y con Twyfelfontein
+  —en el valle, más abajo— aún más caliente a mediodía.
+
+**El tercer punto, Terrace Bay, NO se puede cerrar así, y es un hallazgo en sí mismo.** Su celda ERA5
+más cercana (−20,00 / **13,00**) cae **sobre el océano**: devuelve **~19,3 °C**, que es aire marino
+sobre la corriente fría de Benguela, **no la temperatura en tierra del campamento**. Lo confirma el
+control: la misma celda-más-cercana para **Walvis Bay dio 18,5 °C**, un absurdo frente a los **25,0
+✅** de su estación —la celda es mar, no tierra—. Por eso, para la costa **sigue mandando el proxy de
+estación real (Walvis Bay 25,0 ✅)** y no el reanálisis. Lo que ERA5 sí confirma de Terrace Bay es
+que la capa marina la mantiene fría y estable *(máximos de la serie que no pasan de ~25 °C)*, en
+línea con la niebla y el viento que ya se anotaban.
+
 ---
 
 ## 🌬️ Viento en la costa — y no es lo que su fama sugiere ✅
@@ -158,11 +193,41 @@ con el que se juzgó si ese precio era razonable, y la lógica de la fiebre amar
 
 ## 🏨 Lodges privados y antelación de reserva
 
-**El precio rack por noche sigue bloqueado** ❌: las webs de los lodges (Gondwana, Desert Camp y
-compañía) devuelven `403` desde este entorno. Lo que sí hay es **rango de agregador ◐**: la gama
-media namibia se mueve en **~€75–170 por noche para dos**. Hallazgo estructural que conviene
-recordar: **los rack rates que asoman caducan el 31/10/2026**, así que noviembre entra en año
-tarifario nuevo sin publicar.
+**Novedad (03/08/2026): el año tarifario que cubre el viaje YA está publicado.** El hallazgo
+anterior decía que noviembre caía en un año tarifario nuevo «sin publicar»; **eso ha caducado**.
+Gondwana Collection publica ya su tarifa **1 nov 2026 – 31 oct 2027** —el año exacto del viaje— en
+las páginas de cada alojamiento. Confirmado el rango de fechas en **cinco búsquedas independientes**
+sobre sus propias URL *(gondwana-collection.com/accommodation/…)*.
+
+> ⚠️ **Pero la extracción NO está verificada, y por eso todo esto va en ◐, no en ✅.** Las páginas
+> de Gondwana siguen devolviendo **`403`** al abrirlas directamente desde este entorno; los números
+> de abajo vienen de **fragmentos («snippets») del índice del buscador**, resumidos por un modelo,
+> **sin poder abrir la ficha para comprobar la extracción**. Y ese riesgo es real: una pasada devolvió
+> «Etosha Safari Lodge N$445 pp» —un disparate— que otra pasada corrigió a ~N$3.790–6.060/noche.
+> **Trátalos como pistas con URL, no como precios cerrados. Confírmalos por email o teléfono antes de
+> presupuestar.**
+
+**Tarifas candidatas para 1 nov 2026 – 31 oct 2027** *(◐ extracción sin verificar, página en 403)*:
+
+- 🛖 **Damara Mopane Lodge** *(Damaraland, cerca de la ruta D8)* — **B&B ~N$2.970 por persona en
+  habitación compartida (~€149)**. Fuente: página propia de Gondwana vía snippet. *(Es tarifa de
+  alojamiento, distinta de sus actividades: rastreo de elefante N$3.300 pp, sendero autoguiado
+  N$250 pp — que el buscador tiende a devolver primero.)*
+- 🦁 **Etosha Safari Camp** *(chalets junto a la puerta de Andersson, EN la ruta)* — **~N$2.220–3.550
+  por noche (~€111–178)**. Fuente: agregador `south-african-lodges.com`, no la web propia → ◐ más
+  débil; lo da como «media», sin distinguir por persona vs por unidad.
+- 🏨 **Etosha Safari Lodge** *(el hermano de gama alta, misma zona)* — **~N$3.790–6.060 por noche
+  (~€190–303)**. Mismo agregador, misma cautela.
+- ⛺ **Camping de los Roadhouse de Gondwana** — **N$300 por persona (~€15)** para 1 nov 2026 – 31 oct
+  2027, dato de la página propia *(medido en Canyon Roadhouse; el sur ya no está en la ruta, pero
+  fija el nivel del camping Gondwana para el año nuevo)*.
+
+**Lo que sigue sin cerrarse:** la tarifa **DBB por noche de la web propia** de los lodges de la ruta
+*(Sesriem: Desert Camp, Desert Quiver, The Desert Grace; Swakopmund; Twyfelfontein Country Lodge —
+que NO es de Gondwana; puertas de Etosha: Taleni, Toshari)*. El buscador devuelve sus **actividades**
+antes que el alojamiento, y el `403` impide leer la ficha. Como referencia de gama media namibia
+sigue valiendo **~€75–170 por noche para dos ◐** (rango de agregador). *(Twyfelfontein Country Lodge:
+un agregador da «desde ~$223 pp DBB» para may–oct 2026 ◐; sin cifra limpia para noviembre.)*
 
 **Antelación** ◐: la temporada alta namibia es **julio–octubre**, y **noviembre es hombro**. El
 cuello de botella no es la temporada: es **estructural**, porque **Sesriem tiene 44 parcelas** y es
@@ -187,24 +252,68 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 **Precios sin cerrar — el margen real del presupuesto:**
 
 - 🛏️ **Tres campings sin cotizar**: Windhoek (D1 y D13), Walvis Bay (D5–D6) y Spreetshoogte. Los
-  sitios están identificados; **ninguno publica tarifa**.
-- 💳 **La fianza que retiene Namibia2Go** en la tarjeta: importe desconocido.
-- 🚤 El **barco de Walvis Bay**, la **SIM de MTC** y la **opción de búsqueda y salvamento del IATI**.
+  sitios están identificados; **ninguno publica tarifa abrible desde aquí**. **Reintento 05/08 —
+  el muro de `403` es total**: no solo las webs propias, también **todos los agregadores y hasta
+  ioverlander** *(arebbusch.com, africanreservations.com, madbookings.com, booking.com y
+  ioverlander.com devuelven `403`)*, así que **la ficha no se puede abrir para comprobar la
+  extracción**. Lo único que asoma son **fragmentos del índice del buscador, de un solo origen cada
+  uno y sin verificar** — se anotan como pista **○, NO entran al presupuesto**:
+  - **Urban Camp (Windhoek)** — el buscador da «desde ~R660–700 la noche para dos» *(booking.com,
+    agregador, precio-gancho «desde»)* ≈ **N$660–700 (~€33–35) la pareja ○**. Encaja en la horquilla
+    de práctica común que ya usa `02` (~N$600–1.000), así que **no la mueve**.
+  - **Lagoon Chalets (Walvis Bay)** — un fragmento cita «N$600 la parcela para 1 coche + 2 personas»
+    *(~€30 ○, origen único)*, pero **africanreservations marca «sin tarifas para 01 mar 2026 – 28 feb
+    2027»**: corrobora que **para la ventana del viaje no hay tarifa publicada**. Queda en ○.
+  - **Spreetshoogte** — ⚠️ **trampa de nombre viva**: hay al menos **tres** cosas llamadas
+    «Spreetshoogte» junto al paso —el camping propio, **Namibgrens Guest Farm** y **Barkhan Dune
+    Retreat**—, la misma confusión que ya dio el gancho de N$269,50 (Namibgrens). Los fragmentos dan
+    «~N$120–150 por persona» *(~€6–7,50 ○, orígenes que se contradicen entre sí)*. **No se cierra**:
+    sin abrir la ficha no se puede saber a cuál de las tres propiedades corresponde cada cifra. En
+    `01` (D2) sigue como está: 150–300 ZAR/persona, vigencia desconocida.
+  > **Conclusión 05/08:** ninguno pasa el listón de «verifica la extracción, no solo la fuente». Los
+  > tres siguen en la estimación de práctica común de `02`; **estos números son pistas con URL para el
+  > que llame a reservar, no precios para presupuestar**.
+- 💳 **La fianza que retiene Namibia2Go** en la tarjeta — **PARCIALMENTE CERRADO ◐ (05/08), con un
+  conflicto sin resolver**: la propia Namibia2Go se anuncia como **«No Deposit»** *(sin fianza, a
+  diferencia de casi todos los operadores)* y su FAQ dice que **no hay depósito de combustible**;
+  pero un revendedor —madbookings— y un directorio —goArid— citan que **se retiene N$2.500 (~€125) de
+  depósito de combustible**, liberado si devuelves el depósito lleno. Las dos versiones son de fuentes
+  secundarias *(la web propia está en 403)* y **se contradicen**: puede ser un cambio de política o
+  depender del canal de reserva. **No lo des por sentado en ningún sentido — pregunta por escrito, al
+  reservar, si hay retención en tarjeta y de cuánto.** Aceptan todas las tarjetas salvo Diners y Amex.
+- 🚤 La **opción de búsqueda y salvamento del IATI** *(el **crucero de Walvis Bay**
+  ~N$1.400–1.990 pp y el **4x4 a Sandwich Harbour** ~N$2.600–3.220 pp ya tienen rango de mercado 2026
+  ◐ en [`02`](02-presupuesto.md), §9 — cruzado entre operadores, pero con la ficha propia en `403`).
+- 📱 ~~La **SIM de MTC**~~ **CERRADA ◐ (05/08)**: paquete turista **«Leisure» N$349 (~€17) / 14 días /
+  10,1 GB** *(justo la duración del viaje)* y **«Premium» N$659 (~€33) / 30 días / 20,1 GB**, solo en
+  la tienda MTC del aeropuerto. Cifras convergentes entre la web de MTC, su PDF de T&C y un blog
+  independiente, internamente coherentes; ◐ porque no se pudo abrir la página. Detalle en
+  [`07`](07-logistica.md), §Cobertura.
 
 **Datos que siguen abiertos:**
 
-- 🛣️ **La cola del D8**: Twyfelfontein → Hoada, **~85 km ○** — el último tramo de la ruta sin fuente
-  propia. El grueso ya está cerrado (03/08, ◐): Terrace Bay → Twyfelfontein son **~216 km** por
-  Springbokwasser *(96 hasta la puerta + 120)*, con el negativo de la C39 como control. El D7 y el
-  D13 también se cerraron. Detalle en [`13`](13-itinerario.md).
-- 📏 **La discrepancia del D9**: Hoada → Okaukuejo son **~315 km según `01` y ~340 sumando tramos
-  citados**. Nadie las ha conciliado; hasta entonces, presupuesta combustible con los 340.
-- ⛽ **Si hay diésel en Terrace Bay** y en el bucle Ugabmund–Springbokwasser.
+- 📏 ~~**La discrepancia del D9**: Hoada → Okaukuejo, ~315 vs ~340 km~~ **RESUELTA (04/08): son
+  ~340 km.** Kamanjab → Outjo 156 km *(distancesto)* + Kamanjab → Okaukuejo 271 km *(CityMeter, vía
+  Outjo)* corroboran los 265 de la matriz, y con los 75 km Hoada → Kamanjab dan **~340–346 km**. El
+  ~315 de `01` queda refutado; ya corregido a 340. Detalle en [`13`](13-itinerario.md), §3.
+- ⛽ **Diésel en Terrace Bay** — hay **surtidor con gasolina y diésel** junto a la recepción del
+  resort *(ioverlander + relatos de viajeros ◐/○)*, pero **se queda sin combustible a veces** y
+  conviene llevar efectivo: trátalo como respaldo, no como garantía. Sigue sin cerrar si hay diésel
+  en el bucle Ugabmund–Springbokwasser.
 - 🎫 **La tabla fina de tasas del MEFT**: el PDF primario sigue sin abrirse.
-- 🚧 **El estado de las obras Okaukuejo–Halali en noviembre de 2026**: la última nota oficial es de
-  abril de 2025. **Hay que llamar** *(NWR Okaukuejo, +264 67 229 800)*.
+- 🚧 **Obras Okaukuejo–Halali — ACTUALIZADO 03/08 (◐, antes «hay que llamar»)**: ya hay **nota
+  oficial de 2026** —MEFT `news/335` «Traffic deviation via Gemsbokvlakte road from Okaukuejo to
+  Halali», con aviso paralelo de NWR— que fija un **desvío obligatorio del 2 jun 2026 al jul 2027**,
+  así que en noviembre de 2026 estará activo con seguridad. La página oficial no se pudo **abrir**
+  (403); las fechas convergen en **cinco fuentes secundarias**, por eso queda en ◐. Lo que sigue
+  abierto: el **sobrecoste exacto en tiempo y km del desvío** —no lo publica nadie— y reconfirmar que
+  sigue en pie *(NWR Okaukuejo, +264 67 229 800)*.
 - 🕐 **Los horarios de salida de los safaris guiados de NWR**: no los publican en ninguna parte.
-- 🌡️ **Sin estación meteorológica**: Spreetshoogte, Terrace Bay y Hoada/Grootberg.
+- 🌡️ ~~**Sin estación meteorológica**: Spreetshoogte, Terrace Bay y Hoada/Grootberg.~~ **CERRADOS
+  DOS (04/08) con ERA5, validado a ±0,04 °C contra las celdas conocidas** *(ver arriba, §ERA5)*:
+  **Spreetshoogte 31,5/17,1** y **Hoada 33,1/18,4** ◐. **Terrace Bay queda abierto a propósito**: su
+  celda más cercana es océano (da 19,3 °C de aire marino, no tierra), así que la costa se sigue
+  cubriendo con el proxy de estación real de Walvis Bay (25,0 ✅).
 
 ---
 

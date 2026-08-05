@@ -7,7 +7,8 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026 · precio del
+> combustible actualizado a la revisión del 5 ago 2026*
 
 
 ---
@@ -22,6 +23,19 @@ Energía, Modestus Amutse:
 - **Gasolina 95** — **N$22,48/l (~€1,12)** *(baja N$1,00)*
 - **Diésel 50 ppm** — **N$24,26/l (~€1,21)** *(baja N$4,00)*
 - **Diésel 10 ppm** — **N$24,36/l (~€1,22)** *(baja N$4,00)*
+
+**Y ya subió otra vez: revisión del 5 de agosto de 2026 (+N$2,00/l en todas las calidades) ◐** al
+restituirse cuatro gravámenes que se habían recortado un 50 % durante tres meses (y con el barril de
+diésel 50 ppm subiendo de ~US$120 a ~US$141). Aplicando el +N$2,00 a las cifras de julio, la costa
+queda en:
+
+- **Diésel 50 ppm** — **~N$26,26/l (~€1,31)**
+- **Diésel 10 ppm** — **~N$26,36/l (~€1,32)**
+
+*(◐ — la subida y su fecha convergen en varias búsquedas, pero thebrief.com.na y el boletín del MME
+devuelven 403 aquí, así que el precio de bomba exacto no se ha leído del primario. El «emergency
+coordinated fuel supply arrangement» que había contenido los precios expiraba en septiembre: esta
+subida es justo esa presión al alza que ya se avisaba abajo, materializándose.)*
 
 > ### ⚠️ Dos avisos que invalidan esa cifra para tu viaje
 >
@@ -40,16 +54,18 @@ Energía, Modestus Amutse:
 > compra al Basic Fuel Price sin primas de importación— **solo dura de julio a septiembre de 2026**.
 > **Caduca antes de tu viaje.**
 
-**Para presupuestar:** **N$25–27/l (~€1,25–1,35)** de diésel en el interior, **como estimación, no
-como dato**. 👉 **Recomprueba la semana antes de salir.**
+**Para presupuestar (tras la subida de agosto):** **N$26–29/l (~€1,30–1,45)** de diésel en el
+interior, **como estimación, no como dato**. 👉 **Recomprueba la semana antes de salir.**
 
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: un Hilux
 doble cabina cargado en los **~2.600 km de la ruta** (banda 2.400–2.800), a **~11–13 l/100 km**,
-quema **~290–365 l** → banda **N$6.336–9.828 (~€317–491)**, central **~N$7.956**. **Se presupuestan
-~N$8.000 (~€400)** — el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
+quema **~290–365 l** → banda **N$6.336–9.828 (~€317–491)**, central **~N$8.424 (~€421)** con el diésel
+a N$27/l de agosto *(era ~N$7.956 con el precio de julio)*. **Se presupuestan ~N$8.000–8.400
+(~€400–420)** — el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
 2.800–3.200 km de la ruta con el sur.)*
 
-Fuente: https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/
+Fuentes: [rebaja de julio](https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/) ·
+[subida de N$2,00/l del 5 ago 2026](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/) *(403 aquí; vía fragmento del buscador)*
 
 ### ❌ El mito de la tarjeta — corregido
 
@@ -121,8 +137,9 @@ flowchart LR
    Bay** (✅ Puma 24 h) y calcula el bucle entero costa→Damaraland con ese depósito; el respaldo
    del tramo es **Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅ Gondwana)**, a 23 km del paso de
    Grootberg. *Distancia del bucle: el **D7 ya está cerrado en ~380 km** ◐ (la C34 medida tramo a tramo, ver
-   `13`); el **D8 también, en ~216 km hasta Twyfelfontein** ◐ *(por Springbokwasser)*, más la cola
-   a Hoada.*
+   `13`); el **D8 también, en ~370 km** ◐ — 216 hasta Twyfelfontein *(por Springbokwasser)* + **~155
+   de cola a Hoada** *(vía Palmwag o Grootberg; el ~85 km anterior quedó refutado)*. **Es un día largo
+   de grava con este único depósito: sale con el tanque lleno de Henties Bay.***
 
 ### La regla
 
@@ -178,11 +195,15 @@ Fuente: https://blog.tracks4africa.co.za/veterinary-fences-in-namibia-and-botswa
 barata pero con cobertura **notablemente peor** fuera de los pueblos.
 👉 **Para un self-drive, MTC es la elección correcta, y no está reñido.**
 
-- **SIM prepago MTC** con bono turista **«Aweh»** — **~N$100–200 (~€5–10)** por ~5–10 GB semanales,
-  mucho más barato por GB que una eSIM de viaje
-- **Dónde**: kiosco de MTC en el **aeropuerto Hosea Kutako** *(cierra ~21:00 — si tu vuelo llega
-  tarde, ahí no la coges)*; en Windhoek: **Maerua Mall**, **Wernhil Park**, o supermercados
-  **Pick n Pay / OK**
+- **SIM turista MTC — el «Leisure»**: **N$349 (~€17)** por **14 días** con **10,1 GB** de datos, más
+  N$65 de llamadas y SMS internacionales — **justo la duración de este viaje** ◐. El hermano mayor
+  **«Premium»**: **N$659 (~€33)** por **30 días** y **20,1 GB** (+N$125 internacional). Muchísimo más
+  barato por GB que una eSIM de viaje.
+- **Dónde**: los paquetes turistas **se venden solo en la tienda MTC del aeropuerto Hosea Kutako**
+  *(kiosco cerca del mostrador de equipaje perdido, antes de la salida de llegadas; cierra ~21:00 —
+  si tu vuelo llega tarde, ahí no lo coges)*. En Windhoek —**Maerua Mall**, **Wernhil Park**,
+  supermercados **Pick n Pay / OK**— se compra una **SIM prepago normal** y se le cargan bonos de
+  datos **«Aweh»** (los N$100–200/semana de siempre), que sirve igual si no cogiste el paquete turista.
 - 🛂 **El registro de la SIM es OBLIGATORIO** por normativa CRAN (en vigor desde el 1/01/2023): hay
   que registrarla **en persona con el PASAPORTE**. Tarda ~10–15 min y es gratis.
   **Ya no hacen falta biométricos.**
@@ -190,9 +211,14 @@ barata pero con cobertura **notablemente peor** fuera de los pueblos.
   extranjero** — no des por hecho que sirve para visitantes. Airalo y similares sí funcionan y se
   activan antes de aterrizar, con sobreprecio.
 
-> ⚠️ **Hueco honesto:** **no se pudieron verificar** los precios actuales de los bonos turistas de
-> MTC ni el de la eSIM directamente (su web de eSIM falló la verificación TLS y las páginas de
-> prepago no respondían). **Los N$100–200 son orientativos.**
+> ◐ **Cómo están sacados estos precios:** las páginas de MTC no se dejan **abrir** desde este entorno
+> (403 / TLS), pero las cifras del paquete turista **convergen** entre la propia página de MTC
+> [`mtc.com.na/tourist-package`](https://www.mtc.com.na/tourist-package), su
+> [PDF de términos y condiciones](https://www.mtc.com.na/uploads/downloads/MTC_Namibia_Tourist_and_Visitors_package_Terms_and_Conditions.pdf)
+> y un blog independiente ([namibian.org / Safari2Go](https://namibian.org/blog/namibian-sim-card-especially-for-holidaymakers)),
+> y son **internamente coherentes** (14 días ↔ 10,1 GB; 30 días ↔ 20,1 GB). Van en ◐ porque no se
+> pudo verificar la extracción abriendo la página. Los bonos **«Aweh»** de recarga (N$100–200) siguen
+> siendo orientativos. **Reconfírmalo en el kiosco al aterrizar.**
 
 ### 🔇 Dónde NO hay señal — planifica silencio de verdad
 
@@ -396,7 +422,9 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
 - **El surtidor de Terrace Bay**: existe físicamente ◐ pero NWR no lo publicita y se secó en 2025
   — **trátalo como que NO** y llena en Henties Bay (detalle estación a estación: `08`)
 - **Los km reales del eje de la costa y Damaraland** (D7–D9): solo estimaciones de `01`
-- **Precios actuales de los bonos turistas de MTC** y de la eSIM: sus páginas no respondían
+- ~~**Precios actuales de los bonos turistas de MTC**~~ **cerrados ◐ (05/08)**: paquete «Leisure»
+  **N$349/14 días/10,1 GB** y «Premium» **N$659/30 días/20,1 GB**, convergentes entre la web de MTC,
+  su PDF de T&C y un blog independiente (ver §Cobertura). El precio de la **eSIM** sigue sin cerrar
 - **Disponibilidad de combustible dentro de los campamentos de parques**: reportes sin confirmar
 - **La matriz de distancias es de 2010**: verificar contra Tracks4Africa
 - **La lista de emergencias es de febrero de 2024**: verificar al llegar

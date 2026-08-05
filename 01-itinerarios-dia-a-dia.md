@@ -87,19 +87,25 @@ gantt
 > Cada noche lleva su **máxima media / mínima media** del mes. **Son medias mensuales, no la
 > previsión de tu día**: el récord de noviembre en el sur llega a 41–42 °C (`15`).
 > **Regla de fuentes de este repo:** las webs de safaris fueron **refutadas 0–3** (`15`), así que
-> aquí solo hay estación o secundaria que cite estación — **y donde no la hay, dice «sin dato»**.
+> aquí solo hay **estación ✅** (o secundaria que la cite) y, donde no hay estación, **reanálisis
+> ERA5 ◐** validado a ±0,04 °C contra las estaciones (`15` §ERA5). Terrace Bay se queda en «sin
+> dato» a propósito: su celda ERA5 es mar.
 >
 > ```mermaid
 > flowchart LR
 > T["Noviembre donde duermes<br/>media de máxima / mínima, en °C"]
 > n0["Walvis Bay · la costa<br/>25,0 día / 12,7 noche"]
 > n1["Windhoek<br/>31,2 día / 16,3 noche"]
+> n1b["Spreetshoogte · escarpa<br/>31,5 / 17,1 · ERA5"]
 > n2["Sesriem · el desierto<br/>32,5 día / 15,5 noche"]
+> n2b["Hoada · Damaraland<br/>33,1 / 18,4 · ERA5"]
 > n3["Okaukuejo · Etosha<br/>37,1 día / 18,9 noche"]
 > T ~~~ n0
 > n0 ~~~ n1
-> n1 ~~~ n2
-> n2 ~~~ n3
+> n1 ~~~ n1b
+> n1b ~~~ n2
+> n2 ~~~ n2b
+> n2b ~~~ n3
 > style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 > style n0 fill:#2d6a4f,color:#fff,stroke:#2d6a4f
 > style n3 fill:#9d0208,color:#fff,stroke:#9d0208
@@ -162,9 +168,10 @@ gantt
   *(Schanzen Road, en la ciudad; piscina, bar, wifi, cajero)* y **Arebbusch Travel Lodge**
 
 ### D2 · lun 2 — Windhoek → paso de Spreetshoogte · **~180–200 km · ~3h–3h30** ◐
-- 🌡️ **Spreetshoogte: sin dato de estación.** El proxy razonable es **Windhoek (31,2/16,3 ✅)**:
-  misma altitud (~1.700 m) en el borde de la escarpa. Arriba corre viento y refresca al caer el
-  sol ○
+- 🌡️ **Spreetshoogte: medias de noviembre ~31,5 °C máx / ~17,1 °C mín** ◐ *(reanálisis ERA5,
+  celda del borde de la escarpa; el cálculo reproduce Windhoek/Sesriem a ±0,04 °C — ver `15` §ERA5)*.
+  **Confirma el proxy de Windhoek** (31,2/16,3 ✅): misma altitud (~1.700 m), mismo clima de meseta.
+  Arriba corre viento y refresca al caer el sol ○
 - ☀️ amanecer **06:09** · anochecer **19:10** — *el atardecer en el paso es el plan del día: en
   posición hacia las 18:40*
 - B1 a Rehoboth (87 asfalto) → C24 → D1261 → **D1275: el paso**. ⚠️ **Muy empinado**, tramos de
@@ -215,18 +222,29 @@ gantt
   noviembre** ✅ *(SABAP1)*. Aquí sí los hay en cantidad — en Etosha, en cambio, **no**: la depresión está
   seca en noviembre *(ver `09`)*
 - 🦩 **Flamencos y pelícanos en la laguna** al amanecer y al atardecer — las mejores luces
-- Día libre: paseo marítimo, ostras, o la excursión guiada a **Sandwich Harbour**
-  *(🚫 con tu coche está prohibida por contrato — el tour es la forma correcta y mejor)*
+- Día libre: paseo marítimo, ostras, el **crucero de delfines y lobos** *(~N$1.400–1.990, ~€70–100 pp
+  ◐)* o la excursión guiada a **Sandwich Harbour** *(~N$2.600–3.220, ~€130–161 pp ◐)*
+  *(🚫 con tu coche Sandwich Harbour está prohibida por contrato — el tour es la forma correcta y mejor;
+  precios y fuentes en [`02`](02-presupuesto.md), §9)*
 - 🛏️ Walvis Bay, segunda noche
 
 ### D7 · sáb 7 — Cape Cross → Terrace Bay (Skeleton Coast) · **~390 km · día logístico** ✅
 - 🌡️ **Terrace Bay: sin dato de estación** — no hay serie pública ni en Möwe Bay ni en Terrace
-  Bay. Proxy honesto: **la costa ronda los 25,0 °C de Walvis Bay ✅**, 400 km más al sur — cuenta
-  con **niebla, viento y menos calor que tierra adentro** ○
+  Bay, y **ERA5 tampoco sirve aquí**: su celda más cercana cae sobre el mar *(da aire marino ~19 °C,
+  no tierra; ver `15` §ERA5)*. Proxy honesto: **la costa ronda los 25,0 °C de Walvis Bay ✅**, 400 km
+  más al sur — con **niebla, viento y menos calor que tierra adentro** ○
 - ☀️ amanecer **06:18** (Cape Cross) · anochecer **19:20** (Terrace Bay) — *pero aquí el sol no es
   el límite: lo es la puerta de las 15:00*
 - ⏰ **Salida temprana — este día tiene una hora límite.** C34 costera (sal compactada):
   Swakopmund → Henties Bay → 🦭 **Cape Cross** (miles de lobos marinos; pañuelo para el olor)
+- 🎫 **Cape Cross cobra entrada propia, aparte del permiso de Skeleton Coast:** **N$150 (~€8)/extranjero
+  + N$50 (~€3)/coche** (≤10 plazas) = **~N$350 (~€18) los dos** ◐, en **efectivo**, se paga en recepción
+  al entrar (reserva dentro del Dorob NP; tarifa menor que el baremo premium, **no** son las 7 unidades
+  de `02` §5 — súmalo). Horario ◐: **abre a las 08:00 solo del 16 nov al 30 jun; el resto del año, a
+  las 10:00** *(confirmado por búsqueda; la ficha del MEFT sigue en 403)*. **Ojo: vuestro D7 es el 7 nov,
+  antes del 16 → Cape Cross abre a las 10:00, NO a las 08:00.** No hay entrada a primera hora: apuntad
+  el alto de los lobos a las 10:00 en punto y salid seguidos. De Cape Cross a Ugabmund quedan ~110 km:
+  cruzáis de sobra antes de las 15:00, pero sin la holgura que daría un 08:00 — no os entretengáis
 - 🛑 **Puerta de Ugabmund: última entrada 15:00.** Para pernoctar dentro hace falta **reserva
   confirmada de Terrace Bay** — sin ella no se entra (el permiso de tránsito obliga a salir el
   mismo día)
@@ -242,16 +260,19 @@ gantt
 - *Variante fácil: saltarse Terrace Bay, dormir en Henties/Swakopmund y entrar a Damaraland al día
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 
-### D8 · dom 8 — Skeleton Coast → Twyfelfontein → Hoada · **~300 km · ~5h** ◐
-- 🌡️ **Hoada/Grootberg: sin dato de estación** *(ninguna de las 11 estaciones GHCN de Namibia cae
-  cerca — ver `15`)*. Está entre la meseta (~31 °C) y el norte caluroso; Twyfelfontein, en el
-  valle, es **notablemente más caluroso a mediodía** ○
+### D8 · dom 8 — Skeleton Coast → Twyfelfontein → Hoada · **~370 km · ~5h30–6h de volante** ◐
+- 🌡️ **Hoada/Grootberg: medias de noviembre ~33,1 °C máx / ~18,4 °C mín** ◐ *(reanálisis ERA5,
+  ninguna estación GHCN cae cerca; ver `15` §ERA5)*. **Es un suelo, no un techo**: en sabana seca
+  ERA5 se queda ~2 °C corto, así que el mediodía real ronda **34–35 °C**. Está entre la meseta (~31)
+  y el norte caluroso; Twyfelfontein, en el valle, es **aún más caluroso a mediodía** ○
 - ☀️ amanecer **06:17** (Twyfelfontein) · anochecer **19:15** (Hoada) — *y es domingo otra vez:
   sin alcohol a la venta*
 - Salida por **Springbokwasser** → C39/D3245 → **Twyfelfontein** (grabados rupestres UNESCO; Google
   lo lista como cerrado: **es un fallo del listado**). **Terrace Bay → Twyfelfontein son ~216 km ◐**
-  *(verificado 03/08: 96 a la puerta de Springbokwasser + 120 a Twyfelfontein; ver `13` y `15`)*;
-  la cola a **Hoada (~85 km) sigue ○**.
+  *(verificado 03/08: 96 a la puerta de Springbokwasser + 120 a Twyfelfontein; ver `13` y `15`)*; y la
+  cola **Twyfelfontein → Hoada son ~155 km ◐** *(verificado 03/08 — vía Palmwag o vía Grootberg, ambas
+  convergen; «~2,5 h» del operador)*. **Es un día largo (~370 km de grava): sal temprano de Terrace
+  Bay.** El ~85 km que se manejaba antes quedó **refutado** —era menor que la línea recta (~95 km).
 - ⚠️ **Damaraland: los bajos son el punto delicado del seguro** — la referencia de Asco los
   excluía aquí, y **cómo los trata el Premium Cover de tu Namibia2Go Budget sigue SIN confirmar:
   pregúntalo por escrito al reservar**. Despacio en las piedras.
@@ -259,7 +280,7 @@ gantt
   rocas de granito, duchas entre peñas, cielo estrellado. **N$271–366/persona según temporada
   (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `15`)*
 
-### D9 · lun 9 — Hoada → Etosha (Okaukuejo) · **~315 km · ~4h** ◐
+### D9 · lun 9 — Hoada → Etosha (Okaukuejo) · **~340 km · ~4h30** ◐
 - 🌡️ **Okaukuejo, medias de noviembre: 37,1 °C máx / 18,9 °C mín** ✅ *(NOAA GHCN, serie completa
   1975–2022, recomputada en `15` en dos extracciones independientes)* — y **baja según avanza el
   mes**: 37,8 en octubre → 37,1 en noviembre → 35,6 en diciembre
@@ -267,9 +288,10 @@ gantt
   al ocaso: pasa Andersson con margen de sobra*
 - C40 a Kamanjab → C38 a la puerta de **Andersson** (asfalto desde Kamanjab... ⚠️ firme por
   confirmar) → **Okaukuejo a 17 km** de la puerta
-- ⚠️ **Cuenta con ~340 km, no con 315**: sumando los tramos citados *(Hoada está a 75 km de Kamanjab
-  y Kamanjab a 265 de Okaukuejo)* salen ~340. Son 25 km de diferencia que no rompen el día, pero sí
-  cuentan para el depósito y la hora de puerta. Ver [`13`](13-itinerario.md).
+- ✅ **Son ~340 km (verificado 04/08, antes se manejaba ~315)**: Hoada → Kamanjab **75 km** + Kamanjab
+  → Okaukuejo por Outjo **~265–271 km** *(distancesto: Kamanjab–Outjo 156 km; CityMeter: Kamanjab–Okaukuejo
+  271 km; la matriz de 2010 daba 265, convergen)*. **El ~315 queda refutado.** Cuenta ~340 para el
+  depósito y la hora de puerta. Ver [`13`](13-itinerario.md), §3.
 - 🎫 Etosha ~N$620/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
 - 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
@@ -279,13 +301,22 @@ gantt
   del parque)* — la cifra más alta del viaje. **A mediodía no se hace safari: piscina** ○
 - ☀️ amanecer **06:12** · anochecer **19:06** (Halali) — *dentro del campamento, del ocaso al
   amanecer: la charca iluminada ES el plan de la noche*
-- 🚧 **Obras — el detalle, actualizado 03/08**: están **asfaltando la pista Okaukuejo–Halali–
-  Namutoni**. En 2025 el MEFT desvió el tráfico **por la carretera de Gemsbokvlakte** y cerró la
-  salida de Okaukuejo hacia Halali; en 2026 seguía habiendo bypass. Las charcas de **Nebrownii y
-  Kapupuhedi quedaron inaccesibles** por la obra. ⚠️ **No hay nota oficial posterior a 2025:
-  llama a NWR Okaukuejo (+264 67 229 800) antes de ir.**
-- ✅ **Y el desvío no es un castigo**: pasa por **Gemsbokvlakte y luego Sueda–Salvadora–Charitsaub**,
-  que es el mejor tramo de borde de la depresión para **guepardo y león**
+- 🚧 **Obras Okaukuejo–Halali–Namutoni — CONFIRMADO que te afectan (act. 03/08, ◐)**: el MEFT
+  reconstruye la pista central para asfaltarla, y ya hay **nota oficial de 2026** —«Traffic deviation
+  via Gemsbokvlakte road from Okaukuejo to Halali» *(meft.gov.na/news/335)*, con aviso paralelo de
+  NWR— que fija un **desvío OBLIGATORIO desde el 2 de junio de 2026 y hasta julio de 2027**. Tu
+  ventana de la primera quincena de noviembre **cae de lleno dentro**: da por hecho que la carretera directa
+  Okaukuejo→Halali estará **cerrada** y que irás por el bypass — no lo dejes como un «quizá».
+  *(No se pudo abrir la página oficial (403); las fechas las dan cinco fuentes secundarias que
+  concuerdan, por eso va en ◐. Confírmalo con NWR Okaukuejo **+264 67 229 800** por si hubiera
+  cambio de última hora.)*
+- 🚗 **El desvío en la práctica ◐**: desde Okaukuejo se sigue por grava hasta **~km 47** y ahí se
+  toma el **bypass nuevo y el Rhino Drive** hacia Halali. Las charcas accesibles en ese tramo se
+  reducen a **Gemsbokvlakte, Sueda y Salvadora**; **Nebrownii y Kapupuhedi quedan fuera** por la
+  obra. Recomiendan vehículo alto —tu Hilux cumple—. **No hay cifra oficial del sobrecoste en tiempo**:
+  cuéntalo despacio.
+- ✅ **Y el desvío no es un castigo**: **Gemsbokvlakte–Sueda–Salvadora** es de los mejores tramos de
+  borde de la depresión para **guepardo y león**
 - Charcas del camino · siesta en la piscina de Halali · charca de Halali al anochecer
 - 🛏️ **Camping Halali — N$920 (~€46)** ✅
 
@@ -458,7 +489,9 @@ y el safari como clímax final.
   (C34 300 km Swakopmund→Torra Bay + 50 a Terrace Bay + 30 de Walvis, fuentes convergentes) y el
   **Namutoni → Windhoek ≈ ~555–575 km** (web de Etosha NP y rome2rio). Detalle y fuentes en `13`.
 - ◐ **Km del D8 ya cerrados (03/08)** — **Terrace Bay → Twyfelfontein ≈ ~216 km** por la ruta directa
-  de Springbokwasser (96 a la puerta + 120 a Twyfelfontein; routeplanner + negativo de la C39,
-  fuentes convergentes). Solo queda ○ la cola **Twyfelfontein → Hoada (~85 km)**. Detalle y fuentes en `13`.
-- 🚧 **Las obras de Etosha** — confirmar con NWR al reservar *(afectan al D10,
-  Okaukuejo → Halali)*
+  de Springbokwasser (96 a la puerta + 120 a Twyfelfontein; routeplanner + negativo de la C39) **y la
+  cola Twyfelfontein → Hoada ≈ ~155 km** (Palmwag ~110 + ~50, o Grootberg ~130 + 25; «~2,5 h» del
+  operador), fuentes convergentes. El **D8 sube así a ~370 km**: es un día largo. El ~85 km anterior
+  quedó **refutado** (menor que la línea recta de ~95 km). Detalle y fuentes en `13`.
+- 🚧 **Las obras de Etosha** — **desvío obligatorio Okaukuejo→Halali en vigor hasta julio de 2027**
+  *(afecta al D10; detalle y fuente en ese día)*. Confírmalo con NWR al reservar.

@@ -9,7 +9,17 @@
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos · rinocerontes
 bebiendo de noche a diez metros · cuatro noches de safari en Etosha*
 
-Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 03·08·2026.
+Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 05·08·2026.
+
+</div>
+
+> ## 🛑 Antes de nada, lee esto: [**16 · Punto de decisión**](16-punto-de-decision.md)
+> El dossier planifica **el norte sin el sur, del 1 al 14 de noviembre** — pero eso **contradice dos
+> cosas que habías dado por decididas** («el sur se queda» y «finales de noviembre») y **no consta que
+> lo confirmaras tú**. **Nada está reservado aún**, así que la decisión sigue entera en tu mano. El
+> porqué, las variantes que sí respetan el sur y cómo elegir: [**`16`**](16-punto-de-decision.md).
+
+<div align="center">
 
 ### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 99 páginas
 
@@ -159,7 +169,8 @@ flowchart LR
   hace al amanecer y al atardecer, con siesta y charca iluminada de noche, que es como se hace bien
   de todas formas. El desierto **Sesriem ~32,5 °C** y la costa fresca (Benguela):
   **Swakopmund/Walvis Bay ~25 °C** de máxima en noviembre. Etosha y la costa vienen de **estación
-  NOAA**; Sesriem no tiene estación y se cerró con el **reanálisis ERA5**, validado contra estaciones *(ver [`15`](15-huecos-cerrados.md),
+  NOAA**; los puntos sin estación —**Sesriem, Spreetshoogte (~31,5) y Hoada (~33,1)**— se cerraron con
+  el **reanálisis ERA5**, validado a ±0,04 °C contra las estaciones *(ver [`15`](15-huecos-cerrados.md),
   secciones "La costa" y §ERA5)*. **Las noches, entre 12,7 °C (la costa) y 18,9 °C (Etosha)**:
   **forro polar, no plumas** — la lista completa de equipaje, en [`05`](05-equipaje.md), y la
   temperatura noche a noche en [`01`](01-itinerarios-dia-a-dia.md).
@@ -329,7 +340,7 @@ limpios · **seguro con repatriación** — es condición de entrada; pide por e
   ruta**. *Dune driving* y Sandwich Harbour, **prohibidos por contrato** — el tour guiado es el plan.
 
 Extras: enchufes **tipo M** *(2 adaptadores online — el Schuko no entra)* · **SIM de MTC** en el
-aeropuerto con pasaporte *(el kiosco cierra ~21:00)* · un **satelital con SOS** es buena compañía
+aeropuerto con pasaporte *(paquete turista «Leisure» N$349 ~€17 · 14 días · 10,1 GB ◐; el kiosco cierra ~21:00)* · un **satelital con SOS** es buena compañía
 donde no hay cobertura · la **Línea Roja**: la carne cruda no baja del norte — el braai se come en
 Etosha · los **N$ sobrantes se cambian antes de volar**.
 
@@ -402,6 +413,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 13. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad *(incluye el análisis del sur, que quedó fuera)*
 14. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
 15. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora: temperaturas de estación *(GHCN, GSOD y ERA5)*, viento, luz, vuelos, tasas y lodges
+16. 🛑 [**`16-punto-de-decision`**](16-punto-de-decision.md) — **léelo primero**: la ruta y las fechas montadas contradicen dos decisiones tuyas, y nada está reservado — la elección, devuelta a tu mano
 
 📕 Y el PDF: [**`guia-fauna-etosha.pdf`**](guia-fauna-etosha.pdf) — la guía de campo, para imprimir.
 
@@ -443,10 +455,13 @@ los blogs *(caduca antes de aterrizar — factura por año tarifario nov–oct)*
 efectivo» en gasolineras *(«credit» ahí significa «a cuenta», no «tarjeta»)*, y **todas** las
 temperaturas de las webs de safaris — rehechas con datos de estación meteorológica.
 
-> **Lo que no se pudo verificar está en blanco y dicho**: el **rack rate primario** de los lodges
-> privados sigue bloqueado (egress + anti-bot), aunque su **nivel de precio ya está dimensionado con
-> rangos de agregador** en `15` *(gama media ~€75–170/noche los 2; los rack que asoman caducan el
-> 31/10/2026, así que noviembre es año tarifario nuevo sin publicar)*; y varios campings por noche
+> **Lo que no se pudo verificar está en blanco y dicho**: la ficha propia de los lodges privados
+> sigue en **`403`** (egress + anti-bot), pero **el año tarifario del viaje —1 nov 2026 a 31 oct
+> 2027— ya está publicado** *(el «sin publicar» de antes caducó)* y en `15` hay **tarifas candidatas
+> con URL** rescatadas del índice del buscador —Damara Mopane ~N$2.970 pp B&B, Etosha Safari Camp
+> ~N$2.220–3.550/noche— **en ◐ porque no se pudo abrir la página para verificar la extracción**
+> *(una pasada llegó a colar «N$445» de puro error)*: son pistas, no precios cerrados; confírmalos
+> por email. Como referencia de gama media sigue ~€75–170/noche los 2; y varios campings por noche
 > (Spreetshoogte, Walvis, Quivertree) y las distancias de esta ruta, que se midieron para el
 > recorrido del sur. Y las tasas de parque (~N$280) las respaldan ya **dos páginas oficiales del MEFT**
 > (PDF + nota de prensa `news/199`), secundarias concordantes y ya el **Government Gazette Nº 8877 (GN
