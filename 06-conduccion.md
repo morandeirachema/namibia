@@ -453,7 +453,8 @@ de salir del patio.
 
 ## 🕳️ Lo que no se pudo verificar
 
-- **Tarifa de grúa/rescate**: nadie la publica. Pídesela a Asco por escrito.
+- **Tarifa de grúa/rescate**: nadie la publica. **Pídesela por escrito a Namibia2Go**, que es con
+  quien alquilas — el contrato de referencia solo sirve para saber que existe el cargo, no cuánto.
 - **Comportamiento del kudú y lo de los faros**: saber popular, sin fuente namibia.
 - **Que el vuelco sea «el accidente del turista»**: plausible y universalmente creído, **sin datos**.
 - **Desglose de accidentes por firme**: no existe en el NRSC.

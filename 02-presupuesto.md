@@ -50,7 +50,7 @@ gasto de la pareja en euros:
 pie showData
     title "Presupuesto total · la ruta · pareja · EUR · camping"
     "Vuelo ida y vuelta x2" : 2732
-    "Coche Namibia2Go Budget 12d" : 1800
+    "Coche Namibia2Go Budget 13d" : 1755
     "Alojamiento 13 noches" : 570
     "Combustible" : 400
     "Comida" : 280
@@ -66,20 +66,87 @@ pie showData
 
 ---
 
-## 2. El coche — cerrado y disponible ✅
+## 2. El coche — **las DOS están disponibles**, con precio en N$ ✅
 
-**Namibia2Go 4x4 Budget camping equipped double cab**: **€150,00/día × 12 días (1–13 nov) = €1.800**
-con impuestos, ✅ **disponible** al consultar. Toyota Hilux Double Cab, automático, diésel, **km
-ilimitados** y **Premium Insurance Cover** (franquicia cero) incluidos.
+> ### 🔄 Cambio importante (05/08/2026): la Comfort ya no sale «Not Available»
+> El dossier llevaba semanas diciendo «coge la Budget porque la Comfort no está libre». **Eso ya no
+> es verdad: las dos están cotizadas y disponibles**, y además el precio viene ahora **en N$ y por
+> 13 días (1 nov 08:00 → 13 nov 17:00)**, no en euros por 12. La decisión pasa de «lo que hay» a
+> «cuánto vale la diferencia».
 
-- **Total pareja: €1.800 (~N$36.000)** · **€900/persona**
-- La estimación previa para clase budget fue €1.755; el precio real €1.800 (**+2,5 %**). Se acabó el
-  rango «Namibia2Go vs Asco»: **el coche es cifra cerrada.**
+**Namibia2Go · 4x4 camping equipped double cab · 1 nov 08:00 → 13 nov 17:00 · 13 días · impuestos
+incluidos** ✅. Las dos, idénticas en lo que importa: **automático, diésel, 4 plazas, kilometraje
+ilimitado y Premium Insurance Cover** (franquicia cero).
 
-> ⚠️ **Ojo al calendario:** son **12 días de coche (1–13)** pero **13 noches (1–14)**. La noche del
-> **13 en Windhoek te quedas sin coche** → hotel y traslado al aeropuerto (contado en «alojamiento»).
-> *Alternativa: añadir el día 13 (~€150–167) y devolverlo el 14 camino del aeropuerto — puede salir
-> igual o más barato que hotel + dos traslados.*
+```mermaid
+flowchart LR
+    T["Coste del 4x4 · 13 dias · impuestos incluidos"]
+    n0["BUDGET<br/>N$2.700/dia<br/>N$35.100 · ~EUR 1.755"]
+    n1["COMFORT<br/>N$3.000/dia<br/>N$39.000 · ~EUR 1.950"]
+    T ~~~ n0
+    n0 ~~~ n1
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
+    style n0 fill:#2d6a4f,color:#fff,stroke:#2d6a4f
+```
+
+- 🚙 **BUDGET** — **N$2.700/día · N$35.100 los 13 días (~€1.755)** → **~€877,50 por persona** ✅
+- 🚙 **COMFORT** — **N$3.000/día · N$39.000 los 13 días (~€1.950)** → **~€975 por persona** ✅
+- 💶 **La diferencia son N$3.900 (~€195) los dos — ~€97,50 por cabeza**, o **N$300 (~€15) por día.**
+
+### ⚖️ Y qué compran esos N$3.900
+
+Lo único que cambia entre las dos, según la ficha del proveedor *(sin cambios respecto a lo que ya
+tenía el dossier ◐)*: la **Comfort** lleva **tiendas de techo de carcasa rígida** y **compartimentos
+de cocina a medida**; la **Budget**, **tiendas Tentco de lona** y **cajas de camping**. Todo lo
+demás —el mismo Toyota Hilux Double Cab 2.8L GD-6, el seguro, los km, las dos ruedas de repuesto y
+la nevera— es idéntico.
+
+- ⛺ **En la práctica:** la carcasa rígida se monta en **~1 minuto** frente a **~5** de la lona, y
+  aguanta mejor **polvo y viento** ○. Con **11 noches de tienda**, eso son **N$355 (~€18) por noche
+  de tienda** de sobrecoste.
+- 👉 **Cómo decidirlo, sin más vueltas:** si os importa montar y desmontar rápido con viento y polvo
+  once veces, **la Comfort cuesta ~€97 por cabeza**. Si no, **la Budget deja ese dinero para la
+  noche del chalet del charco de Okaukuejo** *(N$4.760, ~€238)* y sobra.
+
+### ⏰ El encaje con el calendario — **aquí está el problema, y es de verdad**
+
+**La cotización va del 1 de noviembre a las 08:00 al 13 a las 17:00.** Contra los vuelos que hay
+sobre la mesa, **ninguno de los dos encaja**:
+
+```mermaid
+flowchart TD
+    C["COCHE cotizado<br/>1 nov 08:00 -> 13 nov 17:00"]
+    C --> A["Con el vuelo de A CORUNA<br/>aterrizas 1 nov 13:20<br/>vuelas 14 nov 14:30"]
+    C --> B["Con el vuelo de OPORTO<br/>aterrizas 31 oct 09:25<br/>vuelas 14 nov 20:45"]
+    A --> A1["Recoges 5h20 tarde: pagas horas que no usas<br/>y el 14 te quedas SIN coche<br/>-> hotel + 2 traslados"]
+    B --> B1["El 31 de octubre ENTERO sin coche<br/>y el 14 tambien, con vuelo a las 20:45<br/>-> un dia y medio perdido"]
+    style A1 fill:#e85d04,color:#000
+    style B1 fill:#9d0208,color:#fff
+```
+
+- 🚗 **La devolución del 13 a las 17:00 sí cabe en la ruta** ✅. El D13 es **Namutoni → Windhoek,
+  ~548 km** *(medido con OSRM, ver [`13`](13-itinerario.md))*. Saliendo al abrirse la puerta de Von
+  Lindequist **a las 06:08** y contando ~6h20 de volante más paradas, estás en Windhoek sobre las
+  **13:30–14:30**: sobran **dos horas y media largas** de margen. **El horario no es el problema.**
+- ⚠️ **El problema es el día que falta al final.** Con **cualquiera** de los dos vuelos, devolver el
+  13 a las 17:00 te deja **el día 14 sin coche en Windhoek**, con vuelo a las 14:30 (A Coruña) o a
+  las **20:45** (Oporto). Eso son **hotel más dos traslados** — y con el vuelo de Oporto, **un día
+  entero de Windhoek a pie**.
+- ⚠️ **Y con el vuelo de Oporto falta también un día al principio**: aterrizas el **31 de octubre a
+  las 09:25** y el coche no empieza hasta el **1 a las 08:00**. Otra noche de hotel y otro traslado.
+
+> ### 🧾 Lo que hay que pedirle a Namibia2Go antes de reservar
+> **Vuelve a cotizar con las fechas del vuelo que elijas, no con las del dossier:**
+> - Si sale el de **A Coruña** *(1–14 nov)*: pide **1 nov 14:00 → 14 nov 12:00** — **14 días**.
+>   Sobrecoste ~**N$2.700 (~€135)** la Budget · **N$3.000 (~€150)** la Comfort.
+> - Si sale el de **Oporto** *(31 oct – 14 nov)*: pide **31 oct 11:00 → 14 nov 18:00** — **15 días**.
+>   Sobrecoste ~**N$5.400 (~€270)** la Budget · **N$6.000 (~€300)** la Comfort ⚠️, **y ojo: el 31 de
+>   octubre cae fuera de la temporada baja, que empieza el 1 de noviembre** — ese día puede ir a
+>   tarifa alta. **Pregunta el precio exacto de ese día.**
+>
+> **Compáralo con la alternativa**: hotel en Windhoek + traslado al aeropuerto ×2. Con el vuelo de
+> Oporto, alargar el coche gana casi seguro; con el de A Coruña, está más ajustado. **❌ El precio
+> del traslado aeropuerto–Windhoek no está cotizado**, y son ~45 km.
 
 > ⚠️ **La web NO sirve para este precio:** publica N$2.910/día «temporada baja», pero esa banda es
 > **«01 Nov 2025 – 30 Jun 2026»** y **caduca antes del viaje**; la siguiente que enseña es la alta de
@@ -364,6 +431,103 @@ alquiler (1–14 nov, **13 días**) entra entero en la **temporada baja de Namib
 
 ---
 
+## 8-bis. El candidato de Oporto — **mejor viaje por el mismo dinero, pero mueve tres cosas** ◐
+
+> ### Lo que estás mirando (captura del buscador, 05/08/2026)
+> **Oporto → Windhoek, 30 oct – 14 nov · €1.341 por persona · Lufthansa, parcialmente operado por
+> Discover Airlines · una sola escala en cada sentido.** Vendido por **eDreams**, no por la
+> compañía. En la misma búsqueda salían **586 resultados**, con la opción **más barata en €1.026**
+> *(21h33)* y la **más rápida en €1.462** *(16h08)*.
+
+```mermaid
+flowchart LR
+    subgraph IDA["IDA · vie 30 oct · 15h15 · 1 escala"]
+        I1["OPO 16:10"] --> I2["FRA<br/>Fráncfort"]
+        I2 --> I3["WDH 9:25+1<br/>31 DE OCTUBRE"]
+    end
+    style I3 fill:#2d6a4f,color:#fff
+```
+
+```mermaid
+flowchart LR
+    subgraph VUELTA["VUELTA · sab 14 nov · 18h05 · 1 escala"]
+        V1["WDH 20:45"] --> V2["MUC<br/>Munich"]
+        V2 --> V3["OPO 12:50+1<br/>15 DE NOVIEMBRE"]
+    end
+    style V3 fill:#2d6a4f,color:#fff
+```
+
+### ⚖️ Cara a cara con el de A Coruña
+
+```mermaid
+flowchart LR
+    T["Horas de vuelo ida + vuelta"]
+    n0["OPORTO<br/>33 h 20"]
+    n1["A CORUNA<br/>46 h 00"]
+    T ~~~ n0
+    n0 ~~~ n1
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
+    style n0 fill:#2d6a4f,color:#fff,stroke:#2d6a4f
+    style n1 fill:#9d0208,color:#fff,stroke:#9d0208
+```
+
+- 💶 **Dinero: empate.** €1.341 frente a €1.366 son **€25 menos por persona** — pero hay que sumarle
+  el traslado a Oporto ida y vuelta *(ver abajo)*, así que en el bolsillo **se queda igual o algo
+  peor**. **El vuelo no se elige aquí por precio.**
+- ⏱️ **Tiempo: gana Oporto, y no de poco.** **12h40 menos de viaje en total.** La diferencia gorda
+  está en la vuelta: **18h05 frente a 26h40** — te ahorras **8h35 y dos escalas**, incluida la
+  salida de Adís a las 0:05 y las 4h10 muertas en Madrid.
+- 🧳 **Riesgo de conexión: gana Oporto.** Una escala por sentido y **todo dentro del grupo
+  Lufthansa** *(Lufthansa + Discover)*, en vez de **tres compañías distintas** en la vuelta
+  (Ethiopian + ITA + Air Europa). Menos manos, menos costuras.
+- 🩺 **Fiebre amarilla: sigue sin hacer falta.** Fráncfort y Múnich **no son zona de riesgo** — el
+  dossier ya los tenía marcados como limpios. Con este itinerario el asunto **desaparece**, en vez
+  de resolverse por los pelos con escalas cortas en Adís.
+- 🚌 **Y el precio de todo esto: Oporto está a ~270 km de casa.** Hay autobús directo
+  **A Coruña → terminal del aeropuerto Francisco Sá Carneiro** con ALSA y FlixBus, **~3h43 y desde
+  ~17 €/persona** ◐. Con salida a las 16:10, el bus de la mañana llega con margen. A la vuelta
+  aterrizas a las **12:50 del día 15** y todavía quedan ~4 h hasta casa.
+
+### 🗓️ Ganas un día entero en Namibia — y eso toca tres cosas
+
+**Aterrizas el 31 de octubre a las 09:25 en vez del 1 de noviembre a las 13:20: son 15 días de
+suelo en vez de 14, y con la mañana entera del primero.** Antes de decidir, comprueba estas tres:
+
+1. ⚠️ **El seguro se queda corto por un día.** La póliza del dossier es **IATI Estrella del 31/10 al
+   15/11** *(€113,02 p.p.)*. Con salida el **30 de octubre**, hay que **adelantar el inicio al 30** o
+   el primer vuelo va sin cobertura. Es un cambio menor de precio, pero **hay que hacerlo antes de
+   pagar el vuelo**.
+2. ⚠️ **El coche pilla un día en tarifa vieja.** **Namibia2Go entra en temporada baja el 1 de
+   noviembre** ✅. Recogiendo el **31 de octubre** ese primer día cae en el tramo caro, y el alquiler
+   pasa de **12 a 14 días**. **Pídeles el precio exacto de la recogida del 31** — puede que compense
+   recogerlo el 1 y pasar la primera noche en Windhoek sin coche.
+3. ✅ **Las noches de NWR no se tocan.** La noche del 31 es en **Windhoek**, que no es NWR: **todas
+   las noches de parque siguen cayendo del 1 de noviembre en adelante**, en tramo barato. El
+   calendario aguanta.
+
+> ### 🧾 El veredicto
+> **Es mejor viaje por el mismo dinero: media jornada menos de aviones, una escala en vez de tres y
+> un día más de Namibia.** El coste no es económico, es logístico: **un traslado de ~4 h a Oporto en
+> cada punta**, mover el seguro un día y renegociar el primer día de coche.
+>
+> **Antes de pagar, tres comprobaciones que en este caso importan más de lo normal** ⚠️:
+> 1. **Maleta facturada incluida.** Lufthansa vende **Economy Light sin maleta**, y en un buscador
+>    eso no siempre se ve. Con dos semanas de camping, **no es opcional**.
+> 2. **Billete único.** Aquí es fácil —todo es grupo Lufthansa—, pero **confírmalo en el localizador**.
+> 3. **Que lo vende eDreams**, no Lufthansa. Mira el precio final con maleta y equipaje en la web de
+>    **Lufthansa directamente**: si la diferencia es pequeña, comprar en la compañía te ahorra el
+>    intermediario cuando algo se tuerce. ⚠️ **Y ábrele la ficha al de €1.026** antes de cerrar: son
+>    **€315 menos por persona — €630 la pareja**, y el propio buscador le pone **21h33 de media**
+>    frente a las 16h40 de la «mejor opción». Son medias del buscador, no de un itinerario
+>    concreto ◐: **mira el itinerario real antes de descartarlo**, porque €630 pagan las cuatro
+>    noches de Etosha y el combustible del viaje entero.
+
+*Fuentes del traslado: [ALSA — A Coruña ↔ Oporto](https://www.alsa.com/en/coach/a-coruna-porto) ·
+[FlixBus — A Coruña → aeropuerto de Oporto](https://www.flixbus.es/rutas/la-coruna-aeropuerto-de-oporto-francisco-sa-carneiro)
+· horarios y precios **sin cotizar para tus fechas** ❌.*
+
+---
+
 ---
 
 ## 9. Comida, actividades y misceláneos ○
@@ -430,7 +594,7 @@ flowchart LR
 
 **Desglose por persona (escenario camping):**
 - ✈️ Vuelo **€1.366** ✅
-- 🚙 Coche **€900** ✅ *(mitad de €1.800)*
+- 🚙 Coche **~€877,50** ✅ *(mitad de N$35.100 · ~€1.755, la Budget 13 días)* — **~€975 si es la Comfort** *(N$39.000)*
 - ⛺ Alojamiento **~€285** *(€159 verificado + ~€126 estimado)*
 - ⛽ Combustible **~€200** ○/◐
 - 🍖 Comida **~€140** ○
@@ -440,14 +604,19 @@ flowchart LR
 - 🎯 Actividades **~€38** ○
 - 🧷 Misceláneos **~€75** ○
 
-> ### **TOTAL POR PERSONA: ~€3.306 (~N$66.000)**
-> ### **TOTAL LA PAREJA: ~€6.612 (~N$132.000)**
-> Rango honesto: **€3.150–3.450 por persona** — el margen (±~€145) está casi todo en las 7 noches sin
+> ### **TOTAL POR PERSONA: ~€3.284 (~N$65.700)** *con la Budget y el vuelo de A Coruña*
+> ### **TOTAL LA PAREJA: ~€6.567 (~N$131.300)**
+> Rango honesto: **€3.130–3.430 por persona** — el margen (±~€145) está casi todo en las 7 noches sin
 > precio, el combustible, la comida y los misceláneos.
+>
+> **Las dos decisiones abiertas mueven el total así** *(ver §2 y §8-bis)*:
+> **+€97,50 p.p.** si sale la **Comfort** en vez de la Budget · **−€25 p.p.** si sale el vuelo de
+> **Oporto**, pero con **+~€135–270** de coche extra la pareja por los días que faltan y el traslado
+> a Oporto. **Ninguna de las dos cambia el orden de magnitud.**
 
 **Qué parte de este número es sólida:**
-- **✅ Duro — €2.618 de los €3.306 (79 %)**: vuelo €1.366 · coche €900 · 6 noches NWR €159 · seguro
-  €113 · visado €80.
+- **✅ Duro — €2.596 de los €3.284 (79 %)**: vuelo €1.366 · coche €877,50 · 6 noches NWR €159 ·
+  seguro €113 · visado €80.
 - **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto está en fuente secundaria; el ministerio
   aún publica la tabla vieja. **Confírmalo por email.**
 - **○ Estimado — ~€578/persona**: 7 noches sin precio (~€126), combustible (~€200), comida (~€140),
@@ -459,7 +628,7 @@ El coche duerme y sienta a más de dos: **ficha verificada ✅ — 5 plazas y 2 
 4 personas**. Lo único que de verdad se reparte es el coche y su gasoil; casi todo lo demás va
 por cabeza:
 
-- **Se reparte (fijo del grupo)**: coche **€1.800 (~N$36.000)** + combustible **~€400 (~N$8.000)** +
+- **Se reparte (fijo del grupo)**: coche **N$35.100 (~€1.755)** la Budget *(N$39.000 · ~€1.950 la Comfort)* + combustible **~€400 (~N$8.000)** +
   el vehículo en las tasas (7 × N$60 = **N$420 · ~€21**) → **~€2.221 (~N$44.420)** entre los que vayáis
 - **Va por cabeza**: vuelo €1.366 · alojamiento ~€285 *(el camping NWR se cobra POR PERSONA ✅:
   Sesriem N$670/pax, Etosha N$460/pax)* · comida ~€140 · tasas de persona 7 × N$280 = **N$1.960
@@ -468,7 +637,7 @@ por cabeza:
 ```mermaid
 flowchart LR
     T["Total por persona segun cuantos vais<br/>EUR · camping"]
-    n0["2 personas<br/>3.306"]
+    n0["2 personas<br/>3.284"]
     n1["3 personas<br/>2.935"]
     n2["4 personas<br/>2.750"]
     T ~~~ n0
@@ -477,7 +646,7 @@ flowchart LR
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
-- **2 personas** — **~€3.306 (~N$66.000)/persona** · grupo ~€6.612 (~N$132.000)
+- **2 personas** — **~€3.284 (~N$65.700)/persona** · grupo ~€6.567 (~N$131.300)
 - **3 personas** — **~€2.935 (~N$58.700)/persona** · grupo ~€8.806 (~N$176.000) → *ahorra
   ~€371/persona (−11 %) respecto a ir dos*
 - **4 personas** — **~€2.750 (~N$55.000)/persona** · grupo ~€11.001 (~N$220.000) → *ahorra
@@ -499,7 +668,7 @@ flowchart LR
 
 ## 11. Qué parte de este número es sólida
 
-- **✅ Duro — €2.618 de los €3.306 (79 %)**: vuelo €1.366 · coche €900 · las 6 noches de NWR €159 ·
+- **✅ Duro — €2.596 de los €3.284 (79 %)**: vuelo €1.366 · coche €877,50 · las 6 noches de NWR €159 ·
   seguro €113 · visado €80. Todo con precio real para las fechas exactas.
 - **◐ Corroborado — ~€109**: las tasas de parque. El N$280/adulto se apoya en la gaceta localizada y
   en secundarias concordantes, pero **el PDF primario del MEFT sigue sin abrirse**.
