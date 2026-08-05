@@ -198,8 +198,9 @@ flowchart LR
 
 </div>
 
-> # €1.341 por persona el vuelo · €113,02 el seguro
+> # €1.450 por persona el vuelo · €113,02 el seguro
 > ### ⚠️ Precio cotizado el 05·08·2026 — **ningún billete está emitido todavía**
+> ### *El buscador lo anuncia en €1.341 y sube a €1.450 al cerrar: el bueno es el segundo* *(ver [`02` §8](02-presupuesto.md))*
 > ### **Oporto → Windhoek, 30 oct – 14 nov** · Lufthansa *(parcialmente Discover Airlines)*
 
 - ✈️ **Ida** vie 30 oct, **una sola escala en Fráncfort**: 15h15 y **aterrizas el 31 de octubre a

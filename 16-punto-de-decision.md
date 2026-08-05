@@ -141,11 +141,11 @@ Esto es importante y el propio dossier se contradecía: **no consta hecha ningun
 - ✈️ El vuelo tiene **precio real cotizado (€1.450 p.p. ◐, Oporto → Windhoek, 30 oct – 14 nov)**
   pero **no consta emitido** *(`15`; `04`
   todavía lo lista como pendiente)*. Sin billete no hay e-visa.
-- ✈️ **Y el 05/08 apareció un candidato distinto, que además mueve las fechas** ◐: **Oporto →
-  Windhoek con Lufthansa, 30 oct – 14 nov, €1.341 p.p.**, una escala por sentido y **12h40 menos de
-  avión** que el de A Coruña. **Aterriza el 31 de octubre**, así que da **un día más de suelo** —
-  y obliga a adelantar el seguro un día y a renegociar el primer día de coche.
-  **El desglose está en [`02` §8-bis](02-presupuesto.md).** Ojo: **esto se cruza con la decisión de
+- ✈️ **Ese vuelo es el de Oporto, y trae cola** ◐: **Lufthansa, 30 oct – 14 nov**, una escala por
+  sentido y **12h40 menos de avión** que el de A Coruña. **Aterriza el 31 de octubre**, así que da
+  **un día más de suelo** — y obliga a adelantar el seguro un día y a renegociar el primer día de
+  coche. *(El buscador lo anuncia en €1.341; el precio real al cerrar es el de arriba.)*
+  **El desglose está en [`02` §8](02-presupuesto.md).** Ojo: **esto se cruza con la decisión de
   fechas de abajo** — un día más no da para el sur, pero sí cambia el arranque.
 
 > **Conclusión:** como no hay nada reservado, **el coste de cambiar de variante ahora es cero.** Este
