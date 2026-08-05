@@ -336,7 +336,7 @@ limpios · **seguro con repatriación** — es condición de entrada; pide por e
   ruta**. *Dune driving* y Sandwich Harbour, **prohibidos por contrato** — el tour guiado es el plan.
 
 Extras: enchufes **tipo M** *(2 adaptadores online — el Schuko no entra)* · **SIM de MTC** en el
-aeropuerto con pasaporte *(el kiosco cierra ~21:00)* · un **satelital con SOS** es buena compañía
+aeropuerto con pasaporte *(paquete turista «Leisure» N$349 ~€17 · 14 días · 10,1 GB ◐; el kiosco cierra ~21:00)* · un **satelital con SOS** es buena compañía
 donde no hay cobertura · la **Línea Roja**: la carne cruda no baja del norte — el braai se come en
 Etosha · los **N$ sobrantes se cambian antes de volar**.
 

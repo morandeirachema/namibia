@@ -195,11 +195,15 @@ Fuente: https://blog.tracks4africa.co.za/veterinary-fences-in-namibia-and-botswa
 barata pero con cobertura **notablemente peor** fuera de los pueblos.
 👉 **Para un self-drive, MTC es la elección correcta, y no está reñido.**
 
-- **SIM prepago MTC** con bono turista **«Aweh»** — **~N$100–200 (~€5–10)** por ~5–10 GB semanales,
-  mucho más barato por GB que una eSIM de viaje
-- **Dónde**: kiosco de MTC en el **aeropuerto Hosea Kutako** *(cierra ~21:00 — si tu vuelo llega
-  tarde, ahí no la coges)*; en Windhoek: **Maerua Mall**, **Wernhil Park**, o supermercados
-  **Pick n Pay / OK**
+- **SIM turista MTC — el «Leisure»**: **N$349 (~€17)** por **14 días** con **10,1 GB** de datos, más
+  N$65 de llamadas y SMS internacionales — **justo la duración de este viaje** ◐. El hermano mayor
+  **«Premium»**: **N$659 (~€33)** por **30 días** y **20,1 GB** (+N$125 internacional). Muchísimo más
+  barato por GB que una eSIM de viaje.
+- **Dónde**: los paquetes turistas **se venden solo en la tienda MTC del aeropuerto Hosea Kutako**
+  *(kiosco cerca del mostrador de equipaje perdido, antes de la salida de llegadas; cierra ~21:00 —
+  si tu vuelo llega tarde, ahí no lo coges)*. En Windhoek —**Maerua Mall**, **Wernhil Park**,
+  supermercados **Pick n Pay / OK**— se compra una **SIM prepago normal** y se le cargan bonos de
+  datos **«Aweh»** (los N$100–200/semana de siempre), que sirve igual si no cogiste el paquete turista.
 - 🛂 **El registro de la SIM es OBLIGATORIO** por normativa CRAN (en vigor desde el 1/01/2023): hay
   que registrarla **en persona con el PASAPORTE**. Tarda ~10–15 min y es gratis.
   **Ya no hacen falta biométricos.**
@@ -207,9 +211,14 @@ barata pero con cobertura **notablemente peor** fuera de los pueblos.
   extranjero** — no des por hecho que sirve para visitantes. Airalo y similares sí funcionan y se
   activan antes de aterrizar, con sobreprecio.
 
-> ⚠️ **Hueco honesto:** **no se pudieron verificar** los precios actuales de los bonos turistas de
-> MTC ni el de la eSIM directamente (su web de eSIM falló la verificación TLS y las páginas de
-> prepago no respondían). **Los N$100–200 son orientativos.**
+> ◐ **Cómo están sacados estos precios:** las páginas de MTC no se dejan **abrir** desde este entorno
+> (403 / TLS), pero las cifras del paquete turista **convergen** entre la propia página de MTC
+> [`mtc.com.na/tourist-package`](https://www.mtc.com.na/tourist-package), su
+> [PDF de términos y condiciones](https://www.mtc.com.na/uploads/downloads/MTC_Namibia_Tourist_and_Visitors_package_Terms_and_Conditions.pdf)
+> y un blog independiente ([namibian.org / Safari2Go](https://namibian.org/blog/namibian-sim-card-especially-for-holidaymakers)),
+> y son **internamente coherentes** (14 días ↔ 10,1 GB; 30 días ↔ 20,1 GB). Van en ◐ porque no se
+> pudo verificar la extracción abriendo la página. Los bonos **«Aweh»** de recarga (N$100–200) siguen
+> siendo orientativos. **Reconfírmalo en el kiosco al aterrizar.**
 
 ### 🔇 Dónde NO hay señal — planifica silencio de verdad
 
@@ -413,7 +422,9 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
 - **El surtidor de Terrace Bay**: existe físicamente ◐ pero NWR no lo publicita y se secó en 2025
   — **trátalo como que NO** y llena en Henties Bay (detalle estación a estación: `08`)
 - **Los km reales del eje de la costa y Damaraland** (D7–D9): solo estimaciones de `01`
-- **Precios actuales de los bonos turistas de MTC** y de la eSIM: sus páginas no respondían
+- ~~**Precios actuales de los bonos turistas de MTC**~~ **cerrados ◐ (05/08)**: paquete «Leisure»
+  **N$349/14 días/10,1 GB** y «Premium» **N$659/30 días/20,1 GB**, convergentes entre la web de MTC,
+  su PDF de T&C y un blog independiente (ver §Cobertura). El precio de la **eSIM** sigue sin cerrar
 - **Disponibilidad de combustible dentro de los campamentos de parques**: reportes sin confirmar
 - **La matriz de distancias es de 2010**: verificar contra Tracks4Africa
 - **La lista de emergencias es de febrero de 2024**: verificar al llegar
