@@ -9,7 +9,17 @@
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos · rinocerontes
 bebiendo de noche a diez metros · cuatro noches de safari en Etosha*
 
-Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 03·08·2026.
+Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 05·08·2026.
+
+</div>
+
+> ## 🛑 Antes de nada, lee esto: [**16 · Punto de decisión**](16-punto-de-decision.md)
+> El dossier planifica **el norte sin el sur, del 1 al 14 de noviembre** — pero eso **contradice dos
+> cosas que habías dado por decididas** («el sur se queda» y «finales de noviembre») y **no consta que
+> lo confirmaras tú**. **Nada está reservado aún**, así que la decisión sigue entera en tu mano. El
+> porqué, las variantes que sí respetan el sur y cómo elegir: [**`16`**](16-punto-de-decision.md).
+
+<div align="center">
 
 ### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 99 páginas
 
@@ -409,6 +419,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 13. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad *(incluye el análisis del sur, que quedó fuera)*
 14. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
 15. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora: temperaturas de estación *(GHCN, GSOD y ERA5)*, viento, luz, vuelos, tasas y lodges
+16. 🛑 [**`16-punto-de-decision`**](16-punto-de-decision.md) — **léelo primero**: la ruta y las fechas montadas contradicen dos decisiones tuyas, y nada está reservado — la elección, devuelta a tu mano
 
 📕 Y el PDF: [**`guia-fauna-etosha.pdf`**](guia-fauna-etosha.pdf) — la guía de campo, para imprimir.
 

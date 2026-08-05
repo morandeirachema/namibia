@@ -11,12 +11,13 @@
 
 > ## 📐 Para qué sirve este documento
 > Es la **aritmética de la ruta**: a qué velocidad se puede planificar de verdad en Namibia, cuánto
-> mide cada etapa y cuánto se tarda en ella. No propone rutas —esa decisión ya está tomada, y está
-> en `01`—: **comprueba que la elegida cabe**. Y **no infla nada para complacer**: donde un número
-> es una estimación lo dice, y donde una etapa no cabría, también.
+> mide cada etapa y cuánto se tarda en ella. Comprueba que la ruta del norte cabe, y **no infla nada
+> para complacer**: donde un número es una estimación lo dice, y donde una etapa no cabría, también.
 >
-> *El análisis del sur y de las variantes descartadas se retiró el 03/08/2026 para dejar solo la
-> ruta del viaje. Queda en el historial de git.*
+> ⚠️ **Pero esa ruta está SIN confirmar por ti.** La del norte (Variante E) contradice tu «el sur se
+> queda»; las variantes que sí lo respetan se retiraron de aquí el 03/08 y **están en el historial de
+> git** *(`git show d0320c3^:13-itinerario.md`)*. El análisis honesto que pediste —las 3 variantes y
+> esta decisión devuelta a tu mano— está en [`16`](16-punto-de-decision.md). **Léelo primero.**
 
 ---
 
