@@ -21,7 +21,7 @@ Todo verificado contra fuentes primarias. Precios en N$ y €. Actualizado 05·0
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 61 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 89 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -410,23 +410,24 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 
 4. 📅 [**`04-guia-preparacion`**](04-guia-preparacion.md) — la cuenta atrás, el e-visa, las vacunas y los plazos que vencen
 5. 🎒 [**`05-equipaje`**](05-equipaje.md) — el petate que dictan los datos: qué llevar, qué dejar y los tres micro-kits
+6. ✅ [**`17-lista-de-equipaje`**](17-lista-de-equipaje.md) — **la lista de la víspera**, ítem a ítem y con casilla: ropa, neceser, botiquín, electrónica y kits
 
 **🧭 En ruta — lo que se consulta con el coche en marcha**
 
-6. 🚙 [**`06-conduccion`**](06-conduccion.md) — el vuelco, el contrato, las presiones, la arena y las puertas de Sesriem
-7. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
-8. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
-9. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 83 especies con foto, y dónde y cuándo verlas
-10. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
-11. 📍 [**`11-lista-google-maps`**](11-lista-google-maps.md) — tus 34 pines, medidos y triados
+7. 🚙 [**`06-conduccion`**](06-conduccion.md) — el vuelco, el contrato, las presiones, la arena y las puertas de Sesriem
+8. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
+9. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
+10. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 83 especies con foto, y dónde y cuándo verlas
+11. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
+12. 📍 [**`11-lista-google-maps`**](11-lista-google-maps.md) — tus 34 pines, medidos y triados
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**
 
-12. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
-13. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad *(incluye el análisis del sur, que quedó fuera)*
-14. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
-15. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora: temperaturas de estación *(GHCN, GSOD y ERA5)*, viento, luz, vuelos, tasas y lodges
-16. 🛑 [**`16-punto-de-decision`**](16-punto-de-decision.md) — **léelo primero**: la ruta y las fechas montadas contradicen dos decisiones tuyas, y nada está reservado — la elección, devuelta a tu mano
+13. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
+14. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad *(incluye el análisis del sur, que quedó fuera)*
+15. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
+16. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora: temperaturas de estación *(GHCN, GSOD y ERA5)*, viento, luz, vuelos, tasas y lodges
+17. 🛑 [**`16-punto-de-decision`**](16-punto-de-decision.md) — **léelo primero**: la ruta y las fechas montadas contradicen dos decisiones tuyas, y nada está reservado — la elección, devuelta a tu mano
 
 📕 Y el PDF: [**`guia-fauna-etosha.pdf`**](guia-fauna-etosha.pdf) — la guía de campo, para imprimir.
 
