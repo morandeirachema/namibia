@@ -70,14 +70,67 @@ PLENAS = {
                              "tres campamentos y una charca iluminada en cada uno."),
 }
 
-# El 16 no es un documento mas: es el aviso de que el dossier se desvio de dos
-# decisiones del viajero. Va delante de todo, justo detras del indice.
-DESTACADO = "16"
+# ---------------------------------------------------------------------------
+# Que NO entra en el PDF
+# ---------------------------------------------------------------------------
+# El PDF es el documento del viaje: solo lleva datos de la ruta que se va a hacer.
+# La deliberacion —por que esta ruta y no otra, por que el sur se queda fuera, que
+# variantes se estudiaron— es material de trabajo: sigue entera en los .md del repo
+# y en el historial de git, pero no en el volumen que se imprime y se lleva en el
+# coche. Ahi solo estorba.
+
+FUERA_DEL_PDF = {"16"}          # documentos completos que no entran
+
+# Secciones que se caen, por un trozo de su titulo. Se lleva por delante la seccion
+# entera: el encabezado y todo lo que cuelga de el hasta el siguiente del mismo nivel.
+SECCIONES_FUERA = {
+    "RM": ["¿Etosha al principio o al final?",
+           "Tus 34 pines, en una línea"],
+    "01": ["En qué se diferencia del blog",
+           "Lo que queda fuera",
+           "Por qué esta ruta y no otra"],
+    "12": ["El precipicio de precio de noviembre"],
+    "11": ["Kaokoland (Epupa + Opuwo)",
+           "El este (Tsumkwe + Harnas)",
+           "Los que resultaron ser LUJO",
+           "Y lo que quedó fuera de tus 34 pines"],
+}
+
+# Frases sueltas que remiten al material de trabajo (la lista de pines de Google Maps,
+# las variantes descartadas) y que no justifican tirar el bloque entero donde viven.
+# En el PDF el coche es Namibia2Go y punto: fuera las comparativas de precio con
+# otras companias. OJO: en `06` los nombres se quedan a proposito — esas clausulas
+# salen del contrato PUBLICADO de otra empresa porque el de Namibia2Go no es publico,
+# y borrar la atribucion las haria parecer verificadas contra tu propio contrato.
+# Son expresiones regulares porque el texto llega ya en HTML, con sus <em> y <strong>.
+REEMPLAZOS = [
+    (r"\s*<em>\(Asco, descartada[^<]*\)</em>", ""),
+    (r"\s*<em>\(Asco no lo hace hasta el 15\)</em>", ""),
+    (r"niveles bajos de <strong>Asco</strong> \(la referencia descartada\)",
+     "los niveles bajos de un contrato de referencia del sector"),
+    (r"contratos de <strong>Asco/Savanna</strong>", "los contratos de alquiler descargados"),
+    (r"contratos Asco/Savanna, ya descargados", "contratos de alquiler ya descargados"),
+    (r"Asco/Savanna ya descargados", "contratos de alquiler ya descargados"),
+    (r"no se investiga si Asco autoriza el cruce",
+     "no se investiga si el contrato autoriza el cruce"),
+    (r"y, al final, qué quedó fuera de tus 34 pines de Google Maps y por qué\.",
+     "Cada cifra, con su fuente y su marca."),
+    (r"— tus 34 pines, medidos y triados", "— lo que cuesta entrar en cada sitio"),
+    (r"\(tu pin, reserva privada", "(reserva privada"),
+    (r"tus 34 pines", "los sitios de la ruta"),
+]
+
+# Avisos sueltos que son deliberacion, no dato. Se busca el trozo dentro del bloque.
+AVISOS_FUERA = [
+    "PENDIENTE de tu confirmación",
+    "Decisiones del viajero, en orden",
+    "¿Etosha al principio o al final?",
+    "Punto de decisión",
+    "está SIN confirmar por ti",
+    "contradice tu",
+]
 
 RESUMEN = {
-    "16": "El dossier planifica el norte sin el sur y del 1 al 14 de noviembre, y eso "
-          "contradice dos decisiones que dabas por cerradas. Nada está reservado: la "
-          "decisión sigue entera en tu mano.",
     "01": "La ruta desarrollada día por día: qué se conduce, a qué hora sale y se pone el sol, "
           "qué temperatura hace donde se duerme y qué cuesta cada noche.",
     "02": "El total partida a partida, lo que ya está cerrado con precio real y lo que sigue "
@@ -90,7 +143,7 @@ RESUMEN = {
     "08": "El súper parada a parada, la ley del alcohol, dónde comer y la aduana.",
     "09": "Cómo funciona el safari en seco, y la guía de campo de 83 especies.",
     "10": "Los Lone Stone Men, la cascada del Uniab, los círculos de hadas.",
-    "11": "Lo que cuesta entrar en cada sitio, y qué quedó fuera de la lista de pines.",
+    "11": "Lo que cuesta entrar en cada sitio de la ruta, los permisos y la norma de drones.",
     "12": "Lo que superó la verificación a tres votos, y lo que quedó refutado.",
     "13": "Distancias, firme y viabilidad — con el contraste de OSRM.",
     "14": "Cinco temporadas de lluvia en Etosha, milímetro a milímetro.",
@@ -98,13 +151,15 @@ RESUMEN = {
 }
 
 
-def documentos(con_destacado=True):
-    todos = sorted(f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
-    return todos if con_destacado else [f for f in todos if num(f) != DESTACADO]
+def miles(n, sufijo=" km"):
+    """2728 -> «2.728 km». Punto de millar, que es lo que se usa en castellano."""
+    return f"{n:,.0f}".replace(",", ".") + sufijo
 
 
-def fichero_de(n):
-    return next(f for f in documentos() if num(f) == n)
+def documentos():
+    """Los documentos que entran en el PDF, en orden."""
+    return sorted(f for f in os.listdir(RAIZ)
+                  if re.match(r"\d\d-.*\.md$", f) and num(f) not in FUERA_DEL_PDF)
 
 
 def num(fich):
@@ -143,6 +198,50 @@ def a_html(texto, doc=None):
         h = re.sub(r"<code>(\d\d)</code>",
                    lambda m: f'<a href="#doc-{m.group(1)}"><code>{m.group(1)}</code></a>', h)
     return h
+
+
+def _texto(html):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html)).strip()
+
+
+def poda(cuerpo, doc):
+    """Quita del HTML las secciones y avisos que no son datos de la ruta.
+
+    Trabaja sobre el HTML ya renderizado y no sobre el Markdown: los documentos del
+    repo se quedan enteros —en GitHub la deliberacion si vale—, y es solo el volumen
+    impreso el que sale limpio.
+    """
+    titulos = SECCIONES_FUERA.get(doc, [])
+
+    # 1 · secciones enteras: del encabezado hasta el siguiente del mismo nivel o superior
+    if titulos:
+        trozos = re.split(r"(<h[1-4]>)", cuerpo)
+        salida, i, saltando, nivel_corte = [trozos[0]], 1, False, 9
+        while i < len(trozos) - 1:
+            etiqueta, contenido = trozos[i], trozos[i + 1]
+            nivel = int(etiqueta[2])
+            titulo = _texto(contenido.split("</h")[0])
+            if saltando and nivel <= nivel_corte:
+                saltando = False
+            if not saltando and any(t.lower() in titulo.lower() for t in titulos):
+                saltando, nivel_corte = True, nivel
+            if not saltando:
+                salida.append(etiqueta + contenido)
+            i += 2
+        cuerpo = "".join(salida)
+
+    # 2 · avisos sueltos: el <blockquote> entero si contiene la frase
+    for aguja in AVISOS_FUERA:
+        cuerpo = re.sub(r"<blockquote>(?:(?!</blockquote>).)*?</blockquote>",
+                        lambda m: "" if aguja.lower() in _texto(m.group(0)).lower() else m.group(0),
+                        cuerpo, flags=re.S)
+
+    # 3 · frases sueltas que remiten al material de trabajo o a otra compania
+    for patron, nuevo in REEMPLAZOS:
+        cuerpo = re.sub(patron, nuevo, cuerpo)
+
+    # 4 · los separadores <hr> que se quedan pegados de dos en dos
+    return re.sub(r"(?:<hr\s*/?>\s*){2,}", "<hr>", cuerpo)
 
 
 def reparte_fotos(cuerpo, slugs):
@@ -221,7 +320,7 @@ def ancla(doc):
 
 def indice(paginas):
     grupos, actual = [], None
-    for f in documentos(con_destacado=False):
+    for f in documentos():
         n = num(f)
         for b in BLOQUES:
             if b["desde"] == n:
@@ -243,8 +342,7 @@ def indice(paginas):
         filas.append("</ol>")
 
     extra = []
-    for clave, nombre in [("doc" + DESTACADO, "Punto de decisión — léelo antes que nada"),
-                          ("mapas", "Los mapas: la ruta y las charcas de Etosha"),
+    for clave, nombre in [("mapas", "Los mapas: la ruta y las charcas de Etosha"),
                           ("presentacion", "El viaje de un vistazo"),
                           ("fauna", "La guía de campo va aparte — 83 especies con foto"),
                           ("creditos", "Créditos de las fotografías")]:
@@ -255,9 +353,9 @@ def indice(paginas):
     return f"""
 <section class="indice" id="indice">
   <h1>Qué hay aquí dentro</h1>
-  <div class="grupo">Antes de empezar</div><ol>{"".join(extra[:3])}</ol>
+  <div class="grupo">Antes de empezar</div><ol>{"".join(extra[:2])}</ol>
   {"".join(filas)}
-  <div class="grupo">Al final</div><ol>{"".join(extra[3:])}</ol>
+  <div class="grupo">Al final</div><ol>{"".join(extra[2:])}</ol>
   <p class="nota">Los documentos van numerados por <b>el momento en que se usan</b>, no por el
   orden en que se investigaron: primero la ruta y el dinero, luego lo que hay que preparar en
   casa, después lo que se consulta con el coche en marcha, y al final el respaldo de por qué
@@ -278,10 +376,11 @@ def paginas_de_mapas():
         duerme = trazado.PUNTOS[e["duerme"]][2] if e["duerme"] else "—"
         color = trazado.COLOR_BLOQUE[e["bloque"]]
         filas.append(
-            f'<tr><td class="dia"><span class="pip" style="background:{color}"></span>'
-            f'{e["id"]}</td><td class="fec">{e["fecha"]}</td><td>{e["titulo"]}</td>'
-            f'<td class="km">{"—" if not km else f"{km:.0f} km"}</td>'
-            f'<td class="dor">{duerme}</td></tr>')
+            f'<li><span class="dia" style="border-color:{color}">{e["id"]}</span>'
+            f'<span class="fec">{e["fecha"]}</span>'
+            f'<span class="etapa">{e["titulo"]}</span>'
+            f'<span class="km">{"—" if not km else miles(km)}</span>'
+            f'<span class="dor">{duerme}</span></li>')
     total = sum(d.get("km") or 0 for d in datos.values())
 
     return f"""
@@ -290,20 +389,22 @@ def paginas_de_mapas():
   <div class="mapa">{mapa.mapa_ruta()}
     <figcaption>Trazado real de carretera, calculado con <b>OSRM</b> sobre OpenStreetMap a
     partir de las coordenadas de cada parada. Los contornos son de <b>Natural Earth</b>
-    (dominio público). La suma de las catorce etapas da <b>{total:.0f} km</b>, que cuadra con
+    (dominio público). La suma de las catorce etapas da <b>{miles(total)}</b>, que cuadra con
     los ~2.600 km medidos aparte en <a href="#doc-13"><code>13</code></a>.</figcaption>
   </div>
 </section>
 
 <section class="mapa-plena">
   <h1 class="titulo">Las catorce etapas</h1>
-  <table class="etapas">
-    <thead><tr><th>Día</th><th>Fecha</th><th>Etapa</th><th class="km">Carretera</th>
-    <th>Dónde se duerme</th></tr></thead>
-    <tbody>{"".join(filas)}</tbody>
-    <tfoot><tr><td colspan="3">Total conducido</td><td class="km">{total:.0f} km</td>
-    <td>13 noches</td></tr></tfoot>
-  </table>
+  <ol class="etapas">
+    <li class="cabecera"><span class="dia">Día</span><span class="fec">Fecha</span>
+      <span class="etapa">Etapa</span><span class="km">Carretera</span>
+      <span class="dor">Dónde se duerme</span></li>
+    {"".join(filas)}
+    <li class="total"><span class="dia"></span><span class="fec"></span>
+      <span class="etapa">Total conducido</span><span class="km">{miles(total)}</span>
+      <span class="dor">13 noches</span></li>
+  </ol>
   <p class="nota-tabla">Los kilómetros de esta tabla son <b>de carretera, puerta a puerta</b>,
   medidos con OSRM sobre el trazado de OpenStreetMap el 4 de agosto de 2026. No incluyen los
   desvíos a charcas dentro de Etosha ni las vueltas del día de descanso.</p>
@@ -330,7 +431,7 @@ def documento(fich, con_separador=True):
     if n in PLENAS:
         slug, pie = PLENAS[n]
         partes.append(comun.foto_plena(slug, pie))
-    html = a_html(texto, doc=n)
+    html = poda(a_html(texto, doc=n), n)
     html = re.sub(r"<h1>(.*?)</h1>",
                   lambda m: f'<h1 class="titulo">{m.group(1)}{ancla(n)}</h1>', html, count=1)
     html = reparte_fotos(html, FOTOS.get(n, []))
@@ -338,13 +439,9 @@ def documento(fich, con_separador=True):
     return "".join(partes)
 
 
-def destacado():
-    return documento(fichero_de(DESTACADO), con_separador=False)
-
-
 def cuerpo_documentos():
     partes = []
-    for f in documentos(con_destacado=False):
+    for f in documentos():
         partes.append(documento(f))
     return "".join(partes)
 
@@ -354,7 +451,7 @@ def presentacion():
     # el titulo y el bloque de descarga del PDF no pintan nada dentro del propio PDF
     texto = re.sub(r'^<div align="center">\n\n# 🇳🇦 NAMIBIA 2026\n', '<div align="center">\n', texto)
     texto = re.sub(r"### 📕 \[\*\*Descargar.*?\n\n.*?\n\n", "", texto, flags=re.S)
-    h = a_html(texto)
+    h = poda(a_html(texto), "RM")
     h = re.sub(r"<h2>", '<h2 class="pres">', h)
     return (f'<section class="doc" id="presentacion">'
             f'<h1 class="titulo">El viaje de un vistazo{ancla("RM")}</h1>{h}</section>')
@@ -400,21 +497,31 @@ EXTRA_CSS = """
    se solapan y pdftotext los devuelve desordenados. */
 .ancla { font-size: 6pt; color: #fff; letter-spacing: 0; font-family: var(--mono);
          font-weight: 400; }
-table.etapas { font-size: 8.6pt; margin-top: 2mm; }
-table.etapas td.dia { font-family: var(--sans); font-weight: 700; white-space: nowrap; }
-table.etapas td.fec { color: var(--tinta-2); white-space: nowrap; }
-table.etapas td.km  { text-align: right; font-family: var(--sans); font-weight: 600;
-                      white-space: nowrap; }
-table.etapas th.km  { text-align: right; }
-table.etapas td.dor { font-weight: 600; }
-table.etapas tfoot td { border-top: 1pt solid var(--regla-2); border-bottom: 0;
-                        font-family: var(--sans); font-weight: 700; padding-top: 2mm; }
-table.etapas tfoot td.km { text-align: right; }
-.pip { display: inline-block; width: 2mm; height: 2mm; border-radius: 50%;
-       margin-right: 1.4mm; vertical-align: -.1mm; }
+/* La tira de etapas. No es una <table>: es una lista maquetada en rejilla, que en
+   papel se lee mejor y deja marcar cada dia con el color de su tramo. */
+ol.etapas { list-style: none; padding: 0; margin: 2mm 0 0; font-size: 8.8pt; }
+ol.etapas li { display: grid; grid-template-columns: 13mm 15mm 1fr 18mm 40mm;
+               gap: 3mm; align-items: baseline; padding: 1.7mm 0;
+               border-bottom: .5pt solid var(--regla); margin: 0; break-inside: avoid; }
+ol.etapas li::before { content: none; }
+ol.etapas .dia { font-family: var(--sans); font-weight: 700; color: var(--basalto);
+                 border-left: 2.2pt solid transparent; padding-left: 2mm; }
+ol.etapas .fec { font-family: var(--sans); color: var(--tinta-2); white-space: nowrap; }
+ol.etapas .km  { font-family: var(--sans); font-weight: 600; text-align: right;
+                 white-space: nowrap; }
+ol.etapas .dor { font-weight: 600; }
+ol.etapas .cabecera { font-family: var(--sans); font-size: 7.4pt; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--tinta-3); border-bottom: 1pt solid var(--regla-2);
+  padding-bottom: 1.4mm; }
+ol.etapas .cabecera span { font-weight: 600; color: var(--tinta-3); }
+ol.etapas .total { font-family: var(--sans); font-weight: 700; border-bottom: 0;
+                   border-top: 1pt solid var(--regla-2); padding-top: 2.2mm; }
 .nota-tabla { font-size: 8pt; color: var(--tinta-2); margin: 3mm 0 6mm;
               padding-left: 3mm; border-left: 2pt solid var(--regla); }
 .mapa-plena h1.titulo { font-size: 19pt; }
+/* El mapa de la ruta es casi cuadrado y a ancho de caja se come mas de una pagina:
+   se limita por alto para que titulo, mapa y pie quepan juntos. */
+.mapa-plena .mapa svg { max-height: 232mm; width: auto; margin: 0 auto; }
 .remite blockquote { padding: 6mm 7mm; }
 .remite blockquote h2 { font-size: 14pt; color: var(--oxido-os); }
 .remite blockquote p { font-size: 10.2pt; }
@@ -429,7 +536,6 @@ def html_completo(paginas=None):
 <style>{tipos}</style><style>{css}</style></head><body>
 {portada()}
 {indice(paginas or {})}
-{destacado()}
 {paginas_de_mapas()}
 {presentacion()}
 {cuerpo_documentos()}

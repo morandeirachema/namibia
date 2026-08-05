@@ -73,18 +73,24 @@ como aperitivo)*. El razonamiento completo, con el contra dicho honestamente, es
 
 </div>
 
-> ### La Comfort no está libre. La Budget sí — y es €200 más barata.
+> ### 🔄 05·08·2026 — Ahora las DOS están disponibles, y con precio en N$
+> Se acabó el «coge la Budget porque la Comfort no está». **Las dos están cotizadas**, por
+> **13 días (1 nov 08:00 → 13 nov 17:00)** e impuestos incluidos:
 
-- 🚙 **COMFORT** · €166,67/día → **€2.000** · ❌ **«Not Available — Contact Us»**
-- 🚙 **BUDGET** · €150,00/día → **€1.800** · ✅ **«Rent this Car»**
+- 🚙 **BUDGET** · **N$2.700/día** → **N$35.100 (~€1.755)** · ~€877,50 p.p. ✅
+- 🚙 **COMFORT** · **N$3.000/día** → **N$39.000 (~€1.950)** · ~€975 p.p. ✅
+- 💶 **Diferencia: N$3.900 (~€195) los dos — ~€97,50 por cabeza.**
 
-**Cógela.** El coche es **el cuello de botella del viaje entero**, y tienes una disponible **y más
-barata**. **No dejes que lo perfecto te quite lo disponible**: si la Budget también vuela, te quedas
-sin ruta.
+**Sigue siendo el cuello de botella del viaje**: flota pequeña y noviembre competido. Lo que cambia
+es que ya no decides por disponibilidad, sino por si esos ~€97 por cabeza te compran las **tiendas
+de carcasa rígida** *(montar en 1 minuto en vez de 5, y mejor con polvo y viento)* — son **11 noches
+de tienda**. 📞 **+264 61 427 220** · [namibia2go.com](https://namibia2go.com)
 
-*Si te apetece, escribe a Namibia2Go en paralelo preguntando si el «Contact Us» de la Comfort es
-falta de coches o simplemente que el año tarifario 2026/27 aún no está abierto a venta online. Pero
-**reserva primero, pregunta después**.* 📞 **+264 61 427 220** · [namibia2go.com](https://namibia2go.com)
+> ### ⚠️ Pero el calendario del coche NO cuadra con ningún vuelo
+> La cotización acaba el **13 a las 17:00** y vuelas el **14** — te quedas **un día sin coche en
+> Windhoek** *(hotel + dos traslados)*. Y si sale el vuelo de Oporto, **también falta el día 31 de
+> octubre**. **Vuelve a cotizar con las fechas del vuelo que elijas** — el detalle, en
+> [`02` §2](02-presupuesto.md).
 
 ### ⛺ Lo que pierdes con la Budget: solo dos cosas
 
@@ -177,7 +183,7 @@ flowchart LR
 - 💶 **Precio: la frontera del 1 de noviembre, dos veces.** **NWR** entra en tramo barato el 1 de
   noviembre (Sesriem, Terrace Bay, Etosha), y **Namibia2Go también**. 👉 **¿Adelantar días a
   octubre? Hasta 2 días es gratis** — las primeras noches (Windhoek, Spreetshoogte) no son NWR.
-- 🚗 **El coche: ✅ Namibia2Go Budget, €1.800 por 12 días** *(la Comfort no está disponible)*. Y aquí tu ventana acertó:
+- 🚗 **El coche: ✅ Namibia2Go, N$35.100 (~€1.755) la Budget por 13 días** *(la Comfort, N$39.000 · ~€1.950 — las dos disponibles)*. Y aquí tu ventana acertó:
   **Namibia2Go entra en temporada baja el 1 de noviembre** *(Asco no lo hace hasta el 15)*, así que
   el presupuesto cae entero en su tarifa barata. Incluye **km ilimitados** y **Premium Insurance
   Cover** *(franquicia cero — matiz: decae con «negligencia probada» y excluye daños por agua;
@@ -218,7 +224,7 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 </div>
 
-> # ~€3.306 por persona · todo incluido
+> # ~€3.284 por persona · todo incluido
 > ### Rango honesto: **€3.150–3.450**. El **79 %** ya está cerrado.
 
 **Incluye:** vuelo · coche · **seguro de viaje** · combustible · tasas de parque · visado · las 13
@@ -242,13 +248,14 @@ pie showData
 
 ### 👤 El desglose y el coche, en una línea
 
-- ✈️ Vuelo **€1.366** ✅ · 🚙 Coche **€900** ✅ · ⛺ Alojamiento **~€285** · ⛽ Combustible **~€200** ·
+- ✈️ Vuelo **€1.366** ✅ · 🚙 Coche **~€877,50** ✅ · ⛺ Alojamiento **~€285** · ⛽ Combustible **~€200** ·
   🍖 Comida **~€140** · 🩺 Seguro **€113** ✅ · 🎫 Tasas **~€109** ◐ · 🛂 Visado **€80** ✅ ·
   🎯 Actividades y varios **~€113**
 - **El 79 % ya está cerrado** con precio real: vuelo, coche, seguro, visado y las 6 noches de NWR.
   Lo estimado (~€578) son las 7 noches sin precio, el combustible, la comida y los misceláneos.
-- 🚙 **El coche**: Namibia2Go **Budget**, €150,00/día × 12 días (1–13 nov) = **€1.800** con
-  impuestos, ✅ disponible, con **km ilimitados** y **Premium Insurance Cover**.
+- 🚙 **El coche**: Namibia2Go, **13 días (1–13 nov)** con impuestos, km ilimitados y **Premium
+  Insurance Cover** — **Budget N$35.100 (~€1.755)** o **Comfort N$39.000 (~€1.950)**, ✅ las dos
+  disponibles.
 - ⚠️ **Ojo al calendario**: son **12 días de coche pero 13 noches**. La del 13 en Windhoek te quedas
   sin coche → hotel y traslado, o añadir el día (~€150) y devolverlo el 14 camino del aeropuerto.
 
@@ -276,7 +283,7 @@ comida y los misceláneos: **ese es el margen honesto, ±€145 por persona**.
 
 ```mermaid
 flowchart TD
-    A["EL 4x4 · RESERVAR HOY<br/>Namibia2Go Budget<br/>€1.800 · 12 dias · disponible"]
+    A["EL 4x4 · RESERVAR HOY<br/>Namibia2Go · 13 dias<br/>Budget N$35.100 o Comfort N$39.000<br/>las dos disponibles"]
     B["SESRIEM DENTRO x2<br/>44 parcelas<br/>es EL amanecer del viaje"]
     C["TERRACE BAY<br/>sin reserva confirmada<br/>NO se entra al parque"]
     D["e-visa + CVI<br/>eservices.mhaiss.gov.na<br/>cita de vacunas en agosto"]
@@ -290,8 +297,8 @@ flowchart TD
     style D fill:#2d6a4f,color:#fff
 ```
 
-1. **El 4x4 — RESÉRVALO HOY.** Namibia2Go **Budget**, €1.800 por 12 días con seguro y km
-   ilimitados, ✅ **disponible**. *(La Comfort sale «Not Available».)* **Flota pequeña y noviembre
+1. **El 4x4 — RESÉRVALO HOY.** Namibia2Go, **13 días** con seguro y km ilimitados: **Budget
+   N$35.100 (~€1.755)** o **Comfort N$39.000 (~€1.950)**, ✅ **las dos disponibles**. **Flota pequeña y noviembre
    competido: es el cuello de botella.** *Y decide si añadir el día 13 (~€150) para devolverlo
    camino del aeropuerto en vez de hotel + dos traslados.*
 2. **Sesriem dentro de la puerta, dos noches.** Solo **44 parcelas**, y es la diferencia entre *ver*
