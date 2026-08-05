@@ -148,6 +148,7 @@ RESUMEN = {
     "13": "Distancias, firme y viabilidad — con el contraste de OSRM.",
     "14": "Cinco temporadas de lluvia en Etosha, milímetro a milímetro.",
     "15": "El cuaderno de bitácora: temperaturas de estación, viento, luz, vuelos, tasas y lodges.",
+    "17": "La lista de la víspera, ítem a ítem y con casilla: ropa, neceser, botiquín y kits.",
 }
 
 
@@ -156,10 +157,17 @@ def miles(n, sufijo=" km"):
     return f"{n:,.0f}".replace(",", ".") + sufijo
 
 
+# El numero de un documento manda su sitio en el volumen, salvo aqui: la lista de
+# equipaje se escribio la ultima pero se lee pegada al `05`, que es de lo que sale.
+# Renumerar el repo entero para eso seria peor: hay referencias cruzadas por todos lados.
+ORDEN = {"17": "05a"}
+
+
 def documentos():
-    """Los documentos que entran en el PDF, en orden."""
-    return sorted(f for f in os.listdir(RAIZ)
-                  if re.match(r"\d\d-.*\.md$", f) and num(f) not in FUERA_DEL_PDF)
+    """Los documentos que entran en el PDF, en orden de lectura."""
+    return sorted((f for f in os.listdir(RAIZ)
+                   if re.match(r"\d\d-.*\.md$", f) and num(f) not in FUERA_DEL_PDF),
+                  key=lambda f: ORDEN.get(num(f), num(f)))
 
 
 def num(fich):
@@ -190,6 +198,9 @@ def a_html(texto, doc=None):
         return f'<pre class="mermaid{ancho}">' + c + "</pre>"
 
     h = re.sub(r'<pre><code class="language-mermaid">(.*?)</code></pre>', desescapa, h, flags=re.S)
+
+    # `- [ ] item` -> casilla dibujada, que en papel se marca a boli.
+    h = re.sub(r'<li>\[ \]\s*', '<li class="tarea"><span class="casilla"></span>', h)
 
     # enlaces entre documentos -> anclas internas del propio PDF
     h = re.sub(r'href="(\d\d)-[a-z-]+\.md"', r'href="#doc-\1"', h)

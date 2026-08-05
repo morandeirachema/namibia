@@ -4,6 +4,8 @@
 >
 > La mochila que dictan los datos del dossier: qué llevar, qué dejar en casa y los tres micro-kits de los días señalados.
 >
+> **La lista para tachar, ítem a ítem, está aparte: [`17`](17-lista-de-equipaje.md).** Aquí está el porqué; allí, el qué.
+>
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
@@ -155,9 +157,8 @@ flowchart TD
 - ❌ Maleta rígida grande ○ — no cabe bien
 - ❌ Saco de dormir, esterilla, hornillo, menaje ✅ — el coche lo trae TODO (README)
 - ❌ Comida de casa en cantidad — el avituallamiento está resuelto y mapeado en `08`
-- ⚠️ **Dron: normativa namibia NO investigada en este dossier** — si tenéis uno, investigadlo
-  antes de meterlo en la bolsa; en parques nacionales dad por hecho que necesita permisos.
-  **Sin dato: hueco reconocido.**
+- ❌ **Dron** ✅ — la normativa **sí** está investigada y el resultado es que no hay dónde volarlo:
+  el detalle, más arriba y con fuentes en [`11`](11-lista-google-maps.md)
 - ❌ Y a la vuelta: **nada de biltong ni carne en el petate** — prohibido entrar en la UE ✅ (`08`)
 
 ---
