@@ -1,2 +1,6 @@
 .claude/
 CLAUDE.md
+__pycache__/
+
+# HTML intermedio del build (20 MB de base64): se regenera con `make`
+fuente/*.html

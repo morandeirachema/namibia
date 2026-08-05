@@ -109,6 +109,13 @@ flowchart TD
   antipolvo** ○
 - Móvil: **Tracks4Africa** ✅ (`13` lo exige para verificar etapas) + mapas offline + los teléfonos
   de emergencia de `07` grabados **y en papel en la guantera** ✅
+- 🚁 **Dron: NO. Se queda en casa** ✅ — no es escrúpulo, es que **no hay dónde volarlo en esta
+  ruta**: cualquier vuelo exige permiso previo de la NCAA *(pedido con 30–60 días y con seguro
+  específico en inglés)*, **en parque nacional está prohibido y el permiso no se concede a vuelo
+  privado**, y **Etosha lo prohíbe del todo desde abril de 2025** — te lo quedarías en la puerta de
+  entrada, a 161 km de la de salida. Sossusvlei, la Costa de los Esqueletos y Etosha —los tres
+  motivos para llevarlo— son justo los tres sitios donde no se puede. **El detalle, con fuentes, en
+  [`11`](11-lista-google-maps.md).**
 
 ## 👕 Ropa *(14 días, lavado a mano posible ○)*
 

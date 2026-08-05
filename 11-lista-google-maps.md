@@ -62,6 +62,104 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
     cerrado fines de semana según una fuente.
   - Fuente: [namibweb — Otjitotongwe](https://www.namibweb.com/otjitotongwe.htm)
 
+---
+
+## 🚁 Drones: la respuesta corta es **déjalo en casa**
+
+**No es que sea complicado: es que en esta ruta no hay casi dónde volarlo, y el permiso que
+haría falta no cubre precisamente lo que querrías grabar.** Tres capas de norma, y las tres en
+contra. *(Investigado el 05/08/2026.)*
+
+```mermaid
+flowchart TD
+    A["¿Vuelo un dron en la ruta?"] --> B["Permiso previo de la NCAA<br/>obligatorio para CUALQUIER vuelo<br/>tambien por hobby"]
+    B --> C{"¿Donde?"}
+    C -->|"Namib-Naukluft D3-D5<br/>Skeleton Coast D7-D8<br/>Dorob costa D5-D7"| D["PARQUE NACIONAL<br/>prohibido. El permiso del MEFT<br/>no se concede a vuelo privado"]
+    C -->|"Etosha D9-D12"| E["PROHIBICION TOTAL<br/>desde el 17-04-2025<br/>se queda en la puerta"]
+    C -->|"Windhoek D1 D13"| F["Zona poblada<br/>prohibido sobrevolarla"]
+    C -->|"Spreetshoogte D2 · Hoada D8"| G["Suelo privado o comunal<br/>hace falta permiso del dueño"]
+    style D fill:#9d0208,color:#fff
+    style E fill:#9d0208,color:#fff
+    style F fill:#9d0208,color:#fff
+    style G fill:#e85d04,color:#000
+```
+
+### 1 · Namibia entera: permiso previo por escrito para **cualquier** vuelo ✅
+
+La **NCAA** *(Namibia Civil Aviation Authority)* exige una **RPAS Letter of Approval (RLA)** antes
+de volar — también al turista, también por afición. De su propia hoja de instrucciones:
+
+- 💶 **Tasa: N$300 (~€15)** para uso privado ✅ *(N$4.500 · ~€225 el comercial)*. ⚠️ **La hoja de la
+  NCAA es de junio de 2021**; una secundaria actualizada en enero de 2026 da **N$1.200 (~€60)** para
+  uso recreativo ◐ — **puede haber subido: confírmalo por escrito antes de pagar**.
+- ⏰ **Plazo: 30 días antes del vuelo** según la NCAA ✅, y **60 días antes de llegar** según varias
+  secundarias ◐. Y el aviso que de verdad manda: **una transferencia internacional tarda ~3 semanas**
+  en llegarles ✅. Para volar el 1 de noviembre, esto se mueve **en agosto o no se mueve**.
+- 📄 **Lo que hay que mandar** ✅: formulario firmado, carta de intenciones, **mapa con las
+  coordenadas de despegue** (KMZ recomendado), análisis de riesgos y plan de seguridad,
+  especificaciones del aparato, documento de identidad y **un seguro de responsabilidad civil
+  específico de drones, válido en Namibia y en tus fechas, en inglés**.
+- 📧 Todo a **rpas@ncaa.na** ✅ · NCAA, 4 Rudolph Hertzog Street, Windhoek · **+264 83 2352466**.
+- 🛑 **Límites de vuelo** ◐: máximo **45 m (150 ft)** de altura *(por encima hace falta aprobación
+  CAUA aparte)* · **10 km (5 NM)** de cualquier aeródromo · nada sobre zonas pobladas ni desde un
+  vehículo en marcha · en propiedad privada, **solo con permiso escrito del dueño**.
+- 🎬 Y una capa más: **cualquier grabación destinada a difusión pública** necesita el visto bueno de
+  la **Namibia Film Commission**, aparte ✅.
+
+### 2 · Los parques nacionales: prohibido — y para particulares el permiso **no existe** ✅
+
+La web de la NCAA lo resume en una línea: **«All flights require prior written approval, and flying
+in National Parks is strictly prohibited»**. Y su hoja de instrucciones cierra la puerta con el
+matiz que lo decide todo: filmar en parques nacionales exige permiso del **MEFT**, y ese permiso
+está marcado **«not available for private flights»** — **al vuelo privado no se le concede**.
+
+👉 **Tu ruta va casi entera por parque nacional**: Namib-Naukluft *(D3–D5, con Sossusvlei y
+Deadvlei)*, Skeleton Coast y Dorob *(D5–D8, incluida la laguna de Walvis Bay)* y Etosha *(D9–D12)*.
+Lo que queda fuera —Windhoek, el paso de Spreetshoogte, Twyfelfontein, Hoada— es **zona poblada o
+suelo privado y comunal**, que tiene su propia barrera.
+
+### 3 · Etosha: prohibición **total** desde abril de 2025 ✅
+
+El **MEFT** prohibió los drones en Etosha y lo confirmó el **20 de abril de 2025** por boca de
+**Colgar Sikopo**, director ejecutivo adjunto de Gestión de Recursos Naturales, en estos términos:
+
+> **«No person entering Etosha National Park will be allowed to enter with a drone. Should any
+> person have a drone and wish to enter the park, such a drone will have to be left at the entry
+> gate.»**
+
+- **Antes se podía con autorización del parque; ahora no hay excepción** — ni investigación, ni
+  cine, ni permiso previo. Se **deja en la puerta de entrada y se recoge al salir** ✅.
+- ⚠️ **Y ahí está la trampa de tu ruta**: entras por **Andersson** (D9) y sales por **Von
+  Lindequist** (D13). Son **161 km de puerta a puerta ◐** *(medidos con OSRM sobre OpenStreetMap,
+  05/08/2026)*, unas **3 h 24** dentro del parque a 60 km/h: el dron se quedaría en el lado
+  equivocado, a un día de coche.
+- **El motivo no es capricho**: Etosha concentra el **72 % del rinoceronte negro de Namibia** y los
+  furtivos usaban drones para localizarlos ◐.
+
+### 🎈 Lo que sí da vistas aéreas — y es legal
+
+**El vuelo panorámico.** Sobre Sossusvlei y sobre la Costa de los Esqueletos hay operadores de
+avioneta y de globo; es la forma correcta de llevarse el plano cenital sin permisos ni riesgos.
+**Precio ❌ sin verificar** — no se ha cotizado para este viaje.
+
+> ### 🧾 El veredicto, sin rodeos
+> **Un dron en este viaje es peso muerto y riesgo.** Para volarlo legalmente **una sola vez** harías
+> falta: permiso de la NCAA pedido en agosto, seguro específico en inglés, y aun así **ni Sossusvlei,
+> ni la Costa de los Esqueletos, ni Etosha** — que son justamente los tres sitios por los que uno
+> llevaría un dron a Namibia. Volar sin permiso expone a **multa y a que te lo requisen** ◐.
+> **Recomendación: no lo lleves.** *(Y si aun así viaja contigo, va en la maleta y no sale de ella:
+> declararlo en aduana y dejarlo apagado.)*
+
+**Fuentes:** [NCAA — hoja oficial de instrucciones RLA (PDF, jun 2021)](https://travelnamibia.pl/wp-content/uploads/2021/07/NCAA_RPAS_Instructions_June_2021.pdf) ·
+[NCAA — Remotely Piloted Aircraft Systems (RPAS)](https://www.ncaa.com.na/index.php/latest-news/69-remotely-piloted-aircraft-systems-rpas-or-drones) ·
+[Windhoek Observer — MEFT outlaws drones in Etosha](https://observer24.com.na/meft-outlaws-drones-in-etosha/) ·
+[Informanté — Environment Ministry clarifies on drone usage in Etosha (20/04/2025)](https://informante.web.na/?p=373283) ·
+[ATTA — Namibia bans all drones in Etosha National Park (17/04/2025)](https://atta.travel/resource/namibia-bans-all-drones-in-etosha-national-park.html) ·
+[drone-laws.com — Namibia (act. 21/01/2026)](https://drone-laws.com/drone-laws-in-namibia/) ·
+[drone-traveller.com — Namibia](https://drone-traveller.com/drone-laws-namibia/)
+
+---
+
 ### 🚫 Zonas restringidas y acceso guiado
 
 

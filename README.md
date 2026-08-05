@@ -30,22 +30,16 @@ imprimir o llevar sin conexión.*
 > # La clásica del norte, a ritmo lento.
 > ### Desierto → costa → Damaraland → Etosha. Sin prisas, sin el sur, sin días imposibles.
 
-```mermaid
-flowchart LR
-    W["WINDHOEK<br/>D1"] --> SP["SPREETSHOOGTE<br/>atardecer en el paso · D2"]
-    SP --> SE["SESRIEM x2<br/>Deadvlei al amanecer<br/>Big Daddy · D3-D4"]
-    SE --> WB["WALVIS BAY x2<br/>flamencos y descanso · D5-D6"]
-    WB --> SK["CAPE CROSS +<br/>TERRACE BAY<br/>Costa de los Esqueletos · D7"]
-    SK --> DA["DAMARALAND<br/>Twyfelfontein · Hoada · D8"]
-    DA --> ET["ETOSHA x4<br/>el climax del viaje · D9-D12"]
-    ET --> W2["WINDHOEK<br/>D13-D14"]
-    style SE fill:#C2542F,color:#fff
-    style ET fill:#C2542F,color:#fff
-    style SK fill:#C2542F,color:#fff
-```
+<div align="center">
 
-**~2.600 km · 13 días de coche · ningún día por encima de ~390 km · dos noches en Sesriem, dos en
-la costa y CUATRO en Etosha.**
+[<img src="img/mapas/ruta.png" alt="Mapa de la ruta: Windhoek, Spreetshoogte, Sesriem, Walvis Bay, Costa de los Esqueletos, Damaraland y Etosha" width="620">](img/mapas/ruta.svg)
+
+*El trazado no está dibujado a mano: son las coordenadas reales de cada parada, enrutadas por
+carretera con **OSRM** sobre OpenStreetMap. [Ver el mapa en grande](img/mapas/ruta.svg).*
+
+</div>
+
+**~2.700 km · 13 días de coche · dos noches en Sesriem, dos en la costa y CUATRO en Etosha.**
 
 Es la ruta del clásico de dos semanas *(la misma familia que el itinerario de
 [lugaresincertos.com](https://www.lugaresincertos.com/en/travel-inspiration/two-week-trip-to-namibia/)
