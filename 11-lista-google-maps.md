@@ -90,7 +90,7 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
   - Sector self-drive: **entre las puertas de Ugabmund (sur) y Springbokwasser (este)**. El
     **permiso de tránsito es gratis** y se saca en la propia puerta.
   - Puertas **07:30–19:00**; **no se entra después de las 15:00** sin reserva confirmada.
-  - **Torra Bay abre solo diciembre-enero → CERRADO a finales de noviembre.** Terrace Bay
+  - **Torra Bay abre solo diciembre-enero → CERRADO todo noviembre, incluido vuestro paso del 7 nov.** Terrace Bay
     (NWR) abre todo el año, pero pernoctar exige **reserva previa**.
   - Fuentes: [NWR — Skeleton Coast](https://www.nwrnamibia.com/skeleton-coast-national-park.htm) ·
     [TripAdvisor — permits & gate times](https://www.tripadvisor.com/ShowTopic-g479222-i25768-k8459916-Driving_permits_and_gate_opening_times-Skeleton_Coast_National_Park_Khomas_Region.html)
