@@ -58,28 +58,34 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
-*Recalculada el 02/08/2026 a la salida real del **31 de octubre**. Los hitos de julio ya vencieron
-y siguen pendientes: van los primeros.*
+*Recalculada el 05/08/2026 a la salida real del **31 de octubre**: **quedan ~87 días**. Los hitos de
+julio ya vencieron y siguen pendientes: van los primeros.*
 
 ```mermaid
-timeline
-    title Cuenta atras hasta el 31 de octubre de 2026 — quedan ~90 dias
-    VENCIDO · era julio : Reservar el 4x4 — Namibia2Go Budget, disponible a 17-07
-                        : Reservar Sesriem, Terrace Bay y campamentos de Etosha
-                        : Comprobar pasaportes contra la vuelta del 15 nov
-    AHORA · agosto : Pedir cita YA en el Centro de Vacunacion Internacional
-                   : La cita es el recurso escaso, no la vacuna
-                   : Emitir el vuelo — el presupuesto de referencia se mueve
-                   : Preguntas por escrito a Namibia2Go e IATI
-    Septiembre : Acudir al CVI (para el 31-10, atendidos hacia el 19-26 sep)
-               : Recetas de profilaxis — la mefloquina empieza ~19-26 oct
-               : Resolver el permiso internacional de conducir
-    Primera semana de octubre : Solicitar el e-visa — necesita billete y reservas
-                              : Adaptadores tipo M · mapa en papel
-    ~22 de octubre : Ultimo dia fiebre amarilla SI la ruta la exigiera (llegada 1 nov)
-    ~24 de octubre : Imprimirlo TODO — Namibia funciona con papel
-                   : Recomprobar diesel y self-drive a Deadvlei
+flowchart LR
+%% ancho
+    J["VENCIDO<br/>era julio"] --> A["AHORA<br/>agosto"] --> S["Septiembre"]
+    S --> O1["Primera semana<br/>de octubre"] --> O2["~22 oct"] --> O3["~24 oct"]
+    O3 --> F["31 oct<br/>VUELO"]
+    style J fill:#9d0208,color:#fff
+    style A fill:#e85d04,color:#000
+    style F fill:#2d6a4f,color:#fff
 ```
+
+- **VENCIDO · era julio** — reservar el 4×4 *(Namibia2Go Budget, disponible a 17-07)*; reservar
+  Sesriem, Terrace Bay y los campamentos de Etosha; comprobar los pasaportes contra la vuelta del
+  15 de noviembre.
+- **AHORA · agosto** — pedir cita **ya** en el Centro de Vacunación Internacional: **la cita es el
+  recurso escaso, no la vacuna**. Emitir el vuelo —el presupuesto de referencia se mueve— y mandar
+  las preguntas por escrito a Namibia2Go e IATI.
+- **Septiembre** — acudir al CVI *(para el 31-10, atendidos hacia el 19–26 de septiembre)*; recetas
+  de profilaxis —la mefloquina empieza ~19–26 de octubre—; resolver el permiso internacional de
+  conducir.
+- **Primera semana de octubre** — solicitar el e-visa: necesita billete y reservas. Adaptadores
+  tipo M y mapa en papel.
+- **~22 de octubre** — último día para la fiebre amarilla **si** la ruta llegara a exigirla.
+- **~24 de octubre** — imprimirlo **todo**, que Namibia funciona con papel; recomprobar el diésel y
+  el self-drive a Deadvlei.
 
 ### El portal del e-visa — y las webs que te van a cobrar de más ✅
 

@@ -35,16 +35,14 @@
   --azul:     #2F6E8E;
   --azul-bg:  #EAF1F5;
 
-  /* Caja util de la pagina. El ancho es A4 menos los margenes que pone imprimir.py
-     (14/12/16/12) y sale exacto. El alto NO: al imprimir, Chrome resuelve los
-     porcentajes de las paginas «de imagen» contra un fragmento mas corto que la caja
-     real, y con 267mm se quedaban en 245. Con 291 el bloque mide 267,0 mm medidos
-     sobre el PDF, que es lo que hay que llenar. Si cambian los margenes de
-     imprimir.py, vuelve a medir: `pdftoppm` la pagina 1 y mira donde acaba la foto.
+  /* Caja util de la pagina: A4 menos los margenes que pone imprimir.py (14/12/16/12).
+     Los dos valores son los reales sobre el papel. Durante un tiempo el alto estuvo
+     en 291mm para compensar que Chrome encogia el documento; la causa era otra —una
+     URL que no cabia en la columna, ver `.doc`— y ya esta arreglada.
      A sangre no se va: esto se imprime en una impresora de casa, que no llega al
      borde del papel — y el pie de pagina vive en ese margen. */
   --caja-ancho: 186mm;
-  --caja-alto:  291mm;   /* = 267 mm reales sobre el papel */
+  --caja-alto:  267mm;
 
   --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
   --sans:  "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
@@ -79,17 +77,26 @@ body {
 .portada .velo { position: absolute; inset: 0; background:
   linear-gradient(178deg, rgba(9,14,18,.55) 0%, rgba(9,14,18,.12) 26%,
                   rgba(9,14,18,.20) 46%, rgba(8,12,16,.80) 72%, rgba(6,10,13,.96) 100%); }
-.portada .txt { position: absolute; inset: auto 0 0 0; padding: 0 16mm 16mm; }
-.portada .marca { position: absolute; top: 14mm; left: 16mm; right: 16mm;
-  font-family: var(--sans); font-size: 7.6pt; letter-spacing: .34em;
-  text-transform: uppercase; color: #E8DCBE; }
-.portada .marca span { float: right; letter-spacing: .12em; color: #C9BFA6; }
+/* La capa flex es la que reparte: marca arriba, bloque de titulo abajo. Con
+   `position:absolute; left+right` el bloque de arriba colapsaba a un palmo de
+   ancho y el texto salia cortado por la izquierda; `inset:0` si resuelve bien. */
+.portada .capa { position: absolute; inset: 0; display: flex;
+  flex-direction: column; justify-content: space-between; padding: 13mm 16mm 15mm; }
+.portada .txt { padding: 0; }
+.portada .marca { display: flex; justify-content: space-between; align-items: baseline;
+  gap: 8mm; font-family: var(--sans); font-size: 8pt; letter-spacing: .3em;
+  text-transform: uppercase; color: #F0E7D2; text-shadow: 0 1px 3px rgba(0,0,0,.55); }
+.portada .marca span { white-space: nowrap; }
+.portada .marca span:last-child { letter-spacing: .1em; color: #D8CDB4; }
 .portada h1 { font-family: var(--sans); font-size: 64pt; line-height: .9; margin: 0;
   font-weight: 700; letter-spacing: -.025em; color: #fff; border: 0; padding: 0; }
 .portada h1 em { display: block; font-style: normal; font-weight: 300; color: #E8DCBE; }
 .portada .lema { font-family: var(--serif); font-size: 14pt; font-style: italic;
   color: #EFE6D2; margin: 6mm 0 0; max-width: 132mm; line-height: 1.35; }
 .portada .regla { width: 34mm; height: 2.2pt; background: var(--oxido); margin: 7mm 0 6mm; }
+.portada .viajan { font-family: var(--sans); font-size: 12.5pt; font-weight: 300;
+  letter-spacing: .04em; color: #fff; margin: 5mm 0 3.5mm; }
+.portada .viajan b { font-weight: 600; color: #fff; }
 .portada .datos { font-family: var(--sans); font-size: 10pt; line-height: 1.75;
   color: #F2ECDE; }
 .portada .datos b { color: #fff; font-weight: 600; }
@@ -102,7 +109,12 @@ body {
 /* Los margenes de pagina los pone Chrome al imprimir (imprimir.py), no el CSS:
    asi el pie de pagina cae dentro del margen y no hay que contarlo dos veces. */
 .doc { page-break-before: always; padding: 0;
-       columns: 2; column-gap: 8mm; column-fill: auto; }
+       columns: 2; column-gap: 8mm; column-fill: auto;
+       /* Sin esto, una URL larga —y este dossier esta lleno de fuentes— no cabe en
+          la columna de 89 mm, se sale, Chrome ensancha la caja para que quepa,
+          abre una tercera columna y luego encoge el PDF ENTERO para que entre en
+          el A4: 61 paginas a dos tercios de tamano por una direccion web. */
+       overflow-wrap: break-word; word-break: break-word; }
 /* Nada puede pasarse del ancho de caja: ver la nota de .mermaid. */
 .doc, .indice, .mapa-plena { max-width: var(--caja-ancho); }
 .doc img, .doc svg, .doc pre, .doc table, .indice svg, .mapa-plena svg { max-width: 100%; }
@@ -338,3 +350,5 @@ div[align="center"] h1, div[align="center"] h2 { border: 0; padding: 0; }
 .et-no   { background: var(--rojo-bg);  color: var(--rojo); }
 .et-duda { background: var(--ambar-bg); color: var(--ambar); }
 .et-info { background: var(--azul-bg);  color: var(--azul); }
+
+
