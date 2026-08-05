@@ -240,8 +240,11 @@ gantt
 - 🎫 **Cape Cross cobra entrada propia, aparte del permiso de Skeleton Coast:** **N$150 (~€8)/extranjero
   + N$50 (~€3)/coche** (≤10 plazas) = **~N$350 (~€18) los dos** ◐, en **efectivo**, se paga en recepción
   al entrar (reserva dentro del Dorob NP; tarifa menor que el baremo premium, **no** son las 7 unidades
-  de `02` §5 — súmalo). Horario: **abre a las 08:00 del 16 nov al 30 jun** (10:00 el resto del año), así
-  que en vuestra ventana de finales de noviembre entráis temprano y cabe holgado antes de Ugabmund
+  de `02` §5 — súmalo). Horario ◐: **abre a las 08:00 solo del 16 nov al 30 jun; el resto del año, a
+  las 10:00** *(confirmado por búsqueda; la ficha del MEFT sigue en 403)*. **Ojo: vuestro D7 es el 7 nov,
+  antes del 16 → Cape Cross abre a las 10:00, NO a las 08:00.** No hay entrada a primera hora: apuntad
+  el alto de los lobos a las 10:00 en punto y salid seguidos. De Cape Cross a Ugabmund quedan ~110 km:
+  cruzáis de sobra antes de las 15:00, pero sin la holgura que daría un 08:00 — no os entretengáis
 - 🛑 **Puerta de Ugabmund: última entrada 15:00.** Para pernoctar dentro hace falta **reserva
   confirmada de Terrace Bay** — sin ella no se entra (el permiso de tránsito obliga a salir el
   mismo día)
@@ -302,7 +305,7 @@ gantt
   reconstruye la pista central para asfaltarla, y ya hay **nota oficial de 2026** —«Traffic deviation
   via Gemsbokvlakte road from Okaukuejo to Halali» *(meft.gov.na/news/335)*, con aviso paralelo de
   NWR— que fija un **desvío OBLIGATORIO desde el 2 de junio de 2026 y hasta julio de 2027**. Tu
-  ventana de finales de noviembre **cae de lleno dentro**: da por hecho que la carretera directa
+  ventana de la primera quincena de noviembre **cae de lleno dentro**: da por hecho que la carretera directa
   Okaukuejo→Halali estará **cerrada** y que irás por el bypass — no lo dejes como un «quizá».
   *(No se pudo abrir la página oficial (403); las fechas las dan cinco fuentes secundarias que
   concuerdan, por eso va en ◐. Confírmalo con NWR Okaukuejo **+264 67 229 800** por si hubiera
