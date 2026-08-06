@@ -14,10 +14,10 @@
 > mide cada etapa y cuánto se tarda en ella. Comprueba que la ruta del norte cabe, y **no infla nada
 > para complacer**: donde un número es una estimación lo dice, y donde una etapa no cabría, también.
 >
-> ⚠️ **Pero esa ruta está SIN confirmar por ti.** La del norte (Variante E) contradice tu «el sur se
-> queda»; las variantes que sí lo respetan se retiraron de aquí el 03/08 y **están en el historial de
-> git** *(`git show d0320c3^:13-itinerario.md`)*. El análisis honesto que pediste —las 3 variantes y
-> esta decisión devuelta a tu mano— está en [`16`](16-punto-de-decision.md). **Léelo primero.**
+> ✅ **La ruta del norte está confirmada** por el viajero el 06/08/2026, con las fechas del vuelo de
+> Lufthansa. Las variantes que respetaban el sur se retiraron de aquí el 03/08 y **siguen en el
+> historial de git** *(`git show d0320c3^:13-itinerario.md`)*; el análisis que las comparaba está
+> archivado en [`16`](16-punto-de-decision.md). Aquí ya solo se mide la ruta que se va a conducir.
 
 ---
 

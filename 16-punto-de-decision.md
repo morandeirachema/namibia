@@ -1,10 +1,11 @@
-# 16 · Punto de decisión — el dossier se ha desviado de dos decisiones tuyas
+# 16 · Punto de decisión — CERRADO el 06/08/2026
 
 > **Namibia · noviembre 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> Lo primero que deberías leer al despertarte. El resto del dossier está muy trabajado y es fiable en
-> sus datos, **pero está construido sobre una ruta y unas fechas que contradicen dos cosas que habías
-> dado por decididas.** Nada está reservado todavía, así que la decisión sigue **entera en tu mano**.
+> ✅ **Decidido: la ruta del norte de 14 días —Variante E, con Etosha y sin el sur— y las fechas del
+> billete de Lufthansa, 30 de octubre a 14 de noviembre.** Decisión del viajero, tomada a la vista de
+> lo que hay debajo. **Esta ficha ya no pide nada**: se queda como registro de qué se comparó, qué se
+> descartó y por qué, para que dentro de un año se pueda reconstruir el razonamiento.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria · **○** práctica común ·
 > **❌** sin verificar
@@ -13,13 +14,13 @@
 
 ---
 
-## 🔴 En una frase
+## ✅ En una frase
 
-El dossier ahora planifica **el norte sin el sur, del 1 al 14 de noviembre**. Tu encargo escrito decía
-lo contrario en dos puntos que marcaste como cerrados: **«el sur SE QUEDA»** y **«finales de
-noviembre»**. La desviación **puede estar bien** —hay motivos con datos— pero **no la has confirmado
-tú**, y el análisis que la justificaba se borró de los documentos visibles. Esto te lo devuelve para
-que lo decidas a la vista.
+El dossier planifica **el norte sin el sur**, con las fechas del vuelo de Lufthansa. El encargo
+escrito decía lo contrario en dos puntos marcados como cerrados —**«el sur SE QUEDA»** y **«finales
+de noviembre»**—, así que esta ficha se levantó para devolver la elección a su sitio. **El 06/08/2026
+el viajero confirmó la ruta del norte y las fechas del billete**, y con eso la desviación deja de
+serlo: es la ruta elegida. Lo que sigue es el registro de lo que se comparó.
 
 ```mermaid
 flowchart TD
@@ -132,9 +133,10 @@ cambio de empresa de alquiler y conviene que lo confirmes:
 
 ---
 
-## 5. Estado real de las reservas — nada está cerrado
+## 5. Estado de las reservas cuando se tomó la decisión
 
-Esto es importante y el propio dossier se contradecía: **no consta hecha ninguna reserva.**
+*El estado vivo está en el [README](README.md); esto es la foto del 06/08/2026, que es lo que se
+tuvo delante al decidir: **no constaba hecha ninguna reserva.***
 
 - 🛏️ Ni coche, ni las **2 noches de Sesriem**, ni Terrace Bay, ni las 4 de Etosha *(`15` §lista
   maestra; `07`)*. Todo son precios cotizados o estimados, **ninguno pagado**.
@@ -153,27 +155,28 @@ Esto es importante y el propio dossier se contradecía: **no consta hecha ningun
 
 ---
 
-## 6. Qué hacer con esto
+## 6. Lo que se decidió, y lo que arrastra
 
 ```mermaid
 flowchart LR
-    D{"¿Tu decision?"}
-    D -->|"Quiero el sur,<br/>como habia dicho"| G1["Elige A o B<br/>-> hay que reconstruir<br/>itinerario y presupuesto<br/>(la base esta en git)"]
-    D -->|"Me convence tirar<br/>el sur"| G2["Confirma Variante E<br/>-> el dossier ya esta<br/>entero y listo"]
-    D -->|"No lo tengo claro"| G3["Deja la nota;<br/>ninguna reserva corre prisa<br/>hasta confirmar el coche"]
-    style G1 fill:#2d6a4f,color:#fff
-    style G2 fill:#264653,color:#fff
+    D["06-08-2026<br/>DECISION DEL VIAJERO"] --> R["Variante E<br/>norte con Etosha,<br/>sin el sur"]
+    D --> F["Fechas del billete<br/>Lufthansa<br/>30 oct - 14 nov"]
+    R --> L["El dossier ya estaba<br/>montado para esta ruta:<br/>nada que rehacer"]
+    F --> C["Recotizar el coche<br/>y adelantar el seguro<br/>al 30 de octubre"]
+    style D fill:#2d6a4f,color:#fff
+    style C fill:#e85d04,color:#000
 ```
 
-- **Si el sur se queda (A o B):** dilo, y el itinerario y el presupuesto se reconstruyen sobre esa
-  base *(que sigue medida y guardada en git, no hay que rehacerla de cero)*. Revisa entonces también
-  coche (¿Asco por su precipicio del 15/11?) y fechas (finales de nov).
-- **Si de verdad quieres tirar el sur:** el dossier actual (Variante E) ya está completo y es bueno.
-  Solo faltaba que la decisión fuera **tuya y consciente**, no heredada de una pasada anterior.
-- **Mientras decides:** no corre prisa nada salvo **confirmar la disponibilidad del coche**, que es el
-  cuello de botella real *(la Budget de Namibia2Go figura disponible; ver README)*.
+- **La ruta no toca nada**: el itinerario, el presupuesto y las distancias ya estaban medidos sobre
+  la Variante E. Las variantes A y B —las que respetaban el sur— quedan archivadas aquí y en git.
+- **Las fechas sí arrastran trabajo**, y es el único fleco vivo de esta decisión: el coche está
+  cotizado del **1 nov 08:00 al 13 nov 17:00** y el vuelo va del **30 de octubre al 14 de
+  noviembre**, así que **faltan el día 31 y el día 14** *(ver [`01`](01-itinerarios-dia-a-dia.md) D0
+  y [`02` §2](02-presupuesto.md))*. Hay que **recotizar el alquiler con las fechas del billete** y
+  **adelantar el inicio del seguro al 30/10**.
 
 ---
 
-*Este documento no cambia la ruta ni reserva nada: solo te devuelve una decisión que era tuya y se
-había tomado sin ti. El resto del dossier sigue siendo válido para la variante que elijas.*
+*Esta ficha ya no pide nada: la decisión está tomada. Se queda como registro de qué se comparó y por
+qué —incluida la aritmética que demuestra que la ruta completa necesita 17–18 días—, que es lo que
+haría falta si algún día se replantea.*

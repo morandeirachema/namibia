@@ -58,15 +58,15 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
-*Recalculada el 05/08/2026 a la salida real del **31 de octubre**: **quedan ~87 días**. Los hitos de
-julio ya vencieron y siguen pendientes: van los primeros.*
+*Recalculada el 06/08/2026: el vuelo sale de Oporto el **30 de octubre** — **quedan ~85 días**.
+Los hitos de julio ya vencieron y siguen pendientes: van los primeros.*
 
 ```mermaid
 flowchart LR
 %% ancho
     J["VENCIDO<br/>era julio"] --> A["AHORA<br/>agosto"] --> S["Septiembre"]
     S --> O1["Primera semana<br/>de octubre"] --> O2["~22 oct"] --> O3["~24 oct"]
-    O3 --> F["31 oct<br/>VUELO"]
+    O3 --> F["30 oct<br/>VUELO"]
     style J fill:#9d0208,color:#fff
     style A fill:#e85d04,color:#000
     style F fill:#2d6a4f,color:#fff

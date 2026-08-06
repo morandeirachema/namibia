@@ -376,3 +376,6 @@ div[align="center"] h1, div[align="center"] h2 { border: 0; padding: 0; }
 .et-info { background: var(--azul-bg);  color: var(--azul); }
 
 
+
+/* Los `<details>` de GitHub, ya abiertos: en papel no hay donde pulsar. */
+.desplegable-t { font-size: 11pt; font-weight: 700; color: var(--oxido-os); margin: 4mm 0 2mm; }
