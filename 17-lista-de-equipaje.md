@@ -2,14 +2,18 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> Todo lo que sube al petate, ítem a ítem y con casilla. El **porqué** de cada decisión está en
-> [`05`](05-equipaje.md) —las seis reglas, las temperaturas, lo que trae el coche—: aquí solo está
-> **la lista**, para imprimirla y tacharla la víspera.
+> Todo lo que sube al petate, **ítem a ítem, con cantidad y con casilla**. El **porqué** de cada
+> decisión está en [`05`](05-equipaje.md) —las seis reglas, las temperaturas, lo que ya trae el
+> coche—: aquí solo está **la lista**, para imprimirla y tacharla la víspera.
+>
+> **Las cantidades son para DOS personas y 14 días**, salvo donde ponga «por persona». Salen de
+> **una colada a mano** en el día de descanso de Walvis Bay *(D5–D6)*: por eso la ropa interior se
+> calcula para siete días y no para catorce ○.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Levantada el 05/08/2026 sobre los datos de `05`, `04`, `06`, `07` y `01`*
+> *Levantada el 05/08/2026 · completada con cantidades el 06/08/2026*
 
 ---
 
@@ -34,117 +38,156 @@ el viaje sigue; si se pierde la cabina, no.
 
 ## 📄 Documentos — van en cabina, y también en papel
 
-- [ ] **Pasaporte** ✅ — válido hasta el **15/05/2027** como mínimo y con **3 páginas en blanco**
-- [ ] **e-visa impreso y firmado** ✅ + una copia suelta
-- [ ] **Billetes de avión impresos**
-- [ ] **Reservas impresas**: coche, Sesriem, Terrace Bay y los tres campamentos de Etosha
-      *(Terrace Bay sin reserva en papel no entra al parque ✅)*
-- [ ] **Póliza IATI en papel**: número de póliza y **teléfono 24 h** ✅
-- [ ] **Carné de conducir + permiso internacional** *(el trámite, en `04`)*
-- [ ] **Cartilla de vacunación**
-- [ ] **Tarjetas de crédito ×2**, de bancos distintos, y algo de efectivo ○
-- [ ] **Fotocopias de todo** en bolsa aparte del original ○
+- [ ] **Pasaporte** ×1 p.p. ✅ — válido hasta el **15/05/2027** como mínimo y con **3 páginas en
+      blanco**
+- [ ] **e-visa impreso y firmado** ×1 p.p. ✅ + **1 copia** suelta
+- [ ] **Billetes de avión impresos** ×1 p.p.
+- [ ] **Reservas impresas** ×1 de cada: coche, Sesriem, Terrace Bay y los tres campamentos de
+      Etosha *(Terrace Bay sin reserva en papel no entra al parque ✅)*
+- [ ] **Póliza IATI en papel** ×2: número de póliza y **teléfono 24 h** ✅
+- [ ] **Carné de conducir** ×1 p.p. + **permiso internacional** ×1 p.p.
+- [ ] **Cartilla de vacunación** ×1 p.p.
+- [ ] **Tarjetas** ×2 p.p., de bancos distintos ○ *(ni Diners ni Amex en Namibia2Go ◐)*
+- [ ] **Efectivo en euros** para cambiar a la llegada ○
+- [ ] **Fotocopias de todo** ×1 juego, en bolsa aparte del original ○
 - [ ] Fotos de todo en el móvil, **descargadas para verlas sin cobertura** ○
-- [ ] **Teléfonos de emergencia de `07` impresos**, en la guantera ✅
-- [ ] Mapa de carreteras en papel ✅ *(Namibia funciona con papel, `04`)*
+- [ ] **Teléfonos de emergencia de `07` impresos** ×1, en la guantera ✅
+- [ ] **Mapa de carreteras en papel** ×1 ✅ *(Namibia funciona con papel, `04`)*
+- [ ] **Libreta y boli** ×1 ✅ — para apuntar las presiones en frío de la entrega *(`06`)*
 
-## 👕 Ropa — 14 días, con lavado a mano por medio ○
+## 👕 Ropa — las cuentas, por persona
 
-- [ ] 5 camisetas transpirables
-- [ ] 2 camisas de manga larga ligeras *(sol de día, mosquitos al anochecer)*
-- [ ] 2 pantalones largos ligeros + 2 cortos
-- [ ] **1 forro polar** *(la noche fría del viaje es la de la costa: 12,7 °C de media ✅)*
-- [ ] **1 cortavientos / chubasquero ligero** *(costa, y la salida de Deadvlei a las ~05:10)*
-- [ ] Ropa interior y calcetines para ~7 días
-- [ ] **Bañador** *(hay piscina en Okaukuejo, Halali y Namutoni ✅)*
-- [ ] Pijama ligero ○
-- [ ] Algo mínimamente decente para Joe's Beerhouse y el hotel del D13 ○
-- [ ] **Sombrero de ala** ○ y **gafas de sol** con protección real ○
-- [ ] **Buff o pañuelo** ✅ — polvo de la grava, viento de la costa y el olor de Cape Cross
-- [ ] Colores tierra o neutros para el safari ○
+*Por qué esta ropa y no otra, en [`05`](05-equipaje.md). Aquí van los números.*
 
-## 🥾 Calzado
+- [ ] **Camisetas transpirables ×5** — una puesta, cuatro en el petate
+- [ ] **Camisas de manga larga ligeras ×2** — sol de mediodía y mosquitos del anochecer
+- [ ] **Pantalones largos ligeros ×2** *(uno desmontable ahorra un corto)*
+- [ ] **Pantalones cortos ×2**
+- [ ] **Ropa interior ×7**
+- [ ] **Calcetines finos ×6 pares** + **1 par gordo** para las noches de la costa
+- [ ] **Forro polar ×1** — la mínima más baja del viaje son **12,7 °C** en la costa ✅
+- [ ] **Cortavientos o chubasquero ligero ×1** — costa y salida de Deadvlei a las ~05:10
+- [ ] **Bañador ×1** — hay piscina en Okaukuejo, Halali y Namutoni ✅
+- [ ] **Ropa de dormir ligera ×1**
+- [ ] **Sombrero de ala ×1** — de ala, no gorra: las orejas y la nuca se queman igual ○
+- [ ] **Buff o pañuelo ×2** ✅ — polvo de la grava, viento de la costa y el olor de Cape Cross
+- [ ] **Gafas de sol ×1** con protección real, y su funda ○
+- [ ] **Cinturón ×1**
+- [ ] **Un conjunto decente ×1** para Joe's Beerhouse y el hotel del D13 ○
 
-- [ ] **Zapatilla de trail o bota ligera, ya domada** ○
-- [ ] **Sandalia de trekking** ○ *(conducir, campamento, la bajada de Big Daddy)*
-- [ ] **Chanclas de ducha** ○ *(duchas compartidas en los campings)*
+## 🥾 Calzado — tres pares, ni uno más
+
+- [ ] **Zapatilla de trail o bota ligera ×1 par, ya domada** ○ — Big Daddy, Sesriem Canyon,
+      Twyfelfontein y la cascada del Uniab
+- [ ] **Sandalia de trekking ×1 par** ○ — conducir y campamento
+- [ ] **Chanclas ×1 par** ○ — duchas compartidas
+- [ ] **Plantillas o calcetines de repuesto** para la arena ○
 
 ## 🧼 Neceser
 
-- [ ] Cepillo y pasta de dientes · hilo dental
-- [ ] Gel y champú *(mejor en formato sólido o en botes rellenables ○)*
-- [ ] Desodorante · peine · maquinilla y espuma
-- [ ] **Toallitas húmedas ×2 paquetes** ○ — el recurso más usado del viaje: manos, cara y polvo
+- [ ] Cepillo de dientes ×1 p.p. · **pasta ×1 tubo** · hilo dental
+- [ ] **Gel y champú** — 1 bote de 200 ml o pastilla sólida ○ *(pesa menos y no revienta)*
+- [ ] Desodorante ×1 p.p. · peine ×1 · maquinilla y espuma
+- [ ] **Toallitas húmedas ×3 paquetes** ○ — el recurso más usado del viaje: manos, cara y polvo
       cuando la ducha queda a horas
-- [ ] **Gel hidroalcohólico** ○ *(la comida en ruta se come con las manos y el agua se raciona)*
-- [ ] **Papel higiénico ×1 rollo suelto** ○ — los campings lo tienen, los 500 km entre medias no
-- [ ] Pañuelos de papel
+- [ ] **Gel hidroalcohólico ×2 botes** ○
+- [ ] **Papel higiénico ×2 rollos** ○ — los campings lo tienen; los 500 km entre medias, no
+- [ ] Pañuelos de papel ×4 paquetes
 - [ ] **Toallas de microfibra ×2** ○ *(hasta que llegue el inventario por escrito del coche, `04`)*
-- [ ] Bolsa de aseo **colgable** ○ *(no hay repisa garantizada)*
-- [ ] Cortaúñas y pinzas ○
-- [ ] Tapones para los oídos ○ *(campamento compartido y lona al viento)*
-- [ ] Antifaz ○ *(amanece pronto en una tienda de techo)*
-- [ ] Bolsas de basura y ziplocs ○
+- [ ] Neceser **colgable** ×1 ○ — no hay repisa garantizada
+- [ ] Cortaúñas ×1 · pinzas de depilar ×1
+- [ ] **Tapones para los oídos ×1 par p.p.** ○ · **antifaz ×1 p.p.** ○ — lona al viento y amanecer
+      a las 06:07
+- [ ] Bolsas de basura ×5 y **ziplocs ×10** ○
+- [ ] Detergente de viaje ×1 y **cuerda fina de tender ×3 m** ○ — la colada de Walvis Bay
 
-## 🩺 Botiquín y medicación
+## 💊 Botiquín — qué llevar y cuánto
 
-- [ ] **Profilaxis de malaria** ✅ — la que diga el CVI en la cita de septiembre *(`04`)*
-- [ ] Medicación propia con receta, **en el envase original y en cabina** ○
-- [ ] **Crema solar 50+** · **aftersun** · **protector labial con filtro** ○ — el riesgo diario real
-- [ ] **Repelente con DEET** ○
-- [ ] **Sales de rehidratación oral** ○ *(con 35–38 °C la deshidratación va por delante de la sed)*
-- [ ] Analgésico y antiinflamatorio
-- [ ] Antidiarreico y sobres de suero
-- [ ] Antihistamínico
-- [ ] Tiritas, compeed, gasas, esparadrapo, vendas y tijeras
-- [ ] **Pinzas** ○ *(espinas de acacia)* y **colirio** ○ *(polvo)*
-- [ ] Termómetro y guantes de nitrilo ○
-- [ ] Crema para picaduras y para rozaduras ○
-- [ ] **Gafas graduadas de repuesto** ○ *(mejor gafas que lentillas: polvo)*
+> ⚠️ **Nada de esto es una prescripción.** Qué te conviene y en qué dosis lo dicen **el Centro de
+> Vacunación Internacional y tu farmacia**; aquí solo está el inventario para 14 días entre dos, con
+> los principios activos que se llevan de forma habitual ○. Lo único con fuente es la profilaxis:
+> la pauta la fija el CVI ✅ *(`04`)*.
+
+**Lo que viene con receta**
+
+- [ ] **Profilaxis de malaria** ✅ — la pauta **completa** más 3–4 días de margen. Si es Malarone
+      empieza en viaje *(~7–8 nov)*; si es mefloquina, **~19–26 de octubre**
+- [ ] **Medicación propia** — la del viaje **+5 días**, en el **envase original** y con la receta ○
+- [ ] Antibiótico de amplio espectro **solo si tu médico lo receta para el viaje** ○ *(no se
+      automedica: es para el caso de no llegar a un centro)*
+
+**Lo básico, sin receta**
+
+- [ ] **Analgésico/antitérmico** — 1 caja *(paracetamol)* ○
+- [ ] **Antiinflamatorio** — 1 caja *(ibuprofeno)* ○
+- [ ] **Antidiarreico** — 1 caja *(loperamida)* ○
+- [ ] **Sales de rehidratación oral ×8 sobres** ○ — con 35–38 °C la deshidratación va por delante
+      de la sed, y la regla del agua son **4+ L por persona y día EN el coche** ✅
+- [ ] **Antihistamínico** — 1 caja ○
+- [ ] **Protector gástrico** — 1 caja ○
+- [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.728 km, y el paso de Spreetshoogte y la
+      grava del D8 se notan)*
+- [ ] **Laxante suave o fibra** ○ — dieta de camping y poca verdura
+
+**Curas y picaduras**
+
+- [ ] Antiséptico *(clorhexidina)* ×1 · **gasas ×10** · **esparadrapo ×1** · **venda ×1**
+- [ ] **Tiritas ×20** de varios tamaños · **apósitos para ampollas ×6** ○ — Big Daddy las hace
+- [ ] **Tijeras ×1** y **pinzas ×1** ○ — las espinas de acacia se clavan y se parten
+- [ ] **Crema para picaduras** ×1 y **corticoide suave** ×1 ○
+- [ ] **Suero fisiológico en monodosis ×10** ○ — el polvo en los ojos es diario
+- [ ] **Termómetro ×1** · **guantes de nitrilo ×4** ○
+
+**Sol y bichos — lo que de verdad se gasta**
+
+- [ ] **Crema solar 50+ ×2 tubos grandes** ○ — el sol es el riesgo diario real, no la fauna
+- [ ] **Protector labial con filtro ×2** ○
+- [ ] **Aftersun ×1** ○
+- [ ] **Repelente con DEET ×2 frascos** ○
 
 ## 🔌 Electrónica y energía
 
-- [ ] **2 adaptadores tipo M** ◐ — comprados **antes de salir**: el Schuko no entra
-- [ ] **Cargador 12 V multi-USB** para el coche ○
-- [ ] **Powerbank grande** ○ *(el enchufe en parcela sigue sin confirmar, `04`)*
-- [ ] Cables de carga ×2 de cada tipo ○
-- [ ] **Frontal por persona, con modo rojo** ○ — charca de noche, letrina a las 3 AM, montar la
-      tienda al anochecer. **Pilas de repuesto.**
-- [ ] Móvil con **Tracks4Africa** ✅ y mapas offline descargados
-- [ ] Reloj despertador o alarma que no dependa de la batería del móvil ○
+- [ ] **Adaptadores tipo M ×2** ◐ — comprados **antes de salir**: el Schuko no entra, y no se
+      venden en supermercados españoles
+- [ ] **Cargador 12 V multi-USB ×1** ○ para el coche
+- [ ] **Powerbank ×1 grande** ○ *(el enchufe en parcela sigue sin confirmar, `04`)*
+- [ ] **Cables de carga ×2 de cada tipo** ○ — el polvo mata conectores
+- [ ] **Frontal ×1 por persona, con modo rojo** ○ — charca de noche, letrina a las 3 AM, montar la
+      tienda al anochecer. **+1 juego de pilas de repuesto** ○
+- [ ] **Linterna de mano ×1** ○ además del frontal
+- [ ] Móvil con **Tracks4Africa** ✅ y mapas offline **descargados**
+- [ ] Reloj o despertador que no dependa de la batería del móvil ○
 - [ ] **Satelital con SOS** *(Garmin inReach o similar)* ✅ — recomendado sin ambigüedad para esta
-      ruta; la compra o el alquiler **sigue pendiente de decidir** *(`04`)*
+      ruta; comprarlo o alquilarlo **sigue pendiente de decidir** *(`04`)*
 
 ## 📷 Óptica y cámara
 
-- [ ] **Prismáticos, uno por persona** ○ — y viajan **en el asiento, no en el maletero** ✅
-- [ ] Cámara + **teleobjetivo** para la fauna ○
-- [ ] **Trípode** ○ *(la charca iluminada de noche y el cielo del desierto)*
-- [ ] Tarjetas y baterías de sobra ○ *(comprarlas allí es caro y está lejos)*
-- [ ] **Funda o bolsa antipolvo** para la cámara ○
-- [ ] Peras de aire y paños de limpieza ○
+- [ ] **Prismáticos ×1 por persona** ○ — compartir unos en una charca es pelearse, y viajan **en el
+      asiento, no en el maletero** ✅
+- [ ] Cámara ×1 + **teleobjetivo** ○ para la fauna
+- [ ] **Trípode ×1** ○ — la charca iluminada de noche y el cielo del desierto
+- [ ] **Tarjetas ×4** y **baterías ×3** ○ — allí es caro y está lejos
+- [ ] **Funda o bolsa antipolvo ×1** ○ · pera de aire ×1 · paños de limpieza ×3
 
-## 🏕️ Campamento — lo que el coche YA trae, y lo que no
+## 🏕️ Campamento — solo lo que el coche NO trae
 
 El 4×4 de Namibia2Go viene con **2 tiendas de techo, ropa de cama para 4, mesa, 4 sillas, menaje
 completo, nevera eléctrica y compresor** ✅. **No se compra ni saco, ni esterilla, ni cacharros.**
 Lo que sí sube al petate:
 
-- [ ] **Almohada o cojín de viaje** ○ *(hay ropa de cama; la almohada es lotería)*
-- [ ] Cinta americana, bridas y cuerda fina para tender ○
-- [ ] Mechero ×2 y pastillas de encendido ○
-- [ ] Jabón de viaje para lavar a mano ○
-- [ ] Multiherramienta o navaja — **facturada, jamás en cabina** ○
-- [ ] Linterna de mano además del frontal ○
-- [ ] Libreta y boli ✅ — para apuntar **las presiones en frío** que den en la entrega del coche
+- [ ] **Almohada o cojín de viaje ×1 p.p.** ○ — hay ropa de cama, pero la almohada es lotería
+- [ ] **Cinta americana ×1**, **bridas ×10** y **cuerda fina ×5 m** ○
+- [ ] **Mecheros ×2** y pastillas de encendido ○
+- [ ] **Multiherramienta o navaja ×1** — **facturada, jamás en cabina** ○
+- [ ] **Bolsa estanca ×1** para la electrónica ○
 
 ## 💧 En el coche, todos los días
 
 - [ ] **4 litros de agua por persona y día, EN el coche** ✅ — no en el maletero de atrás
-- [ ] Garrafas o bidones para llevarla ○ *(se compran allí, `08`)*
-- [ ] Snacks secos: frutos secos, barritas, biltong para el camino ○
-- [ ] Bolsa de basura en la puerta ○ *(en los parques la basura vuelve contigo)*
-- [ ] Ziplocs para la **Línea Roja** ✅ — los restos de carne no bajan del norte
+- [ ] **Garrafas o bidones** ○ *(se compran allí, `08`)*
+- [ ] Snacks secos: frutos secos, barritas y biltong ○
+- [ ] **Bolsa de basura en la puerta** ○ — en los parques la basura vuelve contigo
+- [ ] **Ziplocs para la Línea Roja** ✅ — los restos de carne no bajan del norte
 
 ---
 
@@ -176,10 +219,11 @@ Lo que sí sube al petate:
 
 ## 🛒 Lo que se compra allí, no aquí
 
-- **Agua en garrafa, hielo y comida** — el avituallamiento está mapeado parada a parada en
+- **Agua en garrafa, hielo y comida** — mapeado parada a parada en
   [`08`](08-comida-compras-y-regalos.md) ✅
-- **Leña** para las barbacoas de campamento ✅ *(se vende en las gasolineras y en los campings)*
-- **Tarjeta SIM local**, si se quiere datos — pero la ruta tiene tramos sin cobertura de nadie ✅
+- **Leña** para las barbacoas de campamento ✅
+- **Tarjeta SIM de MTC** ◐ — paquete turista **«Leisure» N$349 (~€17)**, 14 días y 10,1 GB, justo la
+  duración del viaje; solo en la tienda del aeropuerto *(`07`)*
 
 ## 🚫 Lo que NO se lleva
 
@@ -187,10 +231,8 @@ Lo que sí sube al petate:
 - ❌ **Maleta rígida grande** ○ — no cabe con la nevera y las cajas
 - ❌ **Saco, esterilla, hornillo y menaje** ✅ — el coche lo trae todo
 - ❌ **Comida de casa en cantidad** — resuelto en `08`
-- 🚁 **Dron: se queda en casa** ✅ — no es escrúpulo, es que **no hay dónde volarlo en esta ruta**:
-  fuera de los parques exige permiso previo de la NCAA, dentro de un parque nacional está prohibido
-  y el permiso no se concede a vuelo privado, y **Etosha lo prohíbe del todo desde abril de 2025**.
-  El detalle, con fuentes, en [`11`](11-lista-google-maps.md).
+- 🚁 **Dron: se queda en casa** ✅ — **no hay dónde volarlo en esta ruta**. El detalle, con fuentes,
+  en [`11`](11-lista-google-maps.md)
 - ❌ **A la vuelta: nada de biltong ni carne en el petate** ✅ — prohibido entrar en la UE
 
 ---
@@ -216,4 +258,4 @@ flowchart TD
 *Esta lista no cotiza precios: lo que falta por comprar —adaptadores, satelital, garrafas— se paga
 fuera del presupuesto de `02` o directamente allí. Y lo heredado de la ficha del coche depende del
 **inventario por escrito** que sigue pendiente con Namibia2Go: toallas, almohadas y el detalle del
-menaje son los «sin dato» que ese email cierra. · 05/08/2026*
+menaje son los «sin dato» que ese email cierra. · 06/08/2026*
