@@ -22,12 +22,11 @@ no se hace.**
 > [`16`](16-punto-de-decision.md).
 
 
-> ## 🔄 NOTA: este presupuesto asume la RUTA DEL NORTE (Variante E) — que está PENDIENTE de tu confirmación
-> Este documento presupuesta la **ruta del norte** (sur fuera), con coche de **Namibia2Go** y fechas de
-> **1–14 de noviembre**. **⚠️ Ojo: esa ruta y esas fechas contradicen dos decisiones que habías dado
-> por cerradas** («el sur se queda» y «finales de noviembre») y **no constan confirmadas por ti** — el
-> porqué, y las variantes que respetan el sur, están en [`16`](16-punto-de-decision.md). **Léelo antes
-> de fiarte de estos totales.** Los supuestos concretos de esta versión:
+> ## ✅ NOTA: este presupuesto es el de la RUTA DEL NORTE, confirmada el 06/08/2026
+> Este documento presupuesta la **ruta del norte** (sur fuera), con coche de **Namibia2Go** y las
+> fechas del vuelo de Lufthansa —**30 de octubre a 14 de noviembre**, en tierra del 31 al 14—.
+> **Decisión del viajero, cerrada**: lo que se estudió antes queda archivado en
+> [`16`](16-punto-de-decision.md). Los supuestos concretos de esta versión:
 >
 > - **Ruta**: **la del norte** — la clásica con **Etosha** (4 noches) y **sin el sur** (Fish River,
 >   Lüderitz, kokerbooms). Si eliges una variante con el sur, este presupuesto cambia; la base medida

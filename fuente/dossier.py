@@ -22,7 +22,7 @@ import mapa                                                        # noqa: E402
 import trazado                                                     # noqa: E402
 from comun import RAIZ, marca_texto, md                            # noqa: E402
 
-FECHA = "5 de agosto de 2026"
+FECHA = "6 de agosto de 2026"
 
 # ---------------------------------------------------------------------------
 # Estructura del volumen
@@ -201,6 +201,21 @@ def a_html(texto, doc=None):
 
     # `- [ ] item` -> casilla dibujada, que en papel se marca a boli.
     h = re.sub(r'<li>\[ \]\s*', '<li class="tarea"><span class="casilla"></span>', h)
+
+    # Cosas que GitHub pinta bonito y en papel no existen:
+    #  · los avisos `> [!NOTE]` -> el rotulo tipografico del dossier
+    #  · los `<details>` plegables -> abiertos, con su titulo, que en el PDF no
+    #    hay donde pulsar y Chrome imprime solo el `<summary>` si se dejan
+    #  · las insignias de shields.io -> fuera: el PDF se imprime sin red
+    avisos = {"NOTE": ("info", "nota"), "TIP": ("ok", "en corto"),
+              "IMPORTANT": ("duda", "importante"), "WARNING": ("no", "ojo"),
+              "CAUTION": ("no", "cuidado")}
+    h = re.sub(r"\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*",
+               lambda m: '<span class="et et-{0}">{1}</span> '.format(*avisos[m.group(1)]), h)
+    h = re.sub(r"<details[^>]*>", '<div class="desplegable">', h)
+    h = h.replace("</details>", "</div>")
+    h = re.sub(r"<summary>(.*?)</summary>", r'<h3 class="desplegable-t">\1</h3>', h, flags=re.S)
+    h = re.sub(r'<img [^>]*src="https?://[^"]*"[^>]*>\s*', "", h)
 
     # enlaces entre documentos -> anclas internas del propio PDF
     h = re.sub(r'href="(\d\d)-[a-z-]+\.md"', r'href="#doc-\1"', h)
@@ -483,6 +498,10 @@ def presentacion():
     texto = re.sub(r"### 📕 \[\*\*Descargar.*?\n\n.*?\n\n", "", texto, flags=re.S)
     h = poda(a_html(texto), "RM")
     h = re.sub(r"<h2>", '<h2 class="pres">', h)
+    # Las fotos y el mapa del README no entran: el dossier trae los suyos, colocados
+    # donde tocan, y aqui saldrian repetidos y del tamano de un sello.
+    h = re.sub(r"<img [^>]*>", "", h)
+    h = re.sub(r"<a [^>]*>\s*</a>", "", h)
     # En el indice del README los emojis son decoracion, no rotulos: convertidos a
     # palabra se pegan al numero de la lista («8.GASOLINA 07-logistica»). Aqui —y
     # solo aqui, que en los documentos si etiquetan— se caen.
