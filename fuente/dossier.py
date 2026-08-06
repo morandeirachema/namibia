@@ -434,13 +434,17 @@ def paginas_de_mapas():
   <p class="nota-tabla">Los kilómetros de esta tabla son <b>de carretera, puerta a puerta</b>,
   medidos con OSRM sobre el trazado de OpenStreetMap el 4 de agosto de 2026. No incluyen los
   desvíos a charcas dentro de Etosha ni las vueltas del día de descanso.</p>
+</section>
 
-  <div class="mapa mapa-etosha">{mapa.mapa_etosha()}
-    <figcaption><b>Etosha, charca a charca.</b> En seca la fauna no está repartida por el
-    parque: está en el agua. Las charcas, las pistas y el límite del parque salen de
-    OpenStreetMap; el relleno blanco es la depresión, que en noviembre está seca —y por eso
-    el safari funciona. Los círculos huecos son sondeos con bomba: los que aguantan cuando
-    las charcas naturales se secan.</figcaption>
+<section class="mapa-plena girado">
+  <div class="marco">
+    <div class="mapa mapa-etosha">{mapa.mapa_etosha()}
+      <figcaption><b>Etosha, charca a charca.</b> En seca la fauna no está repartida por el
+      parque: está en el agua. Las charcas, las pistas y el límite del parque salen de
+      OpenStreetMap; el relleno blanco es la depresión, que en noviembre está seca —y por eso
+      el safari funciona. Los círculos huecos son sondeos con bomba: los que aguantan cuando
+      las charcas naturales se secan.</figcaption>
+    </div>
   </div>
 </section>"""
 
@@ -479,6 +483,10 @@ def presentacion():
     texto = re.sub(r"### 📕 \[\*\*Descargar.*?\n\n.*?\n\n", "", texto, flags=re.S)
     h = poda(a_html(texto), "RM")
     h = re.sub(r"<h2>", '<h2 class="pres">', h)
+    # En el indice del README los emojis son decoracion, no rotulos: convertidos a
+    # palabra se pegan al numero de la lista («8.GASOLINA 07-logistica»). Aqui —y
+    # solo aqui, que en los documentos si etiquetan— se caen.
+    h = re.sub(r'(<li>)\s*<span class="(?:rot|et et-\w+)">[^<]*</span>\s*(?=<a )', r"\1", h)
     return (f'<section class="doc" id="presentacion">'
             f'<h1 class="titulo">El viaje de un vistazo{ancla("RM")}</h1>{h}</section>')
 

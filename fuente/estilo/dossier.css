@@ -240,6 +240,19 @@ figcaption .credito { color: var(--tinta-3); font-size: 6.6pt; text-align: right
                    margin-top: 1.6mm; display: block; }
 .mapa-plena { page-break-before: always; padding: 0; }
 
+/* El mapa de Etosha es apaisado: en una pagina vertical solo llenaba el ancho y dejaba
+   149 mm en blanco debajo. Girado 90 grados llena la pagina entera —se gira el papel,
+   como en un atlas— y se ve la mitad mas grande, que para la guantera es la diferencia
+   entre leer los nombres de las charcas y no leerlos. */
+.mapa-plena.girado { position: relative; height: var(--caja-alto); overflow: hidden; }
+.mapa-plena.girado .marco { position: absolute; top: 50%; left: 50%;
+  width: var(--caja-alto); height: var(--caja-ancho);
+  transform: translate(-50%, -50%) rotate(-90deg); }
+.mapa-plena.girado .mapa { margin: 0; }
+/* Medida explicita: dentro del marco girado, el 100% heredado se resolvia contra el
+   ancho de la pagina —186 mm— y el mapa se quedaba a dos tercios de lo que cabe. */
+.mapa-plena.girado .mapa svg { width: var(--caja-alto); max-width: none; height: auto; }
+
 /* ------------------------------------------------------------- diagramas  */
 
 /* Aqui NO se recorta: recortar el SVG de Mermaid corta las etiquetas de los nodos.

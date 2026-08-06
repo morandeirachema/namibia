@@ -95,15 +95,19 @@ def revisa_pdf(nombre, minimo):
         bien(f"{nombre}: {paginas} paginas, {mb:.1f} MB")
 
 
-def revisa_escala(nombre, alto_minimo=250):
+def revisa_escala(nombre, alto=267, tolerancia=3):
     """Vigila que Chrome no haya encogido el PDF entero.
 
-    Si algo no cabe a lo ancho —el caso tipico es un diagrama alto que obliga a
-    Chrome a abrir una tercera columna en una pagina a dos— el navegador reduce
-    TODAS las paginas para que quepan, y el documento sale a dos tercios sin
-    avisar de nada. El ancho no lo delata (la portada es `width:100%` y se
-    encoge con el resto, asi que sigue llenando la caja); el alto si: la portada
-    pide 291 mm y en un PDF sano ocupa la pagina entera.
+    Si algo no cabe a lo ancho —una URL larga en una columna de 89 mm, sin ir mas
+    lejos— el navegador ensancha la caja, abre una tercera columna y reduce TODAS
+    las paginas para que quepan: el documento sale a dos tercios sin avisar. El
+    ancho no lo delata (la portada es `width:100%` y se encoge con el resto, asi
+    que sigue llenando la caja); el alto si, porque esta en milimetros: la
+    portada pide 267 mm y en un PDF sano mide eso.
+
+    Se mide la PRIMERA mancha continua de la pagina 1 —la foto de portada—, no de
+    la primera a la ultima fila con tinta: si no, el filete del pie de pagina
+    entra en la cuenta y disimula un encogido suave.
     """
     ruta = os.path.join(RAIZ, nombre)
     if not os.path.exists(ruta):
@@ -122,14 +126,19 @@ def revisa_escala(nombre, alto_minimo=250):
         im = Image.open(os.path.join(tmp, png[0])).convert("L")
         w, h = im.size
         px = im.load()
-        filas = [y for y in range(h)
-                 if sum(1 for x in range(w) if px[x, y] < 200) > w * .5]
-        mm = (filas[-1] - filas[0] + 1) / 72 * 25.4 if filas else 0
-    if mm < alto_minimo:
-        mal(f"{nombre}: la portada mide {mm:.0f} mm de alto, esperaba >= {alto_minimo}. "
-            f"Chrome ha encogido el PDF entero: algo no cabe a lo ancho de la caja")
+        tinta = [sum(1 for x in range(w) if px[x, y] < 200) > w * .5 for y in range(h)]
+        try:
+            a = tinta.index(True)
+            b = tinta.index(False, a) - 1
+        except ValueError:
+            a, b = 0, -1
+        mm = (b - a + 1) / 72 * 25.4 if b >= a else 0
+    if abs(mm - alto) > tolerancia:
+        mal(f"{nombre}: la portada mide {mm:.0f} mm de alto y deberia medir {alto}. "
+            f"Si es menos, Chrome ha encogido el PDF entero porque algo no cabe a lo ancho: "
+            f"busca una URL sin partir o un diagrama que se salga de la columna")
     else:
-        bien(f"{nombre}: escala correcta, la portada llena la pagina ({mm:.0f} mm)")
+        bien(f"{nombre}: escala correcta, la portada mide sus {mm:.0f} mm")
 
 
 def revisa_paginas_readme():
@@ -154,6 +163,21 @@ def revisa_paginas_readme():
             bien(f"{nombre}: el README dice las paginas que son ({real})")
 
 
+def revisa_indice_readme():
+    """El indice del README se numera a mano: que no se descuadre ni pierda un documento."""
+    import re
+    texto = open(os.path.join(RAIZ, "README.md")).read()
+    listados = re.findall(r"^(\d+)\. .*?\[\*\*`(\d\d)-[a-z-]+`\*\*\]", texto, re.M)
+    numeros = [int(n) for n, _ in listados]
+    docs = {d for _, d in listados}
+    if numeros != list(range(1, len(numeros) + 1)):
+        return mal(f"el indice del README va numerado {numeros}, y deberia ir 1..{len(numeros)}")
+    en_disco = {f[:2] for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f)}
+    if en_disco - docs:
+        return mal(f"el indice del README no lista {sorted(en_disco - docs)}")
+    bien(f"el indice del README: {len(numeros)} documentos, numerados y completos")
+
+
 def revisa_documentos():
     import re
     docs = sorted(f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
@@ -173,6 +197,7 @@ def main():
     revisa_pdf("guia-fauna-etosha.pdf", 8)
     revisa_escala("dossier-namibia-2026.pdf")
     revisa_paginas_readme()
+    revisa_indice_readme()
     print(f"\n{'TODO EN ORDEN' if not FALLOS else str(len(FALLOS)) + ' FALLOS'}")
     return 1 if FALLOS else 0
 
