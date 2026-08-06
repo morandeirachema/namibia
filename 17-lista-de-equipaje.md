@@ -150,13 +150,27 @@ Lo que sí sube al petate:
 
 ## 📦 Los tres micro-kits del día señalado
 
-*El detalle y el porqué, en [`05`](05-equipaje.md).*
+*Se preparan la víspera y viajan en el daypack. El porqué de cada uno, en [`05`](05-equipaje.md).*
 
-- **Kit Deadvlei (D4, en marcha ~05:10)** — daypack, **3 L de agua por persona**, forro y
-  cortavientos *(se quedan en el coche a las 9:00)*, buff, frontal, calzado cerrado, cámara.
-- **Kit charca nocturna (D9–D12)** — forro, frontal **en rojo**, prismáticos, trípode y paciencia.
-- **Kit costa (D5–D7)** — cortavientos, buff para Cape Cross y **toda la electrónica en bolsa
-  estanca**: niebla, salitre y polvo el mismo día.
+**Kit Deadvlei — D4, en marcha ~05:10**
+
+- [ ] Daypack con **3 L de agua por persona**
+- [ ] Forro y cortavientos *(se quedan en el coche a las 9:00)*
+- [ ] Buff, frontal y calzado cerrado
+- [ ] Cámara *(desinflar y reinflar no es problema: el compresor va en el coche ✅)*
+
+**Kit charca nocturna — D9 a D12**
+
+- [ ] Forro *(se está quieto y refresca)*
+- [ ] Frontal **en modo rojo**
+- [ ] Prismáticos y trípode
+- [ ] Paciencia: apagar y darle 15–20 minutos ✅ *(`01`)*
+
+**Kit costa — D5 a D7**
+
+- [ ] Cortavientos
+- [ ] Buff para Cape Cross
+- [ ] **Toda la electrónica en bolsa estanca**: niebla, salitre y polvo el mismo día
 
 ---
 

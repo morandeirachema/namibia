@@ -9,7 +9,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 02/08/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 02/08/2026 · podado el 06/08/2026 al separar la lista en `17`*
 
 
 ---
@@ -65,33 +65,31 @@ flowchart TD
 
 ---
 
-## 📄 Documentos *(el bloque que decide si entras — todo del dossier)*
+## 📄 Documentos *(el bloque que decide si entras)*
 
-- **Pasaportes** ✅: válidos hasta el **15/05/2027 mínimo** y **3 páginas en blanco de verdad** (`04`)
-- **e-visa impreso y firmado** ✅ + copia (`04` — solo el portal `eservices.mhaiss.gov.na`)
-- **Póliza IATI en papel**: número + **línea 24 h** — los hospitales privados piden garantía por
-  adelantado ✅ (`07`)
-- **Billetes, reservas de NWR/Terrace Bay/coche impresas** ✅ (Terrace Bay: sin reserva impresa no
-  entras al parque, `11`)
-- **Carné de conducir + permiso internacional** — ⚠️ si es obligatorio **sigue sin resolver** (`12`):
-  está en la cuenta atrás de septiembre (`04`)
-- **Cartilla de vacunación** (la de fiebre amarilla **no hace falta**: el vuelo escala en
-  Fráncfort y Múnich, que no son zona de riesgo — `04`/README)
-- ○ Copias: fotocopias de todo en una bolsa aparte del original + fotos en el móvil (offline)
+Cuatro de ellos se comprueban **contra una fecha**, y por eso van antes que nada: el **pasaporte**
+tiene que valer hasta el **15/05/2027** y llevar **3 páginas en blanco de verdad** ✅; el **e-visa**
+no se puede pedir sin billete de vuelta, y solo lo emite `eservices.mhaiss.gov.na` ✅ (`04`); la
+**reserva impresa de Terrace Bay** es la que te deja entrar al parque a dormir ✅ (`11`); y el
+**permiso internacional de conducir** ⚠️ **sigue sin resolverse si es obligatorio** (`12`), aunque
+la ley namibia pide una versión en inglés del carné (`04`).
+
+Y uno que no es papel de trámite sino de urgencia: la **póliza IATI impresa con la línea 24 h**,
+porque **los hospitales privados piden garantía por adelantado** ✅ (`07`). La cartilla de fiebre
+amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son zona de riesgo (`04`).
 
 ## 🩺 Salud y botiquín
 
 - **Profilaxis de malaria** según lo que diga el CVI ✅ (`04`): si es Malarone, se empieza ya de
   viaje (~7–8 nov); si es mefloquina, **~19–26 de octubre** — la receta sale de la cita de
   septiembre
-- **Repelente con DEET** ○ (Etosha es zona de malaria ✅, aunque tu ventana es el mínimo
-  estacional — `04`): manga larga ligera al anochecer en Etosha ○
-- **Crema solar 50+, aftersun y protector labial** ○ — el sol es el riesgo diario real
+- **El sol es el riesgo diario real**, no la fauna ni la malaria: crema 50+, protector labial y
+  sombrero se usan los catorce días ○
 - **Sales de rehidratación oral** ○ — con 35–38 °C y aire seco, la deshidratación va por delante
   de la sed. Y la regla del agua ✅ (`06`/FCDO): **4+ L por persona y día EN el coche**
-- Botiquín ○: analgésico, antidiarreico, antihistamínico, tiritas + compeed, vendas, tijeras,
-  **pinzas** (espinas de acacia), **colirio** (polvo), termómetro, tus medicaciones con receta
-- ○ **Gafas graduadas mejor que lentillas** (polvo); gafas de repuesto
+- **Repelente con DEET** ○: Etosha es zona de malaria ✅ aunque tu ventana sea el mínimo estacional
+  (`04`) — con manga larga ligera al anochecer ○
+- ○ **Gafas graduadas mejor que lentillas** — el polvo de la grava se mete por todo
 
 ## 🔌 Electrónica
 
@@ -100,15 +98,13 @@ flowchart TD
   **powerbank** grande para las noches sin electricidad en parcela (**enchufe en parcela: sin
   dato** — pregúntalo al reservar NWR)
 - **Frontal por persona** ○ (la charca iluminada, la letrina a las 3 AM, montar la tienda al
-  anochecer) — con **modo rojo** ○: en la charca de Okaukuejo la luz blanca molesta a todos
+  anochecer) — y **con modo rojo** ○: en la charca de Okaukuejo la luz blanca molesta a todos
+  los que llevan media hora esperando en silencio
 - **El satelital con SOS** (Garmin inReach o similar) — el dossier lo recomienda sin ambigüedad
   para ESTA ruta ✅ (`06`/`07`: «el móvil es una cámara, no un salvavidas» en Solitaire–Walvis y
   Damaraland). **Decisión de compra/alquiler aún pendiente** (`04`)
 - **Prismáticos — uno POR PERSONA** ○ (compartir prismáticos en una charca es pelearse) — y van
   «EN el asiento, no en el maletero» (`01`)
-- Cámara: **tele** para fauna ○ · **trípode** para la charca iluminada de noche y el cielo del
-  desierto ○ · tarjetas y baterías de sobra (comprarlas allí: caro y lejos) · **funda/bolsa
-  antipolvo** ○
 - Móvil: **Tracks4Africa** ✅ (`13` lo exige para verificar etapas) + mapas offline + los teléfonos
   de emergencia de `07` grabados **y en papel en la guantera** ✅
 - 🚁 **Dron: NO. Se queda en casa** ✅ — no es escrúpulo, es que **no hay dónde volarlo en esta
@@ -119,40 +115,22 @@ flowchart TD
   motivos para llevarlo— son justo los tres sitios donde no se puede. **El detalle, con fuentes, en
   [`11`](11-lista-google-maps.md).**
 
-## 👕 Ropa *(14 días, lavado a mano posible ○)*
+## 👕 Ropa y calzado — las tres decisiones, no el recuento
 
-- **La corrección de premisa de `04` manda**: forro polar (1), **cortavientos/chubasquero ligero**
-  (1 — costa y madrugada de Deadvlei), y NADA de plumas ni térmicos
-- ○ 4–5 camisetas transpirables + 2 camisas de manga larga ligeras (sol y mosquitos: valen más que
-  otra camiseta) · 2 pantalones largos ligeros + 2 cortos · ropa interior y calcetines para
-  ~7 días · **bañador** (piscinas de Okaukuejo/Halali/Namutoni ✅ `01`, y la de Halali es plan de
-  mediodía) · algo mínimamente decente para Joe's y el hotel del D13
-- ○ Colores tierra/neutros para el safari (no es dogma, pero el blanco se ve a un kilómetro y el
-  negro da calor)
-- **Sombrero de ala** ○ + **buff/pañuelo** — que además es la herramienta oficial contra el olor
-  de Cape Cross ✅ (README: «pañuelo para la nariz — en serio»)
+*Cuántas camisetas y cuántos calcetines, con casilla, en [`17`](17-lista-de-equipaje.md).*
 
-## 🥾 Calzado
+- **La corrección de premisa de `04` manda**: **un** forro polar y **un** cortavientos ligero
+  —costa y madrugada de Deadvlei—, y **nada de plumas ni térmicos**. La mínima más baja de todo el
+  viaje es 12,7 °C ✅.
+- **Manga larga ligera antes que otra camiseta** ○: sirve para el sol de mediodía y para los
+  mosquitos del anochecer en Etosha, que es donde hay malaria. Colores tierra o neutros ○ — no es
+  dogma, pero el blanco se ve a un kilómetro y el negro da calor. Y el **buff** no es un accesorio:
+  es la herramienta oficial contra el olor de Cape Cross ✅.
+- **Dos calzados y unas chanclas** ○: zapatilla de trail **ya domada** para Big Daddy, Sesriem
+  Canyon, Twyfelfontein y la cascada del Uniab (`10`); sandalia de trekking para conducir y para el
+  campamento; chanclas para las duchas compartidas. La arena a mediodía **quema**: nunca descalzo ○.
 
-- **Zapatilla de trail o bota ligera ya domada** ○ — Big Daddy, Sesriem Canyon, Twyfelfontein, la
-  cascada del Uniab (`10`)
-- **Sandalia de trekking** ○ — conducir, campamento, y la bajada corriendo de Big Daddy a Deadvlei
-  (la arena a mediodía QUEMA: nunca descalzo ○)
-- Chanclas de ducha ○
-
-## 🧰 Extras que sí y trampas que no
-
-**Sí ○:**
-- Cinta americana + bridas + cuerda fina (tender la ropa) + jabón de viaje
-- Mechero ×2 y pastillas de encendido (la leña resinosa de algunos campings, `08`)
-- Cuchillo/multiherramienta **facturado, jamás en cabina**
-- Bolsas de basura (en los parques la basura vuelve contigo ○) y ziplocs para la Línea Roja
-  (restos de carne NO bajan del norte ✅ `07`)
-- Toallas de microfibra ×2 *(hasta que el inventario escrito del coche diga si trae — sin dato)*
-- Cojín/almohada de viaje ○: la ficha dice «ropa de cama», la calidad de la almohada es lotería
-- Libreta y boli — para apuntar las **presiones en frío** que te den en la entrega ✅ (`06`)
-
-**No 🚫:**
+## 🚫 Las trampas — lo que se queda en casa
 - ❌ Plumas, térmicos, gorro y guantes ◐ (`04`) — peso muerto
 - ❌ Maleta rígida grande ○ — no cabe bien
 - ❌ Saco de dormir, esterilla, hornillo, menaje ✅ — el coche lo trae TODO (README)
@@ -163,19 +141,19 @@ flowchart TD
 
 ---
 
-## 📦 Los tres «micro-kits» del día señalado
+## 📦 Por qué hay tres «micro-kits»
 
-- **Kit Deadvlei (D4, salida ~05:10 ☀️)**: daypack con 3 L de agua p.p., forro + cortavientos
-  (se queda en el coche a las 9:00), buff, cámara, frontal para el tramo de puerta, calzado
-  cerrado. Desinflar/reinflar: el compresor va en el coche ✅.
-- **Kit charca nocturna (D9–D12)**: forro, frontal en rojo, prismáticos, trípode, silencio y
-  paciencia (`01`: apaga y dale 15–20 min).
-- **Kit costa (D5–D7)**: cortavientos, buff para Cape Cross, y la electrónica en bolsa estanca —
-  niebla + salitre + polvo el mismo día.
+Hay tres momentos del viaje en los que **lo que necesitas no es lo que llevas encima**, y los tres
+pillan con el petate cerrado en el maletero: la **salida a Deadvlei del D4**, que arranca a las
+~05:10 con frío y termina a mediodía con 34 °C; las **charcas de noche del D9 al D12**, que se hacen
+a oscuras y en silencio; y la **costa del D5 al D7**, donde caen niebla, salitre y polvo el mismo
+día. Por eso se preparan la víspera y viajan en el daypack, no abajo.
+
+**Qué va en cada uno, con casilla: [`17`](17-lista-de-equipaje.md).**
 
 ---
 
 *Los precios de lo que falta por comprar (adaptadores, satelital, garrafas) no están cotizados en
 el dossier — se compran fuera o allí (`08`). Lo heredado de fichas del coche depende del
 **inventario POR ESCRITO** pendiente con Namibia2Go (`04`): toallas, almohadas y detalle del menaje
-son los «sin dato» que ese email cierra. · 02/08/2026*
+son los «sin dato» que ese email cierra. · 06/08/2026*
