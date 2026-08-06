@@ -3,7 +3,7 @@
 > **Namibia · noviembre 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > ✅ **Decidido: la ruta del norte de 14 días —Variante E, con Etosha y sin el sur— y las fechas del
-> billete de Lufthansa, 30 de octubre a 14 de noviembre.** Decisión del viajero, tomada a la vista de
+> vuelo de Lufthansa —cotizado, sin emitir—, 30 de octubre a 14 de noviembre.** Decisión del viajero, tomada a la vista de
 > lo que hay debajo. **Esta ficha ya no pide nada**: se queda como registro de qué se comparó, qué se
 > descartó y por qué, para que dentro de un año se pueda reconstruir el razonamiento.
 >
@@ -19,7 +19,7 @@
 El dossier planifica **el norte sin el sur**, con las fechas del vuelo de Lufthansa. El encargo
 escrito decía lo contrario en dos puntos marcados como cerrados —**«el sur SE QUEDA»** y **«finales
 de noviembre»**—, así que esta ficha se levantó para devolver la elección a su sitio. **El 06/08/2026
-el viajero confirmó la ruta del norte y las fechas del billete**, y con eso la desviación deja de
+el viajero confirmó la ruta del norte y las fechas del vuelo**, y con eso la desviación deja de
 serlo: es la ruta elegida. Lo que sigue es el registro de lo que se comparó.
 
 ```mermaid
@@ -160,7 +160,7 @@ tuvo delante al decidir: **no constaba hecha ninguna reserva.***
 ```mermaid
 flowchart LR
     D["06-08-2026<br/>DECISION DEL VIAJERO"] --> R["Variante E<br/>norte con Etosha,<br/>sin el sur"]
-    D --> F["Fechas del billete<br/>Lufthansa<br/>30 oct - 14 nov"]
+    D --> F["Fechas del vuelo<br/>Lufthansa cotizado<br/>30 oct - 14 nov"]
     R --> L["El dossier ya estaba<br/>montado para esta ruta:<br/>nada que rehacer"]
     F --> C["Recotizar el coche<br/>y adelantar el seguro<br/>al 30 de octubre"]
     style D fill:#2d6a4f,color:#fff
@@ -172,7 +172,7 @@ flowchart LR
 - **Las fechas sí arrastran trabajo**, y es el único fleco vivo de esta decisión: el coche está
   cotizado del **1 nov 08:00 al 13 nov 17:00** y el vuelo va del **30 de octubre al 14 de
   noviembre**, así que **faltan el día 31 y el día 14** *(ver [`01`](01-itinerarios-dia-a-dia.md) D0
-  y [`02` §2](02-presupuesto.md))*. Hay que **recotizar el alquiler con las fechas del billete** y
+  y [`02` §2](02-presupuesto.md))*. Hay que **recotizar el alquiler con las fechas del vuelo** y
   **adelantar el inicio del seguro al 30/10**.
 
 ---

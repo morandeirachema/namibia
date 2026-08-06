@@ -34,7 +34,7 @@
 
 ```mermaid
 flowchart LR
-    D["DECIDIDO<br/>ruta del norte, 14 dias<br/>fechas del billete<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>vuelo 1.450 pp<br/>coche 35.100 N$<br/>seguro 113 EUR"]
+    D["DECIDIDO<br/>ruta del norte, 14 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>vuelo 1.450 pp<br/>coche 35.100 N$<br/>seguro 113 EUR"]
     C --> R["RESERVADO<br/>nada todavia"]
     R --> P["PAGADO<br/>nada todavia"]
     style D fill:#2d6a4f,color:#fff
@@ -45,8 +45,8 @@ flowchart LR
 
 > [!NOTE]
 > **Cerrado y no se rediscute.** La **ruta del norte, 14 días, con Etosha y sin el sur** — decisión
-> del viajero, 06/08/2026. Las **fechas son las del billete de Lufthansa**: 30 de octubre a 14 de
-> noviembre, llegada a Windhoek el **31 a las 09:25** y vuelta el **14 a las 20:45**, en casa el 15.
+> del viajero, 06/08/2026. Las **fechas son las del vuelo de Lufthansa** —cotizado, todavía sin emitir—: 30 de octubre
+> a 14 de noviembre, llegada a Windhoek el **31 a las 09:25** y vuelta el **14 a las 20:45**, en casa el 15.
 > El sentido de la marcha, **desierto → costa → Damaraland → Etosha al final**. El coche,
 > **Namibia2Go**. Lo que se comparó antes queda archivado en [`16`](16-punto-de-decision.md).
 
@@ -352,7 +352,7 @@ flowchart TD
     style D fill:#2d6a4f,color:#fff
 ```
 
-1. **El 4x4 — primero, y recotizado.** Namibia2Go con las fechas del billete: **flota pequeña y
+1. **El 4x4 — primero, y recotizado.** Namibia2Go con las fechas del vuelo: **flota pequeña y
    noviembre competido**. Decide de paso si añadir el día para devolverlo camino del aeropuerto en
    vez de hotel + dos traslados.
 2. **Sesriem dentro de la puerta, dos noches.** Solo **44 parcelas**, y es la diferencia entre *ver*
