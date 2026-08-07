@@ -8,6 +8,7 @@ los PDF existen y tienen paginas.
 """
 import json
 import os
+import re
 import subprocess
 import sys
 import tempfile
@@ -79,6 +80,71 @@ def revisa_geo():
         mal(f"la ruta suma {total:.0f} km, fuera de lo razonable para este viaje")
     else:
         bien(f"ruta completa: {len(ruta)} etapas, {total:.0f} km")
+
+
+# Los documentos que se leen SOBRE EL TERRENO, donde cada N$ es dinero que se paga y
+# tiene que llevar su equivalente al lado. Se comprueban solo estos tres a proposito: en
+# los de investigacion (02, 07, 11, 12, 15) hay cifras que se citan para desmentirlas
+# —«N$150 es lo que repiten los blogs», «N$445 fue un error de extraccion»— y tarifas que
+# no nos aplican, como la de residente namibio. Exigirles el euro llenaria esto de avisos
+# falsos, y una comprobacion que grita sin motivo se acaba ignorando.
+SOBRE_EL_TERRENO = ("01-itinerarios-dia-a-dia.md", "03-alojamiento-y-tasas.md",
+                    "13-itinerario.md")
+
+RE_NAD = re.compile(r"(?<![+\-±])N\$\s?([\d][\d.,]*)")
+
+
+def revisa_precios():
+    """La regla de la casa: todo precio, en N$ y en € a la vez.
+
+    Se mira una ventana a los dos lados porque el euro tanto puede ir pegado
+    —«N$920 ≈ €46»— como al final de la frase.
+    """
+    huerfanos = []
+    for nombre in SOBRE_EL_TERRENO:
+        ruta = os.path.join(RAIZ, nombre)
+        if not os.path.exists(ruta):
+            continue
+        texto = open(ruta).read()
+        for m in RE_NAD.finditer(texto):
+            if m.group(1).rstrip(".,") == "0":          # franquicia N$0: no es un precio
+                continue
+            if texto[m.end():m.end() + 2] == "/l":      # el precio del diesel, en su serie
+                continue
+            cerca = texto[max(0, m.start() - 80):m.end() + 80]
+            if "€" in cerca or "EUR" in cerca:          # EUR: dentro de un Mermaid, que no admite €
+                continue
+            huerfanos.append(f"{nombre}:{texto[:m.start()].count(chr(10)) + 1} {m.group(0)}")
+    if huerfanos:
+        mal(f"{len(huerfanos)} precios en N$ sin su equivalente en € al lado: "
+            f"{huerfanos[:5]}…")
+    else:
+        bien(f"precios: los {len(SOBRE_EL_TERRENO)} documentos de campo, todos en N$ y € a la vez")
+
+
+def revisa_convenciones():
+    """Dos reglas de maquetacion que el markdown no delata y el PDF sufre.
+
+    Las tablas se maquetan a mano en rejilla, asi que una tabla de markdown sale sin
+    estilo; y el `%% ancho` que hace que un diagrama cruce las dos columnas tiene que ir
+    en la SEGUNDA linea del bloque, porque de la primera se saca el tipo de diagrama.
+    """
+    fallos = []
+    for f in sorted(os.listdir(RAIZ)):
+        if not re.match(r"\d\d-.*\.md$", f) and f != "README.md":
+            continue
+        texto = open(os.path.join(RAIZ, f)).read()
+        if re.search(r"^\|", texto, re.M):
+            fallos.append(f"{f}: tabla de markdown — lo tabular va en rejilla o en Mermaid")
+        for m in re.finditer(r"```mermaid\n(.*?)```", texto, re.S):
+            for i, linea in enumerate(m.group(1).split("\n")):
+                if "%% ancho" in linea and i != 1:
+                    fallos.append(f"{f}: '%% ancho' en la linea {i + 1} del bloque y va en la 2")
+    if fallos:
+        for f in fallos:
+            mal(f)
+    else:
+        bien("convenciones: ni una tabla de markdown y los '%% ancho' en su linea")
 
 
 def revisa_avistamientos():
@@ -241,6 +307,8 @@ def revisa_documentos():
 def main():
     print("Comprobando el build…")
     revisa_documentos()
+    revisa_convenciones()
+    revisa_precios()
     revisa_imagenes()
     revisa_geo()
     revisa_avistamientos()

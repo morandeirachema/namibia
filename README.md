@@ -82,7 +82,7 @@ flowchart LR
 <summary><b>🕳️ Lo que sigue sin poder cerrarse</b></summary>
 
 Tres campings sin tarifa publicada *(Windhoek, Walvis Bay y Spreetshoogte — muro de `403` total)* ·
-la fianza de Namibia2Go *(ellos dicen «No Deposit», dos revendedores citan N$2.500 — pregúntalo por
+la fianza de Namibia2Go *(ellos dicen «No Deposit», dos revendedores citan N$2.500 (~€125) — pregúntalo por
 escrito)* · el sobrecoste en km del **desvío obligatorio Okaukuejo–Halali** · los horarios de salida
 de los safaris guiados de NWR · el **D0, 31 de octubre**, que no tiene plan ni noche resuelta ·
 la franquicia de equipaje, con tres aerolíneas en la vuelta.
@@ -193,7 +193,7 @@ por persona** — y sigues durmiendo arriba las 11 noches.
   con el parque cerrado y tú dentro. Camping **N$920 (~€46)**; el capricho del **chalet del charco**,
   **N$4.760 (~€238)** — en tu ventana, tarifa baja. ✅
 - 🐘 **Cuatro noches de safari, todas DENTRO del parque.** Okaukuejo → Halali → Namutoni ×2
-  (**N$920/noche los dos** ✅): sin horas de puerta, con las charcas iluminadas al lado y los
+  (**N$920 ≈ €46/noche los dos** ✅): sin horas de puerta, con las charcas iluminadas al lado y los
   amaneceres sin esperar a que abran. Y en seco: el parque estuvo así en **4 de las últimas 5
   temporadas** — la fauna concentrada en las charcas. ✅
 - 🦭 **Cape Cross**: decenas de miles de lobos marinos *(pañuelo para la nariz — en serio)*. ✅
@@ -322,7 +322,7 @@ pie showData
 
 > [!TIP]
 > **Se duerme arriba casi todo el viaje.** **11 de las 13 noches en la tienda de techo**, campings
-> incluidos los tres de dentro de Etosha *(N$920 la pareja ✅)*. Las dos que no pueden ser:
+> incluidos los tres de dentro de Etosha *(N$920 ≈ €46 la pareja ✅)*. Las dos que no pueden ser:
 > **Terrace Bay**, que solo tiene habitaciones, y **la última**, cuando el coche ya está entregado.
 
 📖 **El desglose completo, partida a partida, con qué está cerrado y qué es estimación —y qué pasa
@@ -360,7 +360,7 @@ flowchart TD
    de ventaja, que es el motivo.)*
 3. **Terrace Bay con reserva confirmada** — sin ella **no te dejan entrar** al Skeleton Coast para
    pernoctar (el permiso de tránsito obliga a salir el mismo día). Y las **4 noches DENTRO de
-   Etosha** (Okaukuejo, Halali, Namutoni ×2 — N$920/noche ✅): en noviembre hay sitio, pero el
+   Etosha** (Okaukuejo, Halali, Namutoni ×2 — N$920 ≈ €46/noche ✅): en noviembre hay sitio, pero el
    chalet del charco vuela.
 4. **Los papeles con calendario.** El **e-visa (N$1.600, ~€78)** se pide online y **se imprime y
    firma ante el oficial** — solo en `eservices.mhaiss.gov.na` ⚠️ *(`namibia-evisa.com` parece
@@ -534,7 +534,7 @@ Mopane ~N$2.970 pp B&B, Etosha Safari Camp ~N$2.220–3.550/noche— **en ◐ po
 página para verificar la extracción** *(una pasada llegó a colar «N$445» de puro error)*: son
 pistas, no precios cerrados; confírmalos por email.
 
-Y las tasas de parque (~N$280) las respaldan ya **dos páginas oficiales del MEFT** (PDF + nota de
+Y las tasas de parque (~N$280 · ~€14) las respaldan ya **dos páginas oficiales del MEFT** (PDF + nota de
 prensa `news/199`), secundarias concordantes y ya el **Government Gazette Nº 8877 (GN Nº 115,
 1/04/2026)** — la fuente legal numerada, **localizada el 23/07** — pero como ninguna se pudo
 **abrir** aquí (403), la extracción de la tabla fina queda en ◐: **confírmalas por email antes de

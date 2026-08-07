@@ -28,7 +28,7 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
   - ⚠️ **Actualización 02/08/2026 ◐:** una secundaria ([namibian.org](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent))
     sitúa Cape Cross entre los parques **«premium» del baremo MEFT vigente desde abril de 2026 →
     N$280 (~€14)/adulto**. El rango N$80–150 de las reseñas sería la tarifa vieja. **Presupuesta
-    N$280 y confírmalo contra el PDF del MEFT** (el mismo email pendiente de las tasas, ver `02`).
+    N$280 (~€14) y confírmalo contra el PDF del MEFT** (el mismo email pendiente de las tasas, ver `02`).
   - **Timing ideal:** el pico de cría es **noviembre-diciembre** (hasta ~210.000 focas) — justo
     vuestras fechas.
   - Acceso por la **C34** al norte de Swakopmund (costa). Gestiona MEFT.
@@ -322,7 +322,7 @@ con el motivo:
   propietario del vehículo y la duda de si el seguro sigue vigente al otro lado.
 - **Tsumkwe y Harnas** (extremo este) — mismo problema que Kaokoland: son un viaje aparte.
 - **Spitzkoppe y Brandberg** — no están en la ruta de referencia y obligan a desviarse del eje de la
-  costa. *(El camping comunitario de Spitzkoppe está cerrado en **N$270/persona**, entrada incluida ◐,
+  costa. *(El camping comunitario de Spitzkoppe está cerrado en **N$270 ≈ €13,50/persona**, entrada incluida ◐,
   por si algún día se recupera.)*
 
 **Lo que sí sobrevivió** está repartido por el dossier: Joe's Beerhouse, Solitaire, Sesriem Canyon,

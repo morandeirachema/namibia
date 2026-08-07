@@ -124,7 +124,7 @@ gantt
 > flowchart TD
 >     T["TIENDA DE TECHO · 8 noches ya resueltas<br/>D2 Spreetshoogte · D3-D4 Sesriem dentro de la puerta<br/>D8 Hoada · D9 Okaukuejo · D10 Halali · D11-D12 Namutoni"]
 >     D["POR ELEGIR CAMPING · 3 noches<br/>D1 Windhoek: Urban Camp o Arebbusch<br/>D5-D6 Walvis Bay: Lagoon Chalets<br/>existen y tienen camping, pero NO publican precio"]
->     P["HABITACION, NO TIENDA · D7 Terrace Bay<br/>el tarifario oficial de NWR no tiene camping aqui:<br/>doble en media pension, N$3.480 los dos"]
+>     P["HABITACION, NO TIENDA · D7 Terrace Bay<br/>el tarifario oficial de NWR no tiene camping aqui:<br/>doble en media pension, N$3.480 (~EUR 174) los dos"]
 >     N["TAMPOCO · D13 Windhoek<br/>el coche se entrega ese dia: habitacion<br/>salvo que se anada el dia 13 (~150 EUR)"]
 >     T ~~~ D ~~~ P ~~~ N
 >     style T fill:#2d6a4f,color:#fff
@@ -172,7 +172,7 @@ gantt
   compra de cervezas para el braai espera al lunes
 - 4x4 + briefing (1–2 h): **presiones en frío apuntadas, las DOS ruedas de repuesto, gato y
   compresor a la vista** antes de salir del patio (`06`)
-- Efectivo (~N$6.000–8.000) · **SIM de MTC** con pasaporte *(el kiosco cierra ~21:00)*
+- Efectivo (~N$6.000–8.000 · ~€300–400) · **SIM de MTC** con pasaporte *(el kiosco cierra ~21:00)*
 - 🍺 **Joe's Beerhouse** · 🛏️ **Windhoek — y aquí ya se puede dormir arriba**, porque el coche se
   recoge hoy. Candidatos con camping verificado *(precio ❌, no lo publican)*: **Urban Camp**
   *(Schanzen Road, en la ciudad; piscina, bar, wifi, cajero)* y **Arebbusch Travel Lodge**
@@ -197,7 +197,7 @@ gantt
 - ☀️ amanecer **06:09** · anochecer **19:12** — *la puerta exterior de Sesriem funciona de
   amanecer a ocaso: dentro antes de ~19:10*
 - Bajada del paso → C14 → 🥧 **Solitaire** (tarta + depósito lleno) → D826/C19 a Sesriem
-- Tarde: **Sesriem Canyon** y atardecer en **Elim Dune** *(o el guiado de NWR, N$300/persona)*
+- Tarde: **Sesriem Canyon** y atardecer en **Elim Dune** *(o el guiado de NWR, N$300 ≈ €15/persona)*
 - 🎫 Namib-Naukluft ~N$620/24 h
 - 🛏️ **🔑 DENTRO de la puerta: Sesriem Campsite — N$1.340 (~€67)** ✅ *(44 parcelas: reservar YA)*
 
@@ -211,7 +211,7 @@ gantt
 - 🌅 **Puerta interior 1 h antes del amanecer** — Deadvlei casi en solitario
 - Con día entero: **Big Daddy** (la subida) + **Hidden Vlei** + **Duna 45** a la vuelta
 - Arena final: 4H antes de entrar, desinflar en el 2WD, reinflar en Sesriem *(o lanzadera
-  N$180/persona)*
+  N$180 ≈ €9/persona)*
 - 🛏️ Sesriem, segunda noche
 
 ### D5 · jue 5 — Sesriem → Walvis Bay · **~270 km · ~5h30** ✅
@@ -258,7 +258,7 @@ gantt
 - 🛑 **Puerta de Ugabmund: última entrada 15:00.** Para pernoctar dentro hace falta **reserva
   confirmada de Terrace Bay** — sin ella no se entra (el permiso de tránsito obliga a salir el
   mismo día)
-- Dentro del parque: **60 km/h** · 🎫 Skeleton Coast ~N$620/24 h
+- Dentro del parque: **60 km/h** · 🎫 Skeleton Coast ~N$620 (~€31)/24 h
 - 🛏️ **Terrace Bay (NWR)** — dormir en la Costa de los Esqueletos, con la niebla y el
   Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping.** Suelo publicado
   (doméstico/SADC, temporada baja): **N$1.440–1.920/persona DBB (~€72–96)**; como extranjeros en
@@ -302,7 +302,7 @@ gantt
   → Okaukuejo por Outjo **~265–271 km** *(distancesto: Kamanjab–Outjo 156 km; CityMeter: Kamanjab–Okaukuejo
   271 km; la matriz de 2010 daba 265, convergen)*. **El ~315 queda refutado.** Cuenta ~340 para el
   depósito y la hora de puerta. Ver [`13`](13-itinerario.md), §3.
-- 🎫 Etosha ~N$620/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
+- 🎫 Etosha ~N$620 (~€31)/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
 - 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
 
@@ -430,7 +430,7 @@ donde añade algo que por libre es imposible o está prohibido.**
 #### 🎟️ Las excursiones que se pueden contratar
 
 Los **tres campamentos donde dormís venden lo mismo** ✅ *(fichas de NWR, 03/08)*: safari guiado de
-**mañana N$650**, de **tarde N$650** y **nocturno N$750**, por persona. ❌ **Los horarios de salida
+**mañana N$650**, de **tarde N$650** y **nocturno N$750** *(≈ €33 · €33 · €38)*, por persona. ❌ **Los horarios de salida
 no los publican en ninguna parte**: pregúntalos en recepción al llegar.
 
 **De día no compensa** en vuestro caso: ya tenéis 4x4, trece horas de puerta a puerta y libertad para
@@ -452,10 +452,10 @@ en el parque a oscuras y ver oricteropo, puercoespín, liebre saltadora o leones
 > 💶 Y ojo: el nocturno **se come entero** el margen de actividades del presupuesto (~€38 p.p.).
 
 **Fuera de Etosha**, ya en el dossier: la **lanzadera de Deadvlei N$180** ✅, el safari guiado de
-mañana de Sesriem N$600–700, Elim Dune N$300 y el cañón N$200 *(ver [`03`](03-alojamiento-y-tasas.md))*.
+mañana de Sesriem N$600–700 (~€30–35), Elim Dune N$300 (~€15) y el cañón N$200 (~€10) *(ver [`03`](03-alojamiento-y-tasas.md))*.
 
 **Y las reservas privadas —Ongava, Okonjima, Onguma— no son una mejora del plan**: una sola noche en
-Ongava cuesta **~N$34.600 los dos**, el triple que las trece noches de camping de todo el viaje. Son
+Ongava cuesta **~N$34.600 (~€1.730) los dos**, el triple que las trece noches de camping de todo el viaje. Son
 otro producto. *(Okonjima, por sus leopardos habituados, es el único capricho con argumento — como
 parada del D13.)*
 
@@ -463,7 +463,7 @@ parada del D13.)*
 - **Ellos, 2 noches en Spreetshoogte; nosotros, 1** — la segunda se va a Etosha, que con tu ventana
   seca merece 4 noches
 - **Ellos duermen en Onguma (fuera); nosotros las 4 noches DENTRO del parque** (Okaukuejo, Halali,
-  Namutoni ×2 — verificado, N$920/noche) — dormir dentro es lo que da las charcas nocturnas
+  Namutoni ×2 — verificado, N$920 ≈ €46/noche) — dormir dentro es lo que da las charcas nocturnas
   iluminadas y los amaneceres sin esperar puerta. Onguma queda como capricho opcional
 - **Mismo espíritu**: Terrace Bay, Hoada, dos noches en la costa, y el sur para otro viaje
 - ⚠️ Sus precios (Spreetshoogte 150–300 ZAR) son de la fecha de su post: **no presupuestar con ellos**

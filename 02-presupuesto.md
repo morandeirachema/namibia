@@ -189,7 +189,7 @@ campings + el hotel del D13) **no tienen precio cerrado**.
   coche el 14 camino del aeropuerto — se ahorra el hotel y dos traslados.)*
 - **Los campings sin cotizar (D1, D5–D6)**: existen y están identificados —**Urban Camp** o
   **Arebbusch** en Windhoek, **Lagoon Chalets** en Walvis Bay— pero **ninguno publica tarifa** ❌.
-  Se mantienen en la estimación de práctica común de ~N$600–1.000 la pareja.
+  Se mantienen en la estimación de práctica común de ~N$600–1.000 (~€30–50) la pareja.
 
 > ✅ **Y esto cierra el mayor hueco del bloque:** Terrace Bay ya no es una incógnita de ±€130. Son
 > **~€174 la pareja, verificados**, con cena y desayuno dentro. El bloque sin cerrar se queda en
@@ -257,7 +257,7 @@ dos páginas oficiales del MEFT (PDF de tarifas + nota de prensa `news/199`) y v
 ninguna se pudo abrir (403) para verificar la extracción de la tabla fina; la **gaceta está localizada
 en el índice de gazettes.africa pero tampoco se pudo abrir aquí** (403), así que la tabla sigue sin
 verificarse contra el documento primario (detalle en `15` §Tasas). Los tres parques de pago de la ruta
-(Namib-Naukluft, Skeleton Coast, Etosha) son **premium**, así que el N$280 es la tarifa correcta para
+(Namib-Naukluft, Skeleton Coast, Etosha) son **premium**, así que el N$280 (~€14) es la tarifa correcta para
 los tres.
 
 **La ruta cruza tres zonas de pago:**
@@ -271,7 +271,7 @@ los tres.
 > propia entrada — **N$150 (~€8)/extranjero + N$50 (~€3)/coche = ~N$350 (~€18) la pareja** ◐, en
 > **efectivo**, en recepción (Dorob NP; tarifa menor que el baremo premium). **Súmalo al total de
 > tasas.** Fuentes secundarias convergentes: una reseña de visitante de 2025 y una guía dan la misma
-> cifra (N$150 + N$50); la primaria del MEFT sigue en 403. Detalle y horario (abre 08:00 del 16 nov
+> cifra (N$150 + N$50 ≈ €7,50 + €2,50); la primaria del MEFT sigue en 403. Detalle y horario (abre 08:00 del 16 nov
 > al 30 jun) en [`01` §D7](01-itinerarios-dia-a-dia.md).
 
 > Fuentes: [gazettes.africa — Government Gazette Nº 8877, 1/04/2026 (Government Notice Nº 115)](https://gazettes.africa/akn/na/officialGazette/government-gazette/2026-04-01/8877/eng@2026-04-01) ·
