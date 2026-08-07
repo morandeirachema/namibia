@@ -81,6 +81,56 @@ def revisa_geo():
         bien(f"ruta completa: {len(ruta)} etapas, {total:.0f} km")
 
 
+def revisa_avistamientos():
+    """Los datos que sostienen la linea de «qué posibilidades hay» de la guia de fauna.
+
+    Lo que se vigila no es que las cifras sean altas, sino que ninguna afirmacion se
+    quede sin su denominador: una probabilidad sin muestra detras es una opinion.
+    """
+    ruta = os.path.join(HERE, "geo", "avistamientos.json")
+    if not os.path.exists(ruta):
+        return mal("no existe geo/avistamientos.json — ejecuta `python3 fuente/avistamientos.py`")
+    d = json.load(open(ruta))
+    esperadas = {e[0] for _, _, l in catalogo.GRUPOS_FAUNA for e in l}
+    faltan = esperadas - set(d.get("especies", {}))
+    if faltan:
+        mal(f"{len(faltan)} especies sin recuento de GBIF: {sorted(faltan)[:4]}…")
+    sobran = set(d.get("especies", {})) - esperadas
+    if sobran:
+        mal(f"{len(sobran)} recuentos de especies que ya no estan en el catalogo: {sorted(sobran)}")
+
+    camps = d.get("campamentos") or {}
+    if not camps:
+        mal("no hay porcentajes por campamento: la guia se queda sin la cifra directa")
+    sin_muestra = [f"{c['nombre']}/{s}" for c in camps.values()
+                   for s, f in c.get("especies", {}).items() if not f.get("partes")]
+    if sin_muestra:
+        mal(f"porcentajes sin muestra detras: {sin_muestra[:4]}…")
+    flojos = [c["nombre"] for c in camps.values() if (c.get("viajeros") or 0) < 10]
+    if flojos:
+        mal(f"campamentos con menos de 10 partes, no dan para publicar un porcentaje: {flojos}")
+
+    if not (faltan or sobran or sin_sesgo(d) or sin_muestra):
+        n = sum(len(c.get("especies", {})) for c in camps.values())
+        bien(f"avistamientos: {len(d['especies'])} especies en GBIF y {n} porcentajes "
+             f"de {len(camps)} campamentos, todos con su muestra")
+
+
+def sin_sesgo(d):
+    """El sable de Okaukuejo es la prueba de que estos partes traen ruido.
+
+    Va en el PDF como aviso, asi que tiene que seguir estando en los datos: si Expert
+    Africa lo quita algun dia, el aviso se queda hablando de algo que ya no se puede
+    comprobar y hay que reescribirlo.
+    """
+    oka = (d.get("campamentos") or {}).get("okaukuejo", {}).get("otros", {})
+    if "Sable antelope" not in oka:
+        mal("ya no esta el 'Sable antelope' de Okaukuejo: el aviso de la guia de fauna "
+            "sobre las identificaciones malas se queda sin su ejemplo — revisalo")
+        return True
+    return False
+
+
 def revisa_pdf(nombre, minimo):
     ruta = os.path.join(RAIZ, nombre)
     if not os.path.exists(ruta):
@@ -193,6 +243,7 @@ def main():
     revisa_documentos()
     revisa_imagenes()
     revisa_geo()
+    revisa_avistamientos()
     revisa_pdf("dossier-namibia-2026.pdf", 40)
     revisa_pdf("guia-fauna-etosha.pdf", 8)
     revisa_escala("dossier-namibia-2026.pdf")

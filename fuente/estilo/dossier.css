@@ -307,8 +307,12 @@ thead th { background: var(--crema-2); border-bottom: 1pt solid var(--regla-2);
 
 /* ------------------------------------------------------------- fauna      */
 
-.rejilla { column-span: all; display: grid; grid-template-columns: repeat(3, 1fr);
-           gap: 3mm; align-items: start; }
+/* Columnas y no `grid`. Con rejilla, las fichas iban clavadas en filas de tres y una
+   fila no se puede partir: si al pie de la pagina quedaban 40 mm y la fila media 85,
+   la fila entera saltaba de pagina y el hueco se quedaba en blanco. En columnas cada
+   ficha fluye sola y el hueco lo ocupa la siguiente. */
+.rejilla { column-span: all; columns: 3; column-gap: 3mm; }
+.rejilla .sp { margin: 0 0 3mm; }
 .sp { border: .5pt solid var(--regla); border-radius: 1.5mm; overflow: hidden;
       background: var(--papel); break-inside: avoid; page-break-inside: avoid; }
 /* `contain`, no `cover`: la ficha es para IDENTIFICAR al bicho, y recortando se van
