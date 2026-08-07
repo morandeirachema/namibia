@@ -147,6 +147,48 @@ def revisa_convenciones():
         bien("convenciones: ni una tabla de markdown y los '%% ancho' en su linea")
 
 
+SALIDA_VIAJE = (2026, 10, 30)                       # el vuelo de ida, del README y del 13
+
+MESES_ES = ("enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
+            "agosto", "septiembre", "octubre", "noviembre", "diciembre")
+
+
+def revisa_fechas():
+    """Que la cuenta atras del README cuadre con la fecha que el propio README declara.
+
+    No se compara contra HOY a proposito: si no, esto fallaria todos los dias sin que
+    nadie haya roto nada, y una comprobacion que falla siempre deja de leerse. Lo que
+    se vigila es la incoherencia de verdad —tocar la fecha y olvidar el numero, o al
+    reves— y que el dossier lleve la misma fecha que el README, porque la imprime en
+    todas sus paginas.
+    """
+    import datetime
+    texto = open(os.path.join(RAIZ, "README.md")).read()
+    m = re.search(r"\*\*Última actualización: (\d{1,2}) de (\w+) de (\d{4})\*\*", texto)
+    if not m:
+        return mal("el README ya no dice cuando se actualizo por ultima vez")
+    dia, mes, ano = int(m.group(1)), m.group(2), int(m.group(3))
+    if mes not in MESES_ES:
+        return mal(f"la fecha del README dice el mes «{mes}», que no existe")
+    fecha = datetime.date(ano, MESES_ES.index(mes) + 1, dia)
+
+    faltan = (datetime.date(*SALIDA_VIAJE) - fecha).days
+    dichos = re.search(r"faltan-(\d+)_d%C3%ADas", texto)
+    if not dichos:
+        mal("el README ya no lleva la chapa de la cuenta atras")
+    elif int(dichos.group(1)) != faltan:
+        mal(f"la cuenta atras del README dice {dichos.group(1)} dias y desde su propia "
+            f"fecha ({fecha:%d/%m/%Y}) faltan {faltan} para salir")
+    else:
+        bien(f"fechas: el README dice {fecha:%d/%m/%Y} y sus {faltan} dias cuadran")
+
+    dossier = open(os.path.join(HERE, "dossier.py")).read()
+    m2 = re.search(r'^FECHA = "([^"]+)"', dossier, re.M)
+    esperada = f"{dia} de {mes} de {ano}"
+    if m2 and m2.group(1) != esperada:
+        mal(f"el dossier se imprime con fecha «{m2.group(1)}» y el README dice «{esperada}»")
+
+
 def revisa_avistamientos():
     """Los datos que sostienen la linea de «qué posibilidades hay» de la guia de fauna.
 
@@ -308,6 +350,7 @@ def main():
     print("Comprobando el build…")
     revisa_documentos()
     revisa_convenciones()
+    revisa_fechas()
     revisa_precios()
     revisa_imagenes()
     revisa_geo()
