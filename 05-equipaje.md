@@ -60,9 +60,11 @@ flowchart TD
   todo (la calima y el corrugado de `06` también van por dentro del coche).
 - **Neceser colgable** ○ (los baños de los campings NWR no tienen repisa garantizada) y **chanclas
   para las duchas**.
-- ⚠️ **Peso de facturación: sin dato** — la franquicia del billete (3 aerolíneas en la vuelta) es
-  justo una de las dos cosas **pendientes de confirmar al emitir** (README). Hasta entonces,
-  apunta a ~20 kg por petate ○.
+- ✅ **Peso de facturación — cerrado (07/08)**: en el billete único del grupo Lufthansa la
+  franquicia es **una para todo el itinerario** y la fija la tarifa, no cada operador — **1 maleta
+  de 23 kg (158 cm) por persona en Economy Classic; en Light, NINGUNA** *(el detalle y las fuentes,
+  en [`02`](02-presupuesto.md) §8)*. Los ~20 kg apuntados por petate ○ caben con margen — **la
+  única decisión real es emitir con tarifa con maleta**.
 
 ---
 

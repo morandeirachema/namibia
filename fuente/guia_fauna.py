@@ -96,7 +96,7 @@ INTROS = {
            "que <strong>se ven sin ser ornitólogo</strong>: grandes, ruidosas o de color "
            "imposible.</p>",
     "reptil": "<p><strong>Las tres primeras son seguridad, no coleccionismo.</strong> Dormís "
-              "once noches en tienda y andáis por Sossusvlei y Damaraland: lo útil no es "
+              "trece noches en tienda y andáis por Sossusvlei y Damaraland: lo útil no es "
               "distinguirlas de lejos, es <strong>saber qué NO hacer</strong>. Nunca metas la "
               "mano donde no ves, <strong>mira dónde pisas al anochecer</strong> —que es cuando "
               "salen a la pista tibia—, linterna para ir al baño, y si te encuentras una, "

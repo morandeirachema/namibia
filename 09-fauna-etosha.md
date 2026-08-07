@@ -180,7 +180,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ### 🦎 Reptiles (11)
 
-*Las tres primeras van por seguridad: dormís once noches en tienda.*
+*Las tres primeras van por seguridad: dormís trece noches en tienda.*
 
 - **Víbora bufadora** — *Bitis arietans* · Puff adder
 - **Cobra escupidora cebra** — *Naja nigricincta* · Zebra spitting cobra

@@ -106,7 +106,7 @@ parque: la jirafa abriéndose de patas para beber llega sola.</li>
 </ul>
 
 <h2>Lo que da sustos y lo que de verdad hace daño</h2>
-<p>Once noches en tienda. Lo que hay que interiorizar cabe en cuatro líneas: <strong>sacude
+<p>Trece noches en tienda. Lo que hay que interiorizar cabe en cuatro líneas: <strong>sacude
 las botas cada mañana</strong> ○, <strong>mira dónde pisas al anochecer</strong> —la pista
 tibia es donde se ponen las serpientes—, <strong>linterna para ir al baño</strong>, y si te
 encuentras una, <strong>quieto y hacia atrás</strong>: casi todas las mordeduras pasan al
