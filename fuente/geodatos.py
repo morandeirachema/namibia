@@ -17,13 +17,12 @@ import json
 import os
 import sys
 import time
-import urllib.error
 import urllib.parse
-import urllib.request
+
+import red
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 GEO = os.path.join(HERE, "geo")
-UA = "NamibiaTripDossier/2.0 (https://github.com/chemamm/Namibia; josemorandeira@gmail.com)"
 
 NE = ("https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/"
       "ne_10m_admin_0_countries.geojson")
@@ -37,27 +36,8 @@ CAJA_ETOSHA = "(-19.65,14.15,-18.30,17.45)"
 
 
 def pide(url, datos=None, timeout=180, intentos=4):
-    espera = 4
-    for i in range(intentos):
-        try:
-            req = urllib.request.Request(url, data=datos, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=timeout) as r:
-                return r.read()
-        except urllib.error.HTTPError as e:
-            if e.code < 500 and e.code != 429:      # 4xx: la peticion esta mal, no insistas
-                raise
-            if i == intentos - 1:
-                raise
-            print(f"   reintento {i + 1}: {e}")
-            time.sleep(espera)
-            espera *= 2
-        except Exception as e:                                    # noqa: BLE001
-            if i == intentos - 1:
-                raise
-            print(f"   reintento {i + 1}: {e}")
-            time.sleep(espera)
-            espera *= 2
-    return b""
+    """Descargas grandes y servidores comunitarios: timeout largo, pocos intentos."""
+    return red.pide(url, datos=datos, timeout=timeout, intentos=intentos)
 
 
 def overpass(consulta, timeout=180):
@@ -83,6 +63,39 @@ def guarda(nombre, obj):
 
 def hecho(nombre):
     return os.path.exists(os.path.join(GEO, nombre))
+
+
+def anillos(rel, rol="outer"):
+    """Une los miembros de una relacion de Overpass en anillos cerrados de (lat, lon).
+
+    Quien escribe el formato sabe leerlo: esta funcion vive aqui porque tanto los
+    mapas (`mapa.py`) como el poligono de GBIF (`avistamientos.py`) parten de las
+    mismas relaciones que descarga este modulo. Los extremos se comparan con
+    tolerancia y no con igualdad exacta: las coordenadas guardadas van redondeadas
+    y dos tramos contiguos pueden no casar al bit.
+    """
+    trozos = [[(p["lat"], p["lon"]) for p in m["geometry"]]
+              for m in rel.get("members", [])
+              if m.get("role") == rol and m.get("geometry")]
+    anillos, pendientes = [], list(trozos)
+    while pendientes:
+        actual = pendientes.pop(0)
+        cambio = True
+        while cambio and actual[0] != actual[-1]:
+            cambio = False
+            for i, t in enumerate(pendientes):
+                if abs(t[0][0] - actual[-1][0]) < 1e-6 and abs(t[0][1] - actual[-1][1]) < 1e-6:
+                    actual += t[1:]
+                    pendientes.pop(i)
+                    cambio = True
+                    break
+                if abs(t[-1][0] - actual[-1][0]) < 1e-6 and abs(t[-1][1] - actual[-1][1]) < 1e-6:
+                    actual += t[::-1][1:]
+                    pendientes.pop(i)
+                    cambio = True
+                    break
+        anillos.append(actual)
+    return anillos
 
 
 # ---------------------------------------------------------------------------

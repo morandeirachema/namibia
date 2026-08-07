@@ -19,15 +19,13 @@ import os
 import re
 import sys
 import time
-import urllib.error
 import urllib.parse
-import urllib.request
 
 import catalogo
+import red
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMG = os.path.join(RAIZ, "img")
-UA = "NamibiaTripDossier/2.0 (https://github.com/chemamm/Namibia; josemorandeira@gmail.com)"
 
 # Ancho de descarga y ancho final, por carpeta. El original de algunas fotos pasa de
 # 30 MP: se pide miniatura a Commons y luego se reescala aqui al tamano de uso real.
@@ -42,24 +40,8 @@ LICENCIAS_OK = ("CC BY", "CC0", "Public domain", "FAL")
 
 
 def pide(url, timeout=60):
-    """GET con reintento y espera creciente. Commons devuelve 429 con facilidad."""
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    espera = 3
-    for intento in range(6):
-        try:
-            with urllib.request.urlopen(req, timeout=timeout) as r:
-                return r.read()
-        except urllib.error.HTTPError as e:
-            if e.code not in (429, 503) or intento == 5:
-                raise
-            time.sleep(int(e.headers.get("Retry-After") or espera))
-            espera *= 2
-        except (urllib.error.URLError, TimeoutError):
-            if intento == 5:
-                raise
-            time.sleep(espera)
-            espera *= 2
-    return b""
+    """Commons devuelve 429 con facilidad y manda Retry-After: seis intentos."""
+    return red.pide(url, timeout=timeout, intentos=6)
 
 
 def api(params, base="https://commons.wikimedia.org/w/api.php"):

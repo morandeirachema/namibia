@@ -76,6 +76,11 @@ RE_EMOJI = re.compile(
 _CONSERVAR = {"→", "←", "↔", "—", "–", "·", "±", "≈", "×", "→"}
 
 
+def mil(n):
+    """2728 -> «2.728»: punto de millar, que es lo que se usa en castellano."""
+    return f"{n:,.0f}".replace(",", ".")
+
+
 def marca_texto(html):
     """Sustituye emoji por tipografia. Trabaja sobre HTML ya renderizado."""
     for e, r in FLECHAS.items():

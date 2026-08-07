@@ -218,7 +218,7 @@ def revisa_avistamientos():
     if flojos:
         mal(f"campamentos con menos de 10 partes, no dan para publicar un porcentaje: {flojos}")
 
-    if not (faltan or sobran or sin_sesgo(d) or sin_muestra):
+    if not (faltan or sobran or sin_sesgo(d) or sin_muestra or flojos):
         n = sum(len(c.get("especies", {})) for c in camps.values())
         bien(f"avistamientos: {len(d['especies'])} especies en GBIF y {n} porcentajes "
              f"de {len(camps)} campamentos, todos con su muestra")
