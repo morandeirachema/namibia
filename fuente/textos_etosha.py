@@ -23,7 +23,7 @@ DONDE = {
   # --- MAMIFEROS ---
   "elefante": "**Nebrownii, Olifantsbad, Kalkheuwel, Tsumcor y Homob**, y a **mediodía**, que es cuando llegan a bañarse. Los de aquí tienen los colmillos gastados de cavar buscando agua.",
   "rino-negro": "**Charca iluminada de Okaukuejo, de noche**: seguramente el mejor sitio de África para verlo. También en Halali. Etosha tiene la mayor población del mundo de la subespecie suroccidental.",
-  "rino-blanco": "Se extinguió aquí y lo reintrodujeron en 1995: hoy es **apenas una docena**. Se cita de vez en cuando en Springbokfontein. No cuentes con verlo.",
+  "rino-blanco": "Se extinguió aquí y lo reintrodujeron en 1995: hoy es **apenas una docena**. Se cita de vez en cuando en Springbokfontein. ⚠️ **El 39 % de los partes que dice haberlo visto no cuadra** con una docena de animales en 22.000 km²: la mayor parte tiene que ser rinoceronte **negro** mal identificado. Mira el labio, no el color. No cuentes con verlo.",
   "leon": "**Okondeka** es la mejor (manada residente), y luego Chudop, Rietfontein, Nebrownii y Ombika. Primera y última hora. Ojo: **usan las pistas como caminos**.",
   "leopardo": "**Halali/Moringa y Goas son las dos mejores apuestas** del parque; también Ngobib, Kalkheuwel y Klein Namutoni. La charca iluminada de Halali es famosa por él.",
   "guepardo": "Llanura abierta del borde de la pan: **Salvadora, Sueda, Charitsaub, Batia y Okerfontein**. De día, que es cuando caza — su presa aquí es el springbok.",
@@ -38,7 +38,7 @@ DONDE = {
   "impala-cara-negra": "**Lo primero que se ve entrando por Von Lindequist.** Klein Namutoni, Chudop, Kalkheuwel, Goas y Olifantsbad — están donde las soltaron en los 70 y en 30 años se han movido 31 km.",
   "dikdik": "**Casi garantizado en el Dik-dik Drive**, el bucle nada más entrar por Von Lindequist, y en Klein Namutoni. Primera hora de la mañana y última de la tarde.",
   "hiena-manchada": "Charcas iluminadas, y al amanecer en King Nehale, Chudop y Nebrownii. Es la hiena por defecto: ~340 en el sistema Etosha–Kunene.",
-  "hiena-parda": "Está en el parque, pero **dala por improbable**: nocturna, solitaria y sin densidad publicada. Cruza desde Ongava a buscar comida.",
+  "hiena-parda": "Está en el parque, pero **dala por improbable**: nocturna, solitaria y sin densidad publicada. Cruza desde Ongava a buscar comida. Que un 18 % de los partes diga haberla visto choca con eso: **orejas puntiagudas y melena** o es la manchada.",
   "chacal": "En todas las charcas, y merodeando los campamentos al anochecer a por las sobras.",
   "puercoespin": "**De noche, en la charca iluminada de Halali**: es uno de los visitantes habituales junto con el leopardo.",
   "hartebeest": "Llanuras abiertas del este; se cita en la charca de King Nehale, en Namutoni.",

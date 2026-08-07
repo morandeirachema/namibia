@@ -2,14 +2,16 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> El índice de la guía de campo en PDF: 83 especies con foto, cómo reconocerlas y dónde y cuándo verlas.
+> El índice de la guía de campo en PDF: 83 especies con foto, cómo reconocerlas, **qué
+> posibilidades hay de verlas** y dónde y cuándo.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 03/08/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 03/08/2026 · posibilidades de avistamiento y consejos de safari
+> añadidos el 07/08/2026*
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 16 páginas A4,
+📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 19 páginas A4,
 **83 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
 cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
@@ -23,10 +25,63 @@ buscar una especie desde el repo.)*
 
 - **Nombre en castellano, científico e inglés** — el inglés importa: es el que veréis en los
   carteles del parque y el que usa todo el mundo allí
+- **Qué posibilidades hay de verla**, medida y con su muestra detrás *(abajo, de dónde sale)*
 - **Cómo reconocerla en el campo**: los rasgos que de verdad distinguen, no una descripción de
   enciclopedia *(labio del rinoceronte, rosetas frente a manchas, orejas de la hiena, pico del cálao…)*
+- **Cuántas quedan**, en las ocho especies con una cifra publicada que se pueda citar
 - **Foto** de Wikimedia Commons, todas con **licencia libre** (CC BY, CC BY-SA, CC0 o dominio
   público), con autoría y licencia bajo la imagen y en los créditos finales
+
+## Las posibilidades de ver cada bicho, medidas
+
+Nadie publica «qué probabilidad hay de ver un leopardo». Lo que sí es público son dos cosas, y
+la guía usa las dos —cada una con su etiqueta, porque **no miden lo mismo**—:
+
+```mermaid
+flowchart LR
+    A["14 especies grandes<br/>PARTES DE VIAJEROS"] --> A1["% que lo vio<br/>durante su estancia<br/>en el campamento"]
+    B["las otras 69<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
+    A1 --> C["frecuente / escasa<br/>siempre con la muestra"]
+    B1 --> C
+    style A fill:#EDF1E4,stroke:#5F7043
+    style B fill:#EAF1F5,stroke:#2F6E8E
+    style C fill:#F7F4ED,stroke:#C2542F
+```
+
+1. **Los partes de avistamiento que publica Expert Africa** para los tres campamentos donde se
+   duerme: **Okaukuejo** *(149 viajeros)*, **Halali** *(48)* y **Namutoni** *(16)*. Ahí está la
+   respuesta directa — **elefante 96 %, rinoceronte negro 82 %, león 70 %, guepardo 19 %,
+   leopardo 12 %, oricteropo 0 %** ◐. Ojo con la unidad: es **por estancia en un campamento**,
+   ni por día ni por viaje. Y como se duerme en los tres, son tres tiradas y no una.
+2. **Los registros de GBIF** dentro del polígono real del parque *(y de otras tres zonas de la
+   ruta)*, **filtrados a octubre y noviembre**: 4.529 registros de mamífero y 69.600 de ave solo
+   en Etosha ◐. Eso mide **lo que se registra**, que no es lo que se ve, así que la guía dice
+   «frecuente» o «escasa» y **nunca** «lo vas a ver».
+
+**Los dos sesgos van escritos en el propio PDF**, no en letra pequeña: los partes los rellenan
+viajeros y traen confusiones —un **14 % declara antílope sable en Okaukuejo, y en Etosha no hay
+sable**—, y a GBIF nadie sube el chacal número doscientos ni casi nada nocturno, por lo que la
+liebre saltadora sale con **cero registros** y se ve todas las noches.
+
+Eso destapó **un conflicto que estaba escondido**: el **39 % de los partes dice haber visto
+rinoceronte blanco**, y en el parque hay **apenas una docena** en 22.000 km². Casi todo eso tiene
+que ser rinoceronte **negro** mal identificado — y la ficha ahora lo avisa.
+
+Lo baja y lo cachea [`fuente/avistamientos.py`](fuente/avistamientos.py) en
+`fuente/geo/avistamientos.json`; el PDF se monta desde ese fichero, sin tocar la red.
+Fuentes: [GBIF](https://www.gbif.org) ·
+[Expert Africa · Etosha](https://www.expertafrica.com/namibia/etosha-national-park)
+
+## Cómo se hace un safari, delante de las fichas
+
+Tres páginas antes de las especies, maquetadas como un documento del dossier: **la ropa**
+*(Okaukuejo promedia 37,1 °C de máxima y 18,9 °C de mínima en noviembre ✅ — se viste por
+capas)*, **lo que tiene que ir dentro del habitáculo y no en el maletero** *(prismáticos uno por
+persona, 4 L de agua por persona y día ✅, frontal de luz roja, efectivo, microfibra)*, **la
+táctica de la charca** *(motor apagado y tres cuartos de hora, que es lo que de verdad funciona)*,
+**fotografía sin trípode** y un bloque aparte en rojo con **lo que es reglamento y no consejo**
+✅: 60 km/h, no bajar del coche fuera de los campamentos, no salirse de las pistas y estar dentro
+antes de que cierre la puerta.
 
 ## El «dónde y cuándo», en 37 de las 83 fichas
 
@@ -168,12 +223,15 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 Todo vive en [`fuente/`](fuente/): `catalogo.py` fija qué fichero exacto de Wikimedia Commons usa
 cada especie, `descargar.py` los baja con su licencia y autoría, `textos_especies.py` guarda los
-rasgos de identificación, `textos_etosha.py` lo específico del parque y `guia_fauna.py` arma el
-HTML. El PDF lo imprime Chrome desde `imprimir.py`, que es quien pone los números de página.
+rasgos de identificación, `textos_etosha.py` lo específico del parque, `textos_poblacion.py` las
+cifras de cuántos quedan, `textos_safari.py` los consejos, `avistamientos.py` los recuentos de
+GBIF y los porcentajes por campamento, y `guia_fauna.py` arma el HTML. El PDF lo imprime Chrome
+desde `imprimir.py`, que es quien pone los números de página.
 
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
-imágenes incluidas)*. Y **`make comprueba`** valida que están las 120 imágenes, que ninguna se
-ha colado con licencia no libre y que los dos PDF tienen las páginas que deben.
+imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
+que están las 120 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
+las páginas que deben y que los datos de avistamiento cubren las 83 especies.
 
 *Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son 5,6 MB, y a cambio el PDF
 se puede regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una

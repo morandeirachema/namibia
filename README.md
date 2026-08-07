@@ -92,11 +92,11 @@ la franquicia de equipaje, con tres aerolíneas en la vuelta.
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 89 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 91 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
-🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(16 páginas, 83 especies con foto)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
+🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(19 páginas, 83 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
 
 </div>
 
@@ -468,7 +468,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 7. 🚙 [**`06-conduccion`**](06-conduccion.md) — el vuelco, el contrato, las presiones, la arena y las puertas de Sesriem
 8. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
 9. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
-10. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 83 especies con foto, y dónde y cuándo verlas
+10. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 83 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 11. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
 12. 📍 [**`11-lista-google-maps`**](11-lista-google-maps.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
@@ -481,6 +481,10 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 17. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
 
 📕 Y el PDF: [**`guia-fauna-etosha.pdf`**](guia-fauna-etosha.pdf) — la guía de campo, para imprimir.
+Lleva **medidas** las posibilidades de ver cada bicho: los partes de avistamiento de los tres
+campamentos *(elefante 96 %, rinoceronte negro 82 %, león 70 %, leopardo 12 %, oricteropo 0 %)* y,
+para las que no tienen parte, el peso de la especie en los registros de GBIF de octubre y
+noviembre. Con su muestra detrás y con los sesgos escritos, no en letra pequeña.
 
 ### 🗺️ Tus 34 pines, en una línea
 
