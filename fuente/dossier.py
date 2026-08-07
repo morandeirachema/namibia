@@ -60,6 +60,7 @@ FOTOS = {
     "13": ["spreetshoogte", "grootberg"],
     "14": ["termitero"],
     "15": [],
+    "18": ["hoada"],
 }
 
 # Fotos a pagina completa, antes del documento que abren.
@@ -149,6 +150,8 @@ RESUMEN = {
     "14": "Cinco temporadas de lluvia en Etosha, milímetro a milímetro.",
     "15": "El cuaderno de bitácora: temperaturas de estación, viento, luz, vuelos, tasas y lodges.",
     "17": "La lista de la víspera, ítem a ítem y con casilla: ropa, neceser, botiquín y kits.",
+    "18": "Vivir del coche: la rutina de la tarde, la tienda, el braai, la nevera y los "
+          "vecinos del campamento.",
 }
 
 
@@ -158,9 +161,10 @@ def miles(n, sufijo=" km"):
 
 
 # El numero de un documento manda su sitio en el volumen, salvo aqui: la lista de
-# equipaje se escribio la ultima pero se lee pegada al `05`, que es de lo que sale.
-# Renumerar el repo entero para eso seria peor: hay referencias cruzadas por todos lados.
-ORDEN = {"17": "05a"}
+# equipaje se escribio la ultima pero se lee pegada al `05`, que es de lo que sale, y el
+# manual de campamento pegado al `06`, porque el dia de ruta se lee del tiron: conducir
+# y acampar. Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
+ORDEN = {"17": "05a", "18": "06a"}
 
 
 def documentos():

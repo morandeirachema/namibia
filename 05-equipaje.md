@@ -29,9 +29,10 @@ flowchart TD
 
 1. **El coche ya trae el camping** ✅ *(ficha N2Go Budget, README)*: 2 tiendas de techo, **ropa de
    cama para 4**, mesa, 4 sillas, **menaje completo**, nevera eléctrica, compresor. **No compres
-   ni saco, ni esterilla, ni cacharros.** ⚠️ Lo que NO consta en la ficha: **toallas** y detalle
-   fino del menaje — **sin dato: entra en el inventario por escrito que hay que pedir al reservar**
-   (`04`).
+   ni saco, ni esterilla, ni cacharros.** ⚠️ Lo que NO consta en la ficha: **toallas**, el
+   **hornillo de gas** y el detalle fino del menaje — **sin dato: entra en el inventario por
+   escrito que hay que pedir al reservar** (`04`). *Cómo se vive de ese kit —la rutina, el braai,
+   la nevera— está en el [`18`](18-manual-de-campamento.md).*
 2. **Las noches NO son frías** ✅ *(medias de mínimas de noviembre, estaciones GHCN/ERA5 — `15` y
    `01`)*: **12,7 °C en la costa · 15,5 en Sesriem · 16,3 en Windhoek · 18,9 en Etosha**. **Plumas,
    térmicos, gorro y guantes se quedan en casa** — son peso muerto en una tienda de techo. *La
