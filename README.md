@@ -12,7 +12,7 @@
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
 [![cuenta atrás](https://img.shields.io/badge/faltan-84_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-0_de_6-9d0208?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
-[![presupuesto](https://img.shields.io/badge/€3.284-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
+[![presupuesto](https://img.shields.io/badge/€3.505-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
 
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos*
@@ -48,7 +48,10 @@ flowchart LR
 > del viajero, 06/08/2026. Las **fechas son las del vuelo de Lufthansa** —cotizado, todavía sin emitir—: 30 de octubre
 > a 14 de noviembre, llegada a Windhoek el **31 a las 09:25** y vuelta el **14 a las 20:45**, en casa el 15.
 > El sentido de la marcha, **desierto → costa → Damaraland → Etosha al final**. El coche,
-> **Namibia2Go**. Lo que se comparó antes queda archivado en [`16`](16-punto-de-decision.md).
+> **Namibia2Go, aeropuerto → aeropuerto** — se recoge el **31 al aterrizar** y se devuelve el
+> **14 camino del embarque** *(decisión del viajero, 07/08/2026)*: **ni hoteles en Windhoek ni
+> traslados** — esas noches también se duerme arriba. Lo que se comparó antes queda archivado
+> en [`16`](16-punto-de-decision.md).
 
 ### 🟡 Cotizado con precio real, pero sin cerrar
 
@@ -59,15 +62,18 @@ flowchart LR
 - 🎫 **Tasas de parque — ~N$620 (~€31)/día** la pareja ◐
 
 > [!WARNING]
-> **El calendario del coche no cuadra con el vuelo.** Está cotizado del **1 nov 08:00 al 13 nov
-> 17:00** y el vuelo va del **30 oct al 14 nov**: faltan **el 31 de octubre** y **el día de la
-> vuelta**. Y el **seguro tiene que empezar el 30/10**, no el 1 de noviembre.
+> **El calendario del coche ya está decidido; falta ejecutarlo.** La cotización vigente sigue
+> siendo del **1 al 13 de noviembre**: hay que **recotizar a 15 días, aeropuerto → aeropuerto**
+> *(+~N$5.400 · ~€270 la pareja ◐)*, con **el 31 de octubre pedido por separado** *(cae fuera de
+> la temporada baja)* y **confirmando la entrega y devolución EN el aeropuerto y su posible
+> suplemento** ❌. Y el **seguro tiene que empezar el 30/10**, no el 1 de noviembre.
 
 ### 🔴 Lo que toca ahora, por orden
 
-1. **Recotizar el coche con las fechas del vuelo** *(31 oct 11:00 → 14 nov 18:00)*. Son
-   **~N$5.400 (~€270)** más la pareja, y ahorra **dos noches de hotel y tres traslados**.
-   ⚠️ El 31 de octubre cae **fuera** de la temporada baja de Namibia2Go: pídelo por separado.
+1. **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, aeropuerto →
+   aeropuerto)*. Son **~N$5.400 (~€270)** más la pareja y se lleva por delante dos hoteles y tres
+   traslados. ⚠️ El 31 de octubre cae **fuera** de la temporada baja: pídelo por separado, y
+   **confirma la entrega en el aeropuerto** ❌.
 2. **Reservar el 4×4.** Flota pequeña y noviembre competido: es **el cuello de botella real** del
    viaje. 📞 **+264 61 427 220** · [namibia2go.com](https://namibia2go.com)
 3. **Pedir cita en el Centro de Vacunación Internacional** *(A Coruña, Durán Lóriga 3 ·
@@ -83,9 +89,11 @@ flowchart LR
 
 Tres campings sin tarifa publicada *(Windhoek, Walvis Bay y Spreetshoogte — muro de `403` total)* ·
 la fianza de Namibia2Go *(ellos dicen «No Deposit», dos revendedores citan N$2.500 (~€125) — pregúntalo por
-escrito)* · el sobrecoste en km del **desvío obligatorio Okaukuejo–Halali** · los horarios de salida
-de los safaris guiados de NWR · el **D0, 31 de octubre**, que no tiene plan ni noche resuelta ·
-la franquicia de equipaje, con tres aerolíneas en la vuelta.
+escrito)* · la **entrega del coche en el aeropuerto** *(servicio y suplemento sin confirmar)* ·
+el sobrecoste en km del **desvío obligatorio Okaukuejo–Halali** · los horarios de salida
+de los safaris guiados de NWR · el precio del **31 de octubre** del coche *(fuera de temporada baja)*.
+*(El D0 ya tiene plan —coche, compra y camping— y la franquicia de equipaje quedó cerrada el 07/08:
+1×23 kg por persona si la tarifa es con maleta, ver [`02`](02-presupuesto.md) §8.)*
 **El inventario completo, en [`15`](15-huecos-cerrados.md).**
 
 </details>
@@ -115,7 +123,7 @@ leer del tirón, imprimir o llevar sin conexión.*
 *El trazado no está dibujado a mano: son las coordenadas reales de cada parada, enrutadas por
 carretera con **OSRM** sobre OpenStreetMap. [Ver el mapa en grande](img/mapas/ruta.svg).*
 
-**~2.728 km · 13 días de coche · dos noches en Sesriem, dos en la costa y CUATRO en Etosha**
+**~2.728 km · 15 días de coche · dos noches en Sesriem, dos en la costa y CUATRO en Etosha**
 
 </div>
 
@@ -143,7 +151,9 @@ como aperitivo)*. El razonamiento completo, con el contra dicho honestamente, es
 
 </div>
 
-Las **dos** están disponibles y cotizadas, por 13 días e impuestos incluidos:
+Las **dos** están disponibles y cotizadas por 13 días e impuestos incluidos — **y las fechas ya
+están decididas (07/08): 15 días, aeropuerto → aeropuerto, pendiente de recotizar los 2 extra
+(+~N$5.400 · ~€270 la pareja ◐)**:
 
 - 🚙 **BUDGET** · **N$2.700/día** → **N$35.100 (~€1.755)** · ~€877,50 p.p. ✅
 - 🚙 **COMFORT** · **N$3.000/día** → **N$39.000 (~€1.950)** · ~€975 p.p. ✅
@@ -286,20 +296,20 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 ## 💶 El presupuesto — por persona, partida a partida
 
-### ~€3.284 por persona · todo incluido
+### ~€3.505 por persona · todo incluido
 
-Rango honesto: **€3.150–3.450**. El **79 %** ya está cerrado.
+Rango honesto: **€3.355–3.655**. El **77 %** ya está cerrado.
 
 </div>
 
-**Incluye:** vuelo · coche · **seguro de viaje** · combustible · tasas de parque · visado · las 13
-noches · comida · actividades · imprevistos. **No queda nada fuera** salvo lo que compres allí por gusto.
+**Incluye:** vuelo · coche **15 días** · **seguro de viaje** · combustible · tasas de parque · visado ·
+las 14 noches · comida · actividades · imprevistos. **No queda nada fuera** salvo lo que compres allí por gusto.
 
 ```mermaid
 pie showData
     title Por persona · desglose en EUR · camping
-    "Vuelo" : 1366
-    "Coche" : 900
+    "Vuelo" : 1450
+    "Coche 15 dias" : 1013
     "Alojamiento" : 285
     "Combustible" : 200
     "Comida" : 140
@@ -309,21 +319,21 @@ pie showData
     "Visado" : 80
 ```
 
-*Vuelo y coche son el **69 %** del viaje. Todo lo demás junto son ~€1.030.*
+*Vuelo y coche son el **70 %** del viaje. Todo lo demás junto son ~€1.040.*
 
-- ✈️ Vuelo **€1.450** ✅ · 🚙 Coche **~€877,50** ✅ · ⛺ Alojamiento **~€285** · ⛽ Combustible **~€200** ·
-  🍖 Comida **~€140** · 🩺 Seguro **€113** ✅ · 🎫 Tasas **~€109** ◐ · 🛂 Visado **€80** ✅ ·
-  🎯 Actividades y varios **~€113**
-- **El 79 % ya está cerrado** con precio real: vuelo, coche, seguro, visado y las 6 noches de NWR.
-  Lo estimado (~€578) son las 7 noches sin precio, el combustible, la comida y los misceláneos:
-  **ese es el margen honesto, ±€145 por persona**.
-- ⚠️ **Lo que aún puede mover el número**: el día extra de coche *(~€150 los dos)*, el traslado a
-  Oporto ida y vuelta y el día extra de seguro — los tres **sin cotizar**.
+- ✈️ Vuelo **€1.450** ✅ · 🚙 Coche **~€1.012,50** *(13 días cotizados ✅ + 2 estimados ◐)* ·
+  ⛺ Alojamiento **~€285** · ⛽ Combustible **~€200** · 🍖 Comida **~€140** · 🩺 Seguro **€113** ✅ ·
+  🎫 Tasas **~€109** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€113**
+- **El 77 % ya está cerrado** con precio real: vuelo, los 13 días cotizados del coche, seguro,
+  visado y las 6 noches de NWR. Lo demás (~€713) son los 2 días extra de coche ◐, las 8 noches sin
+  precio, el combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
+- ⚠️ **Lo que aún puede mover el número**: el precio real del **31 de octubre** del coche *(fuera de
+  temporada baja ❌)*, el traslado a Oporto ida y vuelta y el día extra de seguro — **sin cotizar**.
 
 > [!TIP]
-> **Se duerme arriba casi todo el viaje.** **11 de las 13 noches en la tienda de techo**, campings
-> incluidos los tres de dentro de Etosha *(N$920 ≈ €46 la pareja ✅)*. Las dos que no pueden ser:
-> **Terrace Bay**, que solo tiene habitaciones, y **la última**, cuando el coche ya está entregado.
+> **Se duerme arriba casi todo el viaje.** **13 de las 14 noches en la tienda de techo**, campings
+> incluidos los tres de dentro de Etosha *(N$920 ≈ €46 la pareja ✅)* y las de Windhoek con el
+> coche del aeropuerto. La única que no puede ser: **Terrace Bay**, que solo tiene habitaciones.
 
 📖 **El desglose completo, partida a partida, con qué está cerrado y qué es estimación —y qué pasa
 si vais 3 o 4 en el mismo coche— está en [`02-presupuesto`](02-presupuesto.md).**

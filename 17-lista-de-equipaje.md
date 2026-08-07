@@ -73,7 +73,7 @@ el viaje sigue; si se pierde la cabina, no.
 - [ ] **Buff o pañuelo ×2** ✅ — polvo de la grava, viento de la costa y el olor de Cape Cross
 - [ ] **Gafas de sol ×1** con protección real, y su funda ○
 - [ ] **Cinturón ×1**
-- [ ] **Un conjunto decente ×1** para Joe's Beerhouse y el hotel del D13 ○
+- [ ] **Un conjunto decente ×1** para Joe's Beerhouse y la cena de Terrace Bay ○
 
 ## 🥾 Calzado — tres pares, ni uno más
 

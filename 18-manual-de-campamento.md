@@ -2,7 +2,7 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> Vivir del coche trece noches: la rutina que ordena el día, la tienda de techo, el fuego,
+> Vivir del coche catorce noches: la rutina que ordena el día, la tienda de techo, el fuego,
 > la nevera y los vecinos del campamento.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
@@ -13,9 +13,10 @@
 
 **Este manual empieza donde apagas el motor.** Conducir es el [`06`](06-conduccion.md); qué meter
 en el petate, el [`05`](05-equipaje.md) y el [`17`](17-lista-de-equipaje.md); qué comprar de comer,
-el [`08`](08-comida-compras-y-regalos.md). Esto es lo de en medio: **11 de las 13 noches se duerme
-en el techo del coche** ✅ *(las otras dos: Terrace Bay, que solo tiene habitaciones, y la última,
-con el coche ya entregado)*, y nadie de la expedición ha vivido antes de un 4×4.
+el [`08`](08-comida-compras-y-regalos.md). Esto es lo de en medio: **13 de las 14 noches se duerme
+en el techo del coche** ✅ *(la única que no: Terrace Bay, que solo tiene habitaciones — con el
+coche del aeropuerto, decidido el 07/08, la primera y la última también son de tienda)*, y nadie
+de la expedición ha vivido antes de un 4×4.
 
 ---
 
@@ -69,7 +70,7 @@ de carcasa rígida: **1 minuto** de montaje frente a ~5* ✅*)*.
 
 ## 3. El orden del coche es la mitad del confort
 
-Dos personas viviendo 13 días de un coche: o hay sistema, o hay arqueología diaria ○.
+Dos personas viviendo 15 días de un coche: o hay sistema, o hay arqueología diaria ○.
 
 - **Dos cajas mandan** ○: la **caja del día** (a mano en el habitáculo: agua, fruta, gorra,
   prismáticos, esta guía) y la **caja de la noche** (todo lo que solo se toca acampados: hornillo,

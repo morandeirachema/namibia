@@ -31,7 +31,7 @@ no se hace.**
 > - **Ruta**: **la del norte** — la clásica con **Etosha** (4 noches) y **sin el sur** (Fish River,
 >   Lüderitz, kokerbooms). Si eliges una variante con el sur, este presupuesto cambia; la base medida
 >   sigue en el histórico de `13` *(`git show d0320c3^:13-itinerario.md`)*. Día a día en [`01`](01-itinerarios-dia-a-dia.md).
-> - **Fechas**: **1–14 de noviembre de 2026**, no «finales de noviembre».
+> - **Fechas**: **31 de octubre – 14 de noviembre de 2026 en tierra**, no «finales de noviembre».
 > - **Coche**: **Namibia2Go Budget**, no Asco. Con Namibia2Go **el «precipicio del 15/11» —que era de
 >   Asco— ya no aplica**: entra en temporada baja el **1 de noviembre**, así que el alquiler cae en
 >   tarifa barata sin esperar al 15. ◐ *(su web da 403; tarifa vía revendedor)*.
@@ -42,15 +42,15 @@ no se hace.**
 
 ## 1. La foto de conjunto — dónde se va el dinero
 
-**la ruta · 1–14 nov · dos personas · TODO incluido (con vuelos) · escenario camping.** Reparto del
+**la ruta · 31 oct – 14 nov · dos personas · TODO incluido (con vuelos) · escenario camping.** Reparto del
 gasto de la pareja en euros:
 
 ```mermaid
 pie showData
     title "Presupuesto total · la ruta · pareja · EUR · camping"
     "Vuelo ida y vuelta x2" : 2900
-    "Coche Namibia2Go Budget 13d" : 1755
-    "Alojamiento 13 noches" : 570
+    "Coche Namibia2Go Budget 15d" : 2025
+    "Alojamiento 14 noches" : 570
     "Combustible" : 400
     "Comida" : 280
     "Seguro IATI Estrella x2" : 226
@@ -60,7 +60,8 @@ pie showData
     "Actividades" : 76
 ```
 
-> **Vuelo y coche son el 69 % del viaje.** Son también las dos partidas **cerradas y verificadas**.
+> **Vuelo y coche son el 70 % del viaje.** El vuelo está cerrado y del coche están cerrados los
+> 13 días cotizados *(los 2 extra del aeropuerto, ~€270 la pareja, van en ◐ hasta recotizar)*.
 > Todo lo demás junto (~€2.080 de la pareja) pesa menos que ellas dos.
 
 ---
@@ -101,45 +102,46 @@ demás —el mismo Toyota Hilux Double Cab 2.8L GD-6, el seguro, los km, las dos
 la nevera— es idéntico.
 
 - ⛺ **En la práctica:** la carcasa rígida se monta en **~1 minuto** frente a **~5** de la lona, y
-  aguanta mejor **polvo y viento** ○. Con **11 noches de tienda**, eso son **N$355 (~€18) por noche
+  aguanta mejor **polvo y viento** ○. Con **13 noches de tienda**, eso son **N$300 (~€15) por noche
   de tienda** de sobrecoste.
 - 👉 **Cómo decidirlo, sin más vueltas:** si os importa montar y desmontar rápido con viento y polvo
-  once veces, **la Comfort cuesta ~€97 por cabeza**. Si no, **la Budget deja ese dinero para la
+  trece veces, **la Comfort cuesta ~€97 por cabeza**. Si no, **la Budget deja ese dinero para la
   noche del chalet del charco de Okaukuejo** *(N$4.760, ~€238)* y sobra.
 
-### ⏰ El encaje con el calendario — **aquí está el problema, y es de verdad**
+### ⏰ El encaje con el calendario — **DECIDIDO: aeropuerto → aeropuerto, 15 días** *(07/08/2026)*
 
-**La cotización va del 1 de noviembre a las 08:00 al 13 a las 17:00. El vuelo va del 31 de octubre
-al 14 de noviembre** *(§8)*. **Faltan dos días, uno por cada punta:**
+**El coche se recoge el 31 de octubre a la llegada (~11:00) y se devuelve el 14 de noviembre
+camino del embarque (~18:00).** Fuera los hoteles de Windhoek y los traslados: las noches de
+ciudad también se duerme arriba. La cotización vigente sigue siendo del 1 al 13 — **falta
+recotizar las dos puntas**:
 
 ```mermaid
 flowchart LR
-    A["31 oct 09:25<br/>ATERRIZAS<br/>y no hay coche"] --> B["1 nov 08:00<br/>empieza la<br/>cotizacion actual"]
-    B --> C["13 nov 17:00<br/>acaba la<br/>cotizacion actual"]
-    C --> D["14 nov 20:45<br/>DESPEGAS<br/>y no hay coche"]
-    style A fill:#9d0208,color:#fff
-    style D fill:#9d0208,color:#fff
+    A["31 oct 09:25<br/>ATERRIZAS<br/>coche a las ~11:00"] --> B["1 nov - 13 nov<br/>la cotizacion actual<br/>N$35.100 la Budget"]
+    B --> C["14 nov ~18:00<br/>devolucion EN<br/>el aeropuerto"]
+    C --> D["14 nov 20:45<br/>DESPEGAS<br/>sin traslados"]
+    style A fill:#2d6a4f,color:#fff
+    style D fill:#2d6a4f,color:#fff
 ```
 
-- ✅ **La ruta sí cabe en ese horario.** El D13 es **Namutoni → Windhoek, ~548 km** *(medido con
-  OSRM, ver [`13`](13-itinerario.md))*. Saliendo al abrirse la puerta de Von Lindequist **a las
-  06:08** y contando ~6h20 de volante más paradas, estás en Windhoek sobre las **13:30–14:30**:
-  sobran **dos horas y media largas** antes de las 17:00. **El horario no es el problema.**
-- ⚠️ **El 31 de octubre te quedas a pie**: aterrizas a las 09:25 y el coche no empieza hasta el día
-  siguiente. Una noche de hotel en Windhoek y un traslado desde el aeropuerto *(~45 km)*.
-- ⚠️ **Y el 14 también**, que es el día del vuelo de vuelta: despegas a las **20:45**, así que sería
-  **un día entero de Windhoek sin coche** después de haberlo devuelto la tarde anterior.
+- ✅ **La ruta cabe con margen.** El D13 es **Namutoni → Windhoek, ~548 km** *(medido con OSRM,
+  ver [`13`](13-itinerario.md))*: saliendo al abrirse la puerta de Von Lindequist a las **06:08**,
+  en Windhoek sobre las **13:30–14:30** — y ya sin la presión de entregar a las 17:00.
+- ✅ **El D14 deja de ser un día a pie**: mañana tranquila en Windhoek y salida al aeropuerto
+  ~17:00–17:30, repostando a la ida.
 
-> ### 🧾 Lo que hay que pedirle a Namibia2Go antes de reservar
-> **Recotiza con las fechas del vuelo: 31 oct 11:00 → 14 nov 18:00, que son 15 días.**
+> ### 🧾 Lo que hay que pedirle a Namibia2Go al reservar
+> **Recotiza con las fechas decididas: 31 oct 11:00 → 14 nov 18:00, que son 15 días, con recogida
+> y devolución EN el aeropuerto.**
 > - Sobrecoste sobre los 13 cotizados: **~N$5.400 (~€270)** la Budget · **~N$6.000 (~€300)** la
->   Comfort — **los dos, la pareja**.
+>   Comfort — **los dos, la pareja** ◐.
 > - ⚠️ **Ojo con el 31 de octubre**: la temporada baja de Namibia2Go **empieza el 1 de noviembre**,
->   así que ese día puede irse a tarifa alta. **Pide el precio exacto de ese día por separado.**
+>   así que ese día puede irse a tarifa alta. **Pide el precio exacto de ese día por separado** ❌.
+> - ⚠️ **La entrega en el aeropuerto no está confirmada como servicio**, ni su posible
+>   suplemento ❌ — es la primera pregunta de la llamada.
 >
-> **Compáralo con la alternativa**: dos noches de hotel en Windhoek más traslados al aeropuerto.
-> Con este vuelo, alargar el coche gana casi seguro — pero **❌ el precio del traslado
-> aeropuerto–Windhoek no está cotizado**.
+> *(La alternativa descartada el 07/08: dos noches de hotel en Windhoek más tres traslados
+> aeropuerto–ciudad — más cara casi seguro, y peor: la primera y la última noche sin tienda.)*
 
 > ⚠️ **La web NO sirve para este precio:** publica N$2.910/día «temporada baja», pero esa banda es
 > **«01 Nov 2025 – 30 Jun 2026»** y **caduca antes del viaje**; la siguiente que enseña es la alta de
@@ -156,10 +158,11 @@ flowchart LR
 
 ---
 
-## 3. Alojamiento — 13 noches, 6 verificadas ◐/○
+## 3. Alojamiento — 14 noches, 6 verificadas ◐/○
 
-**13 noches en tierra.** De ellas, **6 son campings NWR con precio verificado**; las otras 7 (5
-campings + el hotel del D13) **no tienen precio cerrado**.
+**14 noches en tierra** *(del 31 de octubre al 13 de noviembre, con el coche del aeropuerto
+desde el primer día)*. De ellas, **6 son campings NWR con precio verificado**; las otras 8 —
+**todas campings desde la decisión del 07/08** — no tienen precio cerrado.
 
 **Verificado (NWR, ventana nov 2026 – jun 2027, 2 pax):**
 - **Sesriem × 2** *(dentro de la puerta — imprescindible para Deadvlei al amanecer)* — **N$1.340
@@ -171,7 +174,7 @@ campings + el hotel del D13) **no tienen precio cerrado**.
 *(coincide con `01-itinerarios-dia-a-dia.md` §resumen).*
 
 **Parcialmente cerrado / sin verificar ○/◐ (7 noches):**
-- D1 Windhoek, D2 Spreetshoogte, D5–D6 Walvis Bay ×2 → campings/alojamientos privados, **precio no
+- D0–D1 Windhoek, D2 Spreetshoogte, D5–D6 Walvis Bay ×2 → campings/alojamientos privados, **precio no
   cerrado** (WebFetch bloqueado; ver `15`). Estimación de práctica común: **~€25–45/noche para dos**
   cada uno. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
   —campamento equiparable de la ruta— está cerrado en **N$540/noche para dos (~€27)**, entrada incluida
@@ -184,16 +187,17 @@ campings + el hotel del D13) **no tienen precio cerrado**.
   «Campsite» que no aparece en el tarifario: es un error suyo)*. Consuelo: **incluye cena y
   desayuno**, así que descuenta esa comida del presupuesto del D7.
 
-- **D13 Windhoek**: habitación + traslado, porque el coche ya está entregado. **○ estimado.**
-  *(Alternativa: añadir el día 13 de alquiler ~€150 y acampar también esta noche, devolviendo el
-  coche el 14 camino del aeropuerto — se ahorra el hotel y dos traslados.)*
-- **Los campings sin cotizar (D1, D5–D6)**: existen y están identificados —**Urban Camp** o
+- **D13 Windhoek**: **camping, con el coche hasta el 14 — decidido el 07/08**. Mismo candidato
+  que el D0–D1 (Urban Camp o Arebbusch), tarifa ❌. *(La habitación con traslados quedó
+  descartada; el hotel que se cae y la noche nueva del D0 se compensan casi exactamente dentro
+  de la estimación ○ — por eso el total de alojamiento no se mueve.)*
+- **Los campings sin cotizar (D0–D1, D5–D6, D13)**: existen y están identificados —**Urban Camp** o
   **Arebbusch** en Windhoek, **Lagoon Chalets** en Walvis Bay— pero **ninguno publica tarifa** ❌.
   Se mantienen en la estimación de práctica común de ~N$600–1.000 (~€30–50) la pareja.
 
 > ✅ **Y esto cierra el mayor hueco del bloque:** Terrace Bay ya no es una incógnita de ±€130. Son
 > **~€174 la pareja, verificados**, con cena y desayuno dentro. El bloque sin cerrar se queda en
-> **6 noches** —las dos de Windhoek, Spreetshoogte y las dos de Walvis—, todas de camping, que es
+> **7 noches** —las tres de Windhoek, Spreetshoogte y las dos de Walvis—, todas de camping, que es
 > el tramo barato y predecible.
 
 → Bloque parcial/sin verificar: **~€126/persona ○** *(con el sesgo al alza de arriba)*. **Alojamiento
@@ -201,9 +205,9 @@ total: ~€570 pareja (~€285/persona)**, del que **~€318 (56 %) está verifi
 
 ```mermaid
 flowchart LR
-    T["Alojamiento 13 noches · pareja · EUR · EUR"]
+    T["Alojamiento 14 noches · pareja · EUR · EUR"]
     n0["6 NWR verificadas<br/>318"]
-    n1["7 restantes estimadas<br/>252"]
+    n1["8 restantes estimadas<br/>252"]
     T ~~~ n0
     n0 ~~~ n1
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
@@ -446,6 +450,27 @@ llega con margen; a la vuelta aterrizas a las **12:50 del día 15** y quedan ~4 
 ---
 
 
+### 🧳 La franquicia de equipaje — cerrada *(07/08/2026)*
+
+La duda era razonable —**varios operadores en el mismo billete**: los tramos largos los vuela
+**Discover Airlines**, la filial de largo radio de Lufthansa *(que opera Frankfurt/Múnich–Windhoek)*,
+y el Múnich–Oporto, Lufthansa o su regional Air Dolomiti según el día ◐— pero la respuesta es
+simple: **en un billete único del grupo Lufthansa la franquicia es UNA para todo el itinerario y
+la fija la TARIFA, no cada operador** ✅. Discover aplica el reglamento de equipaje del grupo y lo
+publica en su propia web.
+
+- 🧳 **Economy Classic o superior: 1 maleta facturada de 23 kg por persona** *(máx. 158 cm de suma
+  de lados)* ✅ · **Economy Light: NINGUNA** ✅ — es el aviso que ya llevaba el README: al emitir,
+  **tarifa con maleta**.
+- 🎒 **Cabina: 1 pieza de 8 kg** *(55×40×23)* **+ un accesorio personal** *(40×30×10)* ✅.
+- 👉 Con los **petates blandos** del [`05`](05-equipaje.md) *(~20 kg apuntados)*, el límite de
+  158 cm sobra por todos lados: **la única decisión real es no comprar la tarifa Light**.
+
+> Fuentes: [Discover Airlines · Baggage](https://www.discover-airlines.com/us/en/book/baggage) ✅
+> *(1×23 kg en Economy salvo Light, 158 cm, y las reglas de equipaje del grupo en vuelos operados
+> por Discover/Lufthansa/Air Dolomiti)* · [Discover Airlines · newsroom — la ruta
+> Múnich–Windhoek](https://newsroom-en.discover-airlines.com/pressreleases/discover-airlines-expands-munich-windhoek-service-3455761) ✅.
+
 ## 9. Comida, actividades y misceláneos ○
 
 ### Comida ○ *(sin fuente — práctica común)*
@@ -510,7 +535,8 @@ flowchart LR
 
 **Desglose por persona (escenario camping):**
 - ✈️ Vuelo **€1.450** ✅
-- 🚙 Coche **~€877,50** ✅ *(mitad de N$35.100 · ~€1.755, la Budget 13 días)* — **~€975 si es la Comfort** *(N$39.000)*
+- 🚙 Coche **~€1.012,50** *(los 13 días cotizados ✅ + los 2 del aeropuerto ◐: mitad de ~N$40.500 ·
+  ~€2.025, la Budget)* — **~€1.162,50 si es la Comfort**
 - ⛺ Alojamiento **~€285** *(€159 verificado + ~€126 estimado)*
 - ⛽ Combustible **~€200** ○/◐
 - 🍖 Comida **~€140** ○
@@ -520,22 +546,24 @@ flowchart LR
 - 🎯 Actividades **~€38** ○
 - 🧷 Misceláneos **~€75** ○
 
-> ### **TOTAL POR PERSONA: ~€3.368 (~N$67.400)** *con la Budget*
-> ### **TOTAL LA PAREJA: ~€6.736 (~N$134.700)**
-> Rango honesto: **€3.220–3.520 por persona** — el margen (±~€145) está casi todo en las 7 noches sin
-> precio, el combustible, la comida y los misceláneos.
+> ### **TOTAL POR PERSONA: ~€3.503 (~N$70.100)** *con la Budget, 15 días*
+> ### **TOTAL LA PAREJA: ~€7.005 (~N$140.100)**
+> Rango honesto: **€3.355–3.655 por persona** — el margen (±~€150) está en las 8 noches sin
+> precio, los 2 días de coche por recotizar, el combustible, la comida y los misceláneos.
 >
-> **Lo que todavía puede moverlo** *(ver §2, §7 y §8)*: **+€97,50 p.p.** si sale la **Comfort** en
-> vez de la Budget · **+€135–150 p.p.** de coche si se alarga a los 15 días que pide el vuelo ·
+> **Lo que todavía puede moverlo** *(ver §2, §7 y §8)*: **+€150 p.p.** si sale la **Comfort** en
+> vez de la Budget *(a 15 días)* · el **precio real del 31-oct** *(fuera de temporada baja ❌)* ·
 > **+el traslado a Oporto** ida y vuelta y **+el día extra de seguro**, los dos ❌ sin cotizar.
-> **Cuenta ~€3.500 por persona para no llevarte sorpresas.**
+> **Cuenta ~€3.650 por persona para no llevarte sorpresas.**
 
 **Qué parte de este número es sólida:**
-- **✅ Duro — €2.680 de los €3.368 (80 %)**: vuelo €1.450 · coche €877,50 · 6 noches NWR €159 ·
-  seguro €113 · visado €80.
+- **✅ Duro — €2.680 de los €3.503 (77 %)**: vuelo €1.450 · los 13 días cotizados del coche
+  €877,50 · 6 noches NWR €159 · seguro €113 · visado €80.
 - **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto está en fuente secundaria; el ministerio
   aún publica la tabla vieja. **Confírmalo por email.**
-- **○ Estimado — ~€578/persona**: 7 noches sin precio (~€126), combustible (~€200), comida (~€140),
+- **◐ Corroborado o pendiente de recotizar — ~€244**: tasas de parque (~€109) y los 2 días de
+  coche del aeropuerto (~€135).
+- **○ Estimado — ~€578/persona**: 8 noches sin precio (~€126), combustible (~€200), comida (~€140),
   actividades (~€38), misceláneos (~€75).
 
 ### 👥 ¿Y si vais 3 o 4 en el mismo 4x4? — la economía de escala, calculada
@@ -544,37 +572,38 @@ El coche duerme y sienta a más de dos: **ficha verificada ✅ — 5 plazas y 2 
 4 personas**. Lo único que de verdad se reparte es el coche y su gasoil; casi todo lo demás va
 por cabeza:
 
-- **Se reparte (fijo del grupo)**: coche **N$35.100 (~€1.755)** la Budget *(N$39.000 · ~€1.950 la Comfort)* + combustible **~€400 (~N$8.000)** +
-  el vehículo en las tasas (7 × N$60 = **N$420 · ~€21**) → **~€2.221 (~N$44.420)** entre los que vayáis
+- **Se reparte (fijo del grupo)**: coche 15 días **~N$40.500 (~€2.025)** la Budget ◐ *(~N$45.000 ·
+  ~€2.250 la Comfort)* + combustible **~€400 (~N$8.000)** + el vehículo en las tasas (7 × N$60 =
+  **N$420 · ~€21**) → **~€2.446 (~N$48.900)** entre los que vayáis
 - **Va por cabeza**: vuelo €1.450 · alojamiento ~€285 *(el camping NWR se cobra POR PERSONA ✅:
   Sesriem N$670/pax, Etosha N$460/pax)* · comida ~€140 · tasas de persona 7 × N$280 = **N$1.960
-  (~€98)** · seguro ~€113 · visado €80 · actividades ~€38 · misceláneos ~€75 → **~€2.195 (~N$43.900)**
+  (~€98)** · seguro ~€113 · visado €80 · actividades ~€38 · misceláneos ~€75 → **~€2.279 (~N$45.600)**
 
 ```mermaid
 flowchart LR
     T["Total por persona segun cuantos vais<br/>EUR · camping"]
-    n0["2 personas<br/>3.368"]
-    n1["3 personas<br/>2.935"]
-    n2["4 personas<br/>2.750"]
+    n0["2 personas<br/>3.503"]
+    n1["3 personas<br/>3.094"]
+    n2["4 personas<br/>2.891"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
-- **2 personas** — **~€3.368 (~N$67.400)/persona** · grupo ~€6.736 (~N$134.700)
-- **3 personas** — **~€2.935 (~N$58.700)/persona** · grupo ~€8.806 (~N$176.000) → *ahorra
-  ~€371/persona (−11 %) respecto a ir dos*
-- **4 personas** — **~€2.750 (~N$55.000)/persona** · grupo ~€11.001 (~N$220.000) → *ahorra
-  ~€556/persona (−17 %)*
+- **2 personas** — **~€3.503 (~N$70.100)/persona** · grupo ~€7.005 (~N$140.100)
+- **3 personas** — **~€3.094 (~N$61.900)/persona** · grupo ~€9.283 (~N$185.700) → *ahorra
+  ~€408/persona (−12 %) respecto a ir dos*
+- **4 personas** — **~€2.891 (~N$57.800)/persona** · grupo ~€11.562 (~N$231.200) → *ahorra
+  ~€612/persona (−17 %)*
 
 > ⚠️ **Cuatro letras pequeñas antes de invitar a nadie:**
 > 1. **El vuelo (€1.450) está cotizado para 2 plazas** — para 3–4 la tarifa por asiento puede
 >    cambiar: recotiza antes de prometer el número ❌.
 > 2. **El seguro (€113,02 p.p.) es la simulación de 2 viajeros** — el p.p. a 3–4 se asume lineal ○:
 >    pide cotización.
-> 3. **Las 7 noches sin precio (~€126 p.p. ○)** mezclan campings por persona con habitaciones
->    (Terrace Bay, hotel del D13): con 3–4 puede salir algo mejor o algo peor. Y el **límite de
+> 3. **Las 8 noches sin precio (~€126 p.p. ○)** son campings por persona salvo la habitación de
+>    Terrace Bay: con 3–4 puede salir algo mejor o algo peor. Y el **límite de
 >    personas por parcela NWR no está verificado** — pregúntalo al reservar ❌.
 > 4. **El espacio es el precio oculto**: doble cabina con nevera, cajas de camping y equipaje de 4 —
 >    el maletero va MUY justo ○. Y el **coste del conductor adicional en Namibia2Go no está
@@ -584,12 +613,13 @@ flowchart LR
 
 ## 11. Qué parte de este número es sólida
 
-- **✅ Duro — €2.680 de los €3.368 (80 %)**: vuelo €1.450 · coche €877,50 · las 6 noches de NWR €159 ·
-  seguro €113 · visado €80. Todo con precio real para las fechas exactas.
-- **◐ Corroborado — ~€109**: las tasas de parque. El N$280/adulto se apoya en la gaceta localizada y
-  en secundarias concordantes, pero **el PDF primario del MEFT sigue sin abrirse**.
-- **○ Estimado — ~€578**: seis noches de camping sin cotizar, combustible, comida, actividades y
-  misceláneos. **Ese es el margen real: ±€145 por persona.**
+- **✅ Duro — €2.680 de los €3.503 (77 %)**: vuelo €1.450 · los 13 días cotizados del coche €877,50 ·
+  las 6 noches de NWR €159 · seguro €113 · visado €80. Todo con precio real para las fechas exactas.
+- **◐ Corroborado o por recotizar — ~€244**: las tasas de parque (~€109; la gaceta localizada, el
+  PDF primario del MEFT sin abrirse) y los 2 días de coche del aeropuerto (~€135, decididos el
+  07/08 y pendientes de recotizar — el 31-oct fuera de temporada baja ❌).
+- **○ Estimado — ~€578**: ocho noches de camping sin cotizar, combustible, comida, actividades y
+  misceláneos. **Ese es el margen real: ±€150 por persona.**
 
 > **El inventario completo de lo que sigue abierto** —incluidos los importes que faltan y las
 > preguntas por escrito pendientes— está en [`15-huecos-cerrados`](15-huecos-cerrados.md).

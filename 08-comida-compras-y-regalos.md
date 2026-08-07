@@ -25,9 +25,9 @@ humano» a scripts; en navegador abren)* ✅:
 
 ```mermaid
 flowchart LR
-    A["Tus domingos de viaje:<br/>1 nov (llegada) y 8 nov"] --> B["Sin alcohol para llevar<br/>en tienda"]
+    A["Tus domingos de viaje:<br/>1 y 8 nov"] --> B["Sin alcohol para llevar<br/>en tienda"]
     C["Sabados y laborables"] --> D["Cerveza/vino en el super<br/>destilados en la bottle store"]
-    B --> E["La compra de bebida:<br/>LUNES 2 en Windhoek<br/>y SABADO 7 NO - es dia de ruta:<br/>el viernes 6 en Swakopmund"]
+    B --> E["La compra de bebida:<br/>SABADO 31 al llegar, con la<br/>compra grande - y reponer<br/>el viernes 6 en Swakopmund"]
     D --> E
     style E fill:#2d6a4f,color:#fff
 ```
@@ -39,9 +39,11 @@ alcohol queda cerrada.*
 
 ## 🛒 El avituallamiento, parada a parada
 
-### Windhoek — LA compra grande (lunes 2, a primera hora)
+### Windhoek — LA compra grande (sábado 31, recién aterrizados y con el coche)
 La regla de las guías de alquiler ◐: **hacia el desierto solo hay básicos — la compra seria se
 hace en Windhoek** ([Advanced Car Hire](https://www.advancedcarhire.com/post/a-guide-to-grocery-shopping-in-namibia-for-travellers)).
+**Y el calendario juega a favor** ✅: se llega en sábado — cerveza y vino en el súper y destilados
+en la bottle store, **que el domingo 1 no se puede**.
 - **Maerua Mall** es la jugada redonda ○: **SuperSpar** («probablemente el mejor de Windhoek, con
   parking» — [foro](https://www.tripadvisor.com/ShowTopic-g293821-i12459-k7050914-Supermarket_in_Windhoek-Windhoek_Khomas_Region.html)),
   con **TOPS** (destilados) anexo, más **Checkers** y **Woermann Brock** al lado. Cadenas del país:
@@ -53,6 +55,34 @@ hace en Windhoek** ([Advanced Car Hire](https://www.advancedcarhire.com/post/a-g
   **leña + pastillas de encendido** (mejor del súper: la de algunos campings es resinosa ○),
   carne de braai y **boerewors**, pap, conservas, **agua en garrafas**, hielo *(fácil: gasolineras
   y súpers)*. Maderas de braai con nombre propio: **kameeldoring, sekelbos, mopane** ○.
+
+#### ✅ La lista de la compra grande del D0 — para tachar en el carro
+
+La regla de la lista: **solo cosas que un súper grande namibio tiene seguro** — todo son básicos de
+las cadenas de arriba ◐ *(las mismas guías citadas, y los precios se pueden comprobar desde casa en
+[shop.pnp.na](https://shop.pnp.na/) ✅)*. Nada de fiar el menú a encontrar un producto concreto.
+Cubre **del D0 a la mañana del D5** *(en Swakopmund, el viernes 6, se repone TODO — §abajo)*:
+
+- [ ] **Agua: garrafas de 5 L** — la regla de los 4 L/persona/día del coche (`06`) sale de aquí
+- [ ] **Leña de braai** *(kameeldoring o sekelbos)* **+ pastillas de encendido + cerillas largas**
+- [ ] **Hielo** — lo último que entra en el carro, y directo a la nevera
+- [ ] **Carne del braai de los primeros días + boerewors** *(al vacío mejor: aguanta)*
+- [ ] **Huevos, pan de molde, mantequilla, queso en lonchas**
+- [ ] **Leche UHT, café soluble o de filtro, rooibos, azúcar**
+- [ ] **Avena o cereal, mermelada, crema de cacahuete** — el desayuno de campamento que no falla
+- [ ] **Pasta, arroz, pap, salsas de bote, sopas de sobre**
+- [ ] **Latas: atún, alubias/baked beans, chakalaka, tomate, maíz**
+- [ ] **Fruta dura** *(manzanas, naranjas)* **y verdura que aguante** *(cebolla, zanahoria, calabacín)*
+- [ ] **Aceite pequeño, sal, pimienta, especia de braai, ketchup/mostaza**
+- [ ] **Picoteo de coche: frutos secos, galletas, biltong** *(el biltong, en cualquier súper ◐)*
+- [ ] **Cerveza y vino EN EL SÚPER, HOY** ✅ *(mañana domingo, no)* — destilados, en el TOPS anexo
+- [ ] **Bolsas de basura, papel de cocina, papel higiénico de repuesto, mechero**
+- [ ] **Lavavajillas pequeño y estropajo** *(el menaje viene en el coche; el jabón, no ○)*
+
+⚠️ Tres cosas que **NO** van en esta compra: la **carne cruda que cruzaría la Línea Roja** hacia el
+norte *(se recompra en Swakopmund y en Outjo — ver `07`)*, nada **congelado en exceso** *(la nevera
+del coche no es un arcón: ver [`18`](18-manual-de-campamento.md) §5)* y el **repelente**, que ya
+viene de casa *(`17`)*.
 
 ### Sesriem (D3–D4)
 - **Sossus Oasis Service Station** ✅ (a 300 m de la puerta): diésel 50 ppm, taller de neumáticos,

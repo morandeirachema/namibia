@@ -238,7 +238,17 @@ la única forma de estar en Deadvlei al amanecer.
 
 ---
 
-## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 03/08/2026)*
+## 🧳 Franquicia de equipaje — cerrada ✅ *(07/08/2026)*
+
+Era uno de los huecos del README *(«tres aerolíneas en la vuelta»)* y se cierra con fuente
+primaria: **en un billete único del grupo Lufthansa, la franquicia es una para todo el itinerario
+y la fija la tarifa, no cada operador**. Los tramos largos los opera **Discover Airlines** *(la
+filial de largo radio de LH, que vuela Frankfurt/Múnich–Windhoek)* y aplica el reglamento de
+equipaje del grupo: **Economy Classic = 1×23 kg (158 cm) por persona; Economy Light = ninguna;
+cabina 8 kg + accesorio**. La única decisión real ya estaba avisada: **emitir con tarifa con
+maleta**. Detalle y fuentes en [`02`](02-presupuesto.md) §8.
+
+## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 07/08/2026)*
 
 El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo el dossier.
 
@@ -254,7 +264,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 **Precios sin cerrar — el margen real del presupuesto:**
 
-- 🛏️ **Tres campings sin cotizar**: Windhoek (D1 y D13), Walvis Bay (D5–D6) y Spreetshoogte. Los
+- 🛏️ **Tres campings sin cotizar**: Windhoek (D0–D1 y D13), Walvis Bay (D5–D6) y Spreetshoogte. Los
   sitios están identificados; **ninguno publica tarifa abrible desde aquí**. **Reintento 05/08 —
   el muro de `403` es total**: no solo las webs propias, también **todos los agregadores y hasta
   ioverlander** *(arebbusch.com, africanreservations.com, madbookings.com, booking.com y

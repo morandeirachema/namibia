@@ -336,7 +336,7 @@ def portada(total_paginas=None):
     <div class="datos">
       Un 4×4 con tienda de techo · <b>30 de octubre – 15 de noviembre</b><br>
       Desierto → costa → Damaraland → <b>cuatro noches dentro de Etosha</b><br>
-      ~2.728 km · <b>~€3.368 por persona</b>, todo incluido
+      ~2.728 km · <b>~€3.503 por persona</b>, todo incluido
     </div>
     <div class="pie"><span>{pie_izq}</span><span>{pie_der}</span></div>
   </div>
@@ -448,7 +448,7 @@ def paginas_de_mapas():
     {"".join(filas)}
     <li class="total"><span class="dia"></span><span class="fec"></span>
       <span class="etapa">Total conducido</span><span class="km">{miles(total)}</span>
-      <span class="dor">13 noches</span></li>
+      <span class="dor">14 noches — 13 en ruta</span></li>
   </ol>
   <p class="nota-tabla">Los kilómetros de esta tabla son <b>de carretera, puerta a puerta</b>,
   medidos con OSRM sobre el trazado de OpenStreetMap el 4 de agosto de 2026. No incluyen los
