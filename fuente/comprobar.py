@@ -89,7 +89,7 @@ def revisa_geo():
 # no nos aplican, como la de residente namibio. Exigirles el euro llenaria esto de avisos
 # falsos, y una comprobacion que grita sin motivo se acaba ignorando.
 SOBRE_EL_TERRENO = ("01-itinerarios-dia-a-dia.md", "03-alojamiento-y-tasas.md",
-                    "13-itinerario.md")
+                    "13-itinerario.md", "18-manual-de-campamento.md")
 
 RE_NAD = re.compile(r"(?<![+\-±])N\$\s?([\d][\d.,]*)")
 
