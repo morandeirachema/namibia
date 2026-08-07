@@ -153,8 +153,8 @@ RESUMEN = {
 
 
 def miles(n, sufijo=" km"):
-    """2728 -> «2.728 km». Punto de millar, que es lo que se usa en castellano."""
-    return f"{n:,.0f}".replace(",", ".") + sufijo
+    """2728 -> «2.728 km»."""
+    return comun.mil(n) + sufijo
 
 
 # El numero de un documento manda su sitio en el volumen, salvo aqui: la lista de
@@ -544,57 +544,9 @@ def creditos_seccion():
 # Montaje
 # ---------------------------------------------------------------------------
 
-EXTRA_CSS = """
-/* Testigo invisible para localizar la pagina en el PDF ya maquetado. Va en
-   blanco y con el interletraje a cero: con el negativo del titular los glifos
-   se solapan y pdftotext los devuelve desordenados. */
-.ancla { font-size: 6pt; color: #fff; letter-spacing: 0; font-family: var(--mono);
-         font-weight: 400; }
-/* La tira de etapas. No es una <table>: es una lista maquetada en rejilla, que en
-   papel se lee mejor y deja marcar cada dia con el color de su tramo. */
-ol.etapas { list-style: none; padding: 0; margin: 2mm 0 0; font-size: 8.8pt; }
-ol.etapas li { display: grid; grid-template-columns: 13mm 15mm 1fr 18mm 40mm;
-               gap: 3mm; align-items: baseline; padding: 1.7mm 0;
-               border-bottom: .5pt solid var(--regla); margin: 0; break-inside: avoid; }
-ol.etapas li::before { content: none; }
-ol.etapas .dia { font-family: var(--sans); font-weight: 700; color: var(--basalto);
-                 border-left: 2.2pt solid transparent; padding-left: 2mm; }
-ol.etapas .fec { font-family: var(--sans); color: var(--tinta-2); white-space: nowrap; }
-ol.etapas .km  { font-family: var(--sans); font-weight: 600; text-align: right;
-                 white-space: nowrap; }
-ol.etapas .dor { font-weight: 600; }
-ol.etapas .cabecera { font-family: var(--sans); font-size: 7.4pt; letter-spacing: .12em;
-  text-transform: uppercase; color: var(--tinta-3); border-bottom: 1pt solid var(--regla-2);
-  padding-bottom: 1.4mm; }
-ol.etapas .cabecera span { font-weight: 600; color: var(--tinta-3); }
-ol.etapas .total { font-family: var(--sans); font-weight: 700; border-bottom: 0;
-                   border-top: 1pt solid var(--regla-2); padding-top: 2.2mm; }
-.nota-tabla { font-size: 8pt; color: var(--tinta-2); margin: 3mm 0 6mm;
-              padding-left: 3mm; border-left: 2pt solid var(--regla); }
-.mapa-plena h1.titulo { font-size: 19pt; }
-/* Con `height: auto`, Chrome mete el SVG en el hueco que le queda a la pagina y lo
-   encoge —el mapa salia a dos tercios—. Con el alto en milimetros no puede. */
-.mapa-ruta svg   { height: 226mm; width: auto; margin: 0 auto; }
-.mapa-etosha svg { height: 108mm; width: auto; margin: 0 auto; }
-.remite blockquote { padding: 6mm 7mm; }
-.remite blockquote h2 { font-size: 14pt; color: var(--oxido-os); }
-.remite blockquote p { font-size: 10.2pt; }
-/* Mermaid trae su propia tipografia por diagrama; se unifica con la del dossier. */
-.mermaid, .mermaid svg, .mermaid svg text, .mermaid svg tspan, .mermaid .nodeLabel,
-.mermaid .edgeLabel, .mermaid .titleText, .mermaid .taskText, .mermaid .sectionTitle,
-.mermaid .tick text, .mermaid .slice, .mermaid .pieTitleText, .mermaid .legend text {
-  font-family: "Source Sans 3", Helvetica, Arial, sans-serif !important; }
-.mermaid .node rect, .mermaid .node polygon, .mermaid .node circle,
-.mermaid .node path { stroke-width: 1px; }
-/* Un gantt de catorce dias o un queso de diez porciones no caben en una columna:
-   estos dos cruzan las dos. El resto de diagramas, no — cada cruce corta el flujo. */
-.mermaid.ancho { column-span: all; }
-.mermaid.ancho svg { max-height: 120mm; }
-"""
-
-
 def html_completo(paginas=None):
-    css = open(os.path.join(HERE, "estilo", "dossier.css")).read() + EXTRA_CSS
+    css = "".join(open(os.path.join(HERE, "estilo", f)).read()
+                  for f in ("comun.css", "dossier.css"))
     tipos = comun.tipografias(os.path.join(HERE, "tipos"))
     return f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 <title>Namibia 2026 — el dossier del viaje</title>

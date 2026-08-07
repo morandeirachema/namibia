@@ -14,6 +14,7 @@ import math
 import os
 
 import trazado
+from geodatos import anillos
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 GEO = os.path.join(HERE, "geo")
@@ -126,39 +127,13 @@ def capa_paises(L, resaltar="Namibia"):
     return "".join(out)
 
 
-def _anillos_relacion(rel, rol="outer"):
-    """Une los miembros de una relacion de Overpass en anillos cerrados."""
-    trozos = [[(p["lat"], p["lon"]) for p in m["geometry"]]
-              for m in rel.get("members", [])
-              if m.get("role") == rol and m.get("geometry")]
-    anillos, pendientes = [], list(trozos)
-    while pendientes:
-        actual = pendientes.pop(0)
-        cambio = True
-        while cambio and actual[0] != actual[-1]:
-            cambio = False
-            for i, t in enumerate(pendientes):
-                if abs(t[0][0] - actual[-1][0]) < 1e-6 and abs(t[0][1] - actual[-1][1]) < 1e-6:
-                    actual += t[1:]
-                    pendientes.pop(i)
-                    cambio = True
-                    break
-                if abs(t[-1][0] - actual[-1][0]) < 1e-6 and abs(t[-1][1] - actual[-1][1]) < 1e-6:
-                    actual += t[::-1][1:]
-                    pendientes.pop(i)
-                    cambio = True
-                    break
-        anillos.append(actual)
-    return anillos
-
-
 def capa_parques(L, nombres=None, relleno=None, trazo=None, ancho=0.9, guion="2.5 2"):
     out = []
     for e in carga("parques.json")["elements"]:
         nom = e["tags"].get("name", "")
         if nombres and not any(n.lower() in nom.lower() for n in nombres):
             continue
-        d = "".join(L.d(a, cerrar=True) for a in _anillos_relacion(e) if len(a) > 2)
+        d = "".join(L.d(a, cerrar=True) for a in anillos(e) if len(a) > 2)
         if not d:
             continue
         out.append(f'<path d="{d}" fill="{relleno or C["parque"]}" '
@@ -172,8 +147,8 @@ def capa_pan(L, borde=0.8):
     for e in carga("etosha_pan.json")["elements"]:
         if e["tags"].get("natural") != "water":
             continue
-        d = "".join(L.d(a, cerrar=True) for a in _anillos_relacion(e, "outer") if len(a) > 2)
-        d += "".join(L.d(a, cerrar=True) for a in _anillos_relacion(e, "inner") if len(a) > 2)
+        d = "".join(L.d(a, cerrar=True) for a in anillos(e, "outer") if len(a) > 2)
+        d += "".join(L.d(a, cerrar=True) for a in anillos(e, "inner") if len(a) > 2)
         return (f'<path d="{d}" fill="{C["sal"]}" stroke="{C["borde"]}" '
                 f'stroke-width="{borde}" fill-rule="evenodd"/>')
     return ""

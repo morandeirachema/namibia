@@ -46,18 +46,18 @@ import os
 import re
 import sys
 import time
-import urllib.error
 import urllib.parse
-import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 GEO = os.path.join(HERE, "geo")
 sys.path.insert(0, HERE)
 
 import catalogo                                                    # noqa: E402
+import geodatos                                                    # noqa: E402
+import red                                                         # noqa: E402
+from comun import mil as _mil                                      # noqa: E402
 
 API = "https://api.gbif.org/v1/"
-UA = "NamibiaTripDossier/2.0 (https://github.com/chemamm/Namibia; josemorandeira@gmail.com)"
 SALIDA = "avistamientos.json"
 
 # Los meses del viaje. La ventana es 30 oct - 14 nov: se piden los dos meses enteros
@@ -93,54 +93,19 @@ FUERA_DE_RUTA = {"suricata", "cebra-hartmann"}
 
 
 def pide(path, **kw):
-    """GET a GBIF con reintentos: la API devuelve 503 esporadicos sin motivo."""
-    espera = 3
-    for i in range(5):
-        url = API + path + "?" + urllib.parse.urlencode(kw)
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=120) as r:
-                d = json.loads(r.read())
-            if isinstance(d, dict):                 # un 503 llega como lista, no como objeto
-                return d
-        except urllib.error.HTTPError as e:
-            if e.code < 500 and e.code != 429:
-                raise
-        except Exception:                                         # noqa: BLE001
-            pass
-        time.sleep(espera)
-        espera *= 2
-    raise RuntimeError(f"GBIF no responde: {path} {kw}")
+    """GET a GBIF que devuelve el JSON ya cargado.
+
+    La manía de GBIF: suelta 503 esporadicos sin motivo, y a veces disfrazados de
+    HTTP 200 con una LISTA JSON donde tocaba un objeto — por eso el `valida`.
+    """
+    url = API + path + "?" + urllib.parse.urlencode(kw)
+    return json.loads(red.pide(url, timeout=120, intentos=5,
+                               valida=lambda b: isinstance(json.loads(b), dict)))
 
 
 # ---------------------------------------------------------------------------
 # 1 · Las zonas, en WKT
 # ---------------------------------------------------------------------------
-
-def _anillos(rel):
-    """Encadena los tramos de una relacion de OSM hasta cerrar el contorno."""
-    tramos = [[(p["lon"], p["lat"]) for p in m["geometry"]]
-              for m in rel.get("members", [])
-              if m.get("role") == "outer" and m.get("geometry")]
-    anillos, actual = [], list(tramos.pop(0)) if tramos else []
-    while tramos:
-        for i, t in enumerate(tramos):
-            if t[0] == actual[-1]:
-                actual += t[1:]
-                break
-            if t[-1] == actual[-1]:
-                actual += t[::-1][1:]
-                break
-        else:                                       # ningun tramo engancha: anillo cerrado
-            anillos.append(actual)
-            actual = list(tramos[0])
-            tramos.pop(0)
-            continue
-        tramos.pop(i)
-    if actual:
-        anillos.append(actual)
-    return anillos
-
 
 def _simplifica(pts, tol):
     """Douglas-Peucker. GBIF rechaza los poligonos con miles de vertices."""
@@ -171,7 +136,8 @@ def poligono_etosha():
         d = json.load(f)
     rel = next(e for e in d["elements"]
                if e.get("tags", {}).get("name", "").startswith("Etosha"))
-    anillo = max(_anillos(rel), key=len)
+    # geodatos.anillos devuelve (lat, lon); aqui todo trabaja en (x, y) = (lon, lat).
+    anillo = [(lon, lat) for lat, lon in max(geodatos.anillos(rel), key=len)]
     if anillo[0] == anillo[-1]:                     # se simplifica el anillo ABIERTO:
         anillo = anillo[:-1]                        # con el primer punto igual al ultimo,
     tol = 0.005                                     # Douglas-Peucker se colapsa a dos puntos
@@ -317,11 +283,10 @@ def viajeros():
     out = {}
     for clave, nombre, slug in CAMPAMENTOS:
         url = f"https://www.expertafrica.com/namibia/etosha-national-park/{slug}/reviews/1"
-        req = urllib.request.Request(url, headers={"User-Agent": NAVEGADOR,
-                                                   "Accept-Language": "en-GB,en;q=0.9"})
         try:
-            with urllib.request.urlopen(req, timeout=90) as r:
-                pag = r.read().decode("utf-8", "replace")
+            pag = red.pide(url, timeout=90, cabeceras={
+                "User-Agent": NAVEGADOR,
+                "Accept-Language": "en-GB,en;q=0.9"}).decode("utf-8", "replace")
         except Exception as e:                                    # noqa: BLE001
             print(f"   !! {nombre}: {e} — se queda sin porcentajes")
             continue
@@ -371,10 +336,6 @@ BANDAS = [(3.0, "seguro", "Muy frecuente"),
           (0.3, "probable", "Regular"),
           (0.08, "buscar", "Escasa"),
           (0.0, "raro", "Muy escasa")]
-
-
-def _mil(n):
-    return f"{n:,}".replace(",", ".")
 
 
 def indice(slug):

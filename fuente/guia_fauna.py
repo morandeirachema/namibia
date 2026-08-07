@@ -26,6 +26,7 @@ try:
 except ImportError:                                                # aun sin el informe
     DONDE, INTRO_EXTRA, FUENTES_ETOSHA = {}, "", []
 
+
 def metodo():
     """El bloque que explica de donde sale el porcentaje de cada ficha.
 
@@ -39,8 +40,8 @@ def metodo():
     trozos = " · ".join(f"<b>{c['nombre']}</b> {c['viajeros']}" for c in camps.values()
                         if c.get("viajeros"))
     et = d.get("zonas", {}).get("etosha", {}).get("por_clase", {})
-    mam = f'{et.get("359", {}).get("oct_nov", 0):,}'.replace(",", ".")
-    aves = f'{et.get("212", {}).get("oct_nov", 0):,}'.replace(",", ".")
+    mam = comun.mil(et.get("359", {}).get("oct_nov", 0))
+    aves = comun.mil(et.get("212", {}).get("oct_nov", 0))
     return f"""
   <p><strong>La línea de arriba de cada ficha dice qué posibilidades hay.</strong> Cuando
   pone <em>«82&nbsp;% lo vio»</em> es literal: viajeros que declararon <strong>una o más
@@ -213,68 +214,9 @@ def remite_desde_dossier(ancla=""):
 </section>"""
 
 
-EXTRA_CSS = """
-/* La linea de posibilidades. Va ARRIBA, pegada al nombre: es lo primero que se mira
-   en la charca, antes que la descripcion. La banda de color es redundante con el
-   texto a proposito — en un PDF que se imprime en blanco y negro el color se pierde,
-   y la palabra sigue ahi. */
-.sp .verlo { margin: 0 0 1.4mm; font-family: var(--sans); font-size: 6.4pt;
-             line-height: 1.32; color: var(--tinta-2); }
-.sp .verlo .banda { display: inline-block; font-weight: 700; font-size: 6.2pt;
-  text-transform: uppercase; letter-spacing: .05em; padding: .35mm 1.2mm;
-  border-radius: .8mm; margin-right: 1.2mm; white-space: nowrap;
-  background: var(--crema-2); color: var(--tinta-2); }
-.sp .verlo .fino { color: var(--tinta-3); }
-.sp .verlo.v-seguro  .banda { background: var(--verde-bg); color: var(--verde); }
-.sp .verlo.v-facil   .banda { background: var(--verde-bg); color: var(--verde); }
-.sp .verlo.v-probable .banda { background: var(--ambar-bg); color: var(--ambar); }
-.sp .verlo.v-buscar  .banda { background: var(--ambar-bg); color: var(--ambar); }
-.sp .verlo.v-raro    .banda { background: var(--rojo-bg); color: var(--rojo); }
-.sp .verlo.v-cero    .banda { background: var(--rojo-bg); color: var(--rojo); }
-.sp .verlo.v-fuera   .banda { background: var(--rojo-bg); color: var(--rojo); }
-.sp .verlo.v-pocos   .banda { background: var(--crema-2); color: var(--tinta-3); }
-.sp .cuantos { margin: 1.2mm 0 0; font-size: 7.2pt; background: var(--azul-bg);
-               border-radius: 1mm; padding: 1.4mm 1.8mm; line-height: 1.34; }
-.sp .cuantos .marca-et { font-family: var(--sans); font-weight: 700; color: var(--azul);
-  text-transform: uppercase; font-size: 6.2pt; letter-spacing: .09em; margin-right: 1mm;
-  white-space: nowrap; }
-
-/* Lo que es reglamento y no consejo se marca en rojo: es lo unico de esta guia por lo
-   que te pueden echar del parque. */
-.portadilla blockquote.norma { background: var(--rojo-bg); border-left-color: var(--rojo); }
-.portadilla blockquote.norma h3 { color: var(--rojo); }
-
-.intro { background: var(--crema); border-left: 2.6pt solid var(--oxido);
-         padding: 3mm 4mm; margin: 0 0 3.5mm; font-size: 8.2pt; border-radius: 0 1.5mm 1.5mm 0;
-         column-span: all; break-inside: avoid; }
-.intro p { margin: 0 0 1.4mm; } .intro p:last-child { margin: 0; }
-.intro.peligro { background: var(--rojo-bg); border-left-color: var(--rojo); }
-.fauna h2 { margin-top: 7mm; }
-.guia-portada { position: relative; width: 100%; height: var(--caja-alto); overflow: hidden;
-  page-break-after: always; background: #1D2B21; color: #F4EFE6; border-radius: 2mm;
-  display: flex; flex-direction: column; justify-content: center; padding: 0 18mm;
-  text-align: center; }
-.guia-portada .epi { font-family: var(--sans); letter-spacing: .34em; text-transform: uppercase;
-  font-size: 8pt; color: #C9B98F; margin-bottom: 8mm; }
-.guia-portada h1 { font-family: var(--sans); font-size: 40pt; font-weight: 700; margin: 0 0 3mm;
-  line-height: 1.02; color: #fff; border: 0; }
-.guia-portada h2 { font-family: var(--serif); font-style: italic; font-size: 14pt;
-  font-weight: 400; color: #C9B98F; margin: 0 0 12mm; border: 0; }
-.guia-portada .datos { font-family: var(--sans); font-size: 10pt; line-height: 1.95; }
-.guia-portada .datos b { color: #E9DCC0; }
-.guia-portada .pie { margin-top: 14mm; font-family: var(--sans); font-size: 7.8pt;
-  color: #93A394; line-height: 1.65; }
-.final { page-break-before: always; padding: 0; }
-.final ul { columns: 2; column-gap: 7mm; padding-left: 0; list-style: none;
-            font-size: 7.2pt; line-height: 1.45; }
-.final ul li::before { content: none; }
-.final li { break-inside: avoid; margin-bottom: 1mm; }
-.final .u { color: var(--tinta-3); word-break: break-all; }
-"""
-
-
 def html_suelto():
-    css = open(os.path.join(HERE, "estilo", "dossier.css")).read() + EXTRA_CSS
+    css = "".join(open(os.path.join(HERE, "estilo", f)).read()
+                  for f in ("comun.css", "fauna.css"))
     tipos = comun.tipografias(os.path.join(HERE, "tipos"))
     cuentas = " · ".join(f"<b>{len(l)}</b> {n.lower()}" for _, n, l in catalogo.GRUPOS_FAUNA)
     cr = comun.creditos()
