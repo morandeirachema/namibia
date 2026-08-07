@@ -203,7 +203,7 @@ barata pero con cobertura **notablemente peor** fuera de los pueblos.
   *(kiosco cerca del mostrador de equipaje perdido, antes de la salida de llegadas; cierra ~21:00 —
   si tu vuelo llega tarde, ahí no lo coges)*. En Windhoek —**Maerua Mall**, **Wernhil Park**,
   supermercados **Pick n Pay / OK**— se compra una **SIM prepago normal** y se le cargan bonos de
-  datos **«Aweh»** (los N$100–200/semana de siempre), que sirve igual si no cogiste el paquete turista.
+  datos **«Aweh»** (los N$100–200 ≈ €5–10/semana de siempre), que sirve igual si no cogiste el paquete turista.
 - 🛂 **El registro de la SIM es OBLIGATORIO** por normativa CRAN (en vigor desde el 1/01/2023): hay
   que registrarla **en persona con el PASAPORTE**. Tarda ~10–15 min y es gratis.
   **Ya no hacen falta biométricos.**
@@ -217,7 +217,7 @@ barata pero con cobertura **notablemente peor** fuera de los pueblos.
 > [PDF de términos y condiciones](https://www.mtc.com.na/uploads/downloads/MTC_Namibia_Tourist_and_Visitors_package_Terms_and_Conditions.pdf)
 > y un blog independiente ([namibian.org / Safari2Go](https://namibian.org/blog/namibian-sim-card-especially-for-holidaymakers)),
 > y son **internamente coherentes** (14 días ↔ 10,1 GB; 30 días ↔ 20,1 GB). Van en ◐ porque no se
-> pudo verificar la extracción abriendo la página. Los bonos **«Aweh»** de recarga (N$100–200) siguen
+> pudo verificar la extracción abriendo la página. Los bonos **«Aweh»** de recarga (N$100–200 ≈ €5–10) siguen
 > siendo orientativos. **Reconfírmalo en el kiosco al aterrizar.**
 
 ### 🔇 Dónde NO hay señal — planifica silencio de verdad
@@ -281,8 +281,8 @@ al aterrizar y la carga grande en Windhoek ciudad.
 - **NO consta ninguno**: **Sesriem** *(la propia NWR pide llevar reserva de efectivo ✅
   [nwrnamibia](https://www.nwrnamibia.com/sesriem-cash-credit-cards.htm))* · **Terrace Bay** · y
   los de **dentro de Etosha** figuran pero con fama de poco fiables ○
-- Límites reportados por viajeros ○: **~N$1.500–2.000 por operación** con ~N$50–55 de comisión
-  local *(además de lo que cobre tu banco)*; el del aeropuerto hasta ~N$3.000
+- Límites reportados por viajeros ○: **~N$1.500–2.000 (~€75–100) por operación** con ~N$50–55 (~€2,50–2,75) de comisión
+  local *(además de lo que cobre tu banco)*; el del aeropuerto hasta ~N$3.000 (~€150)
 - 👉 **Los Cash Express de Solitaire y Kamanjab son un bonus, no un plan**: la regla sigue siendo
   cargar efectivo en **Windhoek → Swakopmund → Otjiwarongo/Outjo**
 
@@ -304,7 +304,7 @@ N$75–150 (~€4–8) por persona y día · personal de lodge/campamento N$50�
 la caja común de recepción.
 
 **Al salir** — **gasta o cambia los NAD antes de embarcar** (fuera del área monetaria común apenas
-se negocian). Límite oficial de billetes: **N$10.000 por viaje** fuera del CMA ◐ *(FAQ de Exchange
+se negocian). Límite oficial de billetes: **N$10.000 (~€500) por viaje** fuera del CMA ◐ *(FAQ de Exchange
 Control del [Bank of Namibia](https://www.bon.com.na/Informations/FAQ/Exchange-Control.aspx) — la
 web daba error al verificarla; corroborado en guía secundaria)*. La aduana
 ([NamRA](https://www.namra.org.na/documents/cms/uploaded/customs-procedure-travellers-guide-information-1579b9600b.pdf) ✅)
@@ -423,7 +423,7 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
   — **trátalo como que NO** y llena en Henties Bay (detalle estación a estación: `08`)
 - **Los km reales del eje de la costa y Damaraland** (D7–D9): solo estimaciones de `01`
 - ~~**Precios actuales de los bonos turistas de MTC**~~ **cerrados ◐ (05/08)**: paquete «Leisure»
-  **N$349/14 días/10,1 GB** y «Premium» **N$659/30 días/20,1 GB**, convergentes entre la web de MTC,
+  **N$349 ≈ €17/14 días/10,1 GB** y «Premium» **N$659 ≈ €33/30 días/20,1 GB**, convergentes entre la web de MTC,
   su PDF de T&C y un blog independiente (ver §Cobertura). El precio de la **eSIM** sigue sin cerrar
 - **Disponibilidad de combustible dentro de los campamentos de parques**: reportes sin confirmar
 - **La matriz de distancias es de 2010**: verificar contra Tracks4Africa
