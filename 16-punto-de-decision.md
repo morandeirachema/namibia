@@ -202,7 +202,8 @@ flowchart TD
 Por qué ganó la primera: **conserva el colchón** —la noche extra sigue cayendo *antes* de la
 primera reserva NWR (Sesriem, 3 nov), así que un vuelo o una maleta con +24 h se absorben sin
 tocar reservas—, **no mueve ni una fecha** de Sesriem en adelante, no añade logística nueva
-(mismo camping, dos noches) y es coste-neutral (una noche de camping de Windhoek por una de
+(mismo camping, dos noches — eso sí: un camping aún **sin tarifa ni contacto verificados**;
+reservarlo es el pendiente que abre esta decisión) y es coste-neutral (una noche de camping de Windhoek por una de
 Spreetshoogte, las dos en la misma banda estimada ○). El blog de referencia hacía exactamente
 esas 2 noches. Las descartadas quedan aquí por si se replantea: la de partir el D8 es la mejor
 en seguridad pura, pero cuesta el colchón de llegada y un camping nuevo sin verificar.

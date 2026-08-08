@@ -16,7 +16,7 @@ LUGARES = [
      "Petrified In Time (200653949).jpeg"),
     ("windhoek", "La Christuskirche de Windhoek, el punto de entrada y de salida",
      "Iglesia de Cristo, Windhoek, Namibia, 2018-08-04, DD 02.jpg"),
-    ("joes", "Joe's Beerhouse: la primera y la última cena del viaje",
+    ("joes", "Joe's Beerhouse: la opción de mesa del D0 y el D13",
      "Joes-Beerhouse Windhoek-Namibia1.jpg"),
 
     # --- desierto: D2 a D4 ---

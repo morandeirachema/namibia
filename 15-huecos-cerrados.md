@@ -8,7 +8,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 08/08/2026*
 
 > ### La regla de la casa
 > **Todas** las temperaturas que circulaban por webs de safaris fueron **refutadas 0–3**. Las de aquí
@@ -248,17 +248,24 @@ equipaje del grupo: **Economy Classic = 1×23 kg (158 cm) por persona; Economy L
 cabina 8 kg + accesorio**. La única decisión real ya estaba avisada: **emitir con tarifa con
 maleta**. Detalle y fuentes en [`02`](02-presupuesto.md) §8.
 
-## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 07/08/2026)*
+## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 08/08/2026)*
 
 El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo el dossier.
 
 **Bloquean algo con fecha:**
 
-- ✈️ **¿Está emitido el billete?** Hay precio real (€1.450 p.p.) pero **el dossier se contradice**.
+- ✈️ **El billete NO consta emitido** *(hay precio real, €1.450 p.p., cotizado el 05/08)*.
   **Sin billete no hay e-visa**, porque exige billete de vuelta.
 - 🏕️ **Ninguna reserva consta hecha**: ni coche, ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
-  al parque a pernoctar)*, ni las cuatro de Etosha.
-- 💉 **La cita del Centro de Vacunación Internacional** — para salir el 31/10 hay que ser atendidos
+  al parque a pernoctar)*, ni las cuatro de Etosha — **ni las DOS de Spreetshoogte** *(decididas el
+  08/08 y con un hueco doble: **sin tarifa y sin contacto** — no hay teléfono, email ni web del
+  camping en todo el dossier, y `01` añade un cuarto nombre a la trampa: «Camp Gecko»)*.
+- 🚗 **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, 15 días,
+  aeropuerto → aeropuerto; el 31-oct fuera de temporada baja ❌ y la entrega EN el aeropuerto sin
+  confirmar ❌ — `02` §2)*.
+- 🛡️ **Adelantar el seguro IATI al 30/10** *(la póliza cotizada empieza el 31; el coste del día
+  extra ❌ sin cotizar — `02` §7–8)*.
+- 💉 **La cita del Centro de Vacunación Internacional** — para salir el 30/10 hay que ser atendidos
   hacia el **19–26 de septiembre**. Se pide en agosto.
 - 🪪 **El permiso internacional de conducir**: fuente ◐, y la DGT pide cita.
 
@@ -282,7 +289,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
     Retreat**—, la misma confusión que ya dio el gancho de N$269,50 (Namibgrens). Los fragmentos dan
     «~N$120–150 por persona» *(~€6–7,50 ○, orígenes que se contradicen entre sí)*. **No se cierra**:
     sin abrir la ficha no se puede saber a cuál de las tres propiedades corresponde cada cifra. En
-    `01` (D2) sigue como está: 150–300 ZAR/persona, vigencia desconocida.
+    `01` (D1–D2, dos noches desde el 08/08) sigue como está: 150–300 ZAR/persona, vigencia desconocida.
   > **Conclusión 05/08:** ninguno pasa el listón de «verifica la extracción, no solo la fuente». Los
   > tres siguen en la estimación de práctica común de `02`; **estos números son pistas con URL para el
   > que llame a reservar, no precios para presupuestar**.
@@ -310,9 +317,9 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   Outjo)* corroboran los 265 de la matriz, y con los 75 km Hoada → Kamanjab dan **~340–346 km**. El
   ~315 de `01` queda refutado; ya corregido a 340. Detalle en [`13`](13-itinerario.md), §3.
 - ⛽ **Diésel en Terrace Bay** — hay **surtidor con gasolina y diésel** junto a la recepción del
-  resort *(ioverlander + relatos de viajeros ◐/○)*, pero **se queda sin combustible a veces** y
-  conviene llevar efectivo: trátalo como respaldo, no como garantía. Sigue sin cerrar si hay diésel
-  en el bucle Ugabmund–Springbokwasser.
+  resort *(ioverlander + relatos de viajeros ◐/○)*, pero se secó en 2025 y NWR no lo publicita:
+  **la regla operativa de `07`/`08` es tratarlo como que NO hay** — llena en Henties Bay y entra
+  con autonomía para salir. Sigue sin cerrar si hay diésel en el bucle Ugabmund–Springbokwasser.
 - 🎫 **La tabla fina de tasas del MEFT**: el PDF primario sigue sin abrirse.
 - 🚧 **Obras Okaukuejo–Halali — ACTUALIZADO 03/08 (◐, antes «hay que llamar»)**: ya hay **nota
   oficial de 2026** —MEFT `news/335` «Traffic deviation via Gemsbokvlakte road from Okaukuejo to

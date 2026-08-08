@@ -230,7 +230,7 @@ def html_suelto():
 <title>Fauna de Etosha — guía de campo</title>
 <style>{tipos}</style><style>{css}</style></head><body>
 <section class="guia-portada">
-  <div class="epi">Namibia · 1–14 de noviembre de 2026</div>
+  <div class="epi">Namibia · 31 de octubre – 14 de noviembre de 2026</div>
   <h1>Fauna del viaje</h1>
   <h2>Guía de campo · {total()} especies de toda la ruta</h2>
   <div class="datos">{cuentas}<br>

@@ -61,10 +61,14 @@ en la bottle store, **que el domingo 1 no se puede**.
 La regla de la lista: **solo cosas que un súper grande namibio tiene seguro** — todo son básicos de
 las cadenas de arriba ◐ *(las mismas guías citadas, y los precios se pueden comprobar desde casa en
 [shop.pnp.na](https://shop.pnp.na/) ✅)*. Nada de fiar el menú a encontrar un producto concreto.
-Cubre **del D0 a la mañana del D5** *(en Swakopmund, el viernes 6, se repone TODO — §abajo)*:
+Cubre **del D0 a la mañana del D5** *(en Swakopmund, el viernes 6, se repone TODO — §abajo)*.
+⚠️ **Desde el 08/08 las DOS primeras noches ya son de campamento remoto** *(Spreetshoogte D1–D2,
+sin tienda ni restaurante que consten ❌)*: **sin reposición hasta Solitaire/Sesriem, el D3**:
 
-- [ ] **Agua: garrafas de 5 L** — la regla de los 4 L/persona/día del coche (`06`) sale de aquí
-- [ ] **Leña de braai** *(kameeldoring o sekelbos)* **+ pastillas de encendido + cerillas largas**
+- [ ] **Agua: garrafas de 5 L — mínimo 5–6 garrafas** *(4 L/persona/día del coche, `06`, más el
+      día entero a pie del D2 y la cocina de dos noches sin grifo confirmado)*
+- [ ] **Leña de braai PARA DOS NOCHES** *(kameeldoring o sekelbos)* **+ pastillas de encendido +
+      cerillas largas** — en la escarpa no hay dónde reponer ❌
 - [ ] **Hielo** — lo último que entra en el carro, y directo a la nevera
 - [ ] **Carne del braai de los primeros días + boerewors** *(al vacío mejor: aguanta)*
 - [ ] **Huevos, pan de molde, mantequilla, queso en lonchas**
@@ -203,7 +207,8 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
 
 ### Los platos
 - **Braai** con carne de caza y **boerewors** — lo haréis vosotros 11 noches; carne en Windhoek/Outjo.
-- **Caza en plato**: órix/gemsbok, kudú, springbok, cebra — Joe's ya está en el plan; fino:
+- **Caza en plato**: órix/gemsbok, kudú, springbok, cebra — Joe's es la opción de mesa del D0 y
+  el D13; fino:
   **Leo's at the Castle** ◐; también **The Stellenbosch** y **O Portuga** ○ (Windhoek).
 - **Kapana** ◐ — tiras de vacuno a la brasa cortadas al momento, con sal-especia y chili, servidas
   en papel: el **mercado Single Quarters/Oshetu de Katutura** (Windhoek), mejor con ambiente de

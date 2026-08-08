@@ -162,7 +162,7 @@ Fuentes: [Windhoek Express](https://www.we.com.na/scoreboard/exorbitant-fees-for
 [info-namibia](https://www.info-namibia.com/activities-and-places-of-interest/otavi/lake-otjikoto) ○
 *(Y de propina en el mismo día: el meteorito de **Hoba** — N$250 (~€12,5) ◐ — si vais sobrados; ya está en `01`.)*
 
-### D2/D4 · Solitaire, el ángulo no típico
+### D3/D5 · Solitaire, el ángulo no típico
 Ya paras dos veces — pero la historia mejora la foto: **los Chevy y Ford oxidados de los 50 fueron
 colocados a propósito** como atrezo ○; la **tarta de manzana** es la receta del escocés Percy
 «Moose» McGregor (Moose McGregor's Desert Bakery), un Apfelstrudel de familia que sobrevive a su
