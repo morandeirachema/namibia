@@ -7,7 +7,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 09/08/2026*
 
 
 > Este documento no endulza nada. En Namibia lo que te puede matar es la carretera, no los
@@ -160,7 +160,7 @@ permitted»*.
 - Los accidentes **pican entre las 16:00 y las 19:59**: **4.811** (texto del propio informe:
   *«Most crashes occurred between 16:00 - 19:59 (4.811)»*)
 - Esa franja de **cuatro horas** concentra **121 de los 413 muertos = 29,3 %**
-- Anochece **~19:03–19:20** en tu ventana (**1–15 nov**): interior (Windhoek/Etosha) ~19:03–19:12 y
+- Anochece **~19:03–19:20** en tu ventana (**31 oct – 14 nov**): interior (Windhoek/Etosha) ~19:03–19:12 y
   **la costa hasta ~19:20** — ocaso recalculado en `15` para las fechas reales y desglosado día a
   día en `01` → **la franja más mortal del país coincide con tu último tramo del día**, y a
   comienzos de noviembre llega **~15 min antes** que a fin de mes
@@ -174,7 +174,7 @@ El consejo es bueno; la cita, mal usada.
 > **Las distancias namibias te mienten.** Un día de 300 km que parece de 3,5 h son **5–6 h** a
 > velocidad real de grava con paradas de fotos, y **cualquier pinchazo suma una hora**.
 >
-> **Planifica llegar 1 hora antes del ocaso** (en tu ventana de 1–15 nov el ocaso del interior es
+> **Planifica llegar 1 hora antes del ocaso** (en tu ventana de 31 oct – 14 nov el ocaso del interior es
 > ~19:05, así que **apunta a las 18:00**; en las etapas largas de los primeros días, mejor **17:30**).
 > Si vas tarde, **párate y llega mañana**: una noche de alojamiento imprevista no vale nada al lado
 > del riesgo.
@@ -317,14 +317,13 @@ Adelantar ahí dentro es comprometerte al **lado equivocado** de una carretera d
 
 ## 11. El calor es un peligro de conducción, no solo de confort ◐
 
-Medias de largo plazo para Sossusvlei en noviembre: **máxima 28 °C**, mínima 12 °C, 1 mm de lluvia
-en 1 día, 11 h de sol al día (80 % de las horas de luz).
+La cifra buena del repo *(cerrada el 04/08 — `15` §ERA5)*: **Sesriem, media de máximas de
+noviembre ~32,5 °C ◐** *(reanálisis ERA5 validado a ±0,04 °C; el dato ◐ de NWR da 34,1)*, mínimas
+~15,5 °C — y **los días extremos de la serie llegan a 41–42 °C**.
 
-> ⚠️ **Aviso honesto sobre esa cifra:** esos **28 °C son una media mensual de máximas** y
-> **subestiman tus días malos**. Varias fuentes describen octubre–noviembre en el Namib llegando a
-> **los 38–40 °C**. **No se pudo obtener el registro del Servicio Meteorológico de Namibia** para
-> zanjar la discrepancia. 👉 **Planifica para tardes de 35 °C+ y noches de 12 °C**, y trata los
-> 28 °C como media, no como techo. *(La investigación de temperaturas sigue abierta.)*
+> ⚠️ Los «28 °C de media» que circulaban por webs de viaje **subestimaban** — quedaron superados
+> por el cálculo propio. 👉 **Planifica para tardes de 35 °C+ y noches de 12–15 °C**, y trata la
+> media como media, no como techo.
 
 **Por qué importa al volante:**
 1. **Los neumáticos calientes ganan presión** → mide **en frío, cada mañana**, y **nunca purgues un
@@ -407,7 +406,9 @@ accidente de tráfico en Namibia, **sin importar nacionalidad ni culpa**.
 ❌ **Refutado 0–2** el envoltorio legal de este punto, **no los contactos**: todos los teléfonos
 están verificados y la cita del CEO del MVA Fund es literal en su web.
 
-⚠️ **El 10111 es sudafricano**, no namibio. No lo uses.
+⚠️ **El «10111» a secas no te sirve**: no es un número corto nacional fiable desde móvil *(el
+corto es el de la policía sudafricana)*. En Namibia funciona **con prefijo de zona** — Windhoek:
+**+264 61 10111** — y el prefijo cambia por región: **graba el formato completo** (ver `07`).
 
 **Práctico:** guárdalos **offline**, **apúntalos en papel en la guantera**, y ten presente que **no
 hay cobertura móvil en buena parte de Damaraland, el Namib y el sur profundo** — que es justo por lo
@@ -458,5 +459,5 @@ de salir del patio.
 - **Comportamiento del kudú y lo de los faros**: saber popular, sin fuente namibia.
 - **Que el vuelco sea «el accidente del turista»**: plausible y universalmente creído, **sin datos**.
 - **Desglose de accidentes por firme**: no existe en el NRSC.
-- **Temperaturas del Namib**: discrepancia sin resolver entre los 28 °C de media y los 38–40 °C que
-  reportan varias fuentes. En investigación.
+- ~~**Temperaturas del Namib**~~ **RESUELTAS (04/08)** con el reanálisis ERA5 validado contra
+  estación: Sesriem ~32,5 ◐ de media de máximas (NWR: 34,1) y extremos de 41–42 °C — ver `15` §ERA5.

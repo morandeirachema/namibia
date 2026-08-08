@@ -9,7 +9,7 @@
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 03/08/2026 · posibilidades de avistamiento y consejos de safari
-> añadidos el 07/08/2026*
+> añadidos el 07/08/2026 · revisión de coherencia el 09/08/2026*
 
 📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 19 páginas A4,
 **91 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
@@ -25,7 +25,9 @@ buscar una especie desde el repo.)*
 
 - **Nombre en castellano, científico e inglés** — el inglés importa: es el que veréis en los
   carteles del parque y el que usa todo el mundo allí
-- **Qué posibilidades hay de verla**, medida y con su muestra detrás *(abajo, de dónde sale)*
+- **Qué posibilidades hay de verla**, medida y con su muestra detrás *(abajo, de dónde sale)* —
+  en **89 de las 91**: dos fichas *(tortuga leopardo y shongololo)* se quedan sin línea a
+  propósito, porque su clase no llega a la muestra mínima y **callarse es la regla**
 - **Cómo reconocerla en el campo**: los rasgos que de verdad distinguen, no una descripción de
   enciclopedia *(labio del rinoceronte, rosetas frente a manchas, orejas de la hiena, pico del cálao…)*
 - **Cuántas quedan**, en las ocho especies con una cifra publicada que se pueda citar
@@ -61,7 +63,8 @@ flowchart LR
 **Los dos sesgos van escritos en el propio PDF**, no en letra pequeña: los partes los rellenan
 viajeros y traen confusiones —un **14 % declara antílope sable en Okaukuejo, y en Etosha no hay
 sable**—, y a GBIF nadie sube el chacal número doscientos ni casi nada nocturno, por lo que la
-liebre saltadora sale con **cero registros** y se ve todas las noches.
+liebre saltadora sale con **cero registros** siendo de lo que más enseñan los guías en el
+nocturno ○.
 
 Eso destapó **un conflicto que estaba escondido**: el **39 % de los partes dice haber visto
 rinoceronte blanco**, y en el parque hay **apenas una docena** en 22.000 km². Casi todo eso tiene
@@ -89,7 +92,7 @@ Charca por charca y con su fuente: **Okondeka** para el león, **Halali y Goas**
 **Salvadora–Sueda–Charitsaub** para el guepardo, el **Dik-dik Drive** nada más entrar por Von
 Lindequist, y el nido de tejedor republicano **a diez metros de la charca de Okaukuejo**.
 
-Las 46 fichas restantes **no llevan esa línea**: no apareció información
+Las 54 fichas restantes **no llevan esa línea**: no apareció información
 específica de Etosha en ninguna fuente decente, y rellenarlo a ojo sería inventar.
 
 ### Y cuatro avisos que corrigen lo que dicen las webs de safaris
@@ -103,6 +106,8 @@ específica de Etosha en ninguna fuente decente, y rellenarlo a ojo sería inven
 - **La cigüeña de Abdim tampoco**: en Etosha es ave de febrero y marzo.
 - **La cebra de montaña de Hartmann no está en vuestro eje**: vive en las lomas de dolomita del
   extremo oeste del parque.
+- **La suricata tampoco toca**: es del Kalahari y del sur — su ficha va en la guía porque todo el
+  mundo la busca, con la banda forzada a «fuera de la ruta».
 
 Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horarios de puerta calculados
 para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las tres charcas
@@ -210,7 +215,9 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ### 🌊 La costa, la roca y la arena (5)
 
-*Lo de fuera de Etosha: Cape Cross (D7), la laguna de Walvis Bay (D5–D6) y los roquedos de Damaraland.*
+*Lo de fuera de Etosha: Cape Cross (D7), la laguna de Walvis Bay (D5–D6) y los roquedos de
+Damaraland — con una excepción a caballo: la ardilla terrestre campa igual de bien por dentro del
+parque, y de ahí sale su banda.*
 
 - **Lobo marino del Cabo** — *Arctocephalus pusillus* · Cape fur seal
 - **Delfín de Heaviside** — *Cephalorhynchus heavisidii* · Heaviside's dolphin
@@ -223,7 +230,8 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ### 🐞 Bichos (9)
 
-*Los que se ven seguro en un viaje de camping — más que al leopardo.*
+*Los vecinos de cada braai ○ — se dejan ver más que el leopardo, aunque en GBIF ni salgan: nadie
+sube termitas, y la banda mide registros, no presencia.*
 
 - **Escarabajo de la niebla** — *Onymacris unguicularis* · Fog-basking beetle
 - **Escorpión de cola gruesa** — *Parabuthus villosus* · Black hairy thick-tailed scorpion
@@ -251,6 +259,6 @@ imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make 
 que están las 128 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
 las páginas que deben y que los datos de avistamiento cubren las 91 especies.
 
-*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son 5,6 MB, y a cambio el PDF
+*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son ~5,9 MB, y a cambio el PDF
 se puede regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una
-búsqueda. · 05/08/2026*
+búsqueda. · 09/08/2026*

@@ -60,8 +60,8 @@ def metodo():
   <p><strong>Los dos sesgos, por delante:</strong> los partes los rellenan viajeros y hay
   confusiones —un 14&nbsp;% declara antílope sable en Okaukuejo, y en Etosha no hay
   sable—; y a GBIF nadie sube el chacal número doscientos ni casi nada nocturno, así que
-  la liebre saltadora sale con cero registros y se ve todas las noches. Cada cifra lleva
-  detrás su muestra: con cuatro registros no se afirma nada.</p>
+  la liebre saltadora sale con cero registros siendo de lo que más enseñan los guías en el
+  nocturno. Cada cifra lleva detrás su muestra: con cuatro registros no se afirma nada.</p>
 """
 
 
@@ -89,7 +89,7 @@ def portadilla():
 
 
 INTROS = {
-    "mamifero": "<p>Treinta y una fichas, de lo que se ve en todas las charcas a lo que "
+    "mamifero": "<p>Treinta y seis fichas, de lo que se ve en todas las charcas a lo que "
                 "hay que tener suerte para cruzarse. <strong>El orden no es alfabético: "
                 "es el de siempre</strong> — primero los grandes.</p>",
     "ave": "<p>Con el coche parado en una charca, las aves llenan las esperas. Estas son las "
@@ -108,9 +108,13 @@ INTROS = {
     "costa": "<p>Etosha no es toda la fauna del viaje. Esto es lo que veréis <strong>fuera del "
              "parque</strong>: en <strong>Cape Cross</strong> (D7), en la laguna de "
              "<strong>Walvis Bay</strong> (D5–D6), en los roquedos de Damaraland y en la arena "
-             "del Namib.</p>",
-    "bicho": "<p>En un viaje de camping, <strong>estos los ves seguro</strong> — más que al "
-             "leopardo. Van aquí por tres motivos distintos: los que hay que "
+             "del Namib. La <strong>ardilla terrestre</strong> es la excepción a caballo: campa "
+             "igual por dentro de Etosha —de ahí sale su banda— que por los campamentos "
+             "del oeste.</p>",
+    "bicho": "<p>Los vecinos de cada braai — en un viaje de camping <strong>se dejan ver más "
+             "que el leopardo</strong>, aunque en los registros ni salgan: a GBIF nadie sube "
+             "termitas, y la banda de abajo mide registros, no presencia. "
+             "Van aquí por tres motivos distintos: los que hay que "
              "<strong>respetar</strong> (escorpión), los que dan un susto y son "
              "<strong>inofensivos</strong> (solífugo, shongololo), y los que explican cómo "
              "funciona este desierto (el escarabajo que bebe niebla, la termita que construye).</p>"

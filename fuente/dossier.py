@@ -22,7 +22,7 @@ import mapa                                                        # noqa: E402
 import trazado                                                     # noqa: E402
 from comun import RAIZ, marca_texto, md                            # noqa: E402
 
-FECHA = "8 de agosto de 2026"
+FECHA = "9 de agosto de 2026"
 
 # ---------------------------------------------------------------------------
 # Estructura del volumen
@@ -105,8 +105,9 @@ SECCIONES_FUERA = {
 # y borrar la atribucion las haria parecer verificadas contra tu propio contrato.
 # Son expresiones regulares porque el texto llega ya en HTML, con sus <em> y <strong>.
 REEMPLAZOS = [
-    (r"\s*<em>\(Asco, descartada[^<]*\)</em>", ""),
-    (r"\s*<em>\(Asco no lo hace hasta el 15\)</em>", ""),
+    # \s+ y no un espacio literal: markdown-it conserva el salto de linea del .md dentro
+    # del <em>, y con el espacio la regla no disparaba (se colaba «Asco» en el PDF).
+    (r"\s*<em>\(Asco,\s+descartada[^<]*\)</em>", ""),
     (r"niveles bajos de <strong>Asco</strong> \(la referencia descartada\)",
      "los niveles bajos de un contrato de referencia del sector"),
     (r"contratos de <strong>Asco/Savanna</strong>", "los contratos de alquiler descargados"),
@@ -114,21 +115,17 @@ REEMPLAZOS = [
     (r"Asco/Savanna ya descargados", "contratos de alquiler ya descargados"),
     (r"no se investiga si Asco autoriza el cruce",
      "no se investiga si el contrato autoriza el cruce"),
-    (r"y, al final, qué quedó fuera de tus 34 pines de Google Maps y por qué\.",
+    (r"y, al final, qué quedó fuera de\s+tus 34 pines de Google Maps y por qué\.",
      "Cada cifra, con su fuente y su marca."),
-    (r"— tus 34 pines, medidos y triados", "— lo que cuesta entrar en cada sitio"),
     (r"\(tu pin, reserva privada", "(reserva privada"),
     (r"tus 34 pines", "los sitios de la ruta"),
 ]
 
 # Avisos sueltos que son deliberacion, no dato. Se busca el trozo dentro del bloque.
+# (Podado el 09/08: las agujas que ya no casaban con ningun documento vivo.)
 AVISOS_FUERA = [
-    "PENDIENTE de tu confirmación",
     "Decisiones del viajero, en orden",
     "¿Etosha al principio o al final?",
-    "Punto de decisión",
-    "está SIN confirmar por ti",
-    "contradice tu",
 ]
 
 RESUMEN = {
@@ -154,6 +151,8 @@ RESUMEN = {
           "vecinos del campamento.",
     "19": "La cámara y el teleobjetivo: dos gamas con precio de tienda, y la cuenta de "
           "comprar frente a alquilar — en España o en Windhoek.",
+    "20": "Los pueblos, las lenguas, la historia que explica lo que se ve por la ventanilla "
+          "y la etiqueta del trato — atado a los días de la ruta.",
 }
 
 
@@ -163,10 +162,12 @@ def miles(n, sufijo=" km"):
 
 
 # El numero de un documento manda su sitio en el volumen, salvo aqui: la lista de
-# equipaje se escribio la ultima pero se lee pegada al `05`, que es de lo que sale, y el
-# manual de campamento pegado al `06`, porque el dia de ruta se lee del tiron: conducir
-# y acampar. Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
-ORDEN = {"17": "05a", "19": "05b", "18": "06a"}
+# equipaje (`17`) se escribio la ultima pero se lee pegada al `05`, que es de lo que
+# sale — y detras va la camara (`19`), que tambien es equipaje; el manual de campamento
+# (`18`) va pegado al `06`, porque el dia de ruta se lee del tiron: conducir y acampar;
+# y la cultura (`20`) pegada al `08`, que ya lleva la mesa y los mercados.
+# Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
+ORDEN = {"17": "05a", "19": "05b", "18": "06a", "20": "08a"}
 
 
 def documentos():
@@ -231,10 +232,20 @@ def a_html(texto, doc=None):
 
     h = marca_texto(h)
 
-    # las referencias sueltas a otro documento («ver `13`») se hacen enlace
+    # las referencias sueltas a otro documento («ver `13`») se hacen enlace — con guardia:
+    # el `NN` de un enlace [`NN`](NN-….md) ya viene dentro de su <a>, y sin la guardia
+    # se anidaba un segundo ancla dentro del primero (HTML invalido).
     if doc:
-        h = re.sub(r"<code>(\d\d)</code>",
+        h = re.sub(r'(?<!#doc-\d\d">)<code>(\d\d)</code>',
                    lambda m: f'<a href="#doc-{m.group(1)}"><code>{m.group(1)}</code></a>', h)
+    # los documentos FUERA_DEL_PDF no tienen ancla dentro del volumen: el enlace se
+    # desenvuelve a texto plano en vez de dejar un href muerto (#doc-16 no existe).
+    # Hasta punto fijo, por si quedara algun anidado de HTML viejo.
+    for fuera in FUERA_DEL_PDF:
+        patron = rf'<a href="#doc-{fuera}">((?:(?!</a>).)*?)</a>'
+        previo = None
+        while previo != h:
+            previo, h = h, re.sub(patron, r"\1", h, flags=re.S)
     return h
 
 
@@ -521,10 +532,23 @@ def fauna():
     return guia_fauna.remite_desde_dossier(ancla("FA"))
 
 
+def _lugares_usados():
+    """Solo se acreditan las fotos de lugar que el dossier ENSEÑA — la nota de la
+    seccion promete creditos «donde se usan», y acreditar siete fotos que nunca
+    salen la desmentia."""
+    usados = {"portada"}
+    usados.update(b["foto"] for b in BLOQUES)
+    usados.update(s for slugs in FOTOS.values() for s in slugs)
+    usados.update(slug for slug, _pie in PLENAS.values())
+    return usados
+
+
 def creditos_seccion():
     cr = comun.creditos()
+    usados = _lugares_usados()
     lug = "".join(f'<li><b>{v["pie"]}</b> — {v["autor"]}, <i>{v["licencia"]}</i></li>'
-                  for k, v in sorted(cr.items()) if k.startswith("lugares/"))
+                  for k, v in sorted(cr.items())
+                  if k.startswith("lugares/") and k.split("/", 1)[1] in usados)
     n_fauna = sum(1 for k in cr if k.startswith("fauna/"))
     return f"""
 <section class="doc sin-columnas creditos" id="creditos">

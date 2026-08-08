@@ -57,7 +57,7 @@ de verdad:
 - **2024/25** → **19 de noviembre**, con 11,9 mm. **El único noviembre con lluvia seria** de los cinco.
 - **2025/26** → **11 de diciembre**. La más adelantada de las cuatro comparables… y aun así, diciembre.
 
-> ### 👉 Lo que esto significa para el 1–14 de noviembre
+> ### 👉 Lo que esto significa para el 31 de octubre – 14 de noviembre
 > En **cuatro de las cinco últimas temporadas**, cuando vosotros estéis allí **la temporada de
 > lluvias todavía no había empezado**. Y eso es justo lo que hace que el safari funcione: sin lluvia
 > **no hay agua dispersa por el monte, y la fauna se concentra en las charcas**.

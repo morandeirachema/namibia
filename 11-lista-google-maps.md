@@ -8,7 +8,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026*
 
 
 ---
@@ -20,15 +20,28 @@ fuente y su marca: **✅ primaria** · **◐ secundaria** · **○ práctica com
 **N$ y €** (~N$20 = €1; el rand ZAR cotiza ~1:1 con el N$; los importes en US$ se convierten al
 cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
 
-### 🎫 Entradas y visitas guiadas *(las que caen en la ruta)*
+### 🎫 Entradas y visitas guiadas *(en la ruta o a un desvío de ella)*
 
-- **Cape Cross — colonia de lobos marinos** ◐
-  - Entrada **~N$150/persona (~€7,5) + ~N$50/coche (~€2,5)**; algunas reseñas citan ~N$80/persona
-    → **rango N$80–150**, sin tabla oficial abierta. Solo **efectivo**.
-  - ⚠️ **Actualización 02/08/2026 ◐:** una secundaria ([namibian.org](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent))
-    sitúa Cape Cross entre los parques **«premium» del baremo MEFT vigente desde abril de 2026 →
-    N$280 (~€14)/adulto**. El rango N$80–150 de las reseñas sería la tarifa vieja. **Presupuesta
-    N$280 (~€14) y confírmalo contra el PDF del MEFT** (el mismo email pendiente de las tasas, ver `02`).
+- **Twyfelfontein — los grabados UNESCO (D8, parada fija de la ruta)** ◐
+  - **La visita guiada es obligatoria y de pago: N$270 (~€13,5)/persona, guía incluido** ◐ *(baremo
+    del National Heritage Council vía secundarias concordantes — la misma familia de tarifas que
+    Petrified Forest u Otjikoto, ver `10`)*. **Solo efectivo**: el cajero más cercano queda en
+    Khorixas o Swakopmund. Visita de ~45–60 min más el paseo desde el aparcamiento.
+  - En el presupuesto **va cargada al colchón de misceláneos de `02` §9** (tasas menores).
+  - Acceso: **C39 → D2612 → D3254** (señalizado hacia el Country Lodge y el visitors centre).
+  - Fuentes: [Safari2Go/namibian.org — subida de tarifas NHC](https://namibian.org/news/tourism/access-to-namibias-natural-and-cultural-heritage-sites-costs-more) ·
+    [danesontheroad — visita 2025/26](https://danesontheroad.com/africa/namibia/visit-the-amazing-twyfelfontein-engravings-in-namibia/) ·
+    acceso: [siyabona — Twyfelfontein location](https://www.siyabona.com/twyfelfontein-country-lodge_location.html)
+
+- **Cape Cross — colonia de lobos marinos (D7, en la ruta)** ◐
+  - **Lo presupuestado (`02` §5 y `01` §D7): N$150 (~€7,5)/extranjero + N$50 (~€2,5)/coche =
+    ~N$350 (~€18) los dos** ◐ *(reseña de visitante de 2025 + una guía, convergentes)*. Solo
+    **efectivo**, se paga en recepción.
+  - ⚠️ **El tramo exacto sigue abierto — tres cifras en circulación**: reseñas viejas dan
+    **N$80–150**; una secundaria ([namibian.org](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent))
+    sitúa Cape Cross en el baremo **«premium» del MEFT (N$280/adulto)** desde abril de 2026. Si
+    fuera premium, serían **+N$260 (~€13) la pareja** sobre lo presupuestado — lo absorbe el rango.
+    **Confírmalo contra el PDF del MEFT** *(el mismo email pendiente de las tasas, ver `02` y `15`)*.
   - **Timing ideal:** el pico de cría es **noviembre-diciembre** (hasta ~210.000 focas) — justo
     vuestras fechas.
   - Acceso por la **C34** al norte de Swakopmund (costa). Gestiona MEFT.
@@ -43,8 +56,9 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
     [TripAdvisor — White Lady](https://www.tripadvisor.com/Attraction_Review-g1182959-d2284289-Reviews-White_Lady-Khorixas_Kunene_Region.html)
 
 - **Hoba Meteorite** ◐
-  - **~N$250/persona (~€12,5)** (una reseña de 2024 lo cifra en «22,50 €/extranjero» ≈ N$250).
-    Gestiona el **National Heritage Council**.
+  - **~N$250/persona (~€12,5)** *(tarifario NHC vía prensa, ver `10`)*. ⚠️ Una reseña de 2024 lo
+    cifra en «22,50 €/extranjero» — al cambio son **≈ N$450, discordante con el baremo**: lleva
+    efectivo de sobra y paga lo que diga la taquilla. Gestiona el **National Heritage Council**.
   - **OJO geografía:** está junto a **Grootfontein**, en el **noreste**. Con esta ruta queda como
     **desvío opcional del D13** (Namutoni → Windhoek vía Grootfontein) — ver `01`.
   - Fuente: [TripAdvisor — Hoba Meteorite](https://www.tripadvisor.com/Attraction_Review-g1137965-d3609771-Reviews-Hoba_Meteorite-Grootfontein_Otjozondjupa_Region.html)
@@ -56,8 +70,9 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
     baremo en [15-huecos-cerrados.md](15-huecos-cerrados.md)
 
 - **Otjitotongwe Cheetah Farm** ◐
-  - Interacción/alimentación de guepardos. En la **C40, a 24 km de Kamanjab** (eje camino de Etosha
-    por la puerta Galton). Alimentación **~15:00** (16:00 en invierno).
+  - Interacción/alimentación de guepardos. En la **C40, a 24 km de Kamanjab hacia Outjo** — es
+    decir, **de camino el D9** (Hoada → Kamanjab → Outjo → Etosha, ver `01`). Alimentación
+    **~15:00** (16:00 en invierno).
   - **~US$33 (~€30; ~N$610)** el paseo (◐, una reseña). Los no alojados deben **avisar antes**;
     cerrado fines de semana según una fuente.
   - Fuente: [namibweb — Otjitotongwe](https://www.namibweb.com/otjitotongwe.htm)
@@ -94,7 +109,8 @@ de volar — también al turista, también por afición. De su propia hoja de in
   uso recreativo ◐ — **puede haber subido: confírmalo por escrito antes de pagar**.
 - ⏰ **Plazo: 30 días antes del vuelo** según la NCAA ✅, y **60 días antes de llegar** según varias
   secundarias ◐. Y el aviso que de verdad manda: **una transferencia internacional tarda ~3 semanas**
-  en llegarles ✅. Para volar el 1 de noviembre, esto se mueve **en agosto o no se mueve**.
+  en llegarles ✅. Para volar a primeros de noviembre *(se aterriza el 31 de octubre)*, esto se
+  mueve **en agosto o no se mueve**.
 - 📄 **Lo que hay que mandar** ✅: formulario firmado, carta de intenciones, **mapa con las
   coordenadas de despegue** (KMZ recomendado), análisis de riesgos y plan de seguridad,
   especificaciones del aparato, documento de identidad y **un seguro de responsabilidad civil
@@ -221,20 +237,20 @@ descartarlos del presupuesto de gama media.
 
 ```mermaid
 flowchart LR
-    W["Windhoek"] -->|"732 km<br/>B1 asfalto + C38 grava"| O["Opuwo"]
+    W["Windhoek"] -->|"732 km<br/>B1 + C38/C40/C35"| O["Opuwo"]
     O -->|"180-190 km<br/>grava D3700, ~3-5 h"| E["Epupa Falls"]
     E -.->|"y la vuelta<br/>otra vez"| W
     style E fill:#9d0208,color:#fff
 ```
 
-- **Windhoek → Opuwo:** **732 km** por carretera (Google ~9h15). B1 asfalto hasta Otjiwarongo,
-  luego **C38/grava**.
+- **Windhoek → Opuwo:** **732 km** por carretera (Google ~9h15). B1 hasta Otjiwarongo y luego el
+  eje **C38 (Outjo) → C40 (Kamanjab) → C35 al norte**.
 - **Opuwo → Epupa:** **180–190 km de grava por la D3700** (~3–5 h), cruzando cauces secos.
 - **Ida y vuelta a Kaokoland = ~4 días SOLO de conducción** desde Windhoek, **sin contar Etosha**.
   Tampoco cabe en la ruta final — esos días son las 4 noches de Etosha: es aritmética, no gusto.
-- **Y de propina, el seguro:** las pistas **D3700 / D3703 / D3707** de Kaokoland-Damaraland son justo
-  donde el contrato de Asco **no cubre bajos ni garantiza rescate** aunque pagues Super Cover
-  (ver `12` y `06`). Doble motivo para dejarlo fuera.
+- **Y de propina, el seguro:** las pistas que el contrato de Asco excluye por escrito de bajos y
+  rescate son la **D3707 y la D3703** *(ver `12` y `06`)* — y la **D3700 a Epupa es el mismo
+  terreno de Kaokoland**, con la misma lógica en contra. Doble motivo para dejarlo fuera.
 - Fuentes: [trippy — Windhoek↔Opuwo](https://www.trippy.com/distance/Windhoek-to-Opuwo) ·
   [Epupa Camp — directions](https://epupa.com.na/directions/)
 
@@ -291,19 +307,24 @@ El contraste, de un vistazo (N$/persona):
 flowchart LR
     T["Coste por persona en N-dolar -<br/>visitas de camino"]
     n0["Cape Cross<br/>150"]
+    nT["Twyfelfontein<br/>270"]
     n1["Hoba<br/>250"]
     n2["Brandberg<br/>270"]
     n3["Waterberg dia<br/>280"]
     n4["Otjitotongwe<br/>610"]
     T ~~~ n0
-    n0 ~~~ n1
+    n0 ~~~ nT
+    nT ~~~ n1
     n1 ~~~ n2
     n2 ~~~ n3
     n3 ~~~ n4
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
-> **Lectura:** Cape Cross, Brandberg y una tasa de parque son ~N$150–280 (~€7–14) por cabeza. El
+> **Lectura:** Twyfelfontein, Cape Cross, Brandberg y una tasa de parque se mueven todos en la
+> banda de ~N$150–280 (~€7–14) por cabeza. El único desembolso de otra liga es Otjitotongwe
+> (~N$610 · ~€30), que ya es una actividad y no una entrada — y aun así vale menos que una cena
+> en Swakopmund.
 
 ---
 
@@ -337,8 +358,10 @@ funcionan.*
 
 ## 🕳️ Lo que SIGUE sin cerrarse *(honesto)*
 
-- **Cape Cross:** el **tramo exacto** de la tabla MEFT (¿N$80 o N$150?) no se pudo verificar contra
-  el PDF primario (bloqueado). Rango N$80–150.
+- **Cape Cross:** el **tramo exacto** de la tabla MEFT no se pudo verificar contra el PDF primario
+  (bloqueado): reseñas viejas dan N$80–150, una secundaria lo sitúa en el baremo premium (N$280).
+  **Presupuestado N$150 + N$50 de coche ◐, con el «¿y si es premium?» (+~€13 la pareja) dentro del
+  rango** — ver la ficha de arriba.
 - **Okonjima Plains Camp:** el número fino de la media pensión no salió por fragmento (el PDF de
   tarifas está publicado pero no se pudo abrir aquí).
 - **Waterberg (camping NWR):** la tasa de **parcela** (distinta de la entrada de N$280) no se

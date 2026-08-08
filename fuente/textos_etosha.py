@@ -14,19 +14,21 @@ INTRO_EXTRA = """
   <strong>tres charcas iluminadas</strong> se ven andando desde la parcela. Y de día, en esta
   ruta <strong>la salida de mañana se hace guiada desde cada campamento (N$650 ≈ €33 p.p.,
   decidido el 08/08)</strong>: los traslados entre campamentos van con el 4x4 propio.</p>
-  <p>🚧 <strong>Aviso de obras:</strong> están asfaltando la pista Okaukuejo–Halali–Namutoni. En 2025
-  el tráfico iba desviado por <strong>Gemsbokvlakte</strong> con la puerta de Okaukuejo hacia Halali
-  cerrada, y en 2026 seguía habiendo bypass. <strong>Reconfirmad con NWR al reservar</strong>
-  (+264 67 229 800). Lado bueno: el desvío pasa por Sueda–Salvadora–Charitsaub, el mejor tramo de
-  borde de pan para guepardo y león.</p>
+  <p>🚧 <strong>Aviso de obras — confirmado que os afecta:</strong> están asfaltando la pista
+  Okaukuejo–Halali–Namutoni y la nota oficial del MEFT de 2026 fija un <strong>desvío OBLIGATORIO
+  por la pista de Gemsbokvlakte del 2 de junio de 2026 a julio de 2027</strong> — vuestra ventana
+  cae de lleno. Las charcas accesibles del tramo son <strong>Gemsbokvlakte, Sueda y
+  Salvadora</strong> —el mejor borde de pan para guepardo y león—; <strong>Nebrownii y Kapupuhedi
+  quedan fuera</strong> por la obra. Son ~108 km en vez de ~70. <strong>Reconfirmad con NWR al
+  reservar</strong> (+264 67 229 800).</p>
 """
 
 DONDE = {
   # --- MAMIFEROS ---
-  "elefante": "**Nebrownii, Olifantsbad, Kalkheuwel, Tsumcor y Homob**, y a **mediodía**, que es cuando llegan a bañarse. Los de aquí tienen los colmillos gastados de cavar buscando agua.",
+  "elefante": "**Olifantsbad, Kalkheuwel, Tsumcor y Homob** *(Nebrownii, su clásica, queda cerrada por las obras en vuestras fechas)*, y a **mediodía**, que es cuando llegan a bañarse. Los de aquí tienen los colmillos gastados de cavar buscando agua.",
   "rino-negro": "**Charca iluminada de Okaukuejo, de noche**: seguramente el mejor sitio de África para verlo. También en Halali. Etosha tiene la mayor población del mundo de la subespecie suroccidental.",
   "rino-blanco": "Se extinguió aquí y lo reintrodujeron en 1995: hoy es **apenas una docena**. Se cita de vez en cuando en Springbokfontein. ⚠️ **El 39 % de los partes que dice haberlo visto no cuadra** con una docena de animales en 22.000 km²: la mayor parte tiene que ser rinoceronte **negro** mal identificado. Mira el labio, no el color. No cuentes con verlo.",
-  "leon": "**Okondeka** es la mejor (manada residente), y luego Chudop, Rietfontein, Nebrownii y Ombika. Primera y última hora. Ojo: **usan las pistas como caminos**.",
+  "leon": "**Okondeka** es la mejor (manada residente), y luego Chudop, Rietfontein y Ombika *(Nebrownii, cerrada por las obras en vuestras fechas)*. Primera y última hora. Ojo: **usan las pistas como caminos**.",
   "leopardo": "**Halali/Moringa y Goas son las dos mejores apuestas** del parque; también Ngobib, Kalkheuwel y Klein Namutoni. La charca iluminada de Halali es famosa por él.",
   "guepardo": "Llanura abierta del borde de la pan: **Salvadora, Sueda, Charitsaub, Batia y Okerfontein**. De día, que es cuando caza — su presa aquí es el springbok.",
   "jirafa": "En cualquier charca abierta y, de noche, en la iluminada de Okaukuejo. Batia y Kalkheuwel la tienen habitual.",
@@ -38,11 +40,11 @@ DONDE = {
   "eland": "Chudop es la charca donde se cita. Escaso y arisco: no es un avistamiento fácil.",
   "nu": "Grandes manadas mixtas con cebra en **Goas y Batia**.",
   "impala-cara-negra": "**Lo primero que se ve entrando por Von Lindequist.** Klein Namutoni, Chudop, Kalkheuwel, Goas y Olifantsbad — están donde las soltaron en los 70 y en 30 años se han movido 31 km.",
-  "dikdik": "**Casi garantizado en el Dik-dik Drive**, el bucle nada más entrar por Von Lindequist, y en Klein Namutoni. Primera hora de la mañana y última de la tarde.",
-  "hiena-manchada": "Charcas iluminadas, y al amanecer en King Nehale, Chudop y Nebrownii. Es la hiena por defecto: ~340 en el sistema Etosha–Kunene.",
+  "dikdik": "**El sitio fiable es el Dik-dik Drive**, el bucle nada más entrar por Von Lindequist *(~206 registros frente a 4 en Okaukuejo)*, y Klein Namutoni. Primera hora de la mañana y última de la tarde.",
+  "hiena-manchada": "Charcas iluminadas, y al amanecer en King Nehale y Chudop *(Nebrownii, cerrada por obras)*. Es la hiena por defecto: ~340 en el sistema Etosha–Kunene.",
   "hiena-parda": "Está en el parque, pero **dala por improbable**: nocturna, solitaria y sin densidad publicada. Cruza desde Ongava a buscar comida. Que un 18 % de los partes diga haberla visto choca con eso: **orejas puntiagudas y melena** o es la manchada.",
   "chacal": "En todas las charcas, y merodeando los campamentos al anochecer a por las sobras.",
-  "puercoespin": "**De noche, en la charca iluminada de Halali**: es uno de los visitantes habituales junto con el leopardo.",
+  "puercoespin": "**De noche, en la charca iluminada de Halali**: las guías del parque lo citan entre los visitantes habituales junto con el leopardo — GBIF, en cambio, apenas lo registra: es nocturno, como la liebre saltadora.",
   "hartebeest": "Llanuras abiertas del este; se cita en la charca de King Nehale, en Namutoni.",
   # --- AVES ---
   "tejedor-republicano": "**En Okaukuejo, a diez metros de la charca**: hay un nido enorme junto al agua y dos más en el camping. Dentro viven halcones pigmeos y agapornis de cara rosa.",
@@ -74,7 +76,7 @@ FUENTES_ETOSHA = [
   "<b>Migradores:</b> tasas de registro mensuales de SABAP2 / African Bird Atlas filtradas a Etosha. Ahí se ve que el abejaruco carmesí tiene <i>cero</i> registros en el parque y que la cigüeña de Abdim es de febrero-marzo.",
   "<b>Cebra de montaña:</b> |Uiseb 2024 — en Etosha está restringida a las lomas de dolomita del oeste; la de llanura, por todo el parque.",
   "<b>Dik-dik:</b> Travel News Namibia (Dik-dik Drive) y registros de GBIF: ~206 en la cuadrícula de Namutoni frente a 4 en Okaukuejo.",
-  "<b>Obras de la carretera:</b> nota de prensa del MEFT de abril de 2025 y seguimiento de prensa de 2026. <b>Sin nota oficial posterior: hay que llamar a NWR antes de ir.</b>",
+  "<b>Obras de la carretera:</b> nota oficial del MEFT de 2026 —«Traffic deviation via Gemsbokvlakte road from Okaukuejo to Halali», meft.gov.na/news/335, con aviso paralelo de NWR—: desvío obligatorio del 2 jun 2026 al jul 2027. La página devuelve 403; las fechas convergen en cinco secundarias (◐). Reconfirmar con NWR (+264 67 229 800).",
   "<b>Charcas:</b> Expert Africa, etosha.org, Roxanne Reid y etoshanationalpark.co.za — secundarias, pero coincidentes entre sí.",
   "<b>Sin dato (y no se rellena):</b> la hora punta nocturna del rinoceronte en Okaukuejo, el número absoluto de rinocerontes del parque, la orientación solar de cada charca y la frecuencia real de la hiena parda.",
 ]

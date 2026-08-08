@@ -7,7 +7,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 08/08/2026 · precio del
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · precio del
 > combustible actualizado a la revisión del 5 ago 2026*
 
 Coste del viaje con el **precio de las partidas grandes ya cotizado** (vuelo, coche y seguro), en N$ y
@@ -18,8 +18,7 @@ no se hace.**
 > ⚠️ **«Cotizado» no es «reservado».** Al 05/08/2026 **no consta hecha ninguna reserva** —ni coche, ni
 > Sesriem ×2, ni Terrace Bay, ni Etosha, ni el vuelo emitido *(ver [`15`](15-huecos-cerrados.md) §lista
 > maestra y [`16`](16-punto-de-decision.md))*. Los importes son precios de mercado para reservar, no
-> pagos hechos. **Y la ruta que presupuestan está pendiente de tu confirmación** — ver
-> [`16`](16-punto-de-decision.md).
+> pagos hechos. La ruta que presupuestan quedó **confirmada el 06/08/2026** — la nota de abajo.
 
 
 > ## ✅ NOTA: este presupuesto es el de la RUTA DEL NORTE, confirmada el 06/08/2026
@@ -105,8 +104,9 @@ la nevera— es idéntico.
   aguanta mejor **polvo y viento** ○. Con **13 noches de tienda**, eso son **N$300 (~€15) por noche
   de tienda** de sobrecoste.
 - 👉 **Cómo decidirlo, sin más vueltas:** si os importa montar y desmontar rápido con viento y polvo
-  trece veces, **la Comfort cuesta ~€97 por cabeza**. Si no, **la Budget deja ese dinero para la
-  noche del chalet del charco de Okaukuejo** *(N$4.760, ~€238)* y sobra.
+  trece veces, **la Comfort cuesta ~€97 por cabeza**. Si no, **la Budget deja ese dinero casi clavado
+  para el suplemento del chalet del charco de Okaukuejo** *(N$4.760 el chalet − N$920 del camping ya
+  presupuestado = N$3.840; la diferencia Budget/Comfort son N$3.900 — sobran N$60)*.
 
 ### ⏰ El encaje con el calendario — **DECIDIDO: aeropuerto → aeropuerto, 15 días** *(07/08/2026)*
 
@@ -125,7 +125,7 @@ flowchart LR
 ```
 
 - ✅ **La ruta cabe con margen.** El D13 es **Namutoni → Windhoek, ~548 km** *(medido con OSRM,
-  ver [`13`](13-itinerario.md))*: saliendo al abrirse la puerta de Von Lindequist a las **06:08**,
+  ver [`13`](13-itinerario.md))*: saliendo al abrirse la puerta de Von Lindequist a las **06:10**,
   en Windhoek sobre las **13:30–14:30** — y ya sin la presión de entregar a las 17:00.
 - ✅ **El D14 deja de ser un día a pie**: mañana tranquila en Windhoek y salida al aeropuerto
   ~17:00–17:30, repostando a la ida.
@@ -151,15 +151,15 @@ flowchart LR
 > ⚠️ **La web NO sirve para este precio:** publica N$2.910/día «temporada baja», pero esa banda es
 > **«01 Nov 2025 – 30 Jun 2026»** y **caduca antes del viaje**; la siguiente que enseña es la alta de
 > julio–octubre 2026. La ventana cae en el **año tarifario siguiente**, que no está en la web. Los
-> **€150/día son cotización en vivo para las fechas reales**, coherente con el cambio de año tarifario.
-> *(Misma trampa que la tarifa de NWR.)*
+> **N$2.700/día (~€135) de la Budget son cotización en vivo para las fechas reales**, coherente con
+> el cambio de año tarifario. *(Misma trampa que la tarifa de NWR.)*
 
 **Aparte, no incluido en el total** (retención, no gasto): a la recogida se bloquea en la tarjeta un
 **aval/depósito de garantía** — con Premium Cover la franquicia es N$0, pero suele retenerse un aval.
 **❌ Importe exacto no verificado.** Hay que tener margen en la tarjeta.
 
 > Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)
-> · precio de la cotización cerrada .
+> · precio de la cotización cerrada.
 
 ---
 
@@ -177,7 +177,7 @@ sin precio y Hoada va en ◐**.
   (~€46)/noche** ✅
 
 → Suma verificada: 2×N$1.340 + 4×N$920 = **N$6.360 (~€318) para la pareja / ~€159 por persona** ✅
-*(coincide con `01-itinerarios-dia-a-dia.md` §resumen).*
+*(coincide con `01-itinerarios-dia-a-dia.md` §Coste real).*
 
 **Parcialmente cerrado / sin verificar ○/◐ (8 noches):**
 - D0 Windhoek, D1–D2 Spreetshoogte ×2 *(la segunda noche, decidida el 08/08 — sale del domingo de
@@ -216,7 +216,7 @@ Terrace Bay ✅ — y **Hoada suma ◐**.
 
 ```mermaid
 flowchart LR
-    T["Alojamiento 14 noches · pareja · EUR · EUR"]
+    T["Alojamiento 14 noches · pareja · EUR"]
     n0["7 verificadas: NWR<br/>y Terrace Bay<br/>492"]
     n1["7 restantes estimadas<br/>~245"]
     T ~~~ n0
@@ -434,7 +434,7 @@ la mañana entera del primero y el día 14 completo.** Tres consecuencias, todas
    Con salida el **30 de octubre**, hay que **adelantar el inicio al 30** o el primer vuelo va sin
    cobertura. *(El coste del día extra: **❌ sin cotizar** — pídelo a IATI.)*
 2. ⚠️ **El coche no cubre ni el principio ni el final.** La cotización de Namibia2Go va del **1 nov
-   08:00 al 13 nov 17:00**: sobran el **31 de octubre** y el **14 de noviembre** — el día del vuelo
+   08:00 al 13 nov 17:00**: quedan fuera el **31 de octubre** y el **14 de noviembre** — el día del vuelo
    de vuelta, que sale a las 20:45. **Recotiza 31 oct 11:00 → 14 nov 18:00, 15 días** *(§2)*.
 3. ✅ **Las noches de NWR no se tocan.** Las del 31 de octubre (Windhoek) y del 1–2 de noviembre
    (Spreetshoogte, decidido 08/08) **no son NWR**: la primera noche NWR sigue siendo Sesriem el
@@ -512,6 +512,11 @@ Precios **por persona**, verificados salvo aviso:
   N$2.600 (+N$300, ~€15, de recogida en Swakopmund); Red Dune Safaris N$3.220.
 - **Combo crucero + dunas de Sandwich Harbour el mismo día** (~8,5 h, Mola Mola): **N$4.740 (~€237)
   por persona** ◐, mínimo 2, **sin la tasa de parque** de Namib-Naukluft.
+- **Twyfelfontein (D8) — la visita guiada es obligatoria y de pago**: **N$270 (~€13,5)/persona,
+  guía incluido, solo efectivo** ◐ *(tarifario del National Heritage Council vía secundarias
+  concordantes: [Safari2Go/namibian.org](https://namibian.org/news/tourism/access-to-namibias-natural-and-cultural-heritage-sites-costs-more)
+  y reseñas 2025-26; ~45–60 min de visita)*. **Se paga del colchón de misceláneos** *(es la
+  «tasa menor» tipo para la que existe)* — detalle en [`11`](11-lista-google-maps.md).
 
 > ⚠️ **Todo esto va en ◐, no en ✅.** La ficha propia de cada operador devuelve **`403`** desde este
 > entorno *(la misma pared anti-bot que los lodges)*, así que las cifras salen del **resumen del
@@ -532,8 +537,9 @@ pre-reserva incierta en temporada de lluvias: **se cierra en recepción al llega
 ~**N$2.800–3.980 (~€140–199)**, o el combo con Sandwich Harbour ~**N$9.480 (~€474)** la pareja.
 
 ### Misceláneos ○
-SIM/eSIM (~N$150–300, ~€8–15, ❌ no verificado), propinas, peajes/tasas menores, imprevistos →
-colchón **~N$3.000 (~€150) pareja / ~€75 por persona**. No verificado.
+SIM MTC «Leisure» **N$349 (~€17)** ◐ *(cerrada el 05/08 — ver `15` y `07`)*, propinas, peajes y
+tasas menores *(aquí cae la visita guiada de Twyfelfontein, ~N$540 · ~€27 los dos ◐)*, imprevistos →
+colchón **~N$3.000 (~€150) pareja / ~€75 por persona** ○.
 
 ---
 
@@ -582,16 +588,7 @@ flowchart LR
 > **+el traslado a Oporto** ida y vuelta y **+el día extra de seguro**, los dos ❌ sin cotizar.
 > **Cuenta ~€3.900 por persona para no llevarte sorpresas.**
 
-**Qué parte de este número es sólida:**
-- **✅ Duro — ~€2.765 de los €3.725 (74 %)**: vuelo €1.450 · los 13 días cotizados del coche
-  €877,50 · 6 noches NWR €159 · Terrace Bay €87 · seguro €113 · visado €80.
-- **✅ Decidido con tarifa verificada — ~€144**: los safaris guiados de Etosha y la lanzadera
-  *(selección del 08/08; tarifa NWR real, reserva pendiente en recepción)*.
-- **◐ Corroborado o pendiente de recotizar — ~€252**: tasas de parque (~€117, Cape Cross dentro —
-  el N$280/adulto está en fuente secundaria: **confírmalo por email**) y los 2 días de coche del
-  aeropuerto (~€135).
-- **○ Estimado — ~€564/persona**: las noches estimadas (~€124), combustible (~€225), comida
-  (~€140), misceláneos (~€75).
+**Qué parte de este número es sólida: en §11, al final.**
 
 ### 👥 ¿Y si vais 3 o 4 en el mismo 4x4? — la economía de escala, calculada
 
@@ -631,8 +628,8 @@ flowchart LR
 > 2. **El seguro (€113,02 p.p.) es la simulación de 2 viajeros** — el p.p. a 3–4 se asume lineal ○:
 >    pide cotización.
 > 3. **Las 7 noches estimadas (~€124 p.p. ○)** son campings por persona salvo la habitación de
->    Terrace Bay: con 3–4 puede salir algo mejor o algo peor. Y el **límite de
->    personas por parcela NWR no está verificado** — pregúntalo al reservar ❌.
+>    Terrace Bay: con 3–4 puede salir algo mejor o algo peor. El límite de personas por parcela
+>    NWR **está cerrado: máximo 8** ✅ *(tarifario oficial, ver `03`)* — con 3–4 vais sobrados.
 > 4. **El espacio es el precio oculto**: doble cabina con nevera, cajas de camping y equipaje de 4 —
 >    el maletero va MUY justo ○. Y el **coste del conductor adicional en Namibia2Go no está
 >    verificado** ❌: pregúntalo al reservar.
