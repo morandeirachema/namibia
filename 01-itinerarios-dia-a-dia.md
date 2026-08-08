@@ -480,7 +480,9 @@ flowchart LR
 - 🎁 **~10:00–13:00 · los regalos — decidido (07/08): con coche, sin traslados** — **Namibia Craft
   Centre, 40 Tal St** *(la parada única, [`08`](08-comida-compras-y-regalos.md))*: **sábados
   09:00–16:00** ✅ *([web oficial](https://www.namibiacraftcentre.com/))* — hazlo por la mañana y
-  deja la tarde limpia. ⚠️ *Único día con el coche cargado aparcado en ciudad: nada a la vista,
+  deja la tarde limpia — y **a ~2 km a pie queda el «Telephone Man» de los Lone Men** ○, el
+  cierre perfecto del viaje *(la guía entera de los Lone Men por la ruta, en `10`)*.
+  ⚠️ *Único día con el coche cargado aparcado en ciudad: nada a la vista,
   aparca vigilado (cuidacoches ~N$10 · ~€0,50, `07`)* ○
 - 🍽️💱 **~13:00–16:30 · comida de despedida y última vuelta** — y **gasta los N$**: fuera de
   Namibia no valen nada ✅. *Cambiarlos, difícil: los bancos abren sábados solo 09:00–11:00 ✅ y
