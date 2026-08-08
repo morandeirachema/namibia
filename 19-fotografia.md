@@ -83,7 +83,7 @@ flowchart LR
     n0["P1100<br/>bridge todo en uno<br/>936"]
     n1["Z50II + 28-400<br/>un solo objetivo<br/>~2.000-2.250"]
     n2["R7 + RF 100-400<br/>el kit de fauna<br/>2.144"]
-    n3["Alquiler ESPANA<br/>17 dias de tele<br/>494-935"]
+    n3["Alquiler ESPANA<br/>17 dias de tele<br/>532-935"]
     n4["Alquiler WINDHOEK<br/>15 dias kit Sony pro<br/>~1.035"]
     T ~~~ n0
     n0 ~~~ n1
@@ -102,7 +102,7 @@ flowchart LR
   resuelve** ✅ *(comprobado el 08/08/2026)*.
 - **[Camaralia](https://www.camaralia.com/es/808-alquiler-montura-canon)** *(recogida presencial en
   Sevilla)*: Sigma 150-600 Contemporary a **48,40 €/día y 193,60 €/semana** IVA incluido ✅ →
-  **~494 €** los 17 días *(dos semanas + 3 días, cuenta propia ◐)*. **Fianza del 25 % del valor
+  **~532 €** los 17 días *(2 × 193,60 + 3 × 48,40 = 532,40 — dos semanas + 3 días, cuenta propia ◐)*. **Fianza del 25 % del valor
   del equipo** ✅ y, lo que de verdad pica, en sus
   [condiciones](https://www.camaralia.com/es/content/4-condiciones-generales-de-alquiler):
   **sin seguro — daño o robo los paga el arrendatario a precio de mercado** ✅, y la **salida al

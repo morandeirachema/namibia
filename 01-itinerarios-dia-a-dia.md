@@ -7,7 +7,8 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 08/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 — los km por
+> etapa, unificados con el enrutado OSRM propio (ver `13` §contraste)*
 
 > ## 🗺️ Esta es LA ruta del viaje
 >
@@ -37,16 +38,17 @@ dos en Sesriem, dos en la costa y CUATRO en Etosha ·
 llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
 
 > ### 📅 El 1 de noviembre sigue siendo la fecha mágica
-> **NWR entra en tramo barato** (Sesriem, Halali, Okaukuejo, Terrace Bay) y **Namibia2Go entra en
-> SU temporada baja**: el coche está **cotizado — Budget N$35.100 (~€1.755) o Comfort N$39.000
-> (~€1.950) por 13 días, las dos disponibles**. **Adelantar hasta 2 días a
-> octubre es gratis** (Windhoek y Spreetshoogte no son NWR).
+> **NWR entra en tramo barato** (Sesriem, Halali, Okaukuejo, Terrace Bay — la primera noche NWR
+> del plan es Sesriem, el 3) y **Namibia2Go entra en SU temporada baja**: el coche está **cotizado
+> — Budget N$35.100 (~€1.755) o Comfort N$39.000 (~€1.950) por 13 días, las dos disponibles**.
+> La única noche de octubre —la del 31, Windhoek— no es NWR: **lo único con precio de octubre es
+> el día 31 del coche**, que se pide aparte (`02` §2).
 
 > ### ❓ ¿Etosha al principio o al final? → **AL FINAL.** Tres razones con datos:
-> 1. **Dinero**: con el desierto primero, si adelantáis la salida a octubre, **todas las noches NWR
->    caen después del 1 de noviembre** (tarifa baja). Etosha primero + salida en octubre = tarifa
->    vieja **y** el pico de calor del parque (38,0 °C de media de máximas en octubre).
-> 2. **Termómetro**: Etosha se enfría según avanza noviembre (38,0 oct → 37,1 media nov).
+> 1. **Dinero**: con el desierto primero, **todas las noches NWR caen después del 1 de noviembre**
+>    (tarifa baja) aunque se aterrice el 31 de octubre. Etosha primero habría significado tarifa
+>    vieja **y** el pico de calor del parque (37,8 °C de media de máximas en octubre).
+> 2. **Termómetro**: Etosha se enfría según avanza noviembre (37,8 oct → 37,1 media nov).
 > 3. **Rodaje y crescendo**: asfalto y grava fácil primero; el safari como clímax, no aperitivo.
 >
 > *El contra, honesto: el riesgo de primeras tormentas sube mínimamente hacia el día 15 (en 2 de 5
@@ -186,7 +188,8 @@ flowchart LR
   (~N$6.000–8.000 · ~€300–400)**, en cajero pegado a sucursal *(`07`)*. La lista entera, para
   tachar, en [`08`](08-comida-compras-y-regalos.md). **⛽ Y depósito lleno al salir de la
   ciudad**: por Spreetshoogte no hay NADA hasta Solitaire *(`08`)* — *pregunta al recoger con
-  cuánto tanque entrega Namibia2Go el coche* ❌
+  cuánto tanque entrega Namibia2Go el coche y la **capacidad real del depósito** (la aritmética del
+  bucle de la costa la necesita, `07`)* ❌
 - 🏕️ **~17:00 · al camping y primera montada de la tienda con luz y sin público** — ☀️ anochecer
   ~**19:04** *(jet lag: +1 h respecto a la península — ninguno)*. **Las ~2 h hasta el anochecer son
   el colchón del día**: cualquier retraso de inmigración, briefing o compra sale de ahí
@@ -203,7 +206,7 @@ flowchart LR
   con camping verificado *(tarifa ❌, no la publican)*: **Urban Camp** *(Schanzen Road; piscina,
   bar, wifi, cajero)* o **Arebbusch**
 
-### D1 · dom 1 nov — Windhoek → paso de Spreetshoogte · **~180–200 km · ~3h–3h30** ◐ *(decidido 08/08)*
+### D1 · dom 1 nov — Windhoek → paso de Spreetshoogte · **~205 km · ~3h–3h30** ◐ *(OSRM; decidido 08/08)*
 - 🚗 **Salida ~09:00–09:30, sin madrugón** — **el día flojo del plan anterior (domingo en una
   ciudad cerrada por ley) se muda a la escarpa** *(el análisis, en
   [`16`](16-punto-de-decision.md))*: la primera grava se estrena descansados y con el día entero
@@ -243,7 +246,7 @@ flowchart LR
 - 🌡️ **Spreetshoogte ~31,5 / ~17,1** ◐ *(ERA5, ver `15` §ERA5)* — arriba corre viento: forro a mano
 - 🛏️ **Spreetshoogte, segunda noche** — mañana, Solitaire y Sesriem
 
-### D3 · mar 3 — Spreetshoogte → Solitaire → Sesriem · **~150–170 km · ~2h30–3h** ◐
+### D3 · mar 3 — Spreetshoogte → Solitaire → Sesriem · **~130 km · ~2h–2h30** ◐ *(OSRM 129; el ~150–170 anterior sobraba)*
 - 🌡️ **Sesriem, media de máximas de noviembre: ~32,5 °C** ◐ *(reanálisis ERA5, celda a 4 km de la
   puerta; con el sesgo frío del interior la real ronda **33–34 °C**, que es justo el 34,1 ◐ de NWR —
   dos fuentes independientes, mismo entorno; ver `15` §ERA5)*. Mínima **~15,5 °C** ◐ (NWR)
@@ -271,18 +274,19 @@ flowchart LR
   N$180 ≈ €9/persona)*
 - 🛏️ Sesriem, segunda noche
 
-### D5 · jue 5 — Sesriem → Walvis Bay · **~270 km · ~5h30** ✅
+### D5 · jue 5 — Sesriem → Walvis Bay · **~315 km · ~5h30–6h** ◐ *(OSRM 316; el ~270 de la matriz de 2010 se quedaba corto)*
 - 🌡️ **Walvis Bay, medias de noviembre: 25,0 °C máx / 12,7 °C mín** ✅ *(NOAA GHCN, estación del
   aeropuerto WMO 68098, serie 1990–2025; ver `15`)* — **la costa es el respiro térmico del viaje**:
   la corriente de Benguela. Pero ojo a la madrugada: **12–14 °C**, y viento. Cortavientos a mano
 - ☀️ amanecer **06:15** · anochecer **19:17** (Walvis Bay)
 - C14 por los pasos de **Gaub y Kuiseb** + Trópico de Capricornio
-- ⛽ **Solitaire otra vez, sí o sí** — después, **210 km sin nada**
-- 🐾 **Alrededor del camping: la laguna ES la fauna** — **flamenco común y enano a millares** ✅
-  *(SABAP1: su máximo es jun–nov — ver D6)* y **pelícanos**; en GBIF son las especies más
-  registradas de la costa en oct–nov *(2.536 y 977 registros ◐ — registros, no cabezas)*. Y con
-  ficha nueva del 08/08, las otras dos reinas de la laguna: **gaviota de Hartlaub** *(1.591
-  registros oct–nov ◐)* y **avoceta** *(1.057 ◐)*. En
+- ⛽ **Solitaire otra vez, sí o sí** — después, **~230 km sin nada** *(OSRM Solitaire → Walvis 233)*
+- 🐾 **Alrededor del camping: la laguna ES la fauna** — **flamenco común y enano a millares** ◐
+  *(SABAP1 respalda la estacionalidad —su máximo es jun–nov, ver D6—; la magnitud es la fama
+  documentada de la laguna)*. En GBIF de oct–nov los dos flamencos suman **2.536 registros ◐**
+  *(registros, no cabezas)* — solo el **cormorán del Cabo (2.235)** les discute el podio — y detrás
+  van las otras dos reinas de la laguna, con ficha nueva del 08/08: **gaviota de Hartlaub** *(1.591
+  ◐)* y **avoceta** *(1.057 ◐)*; los **pelícanos** cierran la lista grande *(977 ◐)*. En
   tierra, nada que esperar: es ciudad ○
 - 🛏️ **Walvis Bay — también en tienda.** El único sitio con camping que aparece listado en la
   ciudad es **Lagoon Chalets**, que es además el que usó el blog de referencia ◐. **Precio ❌: no
@@ -306,7 +310,7 @@ flowchart LR
   precios y fuentes en [`02`](02-presupuesto.md), §9)*
 - 🛏️ Walvis Bay, segunda noche
 
-### D7 · sáb 7 — Cape Cross → Terrace Bay (Skeleton Coast) · **~390 km · día logístico** ✅
+### D7 · sáb 7 — Cape Cross → Terrace Bay (Skeleton Coast) · **~410 km · día logístico** ◐ *(OSRM 412; el ~380–390 por tramos se quedaba corto — `13`)*
 - 🌡️ **Terrace Bay: sin dato de estación** — no hay serie pública ni en Möwe Bay ni en Terrace
   Bay, y **ERA5 tampoco sirve aquí**: su celda más cercana cae sobre el mar *(da aire marino ~19 °C,
   no tierra; ver `15` §ERA5)*. Proxy honesto: **la costa ronda los 25,0 °C de Walvis Bay ✅**, 400 km
@@ -314,23 +318,25 @@ flowchart LR
 - ☀️ amanecer **06:18** (Cape Cross) · anochecer **19:20** (Terrace Bay) — *pero aquí el sol no es
   el límite: lo es la puerta de las 15:00*
 - ⏰ **Salida temprana — este día tiene una hora límite.** C34 costera (sal compactada):
-  Swakopmund → Henties Bay → 🦭 **Cape Cross** (miles de lobos marinos; pañuelo para el olor)
+  Swakopmund → Henties Bay → 🦭 **Cape Cross** (miles de lobos marinos; pañuelo para el olor).
+  ⛽ **En Henties Bay se llena sí o sí** *(Puma 24 h)*: es el último surtidor seguro antes del
+  bucle de la costa y Damaraland — la aritmética del depósito, en `07`
 - 🎫 **Cape Cross cobra entrada propia, aparte del permiso de Skeleton Coast:** **N$150 (~€8)/extranjero
   + N$50 (~€3)/coche** (≤10 plazas) = **~N$350 (~€18) los dos** ◐, en **efectivo**, se paga en recepción
   al entrar (reserva dentro del Dorob NP; tarifa menor que el baremo premium, **no** son las 7 unidades
   de `02` §5 — súmalo). Horario ◐: **abre a las 08:00 solo del 16 nov al 30 jun; el resto del año, a
   las 10:00** *(confirmado por búsqueda; la ficha del MEFT sigue en 403)*. **Ojo: vuestro D7 es el 7 nov,
   antes del 16 → Cape Cross abre a las 10:00, NO a las 08:00.** No hay entrada a primera hora: apuntad
-  el alto de los lobos a las 10:00 en punto y salid seguidos. De Cape Cross a Ugabmund quedan ~110 km:
-  cruzáis de sobra antes de las 15:00, pero sin la holgura que daría un 08:00 — no os entretengáis
+  el alto de los lobos a las 10:00 en punto y salid seguidos. De Cape Cross a Ugabmund quedan **~80 km**
+  *(OSRM)*: cruzáis de sobra antes de las 15:00 — y de la puerta a Terrace Bay quedan aún **~160 km**
+  de parque a 60: no os entretengáis
 - 🛑 **Puerta de Ugabmund: última entrada 15:00.** Para pernoctar dentro hace falta **reserva
   confirmada de Terrace Bay** — sin ella no se entra (el permiso de tránsito obliga a salir el
   mismo día)
 - Dentro del parque: **60 km/h** · 🎫 Skeleton Coast ~N$620 (~€31)/24 h
 - 🛏️ **Terrace Bay (NWR)** — dormir en la Costa de los Esqueletos, con la niebla y el
-  Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping.** Suelo publicado
-  (doméstico/SADC, temporada baja): **N$1.440–1.920/persona DBB (~€72–96)**; como extranjeros en
-  noviembre, **más** ◐ — la noche más cara de la ruta *(tarifa internacional nov 2026 aún ❌; ver `15`)*
+  Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping** — el precio,
+  cerrado, dos líneas más abajo
 - 🐾 **Alrededor del resort** — el **chacal de lomo negro es el fijo de la costa** *(GBIF costa:
   271 registros, 57 en oct–nov ◐)* y la **hiena parda deja huellas en las playas** ○ — en GBIF
   hay 17 registros en la zona pero **solo 4 en oct–nov: muestra corta, no se afirma más** ◐. **Springbok, órix y hasta
@@ -350,12 +356,14 @@ flowchart LR
   y el norte caluroso; Twyfelfontein, en el valle, es **aún más caluroso a mediodía** ○
 - ☀️ amanecer **06:17** (Twyfelfontein) · anochecer **19:15** (Hoada) — *y es domingo otra vez:
   sin alcohol a la venta*
-- Salida por **Springbokwasser** → C39/D3245 → **Twyfelfontein** (grabados rupestres UNESCO; Google
-  lo lista como cerrado: **es un fallo del listado**). **Terrace Bay → Twyfelfontein son ~216 km ◐**
-  *(verificado 03/08: 96 a la puerta de Springbokwasser + 120 a Twyfelfontein; ver `13` y `15`)*; y la
-  cola **Twyfelfontein → Hoada son ~155 km ◐** *(verificado 03/08 — vía Palmwag o vía Grootberg, ambas
-  convergen; «~2,5 h» del operador)*. **Es un día largo (~370 km de grava): sal temprano de Terrace
-  Bay.** El ~85 km que se manejaba antes quedó **refutado** —era menor que la línea recta (~95 km).
+- Salida por **Springbokwasser** → C39 → D2612/**D3254** → **Twyfelfontein** (grabados rupestres
+  UNESCO; Google lo lista como cerrado: **es un fallo del listado**). ⚠️ **La visita guiada es
+  obligatoria y de pago: N$270 (~€13,5)/persona, solo efectivo** ◐ *(tarifario NHC; ver `11`)*.
+  **Terrace Bay → Twyfelfontein son ~220 km ◐** *(OSRM: 97 a la puerta de Springbokwasser + 123 a
+  Twyfelfontein — cuadra con el 96+120 verificado el 03/08; ver `13` y `15`)*; y la cola
+  **Twyfelfontein → Hoada son ~150 km ◐** *(OSRM 148; «~2,5 h» del operador)*. **Es un día largo
+  (~370 km de grava): sal temprano de Terrace Bay.** El ~85 km que se manejaba antes quedó
+  **refutado** —era menor que la línea recta (~95 km).
 - ⚠️ **Damaraland: los bajos son el punto delicado del seguro** — la referencia de Asco los
   excluía aquí, y **cómo los trata el Premium Cover de tu Namibia2Go Budget sigue SIN confirmar:
   pregúntalo por escrito al reservar**. Despacio en las piedras.
@@ -378,8 +386,8 @@ flowchart LR
   confirmar) → **Okaukuejo a 17 km** de la puerta
 - ✅ **Son ~340 km (verificado 04/08, antes se manejaba ~315)**: Hoada → Kamanjab **75 km** + Kamanjab
   → Okaukuejo por Outjo **~265–271 km** *(distancesto: Kamanjab–Outjo 156 km; CityMeter: Kamanjab–Okaukuejo
-  271 km; la matriz de 2010 daba 265, convergen)*. **El ~315 queda refutado.** Cuenta ~340 para el
-  depósito y la hora de puerta. Ver [`13`](13-itinerario.md), §3.
+  271 km; la matriz de 2010 daba 265, convergen — **y OSRM lo remacha: 343**)*. **El ~315 queda
+  refutado.** Cuenta ~340 para el depósito y la hora de puerta. Ver [`13`](13-itinerario.md), §3.
 - 🎫 Etosha ~N$620 (~€31)/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
 - 🎟️ **Nada más llegar, en recepción: cierra los guiados** — la salida de mañana de MAÑANA en
   Okaukuejo y pregunta los horarios *(❌ no los publican; decidido 08/08 — ver §parques)*
@@ -389,7 +397,7 @@ flowchart LR
   andando desde la parcela *(método y las 91 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
 
-### D10 · mar 10 — Safari Okaukuejo → Halali · **~90 km de safari lento** ✅
+### D10 · mar 10 — Safari Okaukuejo → Halali · **~110 km de safari lento** ◐ *(OSRM 108 por el desvío obligatorio; la directa eran ~70)*
 - 🌡️ **Etosha, medias de noviembre: 37,1 °C máx / 18,9 °C mín** ✅ *(GHCN Okaukuejo, la estación
   del parque)* — la cifra más alta del viaje. **A mediodía no se hace safari: piscina** ○
 - ☀️ amanecer **06:12** · anochecer **19:06** (Halali) — *dentro del campamento, del ocaso al
@@ -406,7 +414,8 @@ flowchart LR
 - 🚗 **El desvío en la práctica ◐**: desde Okaukuejo se sigue por grava hasta **~km 47** y ahí se
   toma el **bypass nuevo y el Rhino Drive** hacia Halali. Las charcas accesibles en ese tramo se
   reducen a **Gemsbokvlakte, Sueda y Salvadora**; **Nebrownii y Kapupuhedi quedan fuera** por la
-  obra. Recomiendan vehículo alto —tu Hilux cumple—. **No hay cifra oficial del sobrecoste en tiempo**:
+  obra. Recomiendan vehículo alto —tu Hilux cumple—. **En km, el desvío está medido con el enrutado
+  propio (09/08): ~108 frente a ~70 de la directa, +38 km**; en **tiempo no hay cifra oficial**:
   cuéntalo despacio.
 - ✅ **Y el desvío no es un castigo**: **Gemsbokvlakte–Sueda–Salvadora** es de los mejores tramos de
   borde de la depresión para **guepardo y león**
@@ -415,7 +424,7 @@ flowchart LR
   desvío y sus charcas
 - Siesta en la piscina de Halali · charca de Halali al anochecer · y al llegar, **apunta la
   salida guiada de mañana**
-- 🐾 **Partes de viajeros en Halali** *(Expert Africa, 48 viajeros ◐)*: **león 75 %, rino negro 73 % y
+- 🐾 **Partes de viajeros en Halali** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/halali-camp/reviews/1), 48 viajeros ◐)*: **león 75 %, rino negro 73 % y
   leopardo 31 % (12 de 39) — la mejor cifra de leopardo de los tres campamentos**: la charca al
   anochecer, sin prisa. Y el **chacal, fijo en el camping** ○ *(protocolo en `18` §7; GBIF lo da como el carnívoro más
   registrado de la ruta ◐)*
@@ -429,12 +438,13 @@ flowchart LR
   Namutoni por la tarde con vuestro coche, parando en **Goas, Nuamses, Springbokfontein, Batia y
   Chudop** — el corazón del safari
 - **Se duerme DENTRO, como todo Etosha en esta ruta**: sin horas de puerta, con la charca al lado
-- 🐾 **Partes de viajeros en Namutoni** *(Expert Africa — ojo, muestra corta: 16 viajeros y
+- 🐾 **Partes de viajeros en Namutoni** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/namutoni-camp/reviews/1) — ojo, muestra corta: 16 viajeros y
   11–16 partes por especie ◐)*: jirafa,
   órix, ñu y cebra **100 %**, **guepardo 50 % (7 de 14) — la mejor cifra de guepardo, son sus
   llanuras del este**, león 64 %. La charca propia es la floja de las tres *(ya dicho abajo)*:
-  **Chudop, a un paso, compensa**. Y de día, ojo al suelo: la **mangosta rayada** es de lo más
-  registrado del parque *(400 registros GBIF, 101 en oct–nov ◐ — ficha nueva del 08/08)*
+  **Chudop, a un paso, compensa**. Y de día, ojo al suelo: la **mangosta rayada** sale en 400
+  registros GBIF del parque *(101 en oct–nov ◐ — el gran ausente que destapó la revisión;
+  ficha nueva del 08/08)*
 - 🛏️ **Camping Namutoni — N$920 (~€46)** ✅ *(el fuerte alemán, y Chudop a un paso)*
 - *Capricho opcional: **Onguma** (tu pin, reserva privada justo al otro lado de la puerta de Von
   Lindequist) ⚠️ precio sin verificar; puede ser gama alta — a cambio pierdes estar dentro*
@@ -449,7 +459,7 @@ flowchart LR
   lo que va bien es Chudop (león fiable) y el **Dik-dik Drive** de Klein Namutoni* ◐
 - 🛏️ **Namutoni, segunda noche — N$920 (~€46)** ✅
 
-### D13 · vie 13 — Etosha → Windhoek · **~550 km asfalto · ~5h30–6h** ○
+### D13 · vie 13 — Etosha → Windhoek · **~550 km asfalto · ~5h30 de volante · 6h–6h30 con comida** ◐ *(OSRM 548)*
 - 🌡️ De **Etosha (37,1 ✅)** a **Windhoek (31,2 ✅)**: el día de bajar 6 grados y 550 km
 - ☀️ amanecer **06:08** (Namutoni) · anochecer **19:11** (Windhoek) — *la puerta de Von Lindequist
   abre al amanecer: saliendo a las 06:10 llegas a Windhoek con la tarde entera*
@@ -459,8 +469,9 @@ flowchart LR
 - 🛏️ **Windhoek, arriba y CON coche** — la entrega ya no es hoy: **decidido (07/08)**, se
   devuelve mañana en el aeropuerto. Última noche de tienda: braai de despedida, o Joe's si el
   cuerpo pide mesa
-- *Parada opcional de camino: **Okonjima/AfriCat** (leopardos) o el meteorito de **Hoba** (desvío
-  por Grootfontein)*
+- *Parada opcional de camino: **Okonjima/AfriCat** (leopardos), el meteorito de **Hoba** (desvío
+  por Grootfontein, B8) o el **Plateau de Waterberg** (desvío desde Otjiwarongo; entrada N$280 ·
+  ~€14 — ver `11`)*
 
 ### D14 · sáb 14 — Vuelo *(plan horario)*
 
@@ -542,7 +553,7 @@ flowchart LR
 - **Etosha** ✅ — **horarios oficiales de puerta**, de la tabla que publica el parque *(cambian cada
   semana siguiendo al sol, y están puestas en cada puerta)*: **3–9 nov: 06:13–19:06** ·
   **10–16 nov: 06:10–19:10**. Son **trece horas de parque al día**, casi dos más que en invierno.
-  *(Cuadra al minuto con el cálculo astronómico de arriba.)* Dentro: **60 km/h**, **20 en los
+  *(Cuadra a ±4 min con el cálculo astronómico de arriba.)* Dentro: **60 km/h**, **20 en los
   campamentos**, y **solo se puede bajar del coche dentro de los campamentos** — la única excepción
   es el *koppie* de dolomita de **Halali**, que sí se puede pasear. De noche te quedas dentro: la
   charca iluminada es el plan.
@@ -599,9 +610,9 @@ y trece horas de puerta»)* queda en `16` §7 por si algún día se revisa; los 
 mediodía siguen siendo vuestros.
 
 **El nocturno sí**, porque de noche está **prohibido circular por libre**: es la única forma de estar
-en el parque a oscuras y ver oricteropo, puercoespín, liebre saltadora, **zorro del Cabo, gato
-montés africano o un lobo de tierra** *(los tres, con ficha nueva del 08/08)* — o leones cazando. **N$1.500
-(~€75) los dos.**
+en el parque a oscuras y ver puercoespín, liebre saltadora, **zorro del Cabo, gato montés africano
+o un lobo de tierra** *(los tres, con ficha nueva del 08/08)* — leones cazando, y con suerte épica
+el **oricteropo** *(el 0 % de los partes: nadie lo promete)*. **N$1.500 (~€75) los dos.**
 
 > ### 👉 Y hazlo desde NAMUTONI, no desde Okaukuejo
 > Sale de cruzar dos datos: la charca iluminada de **Okaukuejo es probablemente el mejor sitio de
@@ -651,9 +662,9 @@ grava es justo el ingrediente del vuelco (ver `06`).
 **Así que el sur se quitó entero**, y sus días se fueron a donde más rinden: **dos noches en la
 escarpa de Spreetshoogte** *(la segunda, recuperada el 08/08 del domingo cerrado de Windhoek)*,
 **dos en Sesriem** para el amanecer de Deadvlei sin prisa, **dos en la costa** para descansar a
-mitad de viaje, y **cuatro dentro de Etosha**. El resultado son **~2.757 km** *(control OSRM 08/08; la suma del
-gantt daba ~2.600)*, ningún día por encima de ~410 km salvo el regreso por asfalto, y el safari
-como clímax final.
+mitad de viaje, y **cuatro dentro de Etosha**. El resultado son **~2.757 km** *(enrutado OSRM del
+08/08 — los km por día de arriba son los del mismo cálculo, redondeados)*, ningún día por encima
+de ~410 km salvo el regreso por asfalto, y el safari como clímax final.
 
 <div align="center">
 
@@ -667,9 +678,10 @@ como clímax final.
   privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También
   cerrado el **camping de Spitzkoppe: N$270/persona → N$540/noche (~€27), entrada incluida** ◐
   *(fuera de la ruta)*
-- ◐ **Km del D7 y del D13 ya cerrados (03/08)** — la costa **Walvis Bay → Terrace Bay ≈ ~380 km**
-  (C34 300 km Swakopmund→Torra Bay + 50 a Terrace Bay + 30 de Walvis, fuentes convergentes) y el
-  **Namutoni → Windhoek ≈ ~555–575 km** (web de Etosha NP y rome2rio). Detalle y fuentes en `13`.
+- ◐ **Km del D7 y del D13 — recalibrados el 09/08 con el enrutado OSRM propio**: la costa
+  **Walvis Bay → Terrace Bay ≈ ~410 km** *(la triangulación secundaria del 03/08 daba ~380 y se
+  quedaba corta: su tramo «Cape Cross → Terrace Bay ~200» era menor que la línea recta, 220)* y el
+  **Namutoni → Windhoek ≈ ~550 km** *(OSRM 548; secundarias 553–575)*. Detalle y fuentes en `13`.
 - ◐ **Km del D8 ya cerrados (03/08)** — **Terrace Bay → Twyfelfontein ≈ ~216 km** por la ruta directa
   de Springbokwasser (96 a la puerta + 120 a Twyfelfontein; routeplanner + negativo de la C39) **y la
   cola Twyfelfontein → Hoada ≈ ~155 km** (Palmwag ~110 + ~50, o Grootberg ~130 + 25; «~2,5 h» del

@@ -1,8 +1,9 @@
 # 16 · Punto de decisión — CERRADO el 06/08/2026
 
-> **Namibia · noviembre 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> ✅ **Decidido: la ruta del norte de 14 días —Variante E, con Etosha y sin el sur— y las fechas del
+> ✅ **Decidido: la ruta del norte —Variante E, con Etosha y sin el sur; 15 días de suelo, 14
+> noches— y las fechas del
 > vuelo de Lufthansa —cotizado, sin emitir—, 30 de octubre a 14 de noviembre.** Decisión del viajero, tomada a la vista de
 > lo que hay debajo. **Esta ficha ya no pide nada**: se queda como registro de qué se comparó, qué se
 > descartó y por qué, para que dentro de un año se pueda reconstruir el razonamiento.

@@ -10,7 +10,7 @@
 **30 de octubre – 15 de noviembre de 2026**
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
-[![cuenta atrás](https://img.shields.io/badge/faltan-83_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
+[![cuenta atrás](https://img.shields.io/badge/faltan-82_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-0_de_6-9d0208?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
 [![presupuesto](https://img.shields.io/badge/€3.725-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
@@ -28,7 +28,7 @@
 
 ## 📍 Estado del viaje
 
-**8 de agosto de 2026**
+**9 de agosto de 2026**
 
 </div>
 
@@ -51,7 +51,8 @@ flowchart LR
 > **Namibia2Go, aeropuerto → aeropuerto** — se recoge el **31 al aterrizar** y se devuelve el
 > **14 camino del embarque** *(decisión del viajero, 07/08/2026)*: **ni hoteles en Windhoek ni
 > traslados** — esas noches también se duerme arriba. Y el **08/08**, la auditoría del calendario:
-> la ruta cabe exacta, **la noche del domingo 1 pasa a 2ª de Spreetshoogte** y los dos días punta
+> la ruta cabe exacta, **Spreetshoogte pasa de una a dos noches (dom 1 y lun 2 — la del domingo,
+> recuperada de la ciudad cerrada de Windhoek)** y los dos días punta
 > llevan plan horario *(la facturación de la vuelta cierra a las **19:45** ◐)*. Y los **safaris de
 > Etosha, GUIADOS** *(08/08: tres mañanas + el nocturno, ~N$5.400 · ~€270 la pareja — «el safari
 > es un 90 % un buen guía»)*. Lo que se comparó antes queda archivado en
@@ -59,10 +60,10 @@ flowchart LR
 
 ### 🟡 Cotizado con precio real, pero sin cerrar
 
-- ✈️ **Vuelo — €1.450 por persona** ◐ *(el buscador lo anuncia en €1.341 y sube al cerrar)*.
+- ✈️ **Vuelo — €1.450 por persona** ✅ *(cotización propia cerrada; el buscador lo anuncia en €1.341 y sube al cerrar)*.
   **No consta emitido.** Sin billete no hay e-visa.
 - 🚙 **Coche — Budget N$35.100 (~€1.755)** o **Comfort N$39.000 (~€1.950)**, las dos disponibles ✅
-- 🩺 **Seguro IATI — €113,02 por persona** ✅ · 🛂 **e-visa — N$1.600 (~€78)** ✅
+- 🩺 **Seguro IATI — €113,02 por persona** ✅ · 🛂 **e-visa — N$1.600 (~€80)** ✅
 - 🎫 **Tasas de parque — ~N$620 (~€31)/día** la pareja ◐
 
 > [!WARNING]
@@ -86,7 +87,8 @@ flowchart LR
 4. **Emitir el vuelo** — y con él ya se puede pedir el e-visa.
 5. **Reservar Sesriem ×2, Terrace Bay y las cuatro de Etosha** — sin la de Terrace Bay **no se
    entra** al Skeleton Coast a pernoctar. **Y localizar y reservar Spreetshoogte ×2**: sin tarifa
-   ni contacto aún ❌, y con tres homónimos en el mismo paso *(`15`)*.
+   ni contacto aún ❌, y con tres homónimos en el mismo paso *(`15`)*. *(Sesriem, Terrace Bay,
+   Okaukuejo, Halali, Namutoni y Spreetshoogte: esas son las **6** del contador de arriba.)*
 6. **Adelantar el seguro al 30/10** y pedir a IATI por escrito **evacuación aérea dentro del país**.
 7. **Preguntar a NWR (+264 67 229 800)** si las 3 salidas guiadas de mañana y el nocturno se
    pueden dejar cerrados desde España — su tarifa avisa de que **en temporada de lluvias no
@@ -98,7 +100,10 @@ flowchart LR
 Tres campings sin tarifa publicada *(Windhoek, Walvis Bay y Spreetshoogte — muro de `403` total)* ·
 la fianza de Namibia2Go *(ellos dicen «No Deposit», dos revendedores citan N$2.500 (~€125) — pregúntalo por
 escrito)* · la **entrega del coche en el aeropuerto** *(servicio y suplemento sin confirmar)* ·
-el sobrecoste en km del **desvío obligatorio Okaukuejo–Halali** · los horarios de salida
+el sobrecoste **en tiempo** del **desvío obligatorio Okaukuejo–Halali** *(los km ya están: **+38**
+sobre la pista directa, medidos el 09/08 con el enrutado OSRM propio)* · **si hay diésel en el bucle
+Ugabmund–Springbokwasser** *(el surtidor de Terrace Bay, sin garantía — `07`)* · la **capacidad real
+del depósito del Hilux** *(la aritmética del bucle la necesita — `07`)* · los horarios de salida
 de los safaris guiados de NWR · el precio del **31 de octubre** del coche *(fuera de temporada baja)*.
 *(El D0 ya tiene plan —coche, compra y camping—, la franquicia quedó cerrada el 07/08 —1×23 kg por
 persona— y el 08/08 quedaron medidos el calendario (15 días/14 noches exactos) y el D14: facturación
@@ -109,7 +114,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 103 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 108 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -144,7 +149,7 @@ viaje**: está medido y documentado en el historial de git por si algún día vu
 ### ❓ ¿Etosha al principio o al final? → **Al final**, por tres razones con datos
 
 **El dinero** *(con el desierto primero, todas las noches de NWR caen después del 1 de noviembre, en
-tarifa baja)*, **el termómetro** *(Etosha se enfría según avanza el mes: 38,0 °C de media en octubre,
+tarifa baja)*, **el termómetro** *(Etosha se enfría según avanza el mes: 37,8 °C de media en octubre,
 37,1 en noviembre)* y **el crescendo** *(asfalto y grava amable primero; el safari como clímax, no
 como aperitivo)*. El razonamiento completo, con el contra dicho honestamente, está en el itinerario.
 
@@ -184,7 +189,7 @@ automático, 4x4 permanente, **km ilimitados**, **Premium Insurance Cover** (fra
 
 La diferencia real: la lona tarda ~5 minutos en montarse en vez de ~1, y aguanta algo peor el polvo
 y el viento. Son **~€15 por noche de tienda** de sobrecoste la Comfort. **Con la Budget ahorras ~€97
-por persona sobre los 13 días cotizados** *(a los 15 decididos, ~€112,50 — ver `02` §2)* — y
+por persona sobre los 13 días cotizados** *(a los 15 decididos, ~€112,50 — ver `02` §10)* — y
 sigues durmiendo arriba las 13 noches.
 
 > 🎥 Al ver el [vídeo del Hilux](https://www.youtube.com/watch?v=LPNZ-l8y3Pg): si las tiendas del
@@ -223,9 +228,10 @@ sigues durmiendo arriba las 13 noches.
   peñas de granito que la referencia llama el más bonito de su viaje. ◐
 - 🦩 **Flamencos en Walvis Bay** al amanecer, ostras y paseo — **dos noches y un día entero de
   descanso** a mitad de viaje. La excursión a **Sandwich Harbour, en tour guiado** *(con tu coche
-  está prohibida por contrato — y el tour es mejor plan)*. ✅
+  la prohíbe el contrato de referencia del sector — confírmalo en el de Namibia2Go, `06` — y el
+  tour es mejor plan)*. ◐
 - 🥧 **La tarta de manzana de Solitaire** — dos veces, porque la ruta pasa dos veces. Y las dos se
-  reposta: después hay **210 km sin nada**. ✅
+  reposta: después hay **~230 km sin nada** *(OSRM)*. ✅
 - 🍺 **Joe's Beerhouse** en Windhoek — la opción de mesa del D0 y del D13, si el cuerpo no está
   para braai. N$200–400 (~€10–20). ✅
 
@@ -233,13 +239,13 @@ sigues durmiendo arriba las 13 noches.
 
 <div align="center">
 
-## 📅 La ventana: 1–15 de noviembre
+## 📅 La ventana: 31 de octubre – 14 de noviembre
 
 </div>
 
 ```mermaid
 flowchart LR
-    A["Tu ventana<br/>1-15 nov"] --> B["LLUVIA<br/>la quincena mas seca del rango:<br/>en 4 de 5 temporadas<br/>no habia empezado"]
+    A["Tu ventana<br/>31 oct - 14 nov"] --> B["LLUVIA<br/>la quincena mas seca del rango:<br/>en 4 de 5 temporadas<br/>no habia empezado"]
     A --> C["CALOR<br/>Etosha ~37-38 C: fuerte<br/>desierto y costa: suaves"]
     A --> D["PRECIO<br/>NWR barato desde el 1 nov<br/>y Namibia2Go tambien"]
     B --> E["Ventana excelente<br/>para fauna y dunas"]
@@ -261,8 +267,9 @@ flowchart LR
   **forro polar, no plumas** — el porqué en [`05`](05-equipaje.md), la lista con casilla en
   [`17`](17-lista-de-equipaje.md), y la temperatura noche a noche en [`01`](01-itinerarios-dia-a-dia.md).
 - 💶 **Precio: la frontera del 1 de noviembre, dos veces.** **NWR** entra en tramo barato el 1 de
-  noviembre (Sesriem, Terrace Bay, Etosha), y **Namibia2Go también**. 👉 **¿Adelantar días a
-  octubre? Hasta 2 días es gratis** — las primeras noches (Windhoek, Spreetshoogte) no son NWR.
+  noviembre (Sesriem, Terrace Bay, Etosha — la primera noche NWR del plan es el 3), y **Namibia2Go
+  también**. La única noche de octubre —la del 31, Windhoek— no es NWR: **lo único que paga precio
+  de octubre es el día 31 del coche**, que se pide aparte *(`02` §2)*.
 
 ---
 
@@ -290,7 +297,8 @@ flowchart LR
   por persona** ◐ — súmalo ida y vuelta.
 - ⚠️ **Tres cosas antes de pagar**: que **incluya maleta facturada** *(Lufthansa vende Economy Light
   sin ella)*, que sea **billete único**, y **compara con el precio directo de Lufthansa** — lo vende
-  eDreams. *(Y mira el de **€1.026**: son €630 menos la pareja.)*
+  eDreams. *(Y mira el de **€1.026**: sobre los €1.450 finales son hasta **€848 menos la pareja**
+  — comparándolo también con equipaje incluido, `02` §8.)*
 - 🩺 **El seguro llega hasta el día 15**, no hasta el 14: son las horas de vuelta que sin eso irían
   sin cobertura, y cerrar ese hueco costó **€14,69**.
 - 👉 **Dos cosas que pedirle a IATI por escrito**: que cubra **evacuación aérea DENTRO del país**
@@ -314,7 +322,8 @@ Rango honesto: **€3.575–3.875**. El **74 %** ya está cerrado.
 </div>
 
 **Incluye:** vuelo · coche **15 días** · **seguro de viaje** · combustible · tasas de parque · visado ·
-las 14 noches · comida · actividades · imprevistos. **No queda nada fuera** salvo lo que compres allí por gusto.
+las 14 noches · comida · actividades · imprevistos. **No queda nada fuera** salvo el traslado a Oporto
+y el día extra de seguro *(❌ sin cotizar — abajo)* y lo que compres allí por gusto.
 
 ```mermaid
 pie showData
@@ -338,7 +347,8 @@ pie showData
   guiados de Etosha, decididos el 08/08, dentro)*
 - **El 74 % ya está cerrado** con precio real: vuelo, los 13 días cotizados del coche, seguro,
   visado, las 6 noches de NWR y Terrace Bay. Lo demás (~€960) son los 2 días extra de coche ◐, las 6 noches de
-  camping sin precio (más Hoada ◐), los safaris guiados *(~€144, tarifa ✅ sin reservar)*, el
+  camping sin precio (más Hoada ◐), el paquete guiado de Etosha —3 mañanas + nocturno + lanzadera
+  de Deadvlei— *(~€144, tarifa ✅ sin reservar)*, el
   combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
 - ⚠️ **Lo que aún puede mover el número**: el precio real del **31 de octubre** del coche *(fuera de
   temporada baja ❌)*, el traslado a Oporto ida y vuelta y el día extra de seguro — **sin cotizar**.
@@ -385,7 +395,7 @@ flowchart TD
    pernoctar (el permiso de tránsito obliga a salir el mismo día). Y las **4 noches DENTRO de
    Etosha** (Okaukuejo, Halali, Namutoni ×2 — N$920 ≈ €46/noche ✅): en noviembre hay sitio, pero el
    chalet del charco vuela.
-4. **Los papeles con calendario.** El **e-visa (N$1.600, ~€78)** se pide online y **se imprime y
+4. **Los papeles con calendario.** El **e-visa (N$1.600, ~€80)** se pide online y **se imprime y
    firma ante el oficial** — solo en `eservices.mhaiss.gov.na` ⚠️ *(`namibia-evisa.com` parece
    oficial y no lo es; el portal real puede dar un aviso de certificado — es mala configuración
    suya: verifica el dominio y sigue)*. La **cita del Centro de Vacunación** (A Coruña, Durán
@@ -399,7 +409,8 @@ desierto y la costa no; a primeros de noviembre, antes de las lluvias, el riesgo
 estacional *(Malarone empieza 1–2 días antes; mefloquina, 2–3 semanas)* · **fiebre amarilla** —
 con el vuelo elegido **no hace falta**, porque **Fráncfort y Múnich no son zona de riesgo**
 *(Doha y Johannesburgo, también limpios)* · **seguro con repatriación** — es condición de entrada; pide por escrito que cubra
-**evacuación aérea dentro del país** (cerca de Sesriem no hay hospital).
+**evacuación aérea dentro del país** (cerca de Sesriem no hay hospital) — *el coste de la opción
+de búsqueda y salvamento sigue ❌ sin cotizar*.
 
 ---
 
@@ -418,13 +429,15 @@ con el vuelo elegido **no hace falta**, porque **Fráncfort y Múnich no son zon
   reposta en todas, marque lo que marque la aguja. Las tarjetas **sí** se aceptan *(el «solo
   efectivo» es un mito de mala traducción)*, pero lleva **~N$4.000 (~€200)** de reserva.
 - **Llega a las 18:00** (17:30 en las etapas largas de los primeros días). En tu ventana (1–15 nov)
-  anochece **~19:03–19:12 en el interior y hasta ~19:20 en la costa** —algo antes que a fin de mes;
+  anochece **~19:03–19:16 en el interior** *(Windhoek y Etosha antes; Sesriem y Damaraland, ~19:15)*
+  **y hasta ~19:20 en la costa** —algo antes que a fin de mes;
   ocaso recalculado en `15` y desglosado día a día en `01`— y la fauna sale a los arcenes al
   atardecer. El día crítico es el D7: **Ugabmund cierra la entrada a las 15:00**.
 - **El seguro y Damaraland**: los niveles bajos de un contrato de referencia del sector **no cubren
   los bajos en Damaraland/Kaokoveld** — el tramo D8 pide suavidad en las piedras. Las pistas
   malditas **D3707/D3703 no están en esta ruta**. *Dune driving* y Sandwich Harbour, **prohibidos
-  por contrato** — el tour guiado es el plan.
+  por el contrato de referencia del sector** ◐ *(pide el de Namibia2Go por escrito)* — el tour
+  guiado es el plan.
 
 Extras: enchufes **tipo M** *(2 adaptadores online — el Schuko no entra)* · **SIM de MTC** en el
 aeropuerto con pasaporte *(paquete turista «Leisure» N$349 ~€17 · 14 días · 10,1 GB ◐; el kiosco cierra ~21:00)* · un **satelital con SOS** es buena compañía
@@ -493,17 +506,18 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 9. ⛺ [**`18-manual-de-campamento`**](18-manual-de-campamento.md) — **vivir del coche**: la rutina de la tarde, la tienda, el braai, la nevera y los vecinos del campamento
 10. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
 11. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
-12. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 91 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
-13. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
-14. 📍 [**`11-lista-google-maps`**](11-lista-google-maps.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
+12. 🪘 [**`20-cultura-de-namibia`**](20-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
+13. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 91 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
+14. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
+15. 📍 [**`11-lista-google-maps`**](11-lista-google-maps.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**
 
-15. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
-16. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad, con el contraste de OSRM
-17. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
-18. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
-19. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
+16. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
+17. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad, con el contraste de OSRM
+18. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
+19. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
+20. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
 
 📕 Y el PDF: [**`guia-fauna-etosha.pdf`**](guia-fauna-etosha.pdf) — la guía de campo, para imprimir.
 Lleva **medidas** las posibilidades de ver cada bicho: los partes de avistamiento de los tres
@@ -518,7 +532,7 @@ Deadvlei · Walvis Bay · Swakopmund *(de paso)* · Cape Cross · Skeleton Coast
 Etosha *(4 noches dentro)*. **Opcionales**: **Onguma** *(tu pin — capricho fuera de la puerta este,
 a cambio de no dormir dentro)* · Okonjima/AfriCat · Hoba · Waterberg *(los tres, de camino el D13)*. **Fuera esta vez**: todo el sur *(está en el historial de git por si vuelve)* · Spitzkoppe y
 Brandberg *(tampoco están en la ruta de referencia)* · NamibRand · Messum · Bagatelle ·
-Epupa/Opuwo *(descartado con números en `11`: ~730 km hasta Opuwo + ~180-200 km de grava C43 hasta Epupa = desvío de ~2 días cada sentido, y dentro de la zona sin cobertura de bajos)* · Tsumkwe · Harnas · Kgalagadi.
+Epupa/Opuwo *(descartado con números en `11`: ~730 km hasta Opuwo + ~180-200 km de grava (D3700) hasta Epupa = desvío de ~2 días cada sentido, y dentro de la zona sin cobertura de bajos)* · Tsumkwe · Harnas · Kgalagadi.
 ℹ️ Twyfelfontein y Duna 45 salen en Google como cerrados: **fallo del listado, ambos funcionan**.
 
 ---
@@ -590,7 +604,7 @@ pagado, se mueve aquí arriba y se pone la fecha**.
   make comprueba             # imagenes, licencias, escala y que el README no mienta
   ```
   Las convenciones del build —el marcador `%% ancho`, las casillas `- [ ]`, por qué una URL larga
-  puede encoger el PDF entero— están en [`CLAUDE.md`](CLAUDE.md).
+  puede encoger el PDF entero— están en el `CLAUDE.md` del repo local *(no versionado)*.
 - **Las marcas no se tocan**: **✅** fuente primaria · **◐** secundaria concordante · **○** práctica
   común, sin fuente · **❌** sin verificar, dicho en blanco. **Un hueco reconocido vale más que un
   número plausible.**
@@ -602,6 +616,6 @@ El NAD va ligado al rand: **el importe en N$ es el que se paga**, el euro es ori
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 
-**Última actualización: 8 de agosto de 2026**
+**Última actualización: 9 de agosto de 2026**
 
 </div>

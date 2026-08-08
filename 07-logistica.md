@@ -7,7 +7,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026 · precio del
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · precio del
 > combustible actualizado a la revisión del 5 ago 2026*
 
 
@@ -116,14 +116,14 @@ en [`13`](13-itinerario.md).** Lo que importa aquí es dónde **no** hay gasolin
 
 ```mermaid
 flowchart LR
-    S["Solitaire"] -->|"210 km · NADA en medio<br/>pasos de Gaub y Kuiseb"| W["Walvis Bay<br/>Swakopmund"]
+    S["Solitaire"] -->|"~230 km · NADA en medio<br/>pasos de Gaub y Kuiseb"| W["Walvis Bay<br/>Swakopmund"]
     SE["Sesriem"] -->|"ida y vuelta ~120 km<br/>+ 5 km de arena en reductora"| D["Sossusvlei<br/>Deadvlei"]
     H["Henties Bay<br/>ultima gasolinera<br/>segura de la costa"] -->|"Ugabmund Terrace Bay<br/>y salida por Springbokwasser<br/>diesel en Terrace Bay<br/>SIN VERIFICAR"| T["Terrace Bay<br/>D7 y D8"]
     style S fill:#e85d04,color:#000
     style T fill:#9d0208,color:#fff
 ```
 
-1. **Solitaire → Walvis Bay/Swakopmund (210 km)**: los pasos de **Gaub** y **Kuiseb** con **NADA** en
+1. **Solitaire → Walvis Bay (~230 km, OSRM)**: los pasos de **Gaub** y **Kuiseb** con **NADA** en
    medio — sin combustible, sin tienda, tráfico mínimo
 2. **Sesriem → Sossusvlei ida y vuelta**: son **~120 km MÁS los 5 km finales de arena blanda en
    reductora**, todo dentro del parque, **sin gasolinera** y con **consumo alto en arena** →
@@ -133,13 +133,19 @@ flowchart LR
    Twyfelfontein → Hoada. **Actualización 02/08 ◐: en Terrace Bay HAY surtidor físico (reportes de
    viajeros), pero la web oficial de NWR no lo lista, se quedó seco en los cortes de 2025 y alguna
    guía lo da «solo huéspedes» — la regla NO cambia: trátalo como si no hubiera.** En **Bergsig no
-   hay gasolinera documentada** y la de Twyfelfontein es irregular (ver `08`). Llena en **Henties
-   Bay** (✅ Puma 24 h) y calcula el bucle entero costa→Damaraland con ese depósito; el respaldo
-   del tramo es **Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅ Gondwana)**, a 23 km del paso de
-   Grootberg. *Distancia del bucle: el **D7 ya está cerrado en ~380 km** ◐ (la C34 medida tramo a tramo, ver
-   `13`); el **D8 también, en ~370 km** ◐ — 216 hasta Twyfelfontein *(por Springbokwasser)* + **~155
-   de cola a Hoada** *(vía Palmwag o Grootberg; el ~85 km anterior quedó refutado)*. **Es un día largo
-   de grava con este único depósito: sale con el tanque lleno de Henties Bay.***
+   hay gasolinera documentada** y la de Twyfelfontein es irregular (ver `08`).
+   **La aritmética, con los km del enrutado OSRM (09/08), y sin endulzar**: desde el surtidor de
+   **Henties Bay** (✅ Puma 24 h) hasta el siguiente seguro —**Kamanjab, la mañana del D9**— hay
+   **~740 km** *(Henties → Terrace Bay ~302 + D8 ~368 + Hoada → Kamanjab ~69)*. A los **11–13 l/100
+   km** del Hilux cargado son **81–96 litros**: **NO cabe con seguridad en un depósito de ~80 l**
+   —cuya **capacidad real, además, sigue ❌ sin confirmar: pregúntasela a Namibia2Go**—.
+   👉 **Conclusión operativa: el repostaje de [Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅
+   Gondwana)](https://gondwana-collection.com/accommodation/palmwag-lodge) deja de ser «respaldo» y
+   pasa a ser PLAN** — cae en la cola del D8 *(vía Twyfelfontein → Palmwag ~110 + Palmwag → Hoada
+   ~50, +~12 km sobre la variante de Grootberg; a Palmwag llegas con 70–82 l quemados: justo pero
+   dentro)* — **salvo que Namibia2Go confirme depósito mayor/doble o que el surtidor de Terrace
+   Bay esté operativo al pasar** *(pregúntalo al reservar y al entrar por Ugabmund)*. **Sales de
+   Henties con el tanque lleno igualmente.**
 
 ### La regla
 
@@ -196,7 +202,9 @@ barata pero con cobertura **notablemente peor** fuera de los pueblos.
 👉 **Para un self-drive, MTC es la elección correcta, y no está reñido.**
 
 - **SIM turista MTC — el «Leisure»**: **N$349 (~€17)** por **14 días** con **10,1 GB** de datos, más
-  N$65 de llamadas y SMS internacionales — **justo la duración de este viaje** ◐. El hermano mayor
+  N$65 de llamadas y SMS internacionales ◐. ⚠️ **Ojo al calendario: activada el 31 de octubre al
+  aterrizar, los 14 días llegan al 13 de noviembre** — el día del vuelo de vuelta puede quedar
+  fuera del paquete; si pasa, un bono «Aweh» barato lo cubre. El hermano mayor
   **«Premium»**: **N$659 (~€33)** por **30 días** y **20,1 GB** (+N$125 internacional). Muchísimo más
   barato por GB que una eSIM de viaje.
 - **Dónde**: los paquetes turistas **se venden solo en la tienda MTC del aeropuerto Hosea Kutako**
@@ -331,7 +339,7 @@ Tus restricciones reales:
 >
 > Lleva el efectivo **en dos sitios distintos del coche**, no todo en una cartera.
 
-Y recuerda: **visado N$1.600 (~€78)** y **referencia de fondos ~N$1.200 (~€60)/día** — lleva pruebas.
+Y recuerda: **visado N$1.600 (~€80)** y **referencia de fondos ~N$1.200 (~€60)/día** — lleva pruebas.
 
 ❌ **Refutado 0–2** el envoltorio de este punto (algún umbral «oficial» que la fuente no sostiene),
 **no la cita del NTB ni la asimetría NAD/ZAR**, que son correctas.
@@ -423,8 +431,9 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
   tabla oficial de diferenciales del MME no respondía
 - **El surtidor de Terrace Bay**: existe físicamente ◐ pero NWR no lo publicita y se secó en 2025
   — **trátalo como que NO** y llena en Henties Bay (detalle estación a estación: `08`)
-- ~~**Los km reales del eje de la costa y Damaraland** (D7–D9)~~ **cerrados ◐ (03–04/08)**:
-  D7 ~380 · D8 ~370 · D9 ~340 km, fuentes convergentes — ver `13` §3
+- ~~**Los km reales del eje de la costa y Damaraland** (D7–D9)~~ **cerrados ◐ (03–04/08, y
+  recalibrados el 09/08 con OSRM)**: **D7 ~410** *(el ~380 por tramos se quedaba corto)* · D8 ~370 ·
+  D9 ~340 km — ver `13` §3 y §5
 - ~~**Precios actuales de los bonos turistas de MTC**~~ **cerrados ◐ (05/08)**: paquete «Leisure»
   **N$349 ≈ €17/14 días/10,1 GB** y «Premium» **N$659 ≈ €33/30 días/20,1 GB**, convergentes entre la web de MTC,
   su PDF de T&C y un blog independiente (ver §Cobertura). El precio de la **eSIM** sigue sin cerrar

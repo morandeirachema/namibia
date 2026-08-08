@@ -83,7 +83,7 @@ def revisa_geo():
 
 
 # Los documentos que se leen SOBRE EL TERRENO, donde cada N$ es dinero que se paga y
-# tiene que llevar su equivalente al lado. Se comprueban solo estos tres a proposito: en
+# tiene que llevar su equivalente al lado. Se comprueban solo estos cuatro a proposito: en
 # los de investigacion (02, 07, 11, 12, 15) hay cifras que se citan para desmentirlas
 # —«N$150 es lo que repiten los blogs», «N$445 fue un error de extraccion»— y tarifas que
 # no nos aplican, como la de residente namibio. Exigirles el euro llenaria esto de avisos

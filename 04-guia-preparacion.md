@@ -7,7 +7,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 09/08/2026*
 
 
 La técnica de conducción en grava no tiene fuente oficial: va marcada como ○ en vez de disfrazarla
@@ -42,8 +42,9 @@ El riesgo bajo no es riesgo cero: la consulta del CVI decide.
 
 **La profilaxis marca la cuenta atrás**, porque cada fármaco tiene su plazo — y con Etosha al final
 del viaje (**D9–D12, del 9 al 12 de noviembre**), las fechas reales son:
-- **Atovacuona/proguanil (Malarone)** — empieza **1–2 días antes** de entrar en zona de riesgo
-  (~7–8 de noviembre, ya de viaje: hay que llevarla comprada)
+- **Atovacuona/proguanil (Malarone)** — empieza **1–2 días antes** de entrar en zona de riesgo,
+  y la zona empieza en el **D8, Damaraland/Kunene (dom 8)**: **~6–7 de noviembre**, ya de viaje —
+  hay que llevarla comprada
 - **Mefloquina** — empieza **2–3 semanas antes** → **~19–26 de octubre**, receta necesaria en la
   cita del CVI de septiembre
 
@@ -58,7 +59,7 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
-*Recalculada el 08/08/2026: el vuelo sale de Oporto el **30 de octubre** — **quedan ~83 días**.
+*Recalculada el 09/08/2026: el vuelo sale de Oporto el **30 de octubre** — **quedan ~82 días**.
 Los hitos de julio ya vencieron y siguen pendientes: van los primeros.*
 
 ```mermaid
@@ -198,7 +199,7 @@ atendido**, no cuánto antes hay que **llamar**. En verano, la cita es el recurs
 > La fiebre amarilla **solo** se pone en un Centro de Vacunación Internacional autorizado.
 > **Tu médico de cabecera no puede emitir la cartilla amarilla.**
 
-👉 **Estamos en agosto: pide la cita ESTA SEMANA.** Para la salida del 31 de octubre, «4–6 semanas
+👉 **Estamos en agosto: pide la cita ESTA SEMANA.** Para la salida del 30 de octubre, «4–6 semanas
 de antelación» significa ser atendidos **hacia el 19–26 de septiembre** — «u octubre» ya no vale.
 Fuente: https://www.sanidad.gob.es/areas/sanidadExterior/laSaludTambienViaja/centrosVacunacionInternacional/centrosvacu.htm
 

@@ -111,7 +111,8 @@ el viaje sigue; si se pierde la cabina, no.
 **Lo que viene con receta**
 
 - [ ] **Profilaxis de malaria** ✅ — la pauta **completa** más 3–4 días de margen. Si es Malarone
-      empieza en viaje *(~7–8 nov)*; si es mefloquina, **~19–26 de octubre**
+      empieza en viaje *(~6–7 nov: la zona arranca en el D8, Damaraland)*; si es mefloquina,
+      **~19–26 de octubre**
 - [ ] **Medicación propia** — la del viaje **+5 días**, en el **envase original** y con la receta ○
 - [ ] Antibiótico de amplio espectro **solo si tu médico lo receta para el viaje** ○ *(no se
       automedica: es para el caso de no llegar a un centro)*
@@ -223,8 +224,9 @@ Lo que sí sube al petate:
 - **Agua en garrafa, hielo y comida** — mapeado parada a parada en
   [`08`](08-comida-compras-y-regalos.md) ✅
 - **Leña** para las barbacoas de campamento ✅
-- **Tarjeta SIM de MTC** ◐ — paquete turista **«Leisure» N$349 (~€17)**, 14 días y 10,1 GB, justo la
-  duración del viaje; solo en la tienda del aeropuerto *(`07`)*
+- **Tarjeta SIM de MTC** ◐ — paquete turista **«Leisure» N$349 (~€17)**, 14 días y 10,1 GB
+  *(activada el 31, llega al 13 — el último día lo tapa un bono «Aweh» si hace falta)*; solo en la
+  tienda del aeropuerto *(`07`)*
 
 ## 🚫 Lo que NO se lleva
 

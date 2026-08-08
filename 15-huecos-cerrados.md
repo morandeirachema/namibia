@@ -8,7 +8,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 08/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026*
 
 > ### La regla de la casa
 > **Todas** las temperaturas que circulaban por webs de safaris fueron **refutadas 0–3**. Las de aquí
@@ -264,6 +264,7 @@ zonas; NO está en el JSON del build —que solo guarda totales y oct–nov— y
 mes a mes, ◐)*:
 
 - **Jorobada, costa, por meses (ene→dic): 0 · 0 · 6 · 8 · 8 · 22 · 25 · 42 · 34 · 28 · 27 · 5**
+  *(suma 205; los 5 registros restantes hasta los 210 de la zona van sin mes en GBIF)*
   → migración **jun–nov**, pico jul–sep, y noviembre todavía en temporada. El crucero del D6
   (5–6 nov) cae dentro.
 - **Heaviside y mular**: registros repartidos por todos los meses — sin estacionalidad que
@@ -336,14 +337,22 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   secundarias *(la web propia está en 403)* y **se contradicen**: puede ser un cambio de política o
   depender del canal de reserva. **No lo des por sentado en ningún sentido — pregunta por escrito, al
   reservar, si hay retención en tarjeta y de cuánto.** Aceptan todas las tarjetas salvo Diners y Amex.
-- 🚤 La **opción de búsqueda y salvamento del IATI** *(el **crucero de Walvis Bay**
-  ~N$1.400–1.990 pp y el **4x4 a Sandwich Harbour** ~N$2.600–3.220 pp ya tienen rango de mercado 2026
-  ◐ en [`02`](02-presupuesto.md), §9 — cruzado entre operadores, pero con la ficha propia en `403`).
+- 🛟 La **opción de búsqueda y salvamento del IATI Estrella: ❌ sin cotizar** *(el Mochilero la
+  trae de serie; pedirla por escrito está en el README, punto 6)*.
+- 🚌 El **traslado A Coruña ↔ Oporto**, ida y vuelta: **❌ sin cotizar para las fechas** *(la
+  referencia ◐ es ~€17/persona y trayecto en bus directo — `02` §8)*.
+- 🛢️ La **capacidad real del depósito del Hilux de Namibia2Go**: **❌ sin confirmar** — y de ella
+  cuelga la aritmética del bucle Henties Bay → Kamanjab (~740 km, 81–96 l — `07`). Pregunta de
+  una línea al reservar.
+- 🚤 *(Cerrado a nivel de mercado ◐: el **crucero de Walvis Bay** ~N$1.400–1.990 pp y el **4x4 a
+  Sandwich Harbour** ~N$2.600–3.220 pp tienen rango 2026 en [`02`](02-presupuesto.md) §9 —
+  cruzado entre operadores, con la ficha propia en `403`.)*
 - 📱 ~~La **SIM de MTC**~~ **CERRADA ◐ (05/08)**: paquete turista **«Leisure» N$349 (~€17) / 14 días /
-  10,1 GB** *(justo la duración del viaje)* y **«Premium» N$659 (~€33) / 30 días / 20,1 GB**, solo en
-  la tienda MTC del aeropuerto. Cifras convergentes entre la web de MTC, su PDF de T&C y un blog
-  independiente, internamente coherentes; ◐ porque no se pudo abrir la página. Detalle en
-  [`07`](07-logistica.md), §Cobertura.
+  10,1 GB** y **«Premium» N$659 (~€33) / 30 días / 20,1 GB**, solo en la tienda MTC del aeropuerto.
+  *(Ojo al calendario: activada el 31 de octubre, los 14 días llegan al 13 — el día del vuelo de
+  vuelta puede quedar fuera; un bono «Aweh» lo tapa.)* Cifras convergentes entre la web de MTC, su
+  PDF de T&C y un blog independiente, internamente coherentes; ◐ porque no se pudo abrir la página.
+  Detalle en [`07`](07-logistica.md), §Cobertura.
 
 **Datos que siguen abiertos:**
 
@@ -360,15 +369,40 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   oficial de 2026** —MEFT `news/335` «Traffic deviation via Gemsbokvlakte road from Okaukuejo to
   Halali», con aviso paralelo de NWR— que fija un **desvío obligatorio del 2 jun 2026 al jul 2027**,
   así que en noviembre de 2026 estará activo con seguridad. La página oficial no se pudo **abrir**
-  (403); las fechas convergen en **cinco fuentes secundarias**, por eso queda en ◐. Lo que sigue
-  abierto: el **sobrecoste exacto en tiempo y km del desvío** —no lo publica nadie— y reconfirmar que
-  sigue en pie *(NWR Okaukuejo, +264 67 229 800)*.
+  (403); las fechas convergen en **cinco fuentes secundarias**, por eso queda en ◐. **El sobrecoste
+  en KM quedó medido el 09/08 con el enrutado OSRM propio: ~108 km por Gemsbokvlakte–Salvadora
+  frente a ~70 de la directa (+38)**. Lo que sigue abierto: el **sobrecoste en TIEMPO** —no lo
+  publica nadie: cuéntalo despacio— y reconfirmar que sigue en pie *(NWR Okaukuejo,
+  +264 67 229 800)*.
 - 🕐 **Los horarios de salida de los safaris guiados de NWR**: no los publican en ninguna parte.
 - 🌡️ ~~**Sin estación meteorológica**: Spreetshoogte, Terrace Bay y Hoada/Grootberg.~~ **CERRADOS
   DOS (04/08) con ERA5, validado a ±0,04 °C contra las celdas conocidas** *(ver arriba, §ERA5)*:
   **Spreetshoogte 31,5/17,1** y **Hoada 33,1/18,4** ◐. **Terrace Bay queda abierto a propósito**: su
   celda más cercana es océano (da 19,3 °C de aire marino, no tierra), así que la costa se sigue
   cubriendo con el proxy de estación real de Walvis Bay (25,0 ✅).
+
+**Los flecos menores, doc a doc** *(recogidos aquí el 09/08 para que esta lista sea de verdad el
+inventario; ninguno bloquea una reserva — son preguntas de la entrega del coche, de cada recepción
+o de un email)*:
+
+- 🧰 **De la entrega del coche** *(`18` §4–5, `05`, `01` §D0)*: si hay **hornillo de gas** ❌ *(no
+  consta en la ficha)* · **segunda batería o corte por voltaje** para la nevera ❌ · **con cuánto
+  tanque entregan** el coche ❌ · el **teléfono de emergencias 24 h de Namibia2Go** ❌ *(`06` §13)* ·
+  el **coste del conductor adicional** ❌ *(`02` §10)*.
+- 🏕️ **De cada recepción** *(`18`)*: **enchufe por parcela** campamento a campamento ❌ *(NWR lo
+  anuncia en los grandes ◐)* · **precio de la leña** ❌ · **potabilidad del grifo** camping a
+  camping ❌ · el **check-out del camping de Windhoek el D14** y si se puede volver por la tarde ❌
+  *(`01` §D14)* · los **horarios de desayuno/restaurante** de los campamentos NWR y de Joe's ❌
+  *(`01` §horarios)*.
+- 📡 **Cobertura móvil en la escarpa de Spreetshoogte y la D1275** (noches D1–D2): **sin dato** ❌
+  — trátala como silencio *(`07` §Cobertura)*.
+- 📷 **Tarifas 2026/27 de ProHire y Capture Namibia** *(alquiler de cámara en Windhoek)*: la
+  publicada caduca el 31 de octubre — pedir por escrito ❌ *(`19`)*.
+- 🎈 **El vuelo panorámico** *(Sossusvlei / Skeleton Coast)*: sin cotizar ❌ *(`11` §drones)*.
+- 🎫 **El tramo exacto de Cape Cross** *(¿N$150 o el baremo premium de N$280?)*: presupuestado
+  N$150+50 ◐ con la banda alta dentro del rango — mismo email del MEFT que la tabla fina de
+  tasas *(`11`)*. · **Okonjima Plains** y la **parcela de Waterberg**: cifras finas sin extraer
+  *(`11` §huecos)*.
 
 ---
 

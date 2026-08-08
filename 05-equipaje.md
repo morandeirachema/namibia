@@ -74,8 +74,8 @@ Cuatro de ellos se comprueban **contra una fecha**, y por eso van antes que nada
 tiene que valer hasta el **15/05/2027** y llevar **3 páginas en blanco de verdad** ✅; el **e-visa**
 no se puede pedir sin billete de vuelta, y solo lo emite `eservices.mhaiss.gov.na` ✅ (`04`); la
 **reserva impresa de Terrace Bay** es la que te deja entrar al parque a dormir ✅ (`11`); y el
-**permiso internacional de conducir** ⚠️ **sigue sin resolverse si es obligatorio** (`12`), aunque
-la ley namibia pide una versión en inglés del carné (`04`).
+**permiso internacional de conducir** — **resuelto ◐ (`04`): con carnet español SÍ hace falta**,
+porque la ley namibia pide el carné en inglés, y lo piden también el alquiler y el seguro.
 
 Y uno que no es papel de trámite sino de urgencia: la **póliza IATI impresa con la línea 24 h**,
 porque **los hospitales privados piden garantía por adelantado** ✅ (`07`). La cartilla de fiebre
@@ -84,8 +84,8 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 ## 🩺 Salud y botiquín
 
 - **Profilaxis de malaria** según lo que diga el CVI ✅ (`04`): si es Malarone, se empieza ya de
-  viaje (~7–8 nov); si es mefloquina, **~19–26 de octubre** — la receta sale de la cita de
-  septiembre
+  viaje (~6–7 nov — la zona arranca en el D8, Damaraland); si es mefloquina, **~19–26 de octubre**
+  — la receta sale de la cita de septiembre
 - **El sol es el riesgo diario real**, no la fauna ni la malaria: crema 50+, protector labial y
   sombrero se usan los quince días ○
 - **Sales de rehidratación oral** ○ — con 35–38 °C y aire seco, la deshidratación va por delante
@@ -140,7 +140,9 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 ## 🚫 Las trampas — lo que se queda en casa
 - ❌ Plumas, térmicos, gorro y guantes ◐ (`04`) — peso muerto
 - ❌ Maleta rígida grande ○ — no cabe bien
-- ❌ Saco de dormir, esterilla, hornillo, menaje ✅ — el coche lo trae TODO (README)
+- ❌ Saco de dormir, esterilla, menaje ✅ — el coche lo trae (README). *El hornillo, ojo: NO consta
+  en la ficha ❌ — va en el inventario por escrito a Namibia2Go (`18` §4); tampoco se compra aquí
+  sin esa respuesta*
 - ❌ Comida de casa en cantidad — el avituallamiento está resuelto y mapeado en `08`
 - ❌ **Dron** ✅ — la normativa **sí** está investigada y el resultado es que no hay dónde volarlo:
   el detalle, más arriba y con fuentes en [`11`](11-lista-google-maps.md)

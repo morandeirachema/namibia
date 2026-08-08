@@ -7,7 +7,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 09/08/2026*
 
 
 Lo **refutado** está al final — varias de esas afirmaciones circulan por toda la web y habrían
@@ -19,13 +19,14 @@ costado dinero real.
 ## 1. El precipicio de precio de noviembre — la palanca que decidió las fechas ✅
 
 **Cada compañía cambia de temporada en una fecha distinta, y eso vale cientos de euros.** Asco baja
-el **15 de noviembre**; **Namibia2Go baja el 1 de noviembre**. Con la ventana 1–14, elegir
-Namibia2Go metió **el alquiler entero en tarifa baja** — lo que con Asco habría sido temporada alta
-de principio a fin, unos **€850 más**.
+el **15 de noviembre**; **Namibia2Go baja el 1 de noviembre**. Con la ventana 31 oct – 14 nov, elegir
+Namibia2Go mete **casi todo el alquiler en tarifa baja** — solo el día de la recogida, el **31 de
+octubre, cae fuera** *(se pide por separado, `02` §2)* — frente a lo que con Asco habría sido
+temporada alta de principio a fin, unos **€850 más**.
 
 **NWR hace el mismo salto el 1 de noviembre**, así que las seis noches de campings oficiales
-(Sesriem ×2 y las cuatro de Etosha) también caen en el tramo barato. *(Aterrizáis el 1: ni una noche
-namibia en octubre.)*
+(Sesriem ×2 y las cuatro de Etosha) caen todas en el tramo barato — la primera es Sesriem, el 3.
+*(Se aterriza el 31 a las 09:25; esa noche —Windhoek— y las dos de Spreetshoogte no son NWR.)*
 
 > El detalle tarifa a tarifa está en [`03-alojamiento-y-tasas`](03-alojamiento-y-tasas.md) y el
 > cálculo cerrado, en [`02-presupuesto`](02-presupuesto.md).
@@ -88,8 +89,10 @@ Verificado en los contratos: **80 km/h en grava** —el legal es 100—, **60 de
 ## 5. Namibia2Go — mejores condiciones de seguro (confianza media)
 
 Incluye en la tarifa **franquicia cero**, cobertura de neumáticos y cristales, robo y colisión,
-y kilometraje ilimitado. Sin depósito. Lo corrobora una agencia independiente (madbookings.com),
-así que no es solo autopromoción.
+y kilometraje ilimitado. **«Sin depósito», dice su propia web y su FAQ** — ⚠️ pero dos fuentes de
+reventa *(madbookings y goArid)* citan una **retención de N$2.500 (~€125) de depósito de
+combustible**: las dos versiones se contradicen y **el conflicto sigue abierto — pregúntalo por
+escrito al reservar** *(el detalle, en `15` §lista maestra)*.
 
 Matices: la franquicia cero se aplica *"unless negligent driving is proven"* — un vuelco en
 pista considerado negligente podría generar responsabilidad igualmente. Quedan excluidos el
