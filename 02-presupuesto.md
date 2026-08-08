@@ -51,18 +51,18 @@ pie showData
     "Vuelo ida y vuelta x2" : 2900
     "Coche Namibia2Go Budget 15d" : 2025
     "Alojamiento 14 noches" : 570
-    "Combustible" : 400
+    "Combustible" : 445
     "Comida" : 280
     "Seguro IATI Estrella x2" : 226
     "Tasas de parque" : 217
     "Visado x2" : 160
     "Miscelaneos" : 150
-    "Actividades" : 76
+    "Actividades" : 288
 ```
 
-> **Vuelo y coche son el 70 % del viaje.** El vuelo está cerrado y del coche están cerrados los
+> **Vuelo y coche son el 68 % del viaje.** El vuelo está cerrado y del coche están cerrados los
 > 13 días cotizados *(los 2 extra del aeropuerto, ~€270 la pareja, van en ◐ hasta recotizar)*.
-> Todo lo demás junto (~€2.080 de la pareja) pesa menos que ellas dos.
+> Todo lo demás junto (~€2.345 de la pareja) pesa menos que ellas dos.
 
 ---
 
@@ -493,7 +493,9 @@ Precios **por persona**, verificados salvo aviso:
 - Sesriem, guiado de mañana / paseo — N$300–700 (~€15–35) ✅ (NWR)
 - Etosha, safari nocturno guiado — N$750 (~€38) ✅ (NWR)
 - **Walvis Bay — crucero en barco** (delfines y lobos marinos, ~3 h, del muelle a Pelican Point, con
-  refrigerio a bordo): **~N$1.400–1.990 (~€70–100) por persona** ◐. Catamaran Charters / Sailnamibia
+  refrigerio a bordo — **y en jun–nov, temporada de ballena jorobada**: GBIF de la costa da pico
+  jul–sep y 27 registros aún en noviembre ◐, ficha en la guía de fauna): **~N$1.400–1.990
+  (~€70–100) por persona** ◐. Catamaran Charters / Sailnamibia
   marcan la banda baja (~N$1.400); Mola Mola la alta, **N$1.990 (~€100)**, mínimo 2 personas, con
   recogida opcional de **+N$470 (~€24)**. *(Un agregador suelta un N$4.570 que contradice a todos los
   demás — descartado por atípico, seguramente charter privado o error de extracción.)*
@@ -512,10 +514,14 @@ Precios **por persona**, verificados salvo aviso:
 > `sandwichharbour-namibia.com`, `reddunesafarisnamibia.com/sandwich-harbour-4x4` y las fichas de
 > Viator `d4467-105190P1` (crucero), `-105190P2` (combo) y `-37950P1` (Sandwich Harbour).
 
-→ Partida flexible de **~N$1.520 (~€76) pareja / ~€38 por persona** con lo básico (lanzadera Deadvlei
-+ una actividad de NWR). **El día de mar en Walvis** es el capricho que más mueve esta partida: el
-crucero para dos ~**N$2.800–3.980 (~€140–199)**, o el combo con Sandwich Harbour ~**N$9.480 (~€474)**
-la pareja.
+→ **Partida DECIDIDA (08/08/2026): el safari de Etosha se hace GUIADO** — criterio del viajero:
+*«el safari es un 90 % un buen guía»*. La selección: **3 salidas de mañana** *(una por campamento:
+Okaukuejo, Halali, Namutoni — N$650 pp ✅)* + **el nocturno de Namutoni** *(N$750 pp ✅)* + la
+**lanzadera de Deadvlei** *(N$180 pp ✅)* = **N$5.760 (~€288) la pareja / ~€144 por persona**.
+Cada tarde guiada extra: **+N$1.300 (~€65) la pareja**. ⚠️ Horarios de salida ❌ no publicados y
+pre-reserva incierta en temporada de lluvias: **se cierra en recepción al llegar** *(`01`)*.
+**El día de mar en Walvis** sigue aparte como capricho: el crucero para dos
+~**N$2.800–3.980 (~€140–199)**, o el combo con Sandwich Harbour ~**N$9.480 (~€474)** la pareja.
 
 ### Misceláneos ○
 SIM/eSIM (~N$150–300, ~€8–15, ❌ no verificado), propinas, peajes/tasas menores, imprevistos →
@@ -548,33 +554,35 @@ flowchart LR
 - 🚙 Coche **~€1.012,50** *(los 13 días cotizados ✅ + los 2 del aeropuerto ◐: mitad de ~N$40.500 ·
   ~€2.025, la Budget)* — **~€1.162,50 si es la Comfort**
 - ⛺ Alojamiento **~€285** *(€159 verificado + ~€126 estimado)*
-- ⛽ Combustible **~€200** ○/◐
+- ⛽ Combustible **~€225** ○/◐
 - 🍖 Comida **~€140** ○
 - 🎫 Tasas de parque **~€109** ◐
 - 🩺 Seguro **€113,02** ✅
 - 🛂 Visado **€80** ✅
-- 🎯 Actividades **~€38** ○
+- 🎯 Actividades **~€144** ✅ *(tarifas NWR verificadas; selección decidida el 08/08, sin reservar)*
 - 🧷 Misceláneos **~€75** ○
 
-> ### **TOTAL POR PERSONA: ~€3.503 (~N$70.100)** *con la Budget, 15 días*
-> ### **TOTAL LA PAREJA: ~€7.005 (~N$140.100)**
-> Rango honesto: **€3.355–3.655 por persona** — el margen (±~€150) está en las 8 noches sin
+> ### **TOTAL POR PERSONA: ~€3.635 (~N$72.700)** *con la Budget, 15 días y el safari guiado*
+> ### **TOTAL LA PAREJA: ~€7.270 (~N$145.400)**
+> Rango honesto: **€3.485–3.785 por persona** — el margen (±~€150) está en las noches sin
 > precio, los 2 días de coche por recotizar, el combustible, la comida y los misceláneos.
 >
 > **Lo que todavía puede moverlo** *(ver §2, §7 y §8)*: **+€150 p.p.** si sale la **Comfort** en
 > vez de la Budget *(a 15 días)* · el **precio real del 31-oct** *(fuera de temporada baja ❌)* ·
 > **+el traslado a Oporto** ida y vuelta y **+el día extra de seguro**, los dos ❌ sin cotizar.
-> **Cuenta ~€3.650 por persona para no llevarte sorpresas.**
+> **Cuenta ~€3.800 por persona para no llevarte sorpresas.**
 
 **Qué parte de este número es sólida:**
-- **✅ Duro — €2.680 de los €3.503 (77 %)**: vuelo €1.450 · los 13 días cotizados del coche
+- **✅ Duro — €2.680 de los €3.635 (74 %)**: vuelo €1.450 · los 13 días cotizados del coche
   €877,50 · 6 noches NWR €159 · seguro €113 · visado €80.
+- **✅ Decidido con tarifa verificada — ~€144**: los safaris guiados de Etosha y la lanzadera
+  *(selección del 08/08; tarifa NWR real, reserva pendiente en recepción)*.
 - **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto está en fuente secundaria; el ministerio
   aún publica la tabla vieja. **Confírmalo por email.**
 - **◐ Corroborado o pendiente de recotizar — ~€244**: tasas de parque (~€109) y los 2 días de
   coche del aeropuerto (~€135).
-- **○ Estimado — ~€578/persona**: 8 noches sin precio (~€126), combustible (~€200), comida (~€140),
-  actividades (~€38), misceláneos (~€75).
+- **○ Estimado — ~€566/persona**: las noches sin precio (~€126), combustible (~€225), comida
+  (~€140), misceláneos (~€75).
 
 ### 👥 ¿Y si vais 3 o 4 en el mismo 4x4? — la economía de escala, calculada
 
@@ -583,29 +591,29 @@ El coche duerme y sienta a más de dos: **ficha verificada ✅ — 5 plazas y 2 
 por cabeza:
 
 - **Se reparte (fijo del grupo)**: coche 15 días **~N$40.500 (~€2.025)** la Budget ◐ *(~N$45.000 ·
-  ~€2.250 la Comfort)* + combustible **~€400 (~N$8.000)** + el vehículo en las tasas (7 × N$60 =
-  **N$420 · ~€21**) → **~€2.446 (~N$48.900)** entre los que vayáis
+  ~€2.250 la Comfort)* + combustible **~€445 (~N$8.900)** + el vehículo en las tasas (7 × N$60 =
+  **N$420 · ~€21**) → **~€2.491 (~N$49.800)** entre los que vayáis
 - **Va por cabeza**: vuelo €1.450 · alojamiento ~€285 *(el camping NWR se cobra POR PERSONA ✅:
   Sesriem N$670/pax, Etosha N$460/pax)* · comida ~€140 · tasas de persona 7 × N$280 = **N$1.960
-  (~€98)** · seguro ~€113 · visado €80 · actividades ~€38 · misceláneos ~€75 → **~€2.279 (~N$45.600)**
+  (~€98)** · seguro ~€113 · visado €80 · actividades guiadas ~€144 · misceláneos ~€75 → **~€2.385 (~N$47.700)**
 
 ```mermaid
 flowchart LR
     T["Total por persona segun cuantos vais<br/>EUR · camping"]
-    n0["2 personas<br/>3.503"]
-    n1["3 personas<br/>3.094"]
-    n2["4 personas<br/>2.891"]
+    n0["2 personas<br/>3.635"]
+    n1["3 personas<br/>3.215"]
+    n2["4 personas<br/>3.010"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
-- **2 personas** — **~€3.503 (~N$70.100)/persona** · grupo ~€7.005 (~N$140.100)
-- **3 personas** — **~€3.094 (~N$61.900)/persona** · grupo ~€9.283 (~N$185.700) → *ahorra
-  ~€408/persona (−12 %) respecto a ir dos*
-- **4 personas** — **~€2.891 (~N$57.800)/persona** · grupo ~€11.562 (~N$231.200) → *ahorra
-  ~€612/persona (−17 %)*
+- **2 personas** — **~€3.635 (~N$72.700)/persona** · grupo ~€7.270 (~N$145.400)
+- **3 personas** — **~€3.215 (~N$64.300)/persona** · grupo ~€9.646 (~N$192.900) → *ahorra
+  ~€420/persona (−12 %) respecto a ir dos*
+- **4 personas** — **~€3.010 (~N$60.200)/persona** · grupo ~€12.031 (~N$240.600) → *ahorra
+  ~€625/persona (−17 %)*
 
 > ⚠️ **Cuatro letras pequeñas antes de invitar a nadie:**
 > 1. **El vuelo (€1.450) está cotizado para 2 plazas** — para 3–4 la tarifa por asiento puede
@@ -623,12 +631,14 @@ flowchart LR
 
 ## 11. Qué parte de este número es sólida
 
-- **✅ Duro — €2.680 de los €3.503 (77 %)**: vuelo €1.450 · los 13 días cotizados del coche €877,50 ·
+- **✅ Duro — €2.680 de los €3.635 (74 %)**: vuelo €1.450 · los 13 días cotizados del coche €877,50 ·
   las 6 noches de NWR €159 · seguro €113 · visado €80. Todo con precio real para las fechas exactas.
+- **✅ Decidido con tarifa verificada — ~€144**: los safaris guiados de Etosha (3 mañanas + nocturno)
+  y la lanzadera de Deadvlei — tarifas NWR reales, selección del 08/08, reserva en recepción.
 - **◐ Corroborado o por recotizar — ~€244**: las tasas de parque (~€109; la gaceta localizada, el
   PDF primario del MEFT sin abrirse) y los 2 días de coche del aeropuerto (~€135, decididos el
   07/08 y pendientes de recotizar — el 31-oct fuera de temporada baja ❌).
-- **○ Estimado — ~€578**: seis noches de camping sin cotizar (más Hoada ◐), combustible, comida, actividades y
+- **○ Estimado — ~€566**: seis noches de camping sin cotizar (más Hoada ◐), combustible, comida y
   misceláneos. **Ese es el margen real: ±€150 por persona.**
 
 > **El inventario completo de lo que sigue abierto** —incluidos los importes que faltan y las

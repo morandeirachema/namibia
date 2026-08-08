@@ -165,6 +165,8 @@ MAMIFEROS = [
      '082 Yellow mongoose in Khomas Region Photo by Giles Laurent.jpg'),
     ('oricteropo', 'Oricteropo o cerdo hormiguero', 'Aardvark', 'Orycteropus afer',
      'Orycteropus afer 175359469.jpg'),
+    ('babuino-chacma', 'Babuino chacma', 'Chacma baboon', 'Papio ursinus',
+     'Chacma baboon (Papio ursinus griseipes) male head.jpg'),
 ]
 
 AVES = [
@@ -256,6 +258,8 @@ COSTA = [
      'Arctocephalus pusillus - SE Tasmania.jpg'),
     ('delfin-heaviside', 'Delfín de Heaviside', "Heaviside's dolphin", 'Cephalorhynchus heavisidii',
      'Dolphins at Lüderitz, Namibia (3144863196).jpg'),
+    ('ballena-jorobada', 'Ballena jorobada', 'Humpback whale', 'Megaptera novaeangliae',
+     '001 Humpback whale breaching in Ballena Marine National Park Photo by Giles Laurent.jpg'),
     ('daman', 'Damán roquero', 'Rock hyrax', 'Procavia capensis',
      'Rock hyrax Serengeti National Park.jpg'),
     ('ardilla-terrestre', 'Ardilla terrestre del Cabo', 'Cape ground squirrel', 'Xerus inauris',

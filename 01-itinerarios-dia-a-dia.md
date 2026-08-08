@@ -291,6 +291,10 @@ flowchart LR
   noviembre** ✅ *(SABAP1)*. Aquí sí los hay en cantidad — en Etosha, en cambio, **no**: la depresión está
   seca en noviembre *(ver `09`)*
 - 🦩 **Flamencos y pelícanos en la laguna** al amanecer y al atardecer — las mejores luces
+- 🐋 **Y el crucero cae en temporada de ballena jorobada** ◐ — los registros GBIF de esta costa
+  dan la migración **jun–nov** *(pico jul–sep con 42; noviembre aún 27; diciembre se desploma
+  a 5)*; los delfines —Heaviside y mular— son **residentes todo el año**. Ficha nueva en la
+  [guía de fauna](guia-fauna-etosha.pdf) *(añadida el 08/08)*
 - Día libre: paseo marítimo, ostras, el **crucero de delfines y lobos** *(~N$1.400–1.990, ~€70–100 pp
   ◐)* o la excursión guiada a **Sandwich Harbour** *(~N$2.600–3.220, ~€130–161 pp ◐)*
   *(🚫 con tu coche Sandwich Harbour está prohibida por contrato — el tour es la forma correcta y mejor;
@@ -371,10 +375,12 @@ flowchart LR
   271 km; la matriz de 2010 daba 265, convergen)*. **El ~315 queda refutado.** Cuenta ~340 para el
   depósito y la hora de puerta. Ver [`13`](13-itinerario.md), §3.
 - 🎫 Etosha ~N$620 (~€31)/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
+- 🎟️ **Nada más llegar, en recepción: cierra los guiados** — la salida de mañana de MAÑANA en
+  Okaukuejo y pregunta los horarios *(❌ no los publican; decidido 08/08 — ver §parques)*
 - 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros
 - 🐾 **La cifra real de la charca, de partes de viajeros** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/okaukuejo-camp/reviews/1),
   n=149 desde 2018 ◐)*: **rino negro 87 % (119 de 137), elefante 97 %, jirafa 99 %, león 68 %** —
-  andando desde la parcela *(método y las 83 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
+  andando desde la parcela *(método y las 85 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
 
 ### D10 · mar 10 — Safari Okaukuejo → Halali · **~90 km de safari lento** ✅
@@ -398,7 +404,11 @@ flowchart LR
   cuéntalo despacio.
 - ✅ **Y el desvío no es un castigo**: **Gemsbokvlakte–Sueda–Salvadora** es de los mejores tramos de
   borde de la depresión para **guepardo y león**
-- Charcas del camino · siesta en la piscina de Halali · charca de Halali al anochecer
+- 🧭 **Salida guiada de mañana desde Okaukuejo — N$650 (~€33)/persona** ✅ *(decidido 08/08;
+  horario, en recepción)* — y el **traslado a Halali con vuestro 4x4 a mediodía-tarde**, por el
+  desvío y sus charcas
+- Siesta en la piscina de Halali · charca de Halali al anochecer · y al llegar, **apunta la
+  salida guiada de mañana**
 - 🐾 **Partes de viajeros en Halali** *(Expert Africa, n=48 ◐)*: **león 75 %, rino negro 73 % y
   leopardo 31 % (12 de 39) — la mejor cifra de leopardo de los tres campamentos**: la charca al
   anochecer, sin prisa. Y el **chacal, fijo en el camping** ✅ *(`18` §7)*
@@ -408,7 +418,9 @@ flowchart LR
 - 🌡️ **Etosha 37,1 / 18,9 ✅** — la noche más cálida del viaje: casi 19 °C de mínima
 - ☀️ amanecer **06:08** · anochecer **19:05** — *el safari bueno es 06:10–09:00 y 16:30–19:00;
   al mediodía, piscina y siesta*
-- Charcas **Goas, Nuamses, Springbokfontein, Batia, Chudop** — el corazón del safari
+- 🧭 **Salida guiada de mañana desde Halali — N$650 (~€33)/persona** ✅ — y el traslado a
+  Namutoni por la tarde con vuestro coche, parando en **Goas, Nuamses, Springbokfontein, Batia y
+  Chudop** — el corazón del safari
 - **Se duerme DENTRO, como todo Etosha en esta ruta**: sin horas de puerta, con la charca al lado
 - 🐾 **Partes de viajeros en Namutoni** *(Expert Africa — ojo, muestra corta: n=16 ◐)*: jirafa,
   órix, ñu y cebra **100 %**, **guepardo 50 % (7 de 14) — la mejor cifra de guepardo, son sus
@@ -421,7 +433,9 @@ flowchart LR
 ### D12 · jue 12 — Etosha este · **~60–80 km de safari** ✅
 - 🌡️ **Etosha 37,1 / 18,9 ✅**
 - ☀️ amanecer **06:08** · anochecer **19:05**
-- **Fischer's Pan**, Chudop, Klein Namutoni — la esquina que casi nadie hace. *Ojo: Fischer's Pan
+- 🧭 **Guiado de mañana en Namutoni (N$650 · ~€33 pp ✅) y por la noche EL NOCTURNO (N$750 ·
+  ~€38 pp ✅)** — la única forma legal de estar en el parque a oscuras *(decidido 08/08)*
+- Por vuestra cuenta, la tarde: **Fischer's Pan**, Chudop, Klein Namutoni — la esquina que casi nadie hace. *Ojo: Fischer's Pan
   es el mejor sitio de aves acuáticas del parque **cuando hay agua**, y en noviembre está seco —
   lo que va bien es Chudop (león fiable) y el **Dik-dik Drive** de Klein Namutoni* ◐
 - 🛏️ **Namutoni, segunda noche — N$920 (~€46)** ✅
@@ -492,12 +506,14 @@ flowchart LR
   **N$6.360 (~€318)** ✅ — **las 4 noches de Etosha, dentro del parque**
   *(+ Terrace Bay, Spreetshoogte, Walvis, Hoada: sin verificar)*
 - **Tasas de parque**: Namib 2 + Skeleton 1 + Etosha 4 = 7 unidades × N$620 ≈ **N$4.340 (~€217)** ◐
+- **Safaris guiados de Etosha (decidido 08/08)**: 3 mañanas + nocturno = **N$5.400 (~€270)** ✅
+  *(tarifas NWR; + lanzadera Deadvlei N$360 · ~€18 — selección sin reservar: en recepción)*
 - **Combustible ~2.757 km** *(control OSRM 08/08)*: ~310–345 l ≈ **N$8.000–9.300 (~€400–465)** ○
 - **Visado**: N$3.200 (~€160) los dos ✅
 - **Total tierra en camping ≈ ~€3.880 (~N$77.600)** la pareja ○/◐, banda ~€3.580–4.180 — *los 13
   días del coche son cifra cerrada; los 2 del aeropuerto (~€270 ◐), por recotizar. Sumando vuelos
   (**€2.900**) y seguro IATI Estrella (€226,04):
-  **~€7.005 (~N$140.100) la pareja · ~€3.503 por persona** (ver `02`)*
+  **~€7.270 (~N$145.400) la pareja · ~€3.635 por persona** (ver `02`)*
 
 ### ⏰ Los horarios que mandan *(✅/◐ = con fuente en el dossier · ☀️ = cálculo astronómico ±5 min)*
 
@@ -536,17 +552,25 @@ flowchart LR
 
 ### 🦁 En los parques: ¿tu 4x4 o el vehículo del parque?
 
-**Regla general de esta ruta: tu 4x4 vale para TODO el safari diurno — lo guiado se compra solo
-donde añade algo que por libre es imposible o está prohibido.**
+**DECIDIDO (08/08/2026): en Etosha, el safari se hace GUIADO** — criterio del viajero: *«el
+safari es un 90 % un buen guía»*. El 4x4 queda para lo que solo él puede hacer: **los traslados
+entre campamentos** *(que son safari igualmente, a ritmo de charcas)*, la libertad del mediodía
+y todo lo de fuera de Etosha. *(La cuenta anterior —«de día no compensa»— queda registrada en
+[`16`](16-punto-de-decision.md) §7: la preferencia pesa más que la aritmética.)*
 
-- **Etosha → tu 4x4, self-drive** ✅. Las pistas principales son aptas para tu Hilux (60 km/h,
-  parando en cada charca); **no hace falta ningún vehículo del parque para el safari de día**, y
-  además tenéis **13 horas de puerta a puerta**. Lo que **sí** merece pagarse: el **safari nocturno
-  guiado de NWR (N$750 · ~€38/persona)** ✅ — de noche está **prohibido circular por libre**, así que
-  es literalmente la única forma de estar en el parque a oscuras. Buen plan: una noche en Okaukuejo
-  (D9). *(La charca iluminada del campamento es gratis y no necesita vehículo: andando desde tu
-  parcela.)* Tips ○: en las charcas apaga el motor y dale 15–20 min — la fauna llega por turnos;
-  los coches parados en racimo delatan un avistamiento; lleva los prismáticos EN el asiento.
+- **Etosha → GUIADO, decidido (08/08)**. El plan: **salida guiada de mañana en cada campamento**
+  *(Okaukuejo D10 · Halali D11 · Namutoni D12, N$650 ≈ €33/persona cada una ✅)* y **el nocturno
+  en Namutoni el D12** *(N$750 ≈ €38/persona ✅)*. Los **traslados Okaukuejo → Halali → Namutoni
+  siguen siendo con vuestro 4x4** —no hay alternativa: el coche viaja con vosotros— y se hacen
+  como safari lento de tarde, parando en las charcas. *(La charca iluminada de cada campamento es
+  gratis y andando desde la parcela.)* Tips ○ para los traslados: en las charcas apaga el motor y
+  dale 15–20 min — la fauna llega por turnos; los coches parados en racimo delatan un
+  avistamiento; lleva los prismáticos EN el asiento.
+- 💶 **La cuenta del paquete guiado**: 3 mañanas × 2 pax × N$650 + nocturno × 2 = **N$5.400
+  (~€270) la pareja** ✅ *(tarifas NWR verificadas; cada tarde guiada extra: +N$1.300 · ~€65 la
+  pareja)*. ⚠️ **Los horarios de salida no se publican** ❌ y NWR avisa de que **puede no aceptar
+  reserva anticipada de actividades en temporada de lluvias**: se cierran **en recepción, el día
+  que llegas a cada campamento** — y la de Okaukuejo, nada más cruzar Andersson el D9.
 
 #### 🎟️ Las excursiones que se pueden contratar
 
@@ -554,9 +578,10 @@ Los **tres campamentos donde dormís venden lo mismo** ✅ *(fichas de NWR, 03/0
 **mañana N$650**, de **tarde N$650** y **nocturno N$750** *(≈ €33 · €33 · €38)*, por persona. ❌ **Los horarios de salida
 no los publican en ninguna parte**: pregúntalos en recepción al llegar.
 
-**De día no compensa** en vuestro caso: ya tenéis 4x4, trece horas de puerta a puerta y libertad para
-quedaros en una charca el rato que queráis. Lo que compra el guiado son los ojos del guía y un
-vehículo alto — legítimo, pero no cambia el viaje.
+**Lo que compra el guiado** —los ojos del guía, la radio entre vehículos y un coche alto— **es
+exactamente lo que el viajero valora**: decidido el 08/08. La aritmética antigua *(«ya tenéis 4x4
+y trece horas de puerta»)* queda en `16` §7 por si algún día se revisa; los traslados y el
+mediodía siguen siendo vuestros.
 
 **El nocturno sí**, porque de noche está **prohibido circular por libre**: es la única forma de estar
 en el parque a oscuras y ver oricteropo, puercoespín, liebre saltadora o leones cazando. **N$1.500
@@ -570,7 +595,8 @@ en el parque a oscuras y ver oricteropo, puercoespín, liebre saltadora o leones
 >
 > ⚠️ Pregunta al reservar si **se puede dejar cerrado desde España**: la tarifa de NWR avisa de que
 > no acepta reservas anticipadas de actividades en temporada de lluvias. 📞 +264 67 229 800.
-> 💶 Y ojo: el nocturno **se come entero** el margen de actividades del presupuesto (~€38 p.p.).
+> 💶 El paquete guiado completo —3 mañanas + nocturno + lanzadera de Deadvlei— suma **~€144 por
+> persona** y ya está metido en el presupuesto *(ver [`02`](02-presupuesto.md) §9)*.
 
 **Fuera de Etosha**, ya en el dossier: la **lanzadera de Deadvlei N$180** ✅, el safari guiado de
 mañana de Sesriem N$600–700 (~€30–35), Elim Dune N$300 (~€15) y el cañón N$200 (~€10) *(ver [`03`](03-alojamiento-y-tasas.md))*.

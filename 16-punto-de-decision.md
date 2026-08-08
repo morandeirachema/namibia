@@ -208,6 +208,16 @@ Spreetshoogte, las dos en la misma banda estimada ○). El blog de referencia ha
 esas 2 noches. Las descartadas quedan aquí por si se replantea: la de partir el D8 es la mejor
 en seguridad pura, pero cuesta el colchón de llegada y un camping nuevo sin verificar.
 
+**Y del mismo día (08/08), la segunda decisión: el safari de Etosha, GUIADO.** El análisis del
+dossier decía que de día el guiado «no cambia el viaje» —ya hay 4x4 y trece horas de puerta—; el
+viajero lo decidió al revés y con criterio explícito: *«el safari es un 90 % un buen guía»*.
+Queda así: **tres salidas de mañana** (una por campamento, N$650 pp ✅) más **el nocturno de
+Namutoni** (N$750 pp ✅) — **N$5.400 (~€270) la pareja, +~€135 p.p.** sobre el plan anterior, que
+solo compraba el nocturno. Los traslados entre campamentos siguen siendo con el 4x4 *(el coche
+viaja con vosotros: no hay alternativa)* y el análisis antiguo queda registrado por si se revisa.
+⚠️ La reserva de las salidas se cierra **en recepción al llegar**: horarios ❌ no publicados y
+pre-reserva incierta en temporada de lluvias.
+
 ---
 
 *Esta ficha ya no pide nada: la decisión está tomada. Se queda como registro de qué se comparó y por

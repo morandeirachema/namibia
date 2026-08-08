@@ -52,8 +52,10 @@ flowchart LR
 > **14 camino del embarque** *(decisión del viajero, 07/08/2026)*: **ni hoteles en Windhoek ni
 > traslados** — esas noches también se duerme arriba. Y el **08/08**, la auditoría del calendario:
 > la ruta cabe exacta, **la noche del domingo 1 pasa a 2ª de Spreetshoogte** y los dos días punta
-> llevan plan horario *(la facturación de la vuelta cierra a las **19:45**)*. Lo que se comparó
-> antes queda archivado en [`16`](16-punto-de-decision.md).
+> llevan plan horario *(la facturación de la vuelta cierra a las **19:45**)*. Y los **safaris de
+> Etosha, GUIADOS** *(08/08: tres mañanas + el nocturno, ~N$5.400 · ~€270 la pareja — «el safari
+> es un 90 % un buen guía»)*. Lo que se comparó antes queda archivado en
+> [`16`](16-punto-de-decision.md).
 
 ### 🟡 Cotizado con precio real, pero sin cerrar
 
@@ -104,7 +106,7 @@ de Discover en la T2, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y �
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 101 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 102 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -301,9 +303,9 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 ## 💶 El presupuesto — por persona, partida a partida
 
-### ~€3.505 por persona · todo incluido
+### ~€3.635 por persona · todo incluido
 
-Rango honesto: **€3.355–3.655**. El **77 %** ya está cerrado.
+Rango honesto: **€3.485–3.785**. El **74 %** ya está cerrado.
 
 </div>
 
@@ -316,22 +318,24 @@ pie showData
     "Vuelo" : 1450
     "Coche 15 dias" : 1013
     "Alojamiento" : 285
-    "Combustible" : 200
+    "Combustible" : 225
     "Comida" : 140
     "Seguro" : 113
-    "Misc + actividades" : 113
+    "Misc + actividades" : 219
     "Tasas de parque" : 109
     "Visado" : 80
 ```
 
-*Vuelo y coche son el **70 %** del viaje. Todo lo demás junto son ~€1.040.*
+*Vuelo y coche son el **68 %** del viaje. Todo lo demás junto son ~€1.170.*
 
 - ✈️ Vuelo **€1.450** ✅ · 🚙 Coche **~€1.012,50** *(13 días cotizados ✅ + 2 estimados ◐)* ·
-  ⛺ Alojamiento **~€285** · ⛽ Combustible **~€200** · 🍖 Comida **~€140** · 🩺 Seguro **€113** ✅ ·
-  🎫 Tasas **~€109** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€113**
-- **El 77 % ya está cerrado** con precio real: vuelo, los 13 días cotizados del coche, seguro,
-  visado y las 6 noches de NWR. Lo demás (~€713) son los 2 días extra de coche ◐, las 6 noches de
-  camping sin precio (más Hoada ◐), el combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
+  ⛺ Alojamiento **~€285** · ⛽ Combustible **~€225** · 🍖 Comida **~€140** · 🩺 Seguro **€113** ✅ ·
+  🎫 Tasas **~€109** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€219** *(los safaris
+  guiados de Etosha, decididos el 08/08, dentro)*
+- **El 74 % ya está cerrado** con precio real: vuelo, los 13 días cotizados del coche, seguro,
+  visado y las 6 noches de NWR. Lo demás (~€955) son los 2 días extra de coche ◐, las 6 noches de
+  camping sin precio (más Hoada ◐), los safaris guiados *(~€144, tarifa ✅ sin reservar)*, el
+  combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
 - ⚠️ **Lo que aún puede mover el número**: el precio real del **31 de octubre** del coche *(fuera de
   temporada baja ❌)*, el traslado a Oporto ida y vuelta y el día extra de seguro — **sin cotizar**.
 
