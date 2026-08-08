@@ -108,6 +108,10 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   Damaraland). **Decisión de compra/alquiler aún pendiente** (`04`)
 - **Prismáticos — uno POR PERSONA** ○ (compartir prismáticos en una charca es pelearse) — y van
   «EN el asiento, no en el maletero» (`01`)
+- **La cámara y el teleobjetivo tienen documento propio**: dos gamas con precio real de tienda y
+  la cuenta de comprar frente a alquilar —aquí o en Windhoek— en [`19`](19-fotografia.md). La
+  regla corta: **400 mm equivalentes como suelo** para la charca, y cuantos menos cambios de
+  objetivo, menos polvo en el sensor ○
 - Móvil: **Tracks4Africa** ✅ (`13` lo exige para verificar etapas) + mapas offline + los teléfonos
   de emergencia de `07` grabados **y en papel en la guantera** ✅
 - 🚁 **Dron: NO. Se queda en casa** ✅ — no es escrúpulo, es que **no hay dónde volarlo en esta

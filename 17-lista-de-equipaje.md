@@ -164,7 +164,8 @@ el viaje sigue; si se pierde la cabina, no.
 
 - [ ] **Prismáticos ×1 por persona** ○ — compartir unos en una charca es pelearse, y viajan **en el
       asiento, no en el maletero** ✅
-- [ ] Cámara ×1 + **teleobjetivo** ○ para la fauna
+- [ ] Cámara ×1 + **teleobjetivo** ○ para la fauna — qué comprar, o si alquilar en Windhoek,
+      está en [`19`](19-fotografia.md)
 - [ ] **Trípode ×1** ○ — la charca iluminada de noche y el cielo del desierto
 - [ ] **Tarjetas ×4** y **baterías ×3** ○ — allí es caro y está lejos
 - [ ] **Funda o bolsa antipolvo ×1** ○ · pera de aire ×1 · paños de limpieza ×3
