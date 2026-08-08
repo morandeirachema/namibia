@@ -252,7 +252,12 @@ siendo con el 4x4. El análisis descartado, en `16` §7.
 **Babuino chacma** *(56 registros GBIF en el Namib, 58 en Damaraland ✅ — cifras en el JSON
 versionado; el «mono» real de esta ruta)* y **ballena jorobada** *(210 en la costa, 55 en
 oct–nov ✅)*. La guía pasa de 83 a **85 fichas** y las imágenes de 120 a **122**, con licencia y
-autor verificados.
+autor verificados. **Ampliación de la misma tarde (08/08): +6 fichas por barrido de ausencias
+contra GBIF** — mangosta rayada *(400 registros en Etosha ✅ — el gran ausente)*, gaviota de
+Hartlaub *(6.334 en la costa ✅)* y avoceta *(3.944 ✅)*, más el trío del nocturno guiado: zorro
+del Cabo *(31/10)*, gato montés africano *(39/8)* y lobo de tierra *(10/1 — el caso «liebre
+saltadora»: nocturno infrarregistrado, documentado en la propia guía)*. **Quedan fuera con
+datos**: duiker *(16/5)* y liebre del Cabo *(3/1)*. Total: **91 fichas / 128 imágenes**.
 
 **El archivo de la consulta puntual del 08/08/2026** *(API de GBIF sobre los polígonos de las
 zonas; NO está en el JSON del build —que solo guarda totales y oct–nov— y por eso se deja aquí

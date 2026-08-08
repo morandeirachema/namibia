@@ -142,7 +142,7 @@ RESUMEN = {
     "06": "El vuelco, el contrato, las presiones, la arena y las puertas de Sesriem.",
     "07": "Gasolineras, dinero, cobertura y emergencias.",
     "08": "El súper parada a parada, la ley del alcohol, dónde comer y la aduana.",
-    "09": "Cómo funciona el safari en seco, y la guía de campo de 85 especies.",
+    "09": "Cómo funciona el safari en seco, y la guía de campo de 91 especies.",
     "10": "Los Lone Stone Men, la cascada del Uniab, los círculos de hadas.",
     "11": "Lo que cuesta entrar en cada sitio de la ruta, los permisos y la norma de drones.",
     "12": "Lo que superó la verificación a tres votos, y lo que quedó refutado.",
@@ -391,7 +391,7 @@ def indice(paginas):
     extra = []
     for clave, nombre in [("mapas", "Los mapas: la ruta y las charcas de Etosha"),
                           ("presentacion", "El viaje de un vistazo"),
-                          ("fauna", "La guía de campo va aparte — 85 especies con foto"),
+                          ("fauna", "La guía de campo va aparte — 91 especies con foto"),
                           ("creditos", "Créditos de las fotografías")]:
         p = paginas.get(clave, "")
         extra.append(f'<li><span class="n"></span><span class="t">{nombre}</span>'

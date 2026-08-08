@@ -1,5 +1,5 @@
 # Cuantos quedan. Solo las especies con una cifra publicada que se pueda citar: ocho de
-# ochenta y cinco. Para el resto de Etosha NO hay censo publico reciente por especie, y
+# noventa y una. Para el resto de Etosha NO hay censo publico reciente por especie, y
 # las cifras redondas que repiten las webs de safaris ("20.000 cebras, 7.000 nus") no
 # citan censo ninguno: no entran aqui. Investigado el 07/08/2026.
 

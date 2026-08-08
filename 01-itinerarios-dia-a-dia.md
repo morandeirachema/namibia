@@ -384,7 +384,7 @@ flowchart LR
 - 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros
 - 🐾 **La cifra real de la charca, de partes de viajeros** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/okaukuejo-camp/reviews/1),
   149 viajeros desde 2018 — cada % lleva su propia muestra ◐)*: **rino negro 87 % (119 de 137), elefante 97 %, jirafa 99 %, león 68 %** —
-  andando desde la parcela *(método y las 85 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
+  andando desde la parcela *(método y las 91 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
 
 ### D10 · mar 10 — Safari Okaukuejo → Halali · **~90 km de safari lento** ✅
