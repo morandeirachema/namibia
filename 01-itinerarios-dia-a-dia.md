@@ -30,7 +30,7 @@
 
 </div>
 
-**~2.600 km · 15 días de coche, aeropuerto → aeropuerto (31 oct – 14 nov, decidido 07/08) ·
+**~2.757 km · 15 días de coche, aeropuerto → aeropuerto (31 oct – 14 nov, decidido 07/08) ·
 ningún día por encima de ~390 km · dos noches en la escarpa de Spreetshoogte (decidido 08/08),
 dos en Sesriem, dos en la costa y CUATRO en Etosha ·
 llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
@@ -183,7 +183,9 @@ flowchart LR
   de comer y **SuperSpar + TOPS anexo** — cerveza y vino incluidos: **mañana es domingo y el
   alcohol para llevar cierra por ley** ✅. Aquí también la **carga grande de efectivo
   (~N$6.000–8.000 · ~€300–400)**, en cajero pegado a sucursal *(`07`)*. La lista entera, para
-  tachar, en [`08`](08-comida-compras-y-regalos.md)
+  tachar, en [`08`](08-comida-compras-y-regalos.md). **⛽ Y depósito lleno al salir de la
+  ciudad**: por Spreetshoogte no hay NADA hasta Solitaire *(`08`)* — *pregunta al recoger con
+  cuánto tanque entrega Namibia2Go el coche* ❌
 - 🏕️ **~17:00 · al camping y primera montada de la tienda con luz y sin público** — ☀️ anochecer
   ~**19:04** *(jet lag: +1 h respecto a la península — ninguno)*. **Las ~2 h hasta el anochecer son
   el colchón del día**: cualquier retraso de inmigración, briefing o compra sale de ahí
@@ -192,6 +194,8 @@ flowchart LR
   noche de avión — **rompe la regla de las 18:00 el primer día** *(`06`)*. **Al paso se sale
   mañana por la mañana, descansados — decidido (08/08)**
 - 🌡️ **Windhoek 31,2 / 16,3** ✅
+- 🐾 **Alrededor del camping: nada que esperar — es ciudad** ○. La fauna empieza mañana en la
+  escarpa *(desde hoy, cada noche lleva esta línea: qué puede rondar donde duermes, con su fuente)*
 - 🍺 **Cena: braai de estreno en el camping — o Joe's Beerhouse si el cuerpo no está para
   cocinar** *(reservar; la mesa de despedida vuelve el D13)*
 - 🛏️ **Windhoek, arriba desde la primera noche — y única noche de ciudad a la ida** — candidatos
@@ -214,7 +218,16 @@ flowchart LR
   el plan del día: en posición hacia las 18:40*
 - B1 a Rehoboth (87 asfalto) → C24 → D1261 → **D1275: el paso**. ⚠️ **Muy empinado**, tramos de
   hormigón para tracción, prohibido a caravanas — se baja despacio y es espectacular
+- 💧🪵💶 **La carga de escarpa se hizo AYER**: agua **≥5–6 garrafas de 5 L** *(4 L/persona/día,
+  `06` — y el D2 es un día entero al sol)*, **leña para DOS braais** y **efectivo**: en
+  Spreetshoogte **no consta tienda, restaurante ni datáfono** ❌ *(~N$480–1.200 · ~€24–60 los dos
+  por las dos noches, según la banda de `15`)*. Sin cajero fiable hasta Swakopmund (D6): **no
+  bajar de N$4.000 (~€200)** *(`07`)*
 - 🌇 **Atardecer desde el mirador del paso**: el Namib a 1.000 m bajo tus pies
+- 🐾 **Alrededor del campamento: sin parte de avistamientos — es granja privada en la escarpa** ❌.
+  Ni Expert Africa publica partes aquí ni el polígono GBIF del Namib llega tan al norte:
+  **pregúntale al dueño qué baja al anochecer**. Lo único afirmable: el chacal se oye en casi
+  cualquier campamento del país ○
 - 🛏️ **Spreetshoogte Campsite, primera de DOS noches** ⚠️ *precio sin verificar (el blog citaba
   150–300 ZAR/persona, vigencia desconocida; ojo a la trampa de nombre — ver `15`)*
 
@@ -238,6 +251,10 @@ flowchart LR
 - Bajada del paso → C14 → 🥧 **Solitaire** (tarta + depósito lleno) → D826/C19 a Sesriem
 - Tarde: **Sesriem Canyon** y atardecer en **Elim Dune** *(o el guiado de NWR, N$300 ≈ €15/persona)*
 - 🎫 Namib-Naukluft ~N$620/24 h
+- 🐾 **Alrededor del camping** — el fijo: **chacal de lomo negro al anochecer, a por las sobras** ○
+  *(comida y basura cerradas: protocolo en `18` §7)*. En el llano, GBIF de oct–nov da **órix y
+  avestruz frecuentes y springbok presente** ◐ *(zona del Namib: 168, 389 y 41 registros oct–nov;
+  método y umbrales, en la [guía de fauna](guia-fauna-etosha.pdf))*
 - 🛏️ **🔑 DENTRO de la puerta: Sesriem Campsite — N$1.340 (~€67)** ✅ *(44 parcelas: reservar YA)*
 
 ### D4 · mié 4 — Sossusvlei y Deadvlei · **130 km · día completo** ✅
@@ -260,6 +277,9 @@ flowchart LR
 - ☀️ amanecer **06:15** · anochecer **19:17** (Walvis Bay)
 - C14 por los pasos de **Gaub y Kuiseb** + Trópico de Capricornio
 - ⛽ **Solitaire otra vez, sí o sí** — después, **210 km sin nada**
+- 🐾 **Alrededor del camping: la laguna ES la fauna** — flamenco común y enano **a millares en
+  oct–nov** *(GBIF costa: ~2.500 registros oct–nov entre las dos especies ◐)* y **pelícanos**
+  *(977 ◐)*; el pico jun–nov, con fuente, en el D6. En tierra, nada que esperar: es ciudad ○
 - 🛏️ **Walvis Bay — también en tienda.** El único sitio con camping que aparece listado en la
   ciudad es **Lagoon Chalets**, que es además el que usó el blog de referencia ◐. **Precio ❌: no
   lo publica.** *(Si no cuadra, Swakopmund a 30 km tiene más oferta de camping.)*
@@ -302,6 +322,11 @@ flowchart LR
   Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping.** Suelo publicado
   (doméstico/SADC, temporada baja): **N$1.440–1.920/persona DBB (~€72–96)**; como extranjeros en
   noviembre, **más** ◐ — la noche más cara de la ruta *(tarifa internacional nov 2026 aún ❌; ver `15`)*
+- 🐾 **Alrededor del resort** — el **chacal de lomo negro es el fijo de la costa** *(GBIF costa:
+  271 registros, 57 en oct–nov ◐)* y la **hiena parda la patrulla pero es escasa** *(17 registros,
+  4 en oct–nov ◐)*: huellas al amanecer, más probables que el bicho. **Springbok, órix y hasta
+  hiena parda en el delta del Uniab**, que se cruza dos veces ◐ *(`10`)*. ¿León del desierto en la
+  playa? **1 registro en la zona: por debajo del umbral — no se afirma nada**
 - 💰 **Precio cerrado (03/08) ✅:** el PDF oficial de tarifas de NWR 2026/2027 da para Terrace Bay
   **habitación doble en media pensión a N$1.740/persona → N$3.480 (~€174) los dos**, en tu ventana.
   **No hay camping**: la ficha web listaba una fila de «Campsite» que **no existe en el tarifario**
@@ -325,6 +350,10 @@ flowchart LR
 - ⚠️ **Damaraland: los bajos son el punto delicado del seguro** — la referencia de Asco los
   excluía aquí, y **cómo los trata el Premium Cover de tu Namibia2Go Budget sigue SIN confirmar:
   pregúntalo por escrito al reservar**. Despacio en las piedras.
+- 🐾 **Alrededor del campamento** — Damaraland en GBIF oct–nov: **el elefante del desierto pasa
+  por la zona** *(139 registros, 27 en oct–nov ◐)* — cruzárselo es suerte, no plan *(y si pasa,
+  protocolo del `18`)*; **damán en el granito** *(62/13 ◐)* y **springbok** *(50/23 ◐)*. Lo demás
+  queda por debajo de la muestra mínima: no se afirma
 - 🛏️ **Hoada Campsite** (zona Grootberg) — el blog lo llama su campamento más bonito del viaje:
   rocas de granito, duchas entre peñas, cielo estrellado. **N$271–366/persona según temporada
   (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `15`)*
@@ -343,6 +372,9 @@ flowchart LR
   depósito y la hora de puerta. Ver [`13`](13-itinerario.md), §3.
 - 🎫 Etosha ~N$620 (~€31)/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
 - 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros
+- 🐾 **La cifra real de la charca, de partes de viajeros** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/okaukuejo-camp/reviews/1),
+  n=149 desde 2018 ◐)*: **rino negro 87 % (119 de 137), elefante 97 %, jirafa 99 %, león 68 %** —
+  andando desde la parcela *(método y las 83 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
 
 ### D10 · mar 10 — Safari Okaukuejo → Halali · **~90 km de safari lento** ✅
@@ -367,6 +399,9 @@ flowchart LR
 - ✅ **Y el desvío no es un castigo**: **Gemsbokvlakte–Sueda–Salvadora** es de los mejores tramos de
   borde de la depresión para **guepardo y león**
 - Charcas del camino · siesta en la piscina de Halali · charca de Halali al anochecer
+- 🐾 **Partes de viajeros en Halali** *(Expert Africa, n=48 ◐)*: **león 75 %, rino negro 73 % y
+  leopardo 31 % (12 de 39) — la mejor cifra de leopardo de los tres campamentos**: la charca al
+  anochecer, sin prisa. Y el **chacal, fijo en el camping** ✅ *(`18` §7)*
 - 🛏️ **Camping Halali — N$920 (~€46)** ✅
 
 ### D11 · mié 11 — Safari Halali → Namutoni · **~80 km de safari** ✅
@@ -375,6 +410,10 @@ flowchart LR
   al mediodía, piscina y siesta*
 - Charcas **Goas, Nuamses, Springbokfontein, Batia, Chudop** — el corazón del safari
 - **Se duerme DENTRO, como todo Etosha en esta ruta**: sin horas de puerta, con la charca al lado
+- 🐾 **Partes de viajeros en Namutoni** *(Expert Africa — ojo, muestra corta: n=16 ◐)*: jirafa,
+  órix, ñu y cebra **100 %**, **guepardo 50 % (7 de 14) — la mejor cifra de guepardo, son sus
+  llanuras del este**, león 64 %. La charca propia es la floja de las tres *(ya dicho abajo)*:
+  **Chudop, a un paso, compensa**
 - 🛏️ **Camping Namutoni — N$920 (~€46)** ✅ *(el fuerte alemán, y Chudop a un paso)*
 - *Capricho opcional: **Onguma** (tu pin, reserva privada justo al otro lado de la puerta de Von
   Lindequist) ⚠️ precio sin verificar; puede ser gama alta — a cambio pierdes estar dentro*
@@ -393,6 +432,7 @@ flowchart LR
   abre al amanecer: saliendo a las 06:10 llegas a Windhoek con la tarde entera*
 - Von Lindequist → Tsumeb → Otjiwarongo → B1 · salida al alba, comida en Otjiwarongo
 - 🥩 **Línea Roja**: la carne cruda no baja del norte — el braai se come en Etosha
+- 🐾 **Alrededor del camping: ciudad otra vez — la fauna se queda en la Línea Roja** ○
 - 🛏️ **Windhoek, arriba y CON coche** — la entrega ya no es hoy: **decidido (07/08)**, se
   devuelve mañana en el aeropuerto. Última noche de tienda: braai de despedida, o Joe's si el
   cuerpo pide mesa
@@ -420,9 +460,15 @@ flowchart LR
 - 🎁 **~10:00–13:00 · los regalos — decidido (07/08): con coche, sin traslados** — **Namibia Craft
   Centre, 40 Tal St** *(la parada única, [`08`](08-comida-compras-y-regalos.md))*: **sábados
   09:00–16:00** ✅ *([web oficial](https://www.namibiacraftcentre.com/))* — hazlo por la mañana y
-  deja la tarde limpia
-- 🍽️💱 **~13:00–16:30 · comida de despedida y última vuelta** — y **gasta o cambia los N$**:
-  fuera de Namibia no valen nada ✅ *(`07`)*
+  deja la tarde limpia. ⚠️ *Único día con el coche cargado aparcado en ciudad: nada a la vista,
+  aparca vigilado (cuidacoches ~N$10 · ~€0,50, `07`)* ○
+- 🍽️💱 **~13:00–16:30 · comida de despedida y última vuelta** — y **gasta los N$**: fuera de
+  Namibia no valen nada ✅. *Cambiarlos, difícil: los bancos abren sábados solo 09:00–11:00 ✅ y
+  el cambio del aeropuerto no publica horario ❌ — el plan es GASTAR, no cambiar (`07`)*
+- 🧹 **~16:30 · el coche, listo para entregar**: nevera vaciada y limpia, basura al contenedor
+  del camping, garrafas y leña sobrante fuera — y las maletas de facturar (1×23 kg por cabeza)
+  hechas desde la mañana ○. *El check-out del camping de Windhoek y si se puede volver por la
+  tarde: pregúntalo al llegar el D13* ❌
 - ⛽ **17:00 · salida hacia el aeropuerto** — ~45 km de B6 ○ y **depósito lleno a la ida**
   *(devolución con el tanque como se entregó ○)*
 - 🚙 **~17:45–18:00 · devolución del 4×4 EN el aeropuerto** ⚠️ *servicio por confirmar al
@@ -564,7 +610,7 @@ grava es justo el ingrediente del vuelco (ver `06`).
 escarpa de Spreetshoogte** *(la segunda, recuperada el 08/08 del domingo cerrado de Windhoek)*,
 **dos en Sesriem** para el amanecer de Deadvlei sin prisa, **dos en la costa** para descansar a
 mitad de viaje, y **cuatro dentro de Etosha**. El resultado son ~2.600 km, ningún día por encima
-de ~390 km, y el safari como clímax final.
+de ~390 km *(control OSRM: ~2.757)*, y el safari como clímax final.
 
 <div align="center">
 

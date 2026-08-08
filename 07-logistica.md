@@ -58,10 +58,10 @@ subida es justo esa presión al alza que ya se avisaba abajo, materializándose.
 interior, **como estimación, no como dato**. 👉 **Recomprueba la semana antes de salir.**
 
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: un Hilux
-doble cabina cargado en los **~2.600 km de la ruta** (banda 2.400–2.800), a **~11–13 l/100 km**,
-quema **~290–365 l** → banda **N$6.336–9.828 (~€317–491)**, central **~N$8.424 (~€421)** con el diésel
-a N$27/l de agosto *(era ~N$7.956 con el precio de julio)*. **Se presupuestan ~N$8.000–8.400
-(~€400–420)** — el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
+doble cabina cargado en los **~2.757 km de la ruta** (control OSRM 08/08; banda 2.600–2.900), a
+**~11–13 l/100 km**, quema **~305–360 l** → banda **N$7.930–10.440 (~€396–522)**, central
+**~N$8.932 (~€447)** con el diésel a N$27/l de agosto *(era menos con el precio de julio)*.
+**Se presupuestan ~N$8.500–9.000 (~€425–450)** — el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
 2.800–3.200 km de la ruta con el sur.)*
 
 Fuentes: [rebaja de julio](https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/) ·
@@ -229,6 +229,8 @@ barata pero con cobertura **notablemente peor** fuera de los pueblos.
 - **Casi toda Etosha** lejos de los campamentos
 
 **Sesriem, Solitaire y los campamentos de Etosha** tienen cobertura **irregular en el mejor caso**.
+**Y la escarpa de Spreetshoogte y la D1275 (noches D1–D2): SIN DATO de cobertura** ❌ — no aparece
+en ninguna fuente consultada; trátala como silencio hasta comprobarlo allí.
 
 > ### 👉 La consecuencia
 > Para una pareja sola, con las exclusiones del seguro en accidentes sin terceros, **un comunicador
@@ -421,7 +423,8 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
   tabla oficial de diferenciales del MME no respondía
 - **El surtidor de Terrace Bay**: existe físicamente ◐ pero NWR no lo publicita y se secó en 2025
   — **trátalo como que NO** y llena en Henties Bay (detalle estación a estación: `08`)
-- **Los km reales del eje de la costa y Damaraland** (D7–D9): solo estimaciones de `01`
+- ~~**Los km reales del eje de la costa y Damaraland** (D7–D9)~~ **cerrados ◐ (03–04/08)**:
+  D7 ~380 · D8 ~370 · D9 ~340 km, fuentes convergentes — ver `13` §3
 - ~~**Precios actuales de los bonos turistas de MTC**~~ **cerrados ◐ (05/08)**: paquete «Leisure»
   **N$349 ≈ €17/14 días/10,1 GB** y «Premium» **N$659 ≈ €33/30 días/20,1 GB**, convergentes entre la web de MTC,
   su PDF de T&C y un blog independiente (ver §Cobertura). El precio de la **eSIM** sigue sin cerrar

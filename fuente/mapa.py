@@ -317,8 +317,8 @@ TEXTO_ROTULO = {
     "okaukuejo": "Okaukuejo  D9",
     "halali": "Halali  D10",
     "namutoni": "Namutoni  D11·D12",
-    "spreetshoogte": "Spreetshoogte  D2",
-    "windhoek": "WINDHOEK  D1·D13",
+    "spreetshoogte": "Spreetshoogte  D1·D2",
+    "windhoek": "WINDHOEK  D0·D13",
     "ugabmund": "Ugabmund",
     "springbokwasser": "Springbokwasser",
     "andersson": "Andersson",
@@ -326,11 +326,11 @@ TEXTO_ROTULO = {
 }
 
 BLOQUES_LEYENDA = [
-    ("desierto",   "El desierto", "D2–D4"),
+    ("desierto",   "El desierto", "D1–D4"),
     ("costa",      "La costa", "D5–D7"),
     ("damaraland", "Damaraland", "D8"),
     ("etosha",     "Etosha", "D9–D12"),
-    ("vuelta",     "Ida y vuelta a Windhoek", "D1 · D13"),
+    ("vuelta",     "Ida y vuelta a Windhoek", "D0 · D13"),
 ]
 
 
@@ -413,7 +413,7 @@ def mapa_ruta(ancho=1000):
     ln = [f'<rect x="{lx - 12}" y="{ly - 26}" width="290" height="{34 + 21 * len(BLOQUES_LEYENDA)}" '
           f'rx="6" fill="{C["papel"]}" opacity=".93" stroke="{C["borde"]}" stroke-width=".8"/>',
           f'<text x="{lx}" y="{ly - 8}" font-size="12.5" font-weight="800" fill="{C["tinta"]}">'
-          f'~{total:.0f} km en 14 días</text>']
+          f'~{total:.0f} km en 15 días</text>']
     for i, (bloque, nombre, dias) in enumerate(BLOQUES_LEYENDA):
         y0 = ly + 14 + i * 21
         ln.append(f'<line x1="{lx}" y1="{y0}" x2="{lx + 26}" y2="{y0}" '

@@ -7,7 +7,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 08/08/2026*
 
 https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf
 *(descargado y leído directamente el 16/07/2026)*
@@ -196,4 +196,5 @@ La cifra de N$150 (~€7,5) de casi todas las webs es la tabla obsoleta de 2021 
   Swakopmund, Damaraland). NWR es el operador estatal; los lodges privados son otro mercado.
 - **Antelación de reserva** para nov–dic 2026, y si el acceso anticipado de Sesriem desde dentro
   de la puerta (amanecer en Deadvlei ~1 h antes que los visitantes de fuera) justifica su precio.
-- El **veredicto de fechas** y el **itinerario**, que son los que fijan el presupuesto final.
+- ~~El **veredicto de fechas** y el **itinerario**~~ — **cerrados el 06/08/2026** *(ruta del
+  norte y fechas del vuelo, ver `16`)*: el presupuesto ya se apoya en ellos.

@@ -24,7 +24,7 @@ cantan en una charca donde todo es ocre.</li>
 <li><strong>Manga larga y pantalón largo al anochecer</strong> ✅ — no es por elegancia:
 Etosha es zona de malaria y el anofeles pica de noche <em>(profilaxis y repelente, en el
 <code>04</code>)</em>.</li>
-<li><strong>Sombrero de ala ancha y gafas de sol</strong> ○, que se usan los catorce días.
+<li><strong>Sombrero de ala ancha y gafas de sol</strong> ○, que se usan los quince días.
 Y un <strong>buff</strong>: en la pista de gravilla el polvo entra por todas partes.</li>
 <li><strong>Calzado cerrado</strong> ○ fuera de la parcela. Las sandalias son para la
 ducha y para la silla, no para andar por el campamento al anochecer.</li>

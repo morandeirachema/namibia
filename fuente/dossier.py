@@ -338,7 +338,7 @@ def portada(total_paginas=None):
     <div class="datos">
       Un 4×4 con tienda de techo · <b>30 de octubre – 15 de noviembre</b><br>
       Desierto → costa → Damaraland → <b>cuatro noches dentro de Etosha</b><br>
-      ~2.728 km · <b>~€3.503 por persona</b>, todo incluido
+      ~2.757 km · <b>~€3.503 por persona</b>, todo incluido
     </div>
     <div class="pie"><span>{pie_izq}</span><span>{pie_der}</span></div>
   </div>
@@ -436,13 +436,13 @@ def paginas_de_mapas():
   <div class="mapa mapa-ruta">{mapa.mapa_ruta()}
     <figcaption>Trazado real de carretera, calculado con <b>OSRM</b> sobre OpenStreetMap a
     partir de las coordenadas de cada parada. Los contornos son de <b>Natural Earth</b>
-    (dominio público). La suma de las catorce etapas da <b>{miles(total)}</b>, que cuadra con
-    los ~2.600 km medidos aparte en <a href="#doc-13"><code>13</code></a>.</figcaption>
+    (dominio público). La suma de las quince etapas da <b>{miles(total)}</b>, que cuadra con
+    lo medido aparte en <a href="#doc-13"><code>13</code></a>.</figcaption>
   </div>
 </section>
 
 <section class="mapa-plena">
-  <h1 class="titulo">Las catorce etapas</h1>
+  <h1 class="titulo">Las quince etapas</h1>
   <ol class="etapas">
     <li class="cabecera"><span class="dia">Día</span><span class="fec">Fecha</span>
       <span class="etapa">Etapa</span><span class="km">Carretera</span>
@@ -450,7 +450,7 @@ def paginas_de_mapas():
     {"".join(filas)}
     <li class="total"><span class="dia"></span><span class="fec"></span>
       <span class="etapa">Total conducido</span><span class="km">{miles(total)}</span>
-      <span class="dor">14 noches — 13 en ruta</span></li>
+      <span class="dor">14 noches — 13 en tienda</span></li>
   </ol>
   <p class="nota-tabla">Los kilómetros de esta tabla son <b>de carretera, puerta a puerta</b>,
   medidos con OSRM sobre el trazado de OpenStreetMap el 4 de agosto de 2026. No incluyen los

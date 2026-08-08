@@ -2,7 +2,7 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> Distancias, firme y tiempos calculados a velocidad de seguro: la comprobación, etapa por etapa, de que la ruta elegida cabe de verdad en catorce días.
+> Distancias, firme y tiempos calculados a velocidad de seguro: la comprobación, etapa por etapa, de que la ruta elegida cabe de verdad en quince días (14 noches).
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco

@@ -87,7 +87,7 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   viaje (~7–8 nov); si es mefloquina, **~19–26 de octubre** — la receta sale de la cita de
   septiembre
 - **El sol es el riesgo diario real**, no la fauna ni la malaria: crema 50+, protector labial y
-  sombrero se usan los catorce días ○
+  sombrero se usan los quince días ○
 - **Sales de rehidratación oral** ○ — con 35–38 °C y aire seco, la deshidratación va por delante
   de la sed. Y la regla del agua ✅ (`06`/FCDO): **4+ L por persona y día EN el coche**
 - **Repelente con DEET** ○: Etosha es zona de malaria ✅ aunque tu ventana sea el mínimo estacional

@@ -28,7 +28,7 @@ flowchart LR
     N["Etapa NORTE<br/>Etosha D9-D12 + Damaraland D8"] --> R["Zona de riesgo<br/>de malaria"]
     S["Desierto y costa<br/>Sossusvlei · Walvis Bay"] --> NR["Sin riesgo"]
     W["Windhoek"] --> NR
-    R --> T["Tu ventana 1-14 nov va ANTES<br/>del arranque tipico de lluvias:<br/>riesgo en su minimo estacional"]
+    R --> T["Tu ventana 31 oct - 14 nov va ANTES<br/>del arranque tipico de lluvias:<br/>riesgo en su minimo estacional"]
     T --> P["Consultar profilaxis<br/>en la cita del CVI"]
     style R fill:#9d0208,color:#fff
     style NR fill:#2d6a4f,color:#fff
@@ -58,14 +58,14 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
-*Recalculada el 06/08/2026: el vuelo sale de Oporto el **30 de octubre** — **quedan ~85 días**.
+*Recalculada el 08/08/2026: el vuelo sale de Oporto el **30 de octubre** — **quedan ~83 días**.
 Los hitos de julio ya vencieron y siguen pendientes: van los primeros.*
 
 ```mermaid
 flowchart LR
 %% ancho
     J["VENCIDO<br/>era julio"] --> A["AHORA<br/>agosto"] --> S["Septiembre"]
-    S --> O1["Primera semana<br/>de octubre"] --> O2["~22 oct"] --> O3["~24 oct"]
+    S --> O1["Primera semana<br/>de octubre"] --> O2["~21 oct"] --> O3["~24 oct"]
     O3 --> F["30 oct<br/>VUELO"]
     style J fill:#9d0208,color:#fff
     style A fill:#e85d04,color:#000
@@ -78,12 +78,12 @@ flowchart LR
 - **AHORA · agosto** — pedir cita **ya** en el Centro de Vacunación Internacional: **la cita es el
   recurso escaso, no la vacuna**. Emitir el vuelo —el presupuesto de referencia se mueve— y mandar
   las preguntas por escrito a Namibia2Go e IATI.
-- **Septiembre** — acudir al CVI *(para el 31-10, atendidos hacia el 19–26 de septiembre)*; recetas
+- **Septiembre** — acudir al CVI *(para salir el 30-10, atendidos hacia el 19–26 de septiembre)*; recetas
   de profilaxis —la mefloquina empieza ~19–26 de octubre—; resolver el permiso internacional de
   conducir.
 - **Primera semana de octubre** — solicitar el e-visa: necesita billete y reservas. Adaptadores
   tipo M y mapa en papel.
-- **~22 de octubre** — último día para la fiebre amarilla **si** la ruta llegara a exigirla.
+- **~21 de octubre** — último día para la fiebre amarilla **si** la ruta llegara a exigirla.
 - **~24 de octubre** — imprimirlo **todo**, que Namibia funciona con papel; recomprobar el diésel y
   el self-drive a Deadvlei.
 
@@ -112,7 +112,8 @@ Fuente: https://www.airports.com.na/useful-information/e-visa-information/129/
 El vehículo, no el vuelo, es lo que se agota. Los doble cabina equipados con tienda de techo son una
 flota pequeña compartida por todo el mercado de Windhoek. **Tu coche ya está elegido y estaba
 cotizado a 05/08 — Namibia2Go: Budget N$35.100 (~€1.755) o Comfort N$39.000 (~€1.950) por 13
-días, las dos disponibles: resérvalo antes que nada**
+días, las dos disponibles: resérvalo antes que nada — y al reservar, ya con las fechas decididas
+el 07/08: 15 días, aeropuerto → aeropuerto (`02` §2)**
 (la Comfort ya salía «Not Available»). Y tu quincena compite con todo el que persigue la temporada
 baja de Namibia2Go, que arranca justo el 1 de noviembre.
 
@@ -209,7 +210,7 @@ certificado *«shall extend for the life of the person vaccinated, beginning 10 
 of vaccination»*.
 
 - Si tu ruta la exige, la vacuna debe ser **10 días completos antes de LLEGAR** a Namibia
-- Para la llegada real del **1 de noviembre** → **como muy tarde el ~22 de octubre** (y apurarlo
+- Para la llegada real del **31 de octubre** → **como muy tarde el ~21 de octubre** (y apurarlo
   así es una locura)
 - **Lo bueno:** es **vitalicia**, obliga a todos los estados del RSI desde el 11/07/2016, y **nadie
   puede exigirte un refuerzo jamás**. Una dosis te cubre todos los viajes futuros.

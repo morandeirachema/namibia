@@ -34,7 +34,7 @@
 
 ```mermaid
 flowchart LR
-    D["DECIDIDO<br/>ruta del norte, 14 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>vuelo 1.450 pp<br/>coche 35.100 N$<br/>seguro 113 EUR"]
+    D["DECIDIDO<br/>ruta del norte, 15 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>vuelo 1.450 pp<br/>coche 35.100 N$<br/>seguro 113 EUR"]
     C --> R["RESERVADO<br/>nada todavia"]
     R --> P["PAGADO<br/>nada todavia"]
     style D fill:#2d6a4f,color:#fff
@@ -44,14 +44,16 @@ flowchart LR
 ```
 
 > [!NOTE]
-> **Cerrado y no se rediscute.** La **ruta del norte, 14 días, con Etosha y sin el sur** — decisión
+> **Cerrado y no se rediscute.** La **ruta del norte, 15 días de suelo (14 noches), con Etosha y sin el sur** — decisión
 > del viajero, 06/08/2026. Las **fechas son las del vuelo de Lufthansa** —cotizado, todavía sin emitir—: 30 de octubre
 > a 14 de noviembre, llegada a Windhoek el **31 a las 09:25** y vuelta el **14 a las 20:45**, en casa el 15.
 > El sentido de la marcha, **desierto → costa → Damaraland → Etosha al final**. El coche,
 > **Namibia2Go, aeropuerto → aeropuerto** — se recoge el **31 al aterrizar** y se devuelve el
 > **14 camino del embarque** *(decisión del viajero, 07/08/2026)*: **ni hoteles en Windhoek ni
-> traslados** — esas noches también se duerme arriba. Lo que se comparó antes queda archivado
-> en [`16`](16-punto-de-decision.md).
+> traslados** — esas noches también se duerme arriba. Y el **08/08**, la auditoría del calendario:
+> la ruta cabe exacta, **la noche del domingo 1 pasa a 2ª de Spreetshoogte** y los dos días punta
+> llevan plan horario *(la facturación de la vuelta cierra a las **19:45**)*. Lo que se comparó
+> antes queda archivado en [`16`](16-punto-de-decision.md).
 
 ### 🟡 Cotizado con precio real, pero sin cerrar
 
@@ -80,8 +82,9 @@ flowchart LR
    **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
    **la cita es el recurso escaso, no la vacuna**.
 4. **Emitir el vuelo** — y con él ya se puede pedir el e-visa.
-5. **Reservar Sesriem ×2, Terrace Bay y las cuatro de Etosha.** Sin la de Terrace Bay **no se entra**
-   al Skeleton Coast a pernoctar.
+5. **Reservar Sesriem ×2, Terrace Bay y las cuatro de Etosha** — sin la de Terrace Bay **no se
+   entra** al Skeleton Coast a pernoctar. **Y localizar y reservar Spreetshoogte ×2**: sin tarifa
+   ni contacto aún ❌, y con tres homónimos en el mismo paso *(`15`)*.
 6. **Adelantar el seguro al 30/10** y pedir a IATI por escrito **evacuación aérea dentro del país**.
 
 <details>
@@ -92,15 +95,16 @@ la fianza de Namibia2Go *(ellos dicen «No Deposit», dos revendedores citan N$2
 escrito)* · la **entrega del coche en el aeropuerto** *(servicio y suplemento sin confirmar)* ·
 el sobrecoste en km del **desvío obligatorio Okaukuejo–Halali** · los horarios de salida
 de los safaris guiados de NWR · el precio del **31 de octubre** del coche *(fuera de temporada baja)*.
-*(El D0 ya tiene plan —coche, compra y camping— y la franquicia de equipaje quedó cerrada el 07/08:
-1×23 kg por persona si la tarifa es con maleta, ver [`02`](02-presupuesto.md) §8.)*
+*(El D0 ya tiene plan —coche, compra y camping—, la franquicia quedó cerrada el 07/08 —1×23 kg por
+persona— y el 08/08 quedaron medidos el calendario (15 días/14 noches exactos) y el D14: facturación
+de Discover en la T2, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 **El inventario completo, en [`15`](15-huecos-cerrados.md).**
 
 </details>
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 100 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 101 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -160,7 +164,7 @@ están decididas (07/08): 15 días, aeropuerto → aeropuerto, pendiente de reco
 - 💶 **Diferencia: N$3.900 (~€195) los dos — ~€97,50 por cabeza**
 
 Ya no decides por disponibilidad, sino por si esos ~€97 por cabeza te compran las **tiendas de
-carcasa rígida** *(montar en 1 minuto en vez de 5, y mejor con polvo y viento)* — son **11 noches
+carcasa rígida** *(montar en 1 minuto en vez de 5, y mejor con polvo y viento)* — son **13 noches
 de tienda**.
 
 <details>
@@ -174,8 +178,8 @@ automático, 4x4 permanente, **km ilimitados**, **Premium Insurance Cover** (fra
 **2 ruedas de repuesto** y nevera eléctrica.
 
 La diferencia real: la lona tarda ~5 minutos en montarse en vez de ~1, y aguanta algo peor el polvo
-y el viento. Son **~€18 por noche de tienda** de sobrecoste la Comfort. **Con la Budget ahorras €100
-por persona** — y sigues durmiendo arriba las 11 noches.
+y el viento. Son **~€15 por noche de tienda** de sobrecoste la Comfort. **Con la Budget ahorras ~€97
+por persona** — y sigues durmiendo arriba las 13 noches.
 
 > 🎥 Al ver el [vídeo del Hilux](https://www.youtube.com/watch?v=LPNZ-l8y3Pg): si las tiendas del
 > techo son de **lona plegada**, ése es exactamente tu coche.
@@ -216,7 +220,8 @@ por persona** — y sigues durmiendo arriba las 11 noches.
   está prohibida por contrato — y el tour es mejor plan)*. ✅
 - 🥧 **La tarta de manzana de Solitaire** — dos veces, porque la ruta pasa dos veces. Y las dos se
   reposta: después hay **210 km sin nada**. ✅
-- 🍺 **Joe's Beerhouse** en Windhoek, la primera y la última cena. N$200–400 (~€10–20). ✅
+- 🍺 **Joe's Beerhouse** en Windhoek — la opción de mesa del D0 y del D13, si el cuerpo no está
+  para braai. N$200–400 (~€10–20). ✅
 
 ---
 
@@ -325,8 +330,8 @@ pie showData
   ⛺ Alojamiento **~€285** · ⛽ Combustible **~€200** · 🍖 Comida **~€140** · 🩺 Seguro **€113** ✅ ·
   🎫 Tasas **~€109** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€113**
 - **El 77 % ya está cerrado** con precio real: vuelo, los 13 días cotizados del coche, seguro,
-  visado y las 6 noches de NWR. Lo demás (~€713) son los 2 días extra de coche ◐, las 8 noches sin
-  precio, el combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
+  visado y las 6 noches de NWR. Lo demás (~€713) son los 2 días extra de coche ◐, las 6 noches de
+  camping sin precio (más Hoada ◐), el combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
 - ⚠️ **Lo que aún puede mover el número**: el precio real del **31 de octubre** del coche *(fuera de
   temporada baja ❌)*, el traslado a Oporto ida y vuelta y el día extra de seguro — **sin cotizar**.
 

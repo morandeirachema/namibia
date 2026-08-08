@@ -166,8 +166,9 @@ flowchart LR
 ## 3. Alojamiento — 14 noches, 6 verificadas ◐/○
 
 **14 noches en tierra** *(del 31 de octubre al 13 de noviembre, con el coche del aeropuerto
-desde el primer día)*. De ellas, **6 son campings NWR con precio verificado**; las otras 8 —
-**todas campings desde la decisión del 07/08** — no tienen precio cerrado.
+desde el primer día)*. De ellas, **6 son campings NWR con precio verificado**; las otras 8 son
+**camping todas salvo la habitación de Terrace Bay (D7, cerrada ✅)** — de esas, **seis siguen
+sin precio y Hoada va en ◐**.
 
 **Verificado (NWR, ventana nov 2026 – jun 2027, 2 pax):**
 - **Sesriem × 2** *(dentro de la puerta — imprescindible para Deadvlei al amanecer)* — **N$1.340
@@ -178,7 +179,7 @@ desde el primer día)*. De ellas, **6 son campings NWR con precio verificado**; 
 → Suma verificada: 2×N$1.340 + 4×N$920 = **N$6.360 (~€318) para la pareja / ~€159 por persona** ✅
 *(coincide con `01-itinerarios-dia-a-dia.md` §resumen).*
 
-**Parcialmente cerrado / sin verificar ○/◐ (7 noches):**
+**Parcialmente cerrado / sin verificar ○/◐ (8 noches):**
 - D0 Windhoek, D1–D2 Spreetshoogte ×2 *(la segunda noche, decidida el 08/08 — sale del domingo de
   Windhoek, así que el recuento no cambia)*, D5–D6 Walvis Bay ×2 → campings/alojamientos privados,
   **precio no cerrado** (WebFetch bloqueado; ver `15`). Estimación de práctica común: **~€25–45/noche
@@ -229,7 +230,8 @@ flowchart LR
 
 **No se copia el consumo de nadie: se calcula.** Tres factores, cada uno con su banda:
 
-- **Distancia (la ruta)**: **~2.600 km** (○, sumando las etapas del `gantt` de `01`: Windhoek–
+- **Distancia (la ruta)**: **~2.757 km** (◐, control OSRM del 08/08 sobre el trazado real —
+  la suma del `gantt` de `01` daba ~2.600: Windhoek–
   Spreetshoogte, bajada a Sesriem, Sesriem–Walvis, costa hasta Terrace Bay, Damaraland, subida a
   Etosha, safaris internos y vuelta a Windhoek; ningún día por encima de ~390 km).
 - **Consumo** del Hilux doble cabina cargado con tienda de techo: **11–13 l/100 km** (○, práctica
@@ -242,9 +244,9 @@ flowchart LR
   ⚠️ **El precio se revisa cada mes**: entre agosto y la salida de noviembre habrá **~3 revisiones más**,
   así que esto sigue siendo estimación — reconfírmalo la semana antes de salir.
 
-- **Cálculo central**: 2.600 km × 0,12 l/km × N$27/l = **~N$8.424 (~€421)** para la pareja.
-- **Banda**: **N$6.336–9.828 (~€317–491)** *(la banda ya cubría precios de hasta ~N$29/l, así que solo
-  se movió el central; la subida de agosto no la desborda)*.
+- **Cálculo central**: 2.757 km × 0,12 l/km × N$27/l = **~N$8.932 (~€447)** para la pareja.
+- **Banda**: **N$7.930–10.440 (~€396–522)** *(2.757 km × 11–13 l/100 km × N$26–29/l — recalculada
+  el 08/08 con el control OSRM; la subida de agosto no la desborda)*.
 
 > **Se presupuesta ~N$8.000–8.400 (~€400–420) pareja / ~€200–210 por persona** *(el central subió al
 > extremo alto de la banda tras la revisión de agosto)*. Fuentes del precio:
@@ -626,7 +628,7 @@ flowchart LR
 - **◐ Corroborado o por recotizar — ~€244**: las tasas de parque (~€109; la gaceta localizada, el
   PDF primario del MEFT sin abrirse) y los 2 días de coche del aeropuerto (~€135, decididos el
   07/08 y pendientes de recotizar — el 31-oct fuera de temporada baja ❌).
-- **○ Estimado — ~€578**: ocho noches de camping sin cotizar, combustible, comida, actividades y
+- **○ Estimado — ~€578**: seis noches de camping sin cotizar (más Hoada ◐), combustible, comida, actividades y
   misceláneos. **Ese es el margen real: ±€150 por persona.**
 
 > **El inventario completo de lo que sigue abierto** —incluidos los importes que faltan y las
