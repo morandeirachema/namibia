@@ -7,7 +7,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026 · precio del
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 08/08/2026 · precio del
 > combustible actualizado a la revisión del 5 ago 2026*
 
 Coste del viaje con el **precio de las partidas grandes ya cotizado** (vuelo, coche y seguro), en N$ y
@@ -129,6 +129,11 @@ flowchart LR
   en Windhoek sobre las **13:30–14:30** — y ya sin la presión de entregar a las 17:00.
 - ✅ **El D14 deja de ser un día a pie**: mañana tranquila en Windhoek y salida al aeropuerto
   ~17:00–17:30, repostando a la ida.
+- ✅ **Y la hora dura del 14 está medida**: la facturación de Discover en la T2 **cierra 60 min
+  antes del despegue — a las 19:45** ◐ *(mostradores abiertos desde 4 h antes;
+  [ficha de aeropuertos de Discover](https://www.discover-airlines.com/us/en/book/travel-information/airport-info),
+  página en 403 al descargar — extractos convergentes)*. Devolviendo el coche a las ~18:00 quedan
+  **~1h45 de colchón**.
 
 > ### 🧾 Lo que hay que pedirle a Namibia2Go al reservar
 > **Recotiza con las fechas decididas: 31 oct 11:00 → 14 nov 18:00, que son 15 días, con recogida
@@ -174,9 +179,10 @@ desde el primer día)*. De ellas, **6 son campings NWR con precio verificado**; 
 *(coincide con `01-itinerarios-dia-a-dia.md` §resumen).*
 
 **Parcialmente cerrado / sin verificar ○/◐ (7 noches):**
-- D0–D1 Windhoek, D2 Spreetshoogte, D5–D6 Walvis Bay ×2 → campings/alojamientos privados, **precio no
-  cerrado** (WebFetch bloqueado; ver `15`). Estimación de práctica común: **~€25–45/noche para dos**
-  cada uno. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
+- D0 Windhoek, D1–D2 Spreetshoogte ×2 *(la segunda noche, decidida el 08/08 — sale del domingo de
+  Windhoek, así que el recuento no cambia)*, D5–D6 Walvis Bay ×2 → campings/alojamientos privados,
+  **precio no cerrado** (WebFetch bloqueado; ver `15`). Estimación de práctica común: **~€25–45/noche
+  para dos** cada uno. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
   —campamento equiparable de la ruta— está cerrado en **N$540/noche para dos (~€27)**, entrada incluida
   ◐; ver `15`.)*
 - **D8 Hoada** (Grootberg) — **cerrado en esta pasada ◐**: **N$542–732/noche para dos (~€27–37)** según
@@ -188,17 +194,18 @@ desde el primer día)*. De ellas, **6 son campings NWR con precio verificado**; 
   desayuno**, así que descuenta esa comida del presupuesto del D7.
 
 - **D13 Windhoek**: **camping, con el coche hasta el 14 — decidido el 07/08**. Mismo candidato
-  que el D0–D1 (Urban Camp o Arebbusch), tarifa ❌. *(La habitación con traslados quedó
+  que el D0 (Urban Camp o Arebbusch), tarifa ❌. *(La habitación con traslados quedó
   descartada; el hotel que se cae y la noche nueva del D0 se compensan casi exactamente dentro
   de la estimación ○ — por eso el total de alojamiento no se mueve.)*
-- **Los campings sin cotizar (D0–D1, D5–D6, D13)**: existen y están identificados —**Urban Camp** o
-  **Arebbusch** en Windhoek, **Lagoon Chalets** en Walvis Bay— pero **ninguno publica tarifa** ❌.
+- **Los campings sin cotizar (D0, D5–D6, D13 — y Spreetshoogte D1–D2)**: existen y están
+  identificados —**Urban Camp** o **Arebbusch** en Windhoek, **Lagoon Chalets** en Walvis Bay,
+  **Spreetshoogte Campsite** en la escarpa— pero **ninguno publica tarifa** ❌.
   Se mantienen en la estimación de práctica común de ~N$600–1.000 (~€30–50) la pareja.
 
 > ✅ **Y esto cierra el mayor hueco del bloque:** Terrace Bay ya no es una incógnita de ±€130. Son
 > **~€174 la pareja, verificados**, con cena y desayuno dentro. El bloque sin cerrar se queda en
-> **7 noches** —las tres de Windhoek, Spreetshoogte y las dos de Walvis—, todas de camping, que es
-> el tramo barato y predecible.
+> **7 noches** —las dos de Windhoek, las dos de Spreetshoogte, las dos de Walvis y Hoada—, todas
+> de camping, que es el tramo barato y predecible.
 
 → Bloque parcial/sin verificar: **~€126/persona ○** *(con el sesgo al alza de arriba)*. **Alojamiento
 total: ~€570 pareja (~€285/persona)**, del que **~€318 (56 %) está verificado** y **Hoada suma ◐**.
@@ -421,8 +428,9 @@ la mañana entera del primero y el día 14 completo.** Tres consecuencias, todas
 2. ⚠️ **El coche no cubre ni el principio ni el final.** La cotización de Namibia2Go va del **1 nov
    08:00 al 13 nov 17:00**: sobran el **31 de octubre** y el **14 de noviembre** — el día del vuelo
    de vuelta, que sale a las 20:45. **Recotiza 31 oct 11:00 → 14 nov 18:00, 15 días** *(§2)*.
-3. ✅ **Las noches de NWR no se tocan.** La del 31 es en **Windhoek**, que no es NWR: todas las
-   noches de parque siguen cayendo del **1 de noviembre** en adelante, en tramo barato.
+3. ✅ **Las noches de NWR no se tocan.** Las del 31 de octubre (Windhoek) y del 1–2 de noviembre
+   (Spreetshoogte, decidido 08/08) **no son NWR**: la primera noche NWR sigue siendo Sesriem el
+   3 de noviembre, y todas las de parque caen del **1 de noviembre** en adelante, en tramo barato.
 
 ### 🚌 Y el precio de salir de Oporto: **~270 km hasta el aeropuerto**
 

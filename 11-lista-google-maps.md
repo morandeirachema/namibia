@@ -76,8 +76,8 @@ flowchart TD
     B --> C{"¿Donde?"}
     C -->|"Namib-Naukluft D3-D5<br/>Skeleton Coast D7-D8<br/>Dorob costa D5-D7"| D["PARQUE NACIONAL<br/>prohibido. El permiso del MEFT<br/>no se concede a vuelo privado"]
     C -->|"Etosha D9-D12"| E["PROHIBICION TOTAL<br/>desde el 17-04-2025<br/>se queda en la puerta"]
-    C -->|"Windhoek D1 D13"| F["Zona poblada<br/>prohibido sobrevolarla"]
-    C -->|"Spreetshoogte D2 · Hoada D8"| G["Suelo privado o comunal<br/>hace falta permiso del dueño"]
+    C -->|"Windhoek D0 D13"| F["Zona poblada<br/>prohibido sobrevolarla"]
+    C -->|"Spreetshoogte D1-D2 · Hoada D8"| G["Suelo privado o comunal<br/>hace falta permiso del dueño"]
     style D fill:#9d0208,color:#fff
     style E fill:#9d0208,color:#fff
     style F fill:#9d0208,color:#fff

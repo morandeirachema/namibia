@@ -33,7 +33,7 @@ existe al menos la **nº 37**, y se rumorean más de cuarenta.
 - **D7–D8 · dentro del Skeleton Coast NP** ◐: hay avistamientos documentados en el propio parque —
   tu tramo Ugabmund → Terrace Bay → Springbokwasser. Ojos abiertos en crestas, lechos de río y
   salientes junto a la pista.
-- **D1 o D14 · Windhoek** ○: hay una en la propia ciudad — el *«Telephone Man»* (*No Answer*); el
+- **D0 o D14 · Windhoek** ○: hay una en la propia ciudad — el *«Telephone Man»* (*No Answer*); el
   blog Overlandbirds publica dónde.
 - El núcleo duro (Purros, Van Zyl's Pass, la D3707) queda en el **Kaokoveld profundo: fuera de
   ruta y fuera de seguro** — para otro viaje. *(Las coordenadas circulan en el grupo de Facebook

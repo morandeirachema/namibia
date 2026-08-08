@@ -125,7 +125,7 @@ el viaje sigue; si se pierde la cabina, no.
       de la sed, y la regla del agua son **4+ L por persona y día EN el coche** ✅
 - [ ] **Antihistamínico** — 1 caja ○
 - [ ] **Protector gástrico** — 1 caja ○
-- [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.728 km, y el paso de Spreetshoogte y la
+- [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.757 km, y el paso de Spreetshoogte y la
       grava del D8 se notan)*
 - [ ] **Laxante suave o fibra** ○ — dieta de camping y poca verdura
 

@@ -224,7 +224,7 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
   ([nambrew.com](https://nambrew.com/brands/beers/windhoek/)); visitas a la fábrica: sin dato.
 
 ### Los sitios, día a día
-- **D1/D13 · Windhoek** — Joe's Beerhouse (ya en el plan) · Xwama · kapana en Katutura ·
+- **D0/D13 · Windhoek** — Joe's Beerhouse (ya en el plan) · Xwama · kapana en Katutura ·
   Leo's at the Castle.
 - **D3/D5 · Solitaire** — la **apple pie de Moose McGregor** ✅ (la historia, en `10`).
 - **D5–D6 · Walvis Bay** — **OSTRAS de la laguna** ◐, «de las mejores del hemisferio sur»:

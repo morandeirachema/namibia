@@ -100,7 +100,7 @@ de los safaris guiados de NWR · el precio del **31 de octubre** del coche *(fue
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 97 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 100 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -123,7 +123,7 @@ leer del tirón, imprimir o llevar sin conexión.*
 *El trazado no está dibujado a mano: son las coordenadas reales de cada parada, enrutadas por
 carretera con **OSRM** sobre OpenStreetMap. [Ver el mapa en grande](img/mapas/ruta.svg).*
 
-**~2.728 km · 15 días de coche · dos noches en Sesriem, dos en la costa y CUATRO en Etosha**
+**~2.757 km · 15 días de coche · dos noches en Spreetshoogte, dos en Sesriem, dos en la costa y CUATRO en Etosha**
 
 </div>
 

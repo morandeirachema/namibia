@@ -7,7 +7,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 08/08/2026*
 
 > ## 🗺️ Esta es LA ruta del viaje
 >
@@ -31,7 +31,8 @@
 </div>
 
 **~2.600 km · 15 días de coche, aeropuerto → aeropuerto (31 oct – 14 nov, decidido 07/08) ·
-ningún día por encima de ~390 km · dos noches en Sesriem, dos en la costa y CUATRO en Etosha ·
+ningún día por encima de ~390 km · dos noches en la escarpa de Spreetshoogte (decidido 08/08),
+dos en Sesriem, dos en la costa y CUATRO en Etosha ·
 llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
 
 > ### 📅 El 1 de noviembre sigue siendo la fecha mágica
@@ -58,9 +59,9 @@ gantt
     axisFormat %d-%m
     section Llegada
     D0 Coche y compra :e0, 2026-10-31, 1d
-    D1 Windhoek :e1, 2026-11-01, 1d
     section Desierto
-    D2 Paso de Spreetshoogte :e2, after e1, 1d
+    D1 Paso de Spreetshoogte :e1, 2026-11-01, 1d
+    D2 Dia en la escarpa :e2, after e1, 1d
     D3 Solitaire-Sesriem :e3, after e2, 1d
     D4 Sossusvlei y Deadvlei :e4, after e3, 1d
     section Costa
@@ -123,16 +124,16 @@ gantt
 >
 > ```mermaid
 > flowchart TD
->     T["TIENDA DE TECHO · 8 noches ya resueltas<br/>D2 Spreetshoogte · D3-D4 Sesriem dentro de la puerta<br/>D8 Hoada · D9 Okaukuejo · D10 Halali · D11-D12 Namutoni"]
->     D["POR ELEGIR CAMPING · 5 noches<br/>D0-D1 y D13 Windhoek: Urban Camp o Arebbusch<br/>D5-D6 Walvis Bay: Lagoon Chalets<br/>existen y tienen camping, pero NO publican precio"]
+>     T["TIENDA DE TECHO · 9 noches ya resueltas<br/>D1-D2 Spreetshoogte · D3-D4 Sesriem dentro de la puerta<br/>D8 Hoada · D9 Okaukuejo · D10 Halali · D11-D12 Namutoni"]
+>     D["POR ELEGIR CAMPING · 4 noches<br/>D0 y D13 Windhoek: Urban Camp o Arebbusch<br/>D5-D6 Walvis Bay: Lagoon Chalets<br/>existen y tienen camping, pero NO publican precio"]
 >     P["HABITACION, NO TIENDA · D7 Terrace Bay<br/>el tarifario oficial de NWR no tiene camping aqui:<br/>doble en media pension, N$3.480 (~EUR 174) los dos"]
 >     T ~~~ D ~~~ P
 >     style T fill:#2d6a4f,color:#fff
 >     style P fill:#e85d04,color:#000
 > ```
 >
-> **El recuento, que suma 14:** **8** ya resueltas en tienda · **5** en las que se duerme arriba
-> pero falta elegir camping *(D0–D1, D5–D6 y D13)* · **1 imposible**: *D7 Terrace Bay* (no tiene
+> **El recuento, que suma 14:** **9** ya resueltas en tienda · **4** en las que se duerme arriba
+> pero falta elegir camping *(D0, D5–D6 y D13)* · **1 imposible**: *D7 Terrace Bay* (no tiene
 > camping).
 >
 > 👉 **El techo real son 13 de 14 noches arriba** — con el coche del aeropuerto, la primera y la
@@ -150,48 +151,83 @@ gantt
 > devolución EN el aeropuerto hay que confirmarla, con su posible suplemento** ❌ *(ver
 > [`02`](02-presupuesto.md) §2)*.
 
-### D0 · sáb 31 oct — Llegada, coche y LA compra grande
-- ✈️ **Aterrizas a las 09:25** con el vuelo de Oporto *(ver [`02`](02-presupuesto.md) §8)* —
-  inmigración, equipaje, y **efectivo (~N$6.000–8.000 · ~€300–400) y la SIM de MTC en el propio
-  aeropuerto** *(tienda MTC, paquete turista; ver `07`)*
-- 🚙 **Recogida del 4×4 EN el aeropuerto, ~11:00 — DECIDIDO (07/08/2026)** ⚠️ *entrega en
+### D0 · sáb 31 oct — Llegada, coche y LA compra grande *(plan horario)*
+
+```mermaid
+flowchart LR
+%% ancho
+    A["09:25<br/>aterrizas"] --> B["~10:15-11:00<br/>cajero + SIM MTC<br/>en la terminal"]
+    B --> C["~11:00-13:00<br/>4x4 y briefing<br/>SIN prisa"]
+    C --> D["~13:00-13:45<br/>B6 al centro<br/>45 km asfalto"]
+    D --> E["~14:00-16:30<br/>comer + compra<br/>grande Maerua"]
+    E --> F["~17:00 camping<br/>tienda con luz<br/>anochecer 19:04"]
+    style A fill:#2d6a4f,color:#fff
+    style F fill:#2d6a4f,color:#fff
+```
+
+- ✈️ **09:25 · aterrizas** con el vuelo de Oporto *(ver [`02`](02-presupuesto.md) §8)* —
+  inmigración con el e-visa impreso (`04`) y maletas: cuenta **~45 min–1 h** ○ *(sin dato
+  publicado de colas; es un avión de largo radio entero de golpe)*
+- 💱 **~10:15–11:00 · dinero y SIM sin salir de la terminal** — cajeros de FNB y Bank Windhoek ✅:
+  **N$500–1.000 (~€25–50) de bolsillo** *(el del aeropuerto admite hasta ~N$3.000 · ~€150; la carga
+  grande, mejor en ciudad — cajero junto a sucursal, ver `07`)* — y la **SIM turista de MTC**
+  *(«Leisure» N$349 · ~€17, registro con pasaporte obligatorio; ver `07`)*
+- 🚙 **~11:00–13:00 · recogida del 4×4 EN el aeropuerto — DECIDIDO (07/08/2026)** ⚠️ *entrega en
   aeropuerto por confirmar al recotizar* ❌. **Briefing sin prisa (1–2 h)**: presiones en frío
   apuntadas, las DOS ruedas de repuesto, gato y compresor a la vista *(`06`)*, el **inventario del
   camping contra la ficha — hornillo incluido** *(`05`)* y las **preguntas de la nevera**
   *([`18`](18-manual-de-campamento.md), §5)*
-- 🚗 **B6 al centro: ~45 km de asfalto** ○ — la conducción por la izquierda se estrena sin tráfico
-- 🛒 **LA compra grande, HOY que es sábado** — cerveza y vino incluidos: **mañana es domingo y el
-  alcohol para llevar cierra por ley** ✅. La lista entera, para tachar, en
-  [`08`](08-comida-compras-y-regalos.md)
-- 🌡️ **Windhoek 31,2 / 16,3** ✅ · ☀️ anochecer ~**19:04** — primera montada de la tienda **con
-  luz y sin público** *(jet lag: +1 h respecto a la península — ninguno)*
-- 🛏️ **Windhoek, arriba desde la primera noche** — candidatos con camping verificado *(tarifa ❌,
-  no la publican)*: **Urban Camp** *(Schanzen Road; piscina, bar, wifi, cajero)* o **Arebbusch**
+- 🚗 **~13:00–13:45 · B6 al centro: ~45 km de asfalto** ○ — la conducción por la izquierda se
+  estrena sin tráfico
+- 🍽️🛒 **~14:00–16:30 · comer y LA compra grande, HOY que es sábado** — Maerua Mall ○: algo rápido
+  de comer y **SuperSpar + TOPS anexo** — cerveza y vino incluidos: **mañana es domingo y el
+  alcohol para llevar cierra por ley** ✅. Aquí también la **carga grande de efectivo
+  (~N$6.000–8.000 · ~€300–400)**, en cajero pegado a sucursal *(`07`)*. La lista entera, para
+  tachar, en [`08`](08-comida-compras-y-regalos.md)
+- 🏕️ **~17:00 · al camping y primera montada de la tienda con luz y sin público** — ☀️ anochecer
+  ~**19:04** *(jet lag: +1 h respecto a la península — ninguno)*. **Las ~2 h hasta el anochecer son
+  el colchón del día**: cualquier retraso de inmigración, briefing o compra sale de ahí
+- ⚠️ **¿Salir ya esta tarde hacia Spreetshoogte? NO.** Desde la compra (~16:30) son 3h–3h30 de
+  ruta con grava: llegada de noche a un descenso técnico, con el coche recién cogido y tras una
+  noche de avión — **rompe la regla de las 18:00 el primer día** *(`06`)*. **Al paso se sale
+  mañana por la mañana, descansados — decidido (08/08)**
+- 🌡️ **Windhoek 31,2 / 16,3** ✅
+- 🍺 **Cena: braai de estreno en el camping — o Joe's Beerhouse si el cuerpo no está para
+  cocinar** *(reservar; la mesa de despedida vuelve el D13)*
+- 🛏️ **Windhoek, arriba desde la primera noche — y única noche de ciudad a la ida** — candidatos
+  con camping verificado *(tarifa ❌, no la publican)*: **Urban Camp** *(Schanzen Road; piscina,
+  bar, wifi, cajero)* o **Arebbusch**
 
-### D1 · dom 1 nov — Windhoek, el día suave
-- 🌡️ **Windhoek, medias de noviembre: 31,2 °C máx / 16,3 °C mín** ✅ *(NOAA GHCN, estación 68110,
-  1.700 m, serie 1957–2025; ver `15`)* — cálido de día, pero a 1.700 m **refresca de noche**
-- ☀️ amanecer **06:07** · anochecer **19:04**
-- **El coche y la compra quedaron hechos AYER**: hoy es el día de aterrizar de verdad —
-  Christuskirche, café, gestiones que quedaran y siesta. **Mañana empieza la grava**
+### D1 · dom 1 nov — Windhoek → paso de Spreetshoogte · **~180–200 km · ~3h–3h30** ◐ *(decidido 08/08)*
+- 🚗 **Salida ~09:00–09:30, sin madrugón** — **el día flojo del plan anterior (domingo en una
+  ciudad cerrada por ley) se muda a la escarpa** *(el análisis, en
+  [`16`](16-punto-de-decision.md))*: la primera grava se estrena descansados y con el día entero
+  por delante
 - ⚠️ **Es domingo: las bottle stores y las secciones de alcohol cierran por ley** ✅ *(ver
-  [`08`](08-comida-compras-y-regalos.md))* — por eso la bebida se compró el sábado. *Bares y
-  restaurantes sirven con normalidad*
-- 🍺 **Joe's Beerhouse** *(reservar)* · 🛏️ **Windhoek, segunda noche arriba** — mismo camping
-  que ayer
-
-### D2 · lun 2 — Windhoek → paso de Spreetshoogte · **~180–200 km · ~3h–3h30** ◐
+  [`08`](08-comida-compras-y-regalos.md))* — por eso TODO se compró ayer. *Los súper abren si
+  falta algo — sin alcohol*
 - 🌡️ **Spreetshoogte: medias de noviembre ~31,5 °C máx / ~17,1 °C mín** ◐ *(reanálisis ERA5,
   celda del borde de la escarpa; el cálculo reproduce Windhoek/Sesriem a ±0,04 °C — ver `15` §ERA5)*.
   **Confirma el proxy de Windhoek** (31,2/16,3 ✅): misma altitud (~1.700 m), mismo clima de meseta.
   Arriba corre viento y refresca al caer el sol ○
-- ☀️ amanecer **06:09** · anochecer **19:10** — *el atardecer en el paso es el plan del día: en
-  posición hacia las 18:40*
+- ☀️ amanecer **06:07** (Windhoek) · anochecer **~19:09** (el paso) — *el atardecer en el paso es
+  el plan del día: en posición hacia las 18:40*
 - B1 a Rehoboth (87 asfalto) → C24 → D1261 → **D1275: el paso**. ⚠️ **Muy empinado**, tramos de
   hormigón para tracción, prohibido a caravanas — se baja despacio y es espectacular
 - 🌇 **Atardecer desde el mirador del paso**: el Namib a 1.000 m bajo tus pies
-- 🛏️ **Spreetshoogte Campsite** ⚠️ *precio sin verificar (el blog citaba 150–300 ZAR/persona,
-  vigencia desconocida)*
+- 🛏️ **Spreetshoogte Campsite, primera de DOS noches** ⚠️ *precio sin verificar (el blog citaba
+  150–300 ZAR/persona, vigencia desconocida; ojo a la trampa de nombre — ver `15`)*
+
+### D2 · lun 2 — Día entero en la escarpa · **0 km de ruta** *(decidido 08/08)*
+- **El día lento del viaje, en el sitio bueno**: amanecer en el mirador, la escarpa a pie, siesta
+  larga y segunda puesta de sol — el Namib mil metros abajo, dos veces y sin reloj
+- 🧰 **Y el repaso con calma antes del desierto**: presiones en frío, anclajes de la tienda, orden
+  de la nevera y las cajas — lo que el briefing del D0 dejara a medias, hoy sin prisa *(`18`)*
+- 🛟 **Es además el colchón del viaje**: si el vuelo o las maletas se retrasan el D0, este es el
+  día que se sacrifica **sin tocar ni una reserva NWR** — la primera es Sesriem, mañana
+- ☀️ amanecer **06:09** · anochecer **19:10**
+- 🌡️ **Spreetshoogte ~31,5 / ~17,1** ◐ *(ERA5, ver `15` §ERA5)* — arriba corre viento: forro a mano
+- 🛏️ **Spreetshoogte, segunda noche** — mañana, Solitaire y Sesriem
 
 ### D3 · mar 3 — Spreetshoogte → Solitaire → Sesriem · **~150–170 km · ~2h30–3h** ◐
 - 🌡️ **Sesriem, media de máximas de noviembre: ~32,5 °C** ◐ *(reanálisis ERA5, celda a 4 km de la
@@ -363,17 +399,44 @@ gantt
 - *Parada opcional de camino: **Okonjima/AfriCat** (leopardos) o el meteorito de **Hoba** (desvío
   por Grootfontein)*
 
-### D14 · sáb 14 — Vuelo
-- ✈️ **Despegue a las 20:45** *(vuelo de Oporto, [`02`](02-presupuesto.md) §8)* — no es una mañana
-  de aeropuerto: es **un día entero en Windhoek** antes de embarcar
-- ☀️ amanecer **06:01**
-- 🚙 **Con coche hasta el embarque — decidido (07/08)**: mañana tranquila *(los regalos del
-  [`08`](08-comida-compras-y-regalos.md), lo que quedara de la ciudad)*, **salida hacia el
-  aeropuerto ~17:00–17:30**, repostar a la ida, **devolución ~18:00** y facturar *(la
-  franquicia, cerrada en [`02`](02-presupuesto.md) §8)*
-- 💱 **Gasta o cambia los N$ antes de embarcar**: fuera de Namibia no valen nada
+### D14 · sáb 14 — Vuelo *(plan horario)*
 
-### 💰 Coste real de E *(1–15 nov · el detalle completo, en `02-presupuesto.md`)*
+```mermaid
+flowchart LR
+%% ancho
+    A["06:01 amanecer<br/>desmontar<br/>sin madrugon"] --> B["10:00-13:00<br/>regalos<br/>Craft Centre"]
+    B --> C["13:00-16:30<br/>comida y gastar<br/>los ultimos N$"]
+    C --> D["17:00 salida B6<br/>deposito lleno<br/>a la ida"]
+    D --> E["~18:00 devolucion<br/>4x4 y facturar<br/>cierra 19:45"]
+    E --> F["20:45<br/>despegue"]
+    style A fill:#2d6a4f,color:#fff
+    style F fill:#9d0208,color:#fff
+```
+
+- ✈️ **Despegue a las 20:45** *(vuelo de Oporto, [`02`](02-presupuesto.md) §8)* — no es una mañana
+  de aeropuerto: es **un día entero en Windhoek** antes de embarcar. ☀️ amanecer **06:01**
+- 🏕️ **~08:00–10:00 · desmontar la tienda por última vez, sin prisa** — desayuno tranquilo, ducha
+  y el coche cargado y ordenado para la entrega
+- 🎁 **~10:00–13:00 · los regalos — decidido (07/08): con coche, sin traslados** — **Namibia Craft
+  Centre, 40 Tal St** *(la parada única, [`08`](08-comida-compras-y-regalos.md))*: **sábados
+  09:00–16:00** ✅ *([web oficial](https://www.namibiacraftcentre.com/))* — hazlo por la mañana y
+  deja la tarde limpia
+- 🍽️💱 **~13:00–16:30 · comida de despedida y última vuelta** — y **gasta o cambia los N$**:
+  fuera de Namibia no valen nada ✅ *(`07`)*
+- ⛽ **17:00 · salida hacia el aeropuerto** — ~45 km de B6 ○ y **depósito lleno a la ida**
+  *(devolución con el tanque como se entregó ○)*
+- 🚙 **~17:45–18:00 · devolución del 4×4 EN el aeropuerto** ⚠️ *servicio por confirmar al
+  recotizar* ❌ — todavía **con luz para la inspección** *(anochecer ~19:12)*
+- 🧳 **18:00–19:45 · facturación** ◐ — mostradores de Discover en la T2: **abren 16:45 (4 h antes)
+  y CIERRAN 19:45 (60 min antes)** — **la hora dura del día es esa**. Devolviendo a las 18:00
+  quedan **~1h45 de colchón**: cabe hasta un pinchazo en la B6 *([ficha de aeropuertos de
+  Discover](https://www.discover-airlines.com/us/en/book/travel-information/airport-info); la
+  página devuelve 403 al descargar — extractos convergentes)*. La franquicia: **1×23 kg por
+  cabeza**, cerrada en [`02`](02-presupuesto.md) §8
+- 🛫 **~20:00 embarque ○ · 20:45 despegue** → escala en Múnich → **Oporto, domingo 15 a las
+  12:50** — y ~4 h de autobús hasta A Coruña ◐ *(`02` §8)*
+
+### 💰 Coste real *(31 oct – 14 nov · el detalle completo, en `02-presupuesto.md`)*
 - **Alquiler — DECIDIDO 15 días, aeropuerto → aeropuerto (31 oct 11:00 – 14 nov 18:00)**. Los 13
   días cotizados: **Namibia2Go Budget N$35.100 (~€1.755)** ✅ — o **Comfort N$39.000 (~€1.950)**;
   los 2 extra, **~N$5.400 (~€270) ◐ pendientes de recotizar** *(el 31-oct fuera de temporada
@@ -383,7 +446,7 @@ gantt
   **N$6.360 (~€318)** ✅ — **las 4 noches de Etosha, dentro del parque**
   *(+ Terrace Bay, Spreetshoogte, Walvis, Hoada: sin verificar)*
 - **Tasas de parque**: Namib 2 + Skeleton 1 + Etosha 4 = 7 unidades × N$620 ≈ **N$4.340 (~€217)** ◐
-- **Combustible ~2.728 km**: ~310–340 l ≈ **N$8.000–9.200 (~€400–460)** ○
+- **Combustible ~2.757 km** *(control OSRM 08/08)*: ~310–345 l ≈ **N$8.000–9.300 (~€400–465)** ○
 - **Visado**: N$3.200 (~€160) los dos ✅
 - **Total tierra en camping ≈ ~€3.880 (~N$77.600)** la pareja ○/◐, banda ~€3.580–4.180 — *los 13
   días del coche son cifra cerrada; los 2 del aeropuerto (~€270 ◐), por recotizar. Sumando vuelos
@@ -407,8 +470,14 @@ gantt
   es el *koppie* de dolomita de **Halali**, que sí se puede pasear. De noche te quedas dentro: la
   charca iluminada es el plan.
 - **Kiosco SIM de MTC en el aeropuerto** ◐: cierra **~21:00** — aterrizas a las **09:25**, de sobra.
+- **Facturación en Hosea Kutako (D14)** ◐: mostradores de Discover en la T2 — **abren 4 h antes
+  (16:45) y cierran 60 min antes (19:45)** del despegue de las 20:45. **Esa es la hora dura de la
+  vuelta**: la devolución del coche a las ~18:00 deja ~1h45 de colchón.
+- **Namibia Craft Centre** ✅ *(web oficial)*: L–V 09:00–17:30 · **sábados 09:00–16:00** · domingos
+  09:00–15:00 — vuestro D14 es sábado: los regalos, por la mañana.
 - **Alcohol** ✅: bottle stores y secciones de licores **cierran domingos y festivos**. Tus
-  domingos de viaje: **1 nov (el día que llegas) y 8 nov** — compra el sábado.
+  domingos de viaje: **1 nov (el día que se sale al paso) y 8 nov** — por eso la compra grande es
+  el sábado 31.
 - **Otjitotongwe (guepardos)** ◐ — C40, a 24 km de Kamanjab, de camino el D9 (lunes):
   alimentación **~15:00**; si no te alojas, avisa antes. *(Una fuente dice que cierra los fines
   de semana — tu paso es lunes.)*
@@ -466,8 +535,8 @@ otro producto. *(Okonjima, por sus leopardos habituados, es el único capricho c
 parada del D13.)*
 
 ### 🔍 En qué se diferencia del blog *(y por qué)*
-- **Ellos, 2 noches en Spreetshoogte; nosotros, 1** — la segunda se va a Etosha, que con tu ventana
-  seca merece 4 noches
+- **Ellos, 2 noches en Spreetshoogte; nosotros, también 2 desde el 08/08** — recuperadas del
+  domingo muerto de Windhoek, y **sin quitarle a Etosha sus 4 noches** *(el análisis, en `16`)*
 - **Ellos duermen en Onguma (fuera); nosotros las 4 noches DENTRO del parque** (Okaukuejo, Halali,
   Namutoni ×2 — verificado, N$920 ≈ €46/noche) — dormir dentro es lo que da las charcas nocturnas
   iluminadas y los amaneceres sin esperar puerta. Onguma queda como capricho opcional
@@ -491,10 +560,11 @@ opuestos del país y cada uno pide varios días. Intentar las dos coronas convie
 catorce días **conduciendo por delante de los sitios en vez de estar en ellos** — y la fatiga en
 grava es justo el ingrediente del vuelco (ver `06`).
 
-**Así que el sur se quitó entero**, y sus días se fueron a donde más rinden: **dos noches en
-Sesriem** para el amanecer de Deadvlei sin prisa, **dos en la costa** para descansar a mitad de
-viaje, y **cuatro dentro de Etosha**. El resultado son ~2.600 km, ningún día por encima de ~390 km,
-y el safari como clímax final.
+**Así que el sur se quitó entero**, y sus días se fueron a donde más rinden: **dos noches en la
+escarpa de Spreetshoogte** *(la segunda, recuperada el 08/08 del domingo cerrado de Windhoek)*,
+**dos en Sesriem** para el amanecer de Deadvlei sin prisa, **dos en la costa** para descansar a
+mitad de viaje, y **cuatro dentro de Etosha**. El resultado son ~2.600 km, ningún día por encima
+de ~390 km, y el safari como clímax final.
 
 <div align="center">
 
@@ -502,9 +572,10 @@ y el safari como clímax final.
 
 - ✅ **Vuelos** — precio final: €1.450 (~N$29.000) p.p., **Oporto → Windhoek, 30 oct – 14 nov**. *Pendiente
   solo de emitir el billete*
-- ❌ **Tres noches sin precio** — Terrace Bay, Spreetshoogte *(candidato: Camp Gecko, banda
-  contradictoria)* y Walvis Bay ×2, más los campings de Windhoek (D0, D1 y D13). **Hoada ya tiene precio** ◐ (arriba), y
-  los lodges privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También
+- ❌ **Noches sin precio** — Spreetshoogte ×2 *(candidato: Camp Gecko, banda contradictoria)* y
+  Walvis Bay ×2, más los campings de Windhoek (D0 y D13). **Terrace Bay quedó cerrado el 03/08**
+  ✅ *(N$3.480 · ~€174 la pareja, ver D7)* y **Hoada ya tiene precio** ◐ (arriba); los lodges
+  privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También
   cerrado el **camping de Spitzkoppe: N$270/persona → N$540/noche (~€27), entrada incluida** ◐
   *(fuera de la ruta)*
 - ◐ **Km del D7 y del D13 ya cerrados (03/08)** — la costa **Walvis Bay → Terrace Bay ≈ ~380 km**

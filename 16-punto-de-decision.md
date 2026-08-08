@@ -177,6 +177,38 @@ flowchart LR
 
 ---
 
+## 7. Ajuste del 08/08/2026 — la auditoría del calendario y la noche 14
+
+Con el vuelo cerrado *(31 oct 09:25 → 14 nov 20:45)* y el coche aeropuerto → aeropuerto *(07/08)*,
+se auditó si la ruta cuadraba con la llegada y la salida. **Resultado: cabe exacta —15 días de
+suelo, 14 noches— y no falta ni sobra ningún día en bruto.** Pero una noche estaba mal invertida:
+el **domingo 1 de noviembre en Windhoek** (D1), un día en una ciudad **cerrada por ley** —bottle
+stores y comercio—, con la compra ya hecha del sábado y jet lag de +1 h (ninguno).
+
+**Decisión del viajero (08/08/2026): esa noche pasa a una 2ª noche en Spreetshoogte.** Se sale de
+Windhoek el domingo por la mañana, descansados; atardecer y amanecer en el paso; y el lunes queda
+de día lento en la escarpa. Lo que se comparó:
+
+```mermaid
+flowchart TD
+    Q{"¿Donde duerme la<br/>noche del domingo 1?"}
+    Q -->|"ELEGIDA 08/08"| A["🟢 2ª noche Spreetshoogte<br/>atardecer Y amanecer en el paso<br/>de Sesriem en adelante NADA se mueve<br/>y el colchon pre-NWR se conserva"]
+    Q --> B["Windhoek D0+D1 (el plan del 07/08)<br/>colchon puro de llegada,<br/>a cambio de un domingo<br/>en ciudad cerrada"]
+    Q --> C["Partir el D8 en Twyfelfontein<br/>desactiva el dia mas duro de grava<br/>PERO adelanta TODAS las fechas NWR<br/>y borra el colchon de llegada"]
+    Q --> D["3ª noche en Sesriem<br/>dos amaneceres de dunas<br/>+N$1.340 y colchon reducido"]
+    style A fill:#2d6a4f,color:#fff
+```
+
+Por qué ganó la primera: **conserva el colchón** —la noche extra sigue cayendo *antes* de la
+primera reserva NWR (Sesriem, 3 nov), así que un vuelo o una maleta con +24 h se absorben sin
+tocar reservas—, **no mueve ni una fecha** de Sesriem en adelante, no añade logística nueva
+(mismo camping, dos noches) y es coste-neutral (una noche de camping de Windhoek por una de
+Spreetshoogte, las dos en la misma banda estimada ○). El blog de referencia hacía exactamente
+esas 2 noches. Las descartadas quedan aquí por si se replantea: la de partir el D8 es la mejor
+en seguridad pura, pero cuesta el colchón de llegada y un camping nuevo sin verificar.
+
+---
+
 *Esta ficha ya no pide nada: la decisión está tomada. Se queda como registro de qué se comparó y por
 qué —incluida la aritmética que demuestra que la ruta completa necesita 17–18 días—, que es lo que
 haría falta si algún día se replantea.*
