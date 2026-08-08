@@ -116,8 +116,8 @@ merece escepticismo hasta confirmarlo al reservar.
 - Billete de vuelta o de continuación
 - Seguro médico internacional que cubra todos los gastos **incluida la repatriación**
 - Prueba de alojamiento
-- Prueba de fondos — el MAEC da como referencia **N$1.200 (~€60) por día** ≈ **~N$33.600
-  (~€1.680) para dos personas y 14 días** (fuente única y matizada como *"como referencia"*;
+- Prueba de fondos — el MAEC da como referencia **N$1.200 (~€60) por día** ≈ **~N$36.000
+  (~€1.800) para dos personas y 15 días** (fuente única y matizada como *"como referencia"*;
   el FCDO británico solo pide "fondos suficientes")
 
 La ficha del MAEC se actualizó el 26/05/2026 — tiene ~7 semanas.

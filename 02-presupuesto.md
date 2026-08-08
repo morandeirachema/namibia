@@ -50,19 +50,19 @@ pie showData
     title "Presupuesto total · la ruta · pareja · EUR · camping"
     "Vuelo ida y vuelta x2" : 2900
     "Coche Namibia2Go Budget 15d" : 2025
-    "Alojamiento 14 noches" : 570
-    "Combustible" : 445
+    "Alojamiento 14 noches" : 740
+    "Combustible" : 450
     "Comida" : 280
     "Seguro IATI Estrella x2" : 226
-    "Tasas de parque" : 217
+    "Tasas de parque" : 234
     "Visado x2" : 160
     "Miscelaneos" : 150
     "Actividades" : 288
 ```
 
-> **Vuelo y coche son el 68 % del viaje.** El vuelo está cerrado y del coche están cerrados los
+> **Vuelo y coche son el 66 % del viaje.** El vuelo está cerrado y del coche están cerrados los
 > 13 días cotizados *(los 2 extra del aeropuerto, ~€270 la pareja, van en ◐ hasta recotizar)*.
-> Todo lo demás junto (~€2.345 de la pareja) pesa menos que ellas dos.
+> Todo lo demás junto (~€2.525 de la pareja) pesa menos que ellas dos.
 
 ---
 
@@ -129,7 +129,7 @@ flowchart LR
   en Windhoek sobre las **13:30–14:30** — y ya sin la presión de entregar a las 17:00.
 - ✅ **El D14 deja de ser un día a pie**: mañana tranquila en Windhoek y salida al aeropuerto
   ~17:00–17:30, repostando a la ida.
-- ✅ **Y la hora dura del 14 está medida**: la facturación de Discover en la T2 **cierra 60 min
+- ◐ **Y la hora dura del 14 está acotada**: la facturación de Discover **cierra 60 min
   antes del despegue — a las 19:45** ◐ *(mostradores abiertos desde 4 h antes;
   [ficha de aeropuertos de Discover](https://www.discover-airlines.com/us/en/book/travel-information/airport-info),
   página en 403 al descargar — extractos convergentes)*. Devolviendo el coche a las ~18:00 quedan
@@ -208,14 +208,17 @@ sin precio y Hoada va en ◐**.
 > **7 noches** —las dos de Windhoek, las dos de Spreetshoogte, las dos de Walvis y Hoada—, todas
 > de camping, que es el tramo barato y predecible.
 
-→ Bloque parcial/sin verificar: **~€126/persona ○** *(con el sesgo al alza de arriba)*. **Alojamiento
-total: ~€570 pareja (~€285/persona)**, del que **~€318 (56 %) está verificado** y **Hoada suma ◐**.
+→ Bloque estimado: **7 noches × ~€25–45 la pareja (central ~€35) ≈ ~€245 pareja / ~€124 por
+persona ○**. **Alojamiento total: ~€740 pareja (~€370/persona)** *(corregido el 08/08: el ~€570
+anterior nunca absorbió el precio real de Terrace Bay — las 7 noches estimadas quedaban en un
+imposible ~€11/noche)*. **Verificado: €492 (66 %)** — los N$6.360 de NWR ✅ y los N$3.480 de
+Terrace Bay ✅ — y **Hoada suma ◐**.
 
 ```mermaid
 flowchart LR
     T["Alojamiento 14 noches · pareja · EUR · EUR"]
-    n0["6 NWR verificadas<br/>318"]
-    n1["8 restantes estimadas<br/>252"]
+    n0["7 verificadas: NWR<br/>y Terrace Bay<br/>492"]
+    n1["7 restantes estimadas<br/>~245"]
     T ~~~ n0
     n0 ~~~ n1
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
@@ -233,7 +236,8 @@ flowchart LR
 - **Distancia (la ruta)**: **~2.757 km** (◐, control OSRM del 08/08 sobre el trazado real —
   la suma del `gantt` de `01` daba ~2.600: Windhoek–
   Spreetshoogte, bajada a Sesriem, Sesriem–Walvis, costa hasta Terrace Bay, Damaraland, subida a
-  Etosha, safaris internos y vuelta a Windhoek; ningún día por encima de ~390 km).
+  Etosha, safaris internos y vuelta a Windhoek; ningún día por encima de ~410 km salvo el
+  regreso final por asfalto, D13 ~550).
 - **Consumo** del Hilux doble cabina cargado con tienda de techo: **11–13 l/100 km** (○, práctica
   común; no verificado contra ficha del vehículo). Central **12 l/100 km**.
 - **Precio del diésel**: la costa (Walvis Bay, precio base nacional) marcaba **N$24,26/l en julio
@@ -248,8 +252,8 @@ flowchart LR
 - **Banda**: **N$7.930–10.440 (~€396–522)** *(2.757 km × 11–13 l/100 km × N$26–29/l — recalculada
   el 08/08 con el control OSRM; la subida de agosto no la desborda)*.
 
-> **Se presupuesta ~N$8.000–8.400 (~€400–420) pareja / ~€200–210 por persona** *(el central subió al
-> extremo alto de la banda tras la revisión de agosto)*. Fuentes del precio:
+> **Se presupuesta ~N$9.000 (~€450) pareja / ~€225 por persona** *(el central ~N$8.932 redondeado
+> al alza; es la cifra que usan los totales de §10 y del README)*. Fuentes del precio:
 > [GlobalPetrolPrices — Namibia diésel](https://www.globalpetrolprices.com/Namibia/diesel_prices/) ·
 > [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) *(403, no abierta aquí)* ·
 > rebaja de julio 2026 en [thebrief.com.na](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/)
@@ -278,7 +282,9 @@ los tres.
 - **Skeleton Coast** (permiso de tránsito + Terrace Bay): ~1 unidad.
 - **Etosha**: 4 noches dentro → ~4 unidades.
 
-→ **~7 unidades × N$620 = ~N$4.340 (~€217) pareja / ~€109 por persona** ◐.
+→ **~7 unidades × N$620 = ~N$4.340 (~€217) pareja / ~€109 por persona** ◐ — y **con la entrada
+propia de Cape Cross (~N$350), ~N$4.690 (~€234) pareja / ~€117 por persona**, que es la cifra
+que usan los totales.
 
 > ➕ **Aparte, FUERA de esas 7 unidades premium: Cape Cross (D7).** El reserva de lobos cobra su
 > propia entrada — **N$150 (~€8)/extranjero + N$50 (~€3)/coche = ~N$350 (~€18) la pareja** ◐, en
@@ -484,17 +490,19 @@ publica en su propia web.
 ## 9. Comida, actividades y misceláneos ○
 
 ### Comida ○ *(sin fuente — práctica común)*
-- **Camping / autoservicio** (supermercado + braai): **~N$300–500 (~€15–25)/día para dos** → 14 días
+- **Camping / autoservicio** (supermercado + braai): **~N$300–500 (~€15–25)/día para dos** → ~14 días de cocina propia *(la del D14 se come en Windhoek antes de volar)*
   ≈ **~N$5.600 (~€280)** pareja / ~€140 por persona. Son órdenes de magnitud, no precios de carta.
 
 ### Actividades — unidades verificadas, selección estimada
 Precios **por persona**, verificados salvo aviso:
 - Lanzadera 4x4 a Deadvlei — **N$180 (~€9)** ✅ (NWR)
 - Sesriem, guiado de mañana / paseo — N$300–700 (~€15–35) ✅ (NWR)
+- Etosha, safari guiado de mañana o tarde — **N$650 (~€33)** ✅ (NWR, los tres campamentos)
 - Etosha, safari nocturno guiado — N$750 (~€38) ✅ (NWR)
 - **Walvis Bay — crucero en barco** (delfines y lobos marinos, ~3 h, del muelle a Pelican Point, con
   refrigerio a bordo — **y en jun–nov, temporada de ballena jorobada**: GBIF de la costa da pico
-  jul–sep y 27 registros aún en noviembre ◐, ficha en la guía de fauna): **~N$1.400–1.990
+  jul–sep y 27 registros aún en noviembre ◐ *(consulta del 08/08, archivada mes a mes en `15`)*,
+  ficha en la guía de fauna): **~N$1.400–1.990
   (~€70–100) por persona** ◐. Catamaran Charters / Sailnamibia
   marcan la banda baja (~N$1.400); Mola Mola la alta, **N$1.990 (~€100)**, mínimo 2 personas, con
   recogida opcional de **+N$470 (~€24)**. *(Un agregador suelta un N$4.570 que contradice a todos los
@@ -535,11 +543,11 @@ colchón **~N$3.000 (~€150) pareja / ~€75 por persona**. No verificado.
 flowchart LR
     T["Por persona<br/>en EUR · camping"]
     n0["Vuelo<br/>1.450"]
-    n1["Coche<br/>900"]
-    n2["Alojam.<br/>285"]
-    n3["Combust.<br/>200"]
+    n1["Coche<br/>1.013"]
+    n2["Alojam.<br/>370"]
+    n3["Combust.<br/>225"]
     n4["Comida<br/>140"]
-    n5["Tasas, seguro,<br/>visado y varios<br/>415"]
+    n5["Tasas, seguro, visado,<br/>safaris y varios<br/>529"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -552,36 +560,37 @@ flowchart LR
 **Desglose por persona (escenario camping):**
 - ✈️ Vuelo **€1.450** ✅
 - 🚙 Coche **~€1.012,50** *(los 13 días cotizados ✅ + los 2 del aeropuerto ◐: mitad de ~N$40.500 ·
-  ~€2.025, la Budget)* — **~€1.162,50 si es la Comfort**
-- ⛺ Alojamiento **~€285** *(€159 verificado + ~€126 estimado)*
+  ~€2.025, la Budget)* — **~€1.125 si es la Comfort** *(N$45.000 · ~€2.250 los 15 días)*
+- ⛺ Alojamiento **~€370** *(€246 verificado ✅ —NWR €159 + Terrace Bay €87— + ~€124 estimado ○)*
 - ⛽ Combustible **~€225** ○/◐
 - 🍖 Comida **~€140** ○
-- 🎫 Tasas de parque **~€109** ◐
+- 🎫 Tasas de parque **~€117** ◐ *(7 × N$620 + la entrada propia de Cape Cross, ~N$350 los dos)*
 - 🩺 Seguro **€113,02** ✅
 - 🛂 Visado **€80** ✅
 - 🎯 Actividades **~€144** ✅ *(tarifas NWR verificadas; selección decidida el 08/08, sin reservar)*
 - 🧷 Misceláneos **~€75** ○
 
-> ### **TOTAL POR PERSONA: ~€3.635 (~N$72.700)** *con la Budget, 15 días y el safari guiado*
-> ### **TOTAL LA PAREJA: ~€7.270 (~N$145.400)**
-> Rango honesto: **€3.485–3.785 por persona** — el margen (±~€150) está en las noches sin
+> ### **TOTAL POR PERSONA: ~€3.725 (~N$74.500)** *con la Budget, 15 días y el safari guiado*
+> ### **TOTAL LA PAREJA: ~€7.450 (~N$149.000)**
+> Rango honesto: **€3.575–3.875 por persona** — el margen (±~€150) está en las noches sin
 > precio, los 2 días de coche por recotizar, el combustible, la comida y los misceláneos.
+> *(Corregido el 08/08: el total anterior arrastraba el alojamiento infravalorado y Cape Cross
+> sin sumar.)*
 >
-> **Lo que todavía puede moverlo** *(ver §2, §7 y §8)*: **+€150 p.p.** si sale la **Comfort** en
-> vez de la Budget *(a 15 días)* · el **precio real del 31-oct** *(fuera de temporada baja ❌)* ·
+> **Lo que todavía puede moverlo** *(ver §2, §7 y §8)*: **+€112,50 p.p.** si sale la **Comfort**
+> en vez de la Budget *(N$300/día × 15 días)* · el **precio real del 31-oct** *(fuera de temporada baja ❌)* ·
 > **+el traslado a Oporto** ida y vuelta y **+el día extra de seguro**, los dos ❌ sin cotizar.
-> **Cuenta ~€3.800 por persona para no llevarte sorpresas.**
+> **Cuenta ~€3.900 por persona para no llevarte sorpresas.**
 
 **Qué parte de este número es sólida:**
-- **✅ Duro — €2.680 de los €3.635 (74 %)**: vuelo €1.450 · los 13 días cotizados del coche
-  €877,50 · 6 noches NWR €159 · seguro €113 · visado €80.
+- **✅ Duro — ~€2.765 de los €3.725 (74 %)**: vuelo €1.450 · los 13 días cotizados del coche
+  €877,50 · 6 noches NWR €159 · Terrace Bay €87 · seguro €113 · visado €80.
 - **✅ Decidido con tarifa verificada — ~€144**: los safaris guiados de Etosha y la lanzadera
   *(selección del 08/08; tarifa NWR real, reserva pendiente en recepción)*.
-- **◐ Corroborado**: tasas de parque (~€109) — el N$280/adulto está en fuente secundaria; el ministerio
-  aún publica la tabla vieja. **Confírmalo por email.**
-- **◐ Corroborado o pendiente de recotizar — ~€244**: tasas de parque (~€109) y los 2 días de
-  coche del aeropuerto (~€135).
-- **○ Estimado — ~€566/persona**: las noches sin precio (~€126), combustible (~€225), comida
+- **◐ Corroborado o pendiente de recotizar — ~€252**: tasas de parque (~€117, Cape Cross dentro —
+  el N$280/adulto está en fuente secundaria: **confírmalo por email**) y los 2 días de coche del
+  aeropuerto (~€135).
+- **○ Estimado — ~€564/persona**: las noches estimadas (~€124), combustible (~€225), comida
   (~€140), misceláneos (~€75).
 
 ### 👥 ¿Y si vais 3 o 4 en el mismo 4x4? — la economía de escala, calculada
@@ -591,28 +600,29 @@ El coche duerme y sienta a más de dos: **ficha verificada ✅ — 5 plazas y 2 
 por cabeza:
 
 - **Se reparte (fijo del grupo)**: coche 15 días **~N$40.500 (~€2.025)** la Budget ◐ *(~N$45.000 ·
-  ~€2.250 la Comfort)* + combustible **~€445 (~N$8.900)** + el vehículo en las tasas (7 × N$60 =
-  **N$420 · ~€21**) → **~€2.491 (~N$49.800)** entre los que vayáis
-- **Va por cabeza**: vuelo €1.450 · alojamiento ~€285 *(el camping NWR se cobra POR PERSONA ✅:
-  Sesriem N$670/pax, Etosha N$460/pax)* · comida ~€140 · tasas de persona 7 × N$280 = **N$1.960
-  (~€98)** · seguro ~€113 · visado €80 · actividades guiadas ~€144 · misceláneos ~€75 → **~€2.385 (~N$47.700)**
+  ~€2.250 la Comfort)* + combustible **~€450 (~N$9.000)** + el vehículo en las tasas (7 × N$60 +
+  el coche de Cape Cross = **N$470 · ~€23,5**) → **~€2.499 (~N$50.000)** entre los que vayáis
+- **Va por cabeza**: vuelo €1.450 · alojamiento ~€370 *(el camping NWR se cobra POR PERSONA ✅:
+  Sesriem N$670/pax, Etosha N$460/pax — y Terrace Bay, por persona en DBB)* · comida ~€140 ·
+  tasas de persona 7 × N$280 = **N$1.960 (~€98) + Cape Cross N$150 (~€7,5)** · seguro ~€113 ·
+  visado €80 · actividades guiadas ~€144 · misceláneos ~€75 → **~€2.478 (~N$49.600)**
 
 ```mermaid
 flowchart LR
     T["Total por persona segun cuantos vais<br/>EUR · camping"]
-    n0["2 personas<br/>3.635"]
-    n1["3 personas<br/>3.215"]
-    n2["4 personas<br/>3.010"]
+    n0["2 personas<br/>3.725"]
+    n1["3 personas<br/>3.310"]
+    n2["4 personas<br/>3.100"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
-- **2 personas** — **~€3.635 (~N$72.700)/persona** · grupo ~€7.270 (~N$145.400)
-- **3 personas** — **~€3.215 (~N$64.300)/persona** · grupo ~€9.646 (~N$192.900) → *ahorra
-  ~€420/persona (−12 %) respecto a ir dos*
-- **4 personas** — **~€3.010 (~N$60.200)/persona** · grupo ~€12.031 (~N$240.600) → *ahorra
+- **2 personas** — **~€3.725 (~N$74.500)/persona** · grupo ~€7.450 (~N$149.000)
+- **3 personas** — **~€3.310 (~N$66.200)/persona** · grupo ~€9.930 (~N$198.600) → *ahorra
+  ~€415/persona (−11 %) respecto a ir dos*
+- **4 personas** — **~€3.100 (~N$62.000)/persona** · grupo ~€12.405 (~N$248.100) → *ahorra
   ~€625/persona (−17 %)*
 
 > ⚠️ **Cuatro letras pequeñas antes de invitar a nadie:**
@@ -620,7 +630,7 @@ flowchart LR
 >    cambiar: recotiza antes de prometer el número ❌.
 > 2. **El seguro (€113,02 p.p.) es la simulación de 2 viajeros** — el p.p. a 3–4 se asume lineal ○:
 >    pide cotización.
-> 3. **Las 8 noches sin precio (~€126 p.p. ○)** son campings por persona salvo la habitación de
+> 3. **Las 7 noches estimadas (~€124 p.p. ○)** son campings por persona salvo la habitación de
 >    Terrace Bay: con 3–4 puede salir algo mejor o algo peor. Y el **límite de
 >    personas por parcela NWR no está verificado** — pregúntalo al reservar ❌.
 > 4. **El espacio es el precio oculto**: doble cabina con nevera, cajas de camping y equipaje de 4 —
@@ -631,14 +641,15 @@ flowchart LR
 
 ## 11. Qué parte de este número es sólida
 
-- **✅ Duro — €2.680 de los €3.635 (74 %)**: vuelo €1.450 · los 13 días cotizados del coche €877,50 ·
-  las 6 noches de NWR €159 · seguro €113 · visado €80. Todo con precio real para las fechas exactas.
+- **✅ Duro — ~€2.765 de los €3.725 (74 %)**: vuelo €1.450 · los 13 días cotizados del coche €877,50 ·
+  las 6 noches de NWR €159 · Terrace Bay €87 · seguro €113 · visado €80. Todo con precio real para
+  las fechas exactas.
 - **✅ Decidido con tarifa verificada — ~€144**: los safaris guiados de Etosha (3 mañanas + nocturno)
   y la lanzadera de Deadvlei — tarifas NWR reales, selección del 08/08, reserva en recepción.
-- **◐ Corroborado o por recotizar — ~€244**: las tasas de parque (~€109; la gaceta localizada, el
-  PDF primario del MEFT sin abrirse) y los 2 días de coche del aeropuerto (~€135, decididos el
-  07/08 y pendientes de recotizar — el 31-oct fuera de temporada baja ❌).
-- **○ Estimado — ~€566**: seis noches de camping sin cotizar (más Hoada ◐), combustible, comida y
+- **◐ Corroborado o por recotizar — ~€252**: las tasas de parque (~€117 con Cape Cross; la gaceta
+  localizada, el PDF primario del MEFT sin abrirse) y los 2 días de coche del aeropuerto (~€135,
+  decididos el 07/08 y pendientes de recotizar — el 31-oct fuera de temporada baja ❌).
+- **○ Estimado — ~€564**: seis noches de camping sin cotizar (más Hoada ◐), combustible, comida y
   misceláneos. **Ese es el margen real: ±€150 por persona.**
 
 > **El inventario completo de lo que sigue abierto** —incluidos los importes que faltan y las

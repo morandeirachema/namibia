@@ -238,6 +238,36 @@ la única forma de estar en Deadvlei al amanecer.
 
 ---
 
+## 🦁 El safari de Etosha — decidido GUIADO ✅ *(08/08/2026)*
+
+Criterio del viajero: *«el safari es un 90 % un buen guía»*. **3 salidas de mañana** (una por
+campamento, N$650 pp ✅) + **el nocturno de Namutoni** (N$750 pp ✅) = **N$5.400 (~€270) la
+pareja** — un extra de ~€97,50 p.p. sobre el plan anterior, que solo compraba el nocturno. Tarifa NWR verificada, **sin reservar**: horarios
+de salida ❌ no publicados y pre-reserva incierta en temporada de lluvias — se cierra en
+recepción (la pregunta a NWR está en el README, punto 7). Los traslados entre campamentos siguen
+siendo con el 4x4. El análisis descartado, en `16` §7.
+
+## 🐾 Dos fichas nuevas en la guía — añadidas *(08/08/2026)*
+
+**Babuino chacma** *(56 registros GBIF en el Namib, 58 en Damaraland ✅ — cifras en el JSON
+versionado; el «mono» real de esta ruta)* y **ballena jorobada** *(210 en la costa, 55 en
+oct–nov ✅)*. La guía pasa de 83 a **85 fichas** y las imágenes de 120 a **122**, con licencia y
+autor verificados.
+
+**El archivo de la consulta puntual del 08/08/2026** *(API de GBIF sobre los polígonos de las
+zonas; NO está en el JSON del build —que solo guarda totales y oct–nov— y por eso se deja aquí
+mes a mes, ◐)*:
+
+- **Jorobada, costa, por meses (ene→dic): 0 · 0 · 6 · 8 · 8 · 22 · 25 · 42 · 34 · 28 · 27 · 5**
+  → migración **jun–nov**, pico jul–sep, y noviembre todavía en temporada. El crucero del D6
+  (5–6 nov) cae dentro.
+- **Heaviside y mular**: registros repartidos por todos los meses — sin estacionalidad que
+  planificar ◐.
+- **Mono vervet** *(Chlorocebus pygerythrus)*: **sin un solo registro en las cuatro zonas** de la
+  ruta → se descartó su ficha a propósito; habría sido el «plausible pero falso» que este repo
+  prohíbe. *(No está en el catálogo, así que este cero no se re-genera con `make avistam`: vive
+  solo aquí, con su fecha.)*
+
 ## 🧳 Franquicia de equipaje — cerrada ✅ *(07/08/2026)*
 
 Era uno de los huecos del README *(«tres aerolíneas en la vuelta»)* y se cierra con fuente

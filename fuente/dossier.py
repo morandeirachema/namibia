@@ -142,7 +142,7 @@ RESUMEN = {
     "06": "El vuelco, el contrato, las presiones, la arena y las puertas de Sesriem.",
     "07": "Gasolineras, dinero, cobertura y emergencias.",
     "08": "El súper parada a parada, la ley del alcohol, dónde comer y la aduana.",
-    "09": "Cómo funciona el safari en seco, y la guía de campo de 83 especies.",
+    "09": "Cómo funciona el safari en seco, y la guía de campo de 85 especies.",
     "10": "Los Lone Stone Men, la cascada del Uniab, los círculos de hadas.",
     "11": "Lo que cuesta entrar en cada sitio de la ruta, los permisos y la norma de drones.",
     "12": "Lo que superó la verificación a tres votos, y lo que quedó refutado.",
@@ -338,7 +338,7 @@ def portada(total_paginas=None):
     <div class="datos">
       Un 4×4 con tienda de techo · <b>30 de octubre – 15 de noviembre</b><br>
       Desierto → costa → Damaraland → <b>cuatro noches dentro de Etosha</b><br>
-      ~2.757 km · <b>~€3.635 por persona</b>, todo incluido
+      ~2.757 km · <b>~€3.725 por persona</b>, todo incluido
     </div>
     <div class="pie"><span>{pie_izq}</span><span>{pie_der}</span></div>
   </div>
@@ -391,7 +391,7 @@ def indice(paginas):
     extra = []
     for clave, nombre in [("mapas", "Los mapas: la ruta y las charcas de Etosha"),
                           ("presentacion", "El viaje de un vistazo"),
-                          ("fauna", "La guía de campo va aparte — 83 especies con foto"),
+                          ("fauna", "La guía de campo va aparte — 85 especies con foto"),
                           ("creditos", "Créditos de las fotografías")]:
         p = paginas.get(clave, "")
         extra.append(f'<li><span class="n"></span><span class="t">{nombre}</span>'
@@ -453,7 +453,7 @@ def paginas_de_mapas():
       <span class="dor">14 noches — 13 en tienda</span></li>
   </ol>
   <p class="nota-tabla">Los kilómetros de esta tabla son <b>de carretera, puerta a puerta</b>,
-  medidos con OSRM sobre el trazado de OpenStreetMap el 4 de agosto de 2026. No incluyen los
+  medidos con OSRM sobre el trazado de OpenStreetMap el 8 de agosto de 2026. No incluyen los
   desvíos a charcas dentro de Etosha ni las vueltas del día de descanso.</p>
 </section>
 

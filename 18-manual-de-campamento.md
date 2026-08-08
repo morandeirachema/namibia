@@ -147,12 +147,12 @@ vive: **de la batería del coche** — y ahí está el único riesgo real ❌:
 
 El safari no termina en la puerta de la parcela — la fauna de campamento tiene su propio manual:
 
-- **Chacal de lomo negro** — el fijo del anochecer ✅ *(su ficha lo dice: «merodeando los
-  campamentos a por las sobras»)*. No se le da de comer **nunca** ✅ *(norma del parque)*: nada
+- **Chacal de lomo negro** — el fijo del anochecer ○ *(y el carnívoro más registrado de la ruta
+  en GBIF: 271 registros solo en la costa ◐)*. No se le da de comer **nunca** ✅ *(norma del parque)*: nada
   comestible a la vista, nevera y coche cerrados al ir a la charca.
 - **Babuino chacma** en miradores y áreas de descanso ○: ventanillas arriba si te alejas del
   coche con comida dentro a la vista. *(Es el «mono» de esta ruta — ficha en la guía; el vervet
-  ni aparece: 0 registros GBIF en las cuatro zonas.)*
+  ni aparece: sin un solo registro en la consulta GBIF del 08/08, archivada en `15`.)*
 - **Escorpión y serpientes**: el protocolo entero está en la [guía de fauna](guia-fauna-etosha.pdf)
   y cabe en una línea — **botas sacudidas, linterna al baño, mirar dónde pisas al anochecer** ○.
 - **Mosquito al anochecer**: manga larga y repelente desde el crepúsculo ✅ — Etosha es zona de

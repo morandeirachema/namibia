@@ -182,8 +182,9 @@ flowchart LR
 Con el vuelo cerrado *(31 oct 09:25 → 14 nov 20:45)* y el coche aeropuerto → aeropuerto *(07/08)*,
 se auditó si la ruta cuadraba con la llegada y la salida. **Resultado: cabe exacta —15 días de
 suelo, 14 noches— y no falta ni sobra ningún día en bruto.** Pero una noche estaba mal invertida:
-el **domingo 1 de noviembre en Windhoek** (D1), un día en una ciudad **cerrada por ley** —bottle
-stores y comercio—, con la compra ya hecha del sábado y jet lag de +1 h (ninguno).
+el **domingo 1 de noviembre en Windhoek** (D1): las **bottle stores cerradas por ley** ✅, los
+súper a media jornada ◐, la compra ya hecha del sábado y jet lag de +1 h (ninguno) — un día de
+ciudad a medio gas ○.
 
 **Decisión del viajero (08/08/2026): esa noche pasa a una 2ª noche en Spreetshoogte.** Se sale de
 Windhoek el domingo por la mañana, descansados; atardecer y amanecer en el paso; y el lunes queda
@@ -212,8 +213,8 @@ en seguridad pura, pero cuesta el colchón de llegada y un camping nuevo sin ver
 dossier decía que de día el guiado «no cambia el viaje» —ya hay 4x4 y trece horas de puerta—; el
 viajero lo decidió al revés y con criterio explícito: *«el safari es un 90 % un buen guía»*.
 Queda así: **tres salidas de mañana** (una por campamento, N$650 pp ✅) más **el nocturno de
-Namutoni** (N$750 pp ✅) — **N$5.400 (~€270) la pareja, +~€135 p.p.** sobre el plan anterior, que
-solo compraba el nocturno. Los traslados entre campamentos siguen siendo con el 4x4 *(el coche
+Namutoni** (N$750 pp ✅) — **N$5.400 (~€270) la pareja — un extra de ~€97,50 p.p.** sobre el plan anterior, que
+solo compraba el nocturno (N$750 pp). Los traslados entre campamentos siguen siendo con el 4x4 *(el coche
 viaja con vosotros: no hay alternativa)* y el análisis antiguo queda registrado por si se revisa.
 ⚠️ La reserva de las salidas se cierra **en recepción al llegar**: horarios ❌ no publicados y
 pre-reserva incierta en temporada de lluvias.
