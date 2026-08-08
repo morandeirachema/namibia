@@ -7,7 +7,7 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 08/08/2026*
 
 > ## 📐 Para qué sirve este documento
 > Es la **aritmética de la ruta**: a qué velocidad se puede planificar de verdad en Namibia, cuánto
@@ -18,6 +18,9 @@
 > Lufthansa. Las variantes que respetaban el sur se retiraron de aquí el 03/08 y **siguen en el
 > historial de git** *(`git show d0320c3^:13-itinerario.md`)*; el análisis que las comparaba está
 > archivado en [`16`](16-punto-de-decision.md). Aquí ya solo se mide la ruta que se va a conducir.
+> *Último retoque (08/08): la 2ª noche de Windhoek pasó a 2ª noche de Spreetshoogte — mismos
+> kilómetros, un día antes cada etapa del desierto no-NWR; de Sesriem (D3) en adelante nada se
+> mueve. El análisis, en `16`.*
 
 ---
 
@@ -74,8 +77,12 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
 **media real 60–70** · parque a 60 · **+30–60 min de paradas** por día de tránsito · un pinchazo =
 +1 h que no está en ninguna cifra.
 
-- **D2 · Windhoek → Spreetshoogte (~180–200 km ◐)** — 87 km asfalto (~50 min) + ~95–115 km de
-  grava (a 60–70: 1h25–1h55) → **mínimo ~2h15 · realista 3h–3h30 con paradas** ✓ *(coincide con `01`)*
+- **D1 · Windhoek → Spreetshoogte (~180–200 km ◐)** — 87 km asfalto (~50 min) + ~95–115 km de
+  grava (a 60–70: 1h25–1h55) → **mínimo ~2h15 · realista 3h–3h30 con paradas** ✓ *(coincide con `01`;
+  desde el 08/08 esta etapa es el domingo 1, no el lunes 2)*
+- **D2 · Día entero en la escarpa (0 km de tránsito, decidido 08/08)** — jornada sin volante:
+  amanecer y atardecer en el mirador. **Es el colchón del calendario**: cae antes de la primera
+  reserva NWR (Sesriem, D3)
 - **D3 · Spreetshoogte → Solitaire → Sesriem (~150–170 km ◐)** — grava entera (a 60–70:
   2h10–2h50) + parada en Solitaire → **realista ~2h30–3h** ✓
 - **D4 · Sossusvlei (130 km, dentro del parque ✅)** — ~120 km a 60 = 2h de volante repartidas en

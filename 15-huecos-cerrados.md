@@ -117,7 +117,7 @@ cálculo reproduce los números ya publicados** en las celdas conocidas:
 Tres regímenes distintos (meseta, sabana, desierto) clavados a **±0,04 °C**: el mismo tubo de
 cálculo aplicado a los puntos sin medir es fiable. Con eso:
 
-- 🏔️ **Spreetshoogte** *(campamento del D2, borde de la escarpa ~1.700 m)* — **media de máximas de
+- 🏔️ **Spreetshoogte** *(campamento del D1–D2, borde de la escarpa ~1.700 m)* — **media de máximas de
   noviembre 31,5 °C / mínima 17,1 °C** ◐ *(ERA5, celda −24,00 / 16,00)*. **Corrobora el proxy de
   Windhoek** que ya usaba `01`: misma altitud, mismo clima de meseta. Días extremos de la serie
   entre 22,5 y **38,0 °C**. Como es meseta —el terreno donde ERA5 apenas tiene sesgo— el número se
@@ -264,7 +264,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 **Precios sin cerrar — el margen real del presupuesto:**
 
-- 🛏️ **Tres campings sin cotizar**: Windhoek (D0–D1 y D13), Walvis Bay (D5–D6) y Spreetshoogte. Los
+- 🛏️ **Tres campings sin cotizar**: Windhoek (D0 y D13), Walvis Bay (D5–D6) y Spreetshoogte (D1–D2, dos noches desde el 08/08). Los
   sitios están identificados; **ninguno publica tarifa abrible desde aquí**. **Reintento 05/08 —
   el muro de `403` es total**: no solo las webs propias, también **todos los agregadores y hasta
   ioverlander** *(arebbusch.com, africanreservations.com, madbookings.com, booking.com y

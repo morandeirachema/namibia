@@ -68,12 +68,15 @@ PUNTOS = {
 # Cada etapa es un dia. `por` son los puntos por los que OSRM tiene que pasar, en orden.
 # `bloque` agrupa por tramo del viaje y decide el color de la linea en el mapa.
 ETAPAS = [
-    {"id": "D1", "fecha": "1 nov", "bloque": "llegada",
-     "titulo": "Llegada a Windhoek", "duerme": "windhoek",
+    {"id": "D0", "fecha": "31 oct", "bloque": "llegada",
+     "titulo": "Llegada, coche y compra en Windhoek", "duerme": "windhoek",
      "por": ["aeropuerto", "windhoek"]},
-    {"id": "D2", "fecha": "2 nov", "bloque": "desierto",
+    {"id": "D1", "fecha": "1 nov", "bloque": "desierto",
      "titulo": "Windhoek → paso de Spreetshoogte", "duerme": "spreetshoogte",
      "por": ["windhoek", "rehoboth", "spreetshoogte"]},
+    {"id": "D2", "fecha": "2 nov", "bloque": "desierto",
+     "titulo": "Día en la escarpa de Spreetshoogte", "duerme": "spreetshoogte",
+     "por": []},
     {"id": "D3", "fecha": "3 nov", "bloque": "desierto",
      "titulo": "Spreetshoogte → Solitaire → Sesriem", "duerme": "sesriem",
      "por": ["spreetshoogte", "solitaire", "sesriem"]},
