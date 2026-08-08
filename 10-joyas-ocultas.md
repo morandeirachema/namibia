@@ -29,17 +29,30 @@ en **2022, dieciséis de ellas representaron a Namibia en su primer pabellón de
 Venecia** (*«A Bridge to the Desert»*). ¿Cuántas hay? Nadie lo sabe: se han documentado 14–23,
 existe al menos la **nº 37**, y se rumorean más de cuarenta.
 
-**Dónde buscarlas en TU viaje** *(sin coordenadas — encontrarlas es la gracia)*:
-- **D7–D8 · dentro del Skeleton Coast NP** ◐: hay avistamientos documentados en el propio parque —
-  tu tramo Ugabmund → Terrace Bay → Springbokwasser. Ojos abiertos en crestas, lechos de río y
-  salientes junto a la pista.
-- **D0 o D14 · Windhoek** ○: hay una en la propia ciudad — el *«Telephone Man»* (*No Answer*); el
-  blog Overlandbirds publica dónde.
-- El núcleo duro (Purros, Van Zyl's Pass, la D3707) queda en el **Kaokoveld profundo: fuera de
-  ruta y fuera de seguro** — para otro viaje. *(Las coordenadas circulan en el grupo de Facebook
-  «Overlanding GPS Logs & Tracks».)*
+**La guía para TU recorrido** *(regla de la casa: las del desierto van sin coordenadas —
+encontrarlas es la gracia; la urbana tiene pin público y se da)*:
 
-Fuentes: [Bienal de Venecia](https://www.labiennale.org/en/art/2022/national-participations/namibia) y
+- **D0 o D14 · Windhoek — la SEGURA: «No Answer», el *Telephone Man*** ◐. Figura urbana del
+  mismo proyecto, esperando junto a una cabina que no va a sonar. Es **la única con ubicación
+  publicada** *(Overlandbirds: **S 22°33,838′ E 17°04,227′**, en pleno centro)* — queda **a ~2 km
+  a pie del Craft Centre ○: encaja en la mañana de regalos del D14**, o el D0 si sobran fuerzas.
+- **D7–D8 · Skeleton Coast NP — las POSIBLES** ◐: Wikipedia documenta avistamientos «en partes
+  del parque» y hay foto de agencia de un Lone Man **en un mirador del Skeleton Coast** (Alamy).
+  Vuestro tramo **Ugabmund → Terrace Bay → Springbokwasser es exactamente ese terreno**: ojos a
+  crestas, lechos de río y salientes junto a la pista, sobre todo al bajar en las paradas. Se
+  reconocen por el **disco de aluminio numerado con su mensaje**. Nadie garantiza ninguna: esa
+  es la obra.
+- **El núcleo duro** (Purros, Van Zyl's Pass, Otjinungua, la D3707) queda en el **Kaokoveld
+  profundo: fuera de ruta y fuera de seguro** — para otro viaje. *(Las coordenadas circulan en
+  el grupo de Facebook «Overlanding GPS Logs & Tracks»: se piden, no se publican ○.)*
+
+**La etiqueta, que es parte de la obra** ○: se tocan con los ojos — ni moverlos, ni
+«recolocarlos» para la foto, ni llevarse el disco; y si dais con uno no documentado, la norma de
+la comunidad es **no publicar sus coordenadas**. El lema del autor lo dice todo: *«Art Before
+Artist»*.
+
+Fuentes: [foto del Lone Man en un mirador del Skeleton Coast — Alamy](https://www.alamy.com/stone-man-by-artist-renn-at-skeleton-coast-view-point-in-the-namib-desert-lone-men-kaokoland-kunene-region-namibia-africa-image499103414.html) ◐ ·
+[Bienal de Venecia](https://www.labiennale.org/en/art/2022/national-participations/namibia) y
 [biennalenamibia.art](https://biennalenamibia.art/eng/1399) ✅ ·
 [Wikipedia — The Lone Stone Men](https://en.wikipedia.org/wiki/The_Lone_Stone_Men) ·
 [Travel News Namibia](https://travelnam.com/mysterious-lone-men-kaokoland/) ◐ ·
