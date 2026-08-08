@@ -10,7 +10,7 @@ rinoceronte negro»— y cubre las catorce especies que la gente va buscando. Se
 de los tres campamentos del viaje: Okaukuejo, Halali y Namutoni.
 
 **2 · GBIF**, el agregador mundial de registros de biodiversidad (museos,
-anillamientos, eBird, iNaturalist, atlas de aves), cubre las 85. De ahi sale algo
+anillamientos, eBird, iNaturalist, atlas de aves), cubre las 91. De ahi sale algo
 honesto y reproducible: de cada 100 registros de mamifero dentro de Etosha en octubre
 y noviembre, cuantos son de esta especie.
 

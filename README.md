@@ -113,7 +113,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
-🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(19 páginas, 85 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
+🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(19 páginas, 91 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
 
 </div>
 
@@ -493,7 +493,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 9. ⛺ [**`18-manual-de-campamento`**](18-manual-de-campamento.md) — **vivir del coche**: la rutina de la tarde, la tienda, el braai, la nevera y los vecinos del campamento
 10. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
 11. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
-12. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 85 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
+12. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 91 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 13. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
 14. 📍 [**`11-lista-google-maps`**](11-lista-google-maps.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 

@@ -2,7 +2,7 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> El índice de la guía de campo en PDF: 85 especies con foto, cómo reconocerlas, **qué
+> El índice de la guía de campo en PDF: 91 especies con foto, cómo reconocerlas, **qué
 > posibilidades hay de verlas** y dónde y cuándo.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
@@ -12,7 +12,7 @@
 > añadidos el 07/08/2026*
 
 📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 19 páginas A4,
-**85 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
+**91 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
 cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
 
@@ -40,7 +40,7 @@ la guía usa las dos —cada una con su etiqueta, porque **no miden lo mismo**�
 ```mermaid
 flowchart LR
     A["14 especies grandes<br/>PARTES DE VIAJEROS"] --> A1["% que lo vio<br/>durante su estancia<br/>en el campamento"]
-    B["las otras 71<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
+    B["las otras 77<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
     A1 --> C["frecuente / escasa<br/>siempre con la muestra"]
     B1 --> C
     style A fill:#EDF1E4,stroke:#5F7043
@@ -83,7 +83,7 @@ táctica de la charca** *(motor apagado y tres cuartos de hora, que es lo que de
 ✅: 60 km/h, no bajar del coche fuera de los campamentos, no salirse de las pistas y estar dentro
 antes de que cierre la puerta.
 
-## El «dónde y cuándo», en 37 de las 85 fichas
+## El «dónde y cuándo», en 37 de las 91 fichas
 
 Charca por charca y con su fuente: **Okondeka** para el león, **Halali y Goas** para el leopardo,
 **Salvadora–Sueda–Charitsaub** para el guepardo, el **Dik-dik Drive** nada más entrar por Von
@@ -113,9 +113,9 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ---
 
-## Las 85 especies
+## Las 91 especies
 
-### 🦁 Mamíferos (32)
+### 🦁 Mamíferos (36)
 
 - **Elefante africano de sabana** — *Loxodonta africana* · African bush elephant
 - **Rinoceronte negro** — *Diceros bicornis* · Black rhinoceros
@@ -148,11 +148,17 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Klipspringer o saltarrocas** — *Oreotragus oreotragus* · Klipspringer
 - **Mangosta amarilla** — *Cynictis penicillata* · Yellow mongoose
 - **Oricteropo o cerdo hormiguero** — *Orycteropus afer* · Aardvark
+- **Mangosta rayada** — *Mungos mungo* · Banded mongoose *(añadida el 08/08: 400 registros GBIF
+  en Etosha, 101 en oct–nov — el gran ausente que destapó la revisión)*
+- **Zorro del Cabo** — *Vulpes chama* · Cape fox *(añadido el 08/08: objetivo del nocturno guiado)*
+- **Gato montés africano** — *Felis lybica* · African wildcat *(añadido el 08/08: ídem)*
+- **Lobo de tierra** — *Proteles cristata* · Aardwolf *(añadido el 08/08: ídem — nocturno estricto,
+  GBIF lo infrarregistra como a la liebre saltadora)*
 - **Babuino chacma** — *Papio ursinus* · Chacma baboon *(añadido el 08/08: es el «mono» real de
   los miradores y campamentos de esta ruta — el vervet se descartó a propósito: sin un solo
   registro en la consulta GBIF del 08/08, archivada en `15`)*
 
-### 🦅 Aves (28)
+### 🦅 Aves (30)
 
 - **Avestruz común** — *Struthio camelus* · Common ostrich
 - **Avutarda kori** — *Ardeotis kori* · Kori bustard
@@ -181,6 +187,9 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Cormorán del Cabo** — *Phalacrocorax capensis* · Cape cormorant
 - **Charrán damara** — *Sternula balaenarum* · Damara tern
 - **Ostrero africano** — *Haematopus moquini* · African oystercatcher
+- **Gaviota de Hartlaub** — *Chroicocephalus hartlaubii* · Hartlaub's gull *(añadida el 08/08:
+  6.334 registros GBIF en la costa — el ave más registrada de la laguna sin ficha)*
+- **Avoceta común** — *Recurvirostra avosetta* · Pied avocet *(añadida el 08/08: 3.944 en la costa)*
 - **Francolín de pico rojo** — *Pternistis adspersus* · Red-billed spurfowl
 
 ### 🦎 Reptiles (11)
@@ -239,8 +248,8 @@ desde `imprimir.py`, que es quien pone los números de página.
 
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
 imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
-que están las 122 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
-las páginas que deben y que los datos de avistamiento cubren las 85 especies.
+que están las 128 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
+las páginas que deben y que los datos de avistamiento cubren las 91 especies.
 
 *Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son 5,6 MB, y a cambio el PDF
 se puede regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una

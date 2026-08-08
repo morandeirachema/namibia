@@ -51,7 +51,7 @@ def metodo():
   duerme en los tres <em>(Okaukuejo 1 noche, Halali 1, Namutoni 2)</em> son <strong>tres
   tiradas</strong>: en las cuatro noches la posibilidad real es más alta que cualquiera de
   estos números. Cuánto más, no lo dicen estos datos, así que no se dice.</p>
-  <p>Eso solo existe para catorce especies. Para las otras setenta y una va un
+  <p>Eso solo existe para catorce especies. Para las otras setenta y siete va un
   <strong>índice de registros de GBIF</strong>: cuánto pesa la especie dentro de los
   registros de su grupo en la zona <strong>en octubre y noviembre</strong> —{mam} de
   mamífero y {aves} de ave solo en Etosha—. Mide <em>lo que se registra</em>, no <em>lo
@@ -133,7 +133,7 @@ def verlo(slug):
 
     Si Expert Africa publica el porcentaje de sus viajeros que lo vio en alguno de los
     tres campamentos, ese numero manda: es una probabilidad de avistamiento de verdad.
-    Si no, va el indice de registros de GBIF, que cubre las 85 pero mide otra cosa —lo
+    Si no, va el indice de registros de GBIF, que cubre las 91 pero mide otra cosa —lo
     que se registra, no lo que se ve— y por eso lleva otra etiqueta.
     """
     p = avistamientos.porcentajes(slug)
@@ -186,7 +186,7 @@ def total():
 def remite_desde_dossier(ancla=""):
     """El dossier NO lleva las fichas dentro: solo remite a la guia suelta.
 
-    Meter las 85 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
+    Meter las 91 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
     varios megas, y duplicaba un documento que ya existe aparte y que ademas se imprime
     solo para llevarlo en la guantera. Aqui queda el enlace y el resumen de lo que hay.
     """

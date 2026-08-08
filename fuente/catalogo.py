@@ -167,6 +167,14 @@ MAMIFEROS = [
      'Orycteropus afer 175359469.jpg'),
     ('babuino-chacma', 'Babuino chacma', 'Chacma baboon', 'Papio ursinus',
      'Chacma baboon (Papio ursinus griseipes) male head.jpg'),
+    ('mangosta-rayada', 'Mangosta rayada', 'Banded mongoose', 'Mungos mungo',
+     '168 Banded mongoose in Etosha National Park Photo by Giles Laurent.jpg'),
+    ('zorro-del-cabo', 'Zorro del Cabo', 'Cape fox', 'Vulpes chama',
+     'Vulpes chama (Etosha).jpg'),
+    ('gato-montes-africano', 'Gato montés africano', 'African wildcat', 'Felis lybica',
+     'African Wildcat (Felis lybica) (51659798835).jpg'),
+    ('lobo-de-tierra', 'Lobo de tierra', 'Aardwolf', 'Proteles cristata',
+     'Aardwolf, Namaqua National Park, South Africa 1.jpg'),
 ]
 
 AVES = [
@@ -224,6 +232,10 @@ AVES = [
      'Damara Tern (8077271589).jpg'),
     ('ostrero-africano', 'Ostrero africano', 'African oystercatcher', 'Haematopus moquini',
      'African Black Oystercatcher (2).JPG'),
+    ('gaviota-hartlaub', 'Gaviota de Hartlaub', "Hartlaub's gull", 'Chroicocephalus hartlaubii',
+     'Gaviota de Hartlaub (Chroicocephalus hartlaubii), Walvis Bay, Namibia, 2018-08-05, DD 31.jpg'),
+    ('avoceta', 'Avoceta común', 'Pied avocet', 'Recurvirostra avosetta',
+     'Pied Avocet at Walvis Bay, Namibia.jpg'),
     ('francolin-picorrojo', 'Francolín de pico rojo', 'Red-billed spurfowl', 'Pternistis adspersus',
      '2011-red-billed-francolin.jpg'),
 ]
