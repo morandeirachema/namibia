@@ -51,7 +51,7 @@ def metodo():
   duerme en los tres <em>(Okaukuejo 1 noche, Halali 1, Namutoni 2)</em> son <strong>tres
   tiradas</strong>: en las cuatro noches la posibilidad real es más alta que cualquiera de
   estos números. Cuánto más, no lo dicen estos datos, así que no se dice.</p>
-  <p>Eso solo existe para catorce especies. Para las otras sesenta y nueve va un
+  <p>Eso solo existe para catorce especies. Para las otras setenta y una va un
   <strong>índice de registros de GBIF</strong>: cuánto pesa la especie dentro de los
   registros de su grupo en la zona <strong>en octubre y noviembre</strong> —{mam} de
   mamífero y {aves} de ave solo en Etosha—. Mide <em>lo que se registra</em>, no <em>lo

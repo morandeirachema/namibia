@@ -31,7 +31,8 @@
 </div>
 
 **~2.757 km · 15 días de coche, aeropuerto → aeropuerto (31 oct – 14 nov, decidido 07/08) ·
-ningún día por encima de ~390 km · dos noches en la escarpa de Spreetshoogte (decidido 08/08),
+ningún día por encima de ~410 km salvo el regreso por asfalto (D13, ~550) · dos noches en la
+escarpa de Spreetshoogte (decidido 08/08),
 dos en Sesriem, dos en la costa y CUATRO en Etosha ·
 llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
 
@@ -169,8 +170,8 @@ flowchart LR
   inmigración con el e-visa impreso (`04`) y maletas: cuenta **~45 min–1 h** ○ *(sin dato
   publicado de colas; es un avión de largo radio entero de golpe)*
 - 💱 **~10:15–11:00 · dinero y SIM sin salir de la terminal** — cajeros de FNB y Bank Windhoek ✅:
-  **N$500–1.000 (~€25–50) de bolsillo** *(el del aeropuerto admite hasta ~N$3.000 · ~€150; la carga
-  grande, mejor en ciudad — cajero junto a sucursal, ver `07`)* — y la **SIM turista de MTC**
+  **N$500–1.000 (~€25–50) de bolsillo** ○ *(el del aeropuerto admite hasta ~N$3.000 · ~€150,
+  reportes de viajeros ○; la carga grande, mejor en ciudad — cajero junto a sucursal, ver `07`)* — y la **SIM turista de MTC**
   *(«Leisure» N$349 · ~€17, registro con pasaporte obligatorio; ver `07`)*
 - 🚙 **~11:00–13:00 · recogida del 4×4 EN el aeropuerto — DECIDIDO (07/08/2026)** ⚠️ *entrega en
   aeropuerto por confirmar al recotizar* ❌. **Briefing sin prisa (1–2 h)**: presiones en frío
@@ -218,10 +219,10 @@ flowchart LR
   el plan del día: en posición hacia las 18:40*
 - B1 a Rehoboth (87 asfalto) → C24 → D1261 → **D1275: el paso**. ⚠️ **Muy empinado**, tramos de
   hormigón para tracción, prohibido a caravanas — se baja despacio y es espectacular
-- 💧🪵💶 **La carga de escarpa se hizo AYER**: agua **≥5–6 garrafas de 5 L** *(4 L/persona/día,
-  `06` — y el D2 es un día entero al sol)*, **leña para DOS braais** y **efectivo**: en
-  Spreetshoogte **no consta tienda, restaurante ni datáfono** ❌ *(~N$480–1.200 · ~€24–60 los dos
-  por las dos noches, según la banda de `15`)*. Sin cajero fiable hasta Swakopmund (D6): **no
+- 💧🪵💶 **La carga de escarpa se hizo AYER**: agua **≥5–6 garrafas de 5 L** ○ *(la regla de 4 L/persona/día
+  de `06` es de coche; el día entero al sol del D2 y la cocina suman)*, **leña para DOS braais** y **efectivo**: en
+  Spreetshoogte **no consta tienda, restaurante ni datáfono** ❌ *(~N$600–1.200 · ~€30–60 los dos
+  por las dos noches, con la banda de 150–300 ZAR/persona de `15`)*. Sin cajero fiable hasta Swakopmund (D6): **no
   bajar de N$4.000 (~€200)** *(`07`)*
 - 🌇 **Atardecer desde el mirador del paso**: el Namib a 1.000 m bajo tus pies
 - 🐾 **Alrededor del campamento: sin parte de avistamientos — es granja privada en la escarpa** ❌.
@@ -277,9 +278,10 @@ flowchart LR
 - ☀️ amanecer **06:15** · anochecer **19:17** (Walvis Bay)
 - C14 por los pasos de **Gaub y Kuiseb** + Trópico de Capricornio
 - ⛽ **Solitaire otra vez, sí o sí** — después, **210 km sin nada**
-- 🐾 **Alrededor del camping: la laguna ES la fauna** — flamenco común y enano **a millares en
-  oct–nov** *(GBIF costa: ~2.500 registros oct–nov entre las dos especies ◐)* y **pelícanos**
-  *(977 ◐)*; el pico jun–nov, con fuente, en el D6. En tierra, nada que esperar: es ciudad ○
+- 🐾 **Alrededor del camping: la laguna ES la fauna** — **flamenco común y enano a millares** ✅
+  *(SABAP1: su máximo es jun–nov — ver D6)* y **pelícanos**; en GBIF son las especies más
+  registradas de la costa en oct–nov *(2.536 y 977 registros ◐ — registros, no cabezas)*. En
+  tierra, nada que esperar: es ciudad ○
 - 🛏️ **Walvis Bay — también en tienda.** El único sitio con camping que aparece listado en la
   ciudad es **Lagoon Chalets**, que es además el que usó el blog de referencia ◐. **Precio ❌: no
   lo publica.** *(Si no cuadra, Swakopmund a 30 km tiene más oferta de camping.)*
@@ -292,9 +294,10 @@ flowchart LR
   seca en noviembre *(ver `09`)*
 - 🦩 **Flamencos y pelícanos en la laguna** al amanecer y al atardecer — las mejores luces
 - 🐋 **Y el crucero cae en temporada de ballena jorobada** ◐ — los registros GBIF de esta costa
-  dan la migración **jun–nov** *(pico jul–sep con 42; noviembre aún 27; diciembre se desploma
-  a 5)*; los delfines —Heaviside y mular— son **residentes todo el año**. Ficha nueva en la
-  [guía de fauna](guia-fauna-etosha.pdf) *(añadida el 08/08)*
+  dan la migración **jun–nov** *(pico jul–sep con 42; noviembre aún 27; diciembre se desploma a
+  5 — consulta del 08/08/2026, archivada mes a mes en `15`)*; los **delfines se ven todo el año** *(el de
+  Heaviside es residente de la corriente de Benguela — su ficha está en la guía; el mular,
+  práctica común de los cruceros ○)*. Ficha nueva en la [guía de fauna](guia-fauna-etosha.pdf) *(añadida el 08/08)*
 - Día libre: paseo marítimo, ostras, el **crucero de delfines y lobos** *(~N$1.400–1.990, ~€70–100 pp
   ◐)* o la excursión guiada a **Sandwich Harbour** *(~N$2.600–3.220, ~€130–161 pp ◐)*
   *(🚫 con tu coche Sandwich Harbour está prohibida por contrato — el tour es la forma correcta y mejor;
@@ -327,8 +330,8 @@ flowchart LR
   (doméstico/SADC, temporada baja): **N$1.440–1.920/persona DBB (~€72–96)**; como extranjeros en
   noviembre, **más** ◐ — la noche más cara de la ruta *(tarifa internacional nov 2026 aún ❌; ver `15`)*
 - 🐾 **Alrededor del resort** — el **chacal de lomo negro es el fijo de la costa** *(GBIF costa:
-  271 registros, 57 en oct–nov ◐)* y la **hiena parda la patrulla pero es escasa** *(17 registros,
-  4 en oct–nov ◐)*: huellas al amanecer, más probables que el bicho. **Springbok, órix y hasta
+  271 registros, 57 en oct–nov ◐)* y la **hiena parda deja huellas en las playas** ○ — en GBIF
+  hay 17 registros en la zona pero **solo 4 en oct–nov: muestra corta, no se afirma más** ◐. **Springbok, órix y hasta
   hiena parda en el delta del Uniab**, que se cruza dos veces ◐ *(`10`)*. ¿León del desierto en la
   playa? **1 registro en la zona: por debajo del umbral — no se afirma nada**
 - 💰 **Precio cerrado (03/08) ✅:** el PDF oficial de tarifas de NWR 2026/2027 da para Terrace Bay
@@ -356,8 +359,9 @@ flowchart LR
   pregúntalo por escrito al reservar**. Despacio en las piedras.
 - 🐾 **Alrededor del campamento** — Damaraland en GBIF oct–nov: **el elefante del desierto pasa
   por la zona** *(139 registros, 27 en oct–nov ◐)* — cruzárselo es suerte, no plan *(y si pasa,
-  protocolo del `18`)*; **damán en el granito** *(62/13 ◐)* y **springbok** *(50/23 ◐)*. Lo demás
-  queda por debajo de la muestra mínima: no se afirma
+  protocolo del `18`)*; **damán en el granito** *(62/13 ◐)*, **springbok** *(50/23 ◐)* — y por
+  encima del umbral también avestruz, jirafa y el propio babuino ◐ *(el detalle, en la guía)*.
+  Lo que no llega a muestra, no se afirma
 - 🛏️ **Hoada Campsite** (zona Grootberg) — el blog lo llama su campamento más bonito del viaje:
   rocas de granito, duchas entre peñas, cielo estrellado. **N$271–366/persona según temporada
   (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `15`)*
@@ -379,7 +383,7 @@ flowchart LR
   Okaukuejo y pregunta los horarios *(❌ no los publican; decidido 08/08 — ver §parques)*
 - 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros
 - 🐾 **La cifra real de la charca, de partes de viajeros** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/okaukuejo-camp/reviews/1),
-  n=149 desde 2018 ◐)*: **rino negro 87 % (119 de 137), elefante 97 %, jirafa 99 %, león 68 %** —
+  149 viajeros desde 2018 — cada % lleva su propia muestra ◐)*: **rino negro 87 % (119 de 137), elefante 97 %, jirafa 99 %, león 68 %** —
   andando desde la parcela *(método y las 85 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
 
@@ -409,9 +413,10 @@ flowchart LR
   desvío y sus charcas
 - Siesta en la piscina de Halali · charca de Halali al anochecer · y al llegar, **apunta la
   salida guiada de mañana**
-- 🐾 **Partes de viajeros en Halali** *(Expert Africa, n=48 ◐)*: **león 75 %, rino negro 73 % y
+- 🐾 **Partes de viajeros en Halali** *(Expert Africa, 48 viajeros ◐)*: **león 75 %, rino negro 73 % y
   leopardo 31 % (12 de 39) — la mejor cifra de leopardo de los tres campamentos**: la charca al
-  anochecer, sin prisa. Y el **chacal, fijo en el camping** ✅ *(`18` §7)*
+  anochecer, sin prisa. Y el **chacal, fijo en el camping** ○ *(protocolo en `18` §7; GBIF lo da como el carnívoro más
+  registrado de la ruta ◐)*
 - 🛏️ **Camping Halali — N$920 (~€46)** ✅
 
 ### D11 · mié 11 — Safari Halali → Namutoni · **~80 km de safari** ✅
@@ -422,7 +427,8 @@ flowchart LR
   Namutoni por la tarde con vuestro coche, parando en **Goas, Nuamses, Springbokfontein, Batia y
   Chudop** — el corazón del safari
 - **Se duerme DENTRO, como todo Etosha en esta ruta**: sin horas de puerta, con la charca al lado
-- 🐾 **Partes de viajeros en Namutoni** *(Expert Africa — ojo, muestra corta: n=16 ◐)*: jirafa,
+- 🐾 **Partes de viajeros en Namutoni** *(Expert Africa — ojo, muestra corta: 16 viajeros y
+  11–16 partes por especie ◐)*: jirafa,
   órix, ñu y cebra **100 %**, **guepardo 50 % (7 de 14) — la mejor cifra de guepardo, son sus
   llanuras del este**, león 64 %. La charca propia es la floja de las tres *(ya dicho abajo)*:
   **Chudop, a un paso, compensa**
@@ -487,7 +493,7 @@ flowchart LR
   *(devolución con el tanque como se entregó ○)*
 - 🚙 **~17:45–18:00 · devolución del 4×4 EN el aeropuerto** ⚠️ *servicio por confirmar al
   recotizar* ❌ — todavía **con luz para la inspección** *(anochecer ~19:12)*
-- 🧳 **18:00–19:45 · facturación** ◐ — mostradores de Discover en la T2: **abren 16:45 (4 h antes)
+- 🧳 **18:00–19:45 · facturación** ◐ — mostradores de Discover: **abren 16:45 (4 h antes)
   y CIERRAN 19:45 (60 min antes)** — **la hora dura del día es esa**. Devolviendo a las 18:00
   quedan **~1h45 de colchón**: cabe hasta un pinchazo en la B6 *([ficha de aeropuertos de
   Discover](https://www.discover-airlines.com/us/en/book/travel-information/airport-info); la
@@ -504,16 +510,20 @@ flowchart LR
   descartada: €2.652 en su banda alta)*
 - **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 + Namutoni 2×920 =
   **N$6.360 (~€318)** ✅ — **las 4 noches de Etosha, dentro del parque**
-  *(+ Terrace Bay, Spreetshoogte, Walvis, Hoada: sin verificar)*
-- **Tasas de parque**: Namib 2 + Skeleton 1 + Etosha 4 = 7 unidades × N$620 ≈ **N$4.340 (~€217)** ◐
+  *(+ **Terrace Bay cerrado ✅ — N$3.480 · ~€174 la pareja**; Spreetshoogte, Walvis, Windhoek y
+  Hoada: sin cerrar)*
+- **Tasas de parque**: Namib 2 + Skeleton 1 + Etosha 4 = 7 unidades × N$620 + **la entrada propia
+  de Cape Cross (~N$350 los dos)** ≈ **N$4.690 (~€234)** ◐
 - **Safaris guiados de Etosha (decidido 08/08)**: 3 mañanas + nocturno = **N$5.400 (~€270)** ✅
   *(tarifas NWR; + lanzadera Deadvlei N$360 · ~€18 — selección sin reservar: en recepción)*
-- **Combustible ~2.757 km** *(control OSRM 08/08)*: ~310–345 l ≈ **N$8.000–9.300 (~€400–465)** ○
+- **Combustible ~2.757 km** *(control OSRM 08/08)*: ~305–360 l ≈ **N$7.930–10.440 (~€396–522)** ○
+  — presupuestado **~N$9.000 (~€450)** *(ver `02` §4)*
 - **Visado**: N$3.200 (~€160) los dos ✅
-- **Total tierra en camping ≈ ~€3.880 (~N$77.600)** la pareja ○/◐, banda ~€3.580–4.180 — *los 13
+- **Total tierra en camping ≈ ~€4.325 (~N$86.500)** la pareja ○/◐, banda ~€4.025–4.625 — *los 13
   días del coche son cifra cerrada; los 2 del aeropuerto (~€270 ◐), por recotizar. Sumando vuelos
   (**€2.900**) y seguro IATI Estrella (€226,04):
-  **~€7.270 (~N$145.400) la pareja · ~€3.635 por persona** (ver `02`)*
+  **~€7.450 (~N$149.000) la pareja · ~€3.725 por persona** (ver `02`; corregido el 08/08 — el
+  alojamiento infravalorado y Cape Cross sin sumar)*
 
 ### ⏰ Los horarios que mandan *(✅/◐ = con fuente en el dossier · ☀️ = cálculo astronómico ±5 min)*
 
@@ -532,7 +542,7 @@ flowchart LR
   es el *koppie* de dolomita de **Halali**, que sí se puede pasear. De noche te quedas dentro: la
   charca iluminada es el plan.
 - **Kiosco SIM de MTC en el aeropuerto** ◐: cierra **~21:00** — aterrizas a las **09:25**, de sobra.
-- **Facturación en Hosea Kutako (D14)** ◐: mostradores de Discover en la T2 — **abren 4 h antes
+- **Facturación en Hosea Kutako (D14)** ◐: mostradores de Discover — **abren 4 h antes
   (16:45) y cierran 60 min antes (19:45)** del despegue de las 20:45. **Esa es la hora dura de la
   vuelta**: la devolución del coche a las ~18:00 deja ~1h45 de colchón.
 - **Namibia Craft Centre** ✅ *(web oficial)*: L–V 09:00–17:30 · **sábados 09:00–16:00** · domingos
@@ -629,14 +639,15 @@ cabe como parada larga la mañana del D13 alternativo vía Usakos — pero alarg
 Con **Sossusvlei y Etosha fijos**, lo que competía por los días era el sur — Fish River, Lüderitz,
 Kolmanskop. Medido en kilómetros y horas, **no cabía**: el sur profundo y Etosha están en extremos
 opuestos del país y cada uno pide varios días. Intentar las dos coronas convierte el viaje en
-catorce días **conduciendo por delante de los sitios en vez de estar en ellos** — y la fatiga en
+quince días **conduciendo por delante de los sitios en vez de estar en ellos** — y la fatiga en
 grava es justo el ingrediente del vuelco (ver `06`).
 
 **Así que el sur se quitó entero**, y sus días se fueron a donde más rinden: **dos noches en la
 escarpa de Spreetshoogte** *(la segunda, recuperada el 08/08 del domingo cerrado de Windhoek)*,
 **dos en Sesriem** para el amanecer de Deadvlei sin prisa, **dos en la costa** para descansar a
-mitad de viaje, y **cuatro dentro de Etosha**. El resultado son ~2.600 km, ningún día por encima
-de ~390 km *(control OSRM: ~2.757)*, y el safari como clímax final.
+mitad de viaje, y **cuatro dentro de Etosha**. El resultado son **~2.757 km** *(control OSRM 08/08; la suma del
+gantt daba ~2.600)*, ningún día por encima de ~410 km salvo el regreso por asfalto, y el safari
+como clímax final.
 
 <div align="center">
 

@@ -206,7 +206,8 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
 ## 🍖 Comidas típicas — y dónde cae cada una en TU ruta
 
 ### Los platos
-- **Braai** con carne de caza y **boerewors** — lo haréis vosotros 11 noches; carne en Windhoek/Outjo.
+- **Braai** con carne de caza y **boerewors** — lo haréis vosotros **11–13 noches** *(13 de
+  tienda; Terrace Bay trae la cena, y Joe's puede caer el D0 y el D13)*; carne en Windhoek/Outjo.
 - **Caza en plato**: órix/gemsbok, kudú, springbok, cebra — Joe's es la opción de mesa del D0 y
   el D13; fino:
   **Leo's at the Castle** ◐; también **The Stellenbosch** y **O Portuga** ○ (Windhoek).

@@ -61,7 +61,7 @@ interior, **como estimación, no como dato**. 👉 **Recomprueba la semana antes
 doble cabina cargado en los **~2.757 km de la ruta** (control OSRM 08/08; banda 2.600–2.900), a
 **~11–13 l/100 km**, quema **~305–360 l** → banda **N$7.930–10.440 (~€396–522)**, central
 **~N$8.932 (~€447)** con el diésel a N$27/l de agosto *(era menos con el precio de julio)*.
-**Se presupuestan ~N$8.500–9.000 (~€425–450)** — el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
+**Se presupuesta ~N$9.000 (~€450) — €225 por persona**; el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
 2.800–3.200 km de la ruta con el sur.)*
 
 Fuentes: [rebaja de julio](https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/) ·

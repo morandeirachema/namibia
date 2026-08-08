@@ -12,7 +12,7 @@
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
 [![cuenta atrás](https://img.shields.io/badge/faltan-83_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-0_de_6-9d0208?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
-[![presupuesto](https://img.shields.io/badge/€3.505-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
+[![presupuesto](https://img.shields.io/badge/€3.725-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
 
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos*
@@ -52,7 +52,7 @@ flowchart LR
 > **14 camino del embarque** *(decisión del viajero, 07/08/2026)*: **ni hoteles en Windhoek ni
 > traslados** — esas noches también se duerme arriba. Y el **08/08**, la auditoría del calendario:
 > la ruta cabe exacta, **la noche del domingo 1 pasa a 2ª de Spreetshoogte** y los dos días punta
-> llevan plan horario *(la facturación de la vuelta cierra a las **19:45**)*. Y los **safaris de
+> llevan plan horario *(la facturación de la vuelta cierra a las **19:45** ◐)*. Y los **safaris de
 > Etosha, GUIADOS** *(08/08: tres mañanas + el nocturno, ~N$5.400 · ~€270 la pareja — «el safari
 > es un 90 % un buen guía»)*. Lo que se comparó antes queda archivado en
 > [`16`](16-punto-de-decision.md).
@@ -88,6 +88,9 @@ flowchart LR
    entra** al Skeleton Coast a pernoctar. **Y localizar y reservar Spreetshoogte ×2**: sin tarifa
    ni contacto aún ❌, y con tres homónimos en el mismo paso *(`15`)*.
 6. **Adelantar el seguro al 30/10** y pedir a IATI por escrito **evacuación aérea dentro del país**.
+7. **Preguntar a NWR (+264 67 229 800)** si las 3 salidas guiadas de mañana y el nocturno se
+   pueden dejar cerrados desde España — su tarifa avisa de que **en temporada de lluvias no
+   aceptan pre-reserva de actividades**; si no, van en recepción al llegar.
 
 <details>
 <summary><b>🕳️ Lo que sigue sin poder cerrarse</b></summary>
@@ -99,18 +102,18 @@ el sobrecoste en km del **desvío obligatorio Okaukuejo–Halali** · los horari
 de los safaris guiados de NWR · el precio del **31 de octubre** del coche *(fuera de temporada baja)*.
 *(El D0 ya tiene plan —coche, compra y camping—, la franquicia quedó cerrada el 07/08 —1×23 kg por
 persona— y el 08/08 quedaron medidos el calendario (15 días/14 noches exactos) y el D14: facturación
-de Discover en la T2, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
+de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 **El inventario completo, en [`15`](15-huecos-cerrados.md).**
 
 </details>
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 102 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 103 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
-🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(19 páginas, 83 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
+🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(19 páginas, 85 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
 
 </div>
 
@@ -181,7 +184,8 @@ automático, 4x4 permanente, **km ilimitados**, **Premium Insurance Cover** (fra
 
 La diferencia real: la lona tarda ~5 minutos en montarse en vez de ~1, y aguanta algo peor el polvo
 y el viento. Son **~€15 por noche de tienda** de sobrecoste la Comfort. **Con la Budget ahorras ~€97
-por persona** — y sigues durmiendo arriba las 13 noches.
+por persona sobre los 13 días cotizados** *(a los 15 decididos, ~€112,50 — ver `02` §2)* — y
+sigues durmiendo arriba las 13 noches.
 
 > 🎥 Al ver el [vídeo del Hilux](https://www.youtube.com/watch?v=LPNZ-l8y3Pg): si las tiendas del
 > techo son de **lona plegada**, ése es exactamente tu coche.
@@ -303,9 +307,9 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 ## 💶 El presupuesto — por persona, partida a partida
 
-### ~€3.635 por persona · todo incluido
+### ~€3.725 por persona · todo incluido
 
-Rango honesto: **€3.485–3.785**. El **74 %** ya está cerrado.
+Rango honesto: **€3.575–3.875**. El **74 %** ya está cerrado.
 
 </div>
 
@@ -317,23 +321,23 @@ pie showData
     title Por persona · desglose en EUR · camping
     "Vuelo" : 1450
     "Coche 15 dias" : 1013
-    "Alojamiento" : 285
+    "Alojamiento" : 370
     "Combustible" : 225
     "Comida" : 140
     "Seguro" : 113
     "Misc + actividades" : 219
-    "Tasas de parque" : 109
+    "Tasas de parque" : 117
     "Visado" : 80
 ```
 
-*Vuelo y coche son el **68 %** del viaje. Todo lo demás junto son ~€1.170.*
+*Vuelo y coche son el **66 %** del viaje. Todo lo demás junto son ~€1.260.*
 
 - ✈️ Vuelo **€1.450** ✅ · 🚙 Coche **~€1.012,50** *(13 días cotizados ✅ + 2 estimados ◐)* ·
-  ⛺ Alojamiento **~€285** · ⛽ Combustible **~€225** · 🍖 Comida **~€140** · 🩺 Seguro **€113** ✅ ·
-  🎫 Tasas **~€109** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€219** *(los safaris
+  ⛺ Alojamiento **~€370** *(€246 verificado ✅)* · ⛽ Combustible **~€225** · 🍖 Comida **~€140** ·
+  🩺 Seguro **€113** ✅ · 🎫 Tasas **~€117** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€219** *(los safaris
   guiados de Etosha, decididos el 08/08, dentro)*
 - **El 74 % ya está cerrado** con precio real: vuelo, los 13 días cotizados del coche, seguro,
-  visado y las 6 noches de NWR. Lo demás (~€955) son los 2 días extra de coche ◐, las 6 noches de
+  visado, las 6 noches de NWR y Terrace Bay. Lo demás (~€960) son los 2 días extra de coche ◐, las 6 noches de
   camping sin precio (más Hoada ◐), los safaris guiados *(~€144, tarifa ✅ sin reservar)*, el
   combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
 - ⚠️ **Lo que aún puede mover el número**: el precio real del **31 de octubre** del coche *(fuera de
@@ -489,7 +493,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 9. ⛺ [**`18-manual-de-campamento`**](18-manual-de-campamento.md) — **vivir del coche**: la rutina de la tarde, la tienda, el braai, la nevera y los vecinos del campamento
 10. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
 11. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
-12. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 83 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
+12. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 85 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 13. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
 14. 📍 [**`11-lista-google-maps`**](11-lista-google-maps.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 

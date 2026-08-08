@@ -6,9 +6,9 @@
 > decisión está en [`05`](05-equipaje.md) —las seis reglas, las temperaturas, lo que ya trae el
 > coche—: aquí solo está **la lista**, para imprimirla y tacharla la víspera.
 >
-> **Las cantidades son para DOS personas y 14 días**, salvo donde ponga «por persona». Salen de
+> **Las cantidades son para DOS personas y 15 días**, salvo donde ponga «por persona». Salen de
 > **una colada a mano** en el día de descanso de Walvis Bay *(D5–D6)*: por eso la ropa interior se
-> calcula para siete días y no para catorce ○.
+> calcula para siete días y no para quince ○.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
@@ -104,7 +104,7 @@ el viaje sigue; si se pierde la cabina, no.
 ## 💊 Botiquín — qué llevar y cuánto
 
 > ⚠️ **Nada de esto es una prescripción.** Qué te conviene y en qué dosis lo dicen **el Centro de
-> Vacunación Internacional y tu farmacia**; aquí solo está el inventario para 14 días entre dos, con
+> Vacunación Internacional y tu farmacia**; aquí solo está el inventario para 15 días entre dos, con
 > los principios activos que se llevan de forma habitual ○. Lo único con fuente es la profilaxis:
 > la pauta la fija el CVI ✅ *(`04`)*.
 

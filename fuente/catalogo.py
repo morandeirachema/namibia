@@ -19,7 +19,7 @@ LUGARES = [
     ("joes", "Joe's Beerhouse: la opción de mesa del D0 y el D13",
      "Joes-Beerhouse Windhoek-Namibia1.jpg"),
 
-    # --- desierto: D2 a D4 ---
+    # --- desierto: D1 a D4 ---
     ("spreetshoogte", "El paso de Spreetshoogte, con el Namib mil metros abajo",
      "Spreetshoogte Pass panorama.jpg"),
     ("solitaire", "Solitaire: gasolina, tarta de manzana y coches oxidados",

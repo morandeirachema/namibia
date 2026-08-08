@@ -65,7 +65,8 @@ el parque entero. La regla de la casa: <strong>elegid una charca y dadle tres cu
 hora</strong> ○ antes de decidir que no pasa nada.</p>
 </blockquote>
 <ul>
-<li><strong>Salid con la puerta.</strong> Las dos primeras horas y las dos últimas
+<li><strong>Salid con la puerta</strong> — con el guiado de la mañana o por vuestra cuenta en
+los traslados. Las dos primeras horas y las dos últimas
 concentran casi todo lo que merece la pena; a mediodía, en cambio, es cuando llega el
 <strong>elefante</strong> a bañarse.</li>
 <li><strong>Motor apagado, ventanillas abajo, voz baja.</strong> ○ Media hora sin ruido

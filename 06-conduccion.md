@@ -281,7 +281,7 @@ escrito)*:
 - **Cristales** → solo con Super Cover
 
 > Un parabrisas roto en un nivel bajo es **tu factura**. Asume que **te vas a llevar al menos un
-> impacto en 14 días**: es casi un rito de paso.
+> impacto en 15 días**: es casi un rito de paso.
 
 **Coste de referencia de un neumático**: la opción de franquicia cero de African Tracks cubre hasta
 dos neumáticos a **«not more than N$ 2.500,00»** cada uno → **~N$2.500 (~€125) por neumático 4x4**.
@@ -301,7 +301,7 @@ la visión durante varios segundos, y el polvo **queda flotando** mucho después
 
 Adelantar ahí dentro es comprometerte al **lado equivocado** de una carretera de firme suelto,
 **a ciegas**, a velocidad, sin saber qué viene, qué hace el firme ni si hay un burro dentro.
-**No hay versión de esto que compense los ocho minutos que ahorra en un viaje de 14 días.**
+**No hay versión de esto que compense los ocho minutos que ahorra en un viaje de 15 días.**
 
 **La disciplina:**
 - Quédate **muy atrás** — mucho más de lo que parece necesario, **200 m o más** — para salir del

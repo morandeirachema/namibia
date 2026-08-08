@@ -11,7 +11,9 @@ INTRO_EXTRA = """
   el motor, bajad la voz y dadle tiempo — la fauna llega por turnos. En seca, <strong>mediodía es
   bueno para elefante</strong> y primera y última hora para león. De noche no se circula: la única
   forma es el <strong>safari nocturno guiado de NWR (N$750 ≈ €38 p.p.)</strong>, pero las
-  <strong>tres charcas iluminadas</strong> se ven andando desde la parcela.</p>
+  <strong>tres charcas iluminadas</strong> se ven andando desde la parcela. Y de día, en esta
+  ruta <strong>la salida de mañana se hace guiada desde cada campamento (N$650 ≈ €33 p.p.,
+  decidido el 08/08)</strong>: los traslados entre campamentos van con el 4x4 propio.</p>
   <p>🚧 <strong>Aviso de obras:</strong> están asfaltando la pista Okaukuejo–Halali–Namutoni. En 2025
   el tráfico iba desviado por <strong>Gemsbokvlakte</strong> con la puerta de Okaukuejo hacia Halali
   cerrada, y en 2026 seguía habiendo bypass. <strong>Reconfirmad con NWR al reservar</strong>

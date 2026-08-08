@@ -310,7 +310,7 @@ flowchart LR
 ## 🗺️ Y lo que quedó fuera de tus 34 pines
 
 Tu lista iba de **Epupa** (frontera con Angola) a **Lüderitz** (suroeste atlántico) pasando por
-**Tsumkwe** (extremo este): eso es el país entero, y **no cabe en catorce días**. Lo que se descartó,
+**Tsumkwe** (extremo este): eso es el país entero, y **no cabe en quince días**. Lo que se descartó,
 con el motivo:
 
 - **Kaokoland (Epupa, Opuwo)** — **~730 km solo hasta Opuwo** y otros 180–200 de grava hasta Epupa:

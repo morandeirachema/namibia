@@ -40,7 +40,7 @@ la guía usa las dos —cada una con su etiqueta, porque **no miden lo mismo**�
 ```mermaid
 flowchart LR
     A["14 especies grandes<br/>PARTES DE VIAJEROS"] --> A1["% que lo vio<br/>durante su estancia<br/>en el campamento"]
-    B["las otras 69<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
+    B["las otras 71<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
     A1 --> C["frecuente / escasa<br/>siempre con la muestra"]
     B1 --> C
     style A fill:#EDF1E4,stroke:#5F7043
@@ -106,7 +106,9 @@ específica de Etosha en ninguna fuente decente, y rellenarlo a ojo sería inven
 
 Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horarios de puerta calculados
 para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las tres charcas
-iluminadas y el safari nocturno guiado de NWR (**N$750 ≈ €38** por persona)—, y un **bloque de
+iluminadas, el safari nocturno guiado de NWR (**N$750 ≈ €38** por persona) y —decidido el
+08/08— **las salidas guiadas de mañana desde cada campamento (N$650 ≈ €33 por persona)**: los
+traslados entre campamentos van con el 4x4 propio—, y un **bloque de
 seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ---
@@ -147,8 +149,8 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Mangosta amarilla** — *Cynictis penicillata* · Yellow mongoose
 - **Oricteropo o cerdo hormiguero** — *Orycteropus afer* · Aardvark
 - **Babuino chacma** — *Papio ursinus* · Chacma baboon *(añadido el 08/08: es el «mono» real de
-  los miradores y campamentos de esta ruta — el vervet se descartó a propósito: 0 registros GBIF
-  en las cuatro zonas)*
+  los miradores y campamentos de esta ruta — el vervet se descartó a propósito: sin un solo
+  registro en la consulta GBIF del 08/08, archivada en `15`)*
 
 ### 🦅 Aves (28)
 
@@ -204,8 +206,9 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Lobo marino del Cabo** — *Arctocephalus pusillus* · Cape fur seal
 - **Delfín de Heaviside** — *Cephalorhynchus heavisidii* · Heaviside's dolphin
 - **Ballena jorobada** — *Megaptera novaeangliae* · Humpback whale *(añadida el 08/08: migra
-  frente a la costa jun–nov — los registros GBIF de la zona dan pico jul–sep y 27 aún en
-  noviembre: el crucero del D6 cae en temporada)*
+  frente a la costa jun–nov — los registros GBIF de la zona, consulta del 08/08/2026
+  archivada mes a mes en `15`, dan pico jul–sep y 27 aún en noviembre: el crucero del D6 cae en
+  temporada)*
 - **Damán roquero** — *Procavia capensis* · Rock hyrax
 - **Ardilla terrestre del Cabo** — *Xerus inauris* · Cape ground squirrel
 
@@ -236,7 +239,7 @@ desde `imprimir.py`, que es quien pone los números de página.
 
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
 imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
-que están las 120 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
+que están las 122 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
 las páginas que deben y que los datos de avistamiento cubren las 85 especies.
 
 *Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son 5,6 MB, y a cambio el PDF
