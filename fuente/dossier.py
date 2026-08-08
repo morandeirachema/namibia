@@ -152,6 +152,8 @@ RESUMEN = {
     "17": "La lista de la víspera, ítem a ítem y con casilla: ropa, neceser, botiquín y kits.",
     "18": "Vivir del coche: la rutina de la tarde, la tienda, el braai, la nevera y los "
           "vecinos del campamento.",
+    "19": "La cámara y el teleobjetivo: dos gamas con precio de tienda, y la cuenta de "
+          "comprar frente a alquilar — en España o en Windhoek.",
 }
 
 
@@ -164,7 +166,7 @@ def miles(n, sufijo=" km"):
 # equipaje se escribio la ultima pero se lee pegada al `05`, que es de lo que sale, y el
 # manual de campamento pegado al `06`, porque el dia de ruta se lee del tiron: conducir
 # y acampar. Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
-ORDEN = {"17": "05a", "18": "06a"}
+ORDEN = {"17": "05a", "19": "05b", "18": "06a"}
 
 
 def documentos():
