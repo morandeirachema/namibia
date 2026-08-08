@@ -280,7 +280,9 @@ flowchart LR
 - ⛽ **Solitaire otra vez, sí o sí** — después, **210 km sin nada**
 - 🐾 **Alrededor del camping: la laguna ES la fauna** — **flamenco común y enano a millares** ✅
   *(SABAP1: su máximo es jun–nov — ver D6)* y **pelícanos**; en GBIF son las especies más
-  registradas de la costa en oct–nov *(2.536 y 977 registros ◐ — registros, no cabezas)*. En
+  registradas de la costa en oct–nov *(2.536 y 977 registros ◐ — registros, no cabezas)*. Y con
+  ficha nueva del 08/08, las otras dos reinas de la laguna: **gaviota de Hartlaub** *(1.591
+  registros oct–nov ◐)* y **avoceta** *(1.057 ◐)*. En
   tierra, nada que esperar: es ciudad ○
 - 🛏️ **Walvis Bay — también en tienda.** El único sitio con camping que aparece listado en la
   ciudad es **Lagoon Chalets**, que es además el que usó el blog de referencia ◐. **Precio ❌: no
@@ -431,7 +433,8 @@ flowchart LR
   11–16 partes por especie ◐)*: jirafa,
   órix, ñu y cebra **100 %**, **guepardo 50 % (7 de 14) — la mejor cifra de guepardo, son sus
   llanuras del este**, león 64 %. La charca propia es la floja de las tres *(ya dicho abajo)*:
-  **Chudop, a un paso, compensa**
+  **Chudop, a un paso, compensa**. Y de día, ojo al suelo: la **mangosta rayada** es de lo más
+  registrado del parque *(400 registros GBIF, 101 en oct–nov ◐ — ficha nueva del 08/08)*
 - 🛏️ **Camping Namutoni — N$920 (~€46)** ✅ *(el fuerte alemán, y Chudop a un paso)*
 - *Capricho opcional: **Onguma** (tu pin, reserva privada justo al otro lado de la puerta de Von
   Lindequist) ⚠️ precio sin verificar; puede ser gama alta — a cambio pierdes estar dentro*
@@ -596,7 +599,8 @@ y trece horas de puerta»)* queda en `16` §7 por si algún día se revisa; los 
 mediodía siguen siendo vuestros.
 
 **El nocturno sí**, porque de noche está **prohibido circular por libre**: es la única forma de estar
-en el parque a oscuras y ver oricteropo, puercoespín, liebre saltadora o leones cazando. **N$1.500
+en el parque a oscuras y ver oricteropo, puercoespín, liebre saltadora, **zorro del Cabo, gato
+montés africano o un lobo de tierra** *(los tres, con ficha nueva del 08/08)* — o leones cazando. **N$1.500
 (~€75) los dos.**
 
 > ### 👉 Y hazlo desde NAMUTONI, no desde Okaukuejo
