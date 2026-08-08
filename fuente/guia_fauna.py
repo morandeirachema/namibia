@@ -133,7 +133,7 @@ def verlo(slug):
 
     Si Expert Africa publica el porcentaje de sus viajeros que lo vio en alguno de los
     tres campamentos, ese numero manda: es una probabilidad de avistamiento de verdad.
-    Si no, va el indice de registros de GBIF, que cubre las 83 pero mide otra cosa —lo
+    Si no, va el indice de registros de GBIF, que cubre las 85 pero mide otra cosa —lo
     que se registra, no lo que se ve— y por eso lleva otra etiqueta.
     """
     p = avistamientos.porcentajes(slug)
@@ -186,7 +186,7 @@ def total():
 def remite_desde_dossier(ancla=""):
     """El dossier NO lleva las fichas dentro: solo remite a la guia suelta.
 
-    Meter las 83 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
+    Meter las 85 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
     varios megas, y duplicaba un documento que ya existe aparte y que ademas se imprime
     solo para llevarlo en la guantera. Aqui queda el enlace y el resumen de lo que hay.
     """

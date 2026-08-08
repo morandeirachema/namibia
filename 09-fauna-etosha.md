@@ -2,7 +2,7 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> El índice de la guía de campo en PDF: 83 especies con foto, cómo reconocerlas, **qué
+> El índice de la guía de campo en PDF: 85 especies con foto, cómo reconocerlas, **qué
 > posibilidades hay de verlas** y dónde y cuándo.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
@@ -12,7 +12,7 @@
 > añadidos el 07/08/2026*
 
 📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 19 páginas A4,
-**83 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
+**85 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
 cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
 
@@ -83,7 +83,7 @@ táctica de la charca** *(motor apagado y tres cuartos de hora, que es lo que de
 ✅: 60 km/h, no bajar del coche fuera de los campamentos, no salirse de las pistas y estar dentro
 antes de que cierre la puerta.
 
-## El «dónde y cuándo», en 37 de las 83 fichas
+## El «dónde y cuándo», en 37 de las 85 fichas
 
 Charca por charca y con su fuente: **Okondeka** para el león, **Halali y Goas** para el leopardo,
 **Salvadora–Sueda–Charitsaub** para el guepardo, el **Dik-dik Drive** nada más entrar por Von
@@ -111,9 +111,9 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ---
 
-## Las 83 especies
+## Las 85 especies
 
-### 🦁 Mamíferos (31)
+### 🦁 Mamíferos (32)
 
 - **Elefante africano de sabana** — *Loxodonta africana* · African bush elephant
 - **Rinoceronte negro** — *Diceros bicornis* · Black rhinoceros
@@ -146,6 +146,9 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Klipspringer o saltarrocas** — *Oreotragus oreotragus* · Klipspringer
 - **Mangosta amarilla** — *Cynictis penicillata* · Yellow mongoose
 - **Oricteropo o cerdo hormiguero** — *Orycteropus afer* · Aardvark
+- **Babuino chacma** — *Papio ursinus* · Chacma baboon *(añadido el 08/08: es el «mono» real de
+  los miradores y campamentos de esta ruta — el vervet se descartó a propósito: 0 registros GBIF
+  en las cuatro zonas)*
 
 ### 🦅 Aves (28)
 
@@ -194,12 +197,15 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Tortuga leopardo** — *Stigmochelys pardalis* · Leopard tortoise
 - **Lagarto de nariz de pala** — *Meroles anchietae* · Shovel-snouted lizard
 
-### 🌊 La costa, la roca y la arena (4)
+### 🌊 La costa, la roca y la arena (5)
 
 *Lo de fuera de Etosha: Cape Cross (D7), la laguna de Walvis Bay (D5–D6) y los roquedos de Damaraland.*
 
 - **Lobo marino del Cabo** — *Arctocephalus pusillus* · Cape fur seal
 - **Delfín de Heaviside** — *Cephalorhynchus heavisidii* · Heaviside's dolphin
+- **Ballena jorobada** — *Megaptera novaeangliae* · Humpback whale *(añadida el 08/08: migra
+  frente a la costa jun–nov — los registros GBIF de la zona dan pico jul–sep y 27 aún en
+  noviembre: el crucero del D6 cae en temporada)*
 - **Damán roquero** — *Procavia capensis* · Rock hyrax
 - **Ardilla terrestre del Cabo** — *Xerus inauris* · Cape ground squirrel
 
@@ -231,7 +237,7 @@ desde `imprimir.py`, que es quien pone los números de página.
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
 imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
 que están las 120 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
-las páginas que deben y que los datos de avistamiento cubren las 83 especies.
+las páginas que deben y que los datos de avistamiento cubren las 85 especies.
 
 *Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son 5,6 MB, y a cambio el PDF
 se puede regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una

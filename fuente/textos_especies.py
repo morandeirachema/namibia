@@ -87,6 +87,8 @@ ID = {
  "liebre-saltadora": "Ni liebre ni canguro, pero lo parece: **salta a dos patas** y sus ojos devuelven un reflejo rojo intenso a la linterna. Es de lo más visto en el safari nocturno.",
  "klipspringer": "Antilopito de los roquedos: se sostiene **de puntillas, sobre las pezuñas**, en piedras imposibles. Casi siempre en pareja y quieto, mirándote desde arriba. Damaraland y Twyfelfontein.",
  "mangosta-amarilla": "Rojiza-amarillenta, con la **punta de la cola blanca** y aire de zorrillo. Es la mangosta que de verdad se ve en Etosha, de día y junto a sus madrigueras.",
+ "babuino-chacma": "El primate grande de los miradores y las áreas de descanso: hocico de perro, tropa jerárquica y cola quebrada en «L». En esta ruta vive en la escarpa y el roquedo, no en Etosha. **Nada comestible a la vista**: donde hay turistas es un ladrón profesional.",
+ "ballena-jorobada": "Aletas pectorales enormes y casi blancas —un tercio del cuerpo— y el salto más famoso del océano. **Migra frente a esta costa de junio a noviembre**: el crucero de Walvis Bay cae en temporada.",
  "oricteropo": "El premio gordo del safari nocturno: orejas de burro, hocico de cerdo y cola de canguro. **Estrictamente nocturno y rarísimo de ver** — sus excavaciones en los termiteros sí se ven por todas partes.",
  # --- AVES anadidas ---
  "bateleur": "En vuelo **no se le ve cola**: es una tabla negra con la cabeza roja, y se balancea de lado a lado planeando. De los rapaces más reconocibles del parque.",
