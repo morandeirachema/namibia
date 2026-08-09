@@ -244,7 +244,7 @@ Lo que sí sube al petate:
 - ❌ **Saco, esterilla, hornillo y menaje** ✅ — el coche lo trae todo
 - ❌ **Comida de casa en cantidad** — resuelto en `08`
 - 🚁 **Dron: se queda en casa** ✅ — **no hay dónde volarlo en esta ruta**. El detalle, con fuentes,
-  en [`11`](11-lista-google-maps.md)
+  en [`11`](11-entradas-y-permisos.md)
 - ❌ **A la vuelta: nada de biltong ni carne en el petate** ✅ — prohibido entrar en la UE
 
 ---

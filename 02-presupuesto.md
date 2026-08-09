@@ -516,7 +516,7 @@ Precios **por persona**, verificados salvo aviso:
   guía incluido, solo efectivo** ◐ *(tarifario del National Heritage Council vía secundarias
   concordantes: [Safari2Go/namibian.org](https://namibian.org/news/tourism/access-to-namibias-natural-and-cultural-heritage-sites-costs-more)
   y reseñas 2025-26; ~45–60 min de visita)*. **Se paga del colchón de misceláneos** *(es la
-  «tasa menor» tipo para la que existe)* — detalle en [`11`](11-lista-google-maps.md).
+  «tasa menor» tipo para la que existe)* — detalle en [`11`](11-entradas-y-permisos.md).
 
 > ⚠️ **Todo esto va en ◐, no en ✅.** La ficha propia de cada operador devuelve **`403`** desde este
 > entorno *(la misma pared anti-bot que los lodges)*, así que las cifras salen del **resumen del

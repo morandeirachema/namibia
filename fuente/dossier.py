@@ -86,8 +86,7 @@ FUERA_DEL_PDF = {"16"}          # documentos completos que no entran
 # Secciones que se caen, por un trozo de su titulo. Se lleva por delante la seccion
 # entera: el encabezado y todo lo que cuelga de el hasta el siguiente del mismo nivel.
 SECCIONES_FUERA = {
-    "RM": ["¿Etosha al principio o al final?",
-           "Tus 34 pines, en una línea"],
+    "RM": ["¿Etosha al principio o al final?"],
     "01": ["En qué se diferencia del blog",
            "Lo que queda fuera",
            "Por qué esta ruta y no otra"],
@@ -95,11 +94,11 @@ SECCIONES_FUERA = {
     "11": ["Kaokoland (Epupa + Opuwo)",
            "El este (Tsumkwe + Harnas)",
            "Los que resultaron ser LUJO",
-           "Y lo que quedó fuera de tus 34 pines"],
+           "Y lo que quedó fuera de la ruta"],
 }
 
-# Frases sueltas que remiten al material de trabajo (la lista de pines de Google Maps,
-# las variantes descartadas) y que no justifican tirar el bloque entero donde viven.
+# Frases sueltas que remiten al material de trabajo (las variantes descartadas) y que
+# no justifican tirar el bloque entero donde viven.
 # En el PDF el coche es Namibia2Go y punto: fuera las comparativas de precio con
 # otras companias. OJO: en `06` los nombres se quedan a proposito — esas clausulas
 # salen del contrato PUBLICADO de otra empresa porque el de Namibia2Go no es publico,

@@ -514,7 +514,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 12. 🪘 [**`20-cultura-de-namibia`**](20-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
 13. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 88 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 14. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
-15. 📍 [**`11-lista-google-maps`**](11-lista-google-maps.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
+15. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**
 
@@ -531,16 +531,6 @@ no tienen parte, el peso de la especie en los registros de GBIF de octubre y nov
 muestra detrás y con los sesgos escritos, no en letra pequeña — **y con la regla del 09/08: lo
 que nadie vio, no lleva ficha** *(el 0 % medido del oricteropo lo dejó fuera, con la suricata y
 la cebra de Hartmann, que no caen en la ruta)*.
-
-### 🗺️ Tus 34 pines, en una línea
-
-**En la ruta**: Joe's Beerhouse · Solitaire · Namib-Naukluft · Sesriem Canyon · Duna 45 ·
-Deadvlei · Walvis Bay · Swakopmund *(de paso)* · Cape Cross · Skeleton Coast · Twyfelfontein ·
-Etosha *(4 noches dentro)*. **Opcionales**: **Onguma** *(tu pin — capricho fuera de la puerta este,
-a cambio de no dormir dentro)* · Okonjima/AfriCat · Hoba · Waterberg *(los tres, de camino el D13)*. **Fuera esta vez**: todo el sur *(está en el historial de git por si vuelve)* · Spitzkoppe y
-Brandberg *(tampoco están en la ruta de referencia)* · NamibRand · Messum · Bagatelle ·
-Epupa/Opuwo *(descartado con números en `11`: ~730 km hasta Opuwo + ~180-200 km de grava (D3700) hasta Epupa = desvío de ~2 días cada sentido, y dentro de la zona sin cobertura de bajos)* · Tsumkwe · Harnas · Kgalagadi.
-ℹ️ Twyfelfontein y Duna 45 salen en Google como cerrados: **fallo del listado, ambos funcionan**.
 
 ---
 
