@@ -534,7 +534,8 @@ flowchart LR
   página devuelve 403 al descargar — extractos convergentes)*. La franquicia: **1×23 kg por
   cabeza**, cerrada en [`02`](02-presupuesto.md) §8
 - 🛫 **~20:00 embarque ○ · 20:45 despegue** → escala en Múnich → **Oporto, domingo 15 a las
-  12:50** — y ~4 h de autobús hasta A Coruña ◐ *(`02` §8)*
+  12:50** — y el coche propio, del aparcamiento del aeropuerto hasta A Coruña *(decidido 09/08 —
+  `02` §8)*
 
 ### 💰 Coste real *(31 oct – 14 nov · el detalle completo, en `02-presupuesto.md`)*
 - **Alquiler — DECIDIDO 15 días, aeropuerto → aeropuerto (31 oct 11:00 – 14 nov 18:00)**. Los 13

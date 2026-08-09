@@ -81,7 +81,9 @@ PLENAS = {
 # y en el historial de git, pero no en el volumen que se imprime y se lleva en el
 # coche. Ahi solo estorba.
 
-FUERA_DEL_PDF = {"16"}          # documentos completos que no entran
+FUERA_DEL_PDF = {"16", "22"}    # documentos completos que no entran:
+                                # 16, las variantes archivadas; 22, la deliberacion
+                                # de compra de camara de segunda mano
 
 # Secciones que se caen, por un trozo de su titulo. Se lleva por delante la seccion
 # entera: el encabezado y todo lo que cuelga de el hasta el siguiente del mismo nivel.
@@ -91,7 +93,10 @@ SECCIONES_FUERA = {
            "Lo que queda fuera",
            "Por qué esta ruta y no otra"],
     "12": ["El precipicio de precio de noviembre"],
-    "11": ["Kaokoland (Epupa + Opuwo)",
+    # Drones: el dron se queda en casa (decidido, `05`/`17`) — las tres capas de norma
+    # que lo justifican son material de trabajo; en el volumen basta la línea del equipaje.
+    "11": ["Drones: la respuesta corta",
+           "Kaokoland (Epupa + Opuwo)",
            "El este (Tsumkwe + Harnas)",
            "Los que resultaron ser LUJO",
            "Y lo que quedó fuera de la ruta"],
@@ -119,6 +124,13 @@ REEMPLAZOS = [
      "Cada cifra, con su fuente y su marca."),
     (r"\(tu pin, reserva privada", "(reserva privada"),
     (r"tus 34 pines", "los sitios de la ruta"),
+    # La seccion de drones del `11` no entra en el volumen (SECCIONES_FUERA): los tres
+    # punteros que mandaban a su detalle se recortan para no prometer lo podado.
+    (r"\s*<strong>El detalle, con fuentes, en\s+<a href=\"#doc-11\"><code>11</code></a>\.</strong>", ""),
+    (r"el detalle, más arriba y con fuentes en\s+<a href=\"#doc-11\"><code>11</code></a>",
+     "el detalle, más arriba"),
+    (r"\s*El detalle, con fuentes,\s+en <a href=\"#doc-11\"><code>11</code></a>", ""),
+    (r"\s*<em>\(<a href=\"#doc-11\"><code>11</code></a> §drones\)</em>", ""),
 ]
 
 # Avisos sueltos que son deliberacion, no dato. Se busca el trozo dentro del bloque.
@@ -139,7 +151,8 @@ RESUMEN = {
     "06": "El vuelco, el contrato, las presiones, la arena y las puertas de Sesriem.",
     "07": "Gasolineras, dinero, cobertura y emergencias.",
     "08": "El súper parada a parada, la ley del alcohol, dónde comer y la aduana.",
-    "09": "Cómo funciona el safari en seco, y la guía de campo de 91 especies.",
+    "09": "Cómo funciona el safari en seco, y la guía de campo con las posibilidades "
+          "medidas de ver cada especie.",
     "10": "Los Lone Stone Men, la cascada del Uniab, los círculos de hadas.",
     "11": "Lo que cuesta entrar en cada sitio de la ruta, los permisos y la norma de drones.",
     "12": "Lo que superó la verificación a tres votos, y lo que quedó refutado.",
@@ -153,6 +166,8 @@ RESUMEN = {
           "comprar frente a alquilar — en España o en Windhoek.",
     "20": "Los pueblos, las lenguas, la historia que explica lo que se ve por la ventanilla "
           "y la etiqueta del trato — atado a los días de la ruta.",
+    "21": "El cuaderno de llamadas: cada reserva con su canal, su contacto y su fuente — "
+          "el orden en que se cierran y lo que se deja para recepción.",
 }
 
 
@@ -167,7 +182,7 @@ def miles(n, sufijo=" km"):
 # (`18`) va pegado al `06`, porque el dia de ruta se lee del tiron: conducir y acampar;
 # y la cultura (`20`) pegada al `08`, que ya lleva la mesa y los mercados.
 # Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
-ORDEN = {"17": "05a", "19": "05b", "18": "06a", "20": "08a"}
+ORDEN = {"21": "04a", "17": "05a", "19": "05b", "18": "06a", "20": "08a"}
 
 
 def documentos():

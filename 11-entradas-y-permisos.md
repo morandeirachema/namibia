@@ -176,7 +176,7 @@ avioneta y de globo; es la forma correcta de llevarse el plano cenital sin permi
 
 ---
 
-### 🚫 Zonas restringidas y acceso guiado
+## 🚫 Zonas restringidas y acceso guiado
 
 
 - **Messum Crater — abierto al self-drive con permiso, pero desaconsejado** ◐
