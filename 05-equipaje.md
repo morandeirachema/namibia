@@ -120,7 +120,7 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   privado**, y **Etosha lo prohíbe del todo desde abril de 2025** — te lo quedarías en la puerta de
   entrada, a 161 km de la de salida. Sossusvlei, la Costa de los Esqueletos y Etosha —los tres
   motivos para llevarlo— son justo los tres sitios donde no se puede. **El detalle, con fuentes, en
-  [`11`](11-lista-google-maps.md).**
+  [`11`](11-entradas-y-permisos.md).**
 
 ## 👕 Ropa y calzado — las tres decisiones, no el recuento
 
@@ -145,7 +145,7 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   sin esa respuesta*
 - ❌ Comida de casa en cantidad — el avituallamiento está resuelto y mapeado en `08`
 - ❌ **Dron** ✅ — la normativa **sí** está investigada y el resultado es que no hay dónde volarlo:
-  el detalle, más arriba y con fuentes en [`11`](11-lista-google-maps.md)
+  el detalle, más arriba y con fuentes en [`11`](11-entradas-y-permisos.md)
 - ❌ Y a la vuelta: **nada de biltong ni carne en el petate** — prohibido entrar en la UE ✅ (`08`)
 
 ---

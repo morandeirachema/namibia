@@ -2,8 +2,8 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> Lo que cuesta entrar en cada sitio de la ruta, con su fuente — y, al final, qué quedó fuera de
-> tus 34 pines de Google Maps y por qué.
+> Lo que cuesta entrar en cada sitio de la ruta, con su fuente — y, al final, qué destinos
+> quedaron fuera de la ruta y por qué.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
@@ -254,9 +254,9 @@ flowchart LR
 - Fuentes: [trippy — Windhoek↔Opuwo](https://www.trippy.com/distance/Windhoek-to-Opuwo) ·
   [Epupa Camp — directions](https://epupa.com.na/directions/)
 
-### 📏 El este (Tsumkwe + Harnas) — los dos pines que faltaban, ahora CON números ◐
+### 📏 El este (Tsumkwe + Harnas) — los dos destinos que faltaban, ahora CON números ◐
 
-Cerraba la lista de pines sin medir. Los dos apuntan al **este**, la dirección contraria al bucle del
+Cerraba la lista de descartes sin medir. Los dos apuntan al **este**, la dirección contraria al bucle del
 norte, así que un desvío a cualquiera de ellos es una **ida y vuelta muerta** que no enlaza con nada
 de la ruta. La diferencia entre ambos es de grado.
 
@@ -328,11 +328,11 @@ flowchart LR
 
 ---
 
-## 🗺️ Y lo que quedó fuera de tus 34 pines
+## 🗺️ Y lo que quedó fuera de la ruta
 
-Tu lista iba de **Epupa** (frontera con Angola) a **Lüderitz** (suroeste atlántico) pasando por
-**Tsumkwe** (extremo este): eso es el país entero, y **no cabe en quince días**. Lo que se descartó,
-con el motivo:
+Lo que se llegó a estudiar iba de **Epupa** (frontera con Angola) a **Lüderitz** (suroeste
+atlántico) pasando por **Tsumkwe** (extremo este): el país entero — y **no cabe en quince días**.
+Lo que se descartó, con el motivo:
 
 - **Kaokoland (Epupa, Opuwo)** — **~730 km solo hasta Opuwo** y otros 180–200 de grava hasta Epupa:
   **cuatro días de ida y vuelta** que salen de Etosha. Y de propina, es la zona donde **el seguro

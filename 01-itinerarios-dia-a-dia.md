@@ -464,7 +464,7 @@ flowchart LR
   registros GBIF del parque *(101 en oct–nov ◐ — el gran ausente que destapó la revisión;
   ficha nueva del 08/08)*
 - 🛏️ **Camping Namutoni — N$920 (~€46)** ✅ *(el fuerte alemán, y Chudop a un paso)*
-- *Capricho opcional: **Onguma** (tu pin, reserva privada justo al otro lado de la puerta de Von
+- *Capricho opcional: **Onguma** (reserva privada justo al otro lado de la puerta de Von
   Lindequist) ⚠️ precio sin verificar; puede ser gama alta — a cambio pierdes estar dentro*
 
 ### D12 · jue 12 — Etosha este · **~60–80 km de safari** ✅
