@@ -318,8 +318,9 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   **Sin billete no hay e-visa**, porque exige billete de vuelta.
 - 🏕️ **Ninguna reserva consta hecha**: ni coche, ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
   al parque a pernoctar)*, ni las cuatro de Etosha — **ni las DOS de Spreetshoogte** *(decididas el
-  08/08 y con un hueco doble: **sin tarifa y sin contacto** — no hay teléfono, email ni web del
-  camping en todo el dossier, y `01` añade un cuarto nombre a la trampa: «Camp Gecko»)*.
+  08/08; su hueco doble quedó en sencillo el 09/08: **contacto localizado** —
+  spreetshoogte@iway.na · +264 62 572 010 ◐, ver `21`— pero la **tarifa sigue sin verificar** ❌,
+  una fuente lo marca «closed down» ◐ y `01` añade un cuarto nombre a la trampa: «Camp Gecko»)*.
 - 🚗 **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, 15 días,
   aeropuerto → aeropuerto; el 31-oct fuera de temporada baja ❌ y la entrega EN el aeropuerto sin
   confirmar ❌ — `02` §2)*.
@@ -353,6 +354,12 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   > **Conclusión 05/08:** ninguno pasa el listón de «verifica la extracción, no solo la fuente». Los
   > tres siguen en la estimación de práctica común de `02`; **estos números son pistas con URL para el
   > que llame a reservar, no precios para presupuestar**.
+
+  **Avance del 09/08** *(los contactos, con URL, en `21`)*: **Urban Camp** reserva por NightsBridge
+  y su propia web confirma que **no publica número** ✅; **Lagoon Chalets** tiene teléfono y un
+  portal le publica **camping «desde R700» ≈ N$700 (~€35) para dos** ◐; y **Spreetshoogte** tiene
+  email y teléfono ◐ — con un aviso de «closed down» ◐ por confirmar. **Ninguna tarifa nueva
+  verificada: los tres siguen en la estimación.**
 - 💳 **La fianza que retiene Namibia2Go** en la tarjeta — **PARCIALMENTE CERRADO ◐ (05/08), con un
   conflicto sin resolver**: la propia Namibia2Go se anuncia como **«No Deposit»** *(sin fianza, a
   diferencia de casi todos los operadores)* y su FAQ dice que **no hay depósito de combustible**;
@@ -363,8 +370,9 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   reservar, si hay retención en tarjeta y de cuánto.** Aceptan todas las tarjetas salvo Diners y Amex.
 - 🛟 La **opción de búsqueda y salvamento del IATI Estrella: ❌ sin cotizar** *(el Mochilero la
   trae de serie; pedirla por escrito está en el README, punto 6)*.
-- 🚌 El **traslado A Coruña ↔ Oporto**, ida y vuelta: **❌ sin cotizar para las fechas** *(la
-  referencia ◐ es ~€17/persona y trayecto en bus directo — `02` §8)*.
+- 🚗 El **traslado A Coruña ↔ Oporto — decidido (09/08): en coche propio**. Sin cotizar ❌: el
+  **aparcamiento de larga estancia** del aeropuerto (30 oct – 15 nov) y los peajes *(el bus
+  directo, ~€17/persona y trayecto ◐, queda de plan B — `02` §8)*.
 - 🛢️ La **capacidad real del depósito del Hilux de Namibia2Go**: **❌ sin confirmar** — y de ella
   cuelga la aritmética del bucle Henties Bay → Kamanjab (~740 km, 81–96 l — `07`). Pregunta de
   una línea al reservar.

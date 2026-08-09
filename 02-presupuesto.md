@@ -440,12 +440,16 @@ la mañana entera del primero y el día 14 completo.** Tres consecuencias, todas
    (Spreetshoogte, decidido 08/08) **no son NWR**: la primera noche NWR sigue siendo Sesriem el
    3 de noviembre, y todas las de parque caen del **1 de noviembre** en adelante, en tramo barato.
 
-### 🚌 Y el precio de salir de Oporto: **~270 km hasta el aeropuerto**
+### 🚗 Y el precio de salir de Oporto: **~270 km hasta el aeropuerto — en coche propio**
 
-Hay autobús directo **A Coruña → terminal del aeropuerto Francisco Sá Carneiro** con ALSA y
-FlixBus, **~3 h 43 y desde ~€17 por persona** ◐. Con salida a las 16:10, el autobús de la mañana
-llega con margen; a la vuelta aterrizas a las **12:50 del día 15** y quedan ~4 h hasta casa.
-**❌ Sin cotizar para tus fechas.**
+**Decisión del viajero (09/08/2026): se va y se vuelve en coche propio.** Lo que queda por
+cotizar ❌: el **aparcamiento de larga estancia del aeropuerto Francisco Sá Carneiro** para los
+**17 días (30 oct – 15 nov)**, los **peajes** y el combustible del A Coruña ↔ Oporto. Con salida
+a las 16:10 se llega con margen; a la vuelta se aterriza a las **12:50 del día 15** con el coche
+esperando en el parking.
+
+*(La alternativa archivada: autobús directo A Coruña → terminal con ALSA y FlixBus, ~3 h 43 y
+desde ~€17 por persona ◐ — sigue de plan B si el aparcamiento saliera caro.)*
 
 ### ⚠️ Tres comprobaciones antes de pagar
 

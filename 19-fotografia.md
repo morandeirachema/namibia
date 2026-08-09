@@ -77,7 +77,9 @@ Y la alternativa con **un solo objetivo**, que es la respuesta más elegante a l
   *([idealo](https://www.idealo.es/precios/5739272/sony-cyber-shot-dsc-rx10-mark-iv.html))* — una
   cámara de 2017 a precio de 2026. Descartada por precio, no por calidad.
 - La **segunda mano con garantía** *(por ejemplo [MPB](https://www.mpb.com))* rebaja cualquiera de
-  estas cifras; aquí no se cotiza porque su stock cambia a diario ○.
+  estas cifras; aquí no se cotiza porque su stock cambia a diario ○. **La cuenta completa de la
+  segunda mano —comprar, viajar y revender, con precios vistos el 09/08— está en
+  [`22`](22-camara-segunda-mano.md).**
 
 ```mermaid
 flowchart LR
