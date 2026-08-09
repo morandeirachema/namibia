@@ -114,11 +114,16 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 108 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 111 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
-🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(19 páginas, 91 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
+🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(20 páginas, 88 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari — y ni un animal que nadie haya visto: el corte del 09/08 dejó fuera al oricteropo, la suricata y la cebra de Hartmann)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
+
+[<img src="img/mapas/etosha.png" alt="Etosha charca a charca: el mapa del safari del dossier" width="620">](img/mapas/etosha.svg)
+
+*Etosha, charca a charca — el mapa del dossier: en seca la fauna no está repartida por el parque,
+está en el agua. [Verlo en grande](img/mapas/etosha.svg).*
 
 </div>
 
@@ -507,7 +512,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 10. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
 11. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
 12. 🪘 [**`20-cultura-de-namibia`**](20-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
-13. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 91 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
+13. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 88 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 14. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
 15. 📍 [**`11-lista-google-maps`**](11-lista-google-maps.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
@@ -521,9 +526,11 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 
 📕 Y el PDF: [**`guia-fauna-etosha.pdf`**](guia-fauna-etosha.pdf) — la guía de campo, para imprimir.
 Lleva **medidas** las posibilidades de ver cada bicho: los partes de avistamiento de los tres
-campamentos *(elefante 96 %, rinoceronte negro 82 %, león 70 %, leopardo 12 %, oricteropo 0 %)* y,
-para las que no tienen parte, el peso de la especie en los registros de GBIF de octubre y
-noviembre. Con su muestra detrás y con los sesgos escritos, no en letra pequeña.
+campamentos *(elefante 96 %, rinoceronte negro 82 %, león 70 %, leopardo 12 %)* y, para las que
+no tienen parte, el peso de la especie en los registros de GBIF de octubre y noviembre. Con su
+muestra detrás y con los sesgos escritos, no en letra pequeña — **y con la regla del 09/08: lo
+que nadie vio, no lleva ficha** *(el 0 % medido del oricteropo lo dejó fuera, con la suricata y
+la cebra de Hartmann, que no caen en la ruta)*.
 
 ### 🗺️ Tus 34 pines, en una línea
 

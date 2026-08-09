@@ -209,6 +209,19 @@ chapa.
 > faros. Trátalo como saber popular —que se cree todo el que conduce esas carreteras— y **deja que
 > refuerce la regla de la noche**, no que haga de estadística.
 
+**La maniobra si ya está en la pista — y el después** ○ *(práctica común, coherente con §1 y §9)*:
+
+- **Freno a fondo y RECTO, las dos manos al volante.** El volantazo en grava es exactamente el
+  mecanismo del vuelco de §1 — vale la misma doctrina que con las piedras (§9): **no esquives**.
+  Un golpe frontal a menos velocidad casi siempre acaba mejor que un vuelco esquivando. Si hay
+  margen, **claxon largo**: al springbok, la cabra y el burro les suele bastar.
+- Si el golpe llega: **fuera de la calzada, warning — y NADIE se acerca a un animal herido** ○
+  *(un kudú herido cocea; un facóquero embiste)*.
+- Después: **fotos del coche y del sitio, y parte** — el seguro lo va a pedir con cualquier
+  daño ○. Con heridos, **MVA Fund 9682** (§13). Un animal doméstico *(cabra, burro, vaca)* tiene
+  dueño: se avisa en el siguiente pueblo o a la policía *(+264 61 10111 en Windhoek; prefijo de
+  zona fuera — `07`)* ○.
+
 ---
 
 ## 8. Grúa y rescate: la responsabilidad es segura, el precio no ✅

@@ -346,6 +346,29 @@ Y recuerda: **visado N$1.600 (~€80)** y **referencia de fondos ~N$1.200 (~€6
 
 ---
 
+## 👮 Controles de carretera ○
+
+*Práctica común de viaje — sin fuente que citar, y así va marcado.*
+
+Los controles *(de policía, y los veterinarios de la Línea Roja de arriba)* son **rutina** en las
+carreteras B y en las entradas y salidas de ciudad: conos, un alto, y un agente que pide papeles.
+No son una incidencia — son parte del paisaje, y con el kit en la guantera duran dos minutos.
+
+- **El kit, JUNTO en la guantera** *(la casilla, en [`17`](17-lista-de-equipaje.md))*: **carnet +
+  permiso internacional** *(jamás separados — `04`)*, el **contrato del alquiler**, una **copia
+  del pasaporte** *(el original viaja en el coche, pero no hace falta darlo en mano)* y los
+  teléfonos de abajo. El disco de licencia del vehículo va en su parabrisas: es cosa de
+  Namibia2Go — basta saber que existe.
+- **El guion**: ventanilla abajo, **saludo primero** *(`20`)*, «where are you coming from /
+  where are you going», y a veces abrir el maletero en el control veterinario. Papeles en orden
+  → «safe travels».
+- **Si alguien insinúa un «cool drink»** *(la propina impropia)*: sonrisa, «we're fine, thank
+  you», y —si insiste— pedir con calma su nombre o un recibo: la petición suele evaporarse ○.
+  **Nada se paga sin recibo.** Una multa real *(velocidad, cinturón)* se paga donde diga el
+  boleto, no en mano.
+
+---
+
 ## 🚑 Emergencias
 
 > ### ⚠️ La trampa del 10111
@@ -378,6 +401,10 @@ Y recuerda: **visado N$1.600 (~€80)** y **referencia de fondos ~N$1.200 (~€6
 
 Y de `06`: **MVA Fund 9682** (gratuito), organismo estatutario que cubre a **cualquier** herido en
 accidente de tráfico **sin importar nacionalidad ni culpa**.
+
+🇪🇸 Y el de los papeles: **Embajada de España en Windhoek** — emergencia consular 24/7
+**+264 85 128 0571** · centralita +264 61 22 30 66 ◐ *(datos y fuentes, en `04`)*. Pasaporte
+perdido o robado: a ellos.
 
 ---
 
@@ -413,6 +440,17 @@ zona de Etosha.
    el **rescate sin tope sigue sin confirmar por escrito**: el evento que te mete en una ambulancia
    aérea es el mismo.
 3. Un **dispositivo satelital con SOS** es lo que **dispara el rescate** donde no hay cobertura.
+
+### La costa (D5–D7) sí tiene hospital — dos, privados ◐
+
+- **Mediclinic Swakopmund** — Franziska van Neel St · **+264 64 412 200** ◐
+  *([mediclinic.co.za/swakopmund](https://www.mediclinic.co.za/en/swakopmund/home.html))*
+- **Welwitschia Hospital (Walvis Bay)** — urgencias **+264 64 218 911** · centralita
+  **+264 64 218 902** ◐ *([welwitschiahospital.com](https://welwitschiahospital.com/contact-us/))*
+
+Cubren los tres días de la costa —crucero, dunas y ostras incluidos— y son la referencia del D5
+al D7 por la mañana. **Del norte de Henties Bay a Kamanjab (D7–D8) no hay NADA**: ese tramo es
+del satelital y de las ambulancias de arriba.
 
 **Atención definitiva para algo grave: Windhoek** — Windhoek Central Hospital **061 203 9111**;
 privados: Lady Pohamba, Roman Catholic, Mediclinic Windhoek.

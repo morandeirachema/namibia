@@ -26,6 +26,9 @@
 - **Se dispara apoyado en la ventanilla**, con una sudadera doblada haciendo de saco; el trípode
   no sirve dentro del coche — sí en la charca iluminada de noche y bajo el cielo del desierto
   *(la técnica, en la guía de fauna: [`09`](09-fauna-etosha.md))*.
+- **Y el cielo juega a favor**: las cuatro noches de Etosha (D9–D12) caen en **luna nueva**
+  *(novilunio el 9–10 nov — el bloque 🌙 de [`01`](01-itinerarios-dia-a-dia.md))* — Vía Láctea
+  de libro para el trípode, y **charca iluminada sin luz lunar de fondo**: ISO arriba sin miedo ○.
 - **El peso no es excusa**: todo lo de abajo baja de 1,6 kg, y la franquicia del vuelo son 23 kg
   por persona *([`02`](02-presupuesto.md) §8)*.
 
@@ -146,6 +149,17 @@ flowchart LR
   del viaje entero, no «solo para los días de Etosha».
 
 ---
+
+## 💾 El respaldo — la regla de las tarjetas ○
+
+Quince días de polvo, media ruta sin cobertura *(subir a la nube no es plan — `07`)* y una
+tarjeta única sería un punto único de fallo **con Deadvlei dentro**. La regla, barata:
+
+- **Las tarjetas se rotan por días** *(por eso son ×4 en `17`)*: la llena, al estuche — y el
+  estuche, en **otro bulto** que la cámara. **No se formatea nada hasta estar en casa.**
+- **Se copia las noches con enchufe** — Walvis Bay (D5–D6) y Windhoek (D13) — al móvil con un
+  lector USB-C o a un **SSD pequeño** *(su casilla, en `17`)*.
+- La cámara duerme en el coche cerrado y a cubierto; **las tarjetas llenas van contigo** ○.
 
 ## 🧭 La decisión, en corto
 

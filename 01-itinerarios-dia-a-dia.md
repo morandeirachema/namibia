@@ -88,6 +88,16 @@ gantt
 > (~19:05, está al este) y en la costa después (~19:20)** — la regla de «en el campamento a las
 > 18:00» vale igual en toda la ruta.
 
+> ### 🌙 Y la luna: el viaje acaba en NOCHE CERRADA *(cálculo propio de fase — conjunción de referencia + mes sinódico, ±1 día; añadido el 09/08)*
+> **Luna nueva el 9–10 de noviembre — clavada en las noches de Etosha.** El arco: se sale de
+> Windhoek con una **menguante del ~58 %** que ya no sale hasta bien entrada la noche *(D1–D2:
+> primeras horas de estrellas limpias en la escarpa)*; el **amanecer de Deadvlei (D4) lleva un
+> creciente menguante del ~27 % colgado sobre las dunas**; la costa apaga la luna del todo
+> *(D6 ~11 %, D7 ~5 %)*; y **las cuatro noches de Etosha (D9–D12) caen entre el 0 y el 9 %**:
+> charca iluminada **sin competencia lunar** y Vía Láctea de libro — el **nocturno del D12, con
+> ~9 %, en oscuridad casi perfecta**. La vuelta (D13–D14), con un creciente fino al atardecer.
+> *(El porqué fotográfico, en [`19`](19-fotografia.md); el registro del cálculo, en `15`.)*
+
 > ### 🌡️ Y la temperatura donde duermes — medias de NOVIEMBRE
 > Cada noche lleva su **máxima media / mínima media** del mes. **Son medias mensuales, no la
 > previsión de tu día**: el récord de noviembre en el sur llega a 41–42 °C (`15`).
@@ -295,6 +305,12 @@ flowchart LR
 ### D6 · vie 6 — Walvis Bay: flamencos y descanso ✅
 - 🌡️ **Walvis Bay 25,0 / 12,7** ✅ — el día fresco del viaje: aprovecha para el Welwitschia Drive
 - ☀️ amanecer **06:14** · anochecer **19:17** — *flamencos con la primera luz, ~06:15–07:30*
+- 🌊 **La marea manda sobre Sandwich Harbour**: bajamar **07:18** y **19:38**, pleamar **13:27** ◐
+  *(predicción de [tidetime.org](https://www.tidetime.org/africa/namibia/walvis-bay-calendar-nov.htm)
+  para el 6-nov, leída el 09/08 — y mareas VIVAS hacia el novilunio del 9: playa ancha)*. **La
+  salida de las ~08:30 es la que baja por la playa hasta la laguna; la de las ~12:30 cae casi en
+  pleamar** y suele quedarse en los miradores. El operador planifica con su propia tabla:
+  **confírmalo al reservar** *(detalle en `15`)*
 - 🦩 **Y tu mes es de los buenos**: en Walvis Bay los flamencos tienen su **máximo de junio a
   noviembre** ✅ *(SABAP1)*. Aquí sí los hay en cantidad — en Etosha, en cambio, **no**: la depresión está
   seca en noviembre *(ver `09`)*
@@ -391,10 +407,12 @@ flowchart LR
 - 🎫 Etosha ~N$620 (~€31)/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
 - 🎟️ **Nada más llegar, en recepción: cierra los guiados** — la salida de mañana de MAÑANA en
   Okaukuejo y pregunta los horarios *(❌ no los publican; decidido 08/08 — ver §parques)*
-- 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros
+- 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros. Y **en luna nueva**
+  *(novilunio el 9–10: las cuatro noches de Etosha, a oscuras — ver el bloque 🌙 de arriba)*: la
+  charca manda sola sobre la oscuridad total, y el cielo de la parcela es de libro
 - 🐾 **La cifra real de la charca, de partes de viajeros** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/okaukuejo-camp/reviews/1),
   149 viajeros desde 2018 — cada % lleva su propia muestra ◐)*: **rino negro 87 % (119 de 137), elefante 97 %, jirafa 99 %, león 68 %** —
-  andando desde la parcela *(método y las 91 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
+  andando desde la parcela *(método y las 88 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
 
 ### D10 · mar 10 — Safari Okaukuejo → Halali · **~110 km de safari lento** ◐ *(OSRM 108 por el desvío obligatorio; la directa eran ~70)*
@@ -611,8 +629,9 @@ mediodía siguen siendo vuestros.
 
 **El nocturno sí**, porque de noche está **prohibido circular por libre**: es la única forma de estar
 en el parque a oscuras y ver puercoespín, liebre saltadora, **zorro del Cabo, gato montés africano
-o un lobo de tierra** *(los tres, con ficha nueva del 08/08)* — leones cazando, y con suerte épica
-el **oricteropo** *(el 0 % de los partes: nadie lo promete)*. **N$1.500 (~€75) los dos.**
+o un lobo de tierra** *(los tres, con ficha nueva del 08/08)* — o leones cazando. *(El oricteropo
+se quedó fuera de la guía a propósito: **0 % en 149 partes — nadie lo vio**; lo que sí veréis son
+sus excavaciones en los termiteros.)* **N$1.500 (~€75) los dos.**
 
 > ### 👉 Y hazlo desde NAMUTONI, no desde Okaukuejo
 > Sale de cruzar dos datos: la charca iluminada de **Okaukuejo es probablemente el mejor sitio de

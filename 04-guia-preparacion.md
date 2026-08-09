@@ -186,6 +186,18 @@ Para la vuelta real del **15 de noviembre de 2026** → pasaporte válido **hast
 > Si alguno falla, **renuévalo YA**. El cuello de botella es la **cita previa** en Policía Nacional,
 > no la impresión. Dejarlo para noviembre es como se pierden los viajes.
 
+### Y si el pasaporte se pierde ALLÍ: España tiene embajada EN Windhoek ◐
+
+No hay que llamar a Pretoria: la **Embajada de España está en la propia Windhoek** — **58 Simeon
+Shixungileni Street** · **+264 61 22 30 66** · sección consular `emb.windhoek.sc@maec.es` · y el
+**teléfono de emergencia consular 24/7: +264 85 128 0571** *(solo para urgencias graves de
+españoles)*. Con las **fotocopias y fotos de pasaporte** que ya manda llevar [`17`](17-lista-de-equipaje.md),
+un pasaporte perdido o robado es una mañana de trámite, no un viaje roto. **Grábalo junto a los
+teléfonos de emergencia de `07`.**
+Fuentes ◐ *(vía extractos de búsqueda; web oficial nombrada)*:
+[exteriores.gob.es — Embajada de España en Namibia](https://www.exteriores.gob.es/Embajadas/windhoek/es/Paginas/index.aspx) ·
+[horario, localización y contacto](https://www.exteriores.gob.es/Embajadas/windhoek/es/Embajada/Paginas/Horario,-localizaci%C3%B3n-y-contacto.aspx)
+
 ### Vacunación: la cita es el plazo, no la vacuna ✅
 
 Sanidad dice acudir con *«4-6 semanas de antelación»* — pero eso es cuánto antes hay que **ser

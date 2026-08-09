@@ -46,20 +46,21 @@ BLOQUES = [
 # Fotos que salpican cada documento, en orden de aparicion.
 FOTOS = {
     "01": ["namib-paisaje", "deadvlei", "walvisbay", "skeleton", "twyfelfontein", "okaukuejo"],
-    "02": ["hilux"],
+    "02": ["hilux", "sandwich"],
     "03": ["sesriem", "terracebay"],
     "04": ["windhoek"],
     "05": [],
-    "06": ["grava", "saltroad"],
+    "06": ["grava", "saltroad", "bigdaddy"],
     "07": ["solitaire"],
     "08": ["swakopmund", "joes"],
-    "09": ["etosha-elefantes", "etosha-rino"],
+    "09": ["etosha-elefantes", "etosha-rino", "halali", "namutoni"],
     "10": ["circulos", "cielo", "welwitschia"],
     "11": ["capecross"],
     "12": [],
-    "13": ["spreetshoogte", "grootberg"],
-    "14": ["termitero"],
+    "13": ["spreetshoogte", "grootberg", "damaraland"],
+    "14": ["termitero", "etosha-pan"],
     "15": [],
+    "17": ["hiddenvlei"],
     "18": ["hoada"],
 }
 
@@ -300,15 +301,20 @@ def poda(cuerpo, doc):
 
 
 def reparte_fotos(cuerpo, slugs):
-    """Mete las fotos delante de los <h2>, repartidas de forma pareja por el documento.
+    """Mete las fotos delante de los <h2> y <h3>, repartidas por el documento.
 
     Cada foto va en un hueco distinto: si dos cayeran en el mismo se solaparian las
     etiquetas y saldria HTML invalido, y con HTML invalido el navegador ensancha la
     pagina y encoge el documento entero al imprimirlo.
+
+    Se reparte tambien en los <h3> (los dias del `01`, p. ej.): solo con <h2>, al
+    documento del itinerario le quedaban DOS huecos tras la poda y cuatro de sus seis
+    fotos declaradas se caian en silencio — y salian acreditadas sin ensenarse. Solo
+    cuentan las etiquetas desnudas: el <h3 class="desplegable-t"> de los plegables no.
     """
     if not slugs:
         return cuerpo
-    partes = cuerpo.split("<h2")
+    partes = re.split(r"(?=<h[23]>)", cuerpo)
     huecos = len(partes) - 1
     if huecos == 0:
         return cuerpo + "".join(comun.figura(s, "media") for s in slugs)
@@ -322,7 +328,7 @@ def reparte_fotos(cuerpo, slugs):
     for i, p in enumerate(partes[1:], start=1):
         if i in destino:
             salida.append(comun.figura(destino[i], "media" if i == primero else "baja"))
-        salida.append("<h2" + p)
+        salida.append(p)
     return "".join(salida)
 
 
@@ -399,10 +405,12 @@ def indice(paginas):
                 f'<span class="puntos"></span><span class="p">{p}</span></li>')
         filas.append("</ol>")
 
+    import catalogo
+    n_especies = sum(len(l) for _, _, l in catalogo.GRUPOS_FAUNA)
     extra = []
     for clave, nombre in [("mapas", "Los mapas: la ruta y las charcas de Etosha"),
                           ("presentacion", "El viaje de un vistazo"),
-                          ("fauna", "La guía de campo va aparte — 91 especies con foto"),
+                          ("fauna", f"La guía de campo va aparte — {n_especies} especies con foto"),
                           ("creditos", "Créditos de las fotografías")]:
         p = paginas.get(clave, "")
         extra.append(f'<li><span class="n"></span><span class="t">{nombre}</span>'

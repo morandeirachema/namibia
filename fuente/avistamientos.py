@@ -89,7 +89,10 @@ MINIMO_ESPECIE = 10
 # suricata no vive en esta ruta (es del Kalahari y del sur) y la cebra de Hartmann
 # esta dentro del poligono de Etosha pero solo en las lomas del extremo oeste, a
 # doscientos kilometros del eje Okaukuejo-Namutoni. GBIF no distingue eso; la ficha si.
-FUERA_DE_RUTA = {"suricata", "cebra-hartmann"}
+# Vacio desde el 09/08: las especies que la fuente situaba fuera de la ruta (suricata,
+# cebra de Hartmann) salieron del catalogo con la regla nueva — la guia no lleva
+# animales que nadie va a ver. El mecanismo se queda por si vuelve a hacer falta.
+FUERA_DE_RUTA = set()
 
 
 def pide(path, **kw):
