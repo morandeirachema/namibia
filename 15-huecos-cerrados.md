@@ -257,7 +257,14 @@ contra GBIF** — mangosta rayada *(400 registros en Etosha ✅ — el gran ause
 Hartlaub *(6.334 en la costa ✅)* y avoceta *(3.944 ✅)*, más el trío del nocturno guiado: zorro
 del Cabo *(31/10)*, gato montés africano *(39/8)* y lobo de tierra *(10/1 — el caso «liebre
 saltadora»: nocturno infrarregistrado, documentado en la propia guía)*. **Quedan fuera con
-datos**: duiker *(16/5)* y liebre del Cabo *(3/1)*. Total: **91 fichas / 128 imágenes**.
+datos**: duiker *(16/5)* y liebre del Cabo *(3/1)*. Total del 08/08: 91 fichas / 128 imágenes.
+
+**Poda del 09/08 — regla nueva del viajero: la guía no lleva animales que nadie vio.** Fuera el
+**oricteropo** *(el 0 % medido en 149 partes — la cifra más honesta del método, y por eso mismo
+descalifica la ficha)*, la **suricata** y la **cebra de Hartmann** *(las dos con la banda forzada
+«fuera de la ruta»: la propia guía decía que no caían en el eje)*. Los avisos de identificación se
+conservan en `09` y en la ficha de la cebra de Burchell; el 0 % del oricteropo se queda contado
+como anécdota de método. **Total vigente: 88 fichas / 125 imágenes.**
 
 **El archivo de la consulta puntual del 08/08/2026** *(API de GBIF sobre los polígonos de las
 zonas; NO está en el JSON del build —que solo guarda totales y oct–nov— y por eso se deja aquí
@@ -284,7 +291,24 @@ equipaje del grupo: **Economy Classic = 1×23 kg (158 cm) por persona; Economy L
 cabina 8 kg + accesorio**. La única decisión real ya estaba avisada: **emitir con tarifa con
 maleta**. Detalle y fuentes en [`02`](02-presupuesto.md) §8.
 
-## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 08/08/2026)*
+## 🌊 Mareas de Walvis Bay y 🌙 la luna — cerrados el 09/08/2026
+
+- **Las mareas del D5–D7** *(Walvis Bay es el puerto patrón de la costa)* ◐ — leídas de la tabla
+  de noviembre de 2026 de
+  [tidetime.org](https://www.tidetime.org/africa/namibia/walvis-bay-calendar-nov.htm): **D5**
+  bajamares 06:37 y 19:01 · **D6 — el día del tour: bajamares 07:18 y 19:38, pleamares 01:21 y
+  13:27** · **D7** 07:54 y 20:12; el rango crece hacia las **mareas vivas del novilunio del 9**
+  *(coherencia interna que respalda la tabla)*. Es **predicción comercial, no tabla náutica**
+  *(las primarias —SANHO, Namport— no se abrieron desde aquí)*: vale para planificar la mañana
+  del D6 —**la salida de Sandwich Harbour de las ~08:30 es la de la playa**—, no para navegar,
+  y **el operador manda con su propia tabla**.
+- **La fase lunar, calculada en casa** *(conjunción de referencia + mes sinódico; ±1 día en el
+  instante)* — **luna nueva el 9–10 de noviembre**: las **cuatro noches de Etosha (D9–D12)
+  entre el 0 y el 9 % de iluminación**, el amanecer de Deadvlei (D4) con un menguante del ~27 %,
+  y la salida (D0–D2) con una menguante del 48–68 % que sale ya de noche. El día a día, en el
+  bloque 🌙 de `01`.
+
+## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 09/08/2026)*
 
 El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo el dossier.
 

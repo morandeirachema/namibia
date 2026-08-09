@@ -51,7 +51,7 @@ def metodo():
   duerme en los tres <em>(Okaukuejo 1 noche, Halali 1, Namutoni 2)</em> son <strong>tres
   tiradas</strong>: en las cuatro noches la posibilidad real es más alta que cualquiera de
   estos números. Cuánto más, no lo dicen estos datos, así que no se dice.</p>
-  <p>Eso solo existe para catorce especies. Para las otras setenta y siete va un
+  <p>Eso solo existe para trece especies. Para las otras setenta y cinco va un
   <strong>índice de registros de GBIF</strong>: cuánto pesa la especie dentro de los
   registros de su grupo en la zona <strong>en octubre y noviembre</strong> —{mam} de
   mamífero y {aves} de ave solo en Etosha—. Mide <em>lo que se registra</em>, no <em>lo
@@ -89,7 +89,7 @@ def portadilla():
 
 
 INTROS = {
-    "mamifero": "<p>Treinta y seis fichas, de lo que se ve en todas las charcas a lo que "
+    "mamifero": "<p>Treinta y tres fichas, de lo que se ve en todas las charcas a lo que "
                 "hay que tener suerte para cruzarse. <strong>El orden no es alfabético: "
                 "es el de siempre</strong> — primero los grandes.</p>",
     "ave": "<p>Con el coche parado en una charca, las aves llenan las esperas. Estas son las "

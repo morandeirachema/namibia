@@ -11,7 +11,6 @@ ID = {
  "guepardo": "Manchas **simples**, no rosetas, y dos «lágrimas» negras del ojo a la boca. Silueta esbelta de galgo con cabeza pequeña. Caza de día, a plena luz.",
  "jirafa": "La subespecie del suroeste, de manchas irregulares que se desvanecen hacia las patas. Al beber tiene que abrir las patas en compás: su momento más vulnerable, y el mejor para la foto.",
  "cebra-burchell": "La cebra de llanura: rayas **anchas** que siguen hasta la barriga, con «rayas de sombra» pardas intercaladas. Es la que forma manadas en las charcas.",
- "cebra-hartmann": "Rayas **finas y apretadas**, barriga blanca sin rayar, papada colgante y una «parrilla» de rayas horizontales en la grupa. De terreno rocoso y escarpado.",
  "orix": "Cuernos rectos como lanzas —en el macho y en la hembra— y máscara facial en blanco y negro. Aguanta sin beber; es el emblema del país y sale en el escudo de Namibia.",
  "springbok": "Banda castaña que separa el lomo del vientre blanco, y una cresta de pelo blanco en la grupa que abre al saltar. Da botes rígidos con el lomo arqueado: el *pronking*.",
  "kudu": "El macho lleva cuernos en espiral y una uve blanca entre los ojos; el costado, rayas verticales finas. **Salta vallas altísimas: es el gran peligro de la carretera al anochecer.**",
@@ -24,7 +23,6 @@ ID = {
  "chacal": "La «silla de montar» negra y plateada sobre el lomo, y orejas grandes. Omnipresente en las charcas y desvergonzado en los campamentos.",
  "ratel": "Manto gris claro desde la cabeza hasta la cola sobre cuerpo negro. Pequeño, bajo, y con una fama de temerario que se ha ganado a pulso.",
  "facocero": "Verrugas en la cara y colmillos curvos hacia arriba. Corre con la cola tiesa como una antena y **se arrodilla sobre los codos** para pacer.",
- "suricata": "De pie, haciendo de centinela sobre un montículo. ⚠️ **Ojo: NO es de Etosha** — vive en el Kalahari y el sur del país, así que en esta ruta no toca. Va aquí porque todo el mundo la busca.",
  "hartebeest": "Cara larguísima y estrecha, cuernos en forma de arpa montados sobre un pedúnculo, y grupa muy caída. Color rojizo brillante al sol.",
  "steenbok": "Pequeño, rojizo y con orejas enormes; solo el macho lleva cuernos, cortos y rectos. Se queda clavado mirándote y sale disparado en zigzag.",
  # --- AVES ---
@@ -93,7 +91,6 @@ ID = {
  "zorro-del-cabo": "El único zorro verdadero del sur de África: pequeño, gris plata, con la cola tupida de punta negra. Estrictamente nocturno: es objetivo del safari nocturno, no del día.",
  "gato-montes-africano": "Como un atigrado espigado de patas largas, con el dorso de las orejas rojizo — esa es la seña frente al gato doméstico. Nocturno y discretísimo: verlo es premio.",
  "lobo-de-tierra": "Parece una hiena en miniatura, con crin eréctil y franjas verticales, pero cena termitas. Nocturno estricto: su cifra de GBIF infrarrepresenta, como la de la liebre saltadora.",
- "oricteropo": "El premio gordo del safari nocturno: orejas de burro, hocico de cerdo y cola de canguro. **Estrictamente nocturno y rarísimo de ver** — sus excavaciones en los termiteros sí se ven por todas partes.",
  # --- AVES anadidas ---
  "bateleur": "En vuelo **no se le ve cola**: es una tabla negra con la cabeza roja, y se balancea de lado a lado planeando. De los rapaces más reconocibles del parque.",
  "buitre-orejudo": "El buitre grande y feo, de **cabeza rosada desnuda** y pico enorme: es el que abre la piel del cadáver y deja comer al resto. Manda en la carroña.",

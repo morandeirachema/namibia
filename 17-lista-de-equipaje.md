@@ -51,7 +51,11 @@ el viaje sigue; si se pierde la cabina, no.
 - [ ] **Efectivo en euros** para cambiar a la llegada ○
 - [ ] **Fotocopias de todo** ×1 juego, en bolsa aparte del original ○
 - [ ] Fotos de todo en el móvil, **descargadas para verlas sin cobertura** ○
-- [ ] **Teléfonos de emergencia de `07` impresos** ×1, en la guantera ✅
+- [ ] **Teléfonos de emergencia de `07` impresos** ×1, en la guantera ✅ *(con el de la
+      embajada de España — `04`)*
+- [ ] **El kit del control policial, JUNTO en la guantera** ○ — carnet + permiso internacional
+      *(jamás separados ✅)*, contrato del alquiler y copia del pasaporte *(el guion del control,
+      en `07`)*
 - [ ] **Mapa de carreteras en papel** ×1 ✅ *(Namibia funciona con papel, `04`)*
 - [ ] **Libreta y boli** ×1 ✅ — para apuntar las presiones en frío de la entrega *(`06`)*
 
@@ -156,7 +160,10 @@ el viaje sigue; si se pierde la cabina, no.
 - [ ] **Frontal ×1 por persona, con modo rojo** ○ — charca de noche, letrina a las 3 AM, montar la
       tienda al anochecer. **+1 juego de pilas de repuesto** ○
 - [ ] **Linterna de mano ×1** ○ además del frontal
-- [ ] Móvil con **Tracks4Africa** ✅ y mapas offline **descargados**
+- [ ] Móvil con **Tracks4Africa** ✅ y mapas offline **descargados** — y las otras tres apps,
+      TAMBIÉN antes de salir ○: **iOverlander** *(campings y aguadas — útil para los tres sin
+      tarifa)*, una de **cielo/estrellas con modo offline** *(las noches de luna nueva del
+      9–12, `01`)* y una de **previsión marina/viento** para el crucero del D6
 - [ ] Reloj o despertador que no dependa de la batería del móvil ○
 - [ ] **Satelital con SOS** *(Garmin inReach o similar)* ✅ — recomendado sin ambigüedad para esta
       ruta; comprarlo o alquilarlo **sigue pendiente de decidir** *(`04`)*
@@ -169,6 +176,8 @@ el viaje sigue; si se pierde la cabina, no.
       está en [`19`](19-fotografia.md)
 - [ ] **Trípode ×1** ○ — la charca iluminada de noche y el cielo del desierto
 - [ ] **Tarjetas ×4** y **baterías ×3** ○ — allí es caro y está lejos
+- [ ] **SSD pequeño o lector USB-C para el móvil ×1** ○ — el respaldo de las tarjetas en Walvis
+      y Windhoek *(la regla entera, en `19`)*
 - [ ] **Funda o bolsa antipolvo ×1** ○ · pera de aire ×1 · paños de limpieza ×3
 
 ## 🏕️ Campamento — solo lo que el coche NO trae

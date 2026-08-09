@@ -2,8 +2,9 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> El índice de la guía de campo en PDF: 91 especies con foto, cómo reconocerlas, **qué
-> posibilidades hay de verlas** y dónde y cuándo.
+> El índice de la guía de campo en PDF: 88 especies con foto, cómo reconocerlas, **qué
+> posibilidades hay de verlas** y dónde y cuándo. *(Regla del 09/08: sin avistamientos, sin
+> ficha — fuera oricteropo, suricata y cebra de Hartmann.)*
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
@@ -11,8 +12,8 @@
 > *Investigación cerrada el 03/08/2026 · posibilidades de avistamiento y consejos de safari
 > añadidos el 07/08/2026 · revisión de coherencia el 09/08/2026*
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 19 páginas A4,
-**91 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
+📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 20 páginas A4,
+**88 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
 cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
 
@@ -26,7 +27,7 @@ buscar una especie desde el repo.)*
 - **Nombre en castellano, científico e inglés** — el inglés importa: es el que veréis en los
   carteles del parque y el que usa todo el mundo allí
 - **Qué posibilidades hay de verla**, medida y con su muestra detrás *(abajo, de dónde sale)* —
-  en **89 de las 91**: dos fichas *(tortuga leopardo y shongololo)* se quedan sin línea a
+  en **86 de las 88**: dos fichas *(tortuga leopardo y shongololo)* se quedan sin línea a
   propósito, porque su clase no llega a la muestra mínima y **callarse es la regla**
 - **Cómo reconocerla en el campo**: los rasgos que de verdad distinguen, no una descripción de
   enciclopedia *(labio del rinoceronte, rosetas frente a manchas, orejas de la hiena, pico del cálao…)*
@@ -41,8 +42,8 @@ la guía usa las dos —cada una con su etiqueta, porque **no miden lo mismo**�
 
 ```mermaid
 flowchart LR
-    A["14 especies grandes<br/>PARTES DE VIAJEROS"] --> A1["% que lo vio<br/>durante su estancia<br/>en el campamento"]
-    B["las otras 77<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
+    A["13 especies grandes<br/>PARTES DE VIAJEROS"] --> A1["% que lo vio<br/>durante su estancia<br/>en el campamento"]
+    B["las otras 75<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
     A1 --> C["frecuente / escasa<br/>siempre con la muestra"]
     B1 --> C
     style A fill:#EDF1E4,stroke:#5F7043
@@ -53,8 +54,10 @@ flowchart LR
 1. **Los partes de avistamiento que publica Expert Africa** para los tres campamentos donde se
    duerme: **Okaukuejo** *(149 viajeros)*, **Halali** *(48)* y **Namutoni** *(16)*. Ahí está la
    respuesta directa — **elefante 96 %, rinoceronte negro 82 %, león 70 %, guepardo 19 %,
-   leopardo 12 %, oricteropo 0 %** ◐. Ojo con la unidad: es **por estancia en un campamento**,
-   ni por día ni por viaje. Y como se duerme en los tres, son tres tiradas y no una.
+   leopardo 12 %** ◐ — y el **0 % del oricteropo**, que precisamente por eso **quedó fuera de
+   la guía** *(regla del 09/08: lo que nadie vio, no lleva ficha)*. Ojo con la unidad: es
+   **por estancia en un campamento**, ni por día ni por viaje. Y como se duerme en los tres,
+   son tres tiradas y no una.
 2. **Los registros de GBIF** dentro del polígono real del parque *(y de otras tres zonas de la
    ruta)*, **filtrados a octubre y noviembre**: 4.529 registros de mamífero y 69.600 de ave solo
    en Etosha ◐. Eso mide **lo que se registra**, que no es lo que se ve, así que la guía dice
@@ -86,14 +89,17 @@ táctica de la charca** *(motor apagado y tres cuartos de hora, que es lo que de
 ✅: 60 km/h, no bajar del coche fuera de los campamentos, no salirse de las pistas y estar dentro
 antes de que cierre la puerta.
 
-## El «dónde y cuándo», en 37 de las 91 fichas
+## El «dónde y cuándo», en 45 de las 88 fichas
 
 Charca por charca y con su fuente: **Okondeka** para el león, **Halali y Goas** para el leopardo,
 **Salvadora–Sueda–Charitsaub** para el guepardo, el **Dik-dik Drive** nada más entrar por Von
 Lindequist, y el nido de tejedor republicano **a diez metros de la charca de Okaukuejo**.
 
-Las 54 fichas restantes **no llevan esa línea**: no apareció información
-específica de Etosha en ninguna fuente decente, y rellenarlo a ojo sería inventar.
+*(Las 8 fichas añadidas el 08/08 la estrenaron el 09/08, con los ganchos ya verificados del
+itinerario: la mangosta rayada en Namutoni, la gaviota y la avoceta en la laguna, la jorobada en
+el crucero y el trío del nocturno en el nocturno.)* Las 43 fichas restantes **no llevan esa
+línea**: no apareció información específica de Etosha en ninguna fuente decente, y rellenarlo a
+ojo sería inventar.
 
 ### Y cuatro avisos que corrigen lo que dicen las webs de safaris
 
@@ -105,9 +111,13 @@ específica de Etosha en ninguna fuente decente, y rellenarlo a ojo sería inven
   el **abejaruco europeo**, que llega en octubre.
 - **La cigüeña de Abdim tampoco**: en Etosha es ave de febrero y marzo.
 - **La cebra de montaña de Hartmann no está en vuestro eje**: vive en las lomas de dolomita del
-  extremo oeste del parque.
-- **La suricata tampoco toca**: es del Kalahari y del sur — su ficha va en la guía porque todo el
-  mundo la busca, con la banda forzada a «fuera de la ruta».
+  extremo oeste del parque — por eso, desde el 09/08, **no tiene ficha**: la vuestra es la de
+  Burchell *(el aviso de identificación va en su ficha)*.
+- **La suricata tampoco toca**: es del Kalahari y del sur — fuera de la ruta y, desde el 09/08,
+  **fuera de la guía**.
+- **Y el oricteropo, fuera con su propio dato**: el 0 % de 149 partes es la cifra más honesta
+  del método — nadie lo vio, así que no lleva ficha *(sus excavaciones en los termiteros sí las
+  veréis por todas partes)*.
 
 Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horarios de puerta calculados
 para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las tres charcas
@@ -118,9 +128,9 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ---
 
-## Las 91 especies
+## Las 88 especies
 
-### 🦁 Mamíferos (36)
+### 🦁 Mamíferos (33)
 
 - **Elefante africano de sabana** — *Loxodonta africana* · African bush elephant
 - **Rinoceronte negro** — *Diceros bicornis* · Black rhinoceros
@@ -130,7 +140,6 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Guepardo** — *Acinonyx jubatus* · Cheetah
 - **Jirafa angoleña** — *Giraffa giraffa angolensis* · Angolan giraffe
 - **Cebra de Burchell** — *Equus quagga burchellii* · Burchell's zebra
-- **Cebra de montaña de Hartmann** — *Equus zebra hartmannae* · Hartmann's mountain zebra
 - **Órix o gemsbok** — *Oryx gazella* · Gemsbok
 - **Springbok** — *Antidorcas marsupialis* · Springbok
 - **Gran kudú** — *Tragelaphus strepsiceros* · Greater kudu
@@ -143,7 +152,6 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Chacal de lomo negro** — *Lupulella mesomelas* · Black-backed jackal
 - **Ratel o tejón de la miel** — *Mellivora capensis* · Honey badger
 - **Facóquero** — *Phacochoerus africanus* · Common warthog
-- **Suricata** — *Suricata suricatta* · Meerkat
 - **Alcélafo rojo** — *Alcelaphus buselaphus caama* · Red hartebeest
 - **Steenbok** — *Raphicerus campestris* · Steenbok
 - **Zorro orejudo** — *Otocyon megalotis* · Bat-eared fox
@@ -152,7 +160,6 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Liebre saltadora** — *Pedetes capensis* · Springhare
 - **Klipspringer o saltarrocas** — *Oreotragus oreotragus* · Klipspringer
 - **Mangosta amarilla** — *Cynictis penicillata* · Yellow mongoose
-- **Oricteropo o cerdo hormiguero** — *Orycteropus afer* · Aardvark
 - **Mangosta rayada** — *Mungos mungo* · Banded mongoose *(añadida el 08/08: 400 registros GBIF
   en Etosha, 101 en oct–nov — el gran ausente que destapó la revisión)*
 - **Zorro del Cabo** — *Vulpes chama* · Cape fox *(añadido el 08/08: objetivo del nocturno guiado)*
@@ -256,9 +263,9 @@ desde `imprimir.py`, que es quien pone los números de página.
 
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
 imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
-que están las 128 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
-las páginas que deben y que los datos de avistamiento cubren las 91 especies.
+que están las 125 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
+las páginas que deben y que los datos de avistamiento cubren las 88 especies.
 
-*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son ~5,9 MB, y a cambio el PDF
+*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son ~5,7 MB, y a cambio el PDF
 se puede regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una
 búsqueda. · 09/08/2026*

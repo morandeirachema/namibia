@@ -395,24 +395,6 @@
   "slug": "cebra-burchell",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Equus_quagga_burchellii_-_Etosha%2C_2014.jpg/1920px-Equus_quagga_burchellii_-_Etosha%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
- "fauna/cebra-hartmann": {
-  "alto": 2468,
-  "ancho": 3702,
-  "autor": "Yathin S Krishnappa",
-  "bytes": 72525,
-  "carpeta": "fauna",
-  "en": "Hartmann's mountain zebra",
-  "es": "Cebra de montaña de Hartmann",
-  "fichero": "File:Equus zebra hartmannae - Etosha 2015.jpg",
-  "grupo": "mamifero",
-  "licencia": "CC BY-SA 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "local": "cebra-hartmann.jpg",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Equus_zebra_hartmannae_-_Etosha_2015.jpg",
-  "sci": "Equus zebra hartmannae",
-  "slug": "cebra-hartmann",
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Equus_zebra_hartmannae_-_Etosha_2015.jpg/1920px-Equus_zebra_hartmannae_-_Etosha_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
- },
  "fauna/chacal": {
   "alto": 3988,
   "ancho": 5982,
@@ -1187,24 +1169,6 @@
   "slug": "nu",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wildebeest_of_Etosha_National_Park.jpg/1920px-Wildebeest_of_Etosha_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
- "fauna/oricteropo": {
-  "alto": 920,
-  "ancho": 1328,
-  "autor": "Kelly Abram",
-  "bytes": 81159,
-  "carpeta": "fauna",
-  "en": "Aardvark",
-  "es": "Oricteropo o cerdo hormiguero",
-  "fichero": "File:Orycteropus afer 175359469.jpg",
-  "grupo": "mamifero",
-  "licencia": "CC BY 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
-  "local": "oricteropo.jpg",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Orycteropus_afer_175359469.jpg",
-  "sci": "Orycteropus afer",
-  "slug": "oricteropo",
-  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Orycteropus_afer_175359469.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
- },
  "fauna/orix": {
   "alto": 3644,
   "ancho": 5466,
@@ -1456,24 +1420,6 @@
   "sci": "Raphicerus campestris",
   "slug": "steenbok",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Raphicerus_campestris_male_%28Etosha%2C_2012%29.jpg/1920px-Raphicerus_campestris_male_%28Etosha%2C_2012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
- },
- "fauna/suricata": {
-  "alto": 2600,
-  "ancho": 3156,
-  "autor": "Charles J. Sharp",
-  "bytes": 76970,
-  "carpeta": "fauna",
-  "en": "Meerkat",
-  "es": "Suricata",
-  "fichero": "File:Meerkat (Suricata suricatta) Tswalu.jpg",
-  "grupo": "mamifero",
-  "licencia": "CC BY-SA 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "local": "suricata.jpg",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta)_Tswalu.jpg",
-  "sci": "Suricata suricatta",
-  "slug": "suricata",
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg/1920px-Meerkat_%28Suricata_suricatta%29_Tswalu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "fauna/tejedor-republicano": {
   "alto": 3264,

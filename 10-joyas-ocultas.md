@@ -108,8 +108,9 @@ Fuentes ○: [WhereToStay](https://www.wheretostay.co.za/topic/6283-dune-7-walvi
 ### D6 · Pelican Point y las salinas rosas
 Península con **faro de 1932** (hoy lodge) y lobos marinos a tiro de piedra; el acceso cruza las
 **salinas rosas llenas de flamencos**. La lengua de arena, mejor **en tour** (combinable con
-Sandwich Harbour, que va con la marea) — con tu coche es terreno de atasco y el contrato no está
-para bromas. Precio del tour: sin dato en N$ — pregúntalo allí.
+Sandwich Harbour, que va con la marea — **la del D6 ya está medida: bajamar 07:18, la ventana es
+la salida de la mañana, ver `01` y `15`**) — con tu coche es terreno de atasco y el contrato no
+está para bromas. Precio del tour: sin dato en N$ — pregúntalo allí.
 Fuentes ◐/○: [sandwich-harbor.com](https://www.sandwich-harbor.com/tours) ·
 [Tripadvisor](https://www.tripadvisor.com/AttractionProductReview-g298358-d20045116-Pelican_Point_Seal_Colony_4x4_Tour-Walvis_Bay_Erongo_Region.html)
 
