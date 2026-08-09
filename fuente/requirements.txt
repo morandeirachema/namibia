@@ -1,0 +1,4 @@
+# Lo unico que el build pide fuera de la biblioteca estandar (ver Makefile y CLAUDE.md).
+# Chrome y poppler-utils van aparte: son programas del sistema, no paquetes de Python.
+markdown-it-py>=3
+Pillow>=10

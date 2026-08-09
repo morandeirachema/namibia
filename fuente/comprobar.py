@@ -348,9 +348,35 @@ def revisa_documentos():
         bien(f"{len(docs)} documentos, todos con su titulo")
 
 
+def revisa_indice_dossier():
+    """Cada documento que entra en el PDF tiene su resumen en el indice (dossier.py).
+
+    RESUMEN es un diccionario escrito a mano: al estrenar un documento es facil olvidarlo
+    y el indice sale con la linea del titulo desnuda, sin que nada avise. Se leen los
+    literales con una expresion regular en vez de importar dossier: importar arrastra
+    markdown-it y el resto del build, y esta comprobacion tiene que poder gritar
+    precisamente cuando ese fichero esta a medio tocar.
+    """
+    fuente = open(os.path.join(HERE, "dossier.py")).read()
+    m_res = re.search(r"^RESUMEN = \{(.*?)^\}", fuente, re.S | re.M)
+    m_fuera = re.search(r"^FUERA_DEL_PDF = \{([^}]*)\}", fuente, re.M)
+    if not (m_res and m_fuera):
+        return mal("no encuentro los literales RESUMEN o FUERA_DEL_PDF en dossier.py — "
+                   "si han cambiado de forma, ajusta esta comprobacion")
+    con_resumen = set(re.findall(r'"(\d\d)":', m_res.group(1)))
+    fuera = set(re.findall(r'"(\d\d)"', m_fuera.group(1)))
+    en_pdf = {f[:2] for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f)} - fuera
+    sin = en_pdf - con_resumen
+    if sin:
+        mal(f"documentos del PDF sin resumen en el indice (RESUMEN de dossier.py): {sorted(sin)}")
+    else:
+        bien(f"indice del dossier: los {len(en_pdf)} documentos del PDF, todos con su resumen")
+
+
 def main():
     print("Comprobando el build…")
     revisa_documentos()
+    revisa_indice_dossier()
     revisa_convenciones()
     revisa_fechas()
     revisa_precios()

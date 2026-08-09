@@ -1,7 +1,7 @@
 # Namibia 2026 · el dossier
 #
 #   make            los dos PDF, con lo que ya haya descargado
-#   make imagenes   descarga las 128 fotos de Wikimedia Commons a img/
+#   make imagenes   descarga las fotos del catalogo (Wikimedia Commons) a img/
 #   make geo        descarga y cachea la geometria de los mapas a fuente/geo/
 #   make avistam    recuentos de GBIF y porcentajes por campamento a fuente/geo/
 #   make mapas      exporta los mapas a img/mapas/ (SVG y PNG; el de la ruta va en el README)
@@ -11,7 +11,8 @@
 #   make comprueba  imagenes, licencias, geometria, avistamientos, escala y README
 #   make limpia     borra el HTML intermedio
 #
-# Solo hace falta Python 3 con markdown-it-py y Pillow, Google Chrome y poppler-utils.
+# Solo hace falta Python 3 (pip install -r requirements.txt), Google Chrome y poppler-utils.
+# Las comprobaciones corren tambien solas en cada push: .github/workflows/comprueba.yml.
 
 PY      := python3
 RAIZ    := $(abspath ..)
