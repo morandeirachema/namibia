@@ -610,7 +610,9 @@ pagado, se mueve aquí arriba y se pone la fecha**.
   make comprueba             # imagenes, licencias, escala y que el README no mienta
   ```
   Las convenciones del build —el marcador `%% ancho`, las casillas `- [ ]`, por qué una URL larga
-  puede encoger el PDF entero— están en el `CLAUDE.md` del repo local *(no versionado)*.
+  puede encoger el PDF entero— están en el `CLAUDE.md` del repo local *(no versionado)*. Y **cada
+  push repite estas comprobaciones solo, en GitHub Actions.**
+  [![comprueba](https://github.com/morandeirachema/namibia/actions/workflows/comprueba.yml/badge.svg)](https://github.com/morandeirachema/namibia/actions/workflows/comprueba.yml)
 - **Las marcas no se tocan**: **✅** fuente primaria · **◐** secundaria concordante · **○** práctica
   común, sin fuente · **❌** sin verificar, dicho en blanco. **Un hueco reconocido vale más que un
   número plausible.**
