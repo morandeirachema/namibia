@@ -1,7 +1,4 @@
 {
- "fuente": "GBIF · api.gbif.org/v1/occurrence/search",
- "ventana": "octubre y noviembre, todos los anos disponibles",
- "muestra_minima": 120,
  "zonas": {
   "etosha": {
    "nombre": "Etosha",
@@ -42,12 +39,12 @@
    "wkt": "POLYGON((13.8500 -23.4500,14.8500 -23.4500,14.8500 -21.6000,13.8500 -21.6000,13.8500 -23.4500))",
    "por_clase": {
     "212": {
-     "registros": 184629,
+     "registros": 184628,
      "oct_nov": 46876
     },
     "216": {
-     "registros": 4580,
-     "oct_nov": 399
+     "registros": 4572,
+     "oct_nov": 392
     },
     "359": {
      "registros": 2001,
@@ -66,7 +63,7 @@
      "oct_nov": 1
     },
     "11592253": {
-     "registros": 2940,
+     "registros": 2939,
      "oct_nov": 412
     }
    }
@@ -80,7 +77,7 @@
      "oct_nov": 10659
     },
     "216": {
-     "registros": 2260,
+     "registros": 2261,
      "oct_nov": 274
     },
     "359": {
@@ -100,7 +97,7 @@
      "oct_nov": 0
     },
     "11592253": {
-     "registros": 968,
+     "registros": 970,
      "oct_nov": 160
     }
    }
@@ -813,6 +810,174 @@
     }
    }
   },
+  "babuino-chacma": {
+   "sci": "Papio ursinus",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 9,
+     "oct_nov": 2
+    },
+    "costa": {
+     "registros": 5,
+     "oct_nov": 1
+    },
+    "namib": {
+     "registros": 56,
+     "oct_nov": 10
+    },
+    "damaraland": {
+     "registros": 58,
+     "oct_nov": 17
+    }
+   }
+  },
+  "mangosta-rayada": {
+   "sci": "Mungos mungo",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 400,
+     "oct_nov": 101
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "zorro-del-cabo": {
+   "sci": "Vulpes chama",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 31,
+     "oct_nov": 10
+    },
+    "costa": {
+     "registros": 2,
+     "oct_nov": 1
+    },
+    "namib": {
+     "registros": 8,
+     "oct_nov": 3
+    },
+    "damaraland": {
+     "registros": 1,
+     "oct_nov": 0
+    }
+   }
+  },
+  "gato-montes-africano": {
+   "sci": "Felis lybica",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 39,
+     "oct_nov": 8
+    },
+    "costa": {
+     "registros": 4,
+     "oct_nov": 1
+    },
+    "namib": {
+     "registros": 8,
+     "oct_nov": 1
+    },
+    "damaraland": {
+     "registros": 3,
+     "oct_nov": 0
+    }
+   }
+  },
+  "lobo-de-tierra": {
+   "sci": "Proteles cristata",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 10,
+     "oct_nov": 1
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 7,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 4,
+     "oct_nov": 1
+    }
+   }
+  },
+  "ardilla-matorral": {
+   "sci": "Paraxerus cepapi",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 267,
+     "oct_nov": 66
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "mangosta-esbelta": {
+   "sci": "Galerella sanguinea",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 69,
+     "oct_nov": 15
+    },
+    "costa": {
+     "registros": 2,
+     "oct_nov": 1
+    },
+    "namib": {
+     "registros": 5,
+     "oct_nov": 1
+    },
+    "damaraland": {
+     "registros": 2,
+     "oct_nov": 0
+    }
+   }
+  },
   "avestruz": {
    "sci": "Struthio camelus",
    "clase": "Aves",
@@ -1461,6 +1626,54 @@
     }
    }
   },
+  "gaviota-hartlaub": {
+   "sci": "Chroicocephalus hartlaubii",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 6334,
+     "oct_nov": 1591
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "avoceta": {
+   "sci": "Recurvirostra avosetta",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 311,
+     "oct_nov": 39
+    },
+    "costa": {
+     "registros": 3944,
+     "oct_nov": 1057
+    },
+    "namib": {
+     "registros": 45,
+     "oct_nov": 4
+    },
+    "damaraland": {
+     "registros": 3,
+     "oct_nov": 1
+    }
+   }
+  },
   "francolin-picorrojo": {
    "sci": "Pternistis adspersus",
    "clase": "Aves",
@@ -1482,6 +1695,222 @@
     "damaraland": {
      "registros": 719,
      "oct_nov": 159
+    }
+   }
+  },
+  "aguila-rapaz": {
+   "sci": "Aquila rapax",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 3063,
+     "oct_nov": 755
+    },
+    "costa": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 6,
+     "oct_nov": 2
+    },
+    "damaraland": {
+     "registros": 22,
+     "oct_nov": 5
+    }
+   }
+  },
+  "avefria-armada": {
+   "sci": "Vanellus armatus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 7903,
+     "oct_nov": 2010
+    },
+    "costa": {
+     "registros": 1176,
+     "oct_nov": 216
+    },
+    "namib": {
+     "registros": 39,
+     "oct_nov": 3
+    },
+    "damaraland": {
+     "registros": 451,
+     "oct_nov": 86
+    }
+   }
+  },
+  "drongo": {
+   "sci": "Dicrurus adsimilis",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 6756,
+     "oct_nov": 1623
+    },
+    "costa": {
+     "registros": 56,
+     "oct_nov": 8
+    },
+    "namib": {
+     "registros": 142,
+     "oct_nov": 25
+    },
+    "damaraland": {
+     "registros": 827,
+     "oct_nov": 171
+    }
+   }
+  },
+  "pintada": {
+   "sci": "Numida meleagris",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 4176,
+     "oct_nov": 1016
+    },
+    "costa": {
+     "registros": 654,
+     "oct_nov": 129
+    },
+    "namib": {
+     "registros": 303,
+     "oct_nov": 86
+    },
+    "damaraland": {
+     "registros": 572,
+     "oct_nov": 130
+    }
+   }
+  },
+  "quelea": {
+   "sci": "Quelea quelea",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 2850,
+     "oct_nov": 718
+    },
+    "costa": {
+     "registros": 43,
+     "oct_nov": 7
+    },
+    "namib": {
+     "registros": 42,
+     "oct_nov": 7
+    },
+    "damaraland": {
+     "registros": 236,
+     "oct_nov": 63
+    }
+   }
+  },
+  "turaco-unicolor": {
+   "sci": "Corythaixoides concolor",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 2648,
+     "oct_nov": 668
+    },
+    "costa": {
+     "registros": 269,
+     "oct_nov": 48
+    },
+    "namib": {
+     "registros": 161,
+     "oct_nov": 17
+    },
+    "damaraland": {
+     "registros": 817,
+     "oct_nov": 184
+    }
+   }
+  },
+  "toco-piquinegro": {
+   "sci": "Lophoceros nasutus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 2693,
+     "oct_nov": 614
+    },
+    "costa": {
+     "registros": 91,
+     "oct_nov": 17
+    },
+    "namib": {
+     "registros": 33,
+     "oct_nov": 7
+    },
+    "damaraland": {
+     "registros": 316,
+     "oct_nov": 75
+    }
+   }
+  },
+  "bulbul-encapuchado": {
+   "sci": "Pycnonotus nigricans",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 4071,
+     "oct_nov": 993
+    },
+    "costa": {
+     "registros": 818,
+     "oct_nov": 101
+    },
+    "namib": {
+     "registros": 1070,
+     "oct_nov": 366
+    },
+    "damaraland": {
+     "registros": 1533,
+     "oct_nov": 340
+    }
+   }
+  },
+  "turdoide-caricalvo": {
+   "sci": "Turdoides gymnogenys",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 763,
+     "oct_nov": 219
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 493,
+     "oct_nov": 107
     }
    }
   },
@@ -1749,6 +2178,78 @@
     }
    }
   },
+  "escinco-arboricola": {
+   "sci": "Trachylepis spilogaster",
+   "clase": "Squamata",
+   "clase_clave": 11592253,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 159,
+     "oct_nov": 38
+    },
+    "costa": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 98,
+     "oct_nov": 16
+    },
+    "damaraland": {
+     "registros": 17,
+     "oct_nov": 0
+    }
+   }
+  },
+  "gecko-fischer": {
+   "sci": "Chondrodactylus laevigatus",
+   "clase": "Squamata",
+   "clase_clave": 11592253,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 71,
+     "oct_nov": 16
+    },
+    "costa": {
+     "registros": 15,
+     "oct_nov": 1
+    },
+    "namib": {
+     "registros": 48,
+     "oct_nov": 6
+    },
+    "damaraland": {
+     "registros": 31,
+     "oct_nov": 4
+    }
+   }
+  },
+  "galapago-africano": {
+   "sci": "Pelomedusa subrufa",
+   "clase": "Testudines",
+   "clase_clave": 11418114,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 124,
+     "oct_nov": 27
+    },
+    "costa": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 18,
+     "oct_nov": 4
+    }
+   }
+  },
   "lobo-marino": {
    "sci": "Arctocephalus pusillus",
    "clase": "Mammalia",
@@ -1786,6 +2287,30 @@
     "costa": {
      "registros": 92,
      "oct_nov": 26
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "ballena-jorobada": {
+   "sci": "Megaptera novaeangliae",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 210,
+     "oct_nov": 55
     },
     "namib": {
      "registros": 0,
@@ -2057,198 +2582,6 @@
     },
     "damaraland": {
      "registros": 1,
-     "oct_nov": 1
-    }
-   }
-  },
-  "babuino-chacma": {
-   "sci": "Papio ursinus",
-   "clase": "Mammalia",
-   "clase_clave": 359,
-   "rango": "SPECIES",
-   "zonas": {
-    "etosha": {
-     "registros": 9,
-     "oct_nov": 2
-    },
-    "costa": {
-     "registros": 5,
-     "oct_nov": 1
-    },
-    "namib": {
-     "registros": 56,
-     "oct_nov": 10
-    },
-    "damaraland": {
-     "registros": 58,
-     "oct_nov": 17
-    }
-   }
-  },
-  "ballena-jorobada": {
-   "sci": "Megaptera novaeangliae",
-   "clase": "Mammalia",
-   "clase_clave": 359,
-   "rango": "SPECIES",
-   "zonas": {
-    "etosha": {
-     "registros": 0,
-     "oct_nov": 0
-    },
-    "costa": {
-     "registros": 210,
-     "oct_nov": 55
-    },
-    "namib": {
-     "registros": 0,
-     "oct_nov": 0
-    },
-    "damaraland": {
-     "registros": 0,
-     "oct_nov": 0
-    }
-   }
-  },
-  "mangosta-rayada": {
-   "sci": "Mungos mungo",
-   "clase": "Mammalia",
-   "clase_clave": 359,
-   "rango": "SPECIES",
-   "zonas": {
-    "etosha": {
-     "registros": 400,
-     "oct_nov": 101
-    },
-    "costa": {
-     "registros": 0,
-     "oct_nov": 0
-    },
-    "namib": {
-     "registros": 0,
-     "oct_nov": 0
-    },
-    "damaraland": {
-     "registros": 0,
-     "oct_nov": 0
-    }
-   }
-  },
-  "zorro-del-cabo": {
-   "sci": "Vulpes chama",
-   "clase": "Mammalia",
-   "clase_clave": 359,
-   "rango": "SPECIES",
-   "zonas": {
-    "etosha": {
-     "registros": 31,
-     "oct_nov": 10
-    },
-    "costa": {
-     "registros": 2,
-     "oct_nov": 1
-    },
-    "namib": {
-     "registros": 8,
-     "oct_nov": 3
-    },
-    "damaraland": {
-     "registros": 1,
-     "oct_nov": 0
-    }
-   }
-  },
-  "gato-montes-africano": {
-   "sci": "Felis lybica",
-   "clase": "Mammalia",
-   "clase_clave": 359,
-   "rango": "SPECIES",
-   "zonas": {
-    "etosha": {
-     "registros": 39,
-     "oct_nov": 8
-    },
-    "costa": {
-     "registros": 4,
-     "oct_nov": 1
-    },
-    "namib": {
-     "registros": 8,
-     "oct_nov": 1
-    },
-    "damaraland": {
-     "registros": 3,
-     "oct_nov": 0
-    }
-   }
-  },
-  "lobo-de-tierra": {
-   "sci": "Proteles cristata",
-   "clase": "Mammalia",
-   "clase_clave": 359,
-   "rango": "SPECIES",
-   "zonas": {
-    "etosha": {
-     "registros": 10,
-     "oct_nov": 1
-    },
-    "costa": {
-     "registros": 0,
-     "oct_nov": 0
-    },
-    "namib": {
-     "registros": 7,
-     "oct_nov": 0
-    },
-    "damaraland": {
-     "registros": 4,
-     "oct_nov": 1
-    }
-   }
-  },
-  "gaviota-hartlaub": {
-   "sci": "Chroicocephalus hartlaubii",
-   "clase": "Aves",
-   "clase_clave": 212,
-   "rango": "SPECIES",
-   "zonas": {
-    "etosha": {
-     "registros": 1,
-     "oct_nov": 0
-    },
-    "costa": {
-     "registros": 6334,
-     "oct_nov": 1591
-    },
-    "namib": {
-     "registros": 0,
-     "oct_nov": 0
-    },
-    "damaraland": {
-     "registros": 0,
-     "oct_nov": 0
-    }
-   }
-  },
-  "avoceta": {
-   "sci": "Recurvirostra avosetta",
-   "clase": "Aves",
-   "clase_clave": 212,
-   "rango": "SPECIES",
-   "zonas": {
-    "etosha": {
-     "registros": 311,
-     "oct_nov": 39
-    },
-    "costa": {
-     "registros": 3944,
-     "oct_nov": 1057
-    },
-    "namib": {
-     "registros": 45,
-     "oct_nov": 4
-    },
-    "damaraland": {
-     "registros": 3,
      "oct_nov": 1
     }
    }
@@ -2541,5 +2874,8 @@
    }
   }
  },
- "fuente_campamentos": "Expert Africa · partes de avistamiento de sus viajeros"
+ "fuente": "GBIF · api.gbif.org/v1/occurrence/search",
+ "fuente_campamentos": "Expert Africa · partes de avistamiento de sus viajeros",
+ "ventana": "octubre y noviembre, todos los anos disponibles",
+ "muestra_minima": 120
 }

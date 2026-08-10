@@ -61,7 +61,7 @@ DONDE = {
   "bateleur": "Se cita sobre **Kalkheuwel**, junto con el milano. Etosha reúne unas 40 rapaces, casi el 70 % de las de Namibia.",
   "buho-lacteo": "En los árboles grandes **dentro de los campamentos** — mira arriba al volver de cenar.",
   "calao-amarillo": "En los tres campamentos, vigilando las mesas del desayuno.",
-  "calao-rojo": "Igual que el amarillo: campamentos y bordes de pista.",
+  "calao-rojo": "Igual que el amarillo: campamentos y bordes de pista. **Mira el ojo, no solo el pico**: en Halali se citan las dos especies de pico rojo el mismo día, y hacia Namutoni domina el sureño (~2,6 a 1 en los registros).",
   "estornino-cabo": "En los campamentos, a por las migas.",
   "francolin-picorrojo": "En los campamentos. **Os despertará al amanecer**, sin falta.",
   "pigargo-vocinglero": "Depende de que haya agua abierta: la zona de **Fischer's Pan**, en el este, es donde tiene sentido buscarlo.",
@@ -71,6 +71,22 @@ DONDE = {
   # --- COSTA ---
   "lobo-marino": "**Cape Cross, D7.** Una de las mayores colonias del mundo.",
   "delfin-heaviside": "Frente a **Walvis Bay**, en las salidas en barco (D5–D6).",
+
+  # --- Ampliacion del 10/08 (fuentes en el bloque de abajo) ---
+  "ardilla-matorral": "**Dentro del recinto de Halali** —restaurante y parcelas, donde roba lo que se deje— y en el de Namutoni. Los informes de mamíferos la dan «común en el campamento de Halali».",
+  "mangosta-esbelta": "El **Dik-dik Drive de Namutoni** es su circuito fiable, y las pistas del este a primera y última hora, cruzando por delante del coche.",
+  "aguila-rapaz": "Posada a la vista junto a las charcas — se cita en **Goas**, entre Halali y Namutoni. Los grupos de birding la anotan casi a diario en el eje, de una en una.",
+  "avefria-armada": "El borde de casi cualquier charca: **Okaukuejo y Chudop** la tienen fija.",
+  "drongo": "Monte y campamentos por todo el eje — citado en el **bucle de Ngobib**, entre Halali y Namutoni. Buscadlo alrededor de los herbívoros: caza lo que levantan.",
+  "pintada": "Bandadas junto a las pistas por todo el parque, y **bebiendo en la charca de Halali** al caer la tarde, con las tórtolas.",
+  "quelea": "Los enjambres, en las charcas — citados en **Okaukuejo y Olifantsbad**—; el dormidero, en los **carrizos de la charca de Namutoni**.",
+  "turaco-unicolor": "Los árboles de los **recintos** —citado dentro de Namutoni— y en las charcas en grupos familiares, hasta una decena junta.",
+  "toco-piquinegro": "Por todo el eje con los otros cálaos —en Halali se han citado los cuatro a la vez, los dos de pico rojo incluidos— y dentro del recinto de Okaukuejo.",
+  "bulbul-encapuchado": "En los campamentos: citado dentro del recinto de Okaukuejo y en los carrizos de la charca de Namutoni.",
+  "turdoide-caricalvo": "**El campamento de Halali es SU sitio** — «los pájaros habituales del camping», dicen los informes de birding, y ahí cae el grueso de sus registros del eje (~700 de ~770). Con suerte, también en Namutoni.",
+  "escinco-arboricola": "Los recintos de los campamentos, de día: hay observaciones georreferenciadas dentro de **Okaukuejo y Namutoni**. Troncos, muretes y suelo.",
+  "gecko-fischer": "De noche en el **recinto de Okaukuejo**, donde se concentran las observaciones recientes. Su gemelo *C. turneri* no tiene ni un registro en el eje: el gecko grande que veáis es este.",
+  "galapago-africano": "Las charcas permanentes. La caza de quéleas se documentó en **Nuamses**, al norte de Halali *(unas 30 en dos horas, 26/11/1997)*, y hay observaciones recientes en Halali. Buscad la cabeza-periscopio o el caparazón al sol en el borde.",
 }
 
 FUENTES_ETOSHA = [
@@ -85,5 +101,28 @@ FUENTES_ETOSHA = [
   "<b>Dik-dik:</b> Travel News Namibia (Dik-dik Drive) y registros de GBIF: ~206 en la cuadrícula de Namutoni frente a 4 en Okaukuejo.",
   "<b>Obras de la carretera:</b> nota oficial del MEFT de 2026 —«Traffic deviation via Gemsbokvlakte road from Okaukuejo to Halali», meft.gov.na/news/335, con aviso paralelo de NWR—: desvío obligatorio del 2 jun 2026 al jul 2027. La página devuelve 403; las fechas convergen en cinco secundarias (◐). Reconfirmar con NWR (+264 67 229 800).",
   "<b>Charcas:</b> Expert Africa, etosha.org, Roxanne Reid y etoshanationalpark.co.za — secundarias, pero coincidentes entre sí.",
+  "<b>Cálaos de pico rojo:</b> el sureño y el damara son especies separadas (Kemp &amp; Delport "
+  "2002) con zona de contacto en los montes de Otavi, pegados al SE del parque; el rasgo es el "
+  "ojo —amarillo el sureño, oscuro el damara— y en la banda de Namutoni el sureño saca ~2,6:1 "
+  "en registros: Delport, Kemp &amp; Ferguson 2004, <i>The Auk</i> 121:565–586, y GBIF.",
+  "<b>Águila rapaz:</b> anotada en el eje por los tours de Field Guides (oct 2017 y sep 2023, "
+  "cinco por viaje, de una en una) y en las charcas de Goas y Sonderkop; acude a carroña junto "
+  "a las pistas (Simmons 2015, <i>Birds to watch in Namibia</i>).",
+  "<b>Las añadidas el 10/08</b> (avefría, pintada, quélea, turaco, drongo, toco piquinegro, "
+  "bulbul, turdoide): informes de campo con fecha y lugar en el propio eje —birds4africa.org "
+  "(oct 2021, las fechas del viaje), Field Guides, travelgumbo (recinto de Namutoni), "
+  "faansiepeacock.com (Okaukuejo)— y registros de GBIF del eje; el turdoide caricalvo concentra "
+  "~700 de sus ~770 registros del eje en la banda de Halali. La historia del drongo ladrón es "
+  "de esta especie pero medida en el Kalahari sudafricano (Flower et al. 2011 y 2014): por eso "
+  "la ficha dice «en el Kalahari» y no «aquí».",
+  "<b>Galápago africano:</b> Robel 2008, <i>Lanioturdus</i> 41:13–15 (Namibia Bird Club) — unas "
+  "30 quéleas cazadas por galápagos en dos horas en la charca de Nuamses, 26/11/1997 — y Jarvis "
+  "1986 (<i>Lanioturdus</i> 22) junto a Namutoni; tras la revisión del género (Petzold et al. "
+  "2014, <i>Zootaxa</i>), la población namibia sigue siendo <i>P. subrufa</i>.",
+  "<b>Escinco, gecko, ardilla y mangosta esbelta:</b> observaciones georreferenciadas "
+  "research-grade dentro de los recintos (iNaturalist, 2015–2026); la ardilla, «common in HAL "
+  "camp», y la mangosta, fiable en el Dik-dik Drive (informes de mammalwatching.com, 2012). El "
+  "escinco y los nidos de tejedor: Rymer, Thomson &amp; Whiting 2014, <i>Austral Ecology</i> — "
+  "estudio del Kalahari, no de Etosha, y así se cuenta.",
   "<b>Sin dato (y no se rellena):</b> la hora punta nocturna del rinoceronte en Okaukuejo, el número absoluto de rinocerontes del parque, la orientación solar de cada charca y la frecuencia real de la hiena parda.",
 ]

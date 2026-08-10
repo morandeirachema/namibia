@@ -2,7 +2,7 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> El índice de la guía de campo en PDF: 88 especies con foto, cómo reconocerlas, **qué
+> El índice de la guía de campo en PDF: 102 especies con foto, cómo reconocerlas, **qué
 > posibilidades hay de verlas** y dónde y cuándo. *(Regla del 09/08: sin avistamientos, sin
 > ficha — fuera oricteropo, suricata y cebra de Hartmann.)*
 >
@@ -10,10 +10,12 @@
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 03/08/2026 · posibilidades de avistamiento y consejos de safari
-> añadidos el 07/08/2026 · revisión de coherencia el 09/08/2026*
+> añadidos el 07/08/2026 · revisión de coherencia el 09/08/2026 · ampliación del 10/08/2026:
+> primer barrido COMPLETO de GBIF contra el catálogo (+14 fichas, todas verificadas en fuentes
+> del propio eje — el detalle, en `15`)*
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 20 páginas A4,
-**88 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
+📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 23 páginas A4,
+**102 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
 cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
 
@@ -27,11 +29,12 @@ buscar una especie desde el repo.)*
 - **Nombre en castellano, científico e inglés** — el inglés importa: es el que veréis en los
   carteles del parque y el que usa todo el mundo allí
 - **Qué posibilidades hay de verla**, medida y con su muestra detrás *(abajo, de dónde sale)* —
-  en **86 de las 88**: dos fichas *(tortuga leopardo y shongololo)* se quedan sin línea a
-  propósito, porque su clase no llega a la muestra mínima y **callarse es la regla**
+  en **99 de las 102**: tres fichas *(tortuga leopardo, galápago africano y shongololo)* se
+  quedan sin línea a propósito, porque su clase no llega a la muestra mínima y **callarse es
+  la regla**
 - **Cómo reconocerla en el campo**: los rasgos que de verdad distinguen, no una descripción de
   enciclopedia *(labio del rinoceronte, rosetas frente a manchas, orejas de la hiena, pico del cálao…)*
-- **Cuántas quedan**, en las ocho especies con una cifra publicada que se pueda citar
+- **Cuántas quedan**, en las diez especies con una cifra publicada que se pueda citar
 - **Foto** de Wikimedia Commons, todas con **licencia libre** (CC BY, CC BY-SA, CC0 o dominio
   público), con autoría y licencia bajo la imagen y en los créditos finales
 
@@ -43,7 +46,7 @@ la guía usa las dos —cada una con su etiqueta, porque **no miden lo mismo**�
 ```mermaid
 flowchart LR
     A["13 especies grandes<br/>PARTES DE VIAJEROS"] --> A1["% que lo vio<br/>durante su estancia<br/>en el campamento"]
-    B["las otras 75<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
+    B["las otras 89<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
     A1 --> C["frecuente / escasa<br/>siempre con la muestra"]
     B1 --> C
     style A fill:#EDF1E4,stroke:#5F7043
@@ -89,7 +92,7 @@ táctica de la charca** *(motor apagado y tres cuartos de hora, que es lo que de
 ✅: 60 km/h, no bajar del coche fuera de los campamentos, no salirse de las pistas y estar dentro
 antes de que cierre la puerta.
 
-## El «dónde y cuándo», en 45 de las 88 fichas
+## El «dónde y cuándo», en 58 de las 102 fichas
 
 Charca por charca y con su fuente: **Okondeka** para el león, **Halali y Goas** para el leopardo,
 **Salvadora–Sueda–Charitsaub** para el guepardo, el **Dik-dik Drive** nada más entrar por Von
@@ -97,11 +100,12 @@ Lindequist, y el nido de tejedor republicano **a diez metros de la charca de Oka
 
 *(Las 8 fichas añadidas el 08/08 la estrenaron el 09/08, con los ganchos ya verificados del
 itinerario: la mangosta rayada en Namutoni, la gaviota y la avoceta en la laguna, la jorobada en
-el crucero y el trío del nocturno en el nocturno.)* Las 43 fichas restantes **no llevan esa
-línea**: no apareció información específica de Etosha en ninguna fuente decente, y rellenarlo a
-ojo sería inventar.
+el crucero y el trío del nocturno en el nocturno. Las 14 del 10/08 llegaron todas con el suyo,
+del propio eje: la ardilla en el restaurante de Halali, el turdoide en su camping, el galápago
+cazando quéleas en Nuamses.)* Las 44 fichas restantes **no llevan esa línea**: no apareció
+información específica de Etosha en ninguna fuente decente, y rellenarlo a ojo sería inventar.
 
-### Y cuatro avisos que corrigen lo que dicen las webs de safaris
+### Y siete avisos que corrigen lo que dicen las webs de safaris
 
 - **Flamencos: en noviembre no hay.** La depresión está seca —la NASA la fotografió «bone dry» en
   diciembre— y solo crían cuando la lluvia pasa de 400 mm, algo que ocurrió **tres veces en cuarenta
@@ -118,6 +122,17 @@ ojo sería inventar.
 - **Y el oricteropo, fuera con su propio dato**: el 0 % de 149 partes es la cifra más honesta
   del método — nadie lo vio, así que no lleva ficha *(sus excavaciones en los termiteros sí las
   veréis por todas partes)*.
+- **En Etosha NO hay búfalo** — se ven **cuatro de los «Big Five»**, no cinco. Extinguido en el
+  parque a mediados del siglo XX ◐ y **nunca reintroducido, por el riesgo de aftosa y de
+  tuberculosis bovina**: lo dice la literatura con el propio Etosha Ecological Institute entre
+  los autores ✅ *([Turner et al. 2022](https://doi.org/10.1016/j.gecco.2022.e02221): «has not
+  been (re)introduced… preventing it from being marketed as a "Big Five" attraction»)*. El
+  «retirado deliberadamente por la aftosa» que repite alguna web comercial no tiene fuente ❌:
+  no fue retirada, fue extinción sin vuelta.
+- **Los dos cálaos de pico rojo son especies distintas y conviven en el eje** *(zona de contacto
+  en los montes de Otavi, pegados al SE del parque)*: **ojo amarillo = sureño, ojo oscuro y cara
+  blanca = damara** ✅ *(Delport, Kemp & Ferguson 2004, The Auk)*. La ficha del cálao rojo lleva
+  el aviso desde el 10/08 — hasta entonces decía «mira el pico y ya está», que se quedaba corto.
 
 Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horarios de puerta calculados
 para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las tres charcas
@@ -128,9 +143,9 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ---
 
-## Las 88 especies
+## Las 102 especies
 
-### 🦁 Mamíferos (33)
+### 🦁 Mamíferos (35)
 
 - **Elefante africano de sabana** — *Loxodonta africana* · African bush elephant
 - **Rinoceronte negro** — *Diceros bicornis* · Black rhinoceros
@@ -169,8 +184,13 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Babuino chacma** — *Papio ursinus* · Chacma baboon *(añadido el 08/08: es el «mono» real de
   los miradores y campamentos de esta ruta — el vervet se descartó a propósito: sin un solo
   registro en la consulta GBIF del 08/08, archivada en `15`)*
+- **Ardilla de matorral de Smith** — *Paraxerus cepapi* · Smith's bush squirrel *(añadida el
+  10/08: la ladrona del restaurante de Halali — 267 registros GBIF en el parque y «common in
+  HAL camp» en los informes de mamíferos)*
+- **Mangosta esbelta** — *Galerella sanguinea* · Slender mongoose *(añadida el 10/08: la
+  tercera mangosta diurna, fiable en el Dik-dik Drive — punta de cola negra)*
 
-### 🦅 Aves (30)
+### 🦅 Aves (39)
 
 - **Avestruz común** — *Struthio camelus* · Common ostrich
 - **Avutarda kori** — *Ardeotis kori* · Kori bustard
@@ -188,7 +208,9 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Azor lagartijero claro** — *Melierax canorus* · Pale chanting goshawk
 - **Alcaudón de pecho carmesí** — *Laniarius atrococcineus* · Crimson-breasted shrike
 - **Búho lácteo de Verreaux** — *Bubo lacteus* · Verreaux's eagle-owl
-- **Abejaruco carmesí sureño** — *Merops nubicoides* · Southern carmine bee-eater
+- **Abejaruco europeo** — *Merops apiaster* · European bee-eater *(el carmesí, que es el que
+  anuncian las webs, tiene cero registros en el parque — ver el aviso de arriba; esta línea
+  decía «abejaruco carmesí» por error hasta el 10/08)*
 - **Cigüeña de Abdim** — *Ciconia abdimii* · Abdim's stork
 - **Estornino brillante del Cabo** — *Lamprotornis nitens* · Cape starling
 - **Pigargo vocinglero** — *Icthyophaga vocifer* · African fish eagle
@@ -203,8 +225,23 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
   6.334 registros GBIF en la costa — el ave más registrada de la laguna sin ficha)*
 - **Avoceta común** — *Recurvirostra avosetta* · Pied avocet *(añadida el 08/08: 3.944 en la costa)*
 - **Francolín de pico rojo** — *Pternistis adspersus* · Red-billed spurfowl
+- **Águila rapaz** — *Aquila rapax* · Tawny eagle *(añadida el 10/08: la gran águila más
+  registrada del eje —755 en oct-nov, por delante del bateleur y la marcial— y En Peligro en
+  Namibia: el hueco gordo que destapó el barrido completo)*
+- **Avefría armada** — *Vanellus armatus* · Blacksmith lapwing *(10/08: 2.010 en oct-nov, el
+  borde de casi cualquier charca)*
+- **Drongo ahorquillado** — *Dicrurus adsimilis* · Fork-tailed drongo *(10/08: 1.623)*
+- **Pintada común** — *Numida meleagris* · Helmeted guineafowl *(10/08: 1.016)*
+- **Quélea común** — *Quelea quelea* · Red-billed quelea *(10/08: los enjambres de las charcas —
+  y la presa del galápago de abajo)*
+- **Turaco unicolor** — *Corythaixoides concolor* · Grey go-away-bird *(10/08: el «go-away» de
+  los campamentos)*
+- **Toco piquinegro** — *Lophoceros nasutus* · African grey hornbill *(10/08: el tercer cálao)*
+- **Bulbul encapuchado** — *Pycnonotus nigricans* · African red-eyed bulbul *(10/08)*
+- **Turdoide caricalvo** — *Turdoides gymnogenys* · Bare-cheeked babbler *(10/08: casi endémico;
+  ~700 de sus ~770 registros del eje, en la banda de Halali — el pájaro del camping)*
 
-### 🦎 Reptiles (11)
+### 🦎 Reptiles (14)
 
 *Las tres primeras van por seguridad: dormís trece noches en tienda.*
 
@@ -219,6 +256,14 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Varano de roca** — *Varanus albigularis* · Rock monitor
 - **Tortuga leopardo** — *Stigmochelys pardalis* · Leopard tortoise
 - **Lagarto de nariz de pala** — *Meroles anchietae* · Shovel-snouted lizard
+- **Escinco arborícola del Kalahari** — *Trachylepis spilogaster* · Kalahari tree skink
+  *(añadido el 10/08: el lagarto diurno de los recintos — 38 de los 187 registros de reptil del
+  parque en oct-nov)*
+- **Gecko de Fischer** — *Chondrodactylus laevigatus* · Fischer's thick-toed gecko *(10/08: el
+  nocturno de los muros de Okaukuejo)*
+- **Galápago africano** — *Pelomedusa subrufa* · African helmeted turtle *(10/08: el de la
+  charca — documentado en el parque cazando quéleas en grupo; sin línea de posibilidades: su
+  clase no llega a la muestra mínima)*
 
 ### 🌊 La costa, la roca y la arena (5)
 
@@ -263,9 +308,9 @@ desde `imprimir.py`, que es quien pone los números de página.
 
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
 imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
-que están las 125 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
-las páginas que deben y que los datos de avistamiento cubren las 88 especies.
+que están las 139 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
+las páginas que deben y que los datos de avistamiento cubren las 102 especies.
 
-*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son ~5,7 MB, y a cambio el PDF
+*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son ~6,7 MB, y a cambio el PDF
 se puede regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una
-búsqueda. · 09/08/2026*
+búsqueda. · 10/08/2026*
