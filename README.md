@@ -313,9 +313,12 @@ flowchart LR
   **No hace falta vacunarse**, y no hay que calcular duraciones de escala.
 - 💶 **La escalera del precio**: €1.341 anunciado → €1.450 cotizado *(05/08)* → **€1.536
   emitido** *(10/08)* — el anunciado nunca es el final *(desglose en [`02` §8](02-presupuesto.md))*.
-- 🚗 **Sale de Oporto, a ~270 km — decidido (09/08): se va y se vuelve en coche propio.** Por
-  cotizar ❌: el aparcamiento de larga estancia del aeropuerto (30 oct – 15 nov) y los peajes
-  *(el bus directo, ~3h43 desde ~€17 por persona ◐, queda de plan B — `02` §8)*.
+- 🚗 **Sale de Oporto, a ~270 km — decidido (09/08): se va y se vuelve en coche propio.** Cotizado
+  el **10/08** en **~€180–185 la pareja** ◐/❌: **parking de larga estancia** *(P6/P9 «Low Cost»
+  ~€5,50/día → ~€88–94 los 16–17 días ◐)*, **peajes** *(AP-9 A Coruña–Tui €20,40/trayecto ◐; la A28
+  portuguesa, gratis desde ene-2025)* y **combustible** *(~540 km, ~€50 ❌)* — el egress bloqueó abrir
+  las webs, así que va sin verificar la extracción *(el bus directo, ~3h43 desde ~€17 por persona ◐,
+  queda de plan B — `02` §8)*.
 - ⚠️ **Ya pagado — tres cosas que repasar AHORA en el localizador**: que **incluya maleta
   facturada** *(Lufthansa vende Economy Light sin ella)*, que sea **billete único** *(una conexión
   perdida pasa a ser problema de la aerolínea)* y que los **nombres calquen el pasaporte**
@@ -344,7 +347,8 @@ Rango honesto: **€3.661–3.961**. El **75 %** ya está cerrado — y el vuelo
 
 **Incluye:** vuelo · coche **15 días** · **seguro de viaje** · combustible · tasas de parque · visado ·
 las 14 noches · comida · actividades · imprevistos. **No queda nada fuera** salvo el traslado a Oporto
-y el día extra de seguro *(❌ sin cotizar — abajo)* y lo que compres allí por gusto.
+*(cotizado el 10/08 en ~€180–185 la pareja ◐/❌ — abajo)*, el día extra de seguro *(❌ sin cotizar)* y
+lo que compres allí por gusto.
 
 ```mermaid
 pie showData
@@ -373,7 +377,8 @@ pie showData
   de Deadvlei— *(~€144, tarifa ✅ sin reservar)*, el
   combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
 - ⚠️ **Lo que aún puede mover el número**: el precio real del **31 de octubre** del coche *(fuera de
-  temporada baja ❌)*, el traslado a Oporto ida y vuelta y el día extra de seguro — **sin cotizar**.
+  temporada baja ❌)* y el día extra de seguro *(sin cotizar)*; el traslado a Oporto ida y vuelta ya
+  está cotizado *(~€180–185 la pareja ◐/❌)*.
 
 > [!TIP]
 > **Se duerme arriba casi todo el viaje.** **13 de las 14 noches en la tienda de techo**, campings
