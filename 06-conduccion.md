@@ -286,7 +286,8 @@ parabrisas simplemente picados son **muchísimos más** y no se registran.
 
 **Coberturas — cláusula 10.9 de Asco** *(referencia; tu Premium Cover de Namibia2Go dice
 «franquicia cero» ◐, pero sus exclusiones —sandblasting, bajos, agua— hay que pedirlas por
-escrito)*:
+escrito, y su contrato estándar —leído el 10/08— permite cobrar el daño sin contacto con
+terceros «al margen de los waivers», cláusula 10.2 — `16` §8)*:
 - (c) daños en **bajos** → excluidos **salvo Super Cover**
 - (d) daños por **sandblasting** (arenado) → **NUNCA cubiertos, en ningún nivel** ← relevante en los
   tramos costeros cerca de Swakopmund y la Costa de los Esqueletos

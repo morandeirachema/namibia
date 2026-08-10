@@ -436,7 +436,9 @@ zona de Etosha.
    solo el vuelo de vuelta a casa desde Windhoek. *(Y añádele la opción de búsqueda y salvamento.)*
 2. La exposición de **~N$165.000 (~€8.250)** del **vuelco sin terceros** era el escenario de los
    niveles bajos de **Asco** (la referencia descartada). Con el **Premium Cover de tu Namibia2Go la
-   franquicia es cero** ◐ — pero **decae con «negligencia probada»**, **excluye daños por agua** y
+   franquicia es cero** ◐ — pero **decae con «negligencia probada»**, su contrato estándar permite
+   cobrar el daño **sin contacto con terceros «al margen de los waivers»** *(cláusula 10.2, leída
+   el 10/08 — `16` §8)*, **excluye daños por agua** y
    el **rescate sin tope sigue sin confirmar por escrito**: el evento que te mete en una ambulancia
    aérea es el mismo.
 3. Un **dispositivo satelital con SOS** es lo que **dispara el rescate** donde no hay cobertura.

@@ -89,13 +89,17 @@ Verificado en los contratos: **80 km/h en grava** —el legal es 100—, **60 de
 ## 5. Namibia2Go — mejores condiciones de seguro (confianza media)
 
 Incluye en la tarifa **franquicia cero**, cobertura de neumáticos y cristales, robo y colisión,
-y kilometraje ilimitado. **«Sin depósito», dice su propia web y su FAQ** — ⚠️ pero dos fuentes de
+y kilometraje ilimitado. **«Sin depósito», dice su propia web y su FAQ** *(leída directa el
+10/08/2026 ✅)* — ⚠️ pero dos fuentes de
 reventa *(madbookings y goArid)* citan una **retención de N$2.500 (~€125) de depósito de
 combustible**: las dos versiones se contradicen y **el conflicto sigue abierto — pregúntalo por
 escrito al reservar** *(el detalle, en `15` §lista maestra)*.
 
 Matices: la franquicia cero se aplica *"unless negligent driving is proven"* — un vuelco en
-pista considerado negligente podría generar responsabilidad igualmente. Quedan excluidos el
+pista considerado negligente podría generar responsabilidad igualmente — y el **contrato estándar,
+leído el 10/08/2026** ✅, va más allá: su **cláusula 10.2** permite cobrar el daño **sin contacto
+físico con otro vehículo, animal, objeto o persona «al margen de los waivers»** *(la pregunta por
+escrito, en `21`; la comparación con la contraoferta de Savanna, en `16` §8)*. Quedan excluidos el
 Water Damage Waiver, las tasas de frontera, las multas y la llamada por pérdida de llaves.
 
 Confianza **media** solo porque mejora tanto a Asco como a Savanna de forma llamativa, y eso

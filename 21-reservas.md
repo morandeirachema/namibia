@@ -48,23 +48,32 @@ flowchart LR
   de su temporada baja: precio ❌ — pídelo por separado.**
 - **Contacto**: 📞 **+264 61 427 220** *(centralita — `06` §13)* ·
   [namibia2go.com — la ficha del coche](https://namibia2go.com/4x4-camping-equipped-double-cab)
-  *(la web pública devuelve 403 desde este entorno y su tarifa publicada caduca antes del viaje:
-  manda la cotización en vivo, `02` §2)*.
+  *(la ficha volvió a cargar el 10/08 y lista el equipo pieza a pieza — toallas y hornillo
+  incluidos—; su tarifa publicada sigue caducando antes del viaje: manda la cotización en vivo,
+  `02` §2)*.
 
 **Al reservar, POR ESCRITO** *(el porqué de cada una: `02` §2, `06` y `18` §4–5)*:
 
-- La **entrega y devolución EN el aeropuerto** y su posible suplemento ❌ — la primera pregunta.
+- La **entrega y devolución EN el aeropuerto** ◐ — la FAQ oficial *(leída el 10/08)* dice que la
+  oficina está **junto al aeropuerto, con shuttle desde la sala de llegadas**; por escrito quedan
+  el **horario del sábado 31/10 y la devolución del sábado 14/11 ~18:00**, y si hay suplemento ❌.
 - El **precio exacto del 31 de octubre** ❌ *(fuera de temporada baja)*.
-- El **contrato completo** ❌: qué dice de *dune driving* y Sandwich Harbour, y cómo trata los
-  **bajos en Damaraland** el Premium Cover *(la referencia del sector los excluye — `06`)*.
-- La **fianza en tarjeta**: ellos se anuncian «No Deposit», dos revendedores citan **N$2.500
-  (~€125)** de depósito de combustible ◐ — **las dos versiones se contradicen: que quede por
-  escrito cuánto retienen**.
+- El **contrato estándar ya está leído** ✅ *(10/08 — enlace en `16` §8)* y deja una pregunta
+  concreta: su **cláusula 10.2** permite cobrar el daño **sin contacto físico con otro vehículo,
+  animal, objeto o persona «al margen de los waivers»** — **cómo tratan en la práctica la salida
+  de vía o el vuelco a solas** ❌. Y las de siempre: *dune driving*/Sandwich Harbour y los
+  **bajos en Damaraland** con el Premium Cover ❌ *(la referencia del sector los excluye — `06`)*.
+- La **fianza en tarjeta**: la FAQ oficial confirma **«no deposit»** ✅ *(leída el 10/08)*; dos
+  revendedores citan **N$2.500 (~€125)** de depósito de combustible ◐ — **que quede por escrito
+  si retienen algo, y cuánto**.
 - El **teléfono de emergencias 24 h** ❌ *(la centralita no lo es)* y la **tarifa de grúa/rescate** ❌.
 - Del coche: **capacidad real del depósito** ❌ *(la aritmética del bucle de la costa la necesita,
-  `07`)* · **con cuánto tanque lo entregan** ❌ · **hornillo de gas** ❌ · **segunda batería o corte
-  por voltaje** para la nevera ❌ · **inventario del menaje por escrito** ❌ *(`18` §4)* · coste del
-  **conductor adicional** ❌.
+  `07`)* · **con cuánto tanque lo entregan** ❌ · **segunda batería o corte por voltaje** para la
+  nevera ❌ · coste del **conductor adicional** ❌. *(El hornillo y el menaje pieza a pieza ya
+  constan en la ficha desde el 10/08 ✅ — `18` §4.)*
+- **Cancelación, del contrato estándar** ✅ *(10/08)*: reembolso íntegro a **más de 30 días** ·
+  **15 %** a 14–30 días · **25 %** a 7–13 · **50 %** a menos de 7 días o no presentarse.
+  **Conductores: 23 años cumplidos y 1 año de carnet.**
 
 ---
 

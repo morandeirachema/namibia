@@ -185,8 +185,9 @@ flowchart LR
   **N$500–1.000 (~€25–50) de bolsillo** ○ *(el del aeropuerto admite hasta ~N$3.000 · ~€150,
   reportes de viajeros ○; la carga grande, mejor en ciudad — cajero junto a sucursal, ver `07`)* — y la **SIM turista de MTC**
   *(«Leisure» N$349 · ~€17, registro con pasaporte obligatorio; ver `07`)*
-- 🚙 **~11:00–13:00 · recogida del 4×4 EN el aeropuerto — DECIDIDO (07/08/2026)** ⚠️ *entrega en
-  aeropuerto por confirmar al recotizar* ❌. **Briefing sin prisa (1–2 h)**: presiones en frío
+- 🚙 **~11:00–13:00 · recogida del 4×4 EN el aeropuerto — DECIDIDO (07/08/2026)** ◐ *(la FAQ de
+  N2Go, leída el 10/08: oficina junto al aeropuerto y shuttle desde la sala de llegadas — el
+  horario del sábado y la devolución del 14, por escrito al recotizar)*. **Briefing sin prisa (1–2 h)**: presiones en frío
   apuntadas, las DOS ruedas de repuesto, gato y compresor a la vista *(`06`)*, el **inventario del
   camping contra la ficha — hornillo incluido** *(`05`)* y las **preguntas de la nevera**
   *([`18`](18-manual-de-campamento.md), §5)*

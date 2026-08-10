@@ -182,11 +182,13 @@ el viaje sigue; si se pierde la cabina, no.
 
 ## 🏕️ Campamento — solo lo que el coche NO trae
 
-El 4×4 de Namibia2Go viene con **2 tiendas de techo, ropa de cama para 4, mesa, 4 sillas, menaje
-completo, nevera eléctrica y compresor** ✅. **No se compra ni saco, ni esterilla, ni cacharros.**
-Lo que sí sube al petate:
+El 4×4 de Namibia2Go viene con **2 tiendas de techo, ropa de cama para 4 —con almohadas y
+toallas—, mesa, 4 sillas, menaje completo, cocina de gas con bombona, nevera eléctrica y
+compresor** ✅ *(ficha cotejada el 10/08/2026)*. **No se compra ni saco, ni esterilla, ni
+cacharros.** Lo que sí sube al petate:
 
-- [ ] **Almohada o cojín de viaje ×1 p.p.** ○ — hay ropa de cama, pero la almohada es lotería
+- [ ] **Almohada o cojín de viaje ×1 p.p.** ○ — la ficha lista 4 almohadas; ésta es la de
+      apego, por si la del coche decepciona
 - [ ] **Cinta americana ×1**, **bridas ×10** y **cuerda fina ×5 m** ○
 - [ ] **Mecheros ×2** y pastillas de encendido ○
 - [ ] **Multiherramienta o navaja ×1** — **facturada, jamás en cabina** ○
@@ -268,6 +270,6 @@ flowchart TD
 ---
 
 *Esta lista no cotiza precios: lo que falta por comprar —adaptadores, satelital, garrafas— se paga
-fuera del presupuesto de `02` o directamente allí. Y lo heredado de la ficha del coche depende del
-**inventario por escrito** que sigue pendiente con Namibia2Go: toallas, almohadas y el detalle del
-menaje son los «sin dato» que ese email cierra. · 06/08/2026*
+fuera del presupuesto de `02` o directamente allí. Los «sin dato» de la ficha del coche —toallas,
+almohadas, hornillo y menaje— los cerró la propia ficha en el cotejo del 10/08/2026 ✅: para la
+entrega quedan la batería de la nevera y el tanque (`18` §5, `21`). · 10/08/2026*

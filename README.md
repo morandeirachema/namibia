@@ -104,8 +104,10 @@ pide por escrito al cerrarla y lo que se deja para recepción— **está en
 Tres campings sin tarifa publicada *(Windhoek, Walvis Bay y Spreetshoogte — **contactos ya
 localizados el 09/08, ver [`21`](21-reservas.md)**; el de Spreetshoogte, con un aviso de «closed
 down» por confirmar ◐)* ·
-la fianza de Namibia2Go *(ellos dicen «No Deposit», dos revendedores citan N$2.500 (~€125) — pregúntalo por
-escrito)* · la **entrega del coche en el aeropuerto** *(servicio y suplemento sin confirmar)* ·
+la fianza de Namibia2Go *(su FAQ, leída directa el 10/08, dice «no deposit»; dos revendedores citan
+N$2.500 (~€125) — pregúntalo por escrito)* · la **entrega del coche en el aeropuerto** *(la FAQ:
+oficina junto al aeropuerto con shuttle desde llegadas ◐; horario del sábado y suplemento, por
+confirmar)* ·
 el sobrecoste **en tiempo** del **desvío obligatorio Okaukuejo–Halali** *(los km ya están: **+38**
 sobre la pista directa, medidos el 09/08 con el enrutado OSRM propio)* · **si hay diésel en el bucle
 Ugabmund–Springbokwasser** *(el surtidor de Terrace Bay, sin garantía — `07`)* · la **capacidad real
@@ -120,7 +122,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 115 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 116 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*

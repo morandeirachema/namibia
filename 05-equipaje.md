@@ -28,11 +28,12 @@ flowchart TD
 ```
 
 1. **El coche ya trae el camping** ✅ *(ficha N2Go Budget, README)*: 2 tiendas de techo, **ropa de
-   cama para 4**, mesa, 4 sillas, **menaje completo**, nevera eléctrica, compresor. **No compres
-   ni saco, ni esterilla, ni cacharros.** ⚠️ Lo que NO consta en la ficha: **toallas**, el
-   **hornillo de gas** y el detalle fino del menaje — **sin dato: entra en el inventario por
-   escrito que hay que pedir al reservar** (`04`). *Cómo se vive de ese kit —la rutina, el braai,
-   la nevera— está en el [`18`](18-manual-de-campamento.md).*
+   cama para 4 —edredones, mantas, almohadas y toallas, ×4 de cada—**, mesa, 4 sillas, **menaje
+   completo pieza a pieza**, **cocina de gas con bombona de 3 kg**, nevera eléctrica, compresor.
+   **No compres ni saco, ni esterilla, ni cacharros.** *(Toallas, hornillo y el detalle del menaje
+   eran los «no consta» de esta ficha: la web los lista desde el cotejo del 10/08/2026 ✅ — lo que
+   queda es cotejarlo físicamente en la entrega, `01` §D0.)* *Cómo se vive de ese kit —la rutina,
+   el braai, la nevera— está en el [`18`](18-manual-de-campamento.md).*
 2. **Las noches NO son frías** ✅ *(medias de mínimas de noviembre, estaciones GHCN/ERA5 — `15` y
    `01`)*: **12,7 °C en la costa · 15,5 en Sesriem · 16,3 en Windhoek · 18,9 en Etosha**. **Plumas,
    térmicos, gorro y guantes se quedan en casa** — son peso muerto en una tienda de techo. *La
@@ -140,9 +141,9 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 ## 🚫 Las trampas — lo que se queda en casa
 - ❌ Plumas, térmicos, gorro y guantes ◐ (`04`) — peso muerto
 - ❌ Maleta rígida grande ○ — no cabe bien
-- ❌ Saco de dormir, esterilla, menaje ✅ — el coche lo trae (README). *El hornillo, ojo: NO consta
-  en la ficha ❌ — va en el inventario por escrito a Namibia2Go (`18` §4); tampoco se compra aquí
-  sin esa respuesta*
+- ❌ Saco de dormir, esterilla, menaje ✅ — el coche lo trae (README). *El hornillo ya consta:
+  «gas cooker & gas cylinder (3kg)» en la ficha ✅ (cotejo del 10/08/2026) — se coteja físicamente
+  en la entrega (`18` §4)*
 - ❌ Comida de casa en cantidad — el avituallamiento está resuelto y mapeado en `08`
 - ❌ **Dron** ✅ — la normativa **sí** está investigada y el resultado es que no hay dónde volarlo:
   el detalle, más arriba y con fuentes en [`11`](11-entradas-y-permisos.md)
@@ -163,6 +164,6 @@ día. Por eso se preparan la víspera y viajan en el daypack, no abajo.
 ---
 
 *Los precios de lo que falta por comprar (adaptadores, satelital, garrafas) no están cotizados en
-el dossier — se compran fuera o allí (`08`). Lo heredado de fichas del coche depende del
-**inventario POR ESCRITO** pendiente con Namibia2Go (`04`): toallas, almohadas y detalle del menaje
-son los «sin dato» que ese email cierra. · 06/08/2026*
+el dossier — se compran fuera o allí (`08`). Los «sin dato» de la ficha del coche —toallas,
+almohadas, hornillo y menaje— los cerró la propia ficha en el cotejo del 10/08/2026 ✅: para la
+entrega quedan la batería de la nevera y el tanque (`18` §5, `21`). · 10/08/2026*

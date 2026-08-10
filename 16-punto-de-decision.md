@@ -222,6 +222,70 @@ pre-reserva incierta en temporada de lluvias.
 
 ---
 
+---
+
+## 8. Registro del 10/08/2026 — la contraoferta de Savanna, comparada
+
+Llegó una oferta real de **Autovermietung Savanna** *(grupo GSXA-1: Ford Ranger 2.2/2.0 doble
+cabina AUTOMÁTICO, camping para 2)* y se comparó a fondo con la Budget de Namibia2Go. **No cambia
+el plan del dossier —sigue siendo N2Go— mientras Savanna no cierre sus dos ❌ de abajo; queda
+registrado qué costaría cambiar y por qué no compensa hoy.**
+
+⚠️ La oferta venía además con las **fechas mal** *(cotiza 30 nov → 14 dic 2026; el viaje es
+31 oct → 14 nov)*: los números son de esa cotización, y noviembre puede ir **~N$100 (~€5)/día**
+más caro ❌.
+
+```mermaid
+flowchart LR
+    T["15 dias · la pareja<br/>con seguro equivalente"]
+    S["SAVANNA GSXA-1 + Opcion 4<br/>~N$35.740 · ~EUR 1.787<br/>con sacos y tasas"]
+    N["NAMIBIA2GO BUDGET<br/>N$40.500 · ~EUR 2.025<br/>franquicia cero de serie"]
+    T ~~~ S
+    S ~~~ N
+    style T fill:#7a3a22,color:#fff,stroke:#7a3a22
+    style N fill:#2d6a4f,color:#fff,stroke:#2d6a4f
+```
+
+- 💶 **El ahorro real son ~N$3.300–4.800 (~€165–240) la pareja** —~€80–120 por cabeza—, no «la
+  mitad» que sugiere su tarifa: la base de Savanna *(N$1.850 · ~€92,50/día)* lleva **franquicia de
+  N$35.000 (~€1.750) bloqueada en tarjeta**, y para igualar la franquicia cero hay que sumar su
+  **Opción 4 (+N$450 · ~€22,50/día)** —la única que cubre el vuelco a solas, bajos, luna y hasta 2
+  neumáticos—, más **sacos a N$30 (~€1,50)/día cada uno** *(su tienda trae colchón y sábana, no
+  ropa de cama)* y **N$340 (~€17)** de contrato y limpieza. *(Existe un grupo manual, G-1, ~N$400
+  (~€20)/día más barato — no se cotizó.)*
+- 🚫 **Lo que mata la alternativa: el aeropuerto.** Savanna **no entrega ni recoge en el
+  aeropuerto**; su oficina de Windhoek abre los sábados **08:30–12:00** — y **el 31/10 y el 14/11
+  caen los dos en sábado**. Aterrizando a las 09:25 se llega a la oficina rozando el cierre, y su
+  regla escrita es que **un vuelo que aterrice después de las 13:20 —retraso o maleta perdida
+  incluidos— deja el coche para el día siguiente**: el D1 a Spreetshoogte, en el aire. N2Go, en
+  cambio, tiene **la oficina junto al aeropuerto con shuttle desde la sala de llegadas** ◐ *(su
+  FAQ, leída el 10/08)*.
+- 📜 **Cancelación, verificada para los dos** *(la pedía el `21`)*: **N2Go** — reembolso íntegro a
+  más de 30 días · 15 % a 14–30 · 25 % a 7–13 · 50 % a menos de 7 o no presentarse ✅. **Savanna**
+  — **25 % no reembolsable al reservar** · 30 % a 60–90 días · 50 % a 31–59 · 75 % a 16–30 ·
+  **100 % con 15 días o menos** ✅. No hay color.
+- ⚖️ **El matiz que nivela los seguros sobre el papel**: el contrato estándar de N2Go permite
+  cobrar el daño **sin contacto físico con terceros «al margen de los waivers»** *(cláusula
+  10.2)*, mientras que la Opción 4 de Savanna **cubre el vuelco por escrito** *(negligencia
+  excluida en ambos)*. Es exactamente la pregunta que el `21` manda hacer por escrito antes de
+  pagar.
+- 🚗 Lo demás, parejo: kilometraje ilimitado, 2 conductores y ~140 l de depósito los dos. Savanna
+  garantiza **2 ruedas de repuesto** y **no entrega el tanque lleno** *(no tiene surtidor)*; en
+  N2Go los conductores necesitan **23 años y 1 año de carnet** *(Savanna: 18+ y 2 años)* y el
+  equipo de camping responde hasta **N$5.000 (~€250)** si se pierde o rompe *(cláusula 7.2)*.
+
+**Qué tendría que pasar para reabrirlo**: que Savanna confirmara por escrito la entrega del sábado
+31/10 antes de las 12:00 **con margen para retrasos**, y que la recotización con las fechas reales
+mantuviera la diferencia. Con ~€80–120 por cabeza en juego y el D1 de rehén, hoy no compensa.
+
+> Fuentes: oferta de Savanna del 10/08 *(PDF recibido, fechas 30/11–14/12)* ·
+> [savannacarhire.com — ficha del grupo](https://www.savannacarhire.com.na/car-rental/1400669167/Toyota-Hilux-Double-Cab-4x4-Hilux-or-Ford) ·
+> [savannacarhire.com — reduced excess insurance](https://www.savannacarhire.com.na/reduced-excess-insurance) ·
+> [namibia2go.com — contrato estándar (PDF)](https://namibia2go.com/hubfs/Namibia2Go%20website/NAMIBIA2GO%20CAR%20RENTAL%20TERMS%20AND%20CONDITIONS.pdf) ·
+> [namibia2go.com — FAQ](https://namibia2go.com/frequently-asked-questions)
+
+---
+
 *Esta ficha ya no pide nada: la decisión está tomada. Se queda como registro de qué se comparó y por
 qué —incluida la aritmética que demuestra que la ruta completa necesita 17–18 días—, que es lo que
 haría falta si algún día se replantea.*
