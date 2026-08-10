@@ -394,8 +394,13 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   - *(El bus directo A Coruña → terminal, ~€17/persona y trayecto ◐, queda de plan B: i/v los dos
     ≈ ~€68 — `02` §8.)*
 - 🛢️ La **capacidad real del depósito del Hilux de Namibia2Go**: **❌ sin confirmar** — y de ella
-  cuelga la aritmética del bucle Henties Bay → Kamanjab (~740 km, 81–96 l — `07`). Pregunta de
-  una línea al reservar.
+  cuelga la aritmética del bucle Henties Bay → Kamanjab (~740 km, 81–96 l — `07`). El **modelo de
+  serie (Hilux 2.8 GD-6 doble cabina) lleva 80 l** ◐ *(cifra concordante en carfolio, auto-data.net,
+  ultimatespecs y las fichas técnicas de Toyota; la primaria no se pudo **descargar**, egress
+  bloqueado — descansa en la concordancia)*, pero **las flotas de camping namibias suelen montar
+  depósito de largo alcance de 140 l** ◐ *(lo anuncian Classic Car Namibia, Bushbundu y Advanced Car
+  Hire)*. Así que el dato del coche concreto **no es trivial: cambia el plan** — con 80 l el repostaje
+  de Palmwag es obligatorio; con 140 l, no. **Pregunta al reservar: ¿serie (80 l) o largo alcance?**
 - 🚤 *(Cerrado a nivel de mercado ◐: el **crucero de Walvis Bay** ~N$1.400–1.990 pp y el **4x4 a
   Sandwich Harbour** ~N$2.600–3.220 pp tienen rango 2026 en [`02`](02-presupuesto.md) §9 —
   cruzado entre operadores, con la ficha propia en `403`.)*
