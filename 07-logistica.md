@@ -137,8 +137,16 @@ flowchart LR
    **La aritmética, con los km del enrutado OSRM (09/08), y sin endulzar**: desde el surtidor de
    **Henties Bay** (✅ Puma 24 h) hasta el siguiente seguro —**Kamanjab, la mañana del D9**— hay
    **~740 km** *(Henties → Terrace Bay ~302 + D8 ~368 + Hoada → Kamanjab ~69)*. A los **11–13 l/100
-   km** del Hilux cargado son **81–96 litros**: **NO cabe con seguridad en un depósito de ~80 l**
-   —cuya **capacidad real, además, sigue ❌ sin confirmar: pregúntasela a Namibia2Go**—.
+   km** del Hilux cargado son **81–96 litros**: **NO caben con seguridad en un depósito de 80 l**
+   —el del **Hilux 2.8 GD-6 doble cabina de serie**, cifra ◐ concordante en varias bases de datos de
+   especificaciones *(carfolio, auto-data.net, ultimatespecs y las fichas técnicas de Toyota)*; el
+   proxy de red bloqueó **descargar** la ficha primaria, así que descansa en esa concordancia, no en
+   una fuente bajada—. **PERO ojo, y no es un fleco menor:** buena parte de las flotas de camping
+   namibias montan **depósito de largo alcance —140 l es lo típico, algunas 140–180 l—** *(lo anuncian
+   Classic Car Namibia (140 l), Bushbundu y Advanced Car Hire ◐)*, y con eso el bucle entero cabe de
+   sobra en un tanque. Por eso la **capacidad del coche concreto de Namibia2Go sigue ❌ sin confirmar y
+   cambia el plan**: con 80 l el repostaje de Palmwag es obligatorio; con 140 l, el bucle deja de ser
+   problema. **Al reservar, pregunta explícito: ¿depósito de serie (80 l) o de largo alcance?**
    👉 **Conclusión operativa: el repostaje de [Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅
    Gondwana)](https://gondwana-collection.com/accommodation/palmwag-lodge) deja de ser «respaldo» y
    pasa a ser PLAN** — cae en la cola del D8 *(vía Twyfelfontein → Palmwag ~110 + Palmwag → Hoada
