@@ -169,6 +169,10 @@ MAMIFEROS = [
      'African Wildcat (Felis lybica) (51659798835).jpg'),
     ('lobo-de-tierra', 'Lobo de tierra', 'Aardwolf', 'Proteles cristata',
      'Aardwolf, Namaqua National Park, South Africa 1.jpg'),
+    ('ardilla-matorral', 'Ardilla de matorral de Smith', "Smith's bush squirrel", 'Paraxerus cepapi',
+     'Tree squirrel, Etosha National Park, Namibia.jpg'),
+    ('mangosta-esbelta', 'Mangosta esbelta', 'Slender mongoose', 'Galerella sanguinea',
+     'Slender Mongoose Etosha National Park Namibia, crop.jpg'),
 ]
 
 AVES = [
@@ -232,6 +236,24 @@ AVES = [
      'Pied Avocet at Walvis Bay, Namibia.jpg'),
     ('francolin-picorrojo', 'Francolín de pico rojo', 'Red-billed spurfowl', 'Pternistis adspersus',
      '2011-red-billed-francolin.jpg'),
+    ('aguila-rapaz', 'Águila rapaz', 'Tawny eagle', 'Aquila rapax',
+     '2012-tawny-eagle-0.jpg'),
+    ('avefria-armada', 'Avefría armada', 'Blacksmith lapwing', 'Vanellus armatus',
+     'Vanellus armatus - Etosha 2014.jpg'),
+    ('drongo', 'Drongo ahorquillado', 'Fork-tailed drongo', 'Dicrurus adsimilis',
+     'Dicrurus adsimilis, Namibia (144258501).jpg'),
+    ('pintada', 'Pintada común', 'Helmeted guineafowl', 'Numida meleagris',
+     'Numida meleagris -Etosha National Park, Namibia-8.jpg'),
+    ('quelea', 'Quélea común', 'Red-billed quelea', 'Quelea quelea',
+     'Red-billed Queleas (Quelea quelea) (6040852957).jpg'),
+    ('turaco-unicolor', 'Turaco unicolor', 'Grey go-away-bird', 'Corythaixoides concolor',
+     'Grey go-away-bird (Corythaixoides concolor pallidiceps).jpg'),
+    ('toco-piquinegro', 'Toco piquinegro', 'African grey hornbill', 'Lophoceros nasutus',
+     'African Grey Hornbill (Lophoceros nasutus epirhinus) female.jpg'),
+    ('bulbul-encapuchado', 'Bulbul encapuchado', 'African red-eyed bulbul', 'Pycnonotus nigricans',
+     '127 African red-eyed bulbul in Namib-Naukluft National Park Photo by Giles Laurent.jpg'),
+    ('turdoide-caricalvo', 'Turdoide caricalvo', 'Bare-cheeked babbler', 'Turdoides gymnogenys',
+     'Bare-cheeked Babbler.jpg'),
 ]
 
 REPTILES = [
@@ -257,6 +279,12 @@ REPTILES = [
      'Leopard Tortoise (Stigmochelys pardalis) (17331907085).jpg'),
     ('lagarto-pala', 'Lagarto de nariz de pala', 'Shovel-snouted lizard', 'Meroles anchietae',
      'Meroles anchietae 345390261.jpg'),
+    ('escinco-arboricola', 'Escinco arborícola del Kalahari', 'Kalahari tree skink', 'Trachylepis spilogaster',
+     'Trachylepis spilogaster in South Africa 118136825.jpg'),
+    ('gecko-fischer', 'Gecko de Fischer', "Fischer's thick-toed gecko", 'Chondrodactylus laevigatus',
+     'Chondrodactylus-laevigatus.jpg'),
+    ('galapago-africano', 'Galápago africano o tortuga de escudo', 'African helmeted turtle', 'Pelomedusa subrufa',
+     'Pelomedusa subrufa 188270144.jpg'),
 ]
 
 COSTA = [

@@ -51,7 +51,7 @@ def metodo():
   duerme en los tres <em>(Okaukuejo 1 noche, Halali 1, Namutoni 2)</em> son <strong>tres
   tiradas</strong>: en las cuatro noches la posibilidad real es más alta que cualquiera de
   estos números. Cuánto más, no lo dicen estos datos, así que no se dice.</p>
-  <p>Eso solo existe para trece especies. Para las otras setenta y cinco va un
+  <p>Eso solo existe para trece especies. Para las otras ochenta y nueve va un
   <strong>índice de registros de GBIF</strong>: cuánto pesa la especie dentro de los
   registros de su grupo en la zona <strong>en octubre y noviembre</strong> —{mam} de
   mamífero y {aves} de ave solo en Etosha—. Mide <em>lo que se registra</em>, no <em>lo
@@ -89,7 +89,7 @@ def portadilla():
 
 
 INTROS = {
-    "mamifero": "<p>Treinta y tres fichas, de lo que se ve en todas las charcas a lo que "
+    "mamifero": "<p>Treinta y cinco fichas, de lo que se ve en todas las charcas a lo que "
                 "hay que tener suerte para cruzarse. <strong>El orden no es alfabético: "
                 "es el de siempre</strong> — primero los grandes.</p>",
     "ave": "<p>Con el coche parado en una charca, las aves llenan las esperas. Estas son las "
@@ -102,9 +102,12 @@ INTROS = {
               "salen a la pista tibia—, linterna para ir al baño, y si te encuentras una, "
               "<strong>quédate quieto y retrocede</strong>: casi todas las mordeduras pasan al "
               "intentar matarlas o cogerlas.</p>"
-              "<p>Las otras ocho son de las que apetece ver: el <strong>camaleón que "
-              "corre</strong>, el <strong>gecko translúcido</strong> de las dunas y el "
-              "<strong>agama naranja</strong> de las rocas de Damaraland.</p>",
+              "<p>Las otras once son de las que apetece ver: el <strong>camaleón que "
+              "corre</strong>, el <strong>gecko translúcido</strong> de las dunas, el "
+              "<strong>agama naranja</strong> de las rocas de Damaraland — y los tres "
+              "del campamento, añadidos el 10/08: el <strong>escinco</strong> de los "
+              "recintos, el <strong>gecko</strong> de las noches de Okaukuejo y el "
+              "<strong>galápago</strong> de las charcas, que caza quéleas.</p>",
     "costa": "<p>Etosha no es toda la fauna del viaje. Esto es lo que veréis <strong>fuera del "
              "parque</strong>: en <strong>Cape Cross</strong> (D7), en la laguna de "
              "<strong>Walvis Bay</strong> (D5–D6), en los roquedos de Damaraland y en la arena "
@@ -137,8 +140,8 @@ def verlo(slug):
 
     Si Expert Africa publica el porcentaje de sus viajeros que lo vio en alguno de los
     tres campamentos, ese numero manda: es una probabilidad de avistamiento de verdad.
-    Si no, va el indice de registros de GBIF, que cubre las 91 pero mide otra cosa —lo
-    que se registra, no lo que se ve— y por eso lleva otra etiqueta.
+    Si no, va el indice de registros de GBIF, que cubre el catalogo entero pero mide
+    otra cosa —lo que se registra, no lo que se ve— y por eso lleva otra etiqueta.
     """
     p = avistamientos.porcentajes(slug)
     if p:
@@ -190,7 +193,7 @@ def total():
 def remite_desde_dossier(ancla=""):
     """El dossier NO lleva las fichas dentro: solo remite a la guia suelta.
 
-    Meter las 91 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
+    Meter las 102 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
     varios megas, y duplicaba un documento que ya existe aparte y que ademas se imprime
     solo para llevarlo en la guantera. Aqui queda el enlace y el resumen de lo que hay.
     """

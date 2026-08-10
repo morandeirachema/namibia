@@ -1,7 +1,7 @@
-# Cuantos quedan. Solo las especies con una cifra publicada que se pueda citar: ocho de
-# noventa y una. Para el resto de Etosha NO hay censo publico reciente por especie, y
+# Cuantos quedan. Solo las especies con una cifra publicada que se pueda citar: diez de
+# ciento dos. Para el resto de Etosha NO hay censo publico reciente por especie, y
 # las cifras redondas que repiten las webs de safaris ("20.000 cebras, 7.000 nus") no
-# citan censo ninguno: no entran aqui. Investigado el 07/08/2026.
+# citan censo ninguno: no entran aqui. Investigado el 07/08/2026; ampliado el 10/08.
 
 CUANTOS = {
  "elefante":
@@ -30,6 +30,15 @@ CUANTOS = {
  "charran-damara":
    "La estimación global mínima cayó de **1.001 parejas en 2010 a 773 hacia 2021** "
    "—un −23 %— y casi toda la especie cría en la costa namibia. ◐",
+ "aguila-rapaz":
+   "**Vulnerable** para la UICN desde 2018, reconfirmada en 2021 ✅ — y en Namibia, "
+   "**En Peligro**: ~415–563 parejas en el país, un declive del 63 % en 30 años y el "
+   "rango contraído hacia los parques. Etosha tiene la tasa de registro más alta de "
+   "Namibia, y aun así su libro rojo avisa: «ya no es común» ni aquí. ✅",
+ "quelea":
+   "Considerada **el ave silvestre más abundante del mundo** — así, en el título de un "
+   "artículo revisado por pares ✅. Las estimaciones hablan de ~1.500 millones de "
+   "adultos ◐: los enjambres de las charcas son la versión local de esa cifra.",
 }
 
 FUENTES_POBLACION = [
@@ -45,9 +54,9 @@ FUENTES_POBLACION = [
   "<b>León:</b> <i>The Lions of Etosha National Park: A Brief History</i>, Conservation "
   "Namibia, sobre Heydinger, Packer y Funston "
   "<span class='u'>conservationnamibia.com/blog/etosha-lions-2023.php</span>.",
-  "<b>Impala de cara negra:</b> UICN (Vulnerable) y las fichas de US Fish &amp; Wildlife "
-  "Service y del atlas de biodiversidad de Namibia "
-  "<span class='u'>biodiversity.org.na/taxondisplay.php?nr=2077</span>.",
+  "<b>Impala de cara negra:</b> UICN (Vulnerable) y la ficha del US Fish &amp; Wildlife "
+  "Service. <i>(El atlas biodiversity.org.na, citado aquí hasta agosto de 2026, ha "
+  "desaparecido de la red — todo el dominio devuelve HTTP 410.)</i>",
   "<b>Grulla azul:</b> Craig 2017 (<i>Bull. B.O.C.</i>) y el Namibia Crane Working Group.",
   "<b>Lobo marino:</b> varias fuentes secundarias concordantes sobre la colonia de Cape "
   "Cross; el rango es ancho porque la colonia se llena para la cría de noviembre y "
@@ -58,4 +67,13 @@ FUENTES_POBLACION = [
   "<span class='u'>birdlife.org.za/red-list/damara-tern</span>. Las estimaciones "
   "globales de adultos (12.000–13.500) y las de parejas reproductoras no cuadran entre "
   "sí: se da la de parejas, que es la que tiene serie temporal.",
+  "<b>Águila rapaz:</b> UICN 2021 (Vulnerable, evaluación del 28/06/2021) "
+  "<span class='u'>iucnredlist.org/species/22696033/203852137</span> y Simmons 2015, "
+  "<i>Birds to watch in Namibia</i>, pp. 127–129 (En Peligro nacional, 415–563 parejas, "
+  "−63 % en 30 años, 21 nidos conocidos en Etosha = 0,2 parejas/100 km²) "
+  "<span class='u'>the-eis.com/elibrary/search/10459</span>.",
+  "<b>Quélea:</b> el «world's most abundant wild bird» va en el propio título de un "
+  "artículo revisado por pares <span class='u'>pmc.ncbi.nlm.nih.gov/articles/PMC7403380</span> "
+  "y lo respalda Audubon; la cifra de ~1.500 millones de adultos es estimación "
+  "secundaria, sin censo detrás.",
 ]

@@ -265,7 +265,58 @@ datos**: duiker *(16/5)* y liebre del Cabo *(3/1)*. Total del 08/08: 91 fichas /
 descalifica la ficha)*, la **suricata** y la **cebra de Hartmann** *(las dos con la banda forzada
 «fuera de la ruta»: la propia guía decía que no caían en el eje)*. Los avisos de identificación se
 conservan en `09` y en la ficha de la cebra de Burchell; el 0 % del oricteropo se queda contado
-como anécdota de método. **Total vigente: 88 fichas / 125 imágenes.**
+como anécdota de método. **Total del 09/08: 88 fichas / 125 imágenes.**
+
+## 🔍 El primer barrido COMPLETO — +14 fichas *(10/08/2026)*
+
+El del 08/08 comprobaba **ausencias sospechadas** (una lista pensada a mano); este preguntó a GBIF
+por **todas** las especies registradas por clase —polígono del parque y caja del eje
+Anderson→Okaukuejo→Halali→Namutoni→Von Lindequist, oct–nov— y cruzó clave contra clave con el
+catálogo. Lo que salió se verificó en fuentes antes de tocar nada, con seis investigaciones en
+paralelo, y **cada foto nueva se miró una a una** antes de fijarla. **Total vigente: 102 fichas /
+139 imágenes.**
+
+**Entraron 14** *(las bandas, con las bases de siempre: mamífero 4.529 · ave 69.600 · escamoso
+187 en oct–nov)*: **águila rapaz** *(755 en oct-nov — la 7ª ave del catálogo por registros y
+nadie la había echado en falta; UICN Vulnerable 2021 y En Peligro en Namibia, Simmons 2015)*,
+**avefría armada** *(2.010)*, **drongo ahorquillado** *(1.623)*, **pintada común** *(1.016)*,
+**bulbul encapuchado** *(993)*, **quélea común** *(718)*, **turaco unicolor** *(668)*, **toco
+piquinegro** *(614)*, **turdoide caricalvo** *(219 — ~700 de sus ~770 registros del eje, en la
+banda de Halali: el pájaro del camping)*, **ardilla de matorral de Smith** *(66 — «common in HAL
+camp», mammalwatching 2012)*, **mangosta esbelta** *(15 — el Dik-dik Drive)*, **escinco
+arborícola del Kalahari** *(38 de 187)*, **gecko de Fischer** *(16 — los muros de Okaukuejo, y su
+gemelo C. turneri con cero registros en el eje)* y **galápago africano** *(sin línea de
+posibilidades — Testudines no llega a la muestra mínima— pero con la mejor historia verificada
+del día: Robel 2008, «Lanioturdus» 41 — unas 30 quéleas cazadas en dos horas por los galápagos de
+la charca de Nuamses, 26/11/1997)*.
+
+**Quedaron fuera con su dato**, y no por capricho: la **abubilla arbórea violeta** *(210 en
+oct–nov y misma banda de Halali que el turdoide, pero la única foto libre de Commons es de la
+raza keniana `granti` — usarla sería el «plausible pero falso» que este repo prohíbe; si algún
+día aparece foto namibia, entra)*, la ***Agama etoshae*** *(14 registros, endémica y con el
+parque en el nombre — pero **cero imágenes** en Commons)*, el **cálao de Monteiro** *(71 —
+«Escasa»)* y la **tórtola de El Cabo** *(1.808 registros — banda sonora del parque más que
+ficha)*. Y los descartes de siempre, ahora **recomprobados con números**: licaón *(1 registro en
+todo el polígono)*, pangolín *(0 % en 149+48+16 partes)*, duiker *(corrobora el 16/5 del 08/08)*,
+y la **cebra de Hartmann**, cuyos 10 registros de iNaturalist dentro del eje *(1,8 % frente a
+Burchell)* se leen como confusión de turista: la decisión del 09/08 se sostiene.
+
+**Tres sustos que se quedaron en nada, y se archivan para no re-asustarse**: los «565 flamencos
+en oct-nov» del eje eran 559 registros de un solo dataset de 2007 con coordenadas degradadas *(el
+«en noviembre no hay» del `09` aguanta)*; la «fuga por sinonimia» del pipeline era artefacto de
+comparar cadenas *(dik-dik, alcélafo y gato montés resuelven a la misma clave; solo el chacal
+pierde un bucket disjunto de 27 registros «Canis mesomelas» — la banda no cambia)*; y el 19 % de
+ruano que declaran los viajeros de Okaukuejo choca con **2 registros GBIF en toda la historia del
+polígono** *(el sable, 3)*: la nota escéptica de `avistamientos.py` queda respaldada.
+
+**Y dos arreglos de documento**: el aviso de los **dos cálaos de pico rojo** *(ojo amarillo =
+sureño, ojo oscuro = damara — Delport, Kemp & Ferguson 2004, The Auk; en la banda de Namutoni el
+sureño saca ~2,6:1)* y la línea del **búfalo** en el `09` *(cuatro de los Big Five, no cinco:
+Turner et al. 2022, con el Etosha Ecological Institute entre los autores — nunca reintroducido
+por aftosa y tuberculosis bovina; el «retirado deliberadamente» de las webs, sin fuente)*. De
+paso, el índice del `09` decía «abejaruco carmesí sureño» donde la ficha es la del **europeo**
+—corregido— y la fuente `biodiversity.org.na` del impala **ha desaparecido de la red** *(HTTP 410
+en todo el dominio)*: anotado en la propia fuente de la guía.
 
 **El archivo de la consulta puntual del 08/08/2026** *(API de GBIF sobre los polígonos de las
 zonas; NO está en el JSON del build —que solo guarda totales y oct–nov— y por eso se deja aquí
