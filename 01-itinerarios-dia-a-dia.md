@@ -242,8 +242,9 @@ flowchart LR
   Ni Expert Africa publica partes aquí ni el polígono GBIF del Namib llega tan al norte:
   **pregúntale al dueño qué baja al anochecer**. Lo único afirmable: el chacal se oye en casi
   cualquier campamento del país ○
-- 🛏️ **Spreetshoogte Campsite, primera de DOS noches** ⚠️ *precio sin verificar (el blog citaba
-  150–300 ZAR/persona, vigencia desconocida; ojo a la trampa de nombre — ver `15`)*
+- 🛏️ **Spreetshoogte Campsite, primera de DOS noches** — **abierto confirmado ◐** *(10/08; lo
+  opera Barkhan Dune Retreat)* ⚠️ *precio sin verificar (el blog citaba 150–300 ZAR/persona,
+  vigencia desconocida; ojo a la trampa de nombre — «Camp Gecko» y Namibgrens son otros, `21` §5)*
 
 ### D2 · lun 2 — Día entero en la escarpa · **0 km de ruta** *(decidido 08/08)*
 - **El día lento del viaje, en el sitio bueno**: amanecer en el mirador, la escarpa a pie, siesta
@@ -693,7 +694,8 @@ de ~410 km salvo el regreso por asfalto, y el safari como clímax final.
 
 - ✅ **Vuelos** — **EMITIDO el 10/08**: €1.536 (~N$30.720) p.p., **Oporto → Windhoek,
   30 oct – 14 nov**
-- ❌ **Noches sin precio** — Spreetshoogte ×2 *(candidato: Camp Gecko, banda contradictoria)* y
+- ❌ **Noches sin precio** — Spreetshoogte ×2 *(abierto ◐, lo opera Barkhan Dune Retreat; banda
+  contradictoria — y «Camp Gecko» es OTRO camping, `21` §5)* y
   Walvis Bay ×2, más los campings de Windhoek (D0 y D13). **Terrace Bay quedó cerrado el 03/08**
   ✅ *(N$3.480 · ~€174 la pareja, ver D7)* y **Hoada ya tiene precio** ◐ (arriba); los lodges
   privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También

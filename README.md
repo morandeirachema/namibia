@@ -92,8 +92,9 @@ flowchart LR
    **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
    **la cita es el recurso escaso, no la vacuna**.
 5. **Reservar Sesriem ×2, Terrace Bay y las cuatro de Etosha** — sin la de Terrace Bay **no se
-   entra** al Skeleton Coast a pernoctar. **Y localizar y reservar Spreetshoogte ×2**: sin tarifa
-   ni contacto aún ❌, y con tres homónimos en el mismo paso *(`15`)*. *(Sesriem, Terrace Bay,
+   entra** al Skeleton Coast a pernoctar. **Y reservar Spreetshoogte ×2**: **abierto
+   confirmado ◐** *(el «closed down» quedó refutado el 10/08; el camping bueno lo opera Barkhan
+   Dune Retreat)*, contacto localizado — la **tarifa, aún sin verificar** ❌ *(`21` §5)*. *(Sesriem, Terrace Bay,
    Okaukuejo, Halali, Namutoni y Spreetshoogte: esas son las **6** del contador de arriba.)*
 6. **Preguntar a NWR (+264 67 229 800)** si las 3 salidas guiadas de mañana y el nocturno se
    pueden dejar cerrados desde España — su tarifa avisa de que **en temporada de lluvias no
@@ -107,8 +108,8 @@ pide por escrito al cerrarla y lo que se deja para recepción— **está en
 <summary><b>🕳️ Lo que sigue sin poder cerrarse</b></summary>
 
 Tres campings sin tarifa publicada *(Windhoek, Walvis Bay y Spreetshoogte — **contactos ya
-localizados el 09/08, ver [`21`](21-reservas.md)**; el de Spreetshoogte, con un aviso de «closed
-down» por confirmar ◐)* ·
+localizados el 09/08, ver [`21`](21-reservas.md)**; el de Spreetshoogte, **abierto**: el «closed
+down» quedó refutado el 10/08 ◐ y lo opera Barkhan Dune Retreat)* ·
 la fianza de Namibia2Go *(su FAQ, leída directa el 10/08, dice «no deposit»; dos revendedores citan
 N$2.500 (~€125) — pregúntalo por escrito)* · las **horas EXACTAS del sábado en la confirmación
 escrita del coche** *(la entrega y devolución en el aeropuerto ya están confirmadas ✅; recogida
@@ -127,7 +128,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 117 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 118 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
