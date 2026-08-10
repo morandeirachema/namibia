@@ -12,7 +12,7 @@
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
 [![cuenta atrás](https://img.shields.io/badge/faltan-81_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-0_de_6-9d0208?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
-[![presupuesto](https://img.shields.io/badge/€3.725-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
+[![presupuesto](https://img.shields.io/badge/€3.811-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
 
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos*
@@ -34,18 +34,18 @@
 
 ```mermaid
 flowchart LR
-    D["DECIDIDO<br/>ruta del norte, 15 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>vuelo 1.450 pp<br/>coche 35.100 N$<br/>seguro 113 EUR"]
-    C --> R["RESERVADO<br/>nada todavia"]
-    R --> P["PAGADO<br/>nada todavia"]
+    D["DECIDIDO<br/>ruta del norte, 15 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>coche 35.100 N$ los 13 dias<br/>(los 15, precio en tramite)<br/>seguro 113 EUR"]
+    C --> R["RESERVADO<br/>coche EN TRAMITE 10/08<br/>aeropuerto-aeropuerto OK"]
+    R --> P["PAGADO<br/>vuelo 1.536 EUR pp<br/>EMITIDO el 10/08"]
     style D fill:#2d6a4f,color:#fff
     style C fill:#e9c46a,color:#000
-    style R fill:#9d0208,color:#fff
-    style P fill:#9d0208,color:#fff
+    style R fill:#e9c46a,color:#000
+    style P fill:#2d6a4f,color:#fff
 ```
 
 > [!NOTE]
 > **Cerrado y no se rediscute.** La **ruta del norte, 15 días de suelo (14 noches), con Etosha y sin el sur** — decisión
-> del viajero, 06/08/2026. Las **fechas son las del vuelo de Lufthansa** —cotizado, todavía sin emitir—: 30 de octubre
+> del viajero, 06/08/2026. Las **fechas son las del vuelo de Lufthansa** —**EMITIDO el 10/08 por €1.536 p.p.**—: 30 de octubre
 > a 14 de noviembre, llegada a Windhoek el **31 a las 09:25** y vuelta el **14 a las 20:45**, en casa el 15.
 > El sentido de la marcha, **desierto → costa → Damaraland → Etosha al final**. El coche,
 > **Namibia2Go, aeropuerto → aeropuerto** — se recoge el **31 al aterrizar** y se devuelve el
@@ -58,39 +58,44 @@ flowchart LR
 > es un 90 % un buen guía»)*. Lo que se comparó antes queda archivado en
 > [`16`](16-punto-de-decision.md).
 
+### ✅ Cerrado de verdad
+
+- ✈️ **Vuelo — EMITIDO el 10/08 por €1.536 (~N$30.720) por persona** ✅ *(cotizado en €1.450 el
+  05/08: +€86 entre cotizar y comprar)*. **Con el billete, el e-visa queda desbloqueado.**
+
 ### 🟡 Cotizado con precio real, pero sin cerrar
 
-- ✈️ **Vuelo — €1.450 por persona** ✅ *(cotización propia cerrada; el buscador lo anuncia en €1.341 y sube al cerrar)*.
-  **No consta emitido.** Sin billete no hay e-visa.
-- 🚙 **Coche — Budget N$35.100 (~€1.755)** o **Comfort N$39.000 (~€1.950)**, las dos disponibles ✅
+- 🚙 **Coche — reserva EN TRÁMITE con Namibia2Go (10/08): aeropuerto → aeropuerto CONFIRMADO,
+  precio de los 15 días pendiente** ❌ *(los 13 cotizados: Budget N$35.100 · ~€1.755)*
 - 🩺 **Seguro IATI — €113,02 por persona** ✅ · 🛂 **e-visa — N$1.600 (~€80)** ✅
 - 🎫 **Tasas de parque — ~N$620 (~€31)/día** la pareja ◐
 
 > [!WARNING]
-> **El calendario del coche ya está decidido; falta ejecutarlo.** La cotización vigente sigue
-> siendo del **1 al 13 de noviembre**: hay que **recotizar a 15 días, aeropuerto → aeropuerto**
-> *(+~N$5.400 · ~€270 la pareja ◐)*, con **el 31 de octubre pedido por separado** *(cae fuera de
-> la temporada baja)* y **confirmando la entrega y devolución EN el aeropuerto y su posible
-> suplemento** ❌. Y el **seguro tiene que empezar el 30/10**, no el 1 de noviembre.
+> **La reserva del coche está EN TRÁMITE (10/08): la entrega y devolución EN el aeropuerto ya
+> están confirmadas ✅ — falta el PRECIO de los 15 días** *(estimado +~N$5.400 · ~€270 la pareja
+> sobre los 13 cotizados ◐, con **el 31 de octubre fuera de temporada baja** ❌)*. **Que la
+> confirmación escrita recoja las horas del sábado** *(31/10 ~11:00 · 14/11 ~18:00)*. Y con el
+> billete emitido, el **seguro tiene que empezar el 30/10**: es lo más urgente ahora.
 
 ### 🔴 Lo que toca ahora, por orden
 
-1. **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, aeropuerto →
-   aeropuerto)*. Son **~N$5.400 (~€270)** más la pareja y se lleva por delante dos hoteles y tres
-   traslados. ⚠️ El 31 de octubre cae **fuera** de la temporada baja: pídelo por separado, y
-   **confirma la entrega en el aeropuerto** ❌.
-2. **Reservar el 4×4.** Flota pequeña y noviembre competido: es **el cuello de botella real** del
-   viaje. 📞 **+264 61 427 220** · [namibia2go.com](https://namibia2go.com)
-3. **Pedir cita en el Centro de Vacunación Internacional** *(A Coruña, Durán Lóriga 3 ·
+1. **Rematar la reserva del coche, EN TRÁMITE desde el 10/08** *(aeropuerto → aeropuerto ya
+   confirmado ✅)*: falta el **precio final de los 15 días** *(el 31-oct fuera de temporada baja:
+   que venga desglosado ❌)* y la **confirmación por escrito** — con las horas del sábado
+   *(31/10 ~11:00 · 14/11 ~18:00)* y las preguntas del [`21`](21-reservas.md) *(vuelco a solas /
+   cláusula 10.2, fianza, calendario de pago)*. 📞 **+264 61 427 220** ·
+   [namibia2go.com](https://namibia2go.com)
+2. **Adelantar el seguro al 30/10** — **urgente ya: el billete está emitido y la póliza cotizada
+   empieza el 31** — y pedir a IATI por escrito **evacuación aérea dentro del país**.
+3. **Pedir el e-visa** — el billete de vuelta ya existe *(emitido el 10/08)*: nada lo bloquea.
+4. **Pedir cita en el Centro de Vacunación Internacional** *(A Coruña, Durán Lóriga 3 ·
    **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
    **la cita es el recurso escaso, no la vacuna**.
-4. **Emitir el vuelo** — y con él ya se puede pedir el e-visa.
 5. **Reservar Sesriem ×2, Terrace Bay y las cuatro de Etosha** — sin la de Terrace Bay **no se
    entra** al Skeleton Coast a pernoctar. **Y localizar y reservar Spreetshoogte ×2**: sin tarifa
    ni contacto aún ❌, y con tres homónimos en el mismo paso *(`15`)*. *(Sesriem, Terrace Bay,
    Okaukuejo, Halali, Namutoni y Spreetshoogte: esas son las **6** del contador de arriba.)*
-6. **Adelantar el seguro al 30/10** y pedir a IATI por escrito **evacuación aérea dentro del país**.
-7. **Preguntar a NWR (+264 67 229 800)** si las 3 salidas guiadas de mañana y el nocturno se
+6. **Preguntar a NWR (+264 67 229 800)** si las 3 salidas guiadas de mañana y el nocturno se
    pueden dejar cerrados desde España — su tarifa avisa de que **en temporada de lluvias no
    aceptan pre-reserva de actividades**; si no, van en recepción al llegar.
 
@@ -105,9 +110,9 @@ Tres campings sin tarifa publicada *(Windhoek, Walvis Bay y Spreetshoogte — **
 localizados el 09/08, ver [`21`](21-reservas.md)**; el de Spreetshoogte, con un aviso de «closed
 down» por confirmar ◐)* ·
 la fianza de Namibia2Go *(su FAQ, leída directa el 10/08, dice «no deposit»; dos revendedores citan
-N$2.500 (~€125) — pregúntalo por escrito)* · la **entrega del coche en el aeropuerto** *(la FAQ:
-oficina junto al aeropuerto con shuttle desde llegadas ◐; horario del sábado y suplemento, por
-confirmar)* ·
+N$2.500 (~€125) — pregúntalo por escrito)* · las **horas EXACTAS del sábado en la confirmación
+escrita del coche** *(la entrega y devolución en el aeropuerto ya están confirmadas ✅; recogida
+31/10 ~11:00 · devolución 14/11 ~18:00)* ·
 el sobrecoste **en tiempo** del **desvío obligatorio Okaukuejo–Halali** *(los km ya están: **+38**
 sobre la pista directa, medidos el 09/08 con el enrutado OSRM propio)* · **si hay diésel en el bucle
 Ugabmund–Springbokwasser** *(el surtidor de Terrace Bay, sin garantía — `07`)* · la **capacidad real
@@ -122,7 +127,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 116 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 117 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -178,9 +183,9 @@ como aperitivo)*. El razonamiento completo, con el contra dicho honestamente, es
 
 </div>
 
-Las **dos** están disponibles y cotizadas por 13 días e impuestos incluidos — **y las fechas ya
-están decididas (07/08): 15 días, aeropuerto → aeropuerto, pendiente de recotizar los 2 extra
-(+~N$5.400 · ~€270 la pareja ◐)**:
+Las **dos** están disponibles y cotizadas por 13 días e impuestos incluidos — **y la reserva está
+EN TRÁMITE (10/08): 15 días, aeropuerto → aeropuerto CONFIRMADO ✅, con el precio de los 2 extra
+pendiente (+~N$5.400 · ~€270 la pareja ◐)**:
 
 - 🚙 **BUDGET** · **N$2.700/día** → **N$35.100 (~€1.755)** · ~€877,50 p.p. ✅
 - 🚙 **COMFORT** · **N$3.000/día** → **N$39.000 (~€1.950)** · ~€975 p.p. ✅
@@ -290,29 +295,30 @@ flowchart LR
 
 ## ✈️ El vuelo y 🩺 el seguro
 
-### €1.450 por persona el vuelo · €113,02 el seguro
+### €1.536 por persona el vuelo — **EMITIDO** · €113,02 el seguro
 
 **Oporto → Windhoek, 30 oct – 14 nov** · Lufthansa *(parcialmente Discover Airlines)*
 
 </div>
 
 > [!IMPORTANT]
-> Precio cotizado el 05·08·2026 — **ningún billete está emitido todavía**, y sin billete no se puede
-> pedir el e-visa.
+> **Billete EMITIDO el 10·08·2026 por €1.536 p.p.** *(cotizado en €1.450 el 05/08: +€86 entre
+> cotizar y comprar)*. Con el billete de vuelta, **el e-visa queda desbloqueado** — y el seguro
+> tiene que rehacerse **desde el 30/10**.
 
 - ✈️ **Ida** vie 30 oct, **una sola escala en Fráncfort**: 15h15 y **aterrizas el 31 de octubre a
   las 09:25**. **Vuelta** sáb 14 a las 20:45 por **Múnich** — 18h05, y en casa el día 15.
 - 🎉 **La fiebre amarilla deja de ser un tema**: **Fráncfort y Múnich no son zona de riesgo**.
   **No hace falta vacunarse**, y no hay que calcular duraciones de escala.
-- 💶 **El buscador lo anuncia en €1.341 y sube a €1.450 al cerrar**: el bueno es el segundo
-  *(desglose en [`02` §8](02-presupuesto.md))*.
+- 💶 **La escalera del precio**: €1.341 anunciado → €1.450 cotizado *(05/08)* → **€1.536
+  emitido** *(10/08)* — el anunciado nunca es el final *(desglose en [`02` §8](02-presupuesto.md))*.
 - 🚗 **Sale de Oporto, a ~270 km — decidido (09/08): se va y se vuelve en coche propio.** Por
   cotizar ❌: el aparcamiento de larga estancia del aeropuerto (30 oct – 15 nov) y los peajes
   *(el bus directo, ~3h43 desde ~€17 por persona ◐, queda de plan B — `02` §8)*.
-- ⚠️ **Tres cosas antes de pagar**: que **incluya maleta facturada** *(Lufthansa vende Economy Light
-  sin ella)*, que sea **billete único**, y **compara con el precio directo de Lufthansa** — lo vende
-  eDreams. *(Y mira el de **€1.026**: sobre los €1.450 finales son hasta **€848 menos la pareja**
-  — comparándolo también con equipaje incluido, `02` §8.)*
+- ⚠️ **Ya pagado — tres cosas que repasar AHORA en el localizador**: que **incluya maleta
+  facturada** *(Lufthansa vende Economy Light sin ella)*, que sea **billete único** *(una conexión
+  perdida pasa a ser problema de la aerolínea)* y que los **nombres calquen el pasaporte**
+  *(`02` §8)*.
 - 🩺 **El seguro llega hasta el día 15**, no hasta el 14: son las horas de vuelta que sin eso irían
   sin cobertura, y cerrar ese hueco costó **€14,69**.
 - 👉 **Dos cosas que pedirle a IATI por escrito**: que cubra **evacuación aérea DENTRO del país**
@@ -329,9 +335,9 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 ## 💶 El presupuesto — por persona, partida a partida
 
-### ~€3.725 por persona · todo incluido
+### ~€3.811 por persona · todo incluido
 
-Rango honesto: **€3.575–3.875**. El **74 %** ya está cerrado.
+Rango honesto: **€3.661–3.961**. El **75 %** ya está cerrado — y el vuelo, pagado.
 
 </div>
 
@@ -342,7 +348,7 @@ y el día extra de seguro *(❌ sin cotizar — abajo)* y lo que compres allí p
 ```mermaid
 pie showData
     title Por persona · desglose en EUR · camping
-    "Vuelo" : 1450
+    "Vuelo" : 1536
     "Coche 15 dias" : 1013
     "Alojamiento" : 370
     "Combustible" : 225
@@ -353,13 +359,14 @@ pie showData
     "Visado" : 80
 ```
 
-*Vuelo y coche son el **66 %** del viaje. Todo lo demás junto son ~€1.260.*
+*Vuelo y coche son el **67 %** del viaje. Todo lo demás junto son ~€1.260.*
 
-- ✈️ Vuelo **€1.450** ✅ · 🚙 Coche **~€1.012,50** *(13 días cotizados ✅ + 2 estimados ◐)* ·
+- ✈️ Vuelo **€1.536** ✅ *(EMITIDO el 10/08)* · 🚙 Coche **~€1.012,50** *(13 días cotizados ✅ +
+  2 estimados ◐; reserva en trámite)* ·
   ⛺ Alojamiento **~€370** *(€246 verificado ✅)* · ⛽ Combustible **~€225** · 🍖 Comida **~€140** ·
   🩺 Seguro **€113** ✅ · 🎫 Tasas **~€117** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€219** *(los safaris
   guiados de Etosha, decididos el 08/08, dentro)*
-- **El 74 % ya está cerrado** con precio real: vuelo, los 13 días cotizados del coche, seguro,
+- **El 75 % ya está cerrado** con precio real: vuelo *(emitido)*, los 13 días cotizados del coche, seguro,
   visado, las 6 noches de NWR y Terrace Bay. Lo demás (~€960) son los 2 días extra de coche ◐, las 6 noches de
   camping sin precio (más Hoada ◐), el paquete guiado de Etosha —3 mañanas + nocturno + lanzadera
   de Deadvlei— *(~€144, tarifa ✅ sin reservar)*, el
@@ -385,7 +392,7 @@ si vais 3 o 4 en el mismo coche— está en [`02-presupuesto`](02-presupuesto.md
 
 ```mermaid
 flowchart TD
-    A["EL 4x4 · PRIMERO<br/>Namibia2Go · recotizar<br/>con las fechas del vuelo"]
+    A["EL 4x4 · EN TRAMITE<br/>Namibia2Go · cerrar<br/>el precio de los 15 dias"]
     B["SESRIEM DENTRO x2<br/>44 parcelas<br/>es EL amanecer del viaje"]
     C["TERRACE BAY<br/>sin reserva confirmada<br/>NO se entra al parque"]
     D["e-visa + CVI<br/>eservices.mhaiss.gov.na<br/>cita de vacunas en agosto"]
@@ -399,9 +406,9 @@ flowchart TD
     style D fill:#2d6a4f,color:#fff
 ```
 
-1. **El 4x4 — primero, y recotizado.** Namibia2Go con las fechas del vuelo: **flota pequeña y
-   noviembre competido**. Decide de paso si añadir el día para devolverlo camino del aeropuerto en
-   vez de hotel + dos traslados.
+1. **El 4x4 — la reserva ya está en trámite (10/08), aeropuerto → aeropuerto confirmado.**
+   Falta el precio final de los 15 días: **flota pequeña y noviembre competido** — ciérralo en
+   cuanto llegue la cotización.
 2. **Sesriem dentro de la puerta, dos noches.** Solo **44 parcelas**, y es la diferencia entre *ver*
    Deadvlei y *tenerlo para ti* al amanecer. *(Plan B: Sossus Oasis en la puerta — perdiendo la hora
    de ventaja, que es el motivo.)*

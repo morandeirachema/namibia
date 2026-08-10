@@ -173,7 +173,7 @@ Government Notice nº 115**:
 
 ---
 
-## ✈️ Vuelos — cerrado en €1.450 (Oporto), y con qué se comparó
+## ✈️ Vuelos — EMITIDO en €1.536 (Oporto), y con qué se comparó
 
 El billete del viaje está en [`02`](02-presupuesto.md) §8. Lo que sigue es el **contexto de mercado**
 con el que se juzgó si ese precio era razonable, y la lógica de la fiebre amarilla:
@@ -181,7 +181,8 @@ con el que se juzgó si ese precio era razonable, y la lógica de la fiebre amar
 - **Lufthansa vía Fráncfort y Múnich** — **la ruta elegida**, saliendo de **Oporto**. Una escala por
   sentido, **sin fiebre amarilla** *(ninguno de los dos hubs es zona de riesgo)*, y el largo radio
   parcialmente operado por **Discover Airlines**. Muestras de agregador anteriores la situaban en
-  **~€673–715** ida y vuelta ◐ — el precio real del viaje, con equipaje y cargos, es **€1.450 p.p.**
+  **~€673–715** ida y vuelta ◐ — el precio real del viaje, con equipaje y cargos, fue **€1.450
+  p.p. al cotizar (05/08) y €1.536 p.p. al emitir (10/08)** ✅.
 - **Qatar vía Doha** ◐ — sin fiebre amarilla; rango gancho de agregador **desde ~€631** ida y vuelta.
 - **Airlink (JNB–WDH)** y **TAAG (Luanda–WDH)** ◐ — son solo el **conector regional**: hay que sumar
   el largo radio desde Europa. TAAG es la única que hace Luanda–Windhoek sin escala (2 h 30).
@@ -314,9 +315,10 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 **Bloquean algo con fecha:**
 
-- ✈️ **El billete NO consta emitido** *(hay precio real, €1.450 p.p., cotizado el 05/08)*.
-  **Sin billete no hay e-visa**, porque exige billete de vuelta.
-- 🏕️ **Ninguna reserva consta hecha**: ni coche, ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
+- ✈️ **El billete está EMITIDO desde el 10/08** ✅ *(€1.536 p.p.; se cotizó en €1.450 el 05/08)*:
+  **el e-visa queda desbloqueado** — pedirlo es el siguiente trámite con fecha.
+- 🏕️ **La única reserva en marcha es la del coche** *(EN TRÁMITE el 10/08: aeropuerto →
+  aeropuerto confirmado, precio pendiente ❌ — `21`)*: ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
   al parque a pernoctar)*, ni las cuatro de Etosha — **ni las DOS de Spreetshoogte** *(decididas el
   08/08; su hueco doble quedó en sencillo el 09/08: **contacto localizado** —
   spreetshoogte@iway.na · +264 62 572 010 ◐, ver `21`— pero la **tarifa sigue sin verificar** ❌,

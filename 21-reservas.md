@@ -9,7 +9,8 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Levantado el 09/08/2026 — a esa fecha **no consta hecha ninguna reserva**. Los contactos que el
+> *Levantado el 09/08/2026. Al 10/08, el **vuelo está EMITIDO (€1.536 p.p.)** y la **reserva del
+> coche EN TRÁMITE** — el resto sigue sin reservar. Los contactos que el
 > dossier no tiene localizados se dicen en blanco: rellenar un teléfono plausible sería peor que
 > dejar el hueco. Los marcados ◐ salieron de la búsqueda del 09/08/2026 sin poder abrir la ficha
 > oficial: confírmalos al usarlos.*
@@ -26,26 +27,29 @@ Okaukuejo, Halali, Namutoni y Spreetshoogte)* van en cuanto el coche esté firma
 ```mermaid
 flowchart LR
 %% ancho
-    C["1 · EL 4x4<br/>Namibia2Go<br/>recotizar 15 dias<br/>y reservar"] --> V["2 · EL VUELO<br/>emitir con maleta<br/>y billete unico"]
-    V --> S["3 · SEGURO IATI<br/>rehacer desde el 30-10<br/>antes de pagar el billete"]
-    V --> E["6 · E-VISA<br/>solo con billete<br/>de vuelta"]
+    C["1 · EL 4x4<br/>EN TRAMITE 10/08<br/>cerrar el precio<br/>de los 15 dias"] --> V["2 · EL VUELO<br/>EMITIDO 10/08<br/>1.536 EUR pp"]
+    V --> S["3 · SEGURO IATI<br/>rehacer desde el 30-10<br/>URGENTE: billete pagado"]
+    V --> E["6 · E-VISA<br/>desbloqueado:<br/>ya hay billete de vuelta"]
     C --> N["4 · LAS NOCHES NWR<br/>Sesriem x2 · Terrace Bay<br/>Etosha x4"]
     N --> R["5 · EL RESTO DE CAMPINGS<br/>Spreetshoogte x2 · Windhoek x2<br/>Walvis x2 · Hoada"]
     P["EN PARALELO, YA<br/>la cita del CVI:<br/>agosto o nada"]
     style C fill:#9d0208,color:#fff
+    style V fill:#2d6a4f,color:#fff
     style N fill:#9d0208,color:#fff
     style P fill:#e85d04,color:#000
 ```
 
 ---
 
-## 1 · 🚙 El 4×4 — Namibia2Go: recotizar y reservar
+## 1 · 🚙 El 4×4 — Namibia2Go: reserva **EN TRÁMITE (10/08/2026)**
 
 - **Qué**: 4x4 camping equipped double cab —**Budget** o **Comfort**—, **15 días, aeropuerto →
-  aeropuerto: 31 oct ~11:00 → 14 nov ~18:00** *(decidido el 07/08 — `02` §2)*.
-- **Precio**: Budget **N$35.100 (~€1.755)** los 13 días cotizados ✅ + **~N$5.400 (~€270)** los 2
-  extra ◐ · Comfort **N$39.000 (~€1.950)** ✅ + ~N$6.000 (~€300) ◐. ⚠️ **El 31 de octubre cae fuera
-  de su temporada baja: precio ❌ — pídelo por separado.**
+  aeropuerto: 31 oct ~11:00 → 14 nov ~18:00** *(decidido el 07/08 — `02` §2)*. **La reserva se
+  abrió el 10/08 con la entrega y recogida EN el aeropuerto confirmadas** ✅.
+- **Precio: PENDIENTE de cotización final** ❌. Referencia: Budget **N$35.100 (~€1.755)** los 13
+  días cotizados ✅ + **~N$5.400 (~€270)** los 2 extra ◐ · Comfort **N$39.000 (~€1.950)** ✅ +
+  ~N$6.000 (~€300) ◐. ⚠️ **El 31 de octubre cae fuera de su temporada baja — que venga
+  desglosado.**
 - **Contacto**: 📞 **+264 61 427 220** *(centralita — `06` §13)* ·
   [namibia2go.com — la ficha del coche](https://namibia2go.com/4x4-camping-equipped-double-cab)
   *(la ficha volvió a cargar el 10/08 y lista el equipo pieza a pieza — toallas y hornillo
@@ -54,9 +58,9 @@ flowchart LR
 
 **Al reservar, POR ESCRITO** *(el porqué de cada una: `02` §2, `06` y `18` §4–5)*:
 
-- La **entrega y devolución EN el aeropuerto** ◐ — la FAQ oficial *(leída el 10/08)* dice que la
-  oficina está **junto al aeropuerto, con shuttle desde la sala de llegadas**; por escrito quedan
-  el **horario del sábado 31/10 y la devolución del sábado 14/11 ~18:00**, y si hay suplemento ❌.
+- La **entrega y devolución EN el aeropuerto — CONFIRMADA al abrir la reserva (10/08)** ✅: que
+  la confirmación escrita recoja **las horas de los dos sábados** *(recogida 31/10 ~11:00 ·
+  devolución 14/11 ~18:00)* y si hay suplemento ❌.
 - El **precio exacto del 31 de octubre** ❌ *(fuera de temporada baja)*.
 - El **contrato estándar ya está leído** ✅ *(10/08 — enlace en `16` §8)* y deja una pregunta
   concreta: su **cláusula 10.2** permite cobrar el daño **sin contacto físico con otro vehículo,
@@ -86,28 +90,25 @@ flowchart LR
 
 ---
 
-## 2 · ✈️ El vuelo — emitir el billete
+## 2 · ✈️ El vuelo — **EMITIDO el 10/08/2026** ✅
 
 - **Qué**: Oporto → Windhoek ida y vuelta, **30 oct – 14 nov**, Lufthansa *(largo radio operado por
-  Discover)* — una escala por sentido: Fráncfort a la ida, Múnich a la vuelta. **€1.450
-  (~N$29.000) por persona, cotizado el 05/08** ✅ *(el buscador lo anuncia en €1.341 y sube al
-  cerrar — `02` §8)*.
-- **Canal**: **lo vende eDreams** — antes de pagar, **compara el precio final con maleta en la web
-  de Lufthansa** *(si la diferencia es pequeña, comprar en la compañía ahorra el intermediario
-  cuando algo se tuerce)* y **ábrele la ficha al resultado de €1.026**, también con equipaje.
-- **Las tres comprobaciones de `02` §8**: que incluya **maleta facturada** *(nada de Economy
-  Light)* · que sea **billete único** *(una conexión perdida pasa a ser problema de la
-  aerolínea)* · el precio final, no el anunciado.
-- **Lo que arrastra al emitir**: ya se puede pedir el **e-visa** *(§6)* — y el **seguro tiene que
-  empezar el 30/10** *(§3)*, así que su recotización va antes de pagar esto.
+  Discover)* — una escala por sentido: Fráncfort a la ida, Múnich a la vuelta. **EMITIDO por
+  €1.536 (~N$30.720) por persona** ✅ *(cotizado en €1.450 el 05/08: +€86 entre cotizar y
+  comprar — `02` §8)*.
+- **Repaso del localizador, ya pagado** *(las tres comprobaciones de `02` §8)*: que incluya
+  **maleta facturada** *(nada de Economy Light)* · que sea **billete único** *(una conexión
+  perdida pasa a ser problema de la aerolínea)* · que los **nombres calquen el pasaporte**.
+- **Lo que arrastra el billete emitido**: **ya se puede pedir el e-visa** *(§6, exige billete de
+  vuelta)* — y el **seguro tiene que rehacerse desde el 30/10** *(§3)*: es lo más urgente.
 
 ---
 
 ## 3 · 🩺 El seguro — IATI Estrella: moverlo, no solo pagarlo
 
 - **Qué**: IATI **Estrella**, cotizado **€226,04 (~N$4.520) la pareja** para 31/10–15/11 ✅. Con el
-  vuelo saliendo el 30, **hay que rehacerla del 30/10 al 15/11** — el coste del día extra ❌ sin
-  cotizar. **Hazlo antes de pagar el billete** *(`02` §7–8)*.
+  vuelo saliendo el 30 **y el billete ya emitido (10/08), rehacerla del 30/10 al 15/11 es lo más
+  urgente del cuaderno** — el coste del día extra ❌ sin cotizar *(`02` §7–8)*.
 - **Y las peticiones por escrito** *(las que de verdad importan en esta ruta)*: que cubra
   **evacuación aérea DENTRO del país** *(cerca de Sesriem no hay hospital)*; **añadir la opción de
   búsqueda y salvamento** — el Estrella la deja opcional y el Mochilero, más barato, la trae de

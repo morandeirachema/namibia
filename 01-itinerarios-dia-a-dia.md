@@ -158,11 +158,10 @@ gantt
 > devuelve el **14 de noviembre camino del embarque** *(~18:00)* — **15 días**. Ni hoteles en
 > Windhoek ni traslados: **las noches de ciudad también se duerme arriba**, en camping.
 >
-> Lo que queda es ejecutarlo: la cotización vigente va del 1 al 13 — **recotizar con las fechas
-> del vuelo** son **~N$5.400 (~€270)** más la pareja con la Budget ◐. ⚠️ **Ojo: el 31 de octubre
-> cae fuera de la temporada baja de Namibia2Go** —pide ese día por separado— y **la entrega y
-> devolución EN el aeropuerto hay que confirmarla, con su posible suplemento** ❌ *(ver
-> [`02`](02-presupuesto.md) §2)*.
+> La ejecución arrancó el 10/08: **la reserva está EN TRÁMITE, con la entrega y devolución EN el
+> aeropuerto confirmadas** ✅. Falta **el precio de los 15 días** — la referencia son **~N$5.400
+> (~€270)** más que los 13 cotizados con la Budget ◐, y ⚠️ **el 31 de octubre cae fuera de la
+> temporada baja de Namibia2Go**: que venga desglosado ❌ *(ver [`02`](02-presupuesto.md) §2)*.
 
 ### D0 · sáb 31 oct — Llegada, coche y LA compra grande *(plan horario)*
 
@@ -185,9 +184,9 @@ flowchart LR
   **N$500–1.000 (~€25–50) de bolsillo** ○ *(el del aeropuerto admite hasta ~N$3.000 · ~€150,
   reportes de viajeros ○; la carga grande, mejor en ciudad — cajero junto a sucursal, ver `07`)* — y la **SIM turista de MTC**
   *(«Leisure» N$349 · ~€17, registro con pasaporte obligatorio; ver `07`)*
-- 🚙 **~11:00–13:00 · recogida del 4×4 EN el aeropuerto — DECIDIDO (07/08/2026)** ◐ *(la FAQ de
-  N2Go, leída el 10/08: oficina junto al aeropuerto y shuttle desde la sala de llegadas — el
-  horario del sábado y la devolución del 14, por escrito al recotizar)*. **Briefing sin prisa (1–2 h)**: presiones en frío
+- 🚙 **~11:00–13:00 · recogida del 4×4 EN el aeropuerto — CONFIRMADA al abrir la reserva
+  (10/08/2026)** ✅ *(precio de los 15 días pendiente; que la confirmación escrita recoja las
+  horas del sábado — `21`)*. **Briefing sin prisa (1–2 h)**: presiones en frío
   apuntadas, las DOS ruedas de repuesto, gato y compresor a la vista *(`06`)*, el **inventario del
   camping contra la ficha — hornillo incluido** *(`05`)* y las **preguntas de la nevera**
   *([`18`](18-manual-de-campamento.md), §5)*
@@ -526,8 +525,9 @@ flowchart LR
   tarde: pregúntalo al llegar el D13* ❌
 - ⛽ **17:00 · salida hacia el aeropuerto** — ~45 km de B6 ○ y **depósito lleno a la ida**
   *(devolución con el tanque como se entregó ○)*
-- 🚙 **~17:45–18:00 · devolución del 4×4 EN el aeropuerto** ⚠️ *servicio por confirmar al
-  recotizar* ❌ — todavía **con luz para la inspección** *(anochecer ~19:12)*
+- 🚙 **~17:45–18:00 · devolución del 4×4 EN el aeropuerto** ✅ *(confirmada al abrir la reserva
+  el 10/08 — las horas del sábado, por escrito: `21`)* — todavía **con luz para la inspección**
+  *(anochecer ~19:12)*
 - 🧳 **18:00–19:45 · facturación** ◐ — mostradores de Discover: **abren 16:45 (4 h antes)
   y CIERRAN 19:45 (60 min antes)** — **la hora dura del día es esa**. Devolviendo a las 18:00
   quedan **~1h45 de colchón**: cabe hasta un pinchazo en la B6 *([ficha de aeropuertos de
@@ -541,8 +541,8 @@ flowchart LR
 ### 💰 Coste real *(31 oct – 14 nov · el detalle completo, en `02-presupuesto.md`)*
 - **Alquiler — DECIDIDO 15 días, aeropuerto → aeropuerto (31 oct 11:00 – 14 nov 18:00)**. Los 13
   días cotizados: **Namibia2Go Budget N$35.100 (~€1.755)** ✅ — o **Comfort N$39.000 (~€1.950)**;
-  los 2 extra, **~N$5.400 (~€270) ◐ pendientes de recotizar** *(el 31-oct fuera de temporada
-  baja; ver `02` §2)*. Con Premium Insurance Cover (franquicia cero) y km ilimitados *(Asco,
+  los 2 extra, **~N$5.400 (~€270) ◐ — la reserva de los 15 está EN TRÁMITE (10/08), precio
+  final pendiente** *(el 31-oct fuera de temporada baja; ver `02` §2)*. Con Premium Insurance Cover (franquicia cero) y km ilimitados *(Asco,
   descartada: €2.652 en su banda alta)*
 - **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 + Namutoni 2×920 =
   **N$6.360 (~€318)** ✅ — **las 4 noches de Etosha, dentro del parque**
@@ -556,10 +556,10 @@ flowchart LR
   — presupuestado **~N$9.000 (~€450)** *(ver `02` §4)*
 - **Visado**: N$3.200 (~€160) los dos ✅
 - **Total tierra en camping ≈ ~€4.325 (~N$86.500)** la pareja ○/◐, banda ~€4.025–4.625 — *los 13
-  días del coche son cifra cerrada; los 2 del aeropuerto (~€270 ◐), por recotizar. Sumando vuelos
-  (**€2.900**) y seguro IATI Estrella (€226,04):
-  **~€7.450 (~N$149.000) la pareja · ~€3.725 por persona** (ver `02`; corregido el 08/08 — el
-  alojamiento infravalorado y Cape Cross sin sumar)*
+  días del coche son cifra cerrada; los 2 del aeropuerto (~€270 ◐), en cotización final. Sumando
+  vuelos (**€3.072, EMITIDOS el 10/08**) y seguro IATI Estrella (€226,04):
+  **~€7.622 (~N$152.400) la pareja · ~€3.811 por persona** (ver `02`; corregido el 10/08 con el
+  precio real del billete)*
 
 ### ⏰ Los horarios que mandan *(✅/◐ = con fuente en el dossier · ☀️ = cálculo astronómico ±5 min)*
 
@@ -691,8 +691,8 @@ de ~410 km salvo el regreso por asfalto, y el safari como clímax final.
 
 ## 🕳️ Lo que falta para cerrar LA RUTA DEL VIAJE
 
-- ✅ **Vuelos** — precio final: €1.450 (~N$29.000) p.p., **Oporto → Windhoek, 30 oct – 14 nov**. *Pendiente
-  solo de emitir el billete*
+- ✅ **Vuelos** — **EMITIDO el 10/08**: €1.536 (~N$30.720) p.p., **Oporto → Windhoek,
+  30 oct – 14 nov**
 - ❌ **Noches sin precio** — Spreetshoogte ×2 *(candidato: Camp Gecko, banda contradictoria)* y
   Walvis Bay ×2, más los campings de Windhoek (D0 y D13). **Terrace Bay quedó cerrado el 03/08**
   ✅ *(N$3.480 · ~€174 la pareja, ver D7)* y **Hoada ya tiene precio** ◐ (arriba); los lodges
