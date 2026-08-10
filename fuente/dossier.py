@@ -22,7 +22,7 @@ import mapa                                                        # noqa: E402
 import trazado                                                     # noqa: E402
 from comun import RAIZ, marca_texto, md                            # noqa: E402
 
-FECHA = "9 de agosto de 2026"
+FECHA = "10 de agosto de 2026"
 
 # ---------------------------------------------------------------------------
 # Estructura del volumen
