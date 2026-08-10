@@ -61,7 +61,9 @@ flowchart LR
 - El **contrato estándar ya está leído** ✅ *(10/08 — enlace en `16` §8)* y deja una pregunta
   concreta: su **cláusula 10.2** permite cobrar el daño **sin contacto físico con otro vehículo,
   animal, objeto o persona «al margen de los waivers»** — **cómo tratan en la práctica la salida
-  de vía o el vuelco a solas** ❌. Y las de siempre: *dune driving*/Sandwich Harbour y los
+  de vía o el vuelco a solas** ❌ *(su matriz Gondwana lo dice en claro en sus T&C generales: «el
+  accidente de un solo vehículo a menudo se considera negligencia… al margen de las condiciones
+  de franquicia» ◐)*. Y las de siempre: *dune driving*/Sandwich Harbour y los
   **bajos en Damaraland** con el Premium Cover ❌ *(la referencia del sector los excluye — `06`)*.
 - La **fianza en tarjeta**: la FAQ oficial confirma **«no deposit»** ✅ *(leída el 10/08)*; dos
   revendedores citan **N$2.500 (~€125)** de depósito de combustible ◐ — **que quede por escrito
@@ -74,6 +76,13 @@ flowchart LR
 - **Cancelación, del contrato estándar** ✅ *(10/08)*: reembolso íntegro a **más de 30 días** ·
   **15 %** a 14–30 días · **25 %** a 7–13 · **50 %** a menos de 7 días o no presentarse.
   **Conductores: 23 años cumplidos y 1 año de carnet.**
+- **Cuándo se paga: NO publicado** ❌ — ni el contrato ni la FAQ fijan calendario *(su matriz
+  Gondwana cobra el 100 % a las 72 h del resumen de reserva en los lodges, y 25 % al confirmar +
+  resto a 60 días en su turoperador ◐)*: **pedir el calendario de pago por escrito al reservar**.
+  Con su escala de cancelación, pagar por adelantado reservando en agosto apenas expone: sobre la
+  recogida del 31/10, **hasta el ~30/09 se recupera el 100 %** · del ~1 al 17/10, el 85 % · del
+  18 al 24/10, el 75 % · desde el ~25/10, el 50 %. Tarjeta Visa/Mastercard por su pasarela;
+  su moneda es el NAD y la fluctuación del cambio va a cuenta del cliente.
 
 ---
 
