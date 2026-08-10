@@ -364,8 +364,9 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   conflicto sin resolver**: la propia Namibia2Go se anuncia como **«No Deposit»** *(sin fianza, a
   diferencia de casi todos los operadores)* y su FAQ dice que **no hay depósito de combustible**;
   pero un revendedor —madbookings— y un directorio —goArid— citan que **se retiene N$2.500 (~€125) de
-  depósito de combustible**, liberado si devuelves el depósito lleno. Las dos versiones son de fuentes
-  secundarias *(la web propia está en 403)* y **se contradicen**: puede ser un cambio de política o
+  depósito de combustible**, liberado si devuelves el depósito lleno. **La FAQ ya se leyó directa
+  el 10/08 ✅** *(la web volvió a cargar)* y mantiene el «no deposit»; la versión contraria sigue
+  siendo de reventa ◐ y **se contradicen**: puede ser un cambio de política o
   depender del canal de reserva. **No lo des por sentado en ningún sentido — pregunta por escrito, al
   reservar, si hay retención en tarjeta y de cuánto.** Aceptan todas las tarjetas salvo Diners y Amex.
 - 🛟 La **opción de búsqueda y salvamento del IATI Estrella: ❌ sin cotizar** *(el Mochilero la
@@ -417,10 +418,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 inventario; ninguno bloquea una reserva — son preguntas de la entrega del coche, de cada recepción
 o de un email)*:
 
-- 🧰 **De la entrega del coche** *(`18` §4–5, `05`, `01` §D0)*: si hay **hornillo de gas** ❌ *(no
-  consta en la ficha)* · **segunda batería o corte por voltaje** para la nevera ❌ · **con cuánto
-  tanque entregan** el coche ❌ · el **teléfono de emergencias 24 h de Namibia2Go** ❌ *(`06` §13)* ·
-  el **coste del conductor adicional** ❌ *(`02` §10)*.
+- 🧰 **De la entrega del coche** *(`18` §4–5, `05`, `01` §D0)*: **segunda batería o corte por
+  voltaje** para la nevera ❌ · **con cuánto tanque entregan** el coche ❌ · el **teléfono de
+  emergencias 24 h de Namibia2Go** ❌ *(`06` §13)* · el **coste del conductor adicional** ❌
+  *(`02` §10)*. *(El hornillo, que abría esta lista, consta en la ficha desde el cotejo del
+  10/08 ✅ — `18` §4.)*
 - 🏕️ **De cada recepción** *(`18`)*: **enchufe por parcela** campamento a campamento ❌ *(NWR lo
   anuncia en los grandes ◐)* · **precio de la leña** ❌ · **potabilidad del grifo** camping a
   camping ❌ · el **check-out del camping de Windhoek el D14** y si se puede volver por la tarde ❌

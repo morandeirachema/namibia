@@ -108,10 +108,10 @@ campamentos de NWR ◐.
 - **Se cocina sobre brasa, no sobre llama** ○: leña encendida a las 18:00 para cenar a las 19:30.
   El error del primer día es echar la carne al fuego recién prendido.
 - **El fuego no se deja solo y se mata con agua** ○ — estáis en la estación seca de un país seco.
-- ⚠️ **El hornillo de gas NO consta en la ficha del coche** ❌: la ficha lista menaje, nevera y
-  compresor, pero ninguna cocina. **Va en el inventario por escrito que ya hay que pedirle a
-  Namibia2Go** *(la petición está en el [`04`](04-guia-preparacion.md))* — sin hornillo no hay café
-  a las 05:45, y ese es el tipo de detalle que arruina más mañanas que cualquier avería.
+- ✅ **El hornillo de gas YA consta en la ficha del coche** *(cotejo del 10/08/2026: «gas cooker
+  & gas cylinder», con bombona de 3 kg)*: el «no consta» que llevaba este manual queda cerrado.
+  Lo que sigue vivo es **cotejarlo físicamente en la entrega** *(`01` §D0)* — sin hornillo no hay
+  café a las 05:45, y ese es el tipo de detalle que arruina más mañanas que cualquier avería.
 
 ## 5. La nevera, o cómo no quedarse sin cena el día 9
 
@@ -173,8 +173,9 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 
 ## 🕳️ Lo que este manual no pudo cerrar
 
-**La batería de la nevera** *(¿dual? ¿corte por voltaje?)* ❌ y **el hornillo** ❌ — los dos van en
-el inventario por escrito a Namibia2Go · **enchufe por parcela, campamento a campamento** ❌ —
+**La batería de la nevera** *(¿dual? ¿corte por voltaje?)* ❌ — va en las preguntas de la entrega
+*(el hornillo, que le hacía compañía aquí, consta en la ficha desde el 10/08 ✅ — §4)* ·
+**enchufe por parcela, campamento a campamento** ❌ —
 NWR lo anuncia en los grandes ◐ y no hay lista fina · **el precio de la leña** ❌ · **la
 potabilidad camping a camping** ❌ — se pregunta en cada recepción. Ninguno cambia una reserva:
 son preguntas de la entrega del coche y de cada llegada.

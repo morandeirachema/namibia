@@ -142,8 +142,9 @@ flowchart LR
 >   Comfort — **los dos, la pareja** ◐.
 > - ⚠️ **Ojo con el 31 de octubre**: la temporada baja de Namibia2Go **empieza el 1 de noviembre**,
 >   así que ese día puede irse a tarifa alta. **Pide el precio exacto de ese día por separado** ❌.
-> - ⚠️ **La entrega en el aeropuerto no está confirmada como servicio**, ni su posible
->   suplemento ❌ — es la primera pregunta de la llamada.
+> - ◐ **La entrega en el aeropuerto, medio confirmada**: la FAQ oficial *(leída el 10/08)* dice
+>   que la oficina está **junto al aeropuerto, con shuttle desde la sala de llegadas** — quedan
+>   por escrito el horario del sábado 31/10, la devolución del 14/11 ~18:00 y si hay suplemento ❌.
 >
 > *(La alternativa descartada el 07/08: dos noches de hotel en Windhoek más tres traslados
 > aeropuerto–ciudad — más cara casi seguro, y peor: la primera y la última noche sin tienda.)*
@@ -154,9 +155,9 @@ flowchart LR
 > **N$2.700/día (~€135) de la Budget son cotización en vivo para las fechas reales**, coherente con
 > el cambio de año tarifario. *(Misma trampa que la tarifa de NWR.)*
 
-**Aparte, no incluido en el total** (retención, no gasto): a la recogida se bloquea en la tarjeta un
-**aval/depósito de garantía** — con Premium Cover la franquicia es N$0, pero suele retenerse un aval.
-**❌ Importe exacto no verificado.** Hay que tener margen en la tarjeta.
+**Aparte, la retención en tarjeta**: la FAQ oficial de N2Go dice **«no deposit»** ✅ *(leída el
+10/08/2026)*, pero dos revendedores citan **N$2.500 (~€125)** de depósito de combustible ◐ — que
+quede por escrito al reservar (`21`). Margen en la tarjeta, en cualquier caso.
 
 > Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)
 > · precio de la cotización cerrada.
@@ -358,8 +359,10 @@ móvil**. Es exactamente el escenario para el que existe esa garantía.
 
 El Estrella cubre **1.000 € de franquicia del coche**. Pero tu **Namibia2Go lleva Premium Insurance
 Cover = franquicia CERO**: **no hay franquicia que cubrir**. Es una garantía casi redundante en tu
-caso — no la cuentes como valor. *(Único resquicio: la franquicia cero de N2Go «decae con
-negligencia probada» — pero la negligencia suele estar excluida también en el seguro de viaje.)*
+caso — no la cuentes como valor. *(El resquicio real, leído su contrato estándar el 10/08/2026:
+la cláusula 10.2 permite cobrar el daño sin contacto físico con otro vehículo u objeto «al margen
+de los waivers» — y ese daño no es «franquicia», así que el Estrella tampoco lo taparía. La
+pregunta por escrito está en `21`.)*
 
 ### ❓ La pregunta que decide: ¿evacuación aérea DENTRO del país?
 
