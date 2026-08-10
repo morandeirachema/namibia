@@ -144,14 +144,30 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
   📞 **+264 62 572 010** *([directorio de Visit
   Namibia](https://visitnamibia.com.na/directory/spreetshoogte_campsite/))* · ficha con formulario
   en [wheretostay](https://spreetshoogtecampsite.wheretostay.na/) *(un fragmento le atribuye
-  además el móvil +264 81 292 8525 ○, sin poder abrir la ficha)*. ⚠️ **Dos avisos antes de
-  pagar**: una fuente *([namibweb](https://www.namibweb.com/spreetshoogtefarm.htm))* lo marca
-  **«Closed down»** ◐ — **la primera pregunta es si está abierto** — y sigue la **trampa de
-  nombre**: junto al paso conviven **Spreetshoogte Campsite** *(el bueno)*, **Namibgrens Guest
-  Farm**, **Barkhan Dune Retreat** y un «Camp Gecko» — confirma con cuál hablas. **Tarifa: sigue
-  sin verificar** ❌ *(pistas: 150–300 ZAR/persona ○ del blog; fragmentos de ~N$120–150 ·
-  ~€6–7,5/persona ○ que se contradicen)*. Allí no consta tienda, restaurante ni datáfono ❌: se
-  paga en efectivo *(`01` §D1)*.
+  además el móvil +264 81 292 8525 ○, sin poder abrir la ficha)*.
+  - **✅ Resuelto (10/08): SÍ está abierto — el «Closed down» queda REFUTADO.** El aviso
+    procedía de una ficha vieja de *([namibweb](https://www.namibweb.com/spreetshoogtefarm.htm))*.
+    Lo contradicen tres señales convergentes de 2025–2026 ◐: TripAdvisor lo lista con
+    *«Updated 2026 Prices & Campground Reviews»*
+    *([ficha](https://www.tripadvisor.com/Hotel_Review-g2187009-d32863681-Reviews-Spreetshoogte_Campsite-Solitaire_Khomas_Region.html))*,
+    una reseña de 2025 lo llama *«favorite campsite in Namibia»*, y el sitio describe
+    **instalaciones recién construidas** *(«newly built facilities»)* en la **D1275**, a media
+    bajada del mirador, con acceso 2WD/4WD. *(Aviso de método: el proxy de red bloqueó la
+    descarga de las fichas primarias —barkhan.africa, tripadvisor, wheretostay, namibweb,
+    visitnamibia—, así que esto se apoya en extractos de buscador ◐, no en la página descargada.)*
+  - **Trampa de nombre resuelta ◐**: el camping «bueno» lo **opera Barkhan Dune Retreat**
+    *([barkhan.africa](https://www.barkhan.africa/spreetshoogte-campsite.php); su fauna la
+    documenta [Expert Africa](https://www.expertafrica.com/namibia/namib-naukluft-national-park/barkhan-dune-retreat))*
+    — ambos comparten el paso de Spreetshoogte sobre la **D1275**. **Namibgrens Guest Farm** es
+    el vecino distinto y hay un «Camp Gecko» aparte: confirma con cuál hablas. Instalaciones ◐:
+    duchas comunales, agua caliente por sistema *donkey*, 2 parcelas VIP con baño propio, parcelas
+    4 y 7 accesibles, sin electricidad en las parcelas *(solo luz solar en el bloque)*. Un canal
+    de reserva alternativo por wheretostay figura con 📞 **+264 83 000 0008** / 📧
+    **info@wheretostay.na** ◐.
+  - **Tarifa: sigue sin verificar** ❌ — no se pudo descargar ninguna página de precios
+    *(pistas que se contradicen: 150–300 ZAR/persona ○ del blog; fragmentos de ~N$120–150 ·
+    ~€6–7,5/persona ○)*. Allí no consta tienda, restaurante ni datáfono ❌: se paga en efectivo
+    *(`01` §D1)*.
 - **Windhoek — sáb 31 oct (D0) y vie 13 nov (D13)** — candidatos con camping verificado *(`01`
   §D0)*: **Urban Camp** *(Schanzen Road; piscina, bar, wifi, cajero)* — 📧 booking@urbancamp.net ·
   WhatsApp **+264 81 162 0761** · reserva por
@@ -273,7 +289,7 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] **Sesriem ×2** *(3–4 nov, dentro de la puerta)* *(§4)*
 - [ ] **Terrace Bay** *(7 nov — confirmación impresa)* *(§4)*
 - [ ] **Okaukuejo · Halali · Namutoni ×2** *(9–12 nov)* *(§4)*
-- [ ] **Spreetshoogte ×2** *(1–2 nov)* — confirmar que está abierto y el homónimo *(§5)*
+- [x] **Spreetshoogte ×2** *(1–2 nov)* — **abierto confirmado ◐** (2025–2026; «Closed down» refutado) y el homónimo aclarado: lo opera Barkhan Dune Retreat en la D1275 *(§5)*. Falta: cerrar la tarifa y la reserva
 - [ ] **Windhoek D0 y D13** *(Urban Camp o Arebbusch)* *(§5)*
 - [ ] **Walvis Bay ×2** *(Lagoon Chalets)* *(§5)*
 - [ ] **Hoada** *(8 nov)* *(§5)*
