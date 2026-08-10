@@ -267,8 +267,9 @@ flowchart LR
 - ⚖️ **El matiz que nivela los seguros sobre el papel**: el contrato estándar de N2Go permite
   cobrar el daño **sin contacto físico con terceros «al margen de los waivers»** *(cláusula
   10.2)*, mientras que la Opción 4 de Savanna **cubre el vuelco por escrito** *(negligencia
-  excluida en ambos)*. Es exactamente la pregunta que el `21` manda hacer por escrito antes de
-  pagar.
+  excluida en ambos)*. La matriz Gondwana lo escribe en claro en sus T&C generales: *«single
+  vehicle accident is often deemed as negligent … irrespective of the excess conditions»* ◐.
+  Es exactamente la pregunta que el `21` manda hacer por escrito antes de pagar.
 - 🚗 Lo demás, parejo: kilometraje ilimitado, 2 conductores y ~140 l de depósito los dos. Savanna
   garantiza **2 ruedas de repuesto** y **no entrega el tanque lleno** *(no tiene surtidor)*; en
   N2Go los conductores necesitan **23 años y 1 año de carnet** *(Savanna: 18+ y 2 años)* y el
@@ -282,7 +283,8 @@ mantuviera la diferencia. Con ~€80–120 por cabeza en juego y el D1 de rehén
 > [savannacarhire.com — ficha del grupo](https://www.savannacarhire.com.na/car-rental/1400669167/Toyota-Hilux-Double-Cab-4x4-Hilux-or-Ford) ·
 > [savannacarhire.com — reduced excess insurance](https://www.savannacarhire.com.na/reduced-excess-insurance) ·
 > [namibia2go.com — contrato estándar (PDF)](https://namibia2go.com/hubfs/Namibia2Go%20website/NAMIBIA2GO%20CAR%20RENTAL%20TERMS%20AND%20CONDITIONS.pdf) ·
-> [namibia2go.com — FAQ](https://namibia2go.com/frequently-asked-questions)
+> [namibia2go.com — FAQ](https://namibia2go.com/frequently-asked-questions) ·
+> [gondwana-collection.com — T&C generales del grupo (PDF)](https://8820531.fs1.hubspotusercontent-na1.net/hubfs/8820531/Gondwana%20Website/PDFs/Gondwana_General%20Terms%20and%20Conditions_GCN_GTC_N2G_GO2_SEPT2025.pdf)
 
 ---
 
