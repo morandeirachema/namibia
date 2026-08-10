@@ -4,7 +4,7 @@
 >
 > ✅ **Decidido: la ruta del norte —Variante E, con Etosha y sin el sur; 15 días de suelo, 14
 > noches— y las fechas del
-> vuelo de Lufthansa —cotizado, sin emitir—, 30 de octubre a 14 de noviembre.** Decisión del viajero, tomada a la vista de
+> vuelo de Lufthansa —cotizado entonces; emitido el 10/08 por €1.536 p.p.—, 30 de octubre a 14 de noviembre.** Decisión del viajero, tomada a la vista de
 > lo que hay debajo. **Esta ficha ya no pide nada**: se queda como registro de qué se comparó, qué se
 > descartó y por qué, para que dentro de un año se pueda reconstruir el razonamiento.
 >
@@ -141,9 +141,9 @@ tuvo delante al decidir: **no constaba hecha ninguna reserva.***
 
 - 🛏️ Ni coche, ni las **2 noches de Sesriem**, ni Terrace Bay, ni las 4 de Etosha *(`15` §lista
   maestra; `07`)*. Todo son precios cotizados o estimados, **ninguno pagado**.
-- ✈️ El vuelo tiene **precio real cotizado (€1.450 p.p. ◐, Oporto → Windhoek, 30 oct – 14 nov)**
-  pero **no consta emitido** *(`15`; `04`
-  todavía lo lista como pendiente)*. Sin billete no hay e-visa.
+- ✈️ El vuelo tenía **precio real cotizado (€1.450 p.p. ◐, Oporto → Windhoek, 30 oct – 14 nov)**
+  pero **no constaba emitido**. Sin billete no hay e-visa. *(Se emitió después, el 10/08, por
+  €1.536 p.p. — `02` §8.)*
 - ✈️ **Ese vuelo es el de Oporto, y trae cola** ◐: **Lufthansa, 30 oct – 14 nov**, una escala por
   sentido y **12h40 menos de avión** que el de A Coruña. **Aterriza el 31 de octubre**, así que da
   **un día más de suelo** — y obliga a adelantar el seguro un día y a renegociar el primer día de

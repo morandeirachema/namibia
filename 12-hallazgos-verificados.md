@@ -147,8 +147,8 @@ correcciones que más dinero mueven del dossier: en esta ruta son **7 unidades**
 
 En la primera pasada esto era el punto más flojo del dossier: no había tarifa fiable y la estimación
 se quedó **1,7 veces corta**. Se cerró después con una cotización real para las fechas exactas —
-**€1.450 por persona**—, que está en [`02-presupuesto`](02-presupuesto.md), y con el contexto de
-mercado en [`15`](15-huecos-cerrados.md).
+**€1.450 por persona, emitido finalmente en €1.536 el 10/08**—, que está en
+[`02-presupuesto`](02-presupuesto.md), y con el contexto de mercado en [`15`](15-huecos-cerrados.md).
 
 > **La lección que dejó, y que ordena el resto del dossier:** un hueco reconocido vale más que un
 > número plausible. **Los números plausibles se acaban usando para pagar.**
