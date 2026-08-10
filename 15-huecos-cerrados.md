@@ -321,8 +321,9 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   aeropuerto confirmado, precio pendiente ❌ — `21`)*: ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
   al parque a pernoctar)*, ni las cuatro de Etosha — **ni las DOS de Spreetshoogte** *(decididas el
   08/08; su hueco doble quedó en sencillo el 09/08: **contacto localizado** —
-  spreetshoogte@iway.na · +264 62 572 010 ◐, ver `21`— pero la **tarifa sigue sin verificar** ❌,
-  una fuente lo marca «closed down» ◐ y `01` añade un cuarto nombre a la trampa: «Camp Gecko»)*.
+  spreetshoogte@iway.na · +264 62 572 010 ◐, ver `21`— pero la **tarifa sigue sin verificar** ❌;
+  el «closed down» quedó **refutado el 10/08** ◐ y la trampa de homónimos, aclarada: **lo opera
+  Barkhan Dune Retreat** — «Camp Gecko» y Namibgrens son OTROS, `21` §5)*.
 - 🚗 **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, 15 días,
   aeropuerto → aeropuerto; el 31-oct fuera de temporada baja ❌ y la entrega EN el aeropuerto sin
   confirmar ❌ — `02` §2)*.
@@ -360,7 +361,8 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   **Avance del 09/08** *(los contactos, con URL, en `21`)*: **Urban Camp** reserva por NightsBridge
   y su propia web confirma que **no publica número** ✅; **Lagoon Chalets** tiene teléfono y un
   portal le publica **camping «desde R700» ≈ N$700 (~€35) para dos** ◐; y **Spreetshoogte** tiene
-  email y teléfono ◐ — con un aviso de «closed down» ◐ por confirmar. **Ninguna tarifa nueva
+  email y teléfono ◐ — y el aviso de «closed down» quedó **refutado el 10/08** ◐ *(abierto,
+  operado por Barkhan Dune Retreat — `21` §5)*. **Ninguna tarifa nueva
   verificada: los tres siguen en la estimación.**
 - 💳 **La fianza que retiene Namibia2Go** en la tarjeta — **PARCIALMENTE CERRADO ◐ (05/08), con un
   conflicto sin resolver**: la propia Namibia2Go se anuncia como **«No Deposit»** *(sin fianza, a
