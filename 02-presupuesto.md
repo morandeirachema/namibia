@@ -451,14 +451,44 @@ la mañana entera del primero y el día 14 completo.** Tres consecuencias, todas
 
 ### 🚗 Y el precio de salir de Oporto: **~270 km hasta el aeropuerto — en coche propio**
 
-**Decisión del viajero (09/08/2026): se va y se vuelve en coche propio.** Lo que queda por
-cotizar ❌: el **aparcamiento de larga estancia del aeropuerto Francisco Sá Carneiro** para los
-**17 días (30 oct – 15 nov)**, los **peajes** y el combustible del A Coruña ↔ Oporto. Con salida
-a las 16:10 se llega con margen; a la vuelta se aterriza a las **12:50 del día 15** con el coche
-esperando en el parking.
+**Decisión del viajero (09/08/2026): se va y se vuelve en coche propio.** Con salida a las 16:10 se
+llega con margen; a la vuelta se aterriza a las **12:50 del día 15** con el coche esperando en el
+parking. Los tres costes de salir de Oporto, cotizados el **10/08/2026** *(egress bloqueó abrir toda
+web para verificar la extracción, así que van en ◐/❌ — son candidatos con URL, no cifras cerradas;
+confírmalos en la web oficial antes de pagar)*:
 
-*(La alternativa archivada: autobús directo A Coruña → terminal con ALSA y FlixBus, ~3 h 43 y
-desde ~€17 por persona ◐ — sigue de plan B si el aparcamiento saliera caro.)*
+- 🅿️ **Aparcamiento de larga estancia** del aeropuerto Francisco Sá Carneiro. Los oficiales de larga
+  estancia más baratos son **P6 y P9 «Low Cost», a €5,50/día** *(descubiertos, 5–7 min a pie de la
+  terminal; el rango de los oficiales de larga estancia va de €5,50 a €16/día)* ◐. Para la estancia
+  **30 oct – 15 nov** *(~16–17 días de 24 h)* salen **~€88–94** ◐. Fuera del recinto, con lanzadera,
+  hay terceros **desde ~€3,33/día** ◐ *(Parkos)* — más baratos, pero con traslado y reserva previa.
+  Reserva online de los oficiales: `store.ana.pt` o **+351 229 410 787**.
+- 🛣️ **Peajes, ida y vuelta ≈ €40,80** ◐. En España, la **AP-9 A Coruña → Tui (frontera)** cuesta
+  **€20,40/trayecto** *(tarifa 2026, vehículo ligero)* ◐ → **€40,80** i/v. En Portugal, la **A28
+  Vigo ↔ Oporto es GRATUITA desde el 1 de enero de 2025** *(peaje suprimido; el ~€4–5 de la A28 que
+  aún circula por la web es anterior a esa fecha)* ◐ → **€0** el lado portugués. La bonificación de
+  ida y vuelta en <24 h de la AP-9 **no aplica** (van 17 días entre trayectos).
+- ⛽ **Combustible del coche propio A Coruña ↔ Oporto ≈ €50–55** ❌. ~270 km × 2 = **~540 km**; con un
+  consumo de **~6,5 l/100 km** y gasóleo a **~€1,45–1,55/l** salen ~35 l. **Los dos supuestos —el
+  consumo del coche y el precio del día— van sin verificar**: ajústalo a tu coche.
+
+**Total de salir de Oporto, la pareja ≈ ~€180–185** *(◐/❌ — la mayor parte, parking + peajes, es ◐;
+el combustible, ❌)*. Es un extra **fuera** del ~€3.811 por persona del presupuesto.
+
+```mermaid
+flowchart LR
+    A["Salir de Oporto<br/>ida y vuelta, la pareja"] --> B["COCHE PROPIO · decidido<br/>parking ~90 EUR<br/>peajes ~41 EUR<br/>combustible ~50 EUR<br/>= ~180 EUR"]
+    A --> C["BUS · plan B archivado<br/>ALSA / FlixBus directo<br/>~17 EUR pp, i/v los dos<br/>= ~68 EUR"]
+    B --> D["El coche cuesta ~115 EUR mas,<br/>pero lleva puerta a puerta<br/>todo el equipaje de camping<br/>y no depende de horarios"]
+    C --> D
+    style B fill:#2d6a4f,color:#fff
+    style C fill:#e9c46a,color:#000
+    style D fill:#1D1A15,color:#fff
+```
+
+*(El autobús directo A Coruña → terminal con ALSA / FlixBus, ~3 h 43 y desde ~€17 por persona ◐,
+queda de plan B: i/v para los dos ≈ ~€68, más barato pero sin la flexibilidad del coche con el
+equipaje. Decisión ya tomada: coche propio.)*
 
 ### ⚠️ Tres comprobaciones antes de pagar — *ya pagado el 10/08: repásalas AHORA en el localizador*
 
@@ -597,8 +627,9 @@ flowchart LR
 >
 > **Lo que todavía puede moverlo** *(ver §2, §7 y §8)*: **+€112,50 p.p.** si sale la **Comfort**
 > en vez de la Budget *(N$300/día × 15 días)* · el **precio final de la reserva del coche, en
-> trámite** *(el 31-oct fuera de temporada baja ❌)* ·
-> **+el traslado a Oporto** ida y vuelta y **+el día extra de seguro**, los dos ❌ sin cotizar.
+> trámite** *(el 31-oct fuera de temporada baja ❌)* · **+el traslado a Oporto** ida y vuelta
+> *(ya cotizado el 10/08 en ~€180–185 la pareja ◐/❌ — parking + peajes + combustible, ver §8)*
+> y **+el día extra de seguro** *(❌ sin cotizar)*.
 > **Cuenta ~€4.000 por persona para no llevarte sorpresas.**
 
 **Qué parte de este número es sólida: en §11, al final.**

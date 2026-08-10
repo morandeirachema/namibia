@@ -375,9 +375,24 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   reservar, si hay retención en tarjeta y de cuánto.** Aceptan todas las tarjetas salvo Diners y Amex.
 - 🛟 La **opción de búsqueda y salvamento del IATI Estrella: ❌ sin cotizar** *(el Mochilero la
   trae de serie; pedirla por escrito está en el README, punto 6)*.
-- 🚗 El **traslado A Coruña ↔ Oporto — decidido (09/08): en coche propio**. Sin cotizar ❌: el
-  **aparcamiento de larga estancia** del aeropuerto (30 oct – 15 nov) y los peajes *(el bus
-  directo, ~€17/persona y trayecto ◐, queda de plan B — `02` §8)*.
+- 🚗 El **traslado A Coruña ↔ Oporto — decidido (09/08): en coche propio**. **Cotizado el 10/08 en
+  ~€180–185 la pareja ◐/❌** *(egress bloqueó abrir las webs oficiales, así que es candidato con URL,
+  no cifra cerrada — confirmar antes de pagar)*:
+  - **Parking de larga estancia** del aeropuerto Francisco Sá Carneiro: los oficiales más baratos son
+    **P6 y P9 «Low Cost», €5,50/día** ◐ *(rango de los de larga estancia €5,50–16/día)* → **~€88–94**
+    los 16–17 días (30 oct – 15 nov). Fuera del recinto, con lanzadera, desde ~€3,33/día ◐ *(Parkos)*.
+    Reserva oficial en `store.ana.pt` / +351 229 410 787. — *WebSearch 10/08/2026; `store.ana.pt` y
+    `parkos.com` no descargables (egress).*
+  - **Peajes ≈ €40,80 i/v** ◐: **AP-9 A Coruña → Tui (frontera) €20,40/trayecto** *(tarifa 2026,
+    vehículo ligero)* → €40,80 i/v; la **A28 Vigo ↔ Oporto es gratuita desde el 1 de enero de 2025**
+    *(peaje suprimido; el ~€4–5 que aún circula es anterior)* → €0 en Portugal. La bonificación de
+    ida y vuelta en <24 h de la AP-9 no aplica (17 días). — *Fuente legal citable no descargable:
+    Ministerio de Transportes, tarifas AP-9 «Ferrol–frontera portuguesa» 2026 (PDF en
+    `cdn.transportes.gob.es`).*
+  - **Combustible ≈ €50–55** ❌: ~540 km i/v, ~6,5 l/100 km, gasóleo ~€1,45–1,55/l — **los dos
+    supuestos sin verificar**.
+  - *(El bus directo A Coruña → terminal, ~€17/persona y trayecto ◐, queda de plan B: i/v los dos
+    ≈ ~€68 — `02` §8.)*
 - 🛢️ La **capacidad real del depósito del Hilux de Namibia2Go**: **❌ sin confirmar** — y de ella
   cuelga la aritmética del bucle Henties Bay → Kamanjab (~740 km, 81–96 l — `07`). Pregunta de
   una línea al reservar.
