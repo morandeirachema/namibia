@@ -205,6 +205,9 @@ el viaje sigue; si se pierde la cabina, no.
       NWR de interior ◐ — `18` §5; el powerbank cubre Spreetshoogte, Hoada y las tomas rotas de
       Sesriem)*
 - [ ] **Cables de carga ×2 de cada tipo** ○ — el polvo mata conectores
+- [ ] **Funda para el teléfono ×1 p.p.** ○ — que aguante polvo y golpes: el móvil vive quince días
+      entre grava, arena y el salpicadero *(para el día de niebla y salitre de la costa ya está la
+      bolsa estanca)*
 - [ ] **Frontal ×1 por persona, con modo rojo** ○ — letrina a las 3 AM, montar la tienda al
       anochecer y el camino a la charca; **en la plataforma de la charca, apagado del todo** ◐
       *(la norma documentada es más dura que el modo rojo — `18` §8)*. **+1 juego de pilas de
