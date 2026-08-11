@@ -138,6 +138,13 @@ estación real (Walvis Bay 25,0 ✅)** y no el reanálisis. Lo que ERA5 sí conf
 que la capa marina la mantiene fría y estable *(máximos de la serie que no pasan de ~25 °C)*, en
 línea con la niebla y el viento que ya se anotaban.
 
+**Matiz anotado en el barrido del 11/08 y sin resolver**: las fuentes del *pueblo* de Walvis Bay
+dan máximas de noviembre de **19–21 °C con un 88 % de humedad** — y su mes más cálido, febrero,
+promedia 20,3 *([walvisbaynamibia.com](https://www.walvisbaynamibia.com/climate-weather-overview/)
+· [weatherspark/MERRA-2](https://weatherspark.com/y/76231/Average-Weather-in-Walvis-Bay-Namibia-Year-Round))* — frente a los 25,0 ✅ de la estación GSOD. Huele a emplazamiento *(¿estación tierra
+adentro frente a paseo marítimo?)*, pero no está comprobado. Para el equipaje da igual — la costa
+es la zona fresca y húmeda en las dos lecturas — y el `05` lleva la horquilla entera (19–25).
+
 ---
 
 ## 🌬️ Viento en la costa — y no es lo que su fama sugiere ✅

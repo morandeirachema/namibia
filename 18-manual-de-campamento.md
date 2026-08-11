@@ -67,6 +67,10 @@ de carcasa rígida: **1 minuto** de montaje frente a ~5* ✅*)*.
   *(está hasta en su ficha de la [guía de fauna](guia-fauna-etosha.pdf))*, y lo que huele, atrae.
 - **Escalera: pisada firme y linterna colgada** ○ — el baño de las 3 a. m. con 18 °C ✅ no es
   problema; a oscuras y con prisa, sí.
+- **Tormenta eléctrica = a la cabina** ◐ — noviembre estrena las tormentas de Etosha *(`05`)*, y
+  la tienda de techo **no protege del rayo**: se cierra y se espera (o se duerme) en la cabina,
+  que sí hace de jaula *([Campwerk](https://www.campwerk.co.uk/roof-tent-safe-thunderstorm-storm/)
+  · [OFM 4x4](https://ofm4x4.co.uk/blog/are-rooftop-tents-safe-in-thunderstorms))*.
 
 ## 3. El orden del coche es la mitad del confort
 
@@ -122,8 +126,11 @@ vive: **de la batería del coche** — y ahí está el único riesgo real ❌:
   para la nevera? ¿Hay **corte por voltaje bajo** que proteja el arranque? ¿Cuántas horas aguanta
   parada? Son tres preguntas de un minuto y deciden cómo se duerme.
 - **Regla mientras no haya respuesta** ○: la nevera vive del motor de día, y de noche —si la
-  parcela tiene enchufe— del poste. **NWR anuncia punto de luz en las parcelas de sus campamentos
-  grandes** ◐; en Hoada y los campamentos comunitarios, da por hecho que no ○.
+  parcela tiene enchufe— del poste. **Cerrado el 11/08 ◐: toma de 220 V EN la parcela en
+  Okaukuejo, Halali, Namutoni y Sesriem** *([okaukuejo](https://www.nwrnamibia.com/okaukuejo-camping.htm) · [halali](https://etoshanationalpark.com.na/accommodation/inside-the-park/halali-campsite/) · [namutoni](https://www.nwrnamibia.com/namutoni-camping.htm) ·
+  [sesriem](https://www.sossusvlei.org/accommodation/sesriem-camp-site/) — en Sesriem, con avisos
+  de viajeros de tomas averiadas ○: pedir parcela con toma que funcione)*; en Hoada y los
+  campamentos comunitarios, da por hecho que no ○.
 - **Lo que la mata** ○: abrirla como si fuera la de casa, el sol directo sobre ella y meter la
   compra caliente. Las latas entran frías de la primera nevera de súper o no entran.
 - **Estrategia de carga** ○: lo congelado el primer día hace de acumulador; lo del final del viaje,
@@ -162,8 +169,10 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 
 ## 8. Etiqueta de campamento
 
-- **En la charca iluminada, silencio y luz roja** ○ — se va andando desde la parcela ✅ y lo que
-  se ve depende de lo que NO se oiga. El flash, ni intentarlo ○.
+- **En la charca iluminada, silencio y TODO apagado** ◐ — se va andando desde la parcela ✅ y lo
+  que se ve depende de lo que NO se oiga. La norma documentada es más dura que la «luz roja» que
+  decía este manual: en la plataforma, **ni linterna, ni flash, ni pantalla de móvil** — el rojo
+  del frontal es para el camino *([guía de Etosha](https://etoshanationalpark.com.na/wildlife/etosha-photography-guide/) · [okaukuejo](https://www.etoshanationalparknamibia.com/okaukuejo-waterhole/))*.
 - **20 km/h dentro del campamento** ✅ *(reglamento NWR/MEFT)*.
 - **Música, a la altura de tu mesa** ○: el campamento entero está cenando bajo el mismo cielo.
 - **El braai se comparte** ○: la distancia social namibia se mide en brasas — un «join us» a los
@@ -175,8 +184,8 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 
 **La batería de la nevera** *(¿dual? ¿corte por voltaje?)* ❌ — va en las preguntas de la entrega
 *(el hornillo, que le hacía compañía aquí, consta en la ficha desde el 10/08 ✅ — §4)* ·
-**enchufe por parcela, campamento a campamento** ❌ —
-NWR lo anuncia en los grandes ◐ y no hay lista fina · **el precio de la leña** ❌ · **la
+**enchufe por parcela, campamento a campamento** — **cerrado el 11/08 ◐** *(§5: toma en los
+cuatro NWR de interior; Hoada y Spreetshoogte, sin ella)* · **el precio de la leña** ❌ · **la
 potabilidad camping a camping** ❌ — se pregunta en cada recepción. Ninguno cambia una reserva:
 son preguntas de la entrega del coche y de cada llegada.
 

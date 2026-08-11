@@ -77,7 +77,9 @@ esperando: no le cruces por delante ni te pares donde le tapas.</li>
 al mismo punto, o un chillido de francolín, valen más que rastrear el horizonte: el
 depredador lo delatan ellos.</li>
 <li><strong>De noche, las tres charcas iluminadas.</strong> Okaukuejo, Halali y Namutoni las
-tienen a un paseo de la parcela, y son gratis: la del rinoceronte es la de Okaukuejo.</li>
+tienen a un paseo de la parcela, y son gratis: la del rinoceronte es la de Okaukuejo. En la
+plataforma, <strong>todo apagado</strong> ◐ — ni linterna ni pantalla de móvil: la única luz es
+la del recinto, y el rojo del frontal se queda para el camino.</li>
 </ul>
 
 <h2>Y esto no es consejo: es norma</h2>
