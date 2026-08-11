@@ -83,7 +83,7 @@ el viaje sigue; si se pierde la cabina, no.
 
 - [ ] **Zapatilla de trail o bota ligera ×1 par, ya domada** ○ — Big Daddy, Sesriem Canyon,
       Twyfelfontein y la cascada del Uniab
-- [ ] **Sandalia de trekking ×1 par** ○ — conducir y campamento
+- [ ] **Sandalias barefoot Saguaro ×1 par** ○ — conducir y campamento
 - [ ] **Chanclas ×1 par** ○ — duchas compartidas
 - [ ] **Plantillas o calcetines de repuesto** para la arena ○
 

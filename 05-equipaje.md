@@ -135,8 +135,9 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   dogma, pero el blanco se ve a un kilómetro y el negro da calor. Y el **buff** no es un accesorio:
   es la herramienta oficial contra el olor de Cape Cross ✅.
 - **Dos calzados y unas chanclas** ○: zapatilla de trail **ya domada** para Big Daddy, Sesriem
-  Canyon, Twyfelfontein y la cascada del Uniab (`10`); sandalia de trekking para conducir y para el
-  campamento; chanclas para las duchas compartidas. La arena a mediodía **quema**: nunca descalzo ○.
+  Canyon, Twyfelfontein y la cascada del Uniab (`10`); sandalias barefoot Saguaro para conducir y
+  para el campamento; chanclas para las duchas compartidas. La arena a mediodía **quema**: nunca
+  descalzo ○.
 
 ## 🚫 Las trampas — lo que se queda en casa
 - ❌ Plumas, térmicos, gorro y guantes ◐ (`04`) — peso muerto
