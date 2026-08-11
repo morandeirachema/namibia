@@ -251,6 +251,8 @@ cacharros.** Lo que sí sube al petate:
 - [ ] **Termo ×1** ◐ — el café del amanecer en el mirador y las esperas de charca; es lo único de
       cocina que el menaje del coche no trae *([Bushlore](https://bushlore.com/wp-content/uploads/2018/05/Self-Drive-Safari-Planning-Guide.pdf) y Gondwana lo piden expresamente)*
 - [ ] **Multiherramienta o navaja ×1** — **facturada, jamás en cabina** ○
+- [ ] **Silbato ×1** ○ — pesa nada y se oye donde la voz no llega *(ninguna de las listas del
+      barrido del 11/08 lo pedía: entra por decisión propia)*
 - [ ] **Bolsa estanca ×1** para la electrónica ○
 
 ## 💧 En el coche, todos los días
