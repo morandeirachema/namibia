@@ -1914,6 +1914,222 @@
     }
    }
   },
+  "charran-comun": {
+   "sci": "Sterna hirundo",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 12639,
+     "oct_nov": 3582
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "gaviota-cocinera": {
+   "sci": "Larus dominicanus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 7439,
+     "oct_nov": 1752
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "estornino-naburup": {
+   "sci": "Onychognathus nabouroup",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 115,
+     "oct_nov": 31
+    },
+    "costa": {
+     "registros": 98,
+     "oct_nov": 12
+    },
+    "namib": {
+     "registros": 1571,
+     "oct_nov": 453
+    },
+    "damaraland": {
+     "registros": 1424,
+     "oct_nov": 312
+    }
+   }
+  },
+  "sison-damara": {
+   "sci": "Heterotetrax rueppelii",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 5,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 21,
+     "oct_nov": 5
+    },
+    "namib": {
+     "registros": 896,
+     "oct_nov": 312
+    },
+    "damaraland": {
+     "registros": 499,
+     "oct_nov": 106
+    }
+   }
+  },
+  "avutarda-namibia": {
+   "sci": "Neotis ludwigii",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 173,
+     "oct_nov": 39
+    },
+    "costa": {
+     "registros": 41,
+     "oct_nov": 9
+    },
+    "namib": {
+     "registros": 530,
+     "oct_nov": 173
+    },
+    "damaraland": {
+     "registros": 157,
+     "oct_nov": 27
+    }
+   }
+  },
+  "alondra-dunas": {
+   "sci": "Calendulauda erythrochlamys",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 656,
+     "oct_nov": 177
+    },
+    "namib": {
+     "registros": 522,
+     "oct_nov": 134
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "lorito-ruppell": {
+   "sci": "Poicephalus rueppellii",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 32,
+     "oct_nov": 5
+    },
+    "costa": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 537,
+     "oct_nov": 134
+    }
+   }
+  },
+  "toco-angoleno": {
+   "sci": "Tockus monteiri",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 354,
+     "oct_nov": 71
+    },
+    "costa": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 17,
+     "oct_nov": 2
+    },
+    "damaraland": {
+     "registros": 587,
+     "oct_nov": 128
+    }
+   }
+  },
+  "inseparable-namibia": {
+   "sci": "Agapornis roseicollis",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 47,
+     "oct_nov": 11
+    },
+    "costa": {
+     "registros": 298,
+     "oct_nov": 57
+    },
+    "namib": {
+     "registros": 344,
+     "oct_nov": 44
+    },
+    "damaraland": {
+     "registros": 507,
+     "oct_nov": 116
+    }
+   }
+  },
   "vibora-bufadora": {
    "sci": "Bitis arietans",
    "clase": "Squamata",
@@ -2250,6 +2466,54 @@
     }
    }
   },
+  "gecko-diurno": {
+   "sci": "Rhoptropus afer",
+   "clase": "Squamata",
+   "clase_clave": 11592253,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 338,
+     "oct_nov": 50
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 4,
+     "oct_nov": 0
+    }
+   }
+  },
+  "lagarto-cuna": {
+   "sci": "Meroles cuneirostris",
+   "clase": "Squamata",
+   "clase_clave": 11592253,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 414,
+     "oct_nov": 24
+    },
+    "namib": {
+     "registros": 244,
+     "oct_nov": 55
+    },
+    "damaraland": {
+     "registros": 1,
+     "oct_nov": 0
+    }
+   }
+  },
   "lobo-marino": {
    "sci": "Arctocephalus pusillus",
    "clase": "Mammalia",
@@ -2287,6 +2551,30 @@
     "costa": {
      "registros": 92,
      "oct_nov": 26
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "delfin-mular": {
+   "sci": "Tursiops truncatus",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 82,
+     "oct_nov": 31
     },
     "namib": {
      "registros": 0,
@@ -2342,6 +2630,30 @@
     },
     "damaraland": {
      "registros": 62,
+     "oct_nov": 13
+    }
+   }
+  },
+  "rata-dassie": {
+   "sci": "Petromus typicus",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 9,
+     "oct_nov": 2
+    },
+    "costa": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 21,
+     "oct_nov": 2
+    },
+    "damaraland": {
+     "registros": 59,
      "oct_nov": 13
     }
    }

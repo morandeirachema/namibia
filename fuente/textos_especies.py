@@ -32,7 +32,7 @@ ID = {
  "carraca-lila": "La postal de África: pecho lila, garganta azul y alas turquesa que estallan al volar. Se posa a la vista, en un poste o una rama seca.",
  "calao-amarillo": "Pico grande, curvo y **amarillo**. Confiado y muy presente en los campamentos, donde vigila las mesas del desayuno.",
  "calao-rojo": "Idéntico en forma al anterior, pero con el pico **rojo**. Y ojo: aquí «cálao rojo» son DOS especies casi gemelas que conviven en el eje — **ojo amarillo** = el sureño (esta ficha); **ojo oscuro y cara blanca** = el cálao damara, casi endémico. Hacia Namutoni, mayoría de sureños.",
- "tejedor-republicano": "Se ve **el nido antes que el pájaro**: pajares colectivos gigantes que engullen un árbol o un poste de la luz y que ocupan generaciones enteras.",
+ "tejedor-republicano": "Se ve **el nido antes que el pájaro**: pajares colectivos gigantes que engullen un árbol o un poste de la luz y que ocupan generaciones enteras. *(Los nidos pequeños, esféricos y colgantes de los árboles de los campamentos son de otro: el tejedor enmascarado.)*",
  "aguila-marcial": "La mayor águila de África: capucha oscura y pecho blanco moteado. Suele estar posada, inmóvil, en lo alto de una acacia.",
  "buitre-dorsiblanco": "El buitre común de la sabana. El dorso pálido que le da nombre solo se le ve bien en vuelo.",
  "flamenco-enano": "Más pequeño y más intensamente rosa que el común, con el pico oscuro de lejos. Todo depende de que haya agua: sin pan inundada, no hay flamencos.",
@@ -58,7 +58,7 @@ ID = {
  "agama-namibia": "El macho no se puede pasar por alto: **cabeza y cuello naranja encendido** sobre cuerpo azul violáceo. Toma el sol en lo alto de los peñascos de granito.",
  "varano-roca": "Lagarto grande y robusto, de lengua bífida, que se ve cruzando pistas o rondando las charcas. Inofensivo si no lo arrinconas.",
  "tortuga-leopardo": "La tortuga terrestre grande del sur de África, con el caparazón moteado como un felino. **Cruza las carreteras muy despacio**: es de lo que más se atropella, así que ojo al asfalto.",
- "lagarto-pala": "El lagarto de las dunas. El hocico en forma de pala le sirve para **«nadar» dentro de la arena**, y hace el baile térmico: levanta las patas por parejas para no quemarse.",
+ "lagarto-pala": "El lagarto de la **ladera de deslizamiento** de la duna. El hocico en forma de pala le sirve para **«nadar» dentro de la arena**, y hace el baile térmico: levanta las patas por parejas para no quemarse. *(El que veas abajo, entre las matas, es su primo de nariz de cuña — ficha siguiente.)*",
  # --- COSTA, ROCA Y ARENA ---
  "lobo-marino": "En **Cape Cross** hay una de las mayores colonias del mundo: decenas de miles a la vista y oyéndose desde lejos. Aviso serio: **el olor es parte de la visita** — llevad pañuelo.",
  "delfin-heaviside": "Pequeño y rechoncho, con el dorso oscuro en forma de cono. **Endémico de la corriente de Benguela**: no vive en ninguna otra parte del mundo. Salta girando sobre sí mismo.",
@@ -118,4 +118,20 @@ ID = {
  "escinco-arboricola": "El lagarto diurno de los campamentos: liso, brillante, con **rayas claras** a lo largo del cuerpo moteado. Corretea por troncos, muretes y suelos a plena luz. En el Kalahari es famoso por instalarse en los nidos del tejedor republicano.",
  "gecko-fischer": "Nocturno, de **ojos grandes anaranjados** y piel granujienta con bandas pardas. De día, en grietas; de noche sale a la vista sobre rocas y muros a cazar insectos. Inofensivo — déjalo trabajar.",
  "galapago-africano": "La tortuga **de agua** de las charcas: caparazón pardo aplanado y cabeza moteada que asoma como un periscopio. Toma el sol en el borde, y en Etosha está documentada cazando en grupo **quéleas** que bajan a beber — arrastrándolas al fondo.",
+
+ # --- Ampliacion del 11/08: el barrido completo de las otras tres zonas ---
+ "delfin-mular": "El delfín grande y gris de aleta curvada — 3 metros frente al 1,7 del Heaviside, que la lleva triangular. En la bahía **se reparten el agua por profundidades**: el mular pega a la costa, el Heaviside más afuera.",
+ "rata-dassie": "Parece una ardilla a la que la cola no le llegó a plumero — y es **la única especie viva de toda su familia**. Diurna, tomando el sol en las peñas; el cráneo aplanado y las costillas flexibles le dejan **colarse por grietas imposibles**.",
+ "charran-comun": "Esbelto y pálido, de vuelo elástico, con **gorra negra incompleta y frente blanca** en estas fechas *(es su plumaje de invierno)*. No cría aquí: **viene de Europa a pasar el verano austral**, y viene en masa.",
+ "gaviota-cocinera": "La gaviota **grande, de dorso y alas negras** y pico amarillo con punto rojo. La otra del muelle —pequeña, pálida, de pico oscuro— es la de Hartlaub: verlas juntas es la comparación hecha.",
+ "estornino-naburup": "Negro brillante con el **ojo naranja encendido** y una **ventana clara en el ala** que estalla al volar. Confiado hasta el descaro donde hay gente: merodea picnics y parrillas.",
+ "sison-damara": "Sisón pálido del desierto, con **línea negra bajando por el cuello** en el macho. Casi endémico de Namibia y el suroeste de Angola. Anda por la grava **en parejas**, con paso lento — y grita al amanecer.",
+ "avutarda-namibia": "Avutarda grande de **nuca parda y cuello gris**, caminando despacio por las llanuras de grava. **En Peligro**: su gran amenaza son los tendidos eléctricos, con los que choca en vuelo.",
+ "alondra-dunas": "Alondra rojiza como su duna, de pecho apenas rayado, correteando entre las matas de hierba de la arena. Sin marcas llamativas — la gracia es otra: **casi toda su especie vive dentro de Namibia**.",
+ "lorito-ruppell": "Loro pequeño y **gris oscuro** con los hombros amarillos y el ojo rojo — y el dimorfismo al revés: **la del vientre y trasero azules es la hembra**. Se delata por el chillido en los cauces arbolados.",
+ "toco-angoleno": "Toco de **pico rojo largo**, cabeza oscura, vientre blanco y alas sembradas de gotas blancas. Casi endémico, y **el único de su familia que come solo insectos**: por eso puede vivir donde no hay fruta.",
+ "inseparable-namibia": "Loro diminuto **verde con la cara rosa**, en bandadas chillonas por los roquedos. Casi endémico. Anida donde nadie: **dentro de los pajares del tejedor republicano** — el inquilino de la ficha del tejedor.",
+ # --- REPTILES anadidos el 11/08 ---
+ "gecko-diurno": "La rareza: un **gecko que cambió la noche por el día** —la diurnidad evolucionó en su género— y corre por las rocas de la costa de la niebla. Pálido, de ojos grandes, siempre al sol.",
+ "lagarto-cuna": "El lagarto que de verdad te cruzas en Sossusvlei: vive **abajo, en la base vegetada de la duna** —donde caminas tú—, esprintando de mata en mata, gris arena con motas claras y flancos punteados. El hocico acaba en cuña, no en pala.",
 }

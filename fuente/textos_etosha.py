@@ -87,6 +87,21 @@ DONDE = {
   "escinco-arboricola": "Los recintos de los campamentos, de día: hay observaciones georreferenciadas dentro de **Okaukuejo y Namutoni**. Troncos, muretes y suelo.",
   "gecko-fischer": "De noche en el **recinto de Okaukuejo**, donde se concentran las observaciones recientes. Su gemelo *C. turneri* no tiene ni un registro en el eje: el gecko grande que veáis es este.",
   "galapago-africano": "Las charcas permanentes. La caza de quéleas se documentó en **Nuamses**, al norte de Halali *(unas 30 en dos horas, 26/11/1997)*, y hay observaciones recientes en Halali. Buscad la cabeza-periscopio o el caparazón al sol en el borde.",
+
+  # --- Ampliacion del 11/08: las otras tres zonas de la ruta ---
+  "delfin-mular": "El propio **crucero de la bahía (D6)**: los operadores lo citan entre los habituales — sin la garantía del Heaviside, que es el fiable. Es la población residente que estudia el Namibian Dolphin Project desde 2008.",
+  "rata-dassie": "**Twyfelfontein (D8)**: las peñas del propio yacimiento, donde se concentran las observaciones — y los roquedos de la escarpa: también está citada en el paso de Spreetshoogte (D1–D2).",
+  "charran-comun": "La **laguna de Walvis Bay (D5–D6)**, a miles: llegan de Europa en septiembre-octubre, justo antes que vosotros.",
+  "gaviota-cocinera": "El muelle y la laguna (D5–D6), revoloteando el barco junto a la de Hartlaub.",
+  "estornino-naburup": "Los aparcamientos y picnics de **Sesriem/Sossusvlei (D3–D4)** —unos 200 por viaje cuentan los tours— y los acantilados de Damaraland (D8), donde cría junto a los inseparables.",
+  "sison-damara": "La llanura de grava de la **carretera Sesriem→Sossusvlei (D3–D4)**: los tours lo anotan «junto a la pista», en parejas y tríos — también en noviembre.",
+  "avutarda-namibia": "Las mismas llanuras del D3–D4, caminando lejos: los tours de noviembre la encuentran en la salida matinal a Sossusvlei.",
+  "alondra-dunas": "Las **dunas con hierba camino de Sossusvlei (D4)**: Elim Dune es el sitio clásico, pero los tours recientes la sacaron más adelante, en las dunas rojas de la pista. Andando y con paciencia.",
+  "lorito-ruppell": "Los **cauces arbolados de Damaraland (D8)**: citado en el propio cauce del Aba Huab, junto al campamento comunitario de Twyfelfontein.",
+  "toco-angoleno": "Su casa es la **escarpa rocosa (D8)**: Twyfelfontein y Grootberg. En Etosha solo asoma por los cerros del oeste — fuera de vuestro eje.",
+  "inseparable-namibia": "Roquedos de **Damaraland (D8)**, en colonias junto al estornino Naburup — y en los pajares del tejedor republicano: la ficha del tejedor ya los citaba de inquilinos.",
+  "gecko-diurno": "Las rocas de la **costa de la niebla (D7)**, en las paradas entre Swakopmund y Cape Cross. De día — que es su rareza.",
+  "lagarto-cuna": "La **base de las dunas de Sossusvlei (D4)**, entre las matas — exactamente por donde se camina hacia Big Daddy y Deadvlei.",
 }
 
 FUENTES_ETOSHA = [
@@ -124,5 +139,23 @@ FUENTES_ETOSHA = [
   "camp», y la mangosta, fiable en el Dik-dik Drive (informes de mammalwatching.com, 2012). El "
   "escinco y los nidos de tejedor: Rymer, Thomson &amp; Whiting 2014, <i>Austral Ecology</i> — "
   "estudio del Kalahari, no de Etosha, y así se cuenta.",
+  "<b>Las de las otras zonas (añadidas el 11/08):</b> mular, «regularly seen» en los cruceros "
+  "(namibiancharters.com) y estudiado por el Namibian Dolphin Project (seasearch.co.za); sisón "
+  "de Damaraland «a pair near the road at Sossusvlei» y estornino Naburup «about 200» (listas "
+  "de tour de Field Guides 2017/2023); avutarda de Namibia y alondra de las dunas, en el "
+  "informe de noviembre de 2023 de Birding Ecotours; lorito de Rüppell y toco angoleño en el "
+  "cauce del Aba Huab y Twyfelfontein (birdtours.co.uk, «Namibia's endemics»); rata dassie "
+  "fiable en Twyfelfontein y Spreetshoogte (Rockjumper, «The Dassie Rat»; 38 obs. iNaturalist "
+  "a &lt;5 km del yacimiento); inseparable anidando en nidos de tejedor (Animal Diversity Web "
+  "y <i>Ostrich</i> 78, 2007).",
+  "<b>Los dos lagartos de la duna:</b> la partición de hábitat —anchietae en la ladera de "
+  "deslizamiento, cuneirostris en la base vegetada— está medida en la tesis de Iiyambo "
+  "(Univ. de Pretoria, 2018, dir. Chimimba), con el 49–50 % de los cuneirostris en la base "
+  "con matas. El gecko diurno: la vuelta a la diurnidad de <i>Rhoptropus</i> está publicada "
+  "en Gamble et al. 2015 (<i>Biol. J. Linn. Soc.</i> 115) y Birn-Jeffery &amp; Higham 2016 "
+  "(<i>J. Exp. Biol.</i> 219), con ejemplares de Swakopmund.",
+  "<b>La laguna de Walvis Bay:</b> Ramsar desde 1995 y «el humedal costero más importante del "
+  "África austral en número de aves» (Simmons et al. 1998); conteos desde 1983, con récord de "
+  "242.000 aves en 2004 — Bridgeford 2013, <i>Mitteilungen</i> 54 (PDF en the-eis.com).",
   "<b>Sin dato (y no se rellena):</b> la hora punta nocturna del rinoceronte en Okaukuejo, el número absoluto de rinocerontes del parque, la orientación solar de cada charca y la frecuencia real de la hiena parda.",
 ]

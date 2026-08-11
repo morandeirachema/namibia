@@ -254,6 +254,24 @@ AVES = [
      '127 African red-eyed bulbul in Namib-Naukluft National Park Photo by Giles Laurent.jpg'),
     ('turdoide-caricalvo', 'Turdoide caricalvo', 'Bare-cheeked babbler', 'Turdoides gymnogenys',
      'Bare-cheeked Babbler.jpg'),
+    ('charran-comun', 'Charrán común', 'Common tern', 'Sterna hirundo',
+     'Sterna hirundo -Bojuru, Rio Grande do Sul, Brasil-8.jpg'),
+    ('gaviota-cocinera', 'Gaviota cocinera', 'Kelp gull', 'Larus dominicanus',
+     'Cape (kelp) gull-3327 - Flickr - Ragnhild & Neil Crawford.jpg'),
+    ('estornino-naburup', 'Estornino Naburup', 'Pale-winged starling', 'Onychognathus nabouroup',
+     '142 Pale-winged starling in Twyfelfontein Photo by Giles Laurent.jpg'),
+    ('sison-damara', 'Sisón de Damaraland', "Rüppell's korhaan", 'Heterotetrax rueppelii',
+     "Rüppell's korhaan (Eupodotis rueppellii rueppellii) male.jpg"),
+    ('avutarda-namibia', 'Avutarda de Namibia', "Ludwig's bustard", 'Neotis ludwigii',
+     'Neotis ludwigii.jpg'),
+    ('alondra-dunas', 'Alondra de las dunas', 'Dune lark', 'Calendulauda erythrochlamys',
+     'Dune lark-3947 - Flickr - Ragnhild & Neil Crawford.jpg'),
+    ('lorito-ruppell', 'Lorito de Rüppell', "Rüppell's parrot", 'Poicephalus rueppellii',
+     "Rüppell's parrot (Poicephalus rueppellii) female.jpg"),
+    ('toco-angoleno', 'Toco angoleño', "Monteiro's hornbill", 'Tockus monteiri',
+     'Tockus monteiri (606), crop.jpg'),
+    ('inseparable-namibia', 'Inseparable de Namibia', 'Rosy-faced lovebird', 'Agapornis roseicollis',
+     '087 Rosy-faced lovebird couple cuddling in Damaraland Photo by Giles Laurent.jpg'),
 ]
 
 REPTILES = [
@@ -285,6 +303,10 @@ REPTILES = [
      'Chondrodactylus-laevigatus.jpg'),
     ('galapago-africano', 'Galápago africano o tortuga de escudo', 'African helmeted turtle', 'Pelomedusa subrufa',
      'Pelomedusa subrufa 188270144.jpg'),
+    ('gecko-diurno', 'Gecko diurno del Namib', 'Namib day gecko', 'Rhoptropus afer',
+     'Rhoptropus afer 345390145.jpg'),
+    ('lagarto-cuna', 'Lagarto de nariz de cuña', 'Wedge-snouted sand lizard', 'Meroles cuneirostris',
+     'Meroles cuneirostris 345390278.jpg'),
 ]
 
 COSTA = [
@@ -292,10 +314,14 @@ COSTA = [
      'Arctocephalus pusillus - SE Tasmania.jpg'),
     ('delfin-heaviside', 'Delfín de Heaviside', "Heaviside's dolphin", 'Cephalorhynchus heavisidii',
      'Dolphins at Lüderitz, Namibia (3144863196).jpg'),
+    ('delfin-mular', 'Delfín mular', 'Bottlenose dolphin', 'Tursiops truncatus',
+     '010 Atlantic bottlenose dolphin jumping at Pelican point Photo by Giles Laurent.jpg'),
     ('ballena-jorobada', 'Ballena jorobada', 'Humpback whale', 'Megaptera novaeangliae',
      '001 Humpback whale breaching in Ballena Marine National Park Photo by Giles Laurent.jpg'),
     ('daman', 'Damán roquero', 'Rock hyrax', 'Procavia capensis',
      'Rock hyrax Serengeti National Park.jpg'),
+    ('rata-dassie', 'Rata dassie o rata de las rocas', 'Dassie rat', 'Petromus typicus',
+     '141 Dassie rat in Twyfelfontein Photo by Giles Laurent.jpg'),
     ('ardilla-terrestre', 'Ardilla terrestre del Cabo', 'Cape ground squirrel', 'Xerus inauris',
      'Cape ground squirrel, Xerus inauris, at Krugersdorp Game Reserve, Gauteng, South Africa (27410204561).jpg'),
 ]

@@ -1,7 +1,7 @@
-# Cuantos quedan. Solo las especies con una cifra publicada que se pueda citar: diez de
-# ciento dos. Para el resto de Etosha NO hay censo publico reciente por especie, y
+# Cuantos quedan. Solo las especies con una cifra publicada que se pueda citar: trece de
+# ciento quince. Para el resto de Etosha NO hay censo publico reciente por especie, y
 # las cifras redondas que repiten las webs de safaris ("20.000 cebras, 7.000 nus") no
-# citan censo ninguno: no entran aqui. Investigado el 07/08/2026; ampliado el 10/08.
+# citan censo ninguno: no entran aqui. Investigado el 07/08/2026; ampliado el 10 y el 11/08.
 
 CUANTOS = {
  "elefante":
@@ -39,6 +39,17 @@ CUANTOS = {
    "Considerada **el ave silvestre más abundante del mundo** — así, en el título de un "
    "artículo revisado por pares ✅. Las estimaciones hablan de ~1.500 millones de "
    "adultos ◐: los enjambres de las charcas son la versión local de esa cifra.",
+ "delfin-mular":
+   "La bahía tiene una población **residente**, pequeña y única en este litoral: el "
+   "estudio piloto la estimó en **71–122 individuos** (Namibian Dolphin Project, "
+   "2008–09) ✅; hoy se cita «menos de 100» ◐.",
+ "charran-comun":
+   "En Namibia se estimaron **170.000–180.000** en 1998 ◐, y el conteo récord del "
+   "humedal de Walvis Bay —**242.000 aves** en 2004— llevaba unos **100.000 "
+   "charranes** ✅.",
+ "avutarda-namibia":
+   "**En Peligro** (UICN 2024) ✅. Su gran amenaza son los tendidos eléctricos: la "
+   "estimación publicada va de **4.000 a 11.900 muertes al año** por colisión ◐.",
 }
 
 FUENTES_POBLACION = [
@@ -76,4 +87,15 @@ FUENTES_POBLACION = [
   "artículo revisado por pares <span class='u'>pmc.ncbi.nlm.nih.gov/articles/PMC7403380</span> "
   "y lo respalda Audubon; la cifra de ~1.500 millones de adultos es estimación "
   "secundaria, sin censo detrás.",
+  "<b>Delfín mular:</b> Namibian Dolphin Project — proyecto de foto-identificación de la "
+  "bahía desde 2008 <span class='u'>seasearch.co.za/namibian-dolphin-project</span>; la "
+  "estimación 71–122 es de su informe de 2009 (PDF en the-eis.com).",
+  "<b>Charrán común:</b> Tree 1998 (170.000–180.000 en Namibia), recogido por BirdLife "
+  "South Africa <span class='u'>birdlife.org.za/red-list/common-tern</span> — que avisa de "
+  "la antigüedad del dato —, y Bridgeford 2013, <i>Mitteilungen</i> 54 (el conteo de "
+  "242.000 aves de 2004, PDF en the-eis.com).",
+  "<b>Avutarda de Namibia:</b> BirdLife South Africa (EN global 2024 y regional 2025; los "
+  "tendidos como amenaza principal) <span class='u'>birdlife.org.za/red-list/ludwigs-bustard"
+  "</span>; la horquilla de muertes por colisión, 4.000–11.900/año, es estimación "
+  "secundaria.",
 ]
