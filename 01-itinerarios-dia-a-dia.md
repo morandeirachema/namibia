@@ -126,7 +126,7 @@ gantt
 > style n3 fill:#9d0208,color:#fff,stroke:#9d0208
 >```
 >
-> **El viaje entero cabe en una frase: la costa fresca (25 °C), el desierto y la meseta calurosos
+> **El viaje entero cabe en una frase: la costa fresca (20–25 °C), el desierto y la meseta calurosos
 > (31–33 °C) y Etosha duro (37 °C) — y TODAS las noches entre 12 y 19 °C.** Por eso el equipaje
 > lleva forro polar y no plumas (`05`).
 

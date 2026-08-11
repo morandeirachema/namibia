@@ -9,7 +9,8 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 02/08/2026 · podado el 06/08/2026 al separar la lista en `17`*
+> *Investigación cerrada el 02/08/2026 · podado el 06/08/2026 al separar la lista en `17` ·
+> barrido completo de fuentes el 11/08/2026 (salud, clima, sol, energía y listas comparadas)*
 
 
 ---
@@ -20,7 +21,7 @@
 flowchart TD
     R1["1 · El coche YA trae el camping<br/>tiendas, ropa de cama, menaje,<br/>nevera, sillas, compresor"] --> M["LA MOCHILA<br/>petate blando + daypack"]
     R2["2 · Noches de 13-19 C:<br/>forro polar, NO plumas"] --> M
-    R3["3 · Dias de 25 C en la costa<br/>a 37 C en Etosha:<br/>el enemigo es el CALOR"] --> M
+    R3["3 · Dias de 20-25 C en la costa<br/>a 37 C en Etosha:<br/>el enemigo es el CALOR"] --> M
     R4["4 · Enchufe tipo M:<br/>tu Schuko NO entra"] --> M
     R5["5 · Namibia funciona con PAPEL:<br/>todo impreso"] --> M
     R6["6 · Maletero justo:<br/>doble cabina + nevera + cajas"] --> M
@@ -39,11 +40,17 @@ flowchart TD
    térmicos, gorro y guantes se quedan en casa** — son peso muerto en una tienda de techo. *La
    noche fría del viaje es la de la costa, no la del desierto.*
 3. **El problema es el calor** ✅: **37,1 °C de media de máximas en Etosha**, 32–34 en el desierto,
-   sol vertical y polvo. La equipación es de sol, no de frío — con UNA excepción: **la costa**
-   (Benguela: 25 °C de día, **12,7 de madrugada**, niebla y viento) y **la salida de Deadvlei**
-   (en marcha a las ~05:10, `01`).
+   **UV extremo (13–15 en noviembre ◐)** y polvo. La equipación es de sol, no de frío — con UNA
+   excepción: **la costa** (Benguela: **19–25 °C de día según fuente** — la estación mide 25,0 ✅;
+   los datos del pueblo dan 19–21 con un 88 % de humedad ◐, la divergencia queda anotada en
+   [`15`](15-huecos-cerrados.md) —, **12,7 de madrugada**, niebla y viento) y **la salida de
+   Deadvlei** (en marcha a las ~05:10, `01`).
 4. **Enchufe tipo M** ◐ (`04`): **DOS adaptadores comprados online antes de salir** — «el fallo
-   tonto más probable del viaje». Los Europlug finos (tipo C) suelen entrar; el Schuko gordo, no.
+   tonto más probable del viaje». Matizado el 11/08 ◐: el Europlug fino (tipo C) entra **a veces,
+   flojo y con chispazo** en las tomas D, y **no entra** en las M, que son las mayoritarias
+   *([worldstandards](https://www.worldstandards.eu/electricity/plugs-and-sockets/m/))*; el Schuko
+   gordo, en ninguna. Y el enchufe **en la parcela** quedó confirmado para los cuatro NWR de
+   interior ◐ *(`18` §5)* — de ahí la regleta nueva del `17`.
 5. **Papel** ✅ (`04`): e-visa impreso y firmado, reservas, póliza — todo impreso una semana antes.
 6. **Espacio justo** ○: doble cabina con nevera y cajas de camping — **bolsa blanda, no maleta
    rígida**: se embute donde la rígida no cabe.
@@ -84,16 +91,29 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 
 ## 🩺 Salud y botiquín
 
-- **Profilaxis de malaria** según lo que diga el CVI ✅ (`04`): si es Malarone, se empieza ya de
-  viaje (~6–7 nov — la zona arranca en el D8, Damaraland); si es mefloquina, **~19–26 de octubre**
-  — la receta sale de la cita de septiembre
-- **El sol es el riesgo diario real**, no la fauna ni la malaria: crema 50+, protector labial y
-  sombrero se usan los quince días ○
+- **Profilaxis de malaria** según lo que diga el CVI ✅ (`04`): el riesgo se define por
+  **regiones, y Kunene incluye Terrace Bay** — la entrada en zona es el **D7 (7 nov)**, no el D8.
+  Si es Malarone, se empieza ya de viaje (~5–6 nov); si es mefloquina, **~17–24 de octubre** — la
+  receta sale de la cita de septiembre. A esa cita se va con el dato de la guía oficial británica:
+  en estas regiones, **de mayo a noviembre solo recomienda evitar picaduras, sin
+  quimioprofilaxis** ✅ *([TravelHealthPro](https://travelhealthpro.org.uk/country/157/namibia))*
+- **El sol es el riesgo diario real**, no la fauna ni la malaria: el UV de noviembre es **extremo
+  (13–15)**, también bajo la niebla de la costa ◐. Crema 50+ **a dosis real** — ~30 ml por
+  aplicación cada 2 h: por eso el `17` sube de 2 a 4 tubos ◐
+  *([AAD](https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen))* —, protector labial y sombrero de **ala ≥7,5 cm con barbuquejo** se usan los
+  quince días. Y en el coche también: el vidrio lateral solo para **~71 % del UVA** ◐
+  *([JAMA Ophthalmol. 2016](https://www.researchgate.net/publication/303026415_Assessment_of_Levels_of_Ultraviolet_A_Light_Protection_in_Automobile_Windshields_and_Side_Windows))* — se
+  conduce por la izquierda: el brazo derecho del conductor va al sol
 - **Sales de rehidratación oral** ○ — con 35–38 °C y aire seco, la deshidratación va por delante
-  de la sed. Y la regla del agua ✅ (`06`/FCDO): **4+ L por persona y día EN el coche**
-- **Repelente con DEET** ○: Etosha es zona de malaria ✅ aunque tu ventana sea el mínimo estacional
-  (`04`) — con manga larga ligera al anochecer ○
-- ○ **Gafas graduadas mejor que lentillas** — el polvo de la grava se mete por todo
+  de la sed. Y la regla del agua ✅ (`06`/FCDO): **4+ L por persona y día EN el coche** — como
+  suelo: la referencia overlanding pide **5 L y doblar el margen** en los tramos sin servicios ◐
+  *([Tracks4Africa](https://blog.tracks4africa.co.za/water-supply-overland/))*
+- **Repelente con DEET ≥20 % (o icaridina)** ✅
+  *([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia))*: Etosha es zona de
+  malaria ✅ aunque tu ventana sea el mínimo estacional (`04`) — con manga larga ligera al
+  anochecer ○, y el repelente **siempre encima** de la crema solar ✅
+- ◐ **Gafas graduadas mejor que lentillas** — el polvo de la grava se mete por todo; desde el
+  11/08, con la optometría detrás *([AOA](https://www.aoa.org/healthy-eyes/vision-and-vision-correction/environments))*. Si son lentillas: diarias desechables y lágrima sin conservantes
 
 ## 🔌 Electrónica
 
@@ -101,9 +121,11 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 - **Cargador 12 V multi-USB** ○ para el coche (los 12 V «se saltan el problema entero», `04`) +
   **powerbank** grande para las noches sin electricidad en parcela (**enchufe en parcela: sin
   dato** — pregúntalo al reservar NWR)
-- **Frontal por persona** ○ (la charca iluminada, la letrina a las 3 AM, montar la tienda al
-  anochecer) — y **con modo rojo** ○: en la charca de Okaukuejo la luz blanca molesta a todos
-  los que llevan media hora esperando en silencio
+- **Frontal por persona** ○ (la letrina a las 3 AM, montar la tienda al anochecer, el camino a la
+  charca) — **con modo rojo para el camino; en la plataforma, apagado del todo** ◐: la norma
+  documentada es la luz del recinto y nada más — ni linterna, ni flash, ni pantalla de móvil
+  *([guía de Etosha](https://etoshanationalpark.com.na/wildlife/etosha-photography-guide/) ·
+  [okaukuejo](https://www.etoshanationalparknamibia.com/okaukuejo-waterhole/))*
 - **El satelital con SOS** (Garmin inReach o similar) — el dossier lo recomienda sin ambigüedad
   para ESTA ruta ✅ (`06`/`07`: «el móvil es una cámara, no un salvavidas» en Solitaire–Walvis y
   Damaraland). **Decisión de compra/alquiler aún pendiente** (`04`)
@@ -127,9 +149,14 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 
 *Cuántas camisetas y cuántos calcetines, con casilla, en [`17`](17-lista-de-equipaje.md).*
 
-- **La corrección de premisa de `04` manda**: **un** forro polar y **un** cortavientos ligero
-  —costa y madrugada de Deadvlei—, y **nada de plumas ni térmicos**. La mínima más baja de todo el
-  viaje es 12,7 °C ✅.
+- **La corrección de premisa de `04` manda**: **un** forro polar y **un** chubasquero — que desde
+  el 11/08 tiene apellido: **impermeable de verdad**, porque además de la costa y la madrugada de
+  Deadvlei cubre **las tormentas de Etosha** *(noviembre abre las lluvias: 43–44 mm en ~7 días ◐,
+  y un operador namibio lo llama «esencial de noviembre a abril» ◐
+  [Chameleon](https://chameleonholidays.com/what-to-pack-for-your-namibian-holiday/))* —, y **nada
+  de plumas ni térmicos**. La mínima más baja de todo el viaje es 12,7 °C ✅. El punto más justo del
+  sistema es la noche de la costa *(13–15 °C, 88 % de humedad, viento: sensación ~10–11 ◐)*: su
+  seguro opcional de 80 g — gorro fino y térmica ligera — está en el `17`.
 - **Manga larga ligera antes que otra camiseta** ○: sirve para el sol de mediodía y para los
   mosquitos del anochecer en Etosha, que es donde hay malaria. Colores tierra o neutros ○ — no es
   dogma, pero el blanco se ve a un kilómetro y el negro da calor. Y el **buff** no es un accesorio:
@@ -138,6 +165,13 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   Canyon, Twyfelfontein y la cascada del Uniab (`10`); sandalias barefoot Saguaro para conducir y
   para el campamento; chanclas para las duchas compartidas. La arena a mediodía **quema**: nunca
   descalzo ○.
+- **La colada del D5–D6, sin lavadero** ◐: en Swakopmund hay deja-y-recoge — **Swakopmund
+  Laundrette**, 15 Swakop St *([ficha](https://vymaps.com/NA/Swakopmund-Laundrette-484378/) ·
+  [experiencia de viajeros](https://www.tripadvisor.com/ShowTopic-g298357-i10720-k11909074-o10-Laundry-Swakopmund_Erongo_Region.html))*, y **Atlantic Laundry** entrega en el día si se deja antes
+  de las 11:00 *([web](https://namibia-laundry.com/service-atlantic-laundry-swakopmund/))* — y en
+  Walvis Bay, al menos tres lavanderías con dirección
+  *([brabys](https://www.brabys.com/na/walvis-bay/laundries/walvis-bay-laundry))*. Horarios sin
+  publicar ❌: confirmar al llegar. El detergente de viaje del `17` queda de respaldo.
 
 ## 🚫 Las trampas — lo que se queda en casa
 - ❌ Plumas, térmicos, gorro y guantes ◐ (`04`) — peso muerto

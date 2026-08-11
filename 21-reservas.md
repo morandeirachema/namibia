@@ -75,8 +75,13 @@ flowchart LR
 - El **teléfono de emergencias 24 h** ❌ *(la centralita no lo es)* y la **tarifa de grúa/rescate** ❌.
 - Del coche: **capacidad real del depósito** ❌ *(la aritmética del bucle de la costa la necesita,
   `07`)* · **con cuánto tanque lo entregan** ❌ · **segunda batería o corte por voltaje** para la
-  nevera ❌ · coste del **conductor adicional** ❌. *(El hornillo y el menaje pieza a pieza ya
-  constan en la ficha desde el 10/08 ✅ — `18` §4.)*
+  nevera ❌ · **«2 spare tyres» en firme** ❌ *(la ficha hoy dice «1-2» ◐ y el `06` §14 cuenta con dos — que
+  queden por escrito; ojo: el FCDO solo las exige en temporada de lluvias ene–abr, `06`)* · **que la
+  confirmación liste el compresor** ❌ *(la ficha lo incluye ✅, pero su FAQ lo vende como extra
+  ◐)* · qué trae de **recuperación y seguridad** ❌ —eslinga, cables de arranque, planchas de
+  arena, pala, extintor, botiquín del coche y el **triángulo, obligatorio por ley** ✅
+  *([reg. 233, GN 53/2001](http://www.lac.org.na/laws/annoREG/Road%20Traffic%20and%20Transport%20Act%2022%20of%201999-Regulations%202001-053.pdf))*— · coste del **conductor adicional** ❌.
+  *(El hornillo y el menaje pieza a pieza ya constan en la ficha desde el 10/08 ✅ — `18` §4.)*
 - **Cancelación, del contrato estándar** ✅ *(10/08)*: reembolso íntegro a **más de 30 días** ·
   **15 %** a 14–30 días · **25 %** a 7–13 · **50 %** a menos de 7 días o no presentarse.
   **Conductores: 23 años cumplidos y 1 año de carnet.**
@@ -150,8 +155,9 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
 - Si las **3 salidas guiadas de mañana y el nocturno se pueden dejar cerrados desde España** — su
   tarifa avisa de que en temporada de lluvias no aceptan pre-reserva de actividades; si no, van en
   recepción *(§8)*.
-- Los **horarios de desayuno/restaurante** de los campamentos ❌ *(importa para salir al alba)* y si
-  hay **enchufe por parcela** ❌.
+- Los **horarios de desayuno/restaurante** de los campamentos ❌ *(importa para salir al alba)*.
+  *(La pregunta del enchufe por parcela quedó cerrada el 11/08 ◐ — `18` §5: hay toma en los
+  cuatro NWR de la ruta; en Sesriem, pedir al llegar una parcela con la toma que funcione ○.)*
 - Que el **desvío obligatorio Okaukuejo–Halali** sigue en pie ◐ *(`01` §D10)*.
 
 ---
