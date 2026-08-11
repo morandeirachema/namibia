@@ -2,7 +2,7 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> El índice de la guía de campo en PDF: 102 especies con foto, cómo reconocerlas, **qué
+> El índice de la guía de campo en PDF: 115 especies con foto, cómo reconocerlas, **qué
 > posibilidades hay de verlas** y dónde y cuándo. *(Regla del 09/08: sin avistamientos, sin
 > ficha — fuera oricteropo, suricata y cebra de Hartmann.)*
 >
@@ -12,10 +12,12 @@
 > *Investigación cerrada el 03/08/2026 · posibilidades de avistamiento y consejos de safari
 > añadidos el 07/08/2026 · revisión de coherencia el 09/08/2026 · ampliación del 10/08/2026:
 > primer barrido COMPLETO de GBIF contra el catálogo (+14 fichas, todas verificadas en fuentes
-> del propio eje — el detalle, en `15`)*
+> del propio eje) · ampliación del 11/08/2026: el mismo barrido sobre las otras tres zonas de
+> la ruta (+13 — el mular del crucero, las aves del Namib y Damaraland, la rata dassie…; el
+> detalle de ambos, en `15`)*
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 23 páginas A4,
-**102 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
+📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 25 páginas A4,
+**115 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
 cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
 
@@ -29,12 +31,12 @@ buscar una especie desde el repo.)*
 - **Nombre en castellano, científico e inglés** — el inglés importa: es el que veréis en los
   carteles del parque y el que usa todo el mundo allí
 - **Qué posibilidades hay de verla**, medida y con su muestra detrás *(abajo, de dónde sale)* —
-  en **99 de las 102**: tres fichas *(tortuga leopardo, galápago africano y shongololo)* se
+  en **112 de las 115**: tres fichas *(tortuga leopardo, galápago africano y shongololo)* se
   quedan sin línea a propósito, porque su clase no llega a la muestra mínima y **callarse es
   la regla**
 - **Cómo reconocerla en el campo**: los rasgos que de verdad distinguen, no una descripción de
   enciclopedia *(labio del rinoceronte, rosetas frente a manchas, orejas de la hiena, pico del cálao…)*
-- **Cuántas quedan**, en las diez especies con una cifra publicada que se pueda citar
+- **Cuántas quedan**, en las trece especies con una cifra publicada que se pueda citar
 - **Foto** de Wikimedia Commons, todas con **licencia libre** (CC BY, CC BY-SA, CC0 o dominio
   público), con autoría y licencia bajo la imagen y en los créditos finales
 
@@ -46,7 +48,7 @@ la guía usa las dos —cada una con su etiqueta, porque **no miden lo mismo**�
 ```mermaid
 flowchart LR
     A["13 especies grandes<br/>PARTES DE VIAJEROS"] --> A1["% que lo vio<br/>durante su estancia<br/>en el campamento"]
-    B["las otras 89<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
+    B["las otras 102<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
     A1 --> C["frecuente / escasa<br/>siempre con la muestra"]
     B1 --> C
     style A fill:#EDF1E4,stroke:#5F7043
@@ -92,7 +94,7 @@ táctica de la charca** *(motor apagado y tres cuartos de hora, que es lo que de
 ✅: 60 km/h, no bajar del coche fuera de los campamentos, no salirse de las pistas y estar dentro
 antes de que cierre la puerta.
 
-## El «dónde y cuándo», en 58 de las 102 fichas
+## El «dónde y cuándo», en 71 de las 115 fichas
 
 Charca por charca y con su fuente: **Okondeka** para el león, **Halali y Goas** para el leopardo,
 **Salvadora–Sueda–Charitsaub** para el guepardo, el **Dik-dik Drive** nada más entrar por Von
@@ -102,8 +104,10 @@ Lindequist, y el nido de tejedor republicano **a diez metros de la charca de Oka
 itinerario: la mangosta rayada en Namutoni, la gaviota y la avoceta en la laguna, la jorobada en
 el crucero y el trío del nocturno en el nocturno. Las 14 del 10/08 llegaron todas con el suyo,
 del propio eje: la ardilla en el restaurante de Halali, el turdoide en su camping, el galápago
-cazando quéleas en Nuamses.)* Las 44 fichas restantes **no llevan esa línea**: no apareció
-información específica de Etosha en ninguna fuente decente, y rellenarlo a ojo sería inventar.
+cazando quéleas en Nuamses. Y las 13 del 11/08, con el suyo de su zona: el mular en el crucero,
+la rata dassie en las peñas de Twyfelfontein, el lagarto de nariz de cuña en la base de la duna
+por donde se camina.)* Las 44 fichas restantes **no llevan esa línea**: no apareció información
+específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
 
 ### Y siete avisos que corrigen lo que dicen las webs de safaris
 
@@ -143,7 +147,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ---
 
-## Las 102 especies
+## Las 115 especies
 
 ### 🦁 Mamíferos (35)
 
@@ -190,7 +194,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Mangosta esbelta** — *Galerella sanguinea* · Slender mongoose *(añadida el 10/08: la
   tercera mangosta diurna, fiable en el Dik-dik Drive — punta de cola negra)*
 
-### 🦅 Aves (39)
+### 🦅 Aves (48)
 
 - **Avestruz común** — *Struthio camelus* · Common ostrich
 - **Avutarda kori** — *Ardeotis kori* · Kori bustard
@@ -240,8 +244,27 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Bulbul encapuchado** — *Pycnonotus nigricans* · African red-eyed bulbul *(10/08)*
 - **Turdoide caricalvo** — *Turdoides gymnogenys* · Bare-cheeked babbler *(10/08: casi endémico;
   ~700 de sus ~770 registros del eje, en la banda de Halali — el pájaro del camping)*
+- **Charrán común** — *Sterna hirundo* · Common tern *(añadido el 11/08: el ave más registrada de
+  la costa en oct-nov —3.582— y ni ficha tenía; llegan de Europa a decenas de miles)*
+- **Gaviota cocinera** — *Larus dominicanus* · Kelp gull *(11/08: la grande de dorso negro,
+  empatada en registros con la Hartlaub que ya tenía ficha)*
+- **Estornino Naburup** — *Onychognathus nabouroup* · Pale-winged starling *(11/08: el de los
+  picnics de Sossusvlei y los acantilados de Damaraland)*
+- **Sisón de Damaraland** — *Heterotetrax rueppelii* · Rüppell's korhaan *(11/08: casi endémico,
+  en parejas junto a la carretera de Sossusvlei)*
+- **Avutarda de Namibia** — *Neotis ludwigii* · Ludwig's bustard *(11/08: En Peligro — los
+  tendidos eléctricos)*
+- **Alondra de las dunas** — *Calendulauda erythrochlamys* · Dune lark *(11/08: casi toda su
+  especie vive dentro de Namibia — con el matiz del IOC de 2024, que le fusionó la de Barlow)*
+- **Lorito de Rüppell** — *Poicephalus rueppellii* · Rüppell's parrot *(11/08: casi endémico,
+  citado en el propio cauce del Aba Huab)*
+- **Toco angoleño** — *Tockus monteiri* · Monteiro's hornbill *(11/08: el 10/08 quedó fuera por
+  Etosha —71 registros, «Escasa»— y era la pregunta equivocada: su casa es la escarpa de
+  Damaraland, donde sale «Frecuente»)*
+- **Inseparable de Namibia** — *Agapornis roseicollis* · Rosy-faced lovebird *(11/08: llevaba
+  desde el 03/08 citado de inquilino en la ficha del tejedor republicano, sin ficha propia)*
 
-### 🦎 Reptiles (14)
+### 🦎 Reptiles (16)
 
 *Las tres primeras van por seguridad: dormís trece noches en tienda.*
 
@@ -264,8 +287,14 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Galápago africano** — *Pelomedusa subrufa* · African helmeted turtle *(10/08: el de la
   charca — documentado en el parque cazando quéleas en grupo; sin línea de posibilidades: su
   clase no llega a la muestra mínima)*
+- **Gecko diurno del Namib** — *Rhoptropus afer* · Namib day gecko *(añadido el 11/08: un gecko
+  que cambió la noche por el día — la vuelta a la diurnidad está publicada — en las rocas de la
+  costa de la niebla)*
+- **Lagarto de nariz de cuña** — *Meroles cuneirostris* · Wedge-snouted sand lizard *(11/08: en
+  Sesriem/Sossusvlei tiene 4× más registros que el de nariz de pala — es el de la base de la
+  duna, por donde se camina; el de la pala vive ladera arriba y las dos fichas se cruzan aviso)*
 
-### 🌊 La costa, la roca y la arena (5)
+### 🌊 La costa, la roca y la arena (7)
 
 *Lo de fuera de Etosha: Cape Cross (D7), la laguna de Walvis Bay (D5–D6) y los roquedos de
 Damaraland — con una excepción a caballo: la ardilla terrestre campa igual de bien por dentro del
@@ -273,11 +302,17 @@ parque, y de ahí sale su banda.*
 
 - **Lobo marino del Cabo** — *Arctocephalus pusillus* · Cape fur seal
 - **Delfín de Heaviside** — *Cephalorhynchus heavisidii* · Heaviside's dolphin
+- **Delfín mular** — *Tursiops truncatus* · Bottlenose dolphin *(añadido el 11/08: más registros
+  que el propio Heaviside en la zona —31 vs 26— y una población residente de menos de cien;
+  el 15 archivó su estacionalidad el 08/08 y nadie le hizo ficha hasta hoy)*
 - **Ballena jorobada** — *Megaptera novaeangliae* · Humpback whale *(añadida el 08/08: migra
   frente a la costa jun–nov — los registros GBIF de la zona, consulta del 08/08/2026
   archivada mes a mes en `15`, dan pico jul–sep y 27 aún en noviembre: el crucero del D6 cae en
   temporada)*
 - **Damán roquero** — *Procavia capensis* · Rock hyrax
+- **Rata dassie o rata de las rocas** — *Petromus typicus* · Dassie rat *(añadida el 11/08:
+  la única especie viva de toda su familia, diurna en las peñas de Twyfelfontein — al lado del
+  damán, que es «el otro dassie»)*
 - **Ardilla terrestre del Cabo** — *Xerus inauris* · Cape ground squirrel
 
 ### 🐞 Bichos (9)
@@ -308,8 +343,8 @@ desde `imprimir.py`, que es quien pone los números de página.
 
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
 imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
-que están las 139 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
-las páginas que deben y que los datos de avistamiento cubren las 102 especies.
+que están las 152 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
+las páginas que deben y que los datos de avistamiento cubren las 115 especies.
 
 *Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son ~6,7 MB, y a cambio el PDF
 se puede regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una

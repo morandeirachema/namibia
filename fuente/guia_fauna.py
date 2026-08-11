@@ -51,7 +51,7 @@ def metodo():
   duerme en los tres <em>(Okaukuejo 1 noche, Halali 1, Namutoni 2)</em> son <strong>tres
   tiradas</strong>: en las cuatro noches la posibilidad real es más alta que cualquiera de
   estos números. Cuánto más, no lo dicen estos datos, así que no se dice.</p>
-  <p>Eso solo existe para trece especies. Para las otras ochenta y nueve va un
+  <p>Eso solo existe para trece especies. Para las otras ciento dos va un
   <strong>índice de registros de GBIF</strong>: cuánto pesa la especie dentro de los
   registros de su grupo en la zona <strong>en octubre y noviembre</strong> —{mam} de
   mamífero y {aves} de ave solo en Etosha—. Mide <em>lo que se registra</em>, no <em>lo
@@ -102,16 +102,21 @@ INTROS = {
               "salen a la pista tibia—, linterna para ir al baño, y si te encuentras una, "
               "<strong>quédate quieto y retrocede</strong>: casi todas las mordeduras pasan al "
               "intentar matarlas o cogerlas.</p>"
-              "<p>Las otras once son de las que apetece ver: el <strong>camaleón que "
+              "<p>Las otras trece son de las que apetece ver: el <strong>camaleón que "
               "corre</strong>, el <strong>gecko translúcido</strong> de las dunas, el "
-              "<strong>agama naranja</strong> de las rocas de Damaraland — y los tres "
-              "del campamento, añadidos el 10/08: el <strong>escinco</strong> de los "
-              "recintos, el <strong>gecko</strong> de las noches de Okaukuejo y el "
-              "<strong>galápago</strong> de las charcas, que caza quéleas.</p>",
+              "<strong>agama naranja</strong> de las rocas de Damaraland, los tres "
+              "del campamento de Etosha —el <strong>escinco</strong> de los recintos, el "
+              "<strong>gecko</strong> de las noches de Okaukuejo y el <strong>galápago</strong> "
+              "que caza quéleas— y los dos diurnos del 11/08: el <strong>gecko que cambió "
+              "la noche por el día</strong> en la costa de la niebla y el <strong>lagarto de "
+              "nariz de cuña</strong> de la base de las dunas.</p>",
     "costa": "<p>Etosha no es toda la fauna del viaje. Esto es lo que veréis <strong>fuera del "
              "parque</strong>: en <strong>Cape Cross</strong> (D7), en la laguna de "
              "<strong>Walvis Bay</strong> (D5–D6), en los roquedos de Damaraland y en la arena "
-             "del Namib. La <strong>ardilla terrestre</strong> es la excepción a caballo: campa "
+             "del Namib. La laguna, por cierto, no es una charca cualquiera: <strong>sitio "
+             "Ramsar desde 1995</strong> y descrita como el humedal costero más importante del "
+             "África austral en número de aves — el conteo récord, 242.000 en un solo verano. "
+             "La <strong>ardilla terrestre</strong> es la excepción a caballo: campa "
              "igual por dentro de Etosha —de ahí sale su banda— que por los campamentos "
              "del oeste.</p>",
     "bicho": "<p>Los vecinos de cada braai — en un viaje de camping <strong>se dejan ver más "
@@ -193,7 +198,7 @@ def total():
 def remite_desde_dossier(ancla=""):
     """El dossier NO lleva las fichas dentro: solo remite a la guia suelta.
 
-    Meter las 102 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
+    Meter las 115 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
     varios megas, y duplicaba un documento que ya existe aparte y que ademas se imprime
     solo para llevarlo en la guantera. Aqui queda el enlace y el resumen de lo que hay.
     """
@@ -256,7 +261,7 @@ def html_suelto():
   <p class="nota">Todas las imágenes proceden de <b>Wikimedia Commons</b> con licencia libre
   (CC BY, CC BY-SA, CC0 o dominio público), que exige citar autor y licencia.</p>
   <ul>{lista}</ul>
-  {'<h2>Fuentes de lo específico de Etosha</h2><ul>' + fuentes + '</ul>' if fuentes else ''}
+  {'<h2>Fuentes del «dónde y cuándo»</h2><ul>' + fuentes + '</ul>' if fuentes else ''}
   <h2>Fuentes de las posibilidades y de los recuentos</h2>
   <ul>{avistamientos.fuente_html()}{poblacion}</ul>
 </section>

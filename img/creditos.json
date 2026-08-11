@@ -89,6 +89,24 @@
   "slug": "alcaudon-carmesi",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/161_Crimson-breasted_shrike_in_Otjozondjupa_Region_Photo_by_Giles_Laurent.jpg/1920px-161_Crimson-breasted_shrike_in_Otjozondjupa_Region_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "fauna/alondra-dunas": {
+  "alto": 933,
+  "ancho": 1400,
+  "autor": "Ragnhild&amp;Neil Crawford from Sweden",
+  "bytes": 50925,
+  "carpeta": "fauna",
+  "en": "Dune lark",
+  "es": "Alondra de las dunas",
+  "fichero": "File:Dune lark-3947 - Flickr - Ragnhild & Neil Crawford.jpg",
+  "grupo": "ave",
+  "licencia": "CC BY-SA 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "local": "alondra-dunas.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Dune_lark-3947_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg",
+  "sci": "Calendulauda erythrochlamys",
+  "slug": "alondra-dunas",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dune_lark-3947_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+ },
  "fauna/anofeles": {
   "alto": 2008,
   "ancho": 3032,
@@ -232,6 +250,24 @@
   "sci": "Ardeotis kori",
   "slug": "avutarda-kori",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kori_bustard_%28Ardeotis_kori_kori%29_male.jpg/1920px-Kori_bustard_%28Ardeotis_kori_kori%29_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "fauna/avutarda-namibia": {
+  "alto": 2250,
+  "ancho": 3000,
+  "autor": "Hans Hillewaert",
+  "bytes": 75656,
+  "carpeta": "fauna",
+  "en": "Ludwig's bustard",
+  "es": "Avutarda de Namibia",
+  "fichero": "File:Neotis ludwigii.jpg",
+  "grupo": "ave",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "local": "avutarda-namibia.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Neotis_ludwigii.jpg",
+  "sci": "Neotis ludwigii",
+  "slug": "avutarda-namibia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Neotis_ludwigii.jpg/1920px-Neotis_ludwigii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "fauna/azor-lagartijero": {
   "alto": 2491,
@@ -485,6 +521,24 @@
   "slug": "chacal",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/135_Black-backed_jackal_hunting_for_food_at_Cape_cross_Photo_by_Giles_Laurent.jpg/1920px-135_Black-backed_jackal_hunting_for_food_at_Cape_cross_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "fauna/charran-comun": {
+  "alto": 768,
+  "ancho": 1156,
+  "autor": "Cláudio Dias Timm from Rio Grande do Sul",
+  "bytes": 22331,
+  "carpeta": "fauna",
+  "en": "Common tern",
+  "es": "Charrán común",
+  "fichero": "File:Sterna hirundo -Bojuru, Rio Grande do Sul, Brasil-8.jpg",
+  "grupo": "ave",
+  "licencia": "CC BY-SA 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "local": "charran-comun.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Sterna_hirundo_-Bojuru,_Rio_Grande_do_Sul,_Brasil-8.jpg",
+  "sci": "Sterna hirundo",
+  "slug": "charran-comun",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sterna_hirundo_-Bojuru%2C_Rio_Grande_do_Sul%2C_Brasil-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+ },
  "fauna/charran-damara": {
   "alto": 597,
   "ancho": 794,
@@ -592,6 +646,24 @@
   "sci": "Cephalorhynchus heavisidii",
   "slug": "delfin-heaviside",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dolphins_at_L%C3%BCderitz%2C_Namibia_%283144863196%29.jpg/1920px-Dolphins_at_L%C3%BCderitz%2C_Namibia_%283144863196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "fauna/delfin-mular": {
+  "alto": 2419,
+  "ancho": 3628,
+  "autor": "Giles Laurent",
+  "bytes": 39114,
+  "carpeta": "fauna",
+  "en": "Bottlenose dolphin",
+  "es": "Delfín mular",
+  "fichero": "File:010 Atlantic bottlenose dolphin jumping at Pelican point Photo by Giles Laurent.jpg",
+  "grupo": "costa",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "local": "delfin-mular.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg",
+  "sci": "Tursiops truncatus",
+  "slug": "delfin-mular",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg/1920px-010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "fauna/dikdik": {
   "alto": 3010,
@@ -755,6 +827,24 @@
   "slug": "estornino-cabo",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/159_Cape_starling_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1920px-159_Cape_starling_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "fauna/estornino-naburup": {
+  "alto": 4742,
+  "ancho": 3794,
+  "autor": "Giles Laurent",
+  "bytes": 83589,
+  "carpeta": "fauna",
+  "en": "Pale-winged starling",
+  "es": "Estornino Naburup",
+  "fichero": "File:142 Pale-winged starling in Twyfelfontein Photo by Giles Laurent.jpg",
+  "grupo": "ave",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "local": "estornino-naburup.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:142_Pale-winged_starling_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+  "sci": "Onychognathus nabouroup",
+  "slug": "estornino-naburup",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/142_Pale-winged_starling_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/1920px-142_Pale-winged_starling_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "fauna/facocero": {
   "alto": 3336,
   "ancho": 5004,
@@ -881,6 +971,24 @@
   "slug": "gato-montes-africano",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/African_Wildcat_%28Felis_lybica%29_%2851659798835%29.jpg/1920px-African_Wildcat_%28Felis_lybica%29_%2851659798835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "fauna/gaviota-cocinera": {
+  "alto": 933,
+  "ancho": 1400,
+  "autor": "Ragnhild&amp;Neil Crawford from Sweden",
+  "bytes": 21105,
+  "carpeta": "fauna",
+  "en": "Kelp gull",
+  "es": "Gaviota cocinera",
+  "fichero": "File:Cape (kelp) gull-3327 - Flickr - Ragnhild & Neil Crawford.jpg",
+  "grupo": "ave",
+  "licencia": "CC BY-SA 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "local": "gaviota-cocinera.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cape_(kelp)_gull-3327_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg",
+  "sci": "Larus dominicanus",
+  "slug": "gaviota-cocinera",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cape_%28kelp%29_gull-3327_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+ },
  "fauna/gaviota-hartlaub": {
   "alto": 4563,
   "ancho": 6844,
@@ -898,6 +1006,24 @@
   "sci": "Chroicocephalus hartlaubii",
   "slug": "gaviota-hartlaub",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gaviota_de_Hartlaub_%28Chroicocephalus_hartlaubii%29%2C_Walvis_Bay%2C_Namibia%2C_2018-08-05%2C_DD_31.jpg/1920px-Gaviota_de_Hartlaub_%28Chroicocephalus_hartlaubii%29%2C_Walvis_Bay%2C_Namibia%2C_2018-08-05%2C_DD_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "fauna/gecko-diurno": {
+  "alto": 1308,
+  "ancho": 2048,
+  "autor": "Ryan van Huyssteen",
+  "bytes": 40291,
+  "carpeta": "fauna",
+  "en": "Namib day gecko",
+  "es": "Gecko diurno del Namib",
+  "fichero": "File:Rhoptropus afer 345390145.jpg",
+  "grupo": "reptil",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "local": "gecko-diurno.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Rhoptropus_afer_345390145.jpg",
+  "sci": "Rhoptropus afer",
+  "slug": "gecko-diurno",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhoptropus_afer_345390145.jpg/1920px-Rhoptropus_afer_345390145.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "fauna/gecko-fischer": {
   "alto": 768,
@@ -1061,6 +1187,24 @@
   "slug": "impala-cara-negra",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Impala_%28Aepyceros_melampus%29_male_Kruger.jpg/1920px-Impala_%28Aepyceros_melampus%29_male_Kruger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "fauna/inseparable-namibia": {
+  "alto": 2151,
+  "ancho": 3226,
+  "autor": "Giles Laurent",
+  "bytes": 43601,
+  "carpeta": "fauna",
+  "en": "Rosy-faced lovebird",
+  "es": "Inseparable de Namibia",
+  "fichero": "File:087 Rosy-faced lovebird couple cuddling in Damaraland Photo by Giles Laurent.jpg",
+  "grupo": "ave",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "local": "inseparable-namibia.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:087_Rosy-faced_lovebird_couple_cuddling_in_Damaraland_Photo_by_Giles_Laurent.jpg",
+  "sci": "Agapornis roseicollis",
+  "slug": "inseparable-namibia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/087_Rosy-faced_lovebird_couple_cuddling_in_Damaraland_Photo_by_Giles_Laurent.jpg/1920px-087_Rosy-faced_lovebird_couple_cuddling_in_Damaraland_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "fauna/jineta": {
   "alto": 956,
   "ancho": 1440,
@@ -1132,6 +1276,24 @@
   "sci": "Tragelaphus strepsiceros",
   "slug": "kudu",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Male_greater_kudu.jpg/1920px-Male_greater_kudu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "fauna/lagarto-cuna": {
+  "alto": 1314,
+  "ancho": 2048,
+  "autor": "Ryan van Huyssteen",
+  "bytes": 50967,
+  "carpeta": "fauna",
+  "en": "Wedge-snouted sand lizard",
+  "es": "Lagarto de nariz de cuña",
+  "fichero": "File:Meroles cuneirostris 345390278.jpg",
+  "grupo": "reptil",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "local": "lagarto-cuna.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Meroles_cuneirostris_345390278.jpg",
+  "sci": "Meroles cuneirostris",
+  "slug": "lagarto-cuna",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Meroles_cuneirostris_345390278.jpg/1920px-Meroles_cuneirostris_345390278.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "fauna/lagarto-pala": {
   "alto": 1361,
@@ -1240,6 +1402,24 @@
   "sci": "Arctocephalus pusillus",
   "slug": "lobo-marino",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arctocephalus_pusillus_-_SE_Tasmania.jpg/1920px-Arctocephalus_pusillus_-_SE_Tasmania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "fauna/lorito-ruppell": {
+  "alto": 2005,
+  "ancho": 3006,
+  "autor": "Charles J. Sharp",
+  "bytes": 30693,
+  "carpeta": "fauna",
+  "en": "Rüppell's parrot",
+  "es": "Lorito de Rüppell",
+  "fichero": "File:Rüppell's parrot (Poicephalus rueppellii) female.jpg",
+  "grupo": "ave",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "local": "lorito-ruppell.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:R%C3%BCppell%27s_parrot_(Poicephalus_rueppellii)_female.jpg",
+  "sci": "Poicephalus rueppellii",
+  "slug": "lorito-ruppell",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/R%C3%BCppell%27s_parrot_%28Poicephalus_rueppellii%29_female.jpg/1920px-R%C3%BCppell%27s_parrot_%28Poicephalus_rueppellii%29_female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "fauna/mamba-negra": {
   "alto": 1701,
@@ -1457,6 +1637,24 @@
   "slug": "quelea",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Red-billed_Queleas_%28Quelea_quelea%29_%286040852957%29.jpg/1920px-Red-billed_Queleas_%28Quelea_quelea%29_%286040852957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "fauna/rata-dassie": {
+  "alto": 3967,
+  "ancho": 5950,
+  "autor": "Giles Laurent",
+  "bytes": 29290,
+  "carpeta": "fauna",
+  "en": "Dassie rat",
+  "es": "Rata dassie o rata de las rocas",
+  "fichero": "File:141 Dassie rat in Twyfelfontein Photo by Giles Laurent.jpg",
+  "grupo": "costa",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "local": "rata-dassie.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:141_Dassie_rat_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg",
+  "sci": "Petromus typicus",
+  "slug": "rata-dassie",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/141_Dassie_rat_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg/1920px-141_Dassie_rat_in_Twyfelfontein_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "fauna/ratel": {
   "alto": 3842,
   "ancho": 6830,
@@ -1546,6 +1744,24 @@
   "sci": "Archispirostreptus gigas",
   "slug": "shongololo",
   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Archispirostreptus-Gigas-Amphitheatre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+ },
+ "fauna/sison-damara": {
+  "alto": 2872,
+  "ancho": 4308,
+  "autor": "Charles J. Sharp",
+  "bytes": 113097,
+  "carpeta": "fauna",
+  "en": "Rüppell's korhaan",
+  "es": "Sisón de Damaraland",
+  "fichero": "File:Rüppell's korhaan (Eupodotis rueppellii rueppellii) male.jpg",
+  "grupo": "ave",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "local": "sison-damara.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:R%C3%BCppell%27s_korhaan_(Eupodotis_rueppellii_rueppellii)_male.jpg",
+  "sci": "Heterotetrax rueppelii",
+  "slug": "sison-damara",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/R%C3%BCppell%27s_korhaan_%28Eupodotis_rueppellii_rueppellii%29_male.jpg/1920px-R%C3%BCppell%27s_korhaan_%28Eupodotis_rueppellii_rueppellii%29_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "fauna/sison-negro": {
   "alto": 3508,
@@ -1654,6 +1870,24 @@
   "sci": "Macrotermes michaelseni",
   "slug": "termita",
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Macrotermes_michaelseni.jpg/1920px-Macrotermes_michaelseni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "fauna/toco-angoleno": {
+  "alto": 692,
+  "ancho": 1049,
+  "autor": "Nanosanchez",
+  "bytes": 84983,
+  "carpeta": "fauna",
+  "en": "Monteiro's hornbill",
+  "es": "Toco angoleño",
+  "fichero": "File:Tockus monteiri (606), crop.jpg",
+  "grupo": "ave",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "local": "toco-angoleno.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Tockus_monteiri_(606),_crop.jpg",
+  "sci": "Tockus monteiri",
+  "slug": "toco-angoleno",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Tockus_monteiri_%28606%29%2C_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
  },
  "fauna/toco-piquinegro": {
   "alto": 3304,

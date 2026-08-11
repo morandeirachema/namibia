@@ -318,6 +318,51 @@ paso, el índice del `09` decía «abejaruco carmesí sureño» donde la ficha e
 —corregido— y la fuente `biodiversity.org.na` del impala **ha desaparecido de la red** *(HTTP 410
 en todo el dominio)*: anotado en la propia fuente de la guía.
 
+## 🔍 El barrido completo, parte II: las otras tres zonas — +13 fichas *(11/08/2026)*
+
+Etosha quedó barrido el 10/08; **costa, Namib y Damaraland solo habían pasado por el filtro de
+sospechas del 08/08**. La misma faceta completa sobre sus tres cajas (oct–nov, clave contra
+clave, verificación en fuentes con cuatro investigaciones en paralelo, cada foto mirada antes de
+fijarla) sube la guía a **115 fichas / 152 imágenes**.
+
+**Las 13** *(bases oct–nov: costa 552 mamífero / 46.876 ave / 412 escamoso · namib 10.659 ave /
+160 escamoso · damaraland 219 / 10.069)*: **delfín mular** *(31 registros — MÁS que los 26 del
+Heaviside, que tenía ficha; población residente de 71–122, Namibian Dolphin Project; este doc
+archivó su estacionalidad el 08/08 y nadie le hizo ficha)*, **charrán común** *(3.582 — el ave
+más registrada de la costa en las fechas del viaje, por delante del cormorán del Cabo con 2.235;
+170–180.000 estimados en Namibia en 1998 y ~100.000 en el conteo récord de 2004)*, **gaviota
+cocinera** *(1.752 — empatada con la Hartlaub, 1.591)*, **estornino Naburup** *(453+312 —
+Sossusvlei y Damaraland)*, **sisón de Damaraland** *(312)*, **avutarda de Namibia** *(173 — En
+Peligro, UICN 2024)*, **alondra de las dunas** *(134 — con la letra pequeña del IOC: en julio de
+2024 le fusionó la alondra de Barlow y el «único endémico estricto de Namibia» lleva asterisco)*,
+**lorito de Rüppell** *(134 en Damaraland — el 10/08 se descartó por Etosha, 32, y era la
+pregunta equivocada)*, **toco angoleño** *(128 en Damaraland — ídem: 71 en Etosha; nombre SEO
+«toco angoleño», no el calco «cálao de Monteiro»)*, **inseparable de Namibia** *(116 — llevaba
+desde el 03/08 citado de inquilino en la ficha del tejedor, sin ficha propia)*, **rata dassie**
+*(13 de los 219 registros de mamífero de Damaraland — única especie viva de su familia; el dato
+corrigió la hipótesis: su sitio es Twyfelfontein, 38 obs. iNat a <5 km, no Hoada)*, **gecko
+diurno del Namib** *(50 de los 412 escamosos de la costa — la vuelta a la diurnidad, publicada)*
+y **lagarto de nariz de cuña** *(55 de los 160 escamosos del Namib — 4× los registros del de
+nariz de pala, que tenía la ficha: la tesis de Iiyambo (Pretoria 2018) explica el porqué — el
+visitante camina por la base vegetada de la duna, que es hábitat del de cuña; el de pala vive en
+la ladera de deslizamiento — y las dos fichas se cruzan aviso)*.
+
+**Quedaron fuera con su dato**: el **charrán piquigualdo** *(presente, sin protagonismo
+documentado)*, la **lavandera de El Cabo** *(el gancho del muelle no se pudo verificar)*, las
+**limícolas una a una** *(su sitio es la línea de contexto de la intro: laguna Ramsar desde 1995,
+«el humedal costero más importante del África austral», 242.000 aves en el conteo de 2004 — y de
+paso el 60 % mundial del chorlitejo de El Cabo)*, los **geckos diurnos de Twyfelfontein como
+ficha** *(el más registrado allí es R. diporus, no el boultoni de la hipótesis; se quedan como
+dato de este archivo)* y el **eslizón de roca occidental** *(los «machos casi negros» no tienen
+frase publicada — flecos de fuente)*.
+
+**Y un hueco de método que se asume por escrito**: el campamento de **Spreetshoogte (D1–D2) no
+cae en ninguna de las cuatro zonas medidas** — sus fichas no pueden llevar banda de allí. Los
+informes de birding del paso citan el chat de Herero *(restringido a Namibia y Angola, y no
+garantizado: WINGS lo buscó en 2026 «without success»)*, collalbas y escribanos. Si algún día
+hace falta, el arreglo es una caja nueva en `CAJAS` de `avistamientos.py`; hoy se prefiere
+asumir el hueco a montar una zona para dos noches.
+
 **El archivo de la consulta puntual del 08/08/2026** *(API de GBIF sobre los polígonos de las
 zonas; NO está en el JSON del build —que solo guarda totales y oct–nov— y por eso se deja aquí
 mes a mes, ◐)*:
