@@ -374,9 +374,9 @@ flowchart TD
     style D fill:#2d6a4f,color:#fff
 ```
 
-1. **El 4x4 — la reserva ya está en trámite (10/08), aeropuerto → aeropuerto confirmado.**
-   Falta el precio final de los 15 días: **flota pequeña y noviembre competido** — ciérralo en
-   cuanto llegue la cotización.
+1. **El 4x4 — RESERVADO con Savanna (12/08): €2.363 en total, con transfer aeropuerto ↔
+   oficina.** En la entrega, pedir por escrito la zona sunrise/sunset de la Opción 4 *(por
+   Deadvlei, `20` §1)*.
 2. **Sesriem dentro de la puerta, dos noches.** Solo **44 parcelas**, y es la diferencia entre *ver*
    Deadvlei y *tenerlo para ti* al amanecer. *(Plan B: Sossus Oasis en la puerta — perdiendo la hora
    de ventaja, que es el motivo.)*

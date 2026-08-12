@@ -86,8 +86,23 @@ cualquier vuelo, incluso por afición, y ese permiso **no se concede en parques 
 Namib-Naukluft, Skeleton Coast/Dorob y Etosha, que es por donde va casi toda la ruta. Etosha
 además prohíbe la entrada de drones sin excepción desde abril de 2025: se deja en la puerta y se
 recoge al salir, y con entrada por Andersson y salida por Von Lindequist (161 km entre las dos)
-quedaría en el lado equivocado del parque. La vista aérea legal, si hace falta, es el vuelo
-panorámico en avioneta o globo sobre Sossusvlei o la Costa de los Esqueletos.
+quedaría en el lado equivocado del parque. La vista aérea legal, si hace falta, es el **vuelo
+panorámico** — operadores reales, verificados en su propia web:
+
+- **Globo sobre Sossusvlei** ✅ — [Namib Sky Balloon Safaris](https://balloon-safaris.com/ballooning-namibia/),
+  el operador clásico de la zona (despega en Kulala Wilderness Reserve o el norte de NamibRand,
+  ~1h antes del amanecer): **N$9.920 (~€496)/persona**, ~1h de vuelo, con desayuno y traslado
+  incluidos — tarifa publicada hasta jun-2026, reconfirmar para la temporada 2026/27.
+- **Avioneta sobre las dunas** ✅ — ambos salen de **Swakopmund**, no de Sesriem:
+  [Sossusvlei Scenic Flights](https://sossusvleiscenicflights.com/sossusvlei-scenic-flights/rates/)
+  (Eagle Eye Aviation), N$7.000–17.500/persona según grupo (2h06) · o
+  [Sossusfly](https://sossusfly.com/), N$6.900/persona (grupo de 5, 2h10, dunas + Costa de los
+  Esqueletos en un único vuelo).
+- **Avioneta sobre la Costa de los Esqueletos** ✅ — también desde Swakopmund:
+  [Sossusvlei Scenic Flights](https://sossusvleiscenicflights.com/sossusvlei-scenic-flights/rates/),
+  N$5.500–13.750/persona (~1h30, naufragios + lobos marinos + Sandwich Harbour) · o
+  [Wings & Wheels Tours](https://wingsandwheelstours.com/featured_item/skeleton-coast-scenic-flight/)
+  (misma ruta, precio sin publicar ❌).
 
 **Fuentes:** [NCAA — RPAS](https://www.ncaa.com.na/index.php/latest-news/69-remotely-piloted-aircraft-systems-rpas-or-drones) ·
 [Windhoek Observer — MEFT outlaws drones in Etosha](https://observer24.com.na/meft-outlaws-drones-in-etosha/) ·
