@@ -64,7 +64,9 @@ el viaje sigue; si se pierde la cabina, no.
 
 *Por qué esta ropa y no otra, en [`05`](05-equipaje.md). Aquí van los números.*
 
-- [ ] **Camisetas transpirables ×5** — una puesta, cuatro en el petate
+- [ ] **Camisetas transpirables ×5** — una puesta, cuatro en el petate. Con nombre: la **Forclaz
+      Resist** y la **Forclaz merina** ○ *(la merina aguanta varias puestas sin oler — oro con una
+      sola colada en quince días)*
 - [ ] **Camisas de manga larga ligeras ×2** — sol de mediodía y mosquitos del anochecer. Para el
       día de dunas, mejor si una es **UPF 50+**: la camiseta clara de algodón es UPF ~7, y ~3
       empapada ◐ *([skincancer.org](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/))*
