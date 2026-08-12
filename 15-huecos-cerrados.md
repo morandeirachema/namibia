@@ -509,8 +509,8 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 - ✈️ **El billete está EMITIDO desde el 10/08** ✅ *(€1.536 p.p.; se cotizó en €1.450 el 05/08)*:
   **el e-visa queda desbloqueado** — pedirlo es el siguiente trámite con fecha.
-- 🏕️ **La única reserva en marcha es la del coche** *(EN TRÁMITE el 10/08: aeropuerto →
-  aeropuerto confirmado, precio pendiente ❌ — `20`)*: ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
+- 🏕️ **El coche ya está reservado (Savanna, `20`); lo que sigue sin reservar es el alojamiento**:
+  ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
   al parque a pernoctar)*, ni las cuatro de Etosha — **ni las DOS de Spreetshoogte** *(decididas el
   08/08; su hueco doble quedó en sencillo el 09/08: **contacto localizado** —
   spreetshoogte@iway.na · +264 62 572 010 ◐, ver `20`— pero la **tarifa sigue sin verificar** ❌;

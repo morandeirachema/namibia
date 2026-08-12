@@ -142,10 +142,8 @@ sin precio y Hoada va en ◐**.
 > de camping, que es el tramo barato y predecible.
 
 → Bloque estimado: **7 noches × ~€25–45 la pareja (central ~€35) ≈ ~€245 pareja / ~€124 por
-persona ○**. **Alojamiento total: ~€740 pareja (~€370/persona)** *(corregido el 08/08: el ~€570
-anterior nunca absorbió el precio real de Terrace Bay — las 7 noches estimadas quedaban en un
-imposible ~€11/noche)*. **Verificado: €492 (66 %)** — los N$6.360 de NWR ✅ y los N$3.480 de
-Terrace Bay ✅ — y **Hoada suma ◐**.
+persona ○**. **Alojamiento total: ~€740 pareja (~€370/persona)**. **Verificado: €492 (66 %)** —
+los N$6.360 de NWR ✅ y los N$3.480 de Terrace Bay ✅ — y **Hoada suma ◐**.
 
 ```mermaid
 flowchart LR
@@ -376,9 +374,8 @@ la mañana entera del primero y el día 14 completo.** Tres consecuencias, todas
    La póliza contratada en §7 va del **31/10 al 15/11**. Con salida el **30 de octubre**, hay que
    **adelantar el inicio al 30** o el primer vuelo va sin cobertura. *(El coste del día extra:
    **❌ sin cotizar — pídelo a IATI ya**.)*
-2. ✅→❌ **El coche: la reserva de los 15 días está EN CURSO (10/08)**, con recogida y devolución
-   **EN el aeropuerto confirmadas** — 31 oct 11:00 → 14 nov 18:00, el día del vuelo de vuelta
-   (20:45). **Falta el precio final** *(§2)*.
+2. ✅ **El coche: RESERVADO — 15 días completos, con transfer aeropuerto ↔ oficina** — 31 oct
+   11:00 → 14 nov 18:00, el día del vuelo de vuelta (20:45). Precio cerrado *(§2)*.
 3. ✅ **Las noches de NWR no se tocan.** Las del 31 de octubre (Windhoek) y del 1–2 de noviembre
    (Spreetshoogte, decidido 08/08) **no son NWR**: la primera noche NWR sigue siendo Sesriem el
    3 de noviembre, y todas las de parque caen del **1 de noviembre** en adelante, en tramo barato.
@@ -407,7 +404,7 @@ confírmalos en la web oficial antes de pagar)*:
   consumo del coche y el precio del día— van sin verificar**: ajústalo a tu coche.
 
 **Total de salir de Oporto, la pareja ≈ ~€180–185** *(◐/❌ — la mayor parte, parking + peajes, es ◐;
-el combustible, ❌)*. Es un extra **fuera** del ~€3.811 por persona del presupuesto.
+el combustible, ❌)*. Es un extra **fuera** del ~€3.982 por persona del presupuesto.
 
 ```mermaid
 flowchart LR
@@ -556,12 +553,7 @@ flowchart LR
 > ### **TOTAL POR PERSONA: ~€3.982 (~N$79.600)** *con el coche cerrado y el safari guiado*
 > ### **TOTAL LA PAREJA: ~€7.963 (~N$159.300)**
 > Rango honesto: **€3.832–4.132 por persona** — el margen (±~€150) está en las noches sin
-> precio, el combustible, la comida y los misceláneos; el coche ya no es parte del margen: **es
-> precio cerrado.**
-> *(Corregido el 12/08: el coche pasó a precio cerrado, €1.181,50 por persona — +€169 sobre la
-> última estimación. Antes, el 10/08: el vuelo se emitió en €1.536, +€86 sobre la cotización del
-> 05/08. Y el 08/08: el total anterior arrastraba el alojamiento infravalorado y Cape Cross sin
-> sumar.)*
+> precio, el combustible, la comida y los misceláneos; el coche y el vuelo son precio cerrado.
 >
 > **Lo que todavía puede moverlo** *(ver §3, §4 y §9)*: las **7 noches de camping sin cotizar** ·
 > **+el traslado a Oporto** ida y vuelta *(ya cotizado el 10/08 en ~€180–185 la pareja ◐/❌ —

@@ -181,11 +181,12 @@ flowchart LR
   **N$500–1.000 (~€25–50) de bolsillo** ○ *(el del aeropuerto admite hasta ~N$3.000 · ~€150,
   reportes de viajeros ○; la carga grande, mejor en ciudad — cajero junto a sucursal, ver `07`)* — y la **SIM turista de MTC**
   *(«Leisure» N$349 · ~€17, registro con pasaporte obligatorio; ver `07`)*
-- 🚙 **~11:00–13:00 · recogida del 4×4 EN el aeropuerto — CONFIRMADA al abrir la reserva
-  (10/08/2026)** ✅ *(precio de los 15 días pendiente; que la confirmación escrita recoja las
-  horas del sábado — `20`)*. **Briefing sin prisa (1–2 h)**: presiones en frío
+- 🚙 **~11:00–13:00 · transfer a la oficina de Savanna y recogida del 4×4** ✅ *(Savanna no
+  entrega en el propio aeropuerto: transfer gratuito a su oficina de Windhoek, incluido por ser
+  15 días — `20` §1)*. **Al firmar, pedir por escrito la zona sunrise/sunset de la Opción 4**
+  *(por Deadvlei, `20` §1)*. **Briefing sin prisa (1–2 h)**: presiones en frío
   apuntadas, las DOS ruedas de repuesto, gato y compresor a la vista *(`06`)*, el **inventario del
-  camping contra la ficha — hornillo incluido** *(`05`)* y las **preguntas de la nevera**
+  camping contra la ficha** *(`20` §1)* y las **preguntas de la nevera**
   *([`18`](18-manual-de-campamento.md), §5)*
 - 🚗 **~13:00–13:45 · B6 al centro: ~45 km de asfalto** ○ — la conducción por la izquierda se
   estrena sin tráfico
@@ -412,7 +413,7 @@ flowchart LR
   charca manda sola sobre la oscuridad total, y el cielo de la parcela es de libro
 - 🐾 **La cifra real de la charca, de partes de viajeros** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/okaukuejo-camp/reviews/1),
   149 viajeros desde 2018 — cada % lleva su propia muestra ◐)*: **rino negro 87 % (119 de 137), elefante 97 %, jirafa 99 %, león 68 %** —
-  andando desde la parcela *(método y las 88 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
+  andando desde la parcela *(método y las 115 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
 - 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
 
 ### D10 · mar 10 — Safari Okaukuejo → Halali · **~110 km de safari lento** ◐ *(OSRM 108 por el desvío obligatorio; la directa eran ~70)*
@@ -523,14 +524,18 @@ flowchart LR
   del camping, garrafas y leña sobrante fuera — y las maletas de facturar (1×23 kg por cabeza)
   hechas desde la mañana ○. *El check-out del camping de Windhoek y si se puede volver por la
   tarde: pregúntalo al llegar el D13* ❌
-- ⛽ **17:00 · salida hacia el aeropuerto** — ~45 km de B6 ○ y **depósito lleno a la ida**
-  *(devolución con el tanque como se entregó ○)*
-- 🚙 **~17:45–18:00 · devolución del 4×4 EN el aeropuerto** ✅ *(confirmada al abrir la reserva
-  el 10/08 — las horas del sábado, por escrito: `20`)* — todavía **con luz para la inspección**
-  *(anochecer ~19:12)*
-- 🧳 **18:00–19:45 · facturación** ◐ — mostradores de Discover: **abren 16:45 (4 h antes)
+- ⛽ **Salida hacia la oficina de Savanna** — devolución con el tanque como se entregó ○ *(no en
+  el aeropuerto mismo: Savanna devuelve en su oficina de Windhoek y de ahí transfiere al
+  aeropuerto — `20` §1)*
+- 🚙 **~18:00 · devolución del 4×4** ✅ *(hora acordada; amplía la política estándar de Savanna,
+  que da 16:00 como límite — que quede por escrito, `20` §1)* — todavía **con luz para la
+  inspección** *(anochecer ~19:12)*. **El transfer gratuito de Savanna solo cubre hasta las
+  17:20** ❌: cómo cubren el tramo oficina→aeropuerto a esta hora concreta sigue sin confirmar
+  por escrito — es la pieza que más falta por cerrar de toda la reserva.
+- 🧳 **Facturación** ◐ — mostradores de Discover: **abren 16:45 (4 h antes)
   y CIERRAN 19:45 (60 min antes)** — **la hora dura del día es esa**. Devolviendo a las 18:00
-  quedan **~1h45 de colchón**: cabe hasta un pinchazo en la B6 *([ficha de aeropuertos de
+  quedan **~1h45 de colchón** hasta que cierre facturación, contando ya el transfer: cabe hasta un
+  pinchazo en la B6 *([ficha de aeropuertos de
   Discover](https://www.discover-airlines.com/us/en/book/travel-information/airport-info); la
   página devuelve 403 al descargar — extractos convergentes)*. La franquicia: **1×23 kg por
   cabeza**, cerrada en [`02`](02-presupuesto.md) §8
@@ -553,11 +558,11 @@ flowchart LR
 - **Combustible ~2.757 km** *(control OSRM 08/08)*: ~305–360 l ≈ **N$7.930–10.440 (~€396–522)** ○
   — presupuestado **~N$9.000 (~€450)** *(ver `02` §4)*
 - **Visado**: N$3.200 (~€160) los dos ✅
-- **Total tierra en camping ≈ ~€4.325 (~N$86.500)** la pareja ○/◐, banda ~€4.025–4.625 — *los 13
-  días del coche son cifra cerrada; los 2 del aeropuerto (~€270 ◐), en cotización final. Sumando
+- **Total tierra en camping ≈ ~€4.663 (~N$93.300)** la pareja ○/◐, banda ~€4.363–4.963 — *el coche,
+  RESERVADO con Savanna, es cifra cerrada (€2.363 los 15 días completos). Sumando
   vuelos (**€3.072, EMITIDOS el 10/08**) y seguro IATI Estrella (€226,04):
-  **~€7.622 (~N$152.400) la pareja · ~€3.811 por persona** (ver `02`; corregido el 10/08 con el
-  precio real del billete)*
+  **~€7.963 (~N$159.300) la pareja · ~€3.982 por persona** (ver `02`; actualizado el 12/08 con el
+  coche cerrado)*
 
 ### ⏰ Los horarios que mandan *(✅/◐ = con fuente en el dossier · ☀️ = cálculo astronómico ±5 min)*
 

@@ -130,9 +130,9 @@ flowchart LR
    presupuesta **130–150 km de combustible que quizá no habías contado**
 3. **El bucle de la Costa de los Esqueletos (D7–D8):** Henties Bay → Cape Cross → Ugabmund →
    **Terrace Bay**, y al día siguiente Springbokwasser → Bergsig → Twyfelfontein → Hoada.
-   **Actualización 02/08 ◐: en Terrace Bay HAY surtidor físico (reportes de viajeros), pero la web
-   oficial de NWR no lo lista, se quedó seco en los cortes de 2025 y alguna guía lo da «solo
-   huéspedes» — la regla sigue siendo tratarlo como si no hubiera.** En **Bergsig no hay
+   **En Terrace Bay HAY surtidor físico (reportes de viajeros) ◐, pero la web oficial de NWR no
+   lo lista, se quedó seco en los cortes de 2025 y alguna guía lo da «solo huéspedes» — trátalo
+   como si no hubiera.** En **Bergsig no hay
    gasolinera documentada** y la de Twyfelfontein es irregular (ver `08`).
    **La aritmética, con los km del enrutado OSRM (09/08)**: desde el surtidor de **Henties Bay**
    (✅ Puma 24 h) hasta el siguiente seguro —**Kamanjab, la mañana del D9**— hay **~740 km**

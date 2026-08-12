@@ -36,10 +36,10 @@ flowchart LR
 ```
 
 El itinerario queda **partido**: las etapas de Etosha, Damaraland **y la Costa de los Esqueletos
-desde Ugabmund** llevan riesgo *(corregido el 11/08: el riesgo se define por regiones
-administrativas, y la región de Kunene empieza en el cruce hacia Terrace Bay, no en
-Twyfelfontein — ninguna fuente oficial baja del nivel «región», así que el mapa fino es pregunta
-para el CVI)*; las del desierto y la costa central, prácticamente ninguno. **Y tu ventana juega a
+desde Ugabmund** llevan riesgo *(el riesgo se define por regiones administrativas, y la región de
+Kunene empieza en el cruce hacia Terrace Bay, no en Twyfelfontein — ninguna fuente oficial baja
+del nivel «región», así que el mapa fino es pregunta para el CVI)*; las del desierto y la costa
+central, prácticamente ninguno. **Y tu ventana juega a
 favor, ahora con fuente oficial** ✅: la guía británica
 *([TravelHealthPro/NaTHNaC](https://travelhealthpro.org.uk/country/157/namibia))* clasifica estas
 regiones como de riesgo alto **solo de diciembre a abril** — de mayo a noviembre recomienda
@@ -50,11 +50,9 @@ consulta del CVI decide, con ese dato encima de la mesa.
 del viaje (**D9–D12, del 9 al 12 de noviembre**), las fechas reales son:
 - **Atovacuona/proguanil (Malarone)** — empieza **1–2 días antes** de entrar en zona de riesgo,
   y la zona empieza en el **D7, el cruce de Ugabmund hacia Terrace Bay (sáb 7 — región de
-  Kunene)**: **~5–6 de noviembre**, ya de viaje — hay que llevarla comprada *(corregido el 11/08:
-  antes contaba desde el D8/Damaraland y llegaba un día tarde)*
+  Kunene)**: **~5–6 de noviembre**, ya de viaje — hay que llevarla comprada
 - **Mefloquina** — empieza **2–3 semanas antes** → **~17–24 de octubre**, receta necesaria en la
-  cita del CVI de septiembre *(corregido el 11/08: el tope del 26 quedaba corto de las dos
-  semanas)*
+  cita del CVI de septiembre
 
 👉 **Saca la receta en la cita del CVI, no la semana antes.**
 Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
