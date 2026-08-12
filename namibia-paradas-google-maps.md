@@ -3,10 +3,13 @@
 *Documento de consulta aparte — sin enlazar todavía desde el README ni desde ninguno de los dos
 PDF.*
 
-**[namibia-paradas-google-maps.csv](namibia-paradas-google-maps.csv)** — 38 puntos de la ruta con
-coordenadas, listos para importar como una capa de [Google My Maps](https://mymaps.google.com):
-dónde se duerme cada noche, lo que se visita, las puertas de parque con horario, los puertos de
-montaña y las gasolineras que el dossier marca como obligatorias.
+📍 **[El mapa ya montado, en Google My Maps](https://www.google.com/maps/d/u/0/edit?mid=1MQI8k4r_mCZwAcnhjcCBGndU-yHECHI&usp=sharing)**
+— ábrelo directamente, o entra desde la app Google Maps del móvil en "Tus lugares" → "Mapas".
+
+**[namibia-paradas-google-maps.csv](namibia-paradas-google-maps.csv)** — el fichero de origen: 38
+puntos de la ruta con coordenadas, dónde se duerme cada noche, lo que se visita, las puertas de
+parque con horario, los puertos de montaña y las gasolineras que el dossier marca como
+obligatorias. Sirve para reimportar si el mapa de arriba se pierde o hace falta rehacerlo.
 
 ## Cómo importar
 
