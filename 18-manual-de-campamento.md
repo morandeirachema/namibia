@@ -71,6 +71,11 @@ de carcasa rígida: **1 minuto** de montaje frente a ~5* ✅*)*.
   la tienda de techo **no protege del rayo**: se cierra y se espera (o se duerme) en la cabina,
   que sí hace de jaula *([Campwerk](https://www.campwerk.co.uk/roof-tent-safe-thunderstorm-storm/)
   · [OFM 4x4](https://ofm4x4.co.uk/blog/are-rooftop-tents-safe-in-thunderstorms))*.
+- **Y su racha llega ANTES que la lluvia** ✅ *(medido en el propio pan — `15`)*: 1–3 anocheceres
+  de noviembre entra un muro de viento y polvo de **37–66 km/h entre la puesta de sol y las
+  ~22:30**, dura ~1 hora y se agota. Cumulonimbos al atardecer = tienda cerrada o carcasa al
+  viento y nada suelto en la mesa. El consuelo: **las 05:45 del desmontaje son la hora más quieta
+  del día** ✅ — el viento de Etosha es de mediodía, no del alba.
 
 ## 3. El orden del coche es la mitad del confort
 
@@ -173,6 +178,9 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
   que se ve depende de lo que NO se oiga. La norma documentada es más dura que la «luz roja» que
   decía este manual: en la plataforma, **ni linterna, ni flash, ni pantalla de móvil** — el rojo
   del frontal es para el camino *([guía de Etosha](https://etoshanationalpark.com.na/wildlife/etosha-photography-guide/) · [okaukuejo](https://www.etoshanationalparknamibia.com/okaukuejo-waterhole/))*.
+- **Si en plena espera entra viento con polvo de golpe, es el frente de una tormenta** ✅ *(`15`)*:
+  una hora de muro y pasa — cámara tapada, buff arriba, y aguantar o volver: no es la noche
+  entera, es el borde de la célula.
 - **20 km/h dentro del campamento** ✅ *(reglamento NWR/MEFT)*.
 - **Música, a la altura de tu mesa** ○: el campamento entero está cenando bajo el mismo cielo.
 - **El braai se comparte** ○: la distancia social namibia se mide en brasas — un «join us» a los

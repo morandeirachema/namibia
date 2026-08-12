@@ -80,7 +80,9 @@ flowchart LR
   confirmación liste el compresor** ❌ *(la ficha lo incluye ✅, pero su FAQ lo vende como extra
   ◐)* · qué trae de **recuperación y seguridad** ❌ —eslinga, cables de arranque, planchas de
   arena, pala, extintor, botiquín del coche y el **triángulo, obligatorio por ley** ✅
-  *([reg. 233, GN 53/2001](http://www.lac.org.na/laws/annoREG/Road%20Traffic%20and%20Transport%20Act%2022%20of%201999-Regulations%202001-053.pdf))*— · coste del **conductor adicional** ❌.
+  *([reg. 233, GN 53/2001](http://www.lac.org.na/laws/annoREG/Road%20Traffic%20and%20Transport%20Act%2022%20of%201999-Regulations%202001-053.pdf))*— · **modelo de las tiendas de techo y su rating de viento** ❌ *(las rachas vespertinas de
+  Etosha llegan a 37–66 km/h ✅ — `15`; la Comfort es de carcasa rígida, ¿y la Budget?)* · coste
+  del **conductor adicional** ❌.
   *(El hornillo y el menaje pieza a pieza ya constan en la ficha desde el 10/08 ✅ — `18` §4.)*
 - **Cancelación, del contrato estándar** ✅ *(10/08)*: reembolso íntegro a **más de 30 días** ·
   **15 %** a 14–30 días · **25 %** a 7–13 · **50 %** a menos de 7 días o no presentarse.
