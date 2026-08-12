@@ -151,11 +151,11 @@ Misma unidad, mismo campamento, una semana de diferencia:
 - **Habitación doble** (2 pax) — octubre N$4.760 (~€238) → **noviembre N$3.800 (~€190)** · ahorro N$960 (~€48)/noche
 - **Chalet del charco** (2 pax) — octubre N$6.960 (~€348) → **noviembre N$4.760 (~€238)** · ahorro **N$2.200 (~€110)/noche**
 
-En un viaje de 15 días con lodges esto se acumula en **cientos de euros**, por encima de los
-**~€744–868 (~N$14.900–17.400)** que se ahorran en el coche. *(El argumento que en julio empujaba
-a viajar **después del 15 de noviembre** quedó **cerrado el 06/08/2026**: las fechas son las del
-vuelo, 31 oct – 14 nov — ver `16`. Se conserva la cuenta porque el ahorro de noviembre frente a
-octubre sigue siendo real.)*
+En un viaje de 15 días con lodges esto se acumula en **cientos de euros**. *(El ahorro octubre→
+noviembre que antes se calculaba también para el coche era de Namibia2Go — con Savanna, el
+proveedor real, no hay dato de si su tarifa varía igual entre los dos meses ❌. Las fechas del
+viaje son las del vuelo, 31 oct – 14 nov, decididas por otros motivos — ver `16`. El ahorro de
+alojamiento sigue siendo real independientemente del coche.)*
 
 ## 🎯 Actividades NWR (por persona)
 
