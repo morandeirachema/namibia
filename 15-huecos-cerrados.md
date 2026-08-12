@@ -151,7 +151,12 @@ es la zona fresca y húmeda en las dos lecturas — y el `05` lleva la horquilla
 
 **Walvis Bay en noviembre promedia ~13 km/h** (GSOD, misma metodología). Es viento suave de media:
 lo que molesta en la costa es la **niebla y el frío de madrugada**, no el vendaval. *(La fama ventosa
-de esta costa viene de Lüderitz, 400 km al sur y fuera de la ruta.)*
+de esta costa viene de Lüderitz, 400 km al sur y fuera de la ruta.)* **Corroborado el 12/08 ✅** con
+la estación real del aeropuerto de Walvis Bay —23 años de observaciones, 08/2003–07/2026—: media
+**anual** 8 nudos ≈ **14,8 km/h**, del oeste, con **rachas medias anuales de 24 nudos ≈ 44,4 km/h**
+*([windfinder.com/windstatistics/walvis_bay_airport](https://www.windfinder.com/windstatistics/walvis_bay_airport))* — mismo orden de magnitud que el GSOD, aunque es dato anual y no desglosado a
+noviembre. Swakopmund queda directamente **fuera de su ventana ventosa del año** (26 may–1 sep) ◐
+*([weatherspark](https://weatherspark.com/y/76228/Average-Weather-in-Swakopmund-Namibia-Year-Round))*: noviembre cae en la banda tranquila.
 
 ## 🌬️ Y el viento de Etosha en noviembre, medido — flojo de fondo, con 1–3 muros de racha al anochecer *(12/08)*
 
@@ -188,6 +193,40 @@ de esta costa viene de Lüderitz, 400 km al sur y fuera de la ruta.)*
   de Clements 2023 — la brisa que llega del Namib al anochecer de verano — de pago (abstract
   verificado). Y no existe climatología horaria de Okaukuejo en abierto: el ciclo diario descansa
   en un año medido, bueno pero uno.
+
+## 🌬️ Y el viento del resto de la ruta — la costa manda, el desierto y Damaraland quedan en blanco *(12/08)*
+
+**El ranking, con lo que hay:** costa (Walvis Bay/Swakopmund/corredor de Terrace Bay) > Windhoek >
+Etosha > el resto, sin datos suficientes para ordenarlo.
+
+- **Windhoek** ◐ — media de noviembre **14,3 km/h**, predominante del oeste
+  *([weatherspark](https://weatherspark.com/y/81938/Average-Weather-in-Windhoek-Namibia-Year-Round))*: más ventoso de fondo que Etosha (6,8). Corroborado en orden de magnitud por la estación
+  real de Eros Airport (14 años, 09/2012–07/2026): media anual 7 nudos ≈ **13,0 km/h**, rachas
+  anuales 21 nudos ≈ **38,9 km/h**, dirección NNE ✅
+  *([windfinder.com/windstatistics/windhoek_eros_airport](https://www.windfinder.com/windstatistics/windhoek_eros_airport))* — dato anual, sin desglose de noviembre. Frentes de racha de
+  tormenta convectiva, plausibles por analogía con Etosha *(misma meseta, misma época)*, pero
+  **sin fuente propia** ○.
+- **Costa de los Esqueletos / Terrace Bay / Cape Cross** — la fama de viento fuerte que tira
+  tiendas tiene un matiz de fondo con fuente: el mecanismo más extremo, el **Berg wind/Oosweer**,
+  es **de invierno (abril–agosto)**, no de noviembre ◐ *([Wikipedia, Geography of
+  Namibia](https://en.wikipedia.org/wiki/Geography_of_Namibia))* — coincide con lo ya cerrado del
+  Oosweer en el bloque de sol y polvo del 11/08. La única estación de Terrace Bay encontrada mide
+  un periodo (dic-2011 a jul-2012) que **no incluye ningún noviembre** y ya no reporta — su
+  ~20,4 km/h de media, real pero de otra estación del año, **no es aplicable** ❌. Cape Cross:
+  sin estación, sin dato ❌.
+- **Spreetshoogte, Sesriem/Sossusvlei (incluida la cresta de las dunas al amanecer) y
+  Damaraland/Twyfelfontein/Palmwag: hueco genuino, buscado a propósito y no encontrado** ❌ — ni
+  estación, ni cifra de operador, ni mención de viento como riesgo de conducción en las guías de
+  autoconducción de Spreetshoogte consultadas *(dos, abiertas y leídas — sus únicos peligros
+  citados son la pendiente, la grava suelta y la falta de barrera de seguridad, no el viento)*.
+  Un artículo académico sobre el régimen eólico del mar de dunas *(Lancaster 1985; solo resumen
+  accesible, no el texto)* apunta a que hacia el interior del desierto el viento es «bimodal o
+  complejo», distinto de la brisa costera simple — insuficiente para una cifra u hora.
+- **Implicación práctica declarada, no medida** ○: con la tienda de techo montada —más superficie
+  al viento que un coche normal— la prudencia en la C34 de la Costa de los Esqueletos es
+  razonable dado lo medido en el resto de la ruta (rachas reales de hasta 44 km/h en la costa,
+  37–66 en Etosha), pero ninguna fuente lo dice explícitamente para este tramo: es inferencia, no
+  hallazgo.
 
 ## 🌅 Luz — superado por una fuente mejor
 
