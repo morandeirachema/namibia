@@ -18,7 +18,7 @@ no se hace.**
 > ⚠️ **«Cotizado» no es «reservado» — y al 10/08/2026 hay dos excepciones**: el **vuelo, EMITIDO
 > y PAGADO (€1.536 p.p.)**, y el **coche, con la reserva EN TRÁMITE** *(aeropuerto → aeropuerto
 > confirmado; precio pendiente)*. Todo lo demás —Sesriem ×2, Terrace Bay, Etosha ×4 y el resto de
-> noches— sigue sin reservar *(ver [`15`](15-huecos-cerrados.md) §lista maestra y [`21`](21-reservas.md))*:
+> noches— sigue sin reservar *(ver [`15`](15-huecos-cerrados.md) §lista maestra y [`20`](20-reservas.md))*:
 > son precios de mercado, no pagos hechos. La ruta que presupuestan quedó **confirmada el
 > 06/08/2026** — la nota de abajo.
 
@@ -161,7 +161,7 @@ flowchart LR
 
 **Aparte, la retención en tarjeta**: la FAQ oficial de N2Go dice **«no deposit»** ✅ *(leída el
 10/08/2026)*, pero dos revendedores citan **N$2.500 (~€125)** de depósito de combustible ◐ — que
-quede por escrito al reservar (`21`). Margen en la tarjeta, en cualquier caso.
+quede por escrito al reservar (`20`). Margen en la tarjeta, en cualquier caso.
 
 > Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)
 > · precio de la cotización cerrada.
@@ -375,7 +375,7 @@ Cover = franquicia CERO**: **no hay franquicia que cubrir**. Es una garantía ca
 caso — no la cuentes como valor. *(El resquicio real, leído su contrato estándar el 10/08/2026:
 la cláusula 10.2 permite cobrar el daño sin contacto físico con otro vehículo u objeto «al margen
 de los waivers» — y ese daño no es «franquicia», así que el Estrella tampoco lo taparía. La
-pregunta por escrito está en `21`.)*
+pregunta por escrito está en `20`.)*
 
 ### ❓ La pregunta que decide: ¿evacuación aérea DENTRO del país?
 

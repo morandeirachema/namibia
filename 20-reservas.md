@@ -1,4 +1,4 @@
-# 21 · Reservas — el cuaderno de llamadas
+# 20 · Reservas — el cuaderno de llamadas
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
@@ -213,7 +213,7 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
   con el fragmento de N$600 · ~€30 ○ que ya había; para la ventana del viaje sigue **sin tarifa
   confirmada** ❌. *Plan B: Swakopmund, a 30 km, tiene más oferta de camping ○.*
 - **Hoada Campsite — dom 8 nov (D8)** — campamento **comunitario** *(la caja se queda en la
-  conservancy ◐ — `20`)*, el que el blog llama el más bonito de su viaje. **N$271–366/persona según
+  conservancy ◐ — `19`)*, el que el blog llama el más bonito de su viaje. **N$271–366/persona según
   temporada → N$542–732 (~€27–37) los dos** ◐ *(la temporada de noviembre sin fijar — `02` §3)*.
   **Reservas: Journeys Namibia** *(la gestora, con Grootberg Lodge)* ◐: 📧 res4@journeysnamibia.com ·
   📞 +264 61 228 104 *([grootberg.com/contact](http://www.grootberg.com/contact) ·

@@ -367,7 +367,7 @@ No son una incidencia — son parte del paisaje, y con el kit en la guantera dur
   del pasaporte** *(el original viaja en el coche, pero no hace falta darlo en mano)* y los
   teléfonos de abajo. El disco de licencia del vehículo va en su parabrisas: es cosa de
   Namibia2Go — basta saber que existe.
-- **El guion**: ventanilla abajo, **saludo primero** *(`20`)*, «where are you coming from /
+- **El guion**: ventanilla abajo, **saludo primero** *(`19`)*, «where are you coming from /
   where are you going», y a veces abrir el maletero en el control veterinario. Papeles en orden
   → «safe travels».
 - **Si alguien insinúa un «cool drink»** *(la propina impropia)*: sonrisa, «we're fine, thank

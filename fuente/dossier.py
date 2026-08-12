@@ -160,9 +160,9 @@ RESUMEN = {
     "17": "La lista de la víspera, ítem a ítem y con casilla: ropa, neceser, botiquín y kits.",
     "18": "Vivir del coche: la rutina de la tarde, la tienda, el braai, la nevera y los "
           "vecinos del campamento.",
-    "20": "Los pueblos, las lenguas, la historia que explica lo que se ve por la ventanilla "
+    "19": "Los pueblos, las lenguas, la historia que explica lo que se ve por la ventanilla "
           "y la etiqueta del trato — atado a los días de la ruta.",
-    "21": "El cuaderno de llamadas: cada reserva con su canal, su contacto y su fuente — "
+    "20": "El cuaderno de llamadas: cada reserva con su canal, su contacto y su fuente — "
           "el orden en que se cierran y lo que se deja para recepción.",
 }
 
@@ -175,10 +175,10 @@ def miles(n, sufijo=" km"):
 # El numero de un documento manda su sitio en el volumen, salvo aqui: la lista de
 # equipaje (`17`) se escribio la ultima pero se lee pegada al `05`, que es de lo que
 # sale; el manual de campamento (`18`) va pegado al `06`, porque el dia de ruta se lee
-# del tiron: conducir y acampar; y la cultura (`20`) pegada al `08`, que ya lleva la
+# del tiron: conducir y acampar; y la cultura (`19`) pegada al `08`, que ya lleva la
 # mesa y los mercados.
 # Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
-ORDEN = {"21": "04a", "17": "05a", "18": "06a", "20": "08a"}
+ORDEN = {"20": "04a", "17": "05a", "18": "06a", "19": "08a"}
 
 
 def documentos():

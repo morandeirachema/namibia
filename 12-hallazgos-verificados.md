@@ -99,7 +99,7 @@ Matices: la franquicia cero se aplica *"unless negligent driving is proven"* —
 pista considerado negligente podría generar responsabilidad igualmente — y el **contrato estándar,
 leído el 10/08/2026** ✅, va más allá: su **cláusula 10.2** permite cobrar el daño **sin contacto
 físico con otro vehículo, animal, objeto o persona «al margen de los waivers»** *(la pregunta por
-escrito, en `21`; la comparación con la contraoferta de Savanna, en `16` §8)*. Quedan excluidos el
+escrito, en `20`; la comparación con la contraoferta de Savanna, en `16` §8)*. Quedan excluidos el
 Water Damage Waiver, las tasas de frontera, las multas y la llamada por pérdida de llaves.
 
 Confianza **media** solo porque mejora tanto a Asco como a Savanna de forma llamativa, y eso

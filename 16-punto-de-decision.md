@@ -260,7 +260,7 @@ flowchart LR
   incluidos— deja el coche para el día siguiente**: el D1 a Spreetshoogte, en el aire. N2Go, en
   cambio, tiene **la oficina junto al aeropuerto con shuttle desde la sala de llegadas** ◐ *(su
   FAQ, leída el 10/08)*.
-- 📜 **Cancelación, verificada para los dos** *(la pedía el `21`)*: **N2Go** — reembolso íntegro a
+- 📜 **Cancelación, verificada para los dos** *(la pedía el `20`)*: **N2Go** — reembolso íntegro a
   más de 30 días · 15 % a 14–30 · 25 % a 7–13 · 50 % a menos de 7 o no presentarse ✅. **Savanna**
   — **25 % no reembolsable al reservar** · 30 % a 60–90 días · 50 % a 31–59 · 75 % a 16–30 ·
   **100 % con 15 días o menos** ✅. No hay color.
@@ -269,7 +269,7 @@ flowchart LR
   10.2)*, mientras que la Opción 4 de Savanna **cubre el vuelco por escrito** *(negligencia
   excluida en ambos)*. La matriz Gondwana lo escribe en claro en sus T&C generales: *«single
   vehicle accident is often deemed as negligent … irrespective of the excess conditions»* ◐.
-  Es exactamente la pregunta que el `21` manda hacer por escrito antes de pagar.
+  Es exactamente la pregunta que el `20` manda hacer por escrito antes de pagar.
 - 🚗 Lo demás, parejo: kilometraje ilimitado, 2 conductores y ~140 l de depósito los dos. Savanna
   garantiza **2 ruedas de repuesto** y **no entrega el tanque lleno** *(no tiene surtidor)*; en
   N2Go los conductores necesitan **23 años y 1 año de carnet** *(Savanna: 18+ y 2 años)* y el

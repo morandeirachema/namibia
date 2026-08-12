@@ -187,7 +187,7 @@ flowchart LR
   *(«Leisure» N$349 · ~€17, registro con pasaporte obligatorio; ver `07`)*
 - 🚙 **~11:00–13:00 · recogida del 4×4 EN el aeropuerto — CONFIRMADA al abrir la reserva
   (10/08/2026)** ✅ *(precio de los 15 días pendiente; que la confirmación escrita recoja las
-  horas del sábado — `21`)*. **Briefing sin prisa (1–2 h)**: presiones en frío
+  horas del sábado — `20`)*. **Briefing sin prisa (1–2 h)**: presiones en frío
   apuntadas, las DOS ruedas de repuesto, gato y compresor a la vista *(`06`)*, el **inventario del
   camping contra la ficha — hornillo incluido** *(`05`)* y las **preguntas de la nevera**
   *([`18`](18-manual-de-campamento.md), §5)*
@@ -245,7 +245,7 @@ flowchart LR
   cualquier campamento del país ○
 - 🛏️ **Spreetshoogte Campsite, primera de DOS noches** — **abierto confirmado ◐** *(10/08; lo
   opera Barkhan Dune Retreat)* ⚠️ *precio sin verificar (el blog citaba 150–300 ZAR/persona,
-  vigencia desconocida; ojo a la trampa de nombre — «Camp Gecko» y Namibgrens son otros, `21` §5)*
+  vigencia desconocida; ojo a la trampa de nombre — «Camp Gecko» y Namibgrens son otros, `20` §5)*
 
 ### D2 · lun 2 — Día entero en la escarpa · **0 km de ruta** *(decidido 08/08)*
 - **El día lento del viaje, en el sitio bueno**: amanecer en el mirador, la escarpa a pie, siesta
@@ -528,7 +528,7 @@ flowchart LR
 - ⛽ **17:00 · salida hacia el aeropuerto** — ~45 km de B6 ○ y **depósito lleno a la ida**
   *(devolución con el tanque como se entregó ○)*
 - 🚙 **~17:45–18:00 · devolución del 4×4 EN el aeropuerto** ✅ *(confirmada al abrir la reserva
-  el 10/08 — las horas del sábado, por escrito: `21`)* — todavía **con luz para la inspección**
+  el 10/08 — las horas del sábado, por escrito: `20`)* — todavía **con luz para la inspección**
   *(anochecer ~19:12)*
 - 🧳 **18:00–19:45 · facturación** ◐ — mostradores de Discover: **abren 16:45 (4 h antes)
   y CIERRAN 19:45 (60 min antes)** — **la hora dura del día es esa**. Devolviendo a las 18:00
@@ -696,7 +696,7 @@ de ~410 km salvo el regreso por asfalto, y el safari como clímax final.
 - ✅ **Vuelos** — **EMITIDO el 10/08**: €1.536 (~N$30.720) p.p., **Oporto → Windhoek,
   30 oct – 14 nov**
 - ❌ **Noches sin precio** — Spreetshoogte ×2 *(abierto ◐, lo opera Barkhan Dune Retreat; banda
-  contradictoria — y «Camp Gecko» es OTRO camping, `21` §5)* y
+  contradictoria — y «Camp Gecko» es OTRO camping, `20` §5)* y
   Walvis Bay ×2, más los campings de Windhoek (D0 y D13). **Terrace Bay quedó cerrado el 03/08**
   ✅ *(N$3.480 · ~€174 la pareja, ver D7)* y **Hoada ya tiene precio** ◐ (arriba); los lodges
   privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También

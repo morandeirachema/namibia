@@ -199,4 +199,4 @@ día. Por eso se preparan la víspera y viajan en el daypack, no abajo.
 *Los precios de lo que falta por comprar (adaptadores, satelital, garrafas) no están cotizados en
 el dossier — se compran fuera o allí (`08`). Los «sin dato» de la ficha del coche —toallas,
 almohadas, hornillo y menaje— los cerró la propia ficha en el cotejo del 10/08/2026 ✅: para la
-entrega quedan la batería de la nevera y el tanque (`18` §5, `21`). · 10/08/2026*
+entrega quedan la batería de la nevera y el tanque (`18` §5, `20`). · 10/08/2026*
