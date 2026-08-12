@@ -23,7 +23,7 @@ Confianza: ✅ fuente primaria (web propia del operador, PDF de tarifas oficial)
 secundaria concordante · ❌ sin verificar. Conversión N$→€ con la convención del proyecto,
 ~N$20 = €1; cuando el operador publica en US$ o R (rand, paridad fija con el N$), se avisa.
 
-![La charca de Okaukuejo, la del chalet y la luz de noche](img/lugares/okaukuejo.jpg)
+![La charca de Okaukuejo, la del chalet y la luz de noche](../img/lugares/okaukuejo.jpg)
 *Etosha, el self-drive normal — la referencia frente a la que se compara todo este documento.
 Foto: Christoph Strässler, CC BY-SA 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Drinking_Giraffe_at_the_Okaukuejo_Waterhole,_Etosha_National_Park,_Namibia.jpg)*
 
@@ -31,7 +31,7 @@ Foto: Christoph Strässler, CC BY-SA 2.0 — [Wikimedia Commons](https://commons
 
 ## 0 · Sin dormir fuera — de camino, cero desvío
 
-![El comedor de Palmwag Lodge, en Damaraland](img/lugares/palmwag.jpg)
+![El comedor de Palmwag Lodge, en Damaraland](../img/lugares/palmwag.jpg)
 *Foto: Greg Willis, CC BY-SA 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Interior_of_lodge_(3690395368).jpg)*
 
 **[Palmwag Lodge](https://gondwana-collection.com/accommodation/palmwag-lodge) (Gondwana)** ✅ — no
@@ -55,7 +55,7 @@ horario de ese día de repostaje.
 
 ### Ongava Game Reserve — [ongava.com](https://www.ongava.com/) ✅
 
-![Turdoide caricalvo en Andersson's at Ongava, junto a la puerta Andersson](img/lugares/ongava.jpg)
+![Turdoide caricalvo en Andersson's at Ongava, junto a la puerta Andersson](../img/lugares/ongava.jpg)
 *Sin paisaje ni foto del lodge libres en Commons: esta es fauna fotografiada dentro de Andersson's
 at Ongava, uno de los alojamientos de la reserva. Foto: Ragnhild & Neil Crawford, CC BY-SA 2.0 —
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bare-cheeked_Babbler-5996_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg)*
@@ -77,10 +77,10 @@ at Ongava, uno de los alojamientos de la reserva. Foto: Ragnhild & Neil Crawford
 
 ### Onguma Game Reserve — [onguma.com](https://onguma.com/) ✅
 
-![Manada de leones en Onguma Game Reserve, junto a la puerta Von Lindequist](img/lugares/onguma.jpg)
+![Manada de leones en Onguma Game Reserve, junto a la puerta Von Lindequist](../img/lugares/onguma.jpg)
 *Foto: Graeme Churchard, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%B6we_(Panthera_leo),_Rudel_ruhend.jpg)*
 
-![El fuerte de Namutoni, cuartel colonial reconvertido en campamento](img/lugares/namutoni.jpg)
+![El fuerte de Namutoni, cuartel colonial reconvertido en campamento](../img/lugares/namutoni.jpg)
 *Namutoni y su puerta, Von Lindequist — Onguma linda justo al otro lado.
 Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Namutomi_Fort_(37073116643).jpg)*
 
@@ -111,7 +111,7 @@ Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wik
 
 ### Okonjima Nature Reserve / AfriCat — [okonjima.com](https://okonjima.com/) ✅
 
-![Mirador al atardecer sobre Okonjima Nature Reserve](img/lugares/okonjima.jpg)
+![Mirador al atardecer sobre Okonjima Nature Reserve](../img/lugares/okonjima.jpg)
 *Foto de la propia reserva, subida a su cuenta oficial de Commons. CC BY-SA 4.0 —
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Okonjima_Nature_Reserve.jpg)*
 
@@ -183,7 +183,7 @@ sola noche aislable ❌.
 
 ### Grootberg Lodge — [grootberg.com](https://www.grootberg.com) ◐
 
-![El paso de Grootberg, subiendo hacia Hoada](img/lugares/grootberg.jpg)
+![El paso de Grootberg, subiendo hacia Hoada](../img/lugares/grootberg.jpg)
 *La meseta de Grootberg — la foto es del paso, no del lodge en sí, que se asienta en el mismo
 altiplano. Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grootberg_Pass_(37090707863).jpg)*
 
@@ -203,7 +203,7 @@ altiplano. Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikime
 
 ### Hobatere Lodge — [hobatere-lodge.com](https://hobatere-lodge.com) ✅
 
-![Cebra de montaña de Hartmann en Hobatere, al oeste de Etosha](img/lugares/hobatere.jpg)
+![Cebra de montaña de Hartmann en Hobatere, al oeste de Etosha](../img/lugares/hobatere.jpg)
 *Foto: Moongateclimber, CC BY-SA 3.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hartmann_zebra_hobatere_S.jpg)*
 
 - **Ruta**: oeste de Etosha, concesión ≠Khoadi-//Hôas, junto a Galton Gate. **Es un desvío
