@@ -11,6 +11,13 @@ puntos de la ruta con coordenadas, dónde se duerme cada noche, lo que se visita
 parque con horario, los puertos de montaña y las gasolineras que el dossier marca como
 obligatorias. Sirve para reimportar si el mapa de arriba se pierde o hace falta rehacerlo.
 
+⚠️ **12/08, corregido el orden de las filas** — la primera versión ordenaba solo por el primer día
+de cada punto, sin garantizar el orden real dentro de ese día (por ejemplo, el D13 salía
+Okahandja-Otjiwarongo-Tsumeb-Von Lindequist en vez de Von Lindequist-Tsumeb-Otjiwarongo-Okahandja,
+que es como se conduce de verdad). El CSV de arriba ya sale en el orden real de paso. **Si ya
+importaste la versión anterior al mapa de My Maps, tienes que volver a importar este CSV** —Google
+My Maps no se actualiza solo cuando cambia el fichero de origen.
+
 ## Cómo importar
 
 1. Entra en [mymaps.google.com](https://mymaps.google.com) y crea un mapa nuevo (o abre uno que
@@ -45,3 +52,11 @@ itinerario narrado los sitúan en un día concreto: **Torra Bay**, **Khorixas** 
 Galton** (esta última ni siquiera se usa en la ruta final — Galton no conecta con la red principal
 del parque hacia Okaukuejo, `13`). Sus coordenadas son reales y están en el CSV para tenerlas en el
 mapa, pero sin fecha porque no hay fuente que la confirme — mejor un hueco que un día inventado.
+Por el mismo motivo van **al final de la lista**, fuera de la secuencia de la ruta: interpolarlos
+en un punto concreto habría sido inventar un orden tan como inventar un día.
+
+**El orden de las filas es el orden real de paso**, no alfabético ni de bloque: se calcula
+recorriendo `ETAPAS` día a día y anotando la primera vez que se pisa cada punto — el mismo dato que
+usa `geodatos.py` para pedirle a OSRM el trazado. Deadvlei, Palmwag y Grootberg —sin ancla OSRM
+propia— se insertan a mano en su hueco real (Deadvlei justo tras Duna 45 en el D4; Palmwag y
+Grootberg entre Twyfelfontein y Hoada en el D8, en ese orden geográfico).
