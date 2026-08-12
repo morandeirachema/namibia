@@ -97,7 +97,7 @@ LUGARES = [
     ("termitero", "Termitero en la sabana",
      "Dunst Namibia Oct 2002 slide342 - Termitenbau.jpg"),
 
-    # --- reservas privadas (investigación del 12/08, reservas-privadas-vs-etosha.md) ---
+    # --- reservas privadas (investigación del 12/08, aparte/reservas-privadas-vs-etosha.md) ---
     ("ongava", "Turdoide caricalvo en Andersson's at Ongava, junto a la puerta Andersson",
      "Bare-cheeked Babbler-5996 - Flickr - Ragnhild & Neil Crawford.jpg"),
     ("onguma", "Manada de leones en Onguma Game Reserve, junto a la puerta Von Lindequist",

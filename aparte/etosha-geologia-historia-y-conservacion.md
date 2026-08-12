@@ -6,14 +6,14 @@ directamente cuando fue posible — nunca de memoria.*
 
 **Alcance**: esto es Etosha como lugar — cómo se formó, qué clima tiene, quién vivió allí antes del
 parque y qué le pasó, cómo se gestiona hoy. **No es sobre qué fauna se ve ni dónde**: eso ya está
-en [`09-fauna-etosha.md`](09-fauna-etosha.md) y en `guia-fauna-etosha.pdf`, con su propio método y
+en [`09-fauna-etosha.md`](../09-fauna-etosha.md) y en `guia-fauna-etosha.pdf`, con su propio método y
 sus propias fuentes.
 
 Confianza: ✅ fuente primaria (paper académico leído completo, base de datos oficial, comunicado
 gubernamental) · ◐ fuente secundaria concordante · ○ práctica común/cita repetida, sin fuente
 primaria verificada · ❌ sin verificar o con fuentes contradictorias sin reconciliar.
 
-![La depresión de Etosha desde la Estación Espacial](img/lugares/etosha-pan-satelite.jpg)
+![La depresión de Etosha desde la Estación Espacial](../img/lugares/etosha-pan-satelite.jpg)
 *Foto: NASA, dominio público*
 
 ---
@@ -218,7 +218,7 @@ le dio estatus de parque nacional en 1967, y ejecutó el recorte Odendaal de 197
 
 ## 6 · Los Hai||om: antes del parque, y su desplazamiento
 
-![Rinoceronte negro en Etosha: el premio de la charca iluminada](img/lugares/etosha-rino.jpg)
+![Rinoceronte negro en Etosha: el premio de la charca iluminada](../img/lugares/etosha-rino.jpg)
 *Foto: Yathin S Krishnappa, CC BY-SA 3.0*
 
 **Antes del parque**: los Hai||om (Hai//om, Hei//om), el mayor grupo san de Namibia, ocupaban la

@@ -70,7 +70,7 @@ del catálogo: se calcula recorriendo `ETAPAS` día a día y anotando la primera
 punto. Tres de esos 35 —**Deadvlei**, **Palmwag** y el **paso de Grootberg**— no son ancla de
 enrutado OSRM (el camino pasa por ellos sin necesitar un punto de paso aparte para que la ruta
 salga bien), así que el cruce automático los dejaba sin día ni posición: se completaron a mano
-contra [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md) e insertaron en su hueco real
+contra [`01-itinerarios-dia-a-dia.md`](../01-itinerarios-dia-a-dia.md) e insertaron en su hueco real
 (Deadvlei justo tras Duna 45 en el D4; Palmwag y Grootberg entre Twyfelfontein y Hoada en el D8, en
 ese orden geográfico).
 
