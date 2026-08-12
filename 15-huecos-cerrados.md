@@ -183,7 +183,7 @@ de esta costa viene de Lüderitz, 400 km al sur y fuera de la ruta.)*
   *([outdoorroadie](https://outdoorroadie.co.uk/pages/how-much-wind-can-a-roof-top-tent-withstand))*.
   El fondo de noviembre queda por debajo de todo; la racha convectiva entra en banda de «carcasa
   al viento y, con lona, cerrar». **El modelo de tienda del Hilux de N2Go y su rating siguen sin
-  confirmar ❌** — a la tanda de preguntas del `21`.
+  confirmar ❌** — a la tanda de preguntas del `20`.
 - **En blanco**: weather-atlas (403), weatherspark (no tiene página de Etosha), el texto completo
   de Clements 2023 — la brisa que llega del Namib al anochecer de verano — de pago (abstract
   verificado). Y no existe climatología horaria de Okaukuejo en abierto: el ciclo diario descansa
@@ -471,12 +471,12 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 - ✈️ **El billete está EMITIDO desde el 10/08** ✅ *(€1.536 p.p.; se cotizó en €1.450 el 05/08)*:
   **el e-visa queda desbloqueado** — pedirlo es el siguiente trámite con fecha.
 - 🏕️ **La única reserva en marcha es la del coche** *(EN TRÁMITE el 10/08: aeropuerto →
-  aeropuerto confirmado, precio pendiente ❌ — `21`)*: ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
+  aeropuerto confirmado, precio pendiente ❌ — `20`)*: ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
   al parque a pernoctar)*, ni las cuatro de Etosha — **ni las DOS de Spreetshoogte** *(decididas el
   08/08; su hueco doble quedó en sencillo el 09/08: **contacto localizado** —
-  spreetshoogte@iway.na · +264 62 572 010 ◐, ver `21`— pero la **tarifa sigue sin verificar** ❌;
+  spreetshoogte@iway.na · +264 62 572 010 ◐, ver `20`— pero la **tarifa sigue sin verificar** ❌;
   el «closed down» quedó **refutado el 10/08** ◐ y la trampa de homónimos, aclarada: **lo opera
-  Barkhan Dune Retreat** — «Camp Gecko» y Namibgrens son OTROS, `21` §5)*.
+  Barkhan Dune Retreat** — «Camp Gecko» y Namibgrens son OTROS, `20` §5)*.
 - 🚗 **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, 15 días,
   aeropuerto → aeropuerto; el 31-oct fuera de temporada baja ❌ y la entrega EN el aeropuerto sin
   confirmar ❌ — `02` §2)*.
@@ -511,11 +511,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   > tres siguen en la estimación de práctica común de `02`; **estos números son pistas con URL para el
   > que llame a reservar, no precios para presupuestar**.
 
-  **Avance del 09/08** *(los contactos, con URL, en `21`)*: **Urban Camp** reserva por NightsBridge
+  **Avance del 09/08** *(los contactos, con URL, en `20`)*: **Urban Camp** reserva por NightsBridge
   y su propia web confirma que **no publica número** ✅; **Lagoon Chalets** tiene teléfono y un
   portal le publica **camping «desde R700» ≈ N$700 (~€35) para dos** ◐; y **Spreetshoogte** tiene
   email y teléfono ◐ — y el aviso de «closed down» quedó **refutado el 10/08** ◐ *(abierto,
-  operado por Barkhan Dune Retreat — `21` §5)*. **Ninguna tarifa nueva
+  operado por Barkhan Dune Retreat — `20` §5)*. **Ninguna tarifa nueva
   verificada: los tres siguen en la estimación.**
 - 💳 **La fianza que retiene Namibia2Go** en la tarjeta — **PARCIALMENTE CERRADO ◐ (05/08), con un
   conflicto sin resolver**: la propia Namibia2Go se anuncia como **«No Deposit»** *(sin fianza, a

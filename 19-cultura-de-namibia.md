@@ -1,4 +1,4 @@
-# 20 · Cultura de Namibia
+# 19 · Cultura de Namibia
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >

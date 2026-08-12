@@ -82,7 +82,7 @@ flowchart LR
 1. **Rematar la reserva del coche, EN TRÁMITE desde el 10/08** *(aeropuerto → aeropuerto ya
    confirmado ✅)*: falta el **precio final de los 15 días** *(el 31-oct fuera de temporada baja:
    que venga desglosado ❌)* y la **confirmación por escrito** — con las horas del sábado
-   *(31/10 ~11:00 · 14/11 ~18:00)* y las preguntas del [`21`](21-reservas.md) *(vuelco a solas /
+   *(31/10 ~11:00 · 14/11 ~18:00)* y las preguntas del [`20`](20-reservas.md) *(vuelco a solas /
    cláusula 10.2, fianza, calendario de pago)*. 📞 **+264 61 427 220** ·
    [namibia2go.com](https://namibia2go.com)
 2. **Adelantar el seguro al 30/10** — **urgente ya: el billete está emitido y la póliza cotizada
@@ -94,7 +94,7 @@ flowchart LR
 5. **Reservar Sesriem ×2, Terrace Bay y las cuatro de Etosha** — sin la de Terrace Bay **no se
    entra** al Skeleton Coast a pernoctar. **Y reservar Spreetshoogte ×2**: **abierto
    confirmado ◐** *(el «closed down» quedó refutado el 10/08; el camping bueno lo opera Barkhan
-   Dune Retreat)*, contacto localizado — la **tarifa, aún sin verificar** ❌ *(`21` §5)*. *(Sesriem, Terrace Bay,
+   Dune Retreat)*, contacto localizado — la **tarifa, aún sin verificar** ❌ *(`20` §5)*. *(Sesriem, Terrace Bay,
    Okaukuejo, Halali, Namutoni y Spreetshoogte: esas son las **6** del contador de arriba.)*
 6. **Preguntar a NWR (+264 67 229 800)** si las 3 salidas guiadas de mañana y el nocturno se
    pueden dejar cerrados desde España — su tarifa avisa de que **en temporada de lluvias no
@@ -102,13 +102,13 @@ flowchart LR
 
 📞 **El cuaderno completo de reservas** —cada una con su canal, su contacto verificado, lo que se
 pide por escrito al cerrarla y lo que se deja para recepción— **está en
-[`21-reservas`](21-reservas.md)**.
+[`20-reservas`](20-reservas.md)**.
 
 <details>
 <summary><b>🕳️ Lo que sigue sin poder cerrarse</b></summary>
 
 Tres campings sin tarifa publicada *(Windhoek, Walvis Bay y Spreetshoogte — **contactos ya
-localizados el 09/08, ver [`21`](21-reservas.md)**; el de Spreetshoogte, **abierto**: el «closed
+localizados el 09/08, ver [`20`](20-reservas.md)**; el de Spreetshoogte, **abierto**: el «closed
 down» quedó refutado el 10/08 ◐ y lo opera Barkhan Dune Retreat)* ·
 la fianza de Namibia2Go *(su FAQ, leída directa el 10/08, dice «no deposit»; dos revendedores citan
 N$2.500 (~€125) — pregúntalo por escrito)* · las **horas EXACTAS del sábado en la confirmación
@@ -523,7 +523,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 **🧳 Preparar — antes de salir de casa**
 
 4. 📅 [**`04-guia-preparacion`**](04-guia-preparacion.md) — la cuenta atrás, el e-visa, las vacunas y los plazos que vencen
-5. 📞 [**`21-reservas`**](21-reservas.md) — **el cuaderno de llamadas**: cada reserva con su canal, su contacto y su fuente — y lo que se cierra en recepción
+5. 📞 [**`20-reservas`**](20-reservas.md) — **el cuaderno de llamadas**: cada reserva con su canal, su contacto y su fuente — y lo que se cierra en recepción
 6. 🎒 [**`05-equipaje`**](05-equipaje.md) — el porqué del petate: las seis reglas, las temperaturas y qué trae ya el coche
 7. ✅ [**`17-lista-de-equipaje`**](17-lista-de-equipaje.md) — **la lista de la víspera**, con cantidades y casilla: ropa, neceser, botiquín, electrónica y kits
 
@@ -533,7 +533,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 9. ⛺ [**`18-manual-de-campamento`**](18-manual-de-campamento.md) — **vivir del coche**: la rutina de la tarde, la tienda, el braai, la nevera y los vecinos del campamento
 10. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
 11. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
-12. 🪘 [**`20-cultura-de-namibia`**](20-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
+12. 🪘 [**`19-cultura-de-namibia`**](19-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
 13. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 115 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 14. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
 15. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones

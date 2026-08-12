@@ -425,6 +425,6 @@ facilidad de compra—: cada uno lleva su marca según se pudo leer el precio en
 reconocido, no un precio inventado). Esta lista sigue sin cotizar el conjunto: cada precio va
 suelto en su línea. Los «sin dato» de la ficha del coche —toallas, almohadas, hornillo y menaje—
 los cerró la propia ficha en el cotejo del 10/08/2026 ✅: para la entrega quedan la batería de la
-nevera y el tanque (`18` §5, `21`). El 11/08/2026 la lista pasó su primer barrido completo de
+nevera y el tanque (`18` §5, `20`). El 11/08/2026 la lista pasó su primer barrido completo de
 fuentes —salud (CDC/NaTHNaC), clima, sol, energía y cinco listas reputadas de self-drive—: de ahí
 la crema ×4, el aloe, el termo y las fechas corregidas de la profilaxis. · 12/08/2026*
