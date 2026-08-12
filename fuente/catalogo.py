@@ -96,6 +96,18 @@ LUGARES = [
      "Toyota Hilux D-4D with roof tents.jpg"),
     ("termitero", "Termitero en la sabana",
      "Dunst Namibia Oct 2002 slide342 - Termitenbau.jpg"),
+
+    # --- reservas privadas (investigación del 12/08, reservas-privadas-vs-etosha.md) ---
+    ("ongava", "Turdoide caricalvo en Andersson's at Ongava, junto a la puerta Andersson",
+     "Bare-cheeked Babbler-5996 - Flickr - Ragnhild & Neil Crawford.jpg"),
+    ("onguma", "Manada de leones en Onguma Game Reserve, junto a la puerta Von Lindequist",
+     "Löwe (Panthera leo), Rudel ruhend.jpg"),
+    ("okonjima", "Mirador al atardecer sobre Okonjima Nature Reserve",
+     "Okonjima Nature Reserve.jpg"),
+    ("palmwag", "El comedor de Palmwag Lodge, en Damaraland",
+     "Interior of lodge (3690395368).jpg"),
+    ("hobatere", "Cebra de montaña de Hartmann en Hobatere, al oeste de Etosha",
+     "Hartmann zebra hobatere S.jpg"),
 ]
 
 # ---------------------------------------------------------------------------

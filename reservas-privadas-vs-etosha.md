@@ -23,9 +23,16 @@ Confianza: ✅ fuente primaria (web propia del operador, PDF de tarifas oficial)
 secundaria concordante · ❌ sin verificar. Conversión N$→€ con la convención del proyecto,
 ~N$20 = €1; cuando el operador publica en US$ o R (rand, paridad fija con el N$), se avisa.
 
+![La charca de Okaukuejo, la del chalet y la luz de noche](img/lugares/okaukuejo.jpg)
+*Etosha, el self-drive normal — la referencia frente a la que se compara todo este documento.
+Foto: Christoph Strässler, CC BY-SA 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Drinking_Giraffe_at_the_Okaukuejo_Waterhole,_Etosha_National_Park,_Namibia.jpg)*
+
 ---
 
 ## 0 · Sin dormir fuera — de camino, cero desvío
+
+![El comedor de Palmwag Lodge, en Damaraland](img/lugares/palmwag.jpg)
+*Foto: Greg Willis, CC BY-SA 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Interior_of_lodge_(3690395368).jpg)*
 
 **[Palmwag Lodge](https://gondwana-collection.com/accommodation/palmwag-lodge) (Gondwana)** ✅ — no
 exige ni una noche ni un kilómetro de más: **ya es parada confirmada de repostaje** en la ruta
@@ -48,6 +55,11 @@ horario de ese día de repostaje.
 
 ### Ongava Game Reserve — [ongava.com](https://www.ongava.com/) ✅
 
+![Turdoide caricalvo en Andersson's at Ongava, junto a la puerta Andersson](img/lugares/ongava.jpg)
+*Sin paisaje ni foto del lodge libres en Commons: esta es fauna fotografiada dentro de Andersson's
+at Ongava, uno de los alojamientos de la reserva. Foto: Ragnhild & Neil Crawford, CC BY-SA 2.0 —
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bare-cheeked_Babbler-5996_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg)*
+
 - **Ruta**: linda con Etosha en la puerta **Andersson**, la misma que ya se usa para Okaukuejo el
   D9 — de camino, sin desvío. Distancia exacta lodge↔puerta no publicada ❌.
 - 324 km² / 32.400 ha ◐. Precio pp/noche, [tarifa 2026 oficial](https://cdn.sanity.io/files/t3qm2dt2/production/b87a4d3f75de438c55302cf5ca4c92a81b42ebe3.pdf)
@@ -64,6 +76,13 @@ horario de ese día de repostaje.
   organizados **dentro de la propia Etosha** desde el lodge (N$2.600 pp).
 
 ### Onguma Game Reserve — [onguma.com](https://onguma.com/) ✅
+
+![Manada de leones en Onguma Game Reserve, junto a la puerta Von Lindequist](img/lugares/onguma.jpg)
+*Foto: Graeme Churchard, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%B6we_(Panthera_leo),_Rudel_ruhend.jpg)*
+
+![El fuerte de Namutoni, cuartel colonial reconvertido en campamento](img/lugares/namutoni.jpg)
+*Namutoni y su puerta, Von Lindequist — Onguma linda justo al otro lado.
+Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Namutomi_Fort_(37073116643).jpg)*
 
 - **Ruta**: linda con la puerta **Von Lindequist**, a solo ~10 km de los campamentos de Onguma —
   y Von Lindequist está a 17 km de Namutoni, donde ya duermen el D11-D12 ◐. **El desvío más
@@ -92,6 +111,10 @@ horario de ese día de repostaje.
 
 ### Okonjima Nature Reserve / AfriCat — [okonjima.com](https://okonjima.com/) ✅
 
+![Mirador al atardecer sobre Okonjima Nature Reserve](img/lugares/okonjima.jpg)
+*Foto de la propia reserva, subida a su cuenta oficial de Commons. CC BY-SA 4.0 —
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Okonjima_Nature_Reserve.jpg)*
+
 - **Ruta**: 48 km al sur de Otjiwarongo por la B1 + 10 km de pista — es exactamente la parada
   opcional que `01` ya contempla para el D13 Etosha→Windhoek, **de camino, sin desvío extra**.
 - 22.000 ha ✅. Precio pp/noche, [tarifa 2026 oficial](https://okonjima.com/wp-content/uploads/2026/08/Okonjima-Rack-Rates-2026-.pdf)
@@ -111,6 +134,11 @@ horario de ese día de repostaje.
   versión nocturna del mismo game drive, sino ciencia de seguimiento de verdad.
 
 ### Etosha Heights (Safarihoek / Etosha Mountain Lodge) — operador **Natural Selection** ✅
+
+*Sin foto: ninguna variante de búsqueda (Etosha Heights, Safarihoek, Etosha Mountain Lodge,
+Natural Selection) devuelve un fichero ni una categoría en Wikimedia Commons — comprobado el
+12/08/2026 ❌. Coherente con ser una marca pequeña y reciente que no sube material a Commons; no
+se rellena el hueco con una foto de otro sitio.*
 
 ⚠️ `etoshanationalparknamibia.com`, el resultado que aparece como aparente "oficial", **es un
 portal de terceros**, no el operador — el gestor real de los lodges es Natural Selection, con
@@ -155,6 +183,10 @@ sola noche aislable ❌.
 
 ### Grootberg Lodge — [grootberg.com](https://www.grootberg.com) ◐
 
+![El paso de Grootberg, subiendo hacia Hoada](img/lugares/grootberg.jpg)
+*La meseta de Grootberg — la foto es del paso, no del lodge en sí, que se asienta en el mismo
+altiplano. Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grootberg_Pass_(37090707863).jpg)*
+
 - **Ruta**: meseta de Grootberg, concesión ‡Khoadi-//Hôas, Damaraland — ya en la zona de la ruta
   (área de Hoada, D8).
 - **Rhino tracking a pie**: gestionado por la propia comunidad (‡Khoadi-//Hôas Conservancy,
@@ -170,6 +202,9 @@ sola noche aislable ❌.
   pie, bajo ninguna circunstancia.
 
 ### Hobatere Lodge — [hobatere-lodge.com](https://hobatere-lodge.com) ✅
+
+![Cebra de montaña de Hartmann en Hobatere, al oeste de Etosha](img/lugares/hobatere.jpg)
+*Foto: Moongateclimber, CC BY-SA 3.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hartmann_zebra_hobatere_S.jpg)*
 
 - **Ruta**: oeste de Etosha, concesión ≠Khoadi-//Hôas, junto a Galton Gate. **Es un desvío
   real, no un paso de camino**: 65 km al norte de Kamanjab por la C35 (asfalto) + 16-17 km de pista
