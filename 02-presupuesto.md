@@ -278,9 +278,18 @@ bajo la Nature Conservation Ordinance de 1975 (primera subida desde 2021) — **
 dos páginas oficiales del MEFT (PDF de tarifas + nota de prensa `news/199`) y varias secundarias, pero
 ninguna se pudo abrir (403) para verificar la extracción de la tabla fina; la **gaceta está localizada
 en el índice de gazettes.africa pero tampoco se pudo abrir aquí** (403), así que la tabla sigue sin
-verificarse contra el documento primario (detalle en `15` §Tasas). Los tres parques de pago de la ruta
-(Namib-Naukluft, Skeleton Coast, Etosha) son **premium**, así que el N$280 (~€14) es la tarifa correcta para
-los tres.
+verificarse contra el documento primario (detalle en `15` §Tasas). **Se presupuesta el N$280 (~€14)
+premium para las 7 unidades como cifra CONSERVADORA (la banda alta), no como dato cerrado ○:** una
+búsqueda de 08/2026 apunta a que la subida es de **dos tramos** —los parques emblemáticos de N$150 a
+**N$280** (+86 %) y los demás de N$100 a **~N$200** (+100 %, de ahí el titular «80–100 %»)—, pero
+**ninguna fuente se pudo descargar para confirmar en qué tramo cae cada parque** *(MEFT, NWR, namibian.org,
+safarifind y el blog: todos egress/403)*. Etosha es premium sin discusión *(es la cifra N$280 que repiten
+todas las fuentes)*; **Namib-Naukluft** fue siempre de la banda emblemática de N$150, así que muy
+probablemente también premium; **la unidad de Skeleton Coast es la MENOS segura** de las tres —podría ser
+del tramo estándar (~N$200) y, además, `11` registra que el **permiso de tránsito self-drive del sector
+Ugabmund–Springbokwasser es GRATIS** ◐, distinto de la tasa de conservación de Terrace Bay. **Dirección
+del riesgo: a la BAJA** —si Skeleton Coast no es premium o su tránsito no se cobra, la cifra sobra, no
+falta—, así que el total de tasas queda holgado. Confírmalo en recepción/al reservar.
 
 **La ruta cruza tres zonas de pago:**
 - **Namib-Naukluft** (Sesriem/Sossusvlei): ~2 unidades de 24 h (tarde de llegada + amanecer en Deadvlei).
