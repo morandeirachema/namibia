@@ -45,7 +45,8 @@ BLOQUES = [
 
 # Fotos que salpican cada documento, en orden de aparicion.
 FOTOS = {
-    "01": ["namib-paisaje", "deadvlei", "walvisbay", "skeleton", "twyfelfontein", "okaukuejo"],
+    "01": ["spreetshoogte", "namib-paisaje", "grava", "deadvlei", "walvisbay", "saltroad",
+           "skeleton", "grootberg", "twyfelfontein", "okaukuejo"],
     "02": ["hilux", "sandwich"],
     "03": ["sesriem", "terracebay"],
     "04": ["windhoek"],
