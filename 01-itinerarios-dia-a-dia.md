@@ -657,38 +657,7 @@ Ongava cuesta **~N$34.600 (~€1.730) los dos**, el triple que las trece noches 
 otro producto. *(Okonjima, por sus leopardos habituados, es el único capricho con argumento — como
 parada del D13.)*
 
-### 🔍 En qué se diferencia del blog *(y por qué)*
-- **Ellos, 2 noches en Spreetshoogte; nosotros, también 2 desde el 08/08** — recuperadas del
-  domingo muerto de Windhoek, y **sin quitarle a Etosha sus 4 noches** *(el análisis, en `16`)*
-- **Ellos duermen en Onguma (fuera); nosotros las 4 noches DENTRO del parque** (Okaukuejo, Halali,
-  Namutoni ×2 — verificado, N$920 ≈ €46/noche) — dormir dentro es lo que da las charcas nocturnas
-  iluminadas y los amaneceres sin esperar puerta. Onguma queda como capricho opcional
-- **Mismo espíritu**: Terrace Bay, Hoada, dos noches en la costa, y el sur para otro viaje
-- ⚠️ Sus precios (Spreetshoogte 150–300 ZAR) son de la fecha de su post: **no presupuestar con ellos**
-
-### ⛔ Lo que queda fuera *(y dónde está documentado por si vuelve)*
-**Fish River Canyon** · **kokerbooms** · **caballos de Garub** · **D707** · **Lüderitz/Kolmanskop**
-· **Spitzkoppe** *(tampoco está en la ruta del blog; si os duele,
-cabe como parada larga la mañana del D13 alternativo vía Usakos — pero alarga el día)*
-
 ---
-
-<div align="center">
-
-## 🧭 Por qué esta ruta y no otra
-
-Con **Sossusvlei y Etosha fijos**, lo que competía por los días era el sur — Fish River, Lüderitz,
-Kolmanskop. Medido en kilómetros y horas, **no cabía**: el sur profundo y Etosha están en extremos
-opuestos del país y cada uno pide varios días. Intentar las dos coronas convierte el viaje en
-quince días **conduciendo por delante de los sitios en vez de estar en ellos** — y la fatiga en
-grava es justo el ingrediente del vuelco (ver `06`).
-
-**Así que el sur se quitó entero**, y sus días se fueron a donde más rinden: **dos noches en la
-escarpa de Spreetshoogte** *(la segunda, recuperada el 08/08 del domingo cerrado de Windhoek)*,
-**dos en Sesriem** para el amanecer de Deadvlei sin prisa, **dos en la costa** para descansar a
-mitad de viaje, y **cuatro dentro de Etosha**. El resultado son **~2.757 km** *(enrutado OSRM del
-08/08 — los km por día de arriba son los del mismo cálculo, redondeados)*, ningún día por encima
-de ~410 km salvo el regreso por asfalto, y el safari como clímax final.
 
 <div align="center">
 

@@ -85,26 +85,17 @@ FUERA_DEL_PDF = {"16"}    # documentos completos que no entran: las variantes ar
 
 # Secciones que se caen, por un trozo de su titulo. Se lleva por delante la seccion
 # entera: el encabezado y todo lo que cuelga de el hasta el siguiente del mismo nivel.
-SECCIONES_FUERA = {
-    "RM": ["¿Etosha al principio o al final?"],
-    "01": ["En qué se diferencia del blog",
-           "Lo que queda fuera",
-           "Por qué esta ruta y no otra"],
-    "12": ["El precipicio de precio de noviembre"],
-    # Drones: el dron se queda en casa (decidido, `05`/`17`) — las tres capas de norma
-    # que lo justifican son material de trabajo; en el volumen basta la línea del equipaje.
-    "11": ["Drones: la respuesta corta",
-           "Kaokoland (Epupa + Opuwo)",
-           "El este (Tsumkwe + Harnas)",
-           "Los que resultaron ser LUJO",
-           "Y lo que quedó fuera de la ruta"],
-}
+SECCIONES_FUERA = {}
+# Vacío desde el 12/08: los bloques de deliberación que este mecanismo recortaba del PDF
+# (la duda de Etosha al principio o al final, la comparación con el blog, los descartes
+# de ruta, los drones) se quitaron directamente de los .md — no hacía falta filtrarlos
+# en cada build si ya no viven en la fuente. El mecanismo se queda por si vuelve a hacer falta.
 
 # Frases sueltas que remiten al material de trabajo (las variantes descartadas) y que
 # no justifican tirar el bloque entero donde viven.
-# En el PDF el coche es Namibia2Go y punto: fuera las comparativas de precio con
+# En el PDF el coche es Savanna y punto: fuera las comparativas de precio con
 # otras companias. OJO: en `06` los nombres se quedan a proposito — esas clausulas
-# salen del contrato PUBLICADO de otra empresa porque el de Namibia2Go no es publico,
+# salen del contrato PUBLICADO de otra empresa porque el de Savanna no es publico,
 # y borrar la atribucion las haria parecer verificadas contra tu propio contrato.
 # Son expresiones regulares porque el texto llega ya en HTML, con sus <em> y <strong>.
 REEMPLAZOS = [
@@ -122,21 +113,12 @@ REEMPLAZOS = [
      "Cada cifra, con su fuente y su marca."),
     (r"\(tu pin, reserva privada", "(reserva privada"),
     (r"tus 34 pines", "los sitios de la ruta"),
-    # La seccion de drones del `11` no entra en el volumen (SECCIONES_FUERA): los tres
-    # punteros que mandaban a su detalle se recortan para no prometer lo podado.
-    (r"\s*<strong>El detalle, con fuentes, en\s+<a href=\"#doc-11\"><code>11</code></a>\.</strong>", ""),
-    (r"el detalle, más arriba y con fuentes en\s+<a href=\"#doc-11\"><code>11</code></a>",
-     "el detalle, más arriba"),
-    (r"\s*El detalle, con fuentes,\s+en <a href=\"#doc-11\"><code>11</code></a>", ""),
-    (r"\s*<em>\(<a href=\"#doc-11\"><code>11</code></a> §drones\)</em>", ""),
 ]
 
 # Avisos sueltos que son deliberacion, no dato. Se busca el trozo dentro del bloque.
-# (Podado el 09/08: las agujas que ya no casaban con ningun documento vivo.)
-AVISOS_FUERA = [
-    "Decisiones del viajero, en orden",
-    "¿Etosha al principio o al final?",
-]
+# (Vacío desde el 12/08: las dos frases que filtraba ya no existen en ningún .md — se
+# quitaron de raíz junto con las secciones de SECCIONES_FUERA.)
+AVISOS_FUERA = []
 
 RESUMEN = {
     "01": "La ruta desarrollada día por día: qué se conduce, a qué hora sale y se pone el sol, "
