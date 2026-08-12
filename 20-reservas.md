@@ -150,8 +150,8 @@ flowchart LR
 - **Y las peticiones por escrito** *(las que de verdad importan en esta ruta)*: que cubra
   **evacuación aérea DENTRO del país** *(cerca de Sesriem no hay hospital)*; **añadir la opción de
   búsqueda y salvamento** — el Estrella la deja opcional y el Mochilero, más barato, la trae de
-  serie; su coste ❌ sin cotizar — y, si al final viaja una cámara comprada *(`22`)*, **el límite
-  por objeto** de los 4.000 € de equipaje ❌.
+  serie; su coste ❌ sin cotizar — y, si al final viaja una cámara comprada *(equipo de fotografía,
+  en el repo aparte)*, **el límite por objeto** de los 4.000 € de equipaje ❌.
 - **Contacto** ◐ *(web propia, vía búsqueda del 09/08)*:
   [iatiseguros.com](https://www.iatiseguros.com/soporte/contacto/) · 📞 **+34 93 201 49 43** ·
   info@iatiseguros.com. La póliza impresa con su **teléfono de asistencia 24 h** *(depende del
@@ -338,12 +338,13 @@ Para no gastar llamadas en lo que se cierra allí:
 
 ## 9 · ✅ La lista para tachar
 
-- [ ] **Recotizar el 4×4**: 15 días, aeropuerto → aeropuerto, el 31-oct por separado *(§1)*
-- [ ] **Reservar el 4×4** — Budget o Comfort — con las preguntas por escrito respondidas *(§1)*
+- [x] **Reservar el 4×4** — Savanna, 12/08, €2.363 en total *(§1)*
+- [ ] **En la entrega, pedir por escrito**: zona sunrise/sunset como zona cubierta de la Opción 4,
+  teléfono de emergencias 24h, con cuánto tanque lo entregan, coste del conductor adicional *(§1)*
 - [ ] **Cita del CVI pedida** *(§6 — agosto)*
 - [ ] **Seguro recotizado desde el 30/10** + evacuación aérea interna y búsqueda y salvamento por
   escrito *(§3)*
-- [ ] **Billete emitido** — con maleta, billete único *(§2)*
+- [x] **Billete emitido** — 10/08, €1.536 pp, con maleta, billete único *(§2)*
 - [ ] **Sesriem ×2** *(3–4 nov, dentro de la puerta)* *(§4)*
 - [ ] **Terrace Bay** *(7 nov — confirmación impresa)* *(§4)*
 - [ ] **Okaukuejo · Halali · Namutoni ×2** *(9–12 nov)* *(§4)*

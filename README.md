@@ -12,7 +12,7 @@
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
 [![cuenta atrás](https://img.shields.io/badge/faltan-79_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-0_de_6-9d0208?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
-[![presupuesto](https://img.shields.io/badge/€3.811-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
+[![presupuesto](https://img.shields.io/badge/€3.982-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
 
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos*
@@ -309,9 +309,9 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 ## 💶 El presupuesto — por persona, partida a partida
 
-### ~€3.811 por persona · todo incluido
+### ~€3.982 por persona · todo incluido
 
-Rango honesto: **€3.661–3.961**. El **75 %** ya está cerrado — y el vuelo, pagado.
+Rango honesto: **€3.832–4.132**. El **~79 %** ya está cerrado — vuelo y coche, pagados y reservados.
 
 </div>
 
@@ -324,7 +324,7 @@ lo que compres allí por gusto.
 pie showData
     title Por persona · desglose en EUR · camping
     "Vuelo" : 1536
-    "Coche 15 dias" : 1013
+    "Coche 15 dias" : 1182
     "Alojamiento" : 370
     "Combustible" : 225
     "Comida" : 140
@@ -334,21 +334,20 @@ pie showData
     "Visado" : 80
 ```
 
-*Vuelo y coche son el **67 %** del viaje. Todo lo demás junto son ~€1.260.*
+*Vuelo y coche son el **68 %** del viaje. Todo lo demás junto son ~€1.264.*
 
-- ✈️ Vuelo **€1.536** ✅ *(EMITIDO el 10/08)* · 🚙 Coche **~€1.012,50** *(13 días cotizados ✅ +
-  2 estimados ◐; reserva en trámite)* ·
+- ✈️ Vuelo **€1.536** ✅ *(EMITIDO el 10/08)* · 🚙 Coche **€1.181,50** ✅ *(RESERVADO con Savanna,
+  15 días completos — `20` §1)* ·
   ⛺ Alojamiento **~€370** *(€246 verificado ✅)* · ⛽ Combustible **~€225** · 🍖 Comida **~€140** ·
   🩺 Seguro **€113** ✅ · 🎫 Tasas **~€117** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€219** *(los safaris
   guiados de Etosha, decididos el 08/08, dentro)*
-- **El 75 % ya está cerrado** con precio real: vuelo *(emitido)*, los 13 días cotizados del coche, seguro,
-  visado, las 6 noches de NWR y Terrace Bay. Lo demás (~€960) son los 2 días extra de coche ◐, las 6 noches de
+- **El ~79 % ya está cerrado** con precio real: vuelo *(emitido)*, el coche completo *(reservado)*,
+  seguro, visado, las 6 noches de NWR y Terrace Bay. Lo demás (~€850) son las 6 noches de
   camping sin precio (más Hoada ◐), el paquete guiado de Etosha —3 mañanas + nocturno + lanzadera
   de Deadvlei— *(~€144, tarifa ✅ sin reservar)*, el
   combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
-- ⚠️ **Lo que aún puede mover el número**: el precio real del **31 de octubre** del coche *(fuera de
-  temporada baja ❌)* y el día extra de seguro *(sin cotizar)*; el traslado a Oporto ida y vuelta ya
-  está cotizado *(~€180–185 la pareja ◐/❌)*.
+- ⚠️ **Lo que aún puede mover el número**: el día extra de seguro *(sin cotizar)* y el traslado a
+  Oporto ida y vuelta *(ya cotizado, ~€180–185 la pareja ◐/❌)*.
 
 > [!TIP]
 > **Se duerme arriba casi todo el viaje.** **13 de las 14 noches en la tienda de techo**, campings
