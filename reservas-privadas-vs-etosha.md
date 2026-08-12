@@ -291,6 +291,8 @@ da más que el self-drive estándar?"— sin salir del parque ni cambiar de oper
 
 ## 4 · El perro salvaje africano — la respuesta honesta
 
+### En el corredor de esta ruta
+
 Ninguna de las cuatro reservas de gama alta (Ongava, Onguma, Okonjima, Etosha Heights) menciona el
 perro salvaje en su propia web. Sobre Etosha mismo las fuentes se contradicen ◐: un gestor del
 parque citado por [New Era](https://neweralive.na/namibias-wild-dogs-under-threat/) dice que lleva
@@ -302,6 +304,44 @@ no visitable) y **[N/a'an ku sê Wildlife Sanctuary](https://www.naankuse.com)**
 libre, visitable de medio día en el D0 o D13. **Si el perro salvaje es un objetivo real, el dato
 honesto es que esta ruta, con este plan, no lo garantiza en ningún alojamiento — abierto ni de
 lujo.**
+
+### En Namibia entera, sin restricción de ruta — sí existe, pero está lejos
+
+La pregunta más amplia tiene respuesta clara: **sí hay perro salvaje libre en Namibia**, con
+sitios reales que lo confirman — pero todos caen en la **Región de Zambezi** (antiguo Caprivi), en
+el extremo noreste del país, a más de 1.200 km de esta ruta: un viaje aparte, no un desvío.
+
+- **Población silvestre real** ✅◐ — Bwabwata, Mudumu y Nkasa Rupara, más las conservancies
+  comunitarias de alrededor (Mashi, Mayuni, Kwando, Wuparo). Lo confirma el *Namibia Carnivore Red
+  Data Book* (2022, MEFT + Large Carnivore Management Association + Namibia Chamber of Environment
+  — citado vía relé, el PDF primario no se pudo abrir directamente) y el **Kwando Carnivore
+  Project**, con base en Kongola desde hace más de dos décadas, que estima **40-80 individuos** en
+  la zona.
+- **[Nambwa Tented Lodge](https://africanmonarchjourneys.com/stay/nambwa-tented-lodge/)** (Bwabwata
+  NP, Kwando Core Area) ✅◐ — el único lodge namibio confirmado por dos vías independientes a la
+  vez: lo anuncia él mismo en sus game drives *("lions, elephants, buffalos and leopards, as well
+  as wild dogs")* **y** [Expert Africa](https://www.expertafrica.com/wildlife/wild-dog/namibia)
+  —el mismo tipo de parte de viajeros que usa este proyecto para las charcas de Etosha— le da un
+  **23 % de éxito sobre 13 partes** desde 2018: la mejor tasa de un alojamiento en libertad de
+  todo el país.
+- **[Omaanda](https://www.zannierhotels.com/omaanda/)** (Zannier Hotels, ~30 min de Windhoek) —
+  otra categoría, no libertad plena: reserva **vallada** de ~7.500-9.000 ha (la cifra varía según
+  la página del propio grupo) con una manada reintroducida y monitorizada por collar GPS (la
+  "Eiseb Pack", ~10 ejemplares, gestión de N/a'an ku sê Foundation + KAWDCP) — más parecida al
+  leopardo con collar de Okonjima que a un parque abierto. **25 % de éxito sobre 8 partes** ◐
+  (Expert Africa), la tasa más alta de todo el ranking namibio, aunque sobre muestra pequeña y sin
+  que el propio lodge lo anuncie por nombre en su web comercial.
+- **Lo que no se pudo confirmar**: ningún lodge de Mudumu o Nkasa Rupara (Namushasha River Lodge,
+  Nkasa Lupala, Lianshulu) publicita el perro salvaje pese a estar en zona con población
+  confirmada por investigación local — puede que lo tengan y no se haya encontrado, no se afirma
+  que no lo tengan ❌.
+- **Censo nacional**: sin dato reciente y fiable. La cifra que más se repite es **~544 perros en
+  ~45 manadas**, de un estudio de **2015** todavía citado en el Red Data Book de 2022; un informe
+  de 2025 da **~350**, sin fuente que reconcilie la discrepancia ❌. Clasificado **En Peligro** a
+  nivel nacional.
+
+**En resumen**: si el perro salvaje pesa más que el resto del viaje, está en la Región de
+Zambezi, no en Etosha ni en Damaraland — y es un viaje distinto, no un añadido a esta ruta.
 
 ---
 
@@ -329,7 +369,9 @@ Con el marco del viaje —self-drive, presupuesto ajustado, una sola noche o act
    conecta con el resto del parque, ya sabido por `13`), Etendeka (desvío + el precio más alto de
    la lista económica), Camp Kipwe y Twyfelfontein Country Lodge (ventaja floja frente a lo que ya
    se ve desde la carretera pública, y este último sin tarifa de noviembre verificada).
-7. **Perro salvaje**: no garantizado en ningún alojamiento realista de esta ruta — ver arriba.
+7. **Perro salvaje**: no garantizado en ningún alojamiento realista de esta ruta. Existe de verdad
+   en Namibia —Región de Zambezi, con Nambwa Tented Lodge como la opción mejor confirmada—, pero
+   es un viaje aparte, a más de 1.200 km de esta ruta, no un añadido — ver arriba.
 
 **Huecos que quedan reconocidos, no rellenados**: precio y régimen exactos de Grootberg (dos
 cifras discrepantes sin reconciliar), precio del rhino/elephant tracking cuando no va empaquetado,
