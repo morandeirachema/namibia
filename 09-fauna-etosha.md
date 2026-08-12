@@ -16,7 +16,7 @@
 > la ruta (+13 — el mular del crucero, las aves del Namib y Damaraland, la rata dassie…; el
 > detalle de ambos, en `15`)*
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 25 páginas A4,
+📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 26 páginas A4,
 **115 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
 cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.

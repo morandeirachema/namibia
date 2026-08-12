@@ -126,7 +126,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
-🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(25 páginas, 115 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari — y ni un animal que nadie haya visto: el corte del 09/08 dejó fuera al oricteropo, la suricata y la cebra de Hartmann; el barrido COMPLETO del 10/08 añadió las 14 que faltaban en Etosha, del águila rapaz al galápago que caza quéleas, y el del 11/08, las 13 de las otras zonas — el delfín mular del crucero, el charrán que llega de Europa a decenas de miles, la rata dassie de Twyfelfontein)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
+🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(26 páginas, 115 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari — y ni un animal que nadie haya visto: el corte del 09/08 dejó fuera al oricteropo, la suricata y la cebra de Hartmann; el barrido COMPLETO del 10/08 añadió las 14 que faltaban en Etosha, del águila rapaz al galápago que caza quéleas, y el del 11/08, las 13 de las otras zonas — el delfín mular del crucero, el charrán que llega de Europa a decenas de miles, la rata dassie de Twyfelfontein)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
 
 [<img src="img/mapas/etosha.png" alt="Etosha charca a charca: el mapa del safari del dossier" width="620">](img/mapas/etosha.svg)
 

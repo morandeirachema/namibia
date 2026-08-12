@@ -23,6 +23,58 @@ INTRO_EXTRA = """
   reservar</strong> (+264 67 229 800).</p>
 """
 
+NOCTURNO = """
+  <h2>El safari nocturno: qué se puede ver</h2>
+  <p>Dentro de Etosha hay dos formas de ver fauna de noche, y son muy distintas entre sí. Fuera
+  del parque, unas pocas reservas privadas vecinas venden una tercera que Etosha no puede dar:
+  guía al volante recorriendo terreno real, no solo esperando junto a una charca.</p>
+  <h3>Dentro del parque</h3>
+  <ul>
+  <li><strong>Charca iluminada, gratis, a pie desde la parcela</strong> — Okaukuejo, Halali y
+  Namutoni tienen la suya. La que de verdad importa es <strong>Okaukuejo</strong>: MEFT y NWR
+  confirman <strong>león, elefante y rinoceronte negro</strong> de noche en ella ✅ — «seguramente
+  el mejor sitio de África» para el rinoceronte negro. En <strong>Halali</strong>, la propia NWR
+  cita el <strong>puercoespín</strong> entre los habituales de su charca ✅. En los muros y
+  recintos de Okaukuejo, de noche sale a cazar el <strong>gecko de Fischer</strong>.
+  <em>Norma de la plataforma: todo apagado, ni linterna ni pantalla — la única luz es la del
+  recinto.</em></li>
+  <li><strong>Nocturno guiado de NWR (N$750 ≈ €38 p.p., D12)</strong> — circuito corto en grupo
+  cerca del campamento: es la única forma legal de circular de noche. Su objetivo declarado son
+  tres especies que de día casi no se dejan ver: <strong>zorro del Cabo, gato montés africano y
+  lobo de tierra</strong>. Los guías enseñan además la <strong>liebre saltadora</strong> casi
+  todas las noches, aunque no figure como objetivo oficial — es tan nocturna que ni un registro
+  suyo llega a GBIF.</li>
+  <li><strong>De oído y de paso, sin necesidad de safari</strong> — la <strong>hiena
+  manchada</strong> se oye desde la tienda casi cualquier noche; el <strong>chacal de lomo
+  negro</strong> ronda los campamentos al anochecer a por las sobras; la <strong>jineta</strong>
+  es la sombra que cruza el foco de luz mientras se cena.</li>
+  </ul>
+  <p>Lo que no hay: dato de la <strong>hora punta nocturna del rinoceronte</strong> en Okaukuejo,
+  ni de la <strong>frecuencia real de la hiena parda</strong> —cruza alguna vez desde Ongava, sin
+  densidad publicada ❌.</p>
+  <h3>Y en las reservas privadas de al lado</h3>
+  <p>Fuera de Etosha, sin el límite del circuito corto junto al campamento, el guía puede recorrer
+  más terreno o bajar a rastrear a pie — algo que dentro del parque no está permitido bajo ninguna
+  circunstancia.</p>
+  <ul>
+  <li><strong>Okonjima / AfriCat</strong> <em>(junto a la B1, ya es parada opcional del D13, sin
+  desvío)</em> — no es un game drive, es <strong>tracking dirigido por investigadores con collar
+  de radio</strong> ✅: leopardo (N$1.600 ≈ €80 p.p.), hiena parda a pie (N$1.600 ≈ €80 p.p.) y
+  hasta pangolín (N$2.900 ≈ €145 p.p., mínimo 2 noches) — tres especies que dentro de Etosha son
+  casi fantasma o ni llegan a tener ficha en esta guía.</li>
+  <li><strong>Hobatere Lodge</strong> <em>(linda con el oeste del parque, pero exige un desvío
+  real vía Kamanjab)</em> — su nocturno propio (N$798 ≈ €40 p.p.) tiene lista propia de objetivos
+  ✅: zorro orejudo, tejón mielero, jineta, gato montés africano, liebre saltadora, búhos,
+  chotacabras y <strong>oso hormiguero</strong> — este último, con 0&nbsp;% de avistamientos
+  declarados dentro de Etosha, es precisamente el que se quedó sin ficha en esta guía.</li>
+  <li><strong>Ongava y Onguma</strong> <em>(junto a las puertas Andersson y Von Lindequist)</em>
+  — también venden nocturno de pago (N$1.400 ≈ €70 p.p. en Ongava; en Onguma, sin precio de
+  nocturno confirmado). Su baza es más terreno y menos coches por charca, pero ninguna de las dos
+  publica una lista de especies propia de su nocturno concreto, más allá de lo ya dicho de
+  rinoceronte, leopardo y guepardo de día ❌.</li>
+  </ul>
+"""
+
 DONDE = {
   # --- MAMIFEROS ---
   "elefante": "**Olifantsbad, Kalkheuwel, Tsumcor y Homob** *(Nebrownii, su clásica, queda cerrada por las obras en vuestras fechas)*, y a **mediodía**, que es cuando llegan a bañarse. Los de aquí tienen los colmillos gastados de cavar buscando agua.",
@@ -158,4 +210,9 @@ FUENTES_ETOSHA = [
   "África austral en número de aves» (Simmons et al. 1998); conteos desde 1983, con récord de "
   "242.000 aves en 2004 — Bridgeford 2013, <i>Mitteilungen</i> 54 (PDF en the-eis.com).",
   "<b>Sin dato (y no se rellena):</b> la hora punta nocturna del rinoceronte en Okaukuejo, el número absoluto de rinocerontes del parque, la orientación solar de cada charca y la frecuencia real de la hiena parda.",
+  "<b>El safari nocturno:</b> el trío del nocturno guiado de NWR y el rinoceronte/león/elefante "
+  "de la charca de Okaukuejo, ya citados arriba. El de las reservas privadas, verificado el "
+  "12/08/2026 abriendo la tarifa propia de cada operador: Okonjima/AfriCat "
+  "(okonjima.com, PDF Rack Rates 2026), Hobatere Lodge (hobatere-lodge.com, PDF RACK Rates "
+  "2026) y Ongava (ongava.com, PDF de tarifas 2026).",
 ]

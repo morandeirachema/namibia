@@ -22,9 +22,9 @@ from textos_poblacion import CUANTOS, FUENTES_POBLACION            # noqa: E402
 from textos_safari import CONSEJOS                                 # noqa: E402
 
 try:
-    from textos_etosha import DONDE, FUENTES_ETOSHA, INTRO_EXTRA
+    from textos_etosha import DONDE, FUENTES_ETOSHA, INTRO_EXTRA, NOCTURNO
 except ImportError:                                                # aun sin el informe
-    DONDE, INTRO_EXTRA, FUENTES_ETOSHA = {}, "", []
+    DONDE, INTRO_EXTRA, FUENTES_ETOSHA, NOCTURNO = {}, "", [], ""
 
 
 def metodo():
@@ -84,6 +84,7 @@ def portadilla():
   {metodo()}
   <h2>Cómo funciona el parque</h2>
   {INTRO_EXTRA}
+  {NOCTURNO}
   {CONSEJOS}
 </section>""")
 
