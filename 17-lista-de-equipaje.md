@@ -267,6 +267,10 @@ cacharros.** Lo que sí sube al petate:
       **5 L y doblar el margen en los tramos sin servicios** ◐
       *([Tracks4Africa](https://blog.tracks4africa.co.za/water-supply-overland/))*
 - [ ] **Garrafas o bidones** ○ *(se compran allí, `08`)*
+- [ ] **Botella de agua térmica ×1 p.p.** ○ — la que va en el asiento y se rellena de la garrafa:
+      a 35–38 °C el agua de la botella normal se bebe caliente en una hora *(una de las listas del
+      barrido pedía botella reutilizable por persona; la térmica es la versión que aguanta este
+      calor)*
 - [ ] Snacks secos: frutos secos, barritas y biltong ○
 - [ ] **Bolsa de basura en la puerta** ○ — en los parques la basura vuelve contigo
 - [ ] **Ziplocs para la Línea Roja** ✅ — los restos de carne no bajan del norte
