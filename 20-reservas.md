@@ -307,7 +307,9 @@ Viator, cruzadas entre operadores — confírmalas por email antes de reservar.*
 **Otros opcionales con aviso previo**: **Otjitotongwe** *(guepardos, de camino el D9 — alimentación
 ~15:00; los no alojados **avisan antes** ◐, ~N$610 · ~€30/persona —
 [namibweb](https://www.namibweb.com/otjitotongwe.htm))* · el **vuelo panorámico** *(Sossusvlei /
-Skeleton Coast)*: existe y es la vía legal de la foto aérea, **precio ❌ sin cotizar** *(`11`)* ·
+Skeleton Coast)*: globo con [Namib Sky](https://balloon-safaris.com/ballooning-namibia/) (N$9.920 ·
+~€496/persona) o avioneta con [Sossusvlei Scenic Flights](https://sossusvleiscenicflights.com/sossusvlei-scenic-flights/rates/)
+(N$6.900–17.500 · ~€345–875 según grupo) — precios reales, sin reservar *(`11`)* ·
 **Onguma y Okonjima** son otra liga *(~N$34.600 · ~€1.730 y ~N$12.700 · ~€630 por persona y noche ◐
 — `01`, `11`)*.
 
