@@ -39,10 +39,8 @@ llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
 
 > ### 📅 El 1 de noviembre sigue siendo la fecha mágica
 > **NWR entra en tramo barato** (Sesriem, Halali, Okaukuejo, Terrace Bay — la primera noche NWR
-> del plan es Sesriem, el 3) y **Namibia2Go entra en SU temporada baja**: el coche está **cotizado
-> — Budget N$35.100 (~€1.755) o Comfort N$39.000 (~€1.950) por 13 días, las dos disponibles**.
-> La única noche de octubre —la del 31, Windhoek— no es NWR: **lo único con precio de octubre es
-> el día 31 del coche**, que se pide aparte (`02` §2).
+> del plan es Sesriem, el 3). El coche está **RESERVADO con Savanna, €2.363 en total, los 15 días
+> completos** *(`20` §1)*.
 
 > ### ❓ ¿Etosha al principio o al final? → **AL FINAL.** Tres razones con datos:
 > 1. **Dinero**: con el desierto primero, **todas las noches NWR caen después del 1 de noviembre**
@@ -159,10 +157,8 @@ gantt
 > devuelve el **14 de noviembre camino del embarque** *(~18:00)* — **15 días**. Ni hoteles en
 > Windhoek ni traslados: **las noches de ciudad también se duerme arriba**, en camping.
 >
-> La ejecución arrancó el 10/08: **la reserva está EN TRÁMITE, con la entrega y devolución EN el
-> aeropuerto confirmadas** ✅. Falta **el precio de los 15 días** — la referencia son **~N$5.400
-> (~€270)** más que los 13 cotizados con la Budget ◐, y ⚠️ **el 31 de octubre cae fuera de la
-> temporada baja de Namibia2Go**: que venga desglosado ❌ *(ver [`02`](02-presupuesto.md) §2)*.
+> El coche está **RESERVADO con Savanna (12/08): €2.363 en total, 15 días completos, con transfer
+> aeropuerto ↔ oficina** *(el detalle, en [`20`](20-reservas.md) §1)*.
 
 ### D0 · sáb 31 oct — Llegada, coche y LA compra grande *(plan horario)*
 
@@ -198,9 +194,9 @@ flowchart LR
   alcohol para llevar cierra por ley** ✅. Aquí también la **carga grande de efectivo
   (~N$6.000–8.000 · ~€300–400)**, en cajero pegado a sucursal *(`07`)*. La lista entera, para
   tachar, en [`08`](08-comida-compras-y-regalos.md). **⛽ Y depósito lleno al salir de la
-  ciudad**: por Spreetshoogte no hay NADA hasta Solitaire *(`08`)* — *pregunta al recoger con
-  cuánto tanque entrega Namibia2Go el coche y la **capacidad real del depósito** (la aritmética del
-  bucle de la costa la necesita, `07`)* ❌
+  ciudad**: por Spreetshoogte no hay NADA hasta Solitaire *(`08`)* — el depósito son 140 l
+  confirmados ✅ *(`20` §1)*, pero se entrega sin lleno: *pregunta al recoger con cuánto tanque lo
+  entregan* ❌
 - 🏕️ **~17:00 · al camping y primera montada de la tienda con luz y sin público** — ☀️ anochecer
   ~**19:04** *(jet lag: +1 h respecto a la península — ninguno)*. **Las ~2 h hasta el anochecer son
   el colchón del día**: cualquier retraso de inmigración, briefing o compra sale de ahí
@@ -281,6 +277,8 @@ flowchart LR
   llegas con la duna encendiéndose *(horas de puerta: confírmalas en recepción al llegar, se
   mueven con el orto real — ver `06`)*
 - 🌅 **Puerta interior 1 h antes del amanecer** — Deadvlei casi en solitario
+- ⚠️ **Este tramo, antes del amanecer, es zona a riesgo propio del seguro de Savanna salvo que se
+  pida por escrito en la entrega** — el detalle, en `06` §6 y `20` §1
 - Con día entero: **Big Daddy** (la subida) + **Hidden Vlei** + **Duna 45** a la vuelta
 - Arena final: 4H antes de entrar, desinflar en el 2WD, reinflar en Sesriem *(o lanzadera
   N$180 ≈ €9/persona)*
@@ -382,9 +380,9 @@ flowchart LR
   **Twyfelfontein → Hoada son ~150 km ◐** *(OSRM 148; «~2,5 h» del operador)*. **Es un día largo
   (~370 km de grava): sal temprano de Terrace Bay.** El ~85 km que se manejaba antes quedó
   **refutado** —era menor que la línea recta (~95 km).
-- ⚠️ **Damaraland: los bajos son el punto delicado del seguro** — la referencia de Asco los
-  excluía aquí, y **cómo los trata el Premium Cover de tu Namibia2Go Budget sigue SIN confirmar:
-  pregúntalo por escrito al reservar**. Despacio en las piedras.
+- ⚠️ **Damaraland: los bajos, cubiertos por la Opción 4 de Savanna** ✅ *(`20` §1)*, pero
+  Damaraland también puede entrar en las «zonas a riesgo propio» del seguro si se sale de pista
+  marcada — despacio en las piedras y dentro de la carretera.
 - 🐾 **Alrededor del campamento** — Damaraland en GBIF oct–nov: **el elefante del desierto pasa
   por la zona** *(139 registros, 27 en oct–nov ◐)* — cruzárselo es suerte, no plan *(y si pasa,
   protocolo del `18`)*; **damán en el granito** *(62/13 ◐)*, **springbok** *(50/23 ◐)* — y por
@@ -434,7 +432,7 @@ flowchart LR
 - 🚗 **El desvío en la práctica ◐**: desde Okaukuejo se sigue por grava hasta **~km 47** y ahí se
   toma el **bypass nuevo y el Rhino Drive** hacia Halali. Las charcas accesibles en ese tramo se
   reducen a **Gemsbokvlakte, Sueda y Salvadora**; **Nebrownii y Kapupuhedi quedan fuera** por la
-  obra. Recomiendan vehículo alto —tu Hilux cumple—. **En km, el desvío está medido con el enrutado
+  obra. Recomiendan vehículo alto —tu Ford 4x4 cumple—. **En km, el desvío está medido con el enrutado
   propio (09/08): ~108 frente a ~70 de la directa, +38 km**; en **tiempo no hay cifra oficial**:
   cuéntalo despacio.
 - ✅ **Y el desvío no es un castigo**: **Gemsbokvlakte–Sueda–Salvadora** es de los mejores tramos de
@@ -541,11 +539,9 @@ flowchart LR
   `02` §8)*
 
 ### 💰 Coste real *(31 oct – 14 nov · el detalle completo, en `02-presupuesto.md`)*
-- **Alquiler — DECIDIDO 15 días, aeropuerto → aeropuerto (31 oct 11:00 – 14 nov 18:00)**. Los 13
-  días cotizados: **Namibia2Go Budget N$35.100 (~€1.755)** ✅ — o **Comfort N$39.000 (~€1.950)**;
-  los 2 extra, **~N$5.400 (~€270) ◐ — la reserva de los 15 está EN TRÁMITE (10/08), precio
-  final pendiente** *(el 31-oct fuera de temporada baja; ver `02` §2)*. Con Premium Insurance Cover (franquicia cero) y km ilimitados *(Asco,
-  descartada: €2.652 en su banda alta)*
+- **Alquiler — RESERVADO, 15 días completos, con transfer aeropuerto ↔ oficina (31 oct 11:00 – 14
+  nov 18:00)**: **Savanna, €2.363 en total** ✅, con Opción 4 (franquicia cero) y km ilimitados
+  *(`20` §1; Asco, descartada: €2.652 en su banda alta)*
 - **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 + Namutoni 2×920 =
   **N$6.360 (~€318)** ✅ — **las 4 noches de Etosha, dentro del parque**
   *(+ **Terrace Bay cerrado ✅ — N$3.480 · ~€174 la pareja**; Spreetshoogte, Walvis, Windhoek y

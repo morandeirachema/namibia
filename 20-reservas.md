@@ -9,8 +9,8 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Levantado el 09/08/2026. Al 10/08, el **vuelo está EMITIDO (€1.536 p.p.)** y la **reserva del
-> coche EN TRÁMITE** — el resto sigue sin reservar. Los contactos que el
+> *Levantado el 09/08/2026. Al 12/08, el **vuelo está EMITIDO (€1.536 p.p.)** y el **coche
+> RESERVADO con Savanna (€2.363 en total)** — el resto sigue sin reservar. Los contactos que el
 > dossier no tiene localizados se dicen en blanco: rellenar un teléfono plausible sería peor que
 > dejar el hueco. Los marcados ◐ salieron de la búsqueda del 09/08/2026 sin poder abrir la ficha
 > oficial: confírmalos al usarlos.*
@@ -27,7 +27,7 @@ Okaukuejo, Halali, Namutoni y Spreetshoogte)* van en cuanto el coche esté firma
 ```mermaid
 flowchart LR
 %% ancho
-    C["1 · EL 4x4<br/>EN TRAMITE 10/08<br/>cerrar el precio<br/>de los 15 dias"] --> V["2 · EL VUELO<br/>EMITIDO 10/08<br/>1.536 EUR pp"]
+    C["1 · EL 4x4<br/>RESERVADO 12/08<br/>Savanna, 2.363 EUR<br/>total, Ford GSXA-1"] --> V["2 · EL VUELO<br/>EMITIDO 10/08<br/>1.536 EUR pp"]
     V --> S["3 · SEGURO IATI<br/>rehacer desde el 30-10<br/>URGENTE: billete pagado"]
     V --> E["6 · E-VISA<br/>desbloqueado:<br/>ya hay billete de vuelta"]
     C --> N["4 · LAS NOCHES NWR<br/>Sesriem x2 · Terrace Bay<br/>Etosha x4"]
@@ -41,59 +41,90 @@ flowchart LR
 
 ---
 
-## 1 · 🚙 El 4×4 — Namibia2Go: reserva **EN TRÁMITE (10/08/2026)**
+## 1 · 🚙 El 4×4 — Savanna: **RESERVADO ✅ (12/08/2026)**
 
-- **Qué**: 4x4 camping equipped double cab —**Budget** o **Comfort**—, **15 días, aeropuerto →
-  aeropuerto: 31 oct ~11:00 → 14 nov ~18:00** *(decidido el 07/08 — `02` §2)*. **La reserva se
-  abrió el 10/08 con la entrega y recogida EN el aeropuerto confirmadas** ✅.
-- **Precio: PENDIENTE de cotización final** ❌. Referencia: Budget **N$35.100 (~€1.755)** los 13
-  días cotizados ✅ + **~N$5.400 (~€270)** los 2 extra ◐ · Comfort **N$39.000 (~€1.950)** ✅ +
-  ~N$6.000 (~€300) ◐. ⚠️ **El 31 de octubre cae fuera de su temporada baja — que venga
-  desglosado.**
-- **Contacto**: 📞 **+264 61 427 220** *(centralita — `06` §13)* ·
-  [namibia2go.com — la ficha del coche](https://namibia2go.com/4x4-camping-equipped-double-cab)
-  *(la ficha volvió a cargar el 10/08 y lista el equipo pieza a pieza — toallas y hornillo
-  incluidos—; su tarifa publicada sigue caducando antes del viaje: manda la cotización en vivo,
-  `02` §2)*.
-
-**Al reservar, POR ESCRITO** *(el porqué de cada una: `02` §2, `06` y `18` §4–5)*:
-
-- La **entrega y devolución EN el aeropuerto — CONFIRMADA al abrir la reserva (10/08)** ✅: que
-  la confirmación escrita recoja **las horas de los dos sábados** *(recogida 31/10 ~11:00 ·
-  devolución 14/11 ~18:00)* y si hay suplemento ❌.
-- El **precio exacto del 31 de octubre** ❌ *(fuera de temporada baja)*.
-- El **contrato estándar ya está leído** ✅ *(10/08 — enlace en `16` §8)* y deja una pregunta
-  concreta: su **cláusula 10.2** permite cobrar el daño **sin contacto físico con otro vehículo,
-  animal, objeto o persona «al margen de los waivers»** — **cómo tratan en la práctica la salida
-  de vía o el vuelco a solas** ❌ *(su matriz Gondwana lo dice en claro en sus T&C generales: «el
-  accidente de un solo vehículo a menudo se considera negligencia… al margen de las condiciones
-  de franquicia» ◐)*. Y las de siempre: *dune driving*/Sandwich Harbour y los
-  **bajos en Damaraland** con el Premium Cover ❌ *(la referencia del sector los excluye — `06`)*.
-- La **fianza en tarjeta**: la FAQ oficial confirma **«no deposit»** ✅ *(leída el 10/08)*; dos
-  revendedores citan **N$2.500 (~€125)** de depósito de combustible ◐ — **que quede por escrito
-  si retienen algo, y cuánto**.
-- El **teléfono de emergencias 24 h** ❌ *(la centralita no lo es)* y la **tarifa de grúa/rescate** ❌.
-- Del coche: **capacidad real del depósito** ❌ *(la aritmética del bucle de la costa la necesita,
-  `07`)* · **con cuánto tanque lo entregan** ❌ · **segunda batería o corte por voltaje** para la
-  nevera ❌ · **«2 spare tyres» en firme** ❌ *(la ficha hoy dice «1-2» ◐ y el `06` §14 cuenta con dos — que
-  queden por escrito; ojo: el FCDO solo las exige en temporada de lluvias ene–abr, `06`)* · **que la
-  confirmación liste el compresor** ❌ *(la ficha lo incluye ✅, pero su FAQ lo vende como extra
-  ◐)* · qué trae de **recuperación y seguridad** ❌ —eslinga, cables de arranque, planchas de
-  arena, pala, extintor, botiquín del coche y el **triángulo, obligatorio por ley** ✅
-  *([reg. 233, GN 53/2001](http://www.lac.org.na/laws/annoREG/Road%20Traffic%20and%20Transport%20Act%2022%20of%201999-Regulations%202001-053.pdf))*— · **modelo de las tiendas de techo y su rating de viento** ❌ *(las rachas vespertinas de
-  Etosha llegan a 37–66 km/h ✅ — `15`; la Comfort es de carcasa rígida, ¿y la Budget?)* · coste
-  del **conductor adicional** ❌.
-  *(El hornillo y el menaje pieza a pieza ya constan en la ficha desde el 10/08 ✅ — `18` §4.)*
-- **Cancelación, del contrato estándar** ✅ *(10/08)*: reembolso íntegro a **más de 30 días** ·
-  **15 %** a 14–30 días · **25 %** a 7–13 · **50 %** a menos de 7 días o no presentarse.
-  **Conductores: 23 años cumplidos y 1 año de carnet.**
-- **Cuándo se paga: NO publicado** ❌ — ni el contrato ni la FAQ fijan calendario *(su matriz
-  Gondwana cobra el 100 % a las 72 h del resumen de reserva en los lodges, y 25 % al confirmar +
-  resto a 60 días en su turoperador ◐)*: **pedir el calendario de pago por escrito al reservar**.
-  Con su escala de cancelación, pagar por adelantado reservando en agosto apenas expone: sobre la
-  recogida del 31/10, **hasta el ~30/09 se recupera el 100 %** · del ~1 al 17/10, el 85 % · del
-  18 al 24/10, el 75 % · desde el ~25/10, el 50 %. Tarjeta Visa/Mastercard por su pasarela;
-  su moneda es el NAD y la fluctuación del cambio va a cuenta del cliente.
+- **Qué**: **grupo GSXA-1 Camping — Ford Ranger 2.2 o 2.0 D/Cab automático, modelo 2022–2025,
+  118 kW/158 CV, 4x4 con bloqueo de diferencial** ✅. Aire acondicionado, radio/Bluetooth, cierre
+  centralizado, ABS y airbags. Para 1–2 personas.
+- **Fechas y horas** ✅: recogida **31/10, 11:00** *(llegada del vuelo, 09:25)*; devolución
+  **14/11, 18:00** *(vuelo de las 20:45)*. 2 personas en las dos direcciones. **La devolución a
+  las 18:00 amplía la política estándar de Savanna, que da 16:00 como límite** — que conste por
+  escrito en la confirmación.
+- **El depósito: 140 L** ✅ — **doble depósito, principal de 80 L + secundario de 60 L**,
+  conectados por un solo tubo de llenado: se rellena primero el principal y el secundario empieza
+  a llenarse solo. **El indicador de combustible solo mide el depósito principal**: marca «lleno»
+  hasta que se vacía el principal, y solo entonces empieza a bajar — hay que avisarlo al repostar,
+  o el surtidorista para antes de tiempo pensando que está lleno. Autonomía anunciada: **±1.000
+  km**. Se entrega **sin depósito lleno** —no tienen surtidor propio— y se devuelve con el mismo
+  nivel que se recibió.
+- **Transfer de aeropuerto — NO es «coche en el aeropuerto»** ◐: Savanna no entrega ni recoge el
+  vehículo en el aeropuerto — hay un **transfer gratuito entre el aeropuerto y su oficina de
+  Windhoek** (80 Trift Street, Snyman Circle), incluido sin coste en alquileres de **14 días o
+  más** *(el suyo son 15: entra de sobra)*, con **dos traslados gratuitos** — uno a la llegada,
+  otro a la vuelta. El transfer gratuito solo corre **entre las 06:30 y las 17:20**: la llegada
+  (09:25) cae dentro; **la salida (20:45) cae fuera** — fuera de esa ventana el transfer es de
+  pago, N$550 (~€27,50) el trayecto hasta 4 personas. La confirmación de reserva marca «Airport Transfer:
+  yes» para la vuelta, así que Savanna parece asumirlo de todos modos ◐ — **confírmalo por
+  escrito, es la pieza que más falta por cerrar**.
+- **Precio: CERRADO — €2.363 en total, ~€1.181,50 por persona** ✅ *(dicho directamente por
+  Chema, 12/08)*. La tarifa por días da una base de **N$33.750 (~€1.687,50 — 15 días ×
+  N$2.250/~€112,50) + N$40 (~€2) de contrato + N$300 (~€15) de limpieza**; sumando la Opción 4
+  *(N$450/día ~€22,50 × 15 = N$6.750 ~€337,50)*, el satelital *(N$160/día ~€8 × 15 = N$2.400
+  ~€120, más N$60 ~€3 por unidad usada)* y 2 sacos con almohada *(N$30/día ~€1,50 cada uno × 15 =
+  N$900 ~€45)* la cuenta ronda **N$44.140 (~€2.150–2.260 según cambio)** — **no llega a
+  cuadrar exactamente con los €2.363 pagados** ❌: la diferencia puede ser el tipo de cambio real
+  de la tarjeta, cargos no listados en la tarifa genérica o el uso efectivo del satelital. No se
+  fuerza el cuadre: el precio que manda es el pagado, €2.363.
+- **Seguro: Opción 4 — franquicia CERO, con neumáticos, lunas Y bajos** ✅ *(«Option 4 Includes
+  Insurance for Tyre and Windscreen as well as Undercarriage»)* — no solo tapa pinchazos y
+  parabrisas, también los **bajos**, el riesgo real de la grava de Damaraland. Precio: N$450/día
+  (~€22,50) sobre una franquicia estándar de N$35.000 (~€1.750) sin la opción. Retenida en tarjeta
+  Visa/Mastercard.
+- **Extras: teléfono satelital y 2 sacos de dormir con almohada — pagados y reservados, no
+  gratis** ✅: son extras de pago añadidos a la reserva —N$160/día (~€8) el satelital, N$30/día
+  (~€1,50) cada saco— y ya están dentro de los €2.363. No hace falta comprar ni alquilar nada aparte: ya está
+  pagado y reservado con el coche.
+- **Kit de recuperación y seguridad — CONFIRMADO de serie** ✅: 2ª rueda de repuesto y una
+  adicional *(2 repuestos en la práctica)*, cuerda de remolque, herramientas básicas,
+  **botiquín**, fusibles de repuesto, **triángulo de emergencia** *(el obligatorio por ley, [reg.
+  233, GN 53/2001](http://www.lac.org.na/laws/annoREG/Road%20Traffic%20and%20Transport%20Act%2022%20of%201999-Regulations%202001-053.pdf))*, taco de madera para el gato, 2º gato, pinzas puente
+  y **compresor eléctrico con manómetro**. Servicio de asistencia 24 h incluido
+  *([savannacarhire.com/back-up-service](https://www.savannacarhire.com.na/back-up-service))*.
+- **Kit de camping — CONFIRMADO** ✅ *(sección «Camping Equipment included for 1–2 pax»)*: **UNA
+  tienda de techo** (1,3×2,4 m) con colchoneta y **una sábana bajera** *(sin edredón ni manta: de
+  ahí los sacos de dormir de pago)*; **nevera Engel de 40 L con batería propia**, independiente
+  de la del coche; mesa y 2 sillas; 2 bombonas de gas y 2 fuegos; parrilla de barbacoa; lámpara
+  de 12V; garrafa de agua de 20 L; pala; caja de cocina completa *(tazas, tabla de cortar, bol de
+  cereales, abrelatas, cuchillo de pan, cuchillos, cubertería, pelador, abrebotellas, utensilios,
+  cuchara de madera, ollas grande/mediana/pequeña, vasos, platos, rasqueta, palangana, sartén,
+  ensaladera, hervidor, paño y lavavajillas)*.
+- **Modelo y rating de viento de la tienda de techo** ❌ sin especificar — las rachas vespertinas
+  de Etosha llegan a 37–66 km/h ✅ (`15`); ninguna ficha da el fabricante de esta tienda.
+- **⚠️ Zona sin cobertura del seguro que sí choca con la ruta: «antes del amanecer y después del
+  atardecer»** ✅ *(hoja de condiciones firmada en la entrega — de su lista de zonas a riesgo
+  propio, el resto —Khaudum, Kaokoveld, Sandwich Harbour, el Kunene al este de Epupa— no toca esta
+  ruta y no hace falta ni mirarlo)*. La Opción 4 cubre UNA zona nombrada; la salida a Deadvlei sale
+  a las ~05:10, antes del amanecer *(`01` §D4)*: **pedir por escrito, al firmar en la entrega, que
+  la franja horaria de sunrise/sunset sea esa zona nombrada.**
+- **Lo que ningún nivel de seguro cubre nunca, ni con Opción 4** ✅: daños de embrague *(N$15.000
+  ~€750 de fianza inmediata para un coche de sustitución, N$25.000 ~€1.250 fuera de Namibia)*,
+  llantas perdidas/robadas/dañadas, luces delanteras y traseras, daños por agua, ni el desgaste
+  excesivo.
+  **Y, firmado el 12/08, dos cargos aparte de cualquier franquicia**: N$850 (~€42,50) de gestión
+  si hay cualquier daño *(cualquiera, no proporcional al importe)*, N$350 (~€17,50) si Savanna
+  paga una multa por
+  el cliente. Pérdida del GPS, satelital, mando del cabestrante o botiquín: a cargo del cliente.
+- **Contradicción sin resolver en la propia hoja**: un párrafo dice que el seguro de neumáticos y
+  luna de la Opción 4 cubre también en zona a riesgo propio; otro, más abajo, dice literalmente
+  que **«Tyre & Windscreen insurance will only apply if the vehicle was NOT driven in the own
+  risk areas»** — lo contrario. Se pregunta al firmar, no se adivina.
+- **Cancelación y pago** ✅: depósito **25 % no reembolsable** para confirmar; el resto, **10 días
+  antes por transferencia** o en efectivo/tarjeta el día de recogida. Cancelación: **30 %** a
+  60–90 días · **50 %** a 31–59 · **75 %** a 16–30 · **100 %** con 15 días o menos.
+- **Contacto**: oficina de Windhoek, 80 Trift Street, Snyman Circle — 📞 **+264 61 22 92 72** ·
+  gestora Zironika Van Zyl. Horario: L–V 07:30–12:45 y 14:00–16:30 · sáb 08:30–12:00 *(con acuerdo
+  previo para otra hora — la recogida a las 11:00 del sábado 31/10 entra en ese horario sin
+  problema)* · dom/festivos, con acuerdo previo.
 
 ---
 

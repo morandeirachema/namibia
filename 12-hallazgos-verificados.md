@@ -62,13 +62,11 @@ bajos, cristales, neumáticos—. Las franquicias de los niveles básicos iban d
 (~€1.750–2.000)**, y la exposición por un vuelco sin terceros llegaba a **N$165.000 (~€8.250)** más
 un rescate **sin tope**.
 
-**Por eso el criterio fue «franquicia cero o nada»**, y por eso el coche contratado —Namibia2Go
-Budget— lleva **Premium Insurance Cover con franquicia cero incluida en el precio**, en vez de
-sumarse aparte a €25/día como en la competencia.
+**Por eso el criterio fue «franquicia cero o nada»**: el coche reservado, con Savanna, lleva la
+**Opción 4 con franquicia cero, incluidos neumáticos, lunas y bajos** *(`20` §1)*.
 
-> ⚠️ **Lo que sigue sin verificar del contrato firmado**: cómo trata **los bajos en Damaraland** (el
-> D8 pasa por ahí), **cuántas ruedas de repuesto** cubre y el **coste orientativo de un rescate**.
-> Son las tres preguntas a hacer por escrito al reservar. Ver [`06-conduccion`](06-conduccion.md).
+> ⚠️ **Lo que sigue sin verificar del contrato completo**: el coste orientativo de un rescate. Es
+> la pregunta que queda por hacer por escrito. Ver [`06-conduccion`](06-conduccion.md).
 
 **Fuentes:** [ascocarhire.com/insurance](https://www.ascocarhire.com/insurance.html) ·
 [savannacarhire.com.na](https://www.savannacarhire.com.na/reduced-excess-insurance)
@@ -86,27 +84,13 @@ Verificado en los contratos: **80 km/h en grava** —el legal es 100—, **60 de
 
 ---
 
-## 5. Namibia2Go — mejores condiciones de seguro (confianza media)
+## 5. Savanna — Opción 4, franquicia cero confirmada ✅
 
-Incluye en la tarifa **franquicia cero**, cobertura de neumáticos y cristales, robo y colisión,
-y kilometraje ilimitado. **«Sin depósito», dice su propia web y su FAQ** *(leída directa el
-10/08/2026 ✅)* — ⚠️ pero dos fuentes de
-reventa *(madbookings y goArid)* citan una **retención de N$2.500 (~€125) de depósito de
-combustible**: las dos versiones se contradicen y **el conflicto sigue abierto — pregúntalo por
-escrito al reservar** *(el detalle, en `15` §lista maestra)*.
-
-Matices: la franquicia cero se aplica *"unless negligent driving is proven"* — un vuelco en
-pista considerado negligente podría generar responsabilidad igualmente — y el **contrato estándar,
-leído el 10/08/2026** ✅, va más allá: su **cláusula 10.2** permite cobrar el daño **sin contacto
-físico con otro vehículo, animal, objeto o persona «al margen de los waivers»** *(la pregunta por
-escrito, en `20`; la comparación con la contraoferta de Savanna, en `16` §8)*. Quedan excluidos el
-Water Damage Waiver, las tasas de frontera, las multas y la llamada por pérdida de llaves.
-
-Confianza **media** solo porque mejora tanto a Asco como a Savanna de forma llamativa, y eso
-merece escepticismo hasta confirmarlo al reservar.
-
-- https://namibia2go.com/rack-rates
-- https://www.madbookings.com/namibia-namibia2go.html
+**Grupo GSXA-1 Camping, Ford Ranger 2.2/2.0 D/Cab automático, RESERVADO el 12/08/2026.** La
+Opción 4 de seguro anula la franquicia estándar de N$35.000 y cubre neumáticos, lunas y bajos ✅
+*(de la propia oferta — `20` §1)*. Depósito de combustible de 140 l confirmado (doble depósito,
+80+60 l). El detalle completo de la reserva, con todo lo que trae de serie —kit de recuperación,
+triángulo, botiquín, tienda, nevera con batería propia— está en [`20`](20-reservas.md) §1.
 
 ## 6. Visado — los españoles SÍ lo necesitan (desde el 1 de abril de 2025)
 

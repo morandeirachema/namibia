@@ -8,23 +8,24 @@
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · precio del
-> combustible actualizado a la revisión del 5 ago 2026*
+> combustible actualizado a la revisión del 5 ago 2026 · coche actualizado a la reserva con
+> Savanna del 12/08/2026*
 
 Coste del viaje con el **precio de las partidas grandes ya cotizado** (vuelo, coche y seguro), en N$ y
 €. Cada cifra lleva su marca de confianza y su fuente. **Donde no hay dato verificado, se dice y se
 deja como estimación marcada: un número plausible presentado como hallazgo es un fallo grave — aquí
 no se hace.**
 
-> ⚠️ **«Cotizado» no es «reservado» — y al 10/08/2026 hay dos excepciones**: el **vuelo, EMITIDO
-> y PAGADO (€1.536 p.p.)**, y el **coche, con la reserva EN TRÁMITE** *(aeropuerto → aeropuerto
-> confirmado; precio pendiente)*. Todo lo demás —Sesriem ×2, Terrace Bay, Etosha ×4 y el resto de
+> ⚠️ **«Cotizado» no es «reservado» — y al 12/08/2026 hay dos excepciones**: el **vuelo, EMITIDO
+> y PAGADO (€1.536 p.p.)**, y el **coche, RESERVADO con Savanna (€2.363 en total, ~€1.181,50 p.p.)**.
+> Todo lo demás —Sesriem ×2, Terrace Bay, Etosha ×4 y el resto de
 > noches— sigue sin reservar *(ver [`15`](15-huecos-cerrados.md) §lista maestra y [`20`](20-reservas.md))*:
 > son precios de mercado, no pagos hechos. La ruta que presupuestan quedó **confirmada el
 > 06/08/2026** — la nota de abajo.
 
 
 > ## ✅ NOTA: este presupuesto es el de la RUTA DEL NORTE, confirmada el 06/08/2026
-> Este documento presupuesta la **ruta del norte** (sur fuera), con coche de **Namibia2Go** y las
+> Este documento presupuesta la **ruta del norte** (sur fuera), con coche de **Savanna** y las
 > fechas del vuelo de Lufthansa —**30 de octubre a 14 de noviembre**, en tierra del 31 al 14—.
 > **Decisión del viajero, cerrada**: lo que se estudió antes queda archivado en
 > [`16`](16-punto-de-decision.md). Los supuestos concretos de esta versión:
@@ -33,11 +34,10 @@ no se hace.**
 >   Lüderitz, kokerbooms). Si eliges una variante con el sur, este presupuesto cambia; la base medida
 >   sigue en el histórico de `13` *(`git show d0320c3^:13-itinerario.md`)*. Día a día en [`01`](01-itinerarios-dia-a-dia.md).
 > - **Fechas**: **31 de octubre – 14 de noviembre de 2026 en tierra**, no «finales de noviembre».
-> - **Coche**: **Namibia2Go Budget**, no Asco. Con Namibia2Go **el «precipicio del 15/11» —que era de
->   Asco— ya no aplica**: entra en temporada baja el **1 de noviembre**, así que el alquiler cae en
->   tarifa barata sin esperar al 15. ◐ *(su web da 403; tarifa vía revendedor)*.
+> - **Coche**: **Savanna** — grupo GSXA-1 Camping, Ford Ranger 2.2/2.0 D/Cab automático. El
+>   detalle completo de la reserva está en [`20`](20-reservas.md) §1.
 >
-> Los importes de abajo son los de esta ruta, **cotizados — el vuelo, ya emitido y pagado**.
+> Los importes de abajo son los de esta ruta, **cotizados — el vuelo y el coche, ya cerrados**.
 
 ---
 
@@ -50,7 +50,7 @@ gasto de la pareja en euros:
 pie showData
     title "Presupuesto total · la ruta · pareja · EUR · camping"
     "Vuelo ida y vuelta x2" : 3072
-    "Coche Namibia2Go Budget 15d" : 2025
+    "Coche Savanna 15d" : 2363
     "Alojamiento 14 noches" : 740
     "Combustible" : 450
     "Comida" : 280
@@ -61,110 +61,38 @@ pie showData
     "Actividades" : 288
 ```
 
-> **Vuelo y coche son el 67 % del viaje.** El vuelo está **EMITIDO (10/08: €3.072 los dos)** y
-> del coche están cerrados los 13 días cotizados *(la reserva de los 15, aeropuerto → aeropuerto,
-> está EN CURSO — precio pendiente ❌)*.
-> Todo lo demás junto (~€2.525 de la pareja) pesa menos que ellas dos.
+> **Vuelo y coche son el 68 % del viaje.** El vuelo está **EMITIDO (10/08: €3.072 los dos)** y el
+> coche **RESERVADO (12/08: €2.363 los dos, los 15 días completos con Savanna)** — las dos
+> partidas grandes ya cerradas, no estimadas.
+> Todo lo demás junto (~€2.528 de la pareja) pesa menos que ellas dos.
 
 ---
 
-## 2. El coche — **las DOS están disponibles**, con precio en N$ ✅
+## 2. El coche — **RESERVADO con Savanna: €2.363 en total** ✅ *(12/08/2026)*
 
-> ### 🔄 Cambio importante (05/08/2026): la Comfort ya no sale «Not Available»
-> El dossier llevaba semanas diciendo «coge la Budget porque la Comfort no está libre». **Eso ya no
-> es verdad: las dos están cotizadas y disponibles**, y además el precio viene ahora **en N$ y por
-> 13 días (1 nov 08:00 → 13 nov 17:00)**, no en euros por 12. La decisión pasa de «lo que hay» a
-> «cuánto vale la diferencia».
-
-**Namibia2Go · 4x4 camping equipped double cab · 1 nov 08:00 → 13 nov 17:00 · 13 días · impuestos
-incluidos** ✅. Las dos, idénticas en lo que importa: **automático, diésel, 4 plazas, kilometraje
-ilimitado y Premium Insurance Cover** (franquicia cero).
+**Savanna · grupo GSXA-1 Camping · Ford Ranger 2.2 o 2.0 D/Cab automático · 31 oct 11:00 → 14 nov
+18:00 · 15 días completos, con transfer de aeropuerto** ✅.
 
 ```mermaid
 flowchart LR
-    T["Coste del 4x4 · 13 dias · impuestos incluidos"]
-    n0["BUDGET<br/>N$2.700/dia<br/>N$35.100 · ~EUR 1.755"]
-    n1["COMFORT<br/>N$3.000/dia<br/>N$39.000 · ~EUR 1.950"]
+    T["Coche · 15 dias completos · RESERVADO"]
+    n0["SAVANNA GSXA-1<br/>Opcion 4 de seguro<br/>2.363 EUR total"]
     T ~~~ n0
-    n0 ~~~ n1
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
     style n0 fill:#2d6a4f,color:#fff,stroke:#2d6a4f
 ```
 
-- 🚙 **BUDGET** — **N$2.700/día · N$35.100 los 13 días (~€1.755)** → **~€877,50 por persona** ✅
-- 🚙 **COMFORT** — **N$3.000/día · N$39.000 los 13 días (~€1.950)** → **~€975 por persona** ✅
-- 💶 **La diferencia son N$3.900 (~€195) los dos — ~€97,50 por cabeza**, o **N$300 (~€15) por día.**
+- 🚙 **€2.363 en total — ~€1.181,50 por persona** ✅ *(precio cerrado, no estimado)*.
+- ⛽ **Depósito de 140 L** ✅ — doble depósito (80+60 l) confirmado; el detalle de cómo se lee el
+  indicador, en `20` §1.
+- 🛡️ **Seguro Opción 4**: **franquicia CERO**, con neumáticos, lunas y bajos incluidos ✅.
+- 🛰️📦 **Extras: teléfono satelital y 2 sacos de dormir con almohada** ✅ — pagados y ya dentro
+  del precio total; no hay que gastar nada aparte en satelital.
+- ✈️ **Transfer aeropuerto ↔ oficina de Windhoek**, no entrega en el aeropuerto — gratuito por
+  ser 15 días, con un matiz de horario en la vuelta: el detalle completo, en `20` §1.
 
-### ⚖️ Y qué compran esos N$3.900
-
-Lo único que cambia entre las dos, según la ficha del proveedor *(sin cambios respecto a lo que ya
-tenía el dossier ◐)*: la **Comfort** lleva **tiendas de techo de carcasa rígida** y **compartimentos
-de cocina a medida**; la **Budget**, **tiendas Tentco de lona** y **cajas de camping**. Todo lo
-demás —el mismo Toyota Hilux Double Cab 2.8L GD-6, el seguro, los km, las dos ruedas de repuesto y
-la nevera— es idéntico.
-
-- ⛺ **En la práctica:** la carcasa rígida se monta en **~1 minuto** frente a **~5** de la lona, y
-  aguanta mejor **polvo y viento** ○. Con **13 noches de tienda**, eso son **N$300 (~€15) por noche
-  de tienda** de sobrecoste.
-- 👉 **Cómo decidirlo, sin más vueltas:** si os importa montar y desmontar rápido con viento y polvo
-  trece veces, **la Comfort cuesta ~€97 por cabeza**. Si no, **la Budget deja ese dinero casi clavado
-  para el suplemento del chalet del charco de Okaukuejo** *(N$4.760 el chalet − N$920 del camping ya
-  presupuestado = N$3.840; la diferencia Budget/Comfort son N$3.900 — sobran N$60)*.
-
-### ⏰ El encaje con el calendario — **DECIDIDO: aeropuerto → aeropuerto, 15 días** *(07/08/2026)*
-
-**El coche se recoge el 31 de octubre a la llegada (~11:00) y se devuelve el 14 de noviembre
-camino del embarque (~18:00).** Fuera los hoteles de Windhoek y los traslados: las noches de
-ciudad también se duerme arriba. La cotización vigente sigue siendo del 1 al 13 y **la reserva
-de los 15 está EN TRÁMITE (10/08): falta el precio de las dos puntas**:
-
-```mermaid
-flowchart LR
-    A["31 oct 09:25<br/>ATERRIZAS<br/>coche a las ~11:00"] --> B["1 nov - 13 nov<br/>la cotizacion actual<br/>N$35.100 la Budget"]
-    B --> C["14 nov ~18:00<br/>devolucion EN<br/>el aeropuerto"]
-    C --> D["14 nov 20:45<br/>DESPEGAS<br/>sin traslados"]
-    style A fill:#2d6a4f,color:#fff
-    style D fill:#2d6a4f,color:#fff
-```
-
-- ✅ **La ruta cabe con margen.** El D13 es **Namutoni → Windhoek, ~548 km** *(medido con OSRM,
-  ver [`13`](13-itinerario.md))*: saliendo al abrirse la puerta de Von Lindequist a las **06:10**,
-  en Windhoek sobre las **13:30–14:30** — y ya sin la presión de entregar a las 17:00.
-- ✅ **El D14 deja de ser un día a pie**: mañana tranquila en Windhoek y salida al aeropuerto
-  ~17:00–17:30, repostando a la ida.
-- ◐ **Y la hora dura del 14 está acotada**: la facturación de Discover **cierra 60 min
-  antes del despegue — a las 19:45** ◐ *(mostradores abiertos desde 4 h antes;
-  [ficha de aeropuertos de Discover](https://www.discover-airlines.com/us/en/book/travel-information/airport-info),
-  página en 403 al descargar — extractos convergentes)*. Devolviendo el coche a las ~18:00 quedan
-  **~1h45 de colchón**.
-
-> ### 🧾 La reserva con Namibia2Go — **EN CURSO (10/08/2026)**
-> **La recogida y devolución EN el aeropuerto quedó CONFIRMADA como servicio al reservar ✅. Lo
-> que falta es el precio: los 15 días (31 oct 11:00 → 14 nov 18:00) siguen pendientes de
-> cotización final ❌.**
-> - Sobrecoste sobre los 13 cotizados: **~N$5.400 (~€270)** la Budget · **~N$6.000 (~€300)** la
->   Comfort — **los dos, la pareja** ◐.
-> - ⚠️ **Ojo con el 31 de octubre**: la temporada baja de Namibia2Go **empieza el 1 de noviembre**,
->   así que ese día puede irse a tarifa alta. **Pide el precio exacto de ese día por separado** ❌.
-> - ✅ **La entrega en el aeropuerto, CONFIRMADA al reservar (10/08)** *(su FAQ ya lo apuntaba:
->   oficina junto al aeropuerto, shuttle desde llegadas)* — que la confirmación escrita recoja
->   las horas del sábado: recogida 31/10 ~11:00 y devolución 14/11 ~18:00 ❌.
->
-> *(La alternativa descartada el 07/08: dos noches de hotel en Windhoek más tres traslados
-> aeropuerto–ciudad — más cara casi seguro, y peor: la primera y la última noche sin tienda.)*
-
-> ⚠️ **La web NO sirve para este precio:** publica N$2.910/día «temporada baja», pero esa banda es
-> **«01 Nov 2025 – 30 Jun 2026»** y **caduca antes del viaje**; la siguiente que enseña es la alta de
-> julio–octubre 2026. La ventana cae en el **año tarifario siguiente**, que no está en la web. Los
-> **N$2.700/día (~€135) de la Budget son cotización en vivo para las fechas reales**, coherente con
-> el cambio de año tarifario. *(Misma trampa que la tarifa de NWR.)*
-
-**Aparte, la retención en tarjeta**: la FAQ oficial de N2Go dice **«no deposit»** ✅ *(leída el
-10/08/2026)*, pero dos revendedores citan **N$2.500 (~€125)** de depósito de combustible ◐ — que
-quede por escrito al reservar (`20`). Margen en la tarjeta, en cualquier caso.
-
-> Fuente: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab)
-> · precio de la cotización cerrada.
+**El resto del kit —tienda de techo, nevera, menaje, kit de recuperación y triángulo— confirmado
+pieza a pieza, con sus fuentes, en [`20`](20-reservas.md) §1.**
 
 ---
 
@@ -243,8 +171,8 @@ flowchart LR
   Spreetshoogte, bajada a Sesriem, Sesriem–Walvis, costa hasta Terrace Bay, Damaraland, subida a
   Etosha, safaris internos y vuelta a Windhoek; ningún día por encima de ~410 km salvo el
   regreso final por asfalto, D13 ~550).
-- **Consumo** del Hilux doble cabina cargado con tienda de techo: **11–13 l/100 km** (○, práctica
-  común; no verificado contra ficha del vehículo). Central **12 l/100 km**.
+- **Consumo** del Ford 2.2 o 2.0 D/Cab cargado con tienda de techo: **11–13 l/100 km** (○,
+  práctica común de la clase, no verificado contra ficha del vehículo). Central **12 l/100 km**.
 - **Precio del diésel**: la costa (Walvis Bay, precio base nacional) marcaba **N$24,26/l en julio
   2026** tras la rebaja de N$4/l del Gobierno; **pero el 5 de agosto de 2026 subió +N$2,00/l** al
   restituirse los gravámenes que se habían recortado tres meses → **costa ~N$26,26/l ◐** *(N$24,26 +
@@ -370,12 +298,9 @@ móvil**. Es exactamente el escenario para el que existe esa garantía.
 
 ### 🔁 La franquicia de coche de alquiler te sobra
 
-El Estrella cubre **1.000 € de franquicia del coche**. Pero tu **Namibia2Go lleva Premium Insurance
-Cover = franquicia CERO**: **no hay franquicia que cubrir**. Es una garantía casi redundante en tu
-caso — no la cuentes como valor. *(El resquicio real, leído su contrato estándar el 10/08/2026:
-la cláusula 10.2 permite cobrar el daño sin contacto físico con otro vehículo u objeto «al margen
-de los waivers» — y ese daño no es «franquicia», así que el Estrella tampoco lo taparía. La
-pregunta por escrito está en `20`.)*
+El Estrella cubre **1.000 € de franquicia del coche**. El coche va con **franquicia CERO** ✅ —su
+Opción 4 la anula, y de paso cubre neumáticos, lunas y bajos— así que no hay franquicia que
+cubrir. Es una garantía casi redundante en tu caso — no la cuentes como valor.
 
 ### ❓ La pregunta que decide: ¿evacuación aérea DENTRO del país?
 
@@ -600,7 +525,7 @@ colchón **~N$3.000 (~€150) pareja / ~€75 por persona** ○.
 flowchart LR
     T["Por persona<br/>en EUR · camping"]
     n0["Vuelo<br/>1.536"]
-    n1["Coche<br/>1.013"]
+    n1["Coche<br/>1.182"]
     n2["Alojam.<br/>370"]
     n3["Combust.<br/>225"]
     n4["Comida<br/>140"]
@@ -616,8 +541,9 @@ flowchart LR
 
 **Desglose por persona (escenario camping):**
 - ✈️ Vuelo **€1.536** ✅ *(EMITIDO el 10/08 — la partida ya pagada del viaje)*
-- 🚙 Coche **~€1.012,50** *(los 13 días cotizados ✅ + los 2 del aeropuerto ◐: mitad de ~N$40.500 ·
-  ~€2.025, la Budget)* — **~€1.125 si es la Comfort** *(N$45.000 · ~€2.250 los 15 días)*
+- 🚙 Coche **€1.181,50** ✅ *(RESERVADO el 12/08 con Savanna — €2.363 en total, los 15 días
+  completos, aeropuerto → aeropuerto, seguro Opción 4 con neumáticos y lunas, satelital y 2 sacos
+  de dormir incluidos — `20` §1)*
 - ⛺ Alojamiento **~€370** *(€246 verificado ✅ —NWR €159 + Terrace Bay €87— + ~€124 estimado ○)*
 - ⛽ Combustible **~€225** ○/◐
 - 🍖 Comida **~€140** ○
@@ -627,19 +553,20 @@ flowchart LR
 - 🎯 Actividades **~€144** ✅ *(tarifas NWR verificadas; selección decidida el 08/08, sin reservar)*
 - 🧷 Misceláneos **~€75** ○
 
-> ### **TOTAL POR PERSONA: ~€3.811 (~N$76.200)** *con la Budget, 15 días y el safari guiado*
-> ### **TOTAL LA PAREJA: ~€7.622 (~N$152.400)**
-> Rango honesto: **€3.661–3.961 por persona** — el margen (±~€150) está en las noches sin
-> precio, el precio final del coche en trámite, el combustible, la comida y los misceláneos.
-> *(Corregido el 10/08: el vuelo se emitió en €1.536, +€86 sobre la cotización del 05/08. Y el
-> 08/08: el total anterior arrastraba el alojamiento infravalorado y Cape Cross sin sumar.)*
+> ### **TOTAL POR PERSONA: ~€3.982 (~N$79.600)** *con el coche cerrado y el safari guiado*
+> ### **TOTAL LA PAREJA: ~€7.963 (~N$159.300)**
+> Rango honesto: **€3.832–4.132 por persona** — el margen (±~€150) está en las noches sin
+> precio, el combustible, la comida y los misceláneos; el coche ya no es parte del margen: **es
+> precio cerrado.**
+> *(Corregido el 12/08: el coche pasó a precio cerrado, €1.181,50 por persona — +€169 sobre la
+> última estimación. Antes, el 10/08: el vuelo se emitió en €1.536, +€86 sobre la cotización del
+> 05/08. Y el 08/08: el total anterior arrastraba el alojamiento infravalorado y Cape Cross sin
+> sumar.)*
 >
-> **Lo que todavía puede moverlo** *(ver §2, §7 y §8)*: **+€112,50 p.p.** si sale la **Comfort**
-> en vez de la Budget *(N$300/día × 15 días)* · el **precio final de la reserva del coche, en
-> trámite** *(el 31-oct fuera de temporada baja ❌)* · **+el traslado a Oporto** ida y vuelta
-> *(ya cotizado el 10/08 en ~€180–185 la pareja ◐/❌ — parking + peajes + combustible, ver §8)*
-> y **+el día extra de seguro** *(❌ sin cotizar)*.
-> **Cuenta ~€4.000 por persona para no llevarte sorpresas.**
+> **Lo que todavía puede moverlo** *(ver §3, §4 y §9)*: las **7 noches de camping sin cotizar** ·
+> **+el traslado a Oporto** ida y vuelta *(ya cotizado el 10/08 en ~€180–185 la pareja ◐/❌ —
+> parking + peajes + combustible, ver §8)* y **+el día extra de seguro** *(❌ sin cotizar)*.
+> **Cuenta ~€4.150 por persona para no llevarte sorpresas.**
 
 **Qué parte de este número es sólida: en §11, al final.**
 
@@ -649,9 +576,10 @@ El coche duerme y sienta a más de dos: **ficha verificada ✅ — 5 plazas y 2 
 4 personas**. Lo único que de verdad se reparte es el coche y su gasoil; casi todo lo demás va
 por cabeza:
 
-- **Se reparte (fijo del grupo)**: coche 15 días **~N$40.500 (~€2.025)** la Budget ◐ *(~N$45.000 ·
-  ~€2.250 la Comfort)* + combustible **~€450 (~N$9.000)** + el vehículo en las tasas (7 × N$60 +
-  el coche de Cape Cross = **N$470 · ~€23,5**) → **~€2.499 (~N$50.000)** entre los que vayáis
+- **Se reparte (fijo del grupo)**: coche 15 días **€2.363** ✅ *(RESERVADO con Savanna para 2
+  personas — sin cotización propia para 3–4, que puede exigir grupo distinto: pregunta antes de
+  invitar a nadie ❌)* + combustible **~€450 (~N$9.000)** + el vehículo en las tasas (7 × N$60 +
+  el coche de Cape Cross = **N$470 · ~€23,5**) → **~€2.837 (~N$56.740)** entre los que vayáis
 - **Va por cabeza**: vuelo €1.536 · alojamiento ~€370 *(el camping NWR se cobra POR PERSONA ✅:
   Sesriem N$670/pax, Etosha N$460/pax — y Terrace Bay, por persona en DBB)* · comida ~€140 ·
   tasas de persona 7 × N$280 = **N$1.960 (~€98) + Cape Cross N$150 (~€7,5)** · seguro ~€113 ·
@@ -660,20 +588,23 @@ por cabeza:
 ```mermaid
 flowchart LR
     T["Total por persona segun cuantos vais<br/>EUR · camping"]
-    n0["2 personas<br/>3.811"]
-    n1["3 personas<br/>3.396"]
-    n2["4 personas<br/>3.186"]
+    n0["2 personas<br/>3.897"]
+    n1["3 personas<br/>3.424"]
+    n2["4 personas<br/>3.187"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
-- **2 personas** — **~€3.811 (~N$76.200)/persona** · grupo ~€7.622 (~N$152.400)
-- **3 personas** — **~€3.396 (~N$67.900)/persona** · grupo ~€10.188 (~N$203.800) → *ahorra
-  ~€415/persona (−11 %) respecto a ir dos*
-- **4 personas** — **~€3.186 (~N$63.700)/persona** · grupo ~€12.744 (~N$254.900) → *ahorra
-  ~€625/persona (−16 %)*
+- **2 personas** — **~€3.897 (~N$77.900)/persona** · grupo ~€7.793 (~N$155.900) *(esta tabla
+  reparte el coste en dos bloques —fijo del grupo y por cabeza— y por ese redondeo se separa unos
+  €85 del total oficial de §10, €3.982: para el plan real de 2 personas manda §10)*
+- **3 personas** — **~€3.424 (~N$68.500)/persona** · grupo ~€10.271 (~N$205.400) → *ahorra
+  ~€473/persona (−12 %) respecto a ir dos* — **sin cotizar con Savanna** ❌: su grupo GSXA-1 es
+  camping para 2; para 3–4 puede tocar otro grupo, con otro precio
+- **4 personas** — **~€3.187 (~N$63.700)/persona** · grupo ~€12.749 (~N$254.900) → *ahorra
+  ~€710/persona (−18 %)* — misma reserva ❌ que la de 3
 
 > ⚠️ **Cuatro letras pequeñas antes de invitar a nadie:**
 > 1. **El vuelo (€1.536) está EMITIDO para 2 plazas** — un tercero o cuarto necesitaría su
@@ -683,22 +614,20 @@ flowchart LR
 > 3. **Las 7 noches estimadas (~€124 p.p. ○)** son campings por persona salvo la habitación de
 >    Terrace Bay: con 3–4 puede salir algo mejor o algo peor. El límite de personas por parcela
 >    NWR **está cerrado: máximo 8** ✅ *(tarifario oficial, ver `03`)* — con 3–4 vais sobrados.
-> 4. **El espacio es el precio oculto**: doble cabina con nevera, cajas de camping y equipaje de 4 —
->    el maletero va MUY justo ○. Y el **coste del conductor adicional en Namibia2Go no está
->    verificado** ❌: pregúntalo al reservar.
+> 4. **El coche reservado es de grupo «camping para 2»**: para 3–4 hace falta cotizar con Savanna
+>    si su vehículo aguanta más plazas y equipaje, o cambiar de grupo — **sin verificar** ❌.
 
 ---
 
 ## 11. Qué parte de este número es sólida
 
-- **✅ Duro — ~€2.851 de los €3.811 (75 %)**: vuelo €1.536 *(emitido)* · los 13 días cotizados del coche €877,50 ·
-  las 6 noches de NWR €159 · Terrace Bay €87 · seguro €113 · visado €80. Todo con precio real para
-  las fechas exactas.
+- **✅ Duro — ~€3.157 de los €3.982 (79 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
+  15 días, RESERVADO con Savanna, €1.181,50 · las 6 noches de NWR €159 · Terrace Bay €87 · seguro
+  €113 · visado €80. Todo con precio real para las fechas exactas.
 - **✅ Decidido con tarifa verificada — ~€144**: los safaris guiados de Etosha (3 mañanas + nocturno)
   y la lanzadera de Deadvlei — tarifas NWR reales, selección del 08/08, reserva en recepción.
-- **◐ Corroborado o por recotizar — ~€252**: las tasas de parque (~€117 con Cape Cross; la gaceta
-  localizada, el PDF primario del MEFT sin abrirse) y los 2 días de coche del aeropuerto (~€135,
-  con la reserva en trámite desde el 10/08 — el 31-oct fuera de temporada baja ❌).
+- **◐ Corroborado o por recotizar — ~€117**: las tasas de parque *(con Cape Cross; la gaceta
+  localizada, el PDF primario del MEFT sin abrirse)*.
 - **○ Estimado — ~€564**: seis noches de camping sin cotizar (más Hoada ◐), combustible, comida y
   misceláneos. **Ese es el margen real: ±€150 por persona.**
 
@@ -709,7 +638,8 @@ flowchart LR
 
 ## Fuentes
 
-- **Coche**: [namibia2go.com · 4x4 camping equipped double cab](https://namibia2go.com/4x4-camping-equipped-double-cab) — cotización cerrada, arriba.
+- **Coche**: reserva confirmada con Savanna (12/08/2026) — el detalle, con fuentes, en
+  [`20`](20-reservas.md) §1 y [`16`](16-punto-de-decision.md) §8.
 - **Alojamiento NWR**: [NWR Rack Rates 2026/2027 (PDF)](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf) — ver `03` y `01`.
 - **Tasas de parque**: [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
   [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/) — ver `12` y `15`.

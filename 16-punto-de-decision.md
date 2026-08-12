@@ -279,6 +279,13 @@ flowchart LR
 31/10 antes de las 12:00 **con margen para retrasos**, y que la recotización con las fechas reales
 mantuviera la diferencia. Con ~€80–120 por cabeza en juego y el D1 de rehén, hoy no compensa.
 
+> ### ✅ Reservado con Savanna el 12/08/2026
+> El motivo real: **Namibia2Go se quedó sin disponibilidad**. El coche y su detalle completo,
+> en [`20`](20-reservas.md) §1 — esta página deja de ser el punto de decisión activo; el registro
+> de abajo queda como comparación de mercado, no como estado actual. El depósito de 140 l que ya
+> apuntaba esta comparación del 10/08 quedó confirmado de fuente primaria en la oferta real — el
+> detalle, en `20` §1.
+
 > Fuentes: oferta de Savanna del 10/08 *(PDF recibido, fechas 30/11–14/12)* ·
 > [savannacarhire.com — ficha del grupo](https://www.savannacarhire.com.na/car-rental/1400669167/Toyota-Hilux-Double-Cab-4x4-Hilux-or-Ford) ·
 > [savannacarhire.com — reduced excess insurance](https://www.savannacarhire.com.na/reduced-excess-insurance) ·
