@@ -190,8 +190,6 @@ flowchart LR
   (bloqueado): reseñas viejas dan N$80–150, una secundaria lo sitúa en el baremo premium (N$280).
   **Presupuestado N$150 + N$50 de coche ◐, con el «¿y si es premium?» (+~€13 la pareja) dentro del
   rango** — ver la ficha de arriba.
-- **Okonjima Plains Camp:** el número fino de la media pensión no salió por fragmento (el PDF de
-  tarifas está publicado pero no se pudo abrir aquí).
 - **Waterberg (camping NWR):** la tasa de **parcela** (distinta de la entrada de N$280) no se
   extrajo; solo la entrada.
 - **Kgalagadi:** descartado por decisión del viajero — no se investiga si Asco autoriza el cruce.

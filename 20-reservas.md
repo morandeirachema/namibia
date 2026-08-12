@@ -310,8 +310,10 @@ Viator, cruzadas entre operadores — confírmalas por email antes de reservar.*
 Skeleton Coast)*: globo con [Namib Sky](https://balloon-safaris.com/ballooning-namibia/) (N$9.920 ·
 ~€496/persona) o avioneta con [Sossusvlei Scenic Flights](https://sossusvleiscenicflights.com/sossusvlei-scenic-flights/rates/)
 (N$6.900–17.500 · ~€345–875 según grupo) — precios reales, sin reservar *(`11`)* ·
-**Onguma y Okonjima** son otra liga *(~N$34.600 · ~€1.730 y ~N$12.700 · ~€630 por persona y noche ◐
-— `01`, `11`)*.
+**Onguma y Okonjima** son otra liga — reservas privadas junto a Etosha con nocturno y tracking a pie
+que el parque no permite: **Onguma** desde N$620 (~€31) en su camping hasta N$30.750 (~€1.538)
+pp/noche todo incluido; **Okonjima** desde N$1.130 (~€57) en camping hasta N$22.350 (~€1.118)
+pp/noche en su suite privada ✅ *(`01`, `11`)*.
 
 ---
 
