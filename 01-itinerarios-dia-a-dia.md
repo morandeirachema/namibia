@@ -96,7 +96,8 @@ gantt
 > *(D6 ~11 %, D7 ~5 %)*; y **las cuatro noches de Etosha (D9–D12) caen entre el 0 y el 9 %**:
 > charca iluminada **sin competencia lunar** y Vía Láctea de libro — el **nocturno del D12, con
 > ~9 %, en oscuridad casi perfecta**. La vuelta (D13–D14), con un creciente fino al atardecer.
-> *(El porqué fotográfico, en [`19`](19-fotografia.md); el registro del cálculo, en `15`.)*
+> *(El registro del cálculo, en `15`; la fotografía nocturna tiene su propio repo, aparte de este
+> dossier.)*
 
 > ### 🌡️ Y la temperatura donde duermes — medias de NOVIEMBRE
 > Cada noche lleva su **máxima media / mínima media** del mes. **Son medias mensuales, no la

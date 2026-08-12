@@ -81,9 +81,7 @@ PLENAS = {
 # y en el historial de git, pero no en el volumen que se imprime y se lleva en el
 # coche. Ahi solo estorba.
 
-FUERA_DEL_PDF = {"16", "22"}    # documentos completos que no entran:
-                                # 16, las variantes archivadas; 22, la deliberacion
-                                # de compra de camara de segunda mano
+FUERA_DEL_PDF = {"16"}    # documentos completos que no entran: las variantes archivadas
 
 # Secciones que se caen, por un trozo de su titulo. Se lleva por delante la seccion
 # entera: el encabezado y todo lo que cuelga de el hasta el siguiente del mismo nivel.
@@ -162,8 +160,6 @@ RESUMEN = {
     "17": "La lista de la víspera, ítem a ítem y con casilla: ropa, neceser, botiquín y kits.",
     "18": "Vivir del coche: la rutina de la tarde, la tienda, el braai, la nevera y los "
           "vecinos del campamento.",
-    "19": "La cámara y el teleobjetivo: dos gamas con precio de tienda, y la cuenta de "
-          "comprar frente a alquilar — en España o en Windhoek.",
     "20": "Los pueblos, las lenguas, la historia que explica lo que se ve por la ventanilla "
           "y la etiqueta del trato — atado a los días de la ruta.",
     "21": "El cuaderno de llamadas: cada reserva con su canal, su contacto y su fuente — "
@@ -178,11 +174,11 @@ def miles(n, sufijo=" km"):
 
 # El numero de un documento manda su sitio en el volumen, salvo aqui: la lista de
 # equipaje (`17`) se escribio la ultima pero se lee pegada al `05`, que es de lo que
-# sale — y detras va la camara (`19`), que tambien es equipaje; el manual de campamento
-# (`18`) va pegado al `06`, porque el dia de ruta se lee del tiron: conducir y acampar;
-# y la cultura (`20`) pegada al `08`, que ya lleva la mesa y los mercados.
+# sale; el manual de campamento (`18`) va pegado al `06`, porque el dia de ruta se lee
+# del tiron: conducir y acampar; y la cultura (`20`) pegada al `08`, que ya lleva la
+# mesa y los mercados.
 # Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
-ORDEN = {"21": "04a", "17": "05a", "19": "05b", "18": "06a", "20": "08a"}
+ORDEN = {"21": "04a", "17": "05a", "18": "06a", "20": "08a"}
 
 
 def documentos():

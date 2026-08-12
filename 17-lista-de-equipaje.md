@@ -79,10 +79,10 @@ el viaje sigue; si se pierde la cabina, no.
       Modelo encontrado en UPF 50+: **[Camiseta protección solar manga larga UPF 50+](https://www.decathlon.es/es/p/camiseta-proteccion-solar-hombre-manga-larga-upf-50-gris-oscuro/332579/m8975975)**
       ❌ *(precio sin verificar hoy; ojo, el corte es de deporte acuático — comprobar en foto que
       sirve como camisa de trekking antes de comprar)*
-- [ ] **Pantalones largos ligeros ×2** — el desmontable es el **Forclaz MT500** ○ *(ahorra un
-      corto)*
-- [ ] **Pantalones cortos ×2** — mismo material que el desmontable: **[Forclaz MT500 pantalón
-      corto](https://www.decathlon.es/es/p/pantalon-corto-de-montana-y-trekking-resistente-hombre-forclaz-mt500/351375/c101c382m8916612)** ❌ *(precio sin verificar hoy)*
+- [ ] **Pantalones largos ligeros ×2** — **ya en posesión: 2 desmontables de Decathlon**, modelo
+      sin identificar ○ *(no hace falta comprar más; ahorran un corto cada uno)*
+- [ ] **Pantalones cortos ×2** — **ya en posesión: 2 de deporte** ○; para el resto de los días, la
+      pernera corta de los desmontables ya cubre el hueco — no hace falta comprar más
 - [ ] **Ropa interior ×7** — sintética de secado rápido: **[Kalenji Dry+ bóxer](https://www.decathlon.es/es/p/calzoncillo-boxer-deportivo-transpirable-hombre-negro/_/R-p-121488)**
       ❌ *(precio sin verificar hoy; alternativa merina, misma lógica que la camiseta REC Fresh:
       [Forclaz Trek500 merina](https://www.decathlon.es/es/p/calzoncillos-boxer-montana-y-trekking-lana-merina-hombre-forclaz-trek500/306561/c405m8751633))*
@@ -90,43 +90,44 @@ el viaje sigue; si se pierde la cabina, no.
       ◐ ~12,99 € *(dato de rebaja sin fecha fija, no es lectura de hoy)* + **1 par gordo** para las
       noches de la costa — modelo sin identificar ❌: mirar la categoría
       [calcetines térmicos Decathlon](https://www.decathlon.es/es/deportes/montana/calcetines-termicos-trekking-senderismo)
-- [ ] **Forro polar ×1** — la mínima más baja del viaje son **12,7 °C** en la costa ✅. Modelo:
-      **[Quechua MH100](https://www.decathlon.es/es/p/forro-polar-de-montana-y-trekking-hombre-quechua-mh100/_/R-p-312360)** ❌ *(precio sin verificar hoy)*
+- [ ] **Forro polar ×1** — la mínima más baja del viaje son **12,7 °C** en la costa ✅. **Ya en
+      posesión**: el más nuevo que tengáis de Decathlon ○ — no hace falta comprar
 - [ ] **Chubasquero ×1, impermeable de verdad** *(no solo cortavientos)* — costa, salida de
       Deadvlei a las ~05:10 **y las tormentas de Etosha**: noviembre abre las lluvias *(43–44 mm
       en ~7 días, en tormenta ◐)* y un operador namibio lo llama «esencial de noviembre a abril» ◐
       *([Chameleon](https://chameleonholidays.com/what-to-pack-for-your-namibian-holiday/) ·
-      [SafariBookings](https://www.safaribookings.com/etosha/climate))*. Modelo: **[Quechua MH500
-      chaqueta impermeable](https://www.decathlon.es/es/p/chaqueta-impermeable-de-montana-y-trekking-con-capucha-hombre-quechua-mh500/357657/c70m8916784)**
-      ❌ *(precio sin verificar hoy; se ha visto en rebaja entre 50 y 70 €)*
+      [SafariBookings](https://www.safaribookings.com/etosha/climate))*. **Decidido: Patagonia
+      Torrentshell 3L** ○ — por encima del listón de gama del resto de la lista; membrana de 3
+      capas, cumple de sobra el «impermeable de verdad» que pide este ítem
 - [ ] **Opcional: gorro fino + camiseta térmica ligera** ○ — el seguro de 80 g para la noche de
       la costa *(13–15 °C, 88 % de humedad y viento: sensación ~10–11 ◐)*; ninguna fuente lo exige
-      en noviembre. La térmica hace de pijama en la costa. Modelos: gorro **[Sensei lana merino](https://www.decathlon.es/es/p/gorro-de-invierno-sensei-punto-fino-beanie-unisex-lana-merino/_/R-p-9d46294d-8abf-44f3-9912-2957633c9229)**
-      ❌ *(marketplace, no Quechua/Forclaz propio — precio sin verificar)* y térmica **[Quechua
-      SH100 Warm](https://www.decathlon.es/es/p/camiseta-calida-manga-larga-senderismo-sh100-warm-hombre/_/R-p-123075)** ❌ *(precio sin verificar)*
+      en noviembre. La térmica hace de pijama en la costa. **Ambos ya en posesión**: gorro fino ○
+      y camiseta térmica **Under Armour** ○ — no hace falta comprar nada
 - [ ] **Bañador ×1** — hay piscina en Okaukuejo, Halali y Namutoni ✅
 - [ ] **Ropa de dormir ligera ×1**
 - [ ] **Sombrero de ala ×1** — de ala **≥7,5 cm** ✅ *([skincancer.org](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/))*, no gorra: las orejas y
       la nuca se queman igual. Y **con barbuquejo** ◐ — el viento de la costa está en su máximo
       anual justo en nov–mar *([Atlas of Namibia](https://atlasofnamibia.online/chapter-3/wind))*.
-      Modelo con barbuquejo: **[Forclaz MT500](https://www.decathlon.es/es/p/sombrero-de-montana-y-trekking-proteccion-solar-adulto-forclaz-mt500/302975/c394c71m8597105)**
-      ❌ *(precio sin verificar; **ojo**: la ficha de su hermano de gama mide 7 cm de ala, por debajo
-      del ≥7,5 cm que pide esta lista — comprobar la medida exacta antes de comprar)*
+      **Ya en posesión: Billabong Bushcraft** ○ — pendiente de comprobar a mano que el ala llega a
+      los ≥7,5 cm; si se queda corta, es el único punto de este ítem donde tocaría decidir entre
+      comprar uno nuevo o asumir menos protección en cuello y orejas
 - [ ] **Buff o pañuelo ×2** ✅ — polvo de la grava, viento de la costa y el olor de Cape Cross.
-      Modelo: **[Forclaz MT100](https://www.decathlon.es/es/p/braga-cuello-montana-y-trekking-mt100-rojo/330154/c331c106c83m8616253)** ◐ ~3,99 €/ud *(dos fichas de color coinciden en el precio)*
+      **Ya en posesión: uno negro** ○; el segundo, de color safari, a comprar — modelo:
+      **[Forclaz MT100](https://www.decathlon.es/es/p/braga-cuello-montana-y-trekking-mt100-rojo/330154/c331c106c83m8616253)** ◐ ~3,99 €/ud *(dos fichas de color coinciden en el precio)*
 - [ ] **Gafas de sol ×1** — «protección real» tiene nombre: **UV400, marcado CE (EN ISO 12312-1)
       y filtro de categoría 3** ◐ — la 4 no vale para conducir. Mejor envolventes, por la arena en
-      el viento. Y su funda ○. Modelo: **[Explore 100 envolventes categoría 3](https://www.decathlon.es/es/p/gafas-de-sol-envolventes-categoria-3-explore-100/311973/c382m8559273)**
-      ❌ *(precio sin verificar hoy)*
-- [ ] **Cinturón ×1** — **[Forclaz cinturón billetero oculto TRAVEL](https://www.decathlon.es/es/p/cinturon-billetero-oculto-travel-negro/336896/c382m8677285)**
-      ◐ 9,99 € *(sin hebilla metálica — pasa el control sin quitárselo — y con cremallera
-      interior para billetes)*
-- [ ] **Un conjunto decente ×1** para Joe's Beerhouse y la cena de Terrace Bay ○
+      el viento. Y su funda ○. **Ya en posesión: Oakley graduadas** ○ — comprobar en su propia
+      ficha que cumplen UV400 y categoría 3 (lo habitual en gama Oakley, pero mejor confirmarlo)
+- [ ] **Cinturón ×1** — **ya en posesión: 2 de billetero oculto** ○ — no hace falta comprar; la
+      misma lógica del Forclaz TRAVEL: sin hebilla metálica, pasa el control sin quitárselo
+
+**Decidido: nada especial para Joe's Beerhouse ni la cena de Terrace Bay** ○ — la ropa de safari
+ya hace el apaño.
 
 ## 🥾 Calzado — tres pares, ni uno más
 
-- [ ] **Zapatilla de trail o bota ligera ×1 par, ya domada** ○ — Big Daddy, Sesriem Canyon,
-      Twyfelfontein y la cascada del Uniab
+- [ ] **Botas Hoka de trail ×1 par, ya domadas** ○ — Big Daddy, Sesriem Canyon, Twyfelfontein y
+      la cascada del Uniab *(ya en posesión)*
 - [ ] **Sandalias barefoot Saguaro ×1 par** ○ — conducir y campamento
 - [ ] **Chanclas ×1 par** ○ — duchas compartidas. Gama más barata de Decathlon:
       **[chanclas de piscina Olaian](https://www.decathlon.es/es/deportes/natacion/chanclas-piscina)**
@@ -256,8 +257,7 @@ el viaje sigue; si se pierde la cabina, no.
       USB-A QC](https://www.amazon.es/INIU-60W-Charger-Fast-Charging/dp/B08VJ2VH2J)** ✅ 4,89 €
 - [ ] **Powerbank ×1 grande** ○ *(el enchufe en parcela quedó confirmado el 11/08 para los cuatro
       NWR de interior ◐ — `18` §5; el powerbank cubre Spreetshoogte, Hoada y las tomas rotas de
-      Sesriem)*. Modelo: **[Baseus 45W, 20.000 mAh, PD3.0/QC4.0](https://www.amazon.es/dp/B0F32FDYJM)** ✅
-      29,74 €
+      Sesriem)*. **Ya en posesión** ○ — no hace falta comprar
 - [ ] **Cables de carga ×2 de cada tipo** ○ — el polvo mata conectores
 - [ ] **Funda para el teléfono ×1 p.p.** ○ — que aguante polvo y golpes: el móvil vive quince días
       entre grava, arena y el salpicadero *(para el día de niebla y salitre de la costa ya está la
@@ -265,13 +265,14 @@ el viaje sigue; si se pierde la cabina, no.
       ✅ 9,99 €/ud — antipolvo y anti-agua a la vez, hasta 90×180 mm
 - [ ] **Frontal ×1 por persona, con modo rojo** ○ — letrina a las 3 AM, montar la tienda al
       anochecer y el camino a la charca; **en la plataforma de la charca, apagado del todo** ◐
-      *(la norma documentada es más dura que el modo rojo — `18` §8)*. Modelo: **[Forclaz OnNight
-      100, 80 lúmenes, con pilas](https://www.decathlon.es/es/p/linterna-frontal-de-montana-forclaz-onnight-100-80-lumenes-pilas-incluidas/_/R-p-128225)**
-      ✅ 7,99 €/ud (15,98 € los dos). **+1 juego de pilas de repuesto** ○ — **[Forclaz alcalinas
-      AAA, pack de 12](https://www.decathlon.es/es/p/pilas-alcalinas-camping-forclaz-aaa-lr03-lote-x12-unidades/11921/m8058023)**
+      *(la norma documentada es más dura que el modo rojo — `18` §8)*. **Ya en posesión: Forclaz**
+      ○ — comprobar que tiene modo rojo antes de dar el ítem por cerrado. **+1 juego de pilas de
+      repuesto** ○ — **[Forclaz alcalinas AAA, pack de 12](https://www.decathlon.es/es/p/pilas-alcalinas-camping-forclaz-aaa-lr03-lote-x12-unidades/11921/m8058023)**
       ✅ 4,99 €
 - [ ] **Linterna de mano ×1** ○ además del frontal — **[Ledlenser P3 Mini, 130 lm,
       pila AAA](https://www.amazon.es/dp/B0F63KK6QK)** ✅ 14,69 € (Amazon)
+- [ ] **Lámpara de tienda ×1** ○ — la que ya tenéis: cuelga del techo y hace de luz ambiente en la
+      tienda de techo sin gastar los frontales
 - [ ] Móvil con **Tracks4Africa** ✅ y mapas offline **descargados** — y las otras tres apps,
       TAMBIÉN antes de salir ○: **iOverlander** *(campings y aguadas — útil para los tres sin
       tarifa)*, una de **cielo/estrellas con modo offline** *(las noches de luna nueva del
@@ -285,7 +286,11 @@ el viaje sigue; si se pierde la cabina, no.
       *([Savanna](https://www.savannacarhire.com.na/satellite-phone-rental))*, frente a ~€300 el
       inReach Mini comprado + su suscripción *(mínimo 30 días)*
 
-## 📷 Óptica y cámara
+## 🔭 Prismáticos
+
+*La cámara, el teleobjetivo y todo su equipo —trípode, bean bag, tarjetas, baterías, backup y
+limpieza— tienen repo propio, aparte de este dossier: fotografía es un mundo con sus propias
+decisiones.*
 
 - [ ] **Prismáticos ×1 por persona** ○ — compartir unos en una charca es pelearse, y viajan **en el
       asiento, no en el maletero** ✅. Modelos verificados hoy — recomendado el **8x42** para la
@@ -296,25 +301,6 @@ el viaje sigue; si se pierde la cabina, no.
       ✅ 79,99 €/ud *(MC, 70 %)* · o **[National Geographic 90-76500
       8x42](https://www.amazon.es/dp/B0DB5Q2JXP)** ✅ 79,00 €/ud (Amazon, prisma de techo, más
       compacto)
-- [ ] Cámara ×1 + **teleobjetivo** ○ para la fauna — qué comprar, o si alquilar en Windhoek,
-      está en [`19`](19-fotografia.md)
-- [ ] **Trípode ×1** ○ — la charca iluminada de noche y el cielo del desierto. Modelo:
-      **[Vanguard Vesta FB-204AB, aluminio](https://www.decathlon.es/es/p/mp/tripode-viaje-aluminio-compacto-vanguard-vesta-fb-204ab/6bf5aecc-3926-4922-925f-a11038b4f262/novar)**
-      ✅ 99,90 € *(aluminio: más estable que la fibra ultraligera de este precio)* — más barato,
-      **[K&F Concept 163 cm](https://www.amazon.es/dp/B0B1HYVVTV)** ✅ 49,99 € (Amazon)
-- [ ] **Bean bag o saco vacío ×1** ○ — el apoyo del tele en la ventanilla en Etosha, donde el
-      trípode no cabe; se rellena de arroz o legumbre en la compra del D0
-      *([Gondwana/N2Go](https://gondwana-collection.com/blog/make-the-most-of-your-namibia2go-self-drive-safari))*.
-      Ya relleno: **[Grippa Bean Bag, prellenada, 22×22 cm](https://www.amazon.es/dp/B01C33635M)**
-      ✅ 37,62 € (Amazon)
-- [ ] **Tarjetas ×4** y **baterías ×3** ○ — allí es caro y está lejos
-- [ ] **SSD pequeño o lector USB-C para el móvil ×1** ○ — el respaldo de las tarjetas en Walvis
-      y Windhoek *(la regla entera, en `19`)*. Barato: **[TP-Link UA430C, lector SD+microSD,
-      5 Gbps](https://www.amazon.es/-/en/TP-Link-UA430C-USB-C-Reader-5Gbps/dp/B0DT1LZ162)** ✅
-      8,26 € — SSD 1 TB si hace falta más margen: **[Crucial X9, USB-C
-      3.2](https://www.amazon.es/-/en/Crucial-Portable-Compatible-PlayStation-External/dp/B0CGW1FQV4)**
-      ✅ 123,96 € *(precio inflado en toda la web por la subida de memoria NAND de 2025-26)*
-- [ ] **Funda o bolsa antipolvo ×1** ○ · pera de aire ×1 · paños de limpieza ×3
 
 ## 🏕️ Campamento — solo lo que el coche NO trae
 
@@ -335,9 +321,15 @@ cacharros.** Lo que sí sube al petate:
       cocina que el menaje del coche no trae *([Bushlore](https://bushlore.com/wp-content/uploads/2018/05/Self-Drive-Safari-Planning-Guide.pdf) y Gondwana lo piden expresamente)*.
       Modelo: **[Quechua MH900, acero inoxidable, 1 L](https://www.decathlon.es/es/p/botella-termica-de-montana-y-trekking-acero-inoxidable-1l-quechua-mh900/341498/c261m8750954)**
       ✅ 24,99 €
-- [ ] **Multiherramienta o navaja ×1** — **facturada, jamás en cabina** ○. Modelo: **[Leatherman
-      Rev, 14 herramientas](https://www.amazon.es/dp/B00T8FKH8I)** ✅ 58,99 € (Amazon, gama de
-      entrada de la marca)
+- [ ] **Multiherramienta ×1** — **facturada, jamás en cabina** ○. **Ya en posesión** ○ — no hace
+      falta comprar
+- [ ] **Navaja ×1** — **facturada, jamás en cabina** ○ *(a comprar; la multiherramienta ya cubre
+      alicates y destornilladores, pero no sustituye a una navaja de hoja fija/plegable de verdad)*.
+      Con cordón para el cuello, como se pidió: **[Carimee, mango de madera, orificio para
+      cordón](https://www.amazon.es/Carimee-C12RDE-Navajas-M012B02DE/dp/B0DKDPMHPJ)** ✅ 11,13 €
+      (Amazon, acero D2) — Decathlon no tiene ninguna navaja de su gama con ese orificio; si el
+      cordón no fuera imprescindible, la alternativa allí es el clásico **[Opinel n.° 8](https://www.decathlon.es/es/p/navaja-de-camping-trekking-senderismo-acero-inoxidable-opinel-numero-8/X8277671/c27m8277671)**
+      ✅ 11,99 €
 - [ ] **Silbato ×1** ○ — pesa nada y se oye donde la voz no llega *(ninguna de las listas del
       barrido del 11/08 lo pedía: entra por decisión propia)*
 - [ ] **Bolsa estanca ×1** para la electrónica ○ — **[Tribord 10 L, IPX6](https://www.decathlon.es/es/p/bolsa-estanca-caqui-2-puntos-ipx6-10-litros/349371/c241m9002201)**
