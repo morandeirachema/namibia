@@ -109,7 +109,7 @@ la rata dassie en las peñas de Twyfelfontein, el lagarto de nariz de cuña en l
 por donde se camina.)* Las 44 fichas restantes **no llevan esa línea**: no apareció información
 específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
 
-### Y siete avisos que corrigen lo que dicen las webs de safaris
+### Y diez avisos que corrigen lo que dicen las webs de safaris
 
 - **Flamencos: en noviembre no hay.** La depresión está seca —la NASA la fotografió «bone dry» en
   diciembre— y solo crían cuando la lluvia pasa de 400 mm, algo que ocurrió **tres veces en cuarenta
@@ -137,6 +137,26 @@ específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
   en los montes de Otavi, pegados al SE del parque)*: **ojo amarillo = sureño, ojo oscuro y cara
   blanca = damara** ✅ *(Delport, Kemp & Ferguson 2004, The Auk)*. La ficha del cálao rojo lleva
   el aviso desde el 10/08 — hasta entonces decía «mira el pico y ya está», que se quedaba corto.
+- **El caracal está de verdad en toda la ruta, pero sin dato que lo sostenga** ✅: 3 registros de
+  GBIF en Etosha en oct-nov *(el umbral del propio método son 10)*, cero en las otras tres zonas,
+  y ni Expert Africa ni ningún nocturno guiado —ni el de Okonjima/AfriCat, que sí trackea leopardo
+  e hiena parda con collar— lo tiene como objetivo declarado. Extendido y estable según la
+  evaluación namibia de 2022 *(NCE/LCMAN/MEFT, [Libro Rojo de carnívoros](http://web.archive.org/web/20240903054529/https://n-c-e.org/wp-content/uploads/Carnivore-Red-Data-Book-species-account-caracal.pdf))*,
+  pero verlo es puro premio: por eso se queda sin ficha, como la jineta o el lobo de tierra.
+- **El serval no toca esta ruta**: necesita agua permanente y vegetación densa, y su único hábitat
+  namibio con densidad medida está en el Zambezi, a cientos de kilómetros de aquí — cero registros
+  de GBIF en las cuatro zonas del eje, en toda su historia ✅ *(Edwards et al. 2018,
+  [African Journal of Ecology](https://doi.org/10.1111/aje.12540): «detected infrequently, even
+  during prolonged camera trapping surveys»)*. Hay dos citas sueltas cerca de Damaraland y del
+  borde del Namib que la propia fuente namibia marca como «estatus del registro desconocido»: ni
+  esas sirven de base.
+- **El gato de patas negras: el felino más pequeño de África, y Etosha el único parque namibio
+  con su presencia confirmada** ✅ *(NCE/LCMAN/MEFT 2022; Stander 1991, Küsters 2013)* — pero es
+  tan esquivo que de más de 790 registros de investigación con collar y cámara trampa dedicados,
+  **solo uno** salió de una cámara trampa (IUCN, evaluación 2016/2020). 1 registro de GBIF en
+  Etosha en toda su historia, 0 en oct-nov: ni la propia comunidad investigadora namibia lo
+  detecta más que por excepción — se queda sin ficha por el mismo motivo que el resto de esta
+  lista, no porque no esté.
 
 Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horarios de puerta calculados
 para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las tres charcas
