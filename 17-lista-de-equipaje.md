@@ -68,7 +68,8 @@ el viaje sigue; si se pierde la cabina, no.
 - [ ] **Camisas de manga larga ligeras ×2** — sol de mediodía y mosquitos del anochecer. Para el
       día de dunas, mejor si una es **UPF 50+**: la camiseta clara de algodón es UPF ~7, y ~3
       empapada ◐ *([skincancer.org](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/))*
-- [ ] **Pantalones largos ligeros ×2** *(uno desmontable ahorra un corto)*
+- [ ] **Pantalones largos ligeros ×2** — el desmontable es el **Forclaz MT500** ○ *(ahorra un
+      corto)*
 - [ ] **Pantalones cortos ×2**
 - [ ] **Ropa interior ×7**
 - [ ] **Calcetines finos ×6 pares** + **1 par gordo** para las noches de la costa
