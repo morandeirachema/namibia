@@ -560,8 +560,8 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   franquicia/Excess, y con la Opción 4 la franquicia es **N$0** — no hay nada que retener por ese
   concepto. La hoja de condiciones firmada en la entrega SÍ deja otros cargos que sí pueden ir
   a la tarjeta: N$850 de gestión si hay cualquier daño, N$350 si Savanna paga una multa por
-  cuenta del cliente, y el depósito de combustible sigue sin una cifra propia de Savanna
-  *(la de N$2.500 que citaban revendedores era de Namibia2Go)*.
+  cuenta del cliente, y el depósito de combustible sigue sin una cifra propia de Savanna —
+  **N$2.500 (~€125) sin confirmar ❌**, cifra suelta de reventas, no de fuente primaria.
 - 🛟 La **opción de búsqueda y salvamento del IATI Estrella: ❌ sin cotizar** *(el Mochilero la
   trae de serie; pedirla por escrito está en el README, punto 6)*.
 - 🚗 El **traslado A Coruña ↔ Oporto — decidido (09/08): en coche propio**. **Cotizado el 10/08 en
@@ -666,8 +666,7 @@ o de un email)*:
   opcional *(`11`)*.
 - 🎫 **El tramo exacto de Cape Cross** *(¿N$150 o el baremo premium de N$280?)*: presupuestado
   N$150+50 ◐ con la banda alta dentro del rango — mismo email del MEFT que la tabla fina de
-  tasas *(`11`)*. · **Okonjima Plains** y la **parcela de Waterberg**: cifras finas sin extraer
-  *(`11` §huecos)*.
+  tasas *(`11`)*. · La **parcela de Waterberg**: cifra fina sin extraer *(`11` §huecos)*.
 
 ---
 
