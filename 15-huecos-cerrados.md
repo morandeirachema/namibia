@@ -153,6 +153,42 @@ es la zona fresca y húmeda en las dos lecturas — y el `05` lleva la horquilla
 lo que molesta en la costa es la **niebla y el frío de madrugada**, no el vendaval. *(La fama ventosa
 de esta costa viene de Lüderitz, 400 km al sur y fuera de la ruta.)*
 
+## 🌬️ Y el viento de Etosha en noviembre, medido — flojo de fondo, con 1–3 muros de racha al anochecer *(12/08)*
+
+- **Cómputo propio sobre GSOD de la estación de Okaukuejo** *(680100, años útiles ~2001–2021, 263
+  días de noviembre)* ✅: media diaria **6,8 km/h**, máximo sostenido medio **16,7**, p90 **24** y
+  techo de la serie **37 km/h sostenidos**; rachas ≥40 km/h en 33 de los 141 días que las
+  reportan, con máximas de **63–66 km/h** *(18/11/2012, 28/11/2013, 27/11/2019)*. Octubre es casi
+  idéntico de fondo. Fuente: [NOAA GSOD](https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/)
+  *(la vía tutiempo de esta estación está hueca; por NCEI la serie existe entera)*.
+- **El ciclo diario juega a favor de la rutina** ✅: de noche la superficie se desacopla — el
+  chorro del este sopla a 150–300 m de ALTURA, no en la tienda — y el viento en el suelo es flojo
+  hasta las 08:00–09:00: **las 05:45 del desmontaje son la ventana más quieta del día**. El chorro
+  baja a superficie a las 09:00–11:00, que es la hora clásica del polvo
+  *([Wiggs et al. 2022, JGR Earth Surface](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JF006675) — un año de medición en el propio pan, con lidar en Okaukuejo)*.
+- **El riesgo es vespertino y discreto**: los frentes de racha de tormenta *(cold pool outflows,
+  el 39 % de los eventos de polvo del año medido)* arrancan **entre la puesta de sol y las
+  22:30** — de la calma a **37–55 km/h en media hora**, el muro de polvo ANTES que la lluvia,
+  ~81 minutos y se agota ✅ *(Wiggs)*. En los GSOD: **1–3 tardes-noches por noviembre** con racha
+  de 45–66. Cae de lleno en la ventana de la charca de las 21:00 *(`18` §8)*.
+- **Noviembre es el mes gordo del polvo medido in situ**: la teledetección clásica pone las plumas
+  más frecuentes en jun–sep, pero el año medido en el pan dio **el mayor flujo anual justo en
+  noviembre** *(571 g/m², el doble de la media invernal; el evento récord del año, un 5-nov)* ✅
+  *(Wiggs)*. El viento que emite es **E-ENE** y las plumas viajan al W-SW: **Okaukuejo (D9) queda
+  a sotavento del pan**, Namutoni a barlovento y Halali entre medias.
+- **Umbrales de tienda de techo** ◐: iKamper prueba las suyas a **56 km/h** de cualquier dirección
+  *([blog oficial](https://ikamper.com/blogs/ikampernation/how-to-prepare-your-roof-top-tent-for-windy-conditions))*, TentBox declara **80**
+  *([guía](https://tentbox.com/blogs/help-and-guides/using-a-tentbox-roof-tent-in-strong-winds))* y
+  para una lona genérica el especialista pide **cerrar a 63+**
+  *([outdoorroadie](https://outdoorroadie.co.uk/pages/how-much-wind-can-a-roof-top-tent-withstand))*.
+  El fondo de noviembre queda por debajo de todo; la racha convectiva entra en banda de «carcasa
+  al viento y, con lona, cerrar». **El modelo de tienda del Hilux de N2Go y su rating siguen sin
+  confirmar ❌** — a la tanda de preguntas del `21`.
+- **En blanco**: weather-atlas (403), weatherspark (no tiene página de Etosha), el texto completo
+  de Clements 2023 — la brisa que llega del Namib al anochecer de verano — de pago (abstract
+  verificado). Y no existe climatología horaria de Okaukuejo en abierto: el ciclo diario descansa
+  en un año medido, bueno pero uno.
+
 ## 🌅 Luz — superado por una fuente mejor
 
 La ventana de luz se calculó por longitud para las fechas reales, y luego apareció algo mejor: **la
