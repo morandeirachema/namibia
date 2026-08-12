@@ -269,7 +269,7 @@ el 12/08, sigue sin verificar completo, ver la nota de cabecera.)*
 
 **Lo que NO se pudo establecer, dicho sin rodeos:** **no existe tarifa publicada de grúa por
 kilómetro en Namibia**. La página de asistencia de AA Namibia lista servicios y teléfonos 24/7 pero
-**no publica precios**. Asco, African Tracks y Namibia2Go dicen que el rescate lo paga el
+**no publica precios**. Asco y African Tracks dicen que el rescate lo paga el
 arrendatario, **ninguno publica tarifa** — y de Savanna, el proveedor contratado, tampoco hay
 tarifa localizada. **No voy a inventarme una cifra.**
 
@@ -421,10 +421,8 @@ en la cláusula 10.8 de Asco) que da prestaciones médicas y por lesión a **cua
 accidente de tráfico en Namibia, **sin importar nacionalidad ni culpa**.
 👉 **Como visitante español, estás cubierto por él.** Centralita: **+264 61 289 7000**
 
-- **Savanna** *(tu proveedor desde el 12/08)* — ⚠️ **su número de emergencias 24 h no está en el
-  dossier: pídelo al reservar y grábalo**, es el que de verdad importa. *(La centralita
-  +264 61 427 220 de arriba era de Namibia2Go — ya no es tu proveedor, no la marques en una
-  emergencia.)*
+- **Savanna** — ⚠️ **su número de emergencias 24 h no está en el dossier: pídelo al reservar y
+  grábalo**, es el que de verdad importa.
 - **AA Namibia**, asistencia 24/7: **+264 81 555 9432** / **+264 85 25 555 00**
   *(es por membresía: te van a pedir datos de socio, así que es un plan B, no una garantía)*
 - **Asco**, emergencias: **+264 (0)81 127 2949** / **+264 (0)81 129 2514** *(empresa descartada —
