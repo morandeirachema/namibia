@@ -249,6 +249,8 @@ cacharros.** Lo que sí sube al petate:
 
 - [ ] **Almohada o cojín de viaje ×1 p.p.** ○ — la ficha lista 4 almohadas; ésta es la de
       apego, por si la del coche decepciona
+- [ ] **Abanico ×1 p.p.** ○ — la siesta parada del mediodía a 35–38 °C y las noches quietas de
+      Etosha sin un soplo de aire; pesa nada y no gasta batería
 - [ ] **Cinta americana ×1**, **bridas ×10** y **cuerda fina ×5 m** ○
 - [ ] **Mecheros ×2** y pastillas de encendido ○
 - [ ] **Termo ×1** ◐ — el café del amanecer en el mirador y las esperas de charca; es lo único de
