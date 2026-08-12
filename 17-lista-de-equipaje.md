@@ -158,6 +158,9 @@ el viaje sigue; si se pierde la cabina, no.
 - [ ] **Antidiarreico** — 1 caja *(loperamida)* ○
 - [ ] **Sales de rehidratación oral ×8 sobres** ○ — con 35–38 °C la deshidratación va por delante
       de la sed, y la regla del agua son **4+ L por persona y día EN el coche** ✅
+- [ ] **Cápsulas de sal/electrolitos ×1 bote** ○ — para el sudor del esfuerzo *(Big Daddy, las
+      caminatas)*: complementan a las SRO, que son para la diarrea. Elegidas:
+      **[cápsulas de sal ×100 de Decathlon](https://www.decathlon.es/es/p/capsulas-de-sal-x100/188711/g78m8409161)**
 - [ ] **Antihistamínico** — 1 caja ○
 - [ ] **Protector gástrico** — 1 caja ○
 - [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.757 km, y el paso de Spreetshoogte y la
