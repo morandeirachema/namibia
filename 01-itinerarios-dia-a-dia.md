@@ -466,7 +466,9 @@ flowchart LR
   ficha nueva del 08/08)*
 - 🛏️ **Camping Namutoni — N$920 (~€46)** ✅ *(el fuerte alemán, y Chudop a un paso)*
 - *Capricho opcional: **Onguma** (reserva privada justo al otro lado de la puerta de Von
-  Lindequist) ⚠️ precio sin verificar; puede ser gama alta — a cambio pierdes estar dentro*
+  Lindequist) ✅ desde N$620 (~€31) pp/noche en su camping hasta N$30.750 (~€1.538) pp/noche en
+  Camp Kala, todo incluido — leopardo y guepardo confirmados en su propia web, a cambio de perder
+  estar dentro del parque*
 
 ### D12 · jue 12 — Etosha este · **~60–80 km de safari** ✅
 - 🌡️ **Etosha 37,1 / 18,9 ✅**
@@ -653,9 +655,9 @@ sus excavaciones en los termiteros.)* **N$1.500 (~€75) los dos.**
 mañana de Sesriem N$600–700 (~€30–35), Elim Dune N$300 (~€15) y el cañón N$200 (~€10) *(ver [`03`](03-alojamiento-y-tasas.md))*.
 
 **Y las reservas privadas —Ongava, Okonjima, Onguma— no son una mejora del plan**: una sola noche en
-Ongava cuesta **~N$34.600 (~€1.730) los dos**, el triple que las trece noches de camping de todo el viaje. Son
-otro producto. *(Okonjima, por sus leopardos habituados, es el único capricho con argumento — como
-parada del D13.)*
+Ongava cuesta **~N$37.000 (~€1.850) los dos**, con la tasa de conservación incluida — el triple que
+las trece noches de camping de todo el viaje. Son otro producto. *(Okonjima, por sus leopardos y
+rinocerontes con collar, es el único capricho con argumento — como parada del D13.)*
 
 ---
 
