@@ -159,13 +159,6 @@ Es la ruta del clásico de dos semanas *(la misma familia que el itinerario de
 que sirvió de referencia)*, montada con nuestros datos verificados. **El sur queda para otro
 viaje**: está medido y documentado en el historial de git por si algún día vuelve.
 
-### ❓ ¿Etosha al principio o al final? → **Al final**, por tres razones con datos
-
-**El dinero** *(con el desierto primero, todas las noches de NWR caen después del 1 de noviembre, en
-tarifa baja)*, **el termómetro** *(Etosha se enfría según avanza el mes: 37,8 °C de media en octubre,
-37,1 en noviembre)* y **el crescendo** *(asfalto y grava amable primero; el safari como clímax, no
-como aperitivo)*. El razonamiento completo, con el contra dicho honestamente, está en el itinerario.
-
 📖 **El día a día completo, con dónde dormir y precios** → [`01-itinerarios-dia-a-dia`](01-itinerarios-dia-a-dia.md)
 
 ---

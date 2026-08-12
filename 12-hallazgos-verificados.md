@@ -16,15 +16,9 @@ costado dinero real.
 
 ---
 
-## 1. El precipicio de precio de noviembre — la palanca que decidió las fechas ✅
+## 1. NWR sube de precio el 1 de noviembre — las seis noches oficiales caen en tarifa barata ✅
 
-**Cada compañía cambia de temporada en una fecha distinta, y eso vale cientos de euros.** Asco baja
-el **15 de noviembre**; **Namibia2Go baja el 1 de noviembre**. Con la ventana 31 oct – 14 nov, elegir
-Namibia2Go mete **casi todo el alquiler en tarifa baja** — solo el día de la recogida, el **31 de
-octubre, cae fuera** *(se pide por separado, `02` §2)* — frente a lo que con Asco habría sido
-temporada alta de principio a fin, unos **€850 más**.
-
-**NWR hace el mismo salto el 1 de noviembre**, así que las seis noches de campings oficiales
+**NWR cambia de temporada el 1 de noviembre**, así que las seis noches de campings oficiales
 (Sesriem ×2 y las cuatro de Etosha) caen todas en el tramo barato — la primera es Sesriem, el 3.
 *(Se aterriza el 31 a las 09:25; esa noche —Windhoek— y las dos de Spreetshoogte no son NWR.)*
 

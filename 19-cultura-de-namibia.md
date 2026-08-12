@@ -88,7 +88,7 @@ pie showData
   tumbas de los jefes y la peregrinación anual de finales de agosto *(fuera de vuestras fechas)* ◐.
 - **Himba** — los ovahimba del Kunene profundo, parientes de los herero que no pasaron por la
   misión: **el otjize** *(la pasta de ocre y grasa que da a piel y trenzas el rojo famoso)*.
-  ⚠️ **Vuestra ruta NO llega a su territorio** *(Kaokoland quedó descartado con números, `11`)*:
+  ⚠️ **Vuestra ruta NO llega a su territorio** *(Kaokoland queda fuera de esta ruta)*:
   los veréis, si acaso, en los pueblos y mercados del eje Kamanjab–Outjo. Existen «aldeas de
   demostración» visitables cerca de Kamanjab ◐ — si os tienta, la regla de abajo *(§4)* vale
   doble: con guía local, comprando artesanía y sin tratar a nadie como decorado ○.
