@@ -54,7 +54,8 @@ el viaje sigue; si se pierde la cabina, no.
 - [ ] **Póliza IATI en papel** ×2: número de póliza y **teléfono 24 h** ✅
 - [ ] **Carné de conducir** ×1 p.p. + **permiso internacional** ×1 p.p.
 - [ ] **Cartilla de vacunación** ×1 p.p.
-- [ ] **Tarjetas** ×2 p.p., de bancos distintos ○ *(ni Diners ni Amex en Namibia2Go ◐)*
+- [ ] **Tarjetas** ×2 p.p., de bancos distintos ○ *(Savanna cobra por Visa o Mastercard ✅; Diners
+      y Amex, sin confirmar ❌)*
 - [ ] **Efectivo en euros** para cambiar a la llegada ○
 - [ ] **Fotocopias de todo** ×1 juego, en bolsa aparte del original ○
 - [ ] Fotos de todo en el móvil, **descargadas para verlas sin cobertura** ○
@@ -279,12 +280,8 @@ ya hace el apaño.
       9–12, `01`)* y una de **previsión marina/viento** para el crucero del D6
 - [ ] Reloj o despertador que no dependa de la batería del móvil ○ — **[TFA Dostmann Mini
       Digital Alarm Clock](https://www.amazon.es/dp/B0DDQ1MNW8)** ✅ 7,49 € (Amazon)
-- [ ] **Satelital con SOS** *(Garmin inReach o similar)* ✅ — recomendado sin ambigüedad para esta
-      ruta; comprarlo o alquilarlo **sigue pendiente de decidir** *(`04`)*. La decisión ya tiene
-      números ◐: alquiler en Windhoek a **N$160 (~€8)/día + N$60 (~€3) por unidad de llamada —
-      ~N$2.720 (~€136) el viaje**, reservando antes
-      *([Savanna](https://www.savannacarhire.com.na/satellite-phone-rental))*, frente a ~€300 el
-      inReach Mini comprado + su suscripción *(mínimo 30 días)*
+- [ ] **Satelital con SOS** ✅ — reservado y pagado como extra del alquiler de Savanna *(`20` §1)*
+      — no hace falta comprar ni alquilar nada aparte.
 
 ## 🔭 Prismáticos
 
@@ -304,13 +301,14 @@ decisiones.*
 
 ## 🏕️ Campamento — solo lo que el coche NO trae
 
-El 4×4 de Namibia2Go viene con **2 tiendas de techo, ropa de cama para 4 —con almohadas y
-toallas—, mesa, 4 sillas, menaje completo, cocina de gas con bombona, nevera eléctrica y
-compresor** ✅ *(ficha cotejada el 10/08/2026)*. **No se compra ni saco, ni esterilla, ni
-cacharros.** Lo que sí sube al petate:
+El 4×4 de Savanna viene con **una tienda de techo con colchoneta, nevera Engel de 40 L con
+batería propia, mesa, 2 sillas, 2 bombonas de gas, parrilla, lámpara de 12V, garrafa de 20 L y
+caja de cocina completa** ✅ *(`20` §1)*. **No se compra saco de dormir con ropa de cama** —la
+tienda solo trae sábana bajera, sin edredón ni manta: los sacos con almohada ya van reservados y
+pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al petate:
 
-- [ ] **Almohada o cojín de viaje ×1 p.p.** ○ — la ficha lista 4 almohadas; ésta es la de
-      apego, por si la del coche decepciona. Modelo: **[Decathlon Travel 100, hinchable,
+- [ ] **Almohada o cojín de viaje ×1 p.p.** ○ — los sacos de dormir del coche vienen con almohada,
+      pero ésta es la de apego, por si la del coche decepciona. Modelo: **[Decathlon Travel 100, hinchable,
       50 g](https://www.decathlon.es/es/p/almohada-de-viaje-hinchable-y-compacta-decathlon-travel-100/_/R-p-333306)**
       ✅ 9,99 €
 - [ ] **Abanico ×1 p.p.** ○ — la siesta parada del mediodía a 35–38 °C y las noches quietas de

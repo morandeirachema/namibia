@@ -13,15 +13,16 @@
 > Este documento no endulza nada. En Namibia lo que te puede matar es la carretera, no los
 > animales ni el crimen — lo dice explícitamente el MAEC. Aquí están los números.
 
-> ### ⚠️ Sobre las cláusulas de contrato citadas aquí (nota del 02/08/2026)
+> ### ⚠️ Sobre las cláusulas de contrato citadas aquí (nota del 02/08, actualizada el 12/08/2026)
 > Las cláusulas literales de este documento (80 km/h con caja negra, dune driving, rescate,
 > D3707/D3703, cláusula 10.9…) son de los contratos **descargados y verificados de Asco y African
-> Tracks**. **El coche contratado es otro: Namibia2Go BUDGET**, y su contrato **no se ha podido
-> descargar ni verificar todavía**. Trata lo de abajo como **la referencia del sector** —los
-> límites reales pueden ser iguales o peores— y **pide el contrato de Namibia2Go por escrito al
-> reservar** con tres preguntas concretas: bajos en Damaraland, número de ruedas de repuesto de la
-> Budget, y coste orientativo de rescate. Buena noticia de ruta: **las pistas malditas D3707/D3703
-> NO están en la ruta.**
+> Tracks**. El coche contratado es **Savanna** *(`20` §1)*: su Opción 4 de seguro —neumáticos,
+> lunas, bajos y franquicia cero— y su kit de recuperación ya están confirmados, pero **el
+> contrato completo no se ha leído todavía**. Trata lo de abajo como **la referencia del sector**
+> —los límites reales pueden ser iguales o peores— y **pide el contrato de Savanna por escrito**
+> con tres preguntas concretas: bajos en Damaraland, número de ruedas de repuesto, y coste
+> orientativo de rescate. Buena noticia de ruta: **las pistas malditas D3707/D3703 NO están en la
+> ruta.**
 
 ---
 
@@ -121,6 +122,14 @@ tu carga** y apúntala. **Comprueba en frío cada mañana**: con el calor de nov
 presión sube mucho en caliente, y **bajar un neumático caliente hasta la cifra “de frío” te deja
 peligrosamente desinflado a la mañana siguiente**.
 
+### ⚙️ El 4x4 se desactiva en firme duro — regla nueva de Savanna, y no es opcional ✅
+
+La hoja de condiciones firmada en la entrega lo deja explícito: **conducir con la tracción a las
+cuatro ruedas puesta en asfalto o grava normal daña la transmisión**, se considera desgaste
+excesivo por mal uso, y **ese daño no lo cubre ningún nivel de seguro, ni la Opción 4**. El 4x4 es
+para arena, barro o pista suelta de verdad — no para dejarlo puesto «por si acaso» en la grava
+del día a día. Desactívalo al volver a firme normal.
+
 ---
 
 ## 5. La arena de Sossusvlei, y una prohibición que anula el seguro ◐
@@ -145,12 +154,12 @@ permitted»*.
 - Presión de arena típica **~1,0–1,6 bar** (African Tracks da 1,6) — pero **necesitas el compresor**
   para volver a subir: **confirma que funciona en la entrega**
 
-> ### 🚫 Cláusula crítica del contrato de Asco *(referencia del sector — confirma la de Namibia2Go)*
+> ### 🚫 Cláusula crítica del contrato de Asco *(referencia del sector — asume lo mismo en Savanna)*
 > *«Dune Driving and driving to Sandwich Harbour: This is strictly prohibited.»*
 >
 > La pista de arena hasta Deadvlei **no** es *dune driving*. Pero **Sandwich Harbour y cualquier
 > excursión por dunas anulan tu cobertura entera**. Para eso, **tour guiado** — que además es el
-> plan del D6. *Asume que el contrato de Namibia2Go dirá lo mismo hasta que lo leas.*
+> plan del D6. *Asume que el contrato de Savanna dirá lo mismo hasta que lo leas.*
 
 ---
 
@@ -178,6 +187,12 @@ El consejo es bueno; la cita, mal usada.
 > ~19:05, así que **apunta a las 18:00**; en las etapas largas de los primeros días, mejor **17:30**).
 > Si vas tarde, **párate y llega mañana**: una noche de alojamiento imprevista no vale nada al lado
 > del riesgo.
+
+> ⚠️ **Y desde el 12/08, esto ya no es solo un consejo de seguridad: es una cláusula del seguro.**
+> La hoja de condiciones de Savanna deja **«antes del amanecer y después del atardecer»** como
+> zona a riesgo propio, sin cobertura salvo que se nombre como la única zona cubierta por la
+> Opción 4 (`20` §1). El caso real de la ruta es la salida a Deadvlei del D4, a las ~05:10 —
+> **pedirlo por escrito al firmar en la entrega**, o ese tramo concreto queda sin seguro.
 
 ---
 
@@ -226,8 +241,8 @@ chapa.
 
 ## 8. Grúa y rescate: la responsabilidad es segura, el precio no ✅
 
-*(Contrato de **Asco** — la referencia descargada; el de Namibia2Go sigue sin verificar, ver la
-nota de cabecera.)*
+*(Contrato de **Asco** — la referencia descargada; el de Savanna, el proveedor contratado desde
+el 12/08, sigue sin verificar completo, ver la nota de cabecera.)*
 
 **Lo que está establecido — T&C de Asco, versión 01/06/2026:**
 
@@ -255,13 +270,14 @@ nota de cabecera.)*
 **Lo que NO se pudo establecer, dicho sin rodeos:** **no existe tarifa publicada de grúa por
 kilómetro en Namibia**. La página de asistencia de AA Namibia lista servicios y teléfonos 24/7 pero
 **no publica precios**. Asco, African Tracks y Namibia2Go dicen que el rescate lo paga el
-arrendatario, **ninguno publica tarifa**. **No voy a inventarme una cifra.**
+arrendatario, **ninguno publica tarifa** — y de Savanna, el proveedor contratado, tampoco hay
+tarifa localizada. **No voy a inventarme una cifra.**
 
 Lo que sí puedes inferir: un rescate desde Damaraland profundo hasta Windhoek son **varios cientos
 de kilómetros de plataforma especializada**, **no tiene tope** por tu franquicia, y Asco puede
 pedirte garantía.
 
-👉 **Acción:** pide a **Namibia2Go** *(el proveedor contratado)* **por escrito, al reservar**, un
+👉 **Acción:** pide a **Savanna** *(el proveedor contratado desde el 12/08)* **por escrito**, un
 **coste orientativo de rescate desde Twyfelfontein y desde Sesriem**. Su respuesta vale más que
 cualquier número que yo te dé.
 
@@ -284,25 +300,21 @@ parabrisas simplemente picados son **muchísimos más** y no se registran.
 - **Las dos manos al volante**, espera un muro de polvo y un golpe seco
 - **No esquives una piedra**
 
-**Coberturas — cláusula 10.9 de Asco** *(referencia; tu Premium Cover de Namibia2Go dice
-«franquicia cero» ◐, pero sus exclusiones —sandblasting, bajos, agua— hay que pedirlas por
-escrito, y su contrato estándar —leído el 10/08— permite cobrar el daño sin contacto con
-terceros «al margen de los waivers», cláusula 10.2 — `16` §8)*:
-- (c) daños en **bajos** → excluidos **salvo Super Cover**
-- (d) daños por **sandblasting** (arenado) → **NUNCA cubiertos, en ningún nivel** ← relevante en los
-  tramos costeros cerca de Swakopmund y la Costa de los Esqueletos
-- (f) **neumáticos** → excluidos **salvo Super Cover**
-- **Cristales** → solo con Super Cover
+**Coberturas de Savanna, confirmadas ✅** *(hoja de condiciones firmada en la entrega, `20` §1)*:
+la Opción 4 cubre **hasta 2 neumáticos (máx. N$2.800 cada uno) y una luna**, con un matiz sin
+resolver: un párrafo de la propia hoja dice que esa cobertura sigue aplicando en las «zonas a
+riesgo propio» y otro dice literalmente lo contrario — **se pregunta al firmar, no se adivina**.
+Lo que **NUNCA cubre ningún nivel de seguro, ni la Opción 4**: llantas (rims) perdidas, robadas o
+dañadas, luces delanteras y traseras, daños por agua, desgaste excesivo, y daños de embrague
+*(éste con una fianza inmediata de N$15.000 para un coche de sustitución — N$25.000 si ocurre
+fuera de Namibia)*.
 
 > Un parabrisas roto en un nivel bajo es **tu factura**. Asume que **te vas a llevar al menos un
 > impacto en 15 días**: es casi un rito de paso.
 
-**Coste de referencia de un neumático**: la opción de franquicia cero de African Tracks cubre hasta
-dos neumáticos a **«not more than N$ 2.500,00»** cada uno → **~N$2.500 (~€125) por neumático 4x4**.
-
-⚠️ Y ojo: Asco cobra **cada neumático dañado** y dice *«No repaired tyres will be accepted unless
-specifically covered under Super Cover»* — o sea que **un neumático reparado con mecha te lo cobran
-igual como dañado**.
+⚠️ **Neumático reparado con mecha**: la práctica namibia habitual (Asco, African Tracks) es no
+aceptarlo como «no dañado» salvo con el nivel más alto de cobertura — asume lo mismo con Savanna
+hasta confirmarlo.
 
 ---
 
@@ -385,7 +397,7 @@ Dormir fuera significa que **no puedes llegar físicamente** antes de que el sol
 **Y por qué esto es un asunto de conducción, no de logística:** quien reserva fuera y aun así intenta
 llegar al amanecer **hace esos 60 km demasiado rápido y a oscuras**, justo en la ventana del alba en
 que se mueven kudús y órix — y el límite contractual de **60 km/h dentro de parques** (documentado
-en Asco; asume lo mismo en Namibia2Go) manda de todas formas.
+en Asco; asume lo mismo en Savanna) manda de todas formas.
 
 > ❌ **Refutado 0–2 por exceso**: la cita de NWR es exacta, pero el documento original estiraba dos
 > conclusiones que la fuente no sostiene, y una tenía un error aritmético. **Lo que aguanta es la
@@ -409,8 +421,10 @@ en la cláusula 10.8 de Asco) que da prestaciones médicas y por lesión a **cua
 accidente de tráfico en Namibia, **sin importar nacionalidad ni culpa**.
 👉 **Como visitante español, estás cubierto por él.** Centralita: **+264 61 289 7000**
 
-- **Namibia2Go** *(tu proveedor)*, centralita: **+264 61 427 220** — ⚠️ **su número de emergencias
-  24 h no está en el dossier: pídelo al reservar y grábalo**, es el que de verdad importa
+- **Savanna** *(tu proveedor desde el 12/08)* — ⚠️ **su número de emergencias 24 h no está en el
+  dossier: pídelo al reservar y grábalo**, es el que de verdad importa. *(La centralita
+  +264 61 427 220 de arriba era de Namibia2Go — ya no es tu proveedor, no la marques en una
+  emergencia.)*
 - **AA Namibia**, asistencia 24/7: **+264 81 555 9432** / **+264 85 25 555 00**
   *(es por membresía: te van a pedir datos de socio, así que es un plan B, no una garantía)*
 - **Asco**, emergencias: **+264 (0)81 127 2949** / **+264 (0)81 129 2514** *(empresa descartada —
@@ -440,8 +454,8 @@ que existen la regla de la noche y la de los repuestos.
 aparece **solo ahí**.
 
 ✅ **Lo que sí es cierto:**
-- **Tu Namibia2Go Budget lista 2 ruedas de repuesto de serie en su ficha** (ver README) — es el
-  dato que te aplica; conviértelo en garantía escrita al reservar
+- **Tu Savanna lleva 2 ruedas de repuesto confirmadas de serie** ✅ (`20` §1) — es el dato que te
+  aplica, ya cerrado
 - **African Tracks** dice llevar **2 ruedas de repuesto sin coste extra**; **AfriCar** anuncia una
   segunda gratis además de la de debajo del chasis
 - **Asco incluye una segunda rueda de repuesto** en su tarifa (ver `12`), aunque sus T&C **no
@@ -468,7 +482,7 @@ de salir del patio.
 
 ## 🕳️ Lo que no se pudo verificar
 
-- **Tarifa de grúa/rescate**: nadie la publica. **Pídesela por escrito a Namibia2Go**, que es con
+- **Tarifa de grúa/rescate**: nadie la publica. **Pídesela por escrito a Savanna**, que es con
   quien alquilas — el contrato de referencia solo sirve para saber que existe el cargo, no cuánto.
 - **Comportamiento del kudú y lo de los faros**: saber popular, sin fuente namibia.
 - **Que el vuelco sea «el accidente del turista»**: plausible y universalmente creído, **sin datos**.

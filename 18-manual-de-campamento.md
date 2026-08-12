@@ -51,8 +51,10 @@ puertas (06:13–19:06 del 3 al 9 de nov · 06:10–19:10 del 10 al 16 ✅).*
 
 ## 2. La tienda de techo, sin drama
 
-El coche trae **dos tiendas de techo con ropa de cama** ✅ *(ficha Namibia2Go; con la Comfort son
-de carcasa rígida: **1 minuto** de montaje frente a ~5* ✅*)*.
+El coche trae **una tienda de techo (1,3 × 2,4 m) con colchoneta y sábana bajera** ✅ *(`20` §1)* —
+una sola, para las dos personas: no hay tienda de repuesto ni separada. **Sin edredón ni manta**:
+los sacos de dormir con almohada van reservados y pagados aparte. Modelo y rating de viento, sin
+confirmar ❌.
 
 - **La primera montada, en el patio del alquiler** ○ — con el empleado delante y sin prisa. Es el
   momento de las preguntas tontas, no la duna de Spreetshoogte al anochecer.
@@ -124,14 +126,13 @@ campamentos de NWR ◐.
 
 ## 5. La nevera, o cómo no quedarse sin cena el día 9
 
-Nevera **eléctrica de compresor, incluida** ✅ *(ficha N2Go)*. Lo que la ficha no dice es de qué
-vive: **de la batería del coche** — y ahí está el único riesgo real ❌:
+Nevera **Engel de 40 L, con batería PROPIA** ✅ *(`20` §1)* — el riesgo que llevaba abierto todo
+este manual queda resuelto: no cuelga de la batería del coche, así que no hay que preguntar por
+segunda batería ni corte por voltaje. Solo queda una duda menor: cuántas horas aguanta con su
+propia batería sin recarga, sin confirmar ❌.
 
-- **Preguntas de la entrega, por escrito u oral pero CON respuesta** ❌: ¿hay **segunda batería**
-  para la nevera? ¿Hay **corte por voltaje bajo** que proteja el arranque? ¿Cuántas horas aguanta
-  parada? Son tres preguntas de un minuto y deciden cómo se duerme.
-- **Regla mientras no haya respuesta** ○: la nevera vive del motor de día, y de noche —si la
-  parcela tiene enchufe— del poste. **Cerrado el 11/08 ◐: toma de 220 V EN la parcela en
+- **Aun así, con enchufe carga mejor**: de noche —si la parcela tiene enchufe— del poste. **Toma
+  de 220 V EN la parcela en
   Okaukuejo, Halali, Namutoni y Sesriem** *([okaukuejo](https://www.nwrnamibia.com/okaukuejo-camping.htm) · [halali](https://etoshanationalpark.com.na/accommodation/inside-the-park/halali-campsite/) · [namutoni](https://www.nwrnamibia.com/namutoni-camping.htm) ·
   [sesriem](https://www.sossusvlei.org/accommodation/sesriem-camp-site/) — en Sesriem, con avisos
   de viajeros de tomas averiadas ○: pedir parcela con toma que funcione)*; en Hoada y los
@@ -190,10 +191,10 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 
 ## 🕳️ Lo que este manual no pudo cerrar
 
-**La batería de la nevera** *(¿dual? ¿corte por voltaje?)* ❌ — va en las preguntas de la entrega
-*(el hornillo, que le hacía compañía aquí, consta en la ficha desde el 10/08 ✅ — §4)* ·
-**enchufe por parcela, campamento a campamento** — **cerrado el 11/08 ◐** *(§5: toma en los
-cuatro NWR de interior; Hoada y Spreetshoogte, sin ella)* · **el precio de la leña** ❌ · **la
+**Cuántas horas aguanta la nevera con su propia batería sin recarga** ❌ — la batería es propia,
+no del coche (§5); solo falta ese dato de autonomía · **enchufe por parcela, campamento a
+campamento** — **cerrado el 11/08 ◐** *(§5: toma en los cuatro NWR de interior; Hoada y
+Spreetshoogte, sin ella)* · **el precio de la leña** ❌ · **la
 potabilidad camping a camping** ❌ — se pregunta en cada recepción. Ninguno cambia una reserva:
 son preguntas de la entrega del coche y de cada llegada.
 

@@ -61,9 +61,9 @@ viajero cita un tramo de *«288 km that took over 4 hours»* y que después **ac
 👉 **Trabajo con un techo de ~300–350 km/día de tránsito**, y menos si el día tiene grava dura o
 actividad (Sossusvlei, safari).
 
-⚠️ *Los 80 km/h con caja negra están documentados en los contratos de **Asco/Savanna** (ver `06`);
-la cláusula del contrato vigente —**Namibia2Go Budget**— sigue sin verificar: pídela al reservar.
-Los tiempos de este documento se mantienen a 80 igualmente.*
+⚠️ *Los 80 km/h con caja negra están documentados en el contrato de **Asco** (ver `06`); el
+contrato completo de **Savanna**, el proveedor contratado, sigue sin leer. Los tiempos de este
+documento se mantienen a 80 igualmente.*
 
 Fuentes de la regla: `12` y `06` (contratos Asco/Savanna, ya descargados) ·
 https://www.expertafrica.com/namibia/info/self-drive-driving-tips-and-techniques ·

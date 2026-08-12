@@ -34,8 +34,8 @@
 
 ```mermaid
 flowchart LR
-    D["DECIDIDO<br/>ruta del norte, 15 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>coche 35.100 N$ los 13 dias<br/>(los 15, precio en tramite)<br/>seguro 113 EUR"]
-    C --> R["RESERVADO<br/>coche EN TRAMITE 10/08<br/>aeropuerto-aeropuerto OK"]
+    D["DECIDIDO<br/>ruta del norte, 15 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>seguro 113 EUR"]
+    C --> R["RESERVADO<br/>coche Savanna 12/08<br/>2.363 EUR, con transfer"]
     R --> P["PAGADO<br/>vuelo 1.536 EUR pp<br/>EMITIDO el 10/08"]
     style D fill:#2d6a4f,color:#fff
     style C fill:#e9c46a,color:#000
@@ -48,8 +48,8 @@ flowchart LR
 > del viajero, 06/08/2026. Las **fechas son las del vuelo de Lufthansa** —**EMITIDO el 10/08 por €1.536 p.p.**—: 30 de octubre
 > a 14 de noviembre, llegada a Windhoek el **31 a las 09:25** y vuelta el **14 a las 20:45**, en casa el 15.
 > El sentido de la marcha, **desierto → costa → Damaraland → Etosha al final**. El coche,
-> **Namibia2Go, aeropuerto → aeropuerto** — se recoge el **31 al aterrizar** y se devuelve el
-> **14 camino del embarque** *(decisión del viajero, 07/08/2026)*: **ni hoteles en Windhoek ni
+> **Savanna, con transfer aeropuerto ↔ oficina** — se recoge el **31 al aterrizar** y se devuelve
+> el **14 camino del embarque** *(decisión del viajero, 07/08/2026)*: **ni hoteles en Windhoek ni
 > traslados** — esas noches también se duerme arriba. Y el **08/08**, la auditoría del calendario:
 > la ruta cabe exacta, **Spreetshoogte pasa de una a dos noches (dom 1 y lun 2 — la del domingo,
 > recuperada de la ciudad cerrada de Windhoek)** y los dos días punta
@@ -62,29 +62,26 @@ flowchart LR
 
 - ✈️ **Vuelo — EMITIDO el 10/08 por €1.536 (~N$30.720) por persona** ✅ *(cotizado en €1.450 el
   05/08: +€86 entre cotizar y comprar)*. **Con el billete, el e-visa queda desbloqueado.**
+- 🚙 **Coche — RESERVADO con Savanna (12/08): €2.363 en total, 15 días completos, Opción 4 con
+  franquicia cero** ✅ *(el detalle completo, en [`20`](20-reservas.md) §1)*
 
 ### 🟡 Cotizado con precio real, pero sin cerrar
 
-- 🚙 **Coche — reserva EN TRÁMITE con Namibia2Go (10/08): aeropuerto → aeropuerto CONFIRMADO,
-  precio de los 15 días pendiente** ❌ *(los 13 cotizados: Budget N$35.100 · ~€1.755)*
 - 🩺 **Seguro IATI — €113,02 por persona** ✅ · 🛂 **e-visa — N$1.600 (~€80)** ✅
 - 🎫 **Tasas de parque — ~N$620 (~€31)/día** la pareja ◐
 
 > [!WARNING]
-> **La reserva del coche está EN TRÁMITE (10/08): la entrega y devolución EN el aeropuerto ya
-> están confirmadas ✅ — falta el PRECIO de los 15 días** *(estimado +~N$5.400 · ~€270 la pareja
-> sobre los 13 cotizados ◐, con **el 31 de octubre fuera de temporada baja** ❌)*. **Que la
-> confirmación escrita recoja las horas del sábado** *(31/10 ~11:00 · 14/11 ~18:00)*. Y con el
-> billete emitido, el **seguro tiene que empezar el 30/10**: es lo más urgente ahora.
+> **Con el coche ya reservado, hay una cláusula del seguro que pedir por escrito EN LA ENTREGA**:
+> Savanna deja **«antes del amanecer y después del atardecer»** como zona sin cobertura salvo que
+> se nombre como la única zona cubierta por la Opción 4 — y la salida a Deadvlei del D4 sale a las
+> ~05:10 *(`20` §1, `06` §6)*. Y con el billete emitido, el **seguro de viaje tiene que empezar el
+> 30/10**: es lo más urgente ahora.
 
 ### 🔴 Lo que toca ahora, por orden
 
-1. **Rematar la reserva del coche, EN TRÁMITE desde el 10/08** *(aeropuerto → aeropuerto ya
-   confirmado ✅)*: falta el **precio final de los 15 días** *(el 31-oct fuera de temporada baja:
-   que venga desglosado ❌)* y la **confirmación por escrito** — con las horas del sábado
-   *(31/10 ~11:00 · 14/11 ~18:00)* y las preguntas del [`20`](20-reservas.md) *(vuelco a solas /
-   cláusula 10.2, fianza, calendario de pago)*. 📞 **+264 61 427 220** ·
-   [namibia2go.com](https://namibia2go.com)
+1. **En la entrega del coche, pedir por escrito**: que la franja de sunrise/sunset sea la zona
+   cubierta por la Opción 4 *(por la salida a Deadvlei, `20` §1)* · el teléfono de emergencias
+   24 h · con cuánto tanque lo entregan · el coste del conductor adicional.
 2. **Adelantar el seguro al 30/10** — **urgente ya: el billete está emitido y la póliza cotizada
    empieza el 31** — y pedir a IATI por escrito **evacuación aérea dentro del país**.
 3. **Pedir el e-visa** — el billete de vuelta ya existe *(emitido el 10/08)*: nada lo bloquea.
@@ -110,15 +107,12 @@ pide por escrito al cerrarla y lo que se deja para recepción— **está en
 Tres campings sin tarifa publicada *(Windhoek, Walvis Bay y Spreetshoogte — **contactos ya
 localizados el 09/08, ver [`20`](20-reservas.md)**; el de Spreetshoogte, **abierto**: el «closed
 down» quedó refutado el 10/08 ◐ y lo opera Barkhan Dune Retreat)* ·
-la fianza de Namibia2Go *(su FAQ, leída directa el 10/08, dice «no deposit»; dos revendedores citan
-N$2.500 (~€125) — pregúntalo por escrito)* · las **horas EXACTAS del sábado en la confirmación
-escrita del coche** *(la entrega y devolución en el aeropuerto ya están confirmadas ✅; recogida
-31/10 ~11:00 · devolución 14/11 ~18:00)* ·
+la zona horaria sin cobertura del seguro de Savanna, sin nombrar todavía por escrito *(la salida a
+Deadvlei del D4, `20` §1)* ·
 el sobrecoste **en tiempo** del **desvío obligatorio Okaukuejo–Halali** *(los km ya están: **+38**
 sobre la pista directa, medidos el 09/08 con el enrutado OSRM propio)* · **si hay diésel en el bucle
-Ugabmund–Springbokwasser** *(el surtidor de Terrace Bay, sin garantía — `07`)* · la **capacidad real
-del depósito del Hilux** *(la aritmética del bucle la necesita — `07`)* · los horarios de salida
-de los safaris guiados de NWR · el precio del **31 de octubre** del coche *(fuera de temporada baja)*.
+Ugabmund–Springbokwasser** *(el surtidor de Terrace Bay, sin garantía — `07`)* · los horarios de
+salida de los safaris guiados de NWR.
 *(El D0 ya tiene plan —coche, compra y camping—, la franquicia quedó cerrada el 07/08 —1×23 kg por
 persona— y el 08/08 quedaron medidos el calendario (15 días/14 noches exactos) y el D14: facturación
 de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
@@ -128,7 +122,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 122 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 120 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -178,43 +172,21 @@ como aperitivo)*. El razonamiento completo, con el contra dicho honestamente, es
 
 <div align="center">
 
-## 🚗 El coche — el cuello de botella
-
-<img src="img/lugares/hilux.jpg" alt="Toyota Hilux doble cabina con tienda de techo" width="70%">
+## 🚗 El coche
 
 </div>
 
-Las **dos** están disponibles y cotizadas por 13 días e impuestos incluidos — **y la reserva está
-EN TRÁMITE (10/08): 15 días, aeropuerto → aeropuerto CONFIRMADO ✅, con el precio de los 2 extra
-pendiente (+~N$5.400 · ~€270 la pareja ◐)**:
+**Savanna, grupo GSXA-1 Camping — Ford Ranger 2.2 o 2.0 D/Cab automático — RESERVADO el
+12/08/2026: €2.363 en total, 15 días completos, con transfer aeropuerto ↔ oficina.**
 
-- 🚙 **BUDGET** · **N$2.700/día** → **N$35.100 (~€1.755)** · ~€877,50 p.p. ✅
-- 🚙 **COMFORT** · **N$3.000/día** → **N$39.000 (~€1.950)** · ~€975 p.p. ✅
-- 💶 **Diferencia: N$3.900 (~€195) los dos — ~€97,50 por cabeza**
+- 🛡️ **Opción 4 de seguro**: franquicia cero, con neumáticos, lunas y bajos incluidos.
+- ⛽ **Depósito de 140 l** — doble depósito, 80 + 60 l.
+- 🏕️ **Kit de camping**: una tienda de techo, nevera con batería propia, mesa, sillas, cocina de
+  gas y menaje completo.
+- 🛰️ **Teléfono satelital y 2 sacos de dormir**, reservados y pagados con el coche.
 
-Ya no decides por disponibilidad, sino por si esos ~€97 por cabeza te compran las **tiendas de
-carcasa rígida** *(montar en 1 minuto en vez de 5, y mejor con polvo y viento)* — son **13 noches
-de tienda**.
-
-<details>
-<summary><b>⛺ Lo que pierdes con la Budget: solo dos cosas</b></summary>
-
-- **Tiendas** — 2 Tentco **de lona** *(la Comfort: carcasa rígida)*
-- **Cocina** — **cajas de camping** *(la Comfort: compartimentos a medida)*
-
-**Todo lo demás es idéntico**: el mismo Toyota Hilux Double Cab **2.8L GD-6 turbodiésel**,
-automático, 4x4 permanente, **km ilimitados**, **Premium Insurance Cover** (franquicia cero),
-**2 ruedas de repuesto** y nevera eléctrica.
-
-La diferencia real: la lona tarda ~5 minutos en montarse en vez de ~1, y aguanta algo peor el polvo
-y el viento. Son **~€15 por noche de tienda** de sobrecoste la Comfort. **Con la Budget ahorras ~€97
-por persona sobre los 13 días cotizados** *(a los 15 decididos, ~€112,50 — ver `02` §10)* — y
-sigues durmiendo arriba las 13 noches.
-
-> 🎥 Al ver el [vídeo del Hilux](https://www.youtube.com/watch?v=LPNZ-l8y3Pg): si las tiendas del
-> techo son de **lona plegada**, ése es exactamente tu coche.
-
-</details>
+El detalle completo —fechas, horas, lo que cubre y lo que no, y lo que sigue por confirmar en la
+entrega— está en [`20-reservas`](20-reservas.md) §1.
 
 ---
 
@@ -247,8 +219,7 @@ sigues durmiendo arriba las 13 noches.
   peñas de granito que la referencia llama el más bonito de su viaje. ◐
 - 🦩 **Flamencos en Walvis Bay** al amanecer, ostras y paseo — **dos noches y un día entero de
   descanso** a mitad de viaje. La excursión a **Sandwich Harbour, en tour guiado** *(con tu coche
-  la prohíbe el contrato de referencia del sector — confírmalo en el de Namibia2Go, `06` — y el
-  tour es mejor plan)*. ◐
+  la prohíbe el contrato — el tour es mejor plan)*. ◐
 - 🥧 **La tarta de manzana de Solitaire** — dos veces, porque la ruta pasa dos veces. Y las dos se
   reposta: después hay **~230 km sin nada** *(OSRM)*. ✅
 - 🍺 **Joe's Beerhouse** en Windhoek — la opción de mesa del D0 y del D13, si el cuerpo no está
@@ -266,7 +237,7 @@ sigues durmiendo arriba las 13 noches.
 flowchart LR
     A["Tu ventana<br/>31 oct - 14 nov"] --> B["LLUVIA<br/>la quincena mas seca del rango:<br/>en 4 de 5 temporadas<br/>no habia empezado"]
     A --> C["CALOR<br/>Etosha ~37-38 C: fuerte<br/>desierto y costa: suaves"]
-    A --> D["PRECIO<br/>NWR barato desde el 1 nov<br/>y Namibia2Go tambien"]
+    A --> D["PRECIO<br/>NWR barato desde el 1 nov<br/>coche ya reservado y cerrado"]
     B --> E["Ventana excelente<br/>para fauna y dunas"]
     C --> E
     D --> E
@@ -285,10 +256,9 @@ flowchart LR
   secciones "La costa" y §ERA5)*. **Las noches, entre 12,7 °C (la costa) y 18,9 °C (Etosha)**:
   **forro polar, no plumas** — el porqué en [`05`](05-equipaje.md), la lista con casilla en
   [`17`](17-lista-de-equipaje.md), y la temperatura noche a noche en [`01`](01-itinerarios-dia-a-dia.md).
-- 💶 **Precio: la frontera del 1 de noviembre, dos veces.** **NWR** entra en tramo barato el 1 de
-  noviembre (Sesriem, Terrace Bay, Etosha — la primera noche NWR del plan es el 3), y **Namibia2Go
-  también**. La única noche de octubre —la del 31, Windhoek— no es NWR: **lo único que paga precio
-  de octubre es el día 31 del coche**, que se pide aparte *(`02` §2)*.
+- 💶 **Precio: la frontera del 1 de noviembre.** **NWR** entra en tramo barato el 1 de noviembre
+  (Sesriem, Terrace Bay, Etosha — la primera noche NWR del plan es el 3). La única noche de
+  octubre —la del 31, Windhoek— no es NWR.
 
 ---
 
@@ -398,7 +368,7 @@ si vais 3 o 4 en el mismo coche— está en [`02-presupuesto`](02-presupuesto.md
 
 ```mermaid
 flowchart TD
-    A["EL 4x4 · EN TRAMITE<br/>Namibia2Go · cerrar<br/>el precio de los 15 dias"]
+    A["EL 4x4 · RESERVADO<br/>Savanna · 2.363 EUR<br/>15 dias completos"]
     B["SESRIEM DENTRO x2<br/>44 parcelas<br/>es EL amanecer del viaje"]
     C["TERRACE BAY<br/>sin reserva confirmada<br/>NO se entra al parque"]
     D["e-visa + CVI<br/>eservices.mhaiss.gov.na<br/>cita de vacunas en agosto"]
@@ -460,11 +430,9 @@ de búsqueda y salvamento sigue ❌ sin cotizar*.
   **y hasta ~19:20 en la costa** —algo antes que a fin de mes;
   ocaso recalculado en `15` y desglosado día a día en `01`— y la fauna sale a los arcenes al
   atardecer. El día crítico es el D7: **Ugabmund cierra la entrada a las 15:00**.
-- **El seguro y Damaraland**: los niveles bajos de un contrato de referencia del sector **no cubren
-  los bajos en Damaraland/Kaokoveld** — el tramo D8 pide suavidad en las piedras. Las pistas
-  malditas **D3707/D3703 no están en esta ruta**. *Dune driving* y Sandwich Harbour, **prohibidos
-  por el contrato de referencia del sector** ◐ *(pide el de Namibia2Go por escrito)* — el tour
-  guiado es el plan.
+- **El seguro y Damaraland**: la Opción 4 de Savanna **sí cubre los bajos** — el tramo D8 pide
+  suavidad en las piedras igualmente. Las pistas malditas **D3707/D3703 no están en esta ruta**.
+  *Dune driving* y Sandwich Harbour, **prohibidos por contrato** — el tour guiado es el plan.
 
 Extras: enchufes **tipo M** *(2 adaptadores online — el Schuko no entra)* · **SIM de MTC** en el
 aeropuerto con pasaporte *(paquete turista «Leisure» N$349 ~€17 · 14 días · 10,1 GB ◐; el kiosco cierra ~21:00)* · un **satelital con SOS** es buena compañía

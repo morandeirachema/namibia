@@ -57,8 +57,8 @@ subida es justo esa presión al alza que ya se avisaba abajo, materializándose.
 **Para presupuestar (tras la subida de agosto):** **N$26–29/l (~€1,30–1,45)** de diésel en el
 interior, **como estimación, no como dato**. 👉 **Recomprueba la semana antes de salir.**
 
-**Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: un Hilux
-doble cabina cargado en los **~2.757 km de la ruta** (control OSRM 08/08; banda 2.600–2.900), a
+**Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: el
+Ford doble cabina cargado en los **~2.757 km de la ruta** (control OSRM 08/08; banda 2.600–2.900), a
 **~11–13 l/100 km**, quema **~305–360 l** → banda **N$7.930–10.440 (~€396–522)**, central
 **~N$8.932 (~€447)** con el diésel a N$27/l de agosto *(era menos con el precio de julio)*.
 **Se presupuesta ~N$9.000 (~€450) — €225 por persona**; el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
@@ -86,7 +86,7 @@ Fuentes: [rebaja de julio](https://observer24.com.na/govt-cuts-fuel-prices-unvei
 por satélite fuera de servicio, sitios remotos. **Un depósito de 80 l a ~N$26/l son ~N$2.080 (~€104)
 por repostaje.**
 
-👉 Pregunta a **Namibia2Go** *(tu proveedor)* **por escrito** si tienen tarjeta o acuerdo de
+👉 Pregunta a **Savanna** *(tu proveedor)* **por escrito** si tienen tarjeta o acuerdo de
 combustible y si sirve **en Solitaire y en Henties Bay concretamente**, no «en Namibia».
 
 ### Te sirven ellos, y se propina ○
@@ -96,7 +96,7 @@ mirar aceite, agua, presiones y limpiar el parabrisas. **No te bajes a coger la 
 hace y no está permitido.
 
 > 🛑 **Di «DIESEL» claramente y confirma que el surtidor marca diésel antes de que empiece a salir.**
-> Equivocar el combustible en un Hilux de alquiler **no lo cubre ningún nivel de seguro** y es un
+> Equivocar el combustible en un coche de alquiler **no lo cubre ningún nivel de seguro** y es un
 > error catastrófico que termina el viaje.
 
 - **Propina habitual: ~N$5 (~€0,25)**, hasta **N$10 (~€0,50)** si te hace ruedas y parabrisas
@@ -128,32 +128,26 @@ flowchart LR
 2. **Sesriem → Sossusvlei ida y vuelta**: son **~120 km MÁS los 5 km finales de arena blanda en
    reductora**, todo dentro del parque, **sin gasolinera** y con **consumo alto en arena** →
    presupuesta **130–150 km de combustible que quizá no habías contado**
-3. **🚨 El tramo crítico REAL — el bucle de la Costa de los Esqueletos (D7–D8):** Henties
-   Bay → Cape Cross → Ugabmund → **Terrace Bay**, y al día siguiente Springbokwasser → Bergsig →
-   Twyfelfontein → Hoada. **Actualización 02/08 ◐: en Terrace Bay HAY surtidor físico (reportes de
-   viajeros), pero la web oficial de NWR no lo lista, se quedó seco en los cortes de 2025 y alguna
-   guía lo da «solo huéspedes» — la regla NO cambia: trátalo como si no hubiera.** En **Bergsig no
-   hay gasolinera documentada** y la de Twyfelfontein es irregular (ver `08`).
-   **La aritmética, con los km del enrutado OSRM (09/08), y sin endulzar**: desde el surtidor de
-   **Henties Bay** (✅ Puma 24 h) hasta el siguiente seguro —**Kamanjab, la mañana del D9**— hay
-   **~740 km** *(Henties → Terrace Bay ~302 + D8 ~368 + Hoada → Kamanjab ~69)*. A los **11–13 l/100
-   km** del Hilux cargado son **81–96 litros**: **NO caben con seguridad en un depósito de 80 l**
-   —el del **Hilux 2.8 GD-6 doble cabina de serie**, cifra ◐ concordante en varias bases de datos de
-   especificaciones *(carfolio, auto-data.net, ultimatespecs y las fichas técnicas de Toyota)*; el
-   proxy de red bloqueó **descargar** la ficha primaria, así que descansa en esa concordancia, no en
-   una fuente bajada—. **PERO ojo, y no es un fleco menor:** buena parte de las flotas de camping
-   namibias montan **depósito de largo alcance —140 l es lo típico, algunas 140–180 l—** *(lo anuncian
-   Classic Car Namibia (140 l), Bushbundu y Advanced Car Hire ◐)*, y con eso el bucle entero cabe de
-   sobra en un tanque. Por eso la **capacidad del coche concreto de Namibia2Go sigue ❌ sin confirmar y
-   cambia el plan**: con 80 l el repostaje de Palmwag es obligatorio; con 140 l, el bucle deja de ser
-   problema. **Al reservar, pregunta explícito: ¿depósito de serie (80 l) o de largo alcance?**
-   👉 **Conclusión operativa: el repostaje de [Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅
-   Gondwana)](https://gondwana-collection.com/accommodation/palmwag-lodge) deja de ser «respaldo» y
-   pasa a ser PLAN** — cae en la cola del D8 *(vía Twyfelfontein → Palmwag ~110 + Palmwag → Hoada
-   ~50, +~12 km sobre la variante de Grootberg; a Palmwag llegas con 70–82 l quemados: justo pero
-   dentro)* — **salvo que Namibia2Go confirme depósito mayor/doble o que el surtidor de Terrace
-   Bay esté operativo al pasar** *(pregúntalo al reservar y al entrar por Ugabmund)*. **Sales de
-   Henties con el tanque lleno igualmente.**
+3. **El bucle de la Costa de los Esqueletos (D7–D8):** Henties Bay → Cape Cross → Ugabmund →
+   **Terrace Bay**, y al día siguiente Springbokwasser → Bergsig → Twyfelfontein → Hoada.
+   **Actualización 02/08 ◐: en Terrace Bay HAY surtidor físico (reportes de viajeros), pero la web
+   oficial de NWR no lo lista, se quedó seco en los cortes de 2025 y alguna guía lo da «solo
+   huéspedes» — la regla sigue siendo tratarlo como si no hubiera.** En **Bergsig no hay
+   gasolinera documentada** y la de Twyfelfontein es irregular (ver `08`).
+   **La aritmética, con los km del enrutado OSRM (09/08)**: desde el surtidor de **Henties Bay**
+   (✅ Puma 24 h) hasta el siguiente seguro —**Kamanjab, la mañana del D9**— hay **~740 km**
+   *(Henties → Terrace Bay ~302 + D8 ~368 + Hoada → Kamanjab ~69)*. A los **11–13 l/100 km** son
+   **81–96 litros** — **caben con margen en el depósito de 140 l de Savanna** ✅ *(`20` §1)*,
+   dejando 44–59 l de sobra. **El depósito es doble** —principal de 80 l + secundario de 60 l,
+   conectados por un solo tubo de llenado— y **el indicador solo mide el principal**: marca
+   «lleno» hasta que ese se vacía, y solo entonces empieza a bajar. Avísalo al repostar, para que
+   no den el depósito por lleno antes de tiempo.
+   👉 **El repostaje de [Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅
+   Gondwana)](https://gondwana-collection.com/accommodation/palmwag-lodge) sigue siendo buena
+   práctica**, no obligación: con el margen del depósito de 140 l el bucle entero cabe en un
+   tanque, pero repostar en Palmwag —cae en la cola del D8, vía Twyfelfontein → Palmwag ~110 +
+   Palmwag → Hoada ~50— deja el margen más holgado todavía para el D9. **Sales de Henties con el
+   tanque lleno.**
 
 ### La regla
 
@@ -366,7 +360,7 @@ No son una incidencia — son parte del paisaje, y con el kit en la guantera dur
   permiso internacional** *(jamás separados — `04`)*, el **contrato del alquiler**, una **copia
   del pasaporte** *(el original viaja en el coche, pero no hace falta darlo en mano)* y los
   teléfonos de abajo. El disco de licencia del vehículo va en su parabrisas: es cosa de
-  Namibia2Go — basta saber que existe.
+  Savanna — basta saber que existe.
 - **El guion**: ventanilla abajo, **saludo primero** *(`19`)*, «where are you coming from /
   where are you going», y a veces abrir el maletero en el control veterinario. Papeles en orden
   → «safe travels».
@@ -443,10 +437,9 @@ zona de Etosha.
    escrito**: 👉 **confirma que cubre evacuación AÉREA dentro del país desde una pista remota**, no
    solo el vuelo de vuelta a casa desde Windhoek. *(Y añádele la opción de búsqueda y salvamento.)*
 2. La exposición de **~N$165.000 (~€8.250)** del **vuelco sin terceros** era el escenario de los
-   niveles bajos de **Asco** (la referencia descartada). Con el **Premium Cover de tu Namibia2Go la
-   franquicia es cero** ◐ — pero **decae con «negligencia probada»**, su contrato estándar permite
-   cobrar el daño **sin contacto con terceros «al margen de los waivers»** *(cláusula 10.2, leída
-   el 10/08 — `16` §8)*, **excluye daños por agua** y
+   niveles bajos de **Asco** (la referencia descartada). Con la **Opción 4 de Savanna la
+   franquicia es cero** ✅ *(`20` §1)* — pero su contrato completo sigue sin leer, así que las
+   exclusiones exactas (daños por agua, negligencia probada) no están confirmadas por escrito, y
    el **rescate sin tope sigue sin confirmar por escrito**: el evento que te mete en una ambulancia
    aérea es el mismo.
 3. Un **dispositivo satelital con SOS** es lo que **dispara el rescate** donde no hay cobertura.

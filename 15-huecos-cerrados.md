@@ -187,8 +187,8 @@ noviembre. Swakopmund queda directamente **fuera de su ventana ventosa del año*
   para una lona genérica el especialista pide **cerrar a 63+**
   *([outdoorroadie](https://outdoorroadie.co.uk/pages/how-much-wind-can-a-roof-top-tent-withstand))*.
   El fondo de noviembre queda por debajo de todo; la racha convectiva entra en banda de «carcasa
-  al viento y, con lona, cerrar». **El modelo de tienda del Hilux de N2Go y su rating siguen sin
-  confirmar ❌** — a la tanda de preguntas del `20`.
+  al viento y, con lona, cerrar». **El modelo de la tienda de techo de Savanna y su rating siguen
+  sin confirmar ❌** *(la tienda en sí, 1,3×2,4 m, sí está confirmada — `20` §1)*.
 - **En blanco**: weather-atlas (403), weatherspark (no tiene página de Etosha), el texto completo
   de Clements 2023 — la brisa que llega del Namib al anochecer de verano — de pago (abstract
   verificado). Y no existe climatología horaria de Okaukuejo en abierto: el ciclo diario descansa
@@ -556,15 +556,12 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   email y teléfono ◐ — y el aviso de «closed down» quedó **refutado el 10/08** ◐ *(abierto,
   operado por Barkhan Dune Retreat — `20` §5)*. **Ninguna tarifa nueva
   verificada: los tres siguen en la estimación.**
-- 💳 **La fianza que retiene Namibia2Go** en la tarjeta — **PARCIALMENTE CERRADO ◐ (05/08), con un
-  conflicto sin resolver**: la propia Namibia2Go se anuncia como **«No Deposit»** *(sin fianza, a
-  diferencia de casi todos los operadores)* y su FAQ dice que **no hay depósito de combustible**;
-  pero un revendedor —madbookings— y un directorio —goArid— citan que **se retiene N$2.500 (~€125) de
-  depósito de combustible**, liberado si devuelves el depósito lleno. **La FAQ ya se leyó directa
-  el 10/08 ✅** *(la web volvió a cargar)* y mantiene el «no deposit»; la versión contraria sigue
-  siendo de reventa ◐ y **se contradicen**: puede ser un cambio de política o
-  depender del canal de reserva. **No lo des por sentado en ningún sentido — pregunta por escrito, al
-  reservar, si hay retención en tarjeta y de cuánto.** Aceptan todas las tarjetas salvo Diners y Amex.
+- 💳 **La fianza que retiene Savanna en la tarjeta — CERRADO ✅ (12/08)**: es el importe de la
+  franquicia/Excess, y con la Opción 4 la franquicia es **N$0** — no hay nada que retener por ese
+  concepto. La hoja de condiciones firmada en la entrega SÍ deja otros cargos que sí pueden ir
+  a la tarjeta: N$850 de gestión si hay cualquier daño, N$350 si Savanna paga una multa por
+  cuenta del cliente, y el depósito de combustible sigue sin una cifra propia de Savanna
+  *(la de N$2.500 que citaban revendedores era de Namibia2Go)*.
 - 🛟 La **opción de búsqueda y salvamento del IATI Estrella: ❌ sin cotizar** *(el Mochilero la
   trae de serie; pedirla por escrito está en el README, punto 6)*.
 - 🚗 El **traslado A Coruña ↔ Oporto — decidido (09/08): en coche propio**. **Cotizado el 10/08 en
@@ -585,14 +582,10 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
     supuestos sin verificar**.
   - *(El bus directo A Coruña → terminal, ~€17/persona y trayecto ◐, queda de plan B: i/v los dos
     ≈ ~€68 — `02` §8.)*
-- 🛢️ La **capacidad real del depósito del Hilux de Namibia2Go**: **❌ sin confirmar** — y de ella
-  cuelga la aritmética del bucle Henties Bay → Kamanjab (~740 km, 81–96 l — `07`). El **modelo de
-  serie (Hilux 2.8 GD-6 doble cabina) lleva 80 l** ◐ *(cifra concordante en carfolio, auto-data.net,
-  ultimatespecs y las fichas técnicas de Toyota; la primaria no se pudo **descargar**, egress
-  bloqueado — descansa en la concordancia)*, pero **las flotas de camping namibias suelen montar
-  depósito de largo alcance de 140 l** ◐ *(lo anuncian Classic Car Namibia, Bushbundu y Advanced Car
-  Hire)*. Así que el dato del coche concreto **no es trivial: cambia el plan** — con 80 l el repostaje
-  de Palmwag es obligatorio; con 140 l, no. **Pregunta al reservar: ¿serie (80 l) o largo alcance?**
+- 🛢️ La **capacidad real del depósito — CERRADO ✅ (12/08): 140 l**, doble depósito de 80+60 l,
+  confirmado de fuente primaria (la propia oferta de Savanna). Cierra la aritmética del bucle
+  Henties Bay → Kamanjab (~740 km, 81–96 l — `07`): cabe con margen, sin necesidad de repostar en
+  Palmwag por obligación.
 - 🚤 *(Cerrado a nivel de mercado ◐: el **crucero de Walvis Bay** ~N$1.400–1.990 pp y el **4x4 a
   Sandwich Harbour** ~N$2.600–3.220 pp tienen rango 2026 en [`02`](02-presupuesto.md) §9 —
   cruzado entre operadores, con la ficha propia en `403`.)*
@@ -636,11 +629,27 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 inventario; ninguno bloquea una reserva — son preguntas de la entrega del coche, de cada recepción
 o de un email)*:
 
-- 🧰 **De la entrega del coche** *(`18` §4–5, `05`, `01` §D0)*: **segunda batería o corte por
-  voltaje** para la nevera ❌ · **con cuánto tanque entregan** el coche ❌ · el **teléfono de
-  emergencias 24 h de Namibia2Go** ❌ *(`06` §13)* · el **coste del conductor adicional** ❌
-  *(`02` §10)*. *(El hornillo, que abría esta lista, consta en la ficha desde el cotejo del
-  10/08 ✅ — `18` §4.)*
+- 🧰 **De la entrega del coche** *(`20` §1, `05`, `01` §D0)*: **con cuánto tanque entregan** el
+  coche ❌ *(se entrega sin lleno, `20` §1)* · el **teléfono de emergencias 24 h de Savanna** ❌
+  *(el servicio de asistencia 24 h SÍ existe, `20` §1 — falta el número)* · el **coste del
+  conductor adicional** ❌ *(`02` §10)*. *(La nevera con batería propia y el hornillo ya constan
+  en la oferta — `20` §1.)*
+- ⚠️ **NUEVO (12/08): la zona sin cobertura del seguro que sí choca con la ruta.** De la lista de
+  «zonas a riesgo propio» de la hoja de condiciones de Savanna, casi todas quedan fuera de esta
+  ruta y no hace falta mirarlas *(Khaudum, Kaokoveld, Sandwich Harbour, el Kunene al este de Epupa
+  Falls)* — la que sí importa es **«antes del amanecer y después del atardecer»** ✅. La salida a
+  Deadvlei del D4 sale a las ~05:10, antes del amanecer *(`01` §D4)*: tal cual está, ese tramo
+  **cae sin cobertura**, salvo que se pida por escrito que sea la única zona nombrada de la
+  Opción 4. **Acción antes de firmar en la entrega: pedir explícitamente que la franja horaria de
+  sunrise/sunset sea la zona cubierta.**
+- ⚠️ **Contradicción sin resolver en la hoja de condiciones**: un párrafo dice que el seguro de
+  neumáticos y luna de la Opción 4 cubre también en zona a riesgo propio; otro, más abajo en el
+  mismo documento, dice literalmente que **«Tyre & Windscreen insurance will only apply if the
+  vehicle was NOT driven in the own risk areas»** — justo lo contrario. No se resuelve
+  adivinando: **pregúntalo directamente al firmar.**
+- ⚙️ **Nuevo (12/08): el 4x4 se desactiva en asfalto y grava normal** ✅ — la hoja de condiciones
+  lo marca como obligación: conducir con la tracción 4x4 puesta en firme duro daña la transmisión,
+  y ese daño **no lo cubre ningún nivel de seguro**. Regla nueva para `06`.
 - 🏕️ **De cada recepción** *(`18`)*: **enchufe por parcela** campamento a campamento ❌ *(NWR lo
   anuncia en los grandes ◐)* · **precio de la leña** ❌ · **potabilidad del grifo** camping a
   camping ❌ · el **check-out del camping de Windhoek el D14** y si se puede volver por la tarde ❌

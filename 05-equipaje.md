@@ -28,13 +28,12 @@ flowchart TD
     style M fill:#2d6a4f,color:#fff
 ```
 
-1. **El coche ya trae el camping** ✅ *(ficha N2Go Budget, README)*: 2 tiendas de techo, **ropa de
-   cama para 4 —edredones, mantas, almohadas y toallas, ×4 de cada—**, mesa, 4 sillas, **menaje
-   completo pieza a pieza**, **cocina de gas con bombona de 3 kg**, nevera eléctrica, compresor.
-   **No compres ni saco, ni esterilla, ni cacharros.** *(Toallas, hornillo y el detalle del menaje
-   eran los «no consta» de esta ficha: la web los lista desde el cotejo del 10/08/2026 ✅ — lo que
-   queda es cotejarlo físicamente en la entrega, `01` §D0.)* *Cómo se vive de ese kit —la rutina,
-   el braai, la nevera— está en el [`18`](18-manual-de-campamento.md).*
+1. **El coche ya trae el camping** ✅ *(oferta de Savanna, 12/08)*: una tienda de techo con
+   colchoneta, **nevera Engel de 40 L con batería propia**, mesa, 2 sillas, 2 bombonas de gas y 2
+   fuegos, parrilla, lámpara de 12V, garrafa de 20 L y caja de cocina completa. **No compres saco
+   de dormir con ropa de cama —la tienda solo trae sábana bajera, sin edredón ni manta— ni
+   esterilla ni cacharros.** *Cómo se vive de ese kit —la rutina, el braai, la nevera— está en el
+   [`18`](18-manual-de-campamento.md).*
 2. **Las noches NO son frías** ✅ *(medias de mínimas de noviembre, estaciones GHCN/ERA5 — `15` y
    `01`)*: **12,7 °C en la costa · 15,5 en Sesriem · 16,3 en Windhoek · 18,9 en Etosha**. **Plumas,
    térmicos, gorro y guantes se quedan en casa** — son peso muerto en una tienda de techo. *La
@@ -126,9 +125,10 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   documentada es la luz del recinto y nada más — ni linterna, ni flash, ni pantalla de móvil
   *([guía de Etosha](https://etoshanationalpark.com.na/wildlife/etosha-photography-guide/) ·
   [okaukuejo](https://www.etoshanationalparknamibia.com/okaukuejo-waterhole/))*
-- **El satelital con SOS** (Garmin inReach o similar) — el dossier lo recomienda sin ambigüedad
-  para ESTA ruta ✅ (`06`/`07`: «el móvil es una cámara, no un salvavidas» en Solitaire–Walvis y
-  Damaraland). **Decisión de compra/alquiler aún pendiente** (`04`)
+- **El satelital con SOS** ✅ — reservado y pagado con el alquiler de Savanna *(`20` §1)*,
+  exactamente lo que el dossier recomendaba sin ambigüedad para ESTA ruta (`06`/`07`: «el móvil
+  es una cámara, no un salvavidas» en Solitaire–Walvis y Damaraland). No hace falta comprar ni
+  alquilar nada aparte.
 - **Prismáticos — uno POR PERSONA** ○ (compartir prismáticos en una charca es pelearse) — y van
   «EN el asiento, no en el maletero» (`01`)
 - **La cámara, el teleobjetivo y todo su equipo tienen repo propio**, aparte de este dossier —

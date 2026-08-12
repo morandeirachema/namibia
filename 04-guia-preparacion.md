@@ -81,12 +81,12 @@ flowchart LR
     style F fill:#2d6a4f,color:#fff
 ```
 
-- **VENCIDO · era julio** — reservar el 4×4 *(Namibia2Go Budget, disponible a 17-07)*; reservar
-  Sesriem, Terrace Bay y los campamentos de Etosha; comprobar los pasaportes contra la vuelta del
-  15 de noviembre.
+- **VENCIDO · era julio** — reservar el 4×4 *(✅ hecho — Savanna, `20` §1)*; reservar Sesriem,
+  Terrace Bay y los campamentos de Etosha; comprobar los pasaportes contra la vuelta del 15 de
+  noviembre.
 - **AHORA · agosto** — pedir cita **ya** en el Centro de Vacunación Internacional: **la cita es el
-  recurso escaso, no la vacuna**. Emitir el vuelo —el presupuesto de referencia se mueve— y mandar
-  las preguntas por escrito a Namibia2Go e IATI.
+  recurso escaso, no la vacuna**. Mandar las preguntas por escrito de la entrega a Savanna
+  *(`20` §1)* e IATI.
 - **Septiembre** — acudir al CVI *(para salir el 30-10, atendidos hacia el 19–26 de septiembre)*; recetas
   de profilaxis —la mefloquina empieza ~17–24 de octubre—; resolver el permiso internacional de
   conducir.
@@ -116,15 +116,13 @@ normalmente lo salva.
 
 Fuente: https://www.airports.com.na/useful-information/e-visa-information/129/
 
-### Reserva el coche primero ○
+### El coche, reservado ✅
 
 El vehículo, no el vuelo, es lo que se agota. Los doble cabina equipados con tienda de techo son una
-flota pequeña compartida por todo el mercado de Windhoek. **Tu coche ya está elegido y estaba
-cotizado a 05/08 — Namibia2Go: Budget N$35.100 (~€1.755) o Comfort N$39.000 (~€1.950) por 13
-días, las dos disponibles: resérvalo antes que nada — y al reservar, ya con las fechas decididas
-el 07/08: 15 días, aeropuerto → aeropuerto (`02` §2)**
-(la Comfort ya salía «Not Available»). Y tu quincena compite con todo el que persigue la temporada
-baja de Namibia2Go, que arranca justo el 1 de noviembre.
+flota pequeña compartida por todo el mercado de Windhoek. **Reservado el 12/08/2026 con Savanna:
+grupo GSXA-1 Camping, Ford 2.2 o 2.0 D/Cab automático, 15 días completos aeropuerto → aeropuerto,
+€2.363 en total con seguro Opción 4, satelital y 2 sacos de dormir incluidos** — el detalle
+completo en [`20`](20-reservas.md) §1.
 
 ⚠️ **Sin fuente:** no encontré ninguna empresa que publique un «reserva con X meses». Es práctica
 del sector, no un plazo citable. **Reserva el coche antes que vuelos no reembolsables**: una ruta
