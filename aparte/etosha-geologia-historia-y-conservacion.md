@@ -205,9 +205,11 @@ en ningún documento consultado. **Se recomienda usar 22.941 km²** por converge
 independientes (un paper revisado por pares de 2022 y una base de datos oficial), citando 22.270
 km² como cifra alternativa muy repetida.
 
-Contexto: la zona tapón de 40 km alrededor de Etosha, con las conservancies comunitarias, suma
-otros 36.160 km²; la cuenca completa del Cuvelai —de la que Etosha es el extremo sur— cubre 175.870
-km² entre el sur de Angola y el norte de Namibia.
+Contexto ❌ *(cifras sin fuente propia verificada en este documento; la del Cuvelai en particular no
+cuadra con el rango ~130.000–160.000 km² que dan las fuentes consultadas para esta comprobación,
+según qué se cuente como parte de la cuenca)*: la zona tapón de 40 km alrededor de Etosha, con las
+conservancies comunitarias, sumaría otros ~36.160 km²; la cuenca del Cuvelai —de la que Etosha es el
+extremo sur— se cita a veces en ~175.870 km², entre el sur de Angola y el norte de Namibia.
 
 **El papel de la administración sudafricana**: Sudáfrica ocupó el territorio en 1915 (fin del
 dominio alemán) y lo administró —con mandato de la Sociedad de Naciones desde 1920— hasta la
@@ -276,7 +278,8 @@ intervino, y el gobierno prometió apoyo a un reasentamiento voluntario que, seg
   demanda civil (causa HC-MD-CIV-ACT-OTH-2025/04463) pidiendo la propiedad de Etosha (23.150 km²
   según la propia demanda, cifra que no coincide con las administrativas de la sección 5) y de 11
   granjas en Mangetti West —excluyendo los campamentos NWR—, o alternativamente tierra equivalente
-  o una compensación de **N$2,8 billones** (≈€150.000 millones, cambio no verificado para fechas
+  o una compensación de **N$2,8 billones** (≈€140.000 millones al ~N$20=€1 de este dossier —
+  ~€136.600–143.600 millones según el rango 19,5-20,5 —, cambio no verificado para fechas
   concretas). El gobierno se opone; el **21/04/2026** pidió tachar partes de la demanda por
   "vagas y embarazosas" y sin causa de acción válida. **No hay noticia posterior confirmada**: el
   caso sigue en fase preliminar, sin vista sobre el fondo fijada ✅ *(verificado con dos medios

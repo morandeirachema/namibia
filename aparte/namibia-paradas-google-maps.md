@@ -58,7 +58,7 @@ importar los tres ficheros de abajo si ya tenías una versión anterior.**
 
 ## De dónde salen los datos — cero fabricación
 
-Las 38 coordenadas de los puntos, y los 18.432 puntos de la geometría de las 13 líneas, son las que
+Las 37 coordenadas de los puntos, y los 18.432 puntos de la geometría de las 13 líneas, son las que
 ya usa este mismo repo para dibujar sus propios mapas y calcular la ruta real por carretera:
 `fuente/trazado.py` para los puntos —geocodificados con OpenStreetMap (Nominatim y Overpass) el
 04/08/2026—, y `fuente/geo/ruta.json` para el trazado, que es el resultado real de pedirle a OSRM
@@ -74,8 +74,11 @@ contra [`01-itinerarios-dia-a-dia.md`](../01-itinerarios-dia-a-dia.md) e inserta
 (Deadvlei justo tras Duna 45 en el D4; Palmwag y Grootberg entre Twyfelfontein y Hoada en el D8, en
 ese orden geográfico).
 
-**Los tres puntos del segundo fichero no tienen día ni orden asignado, a propósito** ❌ — ni la
-geometría de la ruta ni el itinerario narrado sitúan a Torra Bay, Khorixas o la puerta de Galton en
-un momento concreto del viaje *(Galton, de hecho, ni siquiera se usa en la ruta final: no conecta
-con la red principal del parque hacia Okaukuejo, `13`)*. Sus coordenadas son reales; su fecha, no —
-mejor un hueco reconocido, y aparte, que un día o un orden inventados.
+**Los dos puntos del segundo fichero no tienen día ni orden asignado, a propósito** ❌ — ni la
+geometría de la ruta ni el itinerario narrado sitúan a Khorixas o la puerta de Galton en un momento
+concreto del viaje *(Galton, de hecho, ni siquiera se usa en la ruta final: exige reserva propia y
+es un rodeo más largo hacia Okaukuejo, `13`)*. Sus coordenadas son reales; su fecha, no — mejor un
+hueco reconocido, y aparte, que un día o un orden inventados.
+
+*(Torra Bay salió de este fichero: sí tiene día — D7, 7 de noviembre — y la ruta pasa por él, aunque
+cerrado y sin parada; `11-entradas-y-permisos.md` y `13-itinerario.md` lo sitúan los dos.)*

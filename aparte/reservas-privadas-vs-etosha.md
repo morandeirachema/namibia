@@ -208,10 +208,9 @@ altiplano. Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikime
 
 - **Ruta**: oeste de Etosha, concesión ≠Khoadi-//Hôas, junto a Galton Gate. **Es un desvío
   real, no un paso de camino**: 65 km al norte de Kamanjab por la C35 (asfalto) + 16-17 km de pista
-  ◐◐. El propio `13-itinerario.md` de este proyecto ya había concluido que **Galton Gate no conecta
-  con la red principal del parque hacia Okaukuejo** — cualquier ruta pasa por Kamanjab y Outjo
-  (265-271 km). Ir a Hobatere exige ida y vuelta a Kamanjab (~164 km extra): noche propia,
-  reestructura el D9.
+  ◐. El propio `13-itinerario.md` de este proyecto ya señala que **Galton, al oeste, exige reserva y
+  es más largo por dentro** — cualquier ruta a Okaukuejo pasa por Kamanjab y Outjo (265-271 km). Ir a
+  Hobatere exige ida y vuelta a Kamanjab (~164 km extra): noche propia, reestructura el D9.
 - **Precio**, [tarifa 2026 oficial](https://hobatere-lodge.com/uploads/documents/7469de5362c08fd69bd484ce6a0b30eab40a68d6.pdf)
   ✅ — ⚠️ nuestras fechas (fin oct-nov) caen en su temporada **ALTA** (01/07–15/11/26), la más cara
   del año ahí, al revés que los campamentos NWR de Etosha donde noviembre es más barato:
@@ -365,8 +364,8 @@ Con el marco del viaje —self-drive, presupuesto ajustado, una sola noche o act
    duerme, el rango de precio más amplio (N$620-30.750 pp/noche), leopardo+guepardo+rinoceronte
    confirmados — con la única duda real del documento sobre si hacen night drive de verdad.
 6. **Descartadas con su dato**: Erindi (cerrada), Etosha Heights (desvío real de 90-115 km fuera
-   del camino directo), Hobatere (164 km de desvío + temporada más cara del año + Galton no
-   conecta con el resto del parque, ya sabido por `13`), Etendeka (desvío + el precio más alto de
+   del camino directo), Hobatere (164 km de desvío + temporada más cara del año + Galton exige
+   reserva propia y es rodeo, ya sabido por `13`), Etendeka (desvío + el precio más alto de
    la lista económica), Camp Kipwe y Twyfelfontein Country Lodge (ventaja floja frente a lo que ya
    se ve desde la carretera pública, y este último sin tarifa de noviembre verificada).
 7. **Perro salvaje**: no garantizado en ningún alojamiento realista de esta ruta. Existe de verdad
