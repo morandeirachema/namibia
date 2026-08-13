@@ -63,8 +63,8 @@ Fuentes ◐: [Wikipedia — History of Namibia](https://en.wikipedia.org/wiki/Hi
 
 ## 2. Quién es quién — los pueblos, y dónde os los cruzáis
 
-**~3 millones de habitantes en un país del tamaño de España y Francia juntas: el segundo país
-menos denso del mundo** ◐. La lengua del hogar, según el censo de 2023 *(redondeado ◐)*:
+**~3 millones de habitantes en un país del tamaño de Francia y el Reino Unido juntos: el segundo
+país menos denso del mundo** ◐. La lengua del hogar, según el censo de 2023 *(redondeado ◐)*:
 
 ```mermaid
 pie showData

@@ -304,7 +304,7 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 ### ~€3.982 por persona · todo incluido
 
-Rango honesto: **€3.832–4.132**. El **~79 %** ya está cerrado — vuelo y coche, pagados y reservados.
+Rango honesto: **€3.832–4.132**. El **~79 %** ya está cerrado con precio real, no estimado.
 
 </div>
 
