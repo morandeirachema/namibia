@@ -10,14 +10,14 @@ rinoceronte negro»— y cubre las catorce especies que la gente va buscando. Se
 de los tres campamentos del viaje: Okaukuejo, Halali y Namutoni.
 
 **2 · GBIF**, el agregador mundial de registros de biodiversidad (museos,
-anillamientos, eBird, iNaturalist, atlas de aves), cubre las 91. De ahi sale algo
+anillamientos, eBird, iNaturalist, atlas de aves), cubre las 115. De ahi sale algo
 honesto y reproducible: de cada 100 registros de mamifero dentro de Etosha en octubre
 y noviembre, cuantos son de esta especie.
 
 Lo de GBIF NO es una probabilidad de avistamiento y aqui no se le llama asi. Es un
-indice de frecuencia relativa, y arrastra los sesgos del observador: las aves llevan
-350.000 registros (eBird) y los mamiferos 18.000, un leon llama mas la atencion que
-un steenbok, y nadie sube a GBIF el chacal numero doscientos. Por eso se compara
+indice de frecuencia relativa, y arrastra los sesgos del observador: en Etosha las aves
+llevan ~276.000 registros y los mamiferos ~17.000 (esta consulta), un leon llama mas la
+atencion que un steenbok, y nadie sube a GBIF el chacal numero doscientos. Por eso se compara
 **dentro de la misma clase y dentro de la misma zona**, nunca un ave contra un
 mamifero, y por eso la cifra va siempre con el numero de registros detras: con 12
 registros no se afirma nada.
@@ -165,10 +165,10 @@ def wkt(zona):
 def taxones():
     """slug -> {clave, clase, rango}. Se cuenta a nivel de ESPECIE a proposito.
 
-    Media docena de fichas son subespecies (la jirafa angolena, la cebra de Hartmann,
+    Media docena de fichas son subespecies (la jirafa angolena, la cebra de Burchell,
     la impala de cara negra). Contar la subespecie daria casi cero: casi nadie
     determina hasta ahi. Y no hace falta: en Etosha toda impala es de cara negra y
-    toda cebra de montana es de Hartmann, asi que la especie ya responde la pregunta.
+    toda cebra de llanura es de Burchell, asi que la especie ya responde la pregunta.
     """
     out = {}
     for _, _, lista in catalogo.GRUPOS_FAUNA:
