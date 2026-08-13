@@ -99,21 +99,18 @@ SECCIONES_FUERA = {}
 # salen del contrato PUBLICADO de otra empresa porque el de Savanna no es publico,
 # y borrar la atribucion las haria parecer verificadas contra tu propio contrato.
 # Son expresiones regulares porque el texto llega ya en HTML, con sus <em> y <strong>.
+# Comprobado el 13/08/2026: 5 de las 9 reglas de entonces ya no casaban con nada en los
+# .md actuales (citaban "34 pines de Google Maps", ya fuera del dossier, y una forma de
+# nombrar a Asco que se reescribió en su sitio) — se quitaron. Las 4 que quedan SÍ siguen
+# disparando hoy: antes de tocar esta lista, comprueba con grep contra el .md real, no
+# de memoria — así fue como se detectaron las 5 muertas.
 REEMPLAZOS = [
-    # \s+ y no un espacio literal: markdown-it conserva el salto de linea del .md dentro
-    # del <em>, y con el espacio la regla no disparaba (se colaba «Asco» en el PDF).
-    (r"\s*<em>\(Asco,\s+descartada[^<]*\)</em>", ""),
     (r"niveles bajos de <strong>Asco</strong> \(la referencia descartada\)",
      "los niveles bajos de un contrato de referencia del sector"),
-    (r"contratos de <strong>Asco/Savanna</strong>", "los contratos de alquiler descargados"),
     (r"contratos Asco/Savanna, ya descargados", "contratos de alquiler ya descargados"),
     (r"Asco/Savanna ya descargados", "contratos de alquiler ya descargados"),
     (r"no se investiga si Asco autoriza el cruce",
      "no se investiga si el contrato autoriza el cruce"),
-    (r"y, al final, qué quedó fuera de\s+tus 34 pines de Google Maps y por qué\.",
-     "Cada cifra, con su fuente y su marca."),
-    (r"\(tu pin, reserva privada", "(reserva privada"),
-    (r"tus 34 pines", "los sitios de la ruta"),
 ]
 
 # Avisos sueltos que son deliberacion, no dato. Se busca el trozo dentro del bloque.
