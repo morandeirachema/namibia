@@ -363,7 +363,7 @@ desde `imprimir.py`, que es quien pone los números de página.
 
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
 imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
-que están las 152 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
+que están las 157 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
 las páginas que deben y que los datos de avistamiento cubren las 115 especies.
 
 *Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son ~6,7 MB, y a cambio el PDF
