@@ -331,6 +331,14 @@ sobre sus propias URL *(gondwana-collection.com/accommodation/…)*.
   2027, dato de la página propia *(medido en Canyon Roadhouse; el sur ya no está en la ruta, pero
   fija el nivel del camping Gondwana para el año nuevo)*.
 
+> **Actualización (15/08/2026): dos fichas de Gondwana SÍ se abrieron** desde el entorno de
+> consulta, con el tarifario 1 nov 2026 – 31 oct 2027 a la vista ✅: **Etosha Safari Camp,
+> N$1.980 (~€99) por persona en B&B** *(N$3.960 · ~€198 la doble; sin fila de camping)* y
+> **Etosha King Nehale, N$3.625 (~€181) pp en B&B**. Con esto el rango del agregador para el
+> Safari Camp queda aclarado *(mezclaba por-persona con por-unidad)* y los dos bullets de Etosha de
+> arriba pasan a histórico. Actividades 2026/27, enlaces y la comparación completa contra dormir
+> dentro, en `aparte/desviacion-itinerario-chavetas.md` §8.
+
 **Lo que sigue sin cerrarse:** la tarifa **DBB por noche de la web propia** de los lodges de la ruta
 *(Sesriem: Desert Camp, Desert Quiver, The Desert Grace; Swakopmund; Twyfelfontein Country Lodge —
 que NO es de Gondwana; puertas de Etosha: Taleni, Toshari)*. El buscador devuelve sus **actividades**

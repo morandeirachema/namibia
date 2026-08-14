@@ -178,7 +178,8 @@ todo lo que importa** — pero tres cosas sí valen:
   temporada, no de la nuestra — nuestra elección de noviembre está razonada en `14` y la
   profilaxis en `04`.
 - **Sus reseñas son el ground truth de nuestros lodges de plan B.** Los candidatos de respaldo que
-  `15` §Lodges tiene con tarifa 2026/27 en ◐ *(páginas de Gondwana en 403)* son justo donde Isaac
+  `15` §Lodges tenía con tarifa 2026/27 en ◐ *(páginas en 403 — las dos fichas de Etosha se
+  abrieron el 15/08: precios verificados en §8)* son justo donde Isaac
   durmió y escribió reseña de primera mano ✅:
   [Damara Mopane Lodge](https://viajes.chavetas.es/guia/namibia/damara-mopane-lodge-opinion/)
   *(plan B de la noche de Hoada, D8 — aún sin confirmar)* ·
@@ -206,7 +207,9 @@ La pregunta merece respuesta seria, no un descarte: **¿qué ventajas reales tie
 al sur de Andersson y [Etosha King
 Nehale](https://viajes.chavetas.es/guia/namibia/etosha-king-nehale-opinion/) a 1 km de la puerta
 norte, los dos de Gondwana— frente a nuestras cuatro noches NWR dentro?** *(Precios del blog en N$
-de 2023 ✅, convertidos al cambio del proyecto ~N$20 = €1; ellos los cambiaron al euro de 2023.)*
+de 2023 ✅, convertidos al cambio del proyecto ~N$20 = €1; ellos los cambiaron al euro de 2023. Los
+precios vigentes son otros: el 15/08 se leyeron las fichas de Gondwana con el tarifario
+**1 nov 2026 – 31 oct 2027** — el año exacto del viaje ✅ — y van abajo, en «la cuenta».)*
 
 **Las ventajas son reales, y son cinco:**
 
@@ -216,21 +219,47 @@ de 2023 ✅, convertidos al cambio del proyecto ~N$20 = €1; ellos los cambiaro
    buffet «variado y delicioso». Enfrente, lo que `21` recoge de reseñas recientes de NWR ○:
    Halali con «el camping bien; los edificios y el restaurante, cansados», Namutoni con el
    restaurante más criticado de los tres, baños de Okaukuejo que oscilan según la reseña.
-2. **Si quieres techo, fuera es mejor y más barato.** Su doble en Etosha Safari Camp: **N$3.249
-   (~€162)** ✅ *(2023)*; King Nehale, **N$4.668 (~€233)** ✅. Dentro, el techo comparable es el
-   chalet del charco de Okaukuejo — **N$4.760 (~€238)** y volando (`20` §4) — con fama de
-   instalaciones cansadas. En cama por cama, Gondwana gana en calidad/precio ◐.
+2. **Si quieres techo, fuera es mejor y más barato — con tarifa 2026/27 leída en la ficha ✅.**
+   Etosha Safari Camp: **N$1.980 (~€99) por persona en B&B → N$3.960 (~€198) la doble con
+   desayuno** *(50 unidades: 37 twin, 10 familiares y 3 triples — las «50 cabañas» de la reseña,
+   que cuadran)*. King Nehale: **N$3.625 (~€181) pp → N$7.250 (~€362,5) la doble B&B**. Dentro, el
+   techo comparable es el chalet del charco de Okaukuejo — **N$4.760 (~€238)**, sin desayuno y
+   volando (`20` §4) — con fama de instalaciones cansadas. En cama por cama, el Safari Camp gana
+   en calidad/precio; King Nehale ya es otro presupuesto.
 3. **Disponibilidad y canal de reserva.** Las parcelas NWR se agotan y la central de Windhoek es
    «una gestión» con teléfono y email de respuesta lenta (`20` §4); Gondwana tiene más capacidad,
-   web que responde y tarifario 2026/27 ya publicado (`15` §Lodges). **Es la elección de menor
+   web que responde y el tarifario 2026/27 publicado en la ficha de cada alojamiento *(leídas el
+   15/08 ✅ — con esto caduca el aviso de 403 de `15` §Lodges)*. **Es la elección de menor
    riesgo administrativo** — de hecho es nuestro plan B (§7).
 4. **El surtidor estable al lado.** Con los cortes de combustible de Etosha 2025–2026, el respaldo
    documentado es el **Etosha Trading Post, a 6,5 km de Andersson** *(diésel 50 ppm — `07`, `08`,
    `21`)*: durmiendo en Etosha Safari Camp lo tienes de camino cada día ◐.
-5. **Safari guiado sin depender de la recepción NWR.** King Nehale vende game drives con guía
-   *(medio día N$1.210 · ~€60,5; día entero N$1.791 · ~€89,5 ✅, precios 2023)* y una **charca
-   propia con acceso privado (Ontalelo Outpost)** que compensa en parte la charca nocturna que se
-   pierde — aunque esa carta solo existe en la puerta norte, que nuestra ruta ni toca.
+5. **Safari guiado sin depender de la recepción NWR.** Los dos venden game drives por Etosha con
+   guía a tarifa 2026/27 ✅: **medio día N$990 (~€49,5) · día entero N$1.300 (~€65) por persona**
+   *(sin tasas de parque)*; King Nehale añade la **visita a su charca privada (Ontalelo Outpost),
+   N$1.500 (~€75) pp**, que compensa en parte la charca nocturna que se pierde — aunque esa carta
+   solo existe en la puerta norte, que nuestra ruta ni toca. El equivalente NWR desde dentro es
+   más barato *(mañana/tarde N$650 · ~€33; nocturno N$750 · ~€38 — `03` §Actividades)* pero con la
+   incógnita de si se puede pre-reservar (`20` §4).
+
+**La cuenta, con tarifas 1 nov 2026 – 31 oct 2027 y dónde reservar:**
+
+- **Fuera · [Etosha Safari Camp](https://gondwana-collection.com/accommodation/etosha-safari-camp)**
+  ✅ *(ficha leída el 15/08)* — doble B&B **N$3.960 (~€198)/noche** · paseo guiado N$445 (~€22) pp ·
+  game drive medio día N$990 (~€49,5) · día entero N$1.300 (~€65) pp · restaurante, bar, piscina,
+  wifi. **Su ficha no lista camping** ✅; el nivel de camping Gondwana ronda los N$300 (~€15) por
+  persona ◐ *(medido en sus roadhouses — `15` §Lodges)*.
+- **Fuera · [Etosha King Nehale](https://gondwana-collection.com/accommodation/etosha-king-nehale)**
+  ✅ *(ídem)* — doble B&B **N$7.250 (~€362,5)/noche** · charca privada N$1.500 (~€75) pp · aldea
+  cultural Ondjumba N$1.185 (~€59) pp · game drives como arriba. Actividades sin tasas de parque ✅.
+- **Dentro · NWR** ✅ *([tarifario 2026/27,
+  PDF](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf) — leído
+  columna a columna en `03`; reservas en [nwr.com.na](https://www.nwr.com.na/contact/):
+  reservations@nwr.com.na · +264 61 285 7200)* — **camping N$920 (~€46)/noche los dos** en
+  Okaukuejo, Halali y Namutoni · chalet del charco de Okaukuejo **N$4.760 (~€238)** · guiados
+  mañana/tarde N$650 (~€33) y **nocturno N$750 (~€38)** pp (`03` §Actividades).
+- **Idéntico duermas donde duermas**: las tasas de Etosha — **N$280 (~€14) por persona y día +
+  N$60 (~€3) el vehículo** ◐ (`15` §Tasas) — se pagan igual desde dentro que desde fuera.
 
 **Y lo que se paga por ellas** *(el porqué de nuestra elección, ya razonado en §3, `16` y `21`)*:
 
@@ -240,8 +269,9 @@ de 2023 ✅, convertidos al cambio del proyecto ~N$20 = €1; ellos los cambiaro
 - **La noche desaparece**: las charcas iluminadas de Okaukuejo, Moringa (Halali) y Namutoni solo
   existen para quien duerme dentro — y nuestras cuatro noches caen **en luna nueva** (`01`). Su
   diario es la prueba por el negativo: **35 especies y ni una línea de fauna nocturna** ✅.
-- **En camping, dentro ni siquiera es caro**: N$920 (~€46) los dos por noche contra ~N$600 (~€30)
-  del nivel de camping Gondwana ◐ — la diferencia por noche es un desayuno.
+- **En camping, dentro ni siquiera hay pelea**: la ficha del Safari Camp no ofrece camping ✅, así
+  que en esa puerta la comparación real es **N$920 (~€46) los dos dentro contra N$3.960 (~€198) la
+  doble fuera** — dormir fuera en esta zona es, en la práctica, pasarse a régimen de lodge.
 - **El ritmo**: lo suyo fue una travesía sur → norte en día y medio; lo nuestro son cuatro días
   lentos con el parque abierto delante desde la primera charca.
 
