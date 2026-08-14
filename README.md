@@ -10,7 +10,7 @@
 **30 de octubre – 15 de noviembre de 2026**
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
-[![cuenta atrás](https://img.shields.io/badge/faltan-79_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
+[![cuenta atrás](https://img.shields.io/badge/faltan-77_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-0_de_6-9d0208?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
 [![presupuesto](https://img.shields.io/badge/€3.982-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
@@ -28,7 +28,7 @@
 
 ## 📍 Estado del viaje
 
-**12 de agosto de 2026**
+**14 de agosto de 2026**
 
 </div>
 
@@ -122,7 +122,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 120 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 126 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -491,20 +491,21 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 
 8. 🚙 [**`06-conduccion`**](06-conduccion.md) — el vuelco, el contrato, las presiones, la arena y las puertas de Sesriem
 9. ⛺ [**`18-manual-de-campamento`**](18-manual-de-campamento.md) — **vivir del coche**: la rutina de la tarde, la tienda, el braai, la nevera y los vecinos del campamento
-10. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
-11. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
-12. 🪘 [**`19-cultura-de-namibia`**](19-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
-13. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 115 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
-14. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
-15. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
+10. 🏕️ [**`21-campamentos-de-etosha`**](21-campamentos-de-etosha.md) — **Okaukuejo, Halali y Namutoni por dentro**: la parcela, la charca y los servicios de cada uno, con los avisos de los viajeros recientes
+11. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
+12. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
+13. 🪘 [**`19-cultura-de-namibia`**](19-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
+14. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 115 especies con foto, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
+15. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
+16. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**
 
-16. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
-17. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad, con el contraste de OSRM
-18. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
-19. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
-20. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
+17. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
+18. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad, con el contraste de OSRM
+19. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
+20. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
+21. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
 
 📕 Y el PDF: [**`guia-fauna-etosha.pdf`**](guia-fauna-etosha.pdf) — la guía de campo, para imprimir.
 Lleva **medidas** las posibilidades de ver cada bicho: los partes de avistamiento de los tres
@@ -597,6 +598,6 @@ El NAD va ligado al rand: **el importe en N$ es el que se paga**, el euro es ori
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 
-**Última actualización: 12 de agosto de 2026**
+**Última actualización: 14 de agosto de 2026**
 
 </div>
