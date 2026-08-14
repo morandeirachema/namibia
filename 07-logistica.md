@@ -161,8 +161,15 @@ Swakopmund), sal siempre lleno.
 parece — planifica llegar mucho antes del anochecer (las puertas de Etosha cierran al ocaso, y
 la de Ugabmund no deja pasar a pernoctar después de las 15:00).
 
-○ **Sin confirmar**: hay reportes de **falta de combustible dentro de los campamentos de los
-parques**. Planifica como si fuera cierto. No se pudo verificar.
+◐ **Con fecha desde el 14/08**: hay **reportes de 2025–2026 de cortes prolongados de combustible
+en Okaukuejo, Halali y Namutoni** *([travelandtourworld](https://www.travelandtourworld.com/news/article/etosha-sossusvlei-namibia-highlights-fuel-challenges-reshaping-self-drive-safari-travel-in-2026/) ·
+[Tripadvisor](https://www.tripadvisor.com/ShowTopic-g293820-i9680-k15422426-Fuel_planning_Etosha-Namibia.html))*,
+aunque NWR mantenga que sus surtidores funcionan «el 95 % del tiempo» ◐. Planifica igual: como si
+el corte te tocara a ti. El respaldo estable queda **fuera de la puerta de Anderson: Etosha
+Trading Post, a 6,5 km, con diésel 50 ppm y gasolina 95** ◐
+*([web](https://www.etosha-tradingpost.com/facilities.html))* — la regla de los días de Etosha,
+en el [`21`](21-campamentos-de-etosha.md): entrar lleno de Outjo y no fiar el D13 al surtidor de
+Namutoni.
 
 ---
 
@@ -404,6 +411,13 @@ No son una incidencia — son parte del paisaje, y con el kit en la guantera dur
 Y de `06`: **MVA Fund 9682** (gratuito), organismo estatutario que cubre a **cualquier** herido en
 accidente de tráfico **sin importar nacionalidad ni culpa**.
 
+🦂 **Toxicología (mordedura o picadura) — médicos, gratuito y namibio** ◐: el **Namibian Snakebite
+Interest Group** — Dr. Christo Buys **+264 81 127 5109** · Dra. Esta Saaiman **+264 81 288 9157**
+*([scorpions.co.za/helplines](https://scorpions.co.za/helplines/))*. ⚠️ El «Poison Information
+Helpline 0861 555 777» que repiten las guías es **marcación nacional sudafricana: no sirve desde
+Namibia**. El primer auxilio de cada bicho está en la guía de fauna; la compresa fría y la venda
+del caso, en el botiquín del [`17`](17-lista-de-equipaje.md).
+
 🇪🇸 Y el de los papeles: **Embajada de España en Windhoek** — emergencia consular 24/7
 **+264 85 128 0571** · centralita +264 61 22 30 66 ◐ *(datos y fuentes, en `04`)*. Pasaporte
 perdido o robado: a ellos.
@@ -478,6 +492,8 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
 - ~~**Precios actuales de los bonos turistas de MTC**~~ **cerrados ◐ (05/08)**: paquete «Leisure»
   **N$349 ≈ €17/14 días/10,1 GB** y «Premium» **N$659 ≈ €33/30 días/20,1 GB**, convergentes entre la web de MTC,
   su PDF de T&C y un blog independiente (ver §Cobertura). El precio de la **eSIM** sigue sin cerrar
-- **Disponibilidad de combustible dentro de los campamentos de parques**: reportes sin confirmar
+- ~~**Disponibilidad de combustible dentro de los campamentos de parques**: reportes sin
+  confirmar~~ **con fecha desde el 14/08 ◐**: cortes reportados en 2025–2026 en los tres camps de
+  Etosha *(ver §Distancias reales y el [`21`](21-campamentos-de-etosha.md))*
 - **La matriz de distancias es de 2010**: verificar contra Tracks4Africa
 - **La lista de emergencias es de febrero de 2024**: verificar al llegar

@@ -219,6 +219,33 @@ atendido**, no cuánto antes hay que **llamar**. En verano, la cita es el recurs
 de antelación» significa ser atendidos **hacia el 19–26 de septiembre** — «u octubre» ya no vale.
 Fuente: https://www.sanidad.gob.es/areas/sanidadExterior/laSaludTambienViaja/centrosVacunacionInternacional/centrosvacu.htm
 
+### La lista para llevar a la cita — la pauta la fija el CVI, las preguntas van hechas
+
+Cotejo del 14/08/2026 entre las cuatro guías oficiales
+*([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia) ·
+[NaTHNaC](https://travelhealthpro.org.uk/country/157/namibia) ·
+[MAEC](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia) ·
+[AEV](https://vacunas.org/namibia/))* — esto no receta nada: es para que en la cita no se olvide
+ninguna pregunta.
+
+- **Hepatitis A** ◐ — la piden las tres (CDC, NaTHNaC, AEV) para todo viajero no vacunado
+- **Fiebre tifoidea** ◐ — «recommended for most travelers» (CDC; NaTHNaC concuerda)
+- **Hepatitis B** ◐ — CDC a todo viajero; NaTHNaC según exposición
+- **Tétanos-difteria** ◐ — refuerzo si el último pasa de 10 años, «especially where medical
+  facilities are limited» (NaTHNaC)
+- **Triple vírica y polio al día** ◐ — el CDC contempla un refuerzo único de polio en adulto y el
+  MAEC reporta casos aislados en el país: pregunta concreta para el CVI
+- **Rabia** ◐ — a valorar por actividad y lejanía: Terrace Bay y Damaraland cumplen el «remote
+  areas with limited medical access» de NaTHNaC *(y la pauta ya no es excusa: 2 dosis, días 0 y
+  7 — la corrección de arriba)*
+- **Cólera — la pregunta nueva del 14/08** ◐: el CDC dice que «may be considered» para quien
+  viaja a **Kunene**, y el MAEC confirma **brote de cólera en Kunene en junio de 2025** — la ruta
+  entra en Kunene el D7 (Terrace Bay). Que lo pese el CVI con ese dato delante
+- **Gripe y COVID al día** ◐ (CDC; la AEV lista la gripe como situacional)
+
+*(De la misma ficha del MAEC, como contexto y sin efecto en el botiquín: un caso de **mpox**
+reportado en Swakopmund «en octubre» — el año no consta en la ficha ❌.)*
+
 ### La fiebre amarilla tiene mecha de 10 días — y luego dura toda la vida ✅
 
 La enmienda del Anexo 7 del Reglamento Sanitario Internacional de la OMS es taxativa: la vacuna

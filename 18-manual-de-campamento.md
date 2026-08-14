@@ -163,6 +163,11 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 - **Chacal de lomo negro** — el fijo del anochecer ○ *(y el carnívoro más registrado de la ruta
   en GBIF: 271 registros solo en la costa ◐)*. No se le da de comer **nunca** ✅ *(norma del parque)*: nada
   comestible a la vista, nevera y coche cerrados al ir a la charca.
+- **Tejón mielero, el especialista de Halali** ○ — abre neveras, cajas y cubos **en segundos**, y
+  lo avisan varios campistas *([senseearth](https://senseearth.co.uk/blog/the-honey-badger-and-my-steak/) ·
+  [roxannereid](https://www.roxannereid.co.za/blog/man-vs-ratel-at-etosha-national-park-namibia))*:
+  la noche del D11, comida al coche **siempre** — no «un momento en la mesa» *(la ficha del
+  campamento, en el [`21`](21-campamentos-de-etosha.md))*.
 - **Babuino chacma** en miradores y áreas de descanso ○: ventanillas arriba si te alejas del
   coche con comida dentro a la vista. *(Es el «mono» de esta ruta — ficha en la guía; el vervet
   ni aparece: sin un solo registro en la consulta GBIF del 08/08, archivada en `15`.)*
