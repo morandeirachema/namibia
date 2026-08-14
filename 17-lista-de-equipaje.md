@@ -64,7 +64,17 @@ el viaje sigue; si se pierde la cabina, no.
 - [ ] **El kit del control policial, JUNTO en la guantera** ○ — carnet + permiso internacional
       *(jamás separados ✅)*, contrato del alquiler y copia del pasaporte *(el guion del control,
       en `07`)*
-- [ ] **Mapa de carreteras en papel** ×1 ✅ *(Namibia funciona con papel, `04`)*
+- [ ] **Mapa de carreteras en papel** ×1 ✅ *(Namibia funciona con papel, `04`)*. Dos candidatos,
+      elegir uno: **[Reise Know-How Namibia
+      1:1.200.000](https://www.amazon.es/Namibia-mapa-impermeable-carreteras-Escala/dp/3831773130)**
+      *(Polyart impermeable y antirroturas, leyenda en castellano; la compra fácil desde España —
+      precio sin leer en vivo ❌: Amazon y la editorial bloquean la consulta)* o el
+      **[Tracks4Africa Namibia Traveller's Map, 5.ª ed.,
+      1:1.000.000](https://shop.tracks4africa.co.za/product/namibia-travellers-paper-map-5th-edition/)**
+      *(PolyArt, con **tiempos de viaje por cada pista** — el mapa hermano del navegador del
+      viaje; se vende desde Sudáfrica/UK ◐, p. ej.
+      [mapsworldwide](https://www.mapsworldwide.com/maps-charts-atlases-c1811/road-maps-c1932/namibia-tracks-map-p26089)
+      con envío internacional — pedirlo con margen)*
 - [ ] **Libreta y boli** ×1 ✅ — para apuntar las presiones en frío de la entrega *(`06`)*
 
 ## 👕 Ropa — las cuentas, por persona
