@@ -199,6 +199,60 @@ internacional *(ya resuelto en `04` con fuente)*— no añade nada al dossier.
 
 ---
 
+## 8 · Dormir donde ellos durmieron — el steelman de quedarse FUERA de Etosha (15/08)
+
+La pregunta merece respuesta seria, no un descarte: **¿qué ventajas reales tiene su elección
+—[Etosha Safari Camp](https://viajes.chavetas.es/guia/namibia/etosha-safari-camp-opinion/) a 10 km
+al sur de Andersson y [Etosha King
+Nehale](https://viajes.chavetas.es/guia/namibia/etosha-king-nehale-opinion/) a 1 km de la puerta
+norte, los dos de Gondwana— frente a nuestras cuatro noches NWR dentro?** *(Precios del blog en N$
+de 2023 ✅, convertidos al cambio del proyecto ~N$20 = €1; ellos los cambiaron al euro de 2023.)*
+
+**Las ventajas son reales, y son cinco:**
+
+1. **Confort y comida de otra liga.** Su reseña ✅: 50 cabañas con aire acondicionado y baño
+   propio, buffet Okambashu con carne de caza, bar Oshebeena con música en vivo de los Etosha
+   Boys, piscina y personal «súper amable»; en King Nehale, bungalows con piscina privada y un
+   buffet «variado y delicioso». Enfrente, lo que `21` recoge de reseñas recientes de NWR ○:
+   Halali con «el camping bien; los edificios y el restaurante, cansados», Namutoni con el
+   restaurante más criticado de los tres, baños de Okaukuejo que oscilan según la reseña.
+2. **Si quieres techo, fuera es mejor y más barato.** Su doble en Etosha Safari Camp: **N$3.249
+   (~€162)** ✅ *(2023)*; King Nehale, **N$4.668 (~€233)** ✅. Dentro, el techo comparable es el
+   chalet del charco de Okaukuejo — **N$4.760 (~€238)** y volando (`20` §4) — con fama de
+   instalaciones cansadas. En cama por cama, Gondwana gana en calidad/precio ◐.
+3. **Disponibilidad y canal de reserva.** Las parcelas NWR se agotan y la central de Windhoek es
+   «una gestión» con teléfono y email de respuesta lenta (`20` §4); Gondwana tiene más capacidad,
+   web que responde y tarifario 2026/27 ya publicado (`15` §Lodges). **Es la elección de menor
+   riesgo administrativo** — de hecho es nuestro plan B (§7).
+4. **El surtidor estable al lado.** Con los cortes de combustible de Etosha 2025–2026, el respaldo
+   documentado es el **Etosha Trading Post, a 6,5 km de Andersson** *(diésel 50 ppm — `07`, `08`,
+   `21`)*: durmiendo en Etosha Safari Camp lo tienes de camino cada día ◐.
+5. **Safari guiado sin depender de la recepción NWR.** King Nehale vende game drives con guía
+   *(medio día N$1.210 · ~€60,5; día entero N$1.791 · ~€89,5 ✅, precios 2023)* y una **charca
+   propia con acceso privado (Ontalelo Outpost)** que compensa en parte la charca nocturna que se
+   pierde — aunque esa carta solo existe en la puerta norte, que nuestra ruta ni toca.
+
+**Y lo que se paga por ellas** *(el porqué de nuestra elección, ya razonado en §3, `16` y `21`)*:
+
+- **Las puertas mandan**: fuera del parque se entra al amanecer y se sale antes del ocaso. Desde
+  Etosha Safari Camp hay 10 km hasta Andersson y ~17 más hasta Okaukuejo: **la primera y la última
+  hora de luz —las mejores del safari— se conducen, no se miran**.
+- **La noche desaparece**: las charcas iluminadas de Okaukuejo, Moringa (Halali) y Namutoni solo
+  existen para quien duerme dentro — y nuestras cuatro noches caen **en luna nueva** (`01`). Su
+  diario es la prueba por el negativo: **35 especies y ni una línea de fauna nocturna** ✅.
+- **En camping, dentro ni siquiera es caro**: N$920 (~€46) los dos por noche contra ~N$600 (~€30)
+  del nivel de camping Gondwana ◐ — la diferencia por noche es un desayuno.
+- **El ritmo**: lo suyo fue una travesía sur → norte en día y medio; lo nuestro son cuatro días
+  lentos con el parque abierto delante desde la primera charca.
+
+**Veredicto**: fuera se compra **confort, cama mejor por menos dinero y cero riesgo de reserva**;
+dentro se compra **fauna — las horas doradas y la noche**. Para un viaje cuyo clímax es Etosha en
+luna nueva, dentro gana sin discusión; **la opción Gondwana queda como plan B con reseña de
+primera mano (§7) y como la elección correcta para otro tipo de viaje** *(una noche de lujo, un
+regreso con menos safari o si NWR no contesta a tiempo)*.
+
+---
+
 ## Fuentes — el diario, etapa a etapa
 
 - Índice de la guía: https://viajes.chavetas.es/guia/namibia/
