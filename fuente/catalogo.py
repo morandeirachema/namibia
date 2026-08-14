@@ -89,6 +89,22 @@ LUGARES = [
     ("namutoni", "El fuerte de Namutoni, cuartel colonial reconvertido en campamento",
      "Namutomi Fort (37073116643).jpg"),
 
+    # --- los tres campamentos por dentro (doc 21, investigación del 14/08) ---
+    ("okaukuejo-torre", "La torre de Okaukuejo, el mirador de 1963 sobre las llanuras",
+     "Tower at Okaukuejo (3688062966).jpg"),
+    ("okaukuejo-charca-dia", "El murete de observación de la charca de Okaukuejo, de día",
+     "Okaukuejo waterhole 2014.JPG"),
+    ("okaukuejo-charca-noche", "La charca de Okaukuejo de noche: rinoceronte bajo el foco",
+     "White rhinos at Okaukuejo waterhole at night (3687260675).jpg"),
+    ("halali-moringa", "Elefantes al atardecer en la charca Moringa de Halali",
+     "Wasserloch Halali.jpg"),
+    ("halali-piscina", "La piscina de Halali, la siesta del mediodía del D11",
+     "Etosha-Halali Camp (2).jpg"),
+    ("namutoni-charca", "Leona de noche junto a la charca King Nehale, tras la valla de Namutoni",
+     "Lionness Namutoni water hole.jpg"),
+    ("namutoni-atardecer", "El atardecer desde la torre del fuerte de Namutoni",
+     "Sunset viewed from Fort Namutoni in Etosha National Park, Namibia, 2007.jpg"),
+
     # --- transversales ---
     ("grava", "La pista de grava: donde vive el riesgo del viaje",
      "Namibia D826.JPG"),
