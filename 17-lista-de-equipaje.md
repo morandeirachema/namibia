@@ -350,7 +350,14 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 - [ ] **Abanico ×1 p.p.** ○ — la siesta parada del mediodía a 35–38 °C y las noches quietas de
       Etosha sin un soplo de aire; pesa nada y no gasta batería
 - [ ] **Cinta americana ×1**, **bridas ×10** y **cuerda fina ×5 m** ○
-- [ ] **Mecheros ×2** y pastillas de encendido ○
+- [ ] **Mecheros y pastillas de encendido — NO van en la maleta: se compran ALLÍ**, y ya están en
+      la compra del D0 con la leña y las cerillas largas *(`08` §lista)*. La norma aérea es la
+      inversa de la navaja ◐: **prohibidos en el facturado**, y en cabina **como mucho UNO por
+      persona y encima** *(en el bolsillo, no dentro del bolso; solo de gas)* — *(norma de
+      Lufthansa vía extractos de búsqueda; su página de mercancías peligrosas devuelve 403:
+      [lufthansa.com — info dangerous goods](https://www.lufthansa.com/es/es/info-dangerous-goods))*.
+      Las pastillas son sólido inflamable: tampoco vuelan ○. Aquí solo queda el recordatorio:
+      **si sales de casa con mechero, UNO y en el bolsillo**
 - [ ] **Termo ×1** ◐ — el café del amanecer en el mirador y las esperas de charca; es lo único de
       cocina que el menaje del coche no trae *([Bushlore](https://bushlore.com/wp-content/uploads/2018/05/Self-Drive-Safari-Planning-Guide.pdf) y Gondwana lo piden expresamente)*.
       Modelo: **[Quechua MH900, acero inoxidable, 1 L](https://www.decathlon.es/es/p/botella-termica-de-montana-y-trekking-acero-inoxidable-1l-quechua-mh900/341498/c261m8750954)**
@@ -467,7 +474,8 @@ flowchart TD
     B -->|"no"| B1["Es el fallo tonto<br/>mas probable del viaje"]
     B -->|"si"| C["¿Medicacion y gafas<br/>en CABINA?"]
     C -->|"si"| D["¿Navaja y multiherramienta<br/>en el petate FACTURADO?"]
-    D -->|"si"| E["¿Mapas offline y Tracks4Africa<br/>descargados de verdad?"]
+    D -->|"si"| D2["¿Mecheros y pastillas FUERA<br/>de las maletas? Se compran alli<br/>- maximo uno en el bolsillo"]
+    D2 -->|"si"| E["¿Mapas offline y Tracks4Africa<br/>descargados de verdad?"]
     E -->|"si"| F["Listo"]
     style A1 fill:#9d0208,color:#fff
     style B1 fill:#9d0208,color:#fff
