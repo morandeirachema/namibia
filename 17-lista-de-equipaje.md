@@ -132,6 +132,11 @@ el viaje sigue; si se pierde la cabina, no.
       y filtro de categoría 3** ◐ — la 4 no vale para conducir. Mejor envolventes, por la arena en
       el viento. Y su funda ○. **Ya en posesión: Oakley graduadas** ○ — comprobar en su propia
       ficha que cumplen UV400 y categoría 3 (lo habitual en gama Oakley, pero mejor confirmarlo)
+- [ ] **Gafas de repuesto** ◐ — si las de diario son graduadas *(las Oakley de arriba lo son)*,
+      **el par viejo al petate** — y si hay lentillas, líquido y un juego extra. Lo pide la propia
+      lista de viaje del CDC *(«glasses and contacts (bring extras)» —
+      [CDC Pack Smart](https://wwwnc.cdc.gov/travel/page/pack-smart))* — y aquí con más motivo:
+      a 500 km de la óptica más cercana, unas gafas rotas no tienen arreglo en ruta
 - [ ] **Cinturón ×1** — **ya en posesión: 2 de billetero oculto** ○ — no hace falta comprar; la
       misma lógica del Forclaz TRAVEL: sin hebilla metálica, pasa el control sin quitárselo
 
@@ -291,6 +296,10 @@ ya hace el apaño.
       cubren el cargador de mechero y el powerbank)*
 - [ ] **Cargador 12 V multi-USB ×1** ○ para el coche — **[INIU 60W, USB-C PD +
       USB-A QC](https://www.amazon.es/INIU-60W-Charger-Fast-Charging/dp/B08VJ2VH2J)** ✅ 4,89 €
+- [ ] **Cargador de pared USB ×1** *(doble, USB-C + USB-A)* ○ — el eslabón que faltaba entre la
+      regleta *(elegida sin USB)* y el enchufe del poste: el cargador de mechero solo carga con el
+      motor en marcha. **Cualquiera de los de casa sirve** — se apunta para que no se quede en la
+      mesilla
 - [ ] **Powerbank ×1 grande** ○ *(el enchufe en parcela quedó confirmado el 11/08 para los cuatro
       NWR de interior ◐ — `18` §5; el powerbank cubre Spreetshoogte, Hoada y las tomas rotas de
       Sesriem)*. **Ya en posesión** ○ — no hace falta comprar
@@ -344,6 +353,9 @@ decisiones.*
       ✅ 79,99 €/ud *(MC, 70 %)* · o **[National Geographic 90-76500
       8x42](https://www.amazon.es/dp/B0DB5Q2JXP)** ✅ 79,00 €/ud (Amazon, prisma de techo, más
       compacto)
+- [ ] **Paño de microfibra ×2 y perilla sopladora ×1** ○ — el polvo cae a diario sobre lentes y
+      gafas: soplar primero, frotar después *(frotar en seco raya)*. La limpieza de la cámara va
+      en su repo; los prismáticos viajan en éste
 
 ## 🏕️ Campamento — solo lo que el coche NO trae
 
@@ -391,6 +403,13 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       ✅ 11,99 €
 - [ ] **Silbato ×1** ○ — pesa nada y se oye donde la voz no llega *(ninguna de las listas del
       barrido del 11/08 lo pedía: entra por decisión propia)*
+- [ ] **Guantes de trabajo ×1 par** ○ — el pinchazo del mediodía *(la llanta y el gato queman a
+      35–38 °C, y el `13` cuenta con «un pinchazo = +1 h»)*, la leña y la parrilla del braai;
+      práctica overlanding común. Viajan en la caja de la noche *(`18` §2)*
+- [ ] **Opcional: linterna UV pequeña ×1** ○ — los escorpiones **fluorescen bajo luz UV**: un
+      barrido a la parcela al anochecer, antes de las sandalias. Casa con la compresa fría del
+      *Parabuthus* del botiquín y el «mirar dónde pisas» del `18`. Como el silbato: ninguna lista
+      del barrido la pedía — entra por decisión propia
 - [ ] **Bolsa estanca ×1** para la electrónica ○ — **[Tribord 10 L, IPX6](https://www.decathlon.es/es/p/bolsa-estanca-caqui-2-puntos-ipx6-10-litros/349371/c241m9002201)**
       ✅ 14,99 €
 
