@@ -91,7 +91,8 @@ def revisa_geo():
 # misma logica desde el otro lado: es el cuaderno con el que se reserva, con la tarjeta en
 # la mano — cada N$ suyo es dinero que se va a pagar.
 SOBRE_EL_TERRENO = ("01-itinerarios-dia-a-dia.md", "03-alojamiento-y-tasas.md",
-                    "13-itinerario.md", "18-manual-de-campamento.md", "20-reservas.md")
+                    "13-itinerario.md", "18-manual-de-campamento.md", "20-reservas.md",
+                    "21-campamentos-de-etosha.md")
 
 RE_NAD = re.compile(r"(?<![+\-±])N\$\s?([\d][\d.,]*)")
 

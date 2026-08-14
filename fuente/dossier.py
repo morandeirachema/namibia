@@ -22,7 +22,7 @@ import mapa                                                        # noqa: E402
 import trazado                                                     # noqa: E402
 from comun import RAIZ, marca_texto, md                            # noqa: E402
 
-FECHA = "12 de agosto de 2026"
+FECHA = "14 de agosto de 2026"
 
 # ---------------------------------------------------------------------------
 # Estructura del volumen
@@ -63,6 +63,9 @@ FOTOS = {
     "15": [],
     "17": ["hiddenvlei"],
     "18": ["hoada"],
+    "21": ["okaukuejo-torre", "okaukuejo-charca-dia", "okaukuejo-charca-noche", "halali",
+           "halali-moringa", "halali-piscina", "namutoni", "namutoni-atardecer",
+           "namutoni-charca"],
 }
 
 # Fotos a pagina completa, antes del documento que abren.
@@ -144,6 +147,8 @@ RESUMEN = {
           "y la etiqueta del trato — atado a los días de la ruta.",
     "20": "El cuaderno de llamadas: cada reserva con su canal, su contacto y su fuente — "
           "el orden en que se cierran y lo que se deja para recepción.",
+    "21": "Okaukuejo, Halali y Namutoni por dentro: la parcela, la charca y los servicios "
+          "de cada uno, con los avisos de los viajeros recientes.",
 }
 
 
@@ -155,10 +160,11 @@ def miles(n, sufijo=" km"):
 # El numero de un documento manda su sitio en el volumen, salvo aqui: la lista de
 # equipaje (`17`) se escribio la ultima pero se lee pegada al `05`, que es de lo que
 # sale; el manual de campamento (`18`) va pegado al `06`, porque el dia de ruta se lee
-# del tiron: conducir y acampar; y la cultura (`19`) pegada al `08`, que ya lleva la
-# mesa y los mercados.
+# del tiron: conducir y acampar; los campamentos de Etosha (`21`) van pegados al `18`,
+# que es su manual de uso; y la cultura (`19`) pegada al `08`, que ya lleva la mesa y
+# los mercados.
 # Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
-ORDEN = {"20": "04a", "17": "05a", "18": "06a", "19": "08a"}
+ORDEN = {"20": "04a", "17": "05a", "18": "06a", "21": "06b", "19": "08a"}
 
 
 def documentos():
