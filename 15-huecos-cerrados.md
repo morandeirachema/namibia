@@ -256,6 +256,15 @@ alta CONSERVADORA, no un dato cerrado para los tres parques ○:**
   titular «Namibia raises park fees by 80 to 100 percent». **No se pudo abrir NINGUNA fuente para
   confirmar en qué tramo cae cada parque**: MEFT (`news/199`), NWR, namibian.org, safarifind y el
   blog de TravelComments devuelven todos egress/403 aquí.
+- 🆕 **14/08/2026 — una secundaria legible al fin, con la tabla fina entera.** La
+  [guía de tarifas de mat-travel](https://mat-travel.com/namibia/etosha/entry-fees/) ◐ publica
+  para Etosha exactamente este baremo —N$280 (~€14) internacional, SADC N$180 (~€9), namibio
+  N$60 (~€3), menor de 8 gratis, vehículo ≤10 plazas N$60 (~€3)— y añade el tramo que faltaba:
+  niño 8-16 N$180 (~€9) internacional / N$100 (~€5) SADC. **Vale como concordancia, no como
+  confirmación** *(la misma web falla estrepitosamente en geografía — auditoría en `aparte/`)*,
+  y ojo: habla de tasa por **día natural**, no por bloque de 24 h como registró `12` §7 — una
+  razón más para confirmarlo en recepción. Del reparto premium/estándar de los otros parques no
+  dice nada.
 - **Namib-Naukluft**: banda emblemática histórica (N$150) → muy probablemente premium N$280.
 - **Skeleton Coast — la unidad MENOS segura**: podría ser tramo estándar (~N$200); y `11` registra
   que el **permiso de tránsito self-drive Ugabmund–Springbokwasser es GRATIS** ◐ (distinto de la
