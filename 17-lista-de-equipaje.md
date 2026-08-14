@@ -359,6 +359,14 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       ✅ 9,99 €
 - [ ] **Abanico ×1 p.p.** ○ — la siesta parada del mediodía a 35–38 °C y las noches quietas de
       Etosha sin un soplo de aire; pesa nada y no gasta batería
+- [ ] **Ventilador de mano recargable ×1** ○ — el refuerzo del abanico para el mucho calor: la
+      espera parada del mediodía y el rato en la tienda de techo antes de que la noche baje los
+      grados. Candidato: **JISULIFE 3 en 1** *(ventilador + linterna + powerbank de emergencia,
+      12–19 h por carga; se carga por USB del cargador 12 V del coche —arriba—, así no roba
+      powerbank en Spreetshoogte y Hoada)* —
+      **[búsqueda en Amazon.es](https://www.amazon.es/s?k=jisulife+ventilador+de+mano)**, precio
+      sin leer en vivo ❌ *(Amazon bloquea la consulta, como en la pasada del 12/08)*. ⚠️ En la
+      plataforma de la charca, apagado ○ — la misma etiqueta de silencio que el frontal *(`18` §8)*
 - [ ] **Cinta americana ×1**, **bridas ×10** y **cuerda fina ×5 m** ○
 - [ ] **Mecheros y pastillas de encendido — NO van en la maleta: se compran ALLÍ**, y ya están en
       la compra del D0 con la leña y las cerillas largas *(`08` §lista)*. La norma aérea es la
