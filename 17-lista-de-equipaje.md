@@ -296,9 +296,8 @@ ya hace el apaño.
 - [ ] **Frontal ×1 por persona, con modo rojo** ○ — letrina a las 3 AM, montar la tienda al
       anochecer y el camino a la charca; **en la plataforma de la charca, apagado del todo** ◐
       *(la norma documentada es más dura que el modo rojo — `18` §8)*. **Ya en posesión: Forclaz**
-      ○ — comprobar que tiene modo rojo antes de dar el ítem por cerrado. **+1 juego de pilas de
-      repuesto** ○ — **[Forclaz alcalinas AAA, pack de 12](https://www.decathlon.es/es/p/pilas-alcalinas-camping-forclaz-aaa-lr03-lote-x12-unidades/11921/m8058023)**
-      ✅ 4,99 €
+      ○ — comprobar que tiene modo rojo antes de dar el ítem por cerrado *(las pilas, en su
+      ítem propio más abajo)*
 - [ ] **Linterna de mano ×1** ○ además del frontal — **[Ledlenser P3 Mini, 130 lm,
       pila AAA](https://www.amazon.es/dp/B0F63KK6QK)** ✅ 14,69 € (Amazon)
 - [ ] **Lámpara de tienda ×1** ○ — la que ya tenéis: cuelga del techo y hace de luz ambiente en la
@@ -309,6 +308,14 @@ ya hace el apaño.
       9–12, `01`)* y una de **previsión marina/viento** para el crucero del D6
 - [ ] Reloj o despertador que no dependa de la batería del móvil ○ — **[TFA Dostmann Mini
       Digital Alarm Clock](https://www.amazon.es/dp/B0DDQ1MNW8)** ✅ 7,49 € (Amazon)
+- [ ] **Pilas AAA ×12, alcalinas** ○ — el repuesto común de toda esta sección: la Ledlenser
+      gasta AAA ✅ *(su ficha)* y el frontal Forclaz y el despertador TFA, casi seguro también ○ —
+      **comprobarlo en casa al probar el modo rojo, y si algo gasta otro formato, apuntarlo
+      aquí**. **[Forclaz alcalinas AAA, pack de
+      12](https://www.decathlon.es/es/p/pilas-alcalinas-camping-forclaz-aaa-lr03-lote-x12-unidades/11921/m8058023)**
+      ✅ 4,99 € — repartidas medio pack en el neceser y medio en la guantera ○: en la grava a las
+      3 AM no hay tienda abierta, y el calor del maletero castiga menos a la alcalina si va en
+      la cabina
 - [ ] **Satelital con SOS** ✅ — reservado y pagado como extra del alquiler de Savanna *(`20` §1)*
       — no hace falta comprar ni alquilar nada aparte.
 
