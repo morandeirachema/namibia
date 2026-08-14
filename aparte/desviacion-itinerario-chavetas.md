@@ -164,6 +164,41 @@ nuestros 15 días, con el sur ya sacrificado, no tienen de dónde pagar.**
 
 ---
 
+## 7 · Segunda pasada (15/08): el resto del blog — qué aprovecha y qué NO usar
+
+Se revisó lo que la guía tiene además del diario: el resumen práctico *(«[Namibia en 20
+preguntas](https://viajes.chavetas.es/guia/namibia/namibia-en-20-preguntas/)»)* y las **ocho
+reseñas de alojamiento**. Balance honesto: **la capa práctica es de 2023 y el dossier la supera en
+todo lo que importa** — pero tres cosas sí valen:
+
+- **⚠️ El visado del blog está CADUCADO — no usar la guía para trámites.** Dice *«sin visado, solo
+  pasaporte»* ✅ *(cierto en 2023)*, pero desde 2025 hay **e-visa obligatorio: N$1.600 (~€80) por
+  persona**, solo en `eservices.mhaiss.gov.na` *(`20` §6)*. Lo mismo vale para su malaria («casi
+  nadie se medica») y su mejor época («abril–septiembre»): son consejos de *su* ruta y *su*
+  temporada, no de la nuestra — nuestra elección de noviembre está razonada en `14` y la
+  profilaxis en `04`.
+- **Sus reseñas son el ground truth de nuestros lodges de plan B.** Los candidatos de respaldo que
+  `15` §Lodges tiene con tarifa 2026/27 en ◐ *(páginas de Gondwana en 403)* son justo donde Isaac
+  durmió y escribió reseña de primera mano ✅:
+  [Damara Mopane Lodge](https://viajes.chavetas.es/guia/namibia/damara-mopane-lodge-opinion/)
+  *(plan B de la noche de Hoada, D8 — aún sin confirmar)* ·
+  [Etosha Safari Camp](https://viajes.chavetas.es/guia/namibia/etosha-safari-camp-opinion/)
+  *(plan B junto a Andersson si fallara una noche NWR del sur)* ·
+  [The Delight Swakopmund](https://viajes.chavetas.es/guia/namibia/the-delight-swakopmund-opinion/)
+  y [The Weinberg](https://viajes.chavetas.es/guia/namibia/the-weinberg-windhoek-opinion/)
+  *(si cayera el camping de Walvis o el de Windhoek y apeteciera techo)*. Si un plan B se activa,
+  su reseña es la referencia de qué se está comprando.
+- **[Namib Desert Lodge](https://viajes.chavetas.es/guia/namibia/namib-desert-lodge-opinion/)
+  (Gondwana, C19, 60 km al norte de Sesriem ✅) como plan B de Sesriem** — no estaba en la lista de
+  `15`. Si las **44 parcelas** de Sesriem se agotaran antes de reservar, es la alternativa probada:
+  se pierde la hora de la puerta interior *(su propia cola de 25 coches a las 7:00, §2)*, pero hay
+  cama a 60 km. Tarifa sin verificar ❌ — pedirla a Gondwana con las demás.
+
+El resto —presupuesto genérico, eSIM con código promocional, «se conduce por la izquierda», permiso
+internacional *(ya resuelto en `04` con fuente)*— no añade nada al dossier.
+
+---
+
 ## Fuentes — el diario, etapa a etapa
 
 - Índice de la guía: https://viajes.chavetas.es/guia/namibia/
