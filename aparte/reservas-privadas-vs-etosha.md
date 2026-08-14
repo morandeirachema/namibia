@@ -297,7 +297,10 @@ perro salvaje en su propia web. Sobre Etosha mismo las fuentes se contradicen �
 parque citado por [New Era](https://neweralive.na/namibias-wild-dogs-under-threat/) dice que lleva
 *"ausente de Etosha 20 años"*; otra fuente ([mat-travel.com](https://mat-travel.com/namibia/etosha/wild-dog/))
 dice que es *"extremadamente raro pero la Eastern Extension tiene una pequeña población
-residente"*. En todo el corredor de esta ruta, solo dos sitios lo confirman: **Erindi** (cerrada,
+residente"* — aunque la auditoría del 14/08 (`auditoria-mat-travel.md`) mostró que esa web
+**inventa la geografía de esa misma «Eastern Extension»** *(coloca allí charcas del tramo
+Halali–Namutoni)*, así que su contrapeso pesa poco: la balanza se inclina hacia el «ausente»
+de New Era. En todo el corredor de esta ruta, solo dos sitios lo confirman: **Erindi** (cerrada,
 no visitable) y **[N/a'an ku sê Wildlife Sanctuary](https://www.naankuse.com)** cerca de Windhoek
 ✅ — pero es un santuario de rehabilitación con animales **en recintos**, no una reserva de fauna
 libre, visitable de medio día en el D0 o D13. **Si el perro salvaje es un objetivo real, el dato
