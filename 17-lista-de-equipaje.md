@@ -432,7 +432,14 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       barrido pedía botella reutilizable por persona; la térmica es la versión que aguanta este
       calor)*. Modelo: **[Quechua Cantimplora 900, isotérmica, inox, 0,8 L](https://www.decathlon.es/es/p/cantimplora-900-isotermica-inox-0-8l-tapon-apertura-rapida-para-senderismo/301275/)**
       ✅ 14,99 €/ud
-- [ ] Snacks secos: frutos secos, barritas y biltong ○
+- [ ] **Bolsa de hidratación 3 L ×1 p.p.** ○ — la respuesta a una cuenta que la lista ya hacía
+      sin resolverla: el kit de Deadvlei manda **3 L por persona en el daypack** y la botella de
+      arriba solo carga 0,8. Se rellena de las garrafas la víspera, va pegada a la espalda
+      *(fresca al amanecer, que es cuando se sube)* y deja las manos libres en Big Daddy.
+      Modelo: **[Forclaz MT500, 3 L](https://www.decathlon.es/es/p/bolsa-de-agua-3-litros-forclaz-mt500/_/R-p-306517)**
+      ❌ *(precio sin leer en vivo — el bloqueo Cloudflare de Decathlon, como en la pasada del
+      12/08)*. **Comprobar en casa** que cabe en el daypack con el tubo por fuera ○ — y a secarla
+      abierta tras cada uso, que a 35 °C lo húmedo cerrado cría de todo
 - [ ] **Bolsa de basura en la puerta** ○ — en los parques la basura vuelve contigo
 - [ ] **Ziplocs para la Línea Roja** ✅ — los restos de carne no bajan del norte
 
@@ -444,7 +451,8 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 
 **Kit Deadvlei — D4, en marcha ~05:10**
 
-- [ ] Daypack con **3 L de agua por persona**
+- [ ] Daypack con **3 L de agua por persona** — en la **bolsa de hidratación** *(§En el coche)*,
+      llenada de las garrafas la víspera
 - [ ] Forro y cortavientos *(se quedan en el coche a las 9:00)*
 - [ ] Buff, frontal y calzado cerrado
 - [ ] **Calcetines viejos para la duna** ◐ — Big Daddy se sube en calcetines, botas al daypack
