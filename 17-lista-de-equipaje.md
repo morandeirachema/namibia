@@ -92,7 +92,10 @@ el viaje sigue; si se pierde la cabina, no.
       noches de la costa — modelo sin identificar ❌: mirar la categoría
       [calcetines térmicos Decathlon](https://www.decathlon.es/es/deportes/montana/calcetines-termicos-trekking-senderismo)
 - [ ] **Forro polar ×1** — la mínima más baja del viaje son **12,7 °C** en la costa ✅. **Ya en
-      posesión**: el más nuevo que tengáis de Decathlon ○ — no hace falta comprar
+      posesión**: el más nuevo que tengáis de Decathlon ○ — no hace falta comprar. Y va **a mano
+      la primera noche, no enterrado en el petate**: el camping de Spreetshoogte está a
+      **1.728 m** ◐ *([barkhan](https://www.barkhan.africa/spreetshoogte-campsite.php))* y la
+      altitud puede dejar la noche por debajo de la media de la celda
 - [ ] **Chubasquero ×1, impermeable de verdad** *(no solo cortavientos)* — costa, salida de
       Deadvlei a las ~05:10 **y las tormentas de Etosha**: noviembre abre las lluvias *(43–44 mm
       en ~7 días, en tormenta ◐)* y un operador namibio lo llama «esencial de noviembre a abril» ◐
@@ -133,7 +136,11 @@ ya hace el apaño.
 - [ ] **Chanclas ×1 par** ○ — duchas compartidas. Gama más barata de Decathlon:
       **[chanclas de piscina Olaian](https://www.decathlon.es/es/deportes/natacion/chanclas-piscina)**
       ❌ *(categoría, no ficha exacta — históricamente 3–5 €)*
-- [ ] **Plantillas o calcetines de repuesto** para la arena ○
+- [ ] **Calcetines viejos ×2 pares p.p., para la duna** ◐ — Big Daddy se sube y se baja **en
+      calcetines, con las botas en el daypack**: a media mañana la arena ya quema *(lo repiten
+      las crónicas de la duna: [anywhereweroam](https://anywhereweroam.com/big-daddy-dune/) ·
+      [neverendingfootsteps](https://www.neverendingfootsteps.com/climbing-big-daddy-deadvlei-sossusvlei/))* —
+      y el resto del viaje hacen de repuesto
 
 ## 🧼 Neceser
 
@@ -150,8 +157,11 @@ ya hace el apaño.
       ✅ 11,99 €/ud (23,98 € las dos)
 - [ ] Neceser **colgable** ×1 ○ — no hay repisa garantizada. Modelo: **[Forclaz Ultralight](https://www.decathlon.es/es/p/neceser-plegable-de-viaje-forclaz-ultralight/_/R-p-173360)**
       ✅ 9,99 €, 43 g
-- [ ] Cortaúñas ×1 · pinzas de depilar ×1 · **costurero pequeño ×1** ○ — dos semanas de lona y
-      cremalleras. Modelo: **[Beter cajita de costura de viaje](https://www.amazon.es/dp/B00ZON1FOS)**
+- [ ] Cortaúñas ×1 · pinzas de depilar ×1 · **cepillo de uñas ×1** ◐ *(lo piden dos listas de
+      self-drive por separado — la arena se mete en todo:
+      [Bushlore](https://bushlore.com/wp-content/uploads/2018/05/Self-Drive-Safari-Planning-Guide.pdf) ·
+      [FullSuitcase](https://fullsuitcase.com/namibia-packing-list/))* · **costurero pequeño ×1**
+      ○ — dos semanas de lona y cremalleras. Modelo: **[Beter cajita de costura de viaje](https://www.amazon.es/dp/B00ZON1FOS)**
       ✅ 4,95 € (Amazon)
 - [ ] **Crema de manos y crema hidratante ×1 de cada** ◐ — el aire del Namib seca la piel a
       diario; sobre piel húmeda, dice la dermatología *([AAD](https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin))*
@@ -217,7 +227,18 @@ ya hace el apaño.
       *(elástica, con apellido — kit CDC: es la del esguince bajando Big Daddy)* · **pomada
       antibiótica ×1** *(la clorhexidina limpia; esto cubre la herida ya curada)*
 - [ ] **Tiritas ×20** de varios tamaños · **apósitos para ampollas ×6** ○ — Big Daddy las hace
-- [ ] **Tijeras ×1** y **pinzas ×1** ○ — las espinas de acacia se clavan y se parten
+- [ ] **Tijeras ×1** y **pinzas ×1** ○ — las espinas de acacia se clavan y se parten. Y las
+      pinzas son también **el extractor de garrapatas**: revisión corporal al anochecer los días
+      de monte ◐ — la fiebre por garrapata africana es la fiebre con sarpullido más frecuente del
+      safari austral, y quien acampa es el grupo de riesgo; el tratamiento es del médico, no del
+      botiquín *([CDC Yellow Book](https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/rickettsial-diseases.html))*
+- [ ] **Compresa fría instantánea ×2** ◐ — la única medida de primeros auxilios con respaldo para
+      la picadura de *Parabuthus*, el escorpión grande de la ruta: frío local, más eficaz en las
+      2 primeras horas *([CMEJ](http://www.cmej.org.za/index.php/cmej/article/view/2545/2580))* —
+      y en una parcela no hay congelador. Los teléfonos toxicológicos, con los de emergencia
+      de `07`
+- [ ] **Mascarilla de barrera para RCP ×1** ○ — pesa nada; la lista el protocolo de mordedura del
+      [African Snakebite Institute](https://www.africansnakebiteinstitute.com/articles/first-aid-for-snakebite-2/)
 - [ ] **Crema para picaduras** ×1 y **corticoide suave** ×1 ○
 - [ ] **Gel de aloe vera ×1** ○ *(kit CDC: la quemadura solar Y la del braai — se cocina al fuego
       cada noche y nada más del botiquín cubre quemaduras)*
@@ -240,6 +261,10 @@ ya hace el apaño.
 - [ ] **Repelente con DEET ≥20 % (o icaridina) ×2 frascos** ✅ — y el orden importa: **siempre
       crema solar primero, repelente encima**
       *([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia))*
+- [ ] **Permetrina para tratar ropa, calcetines y botas ANTES de salir ×1** ✅ — el CDC la pide
+      expresamente para esta zona: *«use permethrin-treated clothing and gear (such as boots,
+      pants, socks, and tents)»* — cubre mosquito Y garrapata a la vez, aguanta varios lavados, y
+      **nunca va sobre la piel** *(misma ficha del CDC)*
 
 ## 🔌 Electrónica y energía
 
@@ -264,6 +289,10 @@ ya hace el apaño.
       entre grava, arena y el salpicadero *(para el día de niebla y salitre de la costa ya está la
       bolsa estanca)*. Modelo: **[Funda estanca IPX8](https://www.decathlon.es/es/p/funda-estanca-telefono-movil-ipx8/346905/m8802142)**
       ✅ 9,99 €/ud — antipolvo y anti-agua a la vez, hasta 90×180 mm
+- [ ] **Soporte de móvil para el salpicadero ×1** ◐ — Tracks4Africa es el navegador del viaje y
+      son 2.757 km: el móvil va sujeto, no en el regazo — y que agarre de verdad, que el
+      corrugado vibra *([FullSuitcase](https://fullsuitcase.com/namibia-packing-list/) lo pide
+      así: «must attach securely for rough gravel roads»)*
 - [ ] **Frontal ×1 por persona, con modo rojo** ○ — letrina a las 3 AM, montar la tienda al
       anochecer y el camino a la charca; **en la plataforma de la charca, apagado del todo** ◐
       *(la norma documentada es más dura que el modo rojo — `18` §8)*. **Ya en posesión: Forclaz**
@@ -339,7 +368,14 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       suelo, no techo: el FCDO dice «plenty of water» sin cifra, y la referencia overlanding pide
       **5 L y doblar el margen en los tramos sin servicios** ◐
       *([Tracks4Africa](https://blog.tracks4africa.co.za/water-supply-overland/))*
-- [ ] **Garrafas o bidones** ○ *(se compran allí, `08`)*
+- [ ] **Garrafas o bidones, de plástico GRUESO** ✅ *(se compran allí, `08`)* — las garrafas
+      finas de agua mineral **revientan con el corrugado**: mejor dos medianas que una grande
+      *([Tracks4Africa](https://blog.tracks4africa.co.za/water-supply-overland/): «prone to
+      breakage»)*
+- [ ] **La garrafa de 20 L del coche, SIEMPRE llena: es la reserva de avería, no la de beber** ✅
+      — la referencia overlanding pide «at least 20 litres of drinking water with you at all
+      times» por si el coche se para *(misma fuente)*. Se bebe de las garrafas compradas; la del
+      coche se repone en cada campamento y no se toca
 - [ ] **Botella de agua térmica ×1 p.p.** ○ — la que va en el asiento y se rellena de la garrafa:
       a 35–38 °C el agua de la botella normal se bebe caliente en una hora *(una de las listas del
       barrido pedía botella reutilizable por persona; la térmica es la versión que aguanta este
@@ -360,14 +396,23 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 - [ ] Daypack con **3 L de agua por persona**
 - [ ] Forro y cortavientos *(se quedan en el coche a las 9:00)*
 - [ ] Buff, frontal y calzado cerrado
+- [ ] **Calcetines viejos para la duna** ◐ — Big Daddy se sube en calcetines, botas al daypack
+      *(ver calzado)*
 - [ ] Cámara *(desinflar y reinflar no es problema: el compresor va en el coche ✅)*
 
 **Kit charca nocturna — D9 a D12**
 
-- [ ] Forro *(se está quieto y refresca)*
+- [ ] Forro *(se está quieto y refresca)* — **y de color oscuro o neutro, no blanco**: el blanco
+      atrae insectos bajo el único foco encendido del recinto ◐
+      *([encounterstravel](https://www.encounterstravel.com/blog/what-to-pack-for-a-trip-to-namibia))*
+- [ ] **Repelente puesto y manga larga** ◐ — el riesgo de mosquito de nov–abr se sitúa justo «en
+      los márgenes del pan y las charcas» *([WhySafari](https://whysafari.com/guides-travel-experts/staying-healthy-in-etosha-malaria-sun-and-wildlife-safety/))*:
+      la espera de la charca es el momento exacto del repelente del botiquín
 - [ ] Frontal **en modo rojo para el camino — y apagado en la plataforma** ◐
 - [ ] Prismáticos y trípode
-- [ ] Paciencia: apagar y darle 15–20 minutos ✅ *(`01`)*
+- [ ] Paciencia: apagar y darle 15–20 minutos ✅ *(`01`)* — la ventana buena va de las **20:00 a
+      la medianoche**, cuando el campamento se acuesta ◐
+      *([Viatu](https://www.viatu.com/en/blog/namibia/a-complete-guide-to-etosha-national-parks-waterholes))*
 
 **Kit costa — D5 a D7**
 
@@ -385,11 +430,18 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 - **Tarjeta SIM de MTC** ◐ — paquete turista **«Leisure» N$349 (~€17)**, 14 días y 10,1 GB
   *(activada el 31, llega al 13 — el último día lo tapa un bono «Aweh» si hace falta)*; solo en la
   tienda del aeropuerto *(`07`)*
+- **Espirales o barritas antimosquitos para la parcela** ◐ — «Peaceful Sleep» y «Tabard» se
+  venden en los súper de allí *([consejos de salud de Etosha](https://etoshanationalpark.co.za/etosha-travel-tips/etosha-health-tips/))*
 
 ## 🚫 Lo que NO se lleva
 
 - ❌ **Plumas, térmicos y guantes** ◐ — peso muerto: la mínima más baja del viaje es 12,7 °C.
-  *(La excepción opcional es el gorro fino de la noche de la costa — ver ropa)*
+  *(La excepción opcional es el gorro fino de la noche de la costa — ver ropa. Y las listas que
+  piden gorro y guantes «para el game drive» son de invierno o de vehículo abierto: vuestro
+  safari es self-drive en cabina cerrada ◐)*
+- ❌ **Nada de camuflaje** ◐ — fuera del bush sienta mal, y en aeropuertos y controles puede dar
+  problemas *([travelbutlers](https://www.travelbutlers.com/safari/general-safari-information-self-drive-etosha/) ·
+  [Chameleon](https://chameleonholidays.com/what-to-pack-for-your-namibian-holiday/))*
 - ❌ **Maleta rígida grande** ○ — no cabe con la nevera y las cajas
 - ❌ **Saco, esterilla, hornillo y menaje** ✅ — el coche lo trae todo
 - ❌ **Comida de casa en cantidad** — resuelto en `08`
@@ -425,4 +477,10 @@ suelto en su línea. Los «sin dato» de la ficha del coche —toallas, almohada
 los cerró la propia ficha en el cotejo del 10/08/2026 ✅: para la entrega quedan la batería de la
 nevera y el tanque (`18` §5, `20`). El 11/08/2026 la lista pasó su primer barrido completo de
 fuentes —salud (CDC/NaTHNaC), clima, sol, energía y cinco listas reputadas de self-drive—: de ahí
-la crema ×4, el aloe, el termo y las fechas corregidas de la profilaxis. · 12/08/2026*
+la crema ×4, el aloe, el termo y las fechas corregidas de la profilaxis. El 14/08/2026 pasó la
+segunda auditoría, esta vez con verificación externa del clima etapa a etapa —NWR publica Sesriem
+34,1/15,5 y Etosha 35,5/18,3 ✅: el «forro sí, plumas no» aguanta— y con toxicología regional y
+listas de safari encima de la mesa: de ahí los calcetines de la duna, la permetrina, la compresa
+fría del escorpión, el cepillo de uñas, el soporte de móvil, la regla de la garrafa de 20 L, el
+repelente en el kit de charca y el veto al camuflaje. Los tres campamentos de Etosha, ahora con
+ficha propia: [`21`](21-campamentos-de-etosha.md). · 14/08/2026*

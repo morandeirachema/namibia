@@ -10,7 +10,8 @@
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 02/08/2026 · podado el 06/08/2026 al separar la lista en `17` ·
-> barrido completo de fuentes el 11/08/2026 (salud, clima, sol, energía y listas comparadas)*
+> barrido completo de fuentes el 11/08/2026 (salud, clima, sol, energía y listas comparadas) ·
+> segunda auditoría el 14/08/2026 (clima verificado etapa a etapa, tsé-tsé, permetrina y garrapata)*
 
 
 ---
@@ -35,10 +36,15 @@ flowchart TD
    esterilla ni cacharros.** *Cómo se vive de ese kit —la rutina, el braai, la nevera— está en el
    [`18`](18-manual-de-campamento.md).*
 2. **Las noches NO son frías** ✅ *(medias de mínimas de noviembre, estaciones GHCN/ERA5 — `15` y
-   `01`)*: **12,7 °C en la costa · 15,5 en Sesriem · 16,3 en Windhoek · 18,9 en Etosha**. **Plumas,
+   `01`; verificado además contra las fichas de NWR el 14/08: Sesriem 15,5 y Etosha 18,3 ✅)*:
+   **12,7 °C en la costa · 15,5 en Sesriem · 16,3 en Windhoek · 18,9 en Etosha**. **Plumas,
    térmicos, gorro y guantes se quedan en casa** — son peso muerto en una tienda de techo. *La
-   noche fría del viaje es la de la costa, no la del desierto.*
-3. **El problema es el calor** ✅: **37,1 °C de media de máximas en Etosha**, 32–34 en el desierto,
+   noche fría del viaje es la de la costa, no la del desierto.* El único matiz es de altitud:
+   **el camping de Spreetshoogte está a 1.728 m** ◐
+   *([barkhan](https://www.barkhan.africa/spreetshoogte-campsite.php))* — la primera noche, el
+   forro a mano, no enterrado en el petate.
+3. **El problema es el calor** ✅: **37,1 °C de media de máximas en Etosha** *(la cifra GHCN es el
+   techo del abanico: la propia NWR publica 35,5 ◐ — cambia el matiz, no la conclusión)*, 32–34 en el desierto,
    **UV extremo (13–15 en noviembre ◐)** y polvo. La equipación es de sol, no de frío — con UNA
    excepción: **la costa** (Benguela: **19–25 °C de día según fuente** — la estación mide 25,0 ✅;
    los datos del pueblo dan 19–21 con un 88 % de humedad ◐, la divergencia queda anotada en
@@ -111,6 +117,12 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   *([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia))*: Etosha es zona de
   malaria ✅ aunque tu ventana sea el mínimo estacional (`04`) — con manga larga ligera al
   anochecer ○, y el repelente **siempre encima** de la crema solar ✅
+- **Permetrina en ropa y botas, y el hábito de la garrapata** ✅/◐ — el CDC pide para esta zona
+  ropa y equipo tratados con permetrina *(«boots, pants, socks, and tents» — misma ficha)*: cubre
+  mosquito y garrapata a la vez. La fiebre por garrapata africana es la fiebre con sarpullido más
+  frecuente del safari austral y **quien acampa es el grupo de riesgo** ◐
+  *([CDC Yellow Book](https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/rickettsial-diseases.html))*:
+  revisión corporal al anochecer los días de monte — las pinzas del botiquín son el extractor
 - ◐ **Gafas graduadas mejor que lentillas** — el polvo de la grava se mete por todo; desde el
   11/08, con la optometría detrás *([AOA](https://www.aoa.org/healthy-eyes/vision-and-vision-correction/environments))*. Si son lentillas: diarias desechables y lágrima sin conservantes
 
@@ -156,9 +168,15 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   sistema es la noche de la costa *(13–15 °C, 88 % de humedad, viento: sensación ~10–11 ◐)*: su
   seguro opcional de 80 g — gorro fino y térmica ligera — está en el `17`.
 - **Manga larga ligera antes que otra camiseta** ○: sirve para el sol de mediodía y para los
-  mosquitos del anochecer en Etosha, que es donde hay malaria. Colores tierra o neutros ○ — no es
-  dogma, pero el blanco se ve a un kilómetro y el negro da calor. Y el **buff** no es un accesorio:
-  es la herramienta oficial contra el olor de Cape Cross ✅.
+  mosquitos del anochecer en Etosha, que es donde hay malaria. Colores tierra o neutros ◐ — y
+  desde el 14/08, con el porqué medido: la razón fuerte del «color de safari» (la tsé-tsé, que va
+  al azul y al negro) **no aplica en esta ruta** — en Namibia la mosca se limita históricamente al
+  Caprivi, fuera del itinerario *([PubMed](https://pubmed.ncbi.nlm.nih.gov/10486826/) ·
+  [ACSH](https://www.acsh.org/news/2016/11/28/do-dark-colors-really-attract-tsetse-flies-10471))*;
+  lo que queda es práctico: el negro da calor, el blanco enseña el polvo, y **de noche el blanco
+  atrae insectos bajo el foco de la charca** ◐
+  *([encounterstravel](https://www.encounterstravel.com/blog/what-to-pack-for-a-trip-to-namibia))*.
+  Y el **buff** no es un accesorio: es la herramienta oficial contra el olor de Cape Cross ✅.
 - **Dos calzados y unas chanclas** ○: zapatilla de trail **ya domada** para Big Daddy, Sesriem
   Canyon, Twyfelfontein y la cascada del Uniab (`10`); sandalias barefoot Saguaro para conducir y
   para el campamento; chanclas para las duchas compartidas. La arena a mediodía **quema**: nunca
