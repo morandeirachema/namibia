@@ -82,7 +82,7 @@ DONDE = {
   "rino-blanco": "Se extinguió aquí y lo reintrodujeron en 1995: hoy es **apenas una docena**. Se cita de vez en cuando en Springbokfontein. ⚠️ **El 39 % de los partes que dice haberlo visto no cuadra** con una docena de animales en 22.000 km²: la mayor parte tiene que ser rinoceronte **negro** mal identificado. Mira el labio, no el color. No cuentes con verlo.",
   "leon": "**Okondeka** es la mejor (manada residente), y luego Chudop, Rietfontein y Ombika *(Nebrownii, cerrada por las obras en vuestras fechas)*. Primera y última hora. Ojo: **usan las pistas como caminos**.",
   "leopardo": "**Halali y Goas son las dos mejores apuestas** del parque; también Ngobib, Kalkheuwel y Klein Namutoni. La charca iluminada de Halali es famosa por él — NWR lo nombra en su propia ficha del campamento.",
-  "guepardo": "Llanura abierta del borde de la pan: **Salvadora, Sueda, Charitsaub, Batia y Okerfontein**. De día, que es cuando caza — su presa aquí es el springbok.",
+  "guepardo": "Llanura abierta del borde de la pan: **Salvadora, Sueda, Charitsaub, Batia y Okerfontein**. De día, que es cuando caza — su presa aquí es el springbok. Y no descartéis la **charca iluminada de Okaukuejo**: uno estuvo bebiendo veinte minutos, de noche, en oct 2025.",
   "jirafa": "En cualquier charca abierta y, de noche, en la iluminada de Okaukuejo. Batia y Kalkheuwel la tienen habitual.",
   "cebra-burchell": "Por todo el parque, en las llanuras del borde de la pan. **En noviembre siguen concentradas**: no vuelven al oeste hasta finales de diciembre. *(La cebra de montaña de Hartmann vive solo en las lomas del extremo oeste — fuera de vuestro eje: la que veáis es esta.)*",
   "orix": "Charcas abiertas: Olifantsbad, Kalkheuwel, King Nehale. Aguanta el calor mejor que nadie, así que se ve a horas en que el resto se esconde.",
@@ -154,9 +154,51 @@ DONDE = {
   "inseparable-namibia": "Roquedos de **Damaraland (D8)**, en colonias junto al estornino Naburup — y en los pajares del tejedor republicano: la ficha del tejedor ya los citaba de inquilinos.",
   "gecko-diurno": "Las rocas de la **costa de la niebla (D7)**, en las paradas entre Swakopmund y Cape Cross. De día — que es su rareza.",
   "lagarto-cuna": "La **base de las dunas de Sossusvlei (D4)**, entre las matas — exactamente por donde se camina hacia Big Daddy y Deadvlei.",
+
+  # --- Ampliacion del 15/08: felinos y rapaces, con informes de viaje de oct-nov (fuentes abajo) ---
+  "caracal": "Se ha visto **cruzando la carretera Okaukuejo→Halali** a primera hora (14 nov 2016) y en el **nocturno guiado desde Okaukuejo**, a 20 m del coche (oct 2016). Suerte pura: por eso no hay banda que prometa nada.",
+  "aguila-cafre": "**El alto del paso de Spreetshoogte / Namibgrens (D1–D2)**: una pareja se cita año tras año (nov 2016, oct 2017, oct 2025). También en el Naukluft camino de Solitaire (sep 2023) y en Khowarib, al norte del paso de Grootberg (oct 2024).",
+  "aguila-azor-africana": "En pareja, **bebiendo en las charcas de Etosha** —tramo Okaukuejo→Halali, oct 2024 y nov 2023—; también cerca de Solitaire (nov 2015).",
+  "aguila-wahlberg": "**Al sur de Okaukuejo**, en las llanuras y charcas del entorno del campamento (10 nov 2023; nov 2015).",
+  "aguila-calzada": "Fase oscura en Etosha (nov 2019) y en el sur del Namib (oct 2017); sin sitio fijo — cualquier rapaz pequeña planeando sobre la escarpa merece los prismáticos.",
+  "culebrera-pechinegra": "El **Namib-Naukluft** (cuatro en un solo viaje, sep 2023) y, en Etosha, las **llanuras de Andoni** (oct 2023) y la pista de Okaukuejo al bosque de fantasmas (dic 2004).",
+  "culebrera-sombria": "Citas sueltas en la **zona de Namutoni** (oct 2011) y al sur del parque; sin sitio fijo.",
+  "aguila-pescadora": "En la ruta la única cita concreta es **la fuente del fondo de las llanuras de Andoni**, pescando (oct 2012). En la laguna de Walvis Bay la registra GBIF en oct-nov, pero ningún informe de viaje la cita allí: buscadla, sin contar con ella.",
+  "buitre-cabeciblanco": "En las **carroñas y charcas de Etosha**, uno o dos entre treinta dorsiblancos: camino de Namutoni (oct 2023) y una pareja bebiendo en el tramo Okaukuejo→Halali (oct 2024). Un viaje de nov 2002 lo falló: no es seguro.",
+  "gavilan-gabar": "**Las charcas de los campamentos**: emboscando a los pajarillos que bajan a beber en la de Okaukuejo (dic 2004) y un adulto negro (melánico) en la de Halali (sep 2023).",
+  "gavilan-chikra": "**El campamento de Halali**: tres informes de octubre-noviembre lo sitúan dentro del recinto (2016, 2023 ×2).",
+  "aguilucho-papialbo": "Las **llanuras de Andoni** a primera hora (dos machos, nov 2002) y un macho en el tramo Okaukuejo→Halali (16 nov 2023).",
+  "aguilucho-cenizo": "**Andoni**, un macho a primera hora (nov 2002), y al **borde de la pan** (nov 2018).",
+  "elanio": "Citado en Etosha y en los pastizales de Windhoek (nov 2015, nov 2018): postes y cables junto a la carretera, desde el D0.",
+  "busardo-ratonero": "«Habitual en Etosha» en octubre de 2015; en noviembre de 2016, pocos y en cinco días. Sin sitio fijo: postes junto a la pista.",
+  "busardo-augur": "**Namibgrens / paso de Spreetshoogte (D1–D2)** —7 nov 2016; 31 oct y 1 nov 2023— y la carretera **Kamanjab→Okaukuejo** (D9); también en Khowarib, al norte de Grootberg (oct 2024).",
+  "busardo-augur-meridional": "**El paso de Spreetshoogte (D1–D2)** —«bastante raro aquí, en el extremo norte de su área», oct 2012— y la carretera Solitaire–Remhoogte (dic 2002).",
+  "cernicalo-ojiblanco": "Las **llanuras al norte de Okaukuejo** —Okondeka, Wolfsnes— (9 nov 2023; una pareja cebando a los pollos con una culebrilla, nov 2018) y entre Halali y Okaukuejo; en el Namib, ocho en un viaje por Sossusvlei (nov 2015).",
+  "cernicalo-africano": "**La parada del paso de Spreetshoogte** (3 nov 2023; 1 nov 2023), el Namib-Naukluft, Swakopmund y la zona de las alondras al norte de Okaukuejo (27 oct 2023).",
+  "alcotan-turumti": "**Twee Palms, en Fischer's Pan** (dos, dic 2004; oct 2015) y **Namutoni** (nov 2016, oct 2023); también Salvadora, un árbol-nido junto a la pista al norte de Okaukuejo (oct 2023) y cuatro cerca de Halali (oct 2017).",
+  "halcon-borni": "Las **llanuras al norte de Okaukuejo** (nov 2018; tres en dos días, nov 2016) y «un árbol solitario en la llanura» entre Okaukuejo y Halali, compartido con el alcotán turumti (oct 2025). En el Namib, cruzando de Namibgrens a Walvis (oct 2011).",
+  "halcon-peregrino": "**La laguna de Walvis Bay** —matando un chorlitejo en la orilla, nov 1996; oct 2015— y sobre **Swakopmund** (dic 2002); uno en Etosha (nov 2019).",
+  "halconcito-africano": "**El campamento de Sesriem, dentro del pajar del tejedor** (dos pollos asomando, 4 nov 2023) y el nido gigante de la **puerta de Sossusvlei** (sep 2023); el paso de Spreetshoogte (1 nov 2023) y el **recinto de Okaukuejo** (oct 2010): mirad el pajar de la charca.",
+  "buho-manchado": "**Cerca de Okondeka** (nov 2002), en un pajar de tejedor del suroeste de Etosha (oct 2015, oct 2016), en el **nocturno de Halali** (14 nov 2016) y dos en **Sossusvlei** (nov 2015).",
+  "autillo-africano": "**El dormidero diurno del campamento de Halali**: seis informes de octubre-noviembre lo sitúan en sus árboles (2011, 2012, 2015, 2016 ×2, 2023). Preguntad en recepción por el árbol.",
+  "autillo-cariblanco": "**Halali**, en su dormidero y hasta con nido —un adulto con dos pollos, oct 2011; oct 2010, oct 2012, oct 1996, nov 2002—. En Namutoni, sin cita.",
+  "mochuelo-perlado": "El **recinto de Okaukuejo** —los jardines del campamento, de día y de noche (dic 2004, nov 2016, oct 2012)— y la **charca de Namutoni** (16 nov 2023).",
+  "lechuza-comun": "**Halali**: dormidero en el campamento (oct 2010) y cazando en la charca Moringa (oct 2011); las **charcas iluminadas** en general (nov 2018) y el **nocturno de Namutoni** (oct 2025).",
+  "buho-moro": "Las **charcas iluminadas de Okaukuejo y Halali (Moringa)** —oct 2010, oct 2011, oct 2025—, y el nocturno de Halali (14 nov 2016). En Andoni y Fischer's Pan, sin cita concreta.",
 }
 
 FUENTES_ETOSHA = [
+  "<b>Felinos y rapaces (añadidos el 15/08):</b> informes de viaje de birding con fecha y lugar, "
+  "de octubre-noviembre y de esta misma ruta, leídos enteros: Birding Ecotours (2–20 nov 2023 y "
+  "7–22 nov 2023, <span class='u'>birdingecotours.com/trip-report/complete-namibia-set-departure-birding</span>), "
+  "Field Guides (nov 2015, oct 2017, nov 2018, nov 2019, sep y oct-nov 2023, "
+  "<span class='u'>fieldguides.com/triplists/nam23c.html</span>), Wise Birding (6–22 nov 2016, "
+  "PDF en mammalwatching.com), Birdquest (sep-oct 2017, oct 2023, oct 2025), Rockjumper (oct "
+  "2010, 2011, 2012, 2015, 2016 y oct-nov 2023), Royle Safaris (oct 2016), Batis Birding (oct "
+  "2024) y birdtours.co.uk (Vermeulen oct-nov 1996, Benstead nov-dic 2002, Rae dic 2004). Lo que "
+  "ningún informe cita en la ruta se queda sin línea: gato de patas negras, águila pomerana, "
+  "aguilucho caricalvo y milano; el águila pescadora en Walvis Bay solo la sostiene GBIF, y así se "
+  "dice.",
   "<b>Horarios de puerta:</b> tabla oficial <i>Etosha National Park Gates Opening &amp; Closing Time</i> (3–9 nov 06:13–19:06 · 10–16 nov 06:10–19:10). Cambian cada semana y están puestas en cada puerta.",
   "<b>Reglamento del parque</b> (60 km/h, 20 en campamentos, prohibido bajar del coche fuera de los campamentos, prohibido salir de las pistas): <i>Park Regulations</i> de NWR/MEFT.",
   "<b>Rinoceronte negro:</b> MEFT (ficha de Etosha) y NWR confirman león, elefante y rinoceronte negro de noche en Okaukuejo. Lo de «mayor población mundial» es de la <i>subespecie suroccidental</i>: WWF sitúa el 72 % de la población nacional en Etosha.",

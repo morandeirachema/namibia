@@ -10,7 +10,7 @@ rinoceronte negro»— y cubre las catorce especies que la gente va buscando. Se
 de los tres campamentos del viaje: Okaukuejo, Halali y Namutoni.
 
 **2 · GBIF**, el agregador mundial de registros de biodiversidad (museos,
-anillamientos, eBird, iNaturalist, atlas de aves), cubre las 115. De ahi sale algo
+anillamientos, eBird, iNaturalist, atlas de aves), cubre las 148. De ahi sale algo
 honesto y reproducible: de cada 100 registros de mamifero dentro de Etosha en octubre
 y noviembre, cuantos son de esta especie.
 
@@ -35,8 +35,8 @@ Cuatro zonas, las del viaje:
   · damaraland Twyfelfontein, Grootberg y Hoada (D8)
 
 Uso:
-    python3 fuente/avistamientos.py           # solo si falta el cache
-    python3 fuente/avistamientos.py --forzar  # lo rehace desde GBIF
+    python3 fuente/avistamientos.py           # solo lo que falte (especies nuevas)
+    python3 fuente/avistamientos.py --forzar  # lo rehace todo desde GBIF
 
 El resultado se versiona en fuente/geo/avistamientos.json y el build del PDF lo lee
 de ahi: `guia_fauna.py` no toca la red.
@@ -437,6 +437,60 @@ def fuente_html():
         f"fichero: {len(zonas)} zonas, {len(d.get('especies', {}))} especies.</li>")
 
 
+def completa(d):
+    """Anade al cache SOLO las especies del catalogo que aun no tienen recuento.
+
+    Cuando el catalogo crece (las 33 rapaces y felinos del 15/08) no hace falta
+    rehacer las 115 anteriores ni volver a raspar Expert Africa: se resuelven las
+    nuevas y se cuentan contra las mismas zonas. Los totales por clase de cada zona
+    se dejan como estan —son el denominador de todas las fichas y conviene que
+    todas compartan la misma foto de GBIF—; unos dias de deriva no cambian nada.
+    """
+    en_cache = set(d.get("especies", {}))
+    faltan = [(slug, es, sci) for _, _, lista in catalogo.GRUPOS_FAUNA
+              for slug, es, _en, sci, _f in lista if slug not in en_cache]
+    sobran = en_cache - {slug for _, _, lista in catalogo.GRUPOS_FAUNA for slug, *_ in lista}
+    for slug in sobran:
+        d["especies"].pop(slug)
+        print(f"   fuera del catalogo, fuera del cache: {slug}")
+    if not faltan:
+        return False
+    print(f"GBIF · {len(faltan)} especies nuevas en el catalogo")
+    tx = {}
+    for slug, es, sci in faltan:
+        m = pide("species/match", name=sci, strict="false")
+        clave = m.get("speciesKey") or m.get("usageKey")
+        if not clave or m.get("matchType") == "NONE":
+            print(f"   !! sin taxon en GBIF: {es} ({sci})")
+            continue
+        tx[slug] = {"clave": clave, "sci": m.get("canonicalName") or sci,
+                    "clase": m.get("class") or m.get("phylum") or "?",
+                    "clase_clave": m.get("classKey"), "rango": m.get("rank", "")}
+        time.sleep(.15)
+    facetas_cache = {}
+    for slug, t in tx.items():
+        fila = {"sci": t["sci"], "clase": t["clase"], "clase_clave": t["clase_clave"],
+                "rango": t["rango"], "zonas": {}}
+        for zona in ("etosha", "costa", "namib", "damaraland"):
+            g = d["zonas"][zona]["wkt"]
+            if t["rango"] in ("SPECIES", "SUBSPECIES", "VARIETY", "FORM"):
+                k = (zona, t["clase_clave"])
+                if k not in facetas_cache:
+                    _, todo = facetas(g, t["clase_clave"])
+                    _, ventana = facetas(g, t["clase_clave"], MESES)
+                    facetas_cache[k] = (todo, ventana)
+                todo, ventana = facetas_cache[k]
+                n, nv = todo.get(t["clave"], 0), ventana.get(t["clave"], 0)
+            else:
+                n, nv = sueltos(g, t["clave"]), sueltos(g, t["clave"], MESES)
+            fila["zonas"][zona] = {"registros": n, "oct_nov": nv}
+        d["especies"][slug] = fila
+        print(f"   {slug:<26} " + " ".join(
+            f"{z}:{fila['zonas'][z]['oct_nov']}/{fila['zonas'][z]['registros']}"
+            for z in ("etosha", "costa", "namib", "damaraland")))
+    return True
+
+
 def main():
     ruta = os.path.join(GEO, SALIDA)
     forzar = "--forzar" in sys.argv
@@ -446,7 +500,7 @@ def main():
         tx = taxones()
         print(f"   {len(tx)} taxones resueltos")
         d.update(recuenta(tx))
-    else:
+    elif not completa(d):
         print(f"ya esta: los recuentos de GBIF de geo/{SALIDA}")
     if not d.get("campamentos"):
         print("Expert Africa · partes de avistamiento de los tres campamentos")

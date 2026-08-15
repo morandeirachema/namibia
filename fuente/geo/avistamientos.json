@@ -2897,6 +2897,798 @@
      "oct_nov": 1
     }
    }
+  },
+  "caracal": {
+   "sci": "Caracal caracal",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 11,
+     "oct_nov": 3
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "gato-patas-negras": {
+   "sci": "Felis nigripes",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "aguila-cafre": {
+   "sci": "Aquila verreauxii",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 12,
+     "oct_nov": 5
+    },
+    "costa": {
+     "registros": 3,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 88,
+     "oct_nov": 8
+    },
+    "damaraland": {
+     "registros": 287,
+     "oct_nov": 80
+    }
+   }
+  },
+  "aguila-azor-africana": {
+   "sci": "Aquila spilogaster",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 326,
+     "oct_nov": 83
+    },
+    "costa": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 28,
+     "oct_nov": 3
+    },
+    "damaraland": {
+     "registros": 246,
+     "oct_nov": 61
+    }
+   }
+  },
+  "aguila-wahlberg": {
+   "sci": "Hieraaetus wahlbergi",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 98,
+     "oct_nov": 33
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "aguila-calzada": {
+   "sci": "Hieraaetus pennatus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 67,
+     "oct_nov": 22
+    },
+    "costa": {
+     "registros": 25,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 65,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 79,
+     "oct_nov": 5
+    }
+   }
+  },
+  "aguila-pomerana": {
+   "sci": "Clanga pomarina",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 26,
+     "oct_nov": 11
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 1,
+     "oct_nov": 0
+    }
+   }
+  },
+  "culebrera-pechinegra": {
+   "sci": "Circaetus pectoralis",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 463,
+     "oct_nov": 91
+    },
+    "costa": {
+     "registros": 61,
+     "oct_nov": 18
+    },
+    "namib": {
+     "registros": 228,
+     "oct_nov": 58
+    },
+    "damaraland": {
+     "registros": 292,
+     "oct_nov": 45
+    }
+   }
+  },
+  "culebrera-sombria": {
+   "sci": "Circaetus cinereus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 239,
+     "oct_nov": 55
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 12,
+     "oct_nov": 1
+    },
+    "damaraland": {
+     "registros": 55,
+     "oct_nov": 19
+    }
+   }
+  },
+  "aguila-pescadora": {
+   "sci": "Pandion haliaetus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 4,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 39,
+     "oct_nov": 17
+    },
+    "namib": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 2,
+     "oct_nov": 1
+    }
+   }
+  },
+  "buitre-cabeciblanco": {
+   "sci": "Trigonoceps occipitalis",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 357,
+     "oct_nov": 107
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 1,
+     "oct_nov": 1
+    },
+    "damaraland": {
+     "registros": 3,
+     "oct_nov": 0
+    }
+   }
+  },
+  "gavilan-gabar": {
+   "sci": "Micronisus gabar",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 1255,
+     "oct_nov": 277
+    },
+    "costa": {
+     "registros": 3,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 45,
+     "oct_nov": 2
+    },
+    "damaraland": {
+     "registros": 130,
+     "oct_nov": 16
+    }
+   }
+  },
+  "gavilan-chikra": {
+   "sci": "Accipiter badius",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 145,
+     "oct_nov": 13
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 7,
+     "oct_nov": 1
+    }
+   }
+  },
+  "aguilucho-caricalvo": {
+   "sci": "Polyboroides typus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 269,
+     "oct_nov": 21
+    },
+    "costa": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 16,
+     "oct_nov": 0
+    }
+   }
+  },
+  "aguilucho-papialbo": {
+   "sci": "Circus macrourus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 43,
+     "oct_nov": 19
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "aguilucho-cenizo": {
+   "sci": "Circus pygargus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 39,
+     "oct_nov": 11
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 1,
+     "oct_nov": 0
+    }
+   }
+  },
+  "elanio": {
+   "sci": "Elanus caeruleus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 921,
+     "oct_nov": 240
+    },
+    "costa": {
+     "registros": 46,
+     "oct_nov": 6
+    },
+    "namib": {
+     "registros": 42,
+     "oct_nov": 8
+    },
+    "damaraland": {
+     "registros": 74,
+     "oct_nov": 20
+    }
+   }
+  },
+  "milano-negro": {
+   "sci": "Milvus migrans",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 199,
+     "oct_nov": 34
+    },
+    "costa": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 35,
+     "oct_nov": 5
+    }
+   }
+  },
+  "busardo-ratonero": {
+   "sci": "Buteo buteo",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 177,
+     "oct_nov": 52
+    },
+    "costa": {
+     "registros": 8,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 10,
+     "oct_nov": 2
+    },
+    "damaraland": {
+     "registros": 21,
+     "oct_nov": 13
+    }
+   }
+  },
+  "busardo-augur": {
+   "sci": "Buteo augur",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 34,
+     "oct_nov": 3
+    },
+    "costa": {
+     "registros": 28,
+     "oct_nov": 6
+    },
+    "namib": {
+     "registros": 45,
+     "oct_nov": 9
+    },
+    "damaraland": {
+     "registros": 189,
+     "oct_nov": 43
+    }
+   }
+  },
+  "busardo-augur-meridional": {
+   "sci": "Buteo rufofuscus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 40,
+     "oct_nov": 9
+    },
+    "namib": {
+     "registros": 68,
+     "oct_nov": 10
+    },
+    "damaraland": {
+     "registros": 3,
+     "oct_nov": 0
+    }
+   }
+  },
+  "cernicalo-ojiblanco": {
+   "sci": "Falco rupicoloides",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 2402,
+     "oct_nov": 642
+    },
+    "costa": {
+     "registros": 38,
+     "oct_nov": 7
+    },
+    "namib": {
+     "registros": 541,
+     "oct_nov": 147
+    },
+    "damaraland": {
+     "registros": 65,
+     "oct_nov": 6
+    }
+   }
+  },
+  "cernicalo-africano": {
+   "sci": "Falco rupicolus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 418,
+     "oct_nov": 86
+    },
+    "costa": {
+     "registros": 543,
+     "oct_nov": 112
+    },
+    "namib": {
+     "registros": 391,
+     "oct_nov": 107
+    },
+    "damaraland": {
+     "registros": 306,
+     "oct_nov": 49
+    }
+   }
+  },
+  "alcotan-turumti": {
+   "sci": "Falco chicquera",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 1085,
+     "oct_nov": 309
+    },
+    "costa": {
+     "registros": 20,
+     "oct_nov": 8
+    },
+    "namib": {
+     "registros": 125,
+     "oct_nov": 40
+    },
+    "damaraland": {
+     "registros": 12,
+     "oct_nov": 0
+    }
+   }
+  },
+  "halcon-borni": {
+   "sci": "Falco biarmicus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 814,
+     "oct_nov": 136
+    },
+    "costa": {
+     "registros": 37,
+     "oct_nov": 3
+    },
+    "namib": {
+     "registros": 135,
+     "oct_nov": 37
+    },
+    "damaraland": {
+     "registros": 62,
+     "oct_nov": 0
+    }
+   }
+  },
+  "halcon-peregrino": {
+   "sci": "Falco peregrinus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 69,
+     "oct_nov": 22
+    },
+    "costa": {
+     "registros": 98,
+     "oct_nov": 13
+    },
+    "namib": {
+     "registros": 12,
+     "oct_nov": 1
+    },
+    "damaraland": {
+     "registros": 24,
+     "oct_nov": 0
+    }
+   }
+  },
+  "halconcito-africano": {
+   "sci": "Polihierax semitorquatus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 219,
+     "oct_nov": 43
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 309,
+     "oct_nov": 104
+    },
+    "damaraland": {
+     "registros": 12,
+     "oct_nov": 1
+    }
+   }
+  },
+  "buho-manchado": {
+   "sci": "Bubo africanus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 223,
+     "oct_nov": 69
+    },
+    "costa": {
+     "registros": 28,
+     "oct_nov": 9
+    },
+    "namib": {
+     "registros": 201,
+     "oct_nov": 47
+    },
+    "damaraland": {
+     "registros": 65,
+     "oct_nov": 7
+    }
+   }
+  },
+  "autillo-africano": {
+   "sci": "Otus senegalensis",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 360,
+     "oct_nov": 82
+    },
+    "costa": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 136,
+     "oct_nov": 16
+    }
+   }
+  },
+  "autillo-cariblanco": {
+   "sci": "Ptilopsis granti",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 226,
+     "oct_nov": 65
+    },
+    "costa": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 22,
+     "oct_nov": 5
+    },
+    "damaraland": {
+     "registros": 64,
+     "oct_nov": 12
+    }
+   }
+  },
+  "mochuelo-perlado": {
+   "sci": "Glaucidium perlatum",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 1193,
+     "oct_nov": 225
+    },
+    "costa": {
+     "registros": 8,
+     "oct_nov": 1
+    },
+    "namib": {
+     "registros": 29,
+     "oct_nov": 1
+    },
+    "damaraland": {
+     "registros": 396,
+     "oct_nov": 82
+    }
+   }
+  },
+  "lechuza-comun": {
+   "sci": "Tyto alba",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 654,
+     "oct_nov": 106
+    },
+    "costa": {
+     "registros": 5,
+     "oct_nov": 1
+    },
+    "namib": {
+     "registros": 89,
+     "oct_nov": 20
+    },
+    "damaraland": {
+     "registros": 97,
+     "oct_nov": 8
+    }
+   }
+  },
+  "buho-moro": {
+   "sci": "Asio capensis",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 67,
+     "oct_nov": 22
+    },
+    "costa": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
   }
  },
  "campamentos": {

@@ -76,6 +76,27 @@ RE_EMOJI = re.compile(
 _CONSERVAR = {"→", "←", "↔", "—", "–", "·", "±", "≈", "×", "→"}
 
 
+_UNIDADES = ["cero", "una", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve",
+             "diez", "once", "doce", "trece", "catorce", "quince", "dieciséis", "diecisiete",
+             "dieciocho", "diecinueve", "veinte", "veintiuna", "veintidós", "veintitrés",
+             "veinticuatro", "veinticinco", "veintiséis", "veintisiete", "veintiocho", "veintinueve"]
+_DECENAS = {30: "treinta", 40: "cuarenta", 50: "cincuenta", 60: "sesenta", 70: "setenta",
+            80: "ochenta", 90: "noventa"}
+
+
+def en_letras(n):
+    """0-199 en letras (femenino: «ciento treinta y cinco especies»). Fuera de rango, la cifra."""
+    if not 0 <= n < 200:
+        return str(n)
+    if n >= 100:
+        resto = n - 100
+        return "cien" if not resto else "ciento " + en_letras(resto)
+    if n < 30:
+        return _UNIDADES[n]
+    d, u = divmod(n, 10)
+    return _DECENAS[d * 10] + (f" y {_UNIDADES[u]}" if u else "")
+
+
 def mil(n):
     """2728 -> «2.728»: punto de millar, que es lo que se usa en castellano."""
     return f"{n:,.0f}".replace(",", ".")
