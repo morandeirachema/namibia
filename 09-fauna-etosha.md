@@ -2,9 +2,10 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> El índice de la guía de campo en PDF: 115 especies con foto, cómo reconocerlas, **qué
+> El índice de la guía de campo en PDF: 148 especies con foto, cómo reconocerlas, **qué
 > posibilidades hay de verlas** y dónde y cuándo. *(Regla del 09/08: sin avistamientos, sin
-> ficha — fuera oricteropo, suricata y cebra de Hartmann.)*
+> ficha — fuera oricteropo, suricata y cebra de Hartmann. Una excepción consciente desde el
+> 15/08: el gato de patas negras, ver abajo.)*
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
@@ -14,10 +15,12 @@
 > primer barrido COMPLETO de GBIF contra el catálogo (+14 fichas, todas verificadas en fuentes
 > del propio eje) · ampliación del 11/08/2026: el mismo barrido sobre las otras tres zonas de
 > la ruta (+13 — el mular del crucero, las aves del Namib y Damaraland, la rata dassie…; el
-> detalle de ambos, en `15`)*
+> detalle de ambos, en `15`) · ampliación del 15/08/2026: **todas las rapaces y todos los
+> felinos de la ruta** (+33: 31 rapaces diurnas y nocturnas, el caracal y el gato de patas
+> negras), en dos secciones propias — el detalle, en `15`*
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 26 páginas A4,
-**115 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
+📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 34 páginas A4,
+**148 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
 cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
 
@@ -31,12 +34,13 @@ buscar una especie desde el repo.)*
 - **Nombre en castellano, científico e inglés** — el inglés importa: es el que veréis en los
   carteles del parque y el que usa todo el mundo allí
 - **Qué posibilidades hay de verla**, medida y con su muestra detrás *(abajo, de dónde sale)* —
-  en **112 de las 115**: tres fichas *(tortuga leopardo, galápago africano y shongololo)* se
+  en **145 de las 148**: tres fichas *(tortuga leopardo, galápago africano y shongololo)* se
   quedan sin línea a propósito, porque su clase no llega a la muestra mínima y **callarse es
   la regla**
 - **Cómo reconocerla en el campo**: los rasgos que de verdad distinguen, no una descripción de
   enciclopedia *(labio del rinoceronte, rosetas frente a manchas, orejas de la hiena, pico del cálao…)*
-- **Cuántas quedan**, en las trece especies con una cifra publicada que se pueda citar
+- **Cuántas quedan**, en las veintidós especies con una cifra publicada que se pueda citar —y, desde
+  el 15/08, la **categoría UICN** de las rapaces amenazadas: cuatro En Peligro, dos En Peligro Crítico
 - **Foto** de Wikimedia Commons, todas con **licencia libre** (CC BY, CC BY-SA, CC0 o dominio
   público), con autoría y licencia bajo la imagen y en los créditos finales
 
@@ -48,7 +52,7 @@ la guía usa las dos —cada una con su etiqueta, porque **no miden lo mismo**�
 ```mermaid
 flowchart LR
     A["13 especies grandes<br/>PARTES DE VIAJEROS"] --> A1["% que lo vio<br/>durante su estancia<br/>en el campamento"]
-    B["las otras 102<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
+    B["las otras 135<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
     A1 --> C["frecuente / escasa<br/>siempre con la muestra"]
     B1 --> C
     style A fill:#EDF1E4,stroke:#5F7043
@@ -94,7 +98,7 @@ táctica de la charca** *(motor apagado y tres cuartos de hora, que es lo que de
 ✅: 60 km/h, no bajar del coche fuera de los campamentos, no salirse de las pistas y estar dentro
 antes de que cierre la puerta.
 
-## El «dónde y cuándo», en 71 de las 115 fichas
+## El «dónde y cuándo», en 100 de las 148 fichas
 
 Charca por charca y con su fuente: **Okondeka** para el león, **Halali y Goas** para el leopardo,
 **Salvadora–Sueda–Charitsaub** para el guepardo, el **Dik-dik Drive** nada más entrar por Von
@@ -106,7 +110,7 @@ el crucero y el trío del nocturno en el nocturno. Las 14 del 10/08 llegaron tod
 del propio eje: la ardilla en el restaurante de Halali, el turdoide en su camping, el galápago
 cazando quéleas en Nuamses. Y las 13 del 11/08, con el suyo de su zona: el mular en el crucero,
 la rata dassie en las peñas de Twyfelfontein, el lagarto de nariz de cuña en la base de la duna
-por donde se camina.)* Las 44 fichas restantes **no llevan esa línea**: no apareció información
+por donde se camina. Y las 33 del 15/08, con 29 líneas sacadas de veintidós informes de viaje de octubre-noviembre leídos enteros —el autillo africano en su árbol de Halali, el halconcito dentro del pajar de Sesriem, el águila cafre en el alto de Spreetshoogte— y cuatro sin ella porque ningún informe las cita en la ruta: gato de patas negras, águila pomerana, aguilucho caricalvo y milano.)* Las 48 fichas restantes **no llevan esa línea**: no apareció información
 específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
 
 ### Y diez avisos que corrigen lo que dicen las webs de safaris
@@ -142,7 +146,9 @@ específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
   y ni Expert Africa ni ningún nocturno guiado —ni el de Okonjima/AfriCat, que sí trackea leopardo
   e hiena parda con collar— lo tiene como objetivo declarado. Extendido y estable según la
   evaluación namibia de 2022 *(NCE/LCMAN/MEFT, [Libro Rojo de carnívoros](http://web.archive.org/web/20240903054529/https://n-c-e.org/wp-content/uploads/Carnivore-Red-Data-Book-species-account-caracal.pdf))*,
-  pero verlo es puro premio: por eso se queda sin ficha, como la jineta o el lobo de tierra.
+  pero verlo es puro premio. **El 12/08 se quedó sin ficha por eso; desde el 15/08 la tiene**, con
+  la banda «Apenas registrada» que existe justo para este caso: la pregunta del viajero era «¿están
+  todos los felinos?», y la respuesta honesta es una ficha que dice lo poco que hay, no un hueco.
 - **El serval no toca esta ruta**: necesita agua permanente y vegetación densa, y su único hábitat
   namibio con densidad medida está en el Zambezi, a cientos de kilómetros de aquí — cero registros
   de GBIF en las cuatro zonas del eje, en toda su historia ✅ *(Edwards et al. 2018,
@@ -155,8 +161,11 @@ específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
   tan esquivo que de más de 790 registros de investigación con collar y cámara trampa dedicados,
   **solo uno** salió de una cámara trampa (IUCN, evaluación 2016/2020). 1 registro de GBIF en
   Etosha en toda su historia, 0 en oct-nov: ni la propia comunidad investigadora namibia lo
-  detecta más que por excepción — se queda sin ficha por el mismo motivo que el resto de esta
-  lista, no porque no esté.
+  detecta más que por excepción. **Desde el 15/08 tiene ficha, y es la única excepción consciente
+  a la regla del 09/08**: entra por petición expresa —son siete felinos en todo el país, se pueden
+  cubrir los seis que tocan la ruta— con la banda «Sin registros» bien visible, y su utilidad real
+  es otra: **que un gato pequeño y muy manchado en el nocturno no se apunte como gato montés** sin
+  mirar las patas anilladas.
 
 Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horarios de puerta calculados
 para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las tres charcas
@@ -167,16 +176,22 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ---
 
-## Las 115 especies
+## Las 148 especies
 
-### 🦁 Mamíferos (35)
+### 🐆 Felinos (6)
+
+- **León** — *Panthera leo* · Lion
+- **Leopardo** — *Panthera pardus* · Leopard
+- **Guepardo** — *Acinonyx jubatus* · Cheetah
+- **Caracal** — *Caracal caracal* · Caracal *(añadido el 15/08 — contra el criterio de los 10 registros del 12/08 y dicho a la cara: 3 registros en oct-nov en Etosha, banda «Apenas registrada»; entra porque son siete felinos en todo el país y se pueden cubrir los seis de la ruta)*
+- **Gato montés africano** — *Felis lybica* · African wildcat *(añadido el 08/08: objetivo del nocturno guiado)*
+- **Gato de patas negras** — *Felis nigripes* · Black-footed cat *(añadido el 15/08 por petición expresa, con la banda «Sin registros» — 0 en oct-nov, 1 en toda la historia del polígono: la única excepción consciente a la regla del 09/08, y va para no confundirlo con el gato montés en el nocturno)*
+
+### 🦁 Mamíferos (31)
 
 - **Elefante africano de sabana** — *Loxodonta africana* · African bush elephant
 - **Rinoceronte negro** — *Diceros bicornis* · Black rhinoceros
 - **Rinoceronte blanco** — *Ceratotherium simum* · White rhinoceros
-- **León** — *Panthera leo* · Lion
-- **Leopardo** — *Panthera pardus* · Leopard
-- **Guepardo** — *Acinonyx jubatus* · Cheetah
 - **Jirafa angoleña** — *Giraffa giraffa angolensis* · Angolan giraffe
 - **Cebra de Burchell** — *Equus quagga burchellii* · Burchell's zebra
 - **Órix o gemsbok** — *Oryx gazella* · Gemsbok
@@ -202,7 +217,6 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Mangosta rayada** — *Mungos mungo* · Banded mongoose *(añadida el 08/08: 400 registros GBIF
   en Etosha, 101 en oct–nov — el gran ausente que destapó la revisión)*
 - **Zorro del Cabo** — *Vulpes chama* · Cape fox *(añadido el 08/08: objetivo del nocturno guiado)*
-- **Gato montés africano** — *Felis lybica* · African wildcat *(añadido el 08/08: ídem)*
 - **Lobo de tierra** — *Proteles cristata* · Aardwolf *(añadido el 08/08: ídem — nocturno estricto,
   GBIF lo infrarregistra como a la liebre saltadora)*
 - **Babuino chacma** — *Papio ursinus* · Chacma baboon *(añadido el 08/08: es el «mono» real de
@@ -214,33 +228,70 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Mangosta esbelta** — *Galerella sanguinea* · Slender mongoose *(añadida el 10/08: la
   tercera mangosta diurna, fiable en el Dik-dik Drive — punta de cola negra)*
 
-### 🦅 Aves (48)
+### 🦅 Aves rapaces (40)
+
+- **Secretario** — *Sagittarius serpentarius* · Secretarybird
+- **Águila marcial** — *Polemaetus bellicosus* · Martial eagle
+- **Águila rapaz** — *Aquila rapax* · Tawny eagle *(añadida el 10/08: la gran águila más
+  registrada del eje —755 en oct-nov, por delante del bateleur y la marcial— y En Peligro en
+  Namibia: el hueco gordo que destapó el barrido completo)*
+- **Águila volatinera o bateleur** — *Terathopius ecaudatus* · Bateleur
+- **Águila cafre o de Verreaux** — *Aquila verreauxii* · Verreaux's eagle *(15/08: la de la roca — 80 registros en Damaraland, 5 en Etosha)*
+- **Águila azor africana** — *Aquila spilogaster* · African hawk-eagle *(15/08: 83 registros en oct-nov en Etosha)*
+- **Águila de Wahlberg** — *Hieraaetus wahlbergi* · Wahlberg's eagle *(15/08: 33 registros en oct-nov en Etosha)*
+- **Águila calzada** — *Hieraaetus pennatus* · Booted eagle *(15/08: la misma que cría en España — 22 registros, 17 de ellos de noviembre)*
+- **Águila pomerana** — *Clanga pomarina* · Lesser spotted eagle *(15/08: 11 registros en oct-nov en Etosha)*
+- **Culebrera pechinegra** — *Circaetus pectoralis* · Black-chested snake eagle *(15/08: 91 registros en oct-nov en Etosha)*
+- **Culebrera sombría** — *Circaetus cinereus* · Brown snake eagle *(15/08: 55 registros en oct-nov en Etosha)*
+- **Pigargo vocinglero** — *Icthyophaga vocifer* · African fish eagle
+- **Águila pescadora** — *Pandion haliaetus* · Osprey *(15/08: 17 registros en oct-nov en la costa)*
+- **Buitre dorsiblanco africano** — *Gyps africanus* · White-backed vulture
+- **Buitre orejudo** — *Torgos tracheliotos* · Lappet-faced vulture
+- **Buitre cabeciblanco** — *Trigonoceps occipitalis* · White-headed vulture *(15/08: En Peligro Crítico; 107 registros en oct-nov)*
+- **Azor lagartijero claro** — *Melierax canorus* · Pale chanting goshawk
+- **Gavilán gabar** — *Micronisus gabar* · Gabar goshawk *(15/08: 277 registros en oct-nov en Etosha)*
+- **Gavilán chikra** — *Accipiter badius* · Shikra (little banded goshawk) *(15/08: 13 registros en oct-nov en Etosha)*
+- **Aguilucho caricalvo común** — *Polyboroides typus* · African harrier-hawk (gymnogene) *(15/08: 21 registros en oct-nov en Etosha)*
+- **Aguilucho papialbo** — *Circus macrourus* · Pallid harrier *(15/08: 19 registros en oct-nov en Etosha)*
+- **Aguilucho cenizo** — *Circus pygargus* · Montagu's harrier *(15/08: 11 registros en oct-nov en Etosha)*
+- **Elanio común** — *Elanus caeruleus* · Black-winged (black-shouldered) kite *(15/08: 240 registros en oct-nov en Etosha)*
+- **Milano negro** — *Milvus migrans* · Black kite / yellow-billed kite *(15/08: 34 registros; el milano piquigualdo, que GBIF cuenta aparte con 8, va dentro de la misma ficha)*
+- **Busardo ratonero (ratonero estepario)** — *Buteo buteo* · Steppe buzzard *(15/08: el estepario, 52 en oct-nov y 0 de mayo a agosto — lo distingue la fecha)*
+- **Busardo augur** — *Buteo augur* · Augur buzzard *(15/08: 43 registros en oct-nov en Damaraland)*
+- **Busardo augur meridional** — *Buteo rufofuscus* · Jackal buzzard *(15/08: 10 registros en oct-nov en el Namib)*
+- **Cernícalo ojiblanco** — *Falco rupicoloides* · Greater kestrel *(añadido el 15/08: 642 registros en oct-nov — el halcón más registrado del parque, y nadie lo había echado en falta)*
+- **Cernícalo africano o roquero** — *Falco rupicolus* · Rock kestrel *(15/08: 112 en la costa, 107 en el Namib, 86 en Etosha)*
+- **Alcotán turumti** — *Falco chicquera* · Red-necked falcon *(15/08: 309 registros en oct-nov en Etosha)*
+- **Halcón borní** — *Falco biarmicus* · Lanner falcon *(15/08: 136 registros en oct-nov en Etosha)*
+- **Halcón peregrino** — *Falco peregrinus* · Peregrine falcon *(15/08: 22 registros en oct-nov en Etosha)*
+- **Halconcito africano** — *Polihierax semitorquatus* · Pygmy falcon *(15/08: la rapaz más pequeña de África, inquilina de los pajares del tejedor — la ficha del tejedor la citaba desde el 03/08 sin ficha propia; 104 registros en el Namib, 43 en Etosha)*
+- **Búho lácteo de Verreaux** — *Bubo lacteus* · Verreaux's eagle-owl
+- **Búho manchado** — *Bubo africanus* · Spotted eagle-owl *(15/08: 69 registros en oct-nov en Etosha)*
+- **Autillo africano** — *Otus senegalensis* · African scops owl *(15/08: 82 registros en oct-nov en Etosha)*
+- **Autillo cariblanco sureño** — *Ptilopsis granti* · Southern white-faced owl *(15/08: 65 registros en oct-nov en Etosha)*
+- **Mochuelo perlado** — *Glaucidium perlatum* · Pearl-spotted owlet *(15/08: 225 registros en oct-nov en Etosha)*
+- **Lechuza común** — *Tyto alba* · Barn owl *(15/08: 106 registros en oct-nov en Etosha)*
+- **Búho moro** — *Asio capensis* · Marsh owl *(15/08: 22 registros en oct-nov en Etosha)*
+
+### 🐦 Aves (39)
 
 - **Avestruz común** — *Struthio camelus* · Common ostrich
 - **Avutarda kori** — *Ardeotis kori* · Kori bustard
-- **Secretario** — *Sagittarius serpentarius* · Secretarybird
 - **Carraca lila** — *Coracias caudatus* · Lilac-breasted roller
 - **Cálao de pico amarillo sureño** — *Tockus leucomelas* · Southern yellow-billed hornbill
 - **Cálao de pico rojo sureño** — *Tockus rufirostris* · Southern red-billed hornbill
 - **Tejedor republicano** — *Philetairus socius* · Sociable weaver
-- **Águila marcial** — *Polemaetus bellicosus* · Martial eagle
-- **Buitre dorsiblanco africano** — *Gyps africanus* · White-backed vulture
 - **Flamenco enano** — *Phoeniconaias minor* · Lesser flamingo
 - **Grulla azul** — *Grus paradisea* · Blue crane
 - **Ganga namaqua** — *Pterocles namaqua* · Namaqua sandgrouse
 - **Sisón negro norteño** — *Afrotis afraoides* · Northern black korhaan
-- **Azor lagartijero claro** — *Melierax canorus* · Pale chanting goshawk
 - **Alcaudón de pecho carmesí** — *Laniarius atrococcineus* · Crimson-breasted shrike
-- **Búho lácteo de Verreaux** — *Bubo lacteus* · Verreaux's eagle-owl
 - **Abejaruco europeo** — *Merops apiaster* · European bee-eater *(el carmesí, que es el que
   anuncian las webs, tiene cero registros en el parque — ver el aviso de arriba; esta línea
   decía «abejaruco carmesí» por error hasta el 10/08)*
 - **Cigüeña de Abdim** — *Ciconia abdimii* · Abdim's stork
 - **Estornino brillante del Cabo** — *Lamprotornis nitens* · Cape starling
-- **Pigargo vocinglero** — *Icthyophaga vocifer* · African fish eagle
 - **Pelícano blanco común** — *Pelecanus onocrotalus* · Great white pelican
-- **Águila volatinera o bateleur** — *Terathopius ecaudatus* · Bateleur
-- **Buitre orejudo** — *Torgos tracheliotos* · Lappet-faced vulture
 - **Flamenco común** — *Phoenicopterus roseus* · Greater flamingo
 - **Cormorán del Cabo** — *Phalacrocorax capensis* · Cape cormorant
 - **Charrán damara** — *Sternula balaenarum* · Damara tern
@@ -249,9 +300,6 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
   6.334 registros GBIF en la costa — el ave más registrada de la laguna sin ficha)*
 - **Avoceta común** — *Recurvirostra avosetta* · Pied avocet *(añadida el 08/08: 3.944 en la costa)*
 - **Francolín de pico rojo** — *Pternistis adspersus* · Red-billed spurfowl
-- **Águila rapaz** — *Aquila rapax* · Tawny eagle *(añadida el 10/08: la gran águila más
-  registrada del eje —755 en oct-nov, por delante del bateleur y la marcial— y En Peligro en
-  Namibia: el hueco gordo que destapó el barrido completo)*
 - **Avefría armada** — *Vanellus armatus* · Blacksmith lapwing *(10/08: 2.010 en oct-nov, el
   borde de casi cualquier charca)*
 - **Drongo ahorquillado** — *Dicrurus adsimilis* · Fork-tailed drongo *(10/08: 1.623)*
@@ -363,9 +411,9 @@ desde `imprimir.py`, que es quien pone los números de página.
 
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
 imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
-que están las 157 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
-las páginas que deben y que los datos de avistamiento cubren las 115 especies.
+que están las 197 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
+las páginas que deben y que los datos de avistamiento cubren las 148 especies.
 
-*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son ~6,7 MB, y a cambio el PDF
+*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son ~9,3 MB, y a cambio el PDF
 se puede regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una
-búsqueda. · 10/08/2026*
+búsqueda. `avistamientos.py` es incremental desde el 15/08: solo baja lo que falte. · 15/08/2026*

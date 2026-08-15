@@ -36,6 +36,7 @@
 .intro p { margin: 0 0 1.4mm; } .intro p:last-child { margin: 0; }
 .intro.peligro { background: var(--rojo-bg); border-left-color: var(--rojo); }
 .fauna h2 { margin-top: 7mm; }
+.fauna .cabecera { break-inside: avoid; page-break-inside: avoid; column-span: all; }
 .guia-portada { position: relative; width: 100%; height: var(--caja-alto); overflow: hidden;
   page-break-after: always; background: #1D2B21; color: #F4EFE6; border-radius: 2mm;
   display: flex; flex-direction: column; justify-content: center; padding: 0 18mm;

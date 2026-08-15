@@ -1,5 +1,5 @@
-# Cuantos quedan. Solo las especies con una cifra publicada que se pueda citar: trece de
-# ciento quince. Para el resto de Etosha NO hay censo publico reciente por especie, y
+# Cuantos quedan. Solo las especies con una cifra publicada que se pueda citar: veintidos de
+# ciento cuarenta y ocho. Para el resto de Etosha NO hay censo publico reciente por especie, y
 # las cifras redondas que repiten las webs de safaris ("20.000 cebras, 7.000 nus") no
 # citan censo ninguno: no entran aqui. Investigado el 07/08/2026; ampliado el 10 y el 11/08.
 
@@ -50,9 +50,46 @@ CUANTOS = {
  "avutarda-namibia":
    "**En Peligro** (UICN 2024) ✅. Su gran amenaza son los tendidos eléctricos: la "
    "estimación publicada va de **4.000 a 11.900 muertes al año** por colisión ◐.",
+ # --- Ampliacion del 15/08: el estado de las rapaces amenazadas y del gato de patas negras ---
+ "buitre-dorsiblanco":
+   "**En Peligro Crítico** para la UICN (evaluación de 2021) ◐: el buitre común de la "
+   "sabana ha perdido más del 90 % en tres generaciones por venenos y cebos. Que sea el "
+   "más visible no quiere decir que vaya bien.",
+ "buitre-cabeciblanco":
+   "**En Peligro Crítico** (UICN, evaluación de 2017, reconfirmada en 2021) ◐. Con 107 "
+   "registros en oct-nov es, tras los dos buitres comunes, el más registrado del parque: "
+   "Etosha es de sus últimos refugios en el sur.",
+ "buitre-orejudo":
+   "**En Peligro** (UICN, evaluación de 2019) ◐, sobre todo por envenenamiento en cebos "
+   "puestos para depredadores.",
+ "aguila-marcial":
+   "**En Peligro** (UICN, evaluación de 2020) ◐: la mayor águila de África está en declive "
+   "en toda su área por electrocución y persecución; los parques grandes como Etosha son "
+   "los sitios donde todavía se ve.",
+ "bateleur":
+   "**En Peligro** (UICN, evaluación de 2020) ◐, tras décadas de veneno y pérdida de "
+   "hábitat fuera de los parques. Aquí sigue siendo de las águilas más registradas: 474 "
+   "en oct-nov.",
+ "secretario":
+   "**En Peligro** (UICN, evaluación de 2020) ◐: declive rápido en toda África por la "
+   "pérdida de llanura abierta. Etosha es un buen sitio: 440 registros en oct-nov.",
+ "aguilucho-papialbo":
+   "**Casi Amenazado** (UICN) ◐: cría en las estepas de Rusia y Kazajistán y viene a "
+   "pasar aquí el verano austral.",
+ "alcotan-turumti":
+   "**Casi Amenazado** (UICN, evaluación de 2025) ◐: la revisión más reciente de todo el "
+   "catálogo — la especie ha entrado en la lista de vigilancia este mismo año.",
+ "gato-patas-negras":
+   "**Vulnerable** (UICN) ✅. De más de 790 registros de investigación con collar y cámara "
+   "trampa en Etosha, uno solo salió de una cámara ✅.",
 }
 
 FUENTES_POBLACION = [
+  "<b>Categorías UICN de rapaces y felinos (añadidas el 15/08):</b> Lista Roja de la UICN, "
+  "leída a través de la infobox de Wikipedia EN —que cita la evaluación con su año— porque "
+  "la web de la Lista Roja no se deja leer sin JavaScript: por eso van con ◐ y no con ✅. "
+  "El gato de patas negras: Sliwa et al. 2016/2020 (UICN) y el Libro Rojo de carnívoros de "
+  "Namibia (NCE/LCMAN/MEFT 2022), ya citados en el <code>09</code>.",
   "<b>Elefante:</b> censo aéreo del MEFT de 2015 (2.911 ± 697) y serie desde 1998, "
   "recogidos en <i>Namibia's elephants — population, distribution and trends</i> "
   "(<i>Pachyderm</i>) y en el resumen de Conservation Namibia "

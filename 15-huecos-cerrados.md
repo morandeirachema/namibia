@@ -506,6 +506,67 @@ mes a mes, ◐)*:
   prohíbe. *(No está en el catálogo, así que este cero no se re-genera con `make avistam`: vive
   solo aquí, con su fecha.)*
 
+## 🦅 Rapaces y felinos: todos, y aparte — +33 fichas *(15/08/2026)*
+
+La pregunta del día fue directa: **¿están en la guía todas las rapaces y todos los felinos?**
+—que es lo que más interesa a quien viaja—. No estaban: la guía llevaba 9 rapaces y 4 felinos.
+Para responder sin adivinar se hizo la misma faceta de GBIF que en los barridos del 10 y el 11/08,
+pero **por grupo taxonómico entero** —órdenes Accipitriformes, Falconiformes y Strigiformes, y
+familia Felidae— sobre las cuatro zonas de la ruta, oct–nov: eso devuelve **todas** las especies
+del grupo con registro, no solo las que a uno se le ocurren. Salieron 47 accipitriformes, 12
+falcónidos, 9 estrigiformes y 6 félidos con al menos un registro. El criterio para tener ficha es
+el del propio método: **≥10 registros en oct–nov en alguna zona** *(bases: Etosha 69.600 ave /
+4.529 mamífero; costa 46.876; Namib 10.659; Damaraland 10.069)*. La guía sube a **148 fichas /
+197 imágenes**, y desde hoy los felinos y las rapaces **van en sus propias secciones**, delante
+de mamíferos y aves, para encontrarlos de un vistazo.
+
+**Las 31 rapaces nuevas** *(registros oct–nov en su mejor zona)*: cernícalo ojiblanco *(642 en
+Etosha — el halcón más registrado del parque y nadie lo había echado en falta)*, alcotán turumti
+*(309)*, gavilán gabar *(277)*, elanio común *(240)*, mochuelo perlado *(225)*, halcón borní
+*(136)*, cernícalo africano o roquero *(112 en la costa, 107 en el Namib, 86 en Etosha)*, buitre
+cabeciblanco *(107 — En Peligro Crítico)*, lechuza común *(106)*, halconcito africano *(104 en el
+Namib — el inquilino del tejedor que la ficha del tejedor citaba desde el 03/08)*, culebrera
+pechinegra *(91)*, águila azor africana *(83)*, autillo africano *(82)*, águila cafre *(80 en
+Damaraland)*, búho manchado *(69)*, autillo cariblanco sureño *(65)*, culebrera sombría *(55)*,
+busardo ratonero estepario *(52)*, busardo augur *(43 en Damaraland)*, milano negro *(34 — con el
+piquigualdo, 8, dentro de la misma ficha)*, águila de Wahlberg *(33)*, águila calzada *(22 — la
+misma que cría en España)*, búho moro *(22)*, halcón peregrino *(22)*, aguilucho caricalvo
+*(21)*, aguilucho papialbo *(19)*, águila pescadora *(17 en la costa)*, gavilán chikra *(13)*,
+aguilucho cenizo *(11)*, águila pomerana *(11)* y busardo augur meridional *(10 en el Namib)*.
+Cada una con su foto mirada antes de fijarla —la hoja de contacto de *Ptilopsis granti* traía
+cinco fotos de Kgalagadi que eran búhos lácteos jóvenes mal etiquetados: por eso se mira— y con
+nombre en castellano de la Wikipedia ES (lista SEO), no calcado del inglés.
+
+**Y dos felinos, uno de ellos contra el criterio y dicho a la cara**: el **caracal** *(3
+registros en oct–nov en Etosha, 11 en toda la historia del polígono; el 12/08 se había dejado
+fuera por eso mismo)* entra con la banda «Apenas registrada», que existe justo para esto; y el
+**gato de patas negras** *(0 en oct–nov, 1 en toda la historia)* entra con la banda «Sin
+registros» **por petición expresa: son siete felinos en todo el país, se pueden cubrir los seis
+que tocan la ruta, y la ficha sirve para no confundirlo con el gato montés en el nocturno**. Es la
+única excepción consciente a la regla del 09/08 *(«sin avistamientos, sin ficha»)* y va escrita
+en la intro de la sección y en el `09`. El **serval** sigue fuera: cero registros en las cuatro
+zonas, en toda su historia.
+
+**Quedaron fuera con su dato** *(oct–nov, Etosha salvo que se diga)*: azor lagartijero oscuro
+*(9 — se cita como confusión en la ficha del claro)*, gavilán ovambo *(8)*, búho del Cabo *(7)*,
+buitre del Cabo *(6)*, cernícalo primilla *(5 — sus 87 registros del polígono son de diciembre en
+adelante: 55 en diciembre)*, águila esteparia *(4)*, mochuelo de El Cabo *(4)*, cernícalo
+patirrojo *(3)*, alimoche *(3)*, buitre encapuchado *(2)*, azor lagartijero somalí *(0 en oct–nov,
+7 en total — probablemente confusiones)*, y el **halcón del Amur** *(2 en oct–nov de 71: 1 en
+noviembre, 9 en diciembre, 34 en marzo — sus bandadas pasan justo después del viaje)*. Todos
+nombrados en la intro de la sección de rapaces para que nadie los eche en falta.
+
+**Tres cosas de método que salieron de paso**: (1) `avistamientos.py` gana un modo incremental —
+`completa()`— que resuelve y cuenta solo las especies nuevas del catálogo sin rehacer las 115
+anteriores ni volver a raspar Expert Africa, dejando los denominadores por clase y zona como
+estaban *(así todas las fichas comparten la misma foto de GBIF)*; (2) GBIF reparte el buitre
+orejudo entre **dos claves** *(Torgos tracheliotos 337/1.119 y T. tracheliotus 80/572 en Etosha)*:
+la ficha cuenta la primera y por tanto se queda corta, y se anota aquí en vez de sumar a mano;
+(3) los meses de los migrantes en el polígono de Etosha, que ahora sostienen el «mirad la fecha»
+de la intro: ratonero estepario 45 en nov y 44 en dic *(0 de mayo a agosto)*, aguilucho papialbo
+16 en nov, cenizo 10, pomerana 8, calzada 17, Wahlberg 14–18 de septiembre a noviembre *(llega a
+criar)*, milano negro 30 en nov y piquigualdo 48 en dic *(llegan con las lluvias)*.
+
 ## 🧳 Franquicia de equipaje — cerrada ✅ *(07/08/2026)*
 
 Era uno de los huecos del README *(«tres aerolíneas en la vuelta»)* y se cierra con fuente

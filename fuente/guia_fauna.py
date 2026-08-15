@@ -42,6 +42,9 @@ def metodo():
     et = d.get("zonas", {}).get("etosha", {}).get("por_clase", {})
     mam = comun.mil(et.get("359", {}).get("oct_nov", 0))
     aves = comun.mil(et.get("212", {}).get("oct_nov", 0))
+    slugs = [s for _, _, l in catalogo.GRUPOS_FAUNA for s, *_ in l]
+    con_partes = comun.en_letras(sum(1 for s in slugs if avistamientos.porcentajes(s)))
+    sin_partes = comun.en_letras(sum(1 for s in slugs if not avistamientos.porcentajes(s)))
     return f"""
   <p><strong>La línea de arriba de cada ficha dice qué posibilidades hay.</strong> Cuando
   pone <em>«82&nbsp;% lo vio»</em> es literal: viajeros que declararon <strong>una o más
@@ -51,7 +54,7 @@ def metodo():
   duerme en los tres <em>(Okaukuejo 1 noche, Halali 1, Namutoni 2)</em> son <strong>tres
   tiradas</strong>: en las cuatro noches la posibilidad real es más alta que cualquiera de
   estos números. Cuánto más, no lo dicen estos datos, así que no se dice.</p>
-  <p>Eso solo existe para trece especies. Para las otras ciento dos va un
+  <p>Eso solo existe para {con_partes} especies. Para las otras {sin_partes} va un
   <strong>índice de registros de GBIF</strong>: cuánto pesa la especie dentro de los
   registros de su grupo en la zona <strong>en octubre y noviembre</strong> —{mam} de
   mamífero y {aves} de ave solo en Etosha—. Mide <em>lo que se registra</em>, no <em>lo
@@ -90,9 +93,41 @@ def portadilla():
 
 
 INTROS = {
-    "mamifero": "<p>Treinta y cinco fichas, de lo que se ve en todas las charcas a lo que "
-                "hay que tener suerte para cruzarse. <strong>El orden no es alfabético: "
-                "es el de siempre</strong> — primero los grandes.</p>",
+    "felino": "<p><strong>Namibia tiene siete felinos y aquí van seis</strong> — el séptimo, el "
+              "serval, no toca esta ruta: cero registros en las cuatro zonas. Los tres grandes "
+              "llevan el porcentaje de viajeros que los vio; los tres pequeños son nocturnos y la "
+              "banda dice lo que hay. El <strong>gato de patas negras</strong> va con un solo "
+              "registro en toda la historia del polígono: está para saber distinguirlo del gato "
+              "montés en el nocturno, no porque contéis con verlo.</p>",
+    "mamifero": "<p>Treinta y una fichas, de lo que se ve en todas las charcas a lo que "
+                "hay que tener suerte para cruzarse — los felinos van aparte, justo antes. "
+                "<strong>El orden no es alfabético: es el de siempre</strong> — primero los "
+                "grandes.</p>",
+    "rapaz": "<p><strong>Cuarenta rapaces, diurnas y nocturnas, y el criterio es el del "
+             "método:</strong> entra toda la que GBIF registra <strong>diez veces o más en "
+             "octubre-noviembre en alguna zona de la ruta</strong>. Las que se quedan por "
+             "debajo, para que no las echéis en falta: azor lagartijero oscuro (9, en el "
+             "este de Etosha), gavilán ovambo (8), búho del Cabo (7), buitre del Cabo (6, su "
+             "casa es Waterberg), cernícalo primilla (5), águila esteparia (4), mochuelo de "
+             "El Cabo (4), cernícalo patirrojo (3), alimoche (3), buitre encapuchado (2) y el "
+             "<strong>halcón del Amur</strong> (2): sus bandadas llegan a Etosha en diciembre y "
+             "el grueso pasa en febrero-marzo <em>(1 registro en noviembre, 9 en diciembre, "
+             "34 en marzo)</em> — justo después de vosotros.</p>"
+             "<p><strong>Cómo se separan, en corto:</strong> las <strong>águilas</strong> "
+             "grandes por la silueta y el pecho (marcial: capucha y pecho blanco moteado; "
+             "rapaz: parda lisa; cafre: negra con V blanca, solo en roca; bateleur: sin cola); "
+             "las <strong>culebreras</strong> por los ojos amarillos enormes y las patas "
+             "desnudas; los <strong>buitres</strong> por la cabeza (dorsiblanco: negra y "
+             "delgada, en piña; orejudo: rosada y enorme; cabeciblanco: blanca, solitario); los "
+             "<strong>azores y gavilanes</strong> por las patas rojas o amarillas y el "
+             "obispillo; los <strong>aguiluchos</strong> por el vuelo bajo y bamboleante; los "
+             "<strong>halcones</strong> por las alas puntiagudas y el vuelo directo; los "
+             "<strong>búhos</strong> por el ojo (amarillo, naranja u oscuro) y el tamaño. "
+             "<strong>Y mirad la fecha:</strong> el ratonero, los aguiluchos, la calzada y la "
+             "pomerana son europeos que llegan en octubre-noviembre <em>(en Etosha sus "
+             "registros arrancan en noviembre)</em>; la de Wahlberg es africana y llega en "
+             "agosto-septiembre a criar; los milanos llegan con las lluvias, de noviembre en "
+             "adelante.</p>",
     "ave": "<p>Con el coche parado en una charca, las aves llenan las esperas. Estas son las "
            "que <strong>se ven sin ser ornitólogo</strong>: grandes, ruidosas o de color "
            "imposible.</p>",
@@ -186,8 +221,10 @@ def secciones():
     for clave, nombre, lista in catalogo.GRUPOS_FAUNA:
         fichas = "".join(ficha(s, es, en, sci) for s, es, en, sci, _f in lista)
         peligro = " peligro" if clave in PELIGRO else ""
-        out.append(f'<h2>{nombre}<span class="cuenta">{len(lista)} especies</span></h2>'
-                   f'<div class="intro{peligro}">{marca_texto(INTROS.get(clave, ""))}</div>'
+        # titulo e intro juntos en una caja que no se parte: si no, el titulo se queda
+        # huerfano al pie de una pagina y la intro arranca en la siguiente
+        out.append(f'<div class="cabecera"><h2>{nombre}<span class="cuenta">{len(lista)} especies</span></h2>'
+                   f'<div class="intro{peligro}">{marca_texto(INTROS.get(clave, ""))}</div></div>'
                    f'<div class="rejilla">{fichas}</div>')
     return "".join(out)
 
@@ -199,7 +236,7 @@ def total():
 def remite_desde_dossier(ancla=""):
     """El dossier NO lleva las fichas dentro: solo remite a la guia suelta.
 
-    Meter las 115 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
+    Meter las 148 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
     varios megas, y duplicaba un documento que ya existe aparte y que ademas se imprime
     solo para llevarlo en la guantera. Aqui queda el enlace y el resumen de lo que hay.
     """
