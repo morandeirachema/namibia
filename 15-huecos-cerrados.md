@@ -256,6 +256,20 @@ alta CONSERVADORA, no un dato cerrado para los tres parques ○:**
   titular «Namibia raises park fees by 80 to 100 percent». **No se pudo abrir NINGUNA fuente para
   confirmar en qué tramo cae cada parque**: MEFT (`news/199`), NWR, namibian.org, safarifind y el
   blog de TravelComments devuelven todos egress/403 aquí.
+- 🆕 **15/08/2026 — el reparto premium/estándar aflora en los fragmentos, y coloca a Skeleton
+  Coast en premium.** Dos búsquedas independientes (WebSearch, **de nuevo síntesis de fragmentos —
+  ni una página se dejó descargar: MEFT, NWR, namibian.org, economist.com.na, safarifind,
+  gettransfer, el blog de TravelComments y etoshanationalpark.com.na devuelven todos egress/403
+  aquí**) coinciden en la MISMA lista de parques «premium» a **N$280**: *«premium parks such as
+  Etosha National Park, Namib-Naukluft (excluding Sandwich Harbour), Skeleton Coast, and Waterberg
+  Plateau»*, con los **estándar a N$200** (de N$100). Es decir: **los tres parques con noche de
+  esta ruta —Namib-Naukluft (Sesriem), Skeleton Coast (Terrace Bay) y Etosha— caen los tres en
+  premium N$280**, así que las 7 unidades del presupuesto NO están infladas por este lado. **Sigue
+  en ◐/○, no en ✅**: es evidencia de fragmento convergente, sin una sola fuente abierta para
+  verificar la extracción, y el PDF primario del MEFT sigue en 403 — confírmese por email. *(Antes
+  se marcaba Skeleton Coast como «la unidad menos segura, podría ser estándar»; el riesgo a la baja
+  por ese lado queda descartado — no por el otro: el tránsito self-drive Ugabmund–Springbokwasser
+  sigue registrado GRATIS en `11`, distinto de la conservación de Terrace Bay.)*
 - 🆕 **14/08/2026 — una secundaria legible al fin, con la tabla fina entera.** La
   [guía de tarifas de mat-travel](https://mat-travel.com/namibia/etosha/entry-fees/) ◐ publica
   para Etosha exactamente este baremo —N$280 (~€14) internacional, SADC N$180 (~€9), namibio
@@ -266,10 +280,11 @@ alta CONSERVADORA, no un dato cerrado para los tres parques ○:**
   razón más para confirmarlo en recepción. Del reparto premium/estándar de los otros parques no
   dice nada.
 - **Namib-Naukluft**: banda emblemática histórica (N$150) → muy probablemente premium N$280.
-- **Skeleton Coast — la unidad MENOS segura**: podría ser tramo estándar (~N$200); y `11` registra
-  que el **permiso de tránsito self-drive Ugabmund–Springbokwasser es GRATIS** ◐ (distinto de la
-  conservación de Terrace Bay). **El riesgo va a la BAJA**: si no es premium o el tránsito no se
-  cobra, la cifra sobra — el presupuesto queda holgado, no corto.
+- **Skeleton Coast**: los fragmentos convergentes del **15/08 (arriba) la sitúan en premium N$280**,
+  así que ya no es «la unidad menos segura» por precio de parque ◐/○. Donde sí queda margen a la baja:
+  `11` registra que el **permiso de tránsito self-drive Ugabmund–Springbokwasser es GRATIS** ◐
+  (distinto de la conservación de Terrace Bay); si ese tránsito no se cobra aparte, la cifra sobra —
+  el presupuesto queda holgado, no corto.
 
 > ⚠️ **Por qué esto sigue en ◐ y no en ✅:** la gaceta está localizada y las secundarias concuerdan,
 > pero **el PDF primario del MEFT no se ha podido abrir** para verificar la tabla fina, ni el reparto
@@ -623,9 +638,12 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   resort *(ioverlander + relatos de viajeros ◐/○)*, pero se secó en 2025 y NWR no lo publicita:
   **la regla operativa de `07`/`08` es tratarlo como que NO hay** — llena en Henties Bay y entra
   con autonomía para salir. Sigue sin cerrar si hay diésel en el bucle Ugabmund–Springbokwasser.
-- 🎫 **La tabla fina de tasas del MEFT**: el PDF primario sigue sin abrirse — y con él, **el
-  reparto premium (N$280) vs estándar (~N$200) por parque** *(añadido 12/08: la subida parece de dos
-  tramos; Skeleton Coast podría no ser premium — ver §Tasas arriba)*.
+- 🎫 **La tabla fina de tasas del MEFT**: el PDF primario sigue sin abrirse — pero el **reparto
+  premium (N$280) vs estándar (~N$200) por parque** quedó resuelto a nivel de fragmento el **15/08
+  (◐/○, ver §Tasas arriba)**: la lista premium repetida por dos búsquedas independientes incluye
+  Etosha, Namib-Naukluft (excl. Sandwich Harbour), **Skeleton Coast** y Waterberg — **los tres
+  parques de esta ruta son premium N$280**. Falta sólo abrir el PDF primario para confirmar la
+  extracción; el presupuesto no se mueve *(ya contaba N$280)*.
 - 🚧 **Obras Okaukuejo–Halali — ACTUALIZADO 03/08 (◐, antes «hay que llamar»)**: ya hay **nota
   oficial de 2026** —MEFT `news/335` «Traffic deviation via Gemsbokvlakte road from Okaukuejo to
   Halali», con aviso paralelo de NWR— que fija un **desvío obligatorio del 2 jun 2026 al jul 2027**,
