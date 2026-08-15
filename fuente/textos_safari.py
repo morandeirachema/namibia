@@ -113,7 +113,8 @@ parque: la jirafa abriéndose de patas para beber llega sola.</li>
 las botas cada mañana</strong> ○, <strong>mira dónde pisas al anochecer</strong> —la pista
 tibia es donde se ponen las serpientes—, <strong>linterna para ir al baño</strong>, y si te
 encuentras una, <strong>quieto y hacia atrás</strong>: casi todas las mordeduras pasan al
-intentar matarla o cogerla.</p>
+intentar matarla o cogerla. El protocolo entero de la picadura de escorpión —qué hacer, qué no,
+cuándo correr al hospital y cuál— es el documento <code>22</code> del dossier.</p>
 <p>Y el orden real de peligro no es el que uno se imagina: el animal más peligroso de la
 ruta es el <strong>mosquito</strong>, y el segundo, el <strong>kudú cruzando la carretera al
 anochecer</strong>. El león no está en la lista.</p>

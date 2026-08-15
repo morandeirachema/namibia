@@ -251,7 +251,7 @@ ya hace el apaño.
       la picadura de *Parabuthus*, el escorpión grande de la ruta: frío local, más eficaz en las
       2 primeras horas *([CMEJ](http://www.cmej.org.za/index.php/cmej/article/view/2545/2580))* —
       y en una parcela no hay congelador. Los teléfonos toxicológicos, con los de emergencia
-      de `07`
+      de `07`; el protocolo entero de la picadura, en el `22`
 - [ ] **Mascarilla de barrera para RCP ×1** ○ — pesa nada; la lista el protocolo de mordedura del
       [African Snakebite Institute](https://www.africansnakebiteinstitute.com/articles/first-aid-for-snakebite-2/)
 - [ ] **Crema para picaduras** ×1 y **corticoide suave** ×1 ○

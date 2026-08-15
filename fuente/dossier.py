@@ -22,7 +22,7 @@ import mapa                                                        # noqa: E402
 import trazado                                                     # noqa: E402
 from comun import RAIZ, marca_texto, md                            # noqa: E402
 
-FECHA = "14 de agosto de 2026"
+FECHA = "15 de agosto de 2026"
 
 # ---------------------------------------------------------------------------
 # Estructura del volumen
@@ -149,6 +149,8 @@ RESUMEN = {
           "el orden en que se cierran y lo que se deja para recepción.",
     "21": "Okaukuejo, Halali y Namutoni por dentro: la parcela, la charca y los servicios "
           "de cada uno, con los avisos de los viajeros recientes.",
+    "22": "Si te pica un escorpión: quién es quién, qué va a pasar, qué hacer y qué no, a "
+          "quién llamar y adónde ir — etapa a etapa.",
 }
 
 
@@ -161,10 +163,10 @@ def miles(n, sufijo=" km"):
 # equipaje (`17`) se escribio la ultima pero se lee pegada al `05`, que es de lo que
 # sale; el manual de campamento (`18`) va pegado al `06`, porque el dia de ruta se lee
 # del tiron: conducir y acampar; los campamentos de Etosha (`21`) van pegados al `18`,
-# que es su manual de uso; y la cultura (`19`) pegada al `08`, que ya lleva la mesa y
-# los mercados.
+# que es su manual de uso; la picadura de escorpion (`22`) detras del `21`, porque es del
+# campamento; y la cultura (`19`) pegada al `08`, que ya lleva la mesa y los mercados.
 # Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
-ORDEN = {"20": "04a", "17": "05a", "18": "06a", "21": "06b", "19": "08a"}
+ORDEN = {"20": "04a", "17": "05a", "18": "06a", "21": "06b", "22": "06c", "19": "08a"}
 
 
 def documentos():
