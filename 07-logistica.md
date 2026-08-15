@@ -413,10 +413,13 @@ accidente de tráfico **sin importar nacionalidad ni culpa**.
 
 🦂 **Toxicología (mordedura o picadura) — médicos, gratuito y namibio** ◐: el **Namibian Snakebite
 Interest Group** — Dr. Christo Buys **+264 81 127 5109** · Dra. Esta Saaiman **+264 81 288 9157**
-*([scorpions.co.za/helplines](https://scorpions.co.za/helplines/))*. ⚠️ El «Poison Information
-Helpline 0861 555 777» que repiten las guías es **marcación nacional sudafricana: no sirve desde
-Namibia**. El primer auxilio de cada bicho está en la guía de fauna; la compresa fría y la venda
-del caso, en el botiquín del [`17`](17-lista-de-equipaje.md).
+*([scorpions.co.za/helplines](https://scorpions.co.za/helplines/); el del Dr. Buys, listado en 2026
+por el [African Snakebite Institute](https://www.africansnakebiteinstitute.com/snakebite/) ✅)*.
+⚠️ El «Poison Information Helpline 0861 555 777» que repiten las guías es **marcación nacional
+sudafricana: no sirve desde Namibia** — en formato internacional es **+27 861 555 777** ✅
+*([AfriTox](https://www.afritox.co.za/), 24 h)*. El protocolo entero de la picadura de escorpión —qué
+hacer, qué no, cuándo correr al hospital y cuál— es el [`22`](22-picadura-de-escorpion.md); la
+compresa fría y la venda del caso, en el botiquín del [`17`](17-lista-de-equipaje.md).
 
 🇪🇸 Y el de los papeles: **Embajada de España en Windhoek** — emergencia consular 24/7
 **+264 85 128 0571** · centralita +264 61 22 30 66 ◐ *(datos y fuentes, en `04`)*. Pasaporte

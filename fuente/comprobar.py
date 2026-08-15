@@ -92,7 +92,7 @@ def revisa_geo():
 # la mano — cada N$ suyo es dinero que se va a pagar.
 SOBRE_EL_TERRENO = ("01-itinerarios-dia-a-dia.md", "03-alojamiento-y-tasas.md",
                     "13-itinerario.md", "18-manual-de-campamento.md", "20-reservas.md",
-                    "21-campamentos-de-etosha.md")
+                    "21-campamentos-de-etosha.md", "22-picadura-de-escorpion.md")
 
 RE_NAD = re.compile(r"(?<![+\-±])N\$\s?([\d][\d.,]*)")
 

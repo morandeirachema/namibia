@@ -171,8 +171,10 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 - **Babuino chacma** en miradores y áreas de descanso ○: ventanillas arriba si te alejas del
   coche con comida dentro a la vista. *(Es el «mono» de esta ruta — ficha en la guía; el vervet
   ni aparece: sin un solo registro en la consulta GBIF del 08/08, archivada en `15`.)*
-- **Escorpión y serpientes**: el protocolo entero está en la [guía de fauna](guia-fauna-etosha.pdf)
-  y cabe en una línea — **botas sacudidas, linterna al baño, mirar dónde pisas al anochecer** ○.
+- **Escorpión y serpientes**: la prevención cabe en una línea — **botas sacudidas, linterna al
+  baño, mirar dónde pisas al anochecer** ○ —; el protocolo entero de la picadura, con el hospital
+  etapa a etapa, es el [`22`](22-picadura-de-escorpion.md), y las fichas de los bichos, la
+  [guía de fauna](guia-fauna-etosha.pdf).
 - **Mosquito al anochecer**: manga larga y repelente desde el crepúsculo ✅ — Etosha es zona de
   malaria y la profilaxis está en el [`04`](04-guia-preparacion.md).
 - **Y los buenos vecinos**: el cálao vigilando el desayuno, el francolín que os despertará sin
