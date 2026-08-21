@@ -276,6 +276,7 @@ def envoltorio(ancho, alto, cuerpo, fondo=None):
 # mejor y mas rapido que cualquier algoritmo de reparto.
 ROTULOS_RUTA = {
     "windhoek":        (9, 4, "start"),
+    "aeropuerto":      (7, -6, "start"),
     "okahandja":       (8, 3, "start"),
     "otjiwarongo":     (8, 3, "start"),
     "tsumeb":          (8, 3, "start"),
@@ -303,7 +304,7 @@ ROTULOS_RUTA = {
     "lindequist":      (2, 15, "start"),
 }
 
-EN_MAPA_RUTA = ["windhoek", "okahandja", "otjiwarongo", "tsumeb", "outjo", "rehoboth",
+EN_MAPA_RUTA = ["windhoek", "aeropuerto", "okahandja", "otjiwarongo", "tsumeb", "outjo", "rehoboth",
                 "spreetshoogte", "solitaire", "sesriem", "sossusvlei", "walvisbay",
                 "swakopmund", "hentiesbay", "capecross", "ugabmund", "terracebay",
                 "springbokwasser", "twyfelfontein", "hoada", "kamanjab", "andersson",
@@ -415,7 +416,7 @@ def mapa_ruta(ancho=1000):
     ln = [f'<rect x="{lx - 12}" y="{ly - 26}" width="290" height="{34 + 21 * len(BLOQUES_LEYENDA)}" '
           f'rx="6" fill="{C["papel"]}" opacity=".93" stroke="{C["borde"]}" stroke-width=".8"/>',
           f'<text x="{lx}" y="{ly - 8}" font-size="12.5" font-weight="800" fill="{C["tinta"]}">'
-          f'~{total:.0f} km en 15 días</text>']
+          f'~{total:,.0f}'.replace(",", ".") + ' km en 15 días</text>']
     for i, (bloque, nombre, dias) in enumerate(BLOQUES_LEYENDA):
         y0 = ly + 14 + i * 21
         ln.append(f'<line x1="{lx}" y1="{y0}" x2="{lx + 26}" y2="{y0}" '
@@ -582,10 +583,10 @@ def mapa_etosha(ancho=1000):
     for clave, dx, dy, anc, txt in [
             ("okaukuejo", 0, -16, "middle", "OKAUKUEJO · D9"),
             ("halali", 0, -16, "middle", "HALALI · D10"),
-            ("namutoni", -8, -14, "end", "NAMUTONI · D11"),
+            ("namutoni", -40, -6, "end", "NAMUTONI · D11"),
             ("onguma", 12, -4, "start", "ONGUMA · D12"),
             ("andersson", -9, 4, "end", "Puerta de Andersson"),
-            ("lindequist", -2, 26, "end", "Von Lindequist"),
+            ("lindequist", 11, 22, "start", "Von Lindequist"),
     ]:
         cuerpo.append(punto(L, clave, txt, dx, dy, anc, tam=11.5))
 
@@ -617,7 +618,9 @@ def mapa_etosha(ancho=1000):
         ln.append(f'<text x="{lx + 22}" y="{y0}" font-size="9.2" fill="{C["tinta"]}">{esc(txt)}</text>')
     cuerpo.append("".join(ln))
 
-    cuerpo.append(escala(L, L.ancho - 305, L.alto - 42, 50))
+    # La barra de 50 km mide ~450 px a esta escala: se coloca midiendola, no a ojo
+    # (con el offset fijo de antes se salia del lienzo y quedaba cortada).
+    cuerpo.append(escala(L, L.ancho - 50 / L.km_por_unidad() - 46, L.alto - 42, 50))
     cuerpo.append(norte(L.ancho - 42, 42))
     cuerpo.append(f'<text x="{L.ancho - 14}" y="{L.alto - 10}" text-anchor="end" font-size="7.4" '
                   f'fill="{C["tinta3"]}">Charcas, pistas y límites: OpenStreetMap (ODbL) · '
