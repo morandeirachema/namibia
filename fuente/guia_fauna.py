@@ -51,9 +51,9 @@ def metodo():
   observaciones durante su estancia en el campamento</strong> (partes de Expert Africa —
   {trozos}). <strong>La unidad es la estancia, no el día ni el viaje</strong>: una o dos
   noches. La cifra grande junta los tres campamentos y detrás va cada uno. Y como aquí se
-  duerme en los tres <em>(Okaukuejo 1 noche, Halali 1, Namutoni 2)</em> son <strong>tres
-  tiradas</strong>: en las cuatro noches la posibilidad real es más alta que cualquiera de
-  estos números. Cuánto más, no lo dicen estos datos, así que no se dice.</p>
+  duerme en los tres <em>(una noche en cada uno; la cuarta, en Onguma, ya fuera de la
+  puerta)</em> son <strong>tres tiradas</strong>: en las cuatro noches la posibilidad real es más
+  alta que cualquiera de estos números. Cuánto más, no lo dicen estos datos, así que no se dice.</p>
   <p>Eso solo existe para {con_partes} especies. Para las otras {sin_partes} va un
   <strong>índice de registros de GBIF</strong>: cuánto pesa la especie dentro de los
   registros de su grupo en la zona <strong>en octubre y noviembre</strong> —{mam} de
@@ -284,9 +284,9 @@ def html_suelto():
   <h1>Fauna del viaje</h1>
   <h2>Guía de campo · {total()} especies de toda la ruta</h2>
   <div class="datos">{cuentas}<br>
-    Cuatro noches <b>dentro del parque</b><br>
+    Cuatro noches en Etosha · tres <b>dentro del parque</b><br>
     <b>Okaukuejo</b> · 9 nov &nbsp;—&nbsp; <b>Halali</b> · 10 nov &nbsp;—&nbsp;
-    <b>Namutoni</b> · 11 y 12 nov<br>
+    <b>Namutoni</b> · 11 nov &nbsp;—&nbsp; <b>Onguma</b> · 12 nov<br>
     Final de la estación seca: la fauna, concentrada en las charcas</div>
   <div class="pie">Fotografías de Wikimedia Commons, todas con licencia libre:<br>
   autoría y licencia bajo cada foto y en los créditos del final.<br>

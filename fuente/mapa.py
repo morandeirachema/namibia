@@ -298,15 +298,16 @@ ROTULOS_RUTA = {
     "andersson":       (-8, 2, "end"),
     "okaukuejo":       (-9, 4, "end"),
     "halali":          (0, -10, "middle"),
-    "namutoni":        (2, -12, "middle"),
-    "lindequist":      (10, 4, "start"),
+    "namutoni":        (-9, -6, "end"),
+    "onguma":          (10, 3, "start"),
+    "lindequist":      (2, 15, "start"),
 }
 
 EN_MAPA_RUTA = ["windhoek", "okahandja", "otjiwarongo", "tsumeb", "outjo", "rehoboth",
                 "spreetshoogte", "solitaire", "sesriem", "sossusvlei", "walvisbay",
                 "swakopmund", "hentiesbay", "capecross", "ugabmund", "terracebay",
                 "springbokwasser", "twyfelfontein", "hoada", "kamanjab", "andersson",
-                "okaukuejo", "halali", "namutoni", "lindequist"]
+                "okaukuejo", "halali", "namutoni", "lindequist", "onguma"]
 
 TEXTO_ROTULO = {
     "sossusvlei": "Sossusvlei · Deadvlei",
@@ -316,7 +317,8 @@ TEXTO_ROTULO = {
     "hoada": "Hoada  D8",
     "okaukuejo": "Okaukuejo  D9",
     "halali": "Halali  D10",
-    "namutoni": "Namutoni  D11·D12",
+    "namutoni": "Namutoni  D11",
+    "onguma": "Onguma Tamboti  D12",
     "spreetshoogte": "Spreetshoogte  D1·D2",
     "windhoek": "WINDHOEK  D0·D13",
     "ugabmund": "Ugabmund",
@@ -580,9 +582,10 @@ def mapa_etosha(ancho=1000):
     for clave, dx, dy, anc, txt in [
             ("okaukuejo", 0, -16, "middle", "OKAUKUEJO · D9"),
             ("halali", 0, -16, "middle", "HALALI · D10"),
-            ("namutoni", 0, -19, "middle", "NAMUTONI · D11 y D12"),
+            ("namutoni", -8, -14, "end", "NAMUTONI · D11"),
+            ("onguma", 12, -4, "start", "ONGUMA · D12"),
             ("andersson", -9, 4, "end", "Puerta de Andersson"),
-            ("lindequist", 11, 15, "start", "Von Lindequist"),
+            ("lindequist", -2, 26, "end", "Von Lindequist"),
     ]:
         cuerpo.append(punto(L, clave, txt, dx, dy, anc, tam=11.5))
 

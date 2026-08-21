@@ -10,9 +10,9 @@
 **30 de octubre – 15 de noviembre de 2026**
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
-[![cuenta atrás](https://img.shields.io/badge/faltan-76_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
-[![reservas](https://img.shields.io/badge/reservas-0_de_6-9d0208?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
-[![presupuesto](https://img.shields.io/badge/€3.982-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
+[![cuenta atrás](https://img.shields.io/badge/faltan-70_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
+[![reservas](https://img.shields.io/badge/reservas-4_de_6-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
+[![presupuesto](https://img.shields.io/badge/€3.990-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
 
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos*
@@ -28,7 +28,7 @@
 
 ## 📍 Estado del viaje
 
-**15 de agosto de 2026**
+**21 de agosto de 2026**
 
 </div>
 
@@ -67,7 +67,9 @@ flowchart LR
 
 ### 🟡 Cotizado con precio real, pero sin cerrar
 
-- 🩺 **Seguro IATI — €113,02 por persona** ✅ · 🛂 **e-visa — N$1.600 (~€80)** ✅
+- 🩺 **Seguro IATI — €113,02 por persona** ✅ *(se contrata **con el código de Chavetas**, decidido
+  el 21/08 — entrando por su enlace ANTES de cotizar; el descuento exacto ❌ sin verificar, así que
+  la cifra se mantiene sin descontar — `20` §3)* · 🛂 **e-visa — N$1.600 (~€80)** ✅
 - 🎫 **Tasas de parque — ~N$620 (~€31)/día** la pareja ◐
 
 > [!WARNING]
@@ -88,14 +90,20 @@ flowchart LR
 4. **Pedir cita en el Centro de Vacunación Internacional** *(A Coruña, Durán Lóriga 3 ·
    **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
    **la cita es el recurso escaso, no la vacuna**.
-5. **Reservar Sesriem ×2, Terrace Bay y las cuatro de Etosha** — sin la de Terrace Bay **no se
-   entra** al Skeleton Coast a pernoctar. **Y reservar Spreetshoogte ×2**: **abierto
+5. **Reservar Sesriem ×2 y Terrace Bay** — sin la de Terrace Bay **no se entra** al Skeleton Coast
+   a pernoctar. **Y reservar Spreetshoogte ×2**: **abierto
    confirmado ◐** *(el «closed down» quedó refutado el 10/08; el camping bueno lo opera Barkhan
-   Dune Retreat)*, contacto localizado — la **tarifa, aún sin verificar** ❌ *(`20` §5)*. *(Sesriem, Terrace Bay,
-   Okaukuejo, Halali, Namutoni y Spreetshoogte: esas son las **6** del contador de arriba.)*
+   Dune Retreat)*, contacto localizado — la **tarifa, aún sin verificar** ❌ *(`20` §5)*.
+   ✅ **Las cuatro noches de Etosha salieron de esta lista el 21/08: están RESERVADAS** —
+   **Okaukuejo** *(9–10)*, **Halali** *(10–11)*, **Namutoni** *(11–12)* a N$920 (~€46) la noche los
+   dos, y la cuarta, **[Onguma Tamboti](https://onguma.com/)** *(12–13)*, ya **fuera** de la puerta
+   de Von Lindequist, en vez de la segunda noche de Namutoni. *(De las **6** del contador, quedan
+   Sesriem, Terrace Bay y Spreetshoogte.)*
 6. **Preguntar a NWR (+264 67 229 800)** si las 3 salidas guiadas de mañana y el nocturno se
    pueden dejar cerrados desde España — su tarifa avisa de que **en temporada de lluvias no
-   aceptan pre-reserva de actividades**; si no, van en recepción al llegar.
+   aceptan pre-reserva de actividades**; si no, van en recepción al llegar. ⚠️ **El nocturno se
+   pide para el D11**, no para el D12: esa noche ya se duerme en Onguma. Y **en Onguma,
+   pre-reservar la cena** y, si se quiere, el **Sundowner Drive** *(N$980 ≈ €49 pp ✅)*.
 
 📞 **El cuaderno completo de reservas** —cada una con su canal, su contacto verificado, lo que se
 pide por escrito al cerrarla y lo que se deja para recepción— **está en
@@ -122,7 +130,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 133 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 141 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -150,7 +158,7 @@ está en el agua. [Verlo en grande](img/mapas/etosha.svg).*
 *El trazado no está dibujado a mano: son las coordenadas reales de cada parada, enrutadas por
 carretera con **OSRM** sobre OpenStreetMap. [Ver el mapa en grande](img/mapas/ruta.svg).*
 
-**~2.757 km · 15 días de coche · dos noches en Spreetshoogte, dos en Sesriem, dos en la costa y CUATRO en Etosha**
+**~2.764 km · 15 días de coche · dos noches en Spreetshoogte, dos en Sesriem, dos en la costa y CUATRO en Etosha** *(tres dentro del parque y la última en Onguma, a su puerta)*
 
 </div>
 
@@ -199,12 +207,15 @@ entrega— está en [`20-reservas`](20-reservas.md) §1.
 - 🌇 **El atardecer del paso de Spreetshoogte** — el Namib mil metros bajo tus pies en una de las
   carreteras más empinadas del país. La primera noche de desierto, a dos horas de Windhoek. ◐
 - 🦏 **La charca iluminada de Okaukuejo.** Rinocerontes negros, elefantes y jirafas bebiendo de noche
-  con el parque cerrado y tú dentro. Camping **N$920 (~€46)**; el capricho del **chalet del charco**,
-  **N$4.760 (~€238)** — en tu ventana, tarifa baja. ✅
-- 🐘 **Cuatro noches de safari, todas DENTRO del parque.** Okaukuejo → Halali → Namutoni ×2
-  (**N$920 ≈ €46/noche los dos** ✅): sin horas de puerta, con las charcas iluminadas al lado y los
-  amaneceres sin esperar a que abran. Y en seco: el parque estuvo así en **4 de las últimas 5
-  temporadas** — la fauna concentrada en las charcas. ✅
+  con el parque cerrado y tú dentro. Camping **N$920 (~€46)** ✅ **RESERVADO**; el capricho del
+  **chalet del charco**, **N$4.760 (~€238)** — en tu ventana, tarifa baja. ✅
+- 🐘 **Cuatro noches de safari en Etosha — RESERVADAS el 21/08, tres de ellas DENTRO.**
+  **Okaukuejo → Halali → Namutoni** (**N$920 ≈ €46/noche los dos** ✅), con las tres charcas
+  iluminadas a un paseo de la parcela y el **nocturno guiado desde Namutoni el D11**; y la última,
+  en **Onguma Tamboti** (**N$1.240 ≈ €62** ✅), el camping de una **reserva privada de 35.970 ha**
+  con leopardo, guepardo y rinoceronte confirmados por escrito, **baño propio en la parcela** y
+  salida al atardecer con foco y campo a través que el parque no permite. Y en seco: el parque
+  estuvo así en **4 de las últimas 5 temporadas** — la fauna concentrada en las charcas. ✅
 - 🦭 **Cape Cross**: decenas de miles de lobos marinos *(pañuelo para la nariz — en serio)*. ✅
 - 🌊 **Dormir en la Costa de los Esqueletos.** Noche en **Terrace Bay**, dentro del parque, con la
   niebla y el Atlántico rugiendo. Pocos lo hacen: exige reserva y entrar antes de las 15:00. ✅
@@ -302,9 +313,9 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 ## 💶 El presupuesto — por persona, partida a partida
 
-### ~€3.982 por persona · todo incluido
+### ~€3.990 por persona · todo incluido
 
-Rango honesto: **€3.832–4.132**. El **~79 %** ya está cerrado con precio real, no estimado.
+Rango honesto: **€3.840–4.140**. El **~79 %** ya está cerrado con precio real, no estimado.
 
 </div>
 
@@ -381,9 +392,8 @@ flowchart TD
    Deadvlei y *tenerlo para ti* al amanecer. *(Plan B: Sossus Oasis en la puerta — perdiendo la hora
    de ventaja, que es el motivo.)*
 3. **Terrace Bay con reserva confirmada** — sin ella **no te dejan entrar** al Skeleton Coast para
-   pernoctar (el permiso de tránsito obliga a salir el mismo día). Y las **4 noches DENTRO de
-   Etosha** (Okaukuejo, Halali, Namutoni ×2 — N$920 ≈ €46/noche ✅): en noviembre hay sitio, pero el
-   chalet del charco vuela.
+   pernoctar (el permiso de tránsito obliga a salir el mismo día). *(Las **4 noches de Etosha** ya
+   están: Okaukuejo, Halali, Namutoni y Onguma Tamboti, cerradas el 21/08 ✅.)*
 4. **Los papeles con calendario.** El **e-visa (N$1.600, ~€80)** se pide online y **se imprime y
    firma ante el oficial** — solo en `eservices.mhaiss.gov.na` ⚠️ *(`namibia-evisa.com` parece
    oficial y no lo es; el portal real puede dar un aviso de certificado — es mala configuración
@@ -491,7 +501,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 
 8. 🚙 [**`06-conduccion`**](06-conduccion.md) — el vuelco, el contrato, las presiones, la arena y las puertas de Sesriem
 9. ⛺ [**`18-manual-de-campamento`**](18-manual-de-campamento.md) — **vivir del coche**: la rutina de la tarde, la tienda, el braai, la nevera y los vecinos del campamento
-10. 🏕️ [**`21-campamentos-de-etosha`**](21-campamentos-de-etosha.md) — **Okaukuejo, Halali y Namutoni por dentro**: la parcela, la charca y los servicios de cada uno, con los avisos de los viajeros recientes
+10. 🏕️ [**`21-campamentos-de-etosha`**](21-campamentos-de-etosha.md) — **las cuatro noches de Etosha por dentro** *(Okaukuejo, Halali, Namutoni y Onguma Tamboti)*: la parcela, la charca y los servicios de cada una, con los avisos de los viajeros recientes
 11. 🦂 [**`22-picadura-de-escorpion`**](22-picadura-de-escorpion.md) — **si te pica un escorpión**: la regla de la cola, el cuadro hora a hora, qué hacer y qué no, a quién llamar y el hospital etapa a etapa
 12. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
 13. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
@@ -599,6 +609,6 @@ El NAD va ligado al rand: **el importe en N$ es el que se paga**, el euro es ori
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 
-**Última actualización: 15 de agosto de 2026**
+**Última actualización: 21 de agosto de 2026**
 
 </div>

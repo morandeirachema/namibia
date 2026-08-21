@@ -1,30 +1,45 @@
-# 21 · Los tres campamentos de Etosha, por dentro
+# 21 · Dónde se duerme en Etosha, por dentro
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> Okaukuejo, Halali y Namutoni contados como lo que son para este viaje: la parcela, la charca,
-> los servicios de cada uno — y lo que los viajeros recientes avisan de verdad.
+> Las cuatro noches de Etosha contadas como lo que son para este viaje: la parcela, la charca,
+> los servicios de cada una — y lo que los viajeros recientes avisan de verdad. Tres son los
+> campamentos del parque; la cuarta, desde el 21/08, es **Onguma Tamboti**, ya fuera de la puerta.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigado el 14/08/2026 — fichas oficiales de NWR, guías de Etosha y reseñas de viajeros
-> 2023–2026. Cómo se vive del coche en cualquiera de ellos es el [`18`](18-manual-de-campamento.md);
+> 2023–2026; **ampliado el 21/08/2026 con Onguma Tamboti**, del tarifario oficial 2027 leído ese
+> día, al reservarse ahí la cuarta noche. Cómo se vive del coche en cualquiera de ellos es el [`18`](18-manual-de-campamento.md);
 > las tarifas, el [`03`](03-alojamiento-y-tasas.md); qué se ve en cada charca y a qué hora, el
 > [`01`](01-itinerarios-dia-a-dia.md) y la guía de fauna.*
 
 ---
 
-## Los tres, de un vistazo
+## Las cuatro noches, de un vistazo
 
 ```mermaid
 flowchart LR
 %% ancho
-    O["OKAUKUEJO · D9-D10<br/>37 parcelas · el grande<br/>la torre y LA charca<br/>famosa del parque"] --> H["HALALI · D11<br/>58 parcelas · el tranquilo<br/>charca Moringa en anfiteatro<br/>rino negro y leopardo"]
-    H --> N["NAMUTONI · D12<br/>25 parcelas · el fuerte<br/>charca King Nehale al pie<br/>de las murallas"]
+    O["OKAUKUEJO · D9<br/>37 parcelas · el grande<br/>la torre y LA charca<br/>famosa del parque"] --> H["HALALI · D10<br/>58 parcelas · el tranquilo<br/>charca Moringa en anfiteatro<br/>rino negro y leopardo"]
+    H --> N["NAMUTONI · D11<br/>25 parcelas · el fuerte<br/>charca King Nehale y<br/>el nocturno guiado"]
+    N --> G["ONGUMA TAMBOTI · D12<br/>25 parcelas · BANO PROPIO<br/>3,4 km pasada Von Lindequist<br/>reserva privada de 35.970 ha"]
     style O fill:#2d6a4f,color:#fff
-    style N fill:#7a3a22,color:#fff
+    style N fill:#2d6a4f,color:#fff
+    style G fill:#7a3a22,color:#fff
 ```
+
+**Tres dentro y una fuera** — y la que sale es **la segunda noche de Namutoni**, o sea **la charca
+iluminada más floja de las tres**: justo la que menos duele. Lo que eso mueve:
+
+- **No se pierde ninguna charca iluminada**: Okaukuejo el D9, Moringa el D10 y King Nehale el D11
+  siguen a un paseo de la parcela.
+- **El nocturno guiado se adelanta al D11**, que es cuando se duerme en Namutoni — mismo sitio,
+  mismo argumento, un día antes, y con la luna al ~5 % en vez del ~9 %.
+- **Aparece una hora de puerta el D12**: hay que estar fuera de Von Lindequist antes de las
+  **19:10** ✅ *(tabla oficial del parque, 10–16 nov)*.
+- **Y se gana media hora el D13**: durmiendo fuera no hay que esperar a que la puerta abra.
 
 **Lo común a los tres** ✅ *(fichas de NWR: [Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
 [Halali](https://www.nwr.com.na/resorts/halali-resort/) · [Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/))*:
@@ -38,7 +53,7 @@ La tarifa de camping es la misma en los tres: **N$460 (~€23) por persona y noc
 
 ---
 
-## Okaukuejo — D9 y D10, el grande y su charca
+## Okaukuejo — D9, el grande y su charca
 
 El campamento más antiguo del parque y su centro administrativo: nació como puesto militar en
 1901 y abrió como rest camp en octubre de 1957 ◐ *([namibweb](https://www.namibweb.com/okaukuejo.htm) ·
@@ -54,7 +69,7 @@ Está a **17 km (~20 min) de la puerta de Anderson** ◐
 Iluminada del ocaso al amanecer y **abierta las 24 h para quien duerme dentro** ◐; la guía del
 parque la llama sin rodeos «the most reliable predator and megafauna viewing spot inside
 Etosha», con el **pico de actividad entre las 19:00 y las 22:00 en estación seca** ◐ *(misma
-ficha de etoshanationalpark.com.na)* — y vuestras noches del 8 al 10 de noviembre caen justo en
+ficha de etoshanationalpark.com.na)* — y vuestra noche del 9 al 10 de noviembre cae justo en
 la cola de esa estación seca: en 4 de las 5 últimas temporadas, cuando estéis allí las lluvias
 aún no habían empezado *([`14`](14-lluvias-historico.md))*. Las reseñas hablan de **hasta diez
 rinocerontes en una misma noche**, elefante, león y algún leopardo ○
@@ -63,7 +78,8 @@ El protocolo de la plataforma —silencio y todo apagado— ya está en el [`18`
 
 ### El camping y sus pegas
 
-**37 parcelas** ✅ *(NWR)*, con toma de 220 V, grifo y braai ◐. Las pegas repetidas entre
+**37 parcelas** ✅ *(NWR)* — **RESERVADA una noche, N$920 (~€46) los dos** ✅ *(21/08)* —, con toma
+de 220 V, grifo y braai ◐. Las pegas repetidas entre
 viajeros ○ *([Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g424916-d2441506-Reviews-Okaukuejo_Camp-Etosha_National_Park_Oshikoto_Region.html))*:
 es el campamento **grande, turístico y ruidoso** de los tres — los grupos overlander acampan
 pegados a los aseos y se nota —, y el estado de los baños oscila según la reseña entre «nuevos y
@@ -80,7 +96,7 @@ correos ◐; **wifi y cajero, sin dato** ❌.
 
 ---
 
-## Halali — D11, el tranquilo del medio
+## Halali — D10, el tranquilo del medio
 
 A mitad de camino entre Okaukuejo y Namutoni, al pie del kopje **Tsumasa** —con un sendero corto
 señalizado, solo de día ◐—, y **el más tranquilo de los tres**: «much quieter than Okaukuejo» es
@@ -111,11 +127,14 @@ en Halali, la comida al coche **siempre**, no «un momento en la mesa».
 
 Gasolinera ✅, tienda mixta de comestibles y recuerdos ✅ *(NWR: «combination of groceries and
 curios»; una fuente añade leña ◐)*, restaurante y bar ◐, y **piscina con toldos de sombra** ✅ —
-la siesta del D11 está resuelta. Cobertura móvil irregular ○; wifi ❌.
+la siesta del D10 está resuelta. Cobertura móvil irregular ○; wifi ❌.
+
+**Precio**: **N$460 (~€23) por persona → N$920 (~€46) los dos** ✅ *(NWR 2026/27)* — **RESERVADO el
+21/08**.
 
 ---
 
-## Namutoni — D12, dormir junto a un fuerte
+## Namutoni — D11, dormir junto a un fuerte (y el nocturno)
 
 El campamento con más carácter: se acampa **junto a un fuerte alemán encalado**. El primer
 fuerte es de 1899 —puesto de control veterinario y militar—, fue **arrasado el 28 de enero de
@@ -127,7 +146,13 @@ sus cuatro torres, es **Monumento Nacional desde 1947** y abrió como rest camp 
 la web de NWR dice «built 1897» — la discrepancia queda anotada)*. Dentro hay un pequeño museo ✅
 *(NWR)*, y **el atardecer se mira desde la torre** ◐ — la historia de la batalla, contada con su
 contexto, está en el [`19`](19-cultura-de-namibia.md). Es el campamento más cercano a su puerta:
-~8 km de Von Lindequist ◐ *(una sola fuente leída — por eso el ◐)*, la de salida del D13.
+~8 km de Von Lindequist ◐ *(una sola fuente leída — por eso el ◐)*, la que cruzáis el D12 para ir
+a dormir a Onguma.
+
+> 🌙 **Y aquí se hace el nocturno guiado, la noche del D11** *(N$750 · ~€38 pp ✅; adelantado del
+> D12 el 21/08, porque esa noche ya se duerme fuera)*. El argumento no cambia: **se gasta en la
+> noche en que menos se pierde**, y la charca de Namutoni es la más floja de las tres. Reservadlo
+> en recepción **al llegar**, junto con la guiada de mañana del D12.
 
 ### La charca King Nehale
 
@@ -142,7 +167,8 @@ ya cuenta con ello *([`01`](01-itinerarios-dia-a-dia.md))*.
 
 ### El camping y su fama dividida
 
-**25 parcelas** ✅ *(NWR)* — el pequeño y, para muchos, el más acogedor: parcelas de sabana con
+**25 parcelas** ✅ *(NWR)* — **RESERVADA una noche, N$920 (~€46) los dos** ✅ *(21/08; la segunda
+que había aquí se cambió por Onguma)* — el pequeño y, para muchos, el más acogedor: parcelas de sabana con
 sombra **y hierba** en vez del polvo habitual ◐/○ *([Wanderlog](https://app.wanderlog.com/place/details/771043/namutoni-camp-camping-area) ·
 Tripadvisor)*. Electricidad, aseos y braai ◐. Es también **la ficha más dividida de los tres** ○:
 conviven un «very dilapidated» con un «best camp in Etosha» de febrero de 2025 — el patrón que
@@ -152,12 +178,76 @@ descrito como seco en varias reseñas ○ — se llega con eso sabido y no estro
 ### Los servicios
 
 Gasolinera, tienda, restaurante, bar y piscina ✅ *(NWR)*. El restaurante es el más criticado de
-los tres ○ *(elección corta, comida fría en reseñas recientes)* — la cena del D12 es mejor plan
+los tres ○ *(elección corta, comida fría en reseñas recientes)* — la cena del D11 es mejor plan
 al braai, con la compra hecha en la tienda o traída de Halali ○.
 
 ---
 
-## ⚠️ La gasolina de los tres, con letra grande
+## Onguma Tamboti — D12, fuera de la puerta y en reserva privada
+
+**3,4 km pasada la puerta de Von Lindequist** ✅ *(enrutado propio sobre OSM)*, dentro de la
+**Onguma Nature Reserve: 35.970 ha** ✅ pegadas al este de Etosha. No es un campamento de parque:
+es el camping de una reserva privada, y eso cambia lo que se puede hacer al caer el sol.
+
+### La parcela
+
+**25 parcelas**, máximo **2 tiendas / 4 personas** por parcela ✅ *(tarifa oficial 2027)*. **Cada
+una con su ducha, su wc y su enchufe** —lo que ningún campamento de NWR da—, **servicio de
+limpieza diario**, **un lote de leña el día de llegada** y **wifi gratis en recepción** ✅. El
+recinto está **vallado** ✅, pero es una reserva con fauna libre alrededor: **de noche no se pasea
+fuera** ○.
+
+Hay **kiosco** con lo básico, **hielo, leña y braai packs** ✅, y **restaurante à la carte**: su
+propia tarifa avisa de que **la cena se reserva al llegar a recepción** ✅.
+
+*La otra parcela de la reserva, **Leadwood**, cuesta exactamente lo mismo, tiene solo 6 parcelas y
+usa las instalaciones de Onguma Bush Camp —bar techado, piscina, salón y comedor sobre una charca
+grande— ✅. No es la reservada; se anota por si hubiera que cambiar.*
+
+### Lo que compra dormir aquí la última noche
+
+De su propia tarifa, literal: *«Four of the Big Five (lion, leopard, rhino and elephant) roam
+free»* ✅; el guepardo lo añade su web ✅. **Es la única de la zona con leopardo Y guepardo
+confirmados por escrito en fuente propia** *(la comparativa completa con Ongava, Okonjima y Etosha
+Heights está en `aparte/reservas-privadas-vs-etosha.md`)*. Y sobre todo, **actividades que Etosha
+no permite en ninguna circunstancia**, con precio oficial 2027 ✅ y añadibles a una reserva de
+camping:
+
+- **Sundowner Drive · 3 h · N$980 (~€49) pp** — sale al atardecer y **vuelve ya de noche**, con
+  foco y campo a través
+- **Sunrise Drive · 3 h · N$980 (~€49) pp**
+- **Onkolo Hide, media mañana · 3 h · N$720 (~€36) pp** *(mín. 2, máx. 7 personas, 7+ años, se
+  reserva con antelación)* — un hide a pie de charca
+- **Paseo interpretativo · 1½ h · N$980 (~€49) pp** *(mínimo 16 años)* — **a pie**
+- **Game drive guiado dentro de Etosha · 4 h · N$1.930 (~€97) pp** — caro frente a los N$650 de
+  NWR, pero no hace falta: la guiada del D12 se compra en Namutoni la víspera
+- Young Explorers Walk N$460 (~€23) · game drive privado N$10.680 (~€534)/vehículo · desayuno
+  suelto N$320 (~€16)
+
+> ⚖️ **El choque de horarios, dicho antes de que pase**: el sundowner sale al atardecer, así que
+> **hacerlo obliga a salir del parque hacia las 17:00** y renunciar a la mejor hora de charcas del
+> último día. Son **dos planes buenos y excluyentes**: decidid al reservar.
+
+> ⚠️ **El hueco honesto: «night drive» NO figura en el tarifario oficial 2027** ❌. El que sale de
+> noche es el **sundowner**. Dos agregadores independientes sí citan night drives en Onguma ◐
+> *([safaribookings](https://www.safaribookings.com/onguma) ·
+> [discoverafrica](https://www.discoverafrica.com/safaris/namibia/onguma-private-game-reserve/))*,
+> pero **sin precio ni horario**. Se pregunta al reservar.
+
+### El precio
+
+**Rack oficial 2027, vigente del 1 de noviembre de 2026 al 31 de octubre de 2027** ✅ —el año
+fiscal de Onguma va de noviembre a octubre, igual que el de NWR, así que vuestra noche cae justo al
+principio de la ventana—: **N$540 (~€27) netos por adulto** + **tasa de conservación N$80 (~€4)
+por persona y noche** = **N$620 (~€31) por persona**, IVA y Social Development Levy incluidos →
+**N$1.240 (~€62) los dos**. Son **N$320 (~€16) más que la parcela de Namutoni** que sustituye.
+
+❌ **El importe exacto de la reserva, por confirmar**: el dato recibido *(€132)* era el de dos
+noches, antes de que la primera volviera a Namutoni.
+
+---
+
+## ⚠️ La gasolina de los tres del parque, con letra grande
 
 NWR mantiene que los tres surtidores funcionan «el 95 % del tiempo» ◐
 *([nwrnamibia](https://www.nwrnamibia.com/etosha-food-eating-fuel.htm))*, pero hay **reportes de
@@ -171,20 +261,26 @@ sale de esto, y que el [`07`](07-logistica.md) ya aplica en general:
 
 - **Entrar al parque el D9 con el depósito lleno de Outjo** ○ — los surtidores de dentro pasan a
   ser un bonus, no el plan
-- **No fiar los 550 km del D13 al surtidor de Namutoni** ○: si en Halali o Namutoni hay diésel,
-  se rellena al pasar; si no, el D13 arranca con lo que haya y reposta en **Tsumeb (~110 km)** ◐
+- **No fiar los 539 km del D13 a los surtidores del parque** ○: si en Halali o Namutoni hay
+  diésel, se rellena al pasar; si no, el D13 arranca con lo que haya y reposta en **Tsumeb, a
+  105 km de Onguma** ✅ *(enrutado propio)*. **Y ojo al D12**: se sale del parque por la tarde, así
+  que el último surtidor de dentro es el de Namutoni — Onguma **no tiene** ❌
 
 ---
 
 ## 🕳️ Lo que esta ficha no pudo cerrar
 
-**La distancia exacta parcela → charca en Okaukuejo** ❌ *(nadie la publica; «un paseo» en todas
-las reseñas)* · **wifi y cajeros en los tres** ❌ *(NWR no lo publica; solo «cobertura irregular»
-en Halali ○)* · **cuántos bloques de aseos tienen Okaukuejo y Namutoni** ❌ *(solo Halali lo
-publica)* · **horarios de tienda y gasolinera** ❌ — todo esto se pregunta en la recepción de
-cada uno al llegar, y ninguno cambia una reserva.
+**El importe exacto de la reserva de Onguma** ❌ *(el rack da N$1.240 · ~€62; el dato recibido,
+€132, era el de dos noches)* · **si Onguma hace night drive de verdad y a qué precio** ❌ *(su
+tarifa 2027 solo lista el sundowner)* · **La distancia exacta parcela → charca en Okaukuejo** ❌
+*(nadie la publica; «un paseo» en todas las reseñas)* · **wifi y cajeros en los tres del parque**
+❌ *(NWR no lo publica; solo «cobertura irregular» en Halali ○ — Onguma sí anuncia wifi en
+recepción ✅)* · **cuántos bloques de aseos tienen Okaukuejo y Namutoni** ❌ *(solo Halali lo
+publica; en Onguma no hace falta: el baño va en la parcela)* · **horarios de tienda y gasolinera**
+❌ — todo esto se pregunta en la recepción de cada uno al llegar, y ninguno cambia una reserva.
 
 ---
 
-*Precios en N$ y € · ~N$20 = €1 · Investigado el 14/08/2026: fichas NWR leídas ese día; las
-reseñas citadas son de 2023–2026 y van marcadas ○ — son experiencia, no dato.*
+*Precios en N$ y € · ~N$20 = €1 · Investigado el 14/08/2026 y ampliado el 21/08/2026: fichas de
+NWR leídas el primer día y rack oficial 2027 de Onguma el segundo; las reseñas citadas son de
+2023–2026 y van marcadas ○ — son experiencia, no dato.*

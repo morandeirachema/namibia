@@ -104,8 +104,8 @@ del desayuno.</li>
 El trípode dentro del coche no sirve para nada.</li>
 <li><strong>Dispara al amanecer y al atardecer</strong> ○: a mediodía la luz es plana y el
 aire caliente sobre la costra del pan tiembla y desenfoca a distancia.</li>
-<li><strong>No pidas la foto perfecta el primer día.</strong> ○ Son cuatro noches dentro del
-parque: la jirafa abriéndose de patas para beber llega sola.</li>
+<li><strong>No pidas la foto perfecta el primer día.</strong> ○ Son cuatro días de parque: la
+jirafa abriéndose de patas para beber llega sola.</li>
 </ul>
 
 <h2>Lo que da sustos y lo que de verdad hace daño</h2>
