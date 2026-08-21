@@ -1,13 +1,14 @@
 # Namibia 2026 · el dossier
 #
-#   make            los dos PDF, con lo que ya haya descargado
+#   make            los tres PDF, con lo que ya haya descargado
 #   make imagenes   descarga las fotos del catalogo (Wikimedia Commons) a img/
 #   make geo        descarga y cachea la geometria de los mapas a fuente/geo/
 #   make avistam    recuentos de GBIF y porcentajes por campamento a fuente/geo/
 #   make mapas      exporta los mapas a img/mapas/ (SVG y PNG; el de la ruta va en el README)
 #   make dossier    solo dossier-namibia-2026.pdf
 #   make fauna      solo guia-fauna-etosha.pdf
-#   make todo       de cero: imagenes + geo + avistamientos + mapas + los dos PDF
+#   make lamina     mapa-ruta-namibia-2026.pdf, la lamina A2 para imprimir
+#   make todo       de cero: imagenes + geo + avistamientos + mapas + los tres PDF
 #   make comprueba  imagenes, licencias, geometria, avistamientos, escala y README
 #   make limpia     borra el HTML intermedio
 #
@@ -19,11 +20,11 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam mapas dossier fauna limpia comprueba
+.PHONY: all todo imagenes geo avistam mapas dossier fauna lamina limpia comprueba
 
-all: dossier fauna
+all: dossier fauna lamina
 
-todo: imagenes geo avistam mapas dossier fauna
+todo: imagenes geo avistam mapas dossier fauna lamina
 
 imagenes:
 	$(PY) descargar.py
@@ -42,6 +43,10 @@ dossier: | $(IMG)/creditos.json $(GEO)/ruta.json
 
 fauna: | $(IMG)/creditos.json $(GEO)/avistamientos.json
 	$(PY) guia_fauna.py
+
+# La lamina solo necesita la geometria: ni fotos ni avistamientos.
+lamina: | $(GEO)/ruta.json
+	$(PY) lamina.py
 
 $(IMG)/creditos.json:
 	$(PY) descargar.py
