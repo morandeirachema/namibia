@@ -189,9 +189,16 @@ def _pie(izquierda, derecha):
     return PIE.format(izquierda=izquierda, derecha=derecha)
 
 
+# Tamanos de papel en pulgadas, que es lo que pide printToPDF.
+PAPEL = {"A4": (8.27, 11.69), "A3": (11.69, 16.54), "A2": (16.54, 23.39)}
+
+
 def a_pdf(html, salida, izquierda="Namibia 2026", derecha="", espera=8.0,
-          margenes=(14, 12, 16, 12), escala=1.0):
+          margenes=(14, 12, 16, 12), escala=1.0, papel="A4"):
     """Renderiza `html` (ruta local) a `salida` (PDF). Margenes en mm: arriba, der, abajo, izq.
+
+    `papel` es una clave de PAPEL o una tupla (ancho, alto) en pulgadas. El dossier y la
+    guia van en A4; la lamina de ruta, en A2.
 
     El pie va en TODAS las paginas, tambien en la portada y en los separadores. No es
     pereza: cualquier intento de imprimirlas sin pie —plantilla vacia, `visibility:
@@ -243,9 +250,10 @@ def a_pdf(html, salida, izquierda="Namibia 2026", derecha="", espera=8.0,
         time.sleep(espera)
 
         arriba, der, abajo, izq = margenes
+        hoja = PAPEL[papel] if isinstance(papel, str) else papel
         r = manda("Page.printToPDF",
                   printBackground=True, preferCSSPageSize=False,
-                  paperWidth=8.27, paperHeight=11.69, scale=escala,
+                  paperWidth=hoja[0], paperHeight=hoja[1], scale=escala,
                   marginTop=arriba / 25.4, marginRight=der / 25.4,
                   marginBottom=abajo / 25.4, marginLeft=izq / 25.4,
                   displayHeaderFooter=True, headerTemplate=VACIO,

@@ -256,6 +256,26 @@ def revisa_pdf(nombre, minimo):
         bien(f"{nombre}: {paginas} paginas, {mb:.1f} MB")
 
 
+def revisa_lamina(nombre="mapa-ruta-namibia-2026.pdf"):
+    """La lamina de ruta es UNA hoja A2: si se desborda, salen dos y la mitad va en blanco."""
+    ruta = os.path.join(RAIZ, nombre)
+    if not os.path.exists(ruta):
+        return mal(f"no existe {nombre}")
+    salida = subprocess.run(["pdfinfo", ruta], capture_output=True, text=True).stdout
+    paginas = next((int(l.split()[1]) for l in salida.splitlines()
+                    if l.startswith("Pages:")), 0)
+    medida = next((l.split(":", 1)[1].strip() for l in salida.splitlines()
+                   if l.startswith("Page size:")), "")
+    # pdfinfo rotula el formato el solo; Chrome deja el tamano en 1191,12 x 1685,04 pt
+    # (redondeo de pulgadas), asi que se comprueba la etiqueta y no los decimales.
+    if paginas != 1:
+        mal(f"{nombre} tiene {paginas} paginas y la lamina es UNA: algo se desborda")
+    elif "(A2)" not in medida:
+        mal(f"{nombre} no mide A2, mide «{medida}»")
+    else:
+        bien(f"{nombre}: una hoja A2, {os.path.getsize(ruta) / 1024:.0f} KB")
+
+
 def revisa_escala(nombre, alto=267, tolerancia=3):
     """Vigila que Chrome no haya encogido el PDF entero.
 
@@ -306,7 +326,8 @@ def revisa_paginas_readme():
     """El README anuncia cuantas paginas tiene cada PDF: que no se quede desfasado."""
     import re
     texto = open(os.path.join(RAIZ, "README.md")).read()
-    for nombre in ("dossier-namibia-2026.pdf", "guia-fauna-etosha.pdf"):
+    for nombre in ("dossier-namibia-2026.pdf", "guia-fauna-etosha.pdf",
+                   "mapa-ruta-namibia-2026.pdf"):
         ruta = os.path.join(RAIZ, nombre)
         if not os.path.exists(ruta):
             continue
@@ -386,6 +407,7 @@ def main():
     revisa_avistamientos()
     revisa_pdf("dossier-namibia-2026.pdf", 40)
     revisa_pdf("guia-fauna-etosha.pdf", 8)
+    revisa_lamina()
     revisa_escala("dossier-namibia-2026.pdf")
     revisa_paginas_readme()
     revisa_indice_readme()
