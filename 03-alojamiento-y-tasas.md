@@ -2,12 +2,15 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> Las tarifas oficiales de NWR 2026/2027, leídas del PDF: campings, chalets, actividades y tasas de parque.
+> Las tarifas oficiales de NWR 2026/2027, leídas del PDF: campings, chalets, actividades y tasas
+> de parque — **más la de Onguma**, que desde el 21/08 es la cuarta noche de Etosha.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 08/08/2026*
+> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 08/08/2026 · **añadida el
+21/08/2026 la tarifa de Onguma**, leída de su tarifario oficial 2027, al reservarse ahí la cuarta
+noche de Etosha*
 
 https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf
 *(descargado y leído directamente el 16/07/2026)*
@@ -77,6 +80,43 @@ Precios **nov 2026 – jun 2027** (nuestra ventana) → *jul–oct 2027*:
 - **Khorixas** *(Damaraland)* — N$330 (~€17) → *N$330* · 2 pax: N$660 (~€33)
 
 Las parcelas admiten **máximo 8 personas**, pero el precio es **por persona**: dos pagan dos.
+
+> ### 📌 De estas, en este viaje se usan cuatro: **Sesriem ×2, Okaukuejo, Halali y Namutoni ×1**
+> La **segunda noche de Namutoni** que este documento presupuestaba **se cambió el 21/08 por
+> Onguma Tamboti**, fuera de la puerta de Von Lindequist *(el bloque de abajo)*.
+
+---
+
+## ⛺ Y la cuarta noche de Etosha, que ya no es NWR *(reservada el 21/08/2026)*
+
+### Onguma Tamboti Campsite — D12, 3,4 km pasada la puerta de Von Lindequist
+
+**Rack oficial 2027, válido del 1 de noviembre de 2026 al 31 de octubre de 2027** ✅
+*(el año fiscal de Onguma corre de noviembre a octubre, igual que el de NWR — vuestra noche cae
+justo al principio de la ventana)*:
+
+- **N$540 (~€27) netos por adulto y noche** + **tasa de conservación N$80 (~€4) por persona y
+  noche** = **N$620 (~€31) por persona** · niños de 3 a 11 años N$270 + tasa · menores de 3 gratis
+- **IVA y Social Development Levy incluidos**
+- **2 pax: N$1.240 (~€62)** — **N$320 (~€16) más que una parcela de Namutoni**, y a cambio la
+  parcela lleva **ducha y wc propios**
+- ❌ *El importe exacto de la reserva, por confirmar: el dato recibido (€132) era el de dos noches,
+  antes de que la primera volviera a Namutoni.*
+- **25 parcelas**, máximo **2 tiendas / 4 personas** por parcela · **cada parcela con ducha, wc y
+  enchufe propios**, limpieza diaria, **un lote de leña el día de llegada** y **wifi gratis en
+  recepción** · kiosco con lo básico, hielo, leña y braai packs · **restaurante à la carte: la
+  cena se reserva al llegar** · recinto **vallado**
+- *La otra parcela de la reserva, **Leadwood**, cuesta exactamente lo mismo y solo tiene 6
+  parcelas; usa las instalaciones de Onguma Bush Camp (bar, piscina y comedor sobre una charca
+  grande). No es la reservada.*
+- **Actividades, tarifa oficial 2027** ✅ — se pueden añadir a una reserva de camping: **Sundowner
+  Drive 3 h N$980 (~€49) pp** · **Sunrise Drive 3 h N$980 (~€49) pp** · **Onkolo Hide 3 h N$720
+  (~€36) pp** *(mín. 2, máx. 7, 7+ años)* · **paseo interpretativo a pie 1½ h N$980 (~€49) pp**
+  *(16+)* · **game drive guiado dentro de Etosha 4 h N$1.930 (~€97) pp** · Young Explorers Walk
+  N$460 (~€23) · game drive privado N$10.680 (~€534) por vehículo · desayuno suelto N$320 (~€16)
+- ⚠️ **En esa tarifa NO hay «night drive»** ❌ — el que sale de noche es el sundowner. Lo citan
+  agregadores independientes ◐ *([safaribookings](https://www.safaribookings.com/onguma))*, sin
+  precio: pregúntalo al reservar
 
 > ⚠️ **Por qué estas cifras se separaron a mano:** el PDF de NWR va **a dos columnas**, y la
 > extracción automática de texto las entrelaza e **intercambia precios entre campings vecinos** sin
@@ -166,6 +206,8 @@ sigue siendo real independientemente del coche.)*
   03/08/2026 en sus fichas de nwr.com.na: safari guiado de **mañana N$650 (~€33)** · de **tarde
   N$650 (~€33)** · **NOCTURNO N$750 (~€38)**. ❌ *Horarios de salida: NWR no los publica en ninguna
   parte — hay que preguntarlos en recepción (ver `01`).*
+  ⚠️ **Se venden a quien duerme en el campamento**, así que desde el 21/08 **el nocturno se compra
+  en Namutoni la noche del D11**, no el D12: esa ya se duerme en Onguma, fuera del parque.
 - Dolomite, safari guiado de mañana/tarde — N$650 (~€33)
 - Sossus Dune Lodge, safari guiado — N$750 (~€38)
 
@@ -185,6 +227,11 @@ en Etosha, Namib-Naukluft/Sossusvlei y Skeleton Coast, **más ~N$60 (~€3) de v
 cobrado **por parque y por cada 24 h desde la entrada**.
 
 **Presupuestar ~N$620 (~€31)/día** para dos adultos y coche, en cada parque.
+
+> **En Etosha son 4 unidades de 24 h, y siguen siéndolo** con la última noche fuera: se entra el
+> **D9** por Andersson y se sale el **D12** por Von Lindequist; el **D13 ya no se vuelve a entrar**.
+> Dormir fuera la última noche no ahorra tasas: las cobra la puerta, no el campamento
+> *(ver `01` y `11`)*.
 
 La cifra de N$150 (~€7,5) de casi todas las webs es la tabla obsoleta de 2021 (refutada 0–3).
 

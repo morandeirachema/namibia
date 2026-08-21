@@ -135,8 +135,9 @@ propia batería sin recarga, sin confirmar ❌.
   de 220 V EN la parcela en
   Okaukuejo, Halali, Namutoni y Sesriem** *([okaukuejo](https://www.nwrnamibia.com/okaukuejo-camping.htm) · [halali](https://etoshanationalpark.com.na/accommodation/inside-the-park/halali-campsite/) · [namutoni](https://www.nwrnamibia.com/namutoni-camping.htm) ·
   [sesriem](https://www.sossusvlei.org/accommodation/sesriem-camp-site/) — en Sesriem, con avisos
-  de viajeros de tomas averiadas ○: pedir parcela con toma que funcione)*; en Hoada y los
-  campamentos comunitarios, da por hecho que no ○.
+  de viajeros de tomas averiadas ○: pedir parcela con toma que funcione)* **y en Onguma Tamboti**,
+  la del D12, que además lleva **ducha y wc propios en la parcela** ✅ *(rack oficial 2027)*; en
+  Hoada y los campamentos comunitarios, da por hecho que no ○.
 - **Lo que la mata** ○: abrirla como si fuera la de casa, el sol directo sobre ella y meter la
   compra caliente. Las latas entran frías de la primera nevera de súper o no entran.
 - **Estrategia de carga** ○: lo congelado el primer día hace de acumulador; lo del final del viaje,

@@ -22,7 +22,9 @@
 Reservar no es una lista plana: unas cosas abren la puerta de otras. **El coche va primero** —es lo
 que se agota, no el vuelo (`04`)—, **el billete emitido es la llave del e-visa**, y las **seis
 reservas de alojamiento que hacen el viaje** *(las del contador del README: Sesriem, Terrace Bay,
-Okaukuejo, Halali, Namutoni y Spreetshoogte)* van en cuanto el coche esté firmado.
+Okaukuejo, Halali, Namutoni y Spreetshoogte)* van en cuanto el coche esté firmado. ✅ **De ésas, las
+de Etosha ya están cerradas (21/08)** —Okaukuejo, Halali, Namutoni y, la cuarta noche,
+**Onguma Tamboti**, ya fuera de la puerta—; quedan **Sesriem ×2, Terrace Bay y Spreetshoogte ×2**.
 
 ```mermaid
 flowchart LR
@@ -30,12 +32,14 @@ flowchart LR
     C["1 · EL 4x4<br/>RESERVADO 12/08<br/>Savanna, 2.363 EUR<br/>total, Ford GSXA-1"] --> V["2 · EL VUELO<br/>EMITIDO 10/08<br/>1.536 EUR pp"]
     V --> S["3 · SEGURO IATI<br/>rehacer desde el 30-10<br/>URGENTE: billete pagado"]
     V --> E["6 · E-VISA<br/>desbloqueado:<br/>ya hay billete de vuelta"]
-    C --> N["4 · LAS NOCHES NWR<br/>Sesriem x2 · Terrace Bay<br/>Etosha x4"]
+    C --> N["4 · LAS NOCHES NWR<br/>Sesriem x2 · Terrace Bay<br/>Etosha x3 RESERVADAS"]
+    N --> Y["ETOSHA, CERRADO 21/08<br/>Okaukuejo · Halali · Namutoni<br/>y Onguma Tamboti el D12"]
     N --> R["5 · EL RESTO DE CAMPINGS<br/>Spreetshoogte x2 · Windhoek x2<br/>Walvis x2 · Hoada"]
     P["EN PARALELO, YA<br/>la cita del CVI:<br/>agosto o nada"]
     style C fill:#9d0208,color:#fff
     style V fill:#2d6a4f,color:#fff
     style N fill:#9d0208,color:#fff
+    style Y fill:#2d6a4f,color:#fff
     style P fill:#e85d04,color:#000
 ```
 
@@ -147,6 +151,12 @@ flowchart LR
 - **Qué**: IATI **Estrella**, cotizado **€226,04 (~N$4.520) la pareja** para 31/10–15/11 ✅. Con el
   vuelo saliendo el 30 **y el billete ya emitido (10/08), rehacerla del 30/10 al 15/11 es lo más
   urgente del cuaderno** — el coste del día extra ❌ sin cotizar *(`02` §7–8)*.
+- **Cómo, decidido el 21/08**: se contrata **con el código de descuento de Chavetas** *(el blog de
+  viajes cuyo itinerario ya sirve de contraste en `aparte/desviacion-itinerario-chavetas.md`)* —
+  IATI aplica un **descuento de afiliado** al entrar por su enlace ○. ❌ **El porcentaje exacto no
+  se ha verificado aquí**, así que **la cotización de arriba se mantiene sin descontar**: lo que
+  rebaje, rebaja. *Ojo al orden: hay que entrar por el enlace del blog **antes** de cotizar; si se
+  cotiza directo en iatiseguros.com, el código ya no se puede aplicar después ○.*
 - **Y las peticiones por escrito** *(las que de verdad importan en esta ruta)*: que cubra
   **evacuación aérea DENTRO del país** *(cerca de Sesriem no hay hospital)*; **añadir la opción de
   búsqueda y salvamento** — el Estrella la deja opcional y el Mochilero, más barato, la trae de
@@ -159,7 +169,7 @@ flowchart LR
 
 ---
 
-## 4 · 🛏️ Las seis noches de NWR — una sola gestión, cinco reservas
+## 4 · 🛏️ Las noches de NWR — y las cuatro de Etosha, ya RESERVADAS
 
 Todas con **tarifa oficial 2026/2027 verificada** ✅
 *([el tarifario, PDF](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf) — leído columna a columna, `03`)*:
@@ -170,9 +180,28 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
   dos** ✅ *(no hay camping: la fila «Campsite» de su web no existe en el tarifario — error suyo)*.
   ⚠️ **Sin esta reserva confirmada no se cruza Ugabmund a pernoctar** —última entrada **15:00**— y
   el permiso de tránsito obliga a salir del parque el mismo día: **llevadla impresa** *(`11`)*.
-- **Okaukuejo — lun 9 (D9)** · **Halali — mar 10 (D10)** · **Namutoni — mié 11 y jue 12
-  (D11–D12)** — camping **N$920 (~€46)/noche los dos** ✅. *Capricho: el chalet del charco de
-  Okaukuejo, N$4.760 (~€238) — vuela; decidir al reservar.*
+- **Okaukuejo — lun 9 (D9)** · **Halali — mar 10 (D10)** · **Namutoni — mié 11 (D11)** — camping
+  **N$920 (~€46)/noche los dos** ✅ — **las tres RESERVADAS el 21/08**. *La segunda noche de
+  Namutoni ya no existe: se cambió por Onguma, abajo.*
+
+> ### 🔁 Y la cuarta noche de Etosha se sale del parque — Onguma Tamboti, jue 12 (D12) ✅
+> **[Onguma Tamboti](https://onguma.com/)**, el camping de la reserva privada que linda con la
+> puerta de Von Lindequist, **3,4 km pasada la puerta** — **RESERVADO el 21/08**.
+>
+> - **Precio de rack, oficial 2027** ✅ *(vigente del 01/11/26 al 31/10/27, justo vuestra noche)*:
+>   **N$540 (~€27) netos por adulto + N$80 (~€4) de tasa de conservación = N$620 (~€31) por
+>   persona → N$1.240 (~€62) los dos**, IVA y Social Development Levy incluidos.
+>   ❌ **El importe exacto de la reserva, por confirmar**: el dato que llegó *(€132)* era el de dos
+>   noches, antes de que la primera volviera a Namutoni.
+> - **Lo que hay que hacer con esta reserva, y nadie lo va a recordar por vosotros**: su tarifa
+>   dice expresamente que **las comidas y las actividades se pre-reservan** ✅ — o al reservar, o
+>   en recepción al llegar. Si queréis el **Sundowner Drive (3 h, N$980 · ~€49 pp)**, pedidlo ya.
+> - **Y una pregunta que sigue abierta** ❌: **si hacen un night drive de verdad**. Su tarifa
+>   oficial 2027 **no lo lista** —el que sale de noche es el sundowner— aunque agregadores
+>   independientes lo citen ◐, sin precio ni horario.
+>
+> *Onguma por dentro, en [`21`](21-campamentos-de-etosha.md); su tarifa completa, en
+> [`03`](03-alojamiento-y-tasas.md).*
 
 **Canal y contacto**: la **central de reservas de NWR en Windhoek** ◐ *(localizada por búsqueda
 el 09/08, ficha sin abrir — confírmala al escribir)*: 📧 **reservations@nwr.com.na** ·
@@ -187,7 +216,8 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
 
 - Si las **3 salidas guiadas de mañana y el nocturno se pueden dejar cerrados desde España** — su
   tarifa avisa de que en temporada de lluvias no aceptan pre-reserva de actividades; si no, van en
-  recepción *(§8)*.
+  recepción *(§8)*. ⚠️ **Y el nocturno se pide para el D11, no para el D12**: la noche del 12 ya se
+  duerme en Onguma, fuera del parque *(cambio del 21/08)*.
 - Los **horarios de desayuno/restaurante** de los campamentos ❌ *(importa para salir al alba)*.
   *(La pregunta del enchufe por parcela quedó cerrada el 11/08 ◐ — `18` §5: hay toma en los
   cuatro NWR de la ruta; en Sesriem, pedir al llegar una parcela con la toma que funcione ○.)*
@@ -323,7 +353,7 @@ Para no gastar llamadas en lo que se cierra allí:
 
 - **Los safaris guiados de Etosha** *(3 mañanas + nocturno = N$5.400 · ~€270 la pareja ✅)*: **en
   recepción al llegar a cada campamento** — la de Okaukuejo, nada más cruzar Andersson el D9; el
-  nocturno, desde Namutoni. Horarios ❌ no publicados. *(La pregunta de si se puede cerrar desde
+  nocturno, **desde Namutoni la noche del D11** *(adelantado del D12 el 21/08)*. Horarios ❌ no publicados. *(La pregunta de si se puede cerrar desde
   España va en la gestión NWR — §4.)*
 - **La lanzadera de Deadvlei** *(N$180 · ~€9/persona ✅)*: en Sesriem.
 - **Las tasas de parque** *(~N$620 · ~€31 al día, pareja + coche ◐)*: en cada puerta, por cada 24 h.
@@ -351,7 +381,11 @@ Para no gastar llamadas en lo que se cierra allí:
 - [x] **Billete emitido** — 10/08, €1.536 pp, con maleta, billete único *(§2)*
 - [ ] **Sesriem ×2** *(3–4 nov, dentro de la puerta)* *(§4)*
 - [ ] **Terrace Bay** *(7 nov — confirmación impresa)* *(§4)*
-- [ ] **Okaukuejo · Halali · Namutoni ×2** *(9–12 nov)* *(§4)*
+- [x] **Las 4 noches de Etosha — RESERVADAS el 21/08** *(§4)*: Okaukuejo *(9–10)* · Halali
+      *(10–11)* · Namutoni *(11–12)* · **Onguma Tamboti** *(12–13, ya fuera de la puerta)*
+- [ ] **Confirmar el importe de la reserva de Onguma** *(el rack da N$1.240 · ~€62)* *(§4)*
+- [ ] **Pre-reservar en Onguma la cena y, si se quiere, el Sundowner Drive** — y preguntar si hay
+      night drive *(§4)*
 - [x] **Spreetshoogte ×2** *(1–2 nov)* — **abierto confirmado ◐** (2025–2026; «Closed down» refutado) y el homónimo aclarado: lo opera Barkhan Dune Retreat en la D1275 *(§5)*. Falta: cerrar la tarifa y la reserva
 - [ ] **Windhoek D0 y D13** *(Urban Camp o Arebbusch)* *(§5)*
 - [ ] **Walvis Bay ×2** *(Lagoon Chalets)* *(§5)*

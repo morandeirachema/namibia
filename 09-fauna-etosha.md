@@ -66,7 +66,8 @@ flowchart LR
    leopardo 12 %** ◐ — y el **0 % del oricteropo**, que precisamente por eso **quedó fuera de
    la guía** *(regla del 09/08: lo que nadie vio, no lleva ficha)*. Ojo con la unidad: es
    **por estancia en un campamento**, ni por día ni por viaje. Y como se duerme en los tres,
-   son tres tiradas y no una.
+   son tres tiradas y no una. *(Desde el 21/08 son **una noche en cada uno**: la cuarta se duerme
+   en Onguma, fuera de la puerta. Siguen siendo tres tiradas.)*
 2. **Los registros de GBIF** dentro del polígono real del parque *(y de otras tres zonas de la
    ruta)*, **filtrados a octubre y noviembre**: 4.529 registros de mamífero y 69.600 de ave solo
    en Etosha ◐. Eso mide **lo que se registra**, que no es lo que se ve, así que la guía dice
@@ -173,6 +174,17 @@ iluminadas, el safari nocturno guiado de NWR (**N$750 ≈ €38** por persona) y
 08/08— **las salidas guiadas de mañana desde cada campamento (N$650 ≈ €33 por persona)**: los
 traslados entre campamentos van con el 4x4 propio—, y un **bloque de
 seguridad** con las serpientes y el escorpión que de verdad importan.
+
+> 🔁 **Ajuste del 21/08 y afecta a las tres especies nocturnas.** La cuarta noche de Etosha se
+> duerme en **Onguma Tamboti**, reserva privada fuera de la puerta de Von Lindequist, en vez de
+> la segunda de Namutoni. Consecuencias para la fauna: **el nocturno guiado de NWR se adelanta al
+> D11**, que es cuando se duerme en Namutoni *(mismo sitio, mismo precio)*; y el **D12 por la
+> tarde** se abre una segunda tirada a lo nocturno, el **Sundowner Drive de Onguma (3 h, N$980 ≈
+> €49 pp ✅, tarifa oficial 2027)**, que **sale al atardecer y vuelve de noche, con foco y campo a
+> través** — las dos cosas prohibidas dentro del parque. Para el **zorro del Cabo**, el **gato
+> montés africano** y el **lobo de tierra** eso son **dos oportunidades en vez de una**. ⚠️ Un
+> «night drive» como tal **no figura en la tarifa de Onguma** ❌; el que sale de noche es el
+> sundowner.
 
 ---
 

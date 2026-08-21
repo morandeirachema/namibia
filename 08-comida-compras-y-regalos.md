@@ -134,11 +134,16 @@ bebida** *(viernes = alcohol disponible; el domingo 8 no habrá)*.
   *(Kamanjab: «patatas, alcohol y poco más» ○.)* Recuerda la **Línea Roja** (`07`): la carne que
   subas se come EN Etosha.
 
-### Dentro de Etosha (D9–D12)
-- Okaukuejo, Halali y Namutoni: **restaurante, kiosco y tienda pequeña con básicos y bebidas
-  frías** ◐; la gasolinera «el 95 % del tiempo tiene, pero ha llegado a agotarse»
+### Etosha (D9–D12)
+- **D9–D11, dentro** — Okaukuejo, Halali y Namutoni: **restaurante, kiosco y tienda pequeña con
+  básicos y bebidas frías** ◐; la gasolinera «el 95 % del tiempo tiene, pero ha llegado a agotarse»
   ([nwrnamibia](https://www.nwrnamibia.com/etosha-food-eating-fuel.htm)). Los foros insisten: esas
   tiendas **no dan para avituallarse** ○. Leña en los camps: **sin dato**.
+- **D12, ya fuera: Onguma Tamboti** ✅ *(donde se duerme desde el cambio del 21/08)* — **kiosco**
+  con lo básico, **hielo, leña y braai packs**, y **restaurante à la carte: la cena se reserva AL
+  LLEGAR, en recepción** *(tarifa oficial 2027)*. Desayuno suelto N$320 (~€16). **La compra del
+  braai de esa noche se hace igualmente en la tienda de Namutoni antes de salir** ○: el kiosco es
+  kiosco.
 
 ### Otjiwarongo (D13)
 - Spar «enorme», OK y Multisave ○ — para el picoteo del último día, poco más hace falta.

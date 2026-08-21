@@ -213,7 +213,7 @@ flowchart TD
   rupestre san** con guía local *(N$270 · ~€13,5 ◐, `11`)*, **artesanía damara comprada al
   artista** en los puestos del cruce *(`08`)* y la noche en **Hoada, campamento comunitario**
   cuya caja se queda en la conservancy ◐.
-- **D11–D12 · Namutoni** — el fuerte blanco donde acampáis es la reconstrucción del puesto
+- **D11 · Namutoni** — el fuerte blanco donde acampáis es la reconstrucción del puesto
   alemán que **en enero de 1904 defendieron siete soldados frente a cientos de guerreros
   ondonga** — resistieron el día y escaparon de noche; los ovambo lo arrasaron, y la versión
   reconstruida es hoy vuestro campamento ◐

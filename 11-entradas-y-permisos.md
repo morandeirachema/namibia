@@ -60,7 +60,7 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
     cifra en «22,50 €/extranjero» — al cambio son **≈ N$450, discordante con el baremo**: lleva
     efectivo de sobra y paga lo que diga la taquilla. Gestiona el **National Heritage Council**.
   - **OJO geografía:** está junto a **Grootfontein**, en el **noreste**. Con esta ruta queda como
-    **desvío opcional del D13** (Namutoni → Windhoek vía Grootfontein) — ver `01`.
+    **desvío opcional del D13** (Onguma → Windhoek vía Grootfontein) — ver `01`.
   - Fuente: [TripAdvisor — Hoba Meteorite](https://www.tripadvisor.com/Attraction_Review-g1137965-d3609771-Reviews-Hoba_Meteorite-Grootfontein_Otjozondjupa_Region.html)
 
 - **Waterberg Plateau** ◐/✅

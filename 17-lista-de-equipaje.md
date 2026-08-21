@@ -81,11 +81,25 @@ el viaje sigue; si se pierde la cabina, no.
 
 *Por qué esta ropa y no otra, en [`05`](05-equipaje.md). Aquí van los números.*
 
-- [ ] **Camisetas transpirables ×5** — una puesta, cuatro en el petate. Con nombre: la **Forclaz
-      Resist** y, como mejor opción, la merina **[Merino REC Fresh](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-lana-merina-reciclada-hombre-merino-rec-fresh/364687/c372m8939992)** ○
-      *(la merina aguanta varias puestas sin oler — oro con una sola colada en quince días)*
-- [ ] **Camisas de manga larga ligeras ×2** — sol de mediodía y mosquitos del anochecer. Para el
-      día de dunas, mejor si una es **UPF 50+**: la camiseta clara de algodón es UPF ~7, y ~3
+- [x] **Camisetas transpirables ×5** — una puesta, cuatro en el petate. **Resuelto (21/08): 3 de
+      lana merina ya en casa** — **2 de Decathlon** *(la
+      [Merino REC Fresh](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-lana-merina-reciclada-hombre-merino-rec-fresh/364687/c372m8939992),
+      que era la recomendada aquí)* **y 1 de Patagonia** ○. *La merina aguanta varias puestas sin
+      oler: es exactamente lo que compra este viaje, con **una sola colada en quince días**
+      (`05`).* **Faltan 2 para llegar a cinco** — sintéticas normales valen: la **Forclaz Resist**
+      o cualquiera de casa. ⚠️ Y una nota de uso: la merina **se seca más despacio** que la
+      sintética, así que la colada de Swakopmund se tiende **la primera noche, no la última** ○
+- [ ] **Camisas de manga larga ligeras ×2** — sol de mediodía y mosquitos del anochecer.
+      **Una resuelta (21/08): [Craghoppers NosiLife Adventure III](https://www.craghoppers.com/mens-nosilife-adventure-long-sleeved-shirt-iii-parchment/)**
+      ✅ — es **la** camisa de este viaje y merece explicación: **el tejido lleva repelente de
+      insectos incorporado** *(NosiLife, base de **aceite de Eucalyptus citriodora**, «para toda la
+      vida de la prenda» según su ficha ✅)*, es **ripstop de nailon reciclado** con
+      **protección solar UPF 40+** ◐ *(su propia ficha, leída el 21/08; en la misma página conviven
+      otros productos con UPF 50+, de ahí el ◐)*, cuello abatible que tapa la nuca, espalda
+      ventilada, mangas enrollables y **5 bolsillos, uno con cremallera**. **No sustituye al
+      repelente de piel** —el DEET va igual en muñecas, tobillos y cuello— pero quita la camisa de
+      la ecuación en la espera de la charca. *Para la segunda camisa, mejor si es
+      **UPF 50+**: la camiseta clara de algodón es UPF ~7, y ~3
       empapada ◐ *([skincancer.org](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/))*.
       Modelo encontrado en UPF 50+: **[Camiseta protección solar manga larga UPF 50+](https://www.decathlon.es/es/p/camiseta-proteccion-solar-hombre-manga-larga-upf-50-gris-oscuro/332579/m8975975)**
       ❌ *(precio sin verificar hoy; ojo, el corte es de deporte acuático — comprobar en foto que
@@ -117,7 +131,9 @@ el viaje sigue; si se pierde la cabina, no.
       la costa *(13–15 °C, 88 % de humedad y viento: sensación ~10–11 ◐)*; ninguna fuente lo exige
       en noviembre. La térmica hace de pijama en la costa. **Ambos ya en posesión**: gorro fino ○
       y camiseta térmica **Under Armour** ○ — no hace falta comprar nada
-- [ ] **Bañador ×1** — hay piscina en Okaukuejo, Halali y Namutoni ✅
+- [ ] **Bañador ×1** — hay piscina en Okaukuejo, Halali y Namutoni ✅ *(en Onguma Tamboti, la del
+      D12, la piscina es de Onguma Bush Camp y sirve a la otra parcela, Leadwood — no a la
+      vuestra ◐)*
 - [ ] **Ropa de dormir ligera ×1**
 - [ ] **Sombrero de ala ×1** — de ala **≥7,5 cm** ✅ *([skincancer.org](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/))*, no gorra: las orejas y
       la nuca se queman igual. Y **con barbuquejo** ◐ — el viento de la costa está en su máximo
@@ -188,8 +204,14 @@ ya hace el apaño.
       ✅ 9,99 €/ud (19,98 € los dos)
 - [ ] Bolsas de basura ×5, **ziplocs ×10** y **×4 grandes tipo escombro para enfundar los petates
       en la caja del pick-up** ◐ *([Expert Africa](https://www.expertafrica.com/namibia/info/namibia-holiday-and-safari-packing-list) y [FullSuitcase](https://fullsuitcase.com/namibia-packing-list/) las piden así)*
-- [ ] **Detergente de viaje ×1** — **[jabón concentrado multiusos Pharmavoyage](https://www.decathlon.es/es/p/jabon-concentrado-multiusos-biologico-de-camping/X8598405/m8598405)**
-      ✅ 8,99 € (100 ml, sirve para ropa, cuerpo y vajilla), y **[tendedero de camping 5 m
+- [x] **Detergente de viaje ×1** — **resuelto (21/08): jabón WILDERNESS de 100 ml** ○, un
+      multiusos biodegradable de la misma familia que el
+      **[Pharmavoyage](https://www.decathlon.es/es/p/jabon-concentrado-multiusos-biologico-de-camping/X8598405/m8598405)**
+      ✅ 8,99 € que este ítem proponía *(100 ml, sirve para ropa, cuerpo y vajilla)*. ❌ *Su
+      composición y su rendimiento no se han verificado aquí: mira en la etiqueta que sea
+      **biodegradable** y que valga para ropa, y **cuenta 100 ml para dos personas y quince
+      días** — da para la colada de Swakopmund y algún lavado de pila, no para más ○.*
+      Y **[tendedero de camping 5 m
       Quechua](https://www.decathlon.es/es/p/tendedero-para-camping-5-m-quechua/323789/c251c227m8578470)**
       ✅ 4,99 € — trae 20 perlas integradas que sujetan la ropa: **no hacen falta pinzas aparte**.
       El respaldo a mano de la colada *(la cómoda es la lavandería de Swakopmund ◐ —
@@ -228,7 +250,7 @@ ya hace el apaño.
       **[cápsulas de sal ×100 de Decathlon](https://www.decathlon.es/es/p/capsulas-de-sal-x100/188711/g78m8409161)**
 - [ ] **Antihistamínico** — 1 caja ○
 - [ ] **Protector gástrico** — 1 caja ○
-- [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.757 km, y el paso de Spreetshoogte y la
+- [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.764 km, y el paso de Spreetshoogte y la
       grava del D8 se notan)*
 - [ ] **Laxante suave o fibra** ○ — dieta de camping y poca verdura
 - [ ] **Antitusivo o descongestionante — 1 caja** ○ *(kit CDC: el polvo de pista y el aire seco)*
@@ -273,13 +295,45 @@ ya hace el apaño.
       *([AAD](https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen) · [Skin Cancer Foundation](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sunscreen/))*
 - [ ] **Protector labial con filtro ×2** ○
 - [ ] **Aftersun ×1** ○
-- [ ] **Repelente con DEET ≥20 % (o icaridina) ×2 frascos** ✅ — y el orden importa: **siempre
-      crema solar primero, repelente encima**
-      *([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia))*
+- [x] **Repelente con DEET ≥20 % (o icaridina) ×2 frascos** ✅ — **resuelto (21/08): Goibi Xtreme
+      Trópical** ✅, **DEET al 45 %** *(N,N-dietil-m-toluamida 45 g/100 g + etanol; ficha de
+      farmacia ◐◐, dos fuentes concordantes)*: **muy por encima del ≥20 % que pide el CDC**, con
+      **hasta 12 h de protección frente a mosquito y 8 h frente a garrapata** ◐, y **a partir de 2
+      años**. Y el orden importa: **siempre crema solar primero, repelente encima**
+      *([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia))*.
+      ⚠️ **Dos avisos que trae el DEET al 45 %** ○: **disuelve plásticos y lacas** —cuidado con las
+      gafas, la pantalla del móvil, la correa del reloj y **la carcasa de los prismáticos y de la
+      cámara**: échalo con las manos limpias después— y **se lava al llegar al campamento**, no se
+      duerme con él. **Comprueba que quedan dos frascos**: la lista pide 2 y son 15 días
 - [ ] **Permetrina para tratar ropa, calcetines y botas ANTES de salir ×1** ✅ — el CDC la pide
       expresamente para esta zona: *«use permethrin-treated clothing and gear (such as boots,
       pants, socks, and tents)»* — cubre mosquito Y garrapata a la vez, aguanta varios lavados, y
       **nunca va sobre la piel** *(misma ficha del CDC)*
+
+      > ⚠️ **Ojo, que esto NO está cerrado (21/08): el Diptron Textil comprado no es permetrina.**
+      > Su principio activo es **butilacetilaminopropionato de etilo (IR3535) al 25,5 %** ◐◐ *(dos
+      > fichas de distribuidor concordantes —
+      > [comercialmida](https://comercialmida.es/products/diptron-textil-repelente-insectos-ropa-100ml-quimunsa) ·
+      > [plagasonline](https://www.plagasonline.es/garrapatas/repelente-garrapatas-y-mosquitos-textil-100ml-1137.html))*,
+      > no permetrina. **Sirve, y sirve bien** —hasta **3 meses contra mosquito y 1 mes contra
+      > garrapata**, según lavados, pulverizado sobre la prenda a razón de ~1,6 ml/m²—, pero **no
+      > es el producto que nombra el CDC**, así que el ítem queda **cumplido a medias**.
+      >
+      > **Las tres salidas, para decidir sin darle más vueltas:**
+      > 1. **Dejarlo así** ○ — el riesgo real de esta ruta en noviembre es **mosquito**, no
+      >    garrapata, y ahí el IR3535 textil aguanta los quince días de sobra. **Es la opción
+      >    razonable si no apetece comprar nada más.**
+      > 2. **Añadir permetrina de verdad**: **[NOBITE Textil, 100 ml](https://www.amazon.es/NOBITE-004-nobite-Spray-para/dp/B00E67EWCA)**
+      >    ◐ *(permetrina al 2 %; ~4 semanas frente a insectos y ~2 frente a garrapatas, impregna
+      >    unas 4 prendas, sin olor y sin teñir; apto desde los 3 años)*. Es el que cumple el ítem
+      >    tal como está escrito.
+      > 3. **No hace falta ninguna de las dos para la camisa buena**: la Craghoppers **ya trae
+      >    repelente en el tejido** ✅ *(ver Ropa)*. La permetrina/IR3535 es para **calcetines,
+      >    pantalones y el resto**.
+      >
+      > **Y en cualquier caso: se pulveriza en casa, al aire libre, con la prenda tendida, y se
+      > deja secar del todo antes de meterla en el petate** ✅ — nunca sobre la piel, y no se
+      > aplica en el destino.
 
 ## 🔌 Electrónica y energía
 
@@ -300,16 +354,22 @@ ya hace el apaño.
       regleta *(elegida sin USB)* y el enchufe del poste: el cargador de mechero solo carga con el
       motor en marcha. **Cualquiera de los de casa sirve** — se apunta para que no se quede en la
       mesilla
-- [ ] **Powerbank ×1 grande** ○ *(el enchufe en parcela quedó confirmado el 11/08 para los cuatro
+- [x] **Powerbank ×1 grande** ○ *(el enchufe en parcela quedó confirmado el 11/08 para los cuatro
       NWR de interior ◐ — `18` §5; el powerbank cubre Spreetshoogte, Hoada y las tomas rotas de
-      Sesriem)*. **Ya en posesión** ○ — no hace falta comprar
+      Sesriem)*. **Resuelto (21/08): Anker de 20.000 mAh, ya en posesión** ○ — no hace falta
+      comprar.
+      ⚠️ **Y esto sí importa el día del vuelo: VA EN CABINA, nunca en la maleta facturada** ✅ —
+      es norma IATA para toda batería de litio suelta. Los 20.000 mAh a 3,7 V son
+      **~74 Wh**, **por debajo del límite de 100 Wh** que las aerolíneas dejan pasar sin permiso
+      previo ✅: no hay trámite, pero **tiene que ir contigo**. *(La misma regla vale para las
+      baterías sueltas de la cámara — ver abajo.)*
 - [ ] **Cables de carga ×2 de cada tipo** ○ — el polvo mata conectores
 - [ ] **Funda para el teléfono ×1 p.p.** ○ — que aguante polvo y golpes: el móvil vive quince días
       entre grava, arena y el salpicadero *(para el día de niebla y salitre de la costa ya está la
       bolsa estanca)*. Modelo: **[Funda estanca IPX8](https://www.decathlon.es/es/p/funda-estanca-telefono-movil-ipx8/346905/m8802142)**
       ✅ 9,99 €/ud — antipolvo y anti-agua a la vez, hasta 90×180 mm
 - [ ] **Soporte de móvil para el salpicadero ×1** ◐ — Tracks4Africa es el navegador del viaje y
-      son 2.757 km: el móvil va sujeto, no en el regazo — y que agarre de verdad, que el
+      son 2.764 km: el móvil va sujeto, no en el regazo — y que agarre de verdad, que el
       corrugado vibra *([FullSuitcase](https://fullsuitcase.com/namibia-packing-list/) lo pide
       así: «must attach securely for rough gravel roads»)*
 - [ ] **Frontal ×1 por persona, con modo rojo** ○ — letrina a las 3 AM, montar la tienda al
@@ -338,14 +398,50 @@ ya hace el apaño.
 - [ ] **Satelital con SOS** ✅ — reservado y pagado como extra del alquiler de Savanna *(`20` §1)*
       — no hace falta comprar ni alquilar nada aparte.
 
+### 📷 La cámara — aquí solo lo que es equipaje, no fotografía
+
+*Las decisiones de fotografía tienen repo propio, aparte de este dossier. En esta lista entra solo
+lo que hay que **meter en un bulto y pasar por un control de aeropuerto**.*
+
+- [x] **Cuerpo — Sony α6700** ○, comprada (21/08)
+- [x] **Gran angular — Sony E 11 mm f/1.8** ○, comprado (21/08). En APS-C equivale a
+      **~16,5 mm**: es el de paisaje, el de Deadvlei al amanecer y **el de la Vía Láctea de las
+      noches de Etosha** *(luna nueva el 9–10 — `01`)*
+- [x] **Teleobjetivo — Sony E 70–350 mm G OSS, prestado** ○ *(equivale a ~105–525 mm)* — el de
+      fauna. **Devolverlo entra en el plan**: apúntalo en el repaso de la vuelta
+- [ ] ⚠️ **El hueco del kit, dicho antes de que moleste: entre 11 y 70 mm no hay nada** ○. Eso
+      deja fuera el rango de **elefante a treinta metros, paisaje con animal dentro y retrato de
+      campamento** — justo lo que más se dispara en un safari. **Si hay un objetivo de kit
+      16–50 mm por casa, va**; si no, la solución de campo es **encuadrar con el 70–350 y
+      recortar menos**, o tirar de móvil para el plano medio ○
+- [ ] **Baterías: la del cuerpo + ×2 de repuesto**, y **el cargador** ○ — comprados (21/08).
+      **Todas en cabina, nunca facturadas** ✅ *(norma IATA)*, y **con los contactos tapados** —una
+      funda o cinta aislante—: sueltas en una bolsa con llaves y monedas es como se cortocircuitan.
+      *Y cárgalas de noche del poste de la parcela, que hay enchufe en los cuatro campamentos
+      (`18` §5) — por eso este bulto lleva regleta y cargador de pared.*
+- [ ] **Tarjetas de memoria** ○ — compradas (21/08). ❌ *Capacidad y clase de velocidad sin
+      apuntar aquí: revísalo en casa.* Dos cosas que sí valen para hacer el equipaje: **llévalas
+      formateadas y con espacio de sobra** —cuatro días de safari en ráfaga se comen más de lo que
+      parece— y **repártelas: una puesta y las de repuesto en otro bulto**, que en el polvo y las
+      mudanzas de campamento es donde se pierden ○
+- [ ] **Limpieza: el paño de microfibra y la perilla que ya están en la lista** ✅ *(ver
+      Prismáticos)* — y la regla del Namib: **no cambiar de objetivo al aire libre con viento**;
+      si hay que hacerlo, **dentro del coche, con las ventanillas subidas** ○
+
 ## 🔭 Prismáticos
 
-*La cámara, el teleobjetivo y todo su equipo —trípode, bean bag, tarjetas, baterías, backup y
-limpieza— tienen repo propio, aparte de este dossier: fotografía es un mundo con sus propias
-decisiones.*
+*Las decisiones de fotografía —trípode, bean bag, backup, ajustes— tienen repo propio, aparte de
+este dossier. Lo que de la cámara es **equipaje** (cuerpo, objetivos, baterías, tarjetas y las
+normas de cabina) está arriba, al final de Electrónica.*
 
 - [ ] **Prismáticos ×1 por persona** ○ — compartir unos en una charca es pelearse, y viajan **en el
-      asiento, no en el maletero** ✅. Modelos verificados hoy — recomendado el **8x42** para la
+      asiento, no en el maletero** ✅. **Actualizado el 21/08: hay unos prestados** ○ — **con eso el
+      ítem queda a medias, no cerrado**: siguen haciendo falta **dos**, uno por cabeza, que es
+      justo el motivo de este punto. ❌ *Marca, aumentos y diámetro de los prestados, sin apuntar:
+      míralo en el tubo —dirá algo como «8x42» o «10x50»— porque decide qué conviene para el
+      segundo par.* Y **pruébalos en casa antes de meterlos**: enfoque, dioptrías y que no bailen
+      las lentes.
+      Modelos verificados para el par que falta — recomendado el **8x42** para la
       charca de noche: pupila de salida 5,25 mm frente a 4,2 mm del 10x42, se nota en luz baja.
       **[Solognac 500 8x42](https://www.decathlon.es/es/p/prismaticos-caza-solognac-500-8x42-caqui-estancos/_/R-p-327243)**
       ✅ 139,99 €/ud *(FMC, 77 % transmisión)* · más barato, **[Solognac 100
@@ -507,6 +603,11 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 - 🚁 **Dron: se queda en casa** ✅ — **no hay dónde volarlo en esta ruta**. El detalle, con fuentes,
   en [`11`](11-entradas-y-permisos.md)
 - ❌ **A la vuelta: nada de biltong ni carne en el petate** ✅ — prohibido entrar en la UE
+- 🔪 **La navaja, NO en cabina** ✅ — va **en la maleta facturada**, y solo ahí *(21/08: hay una en
+  el equipaje)*. Es el objeto que más se olvida en un bolsillo y el que te lo quitan en el
+  control; con maleta facturada en el billete *(`02` §8)* no cuesta nada meterla bien. **Para el
+  braai y la cocina de campamento el coche ya trae caja completa** ✅ *(`20` §1)*: la navaja es
+  extra, no imprescindible
 
 ---
 
@@ -518,7 +619,8 @@ flowchart TD
     A -->|"si"| B["¿Los 2 adaptadores<br/>tipo M en el daypack?"]
     B -->|"no"| B1["Es el fallo tonto<br/>mas probable del viaje"]
     B -->|"si"| C["¿Medicacion y gafas<br/>en CABINA?"]
-    C -->|"si"| D["¿Navaja y multiherramienta<br/>en el petate FACTURADO?"]
+    C -->|"si"| C2["¿Powerbank Anker y las baterias<br/>de la camara en CABINA,<br/>con los contactos tapados?"]
+    C2 -->|"si"| D["¿Navaja y multiherramienta<br/>en el petate FACTURADO?"]
     D -->|"si"| D2["¿Mecheros y pastillas FUERA<br/>de las maletas? Se compran alli<br/>- maximo uno en el bolsillo"]
     D2 -->|"si"| E["¿Mapas offline y Tracks4Africa<br/>descargados de verdad?"]
     E -->|"si"| F["Listo"]

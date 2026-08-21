@@ -31,11 +31,37 @@
 
 </div>
 
-**~2.757 km · 15 días de coche, aeropuerto → aeropuerto (31 oct – 14 nov, decidido 07/08) ·
-ningún día por encima de ~410 km salvo el regreso por asfalto (D13, ~550) · dos noches en la
+**~2.764 km · 15 días de coche, aeropuerto → aeropuerto (31 oct – 14 nov, decidido 07/08) ·
+ningún día por encima de ~410 km salvo el regreso por asfalto (D13, ~540) · dos noches en la
 escarpa de Spreetshoogte (decidido 08/08),
 dos en Sesriem, dos en la costa y CUATRO en Etosha ·
 llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
+
+> ### ✅ Las cuatro noches de Etosha, RESERVADAS — y la última se sale del parque *(21/08/2026)*
+> **9–10 nov · Okaukuejo** · **10–11 nov · Halali** · **11–12 nov · Namutoni** — las tres dentro,
+> a **N$920 (~€46) la noche los dos** ✅ — y la cuarta, **12–13 nov, en
+> [Onguma Tamboti](https://onguma.com/)**, el camping de la reserva privada que linda con la
+> puerta de Von Lindequist, **3,4 km pasada la puerta** ✅. Lo que cambia respecto a la segunda
+> noche de Namutoni que había aquí:
+>
+> - **No se pierde ninguna charca iluminada**: Okaukuejo el D9, Halali el D10 y Namutoni el D11
+>   siguen igual. La que se cambia es **la segunda noche de Namutoni, que era la charca más floja
+>   de las tres** — justo la que menos duele.
+> - **El nocturno guiado se adelanta del D12 al D11**, que es cuando se duerme en Namutoni. Sigue
+>   siendo desde ahí, y por el mismo argumento de siempre: se gasta en la noche en que menos se
+>   pierde. *(Y la luna, al ~5 % en vez del ~9 %: algo más oscuro todavía.)*
+> - **Las tres salidas guiadas de mañana no se tocan** —Okaukuejo el D10, Halali el D11 y
+>   **Namutoni el D12**, que se hace antes de salir del parque—: se compran durmiendo la víspera
+>   en cada campamento, y eso sigue cumpliéndose.
+> - **Se gana el D12 por la tarde**: una reserva privada de **35.970 ha** con **leopardo, guepardo
+>   y rinoceronte confirmados por escrito**, que vende **salida al atardecer con foco y campo a
+>   través** y **paseo guiado a pie** — las dos cosas prohibidas dentro del parque.
+> - **Y se gana media hora el D13**: durmiendo fuera **no hay que esperar a que la puerta abra**.
+> - **De coste**: **+N$320 (~€16) la pareja** *(Onguma N$1.240 frente a los N$920 de Namutoni)*, y
+>   **las tasas de parque no se mueven**: siguen siendo 4 unidades de 24 h.
+>
+> *Onguma por dentro, en [`21`](21-campamentos-de-etosha.md); su tarifa, en
+> [`03`](03-alojamiento-y-tasas.md); la reserva, en [`20`](20-reservas.md).*
 
 > ### 📅 El 1 de noviembre sigue siendo la fecha mágica
 > **NWR entra en tramo barato** (Sesriem, Halali, Okaukuejo, Terrace Bay — la primera noche NWR
@@ -75,7 +101,7 @@ gantt
     D9 Hoada-Okaukuejo :e9, after e8, 1d
     D10 Safari a Halali :e10, after e9, 1d
     D11 Safari a Namutoni :e11, after e10, 1d
-    D12 Etosha este :e12, after e11, 1d
+    D12 Etosha este y salida a Onguma :e12, after e11, 1d
     section Vuelta
     D13 Regreso a Windhoek :e13, after e12, 1d
     D14 Vuelo :e14, after e13, 1d
@@ -92,8 +118,9 @@ gantt
 > primeras horas de estrellas limpias en la escarpa)*; el **amanecer de Deadvlei (D4) lleva un
 > creciente menguante del ~27 % colgado sobre las dunas**; la costa apaga la luna del todo
 > *(D6 ~11 %, D7 ~5 %)*; y **las cuatro noches de Etosha (D9–D12) caen entre el 0 y el 9 %**:
-> charca iluminada **sin competencia lunar** y Vía Láctea de libro — el **nocturno del D12, con
-> ~9 %, en oscuridad casi perfecta**. La vuelta (D13–D14), con un creciente fino al atardecer.
+> charca iluminada **sin competencia lunar** y Vía Láctea de libro — y el **nocturno guiado, que
+> desde el 21/08 se hace el D11 en vez del D12, cae con la luna al ~5 % en lugar del ~9 %:
+> algo más oscuro todavía**. La vuelta (D13–D14), con un creciente fino al atardecer.
 > *(El registro del cálculo, en `15`; la fotografía nocturna tiene su propio repo, aparte de este
 > dossier.)*
 
@@ -136,7 +163,7 @@ gantt
 >
 > ```mermaid
 > flowchart TD
->     T["TIENDA DE TECHO · 9 noches ya resueltas<br/>D1-D2 Spreetshoogte · D3-D4 Sesriem dentro de la puerta<br/>D8 Hoada · D9 Okaukuejo · D10 Halali · D11-D12 Namutoni"]
+>     T["TIENDA DE TECHO · 9 noches ya RESERVADAS<br/>D1-D2 Spreetshoogte · D3-D4 Sesriem dentro de la puerta<br/>D8 Hoada · D9 Okaukuejo · D10 Halali · D11 Namutoni<br/>D12 Onguma Tamboti, ya fuera de la puerta"]
 >     D["POR ELEGIR CAMPING · 4 noches<br/>D0 y D13 Windhoek: Urban Camp o Arebbusch<br/>D5-D6 Walvis Bay: Lagoon Chalets<br/>existen y tienen camping, pero NO publican precio"]
 >     P["HABITACION, NO TIENDA · D7 Terrace Bay<br/>el tarifario oficial de NWR no tiene camping aqui:<br/>doble en media pension, N$3.480 (~EUR 174) los dos"]
 >     T ~~~ D ~~~ P
@@ -414,7 +441,7 @@ flowchart LR
 - 🐾 **La cifra real de la charca, de partes de viajeros** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/okaukuejo-camp/reviews/1),
   149 viajeros desde 2018 — cada % lleva su propia muestra ◐)*: **rino negro 87 % (119 de 137), elefante 97 %, jirafa 99 %, león 68 %** —
   andando desde la parcela *(método y las 148 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
-- 🛏️ **Camping Okaukuejo — N$920 (~€46)** ✅ · *capricho: chalet del charco N$4.760 (~€238)*
+- 🛏️ **Camping Okaukuejo — N$920 (~€46) los dos** ✅ — **RESERVADO el 21/08**
 
 ### D10 · mar 10 — Safari Okaukuejo → Halali · **~110 km de safari lento** ◐ *(OSRM 108 por el desvío obligatorio; la directa eran ~70)*
 - 🌡️ **Etosha, medias de noviembre: 37,1 °C máx / 18,9 °C mín** ✅ *(GHCN Okaukuejo, la estación
@@ -447,7 +474,7 @@ flowchart LR
   leopardo 31 % (12 de 39) — la mejor cifra de leopardo de los tres campamentos**: la charca al
   anochecer, sin prisa. Y el **chacal, fijo en el camping** ○ *(protocolo en `18` §7; GBIF lo da como el carnívoro más
   registrado de la ruta ◐)*
-- 🛏️ **Camping Halali — N$920 (~€46)** ✅
+- 🛏️ **Camping Halali — N$920 (~€46) los dos** ✅ — **RESERVADO el 21/08**
 
 ### D11 · mié 11 — Safari Halali → Namutoni · **~80 km de safari** ✅
 - 🌡️ **Etosha 37,1 / 18,9 ✅** — la noche más cálida del viaje: casi 19 °C de mínima
@@ -456,7 +483,12 @@ flowchart LR
 - 🧭 **Salida guiada de mañana desde Halali — N$650 (~€33)/persona** ✅ — y el traslado a
   Namutoni por la tarde con vuestro coche, parando en **Goas, Nuamses, Springbokfontein, Batia y
   Chudop** — el corazón del safari
-- **Se duerme DENTRO, como todo Etosha en esta ruta**: sin horas de puerta, con la charca al lado
+- 🌙 **Y ESTA NOCHE, EL NOCTURNO — N$750 (~€38)/persona ✅** *(adelantado del D12 al D11 el 21/08,
+  porque el D12 ya se duerme fuera del parque)*. Es la única forma legal de circular a oscuras, y
+  se sigue gastando **desde Namutoni**, que es donde menos se pierde: su charca es la más floja de
+  las tres. **Ciérralo en recepción nada más llegar**, junto con la guiada de mañana. La luna, al
+  **~5 %**
+- **Se duerme DENTRO**: sin horas de puerta, con la charca al lado
 - 🐾 **Partes de viajeros en Namutoni** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/namutoni-camp/reviews/1) — ojo, muestra corta: 16 viajeros y
   11–16 partes por especie ◐)*: jirafa,
   órix, ñu y cebra **100 %**, **guepardo 50 % (7 de 14) — la mejor cifra de guepardo, son sus
@@ -464,27 +496,55 @@ flowchart LR
   **Chudop, a un paso, compensa**. Y de día, ojo al suelo: la **mangosta rayada** sale en 400
   registros GBIF del parque *(101 en oct–nov ◐ — el gran ausente que destapó la revisión;
   ficha nueva del 08/08)*
-- 🛏️ **Camping Namutoni — N$920 (~€46)** ✅ *(el fuerte alemán, y Chudop a un paso)*
-- *Capricho opcional: **Onguma** (reserva privada justo al otro lado de la puerta de Von
-  Lindequist) ✅ desde N$620 (~€31) pp/noche en su camping hasta N$30.750 (~€1.538) pp/noche en
-  Camp Kala, todo incluido — leopardo y guepardo confirmados en su propia web, a cambio de perder
-  estar dentro del parque*
+- 🛏️ **Camping Namutoni — N$920 (~€46) los dos** ✅ — **RESERVADO el 21/08**, y ahora **una sola
+  noche**: la segunda se cambió por Onguma *(el fuerte alemán, su museo, la torre del atardecer y
+  Chudop a un paso)*
 
-### D12 · jue 12 — Etosha este · **~60–80 km de safari** ✅
+### D12 · jue 12 — Etosha este y salida a Onguma · **~56 km de safari** ◐ *(OSRM propio, con la salida por la puerta)*
 - 🌡️ **Etosha 37,1 / 18,9 ✅**
-- ☀️ amanecer **06:08** · anochecer **19:05**
-- 🧭 **Guiado de mañana en Namutoni (N$650 · ~€33 pp ✅) y por la noche EL NOCTURNO (N$750 ·
-  ~€38 pp ✅)** — la única forma legal de estar en el parque a oscuras *(decidido 08/08)*
-- Por vuestra cuenta, la tarde: **Fischer's Pan**, Chudop, Klein Namutoni — la esquina que casi nadie hace. *Ojo: Fischer's Pan
+- ☀️ amanecer **06:08** · anochecer **19:05** · 🚪 **Von Lindequist, 10–16 nov: 06:10–19:10** ✅
+- 🧭 **Guiado de mañana en Namutoni — N$650 (~€33) pp ✅** *(reservado anoche; se hace habiendo
+  dormido ahí, antes de dejar la parcela)*
+- Por vuestra cuenta, después: **Fischer's Pan**, Chudop, Klein Namutoni — la esquina que casi nadie hace. *Ojo: Fischer's Pan
   es el mejor sitio de aves acuáticas del parque **cuando hay agua**, y en noviembre está seco —
   lo que va bien es Chudop (león fiable) y el **Dik-dik Drive** de Klein Namutoni* ◐
-- 🛏️ **Namutoni, segunda noche — N$920 (~€46)** ✅
+- 🚪 **Y hoy hay una hora nueva: HAY QUE SALIR DEL PARQUE.** Von Lindequist cierra a las **19:10**
+  ✅ y **Onguma queda 3,4 km después** ✅ *(enrutado propio)* — con luz de sobra para montar
+- 🛏️ **Onguma Tamboti — RESERVADO el 21/08.** Rack oficial 2027 *(vigente del 01/11/26 al
+  31/10/27, justo vuestra noche)*: **N$540 + N$80 de tasa de conservación = N$620 (~€31) por
+  persona → N$1.240 (~€62) los dos** ✅, IVA y Social Development Levy incluidos. ❌ *El importe
+  exacto de la reserva, por confirmar: el dato que llegó (€132) era el de dos noches, antes de
+  quedarse en una.*
+- ⛺ **La parcela**: **25 parcelas**, máximo **2 tiendas / 4 personas**, **cada una con su ducha, su
+  wc y su enchufe** —lo que ningún campamento de NWR da—, limpieza diaria, **un lote de leña el día
+  de llegada** y **wifi gratis en recepción** ✅. Kiosco con lo básico, hielo, leña y braai packs;
+  **restaurante à la carte — la cena se reserva AL LLEGAR, en recepción** ✅. Recinto **vallado** ✅
+- 🦁 **Lo que compra dormir fuera esta noche**: una reserva privada de **35.970 ha** ✅ con
+  *«four of the Big Five (lion, leopard, rhino and elephant) roam free»* en su propia tarifa ✅ y
+  guepardo en su web ✅ — **la única de la zona con leopardo Y guepardo confirmados por escrito en
+  fuente propia**. De su tarifa oficial 2027, reservable desde el camping:
+  - **Sundowner Drive · 3 h · N$980 (~€49) pp** — sale al atardecer y **vuelve de noche, con foco y
+    campo a través**: las dos cosas, prohibidas dentro del parque
+  - **Onkolo Hide, media mañana · 3 h · N$720 (~€36) pp** *(mín. 2, máx. 7)* · **paseo
+    interpretativo a pie · 1½ h · N$980 (~€49) pp** *(16+)* — Etosha no permite andar en ninguna
+    circunstancia · game drive guiado **dentro de Etosha** 4 h **N$1.930 (~€97) pp**
+  - ⚠️ **Un «night drive» como tal NO figura en el tarifario oficial 2027** ❌; lo citan agregadores
+    independientes ◐ *([safaribookings](https://www.safaribookings.com/onguma))*, sin precio ni
+    horario. El que está en la tarifa —y el que hay que reservar— es el sundowner
+  - ⚖️ **El choque honesto**: el sundowner sale al atardecer, así que **hacerlo obliga a salir del
+    parque hacia las 17:00** y renunciar a la mejor hora de charcas del último día. **Son dos
+    planes buenos y excluyentes** — decidid al reservar; lo demás del viaje no depende de ello.
+  - 📌 **Las actividades y las comidas se reservan al hacer la reserva o al llegar a recepción** ✅
 
-### D13 · vie 13 — Etosha → Windhoek · **~550 km asfalto · ~5h30 de volante · 6h–6h30 con comida** ◐ *(OSRM 548)*
-- 🌡️ De **Etosha (37,1 ✅)** a **Windhoek (31,2 ✅)**: el día de bajar 6 grados y 550 km
-- ☀️ amanecer **06:08** (Namutoni) · anochecer **19:11** (Windhoek) — *la puerta de Von Lindequist
-  abre al amanecer: saliendo a las 06:10 llegas a Windhoek con la tarde entera*
-- Von Lindequist → Tsumeb → Otjiwarongo → B1 · salida al alba, comida en Otjiwarongo
+### D13 · vie 13 — Onguma → Windhoek · **~539 km asfalto · ~5h30 de volante · 6h–6h30 con comida** ◐ *(OSRM propio; desde Namutoni eran 548)*
+- 🌡️ De **Etosha (37,1 ✅)** a **Windhoek (31,2 ✅)**: el día de bajar 6 grados y 540 km
+- ☀️ amanecer **06:08** (Onguma) · anochecer **19:11** (Windhoek)
+- ⏰ **Y aquí el cambio del 21/08 regala tiempo**: durmiendo **fuera** del parque **ya no hay que
+  esperar a que Von Lindequist abra a las 06:10** — se sale en cuanto esté el coche cargado, con el
+  desayuno hecho la víspera. **Media hora larga de ventaja** en el día más largo de asfalto
+- Onguma → C38 → Tsumeb → Otjiwarongo → B1 · comida en Otjiwarongo
+- ⛽ **Primer repostaje, Tsumeb: 105 km** ✅ *(enrutado propio)* — el depósito no se fía a los
+  surtidores del parque *(`07`)*
 - 🥩 **Línea Roja**: la carne cruda no baja del norte — el braai se come en Etosha
 - 🐾 **Alrededor del camping: ciudad otra vez — la fauna se queda en la Línea Roja** ○
 - 🛏️ **Windhoek, arriba y CON coche** — la entrega ya no es hoy: **decidido (07/08)**, se
@@ -549,22 +609,29 @@ flowchart LR
 - **Alquiler — RESERVADO, 15 días completos, con transfer aeropuerto ↔ oficina (31 oct 11:00 – 14
   nov 18:00)**: **Savanna, €2.363 en total** ✅, con Opción 4 (franquicia cero) y km ilimitados
   *(`20` §1; Asco, descartada: €2.652 en su banda alta)*
-- **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 + Namutoni 2×920 =
-  **N$6.360 (~€318)** ✅ — **las 4 noches de Etosha, dentro del parque**
+- **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 + Namutoni 920 =
+  **N$5.440 (~€272)** ✅ — **tres de las cuatro noches de Etosha, dentro del parque**
   *(+ **Terrace Bay cerrado ✅ — N$3.480 · ~€174 la pareja**; Spreetshoogte, Walvis, Windhoek y
   Hoada: sin cerrar)*
+- **La cuarta noche de Etosha, fuera: Onguma Tamboti (D12) — N$1.240 (~€62) los dos** ✅ *(rack
+  oficial 2027: N$540 + N$80 de tasa de conservación por persona)*. **Las 4 noches de Etosha suman
+  N$4.000 (~€200)**, N$320 (~€16) más que con la segunda de Namutoni
 - **Tasas de parque**: Namib 2 + Skeleton 1 + Etosha 4 = 7 unidades × N$620 + **la entrada propia
   de Cape Cross (~N$350 los dos)** ≈ **N$4.690 (~€234)** ◐
 - **Safaris guiados de Etosha (decidido 08/08)**: 3 mañanas + nocturno = **N$5.400 (~€270)** ✅
   *(tarifas NWR; + lanzadera Deadvlei N$360 · ~€18 — selección sin reservar: en recepción)*
-- **Combustible ~2.757 km** *(control OSRM 08/08)*: ~305–360 l ≈ **N$7.930–10.440 (~€396–522)** ○
-  — presupuestado **~N$9.000 (~€450)** *(ver `02` §4)*
+- **Combustible ~2.764 km** *(control OSRM 08/08, rehecho el 21/08)*: ~304–359 l ≈
+  **N$7.910–10.420 (~€396–521)** ○ — presupuestado **~N$9.000 (~€450)** *(ver `02` §4)*
 - **Visado**: N$3.200 (~€160) los dos ✅
-- **Total tierra en camping ≈ ~€4.663 (~N$93.300)** la pareja ○/◐, banda ~€4.363–4.963 — *el coche,
+- **Total tierra en camping ≈ ~€4.680 (~N$93.600)** la pareja ○/◐, banda ~€4.380–4.980 — *el coche,
   RESERVADO con Savanna, es cifra cerrada (€2.363 los 15 días completos). Sumando
-  vuelos (**€3.072, EMITIDOS el 10/08**) y seguro IATI Estrella (€226,04):
-  **~€7.963 (~N$159.300) la pareja · ~€3.982 por persona** (ver `02`; actualizado el 12/08 con el
-  coche cerrado)*
+  vuelos (**€3.072, EMITIDOS el 10/08**) y seguro IATI Estrella (€226,04 — **se contrata con el
+  código de Chavetas**, `20` §3):
+  **~€7.980 (~N$159.600) la pareja · ~€3.990 por persona** (ver `02`; actualizado el 21/08 con las
+  cuatro noches de Etosha reservadas — **+€8 por persona** sobre la cifra del 12/08)*
+- ➕ **Opcional, sin decidir: el Sundowner Drive de Onguma el D12 — N$1.960 (~€98) los dos** ✅.
+  Queda **fuera** del total de arriba a propósito: es un capricho con precio verificado, no una
+  partida acordada
 
 ### ⏰ Los horarios que mandan *(✅/◐ = con fuente en el dossier · ☀️ = cálculo astronómico ±5 min)*
 
@@ -611,7 +678,9 @@ y todo lo de fuera de Etosha. *(La cuenta anterior —«de día no compensa»—
 
 - **Etosha → GUIADO, decidido (08/08)**. El plan: **salida guiada de mañana en cada campamento**
   *(Okaukuejo D10 · Halali D11 · Namutoni D12, N$650 ≈ €33/persona cada una ✅)* y **el nocturno
-  en Namutoni el D12** *(N$750 ≈ €38/persona ✅)*. Los **traslados Okaukuejo → Halali → Namutoni
+  en Namutoni — el D11, adelantado un día el 21/08** *(N$750 ≈ €38/persona ✅)*, porque el D12 ya se
+  duerme fuera del parque, en Onguma. **Las cuatro se compran igual**: cada una se reserva
+  durmiendo la víspera en ese campamento, y eso se sigue cumpliendo. Los **traslados Okaukuejo → Halali → Namutoni
   siguen siendo con vuestro 4x4** —no hay alternativa: el coche viaja con vosotros— y se hacen
   como safari lento de tarde, parando en las charcas. *(La charca iluminada de cada campamento es
   gratis y andando desde la parcela.)* Tips ○ para los traslados: en las charcas apaga el motor y
@@ -640,11 +709,13 @@ o un lobo de tierra** *(los tres, con ficha nueva del 08/08)* — o leones cazan
 se quedó fuera de la guía a propósito: **0 % en 149 partes — nadie lo vio**; lo que sí veréis son
 sus excavaciones en los termiteros.)* **N$1.500 (~€75) los dos.**
 
-> ### 👉 Y hazlo desde NAMUTONI, no desde Okaukuejo
+> ### 👉 Y hazlo desde NAMUTONI — la noche del D11 *(adelantado del D12 el 21/08)*
 > Sale de cruzar dos datos: la charca iluminada de **Okaukuejo es probablemente el mejor sitio de
 > África para ver rinoceronte negro de noche**, y la de **Halali es famosa por el leopardo y el
 > puercoespín** — las dos **gratis y andando desde la parcela**. La de **Namutoni es la más floja**.
-> **Gasta el nocturno la noche en que menos pierdes.**
+> **Gasta el nocturno la noche en que menos pierdes.** El argumento no cambia; cambia la fecha,
+> porque **la noche del D12 ya se duerme en Onguma, fuera del parque**. Con la luna al **~5 %**,
+> además, sale algo más oscuro que el D12.
 >
 > ⚠️ Pregunta al reservar si **se puede dejar cerrado desde España**: la tarifa de NWR avisa de que
 > no acepta reservas anticipadas de actividades en temporada de lluvias. 📞 +264 67 229 800.
@@ -654,10 +725,13 @@ sus excavaciones en los termiteros.)* **N$1.500 (~€75) los dos.**
 **Fuera de Etosha**, ya en el dossier: la **lanzadera de Deadvlei N$180** ✅, el safari guiado de
 mañana de Sesriem N$600–700 (~€30–35), Elim Dune N$300 (~€15) y el cañón N$200 (~€10) *(ver [`03`](03-alojamiento-y-tasas.md))*.
 
-**Y las reservas privadas —Ongava, Okonjima, Onguma— no son una mejora del plan**: una sola noche en
-Ongava cuesta **~N$37.000 (~€1.850) los dos**, con la tasa de conservación incluida — el triple que
-las trece noches de camping de todo el viaje. Son otro producto. *(Okonjima, por sus leopardos y
-rinocerontes con collar, es el único capricho con argumento — como parada del D13.)*
+**Y los LODGES de las reservas privadas —Ongava, Okonjima, el Fort de Onguma— siguen sin ser una
+mejora del plan**: una sola noche en Ongava cuesta **~N$37.000 (~€1.850) los dos**, con la tasa de
+conservación incluida — el triple que las trece noches de camping de todo el viaje. Son otro
+producto. *(Okonjima, por sus leopardos y rinocerontes con collar, es el único capricho con
+argumento — como parada del D13.)* **Lo que sí entró en el plan el 21/08 es el CAMPING de una de
+ellas**: Onguma Tamboti el D12, a **N$620 (~€31) por persona** ✅ — la reserva privada por el precio
+del parque, sin el lodge.
 
 ---
 
@@ -674,10 +748,15 @@ rinocerontes con collar, es el único capricho con argumento — como parada del
   privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También
   cerrado el **camping de Spitzkoppe: N$270/persona → N$540/noche (~€27), entrada incluida** ◐
   *(fuera de la ruta)*
-- ◐ **Km del D7 y del D13 — recalibrados el 09/08 con el enrutado OSRM propio**: la costa
-  **Walvis Bay → Terrace Bay ≈ ~410 km** *(la triangulación secundaria del 03/08 daba ~380 y se
-  quedaba corta: su tramo «Cape Cross → Terrace Bay ~200» era menor que la línea recta, 220)* y el
-  **Namutoni → Windhoek ≈ ~550 km** *(OSRM 548; secundarias 553–575)*. Detalle y fuentes en `13`.
+- ◐ **Km del D7 y del D13 — recalibrados el 09/08 con el enrutado OSRM propio y revisados el
+  21/08**: la costa **Walvis Bay → Terrace Bay ≈ ~410 km** *(la triangulación secundaria del 03/08
+  daba ~380 y se quedaba corta: su tramo «Cape Cross → Terrace Bay ~200» era menor que la línea
+  recta, 220)* y el regreso, que **ya no sale de Namutoni sino de Onguma: ~539 km** *(OSRM propio;
+  desde Namutoni eran 548 y ahí convergían las secundarias, 553–575)*. Detalle y fuentes en `13`.
+- ✅ **Las cuatro noches de Etosha, RESERVADAS el 21/08** — Okaukuejo, Halali, Namutoni y **Onguma
+  Tamboti el D12**. Lo que queda abierto de la última: **el importe exacto de la reserva** ❌ *(el
+  dato recibido, €132, era el de dos noches)* y **si Onguma hace un night drive de verdad**, que su
+  tarifa oficial 2027 no lista ❌ *(ver D12)*.
 - ◐ **Km del D8 ya cerrados (03/08)** — **Terrace Bay → Twyfelfontein ≈ ~216 km** por la ruta directa
   de Springbokwasser (96 a la puerta + 120 a Twyfelfontein; routeplanner + negativo de la C39) **y la
   cola Twyfelfontein → Hoada ≈ ~155 km** (Palmwag ~110 + ~50, o Grootberg ~130 + 25; «~2,5 h» del

@@ -158,6 +158,9 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
   nada ❌)*. Los de referencia: **Mediclinic Otjiwarongo** (arriba) y **Tsumeb Private Hospital
   +264 67 221 001** ◐. Y el problema añadido: **las puertas del parque cierran del ocaso al
   amanecer** — de noche, la salida es con el personal del campamento y la llamada al 924/999.
+  ✅ **La excepción es el D12**: desde el cambio del 21/08 esa noche se duerme en **Onguma, fuera
+  de la puerta**, así que **no hay puerta echada por delante** — de Onguma a **Tsumeb** hay
+  **105 km** ✅ *(enrutado propio)* y se pueden hacer a cualquier hora.
   Precisamente por eso las cuatro primeras horas de vigilancia importan tanto en Etosha.
 
 ## 5. Que no pase — la prevención, que es casi toda ✅◐

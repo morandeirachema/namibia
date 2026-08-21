@@ -58,9 +58,10 @@ subida es justo esa presión al alza que ya se avisaba abajo, materializándose.
 interior, **como estimación, no como dato**. 👉 **Recomprueba la semana antes de salir.**
 
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: el
-Ford doble cabina cargado en los **~2.757 km de la ruta** (control OSRM 08/08), a
-**~11–13 l/100 km**, quema **~305–360 l** → banda **N$7.930–10.440 (~€396–522)**, central
-**~N$8.932 (~€447)** con el diésel a N$27/l de agosto *(era menos con el precio de julio)*.
+Ford doble cabina cargado en los **~2.764 km de la ruta** (control OSRM 08/08, rehecho el 21/08
+con la última noche en Onguma), a
+**~11–13 l/100 km**, quema **~304–359 l** → banda **N$7.910–10.420 (~€396–521)**, central
+**~N$8.955 (~€448)** con el diésel a N$27/l de agosto *(era menos con el precio de julio)*.
 **Se presupuesta ~N$9.000 (~€450) — €225 por persona**; el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
 2.800–3.200 km de la ruta con el sur.)*
 
@@ -169,7 +170,9 @@ el corte te tocara a ti. El respaldo estable queda **fuera de la puerta de Ander
 Trading Post, a 6,5 km, con diésel 50 ppm y gasolina 95** ◐
 *([web](https://www.etosha-tradingpost.com/facilities.html))* — la regla de los días de Etosha,
 en el [`21`](21-campamentos-de-etosha.md): entrar lleno de Outjo y no fiar el D13 al surtidor de
-Namutoni.
+Namutoni. ⚠️ **Y desde el 21/08 hay un matiz nuevo: la última noche se duerme en Onguma, fuera del
+parque, y Onguma no tiene surtidor** ❌ — el último de dentro es el de Namutoni, el D12 por la
+tarde; el siguiente seguro es **Tsumeb, a 105 km** ✅.
 
 ---
 

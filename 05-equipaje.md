@@ -113,11 +113,18 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   de la sed. Y la regla del agua ✅ (`06`/FCDO): **4+ L por persona y día EN el coche** — como
   suelo: la referencia overlanding pide **5 L y doblar el margen** en los tramos sin servicios ◐
   *([Tracks4Africa](https://blog.tracks4africa.co.za/water-supply-overland/))*
-- **Repelente con DEET ≥20 % (o icaridina)** ✅
+- **Repelente con DEET ≥20 % (o icaridina)** ✅ — **resuelto el 21/08: Goibi Xtreme Trópical,
+  DEET al 45 %** ◐, muy por encima del mínimo *(el detalle y sus dos avisos —disuelve plásticos y
+  se lava al llegar al campamento— en [`17`](17-lista-de-equipaje.md))*
   *([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia))*: Etosha es zona de
   malaria ✅ aunque tu ventana sea el mínimo estacional (`04`) — con manga larga ligera al
   anochecer ○, y el repelente **siempre encima** de la crema solar ✅
-- **Permetrina en ropa y botas, y el hábito de la garrapata** ✅/◐ — el CDC pide para esta zona
+- **Permetrina en ropa y botas, y el hábito de la garrapata** ✅/◐ — ⚠️ **cumplido a medias
+  (21/08)**: el **Diptron Textil** comprado **no es permetrina**, sino **IR3535 al 25,5 %** ◐◐ —
+  vale contra mosquito hasta 3 meses y contra garrapata 1, pero no es el producto que nombra el
+  CDC; las tres salidas, en [`17`](17-lista-de-equipaje.md). *Lo que sí queda cubierto del todo es
+  la camisa: la **Craghoppers NosiLife Adventure III** ✅ lleva el repelente en el propio tejido.*
+  El CDC pide para esta zona
   ropa y equipo tratados con permetrina *(«boots, pants, socks, and tents» — misma ficha)*: cubre
   mosquito y garrapata a la vez. La fiebre por garrapata africana es la fiebre con sarpullido más
   frecuente del safari austral y **quien acampa es el grupo de riesgo** ◐

@@ -22,7 +22,7 @@ import mapa                                                        # noqa: E402
 import trazado                                                     # noqa: E402
 from comun import RAIZ, marca_texto, md                            # noqa: E402
 
-FECHA = "15 de agosto de 2026"
+FECHA = "21 de agosto de 2026"
 
 # ---------------------------------------------------------------------------
 # Estructura del volumen
@@ -147,8 +147,9 @@ RESUMEN = {
           "y la etiqueta del trato — atado a los días de la ruta.",
     "20": "El cuaderno de llamadas: cada reserva con su canal, su contacto y su fuente — "
           "el orden en que se cierran y lo que se deja para recepción.",
-    "21": "Okaukuejo, Halali y Namutoni por dentro: la parcela, la charca y los servicios "
-          "de cada uno, con los avisos de los viajeros recientes.",
+    "21": "Las cuatro noches de Etosha por dentro —Okaukuejo, Halali, Namutoni y Onguma "
+          "Tamboti—: la parcela, la charca y los servicios, con los avisos de los viajeros "
+          "recientes.",
     "22": "Si te pica un escorpión: quién es quién, qué va a pasar, qué hacer y qué no, a "
           "quién llamar y adónde ir — etapa a etapa.",
 }
@@ -348,12 +349,12 @@ def portada(total_paginas=None):
     <h1>Namibia<em>2026</em></h1>
     <div class="regla"></div>
     <p class="lema">El gran roadtrip del norte: las dunas más altas del mundo al amanecer,
-    la Costa de los Esqueletos y cuatro noches dentro de Etosha.</p>
+    la Costa de los Esqueletos y cuatro noches de safari en Etosha.</p>
     <p class="viajan"><b>Chema Morandeira</b> y <b>Miguel Rivera</b></p>
     <div class="datos">
       Un 4×4 con tienda de techo · <b>30 de octubre – 15 de noviembre</b><br>
-      Desierto → costa → Damaraland → <b>cuatro noches dentro de Etosha</b><br>
-      ~2.757 km · <b>~€3.725 por persona</b>, todo incluido
+      Desierto → costa → Damaraland → <b>cuatro noches de safari en Etosha</b><br>
+      ~2.764 km · <b>~€3.990 por persona</b>, todo incluido
     </div>
     <div class="pie"><span>{pie_izq}</span><span>{pie_der}</span></div>
   </div>

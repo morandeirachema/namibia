@@ -97,10 +97,16 @@ sur → norte en un día** pasando por Okaukuejo, Halali, Goas y Namutoni, y sal
 Contaron **35 especies** ✅ *(leones, un leopardo, elefantes, hienas, dik-dik, hasta una mamba
 negra)* en, en la práctica, un día y medio de safari.
 
-El nuestro (`01`, `21`): **cuatro noches, las cuatro DENTRO** — Okaukuejo, Halali y Namutoni ×2 —
+El nuestro (`01`, `21`): **cuatro noches, TRES de ellas dentro** — Okaukuejo, Halali y Namutoni,
+y la última en **Onguma Tamboti**, ya fuera de la puerta de Von Lindequist *(cambio del 21/08:
+antes eran dos noches de Namutoni)* —
 con la **luna nueva del 9–10 de noviembre clavada en esas noches** y las charcas iluminadas de los
 campamentos como plato fuerte. Dormir fuera regala exactamente eso: **las puertas cierran al
-ocaso, así que sus noches de charca no existieron**. Es la desviación más consciente de todas
+ocaso, así que sus noches de charca no existieron**. *(Y la crítica hay que aplicársela también a
+uno mismo: **la cuarta noche, la de Onguma, tampoco tiene charca de campamento** — se paga con eso
+lo que se compra, que es una reserva privada donde sí se puede salir de noche con foco y andar a
+pie. Las tres charcas iluminadas siguen en el plan, en las tres noches de dentro.)* Es la
+desviación más consciente de todas
 —nuestro `16` y `21` la razonan— y su diario la confirma por el negativo: ni una línea de fauna
 nocturna. Sus 35 especies en día y medio quedan, eso sí, como **listón de referencia** para
 nuestros cuatro días con la guía de fauna en la mano ◐.

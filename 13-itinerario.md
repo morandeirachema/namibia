@@ -105,12 +105,13 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
   con hora, así que **basta con salir temprano de Terrace Bay** ✓
 - **D9 · Hoada → Okaukuejo (~340 km ◐, resuelto 04/08 y OSRM 343 — ver §3)** — grava hasta Kamanjab, asfalto después (firme de la C38
   por confirmar, `01`) → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
-- **D10–D12 · Etosha (~40–110 km/día ◐)** — a 60 km/h y parando en cada charca: **el día entero ES
+- **D10–D12 · Etosha (~56–108 km/día ◐)** — a 60 km/h y parando en cada charca: **el día entero ES
   el trayecto** — no son horas de tránsito, son horas de safari. *(El D10 es el largo: ~108 km por
-  el **desvío obligatorio** de las obras — abajo, §3.)*
-- **D13 · Namutoni → Windhoek (~550 km ◐ — OSRM 548; secundarias 553–575)** — asfalto a ~100 →
-  **mínimo ~5h30 · realista 6h–6h30 con comida en Otjiwarongo**. Saliendo al amanecer (~06:10), en
-  Windhoek a media tarde ✓
+  el **desvío obligatorio** de las obras — abajo, §3. El D12 suma la salida por Von Lindequist
+  hasta Onguma, 3,4 km pasada la puerta.)*
+- **D13 · Onguma → Windhoek (~539 km ◐ — OSRM propio; desde Namutoni eran 548)** — asfalto a ~100 →
+  **mínimo ~5h30 · realista 6h–6h30 con comida en Otjiwarongo**. **Y durmiendo fuera del parque no
+  hay que esperar a que la puerta abra a las 06:10**: media hora larga de ventaja ✓
 
 > **Lectura de conjunto:** ningún día rompe las reglas de velocidad, pero hay **tres etapas grandes**,
 > no una: el **D7** exige disciplina de reloj —la puerta de Ugabmund cierra a las 15:00— y el **D8**
@@ -188,10 +189,14 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   vuestras fechas rige el desvío obligatorio de las obras** *(MEFT `news/335`, ver `01` §D10)*:
   **por Gemsbokvlakte–Salvadora son ~108 km (OSRM propio, +38)**. **Halali → Namutoni ~70–77 km**
   *(OSRM 77)*. A 60 km/h y parando a mirar: **es un día entero de safari**, no un traslado ◐
-- **Namutoni → Windhoek** *(por Tsumeb–Otjiwarongo–Okahandja, todo B1; la variante por
-  Grootfontein para Hoba toca la B8)*: **~550 km** ◐ *(OSRM 548; convergente: «553 km» por la web
-  de Etosha NP y ~575 km por rome2rio; Namutoni queda más al este que Okaukuejo, de ahí que sea
-  más que los 440 km desde Okaukuejo)*
+- **Onguma → Windhoek** *(por Tsumeb–Otjiwarongo–Okahandja, todo B1; la variante por
+  Grootfontein para Hoba toca la B8)*: **~539 km** ◐ *(enrutado propio; desde Namutoni eran 548, y
+  ahí convergían «553 km» por la web de Etosha NP y ~575 km por rome2rio; Namutoni queda más al
+  este que Okaukuejo, de ahí que sea más que los 440 km desde Okaukuejo)*. **Onguma → Tsumeb:
+  105 km** ✅ — es el primer repostaje del día
+- **La pieza nueva del 21/08**, medida con el mismo enrutado que el resto de la ruta ✅: **puerta
+  de Von Lindequist → Onguma Tamboti, 3,4 km** *(coordenadas de OpenStreetMap: 18,7819 S
+  17,0592 E, `camp_site`)*. Es lo que explica los ~16 km que sube el D12 y los ~9 que baja el D13
 - **Otjiwarongo → Outjo**: 75 km ◐ — Otjiwarongo es la parada de comida del D13
 
 > ⚠️ **Aviso de fuente:** el bloque del eje central se apoya en una matriz con **copyright de 2010**.
@@ -231,13 +236,17 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
 
 El trazado del dossier no está dibujado a mano: **son las coordenadas reales de cada parada
 (geocodificadas el 04/08) enrutadas por carretera con OSRM sobre OpenStreetMap** — el mismo
-cálculo que pinta el mapa del PDF y que da el **total de ~2.757 km**. Guardado en
-`fuente/geo/ruta.json`; se regenera con `make geo`. Etapa a etapa, en km de carretera:
+cálculo que pinta el mapa del PDF y que da el **total de ~2.764 km**. Guardado en
+`fuente/geo/ruta.json`; se regenera con `make geo`. Etapa a etapa, en km de carretera
+*(rehecho el 21/08 con la última noche en Onguma)*:
 
 **D0 · 46** *(aeropuerto → Windhoek)* · **D1 · 205** · **D2 · 0** · **D3 · 129** · **D4 · 122** ·
 **D5 · 316** · **D6 · 0** · **D7 · 412** · **D8 · 367** · **D9 · 343** · **D10 · 108** *(con el
-desvío de las obras)* · **D11 · 77** · **D12 · 40** *(el bucle de Fischer's Pan)* · **D13 · 548** ·
-**D14 · 46** *(al aeropuerto)* — **total 2.757**.
+desvío de las obras)* · **D11 · 77** · **D12 · 56** *(el bucle de Fischer's Pan **y la salida a
+Onguma**)* · **D13 · 539** *(ya desde Onguma)* · **D14 · 46** *(al aeropuerto)* — **total 2.764**.
+
+> **Los 7 km de diferencia con los ~2.757 del 08/08 son todo el cambio de la última noche**: el
+> D12 sube 16 *(salir por la puerta hasta Onguma)* y el D13 baja 9 *(ya se arranca fuera)*.
 
 **Lectura honesta**: OSRM es una medición **de gabinete** (◐) — depende de que OSM tenga el trazado
 al día — pero es **consistente de punta a punta**, y donde discrepó de las triangulaciones de
