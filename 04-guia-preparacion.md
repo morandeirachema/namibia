@@ -65,7 +65,7 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
-*Recalculada el 09/08/2026: el vuelo sale de Oporto el **30 de octubre** — **quedan ~82 días**.
+*Recalculada el 21/08/2026: el vuelo sale de Oporto el **30 de octubre** — **quedan 70 días**.
 Los hitos de julio ya vencieron y siguen pendientes: van los primeros.*
 
 ```mermaid
@@ -79,9 +79,11 @@ flowchart LR
     style F fill:#2d6a4f,color:#fff
 ```
 
-- **VENCIDO · era julio** — reservar el 4×4 *(✅ hecho — Savanna, `20` §1)*; reservar Sesriem,
-  Terrace Bay y los campamentos de Etosha; comprobar los pasaportes contra la vuelta del 15 de
-  noviembre.
+- **VENCIDO · era julio** — reservar el 4×4 *(✅ hecho — Savanna, `20` §1)*; los **campamentos de
+  Etosha** *(✅ hechos el 21/08: Okaukuejo, Halali, Namutoni y Onguma Tamboti — `20` §4)*; reservar
+  **Sesriem ×2 y Terrace Bay**, que siguen pendientes; y **comprobar los pasaportes** contra la
+  vuelta del 15 de noviembre —válidos hasta el **15/05/2027** y con 3 páginas en blanco de verdad
+  (§Pasaporte)—, que es lo que el e-visa da por hecho y nadie ha confirmado todavía.
 - **AHORA · agosto** — pedir cita **ya** en el Centro de Vacunación Internacional: **la cita es el
   recurso escaso, no la vacuna**. Mandar las preguntas por escrito de la entrega a Savanna
   *(`20` §1)* e IATI.
