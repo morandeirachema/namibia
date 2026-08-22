@@ -21,10 +21,12 @@
 
 Reservar no es una lista plana: unas cosas abren la puerta de otras. **El coche va primero** —es lo
 que se agota, no el vuelo (`04`)—, **el billete emitido es la llave del e-visa**, y las **seis
-reservas de alojamiento que hacen el viaje** *(las del contador del README: Sesriem, Terrace Bay,
-Okaukuejo, Halali, Namutoni y Spreetshoogte)* van en cuanto el coche esté firmado. ✅ **De ésas, las
-de Etosha ya están cerradas (21/08)** —Okaukuejo, Halali, Namutoni y, la cuarta noche,
-**Onguma Tamboti**, ya fuera de la puerta—; quedan **Sesriem ×2, Terrace Bay y Spreetshoogte ×2**.
+reservas de alojamiento que hacen el viaje** *(Sesriem, Terrace Bay, Okaukuejo, Halali, Namutoni y
+Spreetshoogte)* van en cuanto el coche esté firmado. ✅ **De ésas, las de Etosha ya están cerradas
+(21/08)**; y al partirse la doble de Namutoni en una noche allí más otra en **Onguma Tamboti**, ya
+fuera de la puerta, **el contador del README pasó de seis reservas a siete**: cuatro cerradas
+—Okaukuejo, Halali, Namutoni y Onguma— y **tres pendientes: Sesriem ×2, Terrace Bay y
+Spreetshoogte ×2**.
 
 ```mermaid
 flowchart LR
@@ -386,7 +388,9 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] **Confirmar el importe de la reserva de Onguma** *(el rack da N$1.240 · ~€62)* *(§4)*
 - [ ] **Pre-reservar en Onguma la cena y, si se quiere, el Sundowner Drive** — y preguntar si hay
       night drive *(§4)*
-- [x] **Spreetshoogte ×2** *(1–2 nov)* — **abierto confirmado ◐** (2025–2026; «Closed down» refutado) y el homónimo aclarado: lo opera Barkhan Dune Retreat en la D1275 *(§5)*. Falta: cerrar la tarifa y la reserva
+- [ ] **Spreetshoogte ×2** *(1–2 nov)* — **sin reservar**: lo resuelto es que **está abierto ◐**
+      (2025–2026; «Closed down» refutado) y cuál de los tres homónimos es — lo opera Barkhan Dune
+      Retreat en la D1275 *(§5)*. Falta la tarifa ❌ **y la reserva**
 - [ ] **Windhoek D0 y D13** *(Urban Camp o Arebbusch)* *(§5)*
 - [ ] **Walvis Bay ×2** *(Lagoon Chalets)* *(§5)*
 - [ ] **Hoada** *(8 nov)* *(§5)*

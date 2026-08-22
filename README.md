@@ -11,7 +11,7 @@
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
 [![cuenta atrás](https://img.shields.io/badge/faltan-70_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
-[![reservas](https://img.shields.io/badge/reservas-4_de_6-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
+[![reservas](https://img.shields.io/badge/reservas-4_de_7-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
 [![presupuesto](https://img.shields.io/badge/€3.990-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
 
@@ -97,8 +97,9 @@ flowchart LR
    ✅ **Las cuatro noches de Etosha salieron de esta lista el 21/08: están RESERVADAS** —
    **Okaukuejo** *(9–10)*, **Halali** *(10–11)*, **Namutoni** *(11–12)* a N$920 (~€46) la noche los
    dos, y la cuarta, **[Onguma Tamboti](https://onguma.com/)** *(12–13)*, ya **fuera** de la puerta
-   de Von Lindequist, en vez de la segunda noche de Namutoni. *(De las **6** del contador, quedan
-   Sesriem, Terrace Bay y Spreetshoogte.)*
+   de Von Lindequist, en vez de la segunda noche de Namutoni. *(Al partirse esa doble en dos
+   reservas, el contador pasa de **6 a 7**: cerradas **4**, quedan Sesriem, Terrace Bay y
+   Spreetshoogte.)*
 6. **Preguntar a NWR (+264 67 229 800)** si las 3 salidas guiadas de mañana y el nocturno se
    pueden dejar cerrados desde España — su tarifa avisa de que **en temporada de lluvias no
    aceptan pre-reserva de actividades**; si no, van en recepción al llegar. ⚠️ **El nocturno se

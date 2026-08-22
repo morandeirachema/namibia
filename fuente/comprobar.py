@@ -192,6 +192,42 @@ def revisa_fechas():
         mal(f"el dossier se imprime con fecha «{m2.group(1)}» y el README dice «{esperada}»")
 
 
+# Las reservas de alojamiento que hacen el viaje, con lo que pesa cada casilla del `20`
+# §9: la de Etosha tacha cuatro noches de una vez (Okaukuejo, Halali, Namutoni y Onguma).
+RESERVAS_CONTADAS = (("Sesriem ×2", 1), ("Terrace Bay", 1),
+                     ("noches de Etosha", 4), ("Spreetshoogte ×2", 1))
+
+
+def revisa_contador_reservas():
+    """Que la chapa de reservas del README cuadre con las casillas tachadas del `20` §9.
+
+    El 21/08 la chapa decia «4 de 6» mientras el propio README contaba tres pendientes de
+    seis, y la casilla de Spreetshoogte estaba marcada con la reserva sin hacer — que en el
+    PDF se imprime como casilla de verdad, para marcar a boli sobre el terreno. Nada lo
+    vigilaba: la cuenta atras si tenia comprobacion y este contador no.
+    """
+    reservas = open(os.path.join(RAIZ, "20-reservas.md")).read()
+    hechas = total = 0
+    for nombre, peso in RESERVAS_CONTADAS:
+        casillas = re.findall(r"^- \[([ x])\] .*" + re.escape(nombre),
+                              reservas, re.M)
+        if len(casillas) != 1:
+            return mal(f"en el `20` §9 hay {len(casillas)} casillas para «{nombre}», "
+                       f"y el contador de reservas del README se cuenta desde ahi")
+        total += peso
+        hechas += peso if casillas[0] == "x" else 0
+
+    texto = open(os.path.join(RAIZ, "README.md")).read()
+    chapa = re.search(r"reservas-(\d+)_de_(\d+)-", texto)
+    if not chapa:
+        return mal("el README ya no lleva la chapa de reservas")
+    if (int(chapa.group(1)), int(chapa.group(2))) != (hechas, total):
+        return mal(f"la chapa del README dice «{chapa.group(1)} de {chapa.group(2)}» "
+                   f"reservas y las casillas del `20` §9 dan {hechas} de {total}")
+    bien(f"reservas: la chapa del README y las casillas del `20` dicen las mismas "
+         f"({hechas} de {total})")
+
+
 def revisa_avistamientos():
     """Los datos que sostienen la linea de «qué posibilidades hay» de la guia de fauna.
 
@@ -401,6 +437,7 @@ def main():
     revisa_indice_dossier()
     revisa_convenciones()
     revisa_fechas()
+    revisa_contador_reservas()
     revisa_precios()
     revisa_imagenes()
     revisa_geo()
