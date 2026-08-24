@@ -647,8 +647,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 - 🚗 **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, 15 días,
   aeropuerto → aeropuerto; el 31-oct fuera de temporada baja ❌ y la entrega EN el aeropuerto sin
   confirmar ❌ — `02` §2)*.
-- 🛡️ **Adelantar el seguro IATI al 30/10** *(la póliza cotizada empieza el 31; el coste del día
-  extra ❌ sin cotizar — `02` §7–8)*.
+- 🛡️ ~~**Adelantar el seguro IATI al 30/10**~~ **CONTRATADO el 24/08** ✅ *(IATI **Estrella**,
+  empezando ya el 30/10, con el código de Chavetas — dicho por el viajero)*. **Lo que queda no es
+  la fecha, es el importe**: el día extra nunca se cotizó ❌ y el descuento de Chavetas no se
+  verificó ❌, así que `02` sigue con los €113,02 p.p. de la cotización — **recuperar el pagado
+  real de la póliza** *(`20` §3)*.
 - 💉 **La cita del Centro de Vacunación Internacional** — para salir el 30/10 hay que ser atendidos
   hacia el **19–26 de septiembre**. Se pide en agosto.
 - 🪪 **El permiso internacional de conducir**: fuente ◐, y la DGT pide cita.
@@ -691,8 +694,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   a la tarjeta: N$850 de gestión si hay cualquier daño, N$350 si Savanna paga una multa por
   cuenta del cliente, y el depósito de combustible sigue sin una cifra propia de Savanna —
   **N$2.500 (~€125) sin confirmar ❌**, cifra suelta de reventas, no de fuente primaria.
-- 🛟 La **opción de búsqueda y salvamento del IATI Estrella: ❌ sin cotizar** *(el Mochilero la
-  trae de serie; pedirla por escrito está en el README, punto 6)*.
+- 🛟 La **opción de búsqueda y salvamento del IATI Estrella: ❌ sin cotizar y, ahora, sin
+  confirmar**. Con el **Estrella ya contratado (24/08)**, esto deja de ser una pregunta de compra
+  y pasa a ser **una comprobación de la póliza**: en el Estrella la garantía es **opcional** —el
+  Mochilero la trae de serie—, así que **no ha entrado sola**. Misma comprobación para la
+  **evacuación aérea dentro del país** ❌ *(`20` §3)*.
 - 🚗 El **traslado A Coruña ↔ Oporto — decidido (09/08): en coche propio**. **Cotizado el 10/08 en
   ~€180–185 la pareja ◐/❌** *(egress bloqueó abrir las webs oficiales, así que es candidato con URL,
   no cifra cerrada — confirmar antes de pagar)*:

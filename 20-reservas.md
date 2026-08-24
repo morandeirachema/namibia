@@ -33,7 +33,7 @@ Spreetshoogte ×2**.
 flowchart LR
 %% ancho
     C["1 · EL 4x4<br/>RESERVADO 12/08<br/>Savanna, 2.363 EUR<br/>total, Ford GSXA-1"] --> V["2 · EL VUELO<br/>EMITIDO 10/08<br/>1.536 EUR pp"]
-    V --> S["3 · SEGURO IATI<br/>rehacer desde el 30-10<br/>URGENTE: billete pagado"]
+    V --> S["3 · SEGURO IATI<br/>CONTRATADO 24/08<br/>Estrella, desde el 30-10"]
     V --> E["6 · E-VISA<br/>desbloqueado:<br/>ya hay billete de vuelta"]
     C --> N["4 · LAS NOCHES NWR<br/>Sesriem x2 · Terrace Bay<br/>Etosha x3 RESERVADAS"]
     N --> Y["ETOSHA, CERRADO 21/08<br/>Okaukuejo · Halali · Namutoni<br/>y Onguma Tamboti el D12"]
@@ -145,26 +145,31 @@ flowchart LR
   **maleta facturada** *(nada de Economy Light)* · que sea **billete único** *(una conexión
   perdida pasa a ser problema de la aerolínea)* · que los **nombres calquen el pasaporte**.
 - **Lo que arrastra el billete emitido**: **ya se puede pedir el e-visa** *(§6, exige billete de
-  vuelta)* — y el **seguro tiene que rehacerse desde el 30/10** *(§3)*: es lo más urgente.
+  vuelta)*. *(Lo otro que arrastraba —que el seguro empezara el 30/10 y no el 31— quedó
+  **contratado el 24/08**, §3.)*
 
 ---
 
-## 3 · 🩺 El seguro — IATI Estrella: moverlo, no solo pagarlo
+## 3 · 🩺 El seguro — IATI Estrella: **CONTRATADO ✅ (24/08/2026)**
 
-- **Qué**: IATI **Estrella**, cotizado **€226,04 (~N$4.520) la pareja** para 31/10–15/11 ✅. Con el
-  vuelo saliendo el 30 **y el billete ya emitido (10/08), rehacerla del 30/10 al 15/11 es lo más
-  urgente del cuaderno** — el coste del día extra ❌ sin cotizar *(`02` §7–8)*.
-- **Cómo, decidido el 21/08**: se contrata **con el código de descuento de Chavetas** *(el blog de
-  viajes cuyo itinerario ya sirve de contraste en `aparte/desviacion-itinerario-chavetas.md`)* —
-  IATI aplica un **descuento de afiliado** al entrar por su enlace ○. ❌ **El porcentaje exacto no
-  se ha verificado aquí**, así que **la cotización de arriba se mantiene sin descontar**: lo que
-  rebaje, rebaja. *Ojo al orden: hay que entrar por el enlace del blog **antes** de cotizar; si se
-  cotiza directo en iatiseguros.com, el código ya no se puede aplicar después ○.*
-- **Y las peticiones por escrito** *(las que de verdad importan en esta ruta)*: que cubra
-  **evacuación aérea DENTRO del país** *(cerca de Sesriem no hay hospital)*; **añadir la opción de
-  búsqueda y salvamento** — el Estrella la deja opcional y el Mochilero, más barato, la trae de
-  serie; su coste ❌ sin cotizar — y, si al final viaja una cámara comprada *(equipo de fotografía,
-  en el repo aparte)*, **el límite por objeto** de los 4.000 € de equipaje ❌.
+- **Qué**: **IATI Estrella, contratado y empezando el 30/10** ✅ *(dicho directamente por el
+  viajero, 24/08 — misma vía por la que consta el precio del coche)*, **con el código de
+  Chavetas**. Con esto se cierra de golpe **lo que era el frente más urgente del cuaderno**: la
+  póliza cotizada arrancaba el 31 y el vuelo sale el 30, así que ese día de vuelo iba descubierto.
+- ⚠️ **Lo que NO se sabe todavía: el importe real pagado** ❌. La cotización de referencia era
+  **€226,04 (~N$4.520) la pareja / €113,02 (~N$2.260) por persona** para 31/10–15/11 ✅, y sobre
+  ella actúan **dos cosas en sentidos contrarios y ninguna medida**: el **día extra** del 30/10
+  *(❌ nunca cotizado)* lo sube, y el **descuento de afiliado de Chavetas** *(❌ porcentaje sin
+  verificar)* lo baja. **`02` sigue presupuestando con los €113,02 sin descontar** hasta que
+  aparezca la póliza: es la cifra conservadora. **Recupérala del correo de IATI y ciérrala.**
+- ⚠️ **Y el fleco que la modalidad Estrella deja vivo**: **la búsqueda y salvamento es OPCIONAL en
+  el Estrella** —el Mochilero, más barato, la trae de serie— así que **no entra sola por haber
+  contratado el Estrella**: hay que haberla añadido. ❌ **Sin confirmar si se añadió**, y su coste
+  tampoco se llegó a cotizar. Lo mismo con la petición de que cubra **evacuación aérea DENTRO del
+  país** *(cerca de Sesriem no hay hospital)*: ❌ **sin confirmar que se pidiera por escrito**.
+  **Las dos se comprueban leyendo la póliza; si no están, se piden ahora.**
+- **Y si al final viaja una cámara comprada** *(equipo de fotografía, en el repo aparte)*: el
+  **límite por objeto** dentro de los 4.000 € de equipaje sigue ❌ sin mirar.
 - **Contacto** ◐ *(web propia, vía búsqueda del 09/08)*:
   [iatiseguros.com](https://www.iatiseguros.com/soporte/contacto/) · 📞 **+34 93 201 49 43** ·
   info@iatiseguros.com. La póliza impresa con su **teléfono de asistencia 24 h** *(depende del
@@ -406,8 +411,10 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] **En la entrega, pedir por escrito**: zona sunrise/sunset como zona cubierta de la Opción 4,
   teléfono de emergencias 24h, con cuánto tanque lo entregan, coste del conductor adicional *(§1)*
 - [ ] **Cita del CVI pedida** *(§6 — agosto)*
-- [ ] **Seguro recotizado desde el 30/10** + evacuación aérea interna y búsqueda y salvamento por
-  escrito *(§3)*
+- [x] **Seguro contratado desde el 30/10** — IATI **Estrella**, con el código de Chavetas, 24/08 *(§3)*
+- [ ] **Del seguro, recuperar el importe real pagado** ❌ — hoy `02` va con la cotización *(§3)*
+- [ ] **Comprobar en la póliza** que lleva **evacuación aérea dentro del país** y **búsqueda y
+  salvamento** *(en el Estrella es OPCIONAL: no entra sola)*; si no están, pedirlas *(§3)*
 - [x] **Billete emitido** — 10/08, €1.536 pp, con maleta, billete único *(§2)*
 - [ ] **Sesriem ×2** *(3–4 nov, dentro de la puerta)* *(§4)*
 - [ ] **Terrace Bay** *(7 nov — confirmación impresa)* *(§4)*

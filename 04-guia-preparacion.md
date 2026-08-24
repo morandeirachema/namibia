@@ -86,7 +86,8 @@ flowchart LR
   (§Pasaporte)—, que es lo que el e-visa da por hecho y nadie ha confirmado todavía.
 - **AHORA · agosto** — pedir cita **ya** en el Centro de Vacunación Internacional: **la cita es el
   recurso escaso, no la vacuna**. Mandar las preguntas por escrito de la entrega a Savanna
-  *(`20` §1)* e IATI.
+  *(`20` §1)* y **leer la póliza de IATI** —ya contratada el 24/08— para confirmar que lleva
+  **evacuación aérea dentro del país** y **búsqueda y salvamento** *(`20` §3)*.
 - **Septiembre** — acudir al CVI *(para salir el 30-10, atendidos hacia el 19–26 de septiembre)*; recetas
   de profilaxis —la mefloquina empieza ~17–24 de octubre—; resolver el permiso internacional de
   conducir.
@@ -329,7 +330,9 @@ flowchart TD
   verificado; la demanda, no
 - **Si el permiso internacional de conducir es exigible de verdad** con carnet español: la fuente
   es ◐ y conviene sacarlo igual, que cuesta poco
-- **El coste de la opción de búsqueda y salvamento** del seguro IATI: sin cotizar
+- **La opción de búsqueda y salvamento** del seguro IATI: sin cotizar — y, con el **Estrella ya
+  contratado (24/08)**, lo que toca no es cotizarla sino **comprobar en la póliza si se añadió**,
+  porque en esa modalidad es **opcional** *(`20` §3)*
 
 ---
 
