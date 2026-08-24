@@ -228,6 +228,125 @@ def revisa_contador_reservas():
          f"({hechas} de {total})")
 
 
+# Las dos tartas del presupuesto cuentan lo mismo en unidades distintas: la del README va
+# POR PERSONA y la del `02` §1, POR PAREJA. Aqui se dice cual es cual — a la derecha, las
+# etiquetas del `02` que suman la partida del README (los misceláneos y las actividades van
+# juntos alli y separados aqui).
+TARTAS = {
+    "Vuelo":              ("Vuelo ida y vuelta x2",),
+    "Coche 15 dias":      ("Coche Savanna 15d",),
+    "Alojamiento":        ("Alojamiento 14 noches",),
+    "Combustible":        ("Combustible",),
+    "Comida":             ("Comida",),
+    "Seguro":             ("Seguro IATI Estrella x2",),
+    "Tasas de parque":    ("Tasas de parque",),
+    "Visado":             ("Visado x2",),
+    "Misc + actividades": ("Miscelaneos", "Actividades"),
+}
+
+
+def _eur(n):
+    """€1.234, con el punto de millar de la casa (formatear el mensaje entero se comia
+    las comas de la propia frase)."""
+    return f"€{n:,.0f}".replace(",", ".")
+
+
+def _lee_tarta(texto):
+    """Los pares «etiqueta : importe» de un bloque ```mermaid pie```."""
+    bloque = re.search(r"```mermaid\s*\npie[^`]*?```", texto, re.S)
+    if not bloque:
+        return {}
+    return {m.group(1): float(m.group(2))
+            for m in re.finditer(r'"([^"]+)"\s*:\s*([\d.]+)', bloque.group(0))
+            if m.group(1) != "title"}
+
+
+def revisa_cuadre_presupuesto():
+    """Que el desglose del presupuesto sume su propio total, y que las dos tartas concuerden.
+
+    Nada vigilaba esto y costo un desfase silencioso: al cambiar la segunda noche de
+    Namutoni por Onguma (+€16 la pareja) se actualizo la prosa del `02` §3 pero NO las dos
+    tartas, asi que durante tres dias el README repartia €3.982 mientras su propio titular
+    anunciaba €3.990, y el `02` repartia €7.963 bajo un «TOTAL LA PAREJA: ~€7.980». Los dos
+    desgloses mentian por separado y los dos parecian correctos de un vistazo.
+
+    Se comprueban dos cosas independientes, porque fallan de formas distintas: que cada
+    tarta sume su total impreso —lo que caza la deriva de una partida— y que la del `02`
+    sea el doble de la del README —lo que caza que se toque una y no la otra—.
+    """
+    antes = len(FALLOS)
+    readme = open(os.path.join(RAIZ, "README.md")).read()
+    presu = open(os.path.join(RAIZ, "02-presupuesto.md")).read()
+    pp, par = _lee_tarta(readme), _lee_tarta(presu)
+    if not pp or not par:
+        return mal("no se encuentran las tartas del presupuesto (README y/o `02` §1)")
+
+    faltan = [e for e in TARTAS if e not in pp]
+    faltan += [e for grupo in TARTAS.values() for e in grupo if e not in par]
+    if faltan:
+        return mal(f"partidas del presupuesto que ya no estan en su tarta: {faltan}")
+
+    # 1 · cada tarta suma el total que su propio documento anuncia
+    # el titular va anclado a su encabezado: suelto, «~€17 por persona» del bus de Oporto
+    # tambien encaja, y el aviso saldria contra la cifra equivocada
+    for etiqueta, suma, rx, texto, tol in (
+            ("por persona", sum(pp.values()), r"^### ~€([\d.]+) por persona", readme, 3),
+            ("la pareja", sum(par.values()), r"TOTAL LA PAREJA: ~€([\d.]+)", presu, 6)):
+        m = re.search(rx, texto, re.M)
+        if not m:
+            mal(f"no se encuentra el total anunciado «{etiqueta}» del presupuesto")
+            continue
+        dicho = float(m.group(1).replace(".", ""))
+        if abs(suma - dicho) > tol:
+            mal(f"el desglose {etiqueta} suma {_eur(suma)} y el total anunciado dice "
+                f"{_eur(dicho)} (diferencia {_eur(abs(suma - dicho))})")
+
+    # 2 · la tarta de la pareja es la del README multiplicada por dos
+    for eti_pp, etis_par in TARTAS.items():
+        doble, real = pp[eti_pp] * 2, sum(par[e] for e in etis_par)
+        if abs(doble - real) > 2:                      # 2 € de margen: hay redondeos
+            mal(f"«{eti_pp}»: el README dice {_eur(pp[eti_pp])} por persona "
+                f"({_eur(doble)} la pareja) y el `02` dice {_eur(real)}")
+
+    # 3 · y la linea de texto del README no puede contradecir a su propia tarta
+    m = re.search(r"Alojamiento \*\*~?€([\d.]+)\*\*", readme)
+    if m and abs(float(m.group(1).replace(".", "")) - pp["Alojamiento"]) > 1:
+        mal(f"el README escribe «Alojamiento €{m.group(1)}» en el desglose y "
+            f"{_eur(pp['Alojamiento'])} en su tarta")
+
+    # 4 · el §11 reparte el mismo total en cuatro cubos por solidez (duro / tarifa
+    # verificada / corroborado / estimado). Al cerrar algo hay que subirlo de cubo Y
+    # bajarlo del suyo: si solo se hace lo primero, los cubos suman de mas y el reparto
+    # deja de describir el total que dice describir.
+    cubos = [float(x.replace(".", "")) for x in
+             re.findall(r"^- \*\*[✅◐○][^—]*—\s*~?€([\d.]+)", presu, re.M)]
+    if len(cubos) != 4:
+        mal(f"el `02` §11 ya no reparte el total en 4 cubos de solidez (encontrados {len(cubos)})")
+    elif abs(sum(cubos) - sum(pp.values())) > 3:
+        mal(f"el `02` §11 reparte {_eur(sum(cubos))} entre sus cubos de solidez y el "
+            f"presupuesto por persona suma {_eur(sum(pp.values()))}")
+
+    # 5 · «todo lo demas junto son ~€X» es una RESTA del total menos vuelo y coche, y las
+    # restas escritas a mano se quedan viejas calladas: las dos se quedaron en la cifra de
+    # antes de Onguma mientras sus dos sumandos ya eran otros.
+    for doc, texto, tarta, rx in (
+            ("README", readme, pp, r"Todo lo demás junto son ~€([\d.]+)"),
+            ("`02` §1", presu, par, r"Todo lo demás junto \(~€([\d.]+)")):
+        m = re.search(rx, texto)
+        if not m:
+            continue
+        vuelo = next(v for k, v in tarta.items() if k.startswith("Vuelo"))
+        coche = next(v for k, v in tarta.items() if k.startswith("Coche"))
+        resto = sum(tarta.values()) - vuelo - coche
+        if abs(float(m.group(1).replace(".", "")) - resto) > 3:
+            mal(f"{doc} dice que «todo lo demás junto» son €{m.group(1)} y su tarta, "
+                f"quitando vuelo y coche, deja {_eur(resto)}")
+
+    if len(FALLOS) == antes:
+        bien(f"presupuesto: las dos tartas cuadran entre si y con sus totales "
+             f"({_eur(sum(pp.values()))} pp / {_eur(sum(par.values()))} pareja)")
+
+
 def revisa_avistamientos():
     """Los datos que sostienen la linea de «qué posibilidades hay» de la guia de fauna.
 
@@ -438,6 +557,7 @@ def main():
     revisa_convenciones()
     revisa_fechas()
     revisa_contador_reservas()
+    revisa_cuadre_presupuesto()
     revisa_precios()
     revisa_imagenes()
     revisa_geo()

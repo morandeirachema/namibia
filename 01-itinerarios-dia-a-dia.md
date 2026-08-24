@@ -615,8 +615,8 @@ flowchart LR
   *(`20` §1; Asco, descartada: €2.652 en su banda alta)*
 - **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 + Namutoni 920 =
   **N$5.440 (~€272)** ✅ — **tres de las cuatro noches de Etosha, dentro del parque**
-  *(+ **Terrace Bay cerrado ✅ — N$3.480 · ~€174 la pareja**; Spreetshoogte, Walvis, Windhoek y
-  Hoada: sin cerrar)*
+  *(+ **Terrace Bay cerrado ✅ — N$3.480 · ~€174 la pareja** y **Spreetshoogte ×2 cerrado el 24/08
+  ✅ — N$1.160 · ~€58 los dos**; Walvis, Windhoek y Hoada: sin cerrar)*
 - **La cuarta noche de Etosha, fuera: Onguma Tamboti (D12) — N$1.240 (~€62) los dos** ✅ *(rack
   oficial 2027: N$540 + N$80 de tasa de conservación por persona)*. **Las 4 noches de Etosha suman
   N$4.000 (~€200)**, N$320 (~€16) más que con la segunda de Namutoni

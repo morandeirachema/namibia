@@ -34,12 +34,12 @@
 
 ```mermaid
 flowchart LR
-    D["DECIDIDO<br/>ruta del norte, 15 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>seguro 113 EUR"]
-    C --> R["RESERVADO<br/>coche Savanna 12/08<br/>2.363 EUR, con transfer"]
-    R --> P["PAGADO<br/>vuelo 1.536 EUR pp<br/>EMITIDO el 10/08"]
+    D["DECIDIDO<br/>ruta del norte, 15 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>tasas de parque y los<br/>2 campings sin tarifa"]
+    C --> R["RESERVADO<br/>coche Savanna 12/08<br/>Etosha x4 el 21/08"]
+    R --> P["PAGADO<br/>vuelo EMITIDO 10/08<br/>seguro IATI 24/08"]
     style D fill:#2d6a4f,color:#fff
     style C fill:#e9c46a,color:#000
-    style R fill:#e9c46a,color:#000
+    style R fill:#2d6a4f,color:#fff
     style P fill:#2d6a4f,color:#fff
 ```
 
@@ -347,7 +347,7 @@ pie showData
     "Visado" : 80
 ```
 
-*Vuelo y coche son el **68 %** del viaje. Todo lo demás junto son ~€1.264.*
+*Vuelo y coche son el **68 %** del viaje. Todo lo demás junto son ~€1.272.*
 
 - ✈️ Vuelo **€1.536** ✅ *(EMITIDO el 10/08)* · 🚙 Coche **€1.181,50** ✅ *(RESERVADO con Savanna,
   15 días completos — `20` §1)* ·
