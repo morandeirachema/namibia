@@ -100,12 +100,13 @@ flowchart LR
 4. **Pedir cita en el Centro de Vacunación Internacional** *(A Coruña, Durán Lóriga 3 ·
    **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
    **la cita es el recurso escaso, no la vacuna**.
-5. ⏳ **Pedir a [Onguma](https://onguma.com/) sus condiciones de cancelación** ❌ — es un email, y
-   desde el 24/08 es **la pieza que más falta del cuaderno**: de ella depende poder **cambiar la
-   segunda noche de Onguma por el [Cheetah Conservation Fund](https://cheetah.org/)** si el
-   guepardo no ha salido en Etosha *(la decisión del D12, entera en [`24`](24-ruta-alternativa.md))*.
-   **Es una decisión que se toma sobre el terreno, pero solo si esto está preguntado antes de salir
-   de casa.** Y de paso, **el importe exacto de la reserva** ❌ *(`20` §4)*.
+5. 🟡 **El cambio de la segunda noche de Onguma por el [Cheetah Conservation
+   Fund](https://cheetah.org/) se resuelve SOBRE LA MARCHA — decidido el 24/08.** No hace falta
+   pedir nada por adelantado: si el guepardo no ha salido en Etosha, se llama desde allí *(la
+   decisión del D12, entera en [`24`](24-ruta-alternativa.md))*. Lo que eso acepta de antemano, dicho
+   una vez y sin insistir: **la penalización de cancelación de Onguma se asume a ciegas** ❌ y **el
+   CCF puede estar lleno** ❌ — en cuyo caso, sencillamente, se queda la noche de Onguma, que es un
+   buen plan. Si un día apetece cerrarlo antes, son dos emails *(`20` §4)*.
 6. **Reservar Terrace Bay — la única noche que queda sin reservar y con fecha dura** *(vie 6 nov,
    un día antes de lo que decía el plan de agosto)*: sin ella **no se entra** al Skeleton Coast a
    pernoctar.
@@ -554,7 +555,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 15. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 148 especies con foto —felinos y rapaces en secciones propias—, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 16. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
 17. 🐆 [**`23-desvios-que-valen-la-pena`**](23-desvios-que-valen-la-pena.md) — **el guepardo, prioridad del viaje**: dónde se ve de verdad *(Namutoni 50 %, el CCF, Okonjima, Otjitotongwe)* y **de qué noche sale el día** · y las joyas de FUERA de la ruta —Spitzkoppe, Brandberg, Vingerklip, Waterberg— con los kilómetros medidos
-18. 🔀 [**`24-ruta-alternativa`**](24-ruta-alternativa.md) — **la decisión del D12, que se toma dentro de Etosha**: saltarse la segunda noche de Onguma y bajar al **Cheetah Conservation Fund** si el guepardo no ha salido — los dos finales medidos día a día **con su mapa a escala de país**, con lo que gana, lo que cuesta y qué hay que preguntar antes de salir de casa
+18. 🔀 [**`24-ruta-alternativa`**](24-ruta-alternativa.md) — **la decisión del D12, que se toma dentro de Etosha**: saltarse la segunda noche de Onguma y bajar al **Cheetah Conservation Fund** si el guepardo no ha salido — los dos finales medidos día a día **con su mapa a escala de país**, con lo que gana, lo que cuesta y cómo se decide sobre la marcha
 19. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**

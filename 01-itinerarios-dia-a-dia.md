@@ -561,8 +561,8 @@ flowchart LR
   *(vigente del 01/11/26 al 31/10/27, justo vuestras noches)*: **N$540 + N$80 de tasa de
   conservación = N$620 (~€31) por persona → N$1.240 (~€62) los dos y por noche** ✅, IVA y Social
   Development Levy incluidos. ❌ *El importe exacto de la reserva y sus condiciones de cancelación,
-  por confirmar — y ahora importan más que nunca: de ellas depende el coste de saltarse la segunda
-  noche (`24`).*
+  sin confirmar — y se ha decidido no perseguirlos: saltarse la segunda noche se decide sobre la
+  marcha asumiendo la penalización que sea, que sobre N$1.240 (~€62) tiene poco techo (`24`).*
 - ⛺ **La parcela**: **25 parcelas**, máximo **2 tiendas / 4 personas**, **cada una con su ducha, su
   wc y su enchufe** —lo que ningún campamento de NWR da—, limpieza diaria, **un lote de leña el día
   de llegada** y **wifi gratis en recepción** ✅. Kiosco con lo básico, hielo, leña y braai packs;
@@ -607,9 +607,10 @@ flowchart LR
   centro y el Cheetah Drive — y al día siguiente, el **Cheetah Run de las 08:00** ✅. **La decisión
   se toma dentro de Etosha, con lo visto en la mano**, y está entera —kilómetros, horarios, precios
   que faltan y qué hay que preguntar antes— en [`24`](24-ruta-alternativa.md).
-  ⚠️ **Lo único que hay que tener resuelto ANTES de salir de casa**: las **condiciones de
-  cancelación de Onguma** ❌ y si el **CCF tiene sitio** ❌ *(`20` §4 y §5)*. Sin esas dos, la
-  decisión no se puede tomar sobre el terreno
+  📞 **Y se resuelve aquí mismo, sin preparar nada** *(decidido el 24/08)*: se llama al **CCF
+  (+264 (0)67 306225 ✅)** para ver si hay sitio **y para pedir el Cheetah Run, que sí exige reserva
+  previa** ✅, y después a recepción de Onguma para anular. **En ese orden.** Si el CCF está lleno,
+  se queda la noche de Onguma y no se pierde nada — ésa es la red
 
 ### D13 · vie 13 — Onguma → Windhoek · **~539 km asfalto · ~5h30 de volante · 6h–6h30 con comida** ◐ *(OSRM propio; desde Namutoni eran 548)*
 - 🌡️ De **Etosha (37,1 ✅)** a **Windhoek (31,2 ✅)**: el día de bajar 6 grados y 540 km

@@ -248,11 +248,11 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   persona → N$1.240 (~€62) los dos y por noche → N$2.480 (~€124) las dos**, IVA y Social
 >   Development Levy incluidos.
 >   ❌ **El importe exacto de la reserva, por confirmar.**
-> - 🔴 **Y LA PREGUNTA QUE MÁS FALTA DE TODO EL CUADERNO: sus condiciones de cancelación** ❌.
->   De ellas depende poder **cambiar la segunda noche por el [Cheetah Conservation
->   Fund](https://cheetah.org/)** si el guepardo no ha salido en Etosha — **una decisión que se toma
->   sobre el terreno, pero solo si esto está preguntado antes de salir de casa**
->   *([`24`](24-ruta-alternativa.md))*. Es un email: mándalo ya.
+> - 🟡 **Sus condiciones de cancelación siguen sin pedirse** ❌, **y se ha decidido no pedirlas**
+>   *(24/08)*: el cambio de la segunda noche por el [Cheetah Conservation Fund](https://cheetah.org/)
+>   **se resuelve sobre la marcha** *([`24`](24-ruta-alternativa.md))*. Queda escrito lo que eso
+>   acepta: **la penalización, la que sea, se asume sin conocerla**. Sobre N$1.240 (~€62) el techo es
+>   pequeño, que es justo por lo que la decisión aguanta bien sin este dato.
 > - **Lo que hay que hacer con esta reserva, y nadie lo va a recordar por vosotros**: su tarifa
 >   dice expresamente que **las comidas y las actividades se pre-reservan** ✅ — o al reservar, o
 >   en recepción al llegar. Si queréis el **Sundowner Drive (3 h, N$980 · ~€49 pp)**, pedidlo ya.
@@ -524,14 +524,15 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] 🔴 **Terrace Bay** *(6 nov — confirmación impresa)* — **la única que queda con fecha dura** *(§4)*
 - [x] **Las 4 noches de Etosha — RESERVADAS** *(§4)*: Okaukuejo *(9–10)* · Halali
       *(10–11)* · **Onguma Tamboti ×2** *(11–13, ya fuera de la puerta)*. **Namutoni, anulado**
-- [ ] 🔴 **Pedir a Onguma sus CONDICIONES DE CANCELACIÓN** ❌ — de ellas depende poder cambiar la
-      segunda noche por el CCF sobre el terreno *(§4 y `24`)*
+- [ ] *(Opcional)* **Pedir a Onguma sus condiciones de cancelación** ❌ — **decidido el 24/08 que no
+      hace falta**: el cambio por el CCF se resuelve sobre la marcha *(§4 y `24`)*
 - [ ] **Confirmar el importe de la reserva de Onguma** *(el rack da N$1.240 · ~€62 por noche)* *(§4)*
 - [ ] **Pre-reservar en Onguma la cena y, si se quiere, el Sundowner Drive** — y preguntar si hay
       night drive *(§4)*
 - [ ] **Preguntar a NWR si venden el nocturno y la guiada de mañana a quien NO duerme dentro** ❌ —
       son N$2.800 (~€140) que hoy están fuera del presupuesto *(§4)*
-- [ ] **Preguntar al CCF si tiene sitio el 12 de noviembre y cuánto cuesta** ❌ *(`24`)*
+- [ ] *(Opcional)* **Preguntar al CCF si tiene sitio el 12 de noviembre y cuánto cuesta** ❌ — se
+      llama desde Etosha si hace falta *(`24`)*
 - [x] **Spreetshoogte — RESERVADO** *(1 nov, UNA noche)*: lo opera **Barkhan Dune Retreat** en la
       D1275 y la tarifa está cerrada ✅ — **N$290 pp/noche → N$580 (~€29) los dos** *(§5)*
 - [x] **Windhoek D0 — RESERVADO** *(Urban Camp)* — falta pedirles el importe por escrito ❌ *(§5)*
