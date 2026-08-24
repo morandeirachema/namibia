@@ -628,7 +628,7 @@ flowchart LR
 >   viaje.
 > - ⚖️ **Lo que cuesta**: el **D13 entero de Fischer's Pan y Chudop**; la penalización de anular
 >   Onguma ❌, que se asume sin conocerla *(sobre N$1.240 · ~€62, poco techo)*; y que **en el CCF no
->   hay camping** —es lodge, la segunda noche del viaje en habitación tras Terrace Bay— ◐.
+>   hay camping** ◐ —es lodge: la segunda noche del viaje en habitación, tras Terrace Bay—.
 > - 🛟 **Si el CCF está lleno, no se pierde nada**: se queda la noche de Onguma, que es un buen plan
 >   por sí mismo. **Ésa es la red, y es buena.**
 >

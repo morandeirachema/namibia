@@ -9,14 +9,15 @@ fuente · **❌** sin verificar. Un hueco reconocido vale más que un número pl
 
 ```
 cd fuente
-make            los tres PDF
+make            los cuatro PDF
 make dossier    solo el dossier
 make fauna      solo la guía de campo
 make lamina     solo la lámina de ruta (A2, una hoja)
+make agenda     solo la agenda (el día a día del `01`, un A4 por día)
 make avistam    recuentos de GBIF y porcentajes por campamento
 make mymaps     los CSV y el KML de `aparte/` para Google My Maps
 make comprueba  las comprobaciones de abajo
-make todo       de cero: imágenes, geometría, avistamientos, mapas y los tres PDF
+make todo       de cero: imágenes, geometría, avistamientos, mapas y los cuatro PDF
 ```
 
 La **lámina** (`lamina.py` → `mapa-ruta-namibia-2026.pdf`) es una hoja A2 suelta para imprimir: el
@@ -31,6 +32,16 @@ los SVG y se saltaba los PNG sin decir por qué. El PDF lo imprime Chrome por CD
 `imprimir.py` —no `--print-to-pdf`, que no sabe poner números de página— en **dos pasadas**: la
 primera maqueta para averiguar en qué página cae cada documento y la segunda escribe esos números
 en el índice.
+
+## La agenda, que es el `01` y nada más
+
+`agenda.py` → `agenda-namibia-2026.pdf`: **portada + un A4 por día**, para la guantera. No se
+escribe nada a mano: corta el `01` entre `### D1` y el final del `### D15`, quita lo que es del
+dossier y no del día —las líneas de temperatura y de fauna del campamento, las notas de fuente y
+decisión entre paréntesis, las remisiones a `aparte/`— y desenvuelve los enlaces, porque en papel no
+hay a dónde saltar. Cada día abre página. `make comprueba` exige **exactamente 16 páginas** y, si
+sale una más, dice qué día se ha desbordado: el D13, el del desvío del CCF, es el más largo y va
+justo — una viñeta más en el `01` lo parte en dos.
 
 ## Convenciones que no se ven en el markdown
 
@@ -132,7 +143,7 @@ no avisa de nada: parece un problema de diseño de la portada. Por eso `.doc` ll
 
 Que estén las 197 imágenes con licencia libre y autor, que el catálogo y los créditos cuadren, que
 la geometría de la ruta esté completa, **que ningún porcentaje de avistamiento se quede sin su
-muestra detrás** y que las 148 especies tengan recuento, que los dos PDF tengan las páginas que
+muestra detrás** y que las 148 especies tengan recuento, que los PDF tengan las páginas que
 deben, **que la portada mida sus 267 mm** —si mide menos, Chrome ha encogido el documento— y que el
 README no mienta ni en el número de páginas ni en el índice de documentos.
 
@@ -162,6 +173,9 @@ Y que **la chapa de reservas del README cuadre con las casillas tachadas del `20
 reparto vive en `RESERVAS_CONTADAS` de `comprobar.py` *(la casilla de Etosha vale por cuatro
 noches)*: al reservar o anular algo hay que tocar **la casilla y la chapa**, y si cambia el conjunto
 de reservas que hacen el viaje, también esa tabla.
+
+Y que la **agenda tenga exactamente 16 páginas** —portada y un A4 por día— y, si sale una más,
+que diga qué día se ha desbordado *(el D13, el del desvío del CCF, es el que va justo)*.
 
 Y que la **lámina de ruta sea UNA hoja A2** *(si se desborda salen dos y la segunda va medio
 vacía; el margen es de pocos milímetros, así que cualquier línea de más en la banda de abajo lo

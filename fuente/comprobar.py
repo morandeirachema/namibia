@@ -604,6 +604,38 @@ def revisa_pdf(nombre, minimo):
         bien(f"{nombre}: {paginas} paginas, {mb:.1f} MB")
 
 
+def revisa_agenda(nombre="agenda-namibia-2026.pdf"):
+    """La agenda es UN A4 por dia: portada + quince paginas. Si sale una mas, un dia se
+    ha desbordado y en la guantera se leera a medias. Se localiza cual, para no tener que
+    abrir el PDF a mirarlo."""
+    ruta = os.path.join(RAIZ, nombre)
+    if not os.path.exists(ruta):
+        return mal(f"no existe {nombre}")
+    esperadas = 1 + len(trazado.ETAPAS)
+    salida = subprocess.run(["pdfinfo", ruta], capture_output=True, text=True).stdout
+    paginas = next((int(l.split()[1]) for l in salida.splitlines()
+                    if l.startswith("Pages:")), 0)
+    if paginas == esperadas:
+        return bien(f"{nombre}: portada + {len(trazado.ETAPAS)} dias, un A4 cada uno")
+    # que dia ocupa mas de una pagina
+    # El «Dn» de la cabecera va en las primeras lineas de la pagina, pero no siempre
+    # es la primera: en los dias que abren con un diagrama pdftotext saca antes la
+    # fecha. Una pagina sin cabecera es la continuacion del dia anterior.
+    largos, ultimo = [], "?"
+    for i in range(2, paginas + 1):
+        txt = subprocess.run(["pdftotext", "-f", str(i), "-l", str(i), ruta, "-"],
+                             capture_output=True, text=True).stdout
+        cab = "\n".join(txt.splitlines()[:5])
+        m = re.search(r"\b(D\d+)\b", cab)
+        if m:
+            ultimo = m.group(1)
+        else:
+            largos.append(ultimo)
+    repes = sorted(set(largos), key=lambda d: int(d[1:]) if d[1:].isdigit() else 0)
+    mal(f"{nombre} tiene {paginas} paginas y deberia tener {esperadas}: "
+        f"se desborda {', '.join(repes) or 'algun dia'}")
+
+
 def revisa_lamina(nombre="mapa-ruta-namibia-2026.pdf"):
     """La lamina de ruta es UNA hoja A2: si se desborda, salen dos y la mitad va en blanco."""
     ruta = os.path.join(RAIZ, nombre)
@@ -675,7 +707,7 @@ def revisa_paginas_readme():
     import re
     texto = open(os.path.join(RAIZ, "README.md")).read()
     for nombre in ("dossier-namibia-2026.pdf", "guia-fauna-etosha.pdf",
-                   "mapa-ruta-namibia-2026.pdf"):
+                   "mapa-ruta-namibia-2026.pdf", "agenda-namibia-2026.pdf"):
         ruta = os.path.join(RAIZ, nombre)
         if not os.path.exists(ruta):
             continue
@@ -761,6 +793,7 @@ def main():
     revisa_pdf("dossier-namibia-2026.pdf", 40)
     revisa_pdf("guia-fauna-etosha.pdf", 8)
     revisa_lamina()
+    revisa_agenda()
     revisa_escala("dossier-namibia-2026.pdf")
     revisa_paginas_readme()
     revisa_indice_readme()

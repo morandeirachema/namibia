@@ -153,11 +153,13 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 154 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 155 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
 🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(34 páginas, 148 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari — y ni un animal que nadie haya visto: el corte del 09/08 dejó fuera al oricteropo, la suricata y la cebra de Hartmann; el barrido COMPLETO del 10/08 añadió las 14 que faltaban en Etosha, del águila rapaz al galápago que caza quéleas; el del 11/08, las 13 de las otras zonas — el delfín mular del crucero, el charrán que llega de Europa a decenas de miles, la rata dassie de Twyfelfontein—; y el del 15/08, **todas las rapaces y todos los felinos de la ruta** en dos secciones propias: 31 rapaces diurnas y nocturnas, del cernícalo ojiblanco que nadie había echado en falta al halconcito que vive dentro del pajar del tejedor, más el caracal y el gato de patas negras)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
+
+📆 Y para la guantera, **el día a día y nada más**: [**la agenda**](agenda-namibia-2026.pdf) *(**16 páginas: portada y un A4 por día**. Es el itinerario del dossier sin la investigación detrás: horas, kilómetros, qué hacer, qué reservar, qué preguntar, el sol y la luna, y las opciones ya decididas o abiertas — el desvío del CCF incluido—, con las casillas para marcar a boli. Se genera sola del documento `01`: si cambia una noche, cambia la agenda)*.
 
 🗺️ Y para la pared, o para doblar en la guantera: [**la lámina de ruta**](mapa-ruta-namibia-2026.pdf) *(**una sola hoja A2**, 420×594 mm, vectorial: el recorrido entero a 384 mm de ancho, las quince etapas con sus kilómetros del enrutado propio y dónde se duerme cada noche, y abajo lo que manda —velocidades de planificación, la regla de las 18:00, los horarios de puerta de Etosha y los teléfonos de emergencia—. Se genera sola desde la misma geometría que el dossier: si cambia una noche, cambia la lámina. En una impresora de casa, «ajustar a página» a A3 o A4)*.
 
@@ -637,7 +639,7 @@ pagado, se mueve aquí arriba y se pone la fecha**.
   [`15`](15-huecos-cerrados.md), con la fuente y la fecha.
 - **Al cambiar cualquier `.md`** → regenerar los PDF, que salen de estos mismos ficheros:
   ```
-  cd fuente && make          # los dos PDF
+  cd fuente && make          # los cuatro PDF
   make comprueba             # imagenes, licencias, escala y que el README no mienta
   ```
   Las convenciones del build —el marcador `%% ancho`, las casillas `- [ ]`, por qué una URL larga
@@ -656,7 +658,7 @@ pagado, se mueve aquí arriba y se pone la fecha**.
 
 </div>
 
-Los `.md` numerados son **la fuente de verdad**; los tres PDF, la lámina y los ficheros de GPS
+Los `.md` numerados son **la fuente de verdad**; los cuatro PDF, la lámina y los ficheros de GPS
 **se generan desde ellos** y nada se escribe a mano en la salida. Para reconstruirlo todo desde
 cero:
 
@@ -678,7 +680,7 @@ Y a partir de ahí, todo se hace desde `fuente/`:
 
 ```bash
 cd fuente
-make            # los tres PDF: dossier, guía de fauna y lámina
+make            # los cuatro PDF: dossier, guía de fauna, lámina y agenda
 make dossier    # solo el dossier            make fauna   # solo la guía de campo
 make lamina     # solo la lámina A2          make gps     # el GPX y el KML
 make comprueba  # las comprobaciones — que nada mienta
