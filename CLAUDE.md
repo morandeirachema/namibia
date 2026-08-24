@@ -87,6 +87,14 @@ el gato de patas negras entra con banda «Sin registros» porque el viajero pidi
 felinos y la ficha sirve para no confundirlo con el gato montés — está escrito en la intro de
 Felinos y en el `09`; no es precedente para otras.
 
+De ese mismo cache sale, sin tocar la red, **el estudio de las charcas de
+`aparte/charcas-de-los-campamentos-de-etosha.md`** —`make charcas`, `estudio_charcas.py`—: los siete
+campamentos de Etosha que nombra el repo, con **el intervalo de Wilson al 95 % detrás de cada
+porcentaje**, porque los tres campamentos medidos tienen 149, 48 y 16 viajeros y comparar los
+porcentajes pelados hace decir tonterías. *(Puestos los intervalos, de catorce especies **solo
+sobreviven tres diferencias**: el leopardo de Moringa, el guepardo de Namutoni y el rinoceronte
+negro de Okaukuejo. El resto es ruido, el león incluido.)* No se escribe a mano: se regenera.
+
 Los felinos y las rapaces van en **secciones propias** del catálogo (`FELINOS`, `RAPACES`) desde
 el 15/08. Al añadir especies al catálogo, `python3 avistamientos.py` **solo baja lo que falte**
 (`completa()`), sin rehacer el resto ni volver a raspar Expert Africa; los denominadores por clase

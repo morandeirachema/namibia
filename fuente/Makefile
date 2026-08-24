@@ -4,6 +4,7 @@
 #   make imagenes   descarga las fotos del catalogo (Wikimedia Commons) a img/
 #   make geo        descarga y cachea la geometria de los mapas a fuente/geo/
 #   make avistam    recuentos de GBIF y porcentajes por campamento a fuente/geo/
+#   make charcas    reescribe aparte/charcas-de-los-campamentos-de-etosha.md
 #   make mapas      exporta los mapas a img/mapas/ (SVG y PNG; el de la ruta va en el README)
 #   make dossier    solo dossier-namibia-2026.pdf
 #   make fauna      solo guia-fauna-etosha.pdf
@@ -24,7 +25,7 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam mapas dossier fauna lamina gps limpia comprueba
+.PHONY: all todo imagenes geo avistam mapas charcas dossier fauna lamina gps limpia comprueba
 
 all: dossier fauna lamina gps
 
@@ -41,6 +42,10 @@ avistam: | $(GEO)/ruta.json
 
 mapas: | $(GEO)/ruta.json
 	$(PY) mapa.py
+
+# El estudio de las charcas sale entero de los partes ya cacheados: ni red ni Chrome.
+charcas: | $(GEO)/avistamientos.json
+	$(PY) estudio_charcas.py
 
 dossier: | $(IMG)/creditos.json $(GEO)/ruta.json
 	$(PY) dossier.py
