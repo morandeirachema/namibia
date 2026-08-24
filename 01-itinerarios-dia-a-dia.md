@@ -750,7 +750,8 @@ del parque, sin el lodge.
   Barkhan; «Camp Gecko» es OTRO camping, `20` §5)*. **Terrace Bay quedó cerrado el 03/08**
   ✅ *(N$3.480 · ~€174 la pareja, ver D7)* y **Hoada ya tiene precio** ◐ (arriba); los lodges
   privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También
-  cerrado el **camping de Spitzkoppe: N$270/persona → N$540/noche (~€27), entrada incluida** ◐
+  cerrado el **camping de Spitzkoppe: N$300/persona (~€15), entrada incluida** ✅ *(tarifa oficial
+  hasta el 31/10/26; para noviembre, N$320 · ~€16 → **N$640 · ~€32** la noche los dos ◐ — `23`)*
   *(fuera de la ruta)*
 - ◐ **Km del D7 y del D13 — recalibrados el 09/08 con el enrutado OSRM propio y revisados el
   21/08**: la costa **Walvis Bay → Terrace Bay ≈ ~410 km** *(la triangulación secundaria del 03/08

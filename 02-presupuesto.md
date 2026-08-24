@@ -151,8 +151,10 @@ persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terra
 - D0 Windhoek, D5–D6 Walvis Bay ×2 → campings/alojamientos privados,
   **precio no cerrado** (WebFetch bloqueado; ver `15`). Estimación de práctica común: **~€25–45/noche
   para dos** cada uno. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
-  —campamento equiparable de la ruta— está cerrado en **N$540/noche para dos (~€27)**, entrada incluida
-  ◐; ver `15`.)*
+  —campamento equiparable, aunque fuera de la ruta— cuesta **N$300 (~€15) por persona** ✅ en su
+  tarifa oficial hasta el 31/10/26 y **N$320 (~€16) en noviembre** ◐ → **~N$640 (~€32) la noche
+  para dos**, entrada incluida; ver [`23`](23-desvios-que-valen-la-pena.md). **Corrige el
+  N$540 (~€27) que este documento citaba**, que venía de una tarifa vieja.)*
 - **D8 Hoada** (Grootberg) — **cerrado en esta pasada ◐**: **N$542–732/noche para dos (~€27–37)** según
   temporada (la de noviembre sin fijar; ver `15`). Coincide con la estimación de práctica común.
 - **D7 Terrace Bay** (NWR) — **cerrado ✅ y es la noche más cara del viaje**: el tarifario oficial

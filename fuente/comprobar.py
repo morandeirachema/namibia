@@ -18,6 +18,7 @@ RAIZ = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
 import catalogo                                                    # noqa: E402
+import trazado                                                     # noqa: E402
 
 LICENCIAS_OK = ("CC BY", "CC0", "Public domain", "FAL")
 FALLOS = []
@@ -347,6 +348,40 @@ def revisa_cuadre_presupuesto():
              f"({_eur(sum(pp.values()))} pp / {_eur(sum(par.values()))} pareja)")
 
 
+def revisa_gps():
+    """Que el GPX y el KML sigan describiendo la MISMA ruta que el dossier.
+
+    Se generan de `geo/ruta.json`, igual que el mapa y la lamina, asi que lo unico que
+    puede pasar es que se queden sin regenerar tras mover una noche: entonces el GPS
+    llevaria una ruta y el PDF otra, que es la peor forma de descubrirlo —en Namibia—.
+    """
+    import xml.etree.ElementTree as ET
+    ruta = json.load(open(os.path.join(HERE, "geo", "ruta.json")))
+    con_traza = [e for e in ruta if e.get("geometria")]
+    km = sum(e["km"] or 0 for e in ruta)
+
+    gpx = os.path.join(RAIZ, "ruta-namibia-2026.gpx")
+    if not os.path.exists(gpx):
+        return mal("falta ruta-namibia-2026.gpx — ejecuta `make gps`")
+    try:
+        raiz = ET.parse(gpx).getroot()
+    except ET.ParseError as e:
+        return mal(f"ruta-namibia-2026.gpx no es XML valido: {e}")
+    ns = {"g": "http://www.topografix.com/GPX/1/1"}
+    pistas = raiz.findall("g:trk", ns)
+    puntos = raiz.findall("g:wpt", ns)
+    if len(pistas) != len(con_traza):
+        return mal(f"el GPX lleva {len(pistas)} etapas y la ruta tiene {len(con_traza)} "
+                   f"con trazado — regenera con `make gps`")
+    if len(puntos) != len(trazado.PUNTOS):
+        return mal(f"el GPX lleva {len(puntos)} puntos y `trazado.PUNTOS` tiene "
+                   f"{len(trazado.PUNTOS)} — regenera con `make gps`")
+    if not os.path.exists(os.path.join(RAIZ, "ruta-namibia-2026.kml")):
+        return mal("falta ruta-namibia-2026.kml — ejecuta `make gps`")
+    bien(f"gps: el GPX y el KML llevan las {len(pistas)} etapas con trazado, "
+         f"{len(puntos)} puntos y los {km:.0f} km de la ruta")
+
+
 def revisa_avistamientos():
     """Los datos que sostienen la linea de «qué posibilidades hay» de la guia de fauna.
 
@@ -561,6 +596,7 @@ def main():
     revisa_precios()
     revisa_imagenes()
     revisa_geo()
+    revisa_gps()
     revisa_avistamientos()
     revisa_pdf("dossier-namibia-2026.pdf", 40)
     revisa_pdf("guia-fauna-etosha.pdf", 8)

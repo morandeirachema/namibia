@@ -20,11 +20,11 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam mapas dossier fauna lamina limpia comprueba
+.PHONY: all todo imagenes geo avistam mapas dossier fauna lamina gps limpia comprueba
 
-all: dossier fauna lamina
+all: dossier fauna lamina gps
 
-todo: imagenes geo avistam mapas dossier fauna lamina
+todo: imagenes geo avistam mapas dossier fauna lamina gps
 
 imagenes:
 	$(PY) descargar.py
@@ -47,6 +47,10 @@ fauna: | $(IMG)/creditos.json $(GEO)/avistamientos.json
 # La lamina solo necesita la geometria: ni fotos ni avistamientos.
 lamina: | $(GEO)/ruta.json
 	$(PY) lamina.py
+
+# El GPX y el KML, para el GPS y el movil. Misma geometria que el mapa y la lamina.
+gps: | $(GEO)/ruta.json
+	$(PY) gps.py
 
 $(IMG)/creditos.json:
 	$(PY) descargar.py

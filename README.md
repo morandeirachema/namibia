@@ -137,13 +137,22 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 145 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 148 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
 🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(34 páginas, 148 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari — y ni un animal que nadie haya visto: el corte del 09/08 dejó fuera al oricteropo, la suricata y la cebra de Hartmann; el barrido COMPLETO del 10/08 añadió las 14 que faltaban en Etosha, del águila rapaz al galápago que caza quéleas; el del 11/08, las 13 de las otras zonas — el delfín mular del crucero, el charrán que llega de Europa a decenas de miles, la rata dassie de Twyfelfontein—; y el del 15/08, **todas las rapaces y todos los felinos de la ruta** en dos secciones propias: 31 rapaces diurnas y nocturnas, del cernícalo ojiblanco que nadie había echado en falta al halconcito que vive dentro del pajar del tejedor, más el caracal y el gato de patas negras)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
 
 🗺️ Y para la pared, o para doblar en la guantera: [**la lámina de ruta**](mapa-ruta-namibia-2026.pdf) *(**una sola hoja A2**, 420×594 mm, vectorial: el recorrido entero a 384 mm de ancho, las quince etapas con sus kilómetros del enrutado propio y dónde se duerme cada noche, y abajo lo que manda —velocidades de planificación, la regla de las 18:00, los horarios de puerta de Etosha y los teléfonos de emergencia—. Se genera sola desde la misma geometría que el dossier: si cambia una noche, cambia la lámina. En una impresora de casa, «ajustar a página» a A3 o A4)*.
+
+🛰️ Y para el GPS y el móvil: [**`ruta-namibia-2026.gpx`**](ruta-namibia-2026.gpx) y
+[**`ruta-namibia-2026.kml`**](ruta-namibia-2026.kml) — **los 39 puntos de la ruta como waypoints**
+*(con símbolo según sean parada, gasolinera obligatoria, puerta de parque o hito)* **y las 13
+etapas con trazado como pistas separadas**, para encender y apagar los días uno a uno. Salen de la
+**misma geometría** que el mapa y la lámina, así que cambiar una noche los actualiza solos.
+⚠️ **Tracks4Africa no los importa** *(su planificador exporta GPX y KML, pero importar sigue
+siendo función pendiente — «will be added over time», [su propio blog](https://blog.tracks4africa.co.za/the-tracks4africa-online-trip-planner-in-beta/); la app Overland tampoco admite GPX)*. Sí
+entran en **Garmin, OsmAnd, Locus, Organic Maps, Gaia** y —el KML— en **Google My Maps y Earth**.
 
 [<img src="img/mapas/etosha.png" alt="Etosha charca a charca: el mapa del safari del dossier" width="620">](img/mapas/etosha.svg)
 
@@ -520,15 +529,16 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 14. 🪘 [**`19-cultura-de-namibia`**](19-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
 15. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 148 especies con foto —felinos y rapaces en secciones propias—, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 16. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
-17. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
+17. 🗻 [**`23-desvios-que-valen-la-pena`**](23-desvios-que-valen-la-pena.md) — **las joyas de FUERA de la ruta y lo que costaría ir**: Spitzkoppe, Brandberg, Vingerklip, Waterberg y el Erongo, con los kilómetros medidos y la noche que habría que sacrificar
+18. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**
 
-18. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
-19. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad, con el contraste de OSRM
-20. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
-21. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
-22. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
+19. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
+20. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad, con el contraste de OSRM
+21. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
+22. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
+23. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
 
 📕 Y el PDF: [**`guia-fauna-etosha.pdf`**](guia-fauna-etosha.pdf) — la guía de campo, para imprimir.
 Lleva **medidas** las posibilidades de ver cada bicho: los partes de avistamiento de los tres
