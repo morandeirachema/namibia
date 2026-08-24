@@ -619,12 +619,64 @@ pagado, se mueve aquí arriba y se pone la fecha**.
   make comprueba             # imagenes, licencias, escala y que el README no mienta
   ```
   Las convenciones del build —el marcador `%% ancho`, las casillas `- [ ]`, por qué una URL larga
-  puede encoger el PDF entero— están en el `CLAUDE.md` del repo local *(no versionado)*. Y **cada
-  push repite estas comprobaciones solo, en GitHub Actions.**
+  puede encoger el PDF entero— están en [**`CLAUDE.md`**](CLAUDE.md), **versionado con el repo**
+  para que viajen con él. Y **cada push repite estas comprobaciones solo, en GitHub Actions.**
   [![comprueba](https://github.com/morandeirachema/namibia/actions/workflows/comprueba.yml/badge.svg)](https://github.com/morandeirachema/namibia/actions/workflows/comprueba.yml)
 - **Las marcas no se tocan**: **✅** fuente primaria · **◐** secundaria concordante · **○** práctica
   común, sin fuente · **❌** sin verificar, dicho en blanco. **Un hueco reconocido vale más que un
   número plausible.**
+
+---
+
+<div align="center">
+
+## 💻 Clonar el repo y reconstruirlo entero
+
+</div>
+
+Los `.md` numerados son **la fuente de verdad**; los tres PDF, la lámina y los ficheros de GPS
+**se generan desde ellos** y nada se escribe a mano en la salida. Para reconstruirlo todo desde
+cero:
+
+```bash
+git clone https://github.com/morandeirachema/namibia.git
+cd namibia
+pip install -r fuente/requirements.txt
+```
+
+Además de Python 3 hacen falta **Google Chrome** *(el PDF lo imprime Chrome por CDP, para poder
+numerar las páginas)* y **`poppler-utils`** *(medir y comprobar los PDF)*:
+
+```bash
+sudo apt install google-chrome-stable poppler-utils   # Debian/Ubuntu
+brew install --cask google-chrome && brew install poppler   # macOS
+```
+
+Y a partir de ahí, todo se hace desde `fuente/`:
+
+```bash
+cd fuente
+make            # los tres PDF: dossier, guía de fauna y lámina
+make dossier    # solo el dossier            make fauna   # solo la guía de campo
+make lamina     # solo la lámina A2          make gps     # el GPX y el KML
+make comprueba  # las comprobaciones — que nada mienta
+make todo       # de cero: imágenes, geometría, avistamientos, mapas y los tres PDF
+```
+
+> ⚠️ **`make todo` descarga de la red**: las ~197 imágenes con licencia libre, la geometría de
+> OpenStreetMap, el enrutado de OSRM y los recuentos de GBIF. Tarda, y depende de que esos
+> servicios respondan. **Para el uso normal basta `make`**, que trabaja con lo que ya está
+> cacheado en `fuente/geo/` y en `img/`.
+
+**Antes de dar por bueno cualquier cambio, `make comprueba`** — verifica las imágenes y sus
+licencias, que la ruta esté completa, que ningún porcentaje de avistamiento se quede sin su muestra
+detrás, que todo precio lleve su equivalente en euros, que el presupuesto cuadre consigo mismo y
+que el README no mienta ni en las páginas ni en el índice. **Las mismas comprobaciones corren solas
+en cada push** *(`.github/workflows/comprueba.yml`)*.
+
+**Y lee [`CLAUDE.md`](CLAUDE.md) antes de tocar el build**: están ahí las convenciones que el
+markdown no delata —por qué no hay ni una tabla, dónde va el `%% ancho` de los diagramas anchos, y
+la trampa de la URL larga que encoge el PDF entero sin avisar—.
 
 <div align="center">
 
