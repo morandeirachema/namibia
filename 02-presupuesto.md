@@ -11,20 +11,23 @@
 > combustible actualizado a la revisión del 5 ago 2026 · coche actualizado a la reserva con
 > Savanna del 12/08/2026*
 
-Coste del viaje con el **precio de las partidas grandes ya cotizado** (vuelo, coche y seguro), en N$ y
+Coste del viaje con las **partidas grandes ya cerradas** (vuelo emitido, coche reservado y seguro
+contratado), en N$ y
 €. Cada cifra lleva su marca de confianza y su fuente. **Donde no hay dato verificado, se dice y se
 deja como estimación marcada: un número plausible presentado como hallazgo es un fallo grave — aquí
 no se hace.**
 
-> ⚠️ **«Cotizado» no es «reservado» — y al 21/08/2026 hay tres excepciones**: el **vuelo, EMITIDO
-> y PAGADO (€1.536 p.p.)**, el **coche, RESERVADO con Savanna (€2.363 en total, ~€1.181,50 p.p.)**
-> y **las cuatro noches de Etosha, RESERVADAS el 21/08** — **Okaukuejo, Halali y Namutoni** dentro
-> del parque *(N$920 la noche los dos cada una)* y **Onguma Tamboti el D12**, ya fuera de la puerta
-> de Von Lindequist, en vez de la segunda noche de Namutoni que presupuestaba este documento.
-> Todo lo demás —Sesriem ×2, Terrace Bay y el resto de
-> noches— sigue sin reservar *(ver [`15`](15-huecos-cerrados.md) §lista maestra y [`20`](20-reservas.md))*:
-> son precios de mercado, no pagos hechos. La ruta que presupuestan quedó **confirmada el
-> 06/08/2026** — la nota de abajo.
+> ⚠️ **«Cotizado» no es «reservado» — y al 24/08/2026 hay cuatro excepciones**: el **vuelo, EMITIDO
+> y PAGADO (€1.536 p.p.)**, el **coche, RESERVADO con Savanna (€2.363 en total, ~€1.181,50 p.p.)**,
+> **las cuatro noches de Etosha, RESERVADAS el 21/08** —**Okaukuejo, Halali y Namutoni** dentro
+> del parque *(N$920 · ~€46 la noche los dos cada una)* y **Onguma Tamboti el D12**, ya fuera de la
+> puerta de Von Lindequist, en vez de la segunda noche de Namutoni que presupuestaba este
+> documento— y el **seguro IATI Estrella, CONTRATADO el 24/08** *(desde el 30/10; el importe real
+> pagado, ❌ por recuperar — §7 y `20` §3)*.
+> **Sesriem ×2, Terrace Bay y Spreetshoogte ×2 siguen sin reservar** *(ver
+> [`15`](15-huecos-cerrados.md) §lista maestra y [`20`](20-reservas.md))* — aunque **las tres ya
+> tienen tarifa cerrada**: son precios reales, pero no pagos hechos. La ruta que presupuestan quedó
+> **confirmada el 06/08/2026** — la nota de abajo.
 
 
 > ## ✅ NOTA: este presupuesto es el de la RUTA DEL NORTE, confirmada el 06/08/2026
@@ -67,7 +70,7 @@ pie showData
 > **Vuelo y coche son el 68 % del viaje.** El vuelo está **EMITIDO (10/08: €3.072 los dos)** y el
 > coche **RESERVADO (12/08: €2.363 los dos, los 15 días completos con Savanna)** — las dos
 > partidas grandes ya cerradas, no estimadas.
-> Todo lo demás junto (~€2.528 de la pareja) pesa menos que ellas dos.
+> Todo lo demás junto (~€2.544 de la pareja) pesa menos que ellas dos.
 
 ---
 
@@ -702,8 +705,8 @@ flowchart LR
   y la lanzadera de Deadvlei — tarifas NWR reales, selección del 08/08, reserva en recepción.
 - **◐ Corroborado o por recotizar — ~€117**: las tasas de parque *(con Cape Cross; la gaceta
   localizada, el PDF primario del MEFT sin abrirse)*.
-- **○ Estimado — ~€564**: seis noches de camping sin cotizar (más Hoada ◐), combustible, comida y
-  misceláneos. **Ese es el margen real: ±€150 por persona.**
+- **○ Estimado — ~€535**: **cinco** noches de camping sin cotizar (más Hoada ◐), combustible,
+  comida y misceláneos. **Ese es el margen real: ±€150 por persona.**
 
 > **El inventario completo de lo que sigue abierto** —incluidos los importes que faltan y las
 > preguntas por escrito pendientes— está en [`15-huecos-cerrados`](15-huecos-cerrados.md).

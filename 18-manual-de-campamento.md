@@ -202,7 +202,9 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 **Cuántas horas aguanta la nevera con su propia batería sin recarga** ❌ — la batería es propia,
 no del coche (§5); solo falta ese dato de autonomía · **enchufe por parcela, campamento a
 campamento** — **cerrado el 11/08 ◐** *(§5: toma en los cuatro NWR de interior; Hoada y
-Spreetshoogte, sin ella)* · **el precio de la leña** ❌ · **la
+Spreetshoogte, sin ella)* · **el precio de la leña** ❌ *(salvo en **Spreetshoogte**, que lo
+publica: **N$55 · ~€2,75** el fardo de 10 kg, y **N$30 · ~€1,50** la del calentador *donkey* ✅ —
+24/08)* · **la
 potabilidad camping a camping** ❌ — se pregunta en cada recepción. Ninguno cambia una reserva:
 son preguntas de la entrega del coche y de cada llegada.
 
