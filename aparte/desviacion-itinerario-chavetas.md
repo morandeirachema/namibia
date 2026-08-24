@@ -103,9 +103,10 @@ antes eran dos noches de Namutoni)* —
 con la **luna nueva del 9–10 de noviembre clavada en esas noches** y las charcas iluminadas de los
 campamentos como plato fuerte. Dormir fuera regala exactamente eso: **las puertas cierran al
 ocaso, así que sus noches de charca no existieron**. *(Y la crítica hay que aplicársela también a
-uno mismo: **la cuarta noche, la de Onguma, tampoco tiene charca de campamento** — se paga con eso
-lo que se compra, que es una reserva privada donde sí se puede salir de noche con foco y andar a
-pie. Las tres charcas iluminadas siguen en el plan, en las tres noches de dentro.)* Es la
+uno mismo: **las dos últimas noches, las de Onguma, tampoco tienen charca de campamento** — se paga
+con eso lo que se compra, que es una reserva privada donde sí se puede salir de noche con foco y
+andar a pie. **Quedan dos charcas iluminadas de las tres**, en las dos noches de dentro: Okaukuejo
+y Moringa. La de Namutoni se perdió con su noche, y era la floja *(cambio del 24/08)*.)* Es la
 desviación más consciente de todas
 —nuestro `16` y `21` la razonan— y su diario la confirma por el negativo: ni una línea de fauna
 nocturna. Sus 35 especies en día y medio quedan, eso sí, como **listón de referencia** para

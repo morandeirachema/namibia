@@ -248,6 +248,11 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   persona → N$1.240 (~€62) los dos y por noche → N$2.480 (~€124) las dos**, IVA y Social
 >   Development Levy incluidos.
 >   ❌ **El importe exacto de la reserva, por confirmar.**
+> - 🆕 ⏰ **Y una pregunta que sí conviene hacer: ¿hasta qué hora abre recepción?** ❌ El D12 se llega
+>   **después de cerrar Von Lindequist (19:10)**, o sea hacia las **19:15–19:30**, y su tarifa dice
+>   que **la cena y las actividades se reservan al llegar, en recepción** ✅. Si a esa hora está
+>   cerrada, se pierden las dos la primera noche. *(Con dos noches el daño es menor: lo que no se
+>   cierre el D12 se cierra el D13.)*
 > - 🟡 **Sus condiciones de cancelación siguen sin pedirse** ❌, **y se ha decidido no pedirlas**
 >   *(24/08)*: el cambio de la segunda noche por el [Cheetah Conservation Fund](https://cheetah.org/)
 >   **se resuelve sobre la marcha** *([`24`](24-ruta-alternativa.md))*. Queda escrito lo que eso
@@ -310,6 +315,10 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
   Si la respuesta es que sí, vuelven al plan; si es que no, **lo que las sustituye lo vende Onguma**
   —Sundowner Drive con foco, N$980 (~€49) pp, y game drive guiado dentro de Etosha, N$1.930 (~€97)
   pp— *(`01` §D13)*.
+- 🆕 **Si la tasa de parque se cobra por 24 h o por entrada** ❌ — el D12 se sale por Von Lindequist
+  y el D13 se vuelve a entrar; el presupuesto cuenta 4 unidades dando por bueno el criterio de las
+  24 h *(`03`)*. **Son N$620 (~€31) de diferencia.** Se puede preguntar en la puerta de Andersson al
+  entrar el D10.
 - Los **horarios de desayuno/restaurante** de los campamentos ❌ *(importa para salir al alba)*.
   *(La pregunta del enchufe por parcela quedó cerrada el 11/08 ◐ — `18` §5: hay toma en los
   cuatro NWR de la ruta; en Sesriem, pedir al llegar una parcela con la toma que funcione ○.)*

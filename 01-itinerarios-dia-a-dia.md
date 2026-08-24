@@ -473,7 +473,7 @@ flowchart LR
   rocas de granito, duchas entre peñas, cielo estrellado. **N$271–366/persona según temporada
   (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `15`)*
 
-### D10 · lun 9 — Hoada → Etosha (Okaukuejo) · **~340 km · ~4h30** ◐
+### D10 · lun 9 — Hoada → Etosha (Okaukuejo) · **~343 km · ~4h30** ◐ *(OSRM 342,6)*
 - 🌡️ **Okaukuejo, medias de noviembre: 37,1 °C máx / 18,9 °C mín** ✅ *(NOAA GHCN, serie completa
   1975–2022, recomputada en `15` en dos extracciones independientes)* — y **baja según avanza el
   mes**: 37,8 en octubre → 37,1 en noviembre → 35,6 en diciembre
@@ -481,10 +481,10 @@ flowchart LR
   al ocaso: pasa Andersson con margen de sobra*
 - C40 a Kamanjab → C38 a la puerta de **Andersson** (asfalto desde Kamanjab... ⚠️ firme por
   confirmar) → **Okaukuejo a 17 km** de la puerta
-- ✅ **Son ~340 km (verificado 04/08, antes se manejaba ~315)**: Hoada → Kamanjab **75 km** + Kamanjab
+- ✅ **Son ~343 km (verificado 04/08, antes se manejaba ~315)**: Hoada → Kamanjab **75 km** + Kamanjab
   → Okaukuejo por Outjo **~265–271 km** *(distancesto: Kamanjab–Outjo 156 km; CityMeter: Kamanjab–Okaukuejo
   271 km; la matriz de 2010 daba 265, convergen — **y OSRM lo remacha: 343**)*. **El ~315 queda
-  refutado.** Cuenta ~340 para el depósito y la hora de puerta. Ver [`13`](13-itinerario.md), §3.
+  refutado.** Cuenta ~343 para el depósito y la hora de puerta. Ver [`13`](13-itinerario.md), §3.
 - 🎫 Etosha ~N$620 (~€31)/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
 - 🎟️ **Nada más llegar, en recepción: cierra los guiados** — la salida de mañana de MAÑANA en
   Okaukuejo y pregunta los horarios *(❌ no los publican; decidido 08/08 — ver §parques)*

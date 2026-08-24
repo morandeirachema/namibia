@@ -49,8 +49,9 @@ el viaje sigue; si se pierde la cabina, no.
       blanco**
 - [ ] **e-visa impreso y firmado** ×1 p.p. ✅ + **1 copia** suelta
 - [ ] **Billetes de avión impresos** ×1 p.p.
-- [ ] **Reservas impresas** ×1 de cada: coche, Sesriem, Terrace Bay y los tres campamentos de
-      Etosha *(Terrace Bay sin reserva en papel no entra al parque ✅)*
+- [ ] **Reservas impresas** ×1 de cada: coche, **Windhoek Urban Camp**, **Spreetshoogte**,
+      **Sesriem ×2**, **Terrace Bay**, **Okaukuejo**, **Halali** y **Onguma Tamboti ×2**
+      *(Terrace Bay sin reserva en papel no entra al parque ✅)*
 - [ ] **Póliza IATI en papel** ×2: número de póliza y **teléfono 24 h** ✅
 - [ ] **Carné de conducir** ×1 p.p. + **permiso internacional** ×1 p.p.
 - [ ] **Cartilla de vacunación** ×1 p.p.

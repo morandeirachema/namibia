@@ -83,6 +83,44 @@ def revisa_geo():
         bien(f"ruta completa: {len(ruta)} etapas, {total:.0f} km")
 
 
+def revisa_dia_a_dia():
+    """Que los kilometros del `01` sean los que mide la geometria de la ruta.
+
+    El `24` tenia esta comprobacion desde que se despego una vez; el `01` —que es LA
+    ruta— no la tuvo nunca, y es el documento que mas se toca. El 24/08, al renumerar
+    los dias, dos titulares se quedaron en la cifra redondeada de una discusion vieja
+    (`~340` con OSRM en 342,6) sin que nada avisara. Se comprueban solo los dias que
+    declaran kilometros: la llegada, el dia de descanso y el de vuelo no lo hacen a
+    proposito.
+    """
+    fich = os.path.join(HERE, "geo", "ruta.json")
+    if not os.path.exists(fich):
+        return mal("falta geo/ruta.json — ejecuta `python3 fuente/geodatos.py`")
+    medido = {e["id"]: e["km"] for e in json.load(open(fich)) if e["km"] is not None}
+    doc = open(os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md")).read()
+
+    dias_doc = re.findall(r"^### (D\d+) ·", doc, re.M)
+    fallos = []
+    if set(dias_doc) != set(medido):
+        fallos.append(f"el `01` describe {sorted(set(dias_doc) - set(medido))} de mas y "
+                      f"{sorted(set(medido) - set(dias_doc))} de menos que la geometria")
+    con_km = 0
+    for m in re.finditer(r"^### (D\d+) ·[^\n]*?(\d[\d.]*) km", doc, re.M):
+        dia, km = m.group(1), float(m.group(2).replace(".", ""))
+        if dia not in medido:
+            continue
+        con_km += 1
+        if abs(km - medido[dia]) > 2:
+            fallos.append(f"{dia}: el `01` titula {km:.0f} km y OSRM mide {medido[dia]:.1f}")
+
+    if fallos:
+        for f in fallos:
+            mal(f)
+    else:
+        bien(f"el dia a dia del `01`: {len(dias_doc)} dias, {con_km} con kilometros, "
+             f"todos los que mide la geometria")
+
+
 def revisa_ruta_alt():
     """Que el dia a dia del `24` no se haya despegado de la geometria de su variante.
 
@@ -716,6 +754,7 @@ def main():
     revisa_precios()
     revisa_imagenes()
     revisa_geo()
+    revisa_dia_a_dia()
     revisa_ruta_alt()
     revisa_gps()
     revisa_avistamientos()
