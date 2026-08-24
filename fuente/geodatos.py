@@ -284,6 +284,8 @@ def tramos():
 #   (consulta a Nominatim, rotulo del mapa, clase, dias)
 #   clase: comer · joya · compra
 INTERES = [
+    ("Schanzen Road, Windhoek", "Urban Camp · Schanzen Road", "dormir", ["D1", "D14", "D15"]),
+    ("80 Trift Street, Windhoek", "Savanna · recogida del 4x4", "compra", ["D1", "D15"]),
     ("Joe's Beerhouse, Windhoek", "Joe's Beerhouse", "comer", ["D1", "D14"]),
     ("Namibia Craft Centre, Windhoek", "Craft Centre", "compra", ["D15"]),
     ("Maerua Mall, Windhoek", "Maerua Mall · SuperSpar", "compra", ["D1"]),

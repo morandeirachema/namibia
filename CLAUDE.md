@@ -48,8 +48,10 @@ público no expone el `surface` de OSM, pero **en Namibia la letra manda** —B 
 y las excepciones son las que el dossier ya documentaba una a una: van todas en `trazado.FIRME`
 *(C34 asfaltada hasta Henties Bay y sal después, C40 asfaltada solo Outjo–Kamanjab, la carretera
 de Sossusvlei asfaltada hasta el 2WD…)*. La ficha del mapa da los kilómetros por firme y el tiempo
-**mínimo a las velocidades del `13`** (100/80/60) y el **realista** (grava a 65 y media hora de
-paradas), que es el mismo convenio del dossier aplicado tramo a tramo. `make comprueba` exige que
+**mínimo a las velocidades del `13`** (100/80/60) y el **realista como banda** —grava a 60–70 de
+media real y 30–60 min de paradas—, que es el convenio del `13` tal cual, aplicado tramo a tramo:
+así la ficha envuelve el «~4h30» del `01` en vez de dar otra cifra. Un firme de menos de 1 km no
+hace fila, y el D4 avisa de los ~5 km de arena de Sossusvlei que OSRM no enruta. `make comprueba` exige que
 `tramos.json` cubra los mismos días y kilómetros que `ruta.json` —si se mueve una noche y no se
 regenera, el mapa pinta el recorrido de antes— y que **ningún tramo de más de 8 km quede sin firme
 en la tabla**.
@@ -61,7 +63,8 @@ desborda a una tercera, dice cuál.
 **Los puntos de interés del mapa** —dónde comer, qué ver de paso, compras— son los que el `08` y el
 `10` ya nombran; `geodatos.py interes` les pone coordenada **con Nominatim, nunca a ojo**, y los
 cachea en `geo/interes.json` con el día en que se pasa. Lo que Nominatim no encuentra **queda fuera
-del mapa y consta en el JSON** *(hoy: Anchors @ the Jetty, el pecio Zeila y el lago Otjikoto)*. Para
+del mapa y consta en el JSON** *(hoy: Anchors @ the Jetty, el pecio Zeila, el lago Otjikoto y el
+Urban Camp de Windhoek — la oficina de Savanna sí sale)*. Para
 añadir uno, se añade a `INTERES` en `geodatos.py` y se regenera.
 
 ## Convenciones que no se ven en el markdown

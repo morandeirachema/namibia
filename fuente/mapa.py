@@ -299,6 +299,8 @@ def firme_del_dia(dia):
         f = t["firme"] or "urbano"
         f = "asfalto" if f == "urbano" else f
         km[f] = km.get(f, 0.0) + t["km"]
+    # un firme de menos de un kilometro es un cruce, no una fila de la ficha
+    km = {f: v for f, v in km.items() if v >= 1}
     horas = sum(v / VEL[f] for f, v in km.items())
     return km, horas
 
@@ -399,8 +401,10 @@ def mapa_dia(dia, ancho=1000, alto=None):
     return envoltorio(L.ancho, L.alto, "".join(cuerpo))
 
 
-COLOR_INTERES = {"comer": "#8A3B8E", "joya": "#2F6E8E", "compra": "#5F7043"}
-NOMBRE_INTERES = {"comer": "dónde comer", "joya": "qué ver de paso", "compra": "compra"}
+COLOR_INTERES = {"comer": "#8A3B8E", "joya": "#2F6E8E", "compra": "#5F7043",
+                 "dormir": "#C2542F"}
+NOMBRE_INTERES = {"comer": "dónde comer", "joya": "qué ver de paso", "compra": "compra",
+                  "dormir": "el camping"}
 
 
 def leyenda_dia(L, firmes, clases_interes, clases_punto):
@@ -415,7 +419,7 @@ def leyenda_dia(L, firmes, clases_interes, clases_punto):
     for cl, nom in simb:
         if cl in clases_punto:
             filas.append((cl, None, nom))
-    for cl in ("comer", "joya", "compra"):
+    for cl in ("dormir", "comer", "joya", "compra"):
         if cl in clases_interes:
             filas.append(("cuadro", COLOR_INTERES[cl], NOMBRE_INTERES[cl]))
     if not filas:
