@@ -30,11 +30,36 @@
 
 ---
 
+> ## ⏳ Hasta cuándo se puede decidir — la fecha que faltaba
+>
+> **La decisión no tiene reloj propio, pero está vallada por el de NWR**, y la valla es **la primera
+> llamada**: la variante mueve **Sesriem al 2–3 nov** *(no 3–4)* y **Terrace Bay al 6** *(no al 7)*,
+> así que **reservar con las fechas oficiales y cambiar después cuesta dinero** ✅ *(`20` §4)*.
+>
+> - **Al reservar** se paga un **20 % no reembolsable en 48 h** ✅: sobre Sesriem ×2 y Terrace Bay
+>   son **~N$1.232 (~€62)** los que se arriesgan por no haber decidido antes.
+> - **El pago íntegro vence 30 días antes de cada llegada** ✅ → con las fechas de la variante,
+>   **~3 de octubre** para Sesriem *(~4 con las oficiales)* y **~7 de octubre** para Terrace Bay
+>   *(~8)*. Pasada esa raya, la escala de cancelación va del **30 % al 100 %**.
+>
+> 👉 **La fecha operativa, dicha en claro: decide ANTES de llamar a NWR, y llama antes del 3 de
+> octubre.** Desde hoy —24/08— son **40 días**, y no hay por qué apurarlos: Sesriem tiene solo
+> **44 parcelas** *(`20` §4)*.
+>
+> ⚠️ **Y el único número capaz de encarecer esta decisión no se sabe**: las **condiciones de
+> cancelación de Onguma** ❌, reservada desde el 21/08. **Pídelas ya** — no dependen de haber
+> decidido nada, se piden en un email, y **hasta tenerlas el coste de la variante tiene un extremo
+> abierto**.
+
+---
+
 ## 🗺️ El itinerario alternativo, día a día
 
-**~2.756 km** *(**8 menos** que la oficial)* ✅ · **15 días, 14 noches** · **el peor día baja de 539
+**~2.807 km** *(**43 más** que la oficial)* ✅ · **15 días, 14 noches** · **el peor día baja de 539
 a 412 km**. *(Medido sobre la misma geometría que pinta el mapa de aquí abajo,
-`fuente/geo/ruta-alt.json`; el kilometraje de cada día es el de OSRM, redondeado.)*
+`fuente/geo/ruta-alt.json`; el kilometraje de cada día es el de OSRM, redondeado, y **los tiempos
+salen del desglose de firme de cada etapa a las velocidades de planificación del [`13`](13-itinerario.md)** —asfalto 100,
+grava 80, parque 60—, no del reloj optimista de OSRM.)*
 
 - **D0 · sáb 31 oct — Windhoek** · 46 km — *igual que la oficial*
 - **D1 · dom 1 nov — Windhoek → paso de Spreetshoogte** · **205 km** · 🛏️ **Spreetshoogte, UNA
@@ -56,12 +81,19 @@ a 412 km**. *(Medido sobre la misma geometría que pinta el mapa de aquí abajo,
 - **D10 · mar 10 nov — Safari Okaukuejo → Halali** · 108 km · 🛏️ **Halali ✅ RESERVADO**
 - **D11 · mié 11 nov — Safari Halali → Namutoni** · 77 km · 🛏️ **Namutoni ✅ RESERVADO**
   *(y el nocturno guiado sale de aquí, sin cambios)*
-- **D12 · jue 12 nov — Namutoni → Von Lindequist → CCF** · **289 km · ~3 h 35** ✅ · 🛏️ **Cheetah
-  Conservation Fund** ⬅️ **en vez de Onguma** *(decidido 24/08)*. Saliendo al alba se llega hacia
-  las **11:30**, a tiempo de la **alimentación de las 14:00** —el 12 es jueves, horario de lunes a
-  viernes ✅— más el **tour del centro** y el **Cheetah Drive**
-- **D13 · vie 13 nov — Cheetah Run de las 08:00 y bajada a Windhoek** · **294 km · ~3 h 40** ✅ ·
-  🛏️ Windhoek. *El Run dura 30 min: saliendo a las 09:00 se está en Windhoek hacia las 12:45, con
+- **D12 · jue 12 nov — Namutoni → Von Lindequist → Tsumeb → Otjiwarongo → CCF** · **340 km ·
+  mínimo ~3 h 37, realista ~4 h 15 con la parada de Otjiwarongo** ✅ *(277 km de asfalto por la B1,
+  53 de grava y 11 dentro del parque)* · 🛏️ **Cheetah Conservation Fund** ⬅️ **en vez de Onguma**
+  *(decidido 24/08)*. Saliendo cuando abre Von Lindequist se llega **antes de las 11:30**, a tiempo
+  de la **alimentación de las 14:00** —el 12 es jueves, horario de lunes a viernes ✅— más el **tour
+  del centro** y el **Cheetah Drive**.
+  ⚠️ **Va por la B1 a propósito, y son 51 km más que el camino corto**: OSRM enruta por defecto un
+  **atajo de 289 km con 190 de pista D** *(D3028, D2804, D2433 — «unpaved» en OSM ✅)*, que al
+  convenio del `13` solo ahorra **10 minutos** y con la grava a velocidad realista **sale perdiendo**.
+  Por las reglas del [`06`](06-conduccion.md) —el vuelco vive en la grava— **el asfalto gana**
+- **D13 · vie 13 nov — Cheetah Run de las 08:00 y bajada a Windhoek** · **294 km · mínimo ~3 h 03,
+  realista ~3 h 30** ✅ *(247 km de asfalto por la B1 y 47 de grava, los del ramal del CCF)* · 🛏️
+  Windhoek. *El Run dura 30 min: saliendo a las 09:00 se está en Windhoek **hacia las 12:30**, con
   la tarde libre*
 - **D14 · sáb 14 nov — Windhoek → aeropuerto** · 46 km · ✈️ 20:45
 
@@ -82,7 +114,7 @@ flowchart LR
 %% ancho
     A["SPREETSHOOGTE<br/>2 noches -> 1"] --> B["LA NOCHE LIBRE<br/>va a DAMARALAND<br/>Twyfelfontein o Palmwag"]
     B --> C["DESBLOQUEA<br/>el rastreo de rinoceronte<br/>y elefante del desierto"]
-    D["ONGUMA<br/>fuera"] --> E["ESA NOCHE VA AL CCF<br/>289 km · una sola noche"]
+    D["ONGUMA<br/>fuera"] --> E["ESA NOCHE VA AL CCF<br/>340 km por la B1 · una sola noche"]
     E --> F["DESBLOQUEA<br/>alimentacion de las 14:00 el mismo dia<br/>y CHEETAH RUN de las 08:00<br/>conservando la noche de Windhoek"]
     style A fill:#C2542F,color:#fff
     style D fill:#C2542F,color:#fff
@@ -112,9 +144,11 @@ flowchart LR
   magnífico para **leopardo, rinoceronte a pie y pangolín**, pero **eso ya no es este viaje**.
 - 🚗 **Endereza el final del viaje, que es donde dolía.** El **D8 oficial de 367 km** se parte en
   **211 + 158** gracias a la noche nueva de Damaraland; y los dos últimos días dejan de ser **56 +
-  539** para ser **289 + 294**: **el día de vuelta baja de 539 a 294 km** y deja de ser el peor del
+  539** para ser **340 + 294**: **el día de vuelta baja de 539 a 294 km** y deja de ser el peor del
   viaje. *(El peor pasa a ser el **D6 de la costa, 412 km**, que ya está igual en las dos rutas.)*
-- 📉 **La ruta encoge a ~2.756 km**, 8 menos — el cambio es de forma, no de kilómetros.
+- 📈 **Y hay que decir el precio en kilómetros: la ruta CRECE ~43 km**, hasta ~2.807. El rodeo al
+  CCF y la vuelta desde él suman **634 km** donde la oficial hacía **595** *(`23` ya lo estimaba en
+  +89 desde el otro extremo)*. **Repartidos en dos días cómodos**, que es de lo que iba todo esto.
 - 🐾 **Cambia escarpa sin datos por Damaraland con datos**: en Spreetshoogte **no hay parte de
   avistamientos ni polígono GBIF** —es granja privada, la fauna está sin medir *(`01` §D1)*—;
   Damaraland sí está medido en la guía.

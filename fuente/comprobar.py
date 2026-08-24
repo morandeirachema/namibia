@@ -115,8 +115,10 @@ def revisa_ruta_alt():
         if d in medido and abs(km - medido[d]) > 1:
             fallos.append(f"{d}: el `24` dice {km:.0f} km y OSRM mide {medido[d]:.1f}")
 
+    fallos += _horas_del_24(doc, medido)
+
     total = sum(medido.values())
-    m = re.search(r"\*\*~([\d.]+) km\*\* \*\(\*\*(\d+) menos\*\*", doc)
+    m = re.search(r"\*\*~([\d.]+) km\*\* \*\(\*\*(\d+) (menos|más)\*\*", doc)
     if not m:
         fallos.append("el `24` ya no lleva su titular de kilometros")
     else:
@@ -126,9 +128,10 @@ def revisa_ruta_alt():
                           f"{total:.0f}")
         oficial = sum(e["km"] or 0 for e in
                       json.load(open(os.path.join(HERE, "geo", "ruta.json"))))
-        if abs(float(m.group(2)) - (oficial - total)) > 1.5:
-            fallos.append(f"el `24` dice {m.group(2)} km menos que la oficial y la resta "
-                          f"da {oficial - total:.0f}")
+        resta = (oficial - total) if m.group(3) == "menos" else (total - oficial)
+        if abs(float(m.group(2)) - resta) > 1.5:
+            fallos.append(f"el `24` dice {m.group(2)} km {m.group(3)} que la oficial y la resta "
+                          f"da {resta:.0f}")
 
     # el mapa que el documento promete tiene que existir de verdad
     for ext in ("svg", "png"):
@@ -144,6 +147,55 @@ def revisa_ruta_alt():
     else:
         bien(f"la variante del `24`: {len(medido)} etapas medidas, {total:.0f} km, "
              f"y el dia a dia cuadra con el mapa")
+
+
+# Velocidades de planificacion del `13`: asfalto 100, grava 80, dentro de parque 60.
+V = {"asfalto": 100.0, "grava": 80.0, "parque": 60.0}
+
+
+def _horas_del_24(doc, medido):
+    """Que los tiempos del `24` se deriven de su propio desglose de firme, y no de la nada.
+
+    Lo que paso: el `24` daba «289 km · ~3 h 35» y «294 km · ~3 h 40», la MISMA velocidad
+    para una etapa que arranca dentro del parque y otra que es B1 entera. Ni salia de OSRM
+    ni del convenio del `13`, y una comprobacion de banda —entre km/100 y km/60— no lo
+    habria cazado: 80 km/h cae comodamente dentro. Lo unico que lo caza es exigir que el
+    tiempo CUADRE con el reparto de firme, asi que la regla es esa: toda etapa que declare
+    un tiempo tiene que declarar tambien sus kilometros de asfalto, grava y parque; el
+    reparto tiene que sumar los kilometros de la etapa; y el minimo tiene que ser
+    exactamente el que sale de las tres velocidades. El realista, nunca menor que el minimo.
+    """
+    fallos = []
+    for trozo in re.split(r"\n(?=- \*\*D\d+ ·)", doc):
+        m = re.match(r"- \*\*(D\d+) ·", trozo)
+        if not m:
+            continue
+        dia, km = m.group(1), medido.get(m.group(1))
+        renglon = trozo.split("\n- ")[0]
+        tiempos = [int(a) + int(b) / 60 for a, b in re.findall(r"~(\d+) h (\d+)", renglon)]
+        if not km or not tiempos:
+            continue
+        firme = {c: 0.0 for c in V}
+        for n, clase in re.findall(r"(\d+)\s+(?:km\s+)?de\s+(asfalto|grava)", renglon):
+            firme[clase] += float(n)
+        p = re.search(r"(\d+)\s+dentro del parque", renglon)
+        if p:
+            firme["parque"] += float(p.group(1))
+        if not sum(firme.values()):
+            fallos.append(f"{dia}: el `24` da un tiempo sin decir de que firme sale "
+                          f"— pon los km de asfalto, grava y parque")
+            continue
+        if abs(sum(firme.values()) - km) > 2:
+            fallos.append(f"{dia}: el desglose de firme del `24` suma "
+                          f"{sum(firme.values()):.0f} km y la etapa mide {km:.0f}")
+        esperado = sum(firme[c] / V[c] for c in V)
+        if abs(tiempos[0] - esperado) > 0.03:
+            fallos.append(f"{dia}: el `24` dice ~{int(tiempos[0])}h{round(tiempos[0] % 1 * 60):02d} "
+                          f"y su propio desglose a las velocidades del `13` da "
+                          f"{int(esperado)}h{round(esperado % 1 * 60):02d}")
+        if len(tiempos) > 1 and min(tiempos[1:]) < tiempos[0]:
+            fallos.append(f"{dia}: el `24` da un tiempo realista menor que su minimo")
+    return fallos
 
 
 # Los documentos que se leen SOBRE EL TERRENO, donde cada N$ es dinero que se paga y

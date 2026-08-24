@@ -123,6 +123,14 @@ resta contra la oficial; y que el mapa que el documento enlaza exista en disco�
 las quince etapas a mano y dibuja el mapa desde `ruta-alt.json`: sin esto, tocar `ETAPAS_ALT` movía
 el mapa y dejaba la prosa contando los kilómetros de antes.)*
 
+Y **que los tiempos del `24` salgan de su propio desglose de firme**: toda etapa que declare un
+tiempo tiene que decir sus kilómetros de **asfalto, grava y parque**, el reparto tiene que sumar los
+km de la etapa, y el mínimo tiene que ser exactamente el que dan las velocidades del `13` *(100, 80
+y 60)*. *(El `24` daba «289 km · ~3 h 35» y «294 km · ~3 h 40»: la misma velocidad para una etapa
+que arranca dentro del parque y otra que es B1 entera, sin salir ni de OSRM ni del convenio. Una
+comprobación de banda no lo caza —80 km/h cae dentro de todo—; lo único que lo caza es exigir que el
+tiempo cuadre con el firme.)*
+
 Y que la **lámina de ruta sea UNA hoja A2** *(si se desborda salen dos y la segunda va medio
 vacía; el margen es de pocos milímetros, así que cualquier línea de más en la banda de abajo lo
 rompe)*. Y que **cada documento del PDF tenga su resumen en `RESUMEN`** de `dossier.py` *(el índice sale
