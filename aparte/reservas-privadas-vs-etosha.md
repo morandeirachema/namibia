@@ -279,8 +279,8 @@ da más que el self-drive estándar?"— sin salir del parque ni cambiar de oper
   *"far away from the public self-drive routes"* (cita directa), accesible solo por carretera
   privada desde King Nehale Gate — acceso exclusivo confirmado por cuatro fuentes secundarias
   concordantes.
-- **Distancia real**: Namutoni→Onkoshi, ~40 km ◐ — donde ya se duerme en la ruta actual: **el
-  desvío más pequeño de los dos NWR "premium".**
+- **Distancia real**: Namutoni→Onkoshi, ~40 km ◐ — y por Namutoni se pasa el D12 camino de Onguma
+  *(dormir allí se anuló el 24/08)*: **el desvío más pequeño de los dos NWR "premium".**
 - **Precio** ✅, Bed & Breakfast: jul-oct N$4.320 (~€216) pp / **nov-jun N$3.180 (~€159) pp** — el
   viaje cae justo en el cambio de temporada (31 oct-14 nov), qué tarifa aplica según noche exacta
   no se pudo fijar ❌. Solo 15 chalets, máximo 30 huéspedes a la vez.

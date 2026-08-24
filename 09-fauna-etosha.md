@@ -60,8 +60,9 @@ flowchart LR
     style C fill:#F7F4ED,stroke:#C2542F
 ```
 
-1. **Los partes de avistamiento que publica Expert Africa** para los tres campamentos donde se
-   duerme: **Okaukuejo** *(149 viajeros)*, **Halali** *(48)* y **Namutoni** *(16)*. Ahí está la
+1. **Los partes de avistamiento que publica Expert Africa** para los tres campamentos de NWR de
+   la ruta: **Okaukuejo** *(149 viajeros)*, **Halali** *(48)* y **Namutoni** *(16)* — en los dos
+   primeros se duerme, y el tercero se cruza el D12 *(desde el 24/08 ya no es noche)*. Ahí está la
    respuesta directa — **elefante 96 %, rinoceronte negro 82 %, león 70 %, guepardo 19 %,
    leopardo 12 %** ◐ — y el **0 % del oricteropo**, que precisamente por eso **quedó fuera de
    la guía** *(regla del 09/08: lo que nadie vio, no lleva ficha)*. Ojo con la unidad: es

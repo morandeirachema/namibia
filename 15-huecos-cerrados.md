@@ -679,8 +679,10 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 **Precios sin cerrar — el margen real del presupuesto:**
 
-- 🛏️ ~~**Tres campings sin cotizar**~~ **DOS, desde el 24/08** *(Spreetshoogte se cerró — ver
-  §Spreetshoogte, abajo)*: Windhoek (D1 y D14), Walvis Bay (D5–D6) y Twyfelfontein (D8). Los
+- 🛏️ **Campings sin cotizar: CINCO noches en cuatro sitios** *(Spreetshoogte salió de esta lista el
+  24/08 — ver §Spreetshoogte, abajo; y entró la noche nueva de Twyfelfontein)*: Windhoek **D1 y
+  D14**, Walvis Bay **D5–D6** y Twyfelfontein **D8**. *(La del D1 está **reservada** en el Urban
+  Camp, pero **sigue sin tarifa**: reservar no es saber cuánto cuesta.)* Los
   sitios están identificados; **ninguno publica tarifa abrible desde aquí**. **Reintento 05/08 —
   el muro de `403` es total**: no solo las webs propias, también **todos los agregadores y hasta
   ioverlander** *(arebbusch.com, africanreservations.com, madbookings.com, booking.com y
@@ -693,12 +695,12 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   - **Lagoon Chalets (Walvis Bay)** — un fragmento cita «N$600 la parcela para 1 coche + 2 personas»
     *(~€30 ○, origen único)*, pero **africanreservations marca «sin tarifas para 01 mar 2026 – 28 feb
     2027»**: corrobora que **para la ventana del viaje no hay tarifa publicada**. Queda en ○.
-  - **Spreetshoogte** — ⚠️ **trampa de nombre viva**: hay al menos **tres** cosas llamadas
-    «Spreetshoogte» junto al paso —el camping propio, **Namibgrens Guest Farm** y **Barkhan Dune
-    Retreat**—, la misma confusión que ya dio el gancho de N$269,50 (Namibgrens). Los fragmentos dan
-    «~N$120–150 por persona» *(~€6–7,50 ○, orígenes que se contradicen entre sí)*. **No se cierra**:
-    sin abrir la ficha no se puede saber a cuál de las tres propiedades corresponde cada cifra. En
-    `01` (D2–D3, dos noches desde el 08/08) sigue como está: 150–300 ZAR/persona, vigencia desconocida.
+  - ~~**Spreetshoogte**~~ — **CERRADO el 24/08 y RESERVADO el mismo día, por UNA noche (D2)**:
+    **N$290 (~€14,50) pp → N$580 (~€29) los dos**, del rack propio de Barkhan *(§Spreetshoogte,
+    abajo)*. *(Queda como aviso de método la trampa de nombre: hay al menos **tres** cosas llamadas
+    «Spreetshoogte» junto al paso —el camping, **Namibgrens Guest Farm** y **Barkhan Dune Retreat**—,
+    la misma confusión que dio el gancho de N$269,50 y los «~N$120–150 por persona» de los
+    fragmentos, todos refutados por el rack real.)*
   > **Conclusión 05/08:** ninguno pasa el listón de «verifica la extracción, no solo la fuente». Los
   > tres siguen en la estimación de práctica común de `02`; **estos números son pistas con URL para el
   > que llame a reservar, no precios para presupuestar**.
@@ -751,6 +753,33 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   vuelta puede quedar fuera; un bono «Aweh» lo tapa.)* Cifras convergentes entre la web de MTC, su
   PDF de T&C y un blog independiente, internamente coherentes; ◐ porque no se pudo abrir la página.
   Detalle en [`07`](07-logistica.md), §Cobertura.
+
+**Huecos NUEVOS, que los abrió el cambio de ruta del 24/08:**
+
+- 🎫 **¿La tasa de Etosha se cobra por 24 h o por entrada?** ❌ **N$620 (~€31) en juego.** Hasta el
+  24/08 se entraba el D10 y se salía el D13 sin cruzar la puerta en medio, así que la pregunta no
+  existía. Ahora **se sale el D12 por la tarde y se vuelve a entrar el D13 por la mañana**, y el
+  dossier cuenta **4 unidades** apoyándose en que la tarifa se cobra *«por parque y por cada 24 h
+  desde la entrada»* ◐ *(`03`)* — con ese criterio la reentrada cae dentro de la unidad ya pagada.
+  **Si en la práctica la ventanilla cobra por entrada, son 5 unidades y N$620 más.** Se pregunta en
+  la puerta de Andersson al entrar el D10, y **la respuesta cambia el presupuesto, no el plan**.
+- 🕕 **El horario de recepción de Onguma** ❌, y ahora sí importa. El D12 se sale del parque
+  **con Von Lindequist cerrando a las 19:10** y Onguma queda 3,4 km después: la llegada puede ser a
+  las **~19:15–19:30**. Y su propia tarifa dice que **la cena y las actividades se reservan al
+  llegar, en recepción** ✅. **Si recepción cierra antes, se pierden las dos cosas la primera
+  noche.** Se pregunta en el mismo email que las condiciones de cancelación *(`20` §4)*.
+  *(Con dos noches el daño es menor que con una: lo que no se cierre el D12 se cierra el D13.)*
+- 🛏️ **La noche de Twyfelfontein (D8) no tiene tarifa NI candidato de camping confirmado** ❌ — los
+  dos sitios identificados *(Twyfelfontein Country Lodge y la zona de Palmwag)* **son lodges**. Es el
+  **único riesgo al alza serio del presupuesto**: presupuestada como camping *(~€35 la pareja)*,
+  puede irse a **€150–200** si acaba siendo habitación *(`02` §3)*.
+- 🦏 **El rastreo de rinoceronte de Grootberg y el de Palmwag siguen sin precio** ❌
+  *(res4@journeysnamibia.com · +264 61 228 104)*. **Es lo que compró la noche nueva del D8** —con el
+  itinerario de agosto no cabía—, así que es el hueco que más valor tiene por lo que cuesta cerrarlo:
+  un email.
+- 🌙 **¿Vende NWR el nocturno guiado y la guiada de mañana a quien NO duerme en el campamento?** ❌
+  **N$2.800 (~€140) en juego.** Al anular Namutoni, las dos últimas noches se duermen fuera y las dos
+  actividades salieron del presupuesto. Si las venden igual, vuelven al plan *(`20` §4)*.
 
 **Datos que siguen abiertos:**
 

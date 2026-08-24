@@ -157,8 +157,10 @@ CCF. [Ver el mapa en grande](img/mapas/ruta-alternativa.svg).*
 ## 📞 Cómo se resuelve sobre la marcha — y qué se acepta al hacerlo así
 
 **Decidido el 24/08: no se pregunta nada por adelantado.** La tarde del D12, en Onguma, se mira lo
-que ha salido en Etosha y **se llama desde allí**. Eso es perfectamente viable, y estos son los dos
-teléfonos que hay que llevar apuntados:
+que ha salido en Etosha y **se llama desde allí**. ✅ **Y desde allí se puede: Onguma anuncia wifi
+gratis en recepción** *(su propia tarifa — `21`)*, que es justo lo que hace viable decidirlo sobre
+el terreno. *(Dentro del parque no habría sido tan fácil: la cobertura de los campamentos de NWR es
+«irregular en el mejor caso» ○, `07`.)* Estos son los dos teléfonos que hay que llevar apuntados:
 
 1. **CCF — NightsBridge o 📞 +264 (0)67 306225** ✅. Se pregunta **si hay sitio para la noche del 12**
    y el precio ❌, que no publican.
