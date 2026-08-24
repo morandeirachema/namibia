@@ -41,9 +41,7 @@ PUNTOS = {
     "torrabay":      (-20.32287, 13.23804, "Torra Bay", "hito"),
     "terracebay":    (-19.98772, 13.03254, "Terrace Bay", "parada"),
 
-    # --- solo en la variante del `24`: la linea de dentro y la vuelta por el CCF ---
-    "spitzkoppe":    (-21.83873, 15.20142, "Spitzkoppe", "parada"),
-    "uis":           (-21.22077, 14.87092, "Uis", "combu"),
+    # --- solo en la variante del `24`: la vuelta por el CCF en vez de Onguma ---
     "ccf":           (-20.48387, 17.03154, "Cheetah Conservation Fund", "parada"),
 
     # --- Damaraland ---
@@ -73,9 +71,9 @@ PUNTOS = {
 
 # Puntos que SOLO existen en la variante del `24`. Viven en la misma tabla —para que el
 # mapa de la variante los rotule con el mismo codigo— pero NO entran en el GPX ni en el
-# KML: esos dos son de la ruta que se va a conducir, y un waypoint de Spitzkoppe en el
-# GPS del viaje es una invitacion a coger el desvio equivocado en mitad de la C34.
-SOLO_VARIANTE = ("spitzkoppe", "uis", "ccf")
+# KML: esos son de la ruta que se va a conducir, y un waypoint del CCF en el GPS del
+# viaje es una invitacion a salir de Etosha por donde no toca.
+SOLO_VARIANTE = ("ccf",)
 
 
 def puntos_oficiales():
@@ -133,8 +131,10 @@ ETAPAS = [
      "por": ["windhoek", "aeropuerto"]},
 ]
 
-# Las quince etapas de la VARIANTE del `24`: Spreetshoogte una noche, Spitzkoppe en vez
-# de la Costa de los Esqueletos, tres noches dentro de Etosha y el CCF en vez de Onguma.
+# Las quince etapas de la VARIANTE del `24`. Es la ruta oficial con DOS cambios y nada
+# mas: Spreetshoogte pierde una noche —asi se llega a Sesriem un dia antes y la noche
+# suelta cae en Damaraland— y el final sale por el CCF en vez de por Onguma. La costa
+# entera, Cape Cross y la noche del Skeleton Coast se quedan donde estaban.
 # Misma forma que ETAPAS para que `geodatos.ruta_alt()` y `mapa.mapa_ruta_alt()` la
 # traten igual — y para que el dia a dia del `24` no se escriba a mano en ningun sitio.
 ETAPAS_ALT = [
@@ -156,12 +156,12 @@ ETAPAS_ALT = [
     {"id": "D5", "fecha": "5 nov", "bloque": "costa",
      "titulo": "Walvis Bay: flamencos y descanso", "duerme": "walvisbay",
      "por": []},
-    {"id": "D6", "fecha": "6 nov", "bloque": "granito",
-     "titulo": "Walvis Bay → Swakopmund → Spitzkoppe", "duerme": "spitzkoppe",
-     "por": ["walvisbay", "swakopmund", "spitzkoppe"]},
+    {"id": "D6", "fecha": "6 nov", "bloque": "costa",
+     "titulo": "Cape Cross → Terrace Bay", "duerme": "terracebay",
+     "por": ["walvisbay", "swakopmund", "hentiesbay", "capecross", "ugabmund", "terracebay"]},
     {"id": "D7", "fecha": "7 nov", "bloque": "damaraland",
-     "titulo": "Spitzkoppe → Uis → Twyfelfontein", "duerme": "twyfelfontein",
-     "por": ["spitzkoppe", "uis", "twyfelfontein"]},
+     "titulo": "Skeleton Coast → Twyfelfontein", "duerme": "twyfelfontein",
+     "por": ["terracebay", "springbokwasser", "twyfelfontein"]},
     {"id": "D8", "fecha": "8 nov", "bloque": "damaraland",
      "titulo": "Twyfelfontein → Palmwag → Hoada", "duerme": "hoada",
      "por": ["twyfelfontein", "palmwag", "grootberg", "hoada"]},
@@ -191,7 +191,6 @@ COLOR_BLOQUE = {
     "llegada":    "#7D776E",
     "desierto":   "#C2542F",
     "costa":      "#2F6E8E",
-    "granito":    "#6E4B8B",              # solo en la variante del `24`: la linea de dentro
     "damaraland": "#8A6210",
     "etosha":     "#5F7043",
     "vuelta":     "#7D776E",

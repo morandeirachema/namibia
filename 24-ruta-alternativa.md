@@ -1,18 +1,16 @@
-# 24 · La ruta alternativa — Spreetshoogte una noche, Spitzkoppe por dentro, Etosha tres y sin Onguma
+# 24 · La ruta alternativa — Spreetshoogte una noche, Etosha tres, sin Onguma
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> La variante que pide el viajero: **una sola noche en Spreetshoogte**, **Spitzkoppe en vez de la
-> Costa de los Esqueletos**, **tres noches dentro de Etosha** y **fuera Onguma**. Aquí está entera,
-> día a día y con los kilómetros medidos — con lo que se gana, lo que se pierde y **qué hay que
-> reservar de forma distinta**.
+> La variante que pide el viajero: **una sola noche en Spreetshoogte**, **tres noches dentro de
+> Etosha** y **fuera Onguma**. Aquí está entera, día a día y con los kilómetros medidos — con lo
+> que se gana, lo que se pierde y **qué hay que reservar de forma distinta**.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Medido el 24/08/2026 con el mismo enrutado OSRM sobre OpenStreetMap que dibuja el mapa del
-> dossier; el campamento de Spitzkoppe, geocodificado contra OSM como el resto de los puntos.
-> **La ruta que sigue imprimiendo el resto del volumen es la de
+> dossier. **La ruta que sigue imprimiendo el resto del volumen es la de
 > [`01`](01-itinerarios-dia-a-dia.md)**: pasar ésta a oficial obliga a rehacer mapas, lámina,
 > presupuesto y cuaderno de reservas.*
 
@@ -20,17 +18,12 @@
 
 > ## 🟢 La buena noticia de calendario: llegas a tiempo
 >
-> Esta variante **mueve las fechas de Sesriem y Spreetshoogte** y **borra Terrace Bay del viaje**
-> — pero **las tres estaban todavía SIN RESERVAR**, así que no hay nada que rehacer: las dos
-> primeras **se reservan directamente con las fechas nuevas** y la de Terrace Bay **sencillamente
-> no se hace**. Y las **tres noches de dentro de Etosha —9, 10 y 11— no se mueven ni un día**: la
-> reserva del 21/08 sigue valiendo tal cual.
+> Esta variante **mueve las fechas de Sesriem, Terrace Bay y Spreetshoogte** — pero **las tres
+> están todavía SIN RESERVAR**, así que no hay nada que rehacer: **se reservan directamente con
+> las fechas nuevas**. Y las **tres noches de dentro de Etosha —9, 10 y 11— no se mueven ni un
+> día**: la reserva del 21/08 sigue valiendo tal cual.
 >
 > **Lo único que hay que deshacer es Onguma** *(12–13 nov)*, que sí está reservada.
->
-> 🎯 **Y se cae la reserva binaria del viaje**: Terrace Bay era la única noche que, si no salía,
-> dejaba la ruta sin plan *(`20` §4)*. Spitzkoppe se pide por email y tiene **más de 50 parcelas**
-> ✅.
 >
 > 👉 **Decide antes de llamar y reservas bien a la primera.** NWR cobra **20 % no reembolsable a
 > las 48 h** *(`20` §4)*: equivocarse de fecha hoy cuesta dinero.
@@ -39,8 +32,8 @@
 
 ## 🗺️ El itinerario alternativo, día a día
 
-**~2.541 km** *(**223 menos** que la oficial)* ✅ · **15 días, 14 noches** · **el peor día baja de
-539 a 343 km**. *(Medido sobre la misma geometría que pinta el mapa de aquí abajo,
+**~2.756 km** *(**8 menos** que la oficial)* ✅ · **15 días, 14 noches** · **el peor día baja de 539
+a 412 km**. *(Medido sobre la misma geometría que pinta el mapa de aquí abajo,
 `fuente/geo/ruta-alt.json`; el kilometraje de cada día es el de OSRM, redondeado.)*
 
 - **D0 · sáb 31 oct — Windhoek** · 46 km — *igual que la oficial*
@@ -52,12 +45,9 @@
   amanecer)*
 - **D4 · mié 4 nov — Sesriem → Walvis Bay** · 316 km · 🛏️ Walvis Bay
 - **D5 · jue 5 nov — Walvis: flamencos, Sandwich Harbour y descanso** · **0 km** · 🛏️ Walvis Bay
-- **D6 · vie 6 nov — Walvis → Swakopmund → Spitzkoppe** · **187 km · ~2 h 15** ✅ · 🛏️ **camping
-  comunitario de Spitzkoppe** ⬅️ **en vez de Terrace Bay** *(decidido 24/08)*. Se duerme al pie del
-  granito y **sin vallas**; el día es corto y **desaparece la hora límite de las 15:00 de
-  Ugabmund**, así que queda la tarde entera para el **arco de roca** y **Bushman's Paradise**
-  *(`23`)*
-- **D7 · sáb 7 nov — Spitzkoppe → Uis → Twyfelfontein** · **222 km · ~3 h** ✅ · 🛏️
+- **D6 · vie 6 nov — Walvis → Henties Bay → Cape Cross → Terrace Bay** · 412 km · 🛏️ **Terrace
+  Bay** ⬅️ *un día antes* ⚠️ *Ugabmund cierra la entrada a las 15:00*
+- **D7 · sáb 7 nov — Terrace Bay → Springbokwasser → Twyfelfontein** · **211 km** ✅ · 🛏️
   **Twyfelfontein o Palmwag** ⬅️ **la noche nueva**
 - **D8 · dom 8 nov — Twyfelfontein → Palmwag → Hoada** · **158 km** ✅ *(107 + 51)* · 🛏️ Hoada
   — **con la mañana libre entera**
@@ -77,13 +67,14 @@
 
 ### 🧭 Las quince etapas, a escala de país
 
-[<img src="img/mapas/ruta-alternativa.png" alt="Mapa de la ruta alternativa: Windhoek, Spreetshoogte, Sesriem, Walvis Bay, Spitzkoppe, Damaraland, Etosha y el Cheetah Conservation Fund" width="620">](img/mapas/ruta-alternativa.svg)
+[<img src="img/mapas/ruta-alternativa.png" alt="Mapa de la ruta alternativa: Windhoek, Spreetshoogte, Sesriem, Walvis Bay, la Costa de los Esqueletos, Damaraland, Etosha y el Cheetah Conservation Fund" width="620">](img/mapas/ruta-alternativa.svg)
 
 *Las **quince etapas de la variante**, cada día del color de su tramo y con el trazado real de
 carretera —**OSRM sobre OpenStreetMap**, los mismos datos que el mapa oficial del volumen—. El
 **encuadre es idéntico al del mapa del `01`** a propósito: los dos se comparan poniéndolos uno al
-lado del otro. **La Costa de los Esqueletos se sigue dibujando** aunque la ruta ya no la pise —el
-hueco que deja la línea de dentro es justo lo que hay que ver antes de decidir—.
+lado del otro, y lo que se ve es que **la línea es la misma casi entera**. Los dos cambios están en
+los extremos: **Spreetshoogte pasa a D1 solo** —así Sesriem cae un día antes y aparece la noche de
+Twyfelfontein— y **el final sale por el CCF** en vez de por Onguma.
 [Ver el mapa en grande](img/mapas/ruta-alternativa.svg).*
 
 ```mermaid
@@ -93,14 +84,10 @@ flowchart LR
     B --> C["DESBLOQUEA<br/>el rastreo de rinoceronte<br/>y elefante del desierto"]
     D["ONGUMA<br/>fuera"] --> E["ESA NOCHE VA AL CCF<br/>289 km · una sola noche"]
     E --> F["DESBLOQUEA<br/>alimentacion de las 14:00 el mismo dia<br/>y CHEETAH RUN de las 08:00<br/>conservando la noche de Windhoek"]
-    G["LA COSTA DE LOS ESQUELETOS<br/>fuera: Terrace Bay y Cape Cross"] --> H["ESA NOCHE VA A SPITZKOPPE<br/>187 km · N$640 en vez de N$3.480"]
-    H --> I["DESBLOQUEA<br/>-223 km y -N$3.900<br/>sin la hora limite de Ugabmund<br/>y el peor dia baja a 343 km"]
     style A fill:#C2542F,color:#fff
     style D fill:#C2542F,color:#fff
-    style G fill:#C2542F,color:#fff
     style C fill:#2d6a4f,color:#fff
     style F fill:#2d6a4f,color:#fff
-    style I fill:#2d6a4f,color:#fff
 ```
 
 ---
@@ -123,20 +110,11 @@ flowchart LR
   ⚠️ **Okonjima quedó descartado el 24/08 y conviene saber por qué**: **ya no tiene guepardo**
   —programa descontinuado en 2020, sus propios folletos no lo listan— *(`23` §3)*. Sigue siendo
   magnífico para **leopardo, rinoceronte a pie y pangolín**, pero **eso ya no es este viaje**.
-- 🗻 **Cambia la Costa de los Esqueletos por Spitzkoppe, y en números sale a favor por todos los
-  lados.** La noche al pie del granito cuesta **N$640 (~€32) los dos** ◐ contra los **N$3.480
-  (~€174)** de Terrace Bay ✅; **el viaje entero encoge 223 km** ✅ —y en el corredor que cambia, de
-  Walvis a Twyfelfontein, la línea de dentro son **408 km** contra **629** por la costa, **221
-  menos** ✅ *(OSRM)*—; y **se acaba la única carrera contra el reloj del viaje**, la hora límite de
-  las **15:00 de la puerta de Ugabmund** *(`11`)*.
-- 🚗 **Endereza los tres peores días del viaje**: el **D7 oficial de 412 km** se queda en **187**;
-  el **D8 de 367 km** se parte en **222 + 158**; y el **D13 de 539 km**, en **289 + 294**. **El
-  peor día del viaje baja de 539 a 343 km** — y ese 343 es el de Hoada a Okaukuejo, que está
-  **igual en las dos rutas**: la alternativa **no añade ni un solo día duro propio**.
-- 📉 **La ruta encoge a ~2.541 km**, 223 menos.
-- 🏕️ **Y se recupera la tienda.** Terrace Bay era **habitación doble en media pensión**, no parcela
-  *(`20` §4)*: al caer, el CCF se queda como **la única noche bajo techo** de las catorce. Vuelven
-  a ser **13 noches de tienda sobre 14**, las mismas que la ruta oficial.
+- 🚗 **Endereza el final del viaje, que es donde dolía.** El **D8 oficial de 367 km** se parte en
+  **211 + 158** gracias a la noche nueva de Damaraland; y los dos últimos días dejan de ser **56 +
+  539** para ser **289 + 294**: **el día de vuelta baja de 539 a 294 km** y deja de ser el peor del
+  viaje. *(El peor pasa a ser el **D6 de la costa, 412 km**, que ya está igual en las dos rutas.)*
+- 📉 **La ruta encoge a ~2.756 km**, 8 menos — el cambio es de forma, no de kilómetros.
 - 🐾 **Cambia escarpa sin datos por Damaraland con datos**: en Spreetshoogte **no hay parte de
   avistamientos ni polígono GBIF** —es granja privada, la fauna está sin medir *(`01` §D1)*—;
   Damaraland sí está medido en la guía.
@@ -153,15 +131,6 @@ flowchart LR
   reservar** ◐ *(`20` §antelación)*. Es decir: **se puede dejar abierta y decidirla sobre la
   marcha**, y si el vuelo falla, **es la que se sacrifica sin perder un céntimo**. No es una red
   tan buena como un día entero, pero **es una red de verdad**.
-- 🌊 **Se pierde la Costa de los Esqueletos entera, y son cuatro cosas por una** *(`23`)*: **Cape
-  Cross** —con el pico de cría de sus focas **justo en vuestras fechas**, hasta ~210.000 ✅
-  *(`11`)*—, la **puerta de Ugabmund**, la **noche dentro del parque** y el **delta del Uniab**
-  *(`10`)*. Es el tramo más raro del viaje —niebla, naufragios y nada— y **cambiarlo por granito es
-  cambiar de género**, no ahorrarse un rodeo.
-  👉 **Mitigación parcial, y conviene decir que es floja**: **Cape Cross sí se puede seguir
-  viendo**, metiéndolo de camino el mismo D6 — pero el día pasa de **187 a 338 km** ✅ *(OSRM)*, se
-  come la tarde en la piedra y **hay que pagar su entrada igual**. Lo demás no se recupera de
-  ninguna manera.
 - 🌇 **Se pierde el único día sin reloj**: amanecer en el mirador, la escarpa a pie y la segunda
   puesta de sol sobre el Namib mil metros abajo.
 - 🦏 **Se pierde Onguma, y con ella una opción de guepardo SALVAJE.** 35.970 ha privadas con
@@ -173,33 +142,20 @@ flowchart LR
   el CCF; si lo que se busca es el bicho suelto, Onguma tenía algo que el CCF no puede dar.
 - 🛏️ **La noche pasa de parcela a habitación**: **en el CCF no hay camping** para autocaravanistas
   —sus alojamientos son lodge, y el campamento que tienen es **educativo, de grupos escolares** ◐—.
-  Ahora bien, **es la única**: sin Terrace Bay, el recuento de tienda no se mueve *(**13 sobre
-  14**, como la oficial)*.
+  El viaje pasa de **13 noches de tienda sobre 14** a **12**.
 - 💳 **Hay que CANCELAR Onguma**, que está reservada desde el 21/08, y **sus condiciones de
   cancelación no se han verificado** ❌ *(ni el importe exacto de la reserva — `20` §4)*.
   **Pregúntalas antes de mover nada.**
-- 💶 **El dinero ya no cuesta: cambia de signo — pero con tres huecos abiertos.** El cambio de la
-  costa es **el único de los tres que sale con cifras cerradas, y sale a favor**: se van **Terrace
-  Bay, N$3.480 (~€174)** ✅, la **entrada de Cape Cross, ~N$350 (~€18)** ◐ y el **combustible de los
-  223 km, ~N$720 (~€36)** ◐ *(a los 0,12 l/km y N$27/l del `02` §6)*; entra **Spitzkoppe, N$640
-  (~€32)** ◐. **Neto: ~N$3.900 (~€195) a favor.** *(Terrace Bay iba en **media pensión**; en
-  Spitzkoppe se cocina, que es justo lo que el `02` ya presupone para las noches de camping.)*
-  ⚠️ **Los otros dos cambios siguen sin cifra, y ese margen es exactamente el colchón para
-  pagarlos.** Sale la noche barata de Spreetshoogte *(**N$290 · ~€14,50** pp ✅)* y entran **dos sin
-  tarifa cerrada**: la de **Damaraland** ❌ y la del **CCF**, que **no publica precios** ❌ y es
-  **lodge con desayuno y cena incluidos** —así que casi con seguridad **por encima de los N$1.240
-  (~€62)** de Onguma, que ya están pagados ✅—. *(A favor: el alojamiento del CCF da **15 % de
-  descuento en todas sus actividades** ✅ y lo recaudado financia su trabajo.)* Y los **rastreos de
-  Grootberg y Palmwag tampoco publican precio** ❌. **Pídelos todos antes de decidir.**
-  ⚠️ **Y ojo con el precio de Spitzkoppe**: el rack ✅ de **N$300 (~€15) pp** vale hasta el **31 oct
-  2026**, y **vuestra noche cae el 6 de noviembre**, ya fuera; una secundaria da **N$320 (~€16) pp
-  para nov–dic 2026** ◐, que es la que se usa aquí. **La misma trampa que Barkhan** *(`15`
-  §Spreetshoogte)*.
+- 💶 **Cuesta dinero, y aquí probablemente bastante.** Sale una noche barata *(Spreetshoogte,
+  **N$290 · ~€14,50** pp ✅)* y entran **dos sin tarifa cerrada**: la de Damaraland ❌ y la del
+  **CCF**, que **no publica precios** ❌ y es **lodge con desayuno y cena incluidos** —así que casi
+  con seguridad **por encima de los N$1.240 (~€62)** de Onguma, que ya están pagados ✅—.
+  *(A favor: el alojamiento del CCF da **15 % de descuento en todas sus actividades** ✅ y lo
+  recaudado financia su trabajo.)* Y los **rastreos de Grootberg y Palmwag tampoco publican
+  precio** ❌. **Pídelos todos antes de decidir.**
 - 🎫 **Lo que NO cambia, para que nadie lo cuente como ahorro**: **las tasas de parque de Etosha
   siguen igual** —se entra el D9 y se sale el D12 en las dos rutas— y **las tres noches de dentro
-  son las mismas**. Y **el permiso de la Costa de los Esqueletos era gratis** ◐ *(`11`)*: quitarlo
-  **no ahorra un céntimo**; lo que ahorra es la noche y la entrada de Cape Cross, ya contadas
-  arriba. La **tasa de acceso a Spitzkoppe va incluida** para quien acampa ✅.
+  son las mismas**.
 
 ---
 
@@ -209,38 +165,25 @@ flowchart LR
 2. ❗ **Antes de llamar a NWR**, pedir por escrito el precio del **rastreo de Grootberg**
    *(res4@journeysnamibia.com · +264 61 228 104)* y el **alojamiento del D7** ❌: si el rastreo
    fuera caro o no hubiera sitio, **esta variante pierde su mejor argumento**.
-3. **NWR** *(reservations@nwr.com.na · +264 61 285 7200 — su portal está caído)*: **solo Sesriem,
-   2–3 nov**. ⬅️ *fechas distintas de las del `01`* · ❌ **Terrace Bay NO se reserva**: sale del
-   viaje. *(Como nunca llegó a reservarse, no hay nada que cancelar ni que perder.)*
+3. **NWR** *(reservations@nwr.com.na · +264 61 285 7200 — su portal está caído)*:
+   **Sesriem 2–3 nov** y **Terrace Bay 6 nov**. ⬅️ *fechas distintas de las del `01`*
 4. **Barkhan**: **Spreetshoogte, solo el 1 de nov** *(bookings@barkhan.africa)*.
-5. 🗻 **Spitzkoppe, 6 nov** *(reservations@logufa.com ✅)* — **NUEVA**. Hay **más de 50 parcelas** y
-   **no se puede elegir parcela**: solo se confirma que habrá sitio ✅. Confirma la tarifa por
-   escrito: la publicada **expira el 31/10/2026** y vuestra noche cae después *(`23` §Spitzkoppe)*.
-6. **CCF** *(12 nov, UNA noche)* y el alojamiento del **D7**, los dos ❌ sin tarifa: pídelos y
+5. **CCF** *(12 nov, UNA noche)* y el alojamiento del **D7**, los dos ❌ sin tarifa: pídelos y
    compara. ⚠️ **Dos avisos del CCF**: el **Cheetah Run exige reserva previa** ✅ —pídelo al
    reservar la noche, no al llegar— y **allí NO hay camping**: sus alojamientos son el **Cheetah
    View Lodge** *(5 suites de piedra)* y la **Babson House**; el campamento que tienen es
-   **educativo, para grupos escolares** ◐. Es decir, **la única noche del viaje bajo techo**, ahora
-   que Terrace Bay ya no está. Se reserva por **NightsBridge** o en **+264 (0)67 306225** ✅.
-7. **Windhoek D0 y D13** y **Hoada D8**, sin cambios respecto al `01` — **la noche de Windhoek
+   **educativo, para grupos escolares** ◐. Es decir, **la segunda noche del viaje en habitación**,
+   como Terrace Bay. Se reserva por **NightsBridge** o en **+264 (0)67 306225** ✅.
+6. **Windhoek D0 y D13** y **Hoada D8**, sin cambios respecto al `01` — **la noche de Windhoek
    del final se conserva**, que es una de las ventajas de haber elegido el CCF.
 
-> ### 🧭 Dos cosas que decidir tú, y las digo sin adornar
-> **La primera no es un ajuste, es un cambio de género.** Fuera la Costa de los Esqueletos, dentro
-> Spitzkoppe: son **223 km y ~€195 menos**, un día sin hora límite y la reserva binaria del viaje
-> desactivada. Pero la costa **es el paisaje que no se parece a nada** —niebla, naufragios y nada—
-> y no vuelve. Aquí **no hay cuenta que decida por ti**: o apetece la niebla, o apetece el granito.
->
-> **La segunda es la red de seguridad.** La variante **cambia el día colchón por dos experiencias
-> de fauna**. Con la fauna como prioridad declarada y con Etosha ya pagada, **el intercambio tiene
-> sentido** — pero **el día que se quita es exactamente el que protegía todo lo demás**, y el vuelo
-> lleva escala en Fráncfort.
->
-> 👉 **Y los tres cambios son independientes: se pueden coger por separado.** Si quieres el mínimo
-> riesgo, **quédate solo con el de Onguma** —tres noches de Etosha, noche en el CCF—, que **no toca
-> ninguna reserva pendiente, no mueve ninguna fecha, parte el D13 en dos y ya te da el guepardo de
-> primera hora**. Y el de **Spitzkoppe funciona solo**, sin tocar Spreetshoogte ni Onguma: es el
-> único de los tres que **ahorra dinero y kilómetros a la vez**.
+> ### 🧭 Una cosa que decidir tú, y la digo sin adornar
+> Esta variante **cambia una red de seguridad por dos experiencias de fauna**. Con la fauna como
+> prioridad declarada y con Etosha ya pagada, **el intercambio tiene sentido** — pero **el día que
+> se quita es exactamente el que protegía todo lo demás**, y el vuelo lleva escala en Fráncfort.
+> Si prefieres conservar la red, hay una versión intermedia: **quedarse solo con la condición 2**
+> —tres noches de Etosha, sin Onguma, noche en el CCF— que **no toca ninguna reserva pendiente,
+> no mueve ninguna fecha, parte el D13 en dos y ya te da el guepardo de primera hora**.
 
 ---
 

@@ -137,7 +137,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 159 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 155 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -530,7 +530,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 15. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 148 especies con foto —felinos y rapaces en secciones propias—, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 16. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
 17. 🐆 [**`23-desvios-que-valen-la-pena`**](23-desvios-que-valen-la-pena.md) — **el guepardo, prioridad del viaje**: dónde se ve de verdad *(Namutoni 50 %, el CCF, Okonjima, Otjitotongwe)* y **de qué noche sale el día** · y las joyas de FUERA de la ruta —Spitzkoppe, Brandberg, Vingerklip, Waterberg— con los kilómetros medidos
-18. 🔀 [**`24-ruta-alternativa`**](24-ruta-alternativa.md) — **la variante que pide el viajero**: Spreetshoogte una noche, Spitzkoppe en vez de la Costa de los Esqueletos, tres dentro de Etosha y sin Onguma — el itinerario entero día a día *(~2.541 km, 223 menos)*, con lo que gana, lo que cuesta y qué reservar distinto
+18. 🔀 [**`24-ruta-alternativa`**](24-ruta-alternativa.md) — **la variante que pide el viajero**: Spreetshoogte una noche, tres dentro de Etosha y el CCF en vez de Onguma — el itinerario entero día a día **con su mapa a escala de país**, con lo que gana, lo que cuesta y qué reservar distinto
 19. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**

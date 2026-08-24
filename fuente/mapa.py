@@ -303,8 +303,6 @@ ROTULOS_RUTA = {
     "onguma":          (10, 3, "start"),
     "lindequist":      (2, 15, "start"),
     # --- solo en el mapa de la variante del `24` ---
-    "spitzkoppe":      (9, 4, "start"),
-    "uis":             (-8, 3, "end"),
     "palmwag":         (-8, -5, "end"),
     "ccf":             (9, 4, "start"),
 }
@@ -348,19 +346,22 @@ BLOQUES_LEYENDA = [
 ]
 
 # --- la variante del `24` -------------------------------------------------
-# La costa de los Esqueletos se sigue dibujando como parque: es geografia, y ver el
-# hueco que deja la linea de dentro es justo lo que el mapa tiene que contar.
+# Misma ruta que la oficial salvo dos cosas, y el mapa esta para que se vean las dos:
+# Spreetshoogte pierde una noche —Sesriem cae un dia antes y aparece una noche en
+# Damaraland— y el final sale por el CCF en vez de por Onguma. Fuera de eso, la linea
+# es la del `01`: la costa y el Skeleton Coast siguen enteros.
 EN_MAPA_ALT = ["windhoek", "aeropuerto", "okahandja", "otjiwarongo", "tsumeb", "outjo",
                "rehoboth", "spreetshoogte", "solitaire", "sesriem", "sossusvlei",
-               "walvisbay", "swakopmund", "spitzkoppe", "uis", "twyfelfontein", "palmwag",
-               "hoada", "kamanjab", "andersson", "okaukuejo", "halali", "namutoni",
+               "walvisbay", "swakopmund", "hentiesbay", "capecross", "ugabmund",
+               "terracebay", "springbokwasser", "twyfelfontein", "palmwag", "hoada",
+               "kamanjab", "andersson", "okaukuejo", "halali", "namutoni",
                "lindequist", "ccf"]
 
 TEXTO_ROTULO_ALT = {
     "sossusvlei": "Sossusvlei · Deadvlei",
     "sesriem": "Sesriem  D2·D3",
     "walvisbay": "Walvis Bay  D4·D5",
-    "spitzkoppe": "Spitzkoppe  D6",
+    "terracebay": "Terrace Bay  D6",
     "twyfelfontein": "Twyfelfontein  D7",
     "hoada": "Hoada  D8",
     "okaukuejo": "Okaukuejo  D9",
@@ -369,14 +370,15 @@ TEXTO_ROTULO_ALT = {
     "ccf": "Cheetah Conservation Fund  D12",
     "spreetshoogte": "Spreetshoogte  D1",
     "windhoek": "WINDHOEK  D0·D13",
+    "ugabmund": "Ugabmund",
+    "springbokwasser": "Springbokwasser",
     "andersson": "Andersson",
     "lindequist": "Von Lindequist",
 }
 
 BLOQUES_LEYENDA_ALT = [
     ("desierto",   "El desierto", "D1–D3"),
-    ("costa",      "La costa: Walvis Bay", "D4–D5"),
-    ("granito",    "Spitzkoppe", "D6"),
+    ("costa",      "La costa y el Skeleton Coast", "D4–D6"),
     ("damaraland", "Damaraland", "D7–D8"),
     ("etosha",     "Etosha", "D9–D11"),
     ("vuelta",     "El CCF y la vuelta a Windhoek", "D0 · D12–D14"),
