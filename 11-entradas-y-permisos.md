@@ -241,10 +241,13 @@ la razón de que allí se vean con una frecuencia que el parque no da ◐.
   para verificar la extracción — y **otras fuentes dan cifras muy distintas** *(US$40–60 por un
   lado, N$2.300 por otro)*. **Confírmalo por email**: 📞 +264 83 373 1400 ·
   📧 info@okonjimalodge.com *([okonjima.com](https://okonjima.com/leopard-tracking/))*.
-- ⚠️ **Y otra vez el reloj**: con 539 km por delante, la salida de las 06:00 obliga a haber dormido
-  cerca —y se duerme en Onguma, a ~400 km—, y la de las 15:30 termina a las 19:30, que llega a
-  Windhoek **de noche**, contra la regla de estar en el campamento a las 18:00 *(`06`)*. **Encaja
-  si se parte el D13 en dos, no como está.**
+- ⚠️ **Y otra vez el reloj — que aquí es lo único que estorba, porque el desvío es baratísimo**:
+  **son +34 km sobre el trazado directo del D13** ✅ *(medido con OSRM el 24/08 — está casi en la
+  B1)*, pero la salida de las 06:00 obliga a **haber dormido cerca** *(desde Onguma son 312 km)* y
+  la de las 15:30 termina a las 19:30, llegando a Windhoek **de noche**, contra la regla de las
+  18:00 *(`06`)*. **Con la noche de Onguma cambiada por una en Okonjima, encaja entero — y el D13
+  se queda en 226 km.** El análisis completo, con el guepardo delante, en
+  [`23`](23-desvios-que-valen-la-pena.md).
 
 ### 🦁 D0 y D13 · Windhoek — las reservas valladas de la ciudad ✅
 
@@ -272,6 +275,12 @@ Son las únicas que caben en un día de llegada o de salida, porque están **a m
   pp, son de 2019–2021 ○)*.
 - **D7 Skeleton Coast** — nada: el permiso es de tránsito y no hay operador de game drive dentro.
 - **D9 Kamanjab** — **Otjitotongwe**, los guepardos, que **ya está arriba** en este mismo documento.
+- 🐆 **Y en el D13, el que faltaba: el Cheetah Conservation Fund**, a 44 km de Otjiwarongo — **+89 km**
+  medidos, alimentación **de lunes a viernes a las 14:00** ✅ y **Cheetah Run a las 08:00 con reserva
+  previa**. Con el guepardo como prioridad, **el sitio donde se decide todo esto es
+  [`23`](23-desvios-que-valen-la-pena.md)**, que compara los tres centros contra el guepardo
+  salvaje de Etosha —medido: **Namutoni 50 %**, Okaukuejo 18 %, Halali 10 %— y dice de qué noche
+  saldría el día.
 - **D12 Onguma** — el **Sundowner Drive, N$980 (~€49)/persona** ✅, que es el único game drive
   no-Etosha **ya presupuestado como opción** *(`20` §7)*; su **night drive sigue sin confirmar** ❌.
 

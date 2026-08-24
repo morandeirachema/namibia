@@ -137,7 +137,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 148 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 151 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -529,7 +529,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 14. 🪘 [**`19-cultura-de-namibia`**](19-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
 15. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 148 especies con foto —felinos y rapaces en secciones propias—, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 16. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
-17. 🗻 [**`23-desvios-que-valen-la-pena`**](23-desvios-que-valen-la-pena.md) — **las joyas de FUERA de la ruta y lo que costaría ir**: Spitzkoppe, Brandberg, Vingerklip, Waterberg y el Erongo, con los kilómetros medidos y la noche que habría que sacrificar
+17. 🐆 [**`23-desvios-que-valen-la-pena`**](23-desvios-que-valen-la-pena.md) — **el guepardo, prioridad del viaje**: dónde se ve de verdad *(Namutoni 50 %, el CCF, Okonjima, Otjitotongwe)* y **de qué noche sale el día** · y las joyas de FUERA de la ruta —Spitzkoppe, Brandberg, Vingerklip, Waterberg— con los kilómetros medidos
 18. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**

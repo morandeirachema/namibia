@@ -663,8 +663,11 @@ flowchart LR
   domingos de viaje: **1 nov (el día que se sale al paso) y 8 nov** — por eso la compra grande es
   el sábado 31.
 - **Otjitotongwe (guepardos)** ◐ — C40, a 24 km de Kamanjab, de camino el D9 (lunes):
-  alimentación **~15:00**; si no te alojas, avisa antes. *(Una fuente dice que cierra los fines
-  de semana — tu paso es lunes.)*
+  alimentación **~15:00** ◐ ⚠️ **pero una fuente reciente dice 16:00** ❌ *(no coinciden: **pregunta
+  la hora al avisar**, porque de ella depende a qué hora se sale de Hoada)*; si no te alojas, avisa
+  antes. *(Una fuente dice que cierra los fines de semana — tu paso es lunes.)* **Con el guepardo
+  como prioridad, aquí es casi seguro pero son animales habituados y alimentados a mano: la
+  comparación honesta con el salvaje, en [`23`](23-desvios-que-valen-la-pena.md).**
 - **Gasolinera en Etosha** ✅⚠️: los tres campamentos **listan «Filling Station» en la web oficial
   de NWR**, pero con historial de cortes en 2025 — entra lleno desde Outjo; respaldo: la Etosha
   Trading Post a 6,5 km de Andersson (`08`).

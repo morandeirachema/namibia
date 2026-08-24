@@ -152,8 +152,8 @@ RESUMEN = {
           "recientes.",
     "22": "Si te pica un escorpión: quién es quién, qué va a pasar, qué hacer y qué no, a "
           "quién llamar y adónde ir — etapa a etapa.",
-    "23": "Las joyas que quedan FUERA de la ruta y lo que costaría ir: kilómetros medidos, "
-          "la noche que habría que sacrificar y el veredicto.",
+    "23": "El guepardo, prioridad del viaje: dónde se ve de verdad y de qué noche sale el "
+          "día. Y las joyas de FUERA de la ruta, con los kilómetros medidos.",
 }
 
 
