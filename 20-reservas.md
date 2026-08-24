@@ -211,6 +211,27 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 > *Onguma por dentro, en [`21`](21-campamentos-de-etosha.md); su tarifa completa, en
 > [`03`](03-alojamiento-y-tasas.md).*
 
+> ### ⏱️ Las condiciones de NWR, verificadas — y una de ellas es un reloj de 48 horas
+> *(De sus propias [condiciones de reserva](https://www.nwr.com.na/terms-and-conditions/) ✅,
+> leídas el 24/08. **Esto es lo que no se mira hasta que es tarde.**)*
+>
+> - ⚠️ **Depósito del 20 %, NO reembolsable ni transferible, y hay que pagarlo en las 48 HORAS
+>   siguientes a hacer la reserva** ✅ *(cliente individual; a los turoperadores les dan 30 días,
+>   de ahí que circulen otras cifras)*. **Reservar el viernes por la tarde y despistarse el fin de
+>   semana es perder la reserva.**
+> - **Pago íntegro, a más tardar 30 días antes de la llegada** ✅. Para **Sesriem, que se llega el
+>   3 de noviembre, eso es hacia el 4 de octubre**; para **Terrace Bay (7 nov), hacia el 8 de
+>   octubre**. Lo no pagado **se cancela**.
+> - **Escala de cancelación** ✅: **más de 30 días, sin penalización** *(pero el depósito se pierde
+>   igual)* · **29–15 días, 30 %** · **14–7 días, 75 %** · **6–0 días y no-show, 100 %**.
+> - 👉 **Lo que esto significa hoy**: el dinero que se arriesga al reservar es **el 20 % de
+>   N$1.340×2 + N$3.480 = ~N$1.232 (~€62)**, y **a partir del 4 de octubre se arriesga el 100 %**.
+>   Reserva sabiendo eso, y **apunta en el calendario el día del pago íntegro**.
+> - ⚠️ **Y el canal**: **su sistema de reservas online está caído** ◐ *(nwr.com.na avisa de que
+>   está «currently unavailable» y remite a reservations@nwr.com.na; el portal
+>   `nwr.cimsoweb.com` se queda en «Initializing…»)*. **Es email o teléfono, no pierdas la tarde
+>   con el portal.**
+
 **Canal y contacto**: la **central de reservas de NWR en Windhoek** ◐ *(localizada por búsqueda
 el 09/08, ficha sin abrir — confírmala al escribir)*: 📧 **reservations@nwr.com.na** ·
 📞 **+264 61 285 7200** · Gathemann Building, Independence Avenue
