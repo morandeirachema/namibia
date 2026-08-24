@@ -31,6 +31,14 @@ ol.etapas .total { font-family: var(--sans); font-weight: 700; border-bottom: 0;
    encoge —el mapa salia a dos tercios—. Con el alto en milimetros no puede. */
 .mapa-ruta svg   { height: 226mm; width: auto; margin: 0 auto; }
 .mapa-etosha svg { height: 108mm; width: auto; margin: 0 auto; }
+/* El mapa que va DENTRO de un documento (hoy solo el de la variante, en el `24`).
+   Cruza las dos columnas —a 89 mm la leyenda seria ilegible— y lleva el alto en
+   milimetros por lo mismo que los otros dos: con `auto`, Chrome lo encoge para
+   meterlo en el hueco que queda de pagina. */
+.mapa-doc { column-span: all; margin: 5mm 0 6mm; text-align: center; }
+.mapa-doc svg { height: 168mm; width: auto; margin: 0 auto; }
+.mapa-doc figcaption { font-size: 8pt; color: var(--tinta-2); text-align: left;
+                       margin-top: 2.5mm; }
 .remite blockquote { padding: 6mm 7mm; }
 .remite blockquote h2 { font-size: 14pt; color: var(--oxido-os); }
 .remite blockquote p { font-size: 10.2pt; }

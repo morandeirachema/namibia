@@ -83,6 +83,69 @@ def revisa_geo():
         bien(f"ruta completa: {len(ruta)} etapas, {total:.0f} km")
 
 
+def revisa_ruta_alt():
+    """Que el dia a dia del `24` no se haya despegado de la geometria de su variante.
+
+    El `24` lleva quince etapas escritas a mano y un mapa que sale de `geo/ruta-alt.json`.
+    Son la misma ruta contada dos veces, y hasta ahora nada obligaba a que dijeran lo
+    mismo: cambiar una etapa en `trazado.ETAPAS_ALT` movia el mapa y dejaba la prosa
+    contando los kilometros de antes. Se comprueba cada dia con 1 km de tolerancia
+    —cada etapa se redondea por su cuenta— y el titular contra la suma de verdad.
+    """
+    fich = os.path.join(HERE, "geo", "ruta-alt.json")
+    if not os.path.exists(fich):
+        return mal("falta geo/ruta-alt.json — ejecuta `python3 fuente/geodatos.py ruta-alt`")
+    alt = json.load(open(fich))
+    if len(alt) != len(trazado.ETAPAS_ALT):
+        mal(f"geo/ruta-alt.json tiene {len(alt)} etapas y trazado.ETAPAS_ALT, "
+            f"{len(trazado.ETAPAS_ALT)}: regenera la geometria")
+    sin_traza = [e["id"] for e in alt if e["km"] is None]
+    if sin_traza:
+        mal(f"etapas de la variante sin trazado: {sin_traza}")
+
+    doc = open(os.path.join(RAIZ, "24-ruta-alternativa.md")).read()
+    medido = {e["id"]: e["km"] for e in alt if e["km"] is not None}
+    dichos, fallos = {}, []
+    for m in re.finditer(r"^- \*\*(D\d+) ·[^\n]*?(\d[\d.]*) km", doc, re.M):
+        dichos[m.group(1)] = float(m.group(2).replace(".", ""))
+    faltan = sorted(set(medido) - set(dichos))
+    if faltan:
+        fallos.append(f"el `24` no lista {faltan}")
+    for d, km in sorted(dichos.items()):
+        if d in medido and abs(km - medido[d]) > 1:
+            fallos.append(f"{d}: el `24` dice {km:.0f} km y OSRM mide {medido[d]:.1f}")
+
+    total = sum(medido.values())
+    m = re.search(r"\*\*~([\d.]+) km\*\* \*\(\*\*(\d+) menos\*\*", doc)
+    if not m:
+        fallos.append("el `24` ya no lleva su titular de kilometros")
+    else:
+        dicho = float(m.group(1).replace(".", ""))
+        if abs(dicho - total) > 1:
+            fallos.append(f"el titular del `24` dice {dicho:.0f} km y la geometria suma "
+                          f"{total:.0f}")
+        oficial = sum(e["km"] or 0 for e in
+                      json.load(open(os.path.join(HERE, "geo", "ruta.json"))))
+        if abs(float(m.group(2)) - (oficial - total)) > 1.5:
+            fallos.append(f"el `24` dice {m.group(2)} km menos que la oficial y la resta "
+                          f"da {oficial - total:.0f}")
+
+    # el mapa que el documento promete tiene que existir de verdad
+    for ext in ("svg", "png"):
+        rel = f"img/mapas/ruta-alternativa.{ext}"
+        if rel not in doc:
+            fallos.append(f"el `24` ya no enlaza {rel}")
+        elif not os.path.exists(os.path.join(RAIZ, rel)):
+            fallos.append(f"falta {rel} — ejecuta `python3 fuente/mapa.py`")
+
+    if fallos:
+        for f in fallos:
+            mal(f)
+    else:
+        bien(f"la variante del `24`: {len(medido)} etapas medidas, {total:.0f} km, "
+             f"y el dia a dia cuadra con el mapa")
+
+
 # Los documentos que se leen SOBRE EL TERRENO, donde cada N$ es dinero que se paga y
 # tiene que llevar su equivalente al lado. Se comprueban solo estos a proposito: en
 # los de investigacion (02, 07, 11, 12, 15) hay cifras que se citan para desmentirlas
@@ -373,9 +436,9 @@ def revisa_gps():
     if len(pistas) != len(con_traza):
         return mal(f"el GPX lleva {len(pistas)} etapas y la ruta tiene {len(con_traza)} "
                    f"con trazado — regenera con `make gps`")
-    if len(puntos) != len(trazado.PUNTOS):
-        return mal(f"el GPX lleva {len(puntos)} puntos y `trazado.PUNTOS` tiene "
-                   f"{len(trazado.PUNTOS)} — regenera con `make gps`")
+    if len(puntos) != len(trazado.puntos_oficiales()):
+        return mal(f"el GPX lleva {len(puntos)} puntos y la ruta oficial tiene "
+                   f"{len(trazado.puntos_oficiales())} — regenera con `make gps`")
     if not os.path.exists(os.path.join(RAIZ, "ruta-namibia-2026.kml")):
         return mal("falta ruta-namibia-2026.kml — ejecuta `make gps`")
     bien(f"gps: el GPX y el KML llevan las {len(pistas)} etapas con trazado, "
@@ -596,6 +659,7 @@ def main():
     revisa_precios()
     revisa_imagenes()
     revisa_geo()
+    revisa_ruta_alt()
     revisa_gps()
     revisa_avistamientos()
     revisa_pdf("dossier-namibia-2026.pdf", 40)

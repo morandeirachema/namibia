@@ -196,9 +196,24 @@ def osrm(puntos, perfil="driving"):
 def ruta():
     """Un tramo por dia, para poder pintar cada etapa de su color y medirla aparte."""
     import trazado
-    print("OSRM · trazado de carretera de la ruta, tramo a tramo")
+    _traza(trazado.ETAPAS, "ruta.json", "la ruta")
+
+
+def ruta_alt():
+    """Lo mismo para la variante del `24`, que tiene sus propias quince etapas.
+
+    Va a un fichero aparte y no toca `ruta.json`: la ruta que imprime el volumen sigue
+    siendo la de `01`, y el `24` solo necesita su mapa y sus kilometros.
+    """
+    import trazado
+    _traza(trazado.ETAPAS_ALT, "ruta-alt.json", "la variante del `24`")
+
+
+def _traza(etapas, fichero, que):
+    import trazado
+    print(f"OSRM · trazado de carretera de {que}, tramo a tramo")
     salida = []
-    for etapa in trazado.ETAPAS:
+    for etapa in etapas:
         puntos = [trazado.PUNTOS[p][:2] for p in etapa["por"]]
         if len(puntos) < 2:                       # dia de descanso: no hay traslado
             salida.append(dict(etapa, geometria=None, km=0.0, horas=0.0))
@@ -217,7 +232,7 @@ def ruta():
         print(f"   {etapa['id']:4s} {r['distance'] / 1000:7.1f} km  "
               f"{r['duration'] / 3600:5.2f} h  ({' → '.join(etapa['por'])})")
         time.sleep(1.2)
-    guarda("ruta.json", salida)
+    guarda(fichero, salida)
     total = sum(e["km"] for e in salida if e["km"])
     print(f"   TOTAL OSRM: {total:.0f} km")
 
@@ -227,7 +242,8 @@ PASOS = [("paises.json", paises),
          ("etosha_pan.json", etosha_pan),
          ("etosha_pistas.json", etosha_pistas),
          ("etosha_puntos.json", etosha_puntos),
-         ("ruta.json", ruta)]
+         ("ruta.json", ruta),
+         ("ruta-alt.json", ruta_alt)]
 
 
 def main():

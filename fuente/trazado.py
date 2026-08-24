@@ -41,6 +41,11 @@ PUNTOS = {
     "torrabay":      (-20.32287, 13.23804, "Torra Bay", "hito"),
     "terracebay":    (-19.98772, 13.03254, "Terrace Bay", "parada"),
 
+    # --- solo en la variante del `24`: la linea de dentro y la vuelta por el CCF ---
+    "spitzkoppe":    (-21.83873, 15.20142, "Spitzkoppe", "parada"),
+    "uis":           (-21.22077, 14.87092, "Uis", "combu"),
+    "ccf":           (-20.48387, 17.03154, "Cheetah Conservation Fund", "parada"),
+
     # --- Damaraland ---
     "springbokwasser": (-20.31055, 13.64769, "Puerta de Springbokwasser", "puerta"),
     "twyfelfontein": (-20.54842, 14.41099, "Twyfelfontein", "hito"),
@@ -65,6 +70,18 @@ PUNTOS = {
     "salvadora":     (-19.03460, 16.26970, "Salvadora", "hito"),
     "goas":          (-18.98900, 16.55840, "Goas", "hito"),
 }
+
+# Puntos que SOLO existen en la variante del `24`. Viven en la misma tabla —para que el
+# mapa de la variante los rotule con el mismo codigo— pero NO entran en el GPX ni en el
+# KML: esos dos son de la ruta que se va a conducir, y un waypoint de Spitzkoppe en el
+# GPS del viaje es una invitacion a coger el desvio equivocado en mitad de la C34.
+SOLO_VARIANTE = ("spitzkoppe", "uis", "ccf")
+
+
+def puntos_oficiales():
+    """La tabla de puntos sin los de la variante: lo que llevan el GPS y la lamina."""
+    return {k: v for k, v in PUNTOS.items() if k not in SOLO_VARIANTE}
+
 
 # Cada etapa es un dia. `por` son los puntos por los que OSRM tiene que pasar, en orden.
 # `bloque` agrupa por tramo del viaje y decide el color de la linea en el mapa.
@@ -116,12 +133,65 @@ ETAPAS = [
      "por": ["windhoek", "aeropuerto"]},
 ]
 
+# Las quince etapas de la VARIANTE del `24`: Spreetshoogte una noche, Spitzkoppe en vez
+# de la Costa de los Esqueletos, tres noches dentro de Etosha y el CCF en vez de Onguma.
+# Misma forma que ETAPAS para que `geodatos.ruta_alt()` y `mapa.mapa_ruta_alt()` la
+# traten igual — y para que el dia a dia del `24` no se escriba a mano en ningun sitio.
+ETAPAS_ALT = [
+    {"id": "D0", "fecha": "31 oct", "bloque": "llegada",
+     "titulo": "Llegada, coche y compra en Windhoek", "duerme": "windhoek",
+     "por": ["aeropuerto", "windhoek"]},
+    {"id": "D1", "fecha": "1 nov", "bloque": "desierto",
+     "titulo": "Windhoek → paso de Spreetshoogte", "duerme": "spreetshoogte",
+     "por": ["windhoek", "rehoboth", "spreetshoogte"]},
+    {"id": "D2", "fecha": "2 nov", "bloque": "desierto",
+     "titulo": "Spreetshoogte → Solitaire → Sesriem", "duerme": "sesriem",
+     "por": ["spreetshoogte", "solitaire", "sesriem"]},
+    {"id": "D3", "fecha": "3 nov", "bloque": "desierto",
+     "titulo": "Sossusvlei, Deadvlei y Duna 45", "duerme": "sesriem",
+     "por": ["sesriem", "sossusvlei", "duna45", "sesriem"]},
+    {"id": "D4", "fecha": "4 nov", "bloque": "costa",
+     "titulo": "Sesriem → Walvis Bay", "duerme": "walvisbay",
+     "por": ["sesriem", "solitaire", "walvisbay"]},
+    {"id": "D5", "fecha": "5 nov", "bloque": "costa",
+     "titulo": "Walvis Bay: flamencos y descanso", "duerme": "walvisbay",
+     "por": []},
+    {"id": "D6", "fecha": "6 nov", "bloque": "granito",
+     "titulo": "Walvis Bay → Swakopmund → Spitzkoppe", "duerme": "spitzkoppe",
+     "por": ["walvisbay", "swakopmund", "spitzkoppe"]},
+    {"id": "D7", "fecha": "7 nov", "bloque": "damaraland",
+     "titulo": "Spitzkoppe → Uis → Twyfelfontein", "duerme": "twyfelfontein",
+     "por": ["spitzkoppe", "uis", "twyfelfontein"]},
+    {"id": "D8", "fecha": "8 nov", "bloque": "damaraland",
+     "titulo": "Twyfelfontein → Palmwag → Hoada", "duerme": "hoada",
+     "por": ["twyfelfontein", "palmwag", "grootberg", "hoada"]},
+    {"id": "D9", "fecha": "9 nov", "bloque": "etosha",
+     "titulo": "Hoada → Etosha (Okaukuejo)", "duerme": "okaukuejo",
+     "por": ["hoada", "kamanjab", "outjo", "andersson", "okaukuejo"]},
+    {"id": "D10", "fecha": "10 nov", "bloque": "etosha",
+     "titulo": "Safari Okaukuejo → Halali", "duerme": "halali",
+     "por": ["okaukuejo", "gemsbokvlakte", "salvadora", "halali"]},
+    {"id": "D11", "fecha": "11 nov", "bloque": "etosha",
+     "titulo": "Safari Halali → Namutoni", "duerme": "namutoni",
+     "por": ["halali", "goas", "chudob", "namutoni"]},
+    {"id": "D12", "fecha": "12 nov", "bloque": "vuelta",
+     "titulo": "Namutoni → Von Lindequist → CCF", "duerme": "ccf",
+     "por": ["namutoni", "lindequist", "ccf"]},
+    {"id": "D13", "fecha": "13 nov", "bloque": "vuelta",
+     "titulo": "Cheetah Run y bajada a Windhoek", "duerme": "windhoek",
+     "por": ["ccf", "windhoek"]},
+    {"id": "D14", "fecha": "14 nov", "bloque": "vuelta",
+     "titulo": "Vuelo de vuelta", "duerme": None,
+     "por": ["windhoek", "aeropuerto"]},
+]
+
 # Color por bloque. Sale de la paleta del sitio: basalto, hueso y oxido, mas los
 # acentos de estado que ya usan los diagramas del dossier.
 COLOR_BLOQUE = {
     "llegada":    "#7D776E",
     "desierto":   "#C2542F",
     "costa":      "#2F6E8E",
+    "granito":    "#6E4B8B",              # solo en la variante del `24`: la linea de dentro
     "damaraland": "#8A6210",
     "etosha":     "#5F7043",
     "vuelta":     "#7D776E",

@@ -24,10 +24,12 @@ etapas salen de `trazado.ETAPAS` y los kilómetros de `geo/ruta.json`, igual que
 cambiar una noche la actualiza sola. `imprimir.a_pdf` acepta `papel="A2"` para esto.
 
 Hace falta Python 3 con `markdown-it-py` y `Pillow` —`pip install -r fuente/requirements.txt`—,
-Google Chrome y `poppler-utils`. El PDF lo
-imprime Chrome por CDP desde `imprimir.py` —no `--print-to-pdf`, que no sabe poner números de
-página— en **dos pasadas**: la primera maqueta para averiguar en qué página cae cada documento y la
-segunda escribe esos números en el índice.
+Google Chrome y `poppler-utils`. Chrome lo localiza `navegador.py`, que mira el PATH y **después
+los `.app` de macOS**, donde Chrome nunca queda en el PATH: sin eso, en un Mac `mapa.py` escribía
+los SVG y se saltaba los PNG sin decir por qué. El PDF lo imprime Chrome por CDP desde
+`imprimir.py` —no `--print-to-pdf`, que no sabe poner números de página— en **dos pasadas**: la
+primera maqueta para averiguar en qué página cae cada documento y la segunda escribe esos números
+en el índice.
 
 ## Convenciones que no se ven en el markdown
 
@@ -44,6 +46,27 @@ segunda escribe esos números en el índice.
   `21`, pegado al `18`, y el `19`, pegado al `08`—. Y lo que no entra en el PDF está en
   `FUERA_DEL_PDF` —hoy solo el `16`—:
   el PDF lleva la ruta que se va a hacer, no la deliberación de por qué es ésa.
+
+## La variante del `24`, que es una segunda ruta entera
+
+El `24` no es prosa: tiene **sus propias quince etapas** en `trazado.ETAPAS_ALT`, su geometría en
+`geo/ruta-alt.json` —`python3 geodatos.py ruta-alt`— y **su propio mapa a escala de país**,
+`mapa.mapa_ruta_alt()` → `img/mapas/ruta-alternativa.svg` y `.png`. El mapa va **con el mismo
+encuadre y la misma escala que el oficial** a propósito: los dos se comparan poniéndolos uno al
+lado del otro, y si el recorte no coincide la comparación miente.
+
+Tres cosas que no se ven:
+
+- **El mapa entra DENTRO del documento**, no en las páginas de mapas del principio. En el markdown
+  va como `<img>` —para que GitHub lo pinte— y `dossier.MAPAS_EN_DOC` lo cambia por el **SVG en
+  línea** al montar el PDF, que sale vectorial y no depende de que el PNG esté generado. La clase
+  `.mapa-doc` cruza las dos columnas: a 89 mm la leyenda es ilegible.
+- **Los puntos de la variante no van al GPS.** `spitzkoppe`, `uis` y `ccf` viven en la misma tabla
+  `PUNTOS` —para que el mapa los rotule con el mismo código— pero `trazado.SOLO_VARIANTE` los saca
+  del GPX y del KML: esos son de la ruta que se va a conducir, y un waypoint de Spitzkoppe en el
+  GPS es una invitación a coger el desvío equivocado.
+- **El día a día del `24` se comprueba contra su geometría** *(abajo)*. Es el mismo error que ya
+  costó una tarde con las tartas: dos sitios contando la misma ruta y nada obligándolos a coincidir.
 
 ## Las posibilidades de avistamiento
 
@@ -93,6 +116,12 @@ texto del desglose, y cuadrar con los **cuatro cubos de solidez del `02` §11** 
 «todo lo demás junto». *(Al cambiar una noche de Namutoni por Onguma se actualizó la prosa y no las
 tartas: el README repartía €3.982 bajo un titular de €3.990 y los dos desgloses parecían correctos
 de un vistazo. Cerrar algo obliga a subirlo de cubo **y** bajarlo del suyo.)*
+
+Y que el **día a día del `24` cuadre con la geometría de su variante** —cada etapa con 1 km de
+tolerancia, porque cada una se redondea por su cuenta; el titular contra la suma de verdad; la
+resta contra la oficial; y que el mapa que el documento enlaza exista en disco—. *(El `24` escribe
+las quince etapas a mano y dibuja el mapa desde `ruta-alt.json`: sin esto, tocar `ETAPAS_ALT` movía
+el mapa y dejaba la prosa contando los kilómetros de antes.)*
 
 Y que la **lámina de ruta sea UNA hoja A2** *(si se desborda salen dos y la segunda va medio
 vacía; el margen es de pocos milímetros, así que cualquier línea de más en la banda de abajo lo

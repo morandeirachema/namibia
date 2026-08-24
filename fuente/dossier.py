@@ -155,9 +155,7 @@ RESUMEN = {
     "23": "El guepardo, prioridad del viaje: dónde se ve de verdad y de qué noche sale el "
           "día. Y las joyas de FUERA de la ruta, con los kilómetros medidos.",
     "24": "La variante de tres noches de Etosha, medida contra la oficial: lo mejor y lo "
-          "peor de cambiar Onguma por el CCF.",
-    "25": "Qué fauna da cada sitio: lo que solo tiene esta ruta, lo que habría que ir a "
-          "buscar al Okavango o a Zambia, y lo que se solapa.",
+          "peor de cambiar Onguma por el CCF y la costa por Spitzkoppe.",
 }
 
 
@@ -176,7 +174,7 @@ def miles(n, sufijo=" km"):
 # son las dos caras de la misma pregunta y se leen seguidas.
 # Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
 ORDEN = {"20": "04a", "17": "05a", "18": "06a", "21": "06b", "22": "06c", "19": "08a",
-         "23": "10a", "24": "10b", "25": "10c"}
+         "23": "10a", "24": "10b"}
 
 
 def documentos():
@@ -441,6 +439,27 @@ def indice(paginas):
 </section>"""
 
 
+# Los mapas que van DENTRO de un documento, y no en su pagina suelta del principio.
+# En el markdown van como <img> —para que GitHub los pinte y el `.md` se lea solo—, y
+# aqui se cambian por el SVG en linea: en el PDF sale vectorial, nitido a cualquier
+# tamano y sin depender de que el PNG este generado. Clave: nombre en img/mapas/.
+MAPAS_EN_DOC = {"24": ("ruta-alternativa", lambda: mapa.mapa_ruta_alt())}
+
+
+def mete_mapas(html, doc):
+    """Cambia el <img> del mapa por el SVG en linea, en los documentos que lo llevan."""
+    par = MAPAS_EN_DOC.get(doc)
+    if not par:
+        return html
+    nombre, dibuja = par
+    patron = (r'<p>\s*<a href="img/mapas/' + re.escape(nombre) +
+              r'\.svg">\s*<img[^>]*>\s*</a>\s*</p>')
+    if not re.search(patron, html):
+        return html
+    return re.sub(patron, lambda _: f'<div class="mapa mapa-doc">{dibuja()}</div>',
+                  html, count=1)
+
+
 def paginas_de_mapas():
     datos = {e["id"]: e for e in mapa.carga("ruta.json")}
     filas = []
@@ -512,6 +531,7 @@ def documento(fich, con_separador=True):
     html = poda(a_html(texto, doc=n), n)
     html = re.sub(r"<h1>(.*?)</h1>",
                   lambda m: f'<h1 class="titulo">{m.group(1)}{ancla(n)}</h1>', html, count=1)
+    html = mete_mapas(html, n)
     html = reparte_fotos(html, FOTOS.get(n, []))
     partes.append(f'<section class="doc" id="doc-{n}">{html}</section>')
     return "".join(partes)
