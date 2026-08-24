@@ -406,9 +406,10 @@ en Asco; asume lo mismo en Savanna) manda de todas formas.
 ⚠️ **Detalle que pilla a la gente:** estos horarios **se mueven con el año** (van con el orto y el
 ocaso). **Confirma la hora real con el campamento al llegar**, no con una tabla leída meses antes.
 
-☀️ *Para tus fechas (cálculo astronómico ±5 min): el 3 de noviembre el sol sale a las **06:09** en
-Sesriem — puerta interior desde **~05:10**, exterior desde **~06:10** — y se pone a las **19:12**.
-El amanecer en Deadvlei mismo, al día siguiente: **06:10**.*
+☀️ *Para tus fechas (cálculo astronómico ±5 min): el 2 de noviembre —la noche que se llega— el sol
+se pone a las **19:12** en Sesriem, y el 3 sale a las **06:08** — puerta interior desde **~05:10**,
+exterior desde **~06:10**. El amanecer en Deadvlei mismo, ese 3 de noviembre: **06:10**.
+(Un día antes que en el plan de agosto: Sesriem se adelantó al 2–3 el 24/08.)*
 
 ---
 

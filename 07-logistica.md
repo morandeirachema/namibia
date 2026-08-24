@@ -250,7 +250,7 @@ barata pero con cobertura **notablemente peor** fuera de los pueblos.
 - **Casi toda Etosha** lejos de los campamentos
 
 **Sesriem, Solitaire y los campamentos de Etosha** tienen cobertura **irregular en el mejor caso**.
-**Y la escarpa de Spreetshoogte y la D1275 (noches D2–D3): SIN DATO de cobertura** ❌ — no aparece
+**Y la escarpa de Spreetshoogte y la D1275 (noche D2): SIN DATO de cobertura** ❌ — no aparece
 en ninguna fuente consultada; trátala como silencio hasta comprobarlo allí.
 
 > ### 👉 La consecuencia

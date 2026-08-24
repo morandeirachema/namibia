@@ -76,8 +76,9 @@ esperando: no le cruces por delante ni te pares donde le tapas.</li>
 <li><strong>Mirad a los demás animales.</strong> ○ Cebras y springboks quietos mirando todos
 al mismo punto, o un chillido de francolín, valen más que rastrear el horizonte: el
 depredador lo delatan ellos.</li>
-<li><strong>De noche, las tres charcas iluminadas.</strong> Okaukuejo, Halali y Namutoni las
-tienen a un paseo de la parcela, y son gratis: la del rinoceronte es la de Okaukuejo. En la
+<li><strong>De noche, las charcas iluminadas.</strong> Okaukuejo y Halali las tienen a un
+paseo de la parcela, y son gratis: la del rinoceronte es la de Okaukuejo. <em>(La tercera, King
+Nehale en Namutoni, se perdió al cambiar esa noche por Onguma — era la floja.)</em> En la
 plataforma, <strong>todo apagado</strong> ◐ — ni linterna ni pantalla de móvil: la única luz es
 la del recinto, y el rojo del frontal se queda para el camino.</li>
 </ul>

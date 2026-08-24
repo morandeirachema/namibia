@@ -90,7 +90,7 @@ flowchart LR
   *(`20` §1)* y **leer la póliza de IATI** —ya contratada el 24/08— para confirmar que lleva
   **evacuación aérea dentro del país** y **búsqueda y salvamento** *(`20` §3)*.
 - **Septiembre** — acudir al CVI *(para salir el 30-10, atendidos hacia el 19–26 de septiembre)*; recetas
-  de profilaxis —la mefloquina empieza ~17–24 de octubre—; resolver el permiso internacional de
+  de profilaxis —la mefloquina empieza ~16–23 de octubre—; resolver el permiso internacional de
   conducir.
 - **Primera semana de octubre** — solicitar el e-visa: necesita billete y reservas. Adaptadores
   tipo M y mapa en papel.
