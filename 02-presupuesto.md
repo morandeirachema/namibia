@@ -136,8 +136,9 @@ siguen sin precio**, salvo **Hoada**, que va en ◐.
   noche → N$2.480 (~€124) las dos noches** ✅, IVA y Social Development Levy incluidos. Rack oficial
   2027, **vigente del 01/11/26 al 31/10/27** *(el año fiscal de Onguma va de noviembre a octubre,
   igual que el de NWR — vuestras noches caen dentro)*.
-  ❌ *El importe exacto de la reserva y sus **condiciones de cancelación**, por confirmar — y ahora
-  son la cifra que más falta: de ellas depende lo que cuesta cambiar la segunda noche por el CCF
+  ❌ *El importe exacto de la reserva y sus **condiciones de cancelación**, sin confirmar — y
+  **decidido el 24/08 no perseguirlos**: el cambio de la segunda noche por el CCF se resuelve sobre
+  la marcha, asumiendo la penalización que sea. Sobre N$1.240 (~€62) el techo es pequeño
   ([`24`](24-ruta-alternativa.md)).*
 - **La segunda de Onguma sustituye a la de Namutoni**, que era **la charca iluminada más floja de
   las tres**: cuesta **N$320 (~€16) más** y a cambio da **ducha y wc propios en la parcela** y una

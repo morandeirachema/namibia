@@ -263,9 +263,9 @@ por persona y noche** = **N$620 (~€31) por persona**, IVA y Social Development
 **N$1.240 (~€62) los dos y por noche → N$2.480 (~€124) las dos noches**. Son **N$320 (~€16) más
 por noche que la parcela de Namutoni** que sustituye.
 
-❌ **El importe exacto de la reserva, por confirmar** — y sobre todo **sus condiciones de
-cancelación**, que son las que deciden si la segunda noche se puede cambiar por el Cheetah
-Conservation Fund sobre el terreno *([`24`](24-ruta-alternativa.md), `20` §4)*.
+❌ **El importe exacto de la reserva y sus condiciones de cancelación, sin confirmar** — y
+**decidido el 24/08 no perseguirlos**: la segunda noche se cambia por el Cheetah Conservation Fund
+**sobre el terreno**, asumiendo la penalización que sea *([`24`](24-ruta-alternativa.md), `20` §4)*.
 
 ---
 

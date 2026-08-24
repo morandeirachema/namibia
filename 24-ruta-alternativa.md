@@ -6,7 +6,7 @@
 > noches de **Onguma Tamboti** *(11 y 12 de noviembre)* están reservadas. Si a la tarde del D11 el
 > **guepardo no ha salido**, la segunda se cancela y se baja al **[Cheetah Conservation
 > Fund](https://cheetah.org/)**. Aquí está ese final medido entero, con lo que gana, lo que cuesta y
-> **qué hay que preguntar antes de salir de casa** para poder decidirlo allí.
+> **cómo se resuelve sobre la marcha** — que es como se ha decidido hacerlo *(24/08)*.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
@@ -31,7 +31,8 @@
 >   noche**, la segunda de Onguma, y se decide con lo que se haya visto en el parque.
 >
 > 👉 **La consecuencia buena: esto ya no hay que decidirlo en agosto.** No mueve ninguna fecha de
-> NWR ni ninguna reserva anterior al D12. Lo único que hay que hacer **antes** es *preguntar*.
+> NWR ni ninguna reserva anterior al D12 — **y el viajero ha decidido resolverlo sobre la marcha,
+> sin preguntar nada por adelantado** *(24/08)*. Lo que eso acepta está abajo, dicho una vez.
 
 ---
 
@@ -143,7 +144,8 @@ CCF. [Ver el mapa en grande](img/mapas/ruta-alternativa.svg).*
   —sus alojamientos son lodge, y el campamento que tienen es **educativo, de grupos escolares** ◐—.
   El viaje pasa de **13 noches de tienda sobre 14** a **12**.
 - 💳 **Hay que CANCELAR una noche ya reservada**, y **sus condiciones de cancelación no se han
-  verificado** ❌ *(ni el importe exacto de la reserva — `20` §4)*.
+  verificado** ❌ *(ni el importe exacto de la reserva — `20` §4)*. **Se ha decidido asumirlo a
+  ciegas** *(24/08)*: sobre N$1.240 (~€62), el techo del riesgo es pequeño.
 - 💶 **Cuesta dinero, y probablemente bastante.** Sale una noche de **N$1.240 (~€62)** y entra una
   del **CCF**, que **no publica precios** ❌ y es **lodge con desayuno y cena incluidos** —así que
   casi con seguridad **por encima** de la de Onguma—. *(A favor: el alojamiento del CCF da **15 % de
@@ -152,26 +154,39 @@ CCF. [Ver el mapa en grande](img/mapas/ruta-alternativa.svg).*
 
 ---
 
-## 📋 Lo que hay que preguntar ANTES de salir de casa
+## 📞 Cómo se resuelve sobre la marcha — y qué se acepta al hacerlo así
 
-**Nada de esto mueve una fecha, pero sin ello la decisión no se puede tomar sobre el terreno.**
+**Decidido el 24/08: no se pregunta nada por adelantado.** La tarde del D11, en Onguma, se mira lo
+que ha salido en Etosha y **se llama desde allí**. Eso es perfectamente viable, y estos son los dos
+teléfonos que hay que llevar apuntados:
 
-1. ❗ **A Onguma** *(la reserva está desde el 21/08)*: **condiciones de cancelación de la segunda
-   noche** ❌ y **hasta cuándo se puede anular sin penalización**. Es la pregunta que decide si esto
-   es una opción real o un capricho caro *(`20` §4)*.
-2. ❗ **Al CCF** *(NightsBridge o **+264 (0)67 306225** ✅)*: **si hay sitio el 12 de noviembre** y
-   **cuánto cuesta** ❌. ⚠️ **Dos avisos**: el **Cheetah Run exige reserva previa** ✅ —pídelo al
-   preguntar por la noche, no al llegar— y **allí NO hay camping**: sus alojamientos son el
-   **Cheetah View Lodge** *(5 suites de piedra)* y la **Babson House**; el campamento que tienen es
-   **educativo, para grupos escolares** ◐.
-3. **Y confirma el horario de la alimentación**: la de las **14:00 de lunes a viernes** ✅ es la que
-   hace que quepa todo el mismo día. Si ese día no la hacen, la ventaja principal se cae.
+1. **CCF — NightsBridge o 📞 +264 (0)67 306225** ✅. Se pregunta **si hay sitio para la noche del 12**
+   y el precio ❌, que no publican.
+2. **Onguma — recepción**, para anular la segunda noche una vez confirmado el CCF. **En ese orden**:
+   primero se asegura la cama nueva, después se suelta la vieja.
+
+**Y lo que decidirlo así acepta, dicho una vez y sin dramatizar:**
+
+- 💳 **La penalización de cancelación de Onguma se asume sin conocerla** ❌. El techo es pequeño —la
+  noche son **N$1.240 (~€62)**—, que es justo por lo que la decisión aguanta bien sin ese dato.
+- 🛏️ **El CCF puede estar lleno**, y a última hora es más probable ○. **Si lo está, no pasa nada**:
+  se queda la segunda noche de Onguma, que es un buen plan por sí mismo. **Ésa es la red, y es
+  buena.**
+- 🏃 ⚠️ **Pero el Cheetah Run SÍ exige reserva previa** ✅ — es la actividad que justifica todo el
+  cambio. **Pídelo en la misma llamada**, no al llegar; si a esas alturas no queda hueco, el CCF
+  pierde su mejor argumento y **conviene quedarse en Onguma**.
+- 🛌 **Allí no hay camping**: sus alojamientos son el **Cheetah View Lodge** *(5 suites de piedra)* y
+  la **Babson House**; el campamento que tienen es **educativo, para grupos escolares** ◐. Es noche
+  de habitación, como Terrace Bay.
+- 🍖 **La alimentación de las 14:00 es de lunes a viernes** ✅ y **el 12 es jueves**, así que cae
+  dentro. Confírmalo igualmente en la llamada: es lo que hace que quepa todo el mismo día.
 
 > ### 🧭 Cómo se decide, dicho en una frase
 > **Si el guepardo ya salió en Etosha, quédate**: el D12 de Fischer's Pan y la segunda noche de
-> Onguma son un buen día, y el guepardo salvaje ya está visto. **Si no salió, baja**: el CCF lo
-> convierte en seguro, endereza el día más largo del viaje y solo cuesta 16 km — pero **solo si las
-> dos preguntas de arriba están hechas**. Sin ellas, la segunda noche de Onguma se queda como está.
+> Onguma son un buen día, y el guepardo salvaje ya está visto. **Si no salió, llama**: el CCF lo
+> convierte en seguro, endereza el día más largo del viaje y solo cuesta 16 km. **Y si no hay sitio,
+> te quedas donde estabas** — que es por lo que esta decisión se puede dejar para el último día sin
+> arriesgar nada.
 
 ---
 

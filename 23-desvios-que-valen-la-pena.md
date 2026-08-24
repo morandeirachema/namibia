@@ -217,8 +217,8 @@ flowchart LR
   rinoceronte confirmados por escrito**, con **baño propio en la parcela**, **salida al atardecer
   con foco y campo a través** y **paseo a pie**, las dos cosas que el parque prohíbe *(`21`)*. Se
   pierde además **el D12 de safari en Fischer's Pan**. Y **es una noche RESERVADA**: ❌ **sus
-  condiciones de cancelación siguen sin pedirse**, y son lo único que falta para poder decidirlo
-  allí.
+  condiciones de cancelación siguen sin pedirse**, y **se ha decidido asumirlas a ciegas** *(24/08)*
+  — sobre N$1.240 (~€62), el techo del riesgo es pequeño.
 - **El intercambio, dicho sin adornos**: se cambia un **guepardo salvaje improbable pero real**
   *(Onguma, reserva privada)* por un **guepardo casi seguro que no es salvaje** *(CCF)* o por uno
   **casi seguro pero cautivo** *(CCF)*. **Okonjima ya no es opción de guepardo** *(§3)*: lo suyo
@@ -241,9 +241,9 @@ bloque entero.**
 > **Y si a la tarde del D11 no ha salido, la segunda noche se cambia por el CCF** y entra el
 > **Cheetah Run de las 08:00**, con el D13 además cómodo. *(Okonjima sigue mereciendo la noche, pero
 > por leopardo, rinoceronte a pie y pangolín: **guepardo ya no tiene** — §3.)*
-> ❗ **Lo único que hay que hacer ANTES de salir de casa** es pedir a Onguma **sus condiciones de
-> cancelación** y al CCF **si tiene sitio el 12**: sin esas dos respuestas, la decisión no se puede
-> tomar allí *(`24`, `20` §4)*.
+> 📞 **Y se resuelve allí mismo, sin preparar nada** *(decidido el 24/08)*: se llama al CCF desde
+> Onguma. Lo único que conviene no olvidar en esa llamada es **pedir el Cheetah Run, que sí exige
+> reserva previa** ✅ — es lo que justifica el cambio. Si no hay sitio, se queda Onguma *(`24`)*.
 >
 > 👉 **Ese cambio está desarrollado y medido en [`24`](24-ruta-alternativa.md)**, con el D12 y el
 > D13 recalculados y con lo mejor y lo peor de cada opción. Titular: **no quita ni una noche de
