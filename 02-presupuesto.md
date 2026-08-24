@@ -54,7 +54,7 @@ pie showData
     title "Presupuesto total · la ruta · pareja · EUR · camping"
     "Vuelo ida y vuelta x2" : 3072
     "Coche Savanna 15d" : 2363
-    "Alojamiento 14 noches" : 740
+    "Alojamiento 14 noches" : 756
     "Combustible" : 450
     "Comida" : 280
     "Seguro IATI Estrella x2" : 226
@@ -99,12 +99,13 @@ pieza a pieza, con sus fuentes, en [`20`](20-reservas.md) §1.**
 
 ---
 
-## 3. Alojamiento — 14 noches, 6 verificadas ◐/○
+## 3. Alojamiento — 14 noches, 9 con precio cerrado ◐/○
 
 **14 noches en tierra** *(del 31 de octubre al 13 de noviembre, con el coche del aeropuerto
-desde el primer día)*. De ellas, **6 son campings NWR con precio verificado**; las otras 8 son
-**camping todas salvo la habitación de Terrace Bay (D7, cerrada ✅)** — de esas, **seis siguen
-sin precio y Hoada va en ◐**.
+desde el primer día)*. De ellas, **9 tienen precio cerrado**: los **5 campings NWR** *(Sesriem ×2,
+Okaukuejo, Halali y Namutoni)*, el **camping privado de Onguma (D12)**, la **habitación de
+Terrace Bay (D7)** y —desde el **24/08**— las **dos noches de Spreetshoogte (D1–D2)**. Las
+**otras 5 son camping y siguen sin precio**, salvo **Hoada**, que va en ◐.
 
 **Verificado (NWR, ventana nov 2026 – jun 2027, 2 pax):**
 - **Sesriem × 2** *(dentro de la puerta — imprescindible para Deadvlei al amanecer)* — **N$1.340
@@ -127,13 +128,24 @@ sin precio y Hoada va en ◐**.
 
 → **Las 4 noches de Etosha suman N$4.000 (~€200) la pareja** ✅.
 
-→ Suma verificada/reservada de las 7 noches con precio cerrado: 2×N$1.340 *(Sesriem)* + 3×N$920
-*(Etosha NWR)* + N$1.240 *(Onguma)* = **N$6.680 (~€334) para la pareja / ~€167 por persona** ✅
-*(coincide con `01-itinerarios-dia-a-dia.md` §Coste real).*
+→ Suma verificada/reservada de las **6 noches de Sesriem, Etosha y Onguma**: 2×N$1.340 *(Sesriem)*
++ 3×N$920 *(Etosha NWR)* + N$1.240 *(Onguma)* = **N$6.680 (~€334) para la pareja / ~€167 por
+persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terrace Bay** y
+**Spreetshoogte**, también cerradas, van aparte abajo).*
 
-**Parcialmente cerrado / sin verificar ○/◐ (8 noches):**
-- D0 Windhoek, D1–D2 Spreetshoogte ×2 *(la segunda noche, decidida el 08/08 — sale del domingo de
-  Windhoek, así que el recuento no cambia)*, D5–D6 Walvis Bay ×2 → campings/alojamientos privados,
+**Y las dos noches de Spreetshoogte (D1–D2) — CERRADAS el 24/08 ✅, del rack del propio operador:**
+- **Spreetshoogte Campsite**, en la D1275, **operado por Barkhan Dune Retreat** — **parcela
+  estándar N$290 (~€14,50) por persona y noche → N$1.160 (~€58) las dos noches los dos** ✅.
+  La **VIP, con baño propio en la parcela, N$680 (~€34) pp → N$2.720 (~€136)**. Incluye wifi,
+  «stand only», máximo 4 adultos por parcela. Fuente: su **PDF de camping**
+  *([«2026 RACK CAMPING»](https://www.barkhan.africa/2026%20RACK%20CAMPING.pdf))*.
+- ⚠️ **Su año tarifario va de diciembre a noviembre**, no de noviembre a octubre como el de NWR:
+  el PDF titulado «2027» arranca el **01/12/2026**, dos semanas **después** de vuestras noches, y
+  **no aplica** *(detalle en `20` §5)*. Con esto **caen las cifras de blog** que este documento
+  arrastraba para Spreetshoogte *(150–300 ZAR/persona, ~N$120–150)*.
+
+**Parcialmente cerrado / sin verificar ○/◐ (5 noches):**
+- D0 Windhoek, D5–D6 Walvis Bay ×2 → campings/alojamientos privados,
   **precio no cerrado** (WebFetch bloqueado; ver `15`). Estimación de práctica común: **~€25–45/noche
   para dos** cada uno. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
   —campamento equiparable de la ruta— está cerrado en **N$540/noche para dos (~€27)**, entrada incluida
@@ -150,25 +162,31 @@ sin precio y Hoada va en ◐**.
   que el D0 (Urban Camp o Arebbusch), tarifa ❌. *(La habitación con traslados quedó
   descartada; el hotel que se cae y la noche nueva del D0 se compensan casi exactamente dentro
   de la estimación ○ — por eso el total de alojamiento no se mueve.)*
-- **Los campings sin cotizar (D0, D5–D6, D13 — y Spreetshoogte D1–D2)**: existen y están
-  identificados —**Urban Camp** o **Arebbusch** en Windhoek, **Lagoon Chalets** en Walvis Bay,
-  **Spreetshoogte Campsite** en la escarpa— pero **ninguno publica tarifa** ❌.
+- **Los campings sin cotizar (D0, D5–D6, D13)**: existen y están
+  identificados —**Urban Camp** o **Arebbusch** en Windhoek, **Lagoon Chalets** en Walvis Bay—
+  pero **ninguno publica tarifa** ❌.
   Se mantienen en la estimación de práctica común de ~N$600–1.000 (~€30–50) la pareja.
+  *(**Spreetshoogte salió de esta lista el 24/08**: su operador sí publica rack — arriba.)*
 
 > ✅ **Y esto cierra el mayor hueco del bloque:** Terrace Bay ya no es una incógnita de ±€130. Son
-> **~€174 la pareja, verificados**, con cena y desayuno dentro. El bloque sin cerrar se queda en
-> **7 noches** —las dos de Windhoek, las dos de Spreetshoogte, las dos de Walvis y Hoada—, todas
-> de camping, que es el tramo barato y predecible.
+> **~€174 la pareja, verificados**, con cena y desayuno dentro. Con Spreetshoogte cerrado el
+> 24/08, el bloque sin cerrar se queda en **5 noches** —las dos de Windhoek, las dos de Walvis y
+> Hoada—, todas de camping, que es el tramo barato y predecible.
 
-→ Bloque estimado: **7 noches × ~€25–45 la pareja (central ~€35) ≈ ~€245 pareja / ~€124 por
-persona ○**. **Alojamiento total: ~€756 pareja (~€378/persona)**. **Cerrado: €508 (67 %)** —
-los N$6.680 de Sesriem y Etosha ✅ y los N$3.480 de Terrace Bay ✅ — y **Hoada suma ◐**.
+→ Bloque estimado: **5 noches × ~€25–45 la pareja (central ~€35) ≈ ~€175 pareja / ~€88 por
+persona ○**. **Cerrado: €566 — 9 de las 14 noches** — los N$6.680 de Sesriem, Etosha y Onguma ✅,
+los N$3.480 de Terrace Bay ✅ y los N$1.160 de Spreetshoogte ✅ — y **Hoada suma ◐**.
+
+→ **Alojamiento total: ~€741 la pareja (~€371/persona)** con Spreetshoogte en parcela estándar, o
+**~€819 (~€410)** si se coge la VIP con baño propio. **El presupuesto sigue planificando con
+~€756 la pareja (~€378/persona)**, que cae entre los dos escenarios: absorbe una elección de
+parcela que todavía no está tomada, y por eso no se mueve el total de §1 por ±€15.
 
 ```mermaid
 flowchart LR
     T["Alojamiento 14 noches · pareja · EUR"]
-    n0["7 verificadas: NWR<br/>y Terrace Bay<br/>492"]
-    n1["7 restantes estimadas<br/>~245"]
+    n0["9 cerradas: NWR, Onguma,<br/>Terrace Bay y Spreetshoogte<br/>566"]
+    n1["5 restantes estimadas<br/>~175"]
     T ~~~ n0
     n0 ~~~ n1
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
@@ -670,9 +688,10 @@ flowchart LR
 
 ## 11. Qué parte de este número es sólida
 
-- **✅ Duro — ~€3.165 de los €3.990 (79 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
-  15 días, RESERVADO con Savanna, €1.181,50 · las 7 noches con precio cerrado €167 *(Sesriem ×2 y
-  las cuatro de Etosha, **reservadas el 21/08**)* · Terrace Bay €87 · seguro €113 · visado €80.
+- **✅ Duro — ~€3.194 de los €3.990 (80 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
+  15 días, RESERVADO con Savanna, €1.181,50 · las 6 noches con precio cerrado €167 *(Sesriem ×2 y
+  las cuatro de Etosha, **reservadas el 21/08**)* · Terrace Bay €87 · **Spreetshoogte ×2 €29**
+  *(tarifa cerrada el 24/08)* · seguro €113 · visado €80.
   Todo con precio real para las fechas exactas.
 - **✅ Decidido con tarifa verificada — ~€144**: los safaris guiados de Etosha (3 mañanas + nocturno)
   y la lanzadera de Deadvlei — tarifas NWR reales, selección del 08/08, reserva en recepción.

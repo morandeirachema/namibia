@@ -9,8 +9,9 @@
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Levantado el 09/08/2026. Al 12/08, el **vuelo está EMITIDO (€1.536 p.p.)** y el **coche
-> RESERVADO con Savanna (€2.363 en total)** — el resto sigue sin reservar. Los contactos que el
+> *Levantado el 09/08/2026. Al 24/08, el **vuelo está EMITIDO (€1.536 p.p.)**, el **coche
+> RESERVADO con Savanna (€2.363 en total)** y las **cuatro noches de Etosha, RESERVADAS el 21/08**
+> —Okaukuejo, Halali, Namutoni y Onguma Tamboti (§4)—; **el resto sigue sin reservar**. Los contactos que el
 > dossier no tiene localizados se dicen en blanco: rellenar un teléfono plausible sería peor que
 > dejar el hueco. Los marcados ◐ salieron de la búsqueda del 09/08/2026 sin poder abrir la ficha
 > oficial: confírmalos al usarlos.*
@@ -254,10 +255,32 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
     4 y 7 accesibles, sin electricidad en las parcelas *(solo luz solar en el bloque)*. Un canal
     de reserva alternativo por wheretostay figura con 📞 **+264 83 000 0008** / 📧
     **info@wheretostay.na** ◐.
-  - **Tarifa: sigue sin verificar** ❌ — no se pudo descargar ninguna página de precios
-    *(pistas que se contradicen: 150–300 ZAR/persona ○ del blog; fragmentos de ~N$120–150 ·
-    ~€6–7,5/persona ○)*. Allí no consta tienda, restaurante ni datáfono ❌: se paga en efectivo
-    *(`01` §D1)*.
+  - **✅ TARIFA CERRADA (24/08) — del rack del propio operador.** El muro de `403` cedió: se abrió
+    [barkhan.africa/rates.php](https://www.barkhan.africa/rates.php) y, con él, **su PDF de camping
+    del año que de verdad aplica** *([«2026 RACK CAMPING»](https://www.barkhan.africa/2026%20RACK%20CAMPING.pdf),
+    vigente **01 dic 2025 – 30 nov 2026**)*: **parcela estándar N$290 (~€14,50) por persona y
+    noche** → **N$1.160 (~€58) las dos noches los dos**; la **VIP, con baño propio en la parcela,
+    N$680 (~€34) pp** → **N$2.720 (~€136)**. Niño de 2 a 10 años, N$70 (~€3,50). Incluye **wifi
+    gratis**, **máximo 4 adultos por parcela**, y va **«stand only»**. *(El **Farmhouse Campsite**,
+    el de la boma del antiguo dique, es la opción barata: **N$225 · ~€11 pp**.)*
+  - ⚠️ **La trampa del calendario, y por poco**: **el año tarifario de Barkhan va de DICIEMBRE a
+    NOVIEMBRE**, no de noviembre a octubre como el de NWR. El PDF que se titula **«2027» empieza
+    el 01/12/2026** — **dos semanas después de vuestras noches**, así que **no es el vuestro**:
+    sus **N$300 (~€15)** estándar no aplican. *(De paso quedan refutadas las cifras de blog que
+    arrastraba este cuaderno —150–300 ZAR/persona y ~**N$120–150 · ~€6–7,50**—: la buena es
+    **N$290 · ~€14,50**.)*
+  - **La leña, con precio por fin** ✅ *(cerraba un fleco de `15`)*: **fardo de 10 kg, N$55
+    (~€2,75)**; **leña para el calentador *donkey*, N$30 (~€1,50)**. Y la caminata guiada al
+    **Ubib Grotto** *(pinturas rupestres de >2.000 años, ~4 h)*, **N$660 (~€33)/persona**, mínimo
+    3 y máximo 8.
+  - **Canal de reserva y cancelación** ✅ *(mismo PDF)*: 📧 **bookings@barkhan.africa** ·
+    📞 **+264 83 000 0008** — que resulta ser **el número del propio Barkhan**, no el intermediario
+    que este cuaderno suponía. **Reserva por aquí, que es el canal al que corresponde la tarifa de
+    arriba**; el `spreetshoogte@iway.na · +264 62 572 010` del directorio ◐ sigue sin poder
+    cruzarse con este rack. **Pago íntegro ANTES de llegar**, provisional guardada **7 días**,
+    confirmada con el **50 %**. Cancelación: **30–22 días 20 % · 21–15 días 50 % · 14–8 días
+    75 % · 7–0 días y no-show, 100 %**. Allí no consta tienda, restaurante ni datáfono ❌: se paga
+    en efectivo *(`01` §D1)*.
 - **Windhoek — sáb 31 oct (D0) y vie 13 nov (D13)** — candidatos con camping verificado *(`01`
   §D0)*: **Urban Camp** *(Schanzen Road; piscina, bar, wifi, cajero)* — 📧 booking@urbancamp.net ·
   WhatsApp **+264 81 162 0761** · reserva por
@@ -393,9 +416,10 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] **Confirmar el importe de la reserva de Onguma** *(el rack da N$1.240 · ~€62)* *(§4)*
 - [ ] **Pre-reservar en Onguma la cena y, si se quiere, el Sundowner Drive** — y preguntar si hay
       night drive *(§4)*
-- [ ] **Spreetshoogte ×2** *(1–2 nov)* — **sin reservar**: lo resuelto es que **está abierto ◐**
-      (2025–2026; «Closed down» refutado) y cuál de los tres homónimos es — lo opera Barkhan Dune
-      Retreat en la D1275 *(§5)*. Falta la tarifa ❌ **y la reserva**
+- [ ] **Spreetshoogte ×2** *(1–2 nov)* — **sin reservar**, y ya **no falta nada para poder
+      hacerlo**: está **abierto ◐**, se sabe cuál de los tres homónimos es *(lo opera Barkhan Dune
+      Retreat en la D1275)* y desde el **24/08 la tarifa está cerrada ✅ — N$290 pp/noche, N$1.160
+      (~€58) las dos noches los dos**. Se reserva en **bookings@barkhan.africa** *(§5)*
 - [ ] **Windhoek D0 y D13** *(Urban Camp o Arebbusch)* *(§5)*
 - [ ] **Walvis Bay ×2** *(Lagoon Chalets)* *(§5)*
 - [ ] **Hoada** *(8 nov)* *(§5)*

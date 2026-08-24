@@ -87,7 +87,8 @@ Namib-Naukluft, Skeleton Coast/Dorob y Etosha, que es por donde va casi toda la 
 además prohíbe la entrada de drones sin excepción desde abril de 2025: se deja en la puerta y se
 recoge al salir, y con entrada por Andersson y salida por Von Lindequist (161 km entre las dos)
 quedaría en el lado equivocado del parque. La vista aérea legal, si hace falta, es el **vuelo
-panorámico** — operadores reales, verificados en su propia web:
+panorámico**. ⚠️ **DESCARTADO el 24/08: el viajero decide no volar** *(`20` §7)* — la ficha se
+queda por si algún día se reabre, con operadores reales verificados en su propia web:
 
 - **Globo sobre Sossusvlei** ✅ — [Namib Sky Balloon Safaris](https://balloon-safaris.com/ballooning-namibia/),
   el operador clásico de la zona (despega en Kulala Wilderness Reserve o el norte de NamibRand,
@@ -149,6 +150,130 @@ panorámico** — operadores reales, verificados en su propia web:
     no como pista abierta.
   - Fuentes: [NamibRand — Tourism](https://www.namibrand.com/tourism.html) ·
     [takeyourbackpack — NamibRand](https://www.takeyourbackpack.com/backpacking-in-namibia/visit-namibrand-nature-reserve/)
+
+---
+
+## 🚙 Los game drives que NO son Etosha — etapa a etapa *(investigado el 24/08/2026)*
+
+**El hallazgo primero, porque cambia la expectativa:** fuera de Etosha, esta ruta **no está llena
+de game drives**. Los de verdad se concentran en **tres sitios** —el eje de Windhoek (D0/D13),
+Damaraland (D8) y la propia puerta de Etosha (Onguma, D12)— y en el eje Otjiwarongo del D13. **El
+desierto y la costa no tienen game drive**: lo que tienen es tour de dunas y de fauna pequeña, que
+es otra cosa y ya está en su sitio *(Sandwich Harbour, `20` §7)*. Y **el cuello de botella no es
+el dinero, es el reloj**: casi todos los buenos piden medio día o el día entero, y esta ruta va
+llena.
+
+```mermaid
+flowchart LR
+%% ancho
+    T["FUERA DE ETOSHA<br/>que cabe en la ruta tal y como esta"]
+    S["D2 · Spreetshoogte<br/>farm drive de Barkhan<br/>el dia de 0 km"]
+    G["D8 · Hoada / Grootberg<br/>nature drive con sundowner<br/>la tarde de llegada"]
+    O["D12 · Onguma<br/>Sundowner Drive<br/>N$980 pp · ya presupuestado"]
+    X["PIDEN UN DIA QUE NO HAY:<br/>rastreo de rinoceronte y de elefante<br/>(Grootberg) · Palmwag · el leopardo<br/>de Okonjima · Okapuka"]
+    T --> S --> G --> O
+    T --> X
+    style T fill:#7a3a22,color:#fff
+    style O fill:#2d6a4f,color:#fff
+    style X fill:#9d0208,color:#fff
+```
+
+### 🏜️ D1–D2 · Spreetshoogte — el farm drive del propio campamento ◐
+
+**Barkhan Dune Retreat**, que es quien opera vuestro campamento *(`20` §5)*, hace un **Farm /
+Sundowner Drive** por la finca ✅ *([barkhan.africa/activities](https://www.barkhan.africa/activities.php))*.
+Lo que dicen que se ve: **cebra de montaña, oryx, facóquero, zorro orejudo y lobo de tierra**
+*(aardwolf)* — los dos últimos, con ficha en la guía de fauna. **Es la respuesta a la pregunta que
+el `01` deja abierta en el D1** *(«pregúntale al dueño qué baja al anochecer»)*: allí no hay ni
+parte de avistamientos ni polígono GBIF que llegue, así que **el guía de la finca ES la fuente**.
+
+- **Precio** ❌ — **no aparece en el rack de camping 2026 ni en el 2027**; su página de tarifas de
+  **2024/25** sí listaba **Sundowner Drive N$605 (~€30)/persona** ◐. **Pregúntalo al reservar.**
+- **Encaja perfecto en el D2**, que es el día de **0 km de ruta** y el colchón del viaje.
+- ❌ **Sin confirmar si los del camping pueden apuntarse** o es solo para los del lodge: su ficha
+  no lo dice. Va en la misma llamada que la reserva.
+
+### 🦏 D8 · Damaraland — el mejor safari no-Etosha de la ruta, y el que peor cabe
+
+**Grootberg Lodge está a 25 km de vuestro campamento de Hoada y es el mismo operador** *(Journeys
+Namibia — el mismo contacto con el que se reserva la noche)*. Hace ✅
+*([grootberg.com/activities](http://www.grootberg.com/activities))*:
+
+- **Rastreo de rinoceronte negro** — 4x4 abierto con guía **y rastreadores**, mezclando coche y
+  andar por terreno rocoso, con parada de refrigerio junto a unos manantiales. **Casi el día
+  entero**, salida a primera hora, **mínimo 2 personas**, y **el avistamiento no se garantiza** ✅.
+- **Rastreo del elefante del desierto** — media jornada por la conservancy vecina, con picnic bajo
+  un árbol pastor; **vuelta prevista hacia las 15:00**, mínimo 2, **menores de 12 al 50 %** ✅.
+- **Nature drive con sundowner** sobre la meseta de Etendeka ✅.
+- **Precios: no los publican** ❌ — ni en la web ni en la página de tarifas. Se piden al mismo
+  sitio que la reserva de Hoada: 📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104**.
+
+> ⚠️ **Y aquí está el problema, que es de reloj y no de dinero.** A Hoada se llega **la tarde del
+> D8**, y el **D9 son ~340 km hasta Okaukuejo** con la puerta de Andersson por delante. El rastreo
+> de rinoceronte se come el día entero y el de elefante no vuelve hasta las 15:00: **ninguno de
+> los dos cabe** sin sacrificar el D9 o robarle el día al D2. **El que sí cabe es el nature drive
+> con sundowner de la tarde del D8** — pídelo al reservar la noche.
+
+**Palmwag** *(cae en la cola del D8, ~50 km al oeste de Hoada, y es el surtidor de respaldo del
+tramo — `07`)* ◐: su concesión tiene rinoceronte negro, elefante del desierto y **la mayor
+población de depredadores fuera de Etosha**. Ofrece **game drives panorámicos de ±3½ h**, una
+**excursión de día entero por Damaraland** *(mínimo 4)* y **rastreo de rinoceronte de media
+jornada** *(no apto para menores de 12)* ✅
+*([ficha de actividades](https://wetu.com/iBrochure/en/Information/8016_1622/palmwag_lodge_gondwana_collection_namibia/Activities))*.
+
+> ❌ **Sus precios no están publicados, y aquí hay una trampa que conviene dejar escrita.** Una
+> búsqueda devolvió con todo aplomo «N$3.375 el día entero, N$4.375 la media jornada y N$4.200 el
+> nature drive» — cifras que **no aparecen en ninguna página abierta**, y que **se contradicen
+> solas**: la media jornada saldría más cara que el día completo. **No se usan.** Es el mismo tipo
+> de invención que ya coló una vez un «N$445» imposible *(§Lodges de `15`)*. Pídelos por email.
+
+### 🐆 D13 · Okonjima / AfriCat — el leopardo con collar, y cae EN la ruta ◐
+
+El **D13 son 539 km de Onguma a Windhoek por la B1**, y **Okonjima está justo en esa carretera**
+*(al sur de Otjiwarongo)*. Varios de sus leopardos adultos **llevan collar de telemetría**, que es
+la razón de que allí se vean con una frecuencia que el parque no da ◐.
+
+- **Rastreo de leopardo — N$880 (~€44)/adulto en temporada baja y N$970 (~€49) en alta** ◐;
+  niño de 6 a 13, la mitad. Salidas **06:00–06:30** *(vuelta 09:30–10:00)* y **15:30–16:00**
+  *(vuelta 19:00–19:30)* ◐.
+- ⚠️ **Por qué va en ◐ y no en ✅**: la línea de precio sale del **PDF oficial** de Okonjima
+  *(«Okonjima Activity Overview 2026»)*, pero **el PDF devuelve `403`** y no se ha podido abrir
+  para verificar la extracción — y **otras fuentes dan cifras muy distintas** *(US$40–60 por un
+  lado, N$2.300 por otro)*. **Confírmalo por email**: 📞 +264 83 373 1400 ·
+  📧 info@okonjimalodge.com *([okonjima.com](https://okonjima.com/leopard-tracking/))*.
+- ⚠️ **Y otra vez el reloj**: con 539 km por delante, la salida de las 06:00 obliga a haber dormido
+  cerca —y se duerme en Onguma, a ~400 km—, y la de las 15:30 termina a las 19:30, que llega a
+  Windhoek **de noche**, contra la regla de estar en el campamento a las 18:00 *(`06`)*. **Encaja
+  si se parte el D13 en dos, no como está.**
+
+### 🦁 D0 y D13 · Windhoek — las reservas valladas de la ciudad ✅
+
+Son las únicas que caben en un día de llegada o de salida, porque están **a media hora**.
+
+- **Okapuka Safari Lodge** *(B1, al norte de Windhoek)* — **game drive guiado N$1.030 (~€52) por
+  persona**, con tarifa reducida de **N$935 (~€47)**, y **la tarifa es la del año del viaje: 1 nov
+  2026 – 31 oct 2027** ✅. Rinoceronte blanco, jirafa, cebra, avestruz y antílope, en vehículo
+  abierto con refrigerio.
+- ✅ **Admite visitantes de día que NO duermen allí** — pero **solo con reserva previa**: *«Please
+  book one day in advance and show your booking confirmation at the gate»*. Es decir, **hay que
+  pedirlo con un día de antelación**, no se cae por allí.
+- Fuente: [Gondwana — Okapuka Safari Lodge](https://gondwana-collection.com/accommodation/okapuka-safari-lodge).
+  *(Nota de método: esta ficha de Gondwana **sí se dejó abrir el 24/08**, al contrario que en las
+  pasadas anteriores — de ahí que vaya en ✅ y no en ◐.)*
+
+### 🚫 Y dónde NO hay game drive, para no buscarlo
+
+- **D3–D4 Sesriem/Sossusvlei** — el Namib-Naukluft se hace **con vuestro propio coche**; lo que
+  venden los lodges son **excursiones guiadas a Sossusvlei** y nature drives en fincas privadas, no
+  safari de fauna. **NamibRand no es self-drive libre** *(arriba, §Zonas restringidas)*.
+- **D5–D6 Walvis/Swakopmund** — **Sandwich Harbour en 4x4**, ya decidido *(`20` §7)*, y el
+  **Living Desert Tour** de los «pequeños cinco» del Dorob *(camaleón, gecko de dunas, víbora
+  sidewinder…)*: **precio actual sin verificar** ❌ *(las tarifas que circulan, N$750–850 · ~€38–43
+  pp, son de 2019–2021 ○)*.
+- **D7 Skeleton Coast** — nada: el permiso es de tránsito y no hay operador de game drive dentro.
+- **D9 Kamanjab** — **Otjitotongwe**, los guepardos, que **ya está arriba** en este mismo documento.
+- **D12 Onguma** — el **Sundowner Drive, N$980 (~€49)/persona** ✅, que es el único game drive
+  no-Etosha **ya presupuestado como opción** *(`20` §7)*; su **night drive sigue sin confirmar** ❌.
 
 ---
 

@@ -91,9 +91,11 @@ flowchart LR
    **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
    **la cita es el recurso escaso, no la vacuna**.
 5. **Reservar Sesriem ×2 y Terrace Bay** — sin la de Terrace Bay **no se entra** al Skeleton Coast
-   a pernoctar. **Y reservar Spreetshoogte ×2**: **abierto
-   confirmado ◐** *(el «closed down» quedó refutado el 10/08; el camping bueno lo opera Barkhan
-   Dune Retreat)*, contacto localizado — la **tarifa, aún sin verificar** ❌ *(`20` §5)*.
+   a pernoctar. **Y reservar Spreetshoogte ×2**, que desde el **24/08 ya no tiene ningún hueco
+   delante**: **abierto confirmado ◐** *(el «closed down» quedó refutado el 10/08)*, lo opera
+   **Barkhan Dune Retreat**, y la **tarifa está cerrada ✅ — N$290 (~€14,50) pp/noche, N$1.160
+   (~€58) las dos noches los dos**, de su propio rack. Se reserva en **bookings@barkhan.africa**
+   *(`20` §5)*.
    ✅ **Las cuatro noches de Etosha salieron de esta lista el 21/08: están RESERVADAS** —
    **Okaukuejo** *(9–10)*, **Halali** *(10–11)*, **Namutoni** *(11–12)* a N$920 (~€46) la noche los
    dos, y la cuarta, **[Onguma Tamboti](https://onguma.com/)** *(12–13)*, ya **fuera** de la puerta
@@ -113,9 +115,9 @@ pide por escrito al cerrarla y lo que se deja para recepción— **está en
 <details>
 <summary><b>🕳️ Lo que sigue sin poder cerrarse</b></summary>
 
-Tres campings sin tarifa publicada *(Windhoek, Walvis Bay y Spreetshoogte — **contactos ya
-localizados el 09/08, ver [`20`](20-reservas.md)**; el de Spreetshoogte, **abierto**: el «closed
-down» quedó refutado el 10/08 ◐ y lo opera Barkhan Dune Retreat)* ·
+**Dos** campings sin tarifa publicada *(Windhoek y Walvis Bay — **contactos ya
+localizados el 09/08, ver [`20`](20-reservas.md)**)*. **Spreetshoogte salió de esta lista el
+24/08**: abierto ◐, operado por Barkhan Dune Retreat y con **tarifa cerrada ✅** de su propio rack ·
 la zona horaria sin cobertura del seguro de Savanna, sin nombrar todavía por escrito *(la salida a
 Deadvlei del D4, `20` §1)* ·
 el sobrecoste **en tiempo** del **desvío obligatorio Okaukuejo–Halali** *(los km ya están: **+38**
@@ -131,7 +133,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 141 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 145 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -332,7 +334,7 @@ pie showData
     title Por persona · desglose en EUR · camping
     "Vuelo" : 1536
     "Coche 15 dias" : 1182
-    "Alojamiento" : 370
+    "Alojamiento" : 378
     "Combustible" : 225
     "Comida" : 140
     "Seguro" : 113
@@ -345,12 +347,13 @@ pie showData
 
 - ✈️ Vuelo **€1.536** ✅ *(EMITIDO el 10/08)* · 🚙 Coche **€1.181,50** ✅ *(RESERVADO con Savanna,
   15 días completos — `20` §1)* ·
-  ⛺ Alojamiento **~€370** *(€246 verificado ✅)* · ⛽ Combustible **~€225** · 🍖 Comida **~€140** ·
+  ⛺ Alojamiento **~€378** *(€283 verificado ✅)* · ⛽ Combustible **~€225** · 🍖 Comida **~€140** ·
   🩺 Seguro **€113** ✅ · 🎫 Tasas **~€117** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€219** *(los safaris
   guiados de Etosha, decididos el 08/08, dentro)*
-- **El ~79 % ya está cerrado** con precio real: vuelo *(emitido)*, el coche completo *(reservado)*,
-  seguro, visado, las 6 noches de NWR y Terrace Bay. Lo demás (~€850) son las 6 noches de
-  camping sin precio (más Hoada ◐), el paquete guiado de Etosha —3 mañanas + nocturno + lanzadera
+- **El ~80 % ya está cerrado** con precio real: vuelo *(emitido)*, el coche completo *(reservado)*,
+  seguro, visado y **9 de las 14 noches** *(Sesriem ×2, las cuatro de Etosha, Terrace Bay y
+  —desde el 24/08— Spreetshoogte ×2)*. Lo demás (~€800) son las **5 noches de
+  camping sin precio** (más Hoada ◐), el paquete guiado de Etosha —3 mañanas + nocturno + lanzadera
   de Deadvlei— *(~€144, tarifa ✅ sin reservar)*, el
   combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
 - ⚠️ **Lo que aún puede mover el número**: el día extra de seguro *(sin cotizar)* y el traslado a

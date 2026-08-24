@@ -594,6 +594,37 @@ maleta**. Detalle y fuentes en [`02`](02-presupuesto.md) §8.
   y la salida (D0–D2) con una menguante del 48–68 % que sale ya de noche. El día a día, en el
   bloque 🌙 de `01`.
 
+## ⛺ Spreetshoogte: tarifa cerrada con el rack del operador — y una trampa de calendario *(24/08/2026)*
+
+Llevaba abierto desde el 09/08 y era **el único hueco de precio que bloqueaba una de las tres
+reservas pendientes**. Se cierra porque **el muro de `403` cedió**: `barkhan.africa` —que el 10/08
+no se dejó descargar, y por eso todo aquello quedó en ◐— **abrió**, y con él su página de tarifas
+y los **PDF de rack** que cuelga, **uno por año tarifario**.
+
+- **Lo que dice el rack que aplica** ✅ *([«2026 RACK CAMPING»](https://www.barkhan.africa/2026%20RACK%20CAMPING.pdf) — **01 dic 2025 a 30 nov 2026**)*: **Spreetshoogte Campsite estándar
+  N$290 (~€14,50) por persona y noche**, **VIP con baño propio en la parcela N$680 (~€34)** y
+  **Farmhouse N$225 (~€11)**; niño de 2 a 10 años, N$70 (~€3,50). Wifi gratis, parcela «stand
+  only», **máximo 4 adultos**. Para las dos noches de los dos: **N$1.160 (~€58)** en estándar.
+- ⚠️ **La trampa, y por dos semanas**: **el año tarifario de Barkhan va de DICIEMBRE a NOVIEMBRE**,
+  no de noviembre a octubre como el de NWR. El PDF titulado **«2027» arranca el 01/12/2026**, así
+  que sus N$300 **no son los de este viaje** — las noches del 1 y 2 de noviembre de 2026 caen en
+  el rack anterior. Es el mismo error que ya se cazó con las tarifas NWR de los blogs, pero con el
+  calendario corrido un mes: **coger el PDF cuyo título lleva el año del viaje habría sido
+  equivocarse**.
+- **Dos flecos más que caen con el mismo documento** ✅: la **leña** *(fardo de 10 kg **N$55
+  (~€2,75)**; leña del calentador *donkey*, **N$30 (~€1,50)**)* y el **canal de reserva con su
+  política** —bookings@barkhan.africa, **pago íntegro antes de llegar**, provisional guardada
+  7 días, **50 % para confirmar**, cancelación **30–22 d 20 % · 21–15 d 50 % · 14–8 d 75 % ·
+  7–0 d y no-show 100 %**—. Y la caminata guiada al **Ubib Grotto**, N$660 (~€33) pp, mín. 3.
+- **Lo que queda REFUTADO**: los «150–300 ZAR/persona» del blog y los fragmentos de «~N$120–150» ○
+  que este documento arrastraba desde el 05/08. Ninguno era el precio — **el estándar es N$290**.
+- **Lo que sigue sin cruzarse** ❌: el contacto `spreetshoogte@iway.na · +264 62 572 010` del
+  directorio de Visit Namibia ◐ **no se ha podido casar con este rack**; y el teléfono que el
+  cuaderno tenía por «canal alternativo de wheretostay», **+264 83 000 0008, resulta ser el del
+  propio Barkhan**. **Se reserva por el canal de Barkhan**, que es al que corresponde la tarifa.
+
+---
+
 ## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 24/08/2026)*
 
 El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo el dossier.
@@ -604,11 +635,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   **el e-visa queda desbloqueado** — pedirlo es el siguiente trámite con fecha.
 - 🏕️ **El coche ya está reservado (Savanna, `20`); lo que sigue sin reservar es el alojamiento**:
   ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
-  al parque a pernoctar)*, ~~ni las cuatro de Etosha~~ — **ni las DOS de Spreetshoogte** *(decididas el
-  08/08; su hueco doble quedó en sencillo el 09/08: **contacto localizado** —
-  spreetshoogte@iway.na · +264 62 572 010 ◐, ver `20`— pero la **tarifa sigue sin verificar** ❌;
-  el «closed down» quedó **refutado el 10/08** ◐ y la trampa de homónimos, aclarada: **lo opera
-  Barkhan Dune Retreat** — «Camp Gecko» y Namibgrens son OTROS, `20` §5)*.
+  al parque a pernoctar)*, ~~ni las cuatro de Etosha~~ — **ni las DOS de Spreetshoogte** *(decididas
+  el 08/08; el «closed down» quedó **refutado el 10/08** ◐ y la trampa de homónimos, aclarada:
+  **lo opera Barkhan Dune Retreat** — «Camp Gecko» y Namibgrens son OTROS, `20` §5)*. **De
+  Spreetshoogte ya no falta el precio: la tarifa se cerró el 24/08** ✅ *(abajo, §Spreetshoogte)* —
+  **falta solo la reserva**.
   **Las cuatro de Etosha salieron de esta lista el 21/08: RESERVADAS** ✅ *(Okaukuejo, Halali,
   Namutoni y Onguma Tamboti — al partirse la doble de Namutoni en una noche allí más otra en
   Onguma, ya fuera de la puerta, el contador de reservas del README pasó de 6 a 7, `20` §4)*.
@@ -624,7 +655,8 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 **Precios sin cerrar — el margen real del presupuesto:**
 
-- 🛏️ **Tres campings sin cotizar**: Windhoek (D0 y D13), Walvis Bay (D5–D6) y Spreetshoogte (D1–D2, dos noches desde el 08/08). Los
+- 🛏️ ~~**Tres campings sin cotizar**~~ **DOS, desde el 24/08** *(Spreetshoogte se cerró — ver
+  §Spreetshoogte, abajo)*: Windhoek (D0 y D13) y Walvis Bay (D5–D6). Los
   sitios están identificados; **ninguno publica tarifa abrible desde aquí**. **Reintento 05/08 —
   el muro de `403` es total**: no solo las webs propias, también **todos los agregadores y hasta
   ioverlander** *(arebbusch.com, africanreservations.com, madbookings.com, booking.com y
@@ -751,7 +783,8 @@ o de un email)*:
   lo marca como obligación: conducir con la tracción 4x4 puesta en firme duro daña la transmisión,
   y ese daño **no lo cubre ningún nivel de seguro**. Regla nueva para `06`.
 - 🏕️ **De cada recepción** *(`18`)*: **enchufe por parcela** campamento a campamento ❌ *(NWR lo
-  anuncia en los grandes ◐)* · **precio de la leña** ❌ · **potabilidad del grifo** camping a
+  anuncia en los grandes ◐)* · **precio de la leña** ❌ *(**salvo Spreetshoogte**, que sí lo
+  publica: N$55 el fardo de 10 kg ✅ — 24/08)* · **potabilidad del grifo** camping a
   camping ❌ · el **check-out del camping de Windhoek el D14** y si se puede volver por la tarde ❌
   *(`01` §D14)* · los **horarios de desayuno/restaurante** de los campamentos NWR y de Joe's ❌
   *(`01` §horarios)*.
