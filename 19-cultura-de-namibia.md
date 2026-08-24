@@ -173,7 +173,12 @@ os atiende, no un extra.
   Namibia](https://en.wikipedia.org/wiki/Religion_in_Namibia))*. El domingo se toma en serio:
   **la ley seca dominical del alcohol (`08`) es tan cultural como legal**, y vuestros dos
   domingos de viaje *(1 y 8 de noviembre)* ya están planificados con ella.
-- **En vuestra quincena no cae ningún festivo nacional** ◐ — el calendario de horarios de `08`
+- **En vuestra quincena no cae ningún festivo nacional** ✅ *(verificado el 24/08 contra el
+  calendario oficial de 2026: los 13 festivos del Public Holidays Act de 1990 caen todos fuera —
+  el más cercano por detrás es **Heroes' Day, el 26 de agosto**, y por delante el **Día de los
+  Derechos Humanos, el 10 de diciembre**. **En octubre y noviembre no hay ninguno.**)* Así que la
+  única restricción de calendario que os aplica es **el domingo** *(alcohol, `08`)* — el
+  calendario de horarios de `08`
   vale tal cual. Los grandes son el **21 de marzo** *(Independencia)*, el **26 de agosto**
   *(Heroes' Day — y, en fechas cercanas, el **Herero Day** de Okahandja: miles de hereros de
   uniforme y vestido victoriano honrando a sus jefes caídos)* y el **10 de diciembre** *(Human
