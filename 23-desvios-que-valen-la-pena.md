@@ -112,20 +112,47 @@ este dossier y debería.
   - ❌ **El Cheetah Run de las 08:00 NO cabe en el D13**: a esa hora estarías a 280 km. **Es la
     actividad que obliga a dormir cerca** — y de ahí sale la sección siguiente.
 
-### 3 · Okonjima / AfriCat — el más barato en kilómetros, y el que más se parece a lo salvaje
+### 3 · Okonjima / AfriCat — magnífico, pero ⚠️ **YA NO ES SITIO DE GUEPARDO**
 
-**220 km² de reserva**, la fundación **AfriCat**, y **guepardo y leopardo rehabilitados que viven
-sueltos dentro** ◐. Lo que lo hace distinto de un centro: su **Cheetah Tracking Trail** rastrea
-guepardos **a pie y por radio**, y **el avistamiento no se garantiza** — que es exactamente la
-señal de que no es un recinto.
+> ### ❌ Corrección del 24/08, y es de las que importan
+> Este documento afirmó en su primera versión que Okonjima tenía **guepardos sueltos y rastreo de
+> guepardo a pie**. **Es falso**, y venía de un resumen de buscador que mezclaba material
+> histórico de la fundación con lo que se ofrece hoy. Verificado en tres frentes:
+>
+> - **Los folletos de actividades de sus propios alojamientos** —el del **camping Omboroko** y el
+>   del **Plains Camp**— listan sus actividades una a una y **no incluyen guepardo en ninguna**
+>   ✅. En el del Plains Camp el guepardo solo sale en el texto **histórico** sobre la fundación,
+>   no entre lo reservable.
+> - **El motivo, y es interesante** ◐: de 2000 a 2020 AfriCat rehabilitó guepardo nacido en
+>   libertad dentro de la reserva, pero **el programa se descontinuó** porque la presión de
+>   **leopardo y hiena parda**, más la acacia espesa y el terreno rocoso, hacía que el guepardo
+>   **no sobreviviera más de 18–24 meses tras la suelta**. **Sin rastreo de guepardo a pie desde
+>   2020.**
+> - ⚠️ **Y algo más reciente que también afecta**: el **Carnivore Care Centre cierra a finales de
+>   2025** y **su experiencia se retira el 1 de enero de 2026**; las **visitas de día terminaron
+>   el 1 de diciembre de 2025** ◐. **Para noviembre de 2026, eso ya no existe.**
+>
+> **Conclusión: para guepardo, el sitio es el CCF, no Okonjima.**
 
+**Dicho eso, lo que sí ofrece es de primera** — y para leopardo es probablemente lo mejor del país.
+De sus folletos oficiales ✅: **rastreo de leopardo con radiocollar**, **rastreo de rinoceronte a
+pie** con el equipo antifurtivos, **rastreo de hiena parda**, **nocturna**, game/nature drive,
+senderos y *Into AfriCat*. Y una rareza que casi nadie ofrece:
+
+- 🦔 **Rastreo de PANGOLÍN a pie** ✅ — el animal más difícil de ver de África. **En verano va de
+  22:00 a 06:00**, **máximo 6 personas** y ⚠️ **exige un mínimo de DOS noches**. *(Detalle con
+  gracia: el pangolín es una de las especies que la guía de fauna **descartó** por 0 % de
+  avistamiento en 149+48+16 partes de Etosha — `15`. Aquí lo rastrean.)*
 - **El desvío, medido** ✅: **+34 km** sobre el D13. **Es el desvío más barato de todo este
   documento** — está prácticamente en la B1.
 - **Tiene camping** ◐ *(desde ~N$1.130 · ~€57 — `20` §7)*, así que puede ser noche, no solo parada.
 - **Rastreo de leopardo N$880 (~€44) en temporada baja / N$970 (~€49) en alta** ◐ *(el porqué de
   la marca ◐ y el contacto, en `11`)*.
-- **⏰ Su pega es la misma**: las salidas son **06:00–06:30** o **15:30–16:00** ◐. La de la mañana
-  pide haber dormido cerca; la de la tarde termina a las 19:30 y deja Windhoek de noche.
+- **⏰ Su pega horaria**: las salidas son **06:00–06:30** *(vuelta 09:30–10:00)* o **15:30–16:00**
+  *(vuelta 19:00–19:30)* ◐. La de la mañana pide haber dormido allí; la de la tarde termina a las
+  19:30 y deja Windhoek de noche.
+- ⚠️ **Y todo se reserva directamente al llegar al lodge**, sujeto a disponibilidad ◐ — el
+  pangolín y la nocturna, **solo por reserva directa**.
 
 ### 4 · Otjitotongwe (D9) — el casi seguro, y el que hay que mirar con los ojos abiertos
 
@@ -151,7 +178,7 @@ primera mitad no tiene nada reservado y la segunda sí**: Etosha está cerrada c
 flowchart LR
 %% ancho
     A["QUITAR EL D2<br/>el dia entero en Spreetshoogte"] --> A2["el hueco cae ANTES de Etosha<br/>-> compra Otjitotongwe o una<br/>noche mas de Damaraland<br/>NO compra el Cheetah Run"]
-    B["QUITAR LA 4a NOCHE DE ETOSHA<br/>Onguma, el D12"] --> B2["se duerme en CCF u Okonjima<br/>-> Cheetah Run de las 08:00<br/>o rastreo a pie de las 06:00<br/>y el D13 deja de ser 539 km"]
+    B["QUITAR LA 4a NOCHE DE ETOSHA<br/>Onguma, el D12"] --> B2["se duerme en el CCF<br/>-> Cheetah Run de las 08:00<br/>(Okonjima ya NO tiene guepardo)<br/>y el D13 deja de ser 539 km"]
     style A fill:#e9c46a,color:#000
     style B fill:#2d6a4f,color:#fff
     style A2 fill:#7D776E,color:#fff
@@ -184,7 +211,8 @@ flowchart LR
   **es una noche RESERVADA desde el 21/08**: cancelarla tiene coste.
 - **El intercambio, dicho sin adornos**: se cambia un **guepardo salvaje improbable pero real**
   *(Onguma, reserva privada)* por un **guepardo casi seguro que no es salvaje** *(CCF)* o por uno
-  **habituado con radiocollar y rastreado a pie** *(Okonjima)*, que es el punto intermedio.
+  **casi seguro pero cautivo** *(CCF)*. **Okonjima ya no es opción de guepardo** *(§3)*: lo suyo
+  es leopardo, rinoceronte a pie y pangolín.
 
 ### Donante C · quitar Halali (D10) — el que los números señalan y la logística desaconseja
 
@@ -200,8 +228,9 @@ bloque entero.**
 > bastante bueno —el D11 en Namutoni es la mejor casilla del parque (50 %), Onguma el D12 lo tiene
 > confirmado por escrito, y en el D13 **el CCF entra con solo +89 km y la alimentación de las
 > 14:00 cabe sin forzar nada**. Eso son **tres oportunidades** sin mover una noche.
-> **Si se quiere el Cheetah Run de las 08:00 o el rastreo a pie de Okonjima**, hay que **cambiar
-> la noche de Onguma por una en CCF u Okonjima** — y entonces el D13 además se vuelve cómodo.
+> **Si se quiere el Cheetah Run de las 08:00**, hay que **cambiar la noche de Onguma por una en
+> el CCF** — y entonces el D13 además se vuelve cómodo. *(Okonjima sigue mereciendo la noche, pero
+> por leopardo, rinoceronte a pie y pangolín: **guepardo ya no tiene** — §3.)*
 > **Lo que no compra guepardo es quitar el D2**: ese día cae en la mitad equivocada del viaje.
 >
 > 👉 **Ese cambio está desarrollado y medido en [`24`](24-ruta-alternativa.md)**, con el D12 y el
@@ -341,7 +370,7 @@ documento sea la lista completa de lo de fuera:
 Namutoni**, que es la mejor casilla medida del parque *(50 %)*; **Onguma el D12**, con guepardo
 confirmado por escrito; y el **CCF en el D13**, que entra con **+89 km** y cuya alimentación de las
 **14:00** cabe sin forzar nada—. Solo hace falta sacrificar una noche si se quiere **el Cheetah Run
-de las 08:00 o el rastreo a pie de Okonjima**, y entonces la noche que hay que cambiar es la de
+de las 08:00 en el CCF**, y entonces la noche que hay que cambiar es la de
 **Onguma**, no el D2: ese cae en la mitad equivocada del viaje.
 
 **De lo demás**: solo uno de los cinco desvíos puede entrar sin romper nada, y solo si algo falla —
