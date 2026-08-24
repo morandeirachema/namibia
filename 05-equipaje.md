@@ -186,8 +186,8 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   *([encounterstravel](https://www.encounterstravel.com/blog/what-to-pack-for-a-trip-to-namibia))*.
   Y el **buff** no es un accesorio: es la herramienta oficial contra el olor de Cape Cross ✅.
 - **Dos calzados y unas chanclas** ○: zapatilla de trail **ya domada** para Big Daddy, Sesriem
-  Canyon, Twyfelfontein y la cascada del Uniab (`10`); sandalias barefoot Saguaro para conducir y
-  para el campamento; chanclas para las duchas compartidas. La arena a mediodía **quema**: nunca
+  Canyon, Twyfelfontein y la cascada del Uniab (`10`); **sandalias Hoka Hopara 2** para conducir y
+  para el campamento *(cerradas por delante: la arena no entra)*; chanclas para las duchas compartidas. La arena a mediodía **quema**: nunca
   descalzo ○.
 - **La colada del D5–D6, sin lavadero** ◐: en Swakopmund hay deja-y-recoge — **Swakopmund
   Laundrette**, 15 Swakop St *([ficha](https://vymaps.com/NA/Swakopmund-Laundrette-484378/) ·

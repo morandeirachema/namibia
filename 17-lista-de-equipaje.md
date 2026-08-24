@@ -164,7 +164,9 @@ ya hace el apaño.
 
 - [ ] **Botas Hoka de trail ×1 par, ya domadas** ○ — Big Daddy, Sesriem Canyon, Twyfelfontein y
       la cascada del Uniab *(ya en posesión)*
-- [ ] **Sandalias barefoot Saguaro ×1 par** ○ — conducir y campamento
+- [ ] **Sandalias Hoka Hopara 2 ×1 par** ○ — conducir y campamento *(decidido el 25/08 en vez de
+      las barefoot Saguaro: sandalia cerrada de outdoor, con puntera y suela de trail — aguanta la
+      grava del campamento y el pedal, y no entra arena por delante)*
 - [ ] **Chanclas ×1 par** ○ — duchas compartidas. Gama más barata de Decathlon:
       **[chanclas de piscina Olaian](https://www.decathlon.es/es/deportes/natacion/chanclas-piscina)**
       ❌ *(categoría, no ficha exacta — históricamente 3–5 €)*
@@ -177,7 +179,15 @@ ya hace el apaño.
 ## 🧼 Neceser
 
 - [ ] Cepillo de dientes ×1 p.p. · **pasta ×1 tubo** · hilo dental
-- [ ] **Gel y champú** — 1 bote de 200 ml o pastilla sólida ○ *(pesa menos y no revienta)*
+- [ ] **Pastilla de jabón sólido ×1 — decidido (25/08), en vez de gel** ○: pesa menos, **no
+      revienta con el corrugado ni cuenta como líquido en cabina**, y una de 100 g da para los
+      quince días entre dos. Que sea **de cuerpo y pelo a la vez** y **sin perfume**: el olor atrae
+      insectos en la parcela, y hay duchas de agua caliente por sistema *donkey* que no admiten
+      mucho enjabonado. Modelo: **[Dr. Bronner's Pure-Castile, 140 g, sin
+      perfume](https://www.amazon.es/dp/B00016XJ4M)** ❌ *(precio sin leer en vivo; ~6–8 €)*. Con
+      **jabonera de rejilla** o bolsita de sisal que la deje secar: una pastilla húmeda cerrada en el
+      neceser a 35 °C se deshace en dos días ○
+      *(el **jabón WILDERNESS** de la colada, abajo, es otro: ése es detergente)*
 - [ ] Desodorante ×1 p.p. · peine ×1 · maquinilla y espuma
 - [ ] **Toallitas húmedas ×3 paquetes** ○ — el recurso más usado del viaje: manos, cara y polvo
       cuando la ducha queda a horas

@@ -1,6 +1,6 @@
 # Namibia 2026 · el dossier
 #
-#   make            los tres PDF, con lo que ya haya descargado
+#   make            los cuatro PDF, con lo que ya haya descargado
 #   make imagenes   descarga las fotos del catalogo (Wikimedia Commons) a img/
 #   make geo        descarga y cachea la geometria de los mapas a fuente/geo/
 #   make avistam    recuentos de GBIF y porcentajes por campamento a fuente/geo/
@@ -10,7 +10,8 @@
 #   make dossier    solo dossier-namibia-2026.pdf
 #   make fauna      solo guia-fauna-etosha.pdf
 #   make lamina     mapa-ruta-namibia-2026.pdf, la lamina A2 para imprimir
-#   make todo       de cero: imagenes + geo + avistamientos + mapas + los tres PDF
+#   make agenda     agenda-namibia-2026.pdf, el dia a dia del `01` y nada mas, un A4 por dia
+#   make todo       de cero: imagenes + geo + avistamientos + mapas + los cuatro PDF
 #   make comprueba  imagenes, licencias, geometria, avistamientos, escala y README
 #   make limpia     borra el HTML intermedio
 #
@@ -26,11 +27,11 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina gps limpia comprueba
+.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps limpia comprueba
 
-all: dossier fauna lamina gps
+all: dossier fauna lamina agenda gps
 
-todo: imagenes geo avistam mapas mymaps dossier fauna lamina gps
+todo: imagenes geo avistam mapas mymaps dossier fauna lamina agenda gps
 
 imagenes:
 	$(PY) descargar.py
@@ -62,6 +63,10 @@ lamina: | $(GEO)/ruta.json
 gps: | $(GEO)/ruta.json
 	$(PY) gps.py
 
+# La agenda es el `01` recortado a sus quince dias: solo pide la geometria, para la portada.
+agenda: | $(GEO)/ruta.json
+	$(PY) agenda.py
+
 # Las paradas y el trazado que se importan en Google My Maps, en aparte/. Misma
 # geometria otra vez: se derivan, no se escriben.
 mymaps: | $(GEO)/ruta.json
@@ -87,4 +92,4 @@ comprueba:
 	@$(PY) comprobar.py
 
 limpia:
-	rm -f dossier.html guia-fauna.html
+	rm -f dossier.html guia-fauna.html lamina.html agenda.html
