@@ -175,16 +175,19 @@ iluminadas, el safari nocturno guiado de NWR (**N$750 ≈ €38** por persona) y
 traslados entre campamentos van con el 4x4 propio—, y un **bloque de
 seguridad** con las serpientes y el escorpión que de verdad importan.
 
-> 🔁 **Ajuste del 21/08 y afecta a las tres especies nocturnas.** La cuarta noche de Etosha se
-> duerme en **Onguma Tamboti**, reserva privada fuera de la puerta de Von Lindequist, en vez de
-> la segunda de Namutoni. Consecuencias para la fauna: **el nocturno guiado de NWR se adelanta al
-> D11**, que es cuando se duerme en Namutoni *(mismo sitio, mismo precio)*; y el **D12 por la
-> tarde** se abre una segunda tirada a lo nocturno, el **Sundowner Drive de Onguma (3 h, N$980 ≈
+> 🔁 **Ajuste del 24/08, y afecta de lleno a las tres especies nocturnas.** **Namutoni sale del
+> plan**: las **dos últimas noches se duermen en [Onguma Tamboti](https://onguma.com/)**, reserva
+> privada fuera de la puerta de Von Lindequist. Consecuencia incómoda para la fauna: **el nocturno
+> guiado de NWR se cae** ❌ —se vende a quien duerme en el campamento, y ya no se duerme dentro—,
+> así que **la única forma de salir de noche pasa a ser el Sundowner Drive de Onguma (3 h, N$980 ≈
 > €49 pp ✅, tarifa oficial 2027)**, que **sale al atardecer y vuelve de noche, con foco y campo a
 > través** — las dos cosas prohibidas dentro del parque. Para el **zorro del Cabo**, el **gato
-> montés africano** y el **lobo de tierra** eso son **dos oportunidades en vez de una**. ⚠️ Un
-> «night drive» como tal **no figura en la tarifa de Onguma** ❌; el que sale de noche es el
-> sundowner.
+> montés africano** y el **lobo de tierra**, eso es **una oportunidad, y fuera del parque en vez de
+> dentro**. ⚠️ Un «night drive» como tal **no figura en la tarifa de Onguma** ❌; el que sale de
+> noche es el sundowner. ❌ *Si NWR vende el nocturno a quien no pernocta, sin verificar: está
+> preguntado en el `20` §4.*
+> ➕ **Y a cambio se abre algo que el parque prohíbe del todo**: el **paseo interpretativo a pie**
+> de Onguma *(1½ h, N$980 ≈ €49 pp ✅)* — rastros, huellas y escala del bicho a pie de suelo.
 
 ---
 
@@ -376,7 +379,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ### 🌊 La costa, la roca y la arena (7)
 
-*Lo de fuera de Etosha: Cape Cross (D7), la laguna de Walvis Bay (D5–D6) y los roquedos de
+*Lo de fuera de Etosha: Cape Cross (D6), la laguna de Walvis Bay (D4–D5) y los roquedos de
 Damaraland — con una excepción a caballo: la ardilla terrestre campa igual de bien por dentro del
 parque, y de ahí sale su banda.*
 

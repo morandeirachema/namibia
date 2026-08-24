@@ -81,17 +81,17 @@ flowchart TD
 
 ## 📍 Pegadas a la ruta, día a día
 
-### D3–D4 · Los círculos de hadas *(gratis)*
+### D2–D3 · Los círculos de hadas *(gratis)*
 Discos de suelo desnudo de 2–12 m orlados de hierba, **el misterio científico más famoso del
 país** (¿termitas de arena — Jürgens, *Science* 2013 — o autoorganización de la hierba por el
 agua? Hoy: probablemente ambas). Los verás **desde la C19/C27 bajando de Spreetshoogte** por el
 Gondwana Namib Park ◐, y hay quien los señala **junto a Elim Dune, nada más pasar la puerta de
-Sesriem** ○ — ideal al alba del D4, que ya estás dentro.
+Sesriem** ○ — ideal al alba del D3, que ya estás dentro.
 Fuentes: [Gondwana](https://gondwana-collection.com/news/fairy-circles-of-the-namib) ✅ ·
 [Science Alert](https://www.sciencealert.com/the-surreal-mystery-of-namibias-fairy-circles-may-finally-be-solved) ·
 [Conservation Namibia](https://conservationnamibia.com/blog/science-of-fairy-circles-2023.php) ◐
 
-### D5 · El refugio de Henno Martin *(paso del Kuiseb — lo cruzas sí o sí)*
+### D4 · El refugio de Henno Martin *(paso del Kuiseb — lo cruzas sí o sí)*
 La cueva donde dos geólogos alemanes se escondieron **dos años y medio desde 1940** para no ser
 internados en la guerra, viviendo de la caza — la historia de *The Sheltering Desert*. El refugio
 («Carp Cliff») está señalizado dentro del Namib-Naukluft, en el cañón que cruzas camino de Walvis.
@@ -99,13 +99,13 @@ Precio: dentro del parque · horario: sin dato.
 Fuentes ○: [Bushguide 101](https://bushguide101.com/the-henno-martin-shelter-at-kuiseb-canyon/) ·
 [Padlangs](https://padlangsnamibia.com/padlangs-namibia/henno-martins-sheltering-desert)
 
-### D5–D6 · Dune 7 *(entras a Walvis por delante de ella)*
+### D4–D5 · Dune 7 *(entras a Walvis por delante de ella)*
 La duna más alta de Namibia (**383 m**; la séptima contando desde el río Kuiseb). Subida ~45 min,
 vistas a desierto y Atlántico a la vez. Precio y horario: sin dato.
 Fuentes ○: [WhereToStay](https://www.wheretostay.co.za/topic/6283-dune-7-walvis-bay-namibia) ·
 [Danes on the Road](https://danesontheroad.com/africa/namibia/climb-the-amazing-dune-7-in-namibia/)
 
-### D6 · Pelican Point y las salinas rosas
+### D5 · Pelican Point y las salinas rosas
 Península con **faro de 1932** (hoy lodge) y lobos marinos a tiro de piedra; el acceso cruza las
 **salinas rosas llenas de flamencos**. La lengua de arena, mejor **en tour** (combinable con
 Sandwich Harbour, que va con la marea — **la del D6 ya está medida: bajamar 07:18, la ventana es
@@ -114,7 +114,7 @@ está para bromas. Precio del tour: sin dato en N$ — pregúntalo allí.
 Fuentes ◐/○: [sandwich-harbor.com](https://www.sandwich-harbor.com/tours) ·
 [Tripadvisor](https://www.tripadvisor.com/AttractionProductReview-g298358-d20045116-Pelican_Point_Seal_Colony_4x4_Tour-Walvis_Bay_Erongo_Region.html)
 
-### D6 · Moon Landscape + Welwitschia Drive *(la excursión del día de descanso)*
+### D5 · Moon Landscape + Welwitschia Drive *(la excursión del día de descanso)*
 Badlands lunares del valle del Swakop y **ruta autoguiada de 13 paradas** que acaba en una
 welwitschia de **~1.500 años**, con el oasis de Goanikontes en medio. **Permiso obligatorio en la
 oficina del MEFT en Swakopmund** (Bismarck Str. esq. Sam Nujoma Ave.) — los blogs citan N$50–80 (~€2,5–4) +
@@ -124,14 +124,14 @@ Fuentes ○/◐: [The Orange Backpack](https://theorangebackpack.nl/en/namibia/t
 [Drive South Africa](https://www.drivesouthafrica.com/blog/what-you-need-to-know-about-the-welwitschia-drive-in-namibia/) ·
 tarifas: [namibian.org](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent)
 
-### D7 · Wlotzkasbaken *(C34, de paso)*
+### D6 · Wlotzkasbaken *(C34, de paso)*
 Aldea-cápsula de pescadores de los años 30 dentro del Dorob NP: **sin agua corriente, sin red
 eléctrica, sin vallas** — cada casa de colores con su torre de agua rellenada por camión.
 Población fija: **6 personas**. Parada de 15 minutos y una de las rarezas más fotografiables de la
 costa. Fuentes ◐: [Wikipedia](https://en.wikipedia.org/wiki/Wlotzkasbaken) ·
 [Padlangs](https://padlangsnamibia.com/padlangs-namibia/whats-in-a-name-wlotzkasbaken)
 
-### D7 · El pecio Zeila *(~15 km al sur de Henties Bay, a pie de C34)*
+### D6 · El pecio Zeila *(~15 km al sur de Henties Bay, a pie de C34)*
 Arrastrero embarrancado en **2008**, hoy percha de cormoranes: el pecio **más fotogénico y
 accesible** de toda la Costa de los Esqueletos, sin andar nada. Gratis ○. *(Los pecios «míticos»
 de más al norte —South West Seal, Winston— son chatarra medio enterrada: la guía Bradt avisa de
@@ -140,7 +140,7 @@ Fuentes ○/◐: [Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g18
 [Bradt Guides](https://www.bradtguides.com/land-shipwrecks-namibia/) ·
 [mapa de pecios](https://roamthereaches.com/2021/12/18/how-to-see-skeleton-coast-namibia-with-shipwreck-map/)
 
-### D7–D8 · El delta del Uniab y su cascada *(lo cruzas dos veces)*
+### D6–D7 · El delta del Uniab y su cascada *(lo cruzas dos veces)*
 El secreto de tu tramo de Skeleton Coast: delta de cinco brazos con cañaverales, springboks,
 órices y hasta hiena parda — y desde el segundo brazo, un paseo corto (~30 min; versión larga
 6 km) hasta una garganta donde **el agua cae en cascada sobre roca roja hasta una poza junto al
@@ -150,7 +150,7 @@ Fuentes ◐: [Exploring Africa](https://www.exploring-africa.com/en/namibia/what
 [namibweb](https://www.namibweb.com/skeleton.htm) ·
 [Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g479222-d15206996-Reviews-Uniab_River_Delta_and_Canyon-Skeleton_Coast_National_Park_Khomas_Region.html)
 
-### D8 · Organ Pipes y Burnt Mountain *(a 3–5 km de Twyfelfontein)*
+### D7 · Organ Pipes y Burnt Mountain *(a 3–5 km de Twyfelfontein — y desde el 24/08 con la tarde libre)*
 Columnas de dolerita de **~120 millones de años** en una garganta (mejor luz al amanecer) y la
 ladera volcánica que vira a púrpuras y negros. Precio ◐: el tarifario NHC vía prensa dice
 **N$250 (~€12,5)/adulto** como visita guiada — blogs viejos aún dicen «gratis»: **lleva N$250 en
@@ -158,7 +158,7 @@ efectivo en mente**. Horario: sin dato.
 Fuentes: [Windhoek Express](https://www.we.com.na/scoreboard/exorbitant-fees-for-dilapidated-heritage-areas2023-09-11) ◐ ·
 [mat-travel](https://mat-travel.com/namibia/damaraland/main-attractions/) ○
 
-### D8 · Petrified Forest *(pequeño desvío por la C39 hacia Khorixas)*
+### D7–D8 · Petrified Forest *(pequeño desvío por la C39 hacia Khorixas)*
 Troncos fosilizados del Pérmico (**~260 millones de años**), algunos de decenas de metros, con
 welwitschias creciendo entre ellos. Guía obligatorio incluido. Precio ◐: **N$270 (~€13,5)/adulto**
 (N$220 · ~€11 niños). Mejor luz: antes de las 9:00 o después de las 15:00 ○.
@@ -176,7 +176,7 @@ Fuentes: [Windhoek Express](https://www.we.com.na/scoreboard/exorbitant-fees-for
 [info-namibia](https://www.info-namibia.com/activities-and-places-of-interest/otavi/lake-otjikoto) ○
 *(Y de propina en el mismo día: el meteorito de **Hoba** — N$250 (~€12,5) ◐ — si vais sobrados; ya está en `01`.)*
 
-### D3/D5 · Solitaire, el ángulo no típico
+### D2/D4 · Solitaire, el ángulo no típico
 Ya paras dos veces — pero la historia mejora la foto: **los Chevy y Ford oxidados de los 50 fueron
 colocados a propósito** como atrezo ○; la **tarta de manzana** es la receta del escocés Percy
 «Moose» McGregor (Moose McGregor's Desert Bakery), un Apfelstrudel de familia que sobrevive a su
@@ -194,7 +194,7 @@ Fuentes ○: [HuffPost](https://www.huffpost.com/entry/a-moose-an-apple-pie-in-t
   Fuentes ◐: [Wikipedia](https://en.wikipedia.org/wiki/Dragon%27s_Breath_Cave) ·
   [Gondwana](https://gondwana-collection.com/blog/why-the-dragons-breath-cave-in-namibia-is-so-special)
 - **Cráter de Messum y sus welwitschias gigantes** — la joya «expedición» más cercana, pero es un
-  desvío serio del D7, con permiso (Henties Bay/MEFT), líquenes fragilísimos y estado incierto:
+  desvío serio del D6, con permiso (Henties Bay/MEFT), líquenes fragilísimos y estado incierto:
   **ya desaconsejado en `11`**. Si algún día sobra un día, existe.
 - **Vingerklip** *(el «dedo de Dios», monolito de 35 m)* — solo encaja **cambiando el D9 a la
   variante Khorixas–Outjo**, que no es el plan. Precio ○: ~N$20 (~€1). Se apunta por si el D8-D9 se

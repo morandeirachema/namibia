@@ -159,7 +159,7 @@ permitted»*.
 >
 > La pista de arena hasta Deadvlei **no** es *dune driving*. Pero **Sandwich Harbour y cualquier
 > excursión por dunas anulan tu cobertura entera**. Para eso, **tour guiado** — que además es el
-> plan del D6. *Asume que el contrato de Savanna dirá lo mismo hasta que lo leas.*
+> plan del D5. *Asume que el contrato de Savanna dirá lo mismo hasta que lo leas.*
 
 ---
 
@@ -191,7 +191,7 @@ El consejo es bueno; la cita, mal usada.
 > ⚠️ **Y desde el 12/08, esto ya no es solo un consejo de seguridad: es una cláusula del seguro.**
 > La hoja de condiciones de Savanna deja **«antes del amanecer y después del atardecer»** como
 > zona a riesgo propio, sin cobertura salvo que se nombre como la única zona cubierta por la
-> Opción 4 (`20` §1). El caso real de la ruta es la salida a Deadvlei del D4, a las ~05:10 —
+> Opción 4 (`20` §1). El caso real de la ruta es la salida a Deadvlei del D3, a las ~05:10 —
 > **pedirlo por escrito al firmar en la entrega**, o ese tramo concreto queda sin seguro.
 
 ---

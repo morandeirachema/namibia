@@ -91,26 +91,26 @@ ETAPAS = [
      "titulo": "Windhoek → paso de Spreetshoogte", "duerme": "spreetshoogte",
      "por": ["windhoek", "rehoboth", "spreetshoogte"]},
     {"id": "D2", "fecha": "2 nov", "bloque": "desierto",
-     "titulo": "Día en la escarpa de Spreetshoogte", "duerme": "spreetshoogte",
-     "por": []},
-    {"id": "D3", "fecha": "3 nov", "bloque": "desierto",
      "titulo": "Spreetshoogte → Solitaire → Sesriem", "duerme": "sesriem",
      "por": ["spreetshoogte", "solitaire", "sesriem"]},
-    {"id": "D4", "fecha": "4 nov", "bloque": "desierto",
+    {"id": "D3", "fecha": "3 nov", "bloque": "desierto",
      "titulo": "Sossusvlei, Deadvlei y Duna 45", "duerme": "sesriem",
      "por": ["sesriem", "sossusvlei", "duna45", "sesriem"]},
-    {"id": "D5", "fecha": "5 nov", "bloque": "costa",
+    {"id": "D4", "fecha": "4 nov", "bloque": "costa",
      "titulo": "Sesriem → Walvis Bay", "duerme": "walvisbay",
      "por": ["sesriem", "solitaire", "walvisbay"]},
-    {"id": "D6", "fecha": "6 nov", "bloque": "costa",
+    {"id": "D5", "fecha": "5 nov", "bloque": "costa",
      "titulo": "Walvis Bay: flamencos y descanso", "duerme": "walvisbay",
      "por": []},
-    {"id": "D7", "fecha": "7 nov", "bloque": "costa",
+    {"id": "D6", "fecha": "6 nov", "bloque": "costa",
      "titulo": "Cape Cross → Terrace Bay", "duerme": "terracebay",
      "por": ["walvisbay", "swakopmund", "hentiesbay", "capecross", "ugabmund", "terracebay"]},
+    {"id": "D7", "fecha": "7 nov", "bloque": "damaraland",
+     "titulo": "Skeleton Coast → Twyfelfontein", "duerme": "twyfelfontein",
+     "por": ["terracebay", "springbokwasser", "twyfelfontein"]},
     {"id": "D8", "fecha": "8 nov", "bloque": "damaraland",
-     "titulo": "Skeleton Coast → Twyfelfontein → Hoada", "duerme": "hoada",
-     "por": ["terracebay", "springbokwasser", "twyfelfontein", "hoada"]},
+     "titulo": "Twyfelfontein → Palmwag → Hoada", "duerme": "hoada",
+     "por": ["twyfelfontein", "palmwag", "grootberg", "hoada"]},
     {"id": "D9", "fecha": "9 nov", "bloque": "etosha",
      "titulo": "Hoada → Etosha (Okaukuejo)", "duerme": "okaukuejo",
      "por": ["hoada", "kamanjab", "outjo", "andersson", "okaukuejo"]},
@@ -118,23 +118,24 @@ ETAPAS = [
      "titulo": "Safari Okaukuejo → Halali", "duerme": "halali",
      "por": ["okaukuejo", "gemsbokvlakte", "salvadora", "halali"]},
     {"id": "D11", "fecha": "11 nov", "bloque": "etosha",
-     "titulo": "Safari Halali → Namutoni", "duerme": "namutoni",
-     "por": ["halali", "goas", "chudob", "namutoni"]},
+     "titulo": "Safari Halali → Namutoni → Onguma", "duerme": "onguma",
+     "por": ["halali", "goas", "chudob", "namutoni", "lindequist", "onguma"]},
     {"id": "D12", "fecha": "12 nov", "bloque": "etosha",
-     "titulo": "Etosha este y salida a Onguma", "duerme": "onguma",
-     "por": ["namutoni", "tweepalms", "chudob", "namutoni", "lindequist", "onguma"]},
+     "titulo": "Etosha este desde Onguma: Fischer's Pan", "duerme": "onguma",
+     "por": ["onguma", "lindequist", "tweepalms", "chudob", "namutoni", "lindequist", "onguma"]},
     {"id": "D13", "fecha": "13 nov", "bloque": "vuelta",
-     "titulo": "Etosha → Windhoek", "duerme": "windhoek",
+     "titulo": "Onguma → Windhoek", "duerme": "windhoek",
      "por": ["onguma", "lindequist", "tsumeb", "otjiwarongo", "okahandja", "windhoek"]},
     {"id": "D14", "fecha": "14 nov", "bloque": "vuelta",
      "titulo": "Vuelo de vuelta", "duerme": None,
      "por": ["windhoek", "aeropuerto"]},
 ]
 
-# Las quince etapas de la VARIANTE del `24`. Es la ruta oficial con DOS cambios y nada
-# mas: Spreetshoogte pierde una noche —asi se llega a Sesriem un dia antes y la noche
-# suelta cae en Damaraland— y el final sale por el CCF en vez de por Onguma. La costa
-# entera, Cape Cross y la noche del Skeleton Coast se quedan donde estaban.
+# Las quince etapas de la VARIANTE del `24`. Desde el 24/08 la variante ya NO es otra ruta:
+# es UN cambio, el del final. La ruta oficial y ésta son la misma línea hasta la noche del
+# D11 en Onguma; lo que cambia es que aquí NO se duerme la segunda noche de Onguma, sino
+# que el D12 se emplea en bajar al Cheetah Conservation Fund por la B1 y el D13 sale de
+# allí. Es una decisión que se toma DENTRO de Etosha, según la fauna que haya salido.
 # Misma forma que ETAPAS para que `geodatos.ruta_alt()` y `mapa.mapa_ruta_alt()` la
 # traten igual — y para que el dia a dia del `24` no se escriba a mano en ningun sitio.
 ETAPAS_ALT = [
@@ -172,11 +173,11 @@ ETAPAS_ALT = [
      "titulo": "Safari Okaukuejo → Halali", "duerme": "halali",
      "por": ["okaukuejo", "gemsbokvlakte", "salvadora", "halali"]},
     {"id": "D11", "fecha": "11 nov", "bloque": "etosha",
-     "titulo": "Safari Halali → Namutoni", "duerme": "namutoni",
-     "por": ["halali", "goas", "chudob", "namutoni"]},
+     "titulo": "Safari Halali → Namutoni → Onguma", "duerme": "onguma",
+     "por": ["halali", "goas", "chudob", "namutoni", "lindequist", "onguma"]},
     {"id": "D12", "fecha": "12 nov", "bloque": "vuelta",
-     "titulo": "Namutoni → Von Lindequist → CCF", "duerme": "ccf",
-     "por": ["namutoni", "lindequist", "tsumeb", "otjiwarongo", "ccf"]},
+     "titulo": "Onguma → Tsumeb → Otjiwarongo → CCF", "duerme": "ccf",
+     "por": ["onguma", "tsumeb", "otjiwarongo", "ccf"]},
     {"id": "D13", "fecha": "13 nov", "bloque": "vuelta",
      "titulo": "Cheetah Run y bajada a Windhoek", "duerme": "windhoek",
      "por": ["ccf", "windhoek"]},

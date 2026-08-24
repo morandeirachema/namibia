@@ -14,6 +14,7 @@ make dossier    solo el dossier
 make fauna      solo la guía de campo
 make lamina     solo la lámina de ruta (A2, una hoja)
 make avistam    recuentos de GBIF y porcentajes por campamento
+make mymaps     los CSV y el KML de `aparte/` para Google My Maps
 make comprueba  las comprobaciones de abajo
 make todo       de cero: imágenes, geometría, avistamientos, mapas y los tres PDF
 ```
@@ -47,13 +48,19 @@ en el índice.
   `FUERA_DEL_PDF` —hoy solo el `16`—:
   el PDF lleva la ruta que se va a hacer, no la deliberación de por qué es ésa.
 
-## La variante del `24`, que es una segunda ruta entera
+## La variante del `24`, que desde el 24/08 es solo el final
 
 El `24` no es prosa: tiene **sus propias quince etapas** en `trazado.ETAPAS_ALT`, su geometría en
 `geo/ruta-alt.json` —`python3 geodatos.py ruta-alt`— y **su propio mapa a escala de país**,
 `mapa.mapa_ruta_alt()` → `img/mapas/ruta-alternativa.svg` y `.png`. El mapa va **con el mismo
 encuadre y la misma escala que el oficial** a propósito: los dos se comparan poniéndolos uno al
 lado del otro, y si el recorte no coincide la comparación miente.
+
+⚠️ **La variante ya no es otra ruta: es UN cambio, el del final.** Hasta el 24/08 proponía además
+Spreetshoogte con una noche y la suelta en Damaraland — **eso se adoptó y es la ruta oficial**. Lo
+que queda en `ETAPAS_ALT` es idéntico a `ETAPAS` hasta el D11 y solo cambia el D12 y el D13: en vez
+de la segunda noche de Onguma, se baja al CCF. Por eso las dos listas comparten sus primeras doce
+etapas — si se toca una, hay que tocar la otra.
 
 Tres cosas que no se ven:
 
@@ -67,6 +74,16 @@ Tres cosas que no se ven:
   Etosha por donde no toca.
 - **El día a día del `24` se comprueba contra su geometría** *(abajo)*. Es el mismo error que ya
   costó una tarde con las tartas: dos sitios contando la misma ruta y nada obligándolos a coincidir.
+
+## Lo que se importa en Google My Maps
+
+Los tres ficheros de `aparte/` que se suben a My Maps —`namibia-paradas-google-maps.csv`,
+`namibia-puntos-sin-dia-confirmado.csv` y `namibia-trazado-carreteras.kml`— **son derivados, no
+fuente**: los escribe `mapas_google.py` (`make mymaps`) desde `trazado.ETAPAS` y `geo/ruta.json`.
+Se mantenían a mano hasta el 24/08 y al mover una noche se quedaban contando la ruta de antes sin
+que nada avisara. Los puntos que la ruta pisa pero que **no son ancla de enrutado OSRM** —hoy
+Deadvlei y Torra Bay— no aparecen en ningún `por`, así que llevan su día escrito en la tabla
+`A_MANO` del propio script; es el único sitio donde se dice a mano en qué día cae un punto.
 
 ## Las posibilidades de avistamiento
 
@@ -138,6 +155,11 @@ y 60)*. *(El `24` daba «289 km · ~3 h 35» y «294 km · ~3 h 40»: la misma v
 que arranca dentro del parque y otra que es B1 entera, sin salir ni de OSRM ni del convenio. Una
 comprobación de banda no lo caza —80 km/h cae dentro de todo—; lo único que lo caza es exigir que el
 tiempo cuadre con el firme.)*
+
+Y que **la chapa de reservas del README cuadre con las casillas tachadas del `20` §9**, cuyo
+reparto vive en `RESERVAS_CONTADAS` de `comprobar.py` *(la casilla de Etosha vale por cuatro
+noches)*: al reservar o anular algo hay que tocar **la casilla y la chapa**, y si cambia el conjunto
+de reservas que hacen el viaje, también esa tabla.
 
 Y que la **lámina de ruta sea UNA hoja A2** *(si se desborda salen dos y la segunda va medio
 vacía; el margen es de pocos milímetros, así que cualquier línea de más en la banda de abajo lo

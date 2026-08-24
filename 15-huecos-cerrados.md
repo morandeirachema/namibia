@@ -122,7 +122,7 @@ cálculo aplicado a los puntos sin medir es fiable. Con eso:
   Windhoek** que ya usaba `01`: misma altitud, mismo clima de meseta. Días extremos de la serie
   entre 22,5 y **38,0 °C**. Como es meseta —el terreno donde ERA5 apenas tiene sesgo— el número se
   puede tomar casi tal cual.
-- 🔥 **Hoada / Grootberg** *(campamento del D8, Damaraland)* — **media de máximas 33,1 °C / mínima
+- 🔥 **Hoada / Grootberg** *(campamento del D8, Damaraland; el D7 se duerme en Twyfelfontein)* — **media de máximas 33,1 °C / mínima
   18,4 °C** ◐ *(ERA5, celda −20,00 / 14,00)*. Días extremos hasta **39,2 °C**. **Ojo al sesgo:**
   Damaraland es «sabana seca», el terreno donde ERA5 se quedó **~2 °C corto** en Okaukuejo, así que
   **el mediodía real de Hoada probablemente ronda 34–35 °C**, no 33. Trátese 33,1 como suelo, no como
@@ -386,11 +386,14 @@ la única forma de estar en Deadvlei al amanecer.
 
 ## 🦁 El safari de Etosha — decidido GUIADO ✅ *(08/08/2026)*
 
-Criterio del viajero: *«el safari es un 90 % un buen guía»*. **3 salidas de mañana** (una por
-campamento, N$650 pp ✅) + **el nocturno de Namutoni** (N$750 pp ✅) = **N$5.400 (~€270) la
-pareja** — un extra de ~€97,50 p.p. sobre el plan anterior, que solo compraba el nocturno. Tarifa NWR verificada, **sin reservar**: horarios
+Criterio del viajero: *«el safari es un 90 % un buen guía»*. ⚠️ **Reducido el 24/08, y no por
+decisión**: al anular Namutoni, las dos últimas noches se duermen fuera del parque y **las salidas
+de NWR se venden a quien pernocta**. Queda comprable **2 salidas de mañana** *(Okaukuejo el D10 y
+Halali el D11, N$650 pp ✅)* = **N$2.600 (~€130) la pareja**; **se caen la guiada de Namutoni y el
+nocturno**, N$2.800 (~€140). Tarifa NWR verificada, **sin reservar**: horarios
 de salida ❌ no publicados y pre-reserva incierta en temporada de lluvias — se cierra en
-recepción (la pregunta a NWR está en el README, punto 7). Los traslados entre campamentos siguen
+recepción (la pregunta a NWR está en el README, punto 7). **Lo que sustituye al nocturno lo vende
+Onguma**: Sundowner Drive con foco, N$980 (~€49) pp ✅. Los traslados entre campamentos siguen
 siendo con el 4x4. El análisis descartado, en `16` §7.
 
 ## 🐾 Dos fichas nuevas en la guía — añadidas *(08/08/2026)*
@@ -652,15 +655,16 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   **el e-visa queda desbloqueado** — pedirlo es el siguiente trámite con fecha.
 - 🏕️ **El coche ya está reservado (Savanna, `20`); lo que sigue sin reservar es el alojamiento**:
   ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
-  al parque a pernoctar)*, ~~ni las cuatro de Etosha~~ — **ni las DOS de Spreetshoogte** *(decididas
-  el 08/08; el «closed down» quedó **refutado el 10/08** ◐ y la trampa de homónimos, aclarada:
-  **lo opera Barkhan Dune Retreat** — «Camp Gecko» y Namibgrens son OTROS, `20` §5)*. **De
-  Spreetshoogte ya no falta el precio: la tarifa se cerró el 24/08** ✅ *(abajo, §Spreetshoogte)* —
-  **falta solo la reserva**.
-  **Las cuatro de Etosha salieron de esta lista el 21/08: RESERVADAS** ✅ *(Okaukuejo, Halali,
-  Namutoni y Onguma Tamboti — al partirse la doble de Namutoni en una noche allí más otra en
-  Onguma, ya fuera de la puerta, el contador de reservas del README pasó de 6 a 7, `20` §4)*.
-  **Quedan tres: Sesriem, Terrace Bay y Spreetshoogte.**
+  al parque a pernoctar)*, ~~ni las cuatro de Etosha~~ — ~~**ni la de Spreetshoogte**~~ *(el «closed
+  down» quedó **refutado el 10/08** ◐ y la trampa de homónimos, aclarada: **lo opera Barkhan Dune
+  Retreat** — «Camp Gecko» y Namibgrens son OTROS, `20` §5)*. **De
+  Spreetshoogte ya no falta nada: la tarifa se cerró el 24/08** ✅ *(abajo, §Spreetshoogte)* **y la
+  reserva se hizo el mismo día, por UNA sola noche**.
+  **Las cuatro de Etosha están RESERVADAS** ✅ — y desde el **24/08 son Okaukuejo, Halali y
+  **Onguma Tamboti ×2**: **Namutoni se anuló** *(`20` §4)*. **Sesriem ×2, Spreetshoogte y el Urban
+  Camp de Windhoek también se cerraron el 24/08**, así que el contador del README va a **7 de 8**.
+  **Queda una: Terrace Bay** —y una noche nueva sin tarifa, la de Twyfelfontein del D7, que a
+  propósito **no se reserva** *(`24`)*.
 - 🚗 **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, 15 días,
   aeropuerto → aeropuerto; el 31-oct fuera de temporada baja ❌ y la entrega EN el aeropuerto sin
   confirmar ❌ — `02` §2)*.
@@ -676,7 +680,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 **Precios sin cerrar — el margen real del presupuesto:**
 
 - 🛏️ ~~**Tres campings sin cotizar**~~ **DOS, desde el 24/08** *(Spreetshoogte se cerró — ver
-  §Spreetshoogte, abajo)*: Windhoek (D0 y D13) y Walvis Bay (D5–D6). Los
+  §Spreetshoogte, abajo)*: Windhoek (D0 y D13), Walvis Bay (D4–D5) y Twyfelfontein (D7). Los
   sitios están identificados; **ninguno publica tarifa abrible desde aquí**. **Reintento 05/08 —
   el muro de `403` es total**: no solo las webs propias, también **todos los agregadores y hasta
   ioverlander** *(arebbusch.com, africanreservations.com, madbookings.com, booking.com y
@@ -783,7 +787,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
     el D10 podría ir por la directa, la ruta sería **~38 km más corta** y **Nebrownii y Kapupuhedi
     volverían a ser visitables**.
   - ⚠️ **Y esto no es un detalle de nota al pie: el desvío está METIDO en la ruta.** La etapa D10
-    de `trazado.ETAPAS` va `okaukuejo → gemsbokvlakte → salvadora → halali`, así que **los 2.764 km
+    de `trazado.ETAPAS` va `okaukuejo → gemsbokvlakte → salvadora → halali`, así que **los 2.798 km
     del dossier ya lo cuentan**. Si la fase hubiera acabado, el total bajaría.
   - 👉 **Acción, y cae en la misma llamada que las reservas**: **preguntar a NWR Okaukuejo
     (+264 67 229 800) si el desvío sigue activo en noviembre de 2026**. Es la pregunta más barata
@@ -820,7 +824,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
     julio de 2027»—: lo más plausible es que el tramo Okaukuejo→Halali/Namutoni se cerrara en febrero
     y el tráfico pasara al bypass nuevo, mientras el proyecto entero (214 km) sigue hasta 2027 con el
     desvío en pie, pero **no se puede reconciliar desde aquí**.
-  - 👉 **Efecto sobre el plan**: **no se toca nada**. El D10 ya va por el desvío y los 2.764 km ya lo
+  - 👉 **Efecto sobre el plan**: **no se toca nada**. El D10 ya va por el desvío y los 2.798 km ya lo
     cuentan; la evidencia nueva **refuerza** que así debe quedarse. La llamada a **NWR Okaukuejo
     (+264 67 229 800)** sigue siendo la confirmación primaria —ahora para *confirmar*, no para *decidir*—
     y de paso el único modo de cerrar el sobrecoste en tiempo, que nadie publica.
@@ -844,7 +848,7 @@ o de un email)*:
   «zonas a riesgo propio» de la hoja de condiciones de Savanna, casi todas quedan fuera de esta
   ruta y no hace falta mirarlas *(Khaudum, Kaokoveld, Sandwich Harbour, el Kunene al este de Epupa
   Falls)* — la que sí importa es **«antes del amanecer y después del atardecer»** ✅. La salida a
-  Deadvlei del D4 sale a las ~05:10, antes del amanecer *(`01` §D4)*: tal cual está, ese tramo
+  Deadvlei del D3 sale a las ~05:10, antes del amanecer *(`01` §D3)*: tal cual está, ese tramo
   **cae sin cobertura**, salvo que se pida por escrito que sea la única zona nombrada de la
   Opción 4. **Acción antes de firmar en la entrega: pedir explícitamente que la franja horaria de
   sunrise/sunset sea la zona cubierta.**

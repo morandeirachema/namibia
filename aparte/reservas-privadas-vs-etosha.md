@@ -85,7 +85,8 @@ at Ongava, uno de los alojamientos de la reserva. Foto: Ragnhild & Neil Crawford
 Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Namutomi_Fort_(37073116643).jpg)*
 
 - **Ruta**: linda con la puerta **Von Lindequist**, a solo ~10 km de los campamentos de Onguma —
-  y Von Lindequist está a 17 km de Namutoni, donde ya duermen el D11-D12 ◐. **El desvío más
+  y Von Lindequist está a 17 km de Namutoni, junto a donde ya duermen el D11-D12 —Onguma Tamboti,
+  3,4 km pasada la puerta— ◐. **El desvío más
   pequeño de todo este documento: ~27 km desde donde ya se duerme.**
 - 35.970 ha ✅. Su año fiscal corre 1 nov-31 oct, así que las noches del viaje (11-12 nov) caen en
   la tarifa **"2027"**, no en la "2026" — usada aquí: [PDF 2027](https://onguma.com/wp-content/uploads/2026/07/1.-Onguma-2027-Rack.pdf)
@@ -188,7 +189,7 @@ sola noche aislable ❌.
 altiplano. Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grootberg_Pass_(37090707863).jpg)*
 
 - **Ruta**: meseta de Grootberg, concesión ‡Khoadi-//Hôas, Damaraland — ya en la zona de la ruta
-  (área de Hoada, D8).
+  (área de Hoada, D8; desde el 24/08 el D7 se duerme en Twyfelfontein).
 - **Rhino tracking a pie**: gestionado por la propia comunidad (‡Khoadi-//Hôas Conservancy,
   reconocida por el MEFT namibio como custodio de rinoceronte) ✅. ¾ de día, 4x4 + caminata en
   terreno rocoso, mínimo 2 personas, **prohibido menores de 16**, sin garantía de avistamiento.
