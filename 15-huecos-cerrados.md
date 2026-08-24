@@ -747,15 +747,30 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   Etosha, Namib-Naukluft (excl. Sandwich Harbour), **Skeleton Coast** y Waterberg — **los tres
   parques de esta ruta son premium N$280**. Falta sólo abrir el PDF primario para confirmar la
   extracción; el presupuesto no se mueve *(ya contaba N$280)*.
-- 🚧 **Obras Okaukuejo–Halali — ACTUALIZADO 03/08 (◐, antes «hay que llamar»)**: ya hay **nota
-  oficial de 2026** —MEFT `news/335` «Traffic deviation via Gemsbokvlakte road from Okaukuejo to
-  Halali», con aviso paralelo de NWR— que fija un **desvío obligatorio del 2 jun 2026 al jul 2027**,
-  así que en noviembre de 2026 estará activo con seguridad. La página oficial no se pudo **abrir**
-  (403); las fechas convergen en **cinco fuentes secundarias**, por eso queda en ◐. **El sobrecoste
-  en KM quedó medido el 09/08 con el enrutado OSRM propio: ~108 km por Gemsbokvlakte–Salvadora
-  frente a ~70 de la directa (+38)**. Lo que sigue abierto: el **sobrecoste en TIEMPO** —no lo
-  publica nadie: cuéntalo despacio— y reconfirmar que sigue en pie *(NWR Okaukuejo,
-  +264 67 229 800)*.
+- 🚧 ⚠️ **Obras Okaukuejo–Halali — REABIERTO EL 24/08, y esta vez con las páginas primarias en la
+  mano.** El 03/08 esto se dio por resuelto en ◐: cinco fuentes secundarias convergían en un
+  **desvío obligatorio del 2 jun 2026 al jul 2027**, y las oficiales devolvían `403`. **El 24/08
+  las dos oficiales SÍ se abrieron** —la [nota del MEFT `news/335`](https://www.meft.gov.na/news/335/TRAFFIC-DEVIATION-VIA-GEMSBOKVLAKTE-ROAD-FROM-OKAUKUEJO-TO-HALALI-ETOSHA-NATIONAL-PARK/)
+  y el [aviso paralelo de NWR](https://www.nwr.com.na/nwr-announces-traffic-deviation-via-gemsbokvlakte-from-okaukuejo-what-etosha-visitors-need-to-know/)—
+  **y ninguna de las dos dice eso**: las dos fechan el desvío **del 23 de abril al 30 de noviembre
+  de 2025** ✅, es decir **una fase que ya terminó**, sobre «los primeros 20 km desde Okaukuejo»,
+  dentro de un proyecto mayor de asfaltado **hasta la puerta de King Nehale**.
+  - **Las dos lecturas posibles, y ninguna se puede cerrar desde aquí** ❌: **(a)** el proyecto es
+    plurianual y hay una **fase 2026–2027** que las secundarias sí recogen pero cuyas páginas
+    oficiales no se han encontrado — entonces el plan actual es correcto; **(b)** las fechas de
+    2026–2027 son una síntesis mal hecha de buscador y **el desvío ya no está activo** — entonces
+    el D10 podría ir por la directa, la ruta sería **~38 km más corta** y **Nebrownii y Kapupuhedi
+    volverían a ser visitables**.
+  - ⚠️ **Y esto no es un detalle de nota al pie: el desvío está METIDO en la ruta.** La etapa D10
+    de `trazado.ETAPAS` va `okaukuejo → gemsbokvlakte → salvadora → halali`, así que **los 2.764 km
+    del dossier ya lo cuentan**. Si la fase hubiera acabado, el total bajaría.
+  - 👉 **Acción, y cae en la misma llamada que las reservas**: **preguntar a NWR Okaukuejo
+    (+264 67 229 800) si el desvío sigue activo en noviembre de 2026**. Es la pregunta más barata
+    de este documento y la que más kilómetros mueve. *(El sobrecoste en TIEMPO sigue sin
+    publicarse: cuéntalo despacio.)*
+  - ✅ **Lo que sí queda confirmado del 24/08**, y coincide con lo que ya decía `01`: mientras el
+    desvío esté activo, **las únicas charcas accesibles entre Okaukuejo y Halali son
+    Gemsbokvlakte, Sueda y Salvadora**.
 - 🕐 **Los horarios de salida de los safaris guiados de NWR**: no los publican en ninguna parte.
 - 🌡️ ~~**Sin estación meteorológica**: Spreetshoogte, Terrace Bay y Hoada/Grootberg.~~ **CERRADOS
   DOS (04/08) con ERA5, validado a ±0,04 °C contra las celdas conocidas** *(ver arriba, §ERA5)*:

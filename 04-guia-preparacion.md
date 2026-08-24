@@ -115,7 +115,28 @@ normalmente lo salva.
 > estés en una web falsa. Pero **verifica que el dominio pone exactamente `eservices.mhaiss.gov.na`
 > antes de teclear la tarjeta.**
 
-Fuente: https://www.airports.com.na/useful-information/e-visa-information/129/
+Fuente: [Namibia Airports Company](https://www.airports.com.na/useful-information/e-visa-information/129/)
+
+> ### ⏳ Cuánto tarda, y por qué el número que veas puede ser interesado *(24/08/2026)*
+> Este documento decía **dónde** se pide pero no **cuánto tarda**, y ese hueco importa porque el
+> plan es solicitarlo en octubre.
+>
+> - **La cifra prudente: 7–10 días hábiles** ◐ *(atribuida al propio Gobierno, con retrasos
+>   reportados en temporada alta)*. **Con la salida el 30/10, pedirlo la primera semana de octubre
+>   deja ~3 semanas de margen: llega, pero sin holgura para un rechazo y una corrección.**
+> - ⚠️ **Y ojo a quién promete «minutos»**: las webs que dicen *«aprobación en minutos o 48 horas»*
+>   son **las mismas no oficiales que cobran de más** y contra las que avisa el recuadro de arriba.
+>   **No se usan como fuente de plazo.**
+> - **Validez, ❌ sin confirmar en fuente oficial**: circula **90 días desde la emisión** ◐, pero
+>   solo lo he visto en esas mismas webs no oficiales. **Si son 90 días, pedirlo ya en septiembre
+>   es seguro** *(septiembre + 90 → diciembre, y el viaje acaba el 15/11)*. **Si fueran menos,
+>   pedirlo demasiado pronto lo dejaría caducado.** Confírmalo **en el portal oficial** antes de
+>   adelantarlo.
+> - ❌ **Un tercer dominio que conviene mirar con lupa**: en los buscadores aparece
+>   `evisa.mha.gov.na` como portal oficial, distinto del `eservices.mhaiss.gov.na` que este dossier
+>   verificó contra la Namibia Airports Company y la embajada. **No se toca la recomendación de
+>   arriba con un fragmento de buscador** — pero **si el portal verificado no responde, ese es el
+>   primer sitio donde comprobar si ha habido migración**, y nunca un `.com`.
 
 ### El coche, reservado ✅
 

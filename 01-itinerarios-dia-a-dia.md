@@ -456,11 +456,15 @@ flowchart LR
   reconstruye la pista central para asfaltarla, y ya hay **nota oficial de 2026** —«Traffic deviation
   via Gemsbokvlakte road from Okaukuejo to Halali» *(meft.gov.na/news/335)*, con aviso paralelo de
   NWR— que fija un **desvío OBLIGATORIO desde el 2 de junio de 2026 y hasta julio de 2027**. Tu
-  ventana de la primera quincena de noviembre **cae de lleno dentro**: da por hecho que la carretera directa
-  Okaukuejo→Halali estará **cerrada** y que irás por el bypass — no lo dejes como un «quizá».
-  *(No se pudo abrir la página oficial (403); las fechas las dan cinco fuentes secundarias que
-  concuerdan, por eso va en ◐. Confírmalo con NWR Okaukuejo **+264 67 229 800** por si hubiera
-  cambio de última hora.)*
+  ventana de la primera quincena de noviembre **caería de lleno dentro**.
+  ⚠️ **PERO ESTO SE REABRIÓ EL 24/08 y hay que preguntarlo**: ese día las dos páginas oficiales
+  —MEFT `news/335` y el aviso de NWR—, que hasta entonces daban `403`, **se dejaron abrir por fin**,
+  y **las dos fechan el desvío del 23 de abril al 30 de noviembre de 2025**: una fase **ya
+  terminada**. O hay una fase 2026–2027 que solo recogen las secundarias, o el desvío ya no está.
+  **No se puede cerrar desde aquí** *(el análisis completo, en `15`)*.
+  👉 **Pregúntaselo a NWR Okaukuejo, +264 67 229 800**, en la misma llamada de las reservas: si el
+  desvío ya no está activo, este día va por la directa, **son ~38 km menos** y **Nebrownii y
+  Kapupuhedi vuelven a entrar**.
 - 🚗 **El desvío en la práctica ◐**: desde Okaukuejo se sigue por grava hasta **~km 47** y ahí se
   toma el **bypass nuevo y el Rhino Drive** hacia Halali. Las charcas accesibles en ese tramo se
   reducen a **Gemsbokvlakte, Sueda y Salvadora**; **Nebrownii y Kapupuhedi quedan fuera** por la
