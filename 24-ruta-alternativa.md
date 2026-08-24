@@ -56,17 +56,19 @@
 - **D11 · mié 11 nov — Safari Halali → Namutoni** · 77 km · 🛏️ **Namutoni ✅ RESERVADO**
   *(y el nocturno guiado sale de aquí, sin cambios)*
 - **D12 · jue 12 nov — Namutoni → Von Lindequist → Okonjima** · **321 km · ~4 h** ✅ · 🛏️
-  **Okonjima** ⬅️ **en vez de Onguma**
-- **D13 · vie 13 nov — Okonjima → Windhoek** · **226 km · ~2 h 50** ✅ · 🛏️ Windhoek
-- **D14 · sáb 14 nov — Windhoek → aeropuerto** · 46 km · ✈️ 20:45
+  **Okonjima** ⬅️ **en vez de Onguma** *(saliendo al alba se llega hacia mediodía, a tiempo de la
+  actividad de las 15:30)*
+- **D13 · vie 13 nov — DÍA ENTERO EN OKONJIMA** · **0 km** ⬅️ *(a petición del viajero)* · 🛏️
+  Okonjima *(2.ª noche — la que desbloquea el pangolín)*
+- **D14 · sáb 14 nov — Okonjima → Windhoek → aeropuerto** · **226 + 46 km** ✅ · ✈️ 20:45
 
 ```mermaid
 flowchart LR
 %% ancho
     A["SPREETSHOOGTE<br/>2 noches -> 1"] --> B["LA NOCHE LIBRE<br/>va a DAMARALAND<br/>Twyfelfontein o Palmwag"]
     B --> C["DESBLOQUEA<br/>el rastreo de rinoceronte<br/>y elefante del desierto"]
-    D["ONGUMA<br/>fuera"] --> E["ESA NOCHE<br/>va a OKONJIMA<br/>321 km"]
-    E --> F["DESBLOQUEA<br/>rastreo de felinos a pie<br/>y parte el D13 en dos"]
+    D["ONGUMA<br/>fuera"] --> E["ESA NOCHE Y LA SIGUIENTE<br/>van a OKONJIMA<br/>321 km, dos noches"]
+    E --> F["DESBLOQUEA<br/>leopardo con radiocollar,<br/>rinoceronte a pie y PANGOLIN<br/>(pide 2 noches)"]
     style A fill:#C2542F,color:#fff
     style D fill:#C2542F,color:#fff
     style C fill:#2d6a4f,color:#fff
@@ -81,10 +83,17 @@ flowchart LR
   elefante del desierto de Grootberg** —o el de **Palmwag**— piden el día entero, o vuelven a las
   15:00 con 343 km por delante *(`23`)*. Con la noche del D7 en Twyfelfontein/Palmwag, **el D8 son
   158 km y la mañana queda libre**: caben.
-- 🐆 **Desbloquea el guepardo de primera hora.** Durmiendo en **Okonjima** entra el **rastreo de
-  guepardo y leopardo a pie, con radiocollar, de las 06:00–06:30** ◐ — 220 km² de reserva de la
-  fundación AfriCat. *(Alternativa: el **CCF**, 289 km, con el **Cheetah Run de las 08:00** ✅ — más
-  seguro pero cautivo. La comparación honesta, en [`23`](23-desvios-que-valen-la-pena.md).)*
+- 🐆🦔 **Dos noches en Okonjima desbloquean lo que ninguna otra parada del viaje ofrece.** ⚠️
+  **Ojo, y es una corrección del 24/08: Okonjima ya NO tiene guepardo** —su programa se
+  descontinuó en 2020 y sus propios folletos no lo listan *(`23` §3)*—. Lo que sí tiene, de sus
+  fichas oficiales ✅: **rastreo de leopardo con radiocollar**, **rinoceronte a pie** con el equipo
+  antifurtivos, **hiena parda**, **nocturna** y **rastreo de PANGOLÍN a pie** *(22:00–06:00 en
+  verano, máx. 6 personas)* — **que exige exactamente el mínimo de dos noches que da esta
+  variante**. El pangolín es de los animales más difíciles de ver de África: la guía de fauna lo
+  descartó por **0 % de avistamiento** en 213 partes de Etosha *(`15`)*.
+- 🐆 **Y para el guepardo, el sitio es el CCF**, no Okonjima: **289 km** desde Namutoni, con el
+  **Cheetah Run de las 08:00** ✅. Es la alternativa a considerar si el guepardo pesa más que el
+  leopardo y el pangolín *(la comparación honesta, en [`23`](23-desvios-que-valen-la-pena.md))*.
 - 🚗 **Endereza los dos peores días del viaje**: el **D8 oficial de 367 km** se parte en **211 + 158**,
   y el **D13 de 539 km** en **321 + 226**. **El peor día del viaje baja de 539 a 412 km.**
 - 📉 **La ruta encoge a ~2.720 km**, 44 menos.
@@ -109,7 +118,18 @@ flowchart LR
 - 🦏 **Se pierde Onguma**: 35.970 ha privadas con **leopardo, guepardo y rinoceronte confirmados
   por escrito**, baño propio en la parcela, y **foco, campo a través y paseo a pie** — las dos
   cosas que el parque prohíbe *(`21`)*. Y se pierde el **D12 de 56 km**, que era la última tarde
-  tranquila antes de volver.
+  tranquila antes de volver. **Ojo al guepardo**: Onguma lo tenía confirmado por escrito y
+  **Okonjima no lo tiene** — si el guepardo pesa más que el leopardo y el pangolín, esta parte del
+  cambio **resta**, y habría que ir al CCF en vez de a Okonjima.
+- ✈️ **Y con las DOS noches en Okonjima se pierde la noche de Windhoek del final.** El último día
+  pasa a ser **Okonjima → Windhoek → aeropuerto: 272 km** con el vuelo a las 20:45. Sale bien
+  —haciendo la actividad de las 06:00, saliendo a las 11:00 se está en Windhoek hacia las 14:00, y
+  la devolución acordada es a las 18:00 *(`20` §1)*— pero **se viaja el día del vuelo
+  internacional sin ningún colchón**: una avería en la B1 esa mañana ya no tiene plan B. La hora
+  dura sigue siendo el **cierre de facturación a las 19:45** *(`01` §D14)*.
+  👉 **Si eso incomoda, la versión de UNA noche en Okonjima** *(llegar el 12 a mediodía, actividad
+  de las 15:30, actividad de las 06:00 el 13 y a Windhoek a dormir)* **da dos franjas de actividad
+  y conserva la noche de Windhoek** — pero **no da el pangolín**, que exige dos noches.
 - 💳 **Hay que CANCELAR Onguma**, que está reservada desde el 21/08, y **sus condiciones de
   cancelación no se han verificado** ❌ *(ni el importe exacto de la reserva — `20` §4)*.
   **Pregúntalas antes de mover nada.**
@@ -132,8 +152,11 @@ flowchart LR
 3. **NWR** *(reservations@nwr.com.na · +264 61 285 7200 — su portal está caído)*:
    **Sesriem 2–3 nov** y **Terrace Bay 6 nov**. ⬅️ *fechas distintas de las del `01`*
 4. **Barkhan**: **Spreetshoogte, solo el 1 de nov** *(bookings@barkhan.africa)*.
-5. **Okonjima** *(12 nov)* y el alojamiento del **D7**, los dos ❌ sin tarifa: pídelos y compara.
-6. **Windhoek D0 y D13** y **Hoada D8**, sin cambios respecto al `01`.
+5. **Okonjima** *(12 y 13 nov, DOS noches)* y el alojamiento del **D7**, los dos ❌ sin tarifa:
+   pídelos y compara. ⚠️ **Al reservar Okonjima, di ya que quieres el pangolín**: es de reserva
+   directa, **máximo 6 personas** y **mínimo dos noches** ◐.
+6. **Windhoek D0** y **Hoada D8**, sin cambios respecto al `01`. ⚠️ **La noche de Windhoek del
+   final desaparece** en la versión de dos noches en Okonjima: no la reserves.
 
 > ### 🧭 Una cosa que decidir tú, y la digo sin adornar
 > Esta variante **cambia una red de seguridad por dos experiencias de fauna**. Con la fauna como
