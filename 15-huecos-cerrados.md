@@ -594,7 +594,7 @@ maleta**. Detalle y fuentes en [`02`](02-presupuesto.md) §8.
   y la salida (D0–D2) con una menguante del 48–68 % que sale ya de noche. El día a día, en el
   bloque 🌙 de `01`.
 
-## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 09/08/2026)*
+## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 24/08/2026)*
 
 El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo el dossier.
 
@@ -604,11 +604,15 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   **el e-visa queda desbloqueado** — pedirlo es el siguiente trámite con fecha.
 - 🏕️ **El coche ya está reservado (Savanna, `20`); lo que sigue sin reservar es el alojamiento**:
   ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
-  al parque a pernoctar)*, ni las cuatro de Etosha — **ni las DOS de Spreetshoogte** *(decididas el
+  al parque a pernoctar)*, ~~ni las cuatro de Etosha~~ — **ni las DOS de Spreetshoogte** *(decididas el
   08/08; su hueco doble quedó en sencillo el 09/08: **contacto localizado** —
   spreetshoogte@iway.na · +264 62 572 010 ◐, ver `20`— pero la **tarifa sigue sin verificar** ❌;
   el «closed down» quedó **refutado el 10/08** ◐ y la trampa de homónimos, aclarada: **lo opera
   Barkhan Dune Retreat** — «Camp Gecko» y Namibgrens son OTROS, `20` §5)*.
+  **Las cuatro de Etosha salieron de esta lista el 21/08: RESERVADAS** ✅ *(Okaukuejo, Halali,
+  Namutoni y Onguma Tamboti — al partirse la doble de Namutoni en una noche allí más otra en
+  Onguma, ya fuera de la puerta, el contador de reservas del README pasó de 6 a 7, `20` §4)*.
+  **Quedan tres: Sesriem, Terrace Bay y Spreetshoogte.**
 - 🚗 **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, 15 días,
   aeropuerto → aeropuerto; el 31-oct fuera de temporada baja ❌ y la entrega EN el aeropuerto sin
   confirmar ❌ — `02` §2)*.
