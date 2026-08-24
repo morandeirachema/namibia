@@ -24,7 +24,7 @@
   circuito completo pasa de 230 km. Del mismo palo: el «circuito oriental» desde Halali empieza
   en Charitsaub *(que está 22 km al **oeste** de Halali)*, y desde Salvadora mandan «al norte a
   Rietfontein» *(está al este)* «volviendo por Gemsbokvlakte» *(que está pegada a Okaukuejo, a
-  ~48 km de Halali — nuestro D10 la hace saliendo de Okaukuejo, no de Halali)*.
+  ~48 km de Halali — nuestro D11 la hace saliendo de Okaukuejo, no de Halali)*.
 - **Nebrownii «accesible desde Halali», «sección central»**: está a 10-15 km de **Okaukuejo**
   (el intercambio simétrico del error de Chudob). Y además `01` la tiene **cerrada por obras en
   nuestras fechas** ◐ — la web ni lo sabe.

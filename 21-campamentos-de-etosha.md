@@ -22,9 +22,9 @@
 ```mermaid
 flowchart LR
 %% ancho
-    O["OKAUKUEJO · D9<br/>37 parcelas · el grande<br/>la torre y LA charca<br/>famosa del parque"] --> H["HALALI · D10<br/>58 parcelas · el tranquilo<br/>charca Moringa en anfiteatro<br/>rino negro y leopardo"]
-    H --> N["NAMUTONI · D11, DE PASO<br/>el fuerte, el museo y la torre<br/>YA NO SE DUERME AQUI<br/>anulado el 24/08"]
-    N --> G["ONGUMA TAMBOTI · D11 y D12<br/>25 parcelas · BANO PROPIO<br/>3,4 km pasada Von Lindequist<br/>reserva privada de 35.970 ha"]
+    O["OKAUKUEJO · D10<br/>37 parcelas · el grande<br/>la torre y LA charca<br/>famosa del parque"] --> H["HALALI · D11<br/>58 parcelas · el tranquilo<br/>charca Moringa en anfiteatro<br/>rino negro y leopardo"]
+    H --> N["NAMUTONI · D12, DE PASO<br/>el fuerte, el museo y la torre<br/>YA NO SE DUERME AQUI<br/>anulado el 24/08"]
+    N --> G["ONGUMA TAMBOTI · D12 y D13<br/>25 parcelas · BANO PROPIO<br/>3,4 km pasada Von Lindequist<br/>reserva privada de 35.970 ha"]
     style O fill:#2d6a4f,color:#fff
     style N fill:#9d0208,color:#fff
     style G fill:#7a3a22,color:#fff
@@ -33,20 +33,20 @@ flowchart LR
 **Dos dentro y dos fuera** *(cambio del 24/08)* — **Namutoni se anuló** y su noche se fue a una
 **segunda de Onguma**. Lo que eso mueve, y no todo es a favor:
 
-- **Se pierde una charca iluminada de las tres, y es la floja**: Okaukuejo el D9 y Moringa el D10
-  siguen a un paseo de la parcela; **King Nehale ya no**. *(El campamento se visita igual el D11 —el
+- **Se pierde una charca iluminada de las tres, y es la floja**: Okaukuejo el D10 y Moringa el D11
+  siguen a un paseo de la parcela; **King Nehale ya no**. *(El campamento se visita igual el D12 —el
   fuerte, el museo, la torre del atardecer— pero de paso.)*
 - ⚠️ **Y se pierden las dos actividades de NWR que dependían de dormir dentro**: el **nocturno
   guiado** *(N$750 · ~€38 pp)* y la **guiada de mañana de Namutoni** *(N$650 · ~€33 pp)*. Se venden
   a quien pernocta. **Lo que las sustituye lo vende Onguma** —Sundowner Drive con foco y campo a
-  través, N$980 (~€49) pp— y **cuesta más** *(`01` §D12, `02` §9)*.
+  través, N$980 (~€49) pp— y **cuesta más** *(`01` §D13, `02` §9)*.
   ❌ *Si NWR las vende a quien no duerme allí, sin verificar: preguntado en el `20` §4.*
-- **Aparece una hora de puerta el D11 Y el D12**: hay que estar fuera de Von Lindequist antes de
-  las **19:10** ✅ *(tabla oficial del parque, 10–16 nov)*, dos días seguidos — y el D12 hay que
+- **Aparece una hora de puerta el D12 Y el D13**: hay que estar fuera de Von Lindequist antes de
+  las **19:10** ✅ *(tabla oficial del parque, 10–16 nov)*, dos días seguidos — y el D13 hay que
   volver a entrar por la mañana. Son **+30 km** entre los dos días *(`13` §5)*.
-- **Y se gana media hora el D13**: durmiendo fuera no hay que esperar a que la puerta abra.
+- **Y se gana media hora el D14**: durmiendo fuera no hay que esperar a que la puerta abra.
 - 🐆 **La segunda noche de Onguma tiene salida**: si el guepardo no ha aparecido, se cancela y se
-  baja al **Cheetah Conservation Fund** *(la decisión del D12, entera en
+  baja al **Cheetah Conservation Fund** *(la decisión del D13, entera en
   [`24`](24-ruta-alternativa.md))*.
 
 **Lo común a los campamentos de NWR** ✅ *(fichas de NWR: [Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
@@ -62,7 +62,7 @@ La tarifa de camping es la misma en los tres: **N$460 (~€23) por persona y noc
 
 ---
 
-## Okaukuejo — D9, el grande y su charca
+## Okaukuejo — D10, el grande y su charca
 
 El campamento más antiguo del parque y su centro administrativo: nació como puesto militar en
 1901 y abrió como rest camp en octubre de 1957 ◐ *([namibweb](https://www.namibweb.com/okaukuejo.htm) ·
@@ -71,7 +71,7 @@ el emblema, se añadió **en 1963 como mirador** sobre las llanuras ◐ *(namibw
 menor la cuenta como resto de un fuerte de 1901 ○ — las fuentes discrepan y así queda dicho)*.
 Está a **17 km (~20 min) de la puerta de Anderson** ◐
 *([etoshanationalpark.com.na](https://etoshanationalpark.com.na/accommodation/inside-the-park/okaukuejo-camp/))*
-— por la que entráis el D9 desde Outjo.
+— por la que entráis el D10 desde Outjo.
 
 ### La charca
 
@@ -105,7 +105,7 @@ correos ◐; **wifi y cajero, sin dato** ❌.
 
 ---
 
-## Halali — D10, el tranquilo del medio
+## Halali — D11, el tranquilo del medio
 
 A mitad de camino entre Okaukuejo y Namutoni, al pie del kopje **Tsumasa** —con un sendero corto
 señalizado, solo de día ◐—, y **el más tranquilo de los tres**: «much quieter than Okaukuejo» es
@@ -136,14 +136,14 @@ en Halali, la comida al coche **siempre**, no «un momento en la mesa».
 
 Gasolinera ✅, tienda mixta de comestibles y recuerdos ✅ *(NWR: «combination of groceries and
 curios»; una fuente añade leña ◐)*, restaurante y bar ◐, y **piscina con toldos de sombra** ✅ —
-la siesta del D10 está resuelta. Cobertura móvil irregular ○; wifi ❌.
+la siesta del D11 está resuelta. Cobertura móvil irregular ○; wifi ❌.
 
 **Precio**: **N$460 (~€23) por persona → N$920 (~€46) los dos** ✅ *(NWR 2026/27)* — **RESERVADO el
 21/08**.
 
 ---
 
-## Namutoni — D11, de paso: el fuerte, el museo y la torre *(ya no se duerme)*
+## Namutoni — D12, de paso: el fuerte, el museo y la torre *(ya no se duerme)*
 
 El campamento con más carácter: se acampa **junto a un fuerte alemán encalado**. El primer
 fuerte es de 1899 —puesto de control veterinario y militar—, fue **arrasado el 28 de enero de
@@ -155,17 +155,17 @@ sus cuatro torres, es **Monumento Nacional desde 1947** y abrió como rest camp 
 la web de NWR dice «built 1897» — la discrepancia queda anotada)*. Dentro hay un pequeño museo ✅
 *(NWR)*, y **el atardecer se mira desde la torre** ◐ — la historia de la batalla, contada con su
 contexto, está en el [`19`](19-cultura-de-namibia.md). Es el campamento más cercano a su puerta:
-~8 km de Von Lindequist ◐ *(una sola fuente leída — por eso el ◐)*, la que cruzáis **el D11 por la
-tarde** para ir a dormir a Onguma, y otra vez **el D12** en los dos sentidos.
+~8 km de Von Lindequist ◐ *(una sola fuente leída — por eso el ◐)*, la que cruzáis **el D12 por la
+tarde** para ir a dormir a Onguma, y otra vez **el D13** en los dos sentidos.
 
 > ⚠️ **Aquí se dormía hasta el 24/08, y ya no.** La parcela se cambió por una **segunda noche en
-> Onguma**, así que este campamento pasa a ser **parada de tarde del D11**: el fuerte, el museo, la
+> Onguma**, así que este campamento pasa a ser **parada de tarde del D12**: el fuerte, el museo, la
 > torre del atardecer y **Chudop a un paso**, que es lo que de verdad compensa aquí. **Contad el
 > reloj hacia atrás desde las 19:10**, que es cuando cierra Von Lindequist.
 >
 > 🌙 **Y lo que se fue con la parcela es el nocturno guiado** *(N$750 · ~€38 pp)*: se compra
 > durmiendo en el campamento. Era la única forma legal de circular por Etosha a oscuras. **Lo que
-> queda es el Sundowner Drive de Onguma** —foco y campo a través, fuera del parque— *(`01` §D12)*.
+> queda es el Sundowner Drive de Onguma** —foco y campo a través, fuera del parque— *(`01` §D13)*.
 > ❌ *Que NWR lo venda a quien no pernocta, sin verificar: está preguntado en el `20` §4.*
 
 ### La charca King Nehale
@@ -176,7 +176,7 @@ se ve parte de la lámina de agua** — el resto, a través de la valla. De noch
 kudú, y rinoceronte más bien a partir del invierno ◐; la mejor franja, 19:00–21:00 ◐
 *([etoshanationalpark.com.na](https://etoshanationalpark.com.na/accommodation/inside-the-park/namutoni-camp/))*.
 **Fischer's Pan está a 7 km** y se inunda con las lluvias de noviembre a abril ◐ — con vuestras
-fechas lo probable es encontrarlo aún seco *([`14`](14-lluvias-historico.md))*: el bucle del D12
+fechas lo probable es encontrarlo aún seco *([`14`](14-lluvias-historico.md))*: el bucle del D13
 ya cuenta con ello *([`01`](01-itinerarios-dia-a-dia.md))*.
 
 ### El camping y su fama dividida
@@ -193,12 +193,12 @@ descrito como seco en varias reseñas ○ — se llega con eso sabido y no estro
 
 Gasolinera, tienda, restaurante, bar y piscina ✅ *(NWR)*. El restaurante es el más criticado de
 los tres ○ *(elección corta, comida fría en reseñas recientes)* — pero **ya no hay cena aquí**: el
-D11 se sigue camino de Onguma. Lo que sí conviene es **hacer la compra del braai en la tienda de
+D12 se sigue camino de Onguma. Lo que sí conviene es **hacer la compra del braai en la tienda de
 Halali antes de salir** ○, porque el kiosco de Onguma es kiosco *(`08`)*.
 
 ---
 
-## Onguma Tamboti — D11 y D12, fuera de la puerta y en reserva privada
+## Onguma Tamboti — D12 y D13, fuera de la puerta y en reserva privada
 
 **3,4 km pasada la puerta de Von Lindequist** ✅ *(enrutado propio sobre OSM)*, dentro de la
 **Onguma Nature Reserve: 35.970 ha** ✅ pegadas al este de Etosha. No es un campamento de parque:
@@ -243,8 +243,8 @@ camping:
 > ⚖️ **El choque de horarios, dicho antes de que pase**: el sundowner sale al atardecer, así que
 > **hacerlo obliga a salir del parque hacia las 17:00** y renunciar a la mejor hora de charcas del
 > último día. Son **dos planes buenos y excluyentes**: decidid al reservar.
-> ✅ **Pero con dos noches hay margen que antes no había**: el sundowner cabe **el D11**, que se
-> llega desde Halali con la tarde ya gastada en el traslado, y así **el D12 queda entero para las
+> ✅ **Pero con dos noches hay margen que antes no había**: el sundowner cabe **el D12**, que se
+> llega desde Halali con la tarde ya gastada en el traslado, y así **el D13 queda entero para las
 > charcas del este**. Es la ventaja discreta de la segunda noche.
 
 > ⚠️ **El hueco honesto, y ahora pesa más: «night drive» NO figura en el tarifario oficial 2027**
@@ -281,14 +281,14 @@ estable está **fuera de la puerta de Anderson: Etosha Trading Post, a 6,5 km, c
 y gasolina 95** ◐ *([web](https://www.etosha-tradingpost.com/facilities.html))*. La regla que
 sale de esto, y que el [`07`](07-logistica.md) ya aplica en general:
 
-- **Entrar al parque el D9 con el depósito lleno de Outjo** ○ — los surtidores de dentro pasan a
+- **Entrar al parque el D10 con el depósito lleno de Outjo** ○ — los surtidores de dentro pasan a
   ser un bonus, no el plan
-- **No fiar los 539 km del D13 a los surtidores del parque** ○: si en Halali o Namutoni hay
-  diésel, se rellena al pasar; si no, el D13 arranca con lo que haya y reposta en **Tsumeb, a
+- **No fiar los 539 km del D14 a los surtidores del parque** ○: si en Halali o Namutoni hay
+  diésel, se rellena al pasar; si no, el D14 arranca con lo que haya y reposta en **Tsumeb, a
   105 km de Onguma** ✅ *(enrutado propio)*. ⚠️ **Y desde el 24/08 hay que mirarlo dos veces**: se
-  sale del parque **la tarde del D11** y se vuelve a entrar y salir **el D12**, así que **las dos
+  sale del parque **la tarde del D12** y se vuelve a entrar y salir **el D13**, así que **las dos
   últimas noches se pasan fuera, donde no hay surtidor** — **Onguma no tiene** ❌. El último de
-  dentro es el de Namutoni, al pasar el D11.
+  dentro es el de Namutoni, al pasar el D12.
 
 ---
 

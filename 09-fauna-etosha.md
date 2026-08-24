@@ -379,7 +379,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ### 🌊 La costa, la roca y la arena (7)
 
-*Lo de fuera de Etosha: Cape Cross (D6), la laguna de Walvis Bay (D4–D5) y los roquedos de
+*Lo de fuera de Etosha: Cape Cross (D7), la laguna de Walvis Bay (D5–D6) y los roquedos de
 Damaraland — con una excepción a caballo: la ardilla terrestre campa igual de bien por dentro del
 parque, y de ahí sale su banda.*
 
@@ -390,7 +390,7 @@ parque, y de ahí sale su banda.*
   el 15 archivó su estacionalidad el 08/08 y nadie le hizo ficha hasta hoy)*
 - **Ballena jorobada** — *Megaptera novaeangliae* · Humpback whale *(añadida el 08/08: migra
   frente a la costa jun–nov — los registros GBIF de la zona, consulta del 08/08/2026
-  archivada mes a mes en `15`, dan pico jul–sep y 27 aún en noviembre: el crucero del D6 cae en
+  archivada mes a mes en `15`, dan pico jul–sep y 27 aún en noviembre: el crucero del D7 cae en
   temporada)*
 - **Damán roquero** — *Procavia capensis* · Rock hyrax
 - **Rata dassie o rata de las rocas** — *Petromus typicus* · Dassie rat *(añadida el 11/08:

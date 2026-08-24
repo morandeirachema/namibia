@@ -16,10 +16,10 @@ LUGARES = [
      "Petrified In Time (200653949).jpeg"),
     ("windhoek", "La Christuskirche de Windhoek, el punto de entrada y de salida",
      "Iglesia de Cristo, Windhoek, Namibia, 2018-08-04, DD 02.jpg"),
-    ("joes", "Joe's Beerhouse: la opción de mesa del D0 y el D13",
+    ("joes", "Joe's Beerhouse: la opción de mesa del D1 y el D14",
      "Joes-Beerhouse Windhoek-Namibia1.jpg"),
 
-    # --- desierto: D1 a D4 ---
+    # --- desierto: D2 a D5 ---
     ("spreetshoogte", "El paso de Spreetshoogte, con el Namib mil metros abajo",
      "Spreetshoogte Pass panorama.jpg"),
     ("solitaire", "Solitaire: gasolina, tarta de manzana y coches oxidados",
@@ -41,7 +41,7 @@ LUGARES = [
     ("cielo", "El cielo del desierto namibio, sin una luz en cien kilómetros",
      "Kanaan-Lodge 1901-0042.jpg"),
 
-    # --- costa: D5 a D7 ---
+    # --- costa: D6 a D8 ---
     ("walvisbay", "Flamencos en la laguna de Walvis Bay",
      "NA-walvisbay-lagoon-famingo.jpg"),
     ("swakopmund", "El embarcadero de Swakopmund, la costa alemana",
@@ -59,7 +59,7 @@ LUGARES = [
     ("welwitschia", "Welwitschia mirabilis: dos hojas y mil años de vida",
      "Welwitschia mirabilis - Namib-Naukluft National Park 03.jpg"),
 
-    # --- Damaraland: D8 ---
+    # --- Damaraland: D9 ---
     ("twyfelfontein", "Los grabados rupestres de Twyfelfontein, patrimonio UNESCO",
      "Rock Engravings (37713171646).jpg"),
     ("damaraland", "Damaraland, camino de Grootberg",
@@ -71,7 +71,7 @@ LUGARES = [
     ("circulos", "Los círculos de hadas, vistos desde el aire",
      "Aerial view of Fairy circles, Namibia (2017).jpg"),
 
-    # --- Etosha: D9 a D12 ---
+    # --- Etosha: D10 a D13 ---
     ("etosha-pan-satelite", "La depresión de Etosha desde la Estación Espacial",
      "The Etosha Pan (gmt306 16 27 for-esa andreas-mogensen etosha-pan).jpg"),
     ("etosha-pan", "La costra de sal de la depresión, a ras de suelo",
@@ -98,7 +98,7 @@ LUGARES = [
      "White rhinos at Okaukuejo waterhole at night (3687260675).jpg"),
     ("halali-moringa", "Elefantes al atardecer en la charca Moringa de Halali",
      "Wasserloch Halali.jpg"),
-    ("halali-piscina", "La piscina de Halali, la siesta del mediodía del D11",
+    ("halali-piscina", "La piscina de Halali, la siesta del mediodía del D12",
      "Etosha-Halali Camp (2).jpg"),
     ("namutoni-charca", "Leona de noche junto a la charca King Nehale, tras la valla de Namutoni",
      "Lionness Namutoni water hole.jpg"),

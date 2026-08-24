@@ -119,7 +119,7 @@ en [`13`](13-itinerario.md).** Lo que importa aquí es dónde **no** hay gasolin
 flowchart LR
     S["Solitaire"] -->|"~230 km · NADA en medio<br/>pasos de Gaub y Kuiseb"| W["Walvis Bay<br/>Swakopmund"]
     SE["Sesriem"] -->|"ida y vuelta ~120 km<br/>+ 5 km de arena en reductora"| D["Sossusvlei<br/>Deadvlei"]
-    H["Henties Bay<br/>ultima gasolinera<br/>segura de la costa"] -->|"Ugabmund Terrace Bay<br/>y salida por Springbokwasser<br/>diesel en Terrace Bay<br/>SIN VERIFICAR"| T["Terrace Bay<br/>D7 y D8"]
+    H["Henties Bay<br/>ultima gasolinera<br/>segura de la costa"] -->|"Ugabmund Terrace Bay<br/>y salida por Springbokwasser<br/>diesel en Terrace Bay<br/>SIN VERIFICAR"| T["Terrace Bay<br/>D8 y D9"]
     style S fill:#e85d04,color:#000
     style T fill:#9d0208,color:#fff
 ```
@@ -129,15 +129,15 @@ flowchart LR
 2. **Sesriem → Sossusvlei ida y vuelta**: son **~120 km MÁS los 5 km finales de arena blanda en
    reductora**, todo dentro del parque, **sin gasolinera** y con **consumo alto en arena** →
    presupuesta **130–150 km de combustible que quizá no habías contado**
-3. **El bucle de la Costa de los Esqueletos (D7–D8):** Henties Bay → Cape Cross → Ugabmund →
+3. **El bucle de la Costa de los Esqueletos (D8–D9):** Henties Bay → Cape Cross → Ugabmund →
    **Terrace Bay**, y al día siguiente Springbokwasser → Bergsig → Twyfelfontein → Hoada.
    **En Terrace Bay HAY surtidor físico (reportes de viajeros) ◐, pero la web oficial de NWR no
    lo lista, se quedó seco en los cortes de 2025 y alguna guía lo da «solo huéspedes» — trátalo
    como si no hubiera.** En **Bergsig no hay
    gasolinera documentada** y la de Twyfelfontein es irregular (ver `08`).
    **La aritmética, con los km del enrutado OSRM (09/08)**: desde el surtidor de **Henties Bay**
-   (✅ Puma 24 h) hasta el siguiente seguro —**Kamanjab, la mañana del D9**— hay **~740 km**
-   *(Henties → Terrace Bay ~302 + D8 ~368 + Hoada → Kamanjab ~69)*. A los **11–13 l/100 km** son
+   (✅ Puma 24 h) hasta el siguiente seguro —**Kamanjab, la mañana del D10**— hay **~740 km**
+   *(Henties → Terrace Bay ~302 + D9 ~368 + Hoada → Kamanjab ~69)*. A los **11–13 l/100 km** son
    **81–96 litros** — **caben con margen en el depósito de 140 l de Savanna** ✅ *(`20` §1)*,
    dejando 44–59 l de sobra. **El depósito es doble** —principal de 80 l + secundario de 60 l,
    conectados por un solo tubo de llenado— y **el indicador solo mide el principal**: marca
@@ -146,8 +146,8 @@ flowchart LR
    👉 **El repostaje de [Palmwag (surtidor 07:00–19:00, diésel 50 ppm ✅
    Gondwana)](https://gondwana-collection.com/accommodation/palmwag-lodge) sigue siendo buena
    práctica**, no obligación: con el margen del depósito de 140 l el bucle entero cabe en un
-   tanque, pero repostar en Palmwag —cae en la cola del D8, vía Twyfelfontein → Palmwag ~110 +
-   Palmwag → Hoada ~50— deja el margen más holgado todavía para el D9. **Sales de Henties con el
+   tanque, pero repostar en Palmwag —cae en la cola del D9, vía Twyfelfontein → Palmwag ~110 +
+   Palmwag → Hoada ~50— deja el margen más holgado todavía para el D10. **Sales de Henties con el
    tanque lleno.**
 
 ### La regla
@@ -169,9 +169,9 @@ aunque NWR mantenga que sus surtidores funcionan «el 95 % del tiempo» ◐. Pla
 el corte te tocara a ti. El respaldo estable queda **fuera de la puerta de Anderson: Etosha
 Trading Post, a 6,5 km, con diésel 50 ppm y gasolina 95** ◐
 *([web](https://www.etosha-tradingpost.com/facilities.html))* — la regla de los días de Etosha,
-en el [`21`](21-campamentos-de-etosha.md): entrar lleno de Outjo y no fiar el D13 al surtidor de
+en el [`21`](21-campamentos-de-etosha.md): entrar lleno de Outjo y no fiar el D14 al surtidor de
 Namutoni. ⚠️ **Y desde el 21/08 hay un matiz nuevo: la última noche se duerme en Onguma, fuera del
-parque, y Onguma no tiene surtidor** ❌ — el último de dentro es el de Namutoni, el D12 por la
+parque, y Onguma no tiene surtidor** ❌ — el último de dentro es el de Namutoni, el D13 por la
 tarde; el siguiente seguro es **Tsumeb, a 105 km** ✅.
 
 ---
@@ -249,7 +249,7 @@ barata pero con cobertura **notablemente peor** fuera de los pueblos.
 - **Casi toda Etosha** lejos de los campamentos
 
 **Sesriem, Solitaire y los campamentos de Etosha** tienen cobertura **irregular en el mejor caso**.
-**Y la escarpa de Spreetshoogte y la D1275 (noches D1–D2): SIN DATO de cobertura** ❌ — no aparece
+**Y la escarpa de Spreetshoogte y la D1275 (noches D2–D3): SIN DATO de cobertura** ❌ — no aparece
 en ninguna fuente consultada; trátala como silencio hasta comprobarlo allí.
 
 > ### 👉 La consecuencia
@@ -464,15 +464,15 @@ zona de Etosha.
    aérea es el mismo.
 3. Un **dispositivo satelital con SOS** es lo que **dispara el rescate** donde no hay cobertura.
 
-### La costa (D5–D7) sí tiene hospital — dos, privados ◐
+### La costa (D6–D8) sí tiene hospital — dos, privados ◐
 
 - **Mediclinic Swakopmund** — Franziska van Neel St · **+264 64 412 200** ◐
   *([mediclinic.co.za/swakopmund](https://www.mediclinic.co.za/en/swakopmund/home.html))*
 - **Welwitschia Hospital (Walvis Bay)** — urgencias **+264 64 218 911** · centralita
   **+264 64 218 902** ◐ *([welwitschiahospital.com](https://welwitschiahospital.com/contact-us/))*
 
-Cubren los tres días de la costa —crucero, dunas y ostras incluidos— y son la referencia del D5
-al D7 por la mañana. **Del norte de Henties Bay a Kamanjab (D7–D8) no hay NADA**: ese tramo es
+Cubren los tres días de la costa —crucero, dunas y ostras incluidos— y son la referencia del D6
+al D8 por la mañana. **Del norte de Henties Bay a Kamanjab (D8–D9) no hay NADA**: ese tramo es
 del satelital y de las ambulancias de arriba.
 
 **Atención definitiva para algo grave: Windhoek** — Windhoek Central Hospital **061 203 9111**;
@@ -492,9 +492,9 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
   tabla oficial de diferenciales del MME no respondía
 - **El surtidor de Terrace Bay**: existe físicamente ◐ pero NWR no lo publicita y se secó en 2025
   — **trátalo como que NO** y llena en Henties Bay (detalle estación a estación: `08`)
-- ~~**Los km reales del eje de la costa y Damaraland** (D7–D9)~~ **cerrados ◐ (03–04/08, y
-  recalibrados el 09/08 con OSRM)**: **D7 ~410** *(el ~380 por tramos se quedaba corto)* · D8 ~370 ·
-  D9 ~340 km — ver `13` §3 y §5
+- ~~**Los km reales del eje de la costa y Damaraland** (D8–D10)~~ **cerrados ◐ (03–04/08, y
+  recalibrados el 09/08 con OSRM)**: **D8 ~410** *(el ~380 por tramos se quedaba corto)* · D9 ~370 ·
+  D10 ~340 km — ver `13` §3 y §5
 - ~~**Precios actuales de los bonos turistas de MTC**~~ **cerrados ◐ (05/08)**: paquete «Leisure»
   **N$349 ≈ €17/14 días/10,1 GB** y «Premium» **N$659 ≈ €33/30 días/20,1 GB**, convergentes entre la web de MTC,
   su PDF de T&C y un blog independiente (ver §Cobertura). El precio de la **eSIM** sigue sin cerrar

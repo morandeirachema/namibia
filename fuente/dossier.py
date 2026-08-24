@@ -70,7 +70,7 @@ FOTOS = {
 
 # Fotos a pagina completa, antes del documento que abren.
 PLENAS = {
-    "01": ("duna45", "Duna 45 al amanecer. El D4 empieza una hora antes que para todos "
+    "01": ("duna45", "Duna 45 al amanecer. El D5 empieza una hora antes que para todos "
                      "los demás: la puerta interior de Sesriem abre solo para quien duerme dentro."),
     "09": ("etosha-jirafas", "Etosha al atardecer. Cuatro noches dentro del parque, "
                              "tres campamentos y una charca iluminada en cada uno."),
@@ -154,7 +154,7 @@ RESUMEN = {
           "quién llamar y adónde ir — etapa a etapa.",
     "23": "El guepardo, prioridad del viaje: dónde se ve de verdad y de qué noche sale el "
           "día. Y las joyas de FUERA de la ruta, con los kilómetros medidos.",
-    "24": "La decisión del D12, que se toma dentro de Etosha: saltarse la segunda noche "
+    "24": "La decisión del D13, que se toma dentro de Etosha: saltarse la segunda noche "
           "de Onguma y bajar al Cheetah Conservation Fund si el guepardo no ha salido. "
           "Medida, con su mapa, y con lo que hay que preguntar antes de salir de casa.",
 }

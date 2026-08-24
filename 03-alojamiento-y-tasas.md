@@ -84,13 +84,13 @@ Las parcelas admiten **máximo 8 personas**, pero el precio es **por persona**: 
 > ### 📌 De estas, en este viaje se usan tres: **Sesriem ×2, Okaukuejo y Halali**
 > **Namutoni ya no es noche de nadie** *(cambio del 24/08)*: sus **dos** noches se fueron a
 > **Onguma Tamboti**, fuera de la puerta de Von Lindequist *(el bloque de abajo)*. El campamento se
-> visita el D11 —el fuerte, el museo, la torre— pero no se duerme.
+> visita el D12 —el fuerte, el museo, la torre— pero no se duerme.
 
 ---
 
 ## ⛺ Y las DOS últimas noches de Etosha, que ya no son NWR *(reservadas)*
 
-### Onguma Tamboti Campsite — D11 y D12, 3,4 km pasada la puerta de Von Lindequist
+### Onguma Tamboti Campsite — D12 y D13, 3,4 km pasada la puerta de Von Lindequist
 
 **Rack oficial 2027, válido del 1 de noviembre de 2026 al 31 de octubre de 2027** ✅
 *(el año fiscal de Onguma corre de noviembre a octubre, igual que el de NWR — vuestras noches caen
@@ -212,10 +212,10 @@ sigue siendo real independientemente del coche.)*
   N$650 (~€33)** · **NOCTURNO N$750 (~€38)**. ❌ *Horarios de salida: NWR no los publica en ninguna
   parte — hay que preguntarlos en recepción (ver `01`).*
   ⚠️ **Se venden a quien duerme en el campamento**, y desde el 24/08 **solo se duerme dentro dos
-  noches: Okaukuejo (D9) y Halali (D10)**. Comprables quedan, por tanto, **dos guiadas de mañana**
+  noches: Okaukuejo (D10) y Halali (D11)**. Comprables quedan, por tanto, **dos guiadas de mañana**
   *(N$1.300 · ~€65 la pareja cada una)*. **El nocturno se cae del plan** ❌ —se compraba desde
   Namutoni— y lo sustituye el **Sundowner Drive de Onguma** *(N$980 · ~€49 pp)*, que sale al
-  atardecer con foco y campo a través *(`01` §D12)*.
+  atardecer con foco y campo a través *(`01` §D13)*.
 - Dolomite, safari guiado de mañana/tarde — N$650 (~€33)
 - Sossus Dune Lodge, safari guiado — N$750 (~€38)
 
@@ -237,7 +237,7 @@ cobrado **por parque y por cada 24 h desde la entrada**.
 **Presupuestar ~N$620 (~€31)/día** para dos adultos y coche, en cada parque.
 
 > **En Etosha son 4 unidades de 24 h, y siguen siéndolo** con la última noche fuera: se entra el
-> **D9** por Andersson y se sale el **D12** por Von Lindequist; el **D13 ya no se vuelve a entrar**.
+> **D10** por Andersson y se sale el **D13** por Von Lindequist; el **D14 ya no se vuelve a entrar**.
 > Dormir fuera la última noche no ahorra tasas: las cobra la puerta, no el campamento
 > *(ver `01` y `11`)*.
 

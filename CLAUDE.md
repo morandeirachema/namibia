@@ -58,7 +58,7 @@ lado del otro, y si el recorte no coincide la comparación miente.
 
 ⚠️ **La variante ya no es otra ruta: es UN cambio, el del final.** Hasta el 24/08 proponía además
 Spreetshoogte con una noche y la suelta en Damaraland — **eso se adoptó y es la ruta oficial**. Lo
-que queda en `ETAPAS_ALT` es idéntico a `ETAPAS` hasta el D11 y solo cambia el D12 y el D13: en vez
+que queda en `ETAPAS_ALT` es idéntico a `ETAPAS` hasta el D12 y solo cambia el D13 y el D14: en vez
 de la segunda noche de Onguma, se baja al CCF. Por eso las dos listas comparten sus primeras doce
 etapas — si se toca una, hay que tocar la otra.
 

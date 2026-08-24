@@ -117,12 +117,12 @@ cálculo reproduce los números ya publicados** en las celdas conocidas:
 Tres regímenes distintos (meseta, sabana, desierto) clavados a **±0,04 °C**: el mismo tubo de
 cálculo aplicado a los puntos sin medir es fiable. Con eso:
 
-- 🏔️ **Spreetshoogte** *(campamento del D1–D2, borde de la escarpa ~1.700 m)* — **media de máximas de
+- 🏔️ **Spreetshoogte** *(campamento del D2–D3, borde de la escarpa ~1.700 m)* — **media de máximas de
   noviembre 31,5 °C / mínima 17,1 °C** ◐ *(ERA5, celda −24,00 / 16,00)*. **Corrobora el proxy de
   Windhoek** que ya usaba `01`: misma altitud, mismo clima de meseta. Días extremos de la serie
   entre 22,5 y **38,0 °C**. Como es meseta —el terreno donde ERA5 apenas tiene sesgo— el número se
   puede tomar casi tal cual.
-- 🔥 **Hoada / Grootberg** *(campamento del D8, Damaraland; el D7 se duerme en Twyfelfontein)* — **media de máximas 33,1 °C / mínima
+- 🔥 **Hoada / Grootberg** *(campamento del D9, Damaraland; el D8 se duerme en Twyfelfontein)* — **media de máximas 33,1 °C / mínima
   18,4 °C** ◐ *(ERA5, celda −20,00 / 14,00)*. Días extremos hasta **39,2 °C**. **Ojo al sesgo:**
   Damaraland es «sabana seca», el terreno donde ERA5 se quedó **~2 °C corto** en Okaukuejo, así que
   **el mediodía real de Hoada probablemente ronda 34–35 °C**, no 33. Trátese 33,1 como suelo, no como
@@ -179,7 +179,7 @@ noviembre. Swakopmund queda directamente **fuera de su ventana ventosa del año*
 - **Noviembre es el mes gordo del polvo medido in situ**: la teledetección clásica pone las plumas
   más frecuentes en jun–sep, pero el año medido en el pan dio **el mayor flujo anual justo en
   noviembre** *(571 g/m², el doble de la media invernal; el evento récord del año, un 5-nov)* ✅
-  *(Wiggs)*. El viento que emite es **E-ENE** y las plumas viajan al W-SW: **Okaukuejo (D9) queda
+  *(Wiggs)*. El viento que emite es **E-ENE** y las plumas viajan al W-SW: **Okaukuejo (D10) queda
   a sotavento del pan**, Namutoni a barlovento y Halali entre medias.
 - **Umbrales de tienda de techo** ◐: iKamper prueba las suyas a **56 km/h** de cualquier dirección
   *([blog oficial](https://ikamper.com/blogs/ikampernation/how-to-prepare-your-roof-top-tent-for-windy-conditions))*, TentBox declara **80**
@@ -350,7 +350,7 @@ sobre sus propias URL *(gondwana-collection.com/accommodation/…)*.
 
 **Tarifas candidatas para 1 nov 2026 – 31 oct 2027** *(◐ extracción sin verificar, página en 403)*:
 
-- 🛖 **Damara Mopane Lodge** *(Damaraland, cerca de la ruta D8)* — **B&B ~N$2.970 por persona en
+- 🛖 **Damara Mopane Lodge** *(Damaraland, cerca de la ruta D9)* — **B&B ~N$2.970 por persona en
   habitación compartida (~€149)**. Fuente: página propia de Gondwana vía snippet. *(Es tarifa de
   alojamiento, distinta de sus actividades: rastreo de elefante N$3.300 pp, sendero autoguiado
   N$250 pp — que el buscador tiende a devolver primero.)*
@@ -388,8 +388,8 @@ la única forma de estar en Deadvlei al amanecer.
 
 Criterio del viajero: *«el safari es un 90 % un buen guía»*. ⚠️ **Reducido el 24/08, y no por
 decisión**: al anular Namutoni, las dos últimas noches se duermen fuera del parque y **las salidas
-de NWR se venden a quien pernocta**. Queda comprable **2 salidas de mañana** *(Okaukuejo el D10 y
-Halali el D11, N$650 pp ✅)* = **N$2.600 (~€130) la pareja**; **se caen la guiada de Namutoni y el
+de NWR se venden a quien pernocta**. Queda comprable **2 salidas de mañana** *(Okaukuejo el D11 y
+Halali el D12, N$650 pp ✅)* = **N$2.600 (~€130) la pareja**; **se caen la guiada de Namutoni y el
 nocturno**, N$2.800 (~€140). Tarifa NWR verificada, **sin reservar**: horarios
 de salida ❌ no publicados y pre-reserva incierta en temporada de lluvias — se cierra en
 recepción (la pregunta a NWR está en el README, punto 7). **Lo que sustituye al nocturno lo vende
@@ -504,7 +504,7 @@ ficha** *(el más registrado allí es R. diporus, no el boultoni de la hipótesi
 dato de este archivo)* y el **eslizón de roca occidental** *(los «machos casi negros» no tienen
 frase publicada — flecos de fuente)*.
 
-**Y un hueco de método que se asume por escrito**: el campamento de **Spreetshoogte (D1–D2) no
+**Y un hueco de método que se asume por escrito**: el campamento de **Spreetshoogte (D2–D3) no
 cae en ninguna de las cuatro zonas medidas** — sus fichas no pueden llevar banda de allí. Los
 informes de birding del paso citan el chat de Herero *(restringido a Namibia y Angola, y no
 garantizado: WINGS lo buscó en 2026 «without success»)*, collalbas y escribanos. Si algún día
@@ -517,7 +517,7 @@ mes a mes, ◐)*:
 
 - **Jorobada, costa, por meses (ene→dic): 0 · 0 · 6 · 8 · 8 · 22 · 25 · 42 · 34 · 28 · 27 · 5**
   *(suma 205; los 5 registros restantes hasta los 210 de la zona van sin mes en GBIF)*
-  → migración **jun–nov**, pico jul–sep, y noviembre todavía en temporada. El crucero del D6
+  → migración **jun–nov**, pico jul–sep, y noviembre todavía en temporada. El crucero del D7
   (5–6 nov) cae dentro.
 - **Heaviside y mular**: registros repartidos por todos los meses — sin estacionalidad que
   planificar ◐.
@@ -599,19 +599,19 @@ maleta**. Detalle y fuentes en [`02`](02-presupuesto.md) §8.
 
 ## 🌊 Mareas de Walvis Bay y 🌙 la luna — cerrados el 09/08/2026
 
-- **Las mareas del D5–D7** *(Walvis Bay es el puerto patrón de la costa)* ◐ — leídas de la tabla
+- **Las mareas del D6–D8** *(Walvis Bay es el puerto patrón de la costa)* ◐ — leídas de la tabla
   de noviembre de 2026 de
-  [tidetime.org](https://www.tidetime.org/africa/namibia/walvis-bay-calendar-nov.htm): **D5**
-  bajamares 06:37 y 19:01 · **D6 — el día del tour: bajamares 07:18 y 19:38, pleamares 01:21 y
-  13:27** · **D7** 07:54 y 20:12; el rango crece hacia las **mareas vivas del novilunio del 9**
+  [tidetime.org](https://www.tidetime.org/africa/namibia/walvis-bay-calendar-nov.htm): **D6**
+  bajamares 06:37 y 19:01 · **D7 — el día del tour: bajamares 07:18 y 19:38, pleamares 01:21 y
+  13:27** · **D8** 07:54 y 20:12; el rango crece hacia las **mareas vivas del novilunio del 9**
   *(coherencia interna que respalda la tabla)*. Es **predicción comercial, no tabla náutica**
   *(las primarias —SANHO, Namport— no se abrieron desde aquí)*: vale para planificar la mañana
-  del D6 —**la salida de Sandwich Harbour de las ~08:30 es la de la playa**—, no para navegar,
+  del D7 —**la salida de Sandwich Harbour de las ~08:30 es la de la playa**—, no para navegar,
   y **el operador manda con su propia tabla**.
 - **La fase lunar, calculada en casa** *(conjunción de referencia + mes sinódico; ±1 día en el
-  instante)* — **luna nueva el 9–10 de noviembre**: las **cuatro noches de Etosha (D9–D12)
-  entre el 0 y el 9 % de iluminación**, el amanecer de Deadvlei (D4) con un menguante del ~27 %,
-  y la salida (D0–D2) con una menguante del 48–68 % que sale ya de noche. El día a día, en el
+  instante)* — **luna nueva el 9–10 de noviembre**: las **cuatro noches de Etosha (D10–D13)
+  entre el 0 y el 9 % de iluminación**, el amanecer de Deadvlei (D5) con un menguante del ~27 %,
+  y la salida (D1–D3) con una menguante del 48–68 % que sale ya de noche. El día a día, en el
   bloque 🌙 de `01`.
 
 ## ⛺ Spreetshoogte: tarifa cerrada con el rack del operador — y una trampa de calendario *(24/08/2026)*
@@ -663,7 +663,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   **Las cuatro de Etosha están RESERVADAS** ✅ — y desde el **24/08 son Okaukuejo, Halali y
   **Onguma Tamboti ×2**: **Namutoni se anuló** *(`20` §4)*. **Sesriem ×2, Spreetshoogte y el Urban
   Camp de Windhoek también se cerraron el 24/08**, así que el contador del README va a **7 de 8**.
-  **Queda una: Terrace Bay** —y una noche nueva sin tarifa, la de Twyfelfontein del D7, que a
+  **Queda una: Terrace Bay** —y una noche nueva sin tarifa, la de Twyfelfontein del D8, que a
   propósito **no se reserva** *(`24`)*.
 - 🚗 **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, 15 días,
   aeropuerto → aeropuerto; el 31-oct fuera de temporada baja ❌ y la entrega EN el aeropuerto sin
@@ -680,7 +680,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 **Precios sin cerrar — el margen real del presupuesto:**
 
 - 🛏️ ~~**Tres campings sin cotizar**~~ **DOS, desde el 24/08** *(Spreetshoogte se cerró — ver
-  §Spreetshoogte, abajo)*: Windhoek (D0 y D13), Walvis Bay (D4–D5) y Twyfelfontein (D7). Los
+  §Spreetshoogte, abajo)*: Windhoek (D1 y D14), Walvis Bay (D5–D6) y Twyfelfontein (D8). Los
   sitios están identificados; **ninguno publica tarifa abrible desde aquí**. **Reintento 05/08 —
   el muro de `403` es total**: no solo las webs propias, también **todos los agregadores y hasta
   ioverlander** *(arebbusch.com, africanreservations.com, madbookings.com, booking.com y
@@ -698,7 +698,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
     Retreat**—, la misma confusión que ya dio el gancho de N$269,50 (Namibgrens). Los fragmentos dan
     «~N$120–150 por persona» *(~€6–7,50 ○, orígenes que se contradicen entre sí)*. **No se cierra**:
     sin abrir la ficha no se puede saber a cuál de las tres propiedades corresponde cada cifra. En
-    `01` (D1–D2, dos noches desde el 08/08) sigue como está: 150–300 ZAR/persona, vigencia desconocida.
+    `01` (D2–D3, dos noches desde el 08/08) sigue como está: 150–300 ZAR/persona, vigencia desconocida.
   > **Conclusión 05/08:** ninguno pasa el listón de «verifica la extracción, no solo la fuente». Los
   > tres siguen en la estimación de práctica común de `02`; **estos números son pistas con URL para el
   > que llame a reservar, no precios para presupuestar**.
@@ -754,7 +754,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 
 **Datos que siguen abiertos:**
 
-- 📏 ~~**La discrepancia del D9**: Hoada → Okaukuejo, ~315 vs ~340 km~~ **RESUELTA (04/08): son
+- 📏 ~~**La discrepancia del D10**: Hoada → Okaukuejo, ~315 vs ~340 km~~ **RESUELTA (04/08): son
   ~340 km.** Kamanjab → Outjo 156 km *(distancesto)* + Kamanjab → Okaukuejo 271 km *(CityMeter, vía
   Outjo)* corroboran los 265 de la matriz, y con los 75 km Hoada → Kamanjab dan **~340–346 km**. El
   ~315 de `01` queda refutado; ya corregido a 340. Detalle en [`13`](13-itinerario.md), §3.
@@ -784,9 +784,9 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
     plurianual y hay una **fase 2026–2027** que las secundarias sí recogen pero cuyas páginas
     oficiales no se han encontrado — entonces el plan actual es correcto; **(b)** las fechas de
     2026–2027 son una síntesis mal hecha de buscador y **el desvío ya no está activo** — entonces
-    el D10 podría ir por la directa, la ruta sería **~38 km más corta** y **Nebrownii y Kapupuhedi
+    el D11 podría ir por la directa, la ruta sería **~38 km más corta** y **Nebrownii y Kapupuhedi
     volverían a ser visitables**.
-  - ⚠️ **Y esto no es un detalle de nota al pie: el desvío está METIDO en la ruta.** La etapa D10
+  - ⚠️ **Y esto no es un detalle de nota al pie: el desvío está METIDO en la ruta.** La etapa D11
     de `trazado.ETAPAS` va `okaukuejo → gemsbokvlakte → salvadora → halali`, así que **los 2.798 km
     del dossier ya lo cuentan**. Si la fase hubiera acabado, el total bajaría.
   - 👉 **Acción, y cae en la misma llamada que las reservas**: **preguntar a NWR Okaukuejo
@@ -824,7 +824,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
     julio de 2027»—: lo más plausible es que el tramo Okaukuejo→Halali/Namutoni se cerrara en febrero
     y el tráfico pasara al bypass nuevo, mientras el proyecto entero (214 km) sigue hasta 2027 con el
     desvío en pie, pero **no se puede reconciliar desde aquí**.
-  - 👉 **Efecto sobre el plan**: **no se toca nada**. El D10 ya va por el desvío y los 2.798 km ya lo
+  - 👉 **Efecto sobre el plan**: **no se toca nada**. El D11 ya va por el desvío y los 2.798 km ya lo
     cuentan; la evidencia nueva **refuerza** que así debe quedarse. La llamada a **NWR Okaukuejo
     (+264 67 229 800)** sigue siendo la confirmación primaria —ahora para *confirmar*, no para *decidir*—
     y de paso el único modo de cerrar el sobrecoste en tiempo, que nadie publica.
@@ -839,7 +839,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 inventario; ninguno bloquea una reserva — son preguntas de la entrega del coche, de cada recepción
 o de un email)*:
 
-- 🧰 **De la entrega del coche** *(`20` §1, `05`, `01` §D0)*: **con cuánto tanque entregan** el
+- 🧰 **De la entrega del coche** *(`20` §1, `05`, `01` §D1)*: **con cuánto tanque entregan** el
   coche ❌ *(se entrega sin lleno, `20` §1)* · el **teléfono de emergencias 24 h de Savanna** ❌
   *(el servicio de asistencia 24 h SÍ existe, `20` §1 — falta el número)* · el **coste del
   conductor adicional** ❌ *(`02` §10)*. *(La nevera con batería propia y el hornillo ya constan
@@ -848,7 +848,7 @@ o de un email)*:
   «zonas a riesgo propio» de la hoja de condiciones de Savanna, casi todas quedan fuera de esta
   ruta y no hace falta mirarlas *(Khaudum, Kaokoveld, Sandwich Harbour, el Kunene al este de Epupa
   Falls)* — la que sí importa es **«antes del amanecer y después del atardecer»** ✅. La salida a
-  Deadvlei del D3 sale a las ~05:10, antes del amanecer *(`01` §D3)*: tal cual está, ese tramo
+  Deadvlei del D4 sale a las ~05:10, antes del amanecer *(`01` §D4)*: tal cual está, ese tramo
   **cae sin cobertura**, salvo que se pida por escrito que sea la única zona nombrada de la
   Opción 4. **Acción antes de firmar en la entrega: pedir explícitamente que la franja horaria de
   sunrise/sunset sea la zona cubierta.**
@@ -863,10 +863,10 @@ o de un email)*:
 - 🏕️ **De cada recepción** *(`18`)*: **enchufe por parcela** campamento a campamento ❌ *(NWR lo
   anuncia en los grandes ◐)* · **precio de la leña** ❌ *(**salvo Spreetshoogte**, que sí lo
   publica: N$55 el fardo de 10 kg ✅ — 24/08)* · **potabilidad del grifo** camping a
-  camping ❌ · el **check-out del camping de Windhoek el D14** y si se puede volver por la tarde ❌
-  *(`01` §D14)* · los **horarios de desayuno/restaurante** de los campamentos NWR y de Joe's ❌
+  camping ❌ · el **check-out del camping de Windhoek el D15** y si se puede volver por la tarde ❌
+  *(`01` §D15)* · los **horarios de desayuno/restaurante** de los campamentos NWR y de Joe's ❌
   *(`01` §horarios)*.
-- 📡 **Cobertura móvil en la escarpa de Spreetshoogte y la D1275** (noches D1–D2): **sin dato** ❌
+- 📡 **Cobertura móvil en la escarpa de Spreetshoogte y la D1275** (noches D2–D3): **sin dato** ❌
   — trátala como silencio *(`07` §Cobertura)*.
 - 📷 **Tarifas 2026/27 de ProHire y Capture Namibia** *(alquiler de cámara en Windhoek)*: la
   publicada caduca el 31 de octubre — pedir por escrito ❌ *(equipo de fotografía, en el repo
@@ -874,7 +874,7 @@ o de un email)*:
 - 🎈 ~~**El vuelo panorámico** *(Sossusvlei / Skeleton Coast)*: operadores reales con precio ✅ —
   globo con Namib Sky (N$9.920/persona) o avioneta con Sossusvlei Scenic Flights / Sossusfly
   (N$6.900–17.500 según ruta y grupo), todos desde Swakopmund o Kulala.~~ **DESCARTADO (24/08):
-  el viajero decide no hacerlo** — el día de mar del D6 es la excursión a Sandwich Harbour en 4x4
+  el viajero decide no hacerlo** — el día de mar del D7 es la excursión a Sandwich Harbour en 4x4
   (`20` §7).
 - 🎫 **El tramo exacto de Cape Cross** *(¿N$150 o el baremo premium de N$280?)*: presupuestado
   N$150+50 ◐ con la banda alta dentro del rango — mismo email del MEFT que la tabla fina de

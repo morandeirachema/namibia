@@ -172,7 +172,7 @@ flowchart LR
   la Variante E. Las variantes A y B —las que respetaban el sur— quedan archivadas aquí y en git.
 - **Las fechas sí arrastran trabajo**, y es el único fleco vivo de esta decisión: el coche está
   cotizado del **1 nov 08:00 al 13 nov 17:00** y el vuelo va del **30 de octubre al 14 de
-  noviembre**, así que **faltan el día 31 y el día 14** *(ver [`01`](01-itinerarios-dia-a-dia.md) D0
+  noviembre**, así que **faltan el día 31 y el día 14** *(ver [`01`](01-itinerarios-dia-a-dia.md) D1
   y [`02` §2](02-presupuesto.md))*. Hay que **recotizar el alquiler con las fechas del vuelo** y
   **adelantar el inicio del seguro al 30/10**.
 
@@ -183,7 +183,7 @@ flowchart LR
 Con el vuelo cerrado *(31 oct 09:25 → 14 nov 20:45)* y el coche aeropuerto → aeropuerto *(07/08)*,
 se auditó si la ruta cuadraba con la llegada y la salida. **Resultado: cabe exacta —15 días de
 suelo, 14 noches— y no falta ni sobra ningún día en bruto.** Pero una noche estaba mal invertida:
-el **domingo 1 de noviembre en Windhoek** (D1): las **bottle stores cerradas por ley** ✅, los
+el **domingo 1 de noviembre en Windhoek** (D2): las **bottle stores cerradas por ley** ✅, los
 súper a media jornada ◐, la compra ya hecha del sábado y jet lag de +1 h (ninguno) — un día de
 ciudad a medio gas ○.
 
@@ -195,8 +195,8 @@ de día lento en la escarpa. Lo que se comparó:
 flowchart TD
     Q{"¿Donde duerme la<br/>noche del domingo 1?"}
     Q -->|"ELEGIDA 08/08"| A["🟢 2ª noche Spreetshoogte<br/>atardecer Y amanecer en el paso<br/>de Sesriem en adelante NADA se mueve<br/>y el colchon pre-NWR se conserva"]
-    Q --> B["Windhoek D0+D1 (el plan del 07/08)<br/>colchon puro de llegada,<br/>a cambio de un domingo<br/>en ciudad cerrada"]
-    Q --> C["Partir el D8 en Twyfelfontein<br/>desactiva el dia mas duro de grava<br/>PERO adelanta TODAS las fechas NWR<br/>y borra el colchon de llegada"]
+    Q --> B["Windhoek D1+D2 (el plan del 07/08)<br/>colchon puro de llegada,<br/>a cambio de un domingo<br/>en ciudad cerrada"]
+    Q --> C["Partir el D9 en Twyfelfontein<br/>desactiva el dia mas duro de grava<br/>PERO adelanta TODAS las fechas NWR<br/>y borra el colchon de llegada"]
     Q --> D["3ª noche en Sesriem<br/>dos amaneceres de dunas<br/>+N$1.340 y colchon reducido"]
     style A fill:#2d6a4f,color:#fff
 ```
@@ -207,7 +207,7 @@ tocar reservas—, **no mueve ni una fecha** de Sesriem en adelante, no añade l
 (mismo camping, dos noches — eso sí: un camping aún **sin tarifa ni contacto verificados**;
 reservarlo es el pendiente que abre esta decisión) y es coste-neutral (una noche de camping de Windhoek por una de
 Spreetshoogte, las dos en la misma banda estimada ○). El blog de referencia hacía exactamente
-esas 2 noches. Las descartadas quedan aquí por si se replantea: la de partir el D8 es la mejor
+esas 2 noches. Las descartadas quedan aquí por si se replantea: la de partir el D9 es la mejor
 en seguridad pura, pero cuesta el colchón de llegada y un camping nuevo sin verificar.
 
 **Y del mismo día (08/08), la segunda decisión: el safari de Etosha, GUIADO.** El análisis del
@@ -257,7 +257,7 @@ flowchart LR
   aeropuerto**; su oficina de Windhoek abre los sábados **08:30–12:00** — y **el 31/10 y el 14/11
   caen los dos en sábado**. Aterrizando a las 09:25 se llega a la oficina rozando el cierre, y su
   regla escrita es que **un vuelo que aterrice después de las 13:20 —retraso o maleta perdida
-  incluidos— deja el coche para el día siguiente**: el D1 a Spreetshoogte, en el aire. N2Go, en
+  incluidos— deja el coche para el día siguiente**: el D2 a Spreetshoogte, en el aire. N2Go, en
   cambio, tiene **la oficina junto al aeropuerto con shuttle desde la sala de llegadas** ◐ *(su
   FAQ, leída el 10/08)*.
 - 📜 **Cancelación, verificada para los dos** *(la pedía el `20`)*: **N2Go** — reembolso íntegro a
@@ -277,7 +277,7 @@ flowchart LR
 
 **Qué tendría que pasar para reabrirlo**: que Savanna confirmara por escrito la entrega del sábado
 31/10 antes de las 12:00 **con margen para retrasos**, y que la recotización con las fechas reales
-mantuviera la diferencia. Con ~€80–120 por cabeza en juego y el D1 de rehén, hoy no compensa.
+mantuviera la diferencia. Con ~€80–120 por cabeza en juego y el D2 de rehén, hoy no compensa.
 
 > ### ✅ Reservado con Savanna el 12/08/2026
 > El motivo real: **Namibia2Go se quedó sin disponibilidad**. El coche y su detalle completo,

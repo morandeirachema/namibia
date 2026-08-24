@@ -2,22 +2,23 @@
 # REGLA: si una especie no tiene informacion decente de Etosha, NO lleva linea.
 
 INTRO_EXTRA = """
-  <p><strong>El safari, en corto:</strong> dormís <strong>dentro</strong> tres de las cuatro
-  noches —Okaukuejo, Halali y Namutoni—; la cuarta, en <strong>Onguma Tamboti</strong>, 3,4 km
-  pasada la puerta de Von Lindequist, así que el D12 hay que estar fuera antes del cierre. Las
+  <p><strong>El safari, en corto:</strong> dormís <strong>dentro</strong> dos de las cuatro
+  noches —Okaukuejo y Halali—; las otras dos, en <strong>Onguma Tamboti</strong>, 3,4 km
+  pasada la puerta de Von Lindequist, así que <strong>el D12 y el D13 hay que estar fuera antes del
+  cierre</strong>. Las
   puertas siguen al sol y cambian cada semana: para vuestras fechas, <strong>06:13–19:06</strong> del
   3 al 9 y <strong>06:10–19:10</strong> del 10 al 16 — <em>trece horas de parque al día</em>, casi dos
   más que en invierno. Dentro, <strong>60 km/h</strong> (20 en los campamentos) y
   <strong>solo se puede bajar del coche dentro de los campamentos</strong>.</p>
   <p><strong>La táctica que funciona no es conducir: es esperar.</strong> Elegid una charca, apagad
   el motor, bajad la voz y dadle tiempo — la fauna llega por turnos. En seca, <strong>mediodía es
-  bueno para elefante</strong> y primera y última hora para león. De noche no se circula: la única
-  forma es el <strong>safari nocturno guiado de NWR (N$750 ≈ €38 p.p., el D11 desde
-  Namutoni)</strong>, pero las <strong>tres charcas iluminadas</strong> se ven andando desde la
-  parcela. La noche del D12, ya en Onguma, la reserva vende su
-  <strong>Sundowner Drive (3 h, N$980 ≈ €49 p.p.)</strong>, que sale al atardecer y vuelve de noche
-  con foco y campo a través, y un <strong>paseo guiado a pie (1½ h, N$980)</strong>: las dos cosas,
-  prohibidas dentro del parque. Y de día, en esta
+  bueno para elefante</strong> y primera y última hora para león. De noche no se circula, y
+  <strong>el nocturno guiado de NWR se cayó del plan</strong>: se vende a quien duerme en el
+  campamento, y las dos últimas noches ya se duermen fuera. Lo que queda son las <strong>dos charcas
+  iluminadas de Okaukuejo y Halali</strong>, que se ven andando desde la parcela, y —ya en
+  Onguma— su <strong>Sundowner Drive (3 h, N$980 ≈ €49 p.p.)</strong>, que sale al atardecer y
+  vuelve de noche con foco y campo a través, y un <strong>paseo guiado a pie (1½ h, N$980)</strong>:
+  las dos cosas, prohibidas dentro del parque. Y de día, en esta
   ruta <strong>la salida de mañana se hace guiada desde cada campamento (N$650 ≈ €33 p.p.,
   decidido el 08/08)</strong>: los traslados entre campamentos van con el 4x4 propio.</p>
   <p>🚧 <strong>Aviso de obras — confirmado que os afecta:</strong> están asfaltando la pista
@@ -44,8 +45,10 @@ NOCTURNO = """
   recintos de Okaukuejo, de noche sale a cazar el <strong>gecko de Fischer</strong>.
   <em>Norma de la plataforma: todo apagado, ni linterna ni pantalla — la única luz es la del
   recinto.</em></li>
-  <li><strong>Nocturno guiado de NWR (N$750 ≈ €38 p.p., D11 desde Namutoni)</strong> — circuito corto en grupo
-  cerca del campamento: es la única forma legal de circular de noche. Su objetivo declarado son
+  <li><strong>Nocturno guiado de NWR (N$750 ≈ €38 p.p.)</strong> — ⚠️ <strong>fuera del plan desde
+  el 24/08</strong>: se compra durmiendo en el campamento, y las dos últimas noches se duermen en
+  Onguma. Era circuito corto en grupo
+  cerca del campamento y la única forma legal de circular de noche dentro del parque. Su objetivo declarado son
   tres especies que de día casi no se dejan ver: <strong>zorro del Cabo, gato montés africano y
   lobo de tierra</strong>. Los guías enseñan además la <strong>liebre saltadora</strong> casi
   todas las noches, aunque no figure como objetivo oficial — es tan nocturna que ni un registro
@@ -63,7 +66,7 @@ NOCTURNO = """
   más terreno o bajar a rastrear a pie — algo que dentro del parque no está permitido bajo ninguna
   circunstancia.</p>
   <ul>
-  <li><strong>Okonjima / AfriCat</strong> <em>(junto a la B1, ya es parada opcional del D13, sin
+  <li><strong>Okonjima / AfriCat</strong> <em>(junto a la B1, ya es parada opcional del D14, sin
   desvío)</em> — no es un game drive, es <strong>tracking dirigido por investigadores con collar
   de radio</strong> ✅: leopardo (N$1.600 ≈ €80 p.p.), hiena parda a pie (N$1.600 ≈ €80 p.p.) y
   hasta pangolín (N$2.900 ≈ €145 p.p., mínimo 2 noches) — tres especies que dentro de Etosha son
@@ -74,7 +77,8 @@ NOCTURNO = """
   chotacabras y <strong>oso hormiguero</strong> — este último, con 0&nbsp;% de avistamientos
   declarados dentro de Etosha, es precisamente el que se quedó sin ficha en esta guía.</li>
   <li><strong>Onguma</strong> <em>(pasada la puerta de Von Lindequist)</em> — <strong>ya no es una
-  alternativa teórica: es donde dormís el D12</strong>. Su tarifa oficial 2027 vende
+  alternativa teórica: es donde dormís el D12 y el D13</strong>, y desde el 24/08 <strong>es también
+  lo único que queda para ver fauna de noche</strong>. Su tarifa oficial 2027 vende
   <strong>Sundowner Drive de 3 h (N$980 ≈ €49 p.p.)</strong> —sale al atardecer y vuelve de noche,
   con foco y campo a través—, <strong>Onkolo Hide de 3 h (N$720 ≈ €36 p.p.)</strong> y
   <strong>paseo interpretativo a pie de 1½ h (N$980 ≈ €49 p.p., 16+)</strong> ✅. Su reserva declara
@@ -110,11 +114,11 @@ DONDE = {
   "puercoespin": "**De noche, en la charca iluminada de Halali**: las guías del parque lo citan entre los visitantes habituales junto con el leopardo — GBIF, en cambio, apenas lo registra: es nocturno, como la liebre saltadora.",
   "hartebeest": "Llanuras abiertas del este; se cita en la charca de King Nehale, en Namutoni.",
   "mangosta-rayada": "De día, por el suelo de los campamentos y claros del este — Namutoni es su zona: las tropas cruzan la pista en fila y parloteando (400 registros en el parque).",
-  "babuino-chacma": "En esta ruta, los miradores y áreas de descanso de la escarpa (D1–D2) y de Damaraland (D8) — en Etosha apenas figura. Ventanillas arriba si os alejáis con comida a la vista.",
-  "zorro-del-cabo": "Solo de noche y solo guiado: **el nocturno de NWR desde Namutoni (D11)** o **el Sundowner Drive de Onguma (D12)**, ya fuera del parque — por libre está prohibido circular a oscuras, y él no sale de día.",
-  "gato-montes-africano": "El **nocturno guiado de Namutoni (D11)** o **el sundowner de Onguma (D12)**, y con suerte: es discretísimo. De día, como mucho, unos ojos en un matorral desde la charca.",
-  "lobo-de-tierra": "El **nocturno guiado de Namutoni (D11)** o **el sundowner de Onguma (D12)**, en las llanuras con termiteros — que son su despensa.",
-  "ballena-jorobada": "Desde el **crucero de Walvis Bay (D6)**: la migración pasa frente a esta costa de junio a noviembre, y vuestro día cae aún en temporada.",
+  "babuino-chacma": "En esta ruta, los miradores y áreas de descanso de la escarpa (D2–D3) y de Damaraland (D9) — en Etosha apenas figura. Ventanillas arriba si os alejáis con comida a la vista.",
+  "zorro-del-cabo": "Solo de noche y solo guiado: **el Sundowner Drive de Onguma (D12 o D13)**, ya fuera del parque — el nocturno de NWR se cayó al dejar de dormir dentro. Por libre está prohibido circular a oscuras, y él no sale de día.",
+  "gato-montes-africano": "El **sundowner de Onguma (D12 o D13)**, y con suerte: es discretísimo. De día, como mucho, unos ojos en un matorral desde la charca.",
+  "lobo-de-tierra": "El **sundowner de Onguma (D12 o D13)**, en las llanuras con termiteros — que son su despensa.",
+  "ballena-jorobada": "Desde el **crucero de Walvis Bay (D7)**: la migración pasa frente a esta costa de junio a noviembre, y vuestro día cae aún en temporada.",
   # --- AVES ---
   "tejedor-republicano": "**En Okaukuejo, a diez metros de la charca**: hay un nido enorme junto al agua y dos más en el camping. Dentro viven halcones pigmeos y agapornis de cara rosa.",
   "flamenco-enano": "⚠️ **En noviembre no están aquí:** la pan está seca. Solo crían cuando llueve por encima de 400 mm — pasó **tres veces en cuarenta años**. Los tuyos están en **Walvis Bay**.",
@@ -129,12 +133,12 @@ DONDE = {
   "estornino-cabo": "En los campamentos, a por las migas.",
   "francolin-picorrojo": "En los campamentos. **Os despertará al amanecer**, sin falta.",
   "pigargo-vocinglero": "Depende de que haya agua abierta: la zona de **Fischer's Pan**, en el este, es donde tiene sentido buscarlo.",
-  "pelicano": "No en Etosha: en la **laguna de Walvis Bay** (D5–D6), donde pesca en grupo.",
-  "gaviota-hartlaub": "La **laguna y el muelle de Walvis Bay (D5–D6)**: la nube blanca detrás del barco del crucero — el ave más registrada de la costa tras el cormorán.",
-  "avoceta": "El **agua somera de la laguna de Walvis Bay (D5–D6)**, barriendo con el pico entre los flamencos — mejor con la bajamar de la mañana.",
+  "pelicano": "No en Etosha: en la **laguna de Walvis Bay** (D6–D7), donde pesca en grupo.",
+  "gaviota-hartlaub": "La **laguna y el muelle de Walvis Bay (D6–D7)**: la nube blanca detrás del barco del crucero — el ave más registrada de la costa tras el cormorán.",
+  "avoceta": "El **agua somera de la laguna de Walvis Bay (D6–D7)**, barriendo con el pico entre los flamencos — mejor con la bajamar de la mañana.",
   # --- COSTA ---
-  "lobo-marino": "**Cape Cross, D7.** Una de las mayores colonias del mundo.",
-  "delfin-heaviside": "Frente a **Walvis Bay**, en las salidas en barco (D5–D6).",
+  "lobo-marino": "**Cape Cross, D8.** Una de las mayores colonias del mundo.",
+  "delfin-heaviside": "Frente a **Walvis Bay**, en las salidas en barco (D6–D7).",
 
   # --- Ampliacion del 10/08 (fuentes en el bloque de abajo) ---
   "ardilla-matorral": "**Dentro del recinto de Halali** —restaurante y parcelas, donde roba lo que se deje— y en el de Namutoni. Los informes de mamíferos la dan «común en el campamento de Halali».",
@@ -153,23 +157,23 @@ DONDE = {
   "galapago-africano": "Las charcas permanentes. La caza de quéleas se documentó en **Nuamses**, al norte de Halali *(unas 30 en dos horas, 26/11/1997)*, y hay observaciones recientes en Halali. Buscad la cabeza-periscopio o el caparazón al sol en el borde.",
 
   # --- Ampliacion del 11/08: las otras tres zonas de la ruta ---
-  "delfin-mular": "El propio **crucero de la bahía (D6)**: los operadores lo citan entre los habituales — sin la garantía del Heaviside, que es el fiable. Es la población residente que estudia el Namibian Dolphin Project desde 2008.",
-  "rata-dassie": "**Twyfelfontein (D8)**: las peñas del propio yacimiento, donde se concentran las observaciones — y los roquedos de la escarpa: también está citada en el paso de Spreetshoogte (D1–D2).",
-  "charran-comun": "La **laguna de Walvis Bay (D5–D6)**, a miles: llegan de Europa en septiembre-octubre, justo antes que vosotros.",
-  "gaviota-cocinera": "El muelle y la laguna (D5–D6), revoloteando el barco junto a la de Hartlaub.",
-  "estornino-naburup": "Los aparcamientos y picnics de **Sesriem/Sossusvlei (D3–D4)** —unos 200 por viaje cuentan los tours— y los acantilados de Damaraland (D8), donde cría junto a los inseparables.",
-  "sison-damara": "La llanura de grava de la **carretera Sesriem→Sossusvlei (D3–D4)**: los tours lo anotan «junto a la pista», en parejas y tríos — también en noviembre.",
-  "avutarda-namibia": "Las mismas llanuras del D3–D4, caminando lejos: los tours de noviembre la encuentran en la salida matinal a Sossusvlei.",
-  "alondra-dunas": "Las **dunas con hierba camino de Sossusvlei (D4)**: Elim Dune es el sitio clásico, pero los tours recientes la sacaron más adelante, en las dunas rojas de la pista. Andando y con paciencia.",
-  "lorito-ruppell": "Los **cauces arbolados de Damaraland (D8)**: citado en el propio cauce del Aba Huab, junto al campamento comunitario de Twyfelfontein.",
-  "toco-angoleno": "Su casa es la **escarpa rocosa (D8)**: Twyfelfontein y Grootberg. En Etosha solo asoma por los cerros del oeste — fuera de vuestro eje.",
-  "inseparable-namibia": "Roquedos de **Damaraland (D8)**, en colonias junto al estornino Naburup — y en los pajares del tejedor republicano: la ficha del tejedor ya los citaba de inquilinos.",
-  "gecko-diurno": "Las rocas de la **costa de la niebla (D7)**, en las paradas entre Swakopmund y Cape Cross. De día — que es su rareza.",
-  "lagarto-cuna": "La **base de las dunas de Sossusvlei (D4)**, entre las matas — exactamente por donde se camina hacia Big Daddy y Deadvlei.",
+  "delfin-mular": "El propio **crucero de la bahía (D7)**: los operadores lo citan entre los habituales — sin la garantía del Heaviside, que es el fiable. Es la población residente que estudia el Namibian Dolphin Project desde 2008.",
+  "rata-dassie": "**Twyfelfontein (D9)**: las peñas del propio yacimiento, donde se concentran las observaciones — y los roquedos de la escarpa: también está citada en el paso de Spreetshoogte (D2–D3).",
+  "charran-comun": "La **laguna de Walvis Bay (D6–D7)**, a miles: llegan de Europa en septiembre-octubre, justo antes que vosotros.",
+  "gaviota-cocinera": "El muelle y la laguna (D6–D7), revoloteando el barco junto a la de Hartlaub.",
+  "estornino-naburup": "Los aparcamientos y picnics de **Sesriem/Sossusvlei (D4–D5)** —unos 200 por viaje cuentan los tours— y los acantilados de Damaraland (D9), donde cría junto a los inseparables.",
+  "sison-damara": "La llanura de grava de la **carretera Sesriem→Sossusvlei (D4–D5)**: los tours lo anotan «junto a la pista», en parejas y tríos — también en noviembre.",
+  "avutarda-namibia": "Las mismas llanuras del D4–D5, caminando lejos: los tours de noviembre la encuentran en la salida matinal a Sossusvlei.",
+  "alondra-dunas": "Las **dunas con hierba camino de Sossusvlei (D5)**: Elim Dune es el sitio clásico, pero los tours recientes la sacaron más adelante, en las dunas rojas de la pista. Andando y con paciencia.",
+  "lorito-ruppell": "Los **cauces arbolados de Damaraland (D9)**: citado en el propio cauce del Aba Huab, junto al campamento comunitario de Twyfelfontein.",
+  "toco-angoleno": "Su casa es la **escarpa rocosa (D9)**: Twyfelfontein y Grootberg. En Etosha solo asoma por los cerros del oeste — fuera de vuestro eje.",
+  "inseparable-namibia": "Roquedos de **Damaraland (D9)**, en colonias junto al estornino Naburup — y en los pajares del tejedor republicano: la ficha del tejedor ya los citaba de inquilinos.",
+  "gecko-diurno": "Las rocas de la **costa de la niebla (D8)**, en las paradas entre Swakopmund y Cape Cross. De día — que es su rareza.",
+  "lagarto-cuna": "La **base de las dunas de Sossusvlei (D5)**, entre las matas — exactamente por donde se camina hacia Big Daddy y Deadvlei.",
 
   # --- Ampliacion del 15/08: felinos y rapaces, con informes de viaje de oct-nov (fuentes abajo) ---
   "caracal": "Se ha visto **cruzando la carretera Okaukuejo→Halali** a primera hora (14 nov 2016) y en el **nocturno guiado desde Okaukuejo**, a 20 m del coche (oct 2016). Suerte pura: por eso no hay banda que prometa nada.",
-  "aguila-cafre": "**El alto del paso de Spreetshoogte / Namibgrens (D1–D2)**: una pareja se cita año tras año (nov 2016, oct 2017, oct 2025). También en el Naukluft camino de Solitaire (sep 2023) y en Khowarib, al norte del paso de Grootberg (oct 2024).",
+  "aguila-cafre": "**El alto del paso de Spreetshoogte / Namibgrens (D2–D3)**: una pareja se cita año tras año (nov 2016, oct 2017, oct 2025). También en el Naukluft camino de Solitaire (sep 2023) y en Khowarib, al norte del paso de Grootberg (oct 2024).",
   "aguila-azor-africana": "En pareja, **bebiendo en las charcas de Etosha** —tramo Okaukuejo→Halali, oct 2024 y nov 2023—; también cerca de Solitaire (nov 2015).",
   "aguila-wahlberg": "**Al sur de Okaukuejo**, en las llanuras y charcas del entorno del campamento (10 nov 2023; nov 2015).",
   "aguila-calzada": "Fase oscura en Etosha (nov 2019) y en el sur del Namib (oct 2017); sin sitio fijo — cualquier rapaz pequeña planeando sobre la escarpa merece los prismáticos.",
@@ -181,10 +185,10 @@ DONDE = {
   "gavilan-chikra": "**El campamento de Halali**: tres informes de octubre-noviembre lo sitúan dentro del recinto (2016, 2023 ×2).",
   "aguilucho-papialbo": "Las **llanuras de Andoni** a primera hora (dos machos, nov 2002) y un macho en el tramo Okaukuejo→Halali (16 nov 2023).",
   "aguilucho-cenizo": "**Andoni**, un macho a primera hora (nov 2002), y al **borde de la pan** (nov 2018).",
-  "elanio": "Citado en Etosha y en los pastizales de Windhoek (nov 2015, nov 2018): postes y cables junto a la carretera, desde el D0.",
+  "elanio": "Citado en Etosha y en los pastizales de Windhoek (nov 2015, nov 2018): postes y cables junto a la carretera, desde el D1.",
   "busardo-ratonero": "«Habitual en Etosha» en octubre de 2015; en noviembre de 2016, pocos y en cinco días. Sin sitio fijo: postes junto a la pista.",
-  "busardo-augur": "**Namibgrens / paso de Spreetshoogte (D1–D2)** —7 nov 2016; 31 oct y 1 nov 2023— y la carretera **Kamanjab→Okaukuejo** (D9); también en Khowarib, al norte de Grootberg (oct 2024).",
-  "busardo-augur-meridional": "**El paso de Spreetshoogte (D1–D2)** —«bastante raro aquí, en el extremo norte de su área», oct 2012— y la carretera Solitaire–Remhoogte (dic 2002).",
+  "busardo-augur": "**Namibgrens / paso de Spreetshoogte (D2–D3)** —7 nov 2016; 31 oct y 1 nov 2023— y la carretera **Kamanjab→Okaukuejo** (D10); también en Khowarib, al norte de Grootberg (oct 2024).",
+  "busardo-augur-meridional": "**El paso de Spreetshoogte (D2–D3)** —«bastante raro aquí, en el extremo norte de su área», oct 2012— y la carretera Solitaire–Remhoogte (dic 2002).",
   "cernicalo-ojiblanco": "Las **llanuras al norte de Okaukuejo** —Okondeka, Wolfsnes— (9 nov 2023; una pareja cebando a los pollos con una culebrilla, nov 2018) y entre Halali y Okaukuejo; en el Namib, ocho en un viaje por Sossusvlei (nov 2015).",
   "cernicalo-africano": "**La parada del paso de Spreetshoogte** (3 nov 2023; 1 nov 2023), el Namib-Naukluft, Swakopmund y la zona de las alondras al norte de Okaukuejo (27 oct 2023).",
   "alcotan-turumti": "**Twee Palms, en Fischer's Pan** (dos, dic 2004; oct 2015) y **Namutoni** (nov 2016, oct 2023); también Salvadora, un árbol-nido junto a la pista al norte de Okaukuejo (oct 2023) y cuatro cerca de Halali (oct 2017).",

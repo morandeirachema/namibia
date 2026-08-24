@@ -7,7 +7,7 @@
 > coche—: aquí solo está **la lista**, para imprimirla y tacharla la víspera.
 >
 > **Las cantidades son para DOS personas y 15 días**, salvo donde ponga «por persona». Salen de
-> **una colada** en el día de descanso de Walvis Bay *(D4–D5)*: por eso la ropa interior se
+> **una colada** en el día de descanso de Walvis Bay *(D5–D6)*: por eso la ropa interior se
 > calcula para siete días y no para quince ○. *(Y no hace falta hacerla a mano: hay deja-y-recoge
 > en Swakopmund y tres lavanderías con dirección en Walvis Bay ◐ — el detalle, en [`05`](05-equipaje.md).)*
 >
@@ -132,7 +132,7 @@ el viaje sigue; si se pierde la cabina, no.
       en noviembre. La térmica hace de pijama en la costa. **Ambos ya en posesión**: gorro fino ○
       y camiseta térmica **Under Armour** ○ — no hace falta comprar nada
 - [ ] **Bañador ×1** — hay piscina en **Okaukuejo y Halali**, las dos noches de dentro ✅ *(en
-      **Onguma Tamboti**, donde se duermen el D11 y el D12, la piscina es de Onguma Bush Camp y
+      **Onguma Tamboti**, donde se duermen el D12 y el D13, la piscina es de Onguma Bush Camp y
       sirve a la otra parcela, Leadwood — no a la vuestra ◐)*
 - [ ] **Ropa de dormir ligera ×1**
 - [ ] **Sombrero de ala ×1** — de ala **≥7,5 cm** ✅ *([skincancer.org](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/))*, no gorra: las orejas y
@@ -230,7 +230,7 @@ ya hace el apaño.
 
 - [ ] **Profilaxis de malaria** ✅ — la pauta **completa** más 3–4 días de margen. Ojo a la
       geografía: el riesgo se define **por regiones, y Kunene incluye Terrace Bay** — la entrada
-      en zona es el **D6 (vie 6)** *(un día antes desde el 24/08)*. Si es Malarone, empieza en
+      en zona es el **D7 (vie 6)** *(un día antes desde el 24/08)*. Si es Malarone, empieza en
       viaje *(~4–5 nov)*; si es mefloquina, **~16–23 de octubre**. Y a la cita del CVI, con el dato: para la guía oficial
       británica, en estas regiones **de mayo a noviembre basta evitar picaduras, sin
       quimioprofilaxis** ✅ *([TravelHealthPro](https://travelhealthpro.org.uk/country/157/namibia))* — que lo decida el CVI con eso delante *(`04`)*
@@ -251,7 +251,7 @@ ya hace el apaño.
 - [ ] **Antihistamínico** — 1 caja ○
 - [ ] **Protector gástrico** — 1 caja ○
 - [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.798 km, y el paso de Spreetshoogte y la
-      grava de los D7–D8 se notan)*
+      grava de los D8–D9 se notan)*
 - [ ] **Laxante suave o fibra** ○ — dieta de camping y poca verdura
 - [ ] **Antitusivo o descongestionante — 1 caja** ○ *(kit CDC: el polvo de pista y el aire seco)*
 - [ ] **Pastillas potabilizadoras ×1 tubo** ○ *(kit CDC: el respaldo de la regla del agua en los
@@ -384,7 +384,7 @@ ya hace el apaño.
 - [ ] Móvil con **Tracks4Africa** ✅ y mapas offline **descargados** — y las otras tres apps,
       TAMBIÉN antes de salir ○: **iOverlander** *(campings y aguadas — útil para los tres sin
       tarifa)*, una de **cielo/estrellas con modo offline** *(las noches de luna nueva del
-      9–12, `01`)* y una de **previsión marina/viento y marea** para el día de mar del D6
+      9–12, `01`)* y una de **previsión marina/viento y marea** para el día de mar del D7
       *(Sandwich Harbour va con la bajamar, `20` §7)*
 - [ ] Reloj o despertador que no dependa de la batería del móvil ○ — **[TFA Dostmann Mini
       Digital Alarm Clock](https://www.amazon.es/dp/B0DDQ1MNW8)** ✅ 7,49 € (Amazon)
@@ -478,7 +478,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       plataforma de la charca, apagado ○ — la misma etiqueta de silencio que el frontal *(`18` §8)*
 - [ ] **Cinta americana ×1**, **bridas ×10** y **cuerda fina ×5 m** ○
 - [ ] **Mecheros y pastillas de encendido — NO van en la maleta: se compran ALLÍ**, y ya están en
-      la compra del D0 con la leña y las cerillas largas *(`08` §lista)*. La norma aérea es la
+      la compra del D1 con la leña y las cerillas largas *(`08` §lista)*. La norma aérea es la
       inversa de la navaja ◐: **prohibidos en el facturado**, y en cabina **como mucho UNO por
       persona y encima** *(en el bolsillo, no dentro del bolso; solo de gas)* — *(norma de
       Lufthansa vía extractos de búsqueda; su página de mercancías peligrosas devuelve 403:
@@ -495,7 +495,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       alicates y destornilladores, pero no sustituye a una navaja de hoja fija/plegable de verdad)*.
       Con cordón para el cuello, como se pidió: **[Carimee, mango de madera, orificio para
       cordón](https://www.amazon.es/Carimee-C12RDE-Navajas-M012B02DE/dp/B0DKDPMHPJ)** ✅ 11,13 €
-      (Amazon, acero D2) — Decathlon no tiene ninguna navaja de su gama con ese orificio; si el
+      (Amazon, acero D3) — Decathlon no tiene ninguna navaja de su gama con ese orificio; si el
       cordón no fuera imprescindible, la alternativa allí es el clásico **[Opinel n.° 8](https://www.decathlon.es/es/p/navaja-de-camping-trekking-senderismo-acero-inoxidable-opinel-numero-8/X8277671/c27m8277671)**
       ✅ 11,99 €
 - [ ] **Silbato ×1** ○ — pesa nada y se oye donde la voz no llega *(ninguna de las listas del
@@ -546,7 +546,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 
 *Se preparan la víspera y viajan en el daypack. El porqué de cada uno, en [`05`](05-equipaje.md).*
 
-**Kit Deadvlei — D4, en marcha ~05:10**
+**Kit Deadvlei — D5, en marcha ~05:10**
 
 - [ ] Daypack con **3 L de agua por persona** — en la **bolsa de hidratación** *(§En el coche)*,
       llenada de las garrafas la víspera
@@ -556,7 +556,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       *(ver calzado)*
 - [ ] Cámara *(desinflar y reinflar no es problema: el compresor va en el coche ✅)*
 
-**Kit charca nocturna — D9 a D12**
+**Kit charca nocturna — D10 a D13**
 
 - [ ] Forro *(se está quieto y refresca)* — **y de color oscuro o neutro, no blanco**: el blanco
       atrae insectos bajo el único foco encendido del recinto ◐
@@ -570,7 +570,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       la medianoche**, cuando el campamento se acuesta ◐
       *([Viatu](https://www.viatu.com/en/blog/namibia/a-complete-guide-to-etosha-national-parks-waterholes))*
 
-**Kit costa — D5 a D7**
+**Kit costa — D6 a D8**
 
 - [ ] Cortavientos
 - [ ] Buff para Cape Cross
@@ -622,8 +622,8 @@ flowchart TD
     B -->|"si"| C["¿Medicacion y gafas<br/>en CABINA?"]
     C -->|"si"| C2["¿Powerbank Anker y las baterias<br/>de la camara en CABINA,<br/>con los contactos tapados?"]
     C2 -->|"si"| D["¿Navaja y multiherramienta<br/>en el petate FACTURADO?"]
-    D -->|"si"| D2["¿Mecheros y pastillas FUERA<br/>de las maletas? Se compran alli<br/>- maximo uno en el bolsillo"]
-    D2 -->|"si"| E["¿Mapas offline y Tracks4Africa<br/>descargados de verdad?"]
+    D -->|"si"| G["¿Mecheros y pastillas FUERA<br/>de las maletas? Se compran alli<br/>- maximo uno en el bolsillo"]
+    G -->|"si"| E["¿Mapas offline y Tracks4Africa<br/>descargados de verdad?"]
     E -->|"si"| F["Listo"]
     style A1 fill:#9d0208,color:#fff
     style B1 fill:#9d0208,color:#fff
