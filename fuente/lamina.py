@@ -42,7 +42,11 @@ def etapas():
     km = {e["id"]: e.get("km") for e in mapa.carga("ruta.json")}
     filas = []
     for e in trazado.ETAPAS:
-        duerme = trazado.PUNTOS[e["duerme"]][2] if e["duerme"] else "—"
+        # En la tira cabe el nombre, no el rotulo entero: «Onguma · Tamboti» y «Paso de
+        # Spreetshoogte» salian cortados y se leia «duerme Paso de». El titulo de la etapa ya
+        # dice por donde se pasa; aqui solo hace falta DONDE se duerme.
+        duerme = (trazado.PUNTOS[e["duerme"]][2].split(" · ")[0].replace("Paso de ", "")
+                  if e["duerme"] else "—")
         d = km.get(e["id"]) or 0
         filas.append({
             "id": e["id"], "fecha": e["fecha"], "titulo": e["titulo"],

@@ -226,7 +226,7 @@ def ficha(d, nom, camp, titulo, prosa):
 
 def cola(d):
     leo = dato(d, "halali", "leopardo")
-    return f"""## 🏕️ Onguma Tamboti — la cuarta noche, y la que NO tiene partes
+    return f"""## 🏕️ Onguma Tamboti — las dos últimas noches, y las que NO tienen partes
 
 Onguma **no aparece en los partes de Expert Africa** que usa este repo ❌: es reserva privada y su
 charca no entra en la serie. Así que aquí **no hay porcentaje que dar**, y no se da.
@@ -310,7 +310,11 @@ partes sostienen**.
 ⚠️ **El graderío es de roca irregular y de noche es traicionero** ○: frontal en modo rojo y calzado
 cerrado *(`../17-lista-de-equipaje.md`)*."""),
     ("namutoni", "💧 Namutoni · King Nehale — la charca del guepardo, y la muestra más floja",
-     """Al pie de las murallas del fuerte, **iluminada y con bancos** ✅. La pega honesta de los
+     """⚠️ **Desde el 24/08 aquí ya no se duerme** —la noche se cambió por una segunda en Onguma—,
+así que **esta charca iluminada se pierde**: Namutoni se cruza el D12 de paso, con la puerta de Von
+Lindequist en el reloj. Lo que sigue vale para saber qué se deja atrás, y era la floja de las tres.
+
+Al pie de las murallas del fuerte, **iluminada y con bancos** ✅. La pega honesta de los
 viajeros ○: **desde los bancos solo se ve parte de la lámina de agua**; el resto, a través de la
 valla. De noche atrae **elefante y kudú**, y rinoceronte más bien a partir del invierno ◐; la mejor
 franja, **19:00–21:00** ◐.

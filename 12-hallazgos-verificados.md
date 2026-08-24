@@ -16,7 +16,7 @@ costado dinero real.
 
 ---
 
-## 1. NWR sube de precio el 1 de noviembre — las cinco noches oficiales caen en tarifa barata ✅
+## 1. NWR sube de precio el 1 de noviembre — las cuatro noches oficiales caen en tarifa barata ✅
 
 **NWR cambia de temporada el 1 de noviembre**, así que las **cuatro** noches de campings oficiales
 —**Sesriem ×2** y las **dos de dentro de Etosha** *(Okaukuejo y Halali)*— caen todas en
