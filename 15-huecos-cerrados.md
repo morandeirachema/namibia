@@ -756,10 +756,11 @@ o de un email)*:
 - 📷 **Tarifas 2026/27 de ProHire y Capture Namibia** *(alquiler de cámara en Windhoek)*: la
   publicada caduca el 31 de octubre — pedir por escrito ❌ *(equipo de fotografía, en el repo
   aparte)*.
-- 🎈 **El vuelo panorámico** *(Sossusvlei / Skeleton Coast)*: operadores reales con precio ✅ —
+- 🎈 ~~**El vuelo panorámico** *(Sossusvlei / Skeleton Coast)*: operadores reales con precio ✅ —
   globo con Namib Sky (N$9.920/persona) o avioneta con Sossusvlei Scenic Flights / Sossusfly
-  (N$6.900–17.500 según ruta y grupo), todos desde Swakopmund o Kulala; sigue sin reservar, es
-  opcional *(`11`)*.
+  (N$6.900–17.500 según ruta y grupo), todos desde Swakopmund o Kulala.~~ **DESCARTADO (24/08):
+  el viajero decide no hacerlo** — el día de mar del D6 es la excursión a Sandwich Harbour en 4x4
+  (`20` §7).
 - 🎫 **El tramo exacto de Cape Cross** *(¿N$150 o el baremo premium de N$280?)*: presupuestado
   N$150+50 ◐ con la banda alta dentro del rango — mismo email del MEFT que la tabla fina de
   tasas *(`11`)*. · La **parcela de Waterberg**: cifra fina sin extraer *(`11` §huecos)*.

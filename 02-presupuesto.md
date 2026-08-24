@@ -552,8 +552,11 @@ durmiendo la víspera en cada sitio. Cada tarde guiada extra: **+N$1.300 (~€65
 > foco y campo a través. ⚖️ Ojo al choque de horarios: hacerlo obliga a **salir del parque hacia
 > las 17:00** y renunciar a la última tarde de charcas *(`01` §D12)*. ⚠️ Horarios de salida ❌ no publicados y
 pre-reserva incierta en temporada de lluvias: **se cierra en recepción al llegar** *(`01`)*.
-**El día de mar en Walvis** sigue aparte como capricho: el crucero para dos
-~**N$2.800–3.980 (~€140–199)**, o el combo con Sandwich Harbour ~**N$9.480 (~€474)** la pareja.
+**El día de mar en Walvis, decidido (24/08): la excursión guiada a Sandwich Harbour en 4x4** —el
+crucero de delfines y lobos sigue abierto como alternativa o complemento, sin decidir. Sigue
+aparte como capricho, fuera del total de §10: **Sandwich Harbour** ~**N$5.200–6.440 (~€260–322)
+la pareja** ◐ *(N$2.600–3.220 pp × 2)*, o el crucero para dos ~**N$2.800–3.980 (~€140–199)**, o el
+combo con Sandwich Harbour ~**N$9.480 (~€474)** la pareja *(ver §9 y [`20`](20-reservas.md) §7)*.
 
 ### Misceláneos ○
 SIM MTC «Leisure» **N$349 (~€17)** ◐ *(cerrada el 05/08 — ver `15` y `07`)*, propinas, peajes y
