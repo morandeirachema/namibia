@@ -15,7 +15,11 @@
 # Solo hace falta Python 3 (pip install -r requirements.txt), Google Chrome y poppler-utils.
 # Las comprobaciones corren tambien solas en cada push: .github/workflows/comprueba.yml.
 
-PY      := python3
+# Si hay un entorno virtual al lado, se usa. En macOS el Python de Homebrew rechaza
+# cualquier `pip install` (PEP 668), asi que ahi las dependencias SOLO caben en un venv:
+#   python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+# En Linux y en el runner de CI no hay .venv y sigue valiendo el python3 del sistema.
+PY      := $(if $(wildcard .venv/bin/python),.venv/bin/python,python3)
 RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo

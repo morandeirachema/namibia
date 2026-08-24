@@ -61,10 +61,10 @@ Tres cosas que no se ven:
   va como `<img>` —para que GitHub lo pinte— y `dossier.MAPAS_EN_DOC` lo cambia por el **SVG en
   línea** al montar el PDF, que sale vectorial y no depende de que el PNG esté generado. La clase
   `.mapa-doc` cruza las dos columnas: a 89 mm la leyenda es ilegible.
-- **Los puntos de la variante no van al GPS.** `spitzkoppe`, `uis` y `ccf` viven en la misma tabla
-  `PUNTOS` —para que el mapa los rotule con el mismo código— pero `trazado.SOLO_VARIANTE` los saca
-  del GPX y del KML: esos son de la ruta que se va a conducir, y un waypoint de Spitzkoppe en el
-  GPS es una invitación a coger el desvío equivocado.
+- **Los puntos de la variante no van al GPS.** `ccf` vive en la misma tabla `PUNTOS` —para que el
+  mapa lo rotule con el mismo código— pero `trazado.SOLO_VARIANTE` lo saca del GPX y del KML: esos
+  son de la ruta que se va a conducir, y un waypoint del CCF en el GPS es una invitación a salir de
+  Etosha por donde no toca.
 - **El día a día del `24` se comprueba contra su geometría** *(abajo)*. Es el mismo error que ya
   costó una tarde con las tartas: dos sitios contando la misma ruta y nada obligándolos a coincidir.
 

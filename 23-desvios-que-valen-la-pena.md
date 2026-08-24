@@ -284,12 +284,6 @@ rojos de 700 millones de años sobre la llanura, el **arco de roca** que es la p
 > existe y se reserva por email, es **~200 km más corta**, cuesta **N$640 (~€32) en vez de los
 > N$3.480 (~€174)** de Terrace Bay, y el D7 dejaría de tener la hora límite de las 15:00 de
 > Ugabmund. **Anótalo antes de llamar a NWR, no después.**
->
-> 👉 **Y desde el 24/08 hay una segunda puerta, que ya no es contingencia sino elección**: la
-> variante del [`24`](24-ruta-alternativa.md) **mete Spitzkoppe en la ruta a propósito**, sin
-> esperar a que Terrace Bay falle. Allí está medido día a día lo que eso hace al viaje entero
-> —**~2.541 km, 223 menos**, y **~€195 a favor**— y lo que cuesta: **la Costa de los Esqueletos
-> entera**.
 
 ---
 
@@ -379,11 +373,10 @@ confirmado por escrito; y el **CCF en el D13**, que entra con **+89 km** y cuya 
 de las 08:00 en el CCF**, y entonces la noche que hay que cambiar es la de
 **Onguma**, no el D2: ese cae en la mitad equivocada del viaje.
 
-**De lo demás**: solo uno de los cinco desvíos puede entrar sin romper nada — si **Terrace Bay** se
-queda sin sitio, la ruta baja por dentro y gana **Spitzkoppe y Brandberg**, ~200 km más corta y
-mucho más barata, perdiendo a cambio la Costa de los Esqueletos entera. **Y ese cambio ya no es
-solo el plan B**: la variante del [`24`](24-ruta-alternativa.md) lo toma como decisión, medido día
-a día. Los otros cuatro piden un día que este viaje no tiene.
+**De lo demás**: solo uno de los cinco desvíos puede entrar sin romper nada, y solo si algo falla —
+si **Terrace Bay** se queda sin sitio, la ruta baja por dentro y gana **Spitzkoppe y Brandberg**,
+~200 km más corta y mucho más barata, perdiendo a cambio la Costa de los Esqueletos entera. Los
+otros cuatro piden un día que este viaje no tiene.
 
 ---
 

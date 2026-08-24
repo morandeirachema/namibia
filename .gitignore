@@ -5,5 +5,9 @@
 
 __pycache__/
 
+# El entorno virtual del build. En macOS es obligatorio (PEP 668: el pip de Homebrew
+# se niega a instalar en el Python del sistema) y en Linux es opcional.
+fuente/.venv/
+
 # HTML intermedio del build (20 MB de base64): se regenera con `make`
 fuente/*.html

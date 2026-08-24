@@ -154,8 +154,8 @@ RESUMEN = {
           "quién llamar y adónde ir — etapa a etapa.",
     "23": "El guepardo, prioridad del viaje: dónde se ve de verdad y de qué noche sale el "
           "día. Y las joyas de FUERA de la ruta, con los kilómetros medidos.",
-    "24": "La variante de tres noches de Etosha, medida contra la oficial: lo mejor y lo "
-          "peor de cambiar Onguma por el CCF y la costa por Spitzkoppe.",
+    "24": "La variante de tres noches de Etosha, medida y con su mapa: lo mejor y lo peor "
+          "de quitarle una noche a Spreetshoogte y cambiar Onguma por el CCF.",
 }
 
 
