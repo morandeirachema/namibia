@@ -237,13 +237,117 @@ def _traza(etapas, fichero, que):
     print(f"   TOTAL OSRM: {total:.0f} km")
 
 
+def tramos():
+    """Los tramos con nombre de carretera de cada etapa, para el firme y los mapas por dia.
+
+    OSRM publico no expone el `surface` de OSM, pero si el `ref` de cada paso (B1, C24,
+    D1261…), y en Namibia con la letra basta —ver `trazado.FIRME`—. Se pide con
+    `steps=true`, que devuelve la geometria de cada paso por separado: eso permite pintar
+    cada tramo del color de su firme en vez de un porcentaje del dia.
+    """
+    import trazado
+    print("OSRM · tramos con nombre de carretera, para el firme")
+    salida = []
+    for etapa in trazado.ETAPAS:
+        puntos = [trazado.PUNTOS[p][:2] for p in etapa["por"]]
+        if len(puntos) < 2:
+            salida.append(dict(id=etapa["id"], tramos=[]))
+            continue
+        coords = ";".join(f"{lon},{lat}" for lat, lon in puntos)
+        url = (f"https://router.project-osrm.org/route/v1/driving/{coords}"
+               "?overview=false&steps=true&geometries=geojson&annotations=false")
+        d = json.loads(pide(url, timeout=120))
+        tr = []
+        for leg in d["routes"][0]["legs"]:
+            for st in leg["steps"]:
+                if st["distance"] < 30:
+                    continue
+                g = st["geometry"]["coordinates"]
+                lat, lon = g[len(g) // 2][1], g[len(g) // 2][0]
+                tr.append({"ref": st.get("ref") or "", "nombre": st.get("name") or "",
+                           "km": round(st["distance"] / 1000, 2),
+                           "firme": trazado.firme_de(st.get("ref"), lat, lon, st.get("name")),
+                           "geometria": redondea(g, 4)})
+        sin = sorted({t["ref"] or t["nombre"] or "(sin nombre)" for t in tr if t["firme"] is None})
+        km_sin = sum(t["km"] for t in tr if t["firme"] is None)
+        salida.append(dict(id=etapa["id"], tramos=tr))
+        print(f"   {etapa['id']:4s} {len(tr):3d} tramos" +
+              (f"  · SIN FIRME {km_sin:.0f} km: {sin}" if km_sin > 2 else ""))
+        time.sleep(1.2)
+    guarda("tramos.json", salida)
+
+
+# Los puntos de interes de la agenda: donde comer y las joyas del `10`, con el dia en que
+# se pasa por ellos. Son los que el dossier ya nombra; aqui solo se les pone coordenada,
+# con Nominatim y NUNCA a ojo. Si Nominatim no lo encuentra, no entra al mapa — y se
+# dice en la salida, para que conste que falta.
+#   (consulta a Nominatim, rotulo del mapa, clase, dias)
+#   clase: comer · joya · compra
+INTERES = [
+    ("Joe's Beerhouse, Windhoek", "Joe's Beerhouse", "comer", ["D1", "D14"]),
+    ("Namibia Craft Centre, Windhoek", "Craft Centre", "compra", ["D15"]),
+    ("Maerua Mall, Windhoek", "Maerua Mall · SuperSpar", "compra", ["D1"]),
+    ("Solitaire Bakery", "Tarta de McGregor", "comer", ["D3", "D5"]),
+    ("The Raft, Walvis Bay", "The Raft · ostras", "comer", ["D5", "D6"]),
+    ("Anchors at the Jetty, Walvis Bay", "Anchors @ the Jetty", "comer", ["D5", "D6"]),
+    ("Café Anton, Swakopmund", "Café Anton", "comer", ["D6", "D7"]),
+    ("The Tug, Swakopmund", "The Tug", "comer", ["D6", "D7"]),
+    ("Jetty 1905, Swakopmund", "Jetty 1905", "comer", ["D6", "D7"]),
+    ("Kücki's Pub, Swakopmund", "Kücki's Pub", "comer", ["D6", "D7"]),
+    ("Brewer & Butcher, Swakopmund", "Brewer & Butcher", "comer", ["D6", "D7"]),
+    ("Dune 7, Walvis Bay", "Dune 7", "joya", ["D5"]),
+    ("Pelican Point, Walvis Bay", "Pelican Point", "joya", ["D6"]),
+    ("Welwitschia Drive, Swakopmund", "Welwitschia Drive", "joya", ["D6"]),
+    ("Moon Landscape, Swakopmund", "Moon Landscape", "joya", ["D6"]),
+    ("Wlotzkasbaken", "Wlotzkasbaken", "joya", ["D7"]),
+    ("Zeila Shipwreck", "Pecio Zeila", "joya", ["D7"]),
+    ("Kuiseb Pass", "Paso del Kuiseb · Henno Martin", "joya", ["D5"]),
+    ("Organ Pipes, Kunene", "Organ Pipes", "joya", ["D8"]),
+    ("Burnt Mountain, Kunene", "Burnt Mountain", "joya", ["D8"]),
+    ("Petrified Forest, Khorixas", "Petrified Forest", "joya", ["D8", "D9"]),
+    ("Lake Otjikoto", "Lago Otjikoto", "joya", ["D14"]),
+    ("Sesriem Canyon", "Sesriem Canyon", "joya", ["D3"]),
+    ("Elim Dune, Sesriem", "Elim Dune", "joya", ["D3"]),
+    ("Grootberg Lodge", "Grootberg Lodge · rastreos", "joya", ["D9"]),
+    ("Hoba Meteorite", "Meteorito de Hoba", "joya", ["D14"]),
+]
+
+
+def interes():
+    """Geocodifica INTERES con Nominatim y lo guarda en geo/interes.json."""
+    print("Nominatim · puntos de interes de la agenda")
+    salida, faltan = [], []
+    for consulta, rotulo, clase, dias in INTERES:
+        url = ("https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode(
+            {"q": consulta, "format": "json", "limit": 1, "countrycodes": "na"}))
+        try:
+            r = json.loads(pide(url, timeout=40, intentos=2))
+        except Exception as e:                                    # noqa: BLE001
+            r = []
+            print(f"   !! {consulta}: {e}")
+        if not r:
+            faltan.append(consulta)
+            print(f"   —  {rotulo:32s} sin resultado")
+        else:
+            salida.append({"consulta": consulta, "rotulo": rotulo, "clase": clase, "dias": dias,
+                           "lat": round(float(r[0]["lat"]), 5), "lon": round(float(r[0]["lon"]), 5),
+                           "osm": r[0].get("display_name", "")[:90]})
+            print(f"   ok {rotulo:32s} {r[0]['display_name'][:60]}")
+        time.sleep(1.1)                                            # la politica de Nominatim
+    guarda("interes.json", {"puntos": salida, "sin_resultado": faltan})
+    if faltan:
+        print(f"   {len(faltan)} sin coordenada — quedan FUERA del mapa, no se inventan")
+
+
 PASOS = [("paises.json", paises),
          ("parques.json", parques),
          ("etosha_pan.json", etosha_pan),
          ("etosha_pistas.json", etosha_pistas),
          ("etosha_puntos.json", etosha_puntos),
          ("ruta.json", ruta),
-         ("ruta-alt.json", ruta_alt)]
+         ("ruta-alt.json", ruta_alt),
+         ("tramos.json", tramos),
+         ("interes.json", interes)]
 
 
 def main():

@@ -153,13 +153,13 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 155 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 156 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
 🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(34 páginas, 148 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari — y ni un animal que nadie haya visto: el corte del 09/08 dejó fuera al oricteropo, la suricata y la cebra de Hartmann; el barrido COMPLETO del 10/08 añadió las 14 que faltaban en Etosha, del águila rapaz al galápago que caza quéleas; el del 11/08, las 13 de las otras zonas — el delfín mular del crucero, el charrán que llega de Europa a decenas de miles, la rata dassie de Twyfelfontein—; y el del 15/08, **todas las rapaces y todos los felinos de la ruta** en dos secciones propias: 31 rapaces diurnas y nocturnas, del cernícalo ojiblanco que nadie había echado en falta al halconcito que vive dentro del pajar del tejedor, más el caracal y el gato de patas negras)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
 
-📆 Y para la guantera, **el día a día y nada más**: [**la agenda**](agenda-namibia-2026.pdf) *(**16 páginas: portada y un A4 por día**. Es el itinerario del dossier sin la investigación detrás: horas, kilómetros, qué hacer, qué reservar, qué preguntar, el sol y la luna, y las opciones ya decididas o abiertas — el desvío del CCF incluido—, con las casillas para marcar a boli. Se genera sola del documento `01`: si cambia una noche, cambia la agenda)*.
+📆 Y para la guantera, **el día a día y nada más**: [**la agenda**](agenda-namibia-2026.pdf) *(**31 páginas: portada y dos por día — el mapa y la explicación**. El mapa, a página entera: el recorrido del día pintado por firme —asfalto, grava, sal o pista de parque—, los lugares de paso, las gasolineras obligatorias, dónde comer y qué ver de paso, y debajo los kilómetros de cada firme con el tiempo mínimo y realista a las velocidades de planificación. En la página siguiente, el itinerario del dossier sin la investigación detrás: horas, qué hacer, qué reservar, qué preguntar, el sol y la luna, las opciones ya decididas o abiertas —el desvío del CCF incluido— y las casillas para marcar a boli. Se genera sola del documento `01` y de los tramos de OSRM: si cambia una noche, cambia la agenda)*.
 
 🗺️ Y para la pared, o para doblar en la guantera: [**la lámina de ruta**](mapa-ruta-namibia-2026.pdf) *(**una sola hoja A2**, 420×594 mm, vectorial: el recorrido entero a 384 mm de ancho, las quince etapas con sus kilómetros del enrutado propio y dónde se duerme cada noche, y abajo lo que manda —velocidades de planificación, la regla de las 18:00, los horarios de puerta de Etosha y los teléfonos de emergencia—. Se genera sola desde la misma geometría que el dossier: si cambia una noche, cambia la lámina. En una impresora de casa, «ajustar a página» a A3 o A4)*.
 

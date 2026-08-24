@@ -186,6 +186,61 @@ ETAPAS_ALT = [
      "por": ["windhoek", "aeropuerto"]},
 ]
 
+# El firme de cada carretera, por su nombre. En Namibia la letra manda: B es asfalto, C y D
+# son grava — y luego estan las excepciones, que son justo las que el dossier ya tenia
+# documentadas una a una. Aqui van TODAS las carreteras que pisa la ruta, para que un
+# tramo sin clasificar salte a la vista en vez de pintarse de cualquier cosa. Las claves
+# «parque» son pistas de dentro de Etosha y del Skeleton Coast, que van a 60.
+#
+#   asfalto  · B1, B2, B6, C38 Otjiwarongo–Okaukuejo (Wikipedia, `13` §3), C40 Outjo–Kamanjab
+#              (Wikipedia, `13` §3), C34 Swakopmund–Henties Bay (asfaltada en 2019, `13` §3)
+#   grava    · el resto de C y D
+#   sal      · C34 al norte de Henties Bay: salt road, se conduce como grava
+FIRME = {
+    "B1": "asfalto", "B2": "asfalto", "B6": "asfalto", "B8": "asfalto",
+    "M47": "grava",                      # es el nombre alternativo de la C24 en OSM
+    "C14": "grava", "C19": "grava", "C24": "grava", "C26": "grava", "C28": "grava",
+    "C34": "sal",                        # se afina por latitud en firme_de(): al sur de
+    "C35": "grava", "C36": "grava",      # Henties Bay es asfalto
+    "C38": "asfalto", "C39": "grava", "C40": "asfalto",   # C40: asfalto solo Outjo–Kamanjab
+    "C43": "grava", "C45": "grava",
+    "D826": "grava", "D1261": "grava", "D1275": "grava", "D1982": "grava",
+    "D2612": "grava", "D3254": "grava", "D2743": "grava", "D3706": "grava",
+    "D3245": "grava", "C27": "grava",
+    "A1": "asfalto",                     # la B1 dentro de Windhoek lleva ese ref en OSM
+    "M44": "asfalto",                    # la salida de Walvis Bay a la B2
+    "D2302": "parque",                   # Springbokwasser–Torra Bay, dentro del Skeleton Coast
+}
+
+# Carreteras que OSM nombra pero no numera. La de Sossusvlei es asfalto hasta el
+# aparcamiento 2WD (`06` §5, `01` §D4); los ultimos 5 km de arena no los enruta OSRM.
+FIRME_POR_NOMBRE = {"Sossusvlei Road": "asfalto", "Sesriem Road": "grava"}
+
+
+def firme_de(ref, lat=None, lon=None, nombre=None):
+    """Asfalto, grava, sal o parque para un tramo de OSRM, con las excepciones geograficas.
+
+    Devuelve None si la carretera no esta en la tabla: el que dibuja decide que hacer,
+    pero nunca se inventa un firme. Sin nombre y dentro de Etosha o del Skeleton Coast
+    es pista de parque.
+    """
+    if not ref and nombre in FIRME_POR_NOMBRE:
+        return FIRME_POR_NOMBRE[nombre]
+    if not ref:
+        if lat is not None and -19.7 < lat < -18.3 and 14.2 < lon < 17.5:
+            return "parque"                                    # Etosha
+        if lat is not None and lat > -21.3 and lon < 13.75:
+            return "parque"                                    # Skeleton Coast
+        return None
+    ref = ref.split(";")[0].strip()
+    f = FIRME.get(ref)
+    if ref == "C34" and lat is not None and lat < -22.1:
+        return "asfalto"                                       # Swakopmund–Henties Bay
+    if ref == "C40" and lat is not None and lon < 14.85:
+        return "grava"                                         # al oeste de Kamanjab
+    return f
+
+
 # Color por bloque. Sale de la paleta del sitio: basalto, hueso y oxido, mas los
 # acentos de estado que ya usan los diagramas del dossier.
 COLOR_BLOQUE = {

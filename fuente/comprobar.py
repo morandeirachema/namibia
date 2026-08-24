@@ -82,6 +82,31 @@ def revisa_geo():
     else:
         bien(f"ruta completa: {len(ruta)} etapas, {total:.0f} km")
 
+    # Los tramos con firme (geo/tramos.json) son otra descarga de OSRM sobre las MISMAS
+    # etapas: si se mueve una noche y se regenera ruta.json sin regenerarlos, el mapa
+    # del dia de la agenda pinta el recorrido de antes. Se comprueba que cubren los
+    # mismos dias y casi los mismos kilometros —a OSRM los `steps` le suman un poco por
+    # el redondeo de cada paso—, y que no queda ningun tramo largo sin firme conocido.
+    fich = os.path.join(HERE, "geo", "tramos.json")
+    if not os.path.exists(fich):
+        return mal("falta geo/tramos.json — ejecuta `python3 fuente/geodatos.py tramos`")
+    tramos = {e["id"]: e["tramos"] for e in json.load(open(fich))}
+    km_ruta = {e["id"]: e["km"] or 0 for e in ruta}
+    if set(tramos) != set(km_ruta):
+        return mal("geo/tramos.json no cubre los mismos dias que geo/ruta.json: regenera "
+                   "con `python3 fuente/geodatos.py tramos --forzar`")
+    desfase = [d for d in km_ruta if abs(sum(t["km"] for t in tramos[d]) - km_ruta[d]) > 3]
+    if desfase:
+        return mal(f"los tramos con firme no cuadran con la ruta en {desfase}: regenera "
+                   "geo/tramos.json")
+    sin = {t["ref"] or t["nombre"] or "?" for ts in tramos.values() for t in ts
+           if t["firme"] is None and t["km"] >= 8}
+    if sin:
+        mal(f"carreteras de mas de 8 km sin firme en trazado.FIRME: {sorted(sin)}")
+    else:
+        bien(f"firme: {sum(len(t) for t in tramos.values())} tramos con carretera conocida, "
+             f"ninguno largo sin clasificar")
+
 
 def revisa_dia_a_dia():
     """Que los kilometros del `01` sean los que mide la geometria de la ruta.
@@ -605,35 +630,35 @@ def revisa_pdf(nombre, minimo):
 
 
 def revisa_agenda(nombre="agenda-namibia-2026.pdf"):
-    """La agenda es UN A4 por dia: portada + quince paginas. Si sale una mas, un dia se
-    ha desbordado y en la guantera se leera a medias. Se localiza cual, para no tener que
-    abrir el PDF a mirarlo."""
+    """La agenda: portada y DOS paginas por dia — el mapa y la explicacion —, exactamente.
+
+    Cada dia abre en pagina impar con su mapa a pagina entera y sigue con el texto. Si
+    la explicacion de un dia se desborda a una tercera, en la guantera se lee a medias:
+    se localiza cual, para no tener que abrir el PDF a mirarlo. Se lee el «Dn» de la
+    cabecera: la pagina del mapa y la del texto lo llevan; una tercera sin el no."""
     ruta = os.path.join(RAIZ, nombre)
     if not os.path.exists(ruta):
         return mal(f"no existe {nombre}")
-    esperadas = 1 + len(trazado.ETAPAS)
     salida = subprocess.run(["pdfinfo", ruta], capture_output=True, text=True).stdout
     paginas = next((int(l.split()[1]) for l in salida.splitlines()
                     if l.startswith("Pages:")), 0)
-    if paginas == esperadas:
-        return bien(f"{nombre}: portada + {len(trazado.ETAPAS)} dias, un A4 cada uno")
-    # que dia ocupa mas de una pagina
-    # El «Dn» de la cabecera va en las primeras lineas de la pagina, pero no siempre
-    # es la primera: en los dias que abren con un diagrama pdftotext saca antes la
-    # fecha. Una pagina sin cabecera es la continuacion del dia anterior.
-    largos, ultimo = [], "?"
+    esperadas = 1 + 2 * len(trazado.ETAPAS)
+    cuenta, ultimo = {}, None
     for i in range(2, paginas + 1):
         txt = subprocess.run(["pdftotext", "-f", str(i), "-l", str(i), ruta, "-"],
                              capture_output=True, text=True).stdout
-        cab = "\n".join(txt.splitlines()[:5])
-        m = re.search(r"\b(D\d+)\b", cab)
+        m = re.search(r"\b(D\d+)\b", "\n".join(txt.splitlines()[:6]))
         if m:
             ultimo = m.group(1)
-        else:
-            largos.append(ultimo)
-    repes = sorted(set(largos), key=lambda d: int(d[1:]) if d[1:].isdigit() else 0)
-    mal(f"{nombre} tiene {paginas} paginas y deberia tener {esperadas}: "
-        f"se desborda {', '.join(repes) or 'algun dia'}")
+        if ultimo:
+            cuenta[ultimo] = cuenta.get(ultimo, 0) + 1
+    if paginas == esperadas and all(n == 2 for n in cuenta.values()):
+        return bien(f"{nombre}: portada + {len(trazado.ETAPAS)} dias, mapa y explicacion")
+    largos = sorted((d for d, n in cuenta.items() if n > 2), key=lambda d: int(d[1:]))
+    cortos = sorted((d for d, n in cuenta.items() if n < 2), key=lambda d: int(d[1:]))
+    mal(f"{nombre} tiene {paginas} paginas y deberia tener {esperadas}"
+        + (f": se desborda la explicacion de {', '.join(largos)}" if largos else "")
+        + (f"; sin sus dos paginas: {', '.join(cortos)}" if cortos else ""))
 
 
 def revisa_lamina(nombre="mapa-ruta-namibia-2026.pdf"):
