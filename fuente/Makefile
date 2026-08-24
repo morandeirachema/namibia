@@ -63,9 +63,13 @@ lamina: | $(GEO)/ruta.json
 gps: | $(GEO)/ruta.json
 	$(PY) gps.py
 
-# La agenda es el `01` recortado a sus quince dias: solo pide la geometria, para la portada.
-agenda: | $(GEO)/ruta.json
+# La agenda es el `01` recortado a sus quince dias, con el mapa de cada uno: pide la
+# geometria y los tramos con firme.
+agenda: | $(GEO)/ruta.json $(GEO)/tramos.json
 	$(PY) agenda.py
+
+$(GEO)/tramos.json: | $(GEO)/ruta.json
+	$(PY) geodatos.py tramos
 
 # Las paradas y el trazado que se importan en Google My Maps, en aparte/. Misma
 # geometria otra vez: se derivan, no se escriben.

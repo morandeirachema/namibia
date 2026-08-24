@@ -77,7 +77,7 @@ def poda(mdtexto):
     return t
 
 
-def cabecera_dia(dia, titulo):
+def cabecera_dia(dia, titulo, breve=False):
     """«D3 · lun 2 — Spreetshoogte → Sesriem · ~129 km · ~2h» partido en sus piezas."""
     fecha, _, resto = titulo.partition(" — ")
     que, _, cifra = resto.partition(" · **")
@@ -87,7 +87,7 @@ def cabecera_dia(dia, titulo):
     color = trazado.COLOR_BLOQUE[etapa["bloque"]]
     duerme = (trazado.PUNTOS[etapa["duerme"]][2].split(" · ")[0].replace("Paso de ", "")
               if etapa["duerme"] else "vuelo")
-    return f"""<header class="dia" style="--c:{color}">
+    return f"""<header class="dia{' breve' if breve else ''}" style="--c:{color}">
   <div class="num">{dia}</div>
   <div class="t">
     <div class="fecha">{fecha}</div>
@@ -96,6 +96,54 @@ def cabecera_dia(dia, titulo):
   </div>
   <div class="duerme"><span>duerme</span><b>{duerme}</b></div>
 </header>"""
+
+
+def banda_mapa(dia):
+    """El mapa del dia con, encima, su ficha: kilometros por firme, tiempos y lugares de paso.
+
+    Los kilometros por firme salen de `geo/tramos.json` (OSRM, con el ref de cada tramo y
+    la tabla `trazado.FIRME`); el tiempo minimo, de las velocidades de planificacion del
+    `13` —asfalto 100, grava 80, parque 60—, y el realista anade lo que el `13` anade:
+    grava a 60–70 de media real y 30–60 min de paradas. No es un dato de fuente: es el
+    mismo convenio del dossier, aplicado tramo a tramo.
+    """
+    import mapa
+    etapa = next(e for e in trazado.ETAPAS if e["id"] == dia)
+    km, h_min = mapa.firme_del_dia(dia)
+    total = sum(km.values())
+    if not total:
+        # dia sin traslado: el mapa es lo que hay alrededor de donde se duerme
+        svg = mapa.mapa_dia(dia, 1000, 1080)
+        donde = trazado.PUNTOS[etapa["duerme"]][2].split(" · ")[0]
+        return f"""<section class="mapa-dia">
+  <div class="ficha"><span class="tot"><b>sin traslado</b></span>
+    <span class="t">día de descanso en <b>{donde}</b></span></div>
+  <div class="svg">{svg}</div>
+  <div class="paso">{donde}: lo que hay alrededor, sin mover el coche de sitio</div>
+</section>"""
+    # realista: grava y sal a 65 en vez de 80, mas media hora de paradas
+    h_real = sum(v / (65.0 if f in ("grava", "sal") else mapa.VEL[f]) for f, v in km.items()) + 0.5
+    def hm(h):
+        return f"{int(h)} h {int(round(h % 1 * 60)):02d}"
+    orden = ["asfalto", "grava", "sal", "parque"]
+    firmes = "".join(
+        f'<span class="f"><i style="background:{mapa.COLOR_FIRME[f]}"></i>'
+        f'{mapa.NOMBRE_FIRME[f]} <b>{km[f]:.0f} km</b></span>'
+        for f in orden if km.get(f, 0) >= 1)
+    paso = [trazado.PUNTOS[p][2].split(" · ")[0] for p in etapa["por"]]
+    # sin repetir el punto de partida cuando el dia vuelve al mismo sitio
+    compact = [p for i, p in enumerate(paso) if i == 0 or p != paso[i - 1]]
+    lugares = " → ".join(compact)
+    svg = mapa.mapa_dia(dia, 1000, 1080)
+    return f"""<section class="mapa-dia">
+  <div class="ficha">
+    <span class="tot"><b>{total:.0f} km</b></span>
+    {firmes}
+    <span class="t">mínimo <b>{hm(h_min)}</b> · realista <b>{hm(h_real)}</b></span>
+  </div>
+  <div class="svg">{svg}</div>
+  <div class="paso">{lugares}</div>
+</section>"""
 
 
 def a_html(texto):
@@ -114,7 +162,7 @@ def a_html(texto):
 CSS = """
 @page { size: A4; margin: 14mm 12mm 16mm 12mm; }
 * { box-sizing: border-box; }
-html { font-size: 10.2pt; }
+html { font-size: 9.6pt; }
 body { margin: 0; font-family: var(--sans); color: var(--tinta); background: #fff;
        line-height: 1.38; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 :root { --serif: "Source Serif 4", Georgia, serif; --sans: "Source Sans 3", Arial, sans-serif;
@@ -139,6 +187,31 @@ ol.indice .d { font-weight: 700; }
 ol.indice .f { color: var(--tinta-3); }
 ol.indice .k { font-family: var(--mono); font-size: 8.4pt; color: var(--tinta-2); }
 .portada .pie { font-size: 8.6pt; color: var(--tinta-3); border-top: .5mm solid var(--tinta); padding-top: 2mm; }
+
+/* --- el mapa del día ------------------------------------------------------ */
+.mapa-dia { margin: 0; break-inside: avoid; }
+.mapa-dia .svg { border: .35mm solid var(--regla); }
+.mapa-dia .ficha { margin: 2.5mm 0 1.5mm; font-size: 9.6pt; gap: 1mm 6mm; }
+.mapa-dia .ficha .tot { font-size: 14pt; }
+.mapa-dia .ficha .t { margin-left: auto; font-size: 9pt; }
+.mapa-dia .paso { font-size: 9.4pt; margin-top: 1.5mm; }
+section.d.texto .cuerpo { column-count: 2; column-gap: 6mm; }
+header.dia.breve { margin-bottom: 3mm; padding-bottom: 1.5mm; }
+header.dia.breve .num { font-size: 22pt; }
+header.dia.breve h1 { font-size: 13pt; }
+header.dia.breve .cifra, header.dia.breve .duerme { display: none; }
+.mapa-dia .svg svg { display: block; width: 100%; height: auto; }
+.mapa-dia .ficha { display: flex; flex-wrap: wrap; gap: 1mm 5mm; align-items: baseline;
+                   font-size: 8.8pt; color: var(--tinta-2); margin-bottom: 1.5mm; }
+.mapa-dia .ficha .tot { font-family: var(--serif); font-size: 12pt; color: var(--tinta); }
+.mapa-dia .ficha .f i { display: inline-block; width: 6mm; height: 1.4mm; border-radius: .7mm;
+                        vertical-align: middle; margin-right: 1.4mm; }
+.mapa-dia .ficha .t { margin-left: auto; font-family: var(--mono); font-size: 8.2pt; }
+.mapa-dia .paso { font-size: 8.2pt; color: var(--tinta-3); margin-top: 1.2mm;
+                  font-family: var(--serif); font-style: italic; }
+.cuerpo { column-count: 2; column-gap: 6mm; column-fill: auto; }
+.cuerpo > * { break-inside: avoid; }
+.cuerpo pre.mermaid { column-span: all; }
 
 /* --- cada día ----------------------------------------------------------- */
 section.d { page-break-before: always; }
@@ -205,10 +278,13 @@ def portada():
     return f"""<section class="portada">
   <div>
     <h1>NAMIBIA <span>2026</span><br>la agenda</h1>
-    <div class="sub">El día a día, y nada más — un A4 por día, para la guantera</div>
-    <p class="que">Lo mismo que cuenta el itinerario del dossier, sin la investigación
-    detrás: horas, kilómetros, qué hacer, qué reservar, qué preguntar, el sol y la luna,
-    y las opciones que ya están decididas o abiertas. Cada casilla se marca a boli.</p>
+    <div class="sub">El día a día, y nada más — cada día con su mapa, para la guantera</div>
+    <p class="que">Dos páginas por día. La primera, el mapa del recorrido pintado por
+    firme —asfalto, grava, sal, pista de parque—, con los lugares de paso, las gasolineras
+    obligatorias, dónde comer y qué ver de paso, y los kilómetros y el tiempo de cada
+    firme. La segunda, lo mismo que cuenta el itinerario del dossier sin la investigación
+    detrás: horas, qué hacer, qué reservar, qué preguntar, el sol y la luna, y las opciones
+    que ya están decididas o abiertas. Cada casilla se marca a boli.</p>
     <ol class="indice">{"".join(li)}</ol>
   </div>
   <div class="pie">~{comun.mil(total)} km en 15 días · 30 de octubre – 15 de noviembre ·
@@ -225,7 +301,8 @@ def html_completo():
     tipos = comun.tipografias(os.path.join(HERE, "tipos"))
     secciones = []
     for dia, titulo, cuerpo in dias():
-        secciones.append(f'<section class="d">{cabecera_dia(dia, titulo)}'
+        secciones.append(f'<section class="d mapa">{cabecera_dia(dia, titulo)}{banda_mapa(dia)}</section>'
+                         f'<section class="d texto">{cabecera_dia(dia, titulo, breve=True)}'
                          f'<div class="cuerpo">{a_html(poda(cuerpo))}</div></section>')
     completo = dossier.html_completo()
     script = completo[completo.index('<script src="'):completo.rindex("</body>")]

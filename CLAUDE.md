@@ -35,13 +35,34 @@ en el índice.
 
 ## La agenda, que es el `01` y nada más
 
-`agenda.py` → `agenda-namibia-2026.pdf`: **portada + un A4 por día**, para la guantera. No se
-escribe nada a mano: corta el `01` entre `### D1` y el final del `### D15`, quita lo que es del
-dossier y no del día —las líneas de temperatura y de fauna del campamento, las notas de fuente y
-decisión entre paréntesis, las remisiones a `aparte/`— y desenvuelve los enlaces, porque en papel no
-hay a dónde saltar. Cada día abre página. `make comprueba` exige **exactamente 16 páginas** y, si
-sale una más, dice qué día se ha desbordado: el D13, el del desvío del CCF, es el más largo y va
-justo — una viñeta más en el `01` lo parte en dos.
+`agenda.py` → `agenda-namibia-2026.pdf`: portada y **cada día en su página, con su mapa**, para la
+guantera. No se escribe nada a mano: corta el `01` entre `### D1` y el final del `### D15`, quita
+lo que es del dossier y no del día —las líneas de temperatura y de fauna del campamento, las notas
+de fuente y decisión entre paréntesis, las remisiones a `aparte/`— y desenvuelve los enlaces,
+porque en papel no hay a dónde saltar.
+
+**El mapa del día** (`mapa.mapa_dia`) pinta el recorrido **por firme** —asfalto, grava, sal
+compactada o pista de parque— a partir de `geo/tramos.json`: es otra descarga de OSRM sobre las
+mismas etapas, pedida con `steps=true`, que devuelve el `ref` de cada tramo (B1, C24, D1261…). OSRM
+público no expone el `surface` de OSM, pero **en Namibia la letra manda** —B asfalto, C y D grava—
+y las excepciones son las que el dossier ya documentaba una a una: van todas en `trazado.FIRME`
+*(C34 asfaltada hasta Henties Bay y sal después, C40 asfaltada solo Outjo–Kamanjab, la carretera
+de Sossusvlei asfaltada hasta el 2WD…)*. La ficha del mapa da los kilómetros por firme y el tiempo
+**mínimo a las velocidades del `13`** (100/80/60) y el **realista** (grava a 65 y media hora de
+paradas), que es el mismo convenio del dossier aplicado tramo a tramo. `make comprueba` exige que
+`tramos.json` cubra los mismos días y kilómetros que `ruta.json` —si se mueve una noche y no se
+regenera, el mapa pinta el recorrido de antes— y que **ningún tramo de más de 8 km quede sin firme
+en la tabla**.
+
+**Cada día son DOS páginas, exactamente**: la primera el mapa a página entera y la segunda la
+explicación a dos columnas. `make comprueba` exige 31 páginas y, si la explicación de un día se
+desborda a una tercera, dice cuál.
+
+**Los puntos de interés del mapa** —dónde comer, qué ver de paso, compras— son los que el `08` y el
+`10` ya nombran; `geodatos.py interes` les pone coordenada **con Nominatim, nunca a ojo**, y los
+cachea en `geo/interes.json` con el día en que se pasa. Lo que Nominatim no encuentra **queda fuera
+del mapa y consta en el JSON** *(hoy: Anchors @ the Jetty, el pecio Zeila y el lago Otjikoto)*. Para
+añadir uno, se añade a `INTERES` en `geodatos.py` y se regenera.
 
 ## Convenciones que no se ven en el markdown
 

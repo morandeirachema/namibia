@@ -269,6 +269,188 @@ def envoltorio(ancho, alto, cuerpo, fondo=None):
 
 
 # ---------------------------------------------------------------------------
+# Mapa por dia · la etapa sola, con su firme
+# ---------------------------------------------------------------------------
+
+# El color de cada firme en el mapa del dia. Lo urbano (calles con nombre, sin ref) es
+# ruido de pocos kilometros y se pinta como asfalto sin contarlo aparte.
+COLOR_FIRME = {"asfalto": "#3A3632", "grava": "#C2542F", "sal": "#8A6210",
+               "parque": "#5F7043", "urbano": "#3A3632"}
+NOMBRE_FIRME = {"asfalto": "asfalto", "grava": "grava", "sal": "sal compactada",
+                "parque": "pista de parque"}
+VEL = {"asfalto": 100.0, "urbano": 100.0, "grava": 80.0, "sal": 80.0, "parque": 60.0}
+
+
+def _tramos(dia):
+    for e in carga("tramos.json"):
+        if e["id"] == dia:
+            return e["tramos"]
+    return []
+
+
+def firme_del_dia(dia):
+    """Kilometros por firme, y el tiempo minimo a las velocidades de planificacion del `13`.
+
+    Devuelve (km_por_firme, horas_minimo). El urbano se suma al asfalto: son calles de
+    Windhoek o de la costa, y contarlas aparte solo anadiria una fila de 4 km.
+    """
+    km = {}
+    for t in _tramos(dia):
+        f = t["firme"] or "urbano"
+        f = "asfalto" if f == "urbano" else f
+        km[f] = km.get(f, 0.0) + t["km"]
+    horas = sum(v / VEL[f] for f, v in km.items())
+    return km, horas
+
+
+def mapa_dia(dia, ancho=1000, alto=None):
+    """El mapa de UNA etapa: su recorrido pintado por firme, los puntos por los que pasa
+    y, de gris, lo que la ruta hace los demas dias, para que se vea de donde se viene."""
+    etapa = next(e for e in trazado.ETAPAS if e["id"] == dia)
+    tramos = _tramos(dia)
+    puntos = etapa["por"]
+    if not tramos:                                       # dia sin traslado
+        puntos = [etapa["duerme"]]
+    lats = [trazado.PUNTOS[p][0] for p in puntos]
+    lons = [trazado.PUNTOS[p][1] for p in puntos]
+    for t in tramos:
+        for lon, lat in t["geometria"]:
+            lats.append(lat); lons.append(lon)
+    # los puntos de interes del dia tambien entran en el encuadre: en un dia sin traslado
+    # son el mapa entero (Walvis Bay con Pelican Point, Dune 7 y el Welwitschia Drive)
+    interes = carga("interes.json")["puntos"] if os.path.exists(
+        os.path.join(GEO, "interes.json")) else []
+    for pi in interes:
+        if dia in pi["dias"]:
+            lats.append(pi["lat"]); lons.append(pi["lon"])
+    # encuadre: la etapa con aire alrededor, y nunca mas apaisado de lo que pide la caja.
+    # El minimo de 0,25 grados (~28 km) es lo que hace que un dia de 70 km de safari o
+    # un dia de descanso llenen la pagina en vez de salir como un punto en un desierto.
+    holg = 0.14
+    dlat, dlon = max(lats) - min(lats), max(lons) - min(lons)
+    dlat, dlon = max(dlat, 0.25), max(dlon, 0.25)
+    k = math.cos(math.radians((max(lats) + min(lats)) / 2))
+    prop = (alto / ancho) if alto else 0.62
+    # ajustar para que la caja tenga la proporcion pedida
+    if dlat / (dlon * k) < prop:
+        dlat = dlon * k * prop
+    else:
+        dlon = dlat / (k * prop)
+    clat, clon = (max(lats) + min(lats)) / 2, (max(lons) + min(lons)) / 2
+    L = Lienzo(sur=clat - dlat * (0.5 + holg), oeste=clon - dlon * (0.5 + holg),
+               norte=clat + dlat * (0.5 + holg), este=clon + dlon * (0.5 + holg),
+               ancho=ancho)
+    cuerpo = [capa_paises(L)]
+    cuerpo.append(capa_parques(L, ["Namib-Naukluft", "Skeleton Coast", "Dorob", "Etosha"]))
+    cuerpo.append(capa_pan(L))
+    cuerpo.append(tropico(L))
+    # el resto de la ruta, de gris fino
+    for e in carga("ruta.json"):
+        if e["id"] != dia and e.get("geometria"):
+            d = L.d([(p[1], p[0]) for p in e["geometria"]])
+            cuerpo.append(f'<path d="{d}" fill="none" stroke="{C["borde"]}" '
+                          f'stroke-width="2.2" stroke-linecap="round" opacity=".7"/>')
+    # la etapa, por firme
+    for t in tramos:
+        d = L.d([(p[1], p[0]) for p in t["geometria"]])
+        col = COLOR_FIRME[t["firme"] or "urbano"]
+        cuerpo.append(f'<path d="{d}" fill="none" stroke="{C["papel"]}" stroke-width="7" '
+                      f'stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>')
+        cuerpo.append(f'<path d="{d}" fill="none" stroke="{col}" stroke-width="4.2" '
+                      f'stroke-linecap="round" stroke-linejoin="round"/>')
+    # puntos de paso: los del dia grandes y rotulados, los de alrededor pequenos
+    vistos = set()
+    for clave in puntos:
+        if clave in vistos:
+            continue
+        vistos.add(clave)
+        dx, dy, anc = ROTULOS_RUTA.get(clave, (8, 4, "start"))
+        cuerpo.append(punto(L, clave, None, dx, dy, anc, tam=13))
+    for clave, (lat, lon, rot, cl) in trazado.puntos_oficiales().items():
+        if clave in vistos:
+            continue
+        x, y = L.xy(lat, lon)
+        if 12 < x < L.ancho - 12 and 12 < y < L.alto - 12:
+            cuerpo.append(punto(L, clave, rot, 6, 3, "start", tam=9.6, negrita=False,
+                                color=C["tinta3"]))
+    # los puntos de interes del dia: donde comer, joyas y compras (geo/interes.json)
+    for pi in interes:
+        if dia not in pi["dias"]:
+            continue
+        x, y = L.xy(pi["lat"], pi["lon"])
+        if not (10 < x < L.ancho - 10 and 10 < y < L.alto - 10):
+            continue
+        col = COLOR_INTERES[pi["clase"]]
+        cuerpo.append(f'<rect x="{x - 4.2:.1f}" y="{y - 4.2:.1f}" width="8.4" height="8.4" '
+                      f'rx="1.6" fill="{col}" stroke="{C["papel"]}" stroke-width="1.4"/>')
+        cuerpo.append(f'<text x="{x + 7:.1f}" y="{y + 3.6:.1f}" font-size="10.6" '
+                      f'font-weight="600" fill="{col}" paint-order="stroke" '
+                      f'stroke="{C["papel"]}" stroke-width="2.6" stroke-linejoin="round">'
+                      f'{esc(pi["rotulo"])}</text>')
+    # escala acorde al encuadre
+    km_esc = 50 if L.km_por_unidad() * L.ancho < 400 else 100
+    if L.km_por_unidad() * L.ancho < 120:
+        km_esc = 20
+    cuerpo.append(escala(L, 30, L.alto - 30, km_esc, ancho_texto=9))
+    cuerpo.append(norte(L.ancho - 36, 40, r=12))
+    cuerpo.append(leyenda_dia(L, [t["firme"] or "urbano" for t in tramos],
+                              {pi["clase"] for pi in interes if dia in pi["dias"]},
+                              {trazado.PUNTOS[p][3] for p in puntos}))
+    return envoltorio(L.ancho, L.alto, "".join(cuerpo))
+
+
+COLOR_INTERES = {"comer": "#8A3B8E", "joya": "#2F6E8E", "compra": "#5F7043"}
+NOMBRE_INTERES = {"comer": "dónde comer", "joya": "qué ver de paso", "compra": "compra"}
+
+
+def leyenda_dia(L, firmes, clases_interes, clases_punto):
+    """La leyenda del mapa del dia, arriba a la izquierda: firmes que pisa y simbolos."""
+    filas = []
+    for f in ("asfalto", "grava", "sal", "parque"):
+        if f in firmes:
+            filas.append(("linea", COLOR_FIRME[f], NOMBRE_FIRME[f]))
+    simb = [("parada", "donde se duerme"), ("combu", "gasolinera obligatoria"),
+            ("puerta", "puerta de parque con horario"), ("paso", "puerto de montaña"),
+            ("hito", "lo que se visita")]
+    for cl, nom in simb:
+        if cl in clases_punto:
+            filas.append((cl, None, nom))
+    for cl in ("comer", "joya", "compra"):
+        if cl in clases_interes:
+            filas.append(("cuadro", COLOR_INTERES[cl], NOMBRE_INTERES[cl]))
+    if not filas:
+        return ""
+    x0, y0, paso = 22, 22, 17
+    alto = 14 + paso * len(filas)
+    out = [f'<rect x="{x0 - 10}" y="{y0 - 10}" width="212" height="{alto}" rx="5" '
+           f'fill="{C["papel"]}" stroke="{C["borde"]}" stroke-width=".9" opacity=".95"/>']
+    for i, (tipo, col, nom) in enumerate(filas):
+        y = y0 + 8 + paso * i
+        if tipo == "linea":
+            out.append(f'<line x1="{x0}" y1="{y}" x2="{x0 + 26}" y2="{y}" stroke="{col}" '
+                       f'stroke-width="4.2" stroke-linecap="round"/>')
+        elif tipo == "cuadro":
+            out.append(f'<rect x="{x0 + 9}" y="{y - 4.2}" width="8.4" height="8.4" rx="1.6" '
+                       f'fill="{col}" stroke="{C["papel"]}" stroke-width="1.2"/>')
+        else:
+            r = ICONO[tipo]
+            colp = {"parada": C["oxido"], "puerta": C["rojo"], "paso": C["oro"],
+                    "combu": C["verde"]}.get(tipo, C["tinta"])
+            cx = x0 + 13
+            if tipo == "parada":
+                out.append(f'<circle cx="{cx}" cy="{y}" r="{r}" fill="{colp}" stroke="{C["papel"]}" stroke-width="1.6"/>'
+                           f'<circle cx="{cx}" cy="{y}" r="{r - 2.4}" fill="{C["papel"]}"/>')
+            elif tipo == "puerta":
+                out.append(f'<rect x="{cx - r}" y="{y - r}" width="{2 * r}" height="{2 * r}" fill="{colp}" '
+                           f'stroke="{C["papel"]}" stroke-width="1.2" transform="rotate(45 {cx} {y})"/>')
+            else:
+                out.append(f'<circle cx="{cx}" cy="{y}" r="{r}" fill="{colp}" stroke="{C["papel"]}" stroke-width="1.2"/>')
+        out.append(f'<text x="{x0 + 34}" y="{y + 3.4}" font-size="9.4" fill="{C["tinta"]}">'
+                   f'{esc(nom)}</text>')
+    return "".join(out)
+
+
+# ---------------------------------------------------------------------------
 # Mapa 1 · la ruta entera
 # ---------------------------------------------------------------------------
 
