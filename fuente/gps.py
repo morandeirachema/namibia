@@ -4,7 +4,7 @@
 Sale de la MISMA geometria que el mapa del dossier y que la lamina —`geo/ruta.json`,
 enrutado con OSRM sobre OpenStreetMap— y de la misma tabla de puntos
 (`trazado.puntos_oficiales()`: `PUNTOS` menos los que solo existen en la variante
-del `24`, que no se van a conducir).
+del `aparte/decision-del-ccf`, que no se van a conducir).
 Es decir: si se cambia una noche, el GPX cambia solo. Nada escrito a mano.
 
 Se generan dos ficheros porque no los come el mismo sitio:

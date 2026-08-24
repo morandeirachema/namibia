@@ -137,7 +137,8 @@ flowchart LR
    gasolinera documentada** y la de Twyfelfontein es irregular (ver `08`).
    **La aritmética, con los km del enrutado OSRM (09/08)**: desde el surtidor de **Henties Bay**
    (✅ Puma 24 h) hasta el siguiente seguro —**Kamanjab, la mañana del D10**— hay **~740 km**
-   *(Henties → Terrace Bay ~302 + D9 ~368 + Hoada → Kamanjab ~69)*. A los **11–13 l/100 km** son
+   *(Henties → Terrace Bay ~300 + D8 ~211 + D9 ~159 + Hoada → Kamanjab ~69; desde el 24/08 el día
+   de Damaraland va partido en dos, pero el total del bucle no cambia)*. A los **11–13 l/100 km** son
    **81–96 litros** — **caben con margen en el depósito de 140 l de Savanna** ✅ *(`20` §1)*,
    dejando 44–59 l de sobra. **El depósito es doble** —principal de 80 l + secundario de 60 l,
    conectados por un solo tubo de llenado— y **el indicador solo mide el principal**: marca
@@ -464,16 +465,17 @@ zona de Etosha.
    aérea es el mismo.
 3. Un **dispositivo satelital con SOS** es lo que **dispara el rescate** donde no hay cobertura.
 
-### La costa (D6–D8) sí tiene hospital — dos, privados ◐
+### La costa (D5–D7) sí tiene hospital — dos, privados ◐
 
 - **Mediclinic Swakopmund** — Franziska van Neel St · **+264 64 412 200** ◐
   *([mediclinic.co.za/swakopmund](https://www.mediclinic.co.za/en/swakopmund/home.html))*
 - **Welwitschia Hospital (Walvis Bay)** — urgencias **+264 64 218 911** · centralita
   **+264 64 218 902** ◐ *([welwitschiahospital.com](https://welwitschiahospital.com/contact-us/))*
 
-Cubren los tres días de la costa —crucero, dunas y ostras incluidos— y son la referencia del D6
-al D8 por la mañana. **Del norte de Henties Bay a Kamanjab (D8–D9) no hay NADA**: ese tramo es
-del satelital y de las ambulancias de arriba.
+Cubren los tres días de la costa —crucero, dunas y ostras incluidos— y son la referencia del D5
+al D7 por la mañana. **Del norte de Henties Bay hasta Kamanjab no hay NADA**, y desde el 24/08 ese
+vacío dura **cuatro días** en vez de tres *(D7 desde mediodía, D8 en Twyfelfontein, D9 en Hoada y
+la mañana del D10)*: ese tramo es del satelital y de las ambulancias de arriba.
 
 **Atención definitiva para algo grave: Windhoek** — Windhoek Central Hospital **061 203 9111**;
 privados: Lady Pohamba, Roman Catholic, Mediclinic Windhoek.

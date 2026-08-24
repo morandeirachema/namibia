@@ -501,9 +501,14 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       ✅ 11,99 €
 - [ ] **Silbato ×1** ○ — pesa nada y se oye donde la voz no llega *(ninguna de las listas del
       barrido del 11/08 lo pedía: entra por decisión propia)*
-- [ ] **Guantes de trabajo ×1 par** ○ — el pinchazo del mediodía *(la llanta y el gato queman a
-      35–38 °C, y el `13` cuenta con «un pinchazo = +1 h»)*, la leña y la parrilla del braai;
-      práctica overlanding común. Viajan en la caja de la noche *(`18` §2)*
+- [ ] **Guantes de trabajo ×1 par POR PERSONA** ○ — subidos de uno a dos el 25/08: **si hay que
+      cavar o empujar, se cava y se empuja entre dos**. Sirven para el pinchazo del mediodía *(la
+      llanta y el gato queman a 35–38 °C, y el `13` cuenta con «un pinchazo = +1 h»)*, para
+      **desatascar en arena** —los 5 km blandos de Sossusvlei, con la pala que sí trae el coche
+      *(`20` §1)*, y el desinflar/reinflar de válvulas al sol *(`06` §5)*— y para la leña y la
+      parrilla del braai. **El kit de recuperación de Savanna NO los incluye** ✅ *(su inventario
+      confirmado lista pala, gatos, compresor, cuerda de remolque y pinzas — guantes no)*: si no se
+      llevan, no hay. Práctica overlanding común. Viajan en la caja de la noche *(`18` §2)*
 - [ ] **Opcional: linterna UV pequeña ×1** ○ — los escorpiones **fluorescen bajo luz UV**: un
       barrido a la parcela al anochecer, antes de las sandalias. Casa con la compresa fría del
       *Parabuthus* del botiquín y el «mirar dónde pisas» del `18`. Como el silbato: ninguna lista
@@ -547,7 +552,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 
 *Se preparan la víspera y viajan en el daypack. El porqué de cada uno, en [`05`](05-equipaje.md).*
 
-**Kit Deadvlei — D5, en marcha ~05:10**
+**Kit Deadvlei — D4, en marcha ~05:10**
 
 - [ ] Daypack con **3 L de agua por persona** — en la **bolsa de hidratación** *(§En el coche)*,
       llenada de las garrafas la víspera
@@ -592,10 +597,12 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 
 ## 🚫 Lo que NO se lleva
 
-- ❌ **Plumas, térmicos y guantes** ◐ — peso muerto: la mínima más baja del viaje es 12,7 °C.
-  *(La excepción opcional es el gorro fino de la noche de la costa — ver ropa. Y las listas que
-  piden gorro y guantes «para el game drive» son de invierno o de vehículo abierto: vuestro
-  safari es self-drive en cabina cerrada ◐)*
+- ❌ **Plumas, térmicos y guantes DE ABRIGO** ◐ — peso muerto: la mínima más baja del viaje es
+  12,7 °C. *(La excepción opcional es el gorro fino de la noche de la costa — ver ropa. Y las
+  listas que piden gorro y guantes «para el game drive» son de invierno o de vehículo abierto:
+  vuestro safari es self-drive en cabina cerrada ◐)*
+  ⚠️ **Ojo, que no es lo mismo**: los **guantes de TRABAJO** sí van, y un par por cabeza *(arriba,
+  §caja de la noche)*. Lo que sobra es el guante de lana.
 - ❌ **Nada de camuflaje** ◐ — fuera del bush sienta mal, y en aeropuertos y controles puede dar
   problemas *([travelbutlers](https://www.travelbutlers.com/safari/general-safari-information-self-drive-etosha/) ·
   [Chameleon](https://chameleonholidays.com/what-to-pack-for-your-namibian-holiday/))*

@@ -86,7 +86,7 @@ def revisa_geo():
 def revisa_dia_a_dia():
     """Que los kilometros del `01` sean los que mide la geometria de la ruta.
 
-    El `24` tenia esta comprobacion desde que se despego una vez; el `01` —que es LA
+    El `aparte/decision-del-ccf` tenia esta comprobacion desde que se despego una vez; el `01` —que es LA
     ruta— no la tuvo nunca, y es el documento que mas se toca. El 24/08, al renumerar
     los dias, dos titulares se quedaron en la cifra redondeada de una discusion vieja
     (`~340` con OSRM en 342,6) sin que nada avisara. Se comprueban solo los dias que
@@ -122,9 +122,9 @@ def revisa_dia_a_dia():
 
 
 def revisa_ruta_alt():
-    """Que el dia a dia del `24` no se haya despegado de la geometria de su variante.
+    """Que el dia a dia del `aparte/decision-del-ccf` no se haya despegado de la geometria de su variante.
 
-    El `24` lleva quince etapas escritas a mano y un mapa que sale de `geo/ruta-alt.json`.
+    El `aparte/decision-del-ccf` lleva quince etapas escritas a mano y un mapa que sale de `geo/ruta-alt.json`.
     Son la misma ruta contada dos veces, y hasta ahora nada obligaba a que dijeran lo
     mismo: cambiar una etapa en `trazado.ETAPAS_ALT` movia el mapa y dejaba la prosa
     contando los kilometros de antes. Se comprueba cada dia con 1 km de tolerancia
@@ -141,41 +141,41 @@ def revisa_ruta_alt():
     if sin_traza:
         mal(f"etapas de la variante sin trazado: {sin_traza}")
 
-    doc = open(os.path.join(RAIZ, "24-ruta-alternativa.md")).read()
+    doc = open(os.path.join(RAIZ, "aparte", "decision-del-ccf.md")).read()
     medido = {e["id"]: e["km"] for e in alt if e["km"] is not None}
     dichos, fallos = {}, []
     for m in re.finditer(r"^- \*\*(D\d+) ·[^\n]*?(\d[\d.]*) km", doc, re.M):
         dichos[m.group(1)] = float(m.group(2).replace(".", ""))
     faltan = sorted(set(medido) - set(dichos))
     if faltan:
-        fallos.append(f"el `24` no lista {faltan}")
+        fallos.append(f"el `aparte/decision-del-ccf` no lista {faltan}")
     for d, km in sorted(dichos.items()):
         if d in medido and abs(km - medido[d]) > 1:
-            fallos.append(f"{d}: el `24` dice {km:.0f} km y OSRM mide {medido[d]:.1f}")
+            fallos.append(f"{d}: el `aparte/decision-del-ccf` dice {km:.0f} km y OSRM mide {medido[d]:.1f}")
 
     fallos += _horas_del_24(doc, medido)
 
     total = sum(medido.values())
     m = re.search(r"\*\*~([\d.]+) km\*\* \*\(\*\*(\d+) (menos|más)\*\*", doc)
     if not m:
-        fallos.append("el `24` ya no lleva su titular de kilometros")
+        fallos.append("el `aparte/decision-del-ccf` ya no lleva su titular de kilometros")
     else:
         dicho = float(m.group(1).replace(".", ""))
         if abs(dicho - total) > 1:
-            fallos.append(f"el titular del `24` dice {dicho:.0f} km y la geometria suma "
+            fallos.append(f"el titular del `aparte/decision-del-ccf` dice {dicho:.0f} km y la geometria suma "
                           f"{total:.0f}")
         oficial = sum(e["km"] or 0 for e in
                       json.load(open(os.path.join(HERE, "geo", "ruta.json"))))
         resta = (oficial - total) if m.group(3) == "menos" else (total - oficial)
         if abs(float(m.group(2)) - resta) > 1.5:
-            fallos.append(f"el `24` dice {m.group(2)} km {m.group(3)} que la oficial y la resta "
+            fallos.append(f"el `aparte/decision-del-ccf` dice {m.group(2)} km {m.group(3)} que la oficial y la resta "
                           f"da {resta:.0f}")
 
     # el mapa que el documento promete tiene que existir de verdad
     for ext in ("svg", "png"):
-        rel = f"img/mapas/ruta-alternativa.{ext}"
+        rel = f"img/mapas/ruta-alternativa.{ext}"   # el doc lo enlaza como ../img/…
         if rel not in doc:
-            fallos.append(f"el `24` ya no enlaza {rel}")
+            fallos.append(f"el `aparte/decision-del-ccf` ya no enlaza {rel}")
         elif not os.path.exists(os.path.join(RAIZ, rel)):
             fallos.append(f"falta {rel} — ejecuta `python3 fuente/mapa.py`")
 
@@ -183,7 +183,7 @@ def revisa_ruta_alt():
         for f in fallos:
             mal(f)
     else:
-        bien(f"la variante del `24`: {len(medido)} etapas medidas, {total:.0f} km, "
+        bien(f"la variante del `aparte/decision-del-ccf`: {len(medido)} etapas medidas, {total:.0f} km, "
              f"y el dia a dia cuadra con el mapa")
 
 
@@ -192,9 +192,9 @@ V = {"asfalto": 100.0, "grava": 80.0, "parque": 60.0}
 
 
 def _horas_del_24(doc, medido):
-    """Que los tiempos del `24` se deriven de su propio desglose de firme, y no de la nada.
+    """Que los tiempos del `aparte/decision-del-ccf` se deriven de su propio desglose de firme, y no de la nada.
 
-    Lo que paso: el `24` daba «289 km · ~3 h 35» y «294 km · ~3 h 40», la MISMA velocidad
+    Lo que paso: el `aparte/decision-del-ccf` daba «289 km · ~3 h 35» y «294 km · ~3 h 40», la MISMA velocidad
     para una etapa que arranca dentro del parque y otra que es B1 entera. Ni salia de OSRM
     ni del convenio del `13`, y una comprobacion de banda —entre km/100 y km/60— no lo
     habria cazado: 80 km/h cae comodamente dentro. Lo unico que lo caza es exigir que el
@@ -220,19 +220,19 @@ def _horas_del_24(doc, medido):
         if p:
             firme["parque"] += float(p.group(1))
         if not sum(firme.values()):
-            fallos.append(f"{dia}: el `24` da un tiempo sin decir de que firme sale "
+            fallos.append(f"{dia}: el `aparte/decision-del-ccf` da un tiempo sin decir de que firme sale "
                           f"— pon los km de asfalto, grava y parque")
             continue
         if abs(sum(firme.values()) - km) > 2:
-            fallos.append(f"{dia}: el desglose de firme del `24` suma "
+            fallos.append(f"{dia}: el desglose de firme del `aparte/decision-del-ccf` suma "
                           f"{sum(firme.values()):.0f} km y la etapa mide {km:.0f}")
         esperado = sum(firme[c] / V[c] for c in V)
         if abs(tiempos[0] - esperado) > 0.03:
-            fallos.append(f"{dia}: el `24` dice ~{int(tiempos[0])}h{round(tiempos[0] % 1 * 60):02d} "
+            fallos.append(f"{dia}: el `aparte/decision-del-ccf` dice ~{int(tiempos[0])}h{round(tiempos[0] % 1 * 60):02d} "
                           f"y su propio desglose a las velocidades del `13` da "
                           f"{int(esperado)}h{round(esperado % 1 * 60):02d}")
         if len(tiempos) > 1 and min(tiempos[1:]) < tiempos[0]:
-            fallos.append(f"{dia}: el `24` da un tiempo realista menor que su minimo")
+            fallos.append(f"{dia}: el `aparte/decision-del-ccf` da un tiempo realista menor que su minimo")
     return fallos
 
 

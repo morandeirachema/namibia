@@ -45,7 +45,7 @@ del mundo**:
 - 🐘 **El elefante del desierto y el rinoceronte negro de Damaraland** — poblaciones adaptadas a
   vivir sin agua permanente. Damaraland sostiene la **mayor población de rinoceronte negro en
   libertad fuera de un parque nacional** ◐, rastreable a pie con los equipos de Save the Rhino
-  Trust y de Grootberg *(`23`)*. **Esto no existe en el Okavango ni en Zambia.**
+  Trust y de Grootberg *(`aparte/desvios`)*. **Esto no existe en el Okavango ni en Zambia.**
 - 🦌 **Dos endemismos del noroeste que ya llevan ficha en vuestra guía** ✅: el **impala de cara
   negra** *(Aepyceros melampus petersi)* —Etosha es su bastión— y el **dik-dik de Damara**
   *(Madoqua damarensis)* *(`09`)*.
@@ -125,7 +125,7 @@ Y hay dos que **Namibia da mejor** que los otros dos:
 - 🦏 **Rinoceronte negro**: **82 % en los partes de vuestros campamentos** ✅ y la charca iluminada
   de Okaukuejo, que lo pone a diez metros de noche. Es de los mejores sitios del mundo para verlo.
 - 🐆 **Guepardo**: Namibia tiene **la mayor población del mundo** ◐, y vuestra ruta lo lleva medido
-  —**Namutoni 50 %**— más el **Cheetah Conservation Fund** en el camino de vuelta *(`23`, `24`)*.
+  —**Namutoni 50 %**— más el **Cheetah Conservation Fund** en el camino de vuelta *(`aparte/desvios`, `aparte/decision-del-ccf`)*.
   El Okavango y el Luangwa **no son país de guepardo**: demasiada agua, demasiado árbol y
   demasiado león y hiena.
 

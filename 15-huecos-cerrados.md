@@ -610,8 +610,9 @@ maleta**. Detalle y fuentes en [`02`](02-presupuesto.md) §8.
   y **el operador manda con su propia tabla**.
 - **La fase lunar, calculada en casa** *(conjunción de referencia + mes sinódico; ±1 día en el
   instante)* — **luna nueva el 9–10 de noviembre**: las **cuatro noches de Etosha (D10–D13)
-  entre el 0 y el 9 % de iluminación**, el amanecer de Deadvlei (D5) con un menguante del ~27 %,
-  y la salida (D1–D3) con una menguante del 48–68 % que sale ya de noche. El día a día, en el
+  entre el 0 y el 9 % de iluminación**, el amanecer de Deadvlei —que desde el 24/08 es el **D4**,
+  un día antes— con un menguante del **~36 %**, y la salida (D1–D3) con una menguante del 47–68 %
+  que sale ya de noche. El día a día, en el
   bloque 🌙 de `01`.
 
 ## ⛺ Spreetshoogte: tarifa cerrada con el rack del operador — y una trampa de calendario *(24/08/2026)*
@@ -664,7 +665,7 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   **Onguma Tamboti ×2**: **Namutoni se anuló** *(`20` §4)*. **Sesriem ×2, Spreetshoogte y el Urban
   Camp de Windhoek también se cerraron el 24/08**, así que el contador del README va a **7 de 8**.
   **Queda una: Terrace Bay** —y una noche nueva sin tarifa, la de Twyfelfontein del D8, que a
-  propósito **no se reserva** *(`24`)*.
+  propósito **no se reserva** *(`aparte/decision-del-ccf`)*.
 - 🚗 **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, 15 días,
   aeropuerto → aeropuerto; el 31-oct fuera de temporada baja ❌ y la entrega EN el aeropuerto sin
   confirmar ❌ — `02` §2)*.
@@ -773,10 +774,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   dos sitios identificados *(Twyfelfontein Country Lodge y la zona de Palmwag)* **son lodges**. Es el
   **único riesgo al alza serio del presupuesto**: presupuestada como camping *(~€35 la pareja)*,
   puede irse a **€150–200** si acaba siendo habitación *(`02` §3)*.
-- 🦏 **El rastreo de rinoceronte de Grootberg y el de Palmwag siguen sin precio** ❌
-  *(res4@journeysnamibia.com · +264 61 228 104)*. **Es lo que compró la noche nueva del D8** —con el
-  itinerario de agosto no cabía—, así que es el hueco que más valor tiene por lo que cuesta cerrarlo:
-  un email.
+- 🦏 **El rastreo de rinoceronte sigue sin precio** ❌ *(res4@journeysnamibia.com · +264 61 228 104)*.
+  **Es lo que compró la noche nueva del D8** —con el itinerario de agosto no cabía—, así que es el
+  hueco que más valor tiene por lo que cuesta cerrarlo: un email. ⚠️ **Y hay que pedir el de
+  Palmwag, de media jornada**: el de Grootberg es de día entero y **no cabe** —saldría a primera
+  hora desde el lodge, a ~130 km de donde se duerme la víspera— *(`11`)*.
 - 🌙 **¿Vende NWR el nocturno guiado y la guiada de mañana a quien NO duerme en el campamento?** ❌
   **N$2.800 (~€140) en juego.** Al anular Namutoni, las dos últimas noches se duermen fuera y las dos
   actividades salieron del presupuesto. Si las venden igual, vuelven al plan *(`20` §4)*.

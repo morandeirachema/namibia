@@ -65,7 +65,7 @@ llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
 > > 🐆 **Y la segunda noche de Onguma tiene una puerta de salida, a propósito.** Si a la tarde del
 > > D12 el guepardo no ha aparecido, **se cancela y se baja al [Cheetah Conservation
 > > Fund](https://cheetah.org/)**: es la decisión del D13, y está entera —kilómetros, horarios y qué
-> > hay que preguntar— en [`24`](24-ruta-alternativa.md).
+> > hay que preguntar— en [la decisión del CCF](aparte/decision-del-ccf.md).
 >
 > *Onguma por dentro, en [`21`](21-campamentos-de-etosha.md); su tarifa, en
 > [`03`](03-alojamiento-y-tasas.md); la reserva, en [`20`](20-reservas.md).*
@@ -171,7 +171,7 @@ gantt
 > ```mermaid
 > flowchart TD
 >     T["TIENDA DE TECHO · 8 noches ya RESERVADAS<br/>D1 Windhoek Urban Camp · D2 Spreetshoogte<br/>D3-D4 Sesriem dentro de la puerta · D10 Okaukuejo<br/>D11 Halali · D12-D13 Onguma Tamboti, fuera de la puerta"]
->     D["POR ELEGIR CAMPING · 4 noches<br/>D5-D6 Walvis Bay: Lagoon Chalets<br/>D8 Twyfelfontein y D9 Hoada: Damaraland<br/>D14 Windhoek: se repite el Urban Camp"]
+>     D["POR ELEGIR CAMPING · 5 noches<br/>D5-D6 Walvis Bay: Lagoon Chalets<br/>D8 Twyfelfontein y D9 Hoada: Damaraland<br/>D14 Windhoek: se repite el Urban Camp"]
 >     P["HABITACION, NO TIENDA · D7 Terrace Bay<br/>el tarifario oficial de NWR no tiene camping aqui:<br/>doble en media pension, N$3.480 (~EUR 174) los dos"]
 >     T ~~~ D ~~~ P
 >     style T fill:#2d6a4f,color:#fff
@@ -279,10 +279,10 @@ flowchart LR
 - 🌇 **Y la escarpa se hace en una sola noche — decidido el 24/08.** El atardecer desde el mirador
   sigue entero; lo que se va es el día sin volante de la mañana siguiente. **Esa noche liberada se
   fue a Damaraland**, a partir en dos el día más largo de grava del viaje *(D8 y D9; el argumento,
-  en [`24`](24-ruta-alternativa.md))*.
+  en [la decisión del CCF](aparte/decision-del-ccf.md))*.
   ⚠️ **Y con ella se va el colchón del calendario**: ya no hay ningún día que sacrificar si el
   vuelo se retrasa. **La red que queda es la noche del D8** —Twyfelfontein, sin reservar y fuera de
-  parque—: es la que se cae sin perder un céntimo *(`24`)*
+  parque—: es la que se cae sin perder un céntimo *(`aparte/decision-del-ccf`)*
 - 🛏️ **Spreetshoogte Campsite — RESERVADO ✅ (24/08), UNA noche** — lo opera **Barkhan Dune
   Retreat**: **N$290 (~€14,50) por persona y noche → N$580 (~€29) los dos**, parcela «stand only»,
   wifi gratis y máximo 4 adultos *(la **VIP con baño propio**, N$680 · ~€34 pp)*. Se reservó en
@@ -415,7 +415,7 @@ flowchart LR
 - 🆕 **Éste es el día que no existía.** Sale de quitarle la segunda noche a Spreetshoogte, y **parte
   en dos el día más largo de grava del viaje**: lo que era una tirada de ~370 km con la visita de
   los grabados metida en medio pasa a ser **211 + 159 km**, con la mañana del D9 libre entera
-  *(el argumento completo, en [`24`](24-ruta-alternativa.md))*
+  *(el argumento completo, en [la decisión del CCF](aparte/decision-del-ccf.md))*
 - 🌡️ **Twyfelfontein, en el valle: sin estación** ❌ — la referencia más cercana es
   **Hoada/Grootberg, ~33,1 °C máx / ~18,4 °C mín** ◐ *(ERA5; ver `15` §ERA5)*, y **el valle de
   Twyfelfontein es más caluroso a mediodía que la meseta de Grootberg** ○: los grabados se ven
@@ -456,11 +456,17 @@ flowchart LR
   y el norte caluroso
 - ☀️ amanecer **06:17** (Twyfelfontein) · anochecer **19:15** (Hoada) — *y es domingo: sin alcohol
   a la venta* ✅ *(`08`)*
-- 🦏 **La mañana libre es el premio del día — y lo que desbloquea es el rastreo.** El
-  **rinoceronte negro y el elefante del desierto** de **Grootberg** o **Palmwag** piden la mañana
-  entera, y en el plan de agosto **no cabían**: se pasaba por aquí a mediodía con 343 km por
-  delante *(`23`)*. Hoy sí caben. ⚠️ **Precio ❌ en los dos**: pídelo por escrito antes de contar
-  con ello — **res4@journeysnamibia.com · +264 61 228 104** *(`20` §5)*
+- 🦏 **La mañana libre es el premio del día — y lo que desbloquea es el rastreo de rinoceronte.**
+  En el plan de agosto no cabía: se pasaba por aquí a mediodía con 343 km por delante *(`aparte/desvios`)*.
+  👉 **El que encaja es el de MEDIA JORNADA de Palmwag**, que además **está en el camino**: saliendo
+  de Twyfelfontein a las ~07:00 se llega hacia las **08:45**, cabe la media jornada y quedan los
+  51 km hasta Hoada para la tarde. También cabe el **rastreo del elefante del desierto de
+  Grootberg** *(media jornada, vuelta ~15:00)*.
+  ⚠️ **El de rinoceronte de DÍA ENTERO de Grootberg sigue sin caber**: sale a primera hora desde el
+  lodge, y llegar a esa hora pediría ~130 km de grava **antes del amanecer** — contra la regla del
+  `06` y contra la cláusula de Savanna *(`20` §1)*.
+  ⚠️ **Precio ❌ en los dos**: pídelo por escrito antes de contar
+  con ello — **res4@journeysnamibia.com · +264 61 228 104** *(`20` §5)* *(detalle en `11`)*
 - Ruta: **Twyfelfontein → Palmwag ~107 km** ◐ → **paso de Grootberg** → **Hoada ~51 km**. Grava
   entera, y **la C40 por el paso es de las carreteras bonitas del país** ○
 - ⛽ **Palmwag es el surtidor de respaldo del tramo** *(`07`)* — si el de Terrace Bay falló, aquí
@@ -562,7 +568,7 @@ flowchart LR
   conservación = N$620 (~€31) por persona → N$1.240 (~€62) los dos y por noche** ✅, IVA y Social
   Development Levy incluidos. ❌ *El importe exacto de la reserva y sus condiciones de cancelación,
   sin confirmar — y se ha decidido no perseguirlos: saltarse la segunda noche se decide sobre la
-  marcha asumiendo la penalización que sea, que sobre N$1.240 (~€62) tiene poco techo (`24`).*
+  marcha asumiendo la penalización que sea, que sobre N$1.240 (~€62) tiene poco techo (`aparte/decision-del-ccf`).*
 - ⛺ **La parcela**: **25 parcelas**, máximo **2 tiendas / 4 personas**, **cada una con su ducha, su
   wc y su enchufe** —lo que ningún campamento de NWR da—, limpieza diaria, **un lote de leña el día
   de llegada** y **wifi gratis en recepción** ✅. Kiosco con lo básico, hielo, leña y braai packs;
@@ -600,17 +606,35 @@ flowchart LR
     día. **Son dos planes buenos y excluyentes** — decidid al reservar
   - 📌 **Las actividades y las comidas se reservan al hacer la reserva o al llegar a recepción** ✅
 - 🛏️ **Onguma Tamboti, segunda noche** ✅ **RESERVADA**
-- 🐆 **O NO — y ésta es la decisión del día.** Si a estas alturas **el guepardo no ha salido**, esta
-  segunda noche se cancela y se baja al **[Cheetah Conservation Fund](https://cheetah.org/)**:
-  **331 km por la B1** *(OSRM)*, saliendo temprano se llega **antes de las 11:30**, a tiempo de la
-  **alimentación de las 14:00** *(el 12 es jueves, horario de lunes a viernes ✅)*, el tour del
-  centro y el Cheetah Drive — y al día siguiente, el **Cheetah Run de las 08:00** ✅. **La decisión
-  se toma dentro de Etosha, con lo visto en la mano**, y está entera —kilómetros, horarios, precios
-  que faltan y qué hay que preguntar antes— en [`24`](24-ruta-alternativa.md).
-  📞 **Y se resuelve aquí mismo, sin preparar nada** *(decidido el 24/08)*: se llama al **CCF
-  (+264 (0)67 306225 ✅)** para ver si hay sitio **y para pedir el Cheetah Run, que sí exige reserva
-  previa** ✅, y después a recepción de Onguma para anular. **En ese orden.** Si el CCF está lleno,
-  se queda la noche de Onguma y no se pierde nada — ésa es la red
+
+> ### 🐆 O NO — el desvío del guepardo, y ésta es la decisión del día
+> **Si a estas alturas el guepardo no ha salido**, esta segunda noche se cancela y se baja al
+> **[Cheetah Conservation Fund](https://cheetah.org/)**. **La decisión se toma aquí, la tarde del
+> D12 o la mañana del D13, con lo visto en la mano** — no hay que preparar nada por adelantado
+> *(decidido el 24/08)*.
+>
+> - 🚗 **El día**: **331 km por la B1** *(OSRM)* — Onguma → Tsumeb → Otjiwarongo → CCF. **Mínimo
+>   ~3 h 26, realista ~4 h 05** con la parada de Otjiwarongo *(284 km de asfalto y 47 de grava, los
+>   del ramal)*. Saliendo a las **~07:00** se llega **hacia las 11:05**.
+> - 🕑 **Lo que cabe el mismo día**: la **alimentación de las 14:00** *(el 12 es jueves, horario de
+>   lunes a viernes ✅)*, el **tour del centro** y el **Cheetah Drive**.
+> - 🏃 **Y a la mañana siguiente, el Cheetah Run de las 08:00** ✅ — la actividad que justifica todo
+>   el cambio, y **la única que exige reserva previa**: pídela en la misma llamada.
+> - 📞 **Las dos llamadas, en este orden**: **CCF, +264 (0)67 306225** ✅ *(o NightsBridge)* — si hay
+>   sitio y cuánto cuesta ❌, que no publican precios; y **después** recepción de Onguma, para
+>   anular. **Primero se asegura la cama nueva, después se suelta la vieja.** Se llama desde Onguma,
+>   que **anuncia wifi en recepción** ✅.
+> - 🎁 **Lo que se gana además**: el **D14 baja de 539 a 294 km** y deja de ser el día más largo del
+>   viaje.
+> - ⚖️ **Lo que cuesta**: el **D13 entero de Fischer's Pan y Chudop**; la penalización de anular
+>   Onguma ❌, que se asume sin conocerla *(sobre N$1.240 · ~€62, poco techo)*; y que **en el CCF no
+>   hay camping** —es lodge, la segunda noche del viaje en habitación tras Terrace Bay— ◐.
+> - 🛟 **Si el CCF está lleno, no se pierde nada**: se queda la noche de Onguma, que es un buen plan
+>   por sí mismo. **Ésa es la red, y es buena.**
+>
+> *El desvío entero, día a día y con su mapa a escala de país, en
+> [`aparte/decision-del-ccf`](aparte/decision-del-ccf.md) — fuera del dossier impreso a propósito.*
+
 
 ### D14 · vie 13 — Onguma → Windhoek · **~539 km asfalto · ~5h30 de volante · 6h–6h30 con comida** ◐ *(OSRM propio; desde Namutoni eran 548)*
 - 🌡️ De **Etosha (37,1 ✅)** a **Windhoek (31,2 ✅)**: el día de bajar 6 grados y 540 km
@@ -627,11 +651,11 @@ flowchart LR
   devuelve mañana en el aeropuerto. Última noche de tienda: braai de despedida, o Joe's si el
   cuerpo pide mesa
 - *Parada opcional de camino: **Okonjima/AfriCat** (leopardo, rinoceronte a pie y pangolín —
-  **guepardo ya no tiene**, `23` §3), el meteorito de **Hoba** (desvío por Grootfontein, B8) o el
+  **guepardo ya no tiene**, `aparte/desvios` §3), el meteorito de **Hoba** (desvío por Grootfontein, B8) o el
   **Plateau de Waterberg** (desvío desde Otjiwarongo; entrada N$280 · ~€14 — ver `11`)*
 - 🐆 **Si anoche se durmió en el CCF y no en Onguma**, hoy el día es otro y mucho más corto:
   **Cheetah Run de las 08:00 y 294 km hasta Windhoek** *(OSRM)*, en Windhoek hacia las 12:30 y con
-  la tarde libre. El día entero, en [`24`](24-ruta-alternativa.md)
+  la tarde libre. El día entero, en [la decisión del CCF](aparte/decision-del-ccf.md)
 
 ### D15 · sáb 14 — Vuelo *(plan horario)*
 
@@ -817,7 +841,7 @@ flowchart LR
   la hora al avisar**, porque de ella depende a qué hora se sale de Hoada)*; si no te alojas, avisa
   antes. *(Una fuente dice que cierra los fines de semana — tu paso es lunes.)* **Con el guepardo
   como prioridad, aquí es casi seguro pero son animales habituados y alimentados a mano: la
-  comparación honesta con el salvaje, en [`23`](23-desvios-que-valen-la-pena.md).**
+  comparación honesta con el salvaje, en [los desvíos](aparte/desvios-que-valen-la-pena.md).**
 - **Gasolinera en Etosha** ✅⚠️: los tres campamentos **listan «Filling Station» en la web oficial
   de NWR**, pero con historial de cortes en 2025 — entra lleno desde Outjo; respaldo: la Etosha
   Trading Post a 6,5 km de Andersson (`08`).
@@ -891,7 +915,7 @@ mañana de Sesriem N$600–700 (~€30–35), Elim Dune N$300 (~€15) y el cañ
 mejora del plan**: una sola noche en Ongava cuesta **~N$37.000 (~€1.850) los dos**, con la tasa de
 conservación incluida — el triple que las trece noches de camping de todo el viaje. Son otro
 producto. *(Okonjima, por su leopardo y su rinoceronte a pie, es el único capricho con
-argumento — como parada del D14; **guepardo ya no tiene**, `23` §3.)* **Lo que sí está en el plan
+argumento — como parada del D14; **guepardo ya no tiene**, `aparte/desvios` §3.)* **Lo que sí está en el plan
 es el CAMPING de una de ellas**: Onguma Tamboti, **DOS noches (D12 y D13)** a **N$620 (~€31) por
 persona y noche** ✅ — la reserva privada por el precio del parque, sin el lodge.
 
@@ -910,7 +934,7 @@ persona y noche** ✅ — la reserva privada por el precio del parque, sin el lo
   cerrado el 03/08** ✅ *(N$3.480 · ~€174 la pareja, ver D7)* y **Hoada ya tiene precio** ◐ (arriba);
   los lodges privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También
   cerrado el **camping de Spitzkoppe: N$300/persona (~€15), entrada incluida** ✅ *(tarifa oficial
-  hasta el 31/10/26; para noviembre, N$320 · ~€16 → **N$640 · ~€32** la noche los dos ◐ — `23`)*
+  hasta el 31/10/26; para noviembre, N$320 · ~€16 → **N$640 · ~€32** la noche los dos ◐ — `aparte/desvios`)*
   *(fuera de la ruta)*
 - ◐ **Km del D7 y del D14 — recalibrados el 09/08 con el enrutado OSRM propio y revisados el
   24/08**: la costa **Walvis Bay → Terrace Bay ≈ ~412 km** *(la triangulación secundaria del 03/08
@@ -920,7 +944,7 @@ persona y noche** ✅ — la reserva privada por el precio del parque, sin el lo
 - ✅ **Las cuatro noches de Etosha, RESERVADAS** — Okaukuejo, Halali y **Onguma Tamboti ×2 (D12 y
   D13)**; **Namutoni se anuló el 24/08**. Lo que queda abierto: **el importe exacto de la reserva de
   Onguma y sus condiciones de cancelación** ❌ —de las que depende poder cambiar la segunda noche por
-  el CCF, `24`— y **si Onguma hace un night drive de verdad**, que su tarifa oficial 2027 no lista ❌
+  el CCF, `aparte/decision-del-ccf`— y **si Onguma hace un night drive de verdad**, que su tarifa oficial 2027 no lista ❌
   *(ver D13)*.
 - ◐ **Km del D8 y el D9, partidos el 24/08** — lo que era un solo día de ~370 km son ahora
   **Terrace Bay → Twyfelfontein ≈ ~211 km** por la ruta directa de Springbokwasser *(OSRM; cuadra
@@ -928,7 +952,8 @@ persona y noche** ✅ — la reserva privada por el precio del parque, sin el lo
   Hoada ≈ ~159 km** *(OSRM; «~2,5 h» del operador)*. El ~85 km que se manejó para la cola quedó
   **refutado** (menor que la línea recta de ~95 km). Detalle y fuentes en `13`.
 - ❌ **Lo que abre la noche nueva del D8, y todavía no tiene precio**: el **rastreo de rinoceronte
-  negro de Grootberg** y el de **Palmwag** *(res4@journeysnamibia.com · +264 61 228 104)*. Es el
+  negro de media jornada de Palmwag** —el que encaja en el día— y el del **elefante del desierto de
+  Grootberg** *(res4@journeysnamibia.com · +264 61 228 104)*. Es el
   mejor argumento del cambio y **sigue sin tarifa por escrito**: pídela.
 - 🚧 **Las obras de Etosha** — **desvío obligatorio Okaukuejo→Halali en vigor hasta julio de 2027**
   *(afecta al D11; detalle y fuente en ese día)*. Confírmalo con NWR al reservar.

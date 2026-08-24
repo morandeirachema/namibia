@@ -103,7 +103,7 @@ justo al principio de la ventana)*:
   una parcela de Namutoni**, y a cambio la parcela lleva **ducha y wc propios**
 - ❌ *El importe exacto de la reserva y sus **condiciones de cancelación**, sin confirmar — y
   **decidido el 24/08 no pedirlos**: el cambio de la segunda noche por el CCF se resuelve sobre el
-  terreno, asumiendo la penalización que sea ([`24`](24-ruta-alternativa.md)).*
+  terreno, asumiendo la penalización que sea ([la decisión del CCF](aparte/decision-del-ccf.md)).*
 - ⚠️ **Lo que este cambio cuesta no es el alojamiento**: al no dormir dentro, **el nocturno guiado
   de NWR y la guiada de mañana de Namutoni dejan de ser comprables** —se venden a quien pernocta—,
   **N$2.800 (~€140) la pareja** que salen del plan *(abajo, y `02` §9)*

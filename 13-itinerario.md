@@ -23,7 +23,7 @@
 > **Damaraland**, partiendo en dos el día más largo de grava del viaje *(D8 Twyfelfontein + D9
 > Hoada, 211 + 159 km donde había 367)*; **Namutoni desaparece** y sus noches de Etosha pasan a
 > **Onguma ×2**, lo que suma **+30 km** de entrar y salir por Von Lindequist dos días seguidos.
-> Total: **~2.798 km**, 34 más que en agosto. El argumento del cambio, en `24`.*
+> Total: **~2.798 km**, 34 más que en agosto. El argumento del cambio, en `aparte/decision-del-ccf`.*
 
 ---
 
@@ -102,7 +102,7 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
   temprano ✓ **Es la etapa que nació el 24/08**, de partir en dos el antiguo D9
 - **D9 · Twyfelfontein → Palmwag → Hoada (~159 km ◐, OSRM 158,7)** — grava entera *(107 + 51)*: a
   60–70, **~2h15–2h35 de volante**; «~2,5 h» del operador. **Con la mañana libre entera**, que es lo
-  que desbloquea el rastreo de rinoceronte de Grootberg o Palmwag *(`23`)* ✓
+  que desbloquea el rastreo de rinoceronte de media jornada de Palmwag, que cae a mitad de etapa *(`11`)* ✓
   *(Hasta el 24/08 estos dos días eran **uno solo de ~370 km**, la etapa más dura del viaje, con la
   visita de Twyfelfontein metida en medio. Partirla cuesta **+3 km** y devuelve una mañana.)*
 - **D10 · Hoada → Okaukuejo (~343 km ◐, resuelto 04/08 y OSRM 342,6 — ver §3)** — grava hasta Kamanjab, asfalto después (firme de la C38
@@ -218,7 +218,7 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   **Tracks4Africa** antes de fijar reservas con hora.
 - **La única medición propia es el enrutado OSRM del §5** — que es cálculo sobre OpenStreetMap,
   **no un GPS rodado en el terreno**: donde OSM tenga el trazado viejo, OSRM lo hereda. Del resto,
-  las cifras reverificadas el 03–04/08 (D9 por Springbokwasser, D10, D14) son secundarias
+  las cifras reverificadas el 03–04/08 (D8 por Springbokwasser, D10, D14) son secundarias
   convergentes ◐ — y **las tres cuadran con OSRM a ±5 km**, que es justo lo que les faltaba.
   El desglose viejo de la costa (~380) **quedó refutado** el 09/08 *(ver §3)*.
 - **La cola Twyfelfontein → Hoada quedó cerrada en ~150 km ◐** (03/08, OSRM 148): el ~85 km que se

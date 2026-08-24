@@ -1,6 +1,6 @@
 # 23 · Los desvíos que valen la pena
 
-> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](../README.md)
 >
 > Las joyas que están **fuera** de la ruta y qué costaría de verdad ir a por ellas: kilómetros
 > medidos con el enrutado propio, la noche que habría que sacrificar y el veredicto. El `10`
@@ -198,8 +198,10 @@ flowchart LR
   **Damaraland**. No fue a Otjitotongwe: fue a **partir en dos el día de ~370 km de grava**, con
   **noche propia en Twyfelfontein el D8** y **la mañana del D9 libre entera** *(`24`)*.
 - **Y eso compra justo lo que este documento daba por imposible**: el **rastreo de rinoceronte
-  negro de Grootberg o Palmwag**, que pedía el día entero y no cabía *(`11`)*. Ahora cabe. ❌ *Su
-  precio sigue sin publicarse: pídelo — res4@journeysnamibia.com.*
+  negro de media jornada de Palmwag**, que además cae **en mitad del D9** *(`11`)*. Ahora cabe.
+  ⚠️ *El de **día entero de Grootberg** sigue sin caber: saldría a primera hora y pediría conducir
+  grava de noche.* ❌ *El precio de los dos sigue sin publicarse: pídelo —
+  res4@journeysnamibia.com.*
 - **Qué costó**: **el colchón**. Ya no hay ningún día que sacrificar si el vuelo se retrasa; la red
   que queda es **no reservar la noche del D8**, que es la única sin penalización.
 
@@ -212,7 +214,7 @@ flowchart LR
   jornada**. *(Okonjima ya no es opción de guepardo — §3.)*
 - ✅ **Y desde el 24/08 esto es mejor que un desvío: es una decisión con dos noches de margen.** Se
   duerme en Onguma el D12 **y** el D13, así que **la segunda se decide con el guepardo ya buscado**:
-  si salió, se queda; si no, se cancela y se baja. El plan entero, en [`24`](24-ruta-alternativa.md).
+  si salió, se queda; si no, se cancela y se baja. El plan entero, en [`24`](decision-del-ccf.md).
 - **Qué cuesta**: Onguma es **reserva privada de 35.970 ha con leopardo, guepardo y
   rinoceronte confirmados por escrito**, con **baño propio en la parcela**, **salida al atardecer
   con foco y campo a través** y **paseo a pie**, las dos cosas que el parque prohíbe *(`21`)*. Se
@@ -245,7 +247,7 @@ bloque entero.**
 > Onguma. Lo único que conviene no olvidar en esa llamada es **pedir el Cheetah Run, que sí exige
 > reserva previa** ✅ — es lo que justifica el cambio. Si no hay sitio, se queda Onguma *(`24`)*.
 >
-> 👉 **Ese cambio está desarrollado y medido en [`24`](24-ruta-alternativa.md)**, con el D13 y el
+> 👉 **Ese cambio está desarrollado y medido en [`24`](decision-del-ccf.md)**, con el D13 y el
 > D14 recalculados y con lo mejor y lo peor de cada opción. Titular: **no quita ni una noche de
 > dentro del parque** —las tres de dentro y las tasas siguen igual— y **parte el D14 de 539 km en
 > dos**.
@@ -371,19 +373,19 @@ documento sea la lista completa de lo de fuera:
 - **Dragon's Breath** *(el mayor lago subterráneo no glaciar del mundo)* — **no es visitable**:
   granja privada, solo expediciones científicas. Su versión visitable, el **lago Otjikoto**, ya
   está **en la ruta** el D14.
-- **Cráter de Messum** — desvío serio del D8, con permiso, líquenes frágiles y estado incierto:
+- **Cráter de Messum** — desvío serio del D7, con permiso, líquenes frágiles y estado incierto:
   **ya desaconsejado en `11`**.
 
 ---
 
 ## 🧭 En dos frases
 
-**Del guepardo**: la ruta ya trae tres oportunidades sin mover una sola noche —el **D12 en
-Namutoni**, que es la mejor casilla medida del parque *(50 %)*; **Onguma el D13**, con guepardo
-confirmado por escrito; y el **CCF en el D14**, que entra con **+89 km** y cuya alimentación de las
-**14:00** cabe sin forzar nada—. Solo hace falta sacrificar una noche si se quiere **el Cheetah Run
-de las 08:00 en el CCF**, y entonces la noche que hay que cambiar es la de
-**Onguma**, no el D3: ese cae en la mitad equivocada del viaje.
+**Del guepardo**: la ruta ya trae tres oportunidades sin mover una sola noche —las **llanuras del
+este el D12**, la mejor casilla medida del parque *(Namutoni, 50 %)*; **Onguma, con guepardo
+confirmado por escrito, dos noches (D12–D13)**; y el **D13 entero** de Fischer's Pan y Chudop—.
+Y si aun así no sale, **la segunda noche de Onguma se cambia por el CCF** y entra el **Cheetah Run
+de las 08:00**: es la decisión del D13, se toma allí, y está entera en
+[`24`](decision-del-ccf.md).
 
 **De lo demás**: solo uno de los cinco desvíos puede entrar sin romper nada, y solo si algo falla —
 si **Terrace Bay** se queda sin sitio, la ruta baja por dentro y gana **Spitzkoppe y Brandberg**,

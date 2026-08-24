@@ -200,13 +200,13 @@ def ruta():
 
 
 def ruta_alt():
-    """Lo mismo para la variante del `24`, que tiene sus propias quince etapas.
+    """Lo mismo para la variante del `aparte/decision-del-ccf`, que tiene sus propias quince etapas.
 
     Va a un fichero aparte y no toca `ruta.json`: la ruta que imprime el volumen sigue
-    siendo la de `01`, y el `24` solo necesita su mapa y sus kilometros.
+    siendo la de `01`, y el `aparte/decision-del-ccf` solo necesita su mapa y sus kilometros.
     """
     import trazado
-    _traza(trazado.ETAPAS_ALT, "ruta-alt.json", "la variante del `24`")
+    _traza(trazado.ETAPAS_ALT, "ruta-alt.json", "la variante del `aparte/decision-del-ccf`")
 
 
 def _traza(etapas, fichero, que):

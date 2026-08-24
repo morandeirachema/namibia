@@ -19,7 +19,7 @@ LUGARES = [
     ("joes", "Joe's Beerhouse: la opción de mesa del D1 y el D14",
      "Joes-Beerhouse Windhoek-Namibia1.jpg"),
 
-    # --- desierto: D2 a D5 ---
+    # --- desierto: D2 a D4 ---
     ("spreetshoogte", "El paso de Spreetshoogte, con el Namib mil metros abajo",
      "Spreetshoogte Pass panorama.jpg"),
     ("solitaire", "Solitaire: gasolina, tarta de manzana y coches oxidados",
@@ -41,7 +41,7 @@ LUGARES = [
     ("cielo", "El cielo del desierto namibio, sin una luz en cien kilómetros",
      "Kanaan-Lodge 1901-0042.jpg"),
 
-    # --- costa: D6 a D8 ---
+    # --- costa: D5 a D7 ---
     ("walvisbay", "Flamencos en la laguna de Walvis Bay",
      "NA-walvisbay-lagoon-famingo.jpg"),
     ("swakopmund", "El embarcadero de Swakopmund, la costa alemana",
@@ -59,7 +59,7 @@ LUGARES = [
     ("welwitschia", "Welwitschia mirabilis: dos hojas y mil años de vida",
      "Welwitschia mirabilis - Namib-Naukluft National Park 03.jpg"),
 
-    # --- Damaraland: D9 ---
+    # --- Damaraland: D8 y D9 ---
     ("twyfelfontein", "Los grabados rupestres de Twyfelfontein, patrimonio UNESCO",
      "Rock Engravings (37713171646).jpg"),
     ("damaraland", "Damaraland, camino de Grootberg",
@@ -98,7 +98,7 @@ LUGARES = [
      "White rhinos at Okaukuejo waterhole at night (3687260675).jpg"),
     ("halali-moringa", "Elefantes al atardecer en la charca Moringa de Halali",
      "Wasserloch Halali.jpg"),
-    ("halali-piscina", "La piscina de Halali, la siesta del mediodía del D12",
+    ("halali-piscina", "La piscina de Halali, la siesta del mediodía del D11",
      "Etosha-Halali Camp (2).jpg"),
     ("namutoni-charca", "Leona de noche junto a la charca King Nehale, tras la valla de Namutoni",
      "Lionness Namutoni water hole.jpg"),

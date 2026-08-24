@@ -45,12 +45,14 @@ en el índice.
 - **El orden del volumen es el del número del fichero**, salvo lo que diga `ORDEN` en `dossier.py`
   —hoy el `20`, que se lee pegado al `04`; el `17`, pegado al `05`; el `18`, pegado al `06`; el
   `21`, pegado al `18`, y el `19`, pegado al `08`—. Y lo que no entra en el PDF está en
-  `FUERA_DEL_PDF` —hoy solo el `16`—:
-  el PDF lleva la ruta que se va a hacer, no la deliberación de por qué es ésa.
+  `FUERA_DEL_PDF` —hoy solo el `16`— **o directamente en `aparte/`**, que es donde viven los
+  documentos que dejan de ser del volumen *(el 25/08 se fueron ahí los desvíos y la decisión del
+  CCF, que eran el `23` y el `24`)*: el PDF lleva la ruta que se va a hacer, no la deliberación de
+  por qué es ésa ni las alternativas que se descartaron.
 
-## La variante del `24`, que desde el 24/08 es solo el final
+## La variante del CCF — `aparte/decision-del-ccf.md`, fuera del PDF
 
-El `24` no es prosa: tiene **sus propias quince etapas** en `trazado.ETAPAS_ALT`, su geometría en
+Ese documento no es prosa: tiene **sus propias quince etapas** en `trazado.ETAPAS_ALT`, su geometría en
 `geo/ruta-alt.json` —`python3 geodatos.py ruta-alt`— y **su propio mapa a escala de país**,
 `mapa.mapa_ruta_alt()` → `img/mapas/ruta-alternativa.svg` y `.png`. El mapa va **con el mismo
 encuadre y la misma escala que el oficial** a propósito: los dos se comparan poniéndolos uno al
@@ -72,7 +74,7 @@ Tres cosas que no se ven:
   mapa lo rotule con el mismo código— pero `trazado.SOLO_VARIANTE` lo saca del GPX y del KML: esos
   son de la ruta que se va a conducir, y un waypoint del CCF en el GPS es una invitación a salir de
   Etosha por donde no toca.
-- **El día a día del `24` se comprueba contra su geometría** *(abajo)*. Es el mismo error que ya
+- **Su día a día se comprueba contra su geometría** *(abajo)*, igual que el del `01`. Es el mismo error que ya
   costó una tarde con las tartas: dos sitios contando la misma ruta y nada obligándolos a coincidir.
 
 ## Lo que se importa en Google My Maps
@@ -142,16 +144,16 @@ texto del desglose, y cuadrar con los **cuatro cubos de solidez del `02` §11** 
 tartas: el README repartía €3.982 bajo un titular de €3.990 y los dos desgloses parecían correctos
 de un vistazo. Cerrar algo obliga a subirlo de cubo **y** bajarlo del suyo.)*
 
-Y que el **día a día del `24` cuadre con la geometría de su variante** —cada etapa con 1 km de
+Y que el **día a día de `aparte/decision-del-ccf.md` cuadre con la geometría de su variante** —cada etapa con 1 km de
 tolerancia, porque cada una se redondea por su cuenta; el titular contra la suma de verdad; la
-resta contra la oficial; y que el mapa que el documento enlaza exista en disco—. *(El `24` escribe
+resta contra la oficial; y que el mapa que el documento enlaza exista en disco—. *(Ese documento escribe
 las quince etapas a mano y dibuja el mapa desde `ruta-alt.json`: sin esto, tocar `ETAPAS_ALT` movía
 el mapa y dejaba la prosa contando los kilómetros de antes.)*
 
-Y **que los tiempos del `24` salgan de su propio desglose de firme**: toda etapa que declare un
+Y **que sus tiempos salgan de su propio desglose de firme**: toda etapa que declare un
 tiempo tiene que decir sus kilómetros de **asfalto, grava y parque**, el reparto tiene que sumar los
 km de la etapa, y el mínimo tiene que ser exactamente el que dan las velocidades del `13` *(100, 80
-y 60)*. *(El `24` daba «289 km · ~3 h 35» y «294 km · ~3 h 40»: la misma velocidad para una etapa
+y 60)*. *(Daba «289 km · ~3 h 35» y «294 km · ~3 h 40»: la misma velocidad para una etapa
 que arranca dentro del parque y otra que es B1 entera, sin salir ni de OSRM ni del convenio. Una
 comprobación de banda no lo caza —80 km/h cae dentro de todo—; lo único que lo caza es exigir que el
 tiempo cuadre con el firme.)*
