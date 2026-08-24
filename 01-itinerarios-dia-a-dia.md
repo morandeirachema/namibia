@@ -259,8 +259,9 @@ flowchart LR
   hormigón para tracción, prohibido a caravanas — se baja despacio y es espectacular
 - 💧🪵💶 **La carga de escarpa se hizo AYER**: agua **≥5–6 garrafas de 5 L** ○ *(la regla de 4 L/persona/día
   de `06` es de coche; el día entero al sol del D2 y la cocina suman)*, **leña para DOS braais** y **efectivo**: en
-  Spreetshoogte **no consta tienda, restaurante ni datáfono** ❌ *(~N$600–1.200 · ~€30–60 los dos
-  por las dos noches, con la banda de 150–300 ZAR/persona de `15`)*. Sin cajero fiable hasta Swakopmund (D6): **no
+  Spreetshoogte **no consta tienda, restaurante ni datáfono** ❌ *(**N$1.160 · ~€58** los dos por las
+  dos noches — tarifa cerrada el 24/08 ✅, `20` §5 — **más la leña, que allí se vende: N$55 (~€2,75)
+  el fardo de 10 kg**)*. Sin cajero fiable hasta Swakopmund (D6): **no
   bajar de N$4.000 (~€200)** *(`07`)*
 - 🌇 **Atardecer desde el mirador del paso**: el Namib a 1.000 m bajo tus pies
 - 🐾 **Alrededor del campamento: sin parte de avistamientos — es granja privada en la escarpa** ❌.
@@ -268,8 +269,10 @@ flowchart LR
   **pregúntale al dueño qué baja al anochecer**. Lo único afirmable: el chacal se oye en casi
   cualquier campamento del país ○
 - 🛏️ **Spreetshoogte Campsite, primera de DOS noches** — **abierto confirmado ◐** *(10/08; lo
-  opera Barkhan Dune Retreat)* ⚠️ *precio sin verificar (el blog citaba 150–300 ZAR/persona,
-  vigencia desconocida; ojo a la trampa de nombre — «Camp Gecko» y Namibgrens son otros, `20` §5)*
+  opera Barkhan Dune Retreat)* y **con tarifa cerrada ✅ (24/08)**: **N$290 (~€14,50) por persona y
+  noche**, parcela «stand only», wifi gratis y máximo 4 adultos *(la **VIP con baño propio**,
+  N$680 · ~€34 pp)*. Se reserva en **bookings@barkhan.africa** *(ojo a la trampa de nombre —
+  «Camp Gecko» y Namibgrens son otros, `20` §5)*
 
 ### D2 · lun 2 — Día entero en la escarpa · **0 km de ruta** *(decidido 08/08)*
 - **El día lento del viaje, en el sitio bueno**: amanecer en el mirador, la escarpa a pie, siesta
@@ -742,9 +745,9 @@ del parque, sin el lodge.
 
 - ✅ **Vuelos** — **EMITIDO el 10/08**: €1.536 (~N$30.720) p.p., **Oporto → Windhoek,
   30 oct – 14 nov**
-- ❌ **Noches sin precio** — Spreetshoogte ×2 *(abierto ◐, lo opera Barkhan Dune Retreat; banda
-  contradictoria — y «Camp Gecko» es OTRO camping, `20` §5)* y
-  Walvis Bay ×2, más los campings de Windhoek (D0 y D13). **Terrace Bay quedó cerrado el 03/08**
+- ❌ **Noches sin precio** — Walvis Bay ×2 y los campings de Windhoek (D0 y D13). **Spreetshoogte
+  ×2 salió de esta lista el 24/08** ✅ *(N$290 pp/noche → N$1.160 · ~€58 las dos, del rack propio de
+  Barkhan; «Camp Gecko» es OTRO camping, `20` §5)*. **Terrace Bay quedó cerrado el 03/08**
   ✅ *(N$3.480 · ~€174 la pareja, ver D7)* y **Hoada ya tiene precio** ◐ (arriba); los lodges
   privados siguen sin rack/noche (Gondwana y las webs propias, en 403). ⛺ También
   cerrado el **camping de Spitzkoppe: N$270/persona → N$540/noche (~€27), entrada incluida** ◐
