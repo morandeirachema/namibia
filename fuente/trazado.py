@@ -176,7 +176,7 @@ ETAPAS_ALT = [
      "por": ["halali", "goas", "chudob", "namutoni"]},
     {"id": "D12", "fecha": "12 nov", "bloque": "vuelta",
      "titulo": "Namutoni → Von Lindequist → CCF", "duerme": "ccf",
-     "por": ["namutoni", "lindequist", "ccf"]},
+     "por": ["namutoni", "lindequist", "tsumeb", "otjiwarongo", "ccf"]},
     {"id": "D13", "fecha": "13 nov", "bloque": "vuelta",
      "titulo": "Cheetah Run y bajada a Windhoek", "duerme": "windhoek",
      "por": ["ccf", "windhoek"]},

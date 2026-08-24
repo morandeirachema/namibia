@@ -260,6 +260,12 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 > - 👉 **Lo que esto significa hoy**: el dinero que se arriesga al reservar es **el 20 % de
 >   N$1.340×2 + N$3.480 = ~N$1.232 (~€62)**, y **a partir del 4 de octubre se arriesga el 100 %**.
 >   Reserva sabiendo eso, y **apunta en el calendario el día del pago íntegro**.
+> - ⏳ **Y esta es también la fecha límite de la variante del [`24`](24-ruta-alternativa.md)**, que
+>   hasta ahora no estaba escrita en ninguna parte: esa variante **mueve Sesriem al 2–3 nov y
+>   Terrace Bay al 6**, así que **estas dos llamadas la cierran**. Reservar con las fechas oficiales
+>   y cambiar después cuesta **~N$1.232 (~€62)** de depósito perdido, y desde el **3 de octubre**
+>   *(pago íntegro de Sesriem con las fechas de la variante)*, mucho más. **Decide antes de marcar,
+>   y marca antes del 3 de octubre.**
 > - ⚠️ **Y el canal**: **su sistema de reservas online está caído** ◐ *(nwr.com.na avisa de que
 >   está «currently unavailable» y remite a reservations@nwr.com.na; el portal
 >   `nwr.cimsoweb.com` se queda en «Initializing…»)*. **Es email o teléfono, no pierdas la tarde

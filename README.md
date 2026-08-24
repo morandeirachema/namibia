@@ -94,7 +94,12 @@ flowchart LR
 4. **Pedir cita en el Centro de Vacunación Internacional** *(A Coruña, Durán Lóriga 3 ·
    **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
    **la cita es el recurso escaso, no la vacuna**.
-5. **Reservar Sesriem ×2 y Terrace Bay** — sin la de Terrace Bay **no se entra** al Skeleton Coast
+5. ⏳ **Pedir a [Onguma](https://onguma.com/) sus condiciones de cancelación** ❌ — es un email y
+   **desbloquea una decisión con fecha**: la variante del
+   [`24`](24-ruta-alternativa.md) *(el CCF en vez de Onguma)* **hay que decidirla antes de llamar a
+   NWR**, porque mueve **Sesriem al 2–3 nov y Terrace Bay al 6**. Hasta tener esas condiciones, el
+   coste de cambiar tiene un extremo abierto *(`20` §4, `24`)*.
+6. **Reservar Sesriem ×2 y Terrace Bay** — sin la de Terrace Bay **no se entra** al Skeleton Coast
    a pernoctar. **Y reservar Spreetshoogte ×2**, que desde el **24/08 ya no tiene ningún hueco
    delante**: **abierto confirmado ◐** *(el «closed down» quedó refutado el 10/08)*, lo opera
    **Barkhan Dune Retreat**, y la **tarifa está cerrada ✅ — N$290 (~€14,50) pp/noche, N$1.160
@@ -106,7 +111,10 @@ flowchart LR
    de Von Lindequist, en vez de la segunda noche de Namutoni. *(Al partirse esa doble en dos
    reservas, el contador pasa de **6 a 7**: cerradas **4**, quedan Sesriem, Terrace Bay y
    Spreetshoogte.)*
-6. **Preguntar a NWR (+264 67 229 800)** si las 3 salidas guiadas de mañana y el nocturno se
+   ⏳ **Y ojo al orden**: **estas dos llamadas cierran la variante del `24`**, que pide otras
+   fechas. **Decide antes de marcar, y marca antes del 3 de octubre** *(es el pago íntegro de
+   Sesriem con las fechas de la variante; desde ahí la cancelación va del 30 % al 100 % — `20` §4)*.
+7. **Preguntar a NWR (+264 67 229 800)** si las 3 salidas guiadas de mañana y el nocturno se
    pueden dejar cerrados desde España — su tarifa avisa de que **en temporada de lluvias no
    aceptan pre-reserva de actividades**; si no, van en recepción al llegar. ⚠️ **El nocturno se
    pide para el D11**, no para el D12: esa noche ya se duerme en Onguma. Y **en Onguma,
@@ -137,7 +145,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 155 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 157 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
