@@ -154,10 +154,10 @@ def capa_pan(L, borde=0.8):
     return ""
 
 
-def capa_ruta(L, etapas=None, ancho=3.4, halo=True):
+def capa_ruta(L, etapas=None, ancho=3.4, halo=True, fichero="ruta.json"):
     """La polilinea de carretera, un trazo por dia, con el color de su bloque."""
     out = []
-    datos = carga("ruta.json")
+    datos = carga(fichero)
     for e in datos:
         if etapas and e["id"] not in etapas:
             continue
@@ -302,6 +302,17 @@ ROTULOS_RUTA = {
     "namutoni":        (-9, -6, "end"),
     "onguma":          (10, 3, "start"),
     "lindequist":      (2, 15, "start"),
+    # --- solo en el mapa de la variante del `24` ---
+    "spitzkoppe":      (9, 4, "start"),
+    "uis":             (-8, 3, "end"),
+    "palmwag":         (-8, -5, "end"),
+    "ccf":             (9, 4, "start"),
+}
+
+# El CCF cae 40 km al ESTE de Otjiwarongo y su rotulo es largo: con las posiciones de
+# siempre se montaba encima del pueblo. En la variante los dos se separan a mano.
+ROTULOS_ALT = {
+    "otjiwarongo":     (0, -9, "middle"),
 }
 
 EN_MAPA_RUTA = ["windhoek", "aeropuerto", "okahandja", "otjiwarongo", "tsumeb", "outjo", "rehoboth",
@@ -336,6 +347,41 @@ BLOQUES_LEYENDA = [
     ("vuelta",     "Ida y vuelta a Windhoek", "D0 · D13"),
 ]
 
+# --- la variante del `24` -------------------------------------------------
+# La costa de los Esqueletos se sigue dibujando como parque: es geografia, y ver el
+# hueco que deja la linea de dentro es justo lo que el mapa tiene que contar.
+EN_MAPA_ALT = ["windhoek", "aeropuerto", "okahandja", "otjiwarongo", "tsumeb", "outjo",
+               "rehoboth", "spreetshoogte", "solitaire", "sesriem", "sossusvlei",
+               "walvisbay", "swakopmund", "spitzkoppe", "uis", "twyfelfontein", "palmwag",
+               "hoada", "kamanjab", "andersson", "okaukuejo", "halali", "namutoni",
+               "lindequist", "ccf"]
+
+TEXTO_ROTULO_ALT = {
+    "sossusvlei": "Sossusvlei · Deadvlei",
+    "sesriem": "Sesriem  D2·D3",
+    "walvisbay": "Walvis Bay  D4·D5",
+    "spitzkoppe": "Spitzkoppe  D6",
+    "twyfelfontein": "Twyfelfontein  D7",
+    "hoada": "Hoada  D8",
+    "okaukuejo": "Okaukuejo  D9",
+    "halali": "Halali  D10",
+    "namutoni": "Namutoni  D11",
+    "ccf": "Cheetah Conservation Fund  D12",
+    "spreetshoogte": "Spreetshoogte  D1",
+    "windhoek": "WINDHOEK  D0·D13",
+    "andersson": "Andersson",
+    "lindequist": "Von Lindequist",
+}
+
+BLOQUES_LEYENDA_ALT = [
+    ("desierto",   "El desierto", "D1–D3"),
+    ("costa",      "La costa: Walvis Bay", "D4–D5"),
+    ("granito",    "Spitzkoppe", "D6"),
+    ("damaraland", "Damaraland", "D7–D8"),
+    ("etosha",     "Etosha", "D9–D11"),
+    ("vuelta",     "El CCF y la vuelta a Windhoek", "D0 · D12–D14"),
+]
+
 
 def situacion(L, x, y, ancho):
     """Mapa de situacion: Namibia entera y, encima, el recuadro de lo que se esta viendo.
@@ -362,22 +408,35 @@ def situacion(L, x, y, ancho):
     return "".join(piezas)
 
 
-def _kms():
-    return {e["id"]: e.get("km") for e in carga("ruta.json")}
+def _kms(fichero="ruta.json"):
+    return {e["id"]: e.get("km") for e in carga(fichero)}
 
 
 def mapa_ruta(ancho=1000):
+    """La ruta oficial, la del `01`."""
+    return _mapa_ruta(ancho, "ruta.json", EN_MAPA_RUTA, TEXTO_ROTULO, BLOQUES_LEYENDA)
+
+
+def mapa_ruta_alt(ancho=1000):
+    """La variante del `24`. Mismo encuadre que el oficial a proposito: los dos mapas se
+    comparan poniendolos uno al lado del otro, y para eso tienen que estar a la misma
+    escala y con el mismo recorte."""
+    return _mapa_ruta(ancho, "ruta-alt.json", EN_MAPA_ALT, TEXTO_ROTULO_ALT,
+                      BLOQUES_LEYENDA_ALT, ROTULOS_ALT)
+
+
+def _mapa_ruta(ancho, fichero, en_mapa, textos, bloques, mueve=None):
     # El encuadre esta elegido para que el mapa quepa a ancho de caja en una pagina
     # A4 junto con el titular y el pie: proporcion alto/ancho ~1,25.
     L = Lienzo(sur=-25.05, oeste=12.62, norte=-18.32, este=18.42, ancho=ancho, margen=0)
-    km = _kms()
+    km = _kms(fichero)
     total = sum(v for v in km.values() if v)
 
     cuerpo = [capa_paises(L)]
     cuerpo.append(capa_parques(L, ["Namib-Naukluft", "Skeleton Coast", "Dorob", "Etosha"]))
     cuerpo.append(capa_pan(L))
     cuerpo.append(tropico(L))
-    cuerpo.append(capa_ruta(L, ancho=3.6))
+    cuerpo.append(capa_ruta(L, ancho=3.6, fichero=fichero))
 
     # rotulos de los paises vecinos, en gris y en versalita
     for nom, lat, lon in [("ANGOLA", -17.15, 15.6), ("BOTSUANA", -20.4, 21.6),
@@ -403,21 +462,22 @@ def mapa_ruta(ancho=1000):
     cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="8" fill="{C["tinta3"]}" '
                   f'font-style="italic" text-anchor="middle">depresión de Etosha</text>')
 
-    for clave in EN_MAPA_RUTA:
-        dx, dy, anc = ROTULOS_RUTA[clave]
-        cuerpo.append(punto(L, clave, TEXTO_ROTULO.get(clave), dx, dy, anc,
-                            tam=9.6 if clave in TEXTO_ROTULO else 8.4))
+    sitios = dict(ROTULOS_RUTA, **(mueve or {}))
+    for clave in en_mapa:
+        dx, dy, anc = sitios[clave]
+        cuerpo.append(punto(L, clave, textos.get(clave), dx, dy, anc,
+                            tam=9.6 if clave in textos else 8.4))
 
     cuerpo.append(escala(L, 42, L.alto - 42, 200))
     cuerpo.append(norte(L.ancho - 46, 52))
 
     # ---- leyenda ----
     lx, ly = 40, 46
-    ln = [f'<rect x="{lx - 12}" y="{ly - 26}" width="290" height="{34 + 21 * len(BLOQUES_LEYENDA)}" '
+    ln = [f'<rect x="{lx - 12}" y="{ly - 26}" width="290" height="{34 + 21 * len(bloques)}" '
           f'rx="6" fill="{C["papel"]}" opacity=".93" stroke="{C["borde"]}" stroke-width=".8"/>',
           f'<text x="{lx}" y="{ly - 8}" font-size="12.5" font-weight="800" fill="{C["tinta"]}">'
           f'~{total:,.0f}'.replace(",", ".") + ' km en 15 días</text>']
-    for i, (bloque, nombre, dias) in enumerate(BLOQUES_LEYENDA):
+    for i, (bloque, nombre, dias) in enumerate(bloques):
         y0 = ly + 14 + i * 21
         ln.append(f'<line x1="{lx}" y1="{y0}" x2="{lx + 26}" y2="{y0}" '
                   f'stroke="{trazado.COLOR_BLOQUE[bloque]}" stroke-width="4" stroke-linecap="round"/>')
@@ -428,7 +488,7 @@ def mapa_ruta(ancho=1000):
     cuerpo.append("".join(ln))
 
     # ---- simbolos ----
-    sx, sy = 40, ly + 26 + 21 * len(BLOQUES_LEYENDA)
+    sx, sy = 40, ly + 26 + 21 * len(bloques)
     sim = [f'<rect x="{sx - 12}" y="{sy - 14}" width="290" height="76" rx="6" '
            f'fill="{C["papel"]}" opacity=".93" stroke="{C["borde"]}" stroke-width=".8"/>']
     for i, (col, forma, txt) in enumerate([
@@ -646,14 +706,15 @@ def exporta(destino=None):
     destino = destino or os.path.join(os.path.dirname(HERE), "img", "mapas")
     os.makedirs(destino, exist_ok=True)
     hechos = []
-    for nombre, fn, ancho in (("ruta", mapa_ruta, 1100), ("etosha", mapa_etosha, 1500)):
+    for nombre, fn, ancho in (("ruta", mapa_ruta, 1100), ("etosha", mapa_etosha, 1500),
+                              ("ruta-alternativa", mapa_ruta_alt, 1100)):
         svg = fn(ancho)
         ruta_svg = os.path.join(destino, nombre + ".svg")
         with open(ruta_svg, "w") as f:
             f.write(svg)
         alto = round(float(_re.search(r'viewBox="0 0 [\d.]+ ([\d.]+)"', svg).group(1)))
-        chrome = next((c for c in ("google-chrome", "chromium", "chromium-browser")
-                       if __import__("shutil").which(c)), None)
+        import navegador
+        chrome = navegador.chrome()
         ruta_png = os.path.join(destino, nombre + ".png")
         if chrome:
             with tempfile.TemporaryDirectory() as tmp:

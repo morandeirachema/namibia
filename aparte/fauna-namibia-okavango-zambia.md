@@ -1,6 +1,6 @@
-# 25 · Qué fauna da cada sitio — Namibia, el Okavango y Zambia
+# Qué fauna da cada sitio — Namibia, el Okavango y Zambia
 
-> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](../README.md)
 >
 > Para saber **qué animales se ve uno de verdad en este viaje y cuáles necesitarían otro**. No es
 > un ranking de destinos: es el reparto honesto de quién tiene qué, y por qué — porque **casi todo

@@ -2,7 +2,9 @@
 """El GPS del viaje: la ruta entera en GPX y en KML, para llevarla en el trasto.
 
 Sale de la MISMA geometria que el mapa del dossier y que la lamina —`geo/ruta.json`,
-enrutado con OSRM sobre OpenStreetMap— y de la misma tabla de puntos (`trazado.PUNTOS`).
+enrutado con OSRM sobre OpenStreetMap— y de la misma tabla de puntos
+(`trazado.puntos_oficiales()`: `PUNTOS` menos los que solo existen en la variante
+del `24`, que no se van a conducir).
 Es decir: si se cambia una noche, el GPX cambia solo. Nada escrito a mano.
 
 Se generan dos ficheros porque no los come el mismo sitio:
@@ -69,7 +71,7 @@ def escribe_gpx(tramos):
          .format(sum(e["km"] or 0 for e in tramos)),
          '  </metadata>']
 
-    for clave, (lat, lon, rotulo, clase) in trazado.PUNTOS.items():
+    for clave, (lat, lon, rotulo, clase) in trazado.puntos_oficiales().items():
         simbolo, que_es = SIMBOLO.get(clase, ("Flag, Blue", clase))
         dias = donde_sale(clave, tramos)
         desc = f"{que_es}{' · ' + dias if dias else ''}"
@@ -94,7 +96,7 @@ def escribe_gpx(tramos):
 
     p.append('</gpx>')
     open(GPX, "w").write("\n".join(p) + "\n")
-    return len(trazado.PUNTOS), sum(1 for e in tramos if e.get("geometria"))
+    return len(trazado.puntos_oficiales()), sum(1 for e in tramos if e.get("geometria"))
 
 
 def _kml_color(hexa):
@@ -128,7 +130,7 @@ def escribe_kml(tramos):
     p.append('  </Folder>')
 
     p.append('  <Folder><name>Puntos</name>')
-    for clave, (lat, lon, rotulo, clase) in trazado.PUNTOS.items():
+    for clave, (lat, lon, rotulo, clase) in trazado.puntos_oficiales().items():
         dias = donde_sale(clave, tramos)
         desc = SIMBOLO.get(clase, ("", clase))[1] + (f" · {dias}" if dias else "")
         p += ['    <Placemark>',

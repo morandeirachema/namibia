@@ -27,8 +27,9 @@ import time
 import urllib.parse
 import urllib.request
 
-CHROME = next((c for c in ("google-chrome", "chromium", "chromium-browser", "chrome")
-               if shutil.which(c)), None)
+import navegador
+
+CHROME = navegador.chrome()
 
 
 # ---------------------------------------------------------------------------
