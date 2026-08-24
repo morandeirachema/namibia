@@ -103,7 +103,7 @@ flowchart LR
 5. 🟡 **El cambio de la segunda noche de Onguma por el [Cheetah Conservation
    Fund](https://cheetah.org/) se resuelve SOBRE LA MARCHA — decidido el 24/08.** No hace falta
    pedir nada por adelantado: si el guepardo no ha salido en Etosha, se llama desde allí *(la
-   decisión del D13, entera en [`24`](24-ruta-alternativa.md))*. Lo que eso acepta de antemano, dicho
+   decisión del D13, entera en [la decisión del CCF](aparte/decision-del-ccf.md))*. Lo que eso acepta de antemano, dicho
    una vez y sin insistir: **la penalización de cancelación de Onguma se asume a ciegas** ❌ y **el
    CCF puede estar lleno** ❌ — en cuyo caso, sencillamente, se queda la noche de Onguma, que es un
    buen plan. Si un día apetece cerrarlo antes, son dos emails *(`20` §4)*.
@@ -118,7 +118,7 @@ flowchart LR
    Hoada y Windhoek del D14.)*
    ⏳ **Y la noche nueva de Twyfelfontein (D8) NO hay que reservarla**: fuera de parque y en
    temporada hombro, se decide sobre la marcha — **por eso es la red del calendario**, la que se
-   sacrifica sin perder un céntimo si el vuelo se retrasa *(`24`)*.
+   sacrifica sin perder un céntimo si el vuelo se retrasa *(`aparte/decision-del-ccf`)*.
 7. **Preguntar a NWR (+264 67 229 800)** si las **2 salidas guiadas de mañana** que quedan
    *(Okaukuejo el D11 y Halali el D12)* se pueden dejar cerradas desde España — su tarifa avisa de
    que **en temporada de lluvias no aceptan pre-reserva de actividades**; si no, van en recepción al
@@ -153,7 +153,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 164 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 154 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -255,7 +255,7 @@ entrega— está en [`20-reservas`](20-reservas.md) §1.
   niebla y el Atlántico rugiendo. Pocos lo hacen: exige reserva y entrar antes de las 15:00. ✅
 - 🪨 **Twyfelfontein**, los grabados rupestres UNESCO — **y desde el 24/08 con noche propia**, así
   que se ven sin reloj y la mañana siguiente queda libre para el **rastreo de rinoceronte negro de
-  Grootberg o Palmwag**, que antes no cabía. Y la noche en **Hoada** — el campamento entre
+  media jornada de Palmwag**, que antes no cabía y que además cae en mitad de la etapa. Y la noche en **Hoada** — el campamento entre
   peñas de granito que la referencia llama el más bonito de su viaje. ◐
 - 🦩 **Flamencos en Walvis Bay** al amanecer, ostras y paseo — **dos noches (4 y 5 nov) y un día entero de
   descanso** a mitad de viaje. La excursión a **Sandwich Harbour, en tour guiado** *(con tu coche
@@ -554,17 +554,15 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 14. 🪘 [**`19-cultura-de-namibia`**](19-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
 15. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 148 especies con foto —felinos y rapaces en secciones propias—, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 16. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
-17. 🐆 [**`23-desvios-que-valen-la-pena`**](23-desvios-que-valen-la-pena.md) — **el guepardo, prioridad del viaje**: dónde se ve de verdad *(Namutoni 50 %, el CCF, Okonjima, Otjitotongwe)* y **de qué noche sale el día** · y las joyas de FUERA de la ruta —Spitzkoppe, Brandberg, Vingerklip, Waterberg— con los kilómetros medidos
-18. 🔀 [**`24-ruta-alternativa`**](24-ruta-alternativa.md) — **la decisión del D13, que se toma dentro de Etosha**: saltarse la segunda noche de Onguma y bajar al **Cheetah Conservation Fund** si el guepardo no ha salido — los dos finales medidos día a día **con su mapa a escala de país**, con lo que gana, lo que cuesta y cómo se decide sobre la marcha
-19. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
+17. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**
 
-20. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
-21. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad, con el contraste de OSRM
-22. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
-23. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
-24. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
+18. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
+19. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad, con el contraste de OSRM
+20. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
+21. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
+22. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
 
 📕 Y el PDF: [**`guia-fauna-etosha.pdf`**](guia-fauna-etosha.pdf) — la guía de campo, para imprimir.
 Lleva **medidas** las posibilidades de ver cada bicho: los partes de avistamiento de los tres

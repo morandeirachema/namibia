@@ -47,7 +47,7 @@ flowchart LR
 - **Y se gana media hora el D14**: durmiendo fuera no hay que esperar a que la puerta abra.
 - 🐆 **La segunda noche de Onguma tiene salida**: si el guepardo no ha aparecido, se cancela y se
   baja al **Cheetah Conservation Fund** *(la decisión del D13, entera en
-  [`24`](24-ruta-alternativa.md))*.
+  [la decisión del CCF](aparte/decision-del-ccf.md))*.
 
 **Lo común a los campamentos de NWR** ✅ *(fichas de NWR: [Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
 [Halali](https://www.nwr.com.na/resorts/halali-resort/) · [Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/))* —
@@ -265,7 +265,7 @@ por noche que la parcela de Namutoni** que sustituye.
 
 ❌ **El importe exacto de la reserva y sus condiciones de cancelación, sin confirmar** — y
 **decidido el 24/08 no perseguirlos**: la segunda noche se cambia por el Cheetah Conservation Fund
-**sobre el terreno**, asumiendo la penalización que sea *([`24`](24-ruta-alternativa.md), `20` §4)*.
+**sobre el terreno**, asumiendo la penalización que sea *([la decisión del CCF](aparte/decision-del-ccf.md), `20` §4)*.
 
 ---
 

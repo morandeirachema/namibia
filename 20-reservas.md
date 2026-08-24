@@ -81,7 +81,7 @@ fuentes, y coinciden entre sí ◐:
 >   sin red, pero **no hace falta bloquearlos hoy**.
 > - 🛟 **Y la de Twyfelfontein conviene dejarla suelta a propósito**: al quedarse Spreetshoogte en
 >   una noche, **el viaje se quedó sin colchón de calendario**. La única noche sin reservar y sin
->   penalización es la del D8 — **es la que se sacrifica si el vuelo se retrasa** *(`24`)*.
+>   penalización es la del D8 — **es la que se sacrifica si el vuelo se retrasa** *(`aparte/decision-del-ccf`)*.
 
 *Esto es práctica documentada, no garantía: si una noche concreta es irrenunciable, resérvala.*
 
@@ -255,7 +255,7 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   cierre el D12 se cierra el D13.)*
 > - 🟡 **Sus condiciones de cancelación siguen sin pedirse** ❌, **y se ha decidido no pedirlas**
 >   *(24/08)*: el cambio de la segunda noche por el [Cheetah Conservation Fund](https://cheetah.org/)
->   **se resuelve sobre la marcha** *([`24`](24-ruta-alternativa.md))*. Queda escrito lo que eso
+>   **se resuelve sobre la marcha** *([la decisión del CCF](aparte/decision-del-ccf.md))*. Queda escrito lo que eso
 >   acepta: **la penalización, la que sea, se asume sin conocerla**. Sobre N$1.240 (~€62) el techo es
 >   pequeño, que es justo por lo que la decisión aguanta bien sin este dato.
 > - **Lo que hay que hacer con esta reserva, y nadie lo va a recordar por vosotros**: su tarifa
@@ -285,9 +285,9 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   comprometido y **su pago íntegro vence hacia el 3 de octubre** — apúntalo en el calendario. Lo
 >   que queda por arriesgar es el **20 % de Terrace Bay: ~N$696 (~€35)**, y **a partir del 7 de
 >   octubre se arriesga el 100 %**.
-> - ✅ **Y la vieja fecha límite de la variante del `24` ya no existe.** Cuando ese documento
+> - ✅ **Y la vieja fecha límite de la variante del `aparte/decision-del-ccf` ya no existe.** Cuando ese documento
 >   proponía otra ruta entera, decidirlo tarde costaba dinero porque movía las fechas de Sesriem y
->   Terrace Bay. **Desde el 24/08 esas fechas ya son las definitivas** y lo que queda del `24` —el
+>   Terrace Bay. **Desde el 24/08 esas fechas ya son las definitivas** y lo que queda del `aparte/decision-del-ccf` —el
 >   cambio de la segunda noche de Onguma por el CCF— **no toca ninguna reserva de NWR**. Depende
 >   solo de las condiciones de Onguma, arriba.
 > - ⚠️ **Y el canal**: **su sistema de reservas online está caído** ◐ *(nwr.com.na avisa de que
@@ -399,7 +399,7 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
   con el fragmento de N$600 · ~€30 ○ que ya había; para la ventana del viaje sigue **sin tarifa
   confirmada** ❌. *Plan B: Swakopmund, a 30 km, tiene más oferta de camping ○.*
 - 🆕 **Twyfelfontein — sáb 7 nov (D8), la noche NUEVA** — nace de dejar Spreetshoogte en una noche
-  *(`24`)*. **Sin tarifa ❌ y los candidatos identificados son lodges, no campings**: **Twyfelfontein
+  *(`aparte/decision-del-ccf`)*. **Sin tarifa ❌ y los candidatos identificados son lodges, no campings**: **Twyfelfontein
   Country Lodge** *(un agregador da «desde ~$223 pp DBB» para may–oct 2026 ◐, sin cifra de
   noviembre — `15`)* y la zona de **Palmwag**, 50 km al norte, que además es base de rastreos.
   - 🛟 **Es la única noche del viaje que conviene NO reservar**: fuera de parque, temporada hombro,
@@ -407,9 +407,11 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
     sin penalización si el vuelo se retrasa. **Pide precios igualmente**, para que el presupuesto no
     mienta *(`02` §3)*.
   - 🦏 **Y en la misma llamada, lo que la noche desbloquea**: el **rastreo de rinoceronte negro de
-    Grootberg o Palmwag**, que con el itinerario de agosto no cabía. **Precio ❌ en los dos** —
-    📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104**. Es el mejor argumento del cambio y
-    sigue sin tarifa por escrito.
+    media jornada de PALMWAG**, que con el itinerario de agosto no cabía y que además cae en mitad
+    del D9. **Precio ❌** — 📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104**. Es el mejor
+    argumento del cambio y sigue sin tarifa por escrito.
+    ⚠️ **Pide el de media jornada, no el de día entero de Grootberg**: ése sale a primera hora desde
+    el lodge y no cabe sin conducir grava de noche *(`11`)*.
 - **Hoada Campsite — dom 8 nov (D9)** — campamento **comunitario** *(la caja se queda en la
   conservancy ◐ — `19`)*, el que el blog llama el más bonito de su viaje. **N$271–366/persona según
   temporada → N$542–732 (~€27–37) los dos** ◐ *(la temporada de noviembre sin fijar — `02` §3)*.
@@ -534,14 +536,14 @@ Para no gastar llamadas en lo que se cierra allí:
 - [x] **Las 4 noches de Etosha — RESERVADAS** *(§4)*: Okaukuejo *(9–10)* · Halali
       *(10–11)* · **Onguma Tamboti ×2** *(11–13, ya fuera de la puerta)*. **Namutoni, anulado**
 - [ ] *(Opcional)* **Pedir a Onguma sus condiciones de cancelación** ❌ — **decidido el 24/08 que no
-      hace falta**: el cambio por el CCF se resuelve sobre la marcha *(§4 y `24`)*
+      hace falta**: el cambio por el CCF se resuelve sobre la marcha *(§4 y `aparte/decision-del-ccf`)*
 - [ ] **Confirmar el importe de la reserva de Onguma** *(el rack da N$1.240 · ~€62 por noche)* *(§4)*
 - [ ] **Pre-reservar en Onguma la cena y, si se quiere, el Sundowner Drive** — y preguntar si hay
       night drive *(§4)*
 - [ ] **Preguntar a NWR si venden el nocturno y la guiada de mañana a quien NO duerme dentro** ❌ —
       son N$2.800 (~€140) que hoy están fuera del presupuesto *(§4)*
 - [ ] *(Opcional)* **Preguntar al CCF si tiene sitio el 12 de noviembre y cuánto cuesta** ❌ — se
-      llama desde Etosha si hace falta *(`24`)*
+      llama desde Etosha si hace falta *(`aparte/decision-del-ccf`)*
 - [x] **Spreetshoogte — RESERVADO** *(1 nov, UNA noche)*: lo opera **Barkhan Dune Retreat** en la
       D1275 y la tarifa está cerrada ✅ — **N$290 pp/noche → N$580 (~€29) los dos** *(§5)*
 - [x] **Windhoek D1 — RESERVADO** *(Urban Camp)* — falta pedirles el importe por escrito ❌ *(§5)*

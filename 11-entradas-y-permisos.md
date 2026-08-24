@@ -164,19 +164,19 @@ es el dinero, es el reloj**.
 
 > ### 🔄 Y el reloj cambió el 24/08 — este documento se escribió con el calendario viejo
 > Al quitarle la segunda noche a Spreetshoogte y **darle una noche propia a Twyfelfontein (D8)**,
-> **la mañana del D9 queda libre entera** *(`24`)*. Eso **da la vuelta a la conclusión de abajo**:
-> el rastreo de rinoceronte negro de Grootberg o Palmwag, que aquí se daba por imposible, **ahora
-> cabe** — es el mejor argumento del cambio de ruta. En sentido contrario, **el farm drive de
+> **la mañana del D9 queda libre entera** *(`aparte/decision-del-ccf`)*. Eso **da la vuelta a la conclusión de abajo**:
+> el rastreo de rinoceronte negro **de media jornada de Palmwag**, que aquí se daba por imposible,
+> **ahora cabe** *(el de día entero de Grootberg sigue sin caber — abajo)* — es el mejor argumento del cambio de ruta. En sentido contrario, **el farm drive de
 > Spreetshoogte pierde su hueco**: el día de 0 km en la escarpa ya no existe.
 
 ```mermaid
 flowchart LR
 %% ancho
     T["FUERA DE ETOSHA<br/>que cabe en la ruta tal y como esta"]
-    S["D9 · RASTREO DE RINOCERONTE<br/>Grootberg o Palmwag<br/>la manana libre que dio el D8"]
+    S["D9 · RASTREO DE RINOCERONTE<br/>PALMWAG, media jornada y en el camino<br/>la manana libre que dio el D8"]
     G["D9 · Hoada / Grootberg<br/>nature drive con sundowner<br/>la tarde de llegada"]
     O["D12-D13 · Onguma<br/>Sundowner Drive<br/>N$980 pp · sustituye al nocturno"]
-    X["SIGUEN SIN CABER:<br/>el leopardo de Okonjima (medio dia<br/>en el D14 de 539 km) · Okapuka ·<br/>el farm drive de Spreetshoogte"]
+    X["SIGUEN SIN CABER:<br/>el rastreo de rino de DIA ENTERO de Grootberg<br/>(saldria de noche por grava) · el leopardo de<br/>Okonjima (medio dia en el D14 de 539 km) ·<br/>Okapuka · el farm drive de Spreetshoogte"]
     T --> S --> G --> O
     T --> X
     style T fill:#7a3a22,color:#fff
@@ -224,10 +224,20 @@ Namibia — el mismo contacto con el que se reserva la noche)*. Hace ✅
 > vuelve hasta las 15:00, así que **ninguno de los dos cabía**.
 >
 > **Ahora se duerme en Twyfelfontein el D8 y el D9 son solo ~159 km**, así que **la mañana está
-> libre entera**. El **rastreo del elefante del desierto** *(media jornada, vuelta ~15:00)* **cabe
-> sin tocar nada**, y el **de rinoceronte negro** *(casi el día entero, salida a primera hora)*
-> **cabe si se sale muy temprano de Twyfelfontein** o se hace desde Palmwag, que está en el camino.
-> El **nature drive con sundowner de la tarde del D9** sigue cabiendo igual.
+> libre entera**. Pero no todo cabe igual, y conviene separarlo:
+>
+> - ✅ **Lo que cabe sin forzar nada, y es la opción recomendada: el rastreo de rinoceronte de
+>   MEDIA JORNADA de Palmwag**, que además **está en el camino** —a ~107 km de Twyfelfontein, en
+>   mitad de la etapa—. Saliendo a las **~07:00** *(amanece 06:17)* se llega hacia las **08:45**,
+>   cabe la media jornada y quedan **51 km hasta Hoada** para la tarde.
+> - ✅ **También cabe el rastreo del elefante del desierto de Grootberg** *(media jornada, vuelta
+>   prevista ~15:00)*, y el **nature drive con sundowner** de la tarde, ya en Hoada.
+> - ❌ **Lo que sigue SIN caber es el rastreo de rinoceronte de día entero de Grootberg**, que sale
+>   a primera hora desde el lodge. Llegar a esa hora desde Twyfelfontein pide **~130 km de grava
+>   antes del amanecer**, y eso choca con dos reglas propias: la franja nocturna del
+>   [`06`](06-conduccion.md) —la que concentra el 29 % de los muertos— y la **cláusula de Savanna
+>   que deja «antes del amanecer» como zona a riesgo propio** *(`20` §1)*. **Solo cabría dándole
+>   una segunda noche a Damaraland.**
 >
 > ⚠️ **Lo único que falta para poder cerrarlo es el precio** ❌ — pídelo por escrito al reservar
 > Hoada: 📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104** *(`20` §5)*.
@@ -265,7 +275,7 @@ la razón de que allí se vean con una frecuencia que el parque no da ◐.
   la de las 15:30 termina a las 19:30, llegando a Windhoek **de noche**, contra la regla de las
   18:00 *(`06`)*. **Con la noche de Onguma cambiada por una en Okonjima, encaja entero — y el D14
   se queda en 226 km.** El análisis completo, con el guepardo delante, en
-  [`23`](23-desvios-que-valen-la-pena.md).
+  [los desvíos](aparte/desvios-que-valen-la-pena.md).
 
 ### 🦁 D1 y D14 · Windhoek — las reservas valladas de la ciudad ✅
 
@@ -296,7 +306,7 @@ Son las únicas que caben en un día de llegada o de salida, porque están **a m
 - 🐆 **Y en el D14, el que faltaba: el Cheetah Conservation Fund**, a 44 km de Otjiwarongo — **+89 km**
   medidos, alimentación **de lunes a viernes a las 14:00** ✅ y **Cheetah Run a las 08:00 con reserva
   previa**. Con el guepardo como prioridad, **el sitio donde se decide todo esto es
-  [`23`](23-desvios-que-valen-la-pena.md)**, que compara los tres centros contra el guepardo
+  [los desvíos](aparte/desvios-que-valen-la-pena.md)**, que compara los tres centros contra el guepardo
   salvaje de Etosha —medido: **Namutoni 50 %**, Okaukuejo 18 %, Halali 10 %— y dice de qué noche
   saldría el día.
 - **D13 Onguma** — el **Sundowner Drive, N$980 (~€49)/persona** ✅, que es el único game drive

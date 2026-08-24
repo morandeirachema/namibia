@@ -302,7 +302,7 @@ ROTULOS_RUTA = {
     "namutoni":        (-9, -6, "end"),
     "onguma":          (10, 3, "start"),
     "lindequist":      (2, 15, "start"),
-    # --- solo en el mapa de la variante del `24` ---
+    # --- solo en el mapa de la variante del `aparte/decision-del-ccf` ---
     "palmwag":         (-8, -5, "end"),
     "ccf":             (9, 4, "start"),
 }
@@ -392,7 +392,7 @@ TITULOS_LEYENDA = [
 TEXTO_ROTULO = _rotulos(trazado.ETAPAS)
 BLOQUES_LEYENDA = _leyenda(trazado.ETAPAS, TITULOS_LEYENDA)
 
-# --- la variante del `24` -------------------------------------------------
+# --- la variante del `aparte/decision-del-ccf` -------------------------------------------------
 # Misma ruta que la oficial salvo dos cosas, y el mapa esta para que se vean las dos:
 # Spreetshoogte pierde una noche —Sesriem cae un dia antes y aparece una noche en
 # Damaraland— y el final sale por el CCF en vez de por Onguma. Fuera de eso, la linea
@@ -451,7 +451,7 @@ def mapa_ruta(ancho=1000):
 
 
 def mapa_ruta_alt(ancho=1000):
-    """La variante del `24`. Mismo encuadre que el oficial a proposito: los dos mapas se
+    """La variante del `aparte/decision-del-ccf`. Mismo encuadre que el oficial a proposito: los dos mapas se
     comparan poniendolos uno al lado del otro, y para eso tienen que estar a la misma
     escala y con el mismo recorte."""
     return _mapa_ruta(ancho, "ruta-alt.json", EN_MAPA_ALT, TEXTO_ROTULO_ALT,

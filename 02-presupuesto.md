@@ -139,7 +139,7 @@ siguen sin precio**, salvo **Hoada**, que va en ◐.
   ❌ *El importe exacto de la reserva y sus **condiciones de cancelación**, sin confirmar — y
   **decidido el 24/08 no perseguirlos**: el cambio de la segunda noche por el CCF se resuelve sobre
   la marcha, asumiendo la penalización que sea. Sobre N$1.240 (~€62) el techo es pequeño
-  ([`24`](24-ruta-alternativa.md)).*
+  ([la decisión del CCF](aparte/decision-del-ccf.md)).*
 - **La segunda de Onguma sustituye a la de Namutoni**, que era **la charca iluminada más floja de
   las tres**: cuesta **N$320 (~€16) más** y a cambio da **ducha y wc propios en la parcela** y una
   reserva privada con **salida al atardecer con foco y campo a través** y **paseo guiado a pie**,
@@ -175,7 +175,7 @@ persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terra
   para dos**. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
   —campamento equiparable, aunque fuera de la ruta— cuesta **N$300 (~€15) por persona** ✅ en su
   tarifa oficial hasta el 31/10/26 y **N$320 (~€16) en noviembre** ◐ → **~N$640 (~€32) la noche
-  para dos**, entrada incluida; ver [`23`](23-desvios-que-valen-la-pena.md).)*
+  para dos**, entrada incluida; ver [los desvíos](aparte/desvios-que-valen-la-pena.md).)*
 - 🆕 **D8 Twyfelfontein — la noche nueva, y no tiene tarifa ❌.** Los dos candidatos que el dossier
   tiene identificados son **lodges**, no campings: **Twyfelfontein Country Lodge** *(un agregador da
   «desde ~$223 pp DBB» para may–oct 2026 ◐, sin cifra limpia para noviembre — `15`)* y la zona de
@@ -298,7 +298,7 @@ falta—, así que el total de tasas queda holgado. Confírmalo en recepción/al
 propia de Cape Cross (~N$350), ~N$4.690 (~€234) pareja / ~€117 por persona**, que es la cifra
 que usan los totales.
 
-> ➕ **Aparte, FUERA de esas 7 unidades premium: Cape Cross (D8).** El reserva de lobos cobra su
+> ➕ **Aparte, FUERA de esas 7 unidades premium: Cape Cross (D7).** El reserva de lobos cobra su
 > propia entrada — **N$150 (~€8)/extranjero + N$50 (~€3)/coche = ~N$350 (~€18) la pareja** ◐, en
 > **efectivo**, en recepción (Dorob NP; tarifa menor que el baremo premium). **Súmalo al total de
 > tasas.** Fuentes secundarias convergentes: una reseña de visitante de 2025 y una guía dan la misma

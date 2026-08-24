@@ -11,7 +11,7 @@ enteros.** Los días se movieron: **Spreetshoogte pasa de dos noches a una**, ap
 en Twyfelfontein (D8)** y **Namutoni deja de ser noche** —sus dos últimas las hace **Onguma
 Tamboti**—. En la práctica, **todo lo que va del D3 al D9 lleva un número de día distinto** y hay
 un tramo más en el KML. *(El itinerario nuevo, en [`01`](../01-itinerarios-dia-a-dia.md); el porqué,
-en [`24`](../24-ruta-alternativa.md).)*
+en [la decisión del CCF](decision-del-ccf.md).)*
 
 ✅ **Y desde el 24/08 ya no se escriben a mano**: los tres salen de `fuente/mapas_google.py`, que los
 deriva de `trazado.ETAPAS` y de `geo/ruta.json` — los mismos datos que dibujan el mapa del dossier y

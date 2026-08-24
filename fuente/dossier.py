@@ -70,7 +70,7 @@ FOTOS = {
 
 # Fotos a pagina completa, antes del documento que abren.
 PLENAS = {
-    "01": ("duna45", "Duna 45 al amanecer. El D5 empieza una hora antes que para todos "
+    "01": ("duna45", "Duna 45 al amanecer. El D4 empieza una hora antes que para todos "
                      "los demás: la puerta interior de Sesriem abre solo para quien duerme dentro."),
     "09": ("etosha-jirafas", "Etosha al atardecer. Cuatro noches dentro del parque, "
                              "tres campamentos y una charca iluminada en cada uno."),
@@ -152,11 +152,6 @@ RESUMEN = {
           "servicios, con los avisos de los viajeros recientes.",
     "22": "Si te pica un escorpión: quién es quién, qué va a pasar, qué hacer y qué no, a "
           "quién llamar y adónde ir — etapa a etapa.",
-    "23": "El guepardo, prioridad del viaje: dónde se ve de verdad y de qué noche sale el "
-          "día. Y las joyas de FUERA de la ruta, con los kilómetros medidos.",
-    "24": "La decisión del D13, que se toma dentro de Etosha: saltarse la segunda noche "
-          "de Onguma y bajar al Cheetah Conservation Fund si el guepardo no ha salido. "
-          "Medida, con su mapa, y con lo que hay que preguntar antes de salir de casa.",
 }
 
 
@@ -171,11 +166,10 @@ def miles(n, sufijo=" km"):
 # del tiron: conducir y acampar; los campamentos de Etosha (`21`) van pegados al `18`,
 # que es su manual de uso; la picadura de escorpion (`22`) detras del `21`, porque es del
 # campamento; la cultura (`19`) pegada al `08`, que ya lleva la mesa y los mercados; y los
-# desvios de fuera de la ruta (`23`) detras del `10`, que cataloga las joyas de dentro:
+# desvios de fuera de la ruta (`aparte/desvios`) detras del `10`, que cataloga las joyas de dentro:
 # son las dos caras de la misma pregunta y se leen seguidas.
 # Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
-ORDEN = {"20": "04a", "17": "05a", "18": "06a", "21": "06b", "22": "06c", "19": "08a",
-         "23": "10a", "24": "10b"}
+ORDEN = {"20": "04a", "17": "05a", "18": "06a", "21": "06b", "22": "06c", "19": "08a"}
 
 
 def documentos():
@@ -444,7 +438,11 @@ def indice(paginas):
 # En el markdown van como <img> —para que GitHub los pinte y el `.md` se lea solo—, y
 # aqui se cambian por el SVG en linea: en el PDF sale vectorial, nitido a cualquier
 # tamano y sin depender de que el PNG este generado. Clave: nombre en img/mapas/.
-MAPAS_EN_DOC = {"24": ("ruta-alternativa", lambda: mapa.mapa_ruta_alt())}
+# Mapas que van DENTRO de un documento, en vez de en las paginas de mapas del principio.
+# Vacio desde el 25/08: el unico que habia era el de la variante del CCF, y ese documento
+# se fue a `aparte/` — fuera del PDF. El mecanismo se queda montado por si vuelve a hacer
+# falta; `mapa.mapa_ruta_alt()` sigue existiendo y su SVG sigue generandose.
+MAPAS_EN_DOC = {}
 
 
 def mete_mapas(html, doc):

@@ -1,6 +1,6 @@
 # 24 · La decisión del D13 — la segunda noche de Onguma, o el Cheetah Conservation Fund
 
-> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
+> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](../README.md)
 >
 > **Esto ya no es una ruta alternativa: es UNA decisión, y se toma dentro de Etosha.** Las dos
 > noches de **Onguma Tamboti** *(11 y 12 de noviembre)* están reservadas. Si a la tarde del D12 el
@@ -23,7 +23,7 @@
 > cambió de forma.**
 >
 > - ✅ **Spreetshoogte con UNA noche y la liberada en Damaraland: ADOPTADO.** Es la ruta del
->   [`01`](01-itinerarios-dia-a-dia.md) desde el 24/08, y las reservas se hicieron con esas fechas.
+>   [`01`](../01-itinerarios-dia-a-dia.md) desde el 24/08, y las reservas se hicieron con esas fechas.
 >   La noche nueva de **Twyfelfontein (D8)** y la mañana libre del **D9** ya no son una propuesta:
 >   están en el plan.
 > - 🔄 **El final cambió de premisa.** No se quitó Onguma: **se quitó Namutoni**, y Onguma pasó a
@@ -60,11 +60,11 @@ ha aparecido con eso hecho, no va a aparecer en el bucle de Fischer's Pan.
 **~2.814 km** *(**16 más** que la oficial)* ✅ · **15 días, 14 noches**. *(Medido sobre la misma
 geometría que pinta el mapa de aquí abajo, `fuente/geo/ruta-alt.json`; el kilometraje de cada día es
 el de OSRM, redondeado, y **los tiempos salen del desglose de firme de cada etapa a las velocidades
-de planificación del [`13`](13-itinerario.md)** —asfalto 100, grava 80, parque 60—, no del reloj
+de planificación del [`13`](../13-itinerario.md)** —asfalto 100, grava 80, parque 60—, no del reloj
 optimista de OSRM.)*
 
 **Del D1 al D12 no cambia absolutamente nada**: son las mismas etapas, las mismas reservas y las
-mismas horas que el [`01`](01-itinerarios-dia-a-dia.md).
+mismas horas que el [`01`](../01-itinerarios-dia-a-dia.md).
 
 - **D1 · sáb 31 oct — Llegada, coche y compra en Windhoek** · 46 km — 🛏️ Urban Camp ✅
 - **D2 · dom 1 nov — Windhoek → paso de Spreetshoogte** · 205 km — 🛏️ Spreetshoogte ✅
@@ -92,7 +92,7 @@ mismas horas que el [`01`](01-itinerarios-dia-a-dia.md).
   ⚠️ **Va por la B1 a propósito**: OSRM enruta por defecto un **atajo con ~190 km de pista D**
   *(D3028, D2804, D2433 — «unpaved» en OSM ✅)*, que al convenio del `13` apenas ahorra minutos y
   con la grava a velocidad realista **sale perdiendo**. Por las reglas del
-  [`06`](06-conduccion.md) —el vuelco vive en la grava— **el asfalto gana**
+  [`06`](../06-conduccion.md) —el vuelco vive en la grava— **el asfalto gana**
 - **D14 · vie 13 nov — Cheetah Run de las 08:00 y bajada a Windhoek** · **294 km · mínimo ~3 h 03,
   realista ~3 h 30** ✅ *(247 km de asfalto por la B1 y 47 de grava, los del ramal del CCF)* · 🛏️
   Windhoek. *El Run dura 30 min: saliendo a las 09:00 se está en Windhoek **hacia las 12:30**, con
@@ -101,14 +101,14 @@ mismas horas que el [`01`](01-itinerarios-dia-a-dia.md).
 
 ### 🧭 Las quince etapas, a escala de país
 
-[<img src="img/mapas/ruta-alternativa.png" alt="Mapa del final alternativo: la ruta oficial hasta Onguma y la bajada al Cheetah Conservation Fund por la B1" width="620">](img/mapas/ruta-alternativa.svg)
+[<img src="img/mapas/ruta-alternativa.png" alt="Mapa del final alternativo: la ruta oficial hasta Onguma y la bajada al Cheetah Conservation Fund por la B1" width="620">](../img/mapas/ruta-alternativa.svg)
 
 *Las **quince etapas con el final del CCF**, cada día del color de su tramo y con el trazado real de
 carretera —**OSRM sobre OpenStreetMap**, los mismos datos que el mapa oficial del volumen—. El
 **encuadre es idéntico al del mapa del `01`** a propósito: los dos se comparan poniéndolos uno al
 lado del otro, y lo que se ve es que **la línea es la misma hasta Onguma**. El único cambio está en
 el final: en vez de bajar de un tirón desde la puerta de Etosha, se parte en dos con noche en el
-CCF. [Ver el mapa en grande](img/mapas/ruta-alternativa.svg).*
+CCF. [Ver el mapa en grande](../img/mapas/ruta-alternativa.svg).*
 
 ---
 
@@ -193,4 +193,4 @@ el terreno. *(Dentro del parque no habría sido tan fácil: la cobertura de los 
 ---
 
 *Precios en N$ y € · ~N$20 = €1 · Kilómetros medidos con OSRM sobre OpenStreetMap el 24/08/2026 ·
-La ruta que imprime el resto del dossier sigue siendo la de [`01`](01-itinerarios-dia-a-dia.md)*
+La ruta que imprime el resto del dossier sigue siendo la de [`01`](../01-itinerarios-dia-a-dia.md)*
