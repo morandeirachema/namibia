@@ -312,40 +312,45 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
 
 ---
 
-## 7 · 🚤 El capricho del D6, si cae — el día de mar de Walvis
+## 7 · 🚤 El día de mar de Walvis — **Sandwich Harbour en 4x4, DECIDIDO (24/08)**
 
 **Va aparte del presupuesto** *(las actividades presupuestadas son las de Etosha y la lanzadera —
 `02` §9)* y las fichas de los operadores devuelven 403: **cifras ◐ del índice del buscador y de
 Viator, cruzadas entre operadores — confírmalas por email antes de reservar.**
 
-- **Crucero de delfines y lobos** *(~3 h, y jun–nov es temporada de ballena jorobada ◐)* —
-  **N$1.400–1.990 (~€70–100)/persona**: [Catamaran Charters](https://www.namibiancharters.com/activities/dolphin-seal-cruise) y
-  [Sailnamibia](https://www.sailnamibia.com) marcan la banda baja;
-  [Mola Mola](https://www.mola-namibia.com/marine-dolphin-cruise) la alta *(mín. 2; recogida
-  +N$470 · ~€24)*.
-- **Sandwich Harbour en 4x4** *(~4–5 h; con vuestro coche lo prohíbe el contrato de referencia —
-  el tour es la forma correcta, `06`)* — **N$2.600–3.220 (~€130–161)/persona**:
-  [Desert Compass](https://www.sandwichharbour-namibia.com) *(N$2.600; +N$300 · ~€15 recogida en
-  Swakopmund)* · [Red Dune Safaris](https://www.reddunesafarisnamibia.com/sandwich-harbour-4x4)
+- **Sandwich Harbour en 4x4** — **decidido (24/08)** *(~4–5 h; con vuestro coche lo prohíbe el
+  contrato de referencia — el tour es la forma correcta, `06`)* — **N$2.600–3.220
+  (~€130–161)/persona**: [Desert Compass](https://www.sandwichharbour-namibia.com) *(N$2.600;
+  +N$300 · ~€15 recogida en Swakopmund)* · [Red Dune Safaris](https://www.reddunesafarisnamibia.com/sandwich-harbour-4x4)
   *(N$3.220 · ~€161)*.
-- **El combo de día entero** *(~8,5 h, Mola Mola)* — **N$4.740 (~€237)/persona** ◐, sin la tasa de
-  parque. *(En Viator: `d4467-105190P1` el crucero, `-105190P2` el combo, `-37950P1` Sandwich
-  Harbour.)*
 - ⚠️ **La marea manda**: el 6-nov la bajamar es a las **07:18** — **la salida de ~08:30 es la que
   baja por la playa**; la de ~12:30 cae casi en pleamar ◐
   *([tidetime.org](https://www.tidetime.org/africa/namibia/walvis-bay-calendar-nov.htm), `01` §D6)*.
   El operador planifica con su propia tabla: **confírmalo al reservar**.
+- **Crucero de delfines y lobos** *(~3 h, y jun–nov es temporada de ballena jorobada ◐)* — sigue
+  abierto, sin decidir, como alternativa o complemento del mismo día — **N$1.400–1.990
+  (~€70–100)/persona**: [Catamaran Charters](https://www.namibiancharters.com/activities/dolphin-seal-cruise) y
+  [Sailnamibia](https://www.sailnamibia.com) marcan la banda baja;
+  [Mola Mola](https://www.mola-namibia.com/marine-dolphin-cruise) la alta *(mín. 2; recogida
+  +N$470 · ~€24)*.
+- **El combo de día entero** *(~8,5 h, Mola Mola, hace las dos cosas)* — **N$4.740 (~€237)/persona**
+  ◐, sin la tasa de parque. *(En Viator: `d4467-105190P1` el crucero, `-105190P2` el combo,
+  `-37950P1` Sandwich Harbour.)*
 
 **Otros opcionales con aviso previo**: **Otjitotongwe** *(guepardos, de camino el D9 — alimentación
 ~15:00; los no alojados **avisan antes** ◐, ~N$610 · ~€30/persona —
-[namibweb](https://www.namibweb.com/otjitotongwe.htm))* · el **vuelo panorámico** *(Sossusvlei /
-Skeleton Coast)*: globo con [Namib Sky](https://balloon-safaris.com/ballooning-namibia/) (N$9.920 ·
-~€496/persona) o avioneta con [Sossusvlei Scenic Flights](https://sossusvleiscenicflights.com/sossusvlei-scenic-flights/rates/)
-(N$6.900–17.500 · ~€345–875 según grupo) — precios reales, sin reservar *(`11`)* ·
+[namibweb](https://www.namibweb.com/otjitotongwe.htm))* ·
 **Onguma y Okonjima** son otra liga — reservas privadas junto a Etosha con nocturno y tracking a pie
 que el parque no permite: **Onguma** desde N$620 (~€31) en su camping hasta N$30.750 (~€1.538)
 pp/noche todo incluido; **Okonjima** desde N$1.130 (~€57) en camping hasta N$22.350 (~€1.118)
 pp/noche en su suite privada ✅ *(`01`, `11`)*.
+
+**Descartado (24/08): el vuelo panorámico** *(Sossusvlei / Skeleton Coast)* — globo con
+[Namib Sky](https://balloon-safaris.com/ballooning-namibia/) (N$9.920 · ~€496/persona) o avioneta
+con [Sossusvlei Scenic Flights](https://sossusvleiscenicflights.com/sossusvlei-scenic-flights/rates/)
+(N$6.900–17.500 · ~€345–875 según grupo) — precios reales, verificados, y **no se hace**: el
+viajero decide no volar. Se queda documentado en [`11`](11-entradas-y-permisos.md) por si algún
+día se reabre.
 
 ---
 

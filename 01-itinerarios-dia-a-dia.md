@@ -348,10 +348,11 @@ flowchart LR
   5 — consulta del 08/08/2026, archivada mes a mes en `15`)*; los **delfines se ven todo el año** *(el de
   Heaviside es residente de la corriente de Benguela — su ficha está en la guía; el mular,
   práctica común de los cruceros ○)*. Ficha nueva en la [guía de fauna](guia-fauna-etosha.pdf) *(añadida el 08/08)*
-- Día libre: paseo marítimo, ostras, el **crucero de delfines y lobos** *(~N$1.400–1.990, ~€70–100 pp
-  ◐)* o la excursión guiada a **Sandwich Harbour** *(~N$2.600–3.220, ~€130–161 pp ◐)*
+- Día libre: paseo marítimo, ostras, y la excursión guiada a **Sandwich Harbour en 4x4** —
+  **decidida (24/08)** *(~N$2.600–3.220, ~€130–161 pp ◐)*; el **crucero de delfines y lobos**
+  sigue abierto como alternativa o complemento del mismo día *(~N$1.400–1.990, ~€70–100 pp ◐)*
   *(🚫 con tu coche Sandwich Harbour está prohibida por contrato — el tour es la forma correcta y mejor;
-  precios y fuentes en [`02`](02-presupuesto.md), §9)*
+  precios y fuentes en [`02`](02-presupuesto.md), §9 y [`20`](20-reservas.md) §7)*
 - 🛏️ Walvis Bay, segunda noche
 
 ### D7 · sáb 7 — Cape Cross → Terrace Bay (Skeleton Coast) · **~410 km · día logístico** ◐ *(OSRM 412; el ~380–390 por tramos se quedaba corto — `13`)*
