@@ -121,8 +121,13 @@ def banda_mapa(dia):
   <div class="svg">{svg}</div>
   <div class="paso">{donde}: lo que hay alrededor, sin mover el coche de sitio</div>
 </section>"""
-    # realista: grava y sal a 65 en vez de 80, mas media hora de paradas
-    h_real = sum(v / (65.0 if f in ("grava", "sal") else mapa.VEL[f]) for f, v in km.items()) + 0.5
+    # realista, con el convenio del `13` tal cual: grava y sal a 60–70 de media real, y
+    # 30–60 min de paradas y repostaje — una banda, no un numero, porque asi es como lo
+    # da el dossier y asi no salen dos cifras distintas para el mismo dia en el mismo PDF
+    def con(vel_grava, paradas):
+        return sum(v / (vel_grava if f in ("grava", "sal") else mapa.VEL[f])
+                   for f, v in km.items()) + paradas
+    h_r0, h_r1 = con(70.0, 0.5), con(60.0, 1.0)
     def hm(h):
         return f"{int(h)} h {int(round(h % 1 * 60)):02d}"
     orden = ["asfalto", "grava", "sal", "parque"]
@@ -130,6 +135,10 @@ def banda_mapa(dia):
         f'<span class="f"><i style="background:{mapa.COLOR_FIRME[f]}"></i>'
         f'{mapa.NOMBRE_FIRME[f]} <b>{km[f]:.0f} km</b></span>'
         for f in orden if km.get(f, 0) >= 1)
+    aviso = ""
+    if "sossusvlei" in etapa["por"]:
+        aviso = ('<span class="f aviso">+ los <b>últimos ~5 km de arena blanda</b> hasta '
+                 'Sossusvlei/Deadvlei, que OSRM no enruta: 4H y desinflar, o la lanzadera</span>')
     paso = [trazado.PUNTOS[p][2].split(" · ")[0] for p in etapa["por"]]
     # sin repetir el punto de partida cuando el dia vuelve al mismo sitio
     compact = [p for i, p in enumerate(paso) if i == 0 or p != paso[i - 1]]
@@ -138,8 +147,8 @@ def banda_mapa(dia):
     return f"""<section class="mapa-dia">
   <div class="ficha">
     <span class="tot"><b>{total:.0f} km</b></span>
-    {firmes}
-    <span class="t">mínimo <b>{hm(h_min)}</b> · realista <b>{hm(h_real)}</b></span>
+    {firmes}{aviso}
+    <span class="t">mínimo <b>{hm(h_min)}</b> · realista <b>{hm(h_r0)}–{hm(h_r1)}</b></span>
   </div>
   <div class="svg">{svg}</div>
   <div class="paso">{lugares}</div>
@@ -194,6 +203,7 @@ ol.indice .k { font-family: var(--mono); font-size: 8.4pt; color: var(--tinta-2)
 .mapa-dia .ficha { margin: 2.5mm 0 1.5mm; font-size: 9.6pt; gap: 1mm 6mm; }
 .mapa-dia .ficha .tot { font-size: 14pt; }
 .mapa-dia .ficha .t { margin-left: auto; font-size: 9pt; }
+.mapa-dia .ficha .aviso { color: var(--oxido); font-size: 8.6pt; flex-basis: 100%; }
 .mapa-dia .paso { font-size: 9.4pt; margin-top: 1.5mm; }
 section.d.texto .cuerpo { column-count: 2; column-gap: 6mm; }
 header.dia.breve { margin-bottom: 3mm; padding-bottom: 1.5mm; }
