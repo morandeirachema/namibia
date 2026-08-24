@@ -314,7 +314,7 @@ def revisa_fechas():
 # Windhoek entro en la cuenta al reservarse, asi que el total pasa de 7 a 8.
 RESERVAS_CONTADAS = (("Sesriem ×2", 1), ("Terrace Bay", 1),
                      ("noches de Etosha", 4), ("Spreetshoogte", 1),
-                     ("Windhoek D0", 1))
+                     ("Windhoek D1", 1))
 
 
 def revisa_contador_reservas():
@@ -328,7 +328,9 @@ def revisa_contador_reservas():
     reservas = open(os.path.join(RAIZ, "20-reservas.md")).read()
     hechas = total = 0
     for nombre, peso in RESERVAS_CONTADAS:
-        casillas = re.findall(r"^- \[([ x])\] .*" + re.escape(nombre),
+        # el \b del final importa: sin el, «Windhoek D1» tambien casaba con
+        # «Windhoek D14» y el contador veia dos casillas donde hay una.
+        casillas = re.findall(r"^- \[([ x])\] .*" + re.escape(nombre) + r"\b",
                               reservas, re.M)
         if len(casillas) != 1:
             return mal(f"en el `20` §9 hay {len(casillas)} casillas para «{nombre}», "

@@ -37,7 +37,7 @@ Waterberg).
 ```mermaid
 flowchart LR
     W0["Windhoek"] --> SP["paso de<br/>Spreetshoogte"] --> SS["Sossusvlei"] --> CO["costa<br/>Walvis / Swakop"] --> CC["Cape Cross"]
-    CC -->|"nosotros: D6"| TB["Terrace Bay<br/>noche EN el parque"] --> TW["Twyfelfontein<br/>noche propia el D7"]
+    CC -->|"nosotros: D7"| TB["Terrace Bay<br/>noche EN el parque"] --> TW["Twyfelfontein<br/>noche propia el D8"]
     CC -->|"Isaac: mismo dia,<br/>giro tierra adentro"| TW
     TW --> KA["Kamanjab"] --> ET["Etosha"]
     ET -->|"nosotros: 4 noches DENTRO,<br/>salida por el este"| W1["Windhoek"]
@@ -53,17 +53,17 @@ flowchart LR
 ## 2 · El tronco compartido, hito a hito — dónde nos desviamos aunque pisemos lo mismo
 
 - **Windhoek.** Ellos le dedicaron **un día entero de ciudad** ✅ *(Christuskirche, museos,
-  Katutura)*; nosotros solo la logística del D0 *(coche y compra)* y la noche de vuelta. Nuestra
+  Katutura)*; nosotros solo la logística del D1 *(coche y compra)* y la noche de vuelta. Nuestra
   parte urbana está repartida en `08` y `19`, no en un día propio.
 - **Windhoek → desierto.** Ellos lo hicieron **de una tirada: >300 km y ~5 h** hasta el Namib
   Desert Lodge ✅ *(C19, 60 km al norte de Sesriem)*, cruzando el paso de Spreetshoogte de camino
   *(«casi 1.000 m de bajada en 4 km» ✅ — concuerda con nuestro `13` §3)*. Nosotros partimos ese
   mismo trayecto en dos y **dormimos dos noches en el propio paso** *(Spreetshoogte Campsite,
-  D1275)*: el D2 entero de escarpa es nuestro colchón de calendario (`13` §2). Misma carretera,
+  D1275)*: el D3 entero de escarpa es nuestro colchón de calendario (`13` §2). Misma carretera,
   filosofía opuesta: para ellos era tránsito, para nosotros es destino.
 - **Sossusvlei.** Aquí está la desviación más rentable de todo el documento. Ellos durmieron
   **fuera**, a 60 km de Sesriem, y entraron **a las 7:00 con la puerta exterior — siendo el coche
-  n.º 13 de unos 25** ✅. Nosotros dormimos **dentro de la puerta de Sesriem** *(reserva del D2–D3,
+  n.º 13 de unos 25** ✅. Nosotros dormimos **dentro de la puerta de Sesriem** *(reserva del D3–D4,
   `20` §4)* justo para lo contrario: salir a las ~05:10 con la puerta interior y pillar el amanecer
   en las dunas con una hora de ventaja sobre esa cola. **Su diario es la mejor confirmación de
   nuestra reserva**: la cola de 25 coches existe, y se le adelanta durmiendo dentro ◐.
@@ -73,18 +73,18 @@ flowchart LR
   Plain y el Moon Landscape** ✅, que nosotros no tenemos en ruta *(ver §5)*.
 - **El día de mar.** Ellos hicieron el combo entero: **catamarán a Pelican Point por la mañana y
   Sandwich Harbour en 4×4 por la tarde** ✅, con los flamencos incluidos. Nosotros tenemos los
-  flamencos a pie (D5) y ese combo es exactamente el «capricho del D5, si cae» que está
+  flamencos a pie (D6) y ese combo es exactamente el «capricho del D6, si cae» que está
   presupuestado sin decidir en `20` §7 — **su entusiasmo es un punto a favor de que caiga** ◐.
 - **Costa de los Esqueletos.** Ellos llegaron **solo hasta Cape Cross** *(con el pecio del Zeila
   antes ✅)* y giraron tierra adentro **ese mismo día** hasta Twyfelfontein *(comida en el Country
   Lodge a las 14:30)* y el Damara Mopane Lodge de Khorixas ✅. **No entraron al parque de la Costa
   de los Esqueletos.** Nosotros metemos ahí nuestra península: por la puerta de Ugabmund hasta
-  **Terrace Bay, noche dentro del parque (D6)**, y Twyfelfontein al día siguiente (D7), ahora con noche propia allí, y
+  **Terrace Bay, noche dentro del parque (D7)**, y Twyfelfontein al día siguiente (D8), ahora con noche propia allí, y
   en Hoada. Es decir: **su día 7 comprime en una jornada lo que nosotros repartimos en dos**, a
   cambio de no pisar el parque que le da nombre.
 - **Kamanjab y la puerta de Etosha.** Su día 8: del lodge de Khorixas a una **aldea himba a 7 km
   de Kamanjab** *(Omusaona Traditional Himba Village; 120 km, 1 h 30 ✅)* y de ahí **180 km / 2 h
-  hasta la puerta de Andersson** ✅. Nuestro D9 (Hoada → Kamanjab → Outjo → Okaukuejo, ~343 km)
+  hasta la puerta de Andersson** ✅. Nuestro D10 (Hoada → Kamanjab → Outjo → Okaukuejo, ~343 km)
   pasa por el mismo Kamanjab — la aldea está prácticamente en nuestra ruta *(ver §5)*.
 
 ---
@@ -136,21 +136,21 @@ nuestros 15 días, con el sur ya sacrificado, no tienen de dónde pagar.**
 
 ## 5 · Lo que sí se puede robar de su ruta — sin mover ni una reserva
 
-- **La aldea himba de Kamanjab (Omusaona, a 7 km del pueblo ✅).** Nuestro D9 pasa por Kamanjab
+- **La aldea himba de Kamanjab (Omusaona, a 7 km del pueblo ✅).** Nuestro D10 pasa por Kamanjab
   sí o sí. Desvío mínimo, sin coste de kilómetros. **Pero ojo**: `19` documenta el dilema de las
   «aldeas de demostración» a propósito **sin recomendar ni desaconsejar** — esta nota no cambia
   eso; solo deja dicho que, si el día 9 de noviembre apetece, está a un desvío de nada. Precio y
   horario sin verificar ❌.
-- **Sandwich Harbour + catamarán (D5).** Ya está como capricho presupuestado sin decidir en `20`
+- **Sandwich Harbour + catamarán (D6).** Ya está como capricho presupuestado sin decidir en `20`
   §7; su diario ✅ es el empujón a favor. Nada que cambiar, solo decidir.
-- **El meteorito Hoba.** Ya es parada opcional de nuestro D13 *(variante por Grootfontein, B8 —
-  `01` §D13 y `10`; entrada N$250 · ~€12,5 ◐)*. Ellos lo encajaron dentro de un día de 600 km;
-  nosotros solo si el D13 va sobrado de hora — el D13 ya mide ~539 km.
+- **El meteorito Hoba.** Ya es parada opcional de nuestro D14 *(variante por Grootfontein, B8 —
+  `01` §D14 y `10`; entrada N$250 · ~€12,5 ◐)*. Ellos lo encajaron dentro de un día de 600 km;
+  nosotros solo si el D14 va sobrado de hora — el D14 ya mide ~539 km.
 - **Welwitschia Plain y Moon Landscape ✅.** Lo único de su tronco que nuestra ruta no contempla.
-  El hueco natural sería la tarde del D6 *(día de descanso en Walvis)*: está a ~30–40 km de
+  El hueco natural sería la tarde del D7 *(día de descanso en Walvis)*: está a ~30–40 km de
   Swakopmund ○. Sin verificar permisos ni tasas del Welwitschia Drive ❌ *(sería una entrada de
   parque más — comprobar contra `11` antes de decidir)*.
-- **Waterberg**: ya figura como desvío opcional del D13 desde Otjiwarongo *(`01` §D13; entrada
+- **Waterberg**: ya figura como desvío opcional del D14 desde Otjiwarongo *(`01` §D14; entrada
   N$280 · ~€14 ◐)* y ahí se queda: con ~550 km ese día, es un lujo de hora que casi seguro no hay.
 
 ---
@@ -188,7 +188,7 @@ todo lo que importa** — pero tres cosas sí valen:
   abrieron el 15/08: precios verificados en §8)* son justo donde Isaac
   durmió y escribió reseña de primera mano ✅:
   [Damara Mopane Lodge](https://viajes.chavetas.es/guia/namibia/damara-mopane-lodge-opinion/)
-  *(plan B de la noche de Hoada, D8 — aún sin confirmar)* ·
+  *(plan B de la noche de Hoada, D9 — aún sin confirmar)* ·
   [Etosha Safari Camp](https://viajes.chavetas.es/guia/namibia/etosha-safari-camp-opinion/)
   *(plan B junto a Andersson si fallara una noche NWR del sur)* ·
   [The Delight Swakopmund](https://viajes.chavetas.es/guia/namibia/the-delight-swakopmund-opinion/)

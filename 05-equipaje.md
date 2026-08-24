@@ -97,7 +97,7 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 ## 🩺 Salud y botiquín
 
 - **Profilaxis de malaria** según lo que diga el CVI ✅ (`04`): el riesgo se define por
-  **regiones, y Kunene incluye Terrace Bay** — la entrada en zona es el **D6 (6 nov)** *(un día
+  **regiones, y Kunene incluye Terrace Bay** — la entrada en zona es el **D7 (6 nov)** *(un día
   antes desde el 24/08)*.
   Si es Malarone, se empieza ya de viaje (~4–5 nov); si es mefloquina, **~16–23 de octubre** — la
   receta sale de la cita de septiembre. A esa cita se va con el dato de la guía oficial británica:
@@ -189,7 +189,7 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   Canyon, Twyfelfontein y la cascada del Uniab (`10`); sandalias barefoot Saguaro para conducir y
   para el campamento; chanclas para las duchas compartidas. La arena a mediodía **quema**: nunca
   descalzo ○.
-- **La colada del D4–D5, sin lavadero** ◐: en Swakopmund hay deja-y-recoge — **Swakopmund
+- **La colada del D5–D6, sin lavadero** ◐: en Swakopmund hay deja-y-recoge — **Swakopmund
   Laundrette**, 15 Swakop St *([ficha](https://vymaps.com/NA/Swakopmund-Laundrette-484378/) ·
   [experiencia de viajeros](https://www.tripadvisor.com/ShowTopic-g298357-i10720-k11909074-o10-Laundry-Swakopmund_Erongo_Region.html))*, y **Atlantic Laundry** entrega en el día si se deja antes
   de las 11:00 *([web](https://namibia-laundry.com/service-atlantic-laundry-swakopmund/))* — y en
@@ -213,9 +213,9 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 ## 📦 Por qué hay tres «micro-kits»
 
 Hay tres momentos del viaje en los que **lo que necesitas no es lo que llevas encima**, y los tres
-pillan con el petate cerrado en el maletero: la **salida a Deadvlei del D3**, que arranca a las
-~05:10 con frío y termina a mediodía con 34 °C; las **charcas de noche del D9 al D12**, que se hacen
-a oscuras y en silencio; y la **costa del D4 al D6**, donde caen niebla, salitre y polvo el mismo
+pillan con el petate cerrado en el maletero: la **salida a Deadvlei del D4**, que arranca a las
+~05:10 con frío y termina a mediodía con 34 °C; las **charcas de noche del D10 al D13**, que se hacen
+a oscuras y en silencio; y la **costa del D5 al D7**, donde caen niebla, salitre y polvo el mismo
 día. Por eso se preparan la víspera y viajan en el daypack, no abajo.
 
 **Qué va en cada uno, con casilla: [`17`](17-lista-de-equipaje.md).**

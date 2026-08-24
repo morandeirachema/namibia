@@ -8,8 +8,8 @@ PDF.*
 
 🔴 **24/08 — LA RUTA CAMBIÓ Y ESTOS TRES FICHEROS ESTÁN REGENERADOS: hay que reimportarlos
 enteros.** Los días se movieron: **Spreetshoogte pasa de dos noches a una**, aparece **noche propia
-en Twyfelfontein (D7)** y **Namutoni deja de ser noche** —sus dos últimas las hace **Onguma
-Tamboti**—. En la práctica, **todo lo que va del D2 al D8 lleva un número de día distinto** y hay
+en Twyfelfontein (D8)** y **Namutoni deja de ser noche** —sus dos últimas las hace **Onguma
+Tamboti**—. En la práctica, **todo lo que va del D3 al D9 lleva un número de día distinto** y hay
 un tramo más en el KML. *(El itinerario nuevo, en [`01`](../01-itinerarios-dia-a-dia.md); el porqué,
 en [`24`](../24-ruta-alternativa.md).)*
 
@@ -42,7 +42,7 @@ importar los tres ficheros de abajo si ya tenías una versión anterior.**
   pides "direcciones en coche" entre puntos sueltos *(Google ni siquiera tiene datos fiables de
   muchas pistas de grava namibias — la línea recta habría sido peor que nada)*. Son **14 tramos**
   —uno por día de conducción, coloreados por bloque del viaje (desierto, costa, Damaraland, Etosha,
-  vuelta)—, cada uno con su fecha, sus km y sus horas de conducción al pulsarlo. **Solo el D5 no
+  vuelta)—, cada uno con su fecha, sus km y sus horas de conducción al pulsarlo. **Solo el D6 no
   lleva tramo propio**, porque es el día de descanso en Walvis Bay y no hay conducción. *(Eran 13:
   el día suelto de la escarpa desapareció y en su lugar entraron dos etapas de Damaraland.)*
 
@@ -78,10 +78,10 @@ del catálogo: lo calcula `mapas_google.py` recorriendo `ETAPAS` día a día y a
 que se pisa cada punto. **Dos de esos 37 —Deadvlei y Torra Bay— no son ancla de enrutado OSRM** (el
 camino pasa por ellos sin necesitar un punto de paso aparte para que la ruta salga bien), así que
 el cruce automático los dejaría sin día: van en la tabla `A_MANO` del propio script, con su día
-escrito y el punto tras el que se insertan —**Deadvlei justo tras Duna 45 en el D3**, y **Torra Bay
-tras la puerta de Ugabmund en el D6**, que es la C34 de la costa, cerrada y sin parada pero de
+escrito y el punto tras el que se insertan —**Deadvlei justo tras Duna 45 en el D4**, y **Torra Bay
+tras la puerta de Ugabmund en el D7**, que es la C34 de la costa, cerrada y sin parada pero de
 paso—. *(Palmwag y el paso de Grootberg también iban a mano hasta el 24/08; ahora son puntos de
-paso reales del D8 y salen solos.)*
+paso reales del D9 y salen solos.)*
 
 **Los dos puntos del segundo fichero no tienen día ni orden asignado, a propósito** ❌ — ni la
 geometría de la ruta ni el itinerario narrado sitúan a Khorixas o la puerta de Galton en un momento

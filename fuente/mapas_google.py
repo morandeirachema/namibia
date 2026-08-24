@@ -33,8 +33,8 @@ CATEGORIA = {
 # Puntos que la ruta visita de verdad pero que NO son ancla de enrutado: OSRM pasa por
 # ellos sin necesitar un punto de paso, asi que no aparecen en ningun `por`. Se situan a
 # mano contra el `01`, y va aqui —y no en el CSV— para que quede dicho de donde sale.
-A_MANO = {"deadvlei":  ("D3", "duna45"),      # clave -> (dia, punto tras el que va)
-          "torrabay":  ("D6", "ugabmund")}   # la C34 pasa por el; cerrado y sin parada
+A_MANO = {"deadvlei":  ("D4", "duna45"),      # clave -> (dia, punto tras el que va)
+          "torrabay":  ("D7", "ugabmund")}   # la C34 pasa por el; cerrado y sin parada
 
 
 def _dias():

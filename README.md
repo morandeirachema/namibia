@@ -83,7 +83,7 @@ flowchart LR
 > [!WARNING]
 > **Con el coche ya reservado, hay una cláusula del seguro que pedir por escrito EN LA ENTREGA**:
 > Savanna deja **«antes del amanecer y después del atardecer»** como zona sin cobertura salvo que
-> se nombre como la única zona cubierta por la Opción 4 — y la salida a Deadvlei del D3 sale a las
+> se nombre como la única zona cubierta por la Opción 4 — y la salida a Deadvlei del D4 sale a las
 > ~05:10 *(`20` §1, `06` §6)*. *(El otro frente urgente, que el seguro empezara el 30/10 y no el
 > 31, quedó **resuelto el 24/08**: está contratado.)*
 
@@ -103,24 +103,24 @@ flowchart LR
 5. 🟡 **El cambio de la segunda noche de Onguma por el [Cheetah Conservation
    Fund](https://cheetah.org/) se resuelve SOBRE LA MARCHA — decidido el 24/08.** No hace falta
    pedir nada por adelantado: si el guepardo no ha salido en Etosha, se llama desde allí *(la
-   decisión del D12, entera en [`24`](24-ruta-alternativa.md))*. Lo que eso acepta de antemano, dicho
+   decisión del D13, entera en [`24`](24-ruta-alternativa.md))*. Lo que eso acepta de antemano, dicho
    una vez y sin insistir: **la penalización de cancelación de Onguma se asume a ciegas** ❌ y **el
    CCF puede estar lleno** ❌ — en cuyo caso, sencillamente, se queda la noche de Onguma, que es un
    buen plan. Si un día apetece cerrarlo antes, son dos emails *(`20` §4)*.
 6. **Reservar Terrace Bay — la única noche que queda sin reservar y con fecha dura** *(vie 6 nov,
    un día antes de lo que decía el plan de agosto)*: sin ella **no se entra** al Skeleton Coast a
    pernoctar.
-   ✅ **Lo demás salió de esta lista**: **Windhoek Urban Camp** *(D0)*, **Spreetshoogte** *(D1, una
+   ✅ **Lo demás salió de esta lista**: **Windhoek Urban Camp** *(D1)*, **Spreetshoogte** *(D2, una
    noche)*, **Sesriem ×2** *(2–3 nov)*, **Okaukuejo** *(9–10)*, **Halali** *(10–11)* y
    **[Onguma Tamboti](https://onguma.com/) ×2** *(11–13)*, ya **fuera** de la puerta de Von
    Lindequist. **Namutoni se anuló.** *(Contador: **8 noches cerradas de 14**; quedan Terrace Bay
    —con tarifa ✅ pero sin reservar— y las cinco de camping sin tarifa: Walvis ×2, Twyfelfontein,
-   Hoada y Windhoek del D13.)*
-   ⏳ **Y la noche nueva de Twyfelfontein (D7) NO hay que reservarla**: fuera de parque y en
+   Hoada y Windhoek del D14.)*
+   ⏳ **Y la noche nueva de Twyfelfontein (D8) NO hay que reservarla**: fuera de parque y en
    temporada hombro, se decide sobre la marcha — **por eso es la red del calendario**, la que se
    sacrifica sin perder un céntimo si el vuelo se retrasa *(`24`)*.
 7. **Preguntar a NWR (+264 67 229 800)** si las **2 salidas guiadas de mañana** que quedan
-   *(Okaukuejo el D10 y Halali el D11)* se pueden dejar cerradas desde España — su tarifa avisa de
+   *(Okaukuejo el D11 y Halali el D12)* se pueden dejar cerradas desde España — su tarifa avisa de
    que **en temporada de lluvias no aceptan pre-reserva de actividades**; si no, van en recepción al
    llegar. ⚠️ **Y la pregunta nueva del 24/08: si el nocturno guiado se vende a quien NO duerme en
    el campamento** ❌ — al dejar Namutoni, las dos últimas noches se duermen fuera del parque y el
@@ -139,13 +139,13 @@ pide por escrito al cerrarla y lo que se deja para recepción— **está en
 lista el 24/08**: abierto ◐, operado por Barkhan Dune Retreat y con **tarifa cerrada ✅** de su
 propio rack ·
 la zona horaria sin cobertura del seguro de Savanna, sin nombrar todavía por escrito *(la salida a
-Deadvlei del D3, `20` §1)* ·
+Deadvlei del D4, `20` §1)* ·
 el sobrecoste **en tiempo** del **desvío obligatorio Okaukuejo–Halali** *(los km ya están: **+38**
 sobre la pista directa, medidos el 09/08 con el enrutado OSRM propio)* · **si hay diésel en el bucle
 Ugabmund–Springbokwasser** *(el surtidor de Terrace Bay, sin garantía — `07`)* · los horarios de
 salida de los safaris guiados de NWR.
-*(El D0 ya tiene plan —coche, compra y camping—, la franquicia quedó cerrada el 07/08 —1×23 kg por
-persona— y el 08/08 quedaron medidos el calendario (15 días/14 noches exactos) y el D14: facturación
+*(El D1 ya tiene plan —coche, compra y camping—, la franquicia quedó cerrada el 07/08 —1×23 kg por
+persona— y el 08/08 quedaron medidos el calendario (15 días/14 noches exactos) y el D15: facturación
 de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 **El inventario completo, en [`15`](15-huecos-cerrados.md).**
 
@@ -262,7 +262,7 @@ entrega— está en [`20-reservas`](20-reservas.md) §1.
   la prohíbe el contrato — el tour es mejor plan)*. ◐
 - 🥧 **La tarta de manzana de Solitaire** — dos veces, porque la ruta pasa dos veces. Y las dos se
   reposta: después hay **~230 km sin nada** *(OSRM)*. ✅
-- 🍺 **Joe's Beerhouse** en Windhoek — la opción de mesa del D0 y del D13, si el cuerpo no está
+- 🍺 **Joe's Beerhouse** en Windhoek — la opción de mesa del D1 y del D14, si el cuerpo no está
   para braai. N$200–400 (~€10–20). ✅
 
 ---
@@ -477,8 +477,8 @@ hospital) y que lleve **búsqueda y salvamento**, que en el Estrella es **opcion
   anochece **~19:03–19:16 en el interior** *(Windhoek y Etosha antes; Sesriem y Damaraland, ~19:15)*
   **y hasta ~19:20 en la costa** —algo antes que a fin de mes;
   ocaso recalculado en `15` y desglosado día a día en `01`— y la fauna sale a los arcenes al
-  atardecer. El día crítico es el D6: **Ugabmund cierra la entrada a las 15:00**.
-- **El seguro y Damaraland**: la Opción 4 de Savanna **sí cubre los bajos** — los tramos D7 y D8
+  atardecer. El día crítico es el D7: **Ugabmund cierra la entrada a las 15:00**.
+- **El seguro y Damaraland**: la Opción 4 de Savanna **sí cubre los bajos** — los tramos D8 y D9
   piden suavidad en las piedras igualmente. Las pistas malditas **D3707/D3703 no están en esta ruta**.
   *Dune driving* y Sandwich Harbour, **prohibidos por contrato** — el tour guiado es el plan.
 
@@ -555,7 +555,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 15. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 148 especies con foto —felinos y rapaces en secciones propias—, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
 16. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
 17. 🐆 [**`23-desvios-que-valen-la-pena`**](23-desvios-que-valen-la-pena.md) — **el guepardo, prioridad del viaje**: dónde se ve de verdad *(Namutoni 50 %, el CCF, Okonjima, Otjitotongwe)* y **de qué noche sale el día** · y las joyas de FUERA de la ruta —Spitzkoppe, Brandberg, Vingerklip, Waterberg— con los kilómetros medidos
-18. 🔀 [**`24-ruta-alternativa`**](24-ruta-alternativa.md) — **la decisión del D12, que se toma dentro de Etosha**: saltarse la segunda noche de Onguma y bajar al **Cheetah Conservation Fund** si el guepardo no ha salido — los dos finales medidos día a día **con su mapa a escala de país**, con lo que gana, lo que cuesta y cómo se decide sobre la marcha
+18. 🔀 [**`24-ruta-alternativa`**](24-ruta-alternativa.md) — **la decisión del D13, que se toma dentro de Etosha**: saltarse la segunda noche de Onguma y bajar al **Cheetah Conservation Fund** si el guepardo no ha salido — los dos finales medidos día a día **con su mapa a escala de país**, con lo que gana, lo que cuesta y cómo se decide sobre la marcha
 19. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**

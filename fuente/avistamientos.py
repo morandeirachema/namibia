@@ -30,9 +30,9 @@ que se hace uno antes de ir, y viene con su muestra.
 Cuatro zonas, las del viaje:
 
   · etosha     el poligono real del parque (OSM, via fuente/geo/parques.json)
-  · costa      Cape Cross, Swakopmund, Walvis Bay y Sandwich Harbour (D5-D7)
-  · namib      Sesriem, Sossusvlei y el Namib-Naukluft (D3-D4)
-  · damaraland Twyfelfontein, Grootberg y Hoada (D8)
+  · costa      Cape Cross, Swakopmund, Walvis Bay y Sandwich Harbour (D6-D8)
+  · namib      Sesriem, Sossusvlei y el Namib-Naukluft (D4-D5)
+  · damaraland Twyfelfontein, Grootberg y Hoada (D9)
 
 Uso:
     python3 fuente/avistamientos.py           # solo lo que falte (especies nuevas)

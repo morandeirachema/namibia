@@ -9,7 +9,7 @@
   <Style id="bloque-etosha"><LineStyle><color>ff43705f</color><width>5</width></LineStyle></Style>
   <Style id="bloque-vuelta"><LineStyle><color>ff6e777d</color><width>5</width></LineStyle></Style>
   <Placemark>
-    <name>D0 · Llegada, coche y compra en Windhoek</name>
+    <name>D1 · Llegada, coche y compra en Windhoek</name>
     <description>31 oct · 46 km · 0.6 h de conducción · duerme en windhoek</description>
     <styleUrl>#bloque-llegada</styleUrl>
     <LineString>
@@ -18,7 +18,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D1 · Windhoek → paso de Spreetshoogte</name>
+    <name>D2 · Windhoek → paso de Spreetshoogte</name>
     <description>1 nov · 205 km · 2.6 h de conducción · duerme en spreetshoogte</description>
     <styleUrl>#bloque-desierto</styleUrl>
     <LineString>
@@ -27,7 +27,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D2 · Spreetshoogte → Solitaire → Sesriem</name>
+    <name>D3 · Spreetshoogte → Solitaire → Sesriem</name>
     <description>2 nov · 129 km · 1.9 h de conducción · duerme en sesriem</description>
     <styleUrl>#bloque-desierto</styleUrl>
     <LineString>
@@ -36,7 +36,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D3 · Sossusvlei, Deadvlei y Duna 45</name>
+    <name>D4 · Sossusvlei, Deadvlei y Duna 45</name>
     <description>3 nov · 122 km · 2.6 h de conducción · duerme en sesriem</description>
     <styleUrl>#bloque-desierto</styleUrl>
     <LineString>
@@ -45,7 +45,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D4 · Sesriem → Walvis Bay</name>
+    <name>D5 · Sesriem → Walvis Bay</name>
     <description>4 nov · 316 km · 4.0 h de conducción · duerme en walvisbay</description>
     <styleUrl>#bloque-costa</styleUrl>
     <LineString>
@@ -54,7 +54,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D6 · Cape Cross → Terrace Bay</name>
+    <name>D7 · Cape Cross → Terrace Bay</name>
     <description>6 nov · 412 km · 5.1 h de conducción · duerme en terracebay</description>
     <styleUrl>#bloque-costa</styleUrl>
     <LineString>
@@ -63,7 +63,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D7 · Skeleton Coast → Twyfelfontein</name>
+    <name>D8 · Skeleton Coast → Twyfelfontein</name>
     <description>7 nov · 212 km · 2.9 h de conducción · duerme en twyfelfontein</description>
     <styleUrl>#bloque-damaraland</styleUrl>
     <LineString>
@@ -72,7 +72,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D8 · Twyfelfontein → Palmwag → Hoada</name>
+    <name>D9 · Twyfelfontein → Palmwag → Hoada</name>
     <description>8 nov · 159 km · 2.2 h de conducción · duerme en hoada</description>
     <styleUrl>#bloque-damaraland</styleUrl>
     <LineString>
@@ -81,7 +81,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D9 · Hoada → Etosha (Okaukuejo)</name>
+    <name>D10 · Hoada → Etosha (Okaukuejo)</name>
     <description>9 nov · 343 km · 4.1 h de conducción · duerme en okaukuejo</description>
     <styleUrl>#bloque-etosha</styleUrl>
     <LineString>
@@ -90,7 +90,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D10 · Safari Okaukuejo → Halali</name>
+    <name>D11 · Safari Okaukuejo → Halali</name>
     <description>10 nov · 108 km · 5.7 h de conducción · duerme en halali</description>
     <styleUrl>#bloque-etosha</styleUrl>
     <LineString>
@@ -99,7 +99,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D11 · Safari Halali → Namutoni → Onguma</name>
+    <name>D12 · Safari Halali → Namutoni → Onguma</name>
     <description>11 nov · 93 km · 3.5 h de conducción · duerme en onguma</description>
     <styleUrl>#bloque-etosha</styleUrl>
     <LineString>
@@ -108,7 +108,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D12 · Etosha este desde Onguma: Fischer's Pan</name>
+    <name>D13 · Etosha este desde Onguma: Fischer's Pan</name>
     <description>12 nov · 70 km · 2.8 h de conducción · duerme en onguma</description>
     <styleUrl>#bloque-etosha</styleUrl>
     <LineString>
@@ -117,7 +117,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D13 · Onguma → Windhoek</name>
+    <name>D14 · Onguma → Windhoek</name>
     <description>13 nov · 539 km · 6.4 h de conducción · duerme en windhoek</description>
     <styleUrl>#bloque-vuelta</styleUrl>
     <LineString>
@@ -126,7 +126,7 @@
     </LineString>
   </Placemark>
   <Placemark>
-    <name>D14 · Vuelo de vuelta</name>
+    <name>D15 · Vuelo de vuelta</name>
     <description>14 nov · 46 km · 0.6 h de conducción · duerme en —</description>
     <styleUrl>#bloque-vuelta</styleUrl>
     <LineString>

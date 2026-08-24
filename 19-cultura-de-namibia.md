@@ -11,9 +11,10 @@
 > *Escrito el 09/08/2026. La mesa y los mercados están en [`08`](08-comida-compras-y-regalos.md);
 > las palabras del paisaje (pan, vlei, koppie) en el README; aquí está el resto: la gente.*
 
-Este documento existe porque la ruta no cruza solo paisajes: **cruza Rehoboth (D1), la Swakopmund
-alemana (D6), los grabados san de Twyfelfontein (D8), un fuerte de la Schutztruppe en el que vais a
-dormir dos noches (D11–D12) y la capital espiritual herero (D13)** — y todo eso se ve distinto
+Este documento existe porque la ruta no cruza solo paisajes: **cruza Rehoboth (D2), la Swakopmund
+alemana (D7), los grabados san de Twyfelfontein (D8, y desde el 24/08 con noche propia allí), un
+fuerte de la Schutztruppe que se visita de paso (Namutoni, D12) y la capital espiritual herero
+(D14)** — y todo eso se ve distinto
 sabiendo tres cosas de historia y cuatro de trato.
 
 ---
@@ -84,7 +85,7 @@ pie showData
 - **Herero** — ganaderos otjiherero-hablantes. Lo inconfundible: **el vestido victoriano de las
   mujeres con el tocado de cuernos de vaca** *(otjikaiva)* — nacido de la ropa de las misioneras
   alemanas y convertido, tras el genocidio, **en bandera de identidad**: llevar el traje del
-  opresor a la manera propia. Su capital espiritual es **Okahandja (vuestra B1 del D13)**, con las
+  opresor a la manera propia. Su capital espiritual es **Okahandja (vuestra B1 del D14)**, con las
   tumbas de los jefes y la peregrinación anual de finales de agosto *(fuera de vuestras fechas)* ◐.
 - **Himba** — los ovahimba del Kunene profundo, parientes de los herero que no pasaron por la
   misión: **el otjize** *(la pasta de ocre y grasa que da a piel y trenzas el rojo famoso)*.
@@ -93,8 +94,8 @@ pie showData
   demostración» visitables cerca de Kamanjab ◐ — si os tienta, la regla de abajo *(§4)* vale
   doble: con guía local, comprando artesanía y sin tratar a nadie como decorado ○.
 - **Damara** — khoekhoegowab-hablantes *(la lengua de los chasquidos)*, mayoría en el Damaraland
-  que cruzáis el D8: **Twyfelfontein, los puestos de artesanía de la C39/D3254 (`08`) y el
-  campamento comunitario de Hoada** donde dormís esa noche son su tierra y su economía.
+  que cruzáis el D8 y el D9: **Twyfelfontein —donde ahora se duerme—, los puestos de artesanía de
+  la C39/D3254 (`08`) y el campamento comunitario de Hoada** son su tierra y su economía.
 - **San** — los primeros: cazadores-recolectores cuyos chamanes **grabaron Twyfelfontein hace
   2.000–5.000 años** *(el primer Patrimonio Mundial de Namibia, 2007 —
   [UNESCO](https://whc.unesco.org/en/list/1255) ✅)*. Hoy son la minoría más golpeada del país;
@@ -102,7 +103,7 @@ pie showData
   avestruz** del Craft Centre *(`08`)*.
 - **Nama, basters y coloured** — los nama comparten lengua con los damara y sufrieron el
   genocidio junto a los herero. Los **basters de Rehoboth** *(vuestra primera parada de la B1 el
-  D1)* son una comunidad de origen mixto nama-afrikáner llegada del Cabo en 1870, con su propio
+  D2)* son una comunidad de origen mixto nama-afrikáner llegada del Cabo en 1870, con su propio
   capítulo de autogobierno ◐.
 - **Blancos (~6 %)** — afrikáners, alemanes *(la comunidad de Swakopmund, con periódico propio,
   la Allgemeine Zeitung)* y angloparlantes: la mayoría de las granjas del centro y buena parte
@@ -122,7 +123,7 @@ flowchart LR
     I["INGLES<br/>la unica oficial<br/>desde 1990"] --> P["eleccion deliberada:<br/>ni la del apartheid<br/>ni la de la colonia"]
     A["AFRIKAANS<br/>la lingua franca<br/>de la calle"] --> P2["la que se oye<br/>en gasolineras<br/>y granjas"]
     O["OSHIWAMBO<br/>la mas hablada<br/>en casa"] --> P3["el norte<br/>y media Windhoek"]
-    K["KHOEKHOEGOWAB<br/>la de los chasquidos"] --> P4["Damaraland:<br/>vuestro D8"]
+    K["KHOEKHOEGOWAB<br/>la de los chasquidos"] --> P4["Damaraland:<br/>vuestro D9"]
     style I fill:#2d6a4f,color:#fff
 ```
 
@@ -136,7 +137,7 @@ flowchart LR
 - **El khoekhoegowab suena a percusión**: los chasquidos *(ǀ ǁ ǃ ǂ)* son consonantes de pleno
   derecho. No intentéis imitarlos a la primera — pedid que os enseñen: es un rompehielos
   infalible en Damaraland ○.
-- **El alemán sobrevive en la costa**: en Swakopmund (D6) se desayuna con «Brötchen» y el
+- **El alemán sobrevive en la costa**: en Swakopmund (D7) se desayuna con «Brötchen» y el
   Apfelstrudel del Café Anton *(`08`)* sin cambiar de idioma ◐.
 
 ---
@@ -153,7 +154,7 @@ en ○ de una pieza.*
    comprar algo o una propina — es lo justo: la imagen es suya. A niños, mejor no. Y los
    retratos «étnicos» sin permiso son exactamente lo que parece: safari humano.
 3. **La mano derecha** *(o las dos)* para dar y recibir — dinero, cambio, regalos.
-4. **El regateo existe, pero es suave**: en los puestos de Damaraland (D8) y Okahandja (D13) se
+4. **El regateo existe, pero es suave**: en los puestos de Damaraland (D9) y Okahandja (D14) se
    regatea sonriendo y sin rematar — la diferencia son céntimos para vosotros y la cena para el
    artesano. En tiendas con precio marcado *(Craft Centre)*, no se regatea.
 5. **El reloj es orientativo** *(«African time»)*: el briefing del coche, la recepción, el
@@ -192,38 +193,42 @@ os atiende, no un extra.
 ```mermaid
 flowchart TD
 %% ancho
-    D0["D0 y D14 · WINDHOEK<br/>Christuskirche 1910 · Alte Feste<br/>Independence Museum · Craft Centre<br/>kapana en Katutura con cabeza"]
-    D1["D1 · REHOBOTH de paso<br/>tierra de los basters"]
-    D6["D6 · SWAKOPMUND<br/>la ciudad alemana: arquitectura,<br/>Brotchen, Cafe Anton, Mondesa"]
-    D8["D8 · DAMARALAND<br/>Twyfelfontein: arte san UNESCO<br/>puestos damara · noche en Hoada<br/>campamento comunitario"]
-    D11["D11-D12 · NAMUTONI<br/>dormis en un fuerte de la<br/>Schutztruppe reconstruido"]
-    D13["D13 · OKAHANDJA<br/>capital espiritual herero<br/>tallistas de Mbangura"]
-    D0 ~~~ D1 ~~~ D6
-    D6 ~~~ D8 ~~~ D11 ~~~ D13
-    style D8 fill:#C2542F,color:#fff
-    style D11 fill:#7a3a22,color:#fff
+    D1["D1 y D15 · WINDHOEK<br/>Christuskirche 1910 · Alte Feste<br/>Independence Museum · Craft Centre<br/>kapana en Katutura con cabeza"]
+    D2["D2 · REHOBOTH de paso<br/>tierra de los basters"]
+    D7["D7 · SWAKOPMUND<br/>la ciudad alemana: arquitectura,<br/>Brotchen, Cafe Anton, Mondesa"]
+    D9["D8-D9 · DAMARALAND<br/>Twyfelfontein: arte san UNESCO y noche propia<br/>puestos damara · despues Hoada,<br/>campamento comunitario"]
+    D12["D12 · NAMUTONI, de paso<br/>un fuerte de la Schutztruppe<br/>reconstruido · se visita,<br/>ya no se duerme"]
+    D14["D14 · OKAHANDJA<br/>capital espiritual herero<br/>tallistas de Mbangura"]
+    D1 ~~~ D2 ~~~ D7
+    D7 ~~~ D9 ~~~ D12 ~~~ D14
+    style D9 fill:#C2542F,color:#fff
+    style D12 fill:#7a3a22,color:#fff
 ```
 
-- **D0/D14 · Windhoek** — la **Christuskirche** *(1910)* y el **Alte Feste** *(el fuerte de 1890)*
+- **D1/D15 · Windhoek** — la **Christuskirche** *(1910)* y el **Alte Feste** *(el fuerte de 1890)*
   quedan juntos y a diez minutos del Craft Centre; enfrente, el **Independence Memorial Museum**
   —el edificio dorado construido, curiosidad, por el estudio norcoreano Mansudae ◐— cuenta la
   versión namibia de todo el §1. Entrada del museo: gratuita según guías ◐, horario ❌ sin
   verificar. El kapana de Katutura, mejor con alguien local o en tour *(`08`)*.
-- **D1 · Rehoboth** *(de paso por la B1)* — la capital baster: no hay parada prevista, pero ya
+- **D2 · Rehoboth** *(de paso por la B1)* — la capital baster: no hay parada prevista, pero ya
   sabéis qué es cuando la crucéis.
-- **D6 · Swakopmund** — la colonia que no se fue: paseo de media hora entre el **Woermannhaus**,
+- **D7 · Swakopmund** — la colonia que no se fue: paseo de media hora entre el **Woermannhaus**,
   el faro y el muelle de 1905 *(la cena, en `08`)*. Los **tours de Mondesa** *(el township)*
   existen y los llevan vecinos ◐ — misma regla ética del §4.
-- **D8 · Twyfelfontein y Hoada** — el día más cultural del viaje sin proponérselo: **arte
-  rupestre san** con guía local *(N$270 · ~€13,5 ◐, `11`)*, **artesanía damara comprada al
-  artista** en los puestos del cruce *(`08`)* y la noche en **Hoada, campamento comunitario**
+- **D8–D9 · Twyfelfontein y Hoada** — los dos días más culturales del viaje sin proponérselo, y
+  desde el 24/08 son **dos**: el **arte rupestre san** con guía local *(N$270 · ~€13,5 ◐, `11`)*
+  **se ve sin reloj**, porque se duerme allí mismo; al día siguiente, la **artesanía damara comprada
+  al artista** en los puestos del cruce *(`08`)* y la noche en **Hoada, campamento comunitario**
   cuya caja se queda en la conservancy ◐.
-- **D11 · Namutoni** — el fuerte blanco donde acampáis es la reconstrucción del puesto
+- **D12 · Namutoni** *(de paso, ya no se duerme — cambio del 24/08)* — el fuerte blanco es la
+  reconstrucción del puesto
   alemán que **en enero de 1904 defendieron siete soldados frente a cientos de guerreros
   ondonga** — resistieron el día y escaparon de noche; los ovambo lo arrasaron, y la versión
-  reconstruida es hoy vuestro campamento ◐
+  reconstruida es hoy un campamento de NWR con museo ◐. **Vosotros lo cruzáis la tarde del D12**
+  camino de Onguma: da tiempo al museo y a la torre del atardecer, contando el reloj hacia atrás
+  desde las 19:10 que cierra Von Lindequist
   *([Wikipedia — Fort Namutoni](https://en.wikipedia.org/wiki/Fort_Namutoni))*.
-- **D13 · Okahandja** — los **tallistas de Mbangura** ya están en el plan de regalos *(`08`)*;
+- **D14 · Okahandja** — los **tallistas de Mbangura** ya están en el plan de regalos *(`08`)*;
   ahora ya sabéis por qué esta parada de carretera es, además, suelo sagrado herero.
 
 ---

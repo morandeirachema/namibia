@@ -7,67 +7,67 @@
   </metadata>
   <wpt lat="-22.57761" lon="17.07727">
     <name>Windhoek</name>
-    <desc>nucleo de referencia · D0, D1, D13, D14</desc>
+    <desc>nucleo de referencia · D1, D2, D14, D15</desc>
     <sym>City (Medium)</sym>
     <type>ciudad</type>
   </wpt>
   <wpt lat="-22.4822" lon="17.47205">
     <name>Aeropuerto Hosea Kutako</name>
-    <desc>lo que se visita · D0, D14</desc>
+    <desc>lo que se visita · D1, D15</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
   <wpt lat="-23.3151" lon="17.0817">
     <name>Rehoboth</name>
-    <desc>nucleo de referencia · D1</desc>
+    <desc>nucleo de referencia · D2</desc>
     <sym>City (Medium)</sym>
     <type>ciudad</type>
   </wpt>
   <wpt lat="-21.97923" lon="16.91282">
     <name>Okahandja</name>
-    <desc>nucleo de referencia · D13</desc>
+    <desc>nucleo de referencia · D14</desc>
     <sym>City (Medium)</sym>
     <type>ciudad</type>
   </wpt>
   <wpt lat="-20.46093" lon="16.65121">
     <name>Otjiwarongo</name>
-    <desc>gasolinera de las obligatorias · D13</desc>
+    <desc>gasolinera de las obligatorias · D14</desc>
     <sym>Gas Station</sym>
     <type>combu</type>
   </wpt>
   <wpt lat="-19.24672" lon="17.71622">
     <name>Tsumeb</name>
-    <desc>nucleo de referencia · D13</desc>
+    <desc>nucleo de referencia · D14</desc>
     <sym>City (Medium)</sym>
     <type>ciudad</type>
   </wpt>
   <wpt lat="-23.65792" lon="16.18549">
     <name>Paso de Spreetshoogte</name>
-    <desc>puerto de montana · D1, D2</desc>
+    <desc>puerto de montana · D2, D3</desc>
     <sym>Summit</sym>
     <type>paso</type>
   </wpt>
   <wpt lat="-23.89429" lon="16.00553">
     <name>Solitaire</name>
-    <desc>gasolinera de las obligatorias · D2, D4</desc>
+    <desc>gasolinera de las obligatorias · D3, D5</desc>
     <sym>Gas Station</sym>
     <type>combu</type>
   </wpt>
   <wpt lat="-24.48713" lon="15.79849">
     <name>Sesriem</name>
-    <desc>donde se duerme · D2, D3, D4</desc>
+    <desc>donde se duerme · D3, D4, D5</desc>
     <sym>Campground</sym>
     <type>parada</type>
   </wpt>
   <wpt lat="-24.72952" lon="15.47192">
     <name>Duna 45</name>
-    <desc>lo que se visita · D3</desc>
+    <desc>lo que se visita · D4</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
   <wpt lat="-24.73953" lon="15.29236">
     <name>Sossusvlei</name>
-    <desc>lo que se visita · D3</desc>
+    <desc>lo que se visita · D4</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
@@ -79,31 +79,31 @@
   </wpt>
   <wpt lat="-22.95576" lon="14.50711">
     <name>Walvis Bay</name>
-    <desc>donde se duerme · D4, D5, D6</desc>
+    <desc>donde se duerme · D5, D6, D7</desc>
     <sym>Campground</sym>
     <type>parada</type>
   </wpt>
   <wpt lat="-22.67684" lon="14.52897">
     <name>Swakopmund</name>
-    <desc>nucleo de referencia · D6</desc>
+    <desc>nucleo de referencia · D7</desc>
     <sym>City (Medium)</sym>
     <type>ciudad</type>
   </wpt>
   <wpt lat="-22.11597" lon="14.28266">
     <name>Henties Bay</name>
-    <desc>gasolinera de las obligatorias · D6</desc>
+    <desc>gasolinera de las obligatorias · D7</desc>
     <sym>Gas Station</sym>
     <type>combu</type>
   </wpt>
   <wpt lat="-21.77145" lon="13.95196">
     <name>Cape Cross</name>
-    <desc>lo que se visita · D6</desc>
+    <desc>lo que se visita · D7</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
   <wpt lat="-21.1727" lon="13.6695">
     <name>Puerta de Ugabmund</name>
-    <desc>puerta de parque, con horario · D6</desc>
+    <desc>puerta de parque, con horario · D7</desc>
     <sym>Flag, Red</sym>
     <type>puerta</type>
   </wpt>
@@ -115,21 +115,21 @@
   </wpt>
   <wpt lat="-19.98772" lon="13.03254">
     <name>Terrace Bay</name>
-    <desc>donde se duerme · D6, D7</desc>
+    <desc>donde se duerme · D7, D8</desc>
     <sym>Campground</sym>
     <type>parada</type>
   </wpt>
   <wpt lat="-20.31055" lon="13.64769">
     <name>Puerta de Springbokwasser</name>
-    <desc>puerta de parque, con horario · D7</desc>
+    <desc>puerta de parque, con horario · D8</desc>
     <sym>Flag, Red</sym>
     <type>puerta</type>
   </wpt>
   <wpt lat="-20.54842" lon="14.41099">
     <name>Twyfelfontein</name>
-    <desc>lo que se visita · D7, D8</desc>
-    <sym>Flag, Blue</sym>
-    <type>hito</type>
+    <desc>donde se duerme · D8, D9</desc>
+    <sym>Campground</sym>
+    <type>parada</type>
   </wpt>
   <wpt lat="-20.37384" lon="14.96042">
     <name>Khorixas</name>
@@ -139,37 +139,37 @@
   </wpt>
   <wpt lat="-19.88436" lon="13.94799">
     <name>Palmwag</name>
-    <desc>lo que se visita · D8</desc>
+    <desc>lo que se visita · D9</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
   <wpt lat="-19.84295" lon="14.1282">
     <name>Paso de Grootberg</name>
-    <desc>puerto de montana · D8</desc>
+    <desc>puerto de montana · D9</desc>
     <sym>Summit</sym>
     <type>paso</type>
   </wpt>
   <wpt lat="-19.73222" lon="14.30791">
     <name>Hoada</name>
-    <desc>donde se duerme · D8, D9</desc>
+    <desc>donde se duerme · D9, D10</desc>
     <sym>Campground</sym>
     <type>parada</type>
   </wpt>
   <wpt lat="-19.62841" lon="14.84336">
     <name>Kamanjab</name>
-    <desc>gasolinera de las obligatorias · D9</desc>
+    <desc>gasolinera de las obligatorias · D10</desc>
     <sym>Gas Station</sym>
     <type>combu</type>
   </wpt>
   <wpt lat="-20.11186" lon="16.15669">
     <name>Outjo</name>
-    <desc>gasolinera de las obligatorias · D9</desc>
+    <desc>gasolinera de las obligatorias · D10</desc>
     <sym>Gas Station</sym>
     <type>combu</type>
   </wpt>
   <wpt lat="-19.3313" lon="15.9401">
     <name>Puerta de Andersson</name>
-    <desc>puerta de parque, con horario · D9</desc>
+    <desc>puerta de parque, con horario · D10</desc>
     <sym>Flag, Red</sym>
     <type>puerta</type>
   </wpt>
@@ -181,66 +181,66 @@
   </wpt>
   <wpt lat="-19.1808" lon="15.9179">
     <name>Okaukuejo</name>
-    <desc>donde se duerme · D9, D10</desc>
+    <desc>donde se duerme · D10, D11</desc>
     <sym>Campground</sym>
     <type>parada</type>
   </wpt>
   <wpt lat="-19.0356" lon="16.4722">
     <name>Halali</name>
-    <desc>donde se duerme · D10, D11</desc>
+    <desc>donde se duerme · D11, D12</desc>
     <sym>Campground</sym>
     <type>parada</type>
   </wpt>
   <wpt lat="-18.8059" lon="16.9405">
     <name>Namutoni</name>
-    <desc>donde se duerme · D11, D12</desc>
+    <desc>donde se duerme · D12, D13</desc>
     <sym>Campground</sym>
     <type>parada</type>
   </wpt>
   <wpt lat="-18.8034" lon="17.0433">
     <name>Puerta de Von Lindequist</name>
-    <desc>puerta de parque, con horario · D11, D12, D13</desc>
+    <desc>puerta de parque, con horario · D12, D13, D14</desc>
     <sym>Flag, Red</sym>
     <type>puerta</type>
   </wpt>
   <wpt lat="-18.78191" lon="17.05919">
     <name>Onguma · Tamboti</name>
-    <desc>donde se duerme · D11, D12, D13</desc>
+    <desc>donde se duerme · D12, D13, D14</desc>
     <sym>Campground</sym>
     <type>parada</type>
   </wpt>
   <wpt lat="-18.7656" lon="17.0299">
     <name>Twee Palms · Fischer's Pan</name>
-    <desc>lo que se visita · D12</desc>
+    <desc>lo que se visita · D13</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
   <wpt lat="-18.8582" lon="16.9249">
     <name>Chudob</name>
-    <desc>lo que se visita · D11, D12</desc>
+    <desc>lo que se visita · D12, D13</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
   <wpt lat="-19.2134" lon="16.0583">
     <name>Gemsbokvlakte</name>
-    <desc>lo que se visita · D10</desc>
+    <desc>lo que se visita · D11</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
   <wpt lat="-19.0346" lon="16.2697">
     <name>Salvadora</name>
-    <desc>lo que se visita · D10</desc>
+    <desc>lo que se visita · D11</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
   <wpt lat="-18.989" lon="16.5584">
     <name>Goas</name>
-    <desc>lo que se visita · D11</desc>
+    <desc>lo que se visita · D12</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
   <trk>
-    <name>D0 · Llegada, coche y compra en Windhoek</name>
+    <name>D1 · Llegada, coche y compra en Windhoek</name>
     <desc>31 oct · 46 km · ~0.6 h</desc>
     <trkseg>
       <trkpt lat="-22.4871" lon="17.4692"/>
@@ -858,7 +858,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D1 · Windhoek → paso de Spreetshoogte</name>
+    <name>D2 · Windhoek → paso de Spreetshoogte</name>
     <desc>1 nov · 205 km · ~2.6 h</desc>
     <trkseg>
       <trkpt lat="-22.5781" lon="17.0773"/>
@@ -2348,7 +2348,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D2 · Spreetshoogte → Solitaire → Sesriem</name>
+    <name>D3 · Spreetshoogte → Solitaire → Sesriem</name>
     <desc>2 nov · 129 km · ~1.9 h</desc>
     <trkseg>
       <trkpt lat="-23.6579" lon="16.1855"/>
@@ -3191,7 +3191,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D3 · Sossusvlei, Deadvlei y Duna 45</name>
+    <name>D4 · Sossusvlei, Deadvlei y Duna 45</name>
     <desc>3 nov · 122 km · ~2.6 h</desc>
     <trkseg>
       <trkpt lat="-24.4872" lon="15.7984"/>
@@ -4168,7 +4168,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D4 · Sesriem → Walvis Bay</name>
+    <name>D5 · Sesriem → Walvis Bay</name>
     <desc>4 nov · 316 km · ~4.0 h</desc>
     <trkseg>
       <trkpt lat="-24.4872" lon="15.7984"/>
@@ -5805,7 +5805,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D6 · Cape Cross → Terrace Bay</name>
+    <name>D7 · Cape Cross → Terrace Bay</name>
     <desc>6 nov · 412 km · ~5.1 h</desc>
     <trkseg>
       <trkpt lat="-22.9558" lon="14.5071"/>
@@ -8159,7 +8159,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D7 · Skeleton Coast → Twyfelfontein</name>
+    <name>D8 · Skeleton Coast → Twyfelfontein</name>
     <desc>7 nov · 212 km · ~2.9 h</desc>
     <trkseg>
       <trkpt lat="-19.9898" lon="13.0341"/>
@@ -9292,7 +9292,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D8 · Twyfelfontein → Palmwag → Hoada</name>
+    <name>D9 · Twyfelfontein → Palmwag → Hoada</name>
     <desc>8 nov · 159 km · ~2.2 h</desc>
     <trkseg>
       <trkpt lat="-20.5487" lon="14.4108"/>
@@ -10627,7 +10627,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D9 · Hoada → Etosha (Okaukuejo)</name>
+    <name>D10 · Hoada → Etosha (Okaukuejo)</name>
     <desc>9 nov · 343 km · ~4.1 h</desc>
     <trkseg>
       <trkpt lat="-19.732" lon="14.3081"/>
@@ -12125,7 +12125,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D10 · Safari Okaukuejo → Halali</name>
+    <name>D11 · Safari Okaukuejo → Halali</name>
     <desc>10 nov · 108 km · ~5.7 h</desc>
     <trkseg>
       <trkpt lat="-19.1809" lon="15.9181"/>
@@ -13653,7 +13653,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D11 · Safari Halali → Namutoni → Onguma</name>
+    <name>D12 · Safari Halali → Namutoni → Onguma</name>
     <desc>11 nov · 93 km · ~3.5 h</desc>
     <trkseg>
       <trkpt lat="-19.0359" lon="16.4722"/>
@@ -14997,7 +14997,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D12 · Etosha este desde Onguma: Fischer's Pan</name>
+    <name>D13 · Etosha este desde Onguma: Fischer's Pan</name>
     <desc>12 nov · 70 km · ~2.8 h</desc>
     <trkseg>
       <trkpt lat="-18.7817" lon="17.0593"/>
@@ -15681,7 +15681,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D13 · Onguma → Windhoek</name>
+    <name>D14 · Onguma → Windhoek</name>
     <desc>13 nov · 539 km · ~6.4 h</desc>
     <trkseg>
       <trkpt lat="-18.7817" lon="17.0593"/>
@@ -18082,7 +18082,7 @@
     </trkseg>
   </trk>
   <trk>
-    <name>D14 · Vuelo de vuelta</name>
+    <name>D15 · Vuelo de vuelta</name>
     <desc>14 nov · 46 km · ~0.6 h</desc>
     <trkseg>
       <trkpt lat="-22.5781" lon="17.0773"/>

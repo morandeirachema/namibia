@@ -84,7 +84,7 @@ def escribe_gpx(tramos):
 
     for e in tramos:
         if not e.get("geometria"):
-            continue                       # el D2 y el D4 no mueven el coche de sitio
+            continue                       # el dia de descanso no mueve el coche de sitio
         horas = e.get("horas")
         desc = f'{e["fecha"]} · {e["km"]:.0f} km' + (f' · ~{horas:.1f} h' if horas else "")
         p += ['  <trk>',

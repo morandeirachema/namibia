@@ -139,29 +139,29 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
 
 **El hospital, etapa a etapa** *(detalle y fuentes en el [`07`](07-logistica.md))*:
 
-- **D0 y D13, Windhoek** — Mediclinic Windhoek, urgencias **+264 61 433 1109** ✅ · Lady Pohamba,
+- **D1 y D14, Windhoek** — Mediclinic Windhoek, urgencias **+264 61 433 1109** ✅ · Lady Pohamba,
   urgencias **+264 83 335 9036** ✅ · Roman Catholic, urgencias **+264 61 270 2443** ✅.
-- **D1–D3, Spreetshoogte y Sesriem** — **no hay hospital cerca** ❌: Windhoek a ~320 km y Walvis
+- **D2–D4, Spreetshoogte y Sesriem** — **no hay hospital cerca** ❌: Windhoek a ~320 km y Walvis
   Bay a ~270 km de grava, cuatro horas largas *(el `07` lo llama «la verdad incómoda»)*. Aquí
   la llamada al NSIG y la ambulancia aérea van **antes** que el volante: se llama, se describe,
   y se conduce hacia donde digan — o se espera al helicóptero donde digan.
-- **D4–D5, Walvis Bay y Swakopmund** — Welwitschia Hospital, urgencias **+264 64 218 911** ✅
+- **D5–D6, Walvis Bay y Swakopmund** — Welwitschia Hospital, urgencias **+264 64 218 911** ✅
   *(«24/7»)* · Mediclinic Swakopmund, urgencias **+264 64 412 205** ✅.
-- **D6, Terrace Bay** — nada al norte de Henties Bay: Swakopmund queda a más de 400 km de sal y
+- **D7, Terrace Bay** — nada al norte de Henties Bay: Swakopmund queda a más de 400 km de sal y
   grava. Es la noche del satelital y del 924/999. Y es, con Damaraland, la tierra de
   *P. villosus*: la que **no tiene antiveneno**.
-- **D7 y D8, Twyfelfontein y Hoada** — Mediclinic Otjiwarongo **+264 67 303 734** ✅, por Kamanjab y
-  Outjo; lejos. ⚠️ **Desde el 24/08 son DOS noches en Damaraland, no una** *(la del D7 es la nueva)*:
+- **D8 y D9, Twyfelfontein y Hoada** — Mediclinic Otjiwarongo **+264 67 303 734** ✅, por Kamanjab y
+  Outjo; lejos. ⚠️ **Desde el 24/08 son DOS noches en Damaraland, no una** *(la del D8 es la nueva)*:
   las dos, en la tierra de *P. villosus* y las dos con el hospital a horas. Satelital a mano.
-- **D9–D12, Etosha** — dentro del parque **no hay médico** ◐: Okaukuejo tiene «una clínica
+- **D10–D13, Etosha** — dentro del parque **no hay médico** ◐: Okaukuejo tiene «una clínica
   básica con dos enfermeras» y botiquín en recepción, y «en una emergencia se evacúa en avión a
   Windhoek»; desde Halali, «el médico u hospital más cercano está en Outjo, a unas dos horas»;
   y en la zona de Namutoni el de referencia es Tsumeb, «a unos 115 km» ◐ *(fichas de Expert Africa,
   2026; NWR no publica nada ❌)*. Los de referencia: **Mediclinic Otjiwarongo** (arriba) y **Tsumeb
   Private Hospital +264 67 221 001** ◐. Y el problema añadido: **las puertas del parque cierran del
   ocaso al amanecer** — de noche, la salida es con el personal del campamento y la llamada al
-  924/999. Eso vale para **el D9 y el D10**, las dos noches de dentro *(Okaukuejo y Halali)*.
-  ✅ **Y desde el 24/08 las DOS últimas noches quedan fuera**: el D11 y el D12 se duermen en
+  924/999. Eso vale para **el D10 y el D11**, las dos noches de dentro *(Okaukuejo y Halali)*.
+  ✅ **Y desde el 24/08 las DOS últimas noches quedan fuera**: el D12 y el D13 se duermen en
   **Onguma**, pasada la puerta de Von Lindequist, así que **no hay puerta echada por delante** —
   de Onguma a **Tsumeb** hay **105 km** ✅ *(enrutado propio)* y se pueden hacer a cualquier hora.
   **Es la mitad de las noches de Etosha con salida libre, no una.**

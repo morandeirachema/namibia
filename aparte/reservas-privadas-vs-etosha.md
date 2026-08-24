@@ -61,7 +61,7 @@ at Ongava, uno de los alojamientos de la reserva. Foto: Ragnhild & Neil Crawford
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bare-cheeked_Babbler-5996_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg)*
 
 - **Ruta**: linda con Etosha en la puerta **Andersson**, la misma que ya se usa para Okaukuejo el
-  D9 — de camino, sin desvío. Distancia exacta lodge↔puerta no publicada ❌.
+  D10 — de camino, sin desvío. Distancia exacta lodge↔puerta no publicada ❌.
 - 324 km² / 32.400 ha ◐. Precio pp/noche, [tarifa 2026 oficial](https://cdn.sanity.io/files/t3qm2dt2/production/b87a4d3f75de438c55302cf5ca4c92a81b42ebe3.pdf)
   ✅ (válida 11 ene 2026–10 ene 2027, cubre el viaje):
   - Ongava Lodge, Full Board: N$11.800 + N$1.200 tasa conservación = **N$13.000 (~€650)** — el
@@ -85,7 +85,7 @@ at Ongava, uno de los alojamientos de la reserva. Foto: Ragnhild & Neil Crawford
 Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Namutomi_Fort_(37073116643).jpg)*
 
 - **Ruta**: linda con la puerta **Von Lindequist**, a solo ~10 km de los campamentos de Onguma —
-  y Von Lindequist está a 17 km de Namutoni, junto a donde ya duermen el D11-D12 —Onguma Tamboti,
+  y Von Lindequist está a 17 km de Namutoni, junto a donde ya duermen el D12-D13 —Onguma Tamboti,
   3,4 km pasada la puerta— ◐. **El desvío más
   pequeño de todo este documento: ~27 km desde donde ya se duerme.**
 - 35.970 ha ✅. Su año fiscal corre 1 nov-31 oct, así que las noches del viaje (11-12 nov) caen en
@@ -117,7 +117,7 @@ Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wik
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Okonjima_Nature_Reserve.jpg)*
 
 - **Ruta**: 48 km al sur de Otjiwarongo por la B1 + 10 km de pista — es exactamente la parada
-  opcional que `01` ya contempla para el D13 Etosha→Windhoek, **de camino, sin desvío extra**.
+  opcional que `01` ya contempla para el D14 Etosha→Windhoek, **de camino, sin desvío extra**.
 - 22.000 ha ✅. Precio pp/noche, [tarifa 2026 oficial](https://okonjima.com/wp-content/uploads/2026/08/Okonjima-Rack-Rates-2026-.pdf)
   ✅ (temporada alta 01/07-31/12/26, cubre el viaje):
   - Campsite: **N$1.130 (~€57)**
@@ -166,7 +166,7 @@ portal de terceros**, no el operador — el gestor real de los lodges es Natural
 ### Erindi Private Game Reserve — [erindi.com](https://erindi.com/) — **cerrada, descartada**
 
 Habría sido la mejor situada de las cinco (180 km al norte de Windhoek / 125 km al sur de
-Otjiwarongo, prácticamente sobre la B1 del D13) y la única con **perro salvaje africano
+Otjiwarongo, prácticamente sobre la B1 del D14) y la única con **perro salvaje africano
 confirmado** ✅ (sin rinoceronte). Pero su propia web dice, textual: Old Traders Lodge *"currently
 closed for renovations until further notice"* (posible reapertura 2027, sin fecha), Camp Elephant
 *"permanently closed and will not be reopening"*, sin visitas de día. **No hay ninguna forma de
@@ -189,7 +189,7 @@ sola noche aislable ❌.
 altiplano. Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grootberg_Pass_(37090707863).jpg)*
 
 - **Ruta**: meseta de Grootberg, concesión ‡Khoadi-//Hôas, Damaraland — ya en la zona de la ruta
-  (área de Hoada, D8; desde el 24/08 el D7 se duerme en Twyfelfontein).
+  (área de Hoada, D9; desde el 24/08 el D8 se duerme en Twyfelfontein).
 - **Rhino tracking a pie**: gestionado por la propia comunidad (‡Khoadi-//Hôas Conservancy,
   reconocida por el MEFT namibio como custodio de rinoceronte) ✅. ¾ de día, 4x4 + caminata en
   terreno rocoso, mínimo 2 personas, **prohibido menores de 16**, sin garantía de avistamiento.
@@ -211,7 +211,7 @@ altiplano. Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikime
   real, no un paso de camino**: 65 km al norte de Kamanjab por la C35 (asfalto) + 16-17 km de pista
   ◐. El propio `13-itinerario.md` de este proyecto ya señala que **Galton, al oeste, exige reserva y
   es más largo por dentro** — cualquier ruta a Okaukuejo pasa por Kamanjab y Outjo (265-271 km). Ir a
-  Hobatere exige ida y vuelta a Kamanjab (~164 km extra): noche propia, reestructura el D9.
+  Hobatere exige ida y vuelta a Kamanjab (~164 km extra): noche propia, reestructura el D10.
 - **Precio**, [tarifa 2026 oficial](https://hobatere-lodge.com/uploads/documents/7469de5362c08fd69bd484ce6a0b30eab40a68d6.pdf)
   ✅ — ⚠️ nuestras fechas (fin oct-nov) caen en su temporada **ALTA** (01/07–15/11/26), la más cara
   del año ahí, al revés que los campamentos NWR de Etosha donde noviembre es más barato:
@@ -304,7 +304,7 @@ Halali–Namutoni)*, así que su contrapeso pesa poco: la balanza se inclina hac
 de New Era. En todo el corredor de esta ruta, solo dos sitios lo confirman: **Erindi** (cerrada,
 no visitable) y **[N/a'an ku sê Wildlife Sanctuary](https://www.naankuse.com)** cerca de Windhoek
 ✅ — pero es un santuario de rehabilitación con animales **en recintos**, no una reserva de fauna
-libre, visitable de medio día en el D0 o D13. **Si el perro salvaje es un objetivo real, el dato
+libre, visitable de medio día en el D1 o D14. **Si el perro salvaje es un objetivo real, el dato
 honesto es que esta ruta, con este plan, no lo garantiza en ningún alojamiento — abierto ni de
 lujo.**
 
@@ -359,7 +359,7 @@ Con el marco del viaje —self-drive, presupuesto ajustado, una sola noche o act
    gana a Dolomite (160-180 km) para el mismo tipo de ventaja — zona vetada al self-drive público.
 3. **Mejor "fauna que Etosha no puede dar" fuera del parque**: Okonjima — tracking con collar de
    investigación (leopardo, rinoceronte a pie, hiena parda, pangolín), ya integrado como parada
-   D13 sin desvío. Grootberg le sigue de cerca para rinoceronte a pie específicamente, también
+   D14 sin desvío. Grootberg le sigue de cerca para rinoceronte a pie específicamente, también
    cerca de ruta, pero con el precio sin reconciliar entre fuentes.
 4. **Reserva de gama alta más completa en fauna**: Ongava (único con rinoceronte negro y blanco
    confirmados), pero el escalón de entrada es el más caro de las cuatro y no confirma leopardo ni

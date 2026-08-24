@@ -121,7 +121,7 @@ campamentos de NWR ◐.
 - **El fuego no se deja solo y se mata con agua** ○ — estáis en la estación seca de un país seco.
 - ✅ **El hornillo de gas YA consta en la ficha del coche** *(cotejo del 10/08/2026: «gas cooker
   & gas cylinder», con bombona de 3 kg)*: el «no consta» que llevaba este manual queda cerrado.
-  Lo que sigue vivo es **cotejarlo físicamente en la entrega** *(`01` §D0)* — sin hornillo no hay
+  Lo que sigue vivo es **cotejarlo físicamente en la entrega** *(`01` §D1)* — sin hornillo no hay
   café a las 05:45, y ese es el tipo de detalle que arruina más mañanas que cualquier avería.
 
 ## 5. La nevera, o cómo no quedarse sin cena el día 9
@@ -136,7 +136,7 @@ propia batería sin recarga, sin confirmar ❌.
   Okaukuejo, Halali, Namutoni y Sesriem** *([okaukuejo](https://www.nwrnamibia.com/okaukuejo-camping.htm) · [halali](https://etoshanationalpark.com.na/accommodation/inside-the-park/halali-campsite/) · [namutoni](https://www.nwrnamibia.com/namutoni-camping.htm) ·
   [sesriem](https://www.sossusvlei.org/accommodation/sesriem-camp-site/) — en Sesriem, con avisos
   de viajeros de tomas averiadas ○: pedir parcela con toma que funcione)* **y en Onguma Tamboti**,
-  donde se duermen el **D11 y el D12** y que además lleva **ducha y wc propios en la parcela** ✅
+  donde se duermen el **D12 y el D13** y que además lleva **ducha y wc propios en la parcela** ✅
   *(rack oficial 2027)*; en
   Hoada y los campamentos comunitarios, da por hecho que no ○.
 - **Lo que la mata** ○: abrirla como si fuera la de casa, el sol directo sobre ella y meter la
@@ -168,7 +168,7 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 - **Tejón mielero, el especialista de Halali** ○ — abre neveras, cajas y cubos **en segundos**, y
   lo avisan varios campistas *([senseearth](https://senseearth.co.uk/blog/the-honey-badger-and-my-steak/) ·
   [roxannereid](https://www.roxannereid.co.za/blog/man-vs-ratel-at-etosha-national-park-namibia))*:
-  la noche del D10, que es la de Halali, comida al coche **siempre** — no «un momento en la mesa»
+  la noche del D11, que es la de Halali, comida al coche **siempre** — no «un momento en la mesa»
   *(la ficha del campamento, en el [`21`](21-campamentos-de-etosha.md))*.
 - **Babuino chacma** en miradores y áreas de descanso ○: ventanillas arriba si te alejas del
   coche con comida dentro a la vista. *(Es el «mono» de esta ruta — ficha en la guía; el vervet

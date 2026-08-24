@@ -20,7 +20,7 @@ costado dinero real.
 
 **NWR cambia de temporada el 1 de noviembre**, así que las **cinco** noches de campings oficiales
 —**Sesriem ×2** y las **tres de dentro de Etosha** *(Okaukuejo, Halali y Namutoni)*— caen todas en
-el tramo barato; la primera es Sesriem, el 3. **Y la de Terrace Bay (D7), que también es NWR
+el tramo barato; la primera es Sesriem, el 3. **Y la de Terrace Bay (D8), que también es NWR
 aunque sea habitación y no parcela**, cae igualmente después del 1.
 *(Desde el 21/08 la **cuarta** noche de Etosha ya **no es NWR**: es **Onguma Tamboti**, reserva
 privada — su año tarifario corre también de noviembre a octubre, `03`. Se aterriza el 31 a las

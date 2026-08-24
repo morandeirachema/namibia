@@ -200,7 +200,7 @@ def norte(x, y, r=11):
 
 
 def tropico(L, lat=-23.4362):
-    """El tropico de Capricornio: la ruta lo cruza el D5, y viene rotulado en la C14."""
+    """El tropico de Capricornio: la ruta lo cruza el D6, y viene rotulado en la C14."""
     if not (L.sur < lat < L.norte):
         return ""
     _, y = L.xy(lat, L.oeste)
@@ -316,34 +316,81 @@ ROTULOS_ALT = {
 EN_MAPA_RUTA = ["windhoek", "aeropuerto", "okahandja", "otjiwarongo", "tsumeb", "outjo", "rehoboth",
                 "spreetshoogte", "solitaire", "sesriem", "sossusvlei", "walvisbay",
                 "swakopmund", "hentiesbay", "capecross", "ugabmund", "terracebay",
-                "springbokwasser", "twyfelfontein", "hoada", "kamanjab", "andersson",
-                "okaukuejo", "halali", "namutoni", "lindequist", "onguma"]
+                "springbokwasser", "twyfelfontein", "palmwag", "hoada", "kamanjab",
+                "andersson", "okaukuejo", "halali", "namutoni", "lindequist", "onguma"]
 
-TEXTO_ROTULO = {
+# El nombre con el que sale cada parada en el mapa, cuando no vale el rotulo de
+# `trazado.PUNTOS`. Los DIAS no se escriben aqui: se calculan de las etapas —ver
+# `_rotulos()`—, porque escritos a mano se quedaron contando la ruta de agosto
+# cuando el itinerario cambio, y el mapa decia «Sesriem D4·D5» con Sesriem ya en D3.
+NOMBRE_PARADA = {
     "sossusvlei": "Sossusvlei · Deadvlei",
-    "sesriem": "Sesriem  D3·D4",
-    "walvisbay": "Walvis Bay  D5·D6",
-    "terracebay": "Terrace Bay  D7",
-    "hoada": "Hoada  D8",
-    "okaukuejo": "Okaukuejo  D9",
-    "halali": "Halali  D10",
-    "namutoni": "Namutoni  D11",
-    "onguma": "Onguma Tamboti  D12",
-    "spreetshoogte": "Spreetshoogte  D1·D2",
-    "windhoek": "WINDHOEK  D0·D13",
+    "spreetshoogte": "Spreetshoogte",
+    "windhoek": "WINDHOEK",
+    "onguma": "Onguma Tamboti",
     "ugabmund": "Ugabmund",
     "springbokwasser": "Springbokwasser",
     "andersson": "Andersson",
     "lindequist": "Von Lindequist",
 }
 
-BLOQUES_LEYENDA = [
-    ("desierto",   "El desierto", "D1–D4"),
-    ("costa",      "La costa", "D5–D7"),
-    ("damaraland", "Damaraland", "D8"),
-    ("etosha",     "Etosha", "D9–D12"),
-    ("vuelta",     "Ida y vuelta a Windhoek", "D0 · D13"),
+
+def _dias_seguidos(ids):
+    """«D2, D3, D4» -> «D2–D4»; los tramos sueltos se separan con un punto medio."""
+    nums = sorted(int(i[1:]) for i in ids)
+    tramos, ini, prev = [], nums[0], nums[0]
+    for n in nums[1:] + [None]:
+        if n == prev + 1:
+            prev = n
+            continue
+        tramos.append(f"D{ini}" if ini == prev else f"D{ini}–D{prev}")
+        if n is None:
+            break
+        ini = prev = n
+    return " · ".join(tramos)
+
+
+def _rotulos(etapas):
+    """El texto de cada parada, con las noches que se duermen alli pegadas detras."""
+    noches = {}
+    for e in etapas:
+        if e.get("duerme"):
+            noches.setdefault(e["duerme"], []).append(e["id"])
+    textos = {c: NOMBRE_PARADA.get(c, trazado.PUNTOS[c][2]) for c in trazado.PUNTOS}
+    for clave, dias in noches.items():
+        textos[clave] = f"{textos[clave]}  {'·'.join(dias)}"
+    return textos
+
+
+def _leyenda(etapas, titulos):
+    """Los bloques del viaje con sus dias, sacados de las propias etapas."""
+    dias = {}
+    for e in etapas:
+        dias.setdefault(e["bloque"], []).append(e["id"])
+    filas = []
+    for bloques, nombre in titulos:
+        ids = [i for b in bloques for i in dias.get(b, [])]
+        if ids:
+            filas.append((bloques[-1], nombre, _dias_seguidos(ids)))
+    return filas
+
+
+def _noches(clave, etapas=None):
+    """Los dias que se duerme en una parada, «D12·D13» — para los rotulos sueltos."""
+    ids = [e["id"] for e in (etapas or trazado.ETAPAS) if e.get("duerme") == clave]
+    return "·".join(ids)
+
+
+TITULOS_LEYENDA = [
+    (("desierto",), "El desierto"),
+    (("costa",), "La costa"),
+    (("damaraland",), "Damaraland"),
+    (("etosha",), "Etosha"),
+    (("llegada", "vuelta"), "Ida y vuelta a Windhoek"),
 ]
+
+TEXTO_ROTULO = _rotulos(trazado.ETAPAS)
+BLOQUES_LEYENDA = _leyenda(trazado.ETAPAS, TITULOS_LEYENDA)
 
 # --- la variante del `24` -------------------------------------------------
 # Misma ruta que la oficial salvo dos cosas, y el mapa esta para que se vean las dos:
@@ -357,32 +404,16 @@ EN_MAPA_ALT = ["windhoek", "aeropuerto", "okahandja", "otjiwarongo", "tsumeb", "
                "kamanjab", "andersson", "okaukuejo", "halali", "namutoni",
                "lindequist", "ccf"]
 
-TEXTO_ROTULO_ALT = {
-    "sossusvlei": "Sossusvlei · Deadvlei",
-    "sesriem": "Sesriem  D2·D3",
-    "walvisbay": "Walvis Bay  D4·D5",
-    "terracebay": "Terrace Bay  D6",
-    "twyfelfontein": "Twyfelfontein  D7",
-    "hoada": "Hoada  D8",
-    "okaukuejo": "Okaukuejo  D9",
-    "halali": "Halali  D10",
-    "namutoni": "Namutoni  D11",
-    "ccf": "Cheetah Conservation Fund  D12",
-    "spreetshoogte": "Spreetshoogte  D1",
-    "windhoek": "WINDHOEK  D0·D13",
-    "ugabmund": "Ugabmund",
-    "springbokwasser": "Springbokwasser",
-    "andersson": "Andersson",
-    "lindequist": "Von Lindequist",
-}
-
-BLOQUES_LEYENDA_ALT = [
-    ("desierto",   "El desierto", "D1–D3"),
-    ("costa",      "La costa y el Skeleton Coast", "D4–D6"),
-    ("damaraland", "Damaraland", "D7–D8"),
-    ("etosha",     "Etosha", "D9–D11"),
-    ("vuelta",     "El CCF y la vuelta a Windhoek", "D0 · D12–D14"),
+TITULOS_LEYENDA_ALT = [
+    (("desierto",), "El desierto"),
+    (("costa",), "La costa y el Skeleton Coast"),
+    (("damaraland",), "Damaraland"),
+    (("etosha",), "Etosha"),
+    (("llegada", "vuelta"), "El CCF y la vuelta a Windhoek"),
 ]
+
+TEXTO_ROTULO_ALT = _rotulos(trazado.ETAPAS_ALT)
+BLOQUES_LEYENDA_ALT = _leyenda(trazado.ETAPAS_ALT, TITULOS_LEYENDA_ALT)
 
 
 def situacion(L, x, y, ancho):
@@ -608,7 +639,7 @@ def mapa_etosha(ancho=1000):
     cuerpo.append(f'<path d="{"".join(pistas)}" fill="none" stroke="{C["borde"]}" '
                   f'stroke-width=".9" stroke-linecap="round" opacity=".85"/>')
 
-    cuerpo.append(capa_ruta(L, etapas=["D9", "D10", "D11", "D12", "D13"], ancho=3.2))
+    cuerpo.append(capa_ruta(L, etapas=["D10", "D11", "D12", "D13", "D14"], ancho=3.2))
 
     x, y = L.xy(-18.83, 16.28)
     cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="15" fill="{C["tinta3"]}" '
@@ -643,10 +674,11 @@ def mapa_etosha(ancho=1000):
 
     # ---- campamentos y puertas ----
     for clave, dx, dy, anc, txt in [
-            ("okaukuejo", 0, -16, "middle", "OKAUKUEJO · D9"),
-            ("halali", 0, -16, "middle", "HALALI · D10"),
-            ("namutoni", -40, -6, "end", "NAMUTONI · D11"),
-            ("onguma", 12, -4, "start", "ONGUMA · D12"),
+            # los dias salen de las etapas: escritos a mano se quedaron viejos una vez
+            ("okaukuejo", 0, -16, "middle", "OKAUKUEJO · " + _noches("okaukuejo")),
+            ("halali", 0, -16, "middle", "HALALI · " + _noches("halali")),
+            ("namutoni", -40, -6, "end", "NAMUTONI"),          # se visita, no se duerme
+            ("onguma", 12, -4, "start", "ONGUMA · " + _noches("onguma")),
             ("andersson", -9, 4, "end", "Puerta de Andersson"),
             ("lindequist", 11, 22, "start", "Von Lindequist"),
     ]:
