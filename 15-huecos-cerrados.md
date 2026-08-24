@@ -792,6 +792,38 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   - ✅ **Lo que sí queda confirmado del 24/08**, y coincide con lo que ya decía `01`: mientras el
     desvío esté activo, **las únicas charcas accesibles entre Okaukuejo y Halali son
     Gemsbokvlakte, Sueda y Salvadora**.
+  - 🆕 **La balanza se inclina hacia la lectura (a): el desvío SÍ sigue en pie en noviembre de 2026**
+    *(24/08, segunda vuelta)*. Aparecen **fuentes de 2026** —no de 2025— que convergen en que las
+    obras y su desvío están activos todo 2026:
+    - Un tramo **nuevo se cierra el 1 de febrero de 2026**: el MEFT anunció el cierre temporal de un
+      tramo de la carretera **Okaukuejo–Namutoni**, con el mismo desvío —Gemsbokvlakte, luego el
+      bypass nuevo ~38 km hasta cruzar la principal, y el detour de Salvadora hasta reencontrarla a
+      **~47 km de Okaukuejo**— y con el bypass **previsto terminado hacia el 26 de febrero de 2026**,
+      tras lo cual el tráfico pasa al bypass nuevo. *([Informanté](https://informante.web.na/?p=388802),
+      «Section of Okaukuejo–Namutoni Road to close temporarily from February».)*
+    - El **desvío obligatorio «del 2 de junio de 2026 al julio de 2027»** —el que el 03/08 se sospechó
+      síntesis mal hecha— vuelve a salir, ahora **ligado al proyecto plurianual entero, no a la fase
+      de 2025**, en varias búsquedas independientes, con la frase «la ruta de bypass sigue vigente
+      durante noviembre de 2026» y «la carretera principal directa entre los campamentos está cerrada;
+      todo el tráfico, en ambos sentidos, va por los bypasses». *([namibian.org](https://namibian.org/blog/construction-of-new-main-road-through-etosha-progressing),
+      [Tourism Update](https://www.tourismupdate.com/article/etosha-road-closed-for-upgrades).)*
+    - El proyecto es la **C38 de Okaukuejo a la puerta de King Nehale, ~214–215 km** en total,
+      detours a Halali y Namutoni incluidos; ficha en el **portal oficial de evaluación ambiental del
+      MEFT**, [eia.meft.gov.na/web/projects/2464](https://eia.meft.gov.na/web/projects/2464). Detalle
+      nuevo suelto: se nombra **«Rhino Drive»** como parte del acceso a Halali por el bypass ○.
+  - ⛔ **El caveat que manda sobre todo lo anterior**: **en esta vuelta NO se pudo abrir ni una sola
+    página** —el proxy de egress bloqueó `WebFetch` en TODAS (meft.gov.na, nwr.com.na, informante,
+    namibian.org, tourismupdate, x.com, el blog de umhambi…)—, así que **todo esto es extracción del
+    buscador, no lectura de la fuente**: la **fase de 2025 sigue siendo la única ✅** (páginas primarias
+    leídas el 24/08 a primera hora); lo de 2026 es **◐/○ con la EXTRACCIÓN sin verificar ❌**. Hay
+    además una tensión sin resolver —«bypass terminado hacia el 26/02/2026» frente a «desvío hasta
+    julio de 2027»—: lo más plausible es que el tramo Okaukuejo→Halali/Namutoni se cerrara en febrero
+    y el tráfico pasara al bypass nuevo, mientras el proyecto entero (214 km) sigue hasta 2027 con el
+    desvío en pie, pero **no se puede reconciliar desde aquí**.
+  - 👉 **Efecto sobre el plan**: **no se toca nada**. El D10 ya va por el desvío y los 2.764 km ya lo
+    cuentan; la evidencia nueva **refuerza** que así debe quedarse. La llamada a **NWR Okaukuejo
+    (+264 67 229 800)** sigue siendo la confirmación primaria —ahora para *confirmar*, no para *decidir*—
+    y de paso el único modo de cerrar el sobrecoste en tiempo, que nadie publica.
 - 🕐 **Los horarios de salida de los safaris guiados de NWR**: no los publican en ninguna parte.
 - 🌡️ ~~**Sin estación meteorológica**: Spreetshoogte, Terrace Bay y Hoada/Grootberg.~~ **CERRADOS
   DOS (04/08) con ERA5, validado a ±0,04 °C contra las celdas conocidas** *(ver arriba, §ERA5)*:
