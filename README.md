@@ -64,28 +64,32 @@ flowchart LR
   05/08: +€86 entre cotizar y comprar)*. **Con el billete, el e-visa queda desbloqueado.**
 - 🚙 **Coche — RESERVADO con Savanna (12/08): €2.363 en total, 15 días completos, Opción 4 con
   franquicia cero** ✅ *(el detalle completo, en [`20`](20-reservas.md) §1)*
+- 🩺 **Seguro IATI Estrella — CONTRATADO, y ya desde el 30/10** ✅ *(dicho por el viajero el 24/08,
+  con el código de Chavetas)*. Era lo más urgente del cuaderno y deja de serlo. ⚠️ **El importe
+  real pagado, ❌ sin recuperar todavía**: el presupuesto sigue contando la cotización de
+  **€113,02 p.p.** —sin descuento— hasta que aparezca la póliza *(`20` §3)*.
 
 ### 🟡 Cotizado con precio real, pero sin cerrar
 
-- 🩺 **Seguro IATI — €113,02 por persona** ✅ *(se contrata **con el código de Chavetas**, decidido
-  el 21/08 — entrando por su enlace ANTES de cotizar; el descuento exacto ❌ sin verificar, así que
-  la cifra se mantiene sin descontar — `20` §3)* · 🛂 **e-visa — N$1.600 (~€80)** ✅
+- 🛂 **e-visa — N$1.600 (~€80)** ✅
 - 🎫 **Tasas de parque — ~N$620 (~€31)/día** la pareja ◐
 
 > [!WARNING]
 > **Con el coche ya reservado, hay una cláusula del seguro que pedir por escrito EN LA ENTREGA**:
 > Savanna deja **«antes del amanecer y después del atardecer»** como zona sin cobertura salvo que
 > se nombre como la única zona cubierta por la Opción 4 — y la salida a Deadvlei del D4 sale a las
-> ~05:10 *(`20` §1, `06` §6)*. Y con el billete emitido, el **seguro de viaje tiene que empezar el
-> 30/10**: es lo más urgente ahora.
+> ~05:10 *(`20` §1, `06` §6)*. *(El otro frente urgente, que el seguro empezara el 30/10 y no el
+> 31, quedó **resuelto el 24/08**: está contratado.)*
 
 ### 🔴 Lo que toca ahora, por orden
 
 1. **En la entrega del coche, pedir por escrito**: que la franja de sunrise/sunset sea la zona
    cubierta por la Opción 4 *(por la salida a Deadvlei, `20` §1)* · el teléfono de emergencias
    24 h · con cuánto tanque lo entregan · el coste del conductor adicional.
-2. **Adelantar el seguro al 30/10** — **urgente ya: el billete está emitido y la póliza cotizada
-   empieza el 31** — y pedir a IATI por escrito **evacuación aérea dentro del país**.
+2. **Del seguro, ya contratado, quedan dos flecos**: recuperar el **importe real pagado** ❌ *(para
+   cerrar la partida de [`02`](02-presupuesto.md) — hoy va con la cotización)* y confirmar si se
+   pidió por escrito la **evacuación aérea dentro del país** *(cerca de Sesriem no hay hospital)* y
+   la **búsqueda y salvamento**; si no se pidieron, pedirlas ahora *(`20` §3)*.
 3. **Pedir el e-visa** — el billete de vuelta ya existe *(emitido el 10/08)*: nada lo bloquea.
 4. **Pedir cita en el Centro de Vacunación Internacional** *(A Coruña, Durán Lóriga 3 ·
    **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
@@ -413,9 +417,11 @@ flowchart TD
 desierto y la costa no; a primeros de noviembre, antes de las lluvias, el riesgo está en su mínimo
 estacional *(Malarone empieza 1–2 días antes; mefloquina, 2–3 semanas)* · **fiebre amarilla** —
 con el vuelo elegido **no hace falta**, porque **Fráncfort y Múnich no son zona de riesgo**
-*(Doha y Johannesburgo, también limpios)* · **seguro con repatriación** — es condición de entrada; pide por escrito que cubra
-**evacuación aérea dentro del país** (cerca de Sesriem no hay hospital) — *el coste de la opción
-de búsqueda y salvamento sigue ❌ sin cotizar*.
+*(Doha y Johannesburgo, también limpios)* · **seguro con repatriación** — es condición de entrada, y
+**el IATI Estrella la lleva al 100 %: requisito cumplido, y contratado el 24/08**. *Lo que queda es
+**leer la póliza**: que cubra **evacuación aérea dentro del país** (cerca de Sesriem no hay
+hospital) y que lleve **búsqueda y salvamento**, que en el Estrella es **opcional** y no entra sola
+❌.*
 
 ---
 

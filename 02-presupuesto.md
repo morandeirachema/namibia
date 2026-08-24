@@ -334,7 +334,9 @@ Y en **este** viaje importa: **Damaraland, el Namib y buena parte de la ruta no 
 móvil**. Es exactamente el escenario para el que existe esa garantía.
 
 > 👉 **Añádele la opción de búsqueda y salvamento al Estrella.** Si no, tienes el seguro más caro sin
-> una cobertura que sí trae el más barato.
+> una cobertura que sí trae el más barato. ⚠️ **Y esto sigue vivo tras contratar (24/08)**: se
+> contrató el **Estrella**, donde la garantía **no entra sola** — **hay que comprobar en la póliza
+> que se añadió** *(`20` §3)*.
 
 ### 🔁 La franquicia de coche de alquiler te sobra
 
@@ -419,10 +421,12 @@ noche entera de aeropuertos.
 **Aterrizas el 31 de octubre a las 09:25 y despegas el 14 a las 20:45: son 15 días de suelo, con
 la mañana entera del primero y el día 14 completo.** Tres consecuencias, todas accionables:
 
-1. ⚠️ **El seguro se queda corto por un día — y con el billete ya emitido, esto es LO PRIMERO.**
-   La póliza contratada en §7 va del **31/10 al 15/11**. Con salida el **30 de octubre**, hay que
-   **adelantar el inicio al 30** o el primer vuelo va sin cobertura. *(El coste del día extra:
-   **❌ sin cotizar — pídelo a IATI ya**.)*
+1. ✅ **El seguro se quedaba corto por un día — RESUELTO el 24/08.** La póliza **cotizada** en §7
+   iba del **31/10 al 15/11** y el vuelo sale el **30**, así que el primer vuelo habría ido sin
+   cobertura. **Ya está contratado el IATI Estrella empezando el 30/10** *(dicho por el viajero,
+   `20` §3)*. *(Lo que sigue abierto no es la fecha sino **el importe**: el día extra nunca se
+   cotizó ❌ y el descuento de Chavetas no se verificó ❌, así que este documento sigue contando
+   los **€113,02 p.p.** de la cotización, sin descontar — la cifra conservadora.)*
 2. ✅ **El coche: RESERVADO — 15 días completos, con transfer aeropuerto ↔ oficina** — 31 oct
    11:00 → 14 nov 18:00, el día del vuelo de vuelta (20:45). Precio cerrado *(§2)*.
 3. ✅ **Las noches de NWR no se tocan.** Las del 31 de octubre (Windhoek) y del 1–2 de noviembre
@@ -482,8 +486,9 @@ equipaje. Decisión ya tomada: coche propio.)*
   del [`04`](04-guia-preparacion.md).
 
 > ✅ **EMITIDO el 10/08/2026, €1.536 por persona.** Con el billete de vuelta en la mano, **el
-> e-visa queda desbloqueado**: es el siguiente trámite de [`04`](04-guia-preparacion.md) — y el
-> seguro tiene que rehacerse **desde el 30/10** *(§7)*.
+> e-visa queda desbloqueado**: es el siguiente trámite de [`04`](04-guia-preparacion.md).
+> *(Y el seguro, que tenía que rehacerse desde el 30/10, **está contratado desde el 24/08** —
+> §7 y `20` §3.)*
 
 ---
 
