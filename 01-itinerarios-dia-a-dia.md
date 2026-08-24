@@ -637,6 +637,72 @@ flowchart LR
   Queda **fuera** del total de arriba a propósito: es un capricho con precio verificado, no una
   partida acordada
 
+### ⛽ Las gasolineras, etapa a etapa — cuáles son OBLIGATORIAS y cuáles opcionales
+
+La regla de la casa es **«nunca pases de largo una gasolinera», no «reposta cuando estés bajo»**
+*(`07`)*. Pero no todas pesan igual, así que aquí van clasificadas: **⛽ OBLIGATORIA** = si te la
+saltas, el siguiente surtidor seguro queda fuera de alcance cómodo · **🟡 opcional** = conviene,
+no hace falta · **❌** = no cuentes con ella aunque exista.
+
+```mermaid
+flowchart LR
+%% ancho
+    A["D0/D1 · WINDHOEK<br/>salir lleno de ciudad"] --> B["D3 y D5 · SOLITAIRE<br/>OBLIGATORIA las dos veces<br/>despues ~230 km sin nada"]
+    B --> C["D7 · HENTIES BAY<br/>LA MAS CRITICA · Puma 24 h<br/>empieza el bucle de ~740 km"]
+    C --> D["D8 · PALMWAG<br/>opcional recomendada<br/>07:00-19:00"]
+    D --> E["D9 · KAMANJAB y OUTJO<br/>OBLIGATORIAS · en Outjo se<br/>llena antes de Andersson"]
+    E --> F["D13 · TSUMEB a 105 km<br/>y OTJIWARONGO<br/>no fiarse del parque"]
+    style C fill:#9d0208,color:#fff
+    style B fill:#C2542F,color:#fff
+    style E fill:#C2542F,color:#fff
+    style D fill:#e9c46a,color:#000
+```
+
+- **D0–D1 · Windhoek** — ⛽ **sal de la ciudad con el depósito lleno** *(regla de `07`: en ciudad
+  siempre)*. Por Spreetshoogte **no hay nada hasta Solitaire**.
+- **D2 · escarpa** — sin movimiento y **sin surtidor**: es día de 0 km.
+- **D3 · Solitaire** ✅ — ⛽ **OBLIGATORIA**. Gasolina, diésel **y taller de neumáticos**; al lado
+  la panadería McGregor y un general dealer **con cajero** *(`08`)*.
+- **D4 · Sossusvlei** — ❌ **dentro del parque no hay**: el día se hace con lo que lleves, y la
+  arena de los últimos 5 km **gasta más de lo que crees** *(`07` cuenta 130–150 km extra)*.
+  En la puerta sí hay: **Sossus Oasis (Engen)**, diésel 50 ppm y tienda grande ✅ — y el surtidor
+  del campsite NWR, **con historial de cortes** ⚠️.
+- **D5 · Solitaire otra vez** ✅ — ⛽ **OBLIGATORIA, y esta es la que se olvida**: después vienen
+  **~230 km sin nada** hasta Walvis *(OSRM: 233)*.
+- **D6 · Walvis Bay / Swakopmund** ✅ — 🟡 opcional pero **sal lleno**: varias 24 h *(Puma, Engen,
+  Shell)*. Es la última ciudad antes del bucle.
+- **D7 · Henties Bay** ✅ — ⛽ **LA MÁS CRÍTICA DEL VIAJE**. Puma 24 h, y **es el último surtidor
+  seguro antes de ~740 km** hasta Kamanjab *(Henties → Terrace Bay ~302 + D8 ~368 + Hoada →
+  Kamanjab ~69)*. A 11–13 l/100 son **81–96 l**, que **caben en el depósito de 140 l** con
+  44–59 l de margen ✅ — **pero solo si sales lleno de aquí**.
+  - ⚠️ **Terrace Bay: trátalo como que NO hay** ❌. Hay surtidor físico según viajeros ◐, pero
+    **la web oficial de NWR no lo lista**, se secó en los cortes de 2025 y alguna guía lo da «solo
+    huéspedes». **No es plan, es lotería.**
+- **D8 · Palmwag** ✅ — 🟡 **opcional recomendada**: surtidor **07:00–19:00**, diésel 50 ppm, en el
+  lodge de Gondwana. Cae en la cola del día *(Twyfelfontein → Palmwag ~110 + Palmwag → Hoada ~50)*
+  y **deja el margen del D9 mucho más holgado**. Lleva efectivo por si el datáfono ○.
+  - ❌ **Bergsig**: ninguna gasolinera documentada en ninguna fuente. · ❌ **Twyfelfontein**:
+    irregular, la bomba histórica ya no va — respaldo de emergencia, no plan. · ❌ **Grootberg /
+    Hoada**: nada.
+- **D9 · Kamanjab** ✅/◐ — ⛽ **OBLIGATORIA**: Shell con SaveMor Spar. **Y Outjo** ✅ — ⛽
+  **OBLIGATORIA también**: Shell Eyambeko, y **aquí se llena antes de cruzar Andersson**.
+- **D10–D12 · dentro de Etosha** ✅⚠️ — los tres campamentos **listan «Filling Station» en la web
+  oficial de NWR**, pero **con historial de cortes en 2025**: **entra lleno desde Outjo** y no
+  planifiques con ellos. Respaldo: la **Etosha Trading Post**, a 6,5 km de Andersson *(`08`)*.
+- **D13 · Tsumeb, a 105 km de Onguma** ✅ — ⛽ **primer repostaje del día largo**, precisamente
+  **porque el depósito no se fía a los surtidores del parque**. Y **Otjiwarongo** ✅, punto de
+  anclaje de la ruta, donde además se come.
+- **D14 · Windhoek** — ⛽ **repostar antes de devolver**: el coche se entrega **con el mismo nivel
+  con el que se recibió** *(`20` §1 — y ojo, **se entrega sin lleno**: Savanna no tiene surtidor
+  propio)*.
+
+> ⚠️ **El detalle del depósito que puede arruinar un repostaje**: son **140 l en DOS depósitos**
+> —principal de 80 + secundario de 60, con un solo tubo de llenado— y **el indicador solo mide el
+> principal**. Marca «lleno» hasta que ese se vacía y solo entonces empieza a bajar. **Avísalo al
+> repostar**, o el surtidorista parará antes de tiempo creyendo que está lleno *(`20` §1)*.
+> **Y las tarjetas SÍ se aceptan** —el «solo efectivo» es un mito de mala traducción— pero lleva
+> **~N$4.000 (~€200)** de reserva *(`07`)*.
+
 ### ⏰ Los horarios que mandan *(✅/◐ = con fuente en el dossier · ☀️ = cálculo astronómico ±5 min)*
 
 - **Sesriem** ✅: puerta exterior de amanecer a ocaso; la interior, **1 h antes del amanecer y 1 h
