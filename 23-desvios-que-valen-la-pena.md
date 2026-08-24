@@ -203,6 +203,11 @@ bloque entero.**
 > **Si se quiere el Cheetah Run de las 08:00 o el rastreo a pie de Okonjima**, hay que **cambiar
 > la noche de Onguma por una en CCF u Okonjima** — y entonces el D13 además se vuelve cómodo.
 > **Lo que no compra guepardo es quitar el D2**: ese día cae en la mitad equivocada del viaje.
+>
+> 👉 **Ese cambio está desarrollado y medido en [`24`](24-ruta-alternativa.md)**, con el D12 y el
+> D13 recalculados y con lo mejor y lo peor de cada opción. Titular: **no quita ni una noche de
+> dentro del parque** —las tres de dentro y las tasas siguen igual— y **parte el D13 de 539 km en
+> dos**.
 
 ---
 
