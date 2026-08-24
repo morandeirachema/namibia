@@ -1,5 +1,8 @@
-.claude/
-CLAUDE.md
+# Los permisos que Claude Code va acumulando en ESTA maquina: rutas absolutas y
+# 50+ KB de ruido. Por eso se llama `.local`. El `settings.json` compartido, si
+# algun dia hace falta, si entraria.
+.claude/settings.local.json
+
 __pycache__/
 
 # HTML intermedio del build (20 MB de base64): se regenera con `make`
