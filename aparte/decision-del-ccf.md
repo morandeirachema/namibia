@@ -1,4 +1,8 @@
-# 24 · La decisión del D13 — la segunda noche de Onguma, o el Cheetah Conservation Fund
+# La decisión del D13 — la segunda noche de Onguma, o el Cheetah Conservation Fund
+
+*Documento de consulta aparte — **fuera del dossier impreso desde el 25/08**. Lo que hay que
+saber sobre el terreno está en el [`01` §D13](../01-itinerarios-dia-a-dia.md); esto es el detalle
+largo, con su mapa.*
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](../README.md)
 >
@@ -117,7 +121,7 @@ CCF. [Ver el mapa en grande](../img/mapas/ruta-alternativa.svg).*
 - 🐆 **Con UNA sola noche entra el programa entero del CCF.** Llegando a las ~11:05 caben el mismo
   día **la alimentación de las 14:00**, el **tour** y el **Cheetah Drive**; y a la mañana siguiente,
   el **Cheetah Run de las 08:00** ✅ —la actividad que en la ruta oficial es sencillamente imposible,
-  porque a esa hora estarías a 280 km *(`23`)*—. **No hace falta una segunda noche**, así que **se
+  porque a esa hora estarías a 280 km *(los desvíos, al lado)*—. **No hace falta una segunda noche**, así que **se
   conserva la noche de Windhoek** y el último día sigue siendo cómodo.
 - 🚗 **Endereza el peor día del viaje.** Los dos últimos días dejan de ser **70 + 539** para ser
   **331 + 294**: el regreso baja de 539 a 294 km y **deja de ser la etapa más larga**. *(La peor pasa
@@ -125,7 +129,7 @@ CCF. [Ver el mapa en grande](../img/mapas/ruta-alternativa.svg).*
 - 🎓 **Es la organización de referencia mundial del guepardo**, no un recinto de carretera: la cuota
   de alojamiento **financia su trabajo** y da **15 % de descuento en todas las actividades** ✅.
   ⚠️ **Okonjima quedó descartado el 24/08 y conviene saber por qué**: **ya no tiene guepardo**
-  —programa descontinuado en 2020, sus propios folletos no lo listan— *(`23` §3)*. Sigue siendo
+  —programa descontinuado en 2020, sus propios folletos no lo listan— *(los desvíos, §3)*. Sigue siendo
   magnífico para **leopardo, rinoceronte a pie y pangolín**, pero **eso ya no es este viaje**.
 - 📉 **Y cuesta muy pocos kilómetros: +16**, hasta ~2.814. Casi nada, porque el rodeo al CCF se
   compensa con lo que se ahorra de no volver desde la puerta de Etosha.

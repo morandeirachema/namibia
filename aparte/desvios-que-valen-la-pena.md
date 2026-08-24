@@ -1,4 +1,7 @@
-# 23 · Los desvíos que valen la pena
+# Los desvíos que valen la pena
+
+*Documento de consulta aparte — **fuera del dossier impreso desde el 25/08**, porque de las
+alternativas que compara solo queda viva la del CCF.*
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](../README.md)
 >
@@ -33,7 +36,7 @@ sobra un día.** Así que cualquier joya de este documento se paga de una de est
 - **Quitando una noche a otro sitio** — y desde el **24/08 esto ya no está disponible**: la noche
   suelta que había *(la segunda de la escarpa de Spreetshoogte)* **ya se gastó**, y se gastó bien —
   se fue a **Damaraland**, a partir en dos el día más largo de grava del viaje y **desbloquear el
-  rastreo de rinoceronte de Grootberg** *(`24`, `11`)*. Lo que queda como colchón es **la noche del
+  rastreo de rinoceronte de Grootberg** *(la decisión del CCF, y el `11`)*. Lo que queda como colchón es **la noche del
   D8 en Twyfelfontein**, que a propósito no se reserva: es lo que se sacrifica si el vuelo se
   retrasa, sin perder un céntimo.
 - **Cambiando un tramo por otro** — que es el único caso en que un desvío puede salir **gratis o a
@@ -196,7 +199,7 @@ flowchart LR
 
 - **Qué pasó (24/08)**: Spreetshoogte se quedó en **una sola noche** y el día liberado se fue a
   **Damaraland**. No fue a Otjitotongwe: fue a **partir en dos el día de ~370 km de grava**, con
-  **noche propia en Twyfelfontein el D8** y **la mañana del D9 libre entera** *(`24`)*.
+  **noche propia en Twyfelfontein el D8** y **la mañana del D9 libre entera** *(ver la decisión del CCF, al lado)*.
 - **Y eso compra justo lo que este documento daba por imposible**: el **rastreo de rinoceronte
   negro de media jornada de Palmwag**, que además cae **en mitad del D9** *(`11`)*. Ahora cabe.
   ⚠️ *El de **día entero de Grootberg** sigue sin caber: saldría a primera hora y pediría conducir
@@ -214,7 +217,7 @@ flowchart LR
   jornada**. *(Okonjima ya no es opción de guepardo — §3.)*
 - ✅ **Y desde el 24/08 esto es mejor que un desvío: es una decisión con dos noches de margen.** Se
   duerme en Onguma el D12 **y** el D13, así que **la segunda se decide con el guepardo ya buscado**:
-  si salió, se queda; si no, se cancela y se baja. El plan entero, en [`24`](decision-del-ccf.md).
+  si salió, se queda; si no, se cancela y se baja. El plan entero, en [la decisión del CCF](decision-del-ccf.md).
 - **Qué cuesta**: Onguma es **reserva privada de 35.970 ha con leopardo, guepardo y
   rinoceronte confirmados por escrito**, con **baño propio en la parcela**, **salida al atardecer
   con foco y campo a través** y **paseo a pie**, las dos cosas que el parque prohíbe *(`21`)*. Se
@@ -245,9 +248,9 @@ bloque entero.**
 > por leopardo, rinoceronte a pie y pangolín: **guepardo ya no tiene** — §3.)*
 > 📞 **Y se resuelve allí mismo, sin preparar nada** *(decidido el 24/08)*: se llama al CCF desde
 > Onguma. Lo único que conviene no olvidar en esa llamada es **pedir el Cheetah Run, que sí exige
-> reserva previa** ✅ — es lo que justifica el cambio. Si no hay sitio, se queda Onguma *(`24`)*.
+> reserva previa** ✅ — es lo que justifica el cambio. Si no hay sitio, se queda Onguma *(ver la decisión del CCF, al lado)*.
 >
-> 👉 **Ese cambio está desarrollado y medido en [`24`](decision-del-ccf.md)**, con el D13 y el
+> 👉 **Ese cambio está desarrollado y medido en [la decisión del CCF](decision-del-ccf.md)**, con el D13 y el
 > D14 recalculados y con lo mejor y lo peor de cada opción. Titular: **no quita ni una noche de
 > dentro del parque** —las tres de dentro y las tasas siguen igual— y **parte el D14 de 539 km en
 > dos**.
@@ -385,7 +388,7 @@ este el D12**, la mejor casilla medida del parque *(Namutoni, 50 %)*; **Onguma, 
 confirmado por escrito, dos noches (D12–D13)**; y el **D13 entero** de Fischer's Pan y Chudop—.
 Y si aun así no sale, **la segunda noche de Onguma se cambia por el CCF** y entra el **Cheetah Run
 de las 08:00**: es la decisión del D13, se toma allí, y está entera en
-[`24`](decision-del-ccf.md).
+[la decisión del CCF](decision-del-ccf.md).
 
 **De lo demás**: solo uno de los cinco desvíos puede entrar sin romper nada, y solo si algo falla —
 si **Terrace Bay** se queda sin sitio, la ruta baja por dentro y gana **Spitzkoppe y Brandberg**,
