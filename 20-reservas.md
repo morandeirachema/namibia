@@ -48,6 +48,39 @@ flowchart LR
 
 ---
 
+## 🕰️ ¿Con cuánta antelación reserva la gente? — y qué se puede dejar para allí
+
+Pregunta razonable, porque **no todas las noches de este viaje pesan igual**. Lo que dicen las
+fuentes, y coinciden entre sí ◐:
+
+- **Solo dos sitios hay que tener sí o sí**: **Sesriem** y **los campamentos de Etosha**. Se
+  agotan, y en temporada alta *(mayo–agosto)* **vuelan con meses**. Son los únicos que están
+  **dentro** de un parque nacional, y ahí está el cuello de botella.
+- **Todo lo demás, en general, no necesita antelación** ◐: **mucha gente viaja Namibia sin
+  reservar nada** y no suele ser problema. La excepción que citan aparte es **Spitzkoppe**, que
+  también se llena.
+- **Y noviembre juega a favor**: es **temporada baja/hombro**, la de más holgura del año — la
+  contraria de julio–octubre *(coherente con lo que ya decía `15`)*.
+- **NWR acepta reserva por email, por teléfono y también a la llegada si queda sitio** ◐ — pero
+  para los dos de arriba **eso es una lotería que no compensa**.
+
+> ### 👉 Traducido a vuestro caso
+> - ✅ **Los críticos ya están o se cierran hoy**: Etosha *(reservado el 21/08)* y **Sesriem**.
+> - ⚠️ **Terrace Bay hay que reservarlo igual, pero por otro motivo**: no es que se llene, es que
+>   **sin la confirmación no se entra a pernoctar** al Skeleton Coast *(§4)*. Es una llave, no una
+>   plaza.
+> - 🟡 **Y el resto se puede dejar para más adelante, o incluso para allí**: **Windhoek (D0 y
+>   D13)**, **Walvis Bay ×2**, **Hoada** y —si se adopta la variante del
+>   [`24`](24-ruta-alternativa.md)— **la noche nueva de Damaraland**. Ninguno está dentro de un
+>   parque y todos caen en temporada baja. **Conviene llamar el día antes** para no conducir sin
+>   red, pero **no hace falta bloquearlos hoy**.
+> - 🏕️ **Spreetshoogte queda en medio**: no está dentro de un parque, pero es **pequeño** y ya
+>   tiene tarifa y canal, así que **cerrarlo cuesta un email** *(§5)*.
+
+*Esto es práctica documentada, no garantía: si una noche concreta es irrenunciable, resérvala.*
+
+---
+
 ## 1 · 🚙 El 4×4 — Savanna: **RESERVADO ✅ (12/08/2026)**
 
 - **Qué**: **grupo GSXA-1 Camping — Ford Ranger 2.2 o 2.0 D/Cab automático, modelo 2022–2025,

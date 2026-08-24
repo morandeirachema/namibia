@@ -154,6 +154,8 @@ RESUMEN = {
           "quién llamar y adónde ir — etapa a etapa.",
     "23": "El guepardo, prioridad del viaje: dónde se ve de verdad y de qué noche sale el "
           "día. Y las joyas de FUERA de la ruta, con los kilómetros medidos.",
+    "24": "La variante de tres noches de Etosha, medida contra la oficial: lo mejor y lo "
+          "peor de cambiar Onguma por Okonjima o el CCF.",
 }
 
 
@@ -172,7 +174,7 @@ def miles(n, sufijo=" km"):
 # son las dos caras de la misma pregunta y se leen seguidas.
 # Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
 ORDEN = {"20": "04a", "17": "05a", "18": "06a", "21": "06b", "22": "06c", "19": "08a",
-         "23": "10a"}
+         "23": "10a", "24": "10b"}
 
 
 def documentos():
