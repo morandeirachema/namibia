@@ -291,6 +291,23 @@ alta CONSERVADORA, no un dato cerrado para los tres parques ○:**
 > premium/estándar por parque. Y ojo: una cifra de «N$75–150» que devolvió un buscador **está
 > confabulada** — contradice a todas las demás.
 
+- 🆕 **24/08/2026 — el muro del primario es total, y ya cubre los cuatro repositorios oficiales.**
+  La gaceta se localizó por fin en un **índice de repositorio legal** —[Gazettes.Africa la lista
+  como *«Namibia Government Gazette dated 2026-04-01 number 8877»*](https://gazettes.africa/akn/na/officialGazette/government-gazette/2026-04-01/8877/eng@2026-04-01)—
+  y ese índice **concuerda con lo que ya tenía el dossier y añade el instrumento legal**: es el
+  **Government Notice nº 115 de 2026, «Amendment of Regulations Relating to Nature Conservation»**,
+  dictado al amparo de la **sección 84(1)(b)(iii) de la Nature Conservation Ordinance de 1975**, con
+  efecto **1 de abril de 2026** ◐ *(síntesis del buscador sobre el índice de Gazettes.Africa; **la
+  ficha no se dejó abrir para verificar la extracción de la tabla**, así que sigue en ◐, no en ✅)*.
+  Lo que sí queda cerrado es que **el primario no es alcanzable desde este entorno por NINGUNA vía**:
+  a los cuatro sitios oficiales ya conocidos —MEFT, incluida su descarga directa
+  `meft.gov.na/files/downloads/543_Park Entrance and Conservation Fees.PDF`— se suman ahora
+  **Gazettes.Africa, NamibLII (`namiblii.org`) y el Legal Assistance Centre (`lac.org.na`)**: los
+  tres son los repositorios canónicos de gacetas namibias y **los tres devuelven 403 de política**
+  aquí (egress), igual que MEFT. **Conclusión operativa para la próxima pasada: no se pierda tiempo
+  reintentando estos cuatro — la tabla fina solo se cierra por email al MEFT o en recepción**; el
+  presupuesto no se mueve, ya cuenta N$280.
+
 ---
 
 ## ✈️ Vuelos — EMITIDO en €1.536 (Oporto), y con qué se comparó
@@ -746,7 +763,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   (◐/○, ver §Tasas arriba)**: la lista premium repetida por dos búsquedas independientes incluye
   Etosha, Namib-Naukluft (excl. Sandwich Harbour), **Skeleton Coast** y Waterberg — **los tres
   parques de esta ruta son premium N$280**. Falta sólo abrir el PDF primario para confirmar la
-  extracción; el presupuesto no se mueve *(ya contaba N$280)*.
+  extracción; el presupuesto no se mueve *(ya contaba N$280)*. **Actualización 24/08:** la gaceta
+  se localizó en Gazettes.Africa —confirma que es el **Government Notice 115/2026** bajo la **Nature
+  Conservation Ordinance de 1975** ◐— pero **los cuatro repositorios oficiales (MEFT, Gazettes.Africa,
+  NamibLII y LAC) están todos bloqueados por política aquí**: la tabla fina solo se cierra por email
+  o en recepción *(ver §Tasas arriba)*.
 - 🚧 ⚠️ **Obras Okaukuejo–Halali — REABIERTO EL 24/08, y esta vez con las páginas primarias en la
   mano.** El 03/08 esto se dio por resuelto en ◐: cinco fuentes secundarias convergían en un
   **desvío obligatorio del 2 jun 2026 al jul 2027**, y las oficiales devolvían `403`. **El 24/08
