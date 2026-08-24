@@ -22,7 +22,7 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
 
 ### 🎫 Entradas y visitas guiadas *(en la ruta o a un desvío de ella)*
 
-- **Twyfelfontein — los grabados UNESCO (D8, parada fija de la ruta)** ◐
+- **Twyfelfontein — los grabados UNESCO (D7, parada fija de la ruta, y desde el 24/08 con noche propia)** ◐
   - **La visita guiada es obligatoria y de pago: N$270 (~€13,5)/persona, guía incluido** ◐ *(baremo
     del National Heritage Council vía secundarias concordantes — la misma familia de tarifas que
     Petrified Forest u Otjikoto, ver `10`)*. **Solo efectivo**: el cajero más cercano queda en
@@ -33,8 +33,8 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
     [danesontheroad — visita 2025/26](https://danesontheroad.com/africa/namibia/visit-the-amazing-twyfelfontein-engravings-in-namibia/) ·
     acceso: [siyabona — Twyfelfontein location](https://www.siyabona.com/twyfelfontein-country-lodge_location.html)
 
-- **Cape Cross — colonia de lobos marinos (D7, en la ruta)** ◐
-  - **Lo presupuestado (`02` §5 y `01` §D7): N$150 (~€7,5)/extranjero + N$50 (~€2,5)/coche =
+- **Cape Cross — colonia de lobos marinos (D6, en la ruta)** ◐
+  - **Lo presupuestado (`02` §5 y `01` §D6): N$150 (~€7,5)/extranjero + N$50 (~€2,5)/coche =
     ~N$350 (~€18) los dos** ◐ *(reseña de visitante de 2025 + una guía, convergentes)*. Solo
     **efectivo**, se paga en recepción.
   - ⚠️ **El tramo exacto sigue abierto — tres cifras en circulación**: reseñas viejas dan
@@ -157,28 +157,35 @@ queda por si algún día se reabre, con operadores reales verificados en su prop
 
 **El hallazgo primero, porque cambia la expectativa:** fuera de Etosha, esta ruta **no está llena
 de game drives**. Los de verdad se concentran en **tres sitios** —el eje de Windhoek (D0/D13),
-Damaraland (D8) y la propia puerta de Etosha (Onguma, D12)— y en el eje Otjiwarongo del D13. **El
-desierto y la costa no tienen game drive**: lo que tienen es tour de dunas y de fauna pequeña, que
-es otra cosa y ya está en su sitio *(Sandwich Harbour, `20` §7)*. Y **el cuello de botella no es
-el dinero, es el reloj**: casi todos los buenos piden medio día o el día entero, y esta ruta va
-llena.
+Damaraland (D7–D8) y la propia puerta de Etosha (Onguma, D11–D12)— y en el eje Otjiwarongo del D13.
+**El desierto y la costa no tienen game drive**: lo que tienen es tour de dunas y de fauna pequeña,
+que es otra cosa y ya está en su sitio *(Sandwich Harbour, `20` §7)*. Y **el cuello de botella no
+es el dinero, es el reloj**.
+
+> ### 🔄 Y el reloj cambió el 24/08 — este documento se escribió con el calendario viejo
+> Al quitarle la segunda noche a Spreetshoogte y **darle una noche propia a Twyfelfontein (D7)**,
+> **la mañana del D8 queda libre entera** *(`24`)*. Eso **da la vuelta a la conclusión de abajo**:
+> el rastreo de rinoceronte negro de Grootberg o Palmwag, que aquí se daba por imposible, **ahora
+> cabe** — es el mejor argumento del cambio de ruta. En sentido contrario, **el farm drive de
+> Spreetshoogte pierde su hueco**: el día de 0 km en la escarpa ya no existe.
 
 ```mermaid
 flowchart LR
 %% ancho
     T["FUERA DE ETOSHA<br/>que cabe en la ruta tal y como esta"]
-    S["D2 · Spreetshoogte<br/>farm drive de Barkhan<br/>el dia de 0 km"]
+    S["D8 · RASTREO DE RINOCERONTE<br/>Grootberg o Palmwag<br/>la manana libre que dio el D7"]
     G["D8 · Hoada / Grootberg<br/>nature drive con sundowner<br/>la tarde de llegada"]
-    O["D12 · Onguma<br/>Sundowner Drive<br/>N$980 pp · ya presupuestado"]
-    X["PIDEN UN DIA QUE NO HAY:<br/>rastreo de rinoceronte y de elefante<br/>(Grootberg) · Palmwag · el leopardo<br/>de Okonjima · Okapuka"]
+    O["D11-D12 · Onguma<br/>Sundowner Drive<br/>N$980 pp · sustituye al nocturno"]
+    X["SIGUEN SIN CABER:<br/>el leopardo de Okonjima (medio dia<br/>en el D13 de 539 km) · Okapuka ·<br/>el farm drive de Spreetshoogte"]
     T --> S --> G --> O
     T --> X
     style T fill:#7a3a22,color:#fff
+    style S fill:#2d6a4f,color:#fff
     style O fill:#2d6a4f,color:#fff
     style X fill:#9d0208,color:#fff
 ```
 
-### 🏜️ D1–D2 · Spreetshoogte — el farm drive del propio campamento ◐
+### 🏜️ D1 · Spreetshoogte — el farm drive del propio campamento ◐ *(y ahora va justo)*
 
 **Barkhan Dune Retreat**, que es quien opera vuestro campamento *(`20` §5)*, hace un **Farm /
 Sundowner Drive** por la finca ✅ *([barkhan.africa/activities](https://www.barkhan.africa/activities.php))*.
@@ -189,11 +196,14 @@ parte de avistamientos ni polígono GBIF que llegue, así que **el guía de la f
 
 - **Precio** ❌ — **no aparece en el rack de camping 2026 ni en el 2027**; su página de tarifas de
   **2024/25** sí listaba **Sundowner Drive N$605 (~€30)/persona** ◐. **Pregúntalo al reservar.**
-- **Encaja perfecto en el D2**, que es el día de **0 km de ruta** y el colchón del viaje.
+- ⚠️ **Y desde el 24/08 ya no encaja cómodo.** Encajaba en el **D2 de 0 km**, que **ya no existe**:
+  la escarpa se hace en **una sola noche**. Lo que queda es el **atardecer del D1**, que ya está
+  ocupado por el mirador del paso —que es el plan del día—. **O una cosa o la otra**: el sundowner
+  drive de la finca sale a esa misma hora.
 - ❌ **Sin confirmar si los del camping pueden apuntarse** o es solo para los del lodge: su ficha
   no lo dice. Va en la misma llamada que la reserva.
 
-### 🦏 D8 · Damaraland — el mejor safari no-Etosha de la ruta, y el que peor cabe
+### 🦏 D8 · Damaraland — el mejor safari no-Etosha de la ruta, y desde el 24/08 CABE
 
 **Grootberg Lodge está a 25 km de vuestro campamento de Hoada y es el mismo operador** *(Journeys
 Namibia — el mismo contacto con el que se reserva la noche)*. Hace ✅
@@ -208,13 +218,21 @@ Namibia — el mismo contacto con el que se reserva la noche)*. Hace ✅
 - **Precios: no los publican** ❌ — ni en la web ni en la página de tarifas. Se piden al mismo
   sitio que la reserva de Hoada: 📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104**.
 
-> ⚠️ **Y aquí está el problema, que es de reloj y no de dinero.** A Hoada se llega **la tarde del
-> D8**, y el **D9 son ~340 km hasta Okaukuejo** con la puerta de Andersson por delante. El rastreo
-> de rinoceronte se come el día entero y el de elefante no vuelve hasta las 15:00: **ninguno de
-> los dos cabe** sin sacrificar el D9 o robarle el día al D2. **El que sí cabe es el nature drive
-> con sundowner de la tarde del D8** — pídelo al reservar la noche.
+> ✅ **Y aquí está el cambio del 24/08, que es justo lo que compró la noche nueva.** Antes se
+> llegaba a Hoada **la tarde del D8**, después de 370 km de grava, con el **D9 de ~343 km hasta
+> Okaukuejo** por delante: el rastreo de rinoceronte se come el día entero y el de elefante no
+> vuelve hasta las 15:00, así que **ninguno de los dos cabía**.
+>
+> **Ahora se duerme en Twyfelfontein el D7 y el D8 son solo ~159 km**, así que **la mañana está
+> libre entera**. El **rastreo del elefante del desierto** *(media jornada, vuelta ~15:00)* **cabe
+> sin tocar nada**, y el **de rinoceronte negro** *(casi el día entero, salida a primera hora)*
+> **cabe si se sale muy temprano de Twyfelfontein** o se hace desde Palmwag, que está en el camino.
+> El **nature drive con sundowner de la tarde del D8** sigue cabiendo igual.
+>
+> ⚠️ **Lo único que falta para poder cerrarlo es el precio** ❌ — pídelo por escrito al reservar
+> Hoada: 📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104** *(`20` §5)*.
 
-**Palmwag** *(cae en la cola del D8, ~50 km al oeste de Hoada, y es el surtidor de respaldo del
+**Palmwag** *(cae en mitad del D8, ~51 km al oeste de Hoada, y es el surtidor de respaldo del
 tramo — `07`)* ◐: su concesión tiene rinoceronte negro, elefante del desierto y **la mayor
 población de depredadores fuera de Etosha**. Ofrece **game drives panorámicos de ±3½ h**, una
 **excursión de día entero por Damaraland** *(mínimo 4)* y **rastreo de rinoceronte de media

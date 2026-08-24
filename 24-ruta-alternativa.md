@@ -1,223 +1,177 @@
-# 24 · La ruta alternativa — Spreetshoogte una noche, Etosha tres, sin Onguma
+# 24 · La decisión del D12 — la segunda noche de Onguma, o el Cheetah Conservation Fund
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> La variante que pide el viajero: **una sola noche en Spreetshoogte**, **tres noches dentro de
-> Etosha** y **fuera Onguma**. Aquí está entera, día a día y con los kilómetros medidos — con lo
-> que se gana, lo que se pierde y **qué hay que reservar de forma distinta**.
+> **Esto ya no es una ruta alternativa: es UNA decisión, y se toma dentro de Etosha.** Las dos
+> noches de **Onguma Tamboti** *(11 y 12 de noviembre)* están reservadas. Si a la tarde del D11 el
+> **guepardo no ha salido**, la segunda se cancela y se baja al **[Cheetah Conservation
+> Fund](https://cheetah.org/)**. Aquí está ese final medido entero, con lo que gana, lo que cuesta y
+> **qué hay que preguntar antes de salir de casa** para poder decidirlo allí.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Medido el 24/08/2026 con el mismo enrutado OSRM sobre OpenStreetMap que dibuja el mapa del
-> dossier. **La ruta que sigue imprimiendo el resto del volumen es la de
-> [`01`](01-itinerarios-dia-a-dia.md)**: pasar ésta a oficial obliga a rehacer mapas, lámina,
-> presupuesto y cuaderno de reservas.*
+> dossier.*
 
 ---
 
-> ## 🟢 La buena noticia de calendario: llegas a tiempo
+> ## 🔄 Qué pasó el 24/08 con este documento
 >
-> Esta variante **mueve las fechas de Sesriem, Terrace Bay y Spreetshoogte** — pero **las tres
-> están todavía SIN RESERVAR**, así que no hay nada que rehacer: **se reservan directamente con
-> las fechas nuevas**. Y las **tres noches de dentro de Etosha —9, 10 y 11— no se mueven ni un
-> día**: la reserva del 21/08 sigue valiendo tal cual.
+> Hasta el 24 de agosto esto describía **otra ruta entera**: Spreetshoogte una noche, tres dentro
+> de Etosha y el CCF en vez de Onguma. **De esa variante, la mitad se hizo oficial y la otra mitad
+> cambió de forma.**
 >
-> **Lo único que hay que deshacer es Onguma** *(12–13 nov)*, que sí está reservada.
+> - ✅ **Spreetshoogte con UNA noche y la liberada en Damaraland: ADOPTADO.** Es la ruta del
+>   [`01`](01-itinerarios-dia-a-dia.md) desde el 24/08, y las reservas se hicieron con esas fechas.
+>   La noche nueva de **Twyfelfontein (D7)** y la mañana libre del **D8** ya no son una propuesta:
+>   están en el plan.
+> - 🔄 **El final cambió de premisa.** No se quitó Onguma: **se quitó Namutoni**, y Onguma pasó a
+>   **dos noches**. Así que el CCF ya no compite contra una ruta entera — **compite contra una sola
+>   noche**, la segunda de Onguma, y se decide con lo que se haya visto en el parque.
 >
-> 👉 **Decide antes de llamar y reservas bien a la primera.** NWR cobra **20 % no reembolsable a
-> las 48 h** *(`20` §4)*: equivocarse de fecha hoy cuesta dinero.
+> 👉 **La consecuencia buena: esto ya no hay que decidirlo en agosto.** No mueve ninguna fecha de
+> NWR ni ninguna reserva anterior al D12. Lo único que hay que hacer **antes** es *preguntar*.
 
 ---
 
-> ## ⏳ Hasta cuándo se puede decidir — la fecha que faltaba
->
-> **La decisión no tiene reloj propio, pero está vallada por el de NWR**, y la valla es **la primera
-> llamada**: la variante mueve **Sesriem al 2–3 nov** *(no 3–4)* y **Terrace Bay al 6** *(no al 7)*,
-> así que **reservar con las fechas oficiales y cambiar después cuesta dinero** ✅ *(`20` §4)*.
->
-> - **Al reservar** se paga un **20 % no reembolsable en 48 h** ✅: sobre Sesriem ×2 y Terrace Bay
->   son **~N$1.232 (~€62)** los que se arriesgan por no haber decidido antes.
-> - **El pago íntegro vence 30 días antes de cada llegada** ✅ → con las fechas de la variante,
->   **~3 de octubre** para Sesriem *(~4 con las oficiales)* y **~7 de octubre** para Terrace Bay
->   *(~8)*. Pasada esa raya, la escala de cancelación va del **30 % al 100 %**.
->
-> 👉 **La fecha operativa, dicha en claro: decide ANTES de llamar a NWR, y llama antes del 3 de
-> octubre.** Desde hoy —24/08— son **40 días**, y no hay por qué apurarlos: Sesriem tiene solo
-> **44 parcelas** *(`20` §4)*.
->
-> ⚠️ **Y el único número capaz de encarecer esta decisión no se sabe**: las **condiciones de
-> cancelación de Onguma** ❌, reservada desde el 21/08. **Pídelas ya** — no dependen de haber
-> decidido nada, se piden en un email, y **hasta tenerlas el coste de la variante tiene un extremo
-> abierto**.
-
----
-
-## 🗺️ El itinerario alternativo, día a día
-
-**~2.807 km** *(**43 más** que la oficial)* ✅ · **15 días, 14 noches** · **el peor día baja de 539
-a 412 km**. *(Medido sobre la misma geometría que pinta el mapa de aquí abajo,
-`fuente/geo/ruta-alt.json`; el kilometraje de cada día es el de OSRM, redondeado, y **los tiempos
-salen del desglose de firme de cada etapa a las velocidades de planificación del [`13`](13-itinerario.md)** —asfalto 100,
-grava 80, parque 60—, no del reloj optimista de OSRM.)*
-
-- **D0 · sáb 31 oct — Windhoek** · 46 km — *igual que la oficial*
-- **D1 · dom 1 nov — Windhoek → paso de Spreetshoogte** · **205 km** · 🛏️ **Spreetshoogte, UNA
-  noche** ⬅️ *cambia*
-- **D2 · lun 2 nov — Spreetshoogte → Solitaire → Sesriem** · **129 km** ✅ · 🛏️ Sesriem ⬅️ *un día
-  antes*
-- **D3 · mar 3 nov — Sossusvlei, Deadvlei y Duna 45** · 122 km · 🛏️ Sesriem *(2.ª — la que da el
-  amanecer)*
-- **D4 · mié 4 nov — Sesriem → Walvis Bay** · 316 km · 🛏️ Walvis Bay
-- **D5 · jue 5 nov — Walvis: flamencos, Sandwich Harbour y descanso** · **0 km** · 🛏️ Walvis Bay
-- **D6 · vie 6 nov — Walvis → Henties Bay → Cape Cross → Terrace Bay** · 412 km · 🛏️ **Terrace
-  Bay** ⬅️ *un día antes* ⚠️ *Ugabmund cierra la entrada a las 15:00*
-- **D7 · sáb 7 nov — Terrace Bay → Springbokwasser → Twyfelfontein** · **211 km** ✅ · 🛏️
-  **Twyfelfontein o Palmwag** ⬅️ **la noche nueva**
-- **D8 · dom 8 nov — Twyfelfontein → Palmwag → Hoada** · **158 km** ✅ *(107 + 51)* · 🛏️ Hoada
-  — **con la mañana libre entera**
-- **D9 · lun 9 nov — Hoada → Kamanjab → Outjo → Okaukuejo** · 343 km · 🛏️ **Okaukuejo ✅
-  RESERVADO**
-- **D10 · mar 10 nov — Safari Okaukuejo → Halali** · 108 km · 🛏️ **Halali ✅ RESERVADO**
-- **D11 · mié 11 nov — Safari Halali → Namutoni** · 77 km · 🛏️ **Namutoni ✅ RESERVADO**
-  *(y el nocturno guiado sale de aquí, sin cambios)*
-- **D12 · jue 12 nov — Namutoni → Von Lindequist → Tsumeb → Otjiwarongo → CCF** · **340 km ·
-  mínimo ~3 h 37, realista ~4 h 15 con la parada de Otjiwarongo** ✅ *(277 km de asfalto por la B1,
-  53 de grava y 11 dentro del parque)* · 🛏️ **Cheetah Conservation Fund** ⬅️ **en vez de Onguma**
-  *(decidido 24/08)*. Saliendo cuando abre Von Lindequist se llega **antes de las 11:30**, a tiempo
-  de la **alimentación de las 14:00** —el 12 es jueves, horario de lunes a viernes ✅— más el **tour
-  del centro** y el **Cheetah Drive**.
-  ⚠️ **Va por la B1 a propósito, y son 51 km más que el camino corto**: OSRM enruta por defecto un
-  **atajo de 289 km con 190 de pista D** *(D3028, D2804, D2433 — «unpaved» en OSM ✅)*, que al
-  convenio del `13` solo ahorra **10 minutos** y con la grava a velocidad realista **sale perdiendo**.
-  Por las reglas del [`06`](06-conduccion.md) —el vuelco vive en la grava— **el asfalto gana**
-- **D13 · vie 13 nov — Cheetah Run de las 08:00 y bajada a Windhoek** · **294 km · mínimo ~3 h 03,
-  realista ~3 h 30** ✅ *(247 km de asfalto por la B1 y 47 de grava, los del ramal del CCF)* · 🛏️
-  Windhoek. *El Run dura 30 min: saliendo a las 09:00 se está en Windhoek **hacia las 12:30**, con
-  la tarde libre*
-- **D14 · sáb 14 nov — Windhoek → aeropuerto** · 46 km · ✈️ 20:45
-
-### 🧭 Las quince etapas, a escala de país
-
-[<img src="img/mapas/ruta-alternativa.png" alt="Mapa de la ruta alternativa: Windhoek, Spreetshoogte, Sesriem, Walvis Bay, la Costa de los Esqueletos, Damaraland, Etosha y el Cheetah Conservation Fund" width="620">](img/mapas/ruta-alternativa.svg)
-
-*Las **quince etapas de la variante**, cada día del color de su tramo y con el trazado real de
-carretera —**OSRM sobre OpenStreetMap**, los mismos datos que el mapa oficial del volumen—. El
-**encuadre es idéntico al del mapa del `01`** a propósito: los dos se comparan poniéndolos uno al
-lado del otro, y lo que se ve es que **la línea es la misma casi entera**. Los dos cambios están en
-los extremos: **Spreetshoogte pasa a D1 solo** —así Sesriem cae un día antes y aparece la noche de
-Twyfelfontein— y **el final sale por el CCF** en vez de por Onguma.
-[Ver el mapa en grande](img/mapas/ruta-alternativa.svg).*
+## 🎯 La decisión, en tres líneas
 
 ```mermaid
 flowchart LR
 %% ancho
-    A["SPREETSHOOGTE<br/>2 noches -> 1"] --> B["LA NOCHE LIBRE<br/>va a DAMARALAND<br/>Twyfelfontein o Palmwag"]
-    B --> C["DESBLOQUEA<br/>el rastreo de rinoceronte<br/>y elefante del desierto"]
-    D["ONGUMA<br/>fuera"] --> E["ESA NOCHE VA AL CCF<br/>340 km por la B1 · una sola noche"]
-    E --> F["DESBLOQUEA<br/>alimentacion de las 14:00 el mismo dia<br/>y CHEETAH RUN de las 08:00<br/>conservando la noche de Windhoek"]
-    style A fill:#C2542F,color:#fff
+    A["D9-D11 · ETOSHA<br/>Okaukuejo, Halali<br/>y el este hasta Namutoni"] --> B{"Tarde del D11<br/>en Onguma:<br/>habeis visto guepardo?"}
+    B -->|"SI"| C["SE QUEDA COMO ESTA<br/>D12 Fischer's Pan y 2a noche de Onguma<br/>D13 Onguma - Windhoek · 539 km"]
+    B -->|"NO"| D["SE CANCELA LA 2a NOCHE<br/>D12 baja al CCF por la B1 · 331 km<br/>D13 Cheetah Run y Windhoek · 294 km"]
+    style C fill:#5F7043,color:#fff
     style D fill:#C2542F,color:#fff
-    style C fill:#2d6a4f,color:#fff
-    style F fill:#2d6a4f,color:#fff
 ```
+
+**Por qué el D11 y no antes:** es la última tarde con datos. Para entonces ya se han hecho las dos
+charcas iluminadas, las dos guiadas de mañana y **las llanuras del este de Namutoni, que son el
+mejor sitio de guepardo del parque** *(50 % en los partes de viajeros, `01` §D11)*. Si el animal no
+ha aparecido con eso hecho, no va a aparecer en el bucle de Fischer's Pan.
 
 ---
 
-## ✅ Lo mejor — y no es poco
+## 🗺️ El final por el CCF, día a día
 
-- 🦏 **Desbloquea el rastreo de Damaraland**, que hoy es imposible. El **rinoceronte negro y el
-  elefante del desierto de Grootberg** —o el de **Palmwag**— piden el día entero, o vuelven a las
-  15:00 con 343 km por delante *(`23`)*. Con la noche del D7 en Twyfelfontein/Palmwag, **el D8 son
-  158 km y la mañana queda libre**: caben.
-- 🐆 **Con UNA sola noche en el CCF entra el programa entero**, y eso es lo mejor de haberlo
-  elegido a él. Llegando a las 11:30 caben el mismo día **la alimentación de las 14:00**, el
-  **tour** y el **Cheetah Drive**; y a la mañana siguiente, **el Cheetah Run de las 08:00** ✅ —la
-  actividad que en la ruta oficial es sencillamente imposible, porque a esa hora estarías a 280 km
-  *(`23`)*—. **No hace falta una segunda noche**, así que **se conserva la noche de Windhoek** y el
-  último día sigue siendo cómodo.
-- 🎓 **Y es la organización de referencia mundial del guepardo**, no un recinto de carretera: la
-  cuota de alojamiento **financia su trabajo** y da **15 % de descuento en todas las actividades**
-  ✅.
+**~2.814 km** *(**16 más** que la oficial)* ✅ · **15 días, 14 noches**. *(Medido sobre la misma
+geometría que pinta el mapa de aquí abajo, `fuente/geo/ruta-alt.json`; el kilometraje de cada día es
+el de OSRM, redondeado, y **los tiempos salen del desglose de firme de cada etapa a las velocidades
+de planificación del [`13`](13-itinerario.md)** —asfalto 100, grava 80, parque 60—, no del reloj
+optimista de OSRM.)*
+
+**Del D0 al D11 no cambia absolutamente nada**: son las mismas etapas, las mismas reservas y las
+mismas horas que el [`01`](01-itinerarios-dia-a-dia.md).
+
+- **D0 · sáb 31 oct — Llegada, coche y compra en Windhoek** · 46 km — 🛏️ Urban Camp ✅
+- **D1 · dom 1 nov — Windhoek → paso de Spreetshoogte** · 205 km — 🛏️ Spreetshoogte ✅
+- **D2 · lun 2 nov — Spreetshoogte → Solitaire → Sesriem** · 129 km — 🛏️ Sesriem ✅
+- **D3 · mar 3 nov — Sossusvlei, Deadvlei y Duna 45** · 122 km — 🛏️ Sesriem ✅
+- **D4 · mié 4 nov — Sesriem → Walvis Bay** · 316 km — 🛏️ Walvis Bay
+- **D5 · jue 5 nov — Walvis: flamencos, Sandwich Harbour y descanso** · 0 km — 🛏️ Walvis Bay
+- **D6 · vie 6 nov — Walvis → Henties Bay → Cape Cross → Terrace Bay** · 412 km — 🛏️ Terrace Bay
+  ⚠️ *Ugabmund cierra la entrada a las 15:00*
+- **D7 · sáb 7 nov — Terrace Bay → Springbokwasser → Twyfelfontein** · 211 km — 🛏️ Twyfelfontein
+- **D8 · dom 8 nov — Twyfelfontein → Palmwag → Hoada** · 159 km — 🛏️ Hoada, con la mañana libre
+- **D9 · lun 9 nov — Hoada → Kamanjab → Outjo → Okaukuejo** · 343 km — 🛏️ **Okaukuejo ✅ RESERVADO**
+- **D10 · mar 10 nov — Safari Okaukuejo → Halali** · 108 km — 🛏️ **Halali ✅ RESERVADO**
+- **D11 · mié 11 nov — Safari Halali → Namutoni → Onguma** · 93 km — 🛏️ **Onguma ✅ RESERVADO**
+  *(y aquí se decide)*
+
+**Y aquí es donde se separa de la oficial:**
+
+- **D12 · jue 12 nov — Onguma → Tsumeb → Otjiwarongo → CCF** · **331 km · mínimo ~3 h 26, realista
+  ~4 h 05 con la parada de Otjiwarongo** ✅ *(284 km de asfalto por la C38 y la B1, y 47 de grava,
+  los del ramal del CCF)* · 🛏️ **Cheetah Conservation Fund** ⬅️ **en vez de la 2.ª de Onguma**.
+  **Durmiendo ya fuera del parque no hay que esperar a que Von Lindequist abra**: saliendo a las
+  ~07:00 se llega **hacia las 11:05**, a tiempo de la **alimentación de las 14:00** —el 12 es
+  jueves, horario de lunes a viernes ✅— más el **tour del centro** y el **Cheetah Drive**.
+  ⚠️ **Va por la B1 a propósito**: OSRM enruta por defecto un **atajo con ~190 km de pista D**
+  *(D3028, D2804, D2433 — «unpaved» en OSM ✅)*, que al convenio del `13` apenas ahorra minutos y
+  con la grava a velocidad realista **sale perdiendo**. Por las reglas del
+  [`06`](06-conduccion.md) —el vuelco vive en la grava— **el asfalto gana**
+- **D13 · vie 13 nov — Cheetah Run de las 08:00 y bajada a Windhoek** · **294 km · mínimo ~3 h 03,
+  realista ~3 h 30** ✅ *(247 km de asfalto por la B1 y 47 de grava, los del ramal del CCF)* · 🛏️
+  Windhoek. *El Run dura 30 min: saliendo a las 09:00 se está en Windhoek **hacia las 12:30**, con
+  la tarde libre* — **frente a los 539 km del D13 oficial, que es el día más largo del viaje**
+- **D14 · sáb 14 nov — Windhoek → aeropuerto** · 46 km · ✈️ 20:45
+
+### 🧭 Las quince etapas, a escala de país
+
+[<img src="img/mapas/ruta-alternativa.png" alt="Mapa del final alternativo: la ruta oficial hasta Onguma y la bajada al Cheetah Conservation Fund por la B1" width="620">](img/mapas/ruta-alternativa.svg)
+
+*Las **quince etapas con el final del CCF**, cada día del color de su tramo y con el trazado real de
+carretera —**OSRM sobre OpenStreetMap**, los mismos datos que el mapa oficial del volumen—. El
+**encuadre es idéntico al del mapa del `01`** a propósito: los dos se comparan poniéndolos uno al
+lado del otro, y lo que se ve es que **la línea es la misma hasta Onguma**. El único cambio está en
+el final: en vez de bajar de un tirón desde la puerta de Etosha, se parte en dos con noche en el
+CCF. [Ver el mapa en grande](img/mapas/ruta-alternativa.svg).*
+
+---
+
+## ✅ Lo que se gana
+
+- 🐆 **Con UNA sola noche entra el programa entero del CCF.** Llegando a las ~11:05 caben el mismo
+  día **la alimentación de las 14:00**, el **tour** y el **Cheetah Drive**; y a la mañana siguiente,
+  el **Cheetah Run de las 08:00** ✅ —la actividad que en la ruta oficial es sencillamente imposible,
+  porque a esa hora estarías a 280 km *(`23`)*—. **No hace falta una segunda noche**, así que **se
+  conserva la noche de Windhoek** y el último día sigue siendo cómodo.
+- 🚗 **Endereza el peor día del viaje.** Los dos últimos días dejan de ser **70 + 539** para ser
+  **331 + 294**: el regreso baja de 539 a 294 km y **deja de ser la etapa más larga**. *(La peor pasa
+  a ser el D6 de la costa, 412 km, que es igual en los dos finales.)*
+- 🎓 **Es la organización de referencia mundial del guepardo**, no un recinto de carretera: la cuota
+  de alojamiento **financia su trabajo** y da **15 % de descuento en todas las actividades** ✅.
   ⚠️ **Okonjima quedó descartado el 24/08 y conviene saber por qué**: **ya no tiene guepardo**
   —programa descontinuado en 2020, sus propios folletos no lo listan— *(`23` §3)*. Sigue siendo
   magnífico para **leopardo, rinoceronte a pie y pangolín**, pero **eso ya no es este viaje**.
-- 🚗 **Endereza el final del viaje, que es donde dolía.** El **D8 oficial de 367 km** se parte en
-  **211 + 158** gracias a la noche nueva de Damaraland; y los dos últimos días dejan de ser **56 +
-  539** para ser **340 + 294**: **el día de vuelta baja de 539 a 294 km** y deja de ser el peor del
-  viaje. *(El peor pasa a ser el **D6 de la costa, 412 km**, que ya está igual en las dos rutas.)*
-- 📈 **Y hay que decir el precio en kilómetros: la ruta CRECE ~43 km**, hasta ~2.807. El rodeo al
-  CCF y la vuelta desde él suman **634 km** donde la oficial hacía **595** *(`23` ya lo estimaba en
-  +89 desde el otro extremo)*. **Repartidos en dos días cómodos**, que es de lo que iba todo esto.
-- 🐾 **Cambia escarpa sin datos por Damaraland con datos**: en Spreetshoogte **no hay parte de
-  avistamientos ni polígono GBIF** —es granja privada, la fauna está sin medir *(`01` §D1)*—;
-  Damaraland sí está medido en la guía.
+- 📉 **Y cuesta muy pocos kilómetros: +16**, hasta ~2.814. Casi nada, porque el rodeo al CCF se
+  compensa con lo que se ahorra de no volver desde la puerta de Etosha.
 
-## ❌ Lo peor — y esto hay que mirarlo de frente
+## ❌ Lo que cuesta
 
-- 🛟 **Se pierde el colchón del viaje, y es el precio serio.** La segunda noche de Spreetshoogte
-  **no era turismo: era la red**. Es el día que se sacrificaba si el vuelo o las maletas se
-  retrasaban **sin tocar ni una reserva** *(`01` §D2)*. Sin él, **cualquier retraso en Fráncfort se
-  come ya una reserva pagada** — y desde el 4 de octubre las de NWR se cancelan al 100 %.
-  👉 **Mitigación, y es mejor de lo que parece**: la nueva noche del D7 *(Twyfelfontein/Palmwag)*
-  **no hay por qué reservarla con antelación** — no está dentro de un parque y noviembre es
-  temporada baja, donde **la práctica documentada es que fuera de Etosha y Sesriem no hace falta
-  reservar** ◐ *(`20` §antelación)*. Es decir: **se puede dejar abierta y decidirla sobre la
-  marcha**, y si el vuelo falla, **es la que se sacrifica sin perder un céntimo**. No es una red
-  tan buena como un día entero, pero **es una red de verdad**.
-- 🌇 **Se pierde el único día sin reloj**: amanecer en el mirador, la escarpa a pie y la segunda
-  puesta de sol sobre el Namib mil metros abajo.
-- 🦏 **Se pierde Onguma, y con ella una opción de guepardo SALVAJE.** 35.970 ha privadas con
-  **leopardo, guepardo y rinoceronte confirmados por escrito**, baño propio en la parcela, y
-  **foco, campo a través y paseo a pie** — las dos cosas que el parque prohíbe *(`21`)*. Se pierde
-  también el **D12 de 56 km**, que era la última tarde tranquila antes de volver.
-  **El intercambio, dicho claro**: se cambia un guepardo **salvaje e improbable** por uno
-  **prácticamente seguro pero cautivo**. Si lo que se busca es la foto y entender al animal, gana
-  el CCF; si lo que se busca es el bicho suelto, Onguma tenía algo que el CCF no puede dar.
+- 🦁 **Se pierde el último día de Etosha, y es un día de safari entero.** El D12 oficial son
+  **Fischer's Pan, Chudop y el Dik-dik Drive de Klein Namutoni** — la esquina que casi nadie hace
+  *(`01` §D12)*. Cambiarlo por 331 km de B1 es cambiar safari por carretera.
+- 🐆 **Y el intercambio de fondo, dicho sin adornar**: se cambia un guepardo **salvaje e improbable**
+  por uno **prácticamente seguro pero cautivo**. Si lo que se busca es la foto y entender al animal,
+  gana el CCF; si lo que se busca es el bicho suelto, Onguma tiene algo que el CCF no puede dar
+  —35.970 ha con **leopardo, guepardo y rinoceronte confirmados por escrito** *(`21`)*—.
+  **Por eso la decisión es condicional y no previa**: solo tiene sentido bajar si el parque ya falló.
 - 🛏️ **La noche pasa de parcela a habitación**: **en el CCF no hay camping** para autocaravanistas
   —sus alojamientos son lodge, y el campamento que tienen es **educativo, de grupos escolares** ◐—.
   El viaje pasa de **13 noches de tienda sobre 14** a **12**.
-- 💳 **Hay que CANCELAR Onguma**, que está reservada desde el 21/08, y **sus condiciones de
-  cancelación no se han verificado** ❌ *(ni el importe exacto de la reserva — `20` §4)*.
-  **Pregúntalas antes de mover nada.**
-- 💶 **Cuesta dinero, y aquí probablemente bastante.** Sale una noche barata *(Spreetshoogte,
-  **N$290 · ~€14,50** pp ✅)* y entran **dos sin tarifa cerrada**: la de Damaraland ❌ y la del
-  **CCF**, que **no publica precios** ❌ y es **lodge con desayuno y cena incluidos** —así que casi
-  con seguridad **por encima de los N$1.240 (~€62)** de Onguma, que ya están pagados ✅—.
-  *(A favor: el alojamiento del CCF da **15 % de descuento en todas sus actividades** ✅ y lo
-  recaudado financia su trabajo.)* Y los **rastreos de Grootberg y Palmwag tampoco publican
-  precio** ❌. **Pídelos todos antes de decidir.**
-- 🎫 **Lo que NO cambia, para que nadie lo cuente como ahorro**: **las tasas de parque de Etosha
-  siguen igual** —se entra el D9 y se sale el D12 en las dos rutas— y **las tres noches de dentro
-  son las mismas**.
+- 💳 **Hay que CANCELAR una noche ya reservada**, y **sus condiciones de cancelación no se han
+  verificado** ❌ *(ni el importe exacto de la reserva — `20` §4)*.
+- 💶 **Cuesta dinero, y probablemente bastante.** Sale una noche de **N$1.240 (~€62)** y entra una
+  del **CCF**, que **no publica precios** ❌ y es **lodge con desayuno y cena incluidos** —así que
+  casi con seguridad **por encima** de la de Onguma—. *(A favor: el alojamiento del CCF da **15 % de
+  descuento en todas sus actividades** ✅ y lo recaudado financia su trabajo.)*
+- ⛽ **Y suma un repostaje**: 331 km de B1 con el depósito que salga de Tsumeb *(`07`)*.
 
 ---
 
-## 📋 Qué reservar, y en qué orden
+## 📋 Lo que hay que preguntar ANTES de salir de casa
 
-1. ❗ **Primero, Onguma**: pedir **condiciones de cancelación** ❌ y cancelar *(`20` §4)*.
-2. ❗ **Antes de llamar a NWR**, pedir por escrito el precio del **rastreo de Grootberg**
-   *(res4@journeysnamibia.com · +264 61 228 104)* y el **alojamiento del D7** ❌: si el rastreo
-   fuera caro o no hubiera sitio, **esta variante pierde su mejor argumento**.
-3. **NWR** *(reservations@nwr.com.na · +264 61 285 7200 — su portal está caído)*:
-   **Sesriem 2–3 nov** y **Terrace Bay 6 nov**. ⬅️ *fechas distintas de las del `01`*
-4. **Barkhan**: **Spreetshoogte, solo el 1 de nov** *(bookings@barkhan.africa)*.
-5. **CCF** *(12 nov, UNA noche)* y el alojamiento del **D7**, los dos ❌ sin tarifa: pídelos y
-   compara. ⚠️ **Dos avisos del CCF**: el **Cheetah Run exige reserva previa** ✅ —pídelo al
-   reservar la noche, no al llegar— y **allí NO hay camping**: sus alojamientos son el **Cheetah
-   View Lodge** *(5 suites de piedra)* y la **Babson House**; el campamento que tienen es
-   **educativo, para grupos escolares** ◐. Es decir, **la segunda noche del viaje en habitación**,
-   como Terrace Bay. Se reserva por **NightsBridge** o en **+264 (0)67 306225** ✅.
-6. **Windhoek D0 y D13** y **Hoada D8**, sin cambios respecto al `01` — **la noche de Windhoek
-   del final se conserva**, que es una de las ventajas de haber elegido el CCF.
+**Nada de esto mueve una fecha, pero sin ello la decisión no se puede tomar sobre el terreno.**
 
-> ### 🧭 Una cosa que decidir tú, y la digo sin adornar
-> Esta variante **cambia una red de seguridad por dos experiencias de fauna**. Con la fauna como
-> prioridad declarada y con Etosha ya pagada, **el intercambio tiene sentido** — pero **el día que
-> se quita es exactamente el que protegía todo lo demás**, y el vuelo lleva escala en Fráncfort.
-> Si prefieres conservar la red, hay una versión intermedia: **quedarse solo con la condición 2**
-> —tres noches de Etosha, sin Onguma, noche en el CCF— que **no toca ninguna reserva pendiente,
-> no mueve ninguna fecha, parte el D13 en dos y ya te da el guepardo de primera hora**.
+1. ❗ **A Onguma** *(la reserva está desde el 21/08)*: **condiciones de cancelación de la segunda
+   noche** ❌ y **hasta cuándo se puede anular sin penalización**. Es la pregunta que decide si esto
+   es una opción real o un capricho caro *(`20` §4)*.
+2. ❗ **Al CCF** *(NightsBridge o **+264 (0)67 306225** ✅)*: **si hay sitio el 12 de noviembre** y
+   **cuánto cuesta** ❌. ⚠️ **Dos avisos**: el **Cheetah Run exige reserva previa** ✅ —pídelo al
+   preguntar por la noche, no al llegar— y **allí NO hay camping**: sus alojamientos son el
+   **Cheetah View Lodge** *(5 suites de piedra)* y la **Babson House**; el campamento que tienen es
+   **educativo, para grupos escolares** ◐.
+3. **Y confirma el horario de la alimentación**: la de las **14:00 de lunes a viernes** ✅ es la que
+   hace que quepa todo el mismo día. Si ese día no la hacen, la ventaja principal se cae.
+
+> ### 🧭 Cómo se decide, dicho en una frase
+> **Si el guepardo ya salió en Etosha, quédate**: el D12 de Fischer's Pan y la segunda noche de
+> Onguma son un buen día, y el guepardo salvaje ya está visto. **Si no salió, baja**: el CCF lo
+> convierte en seguro, endereza el día más largo del viaje y solo cuesta 16 km — pero **solo si las
+> dos preguntas de arriba están hechas**. Sin ellas, la segunda noche de Onguma se queda como está.
 
 ---
 

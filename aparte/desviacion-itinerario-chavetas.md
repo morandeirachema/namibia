@@ -37,7 +37,7 @@ Waterberg).
 ```mermaid
 flowchart LR
     W0["Windhoek"] --> SP["paso de<br/>Spreetshoogte"] --> SS["Sossusvlei"] --> CO["costa<br/>Walvis / Swakop"] --> CC["Cape Cross"]
-    CC -->|"nosotros: D7"| TB["Terrace Bay<br/>noche EN el parque"] --> TW["Twyfelfontein"]
+    CC -->|"nosotros: D6"| TB["Terrace Bay<br/>noche EN el parque"] --> TW["Twyfelfontein<br/>noche propia el D7"]
     CC -->|"Isaac: mismo dia,<br/>giro tierra adentro"| TW
     TW --> KA["Kamanjab"] --> ET["Etosha"]
     ET -->|"nosotros: 4 noches DENTRO,<br/>salida por el este"| W1["Windhoek"]
@@ -63,7 +63,7 @@ flowchart LR
   filosofía opuesta: para ellos era tránsito, para nosotros es destino.
 - **Sossusvlei.** Aquí está la desviación más rentable de todo el documento. Ellos durmieron
   **fuera**, a 60 km de Sesriem, y entraron **a las 7:00 con la puerta exterior — siendo el coche
-  n.º 13 de unos 25** ✅. Nosotros dormimos **dentro de la puerta de Sesriem** *(reserva del D3–D4,
+  n.º 13 de unos 25** ✅. Nosotros dormimos **dentro de la puerta de Sesriem** *(reserva del D2–D3,
   `20` §4)* justo para lo contrario: salir a las ~05:10 con la puerta interior y pillar el amanecer
   en las dunas con una hora de ventaja sobre esa cola. **Su diario es la mejor confirmación de
   nuestra reserva**: la cola de 25 coches existe, y se le adelanta durmiendo dentro ◐.
@@ -73,18 +73,18 @@ flowchart LR
   Plain y el Moon Landscape** ✅, que nosotros no tenemos en ruta *(ver §5)*.
 - **El día de mar.** Ellos hicieron el combo entero: **catamarán a Pelican Point por la mañana y
   Sandwich Harbour en 4×4 por la tarde** ✅, con los flamencos incluidos. Nosotros tenemos los
-  flamencos a pie (D6) y ese combo es exactamente el «capricho del D6, si cae» que está
+  flamencos a pie (D5) y ese combo es exactamente el «capricho del D5, si cae» que está
   presupuestado sin decidir en `20` §7 — **su entusiasmo es un punto a favor de que caiga** ◐.
 - **Costa de los Esqueletos.** Ellos llegaron **solo hasta Cape Cross** *(con el pecio del Zeila
   antes ✅)* y giraron tierra adentro **ese mismo día** hasta Twyfelfontein *(comida en el Country
   Lodge a las 14:30)* y el Damara Mopane Lodge de Khorixas ✅. **No entraron al parque de la Costa
   de los Esqueletos.** Nosotros metemos ahí nuestra península: por la puerta de Ugabmund hasta
-  **Terrace Bay, noche dentro del parque (D7)**, y Twyfelfontein al día siguiente (D8) con noche
+  **Terrace Bay, noche dentro del parque (D6)**, y Twyfelfontein al día siguiente (D7), ahora con noche propia allí, y
   en Hoada. Es decir: **su día 7 comprime en una jornada lo que nosotros repartimos en dos**, a
   cambio de no pisar el parque que le da nombre.
 - **Kamanjab y la puerta de Etosha.** Su día 8: del lodge de Khorixas a una **aldea himba a 7 km
   de Kamanjab** *(Omusaona Traditional Himba Village; 120 km, 1 h 30 ✅)* y de ahí **180 km / 2 h
-  hasta la puerta de Andersson** ✅. Nuestro D9 (Hoada → Kamanjab → Outjo → Okaukuejo, ~340 km)
+  hasta la puerta de Andersson** ✅. Nuestro D9 (Hoada → Kamanjab → Outjo → Okaukuejo, ~343 km)
   pasa por el mismo Kamanjab — la aldea está prácticamente en nuestra ruta *(ver §5)*.
 
 ---
@@ -141,11 +141,11 @@ nuestros 15 días, con el sur ya sacrificado, no tienen de dónde pagar.**
   «aldeas de demostración» a propósito **sin recomendar ni desaconsejar** — esta nota no cambia
   eso; solo deja dicho que, si el día 9 de noviembre apetece, está a un desvío de nada. Precio y
   horario sin verificar ❌.
-- **Sandwich Harbour + catamarán (D6).** Ya está como capricho presupuestado sin decidir en `20`
+- **Sandwich Harbour + catamarán (D5).** Ya está como capricho presupuestado sin decidir en `20`
   §7; su diario ✅ es el empujón a favor. Nada que cambiar, solo decidir.
 - **El meteorito Hoba.** Ya es parada opcional de nuestro D13 *(variante por Grootfontein, B8 —
   `01` §D13 y `10`; entrada N$250 · ~€12,5 ◐)*. Ellos lo encajaron dentro de un día de 600 km;
-  nosotros solo si el D13 va sobrado de hora — el D13 ya mide ~550 km.
+  nosotros solo si el D13 va sobrado de hora — el D13 ya mide ~539 km.
 - **Welwitschia Plain y Moon Landscape ✅.** Lo único de su tronco que nuestra ruta no contempla.
   El hueco natural sería la tarde del D6 *(día de descanso en Walvis)*: está a ~30–40 km de
   Swakopmund ○. Sin verificar permisos ni tasas del Welwitschia Drive ❌ *(sería una entrada de

@@ -81,27 +81,32 @@ Precios **nov 2026 – jun 2027** (nuestra ventana) → *jul–oct 2027*:
 
 Las parcelas admiten **máximo 8 personas**, pero el precio es **por persona**: dos pagan dos.
 
-> ### 📌 De estas, en este viaje se usan cuatro: **Sesriem ×2, Okaukuejo, Halali y Namutoni ×1**
-> La **segunda noche de Namutoni** que este documento presupuestaba **se cambió el 21/08 por
-> Onguma Tamboti**, fuera de la puerta de Von Lindequist *(el bloque de abajo)*.
+> ### 📌 De estas, en este viaje se usan tres: **Sesriem ×2, Okaukuejo y Halali**
+> **Namutoni ya no es noche de nadie** *(cambio del 24/08)*: sus **dos** noches se fueron a
+> **Onguma Tamboti**, fuera de la puerta de Von Lindequist *(el bloque de abajo)*. El campamento se
+> visita el D11 —el fuerte, el museo, la torre— pero no se duerme.
 
 ---
 
-## ⛺ Y la cuarta noche de Etosha, que ya no es NWR *(reservada el 21/08/2026)*
+## ⛺ Y las DOS últimas noches de Etosha, que ya no son NWR *(reservadas)*
 
-### Onguma Tamboti Campsite — D12, 3,4 km pasada la puerta de Von Lindequist
+### Onguma Tamboti Campsite — D11 y D12, 3,4 km pasada la puerta de Von Lindequist
 
 **Rack oficial 2027, válido del 1 de noviembre de 2026 al 31 de octubre de 2027** ✅
-*(el año fiscal de Onguma corre de noviembre a octubre, igual que el de NWR — vuestra noche cae
+*(el año fiscal de Onguma corre de noviembre a octubre, igual que el de NWR — vuestras noches caen
 justo al principio de la ventana)*:
 
 - **N$540 (~€27) netos por adulto y noche** + **tasa de conservación N$80 (~€4) por persona y
   noche** = **N$620 (~€31) por persona** · niños de 3 a 11 años N$270 + tasa · menores de 3 gratis
 - **IVA y Social Development Levy incluidos**
-- **2 pax: N$1.240 (~€62)** — **N$320 (~€16) más que una parcela de Namutoni**, y a cambio la
-  parcela lleva **ducha y wc propios**
-- ❌ *El importe exacto de la reserva, por confirmar: el dato recibido (€132) era el de dos noches,
-  antes de que la primera volviera a Namutoni.*
+- **2 pax: N$1.240 (~€62) por noche → N$2.480 (~€124) las dos** — **N$320 (~€16) más por noche que
+  una parcela de Namutoni**, y a cambio la parcela lleva **ducha y wc propios**
+- ❌ *El importe exacto de la reserva y sus **condiciones de cancelación**, por confirmar — y esto
+  último es lo que decide si la segunda noche se puede cambiar por el CCF sobre el terreno
+  ([`24`](24-ruta-alternativa.md)).*
+- ⚠️ **Lo que este cambio cuesta no es el alojamiento**: al no dormir dentro, **el nocturno guiado
+  de NWR y la guiada de mañana de Namutoni dejan de ser comprables** —se venden a quien pernocta—,
+  **N$2.800 (~€140) la pareja** que salen del plan *(abajo, y `02` §9)*
 - **25 parcelas**, máximo **2 tiendas / 4 personas** por parcela · **cada parcela con ducha, wc y
   enchufe propios**, limpieza diaria, **un lote de leña el día de llegada** y **wifi gratis en
   recepción** · kiosco con lo básico, hielo, leña y braai packs · **restaurante à la carte: la
@@ -202,12 +207,15 @@ sigue siendo real independientemente del coche.)*
 - Sesriem, safari guiado de mañana — N$600 (~€30) *(sin desayuno)* / N$700 (~€35) *(con desayuno)*
 - Sesriem, ruta al atardecer a Elim Dune — N$300 (~€15)
 - Sesriem, ruta del cañón — N$200 (~€10)
-- **Etosha — los TRES campamentos donde dormís** *(Okaukuejo, Halali y Namutoni)*, verificado el
+- **Etosha — los campamentos de NWR**, verificado el
   03/08/2026 en sus fichas de nwr.com.na: safari guiado de **mañana N$650 (~€33)** · de **tarde
   N$650 (~€33)** · **NOCTURNO N$750 (~€38)**. ❌ *Horarios de salida: NWR no los publica en ninguna
   parte — hay que preguntarlos en recepción (ver `01`).*
-  ⚠️ **Se venden a quien duerme en el campamento**, así que desde el 21/08 **el nocturno se compra
-  en Namutoni la noche del D11**, no el D12: esa ya se duerme en Onguma, fuera del parque.
+  ⚠️ **Se venden a quien duerme en el campamento**, y desde el 24/08 **solo se duerme dentro dos
+  noches: Okaukuejo (D9) y Halali (D10)**. Comprables quedan, por tanto, **dos guiadas de mañana**
+  *(N$1.300 · ~€65 la pareja cada una)*. **El nocturno se cae del plan** ❌ —se compraba desde
+  Namutoni— y lo sustituye el **Sundowner Drive de Onguma** *(N$980 · ~€49 pp)*, que sale al
+  atardecer con foco y campo a través *(`01` §D12)*.
 - Dolomite, safari guiado de mañana/tarde — N$650 (~€33)
 - Sossus Dune Lodge, safari guiado — N$750 (~€38)
 

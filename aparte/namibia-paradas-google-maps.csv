@@ -2,20 +2,21 @@ Nombre,Categoría,Latitud,Longitud,Días de la ruta,Noche aquí
 Aeropuerto Hosea Kutako,Lo que se visita,-22.4822,17.47205,"D0, D14",
 Windhoek,Núcleo de referencia,-22.57761,17.07727,"D0, D1, D13, D14","D0, D13"
 Rehoboth,Núcleo de referencia,-23.3151,17.0817,D1,
-Paso de Spreetshoogte,Puerto de montaña,-23.65792,16.18549,"D1, D3","D1, D2"
-Solitaire,Gasolinera obligatoria,-23.89429,16.00553,"D3, D5",
-Sesriem,Donde se duerme,-24.48713,15.79849,"D3, D4, D5","D3, D4"
-Sossusvlei,Lo que se visita,-24.73953,15.29236,D4,
-Duna 45,Lo que se visita,-24.72952,15.47192,D4,
-Deadvlei,Lo que se visita,-24.76299,15.2944,D4,
-Walvis Bay,Donde se duerme,-22.95576,14.50711,"D5, D7","D5, D6"
-Swakopmund,Núcleo de referencia,-22.67684,14.52897,D7,
-Henties Bay,Gasolinera obligatoria,-22.11597,14.28266,D7,
-Cape Cross,Lo que se visita,-21.77145,13.95196,D7,
-Puerta de Ugabmund,Puerta de parque,-21.1727,13.6695,D7,
-Terrace Bay,Donde se duerme,-19.98772,13.03254,"D7, D8",D7
-Puerta de Springbokwasser,Puerta de parque,-20.31055,13.64769,D8,
-Twyfelfontein,Lo que se visita,-20.54842,14.41099,D8,
+Paso de Spreetshoogte,Puerto de montaña,-23.65792,16.18549,"D1, D2",D1
+Solitaire,Gasolinera obligatoria,-23.89429,16.00553,"D2, D4",
+Sesriem,Donde se duerme,-24.48713,15.79849,"D2, D3, D4","D2, D3"
+Sossusvlei,Lo que se visita,-24.73953,15.29236,D3,
+Duna 45,Lo que se visita,-24.72952,15.47192,D3,
+Deadvlei,Lo que se visita,-24.76299,15.2944,D3,
+Walvis Bay,Donde se duerme,-22.95576,14.50711,"D4, D6","D4, D5"
+Swakopmund,Núcleo de referencia,-22.67684,14.52897,D6,
+Henties Bay,Gasolinera obligatoria,-22.11597,14.28266,D6,
+Cape Cross,Lo que se visita,-21.77145,13.95196,D6,
+Puerta de Ugabmund,Puerta de parque,-21.1727,13.6695,D6,
+Torra Bay,Lo que se visita,-20.32287,13.23804,D6,
+Terrace Bay,Donde se duerme,-19.98772,13.03254,"D6, D7",D6
+Puerta de Springbokwasser,Puerta de parque,-20.31055,13.64769,D7,
+Twyfelfontein,Lo que se visita,-20.54842,14.41099,"D7, D8",D7
 Palmwag,Lo que se visita,-19.88436,13.94799,D8,
 Paso de Grootberg,Puerto de montaña,-19.84295,14.1282,D8,
 Hoada,Donde se duerme,-19.73222,14.30791,"D8, D9",D8
@@ -28,9 +29,10 @@ Salvadora,Lo que se visita,-19.0346,16.2697,D10,
 Halali,Donde se duerme,-19.0356,16.4722,"D10, D11",D10
 Goas,Lo que se visita,-18.989,16.5584,D11,
 Chudob,Lo que se visita,-18.8582,16.9249,"D11, D12",
-Namutoni,Donde se duerme,-18.8059,16.9405,"D11, D12, D13","D11, D12"
+Namutoni,Donde se duerme,-18.8059,16.9405,"D11, D12",
+Puerta de Von Lindequist,Puerta de parque,-18.8034,17.0433,"D11, D12, D13",
+Onguma · Tamboti,Donde se duerme,-18.78191,17.05919,"D11, D12, D13","D11, D12"
 Twee Palms · Fischer's Pan,Lo que se visita,-18.7656,17.0299,D12,
-Puerta de Von Lindequist,Puerta de parque,-18.8034,17.0433,D13,
 Tsumeb,Núcleo de referencia,-19.24672,17.71622,D13,
 Otjiwarongo,Gasolinera obligatoria,-20.46093,16.65121,D13,
 Okahandja,Núcleo de referencia,-21.97923,16.91282,D13,

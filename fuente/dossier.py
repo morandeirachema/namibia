@@ -147,15 +147,16 @@ RESUMEN = {
           "y la etiqueta del trato — atado a los días de la ruta.",
     "20": "El cuaderno de llamadas: cada reserva con su canal, su contacto y su fuente — "
           "el orden en que se cierran y lo que se deja para recepción.",
-    "21": "Las cuatro noches de Etosha por dentro —Okaukuejo, Halali, Namutoni y Onguma "
-          "Tamboti—: la parcela, la charca y los servicios, con los avisos de los viajeros "
-          "recientes.",
+    "21": "Las cuatro noches de Etosha por dentro —Okaukuejo, Halali y Onguma Tamboti ×2, "
+          "más Namutoni, que se visita pero ya no se duerme—: la parcela, la charca y los "
+          "servicios, con los avisos de los viajeros recientes.",
     "22": "Si te pica un escorpión: quién es quién, qué va a pasar, qué hacer y qué no, a "
           "quién llamar y adónde ir — etapa a etapa.",
     "23": "El guepardo, prioridad del viaje: dónde se ve de verdad y de qué noche sale el "
           "día. Y las joyas de FUERA de la ruta, con los kilómetros medidos.",
-    "24": "La variante de tres noches de Etosha, medida y con su mapa: lo mejor y lo peor "
-          "de quitarle una noche a Spreetshoogte y cambiar Onguma por el CCF.",
+    "24": "La decisión del D12, que se toma dentro de Etosha: saltarse la segunda noche "
+          "de Onguma y bajar al Cheetah Conservation Fund si el guepardo no ha salido. "
+          "Medida, con su mapa, y con lo que hay que preguntar antes de salir de casa.",
 }
 
 

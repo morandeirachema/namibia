@@ -309,9 +309,12 @@ def revisa_fechas():
 
 
 # Las reservas de alojamiento que hacen el viaje, con lo que pesa cada casilla del `20`
-# §9: la de Etosha tacha cuatro noches de una vez (Okaukuejo, Halali, Namutoni y Onguma).
+# §9: la de Etosha tacha cuatro noches de una vez (Okaukuejo, Halali y Onguma x2 — desde
+# el 24/08 Namutoni ya no esta). Spreetshoogte bajo a una sola noche y el Urban Camp de
+# Windhoek entro en la cuenta al reservarse, asi que el total pasa de 7 a 8.
 RESERVAS_CONTADAS = (("Sesriem ×2", 1), ("Terrace Bay", 1),
-                     ("noches de Etosha", 4), ("Spreetshoogte ×2", 1))
+                     ("noches de Etosha", 4), ("Spreetshoogte", 1),
+                     ("Windhoek D0", 1))
 
 
 def revisa_contador_reservas():

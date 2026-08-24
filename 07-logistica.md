@@ -58,11 +58,11 @@ subida es justo esa presión al alza que ya se avisaba abajo, materializándose.
 interior, **como estimación, no como dato**. 👉 **Recomprueba la semana antes de salir.**
 
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: el
-Ford doble cabina cargado en los **~2.764 km de la ruta** (control OSRM 08/08, rehecho el 21/08
-con la última noche en Onguma), a
-**~11–13 l/100 km**, quema **~304–359 l** → banda **N$7.910–10.420 (~€396–521)**, central
-**~N$8.955 (~€448)** con el diésel a N$27/l de agosto *(era menos con el precio de julio)*.
-**Se presupuesta ~N$9.000 (~€450) — €225 por persona**; el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
+Ford doble cabina cargado en los **~2.798 km de la ruta** (control OSRM, rehecho el 24/08
+con las dos noches en Onguma y Damaraland partido en dos), a
+**~11–13 l/100 km**, quema **~308–364 l** → banda **N$8.002–10.549 (~€400–527)**, central
+**~N$9.066 (~€453)** con el diésel a N$27/l de agosto *(era menos con el precio de julio)*.
+**Se presupuesta ~N$9.100 (~€455) — €228 por persona**; el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
 2.800–3.200 km de la ruta con el sur.)*
 
 Fuentes: [rebaja de julio](https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/) ·

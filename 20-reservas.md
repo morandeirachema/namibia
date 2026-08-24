@@ -10,8 +10,9 @@
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Levantado el 09/08/2026. Al 24/08, el **vuelo está EMITIDO (€1.536 p.p.)**, el **coche
-> RESERVADO con Savanna (€2.363 en total)** y las **cuatro noches de Etosha, RESERVADAS el 21/08**
-> —Okaukuejo, Halali, Namutoni y Onguma Tamboti (§4)—; **el resto sigue sin reservar**. Los contactos que el
+> RESERVADO con Savanna (€2.363 en total)** y **ocho de las catorce noches RESERVADAS** — Windhoek
+> Urban Camp, Spreetshoogte, Sesriem ×2, Okaukuejo, Halali y **Onguma Tamboti ×2** (§4 y §5).
+> **Namutoni se anuló** y **Terrace Bay es la única que queda con fecha dura sin reservar**. Los contactos que el
 > dossier no tiene localizados se dicen en blanco: rellenar un teléfono plausible sería peor que
 > dejar el hueco. Los marcados ◐ salieron de la búsqueda del 09/08/2026 sin poder abrir la ficha
 > oficial: confírmalos al usarlos.*
@@ -21,13 +22,17 @@
 ## 🧭 El orden, de un vistazo
 
 Reservar no es una lista plana: unas cosas abren la puerta de otras. **El coche va primero** —es lo
-que se agota, no el vuelo (`04`)—, **el billete emitido es la llave del e-visa**, y las **seis
-reservas de alojamiento que hacen el viaje** *(Sesriem, Terrace Bay, Okaukuejo, Halali, Namutoni y
-Spreetshoogte)* van en cuanto el coche esté firmado. ✅ **De ésas, las de Etosha ya están cerradas
-(21/08)**; y al partirse la doble de Namutoni en una noche allí más otra en **Onguma Tamboti**, ya
-fuera de la puerta, **el contador del README pasó de seis reservas a siete**: cuatro cerradas
-—Okaukuejo, Halali, Namutoni y Onguma— y **tres pendientes: Sesriem ×2, Terrace Bay y
-Spreetshoogte ×2**.
+que se agota, no el vuelo (`04`)—, **el billete emitido es la llave del e-visa**, y las **reservas
+de alojamiento que hacen el viaje** van en cuanto el coche esté firmado.
+
+✅ **Al 24/08 casi todas están hechas**: **Windhoek Urban Camp** *(D0)*, **Spreetshoogte** *(D1, una
+sola noche)*, **Sesriem ×2** *(D2–D3)*, **Okaukuejo** *(D9)*, **Halali** *(D10)* y **Onguma Tamboti
+×2** *(D11–D12)* — **ocho noches de catorce**. **Namutoni se anuló**: su parcela se cambió por la
+segunda de Onguma.
+
+🔴 **Queda una sola con fecha dura: Terrace Bay (vie 6 nov)**, sin la cual no se cruza Ugabmund a
+pernoctar. Y **cinco campings sin tarifa** que no necesitan reserva anticipada: Walvis Bay ×2,
+**Twyfelfontein —la noche nueva del D7—**, Hoada y la vuelta a Windhoek del D13.
 
 ```mermaid
 flowchart LR
@@ -35,9 +40,9 @@ flowchart LR
     C["1 · EL 4x4<br/>RESERVADO 12/08<br/>Savanna, 2.363 EUR<br/>total, Ford GSXA-1"] --> V["2 · EL VUELO<br/>EMITIDO 10/08<br/>1.536 EUR pp"]
     V --> S["3 · SEGURO IATI<br/>CONTRATADO 24/08<br/>Estrella, desde el 30-10"]
     V --> E["6 · E-VISA<br/>desbloqueado:<br/>ya hay billete de vuelta"]
-    C --> N["4 · LAS NOCHES NWR<br/>Sesriem x2 · Terrace Bay<br/>Etosha x3 RESERVADAS"]
-    N --> Y["ETOSHA, CERRADO 21/08<br/>Okaukuejo · Halali · Namutoni<br/>y Onguma Tamboti el D12"]
-    N --> R["5 · EL RESTO DE CAMPINGS<br/>Spreetshoogte x2 · Windhoek x2<br/>Walvis x2 · Hoada"]
+    C --> N["4 · LAS NOCHES NWR<br/>Sesriem x2 RESERVADO<br/>Terrace Bay: LA QUE FALTA"]
+    N --> Y["ETOSHA, CERRADO<br/>Okaukuejo · Halali<br/>y Onguma Tamboti x2"]
+    N --> R["5 · EL RESTO DE CAMPINGS<br/>Windhoek D0 RESERVADO · Walvis x2<br/>Twyfelfontein · Hoada · Windhoek D13"]
     P["EN PARALELO, YA<br/>la cita del CVI:<br/>agosto o nada"]
     style C fill:#9d0208,color:#fff
     style V fill:#2d6a4f,color:#fff
@@ -65,17 +70,18 @@ fuentes, y coinciden entre sí ◐:
   para los dos de arriba **eso es una lotería que no compensa**.
 
 > ### 👉 Traducido a vuestro caso
-> - ✅ **Los críticos ya están o se cierran hoy**: Etosha *(reservado el 21/08)* y **Sesriem**.
+> - ✅ **Los críticos ya están**: **Etosha** *(Okaukuejo y Halali)*, **Sesriem ×2** y las **dos
+>   noches de Onguma** — más Spreetshoogte y el Urban Camp de Windhoek.
 > - ⚠️ **Terrace Bay hay que reservarlo igual, pero por otro motivo**: no es que se llene, es que
 >   **sin la confirmación no se entra a pernoctar** al Skeleton Coast *(§4)*. Es una llave, no una
->   plaza.
-> - 🟡 **Y el resto se puede dejar para más adelante, o incluso para allí**: **Windhoek (D0 y
->   D13)**, **Walvis Bay ×2**, **Hoada** y —si se adopta la variante del
->   [`24`](24-ruta-alternativa.md)— **la noche nueva de Damaraland**. Ninguno está dentro de un
->   parque y todos caen en temporada baja. **Conviene llamar el día antes** para no conducir sin
->   red, pero **no hace falta bloquearlos hoy**.
-> - 🏕️ **Spreetshoogte queda en medio**: no está dentro de un parque, pero es **pequeño** y ya
->   tiene tarifa y canal, así que **cerrarlo cuesta un email** *(§5)*.
+>   plaza. **Es la única llamada que queda con fecha dura.**
+> - 🟡 **Y el resto se puede dejar para más adelante, o incluso para allí**: **Walvis Bay ×2**,
+>   **Hoada**, **Windhoek del D13** y **la noche nueva de Twyfelfontein (D7)**. Ninguno está dentro
+>   de un parque y todos caen en temporada baja. **Conviene llamar el día antes** para no conducir
+>   sin red, pero **no hace falta bloquearlos hoy**.
+> - 🛟 **Y la de Twyfelfontein conviene dejarla suelta a propósito**: al quedarse Spreetshoogte en
+>   una noche, **el viaje se quedó sin colchón de calendario**. La única noche sin reservar y sin
+>   penalización es la del D7 — **es la que se sacrifica si el vuelo se retrasa** *(`24`)*.
 
 *Esto es práctica documentada, no garantía: si una noche concreta es irrenunciable, resérvala.*
 
@@ -144,7 +150,7 @@ fuentes, y coinciden entre sí ◐:
   atardecer»** ✅ *(hoja de condiciones firmada en la entrega — de su lista de zonas a riesgo
   propio, el resto —Khaudum, Kaokoveld, Sandwich Harbour, el Kunene al este de Epupa— no toca esta
   ruta y no hace falta ni mirarlo)*. La Opción 4 cubre UNA zona nombrada; la salida a Deadvlei sale
-  a las ~05:10, antes del amanecer *(`01` §D4)*: **pedir por escrito, al firmar en la entrega, que
+  a las ~05:10, antes del amanecer *(`01` §D3)*: **pedir por escrito, al firmar en la entrega, que
   la franja horaria de sunrise/sunset sea esa zona nombrada.**
 - **Lo que ningún nivel de seguro cubre nunca, ni con Opción 4** ✅: daños de embrague *(N$15.000
   ~€750 de fianza inmediata para un coche de sustitución, N$25.000 ~€1.250 fuera de Namibia)*,
@@ -210,30 +216,43 @@ fuentes, y coinciden entre sí ◐:
 
 ---
 
-## 4 · 🛏️ Las noches de NWR — y las cuatro de Etosha, ya RESERVADAS
+## 4 · 🛏️ Las noches de NWR — y las cuatro de Etosha, ya cerradas
 
 Todas con **tarifa oficial 2026/2027 verificada** ✅
 *([el tarifario, PDF](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf) — leído columna a columna, `03`)*:
 
-- **Sesriem Campsite — mar 3 y mié 4 nov (D3–D4), DENTRO de la puerta** — **N$1.340 (~€67)/noche
-  los dos** ✅. **44 parcelas y son la hora de ventaja de Deadvlei: es LA reserva urgente.**
-- **Terrace Bay — sáb 7 nov (D7)** — **habitación doble en media pensión, N$3.480 (~€174) los
+- **Sesriem Campsite — lun 2 y mar 3 nov (D2–D3), DENTRO de la puerta** — **N$1.340 (~€67)/noche
+  los dos** ✅ — **RESERVADAS**. **44 parcelas y son la hora de ventaja de Deadvlei.** ⚠️ **Ojo a
+  las fechas: bajaron un día el 24/08** *(eran el 3 y el 4)*, al quedarse Spreetshoogte en una sola
+  noche.
+- 🔴 **Terrace Bay — vie 6 nov (D6)** — **habitación doble en media pensión, N$3.480 (~€174) los
   dos** ✅ *(no hay camping: la fila «Campsite» de su web no existe en el tarifario — error suyo)*.
+  **ES LA ÚNICA QUE QUEDA POR RESERVAR con fecha dura.**
   ⚠️ **Sin esta reserva confirmada no se cruza Ugabmund a pernoctar** —última entrada **15:00**— y
   el permiso de tránsito obliga a salir del parque el mismo día: **llevadla impresa** *(`11`)*.
-- **Okaukuejo — lun 9 (D9)** · **Halali — mar 10 (D10)** · **Namutoni — mié 11 (D11)** — camping
-  **N$920 (~€46)/noche los dos** ✅ — **las tres RESERVADAS el 21/08**. *La segunda noche de
-  Namutoni ya no existe: se cambió por Onguma, abajo.*
+  ⚠️ **También bajó un día** *(era el 7)*.
+- **Okaukuejo — lun 9 (D9)** · **Halali — mar 10 (D10)** — camping
+  **N$920 (~€46)/noche los dos** ✅ — **las dos RESERVADAS el 21/08**, y **sus fechas no se
+  movieron**.
+- ❌ **Namutoni — ANULADO (24/08).** Era la noche del D11 y **se cambió por una segunda noche en
+  Onguma**. *(Lo que costó no es el alojamiento —N$320 · ~€16 más— sino que **las dos actividades
+  de NWR que se compran durmiendo allí dejan de ser comprables**: el nocturno y la guiada de mañana
+  de Namutoni, N$2.800 · ~€140 la pareja. Abajo, en «En la misma gestión, pregunta».)*
 
-> ### 🔁 Y la cuarta noche de Etosha se sale del parque — Onguma Tamboti, jue 12 (D12) ✅
+> ### 🔁 Y las DOS últimas noches de Etosha se salen del parque — Onguma Tamboti, mié 11 y jue 12 (D11–D12) ✅
 > **[Onguma Tamboti](https://onguma.com/)**, el camping de la reserva privada que linda con la
-> puerta de Von Lindequist, **3,4 km pasada la puerta** — **RESERVADO el 21/08**.
+> puerta de Von Lindequist, **3,4 km pasada la puerta** — **RESERVADO, dos noches**.
 >
-> - **Precio de rack, oficial 2027** ✅ *(vigente del 01/11/26 al 31/10/27, justo vuestra noche)*:
+> - **Precio de rack, oficial 2027** ✅ *(vigente del 01/11/26 al 31/10/27, justo vuestras noches)*:
 >   **N$540 (~€27) netos por adulto + N$80 (~€4) de tasa de conservación = N$620 (~€31) por
->   persona → N$1.240 (~€62) los dos**, IVA y Social Development Levy incluidos.
->   ❌ **El importe exacto de la reserva, por confirmar**: el dato que llegó *(€132)* era el de dos
->   noches, antes de que la primera volviera a Namutoni.
+>   persona → N$1.240 (~€62) los dos y por noche → N$2.480 (~€124) las dos**, IVA y Social
+>   Development Levy incluidos.
+>   ❌ **El importe exacto de la reserva, por confirmar.**
+> - 🔴 **Y LA PREGUNTA QUE MÁS FALTA DE TODO EL CUADERNO: sus condiciones de cancelación** ❌.
+>   De ellas depende poder **cambiar la segunda noche por el [Cheetah Conservation
+>   Fund](https://cheetah.org/)** si el guepardo no ha salido en Etosha — **una decisión que se toma
+>   sobre el terreno, pero solo si esto está preguntado antes de salir de casa**
+>   *([`24`](24-ruta-alternativa.md))*. Es un email: mándalo ya.
 > - **Lo que hay que hacer con esta reserva, y nadie lo va a recordar por vosotros**: su tarifa
 >   dice expresamente que **las comidas y las actividades se pre-reservan** ✅ — o al reservar, o
 >   en recepción al llegar. Si queréis el **Sundowner Drive (3 h, N$980 · ~€49 pp)**, pedidlo ya.
@@ -253,19 +272,19 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   de ahí que circulen otras cifras)*. **Reservar el viernes por la tarde y despistarse el fin de
 >   semana es perder la reserva.**
 > - **Pago íntegro, a más tardar 30 días antes de la llegada** ✅. Para **Sesriem, que se llega el
->   3 de noviembre, eso es hacia el 4 de octubre**; para **Terrace Bay (7 nov), hacia el 8 de
+>   2 de noviembre, eso es hacia el 3 de octubre**; para **Terrace Bay (6 nov), hacia el 7 de
 >   octubre**. Lo no pagado **se cancela**.
 > - **Escala de cancelación** ✅: **más de 30 días, sin penalización** *(pero el depósito se pierde
 >   igual)* · **29–15 días, 30 %** · **14–7 días, 75 %** · **6–0 días y no-show, 100 %**.
-> - 👉 **Lo que esto significa hoy**: el dinero que se arriesga al reservar es **el 20 % de
->   N$1.340×2 + N$3.480 = ~N$1.232 (~€62)**, y **a partir del 4 de octubre se arriesga el 100 %**.
->   Reserva sabiendo eso, y **apunta en el calendario el día del pago íntegro**.
-> - ⏳ **Y esta es también la fecha límite de la variante del [`24`](24-ruta-alternativa.md)**, que
->   hasta ahora no estaba escrita en ninguna parte: esa variante **mueve Sesriem al 2–3 nov y
->   Terrace Bay al 6**, así que **estas dos llamadas la cierran**. Reservar con las fechas oficiales
->   y cambiar después cuesta **~N$1.232 (~€62)** de depósito perdido, y desde el **3 de octubre**
->   *(pago íntegro de Sesriem con las fechas de la variante)*, mucho más. **Decide antes de marcar,
->   y marca antes del 3 de octubre.**
+> - 👉 **Lo que esto significa hoy**: **Sesriem ya está reservado**, así que su 20 % ya está
+>   comprometido y **su pago íntegro vence hacia el 3 de octubre** — apúntalo en el calendario. Lo
+>   que queda por arriesgar es el **20 % de Terrace Bay: ~N$696 (~€35)**, y **a partir del 7 de
+>   octubre se arriesga el 100 %**.
+> - ✅ **Y la vieja fecha límite de la variante del `24` ya no existe.** Cuando ese documento
+>   proponía otra ruta entera, decidirlo tarde costaba dinero porque movía las fechas de Sesriem y
+>   Terrace Bay. **Desde el 24/08 esas fechas ya son las definitivas** y lo que queda del `24` —el
+>   cambio de la segunda noche de Onguma por el CCF— **no toca ninguna reserva de NWR**. Depende
+>   solo de las condiciones de Onguma, arriba.
 > - ⚠️ **Y el canal**: **su sistema de reservas online está caído** ◐ *(nwr.com.na avisa de que
 >   está «currently unavailable» y remite a reservations@nwr.com.na; el portal
 >   `nwr.cimsoweb.com` se queda en «Initializing…»)*. **Es email o teléfono, no pierdas la tarde
@@ -282,10 +301,15 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
 
 **En la misma gestión, pregunta** *(son las preguntas 7 del README y los flecos de `18` y `01`)*:
 
-- Si las **3 salidas guiadas de mañana y el nocturno se pueden dejar cerrados desde España** — su
-  tarifa avisa de que en temporada de lluvias no aceptan pre-reserva de actividades; si no, van en
-  recepción *(§8)*. ⚠️ **Y el nocturno se pide para el D11, no para el D12**: la noche del 12 ya se
-  duerme en Onguma, fuera del parque *(cambio del 21/08)*.
+- Si las **2 salidas guiadas de mañana que quedan** *(Okaukuejo el D10 y Halali el D11)* **se
+  pueden dejar cerradas desde España** — su tarifa avisa de que en temporada de lluvias no aceptan
+  pre-reserva de actividades; si no, van en recepción *(§8)*.
+- 🔴 **Y la pregunta nueva del 24/08, que vale N$2.800 (~€140): ¿venden el nocturno guiado y la
+  guiada de mañana a quien NO duerme en el campamento?** ❌ Al anular Namutoni, **las dos últimas
+  noches se duermen fuera del parque** y las dos actividades dejan de comprarse por la vía normal.
+  Si la respuesta es que sí, vuelven al plan; si es que no, **lo que las sustituye lo vende Onguma**
+  —Sundowner Drive con foco, N$980 (~€49) pp, y game drive guiado dentro de Etosha, N$1.930 (~€97)
+  pp— *(`01` §D12)*.
 - Los **horarios de desayuno/restaurante** de los campamentos ❌ *(importa para salir al alba)*.
   *(La pregunta del enchufe por parcela quedó cerrada el 11/08 ◐ — `18` §5: hay toma en los
   cuatro NWR de la ruta; en Sesriem, pedir al llegar una parcela con la toma que funcione ○.)*
@@ -293,9 +317,9 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
 
 ---
 
-## 5 · 🏕️ El resto de campings — cuatro llamadas, tres sin contacto
+## 5 · 🏕️ El resto de campings — lo que queda suelto
 
-- **Spreetshoogte ×2 — dom 1 y lun 2 nov (D1–D2)** — era el hueco doble de la lista maestra
+- **Spreetshoogte — dom 1 nov (D1), UNA noche · RESERVADO ✅** — era el hueco doble de la lista maestra
   *(`15`)*; **el contacto apareció en la búsqueda del 09/08** ◐: 📧 **spreetshoogte@iway.na** ·
   📞 **+264 62 572 010** *([directorio de Visit
   Namibia](https://visitnamibia.com.na/directory/spreetshoogte_campsite/))* · ficha con formulario
@@ -324,13 +348,13 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
     [barkhan.africa/rates.php](https://www.barkhan.africa/rates.php) y, con él, **su PDF de camping
     del año que de verdad aplica** *([«2026 RACK CAMPING»](https://www.barkhan.africa/2026%20RACK%20CAMPING.pdf),
     vigente **01 dic 2025 – 30 nov 2026**)*: **parcela estándar N$290 (~€14,50) por persona y
-    noche** → **N$1.160 (~€58) las dos noches los dos**; la **VIP, con baño propio en la parcela,
-    N$680 (~€34) pp** → **N$2.720 (~€136)**. Niño de 2 a 10 años, N$70 (~€3,50). Incluye **wifi
+    noche** → **N$580 (~€29) la noche los dos**; la **VIP, con baño propio en la parcela,
+    N$680 (~€34) pp** → **N$1.360 (~€68)**. Niño de 2 a 10 años, N$70 (~€3,50). Incluye **wifi
     gratis**, **máximo 4 adultos por parcela**, y va **«stand only»**. *(El **Farmhouse Campsite**,
     el de la boma del antiguo dique, es la opción barata: **N$225 · ~€11 pp**.)*
   - ⚠️ **La trampa del calendario, y por poco**: **el año tarifario de Barkhan va de DICIEMBRE a
     NOVIEMBRE**, no de noviembre a octubre como el de NWR. El PDF que se titula **«2027» empieza
-    el 01/12/2026** — **dos semanas después de vuestras noches**, así que **no es el vuestro**:
+    el 01/12/2026** — **dos semanas después de vuestra noche**, así que **no es el vuestro**:
     sus **N$300 (~€15)** estándar no aplican. *(De paso quedan refutadas las cifras de blog que
     arrastraba este cuaderno —150–300 ZAR/persona y ~**N$120–150 · ~€6–7,50**—: la buena es
     **N$290 · ~€14,50**.)*
@@ -346,16 +370,18 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
     confirmada con el **50 %**. Cancelación: **30–22 días 20 % · 21–15 días 50 % · 14–8 días
     75 % · 7–0 días y no-show, 100 %**. Allí no consta tienda, restaurante ni datáfono ❌: se paga
     en efectivo *(`01` §D1)*.
-- **Windhoek — sáb 31 oct (D0) y vie 13 nov (D13)** — candidatos con camping verificado *(`01`
-  §D0)*: **Urban Camp** *(Schanzen Road; piscina, bar, wifi, cajero)* — 📧 booking@urbancamp.net ·
+- **Windhoek — sáb 31 oct (D0), RESERVADO ✅ en el Urban Camp · y vie 13 nov (D13), por cerrar**
+  *(`01` §D0)*: **Urban Camp** *(Schanzen Road; piscina, bar, wifi, cajero)* — 📧 booking@urbancamp.net ·
   WhatsApp **+264 81 162 0761** · reserva por
   [NightsBridge](https://www.nightsbridge.co.za/bridge/book?bbid=17894) ◐; su web dice que la
   tarifa **«varía por temporada» y no publica número** ✅
   *([urbancamp.net](https://www.urbancamp.net/contents/en-us/d15_RATES.html))* — la pista del
-  agregador, ~N$660–700 (~€33–35) la noche los dos ○. Y **Arebbusch** — 📞 +264 81 950 5000 ·
+  agregador, ~N$660–700 (~€33–35) la noche los dos ○. **La del D0 ya está reservada ahí; falta
+  pedirles el importe por escrito** ❌ y **cerrar la del D13**, que lo natural es repetir en el
+  mismo sitio. Alternativa: **Arebbusch** — 📞 +264 81 950 5000 ·
   [arebbusch.com](https://www.arebbusch.com/windhoek-accommodation/rates-and-availability/) ◐. Al
   llegar el D13, pregunta el **check-out del D14 y si se puede volver por la tarde** ❌.
-- **Walvis Bay ×2 — jue 5 y vie 6 nov (D5–D6)** — **Lagoon Chalets**, el único camping que aparece
+- **Walvis Bay ×2 — mié 4 y jue 5 nov (D4–D5)** — ⚠️ *fechas bajadas un día el 24/08* — **Lagoon Chalets**, el único camping que aparece
   listado en la ciudad y el que usó el blog de referencia ◐ — 📞 **+264 64 217 900** /
   +264 81 128 7151 · 8th Road West, Meersig ·
   [lagoonchaletswb.com](https://lagoonchaletswb.com/contact/) ◐. Precio: un portal publica
@@ -363,6 +389,18 @@ Okaukuejo, +264 67 229 800** *(`01` §D10)*. **Sesriem pide llevar reserva de ef
   *([lekkeslaap](https://www.lekkeslaap.co.za/accommodation/lagoon-chalets/rates))* — coherente
   con el fragmento de N$600 · ~€30 ○ que ya había; para la ventana del viaje sigue **sin tarifa
   confirmada** ❌. *Plan B: Swakopmund, a 30 km, tiene más oferta de camping ○.*
+- 🆕 **Twyfelfontein — sáb 7 nov (D7), la noche NUEVA** — nace de dejar Spreetshoogte en una noche
+  *(`24`)*. **Sin tarifa ❌ y los candidatos identificados son lodges, no campings**: **Twyfelfontein
+  Country Lodge** *(un agregador da «desde ~$223 pp DBB» para may–oct 2026 ◐, sin cifra de
+  noviembre — `15`)* y la zona de **Palmwag**, 50 km al norte, que además es base de rastreos.
+  - 🛟 **Es la única noche del viaje que conviene NO reservar**: fuera de parque, temporada hombro,
+    y **es el colchón que quedó** cuando la escarpa perdió su segunda noche — la que se sacrifica
+    sin penalización si el vuelo se retrasa. **Pide precios igualmente**, para que el presupuesto no
+    mienta *(`02` §3)*.
+  - 🦏 **Y en la misma llamada, lo que la noche desbloquea**: el **rastreo de rinoceronte negro de
+    Grootberg o Palmwag**, que con el itinerario de agosto no cabía. **Precio ❌ en los dos** —
+    📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104**. Es el mejor argumento del cambio y
+    sigue sin tarifa por escrito.
 - **Hoada Campsite — dom 8 nov (D8)** — campamento **comunitario** *(la caja se queda en la
   conservancy ◐ — `19`)*, el que el blog llama el más bonito de su viaje. **N$271–366/persona según
   temporada → N$542–732 (~€27–37) los dos** ◐ *(la temporada de noviembre sin fijar — `02` §3)*.
@@ -411,9 +449,10 @@ Viator, cruzadas entre operadores — confírmalas por email antes de reservar.*
   (~€130–161)/persona**: [Desert Compass](https://www.sandwichharbour-namibia.com) *(N$2.600;
   +N$300 · ~€15 recogida en Swakopmund)* · [Red Dune Safaris](https://www.reddunesafarisnamibia.com/sandwich-harbour-4x4)
   *(N$3.220 · ~€161)*.
-- ⚠️ **La marea manda**: el 6-nov la bajamar es a las **07:18** — **la salida de ~08:30 es la que
-  baja por la playa**; la de ~12:30 cae casi en pleamar ◐
-  *([tidetime.org](https://www.tidetime.org/africa/namibia/walvis-bay-calendar-nov.htm), `01` §D6)*.
+- ⚠️ **La marea manda, y el día bajó al 5-nov**: esa fecha la bajamar es a las **06:37** —41 min
+  antes que en la fecha anterior— así que **la salida de ~08:30 sigue siendo la que baja por la
+  playa**; la de ~12:30 cae casi en pleamar *(que es a las 12:42)* ◐
+  *([tidetime.org](https://www.tidetime.org/africa/namibia/walvis-bay-calendar-nov.htm), `01` §D5)*.
   El operador planifica con su propia tabla: **confírmalo al reservar**.
 - **Crucero de delfines y lobos** *(~3 h, y jun–nov es temporada de ballena jorobada ◐)* — sigue
   abierto, sin decidir, como alternativa o complemento del mismo día — **N$1.400–1.990
@@ -446,14 +485,19 @@ día se reabre.
 
 Para no gastar llamadas en lo que se cierra allí:
 
-- **Los safaris guiados de Etosha** *(3 mañanas + nocturno = N$5.400 · ~€270 la pareja ✅)*: **en
-  recepción al llegar a cada campamento** — la de Okaukuejo, nada más cruzar Andersson el D9; el
-  nocturno, **desde Namutoni la noche del D11** *(adelantado del D12 el 21/08)*. Horarios ❌ no publicados. *(La pregunta de si se puede cerrar desde
-  España va en la gestión NWR — §4.)*
+- **Los safaris guiados de Etosha** *(2 mañanas = N$2.600 · ~€130 la pareja ✅)*: **en
+  recepción al llegar a cada campamento** — la de Okaukuejo, nada más cruzar Andersson el D9, y la
+  de Halali el D10. Horarios ❌ no publicados. ⚠️ **El nocturno y la guiada de Namutoni salieron de
+  aquí el 24/08**: se compran durmiendo dentro, y las dos últimas noches ya se duermen en Onguma
+  *(la pregunta de si los venden igual va en la gestión NWR — §4)*.
+- **Las actividades de Onguma** *(Sundowner Drive N$980 · ~€49 pp ✅; paseo a pie N$980 · ~€49 pp ✅;
+  game drive dentro de Etosha N$1.930 · ~€97 pp ✅)*: **al reservar o en recepción al llegar** — son
+  lo que sustituye al nocturno de NWR *(§4)*.
 - **La lanzadera de Deadvlei** *(N$180 · ~€9/persona ✅)*: en Sesriem.
 - **Las tasas de parque** *(~N$620 · ~€31 al día, pareja + coche ◐)*: en cada puerta, por cada 24 h.
-- **Cape Cross** *(~N$350 · ~€18 los dos ◐)*: **en efectivo** en recepción — y vuestro día, el 7
-  nov, **abre a las 10:00**, no a las 08:00 *(`01` §D7)*.
+- **Cape Cross** *(~N$350 · ~€18 los dos ◐)*: **en efectivo** en recepción — y vuestro día, el 6
+  nov, **abre a las 10:00**, no a las 08:00 *(la raya está en el 16 de noviembre, así que adelantar
+  el día no cambia nada — `01` §D6)*.
 - **Twyfelfontein** *(N$270 · ~€13,5/persona ◐)*: visita guiada obligatoria, **solo efectivo**, se
   paga allí *(`11`)*.
 - **El permiso de tránsito de Skeleton Coast**: **gratis, en la propia puerta** ◐ — lo que sí exige
@@ -476,24 +520,30 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] **Comprobar en la póliza** que lleva **evacuación aérea dentro del país** y **búsqueda y
   salvamento** *(en el Estrella es OPCIONAL: no entra sola)*; si no están, pedirlas *(§3)*
 - [x] **Billete emitido** — 10/08, €1.536 pp, con maleta, billete único *(§2)*
-- [ ] **Sesriem ×2** *(3–4 nov, dentro de la puerta)* *(§4)*
-- [ ] **Terrace Bay** *(7 nov — confirmación impresa)* *(§4)*
-- [x] **Las 4 noches de Etosha — RESERVADAS el 21/08** *(§4)*: Okaukuejo *(9–10)* · Halali
-      *(10–11)* · Namutoni *(11–12)* · **Onguma Tamboti** *(12–13, ya fuera de la puerta)*
-- [ ] **Confirmar el importe de la reserva de Onguma** *(el rack da N$1.240 · ~€62)* *(§4)*
+- [x] **Sesriem ×2 — RESERVADO** *(2–3 nov, dentro de la puerta)* *(§4)*
+- [ ] 🔴 **Terrace Bay** *(6 nov — confirmación impresa)* — **la única que queda con fecha dura** *(§4)*
+- [x] **Las 4 noches de Etosha — RESERVADAS** *(§4)*: Okaukuejo *(9–10)* · Halali
+      *(10–11)* · **Onguma Tamboti ×2** *(11–13, ya fuera de la puerta)*. **Namutoni, anulado**
+- [ ] 🔴 **Pedir a Onguma sus CONDICIONES DE CANCELACIÓN** ❌ — de ellas depende poder cambiar la
+      segunda noche por el CCF sobre el terreno *(§4 y `24`)*
+- [ ] **Confirmar el importe de la reserva de Onguma** *(el rack da N$1.240 · ~€62 por noche)* *(§4)*
 - [ ] **Pre-reservar en Onguma la cena y, si se quiere, el Sundowner Drive** — y preguntar si hay
       night drive *(§4)*
-- [ ] **Spreetshoogte ×2** *(1–2 nov)* — **sin reservar**, y ya **no falta nada para poder
-      hacerlo**: está **abierto ◐**, se sabe cuál de los tres homónimos es *(lo opera Barkhan Dune
-      Retreat en la D1275)* y desde el **24/08 la tarifa está cerrada ✅ — N$290 pp/noche, N$1.160
-      (~€58) las dos noches los dos**. Se reserva en **bookings@barkhan.africa** *(§5)*
-- [ ] **Windhoek D0 y D13** *(Urban Camp o Arebbusch)* *(§5)*
-- [ ] **Walvis Bay ×2** *(Lagoon Chalets)* *(§5)*
+- [ ] **Preguntar a NWR si venden el nocturno y la guiada de mañana a quien NO duerme dentro** ❌ —
+      son N$2.800 (~€140) que hoy están fuera del presupuesto *(§4)*
+- [ ] **Preguntar al CCF si tiene sitio el 12 de noviembre y cuánto cuesta** ❌ *(`24`)*
+- [x] **Spreetshoogte — RESERVADO** *(1 nov, UNA noche)*: lo opera **Barkhan Dune Retreat** en la
+      D1275 y la tarifa está cerrada ✅ — **N$290 pp/noche → N$580 (~€29) los dos** *(§5)*
+- [x] **Windhoek D0 — RESERVADO** *(Urban Camp)* — falta pedirles el importe por escrito ❌ *(§5)*
+- [ ] **Windhoek D13** *(repetir Urban Camp)* *(§5)*
+- [ ] **Walvis Bay ×2** *(4–5 nov, Lagoon Chalets)* *(§5)*
+- [ ] **Twyfelfontein** *(7 nov)* — **a propósito sin reservar: es el colchón del calendario**; pide
+      precio igualmente, y de paso el **rastreo de Grootberg/Palmwag** ❌ *(§5)*
 - [ ] **Hoada** *(8 nov)* *(§5)*
 - [ ] **e-visa** *(tras el billete — solo `eservices.mhaiss.gov.na`)* *(§6)*
 - [ ] **Permiso internacional de conducir** *(DGT)* *(§6)*
 - [ ] **Aparcamiento de larga estancia en Oporto** *(30 oct – 15 nov, en coche propio — §6)*
-- [ ] *(Opcional)* **el día de mar del D6** — con la marea confirmada *(§7)*
+- [ ] *(Opcional)* **el día de mar del D5** — con la marea confirmada *(§7)*
 
 ---
 

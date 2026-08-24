@@ -7,7 +7,7 @@
 > coche—: aquí solo está **la lista**, para imprimirla y tacharla la víspera.
 >
 > **Las cantidades son para DOS personas y 15 días**, salvo donde ponga «por persona». Salen de
-> **una colada** en el día de descanso de Walvis Bay *(D5–D6)*: por eso la ropa interior se
+> **una colada** en el día de descanso de Walvis Bay *(D4–D5)*: por eso la ropa interior se
 > calcula para siete días y no para quince ○. *(Y no hace falta hacerla a mano: hay deja-y-recoge
 > en Swakopmund y tres lavanderías con dirección en Walvis Bay ◐ — el detalle, en [`05`](05-equipaje.md).)*
 >
@@ -131,9 +131,9 @@ el viaje sigue; si se pierde la cabina, no.
       la costa *(13–15 °C, 88 % de humedad y viento: sensación ~10–11 ◐)*; ninguna fuente lo exige
       en noviembre. La térmica hace de pijama en la costa. **Ambos ya en posesión**: gorro fino ○
       y camiseta térmica **Under Armour** ○ — no hace falta comprar nada
-- [ ] **Bañador ×1** — hay piscina en Okaukuejo, Halali y Namutoni ✅ *(en Onguma Tamboti, la del
-      D12, la piscina es de Onguma Bush Camp y sirve a la otra parcela, Leadwood — no a la
-      vuestra ◐)*
+- [ ] **Bañador ×1** — hay piscina en **Okaukuejo y Halali**, las dos noches de dentro ✅ *(en
+      **Onguma Tamboti**, donde se duermen el D11 y el D12, la piscina es de Onguma Bush Camp y
+      sirve a la otra parcela, Leadwood — no a la vuestra ◐)*
 - [ ] **Ropa de dormir ligera ×1**
 - [ ] **Sombrero de ala ×1** — de ala **≥7,5 cm** ✅ *([skincancer.org](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/))*, no gorra: las orejas y
       la nuca se queman igual. Y **con barbuquejo** ◐ — el viento de la costa está en su máximo
@@ -230,8 +230,8 @@ ya hace el apaño.
 
 - [ ] **Profilaxis de malaria** ✅ — la pauta **completa** más 3–4 días de margen. Ojo a la
       geografía: el riesgo se define **por regiones, y Kunene incluye Terrace Bay** — la entrada
-      en zona es el **D7 (sáb 7)**, no el D8. Si es Malarone, empieza en viaje *(~5–6 nov)*; si es
-      mefloquina, **~17–24 de octubre**. Y a la cita del CVI, con el dato: para la guía oficial
+      en zona es el **D6 (vie 6)** *(un día antes desde el 24/08)*. Si es Malarone, empieza en
+      viaje *(~4–5 nov)*; si es mefloquina, **~16–23 de octubre**. Y a la cita del CVI, con el dato: para la guía oficial
       británica, en estas regiones **de mayo a noviembre basta evitar picaduras, sin
       quimioprofilaxis** ✅ *([TravelHealthPro](https://travelhealthpro.org.uk/country/157/namibia))* — que lo decida el CVI con eso delante *(`04`)*
 - [ ] **Medicación propia** — la del viaje **+5 días**, en el **envase original** y con la receta ○
@@ -250,8 +250,8 @@ ya hace el apaño.
       **[cápsulas de sal ×100 de Decathlon](https://www.decathlon.es/es/p/capsulas-de-sal-x100/188711/g78m8409161)**
 - [ ] **Antihistamínico** — 1 caja ○
 - [ ] **Protector gástrico** — 1 caja ○
-- [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.764 km, y el paso de Spreetshoogte y la
-      grava del D8 se notan)*
+- [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.798 km, y el paso de Spreetshoogte y la
+      grava de los D7–D8 se notan)*
 - [ ] **Laxante suave o fibra** ○ — dieta de camping y poca verdura
 - [ ] **Antitusivo o descongestionante — 1 caja** ○ *(kit CDC: el polvo de pista y el aire seco)*
 - [ ] **Pastillas potabilizadoras ×1 tubo** ○ *(kit CDC: el respaldo de la regla del agua en los
@@ -369,7 +369,7 @@ ya hace el apaño.
       bolsa estanca)*. Modelo: **[Funda estanca IPX8](https://www.decathlon.es/es/p/funda-estanca-telefono-movil-ipx8/346905/m8802142)**
       ✅ 9,99 €/ud — antipolvo y anti-agua a la vez, hasta 90×180 mm
 - [ ] **Soporte de móvil para el salpicadero ×1** ◐ — Tracks4Africa es el navegador del viaje y
-      son 2.764 km: el móvil va sujeto, no en el regazo — y que agarre de verdad, que el
+      son 2.798 km: el móvil va sujeto, no en el regazo — y que agarre de verdad, que el
       corrugado vibra *([FullSuitcase](https://fullsuitcase.com/namibia-packing-list/) lo pide
       así: «must attach securely for rough gravel roads»)*
 - [ ] **Frontal ×1 por persona, con modo rojo** ○ — letrina a las 3 AM, montar la tienda al

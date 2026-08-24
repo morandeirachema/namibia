@@ -6,6 +6,7 @@
 #   make avistam    recuentos de GBIF y porcentajes por campamento a fuente/geo/
 #   make charcas    reescribe aparte/charcas-de-los-campamentos-de-etosha.md
 #   make mapas      exporta los mapas a img/mapas/ (SVG y PNG; el de la ruta va en el README)
+#   make mymaps     reescribe los CSV y el KML de aparte/ para Google My Maps
 #   make dossier    solo dossier-namibia-2026.pdf
 #   make fauna      solo guia-fauna-etosha.pdf
 #   make lamina     mapa-ruta-namibia-2026.pdf, la lamina A2 para imprimir
@@ -25,11 +26,11 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam mapas charcas dossier fauna lamina gps limpia comprueba
+.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina gps limpia comprueba
 
 all: dossier fauna lamina gps
 
-todo: imagenes geo avistam mapas dossier fauna lamina gps
+todo: imagenes geo avistam mapas mymaps dossier fauna lamina gps
 
 imagenes:
 	$(PY) descargar.py
@@ -60,6 +61,11 @@ lamina: | $(GEO)/ruta.json
 # El GPX y el KML, para el GPS y el movil. Misma geometria que el mapa y la lamina.
 gps: | $(GEO)/ruta.json
 	$(PY) gps.py
+
+# Las paradas y el trazado que se importan en Google My Maps, en aparte/. Misma
+# geometria otra vez: se derivan, no se escriben.
+mymaps: | $(GEO)/ruta.json
+	$(PY) mapas_google.py
 
 $(IMG)/creditos.json:
 	$(PY) descargar.py

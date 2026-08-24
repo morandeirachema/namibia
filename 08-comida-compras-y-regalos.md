@@ -61,14 +61,16 @@ en la bottle store, **que el domingo 1 no se puede**.
 La regla de la lista: **solo cosas que un súper grande namibio tiene seguro** — todo son básicos de
 las cadenas de arriba ◐ *(las mismas guías citadas, y los precios se pueden comprobar desde casa en
 [shop.pnp.na](https://shop.pnp.na/) ✅)*. Nada de fiar el menú a encontrar un producto concreto.
-Cubre **del D0 a la mañana del D5** *(en Swakopmund, el viernes 6, se repone TODO — §abajo)*.
-⚠️ **Desde el 08/08 las DOS primeras noches ya son de campamento remoto** *(Spreetshoogte D1–D2,
-sin tienda ni restaurante que consten ❌)*: **sin reposición hasta Solitaire/Sesriem, el D3**:
+Cubre **del D0 a la mañana del D4** *(en Walvis Bay y Swakopmund, el D5 —el día de descanso—, se
+repone TODO; §abajo)*.
+⚠️ **La primera noche es de campamento remoto** *(Spreetshoogte, D1, sin tienda ni restaurante que
+consten ❌)*: **sin reposición hasta Solitaire/Sesriem, el D2**:
 
-- [ ] **Agua: garrafas de 5 L — mínimo 5–6 garrafas** *(4 L/persona/día del coche, `06`, más el
-      día entero a pie del D2 y la cocina de dos noches sin grifo confirmado)*
-- [ ] **Leña de braai PARA DOS NOCHES** *(kameeldoring o sekelbos)* **+ pastillas de encendido +
-      cerillas largas** — en la escarpa no hay dónde reponer ❌
+- [ ] **Agua: garrafas de 5 L — mínimo 3–4 garrafas** *(4 L/persona/día del coche, `06`, más la
+      cocina de una noche sin grifo confirmado)* — *desde el 24/08 la escarpa es UNA noche, no dos*
+- [ ] **Leña de braai PARA UNA NOCHE** *(kameeldoring o sekelbos)* **+ pastillas de encendido +
+      cerillas largas** — en la escarpa no hay dónde reponer ❌ *(allí se vende: N$55 · ~€2,75 el
+      fardo de 10 kg — `20` §5)*
 - [ ] **Hielo** — lo último que entra en el carro, y directo a la nevera
 - [ ] **Carne del braai de los primeros días + boerewors** *(al vacío mejor: aguanta)*
 - [ ] **Huevos, pan de molde, mantequilla, queso en lonchas**
@@ -88,27 +90,27 @@ norte *(se recompra en Swakopmund y en Outjo — ver `07`)*, nada **congelado en
 del coche no es un arcón: ver [`18`](18-manual-de-campamento.md) §5)* y el **repelente**, que ya
 viene de casa *(`17`)*.
 
-### Sesriem (D3–D4)
+### Sesriem (D2–D3)
 - **Sossus Oasis Service Station** ✅ (a 300 m de la puerta): diésel 50 ppm, taller de neumáticos,
   y tienda con **hielo, leña, básicos, panadería diaria y cerveza fría** —
   [sossus-oasis.com](https://www.sossus-oasis.com/servicestation.html). El salvavidas del desierto.
 
-### Solitaire (D3 y D5, de paso)
+### Solitaire (D2 y D4, de paso)
 - Gasolinera + **panadería-restaurante** (la tarta) + general dealer ✅ —
   [solitairenamibia.com](https://www.solitairenamibia.com/). La única gasolinera entre Sossusvlei
   y la costa.
 
-### Walvis Bay (D5–D6)
+### Walvis Bay (D4–D5)
 - **Pick n Pay en Dunes Mall** y **SuperSpar** ○ bien surtidos.
 
-### Swakopmund (D6) — ⚠️ LA ÚLTIMA COMPRA GRANDE del viaje norte
+### Swakopmund (D5 o D6) — ⚠️ LA ÚLTIMA COMPRA GRANDE del viaje norte
 Después de aquí: Henties (incierto) → Terrace Bay (kiosco) → Damaraland (puestos) → Outjo (súper
 de pueblo). **El viernes 6 se compra TODO lo de los 3 días siguientes: comida, leña, hielo y
 bebida** *(viernes = alcohol disponible; el domingo 8 no habrá)*.
 - SuperSpar (Garnison Rd), Ocean View Spar, Pick n Pay, **Woermann Brock con productos alemanes**,
   Checkers en Platz am Meer ○ ([foro](https://www.4x4community.co.za/forum/showthread.php/375861-Supermarket-in-Swakopmund)).
 
-### Henties Bay (D7) — ⚠️ estado incierto
+### Henties Bay (D6) — ⚠️ estado incierto
 - Era el último avituallamiento antes del Skeleton Coast ◐ — pero **la propia web de SPAR lista la
   tienda de Henties Bay «cerrada hasta nuevo aviso»** tras un incendio ✅/◐
   ([SPAR](https://www.spar.co.za/Home/Store-View/SPAR-Henties-Bay-Namibia) ·
@@ -117,13 +119,13 @@ bebida** *(viernes = alcohol disponible; el domingo 8 no habrá)*.
   👉 **Reverifica antes del viaje y no cuentes con Henties para nada crítico: gasolina sí, súper
   quizá.**
 
-### Terrace Bay (D7)
+### Terrace Bay (D6)
 - El resort NWR tiene **restaurante, bar, kiosco con básicos y surtidor** ✅/◐
   ([nwr.com.na](https://www.nwr.com.na/resorts/terrace-bay-resort/) ·
   [namibweb](https://www.namibweb.com/terracebayresort.htm)) — pero **el surtidor tiene fama de no
   ser fiable ○: se llena en Henties igualmente** (coherente con `07`).
 
-### Khorixas (solo si el D8 se desvía al Petrified Forest)
+### Khorixas (solo si el D7 o el D8 se desvían al Petrified Forest)
 - **OK Foods**: fresco, carnicería, panadería · **L–D 07:30–19:00** ◐
   ([Tracks4Africa](https://tracks4africa.co.za/listings/item/w208198/ok-foods-khorixas/)) + dos
   gasolineras.
@@ -135,15 +137,17 @@ bebida** *(viernes = alcohol disponible; el domingo 8 no habrá)*.
   subas se come EN Etosha.
 
 ### Etosha (D9–D12)
-- **D9–D11, dentro** — Okaukuejo, Halali y Namutoni: **restaurante, kiosco y tienda pequeña con
+- **D9–D10, dentro** — Okaukuejo y Halali: **restaurante, kiosco y tienda pequeña con
   básicos y bebidas frías** ◐; la gasolinera «el 95 % del tiempo tiene, pero ha llegado a agotarse»
   ([nwrnamibia](https://www.nwrnamibia.com/etosha-food-eating-fuel.htm)). Los foros insisten: esas
   tiendas **no dan para avituallarse** ○. Leña en los camps: **sin dato**.
-- **D12, ya fuera: Onguma Tamboti** ✅ *(donde se duerme desde el cambio del 21/08)* — **kiosco**
-  con lo básico, **hielo, leña y braai packs**, y **restaurante à la carte: la cena se reserva AL
-  LLEGAR, en recepción** *(tarifa oficial 2027)*. Desayuno suelto N$320 (~€16). **La compra del
-  braai de esa noche se hace igualmente en la tienda de Namutoni antes de salir** ○: el kiosco es
-  kiosco.
+- **D11 y D12, ya fuera: Onguma Tamboti** ✅ *(las DOS últimas noches, desde el cambio del 24/08)* —
+  **kiosco** con lo básico, **hielo, leña y braai packs** *(un lote de leña gratis el día de
+  llegada)*, y **restaurante à la carte: la cena se reserva AL LLEGAR, en recepción** *(tarifa
+  oficial 2027)*. Desayuno suelto N$320 (~€16). ⚠️ **Y ahora son dos noches de braai, no una**: la
+  compra se hace **en la tienda de Halali antes de salir el D11** ○, porque el kiosco de Onguma es
+  kiosco. *(Namutoni queda de paso ese mismo día y también tiene tienda, pero se cruza a media
+  tarde con la puerta en el reloj: mejor no fiarlo.)*
 
 ### Otjiwarongo (D13)
 - Spar «enorme», OK y Multisave ○ — para el picoteo del último día, poco más hace falta.
@@ -204,7 +208,7 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
   Trading Post** a 6,5 km de Andersson — «suministro estable», diésel 50 ppm, take-away caliente y
   taller ✅ ([etosha-tradingpost.com](https://www.etosha-tradingpost.com/facilities.html)).
 - **Tsumeb / Otjiwarongo / Okahandja (D13)** ✅ — Puma 24 h y Shell en la B1; ciudades con de todo.
-- **Uis** *(solo si el D8 se desvía)* ✅/○ — Engen con tienda; ojo: se ha visto cerrada en festivo.
+- **Uis** *(solo si el D7 o el D8 se desvían)* ✅/○ — Engen con tienda; ojo: se ha visto cerrada en festivo.
 
 ---
 
@@ -225,7 +229,7 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
   ([xwama.com](http://www.xwama.com/)) o **Hafeni** en Swakopmund ✅ (Mondesa, a diario
   10:00–22:00, [hafenitoursnam.com](https://www.hafenitoursnam.com/hafeni-traditional-restaurant.html)).
 - **Gusanos de mopane (omagungu)** ◐ — salteados con tomate y chili; muy proteicos, sabor a
-  pollo/pescado seco. Los sirven Hafeni y se ven en mercados. Para valientes del D6.
+  pollo/pescado seco. Los sirven Hafeni y se ven en mercados. Para valientes del D5.
 - **Potjiekos** ◐ — el guiso de olla de tres patas a fuego lento; podéis hacerlo vosotros en el
   camping ([Gondwana](https://gondwana.travel/blog/namibian-cuisine-sampling-local-delicacies-and-traditional-dishes)).
 - **Biltong y droëwors** — **Closwa** (desde 1976) ✅: tienda en Windhoek y factory shop en
@@ -237,18 +241,18 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
 ### Los sitios, día a día
 - **D0/D13 · Windhoek** — Joe's Beerhouse (ya en el plan) · Xwama · kapana en Katutura ·
   Leo's at the Castle.
-- **D3/D5 · Solitaire** — la **apple pie de Moose McGregor** ✅ (la historia, en `10`).
-- **D5–D6 · Walvis Bay** — **OSTRAS de la laguna** ◐, «de las mejores del hemisferio sur»:
+- **D2/D4 · Solitaire** — la **apple pie de Moose McGregor** ✅ (la historia, en `10`).
+- **D4–D5 · Walvis Bay** — **OSTRAS de la laguna** ◐, «de las mejores del hemisferio sur»:
   **The Raft** (~**N$100–140 (~€5–7) la docena** ○) o **Anchors @ the Jetty** ◐; también cruceros
   con ostras y espumoso ○.
-- **D6 · Swakopmund** — **Café Anton** ◐ (repostería alemana: Selva Negra, Bienenstich,
+- **D5/D6 · Swakopmund** — **Café Anton** ◐ (repostería alemana: Selva Negra, Bienenstich,
   apfelstrudel) · **The Tug** y **Jetty 1905** ◐ (kabeljou, kingklip) · **Kücki's Pub** ✅ ·
   **Brauhaus** ○ · y la microcervecería **Swakopmund Brewing Co.** en el Brewer & Butcher ◐. Las
   ostras del **Ocean Cellar** con precio de carta oficial ✅: **N$140/250/450 (~€7/12,5/22,5)**
   según ración ([carta PDF](https://wa-uploads.profitroom.com/olleisurehotels/17431427879074_Ocean%20Cellar%20Menu_website.pdf)).
-- **D7 · Terrace Bay** — la cena es **el buffet del resort frente al Atlántico o tu braai** ◐: no
+- **D6 · Terrace Bay** — la cena es **el buffet del resort frente al Atlántico o tu braai** ◐: no
   hay más, y esa es la gracia.
-- **D9–D12 · Etosha** — restaurantes de los tres campamentos, abiertos a todos ◐; horarios
+- **D9–D12 · Etosha** — restaurantes de Okaukuejo y Halali, abiertos a todos ◐; horarios
   concretos: sin dato — **pídelos al reservar** (`01`).
 
 ---

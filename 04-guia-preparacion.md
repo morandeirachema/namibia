@@ -25,7 +25,7 @@ Otjozondjupa: **está dentro**.
 
 ```mermaid
 flowchart LR
-    N["Etapa NORTE<br/>Etosha D9-D12 · Damaraland D8<br/>+ Terrace Bay D7 (region Kunene)"] --> R["Zona de riesgo<br/>de malaria"]
+    N["Etapa NORTE<br/>Etosha D9-D12 · Damaraland D7-D8<br/>+ Terrace Bay D6 (region Kunene)"] --> R["Zona de riesgo<br/>de malaria"]
     S["Desierto y costa<br/>Sossusvlei · Walvis Bay"] --> NR["Sin riesgo"]
     W["Windhoek"] --> NR
     R --> T["Tu ventana 31 oct - 14 nov va ANTES<br/>del arranque tipico de lluvias:<br/>riesgo en su minimo estacional"]
@@ -49,10 +49,11 @@ consulta del CVI decide, con ese dato encima de la mesa.
 **La profilaxis marca la cuenta atrás**, porque cada fármaco tiene su plazo — y con Etosha al final
 del viaje (**D9–D12, del 9 al 12 de noviembre**), las fechas reales son:
 - **Atovacuona/proguanil (Malarone)** — empieza **1–2 días antes** de entrar en zona de riesgo,
-  y la zona empieza en el **D7, el cruce de Ugabmund hacia Terrace Bay (sáb 7 — región de
-  Kunene)**: **~5–6 de noviembre**, ya de viaje — hay que llevarla comprada
-- **Mefloquina** — empieza **2–3 semanas antes** → **~17–24 de octubre**, receta necesaria en la
+  y la zona empieza en el **D6, el cruce de Ugabmund hacia Terrace Bay (vie 6 — región de
+  Kunene)**: **~4–5 de noviembre**, ya de viaje — hay que llevarla comprada
+- **Mefloquina** — empieza **2–3 semanas antes** → **~16–23 de octubre**, receta necesaria en la
   cita del CVI de septiembre
+  ⚠️ *Las dos fechas bajaron un día el 24/08, al adelantarse Terrace Bay del 7 al 6 de noviembre.*
 
 👉 **Saca la receta en la cita del CVI, no la semana antes.**
 Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
@@ -264,7 +265,7 @@ ninguna pregunta.
   7 — la corrección de arriba)*
 - **Cólera — la pregunta nueva del 14/08** ◐: el CDC dice que «may be considered» para quien
   viaja a **Kunene**, y el MAEC confirma **brote de cólera en Kunene en junio de 2025** — la ruta
-  entra en Kunene el D7 (Terrace Bay). Que lo pese el CVI con ese dato delante
+  entra en Kunene el D6 (Terrace Bay). Que lo pese el CVI con ese dato delante
 - **Gripe y COVID al día** ◐ (CDC; la AEV lista la gripe como situacional)
 
 *(De la misma ficha del MAEC, como contexto y sin efecto en el botiquín: un caso de **mpox**

@@ -30,10 +30,12 @@ sobra un día.** Así que cualquier joya de este documento se paga de una de est
   el límite del contrato, con la regla de **estar en el campamento a las 18:00** *(`06`)*. Un
   desvío de +150 km son casi **dos horas** que salen del final de la tarde, que es justo cuando la
   fauna se echa a los arcenes.
-- **Quitando una noche a otro sitio** — y solo hay **una** que no está reservada ni es
-  imprescindible: el **D2**, el día entero en la escarpa de Spreetshoogte. Pero ese día es
-  **el colchón del viaje**: es lo que se sacrifica si el vuelo o las maletas se retrasan, **sin
-  tocar ni una reserva** *(`01` §D2)*. Gastarlo en un desvío es quedarse sin red.
+- **Quitando una noche a otro sitio** — y desde el **24/08 esto ya no está disponible**: la noche
+  suelta que había *(la segunda de la escarpa de Spreetshoogte)* **ya se gastó**, y se gastó bien —
+  se fue a **Damaraland**, a partir en dos el día más largo de grava del viaje y **desbloquear el
+  rastreo de rinoceronte de Grootberg** *(`24`, `11`)*. Lo que queda como colchón es **la noche del
+  D7 en Twyfelfontein**, que a propósito no se reserva: es lo que se sacrifica si el vuelo se
+  retrasa, sin perder un céntimo.
 - **Cambiando un tramo por otro** — que es el único caso en que un desvío puede salir **gratis o a
   favor**, y abajo hay uno que lo hace.
 
@@ -75,7 +77,9 @@ No hace falta desviarse para tener una opción real: el dossier ya lleva las cif
 de los partes de Expert Africa, campamento a campamento ✅ *(el método, en `09`)*:
 
 - **Namutoni — 50 %** *(7 partes de 14)*. **Es la mejor cifra de guepardo del parque**, y tiene
-  explicación: son **sus llanuras abiertas**. La noche del **D11 se duerme justo ahí**.
+  explicación: son **sus llanuras abiertas**. ⚠️ **Desde el 24/08 ya no se duerme allí** —la noche
+  se cambió por una segunda en Onguma—, pero **el D11 y el D12 se pasan en esas mismas llanuras**:
+  el D11 cruzándolas hasta la puerta y el D12 volviendo a entrar por ellas.
 - **Okaukuejo — 18 %** *(21 de 116)* · **Halali — 10 %** *(4 de 39)* — el peor de los tres.
 - Media del parque: **19 %**. Y GBIF da **132 registros** en el polígono, **28 en oct–nov** ✅.
 
@@ -83,10 +87,13 @@ de los partes de Expert Africa, campamento a campamento ✅ *(el método, en `09
 > del `09` es honesta y no promete nada. Pero la dirección es clara: **el guepardo de este viaje se
 > juega sobre todo en el D11**, y el sitio concreto es el eje **Salvadora–Sueda–Charitsaub**, que
 > es llanura abierta *(`09`)*. **Si el guepardo es la prioridad, la salida guiada que hay que
-> comprar sí o sí es la de la mañana de Namutoni.**
+> comprar sí o sí es la de la mañana... y ésa es justo la que se ha caído.** ⚠️ **Al no dormir en
+> Namutoni, su guiada de mañana ya no se puede comprar** *(se venden a quien pernocta — `02` §9)*.
+> Lo que queda para esas llanuras es **vuestro propio coche el D11 y el D12**, y el **game drive
+> guiado dentro de Etosha que vende Onguma** *(4 h, N$1.930 · ~€97 pp ✅)*.
 
-**Y el D12, Onguma**, ya reservado, tiene **guepardo confirmado por escrito en su propia web** ✅ —
-es **la única de la zona con leopardo Y guepardo confirmados** *(`21`)*.
+**Y el D11 y el D12, Onguma**, ya reservados, tienen **guepardo confirmado por escrito en su propia
+web** ✅ — es **la única de la zona con leopardo Y guepardo confirmados** *(`21`)*.
 
 ### 2 · El que me dejé fuera: el Cheetah Conservation Fund (CCF) — y cae en la ruta
 
@@ -177,38 +184,41 @@ primera mitad no tiene nada reservado y la segunda sí**: Etosha está cerrada c
 ```mermaid
 flowchart LR
 %% ancho
-    A["QUITAR EL D2<br/>el dia entero en Spreetshoogte"] --> A2["el hueco cae ANTES de Etosha<br/>-> compra Otjitotongwe o una<br/>noche mas de Damaraland<br/>NO compra el Cheetah Run"]
-    B["QUITAR LA 4a NOCHE DE ETOSHA<br/>Onguma, el D12"] --> B2["se duerme en el CCF<br/>-> Cheetah Run de las 08:00<br/>(Okonjima ya NO tiene guepardo)<br/>y el D13 deja de ser 539 km"]
-    style A fill:#e9c46a,color:#000
+    A["YA GASTADO 24-08<br/>el dia entero en Spreetshoogte"] --> A2["se fue a DAMARALAND<br/>-> noche en Twyfelfontein el D7<br/>y manana libre el D8<br/>desbloquea el rastreo de rinoceronte"]
+    B["QUITAR LA 2a NOCHE DE ONGUMA<br/>el D12 · SIGUE DISPONIBLE"] --> B2["se duerme en el CCF<br/>-> Cheetah Run de las 08:00<br/>(Okonjima ya NO tiene guepardo)<br/>y el D13 deja de ser 539 km"]
+    style A fill:#7D776E,color:#fff
     style B fill:#2d6a4f,color:#fff
-    style A2 fill:#7D776E,color:#fff
+    style A2 fill:#2d6a4f,color:#fff
     style B2 fill:#2d6a4f,color:#fff
 ```
 
-### Donante A · quitar el D2, el día entero en la escarpa
+### Donante A · el día de la escarpa — **YA GASTADO, y en algo de este documento**
 
-- **Qué se gana**: un día suelto **en la primera mitad**. Como Spreetshoogte y Sesriem **no están
-  reservados**, todo D3–D8 se corre un día y el hueco aparece **justo antes del bloque de Etosha**,
-  que no se puede adelantar porque está reservado desde el 9.
-- **Dónde cae, entonces**: en **Damaraland / Kamanjab**, que es donde está **Otjitotongwe**. Sirve
-  para hacer ese día sin prisa —o para meter una noche más en Damaraland y coger el **rastreo de
-  rinoceronte de Grootberg**, que hoy no cabe *(`11`)*—. **No sirve para el CCF ni para Okonjima**,
-  que están a 700 km de allí y al otro extremo del viaje.
-- **Qué cuesta**: **el colchón**. El D2 es lo que se sacrifica si el vuelo o las maletas se
-  retrasan, **sin tocar ni una reserva** *(`01` §D2)*. Gastarlo de antemano es viajar sin red — y
-  el vuelo lleva escala en Fráncfort.
+- **Qué pasó (24/08)**: Spreetshoogte se quedó en **una sola noche** y el día liberado se fue a
+  **Damaraland**. No fue a Otjitotongwe: fue a **partir en dos el día de ~370 km de grava**, con
+  **noche propia en Twyfelfontein el D7** y **la mañana del D8 libre entera** *(`24`)*.
+- **Y eso compra justo lo que este documento daba por imposible**: el **rastreo de rinoceronte
+  negro de Grootberg o Palmwag**, que pedía el día entero y no cabía *(`11`)*. Ahora cabe. ❌ *Su
+  precio sigue sin publicarse: pídelo — res4@journeysnamibia.com.*
+- **Qué costó**: **el colchón**. Ya no hay ningún día que sacrificar si el vuelo se retrasa; la red
+  que queda es **no reservar la noche del D7**, que es la única sin penalización.
 
-### Donante B · quitar la cuarta noche de Etosha (Onguma, D12) — **el que sí compra el guepardo**
+### Donante B · quitar la SEGUNDA noche de Onguma (D12) — **el que sí compra el guepardo, y sigue vivo**
 
-- **Cómo queda**: el **12 de noviembre**, en vez de dormir en Onguma, se conduce desde Namutoni
-  hasta **CCF (280 km, ~3 h 30)** o hasta **Okonjima (312 km, ~3 h 55)** y se duerme allí. El
-  **13 por la mañana** entra lo que hoy es imposible: el **Cheetah Run de las 08:00** o el
-  **rastreo a pie de las 06:00**. Y después, a Windhoek: **294 km desde CCF** o **226 km desde
-  Okonjima** — es decir, **el D13 deja de ser el monstruo de 539 km y se queda en media jornada**.
-- **Qué cuesta, y no es poco**: Onguma es **reserva privada de 35.970 ha con leopardo, guepardo y
+- **Cómo queda**: el **12 de noviembre**, en vez de la segunda noche de Onguma, se conduce hasta el
+  **CCF (331 km desde Onguma, mínimo ~3 h 26)** y se duerme allí. El
+  **13 por la mañana** entra lo que hoy es imposible: el **Cheetah Run de las 08:00**. Y después, a
+  Windhoek: **294 km** — es decir, **el D13 deja de ser el monstruo de 539 km y se queda en media
+  jornada**. *(Okonjima ya no es opción de guepardo — §3.)*
+- ✅ **Y desde el 24/08 esto es mejor que un desvío: es una decisión con dos noches de margen.** Se
+  duerme en Onguma el D11 **y** el D12, así que **la segunda se decide con el guepardo ya buscado**:
+  si salió, se queda; si no, se cancela y se baja. El plan entero, en [`24`](24-ruta-alternativa.md).
+- **Qué cuesta**: Onguma es **reserva privada de 35.970 ha con leopardo, guepardo y
   rinoceronte confirmados por escrito**, con **baño propio en la parcela**, **salida al atardecer
-  con foco y campo a través** y **paseo a pie**, las dos cosas que el parque prohíbe *(`21`)*. Y
-  **es una noche RESERVADA desde el 21/08**: cancelarla tiene coste.
+  con foco y campo a través** y **paseo a pie**, las dos cosas que el parque prohíbe *(`21`)*. Se
+  pierde además **el D12 de safari en Fischer's Pan**. Y **es una noche RESERVADA**: ❌ **sus
+  condiciones de cancelación siguen sin pedirse**, y son lo único que falta para poder decidirlo
+  allí.
 - **El intercambio, dicho sin adornos**: se cambia un **guepardo salvaje improbable pero real**
   *(Onguma, reserva privada)* por un **guepardo casi seguro que no es salvaje** *(CCF)* o por uno
   **casi seguro pero cautivo** *(CCF)*. **Okonjima ya no es opción de guepardo** *(§3)*: lo suyo
@@ -219,19 +229,21 @@ flowchart LR
 Los datos medidos dicen que **Halali es el más flojo de los tres para guepardo: 10 %**, la mitad
 que Okaukuejo y la quinta parte que Namutoni. Tentador. **Pero está en mitad del bloque**: quitar
 el 10 de noviembre deja un hueco que no se puede gastar en ningún sitio, porque el 11 hay que
-estar de vuelta en Namutoni. Y Halali tiene **la charca de Moringa** y **el koppie, el único punto
+estar en Onguma. Y Halali tiene **la charca de Moringa** y **el koppie, el único punto
 del parque donde se puede andar fuera del coche** *(`21`)*. **Descartado salvo que se rehaga el
 bloque entero.**
 
-> ### 👉 La recomendación, con lo que hay sobre la mesa
-> **Si el guepardo es prioridad muy alta y no se quiere tocar ninguna reserva**: el plan ya es
-> bastante bueno —el D11 en Namutoni es la mejor casilla del parque (50 %), Onguma el D12 lo tiene
-> confirmado por escrito, y en el D13 **el CCF entra con solo +89 km y la alimentación de las
-> 14:00 cabe sin forzar nada**. Eso son **tres oportunidades** sin mover una noche.
-> **Si se quiere el Cheetah Run de las 08:00**, hay que **cambiar la noche de Onguma por una en
-> el CCF** — y entonces el D13 además se vuelve cómodo. *(Okonjima sigue mereciendo la noche, pero
+> ### 👉 La recomendación, actualizada al 24/08
+> **El plan ya no obliga a elegir de antemano, y eso es lo mejor que le ha pasado.** Con **dos
+> noches en Onguma**, el guepardo tiene **tres oportunidades sin mover nada**: las llanuras del
+> este el **D11**, la reserva privada —que lo tiene confirmado por escrito— y el **D12 entero** de
+> Fischer's Pan y Chudop.
+> **Y si a la tarde del D11 no ha salido, la segunda noche se cambia por el CCF** y entra el
+> **Cheetah Run de las 08:00**, con el D13 además cómodo. *(Okonjima sigue mereciendo la noche, pero
 > por leopardo, rinoceronte a pie y pangolín: **guepardo ya no tiene** — §3.)*
-> **Lo que no compra guepardo es quitar el D2**: ese día cae en la mitad equivocada del viaje.
+> ❗ **Lo único que hay que hacer ANTES de salir de casa** es pedir a Onguma **sus condiciones de
+> cancelación** y al CCF **si tiene sitio el 12**: sin esas dos respuestas, la decisión no se puede
+> tomar allí *(`24`, `20` §4)*.
 >
 > 👉 **Ese cambio está desarrollado y medido en [`24`](24-ruta-alternativa.md)**, con el D12 y el
 > D13 recalculados y con lo mejor y lo peor de cada opción. Titular: **no quita ni una noche de

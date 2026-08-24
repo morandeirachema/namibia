@@ -23,26 +23,35 @@
 flowchart LR
 %% ancho
     O["OKAUKUEJO · D9<br/>37 parcelas · el grande<br/>la torre y LA charca<br/>famosa del parque"] --> H["HALALI · D10<br/>58 parcelas · el tranquilo<br/>charca Moringa en anfiteatro<br/>rino negro y leopardo"]
-    H --> N["NAMUTONI · D11<br/>25 parcelas · el fuerte<br/>charca King Nehale y<br/>el nocturno guiado"]
-    N --> G["ONGUMA TAMBOTI · D12<br/>25 parcelas · BANO PROPIO<br/>3,4 km pasada Von Lindequist<br/>reserva privada de 35.970 ha"]
+    H --> N["NAMUTONI · D11, DE PASO<br/>el fuerte, el museo y la torre<br/>YA NO SE DUERME AQUI<br/>anulado el 24/08"]
+    N --> G["ONGUMA TAMBOTI · D11 y D12<br/>25 parcelas · BANO PROPIO<br/>3,4 km pasada Von Lindequist<br/>reserva privada de 35.970 ha"]
     style O fill:#2d6a4f,color:#fff
-    style N fill:#2d6a4f,color:#fff
+    style N fill:#9d0208,color:#fff
     style G fill:#7a3a22,color:#fff
 ```
 
-**Tres dentro y una fuera** — y la que sale es **la segunda noche de Namutoni**, o sea **la charca
-iluminada más floja de las tres**: justo la que menos duele. Lo que eso mueve:
+**Dos dentro y dos fuera** *(cambio del 24/08)* — **Namutoni se anuló** y su noche se fue a una
+**segunda de Onguma**. Lo que eso mueve, y no todo es a favor:
 
-- **No se pierde ninguna charca iluminada**: Okaukuejo el D9, Moringa el D10 y King Nehale el D11
-  siguen a un paseo de la parcela.
-- **El nocturno guiado se adelanta al D11**, que es cuando se duerme en Namutoni — mismo sitio,
-  mismo argumento, un día antes, y con la luna al ~5 % en vez del ~9 %.
-- **Aparece una hora de puerta el D12**: hay que estar fuera de Von Lindequist antes de las
-  **19:10** ✅ *(tabla oficial del parque, 10–16 nov)*.
+- **Se pierde una charca iluminada de las tres, y es la floja**: Okaukuejo el D9 y Moringa el D10
+  siguen a un paseo de la parcela; **King Nehale ya no**. *(El campamento se visita igual el D11 —el
+  fuerte, el museo, la torre del atardecer— pero de paso.)*
+- ⚠️ **Y se pierden las dos actividades de NWR que dependían de dormir dentro**: el **nocturno
+  guiado** *(N$750 · ~€38 pp)* y la **guiada de mañana de Namutoni** *(N$650 · ~€33 pp)*. Se venden
+  a quien pernocta. **Lo que las sustituye lo vende Onguma** —Sundowner Drive con foco y campo a
+  través, N$980 (~€49) pp— y **cuesta más** *(`01` §D12, `02` §9)*.
+  ❌ *Si NWR las vende a quien no duerme allí, sin verificar: preguntado en el `20` §4.*
+- **Aparece una hora de puerta el D11 Y el D12**: hay que estar fuera de Von Lindequist antes de
+  las **19:10** ✅ *(tabla oficial del parque, 10–16 nov)*, dos días seguidos — y el D12 hay que
+  volver a entrar por la mañana. Son **+30 km** entre los dos días *(`13` §5)*.
 - **Y se gana media hora el D13**: durmiendo fuera no hay que esperar a que la puerta abra.
+- 🐆 **La segunda noche de Onguma tiene salida**: si el guepardo no ha aparecido, se cancela y se
+  baja al **Cheetah Conservation Fund** *(la decisión del D12, entera en
+  [`24`](24-ruta-alternativa.md))*.
 
-**Lo común a los tres** ✅ *(fichas de NWR: [Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
-[Halali](https://www.nwr.com.na/resorts/halali-resort/) · [Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/))*:
+**Lo común a los campamentos de NWR** ✅ *(fichas de NWR: [Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
+[Halali](https://www.nwr.com.na/resorts/halali-resort/) · [Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/))* —
+*de los tres, ahora solo se duerme en los dos primeros*:
 gasolinera, tienda, restaurante, bar, piscina y **charca iluminada de noche a un paseo de la
 parcela**. Parcela de camping con braai y toma de 220 V ◐ *(el cierre camp a camp, en el
 [`18`](18-manual-de-campamento.md) §5)*, máximo 8 personas, y bloque de aseos compartido. La
@@ -134,7 +143,7 @@ la siesta del D10 está resuelta. Cobertura móvil irregular ○; wifi ❌.
 
 ---
 
-## Namutoni — D11, dormir junto a un fuerte (y el nocturno)
+## Namutoni — D11, de paso: el fuerte, el museo y la torre *(ya no se duerme)*
 
 El campamento con más carácter: se acampa **junto a un fuerte alemán encalado**. El primer
 fuerte es de 1899 —puesto de control veterinario y militar—, fue **arrasado el 28 de enero de
@@ -146,13 +155,18 @@ sus cuatro torres, es **Monumento Nacional desde 1947** y abrió como rest camp 
 la web de NWR dice «built 1897» — la discrepancia queda anotada)*. Dentro hay un pequeño museo ✅
 *(NWR)*, y **el atardecer se mira desde la torre** ◐ — la historia de la batalla, contada con su
 contexto, está en el [`19`](19-cultura-de-namibia.md). Es el campamento más cercano a su puerta:
-~8 km de Von Lindequist ◐ *(una sola fuente leída — por eso el ◐)*, la que cruzáis el D12 para ir
-a dormir a Onguma.
+~8 km de Von Lindequist ◐ *(una sola fuente leída — por eso el ◐)*, la que cruzáis **el D11 por la
+tarde** para ir a dormir a Onguma, y otra vez **el D12** en los dos sentidos.
 
-> 🌙 **Y aquí se hace el nocturno guiado, la noche del D11** *(N$750 · ~€38 pp ✅; adelantado del
-> D12 el 21/08, porque esa noche ya se duerme fuera)*. El argumento no cambia: **se gasta en la
-> noche en que menos se pierde**, y la charca de Namutoni es la más floja de las tres. Reservadlo
-> en recepción **al llegar**, junto con la guiada de mañana del D12.
+> ⚠️ **Aquí se dormía hasta el 24/08, y ya no.** La parcela se cambió por una **segunda noche en
+> Onguma**, así que este campamento pasa a ser **parada de tarde del D11**: el fuerte, el museo, la
+> torre del atardecer y **Chudop a un paso**, que es lo que de verdad compensa aquí. **Contad el
+> reloj hacia atrás desde las 19:10**, que es cuando cierra Von Lindequist.
+>
+> 🌙 **Y lo que se fue con la parcela es el nocturno guiado** *(N$750 · ~€38 pp)*: se compra
+> durmiendo en el campamento. Era la única forma legal de circular por Etosha a oscuras. **Lo que
+> queda es el Sundowner Drive de Onguma** —foco y campo a través, fuera del parque— *(`01` §D12)*.
+> ❌ *Que NWR lo venda a quien no pernocta, sin verificar: está preguntado en el `20` §4.*
 
 ### La charca King Nehale
 
@@ -178,12 +192,13 @@ descrito como seco en varias reseñas ○ — se llega con eso sabido y no estro
 ### Los servicios
 
 Gasolinera, tienda, restaurante, bar y piscina ✅ *(NWR)*. El restaurante es el más criticado de
-los tres ○ *(elección corta, comida fría en reseñas recientes)* — la cena del D11 es mejor plan
-al braai, con la compra hecha en la tienda o traída de Halali ○.
+los tres ○ *(elección corta, comida fría en reseñas recientes)* — pero **ya no hay cena aquí**: el
+D11 se sigue camino de Onguma. Lo que sí conviene es **hacer la compra del braai en la tienda de
+Halali antes de salir** ○, porque el kiosco de Onguma es kiosco *(`08`)*.
 
 ---
 
-## Onguma Tamboti — D12, fuera de la puerta y en reserva privada
+## Onguma Tamboti — D11 y D12, fuera de la puerta y en reserva privada
 
 **3,4 km pasada la puerta de Von Lindequist** ✅ *(enrutado propio sobre OSM)*, dentro de la
 **Onguma Nature Reserve: 35.970 ha** ✅ pegadas al este de Etosha. No es un campamento de parque:
@@ -204,7 +219,7 @@ propia tarifa avisa de que **la cena se reserva al llegar a recepción** ✅.
 usa las instalaciones de Onguma Bush Camp —bar techado, piscina, salón y comedor sobre una charca
 grande— ✅. No es la reservada; se anota por si hubiera que cambiar.*
 
-### Lo que compra dormir aquí la última noche
+### Lo que compran las DOS últimas noches aquí
 
 De su propia tarifa, literal: *«Four of the Big Five (lion, leopard, rhino and elephant) roam
 free»* ✅; el guepardo lo añade su web ✅. **Es la única de la zona con leopardo Y guepardo
@@ -220,16 +235,21 @@ camping:
   reserva con antelación)* — un hide a pie de charca
 - **Paseo interpretativo · 1½ h · N$980 (~€49) pp** *(mínimo 16 años)* — **a pie**
 - **Game drive guiado dentro de Etosha · 4 h · N$1.930 (~€97) pp** — caro frente a los N$650 de
-  NWR, pero no hace falta: la guiada del D12 se compra en Namutoni la víspera
+  NWR, pero desde el 24/08 **es lo que hay**: al no dormir en Namutoni, la guiada de mañana de NWR
+  ya no se puede comprar. Es el sustituto directo, y cuesta **casi el triple**
 - Young Explorers Walk N$460 (~€23) · game drive privado N$10.680 (~€534)/vehículo · desayuno
   suelto N$320 (~€16)
 
 > ⚖️ **El choque de horarios, dicho antes de que pase**: el sundowner sale al atardecer, así que
 > **hacerlo obliga a salir del parque hacia las 17:00** y renunciar a la mejor hora de charcas del
 > último día. Son **dos planes buenos y excluyentes**: decidid al reservar.
+> ✅ **Pero con dos noches hay margen que antes no había**: el sundowner cabe **el D11**, que se
+> llega desde Halali con la tarde ya gastada en el traslado, y así **el D12 queda entero para las
+> charcas del este**. Es la ventaja discreta de la segunda noche.
 
-> ⚠️ **El hueco honesto: «night drive» NO figura en el tarifario oficial 2027** ❌. El que sale de
-> noche es el **sundowner**. Dos agregadores independientes sí citan night drives en Onguma ◐
+> ⚠️ **El hueco honesto, y ahora pesa más: «night drive» NO figura en el tarifario oficial 2027**
+> ❌ — y **el nocturno de NWR ya no está disponible**, así que esto es lo único que queda para ver
+> fauna a oscuras. El que sale de noche es el **sundowner**. Dos agregadores independientes sí citan night drives en Onguma ◐
 > *([safaribookings](https://www.safaribookings.com/onguma) ·
 > [discoverafrica](https://www.discoverafrica.com/safaris/namibia/onguma-private-game-reserve/))*,
 > pero **sin precio ni horario**. Se pregunta al reservar.
@@ -237,13 +257,15 @@ camping:
 ### El precio
 
 **Rack oficial 2027, vigente del 1 de noviembre de 2026 al 31 de octubre de 2027** ✅ —el año
-fiscal de Onguma va de noviembre a octubre, igual que el de NWR, así que vuestra noche cae justo al
-principio de la ventana—: **N$540 (~€27) netos por adulto** + **tasa de conservación N$80 (~€4)
+fiscal de Onguma va de noviembre a octubre, igual que el de NWR, así que vuestras noches caen justo
+al principio de la ventana—: **N$540 (~€27) netos por adulto** + **tasa de conservación N$80 (~€4)
 por persona y noche** = **N$620 (~€31) por persona**, IVA y Social Development Levy incluidos →
-**N$1.240 (~€62) los dos**. Son **N$320 (~€16) más que la parcela de Namutoni** que sustituye.
+**N$1.240 (~€62) los dos y por noche → N$2.480 (~€124) las dos noches**. Son **N$320 (~€16) más
+por noche que la parcela de Namutoni** que sustituye.
 
-❌ **El importe exacto de la reserva, por confirmar**: el dato recibido *(€132)* era el de dos
-noches, antes de que la primera volviera a Namutoni.
+❌ **El importe exacto de la reserva, por confirmar** — y sobre todo **sus condiciones de
+cancelación**, que son las que deciden si la segunda noche se puede cambiar por el Cheetah
+Conservation Fund sobre el terreno *([`24`](24-ruta-alternativa.md), `20` §4)*.
 
 ---
 
@@ -263,8 +285,10 @@ sale de esto, y que el [`07`](07-logistica.md) ya aplica en general:
   ser un bonus, no el plan
 - **No fiar los 539 km del D13 a los surtidores del parque** ○: si en Halali o Namutoni hay
   diésel, se rellena al pasar; si no, el D13 arranca con lo que haya y reposta en **Tsumeb, a
-  105 km de Onguma** ✅ *(enrutado propio)*. **Y ojo al D12**: se sale del parque por la tarde, así
-  que el último surtidor de dentro es el de Namutoni — Onguma **no tiene** ❌
+  105 km de Onguma** ✅ *(enrutado propio)*. ⚠️ **Y desde el 24/08 hay que mirarlo dos veces**: se
+  sale del parque **la tarde del D11** y se vuelve a entrar y salir **el D12**, así que **las dos
+  últimas noches se pasan fuera, donde no hay surtidor** — **Onguma no tiene** ❌. El último de
+  dentro es el de Namutoni, al pasar el D11.
 
 ---
 

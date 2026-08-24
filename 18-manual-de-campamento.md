@@ -136,7 +136,8 @@ propia batería sin recarga, sin confirmar ❌.
   Okaukuejo, Halali, Namutoni y Sesriem** *([okaukuejo](https://www.nwrnamibia.com/okaukuejo-camping.htm) · [halali](https://etoshanationalpark.com.na/accommodation/inside-the-park/halali-campsite/) · [namutoni](https://www.nwrnamibia.com/namutoni-camping.htm) ·
   [sesriem](https://www.sossusvlei.org/accommodation/sesriem-camp-site/) — en Sesriem, con avisos
   de viajeros de tomas averiadas ○: pedir parcela con toma que funcione)* **y en Onguma Tamboti**,
-  la del D12, que además lleva **ducha y wc propios en la parcela** ✅ *(rack oficial 2027)*; en
+  donde se duermen el **D11 y el D12** y que además lleva **ducha y wc propios en la parcela** ✅
+  *(rack oficial 2027)*; en
   Hoada y los campamentos comunitarios, da por hecho que no ○.
 - **Lo que la mata** ○: abrirla como si fuera la de casa, el sol directo sobre ella y meter la
   compra caliente. Las latas entran frías de la primera nevera de súper o no entran.
@@ -167,8 +168,8 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 - **Tejón mielero, el especialista de Halali** ○ — abre neveras, cajas y cubos **en segundos**, y
   lo avisan varios campistas *([senseearth](https://senseearth.co.uk/blog/the-honey-badger-and-my-steak/) ·
   [roxannereid](https://www.roxannereid.co.za/blog/man-vs-ratel-at-etosha-national-park-namibia))*:
-  la noche del D11, comida al coche **siempre** — no «un momento en la mesa» *(la ficha del
-  campamento, en el [`21`](21-campamentos-de-etosha.md))*.
+  la noche del D10, que es la de Halali, comida al coche **siempre** — no «un momento en la mesa»
+  *(la ficha del campamento, en el [`21`](21-campamentos-de-etosha.md))*.
 - **Babuino chacma** en miradores y áreas de descanso ○: ventanillas arriba si te alejas del
   coche con comida dentro a la vista. *(Es el «mono» de esta ruta — ficha en la guía; el vervet
   ni aparece: sin un solo registro en la consulta GBIF del 08/08, archivada en `15`.)*
