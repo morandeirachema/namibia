@@ -65,7 +65,7 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
-*Recalculada el 21/08/2026: el vuelo sale de Oporto el **30 de octubre** — **quedan 70 días**.
+*Recalculada el 24/08/2026: el vuelo sale de Oporto el **30 de octubre** — **quedan 67 días**.
 Los hitos de julio ya vencieron y siguen pendientes: van los primeros.*
 
 ```mermaid
