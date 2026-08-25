@@ -152,7 +152,7 @@ REGLAS = [
      "<b>En el campamento a las 18:00</b>. La franja 16:00–20:00 concentra el "
      "<b>29 %</b> de los muertos del país."),
     ("", "Puertas de Etosha",
-     "<b>3–9 nov 06:13–19:06</b> · <b>10–16 nov 06:10–19:10</b>. Ugabmund, "
+     "<b>~06:13–19:06</b> y <b>~06:10–19:10</b> (tabla 2025; la de 2026, en la puerta). Ugabmund, "
      "última entrada <b>15:00</b>."),
     ("rojo", "Emergencias",
      "E-Med <b>924</b> · LifeLink <b>999</b> · venenos <b>+264 81 127 5109</b> · "

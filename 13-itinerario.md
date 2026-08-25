@@ -63,9 +63,11 @@ viajero cita un tramo de *«288 km that took over 4 hours»* y que después **ac
 👉 **Trabajo con un techo de ~300–350 km/día de tránsito**, y menos si el día tiene grava dura o
 actividad (Sossusvlei, safari).
 
-⚠️ *Los 80 km/h con caja negra están documentados en el contrato de **Asco** (ver `06`); el
-contrato completo de **Savanna**, el proveedor contratado, sigue sin leer. Los tiempos de este
-documento se mantienen a 80 igualmente.*
+✅ *Los 80 km/h con caja negra están en el contrato de **Asco** (ver `06`) **y, verificado el 25/08,
+en las condiciones del propio Savanna** ([rental-conditions](https://www.savannacarhire.com.na/rental-conditions)):
+«National Parks: 60 km/hour, Gravel roads: 80 km/hour … Tarred Highways: 120 km/hour», «GPS Tracking
+System (Black Box)» y «if you exceed this speed limit all insurances and Reduced Excesses lapse».
+Los tiempos de este documento van a 80, y ahora con el contrato del coche real detrás.*
 
 Fuentes de la regla: `12` y `06` (contratos Asco/Savanna, ya descargados) ·
 https://www.expertafrica.com/namibia/info/self-drive-driving-tips-and-techniques ·
@@ -198,7 +200,7 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   Grootfontein para Hoba toca la B8)*: **~539 km** ◐ *(enrutado propio; desde Namutoni eran 548, y
   ahí convergían «553 km» por la web de Etosha NP y ~575 km por rome2rio; Namutoni queda más al
   este que Okaukuejo, de ahí que sea más que los 440 km desde Okaukuejo)*. **Onguma → Tsumeb:
-  105 km** ✅ — es el primer repostaje del día
+  ~105 km** ◐ *(enrutado propio; secundarias 108–110)* — es el primer repostaje del día
 - **La pieza nueva del 21/08**, medida con el mismo enrutado que el resto de la ruta ✅: **puerta
   de Von Lindequist → Onguma Tamboti, 3,4 km** *(coordenadas de OpenStreetMap: 18,7819 S
   17,0592 E, `camp_site`)*. Es lo que explica los ~16 km que sube el D13 y los ~9 que baja el D14

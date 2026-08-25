@@ -152,7 +152,7 @@ sus cuatro torres, es **Monumento Nacional desde 1947** y abrió como rest camp 
 *([Wikipedia — Battle of Namutoni](https://en.wikipedia.org/wiki/Battle_of_Namutoni) ·
 [Britannica](https://www.britannica.com/topic/Namutoni) ·
 [namibian.org](https://namibian.org/blog/namutoni-from-cattle-post-to-battle-ground-and-tourist-attraction);
-la web de NWR dice «built 1897» — la discrepancia queda anotada)*. Dentro hay un pequeño museo ✅
+la web de NWR dice «built 1897» y Wikipedia 1896 — la discrepancia queda anotada)*. Dentro hay un pequeño museo ✅
 *(NWR)*, y **el atardecer se mira desde la torre** ◐ — la historia de la batalla, contada con su
 contexto, está en el [`19`](19-cultura-de-namibia.md). Es el campamento más cercano a su puerta:
 ~8 km de Von Lindequist ◐ *(una sola fuente leída — por eso el ◐)*, la que cruzáis **el D12 por la
@@ -263,9 +263,9 @@ por persona y noche** = **N$620 (~€31) por persona**, IVA y Social Development
 **N$1.240 (~€62) los dos y por noche → N$2.480 (~€124) las dos noches**. Son **N$320 (~€16) más
 por noche que la parcela de Namutoni** que sustituye.
 
-❌ **El importe exacto de la reserva y sus condiciones de cancelación, sin confirmar** — y
-**decidido el 24/08 no perseguirlos**: la segunda noche se cambia por el Cheetah Conservation Fund
-**sobre el terreno**, asumiendo la penalización que sea *([la decisión del CCF](aparte/decision-del-ccf.md), `20` §4)*.
+**Condiciones de cancelación del camping, en el propio rack 2027 de Onguma ✅** *(verificado el 25/08 abriendo el PDF)*: *«In the event of a confirmed reservation being cancelled and not postponed (in writing) 100% cancellation fees will be charged and pre-payments will be non-refundable»* — y **depósito del 50 % al reservar, el otro 50 % 30 días antes**. Es decir: **cancelar la segunda noche cuesta el 100 % (N$1.240 · ~€62); POSPONERLA por escrito, no.** La segunda noche se cambia por el Cheetah Conservation Fund **sobre el terreno, posponiéndola
+por escrito, no cancelándola** *([la decisión del CCF](aparte/decision-del-ccf.md), `20` §4)*.
+❌ **El importe exacto de la reserva, por confirmar.**
 
 ---
 

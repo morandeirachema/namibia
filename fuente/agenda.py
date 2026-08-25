@@ -65,7 +65,8 @@ def poda(mdtexto):
     t = "\n".join(out)
     # las notas de fuente/decisión en cursiva entre paréntesis, que van por bloques
     t = re.sub(r"\s*\*\((?:OSRM|decidido|ver |cambio del|act\. |el análisis|detalle en|"
-               r"cálculo|adelantado|rehecho|verificado|confirmado|añadido)[^)]*\)\*", "", t)
+               r"cálculo|adelantado|rehecho|verificado|confirmado|añadido|[Cc]orregido|"
+               r"secundarias|tabla de 20)[^)]*\)\*", "", t)
     t = re.sub(r"\s*\*\([^)]*`\d\d`[^)]*\)\*", "", t)         # «(… `13` …)»
     # las remisiones a `aparte/` son del repo, no del dia: en la guantera no hay a donde ir.
     # Van como parrafo propio en cursiva, a veces a dos lineas y a veces citadas con «> ».

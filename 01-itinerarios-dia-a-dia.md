@@ -40,7 +40,7 @@ llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
 > ### ✅ Las cuatro noches de Etosha, RESERVADAS — y las dos últimas ya fuera del parque *(act. 24/08/2026)*
 > **9–10 nov · Okaukuejo** y **10–11 nov · Halali**, las dos dentro, a **N$920 (~€46) la noche los
 > dos** ✅ — y **11–13 nov, DOS noches en [Onguma Tamboti](https://onguma.com/)**, el camping de la
-> reserva privada que linda con la puerta de Von Lindequist, **3,4 km pasada la puerta** ✅.
+> reserva privada que linda con la puerta de Von Lindequist, **3,4 km pasada la puerta** ◐ *(enrutado propio sobre OSM)*.
 > **Namutoni ya no es noche de nadie**: su parcela se cambió por la segunda de Onguma.
 >
 > - **Se pierde una charca iluminada de las tres, y es la floja**: Okaukuejo el D10 y Halali el D11
@@ -126,7 +126,8 @@ gantt
 > ~36 % colgado sobre las dunas**; la costa apaga la luna del todo *(D6 ~18 %, D7 ~10 %)*; **la
 > noche nueva de Twyfelfontein (D8) cae al ~5 %** y la de **Hoada (D9), al ~1 %** — las dos noches
 > de Damaraland, con el granito y el cielo entero; y **las cuatro noches de Etosha (D10–D13) caen
-> entre el 0 y el 9 %**: charca iluminada **sin competencia lunar** y Vía Láctea de libro. La
+> entre el 0 y el 9 %** *(salvo la última, el D13 en Onguma, que ya va al ~15 % — corregido el
+> 25/08 contra el USNO)*: charca iluminada **sin competencia lunar** y Vía Láctea de libro. La
 > vuelta (D14–D15), con un creciente fino al atardecer.
 > *(El registro del cálculo, en `15`; la fotografía nocturna tiene su propio repo, aparte de este
 > dossier.)*
@@ -355,7 +356,8 @@ flowchart LR
   se abre antes—; **la de las ~12:30 cae casi en pleamar** y suele quedarse en los miradores. El
   operador planifica con su propia tabla: **confírmalo al reservar** *(detalle en `15`)*
 - 🦩 **Y tu mes es de los buenos**: en Walvis Bay los flamencos tienen su **máximo de junio a
-  noviembre** ✅ *(SABAP1)*. Aquí sí los hay en cantidad — en Etosha, en cambio, **no**: la depresión está
+  noviembre** ◐ *(SABAP1, ficha 096: «maximal June–November (A.J.W. pers. obs)» — es una observación
+  personal dentro del atlas, no un recuento del atlas)*. Aquí sí los hay en cantidad — en Etosha, en cambio, **no**: la depresión está
   seca en noviembre *(ver `09`)*
 - 🦩 **Flamencos y pelícanos en la laguna** al amanecer y al atardecer — las mejores luces
 - 🐋 **Y el crucero cae en temporada de ballena jorobada** ◐ — los registros GBIF de esta costa
@@ -366,7 +368,7 @@ flowchart LR
 - Día libre: paseo marítimo, ostras, y la excursión guiada a **Sandwich Harbour en 4x4** —
   **decidida (24/08)** *(~N$2.600–3.220, ~€130–161 pp ◐)*; el **crucero de delfines y lobos**
   sigue abierto como alternativa o complemento del mismo día *(~N$1.400–1.990, ~€70–100 pp ◐)*
-  *(🚫 con tu coche Sandwich Harbour está prohibida por contrato — el tour es la forma correcta y mejor;
+  *(🚫 con el coche, Sandwich Harbour está prohibida en el contrato de **Asco** —el de Savanna, ya leído, no la nombra, pero sí anula el seguro fuera de pista— el tour es la forma correcta y mejor;
   precios y fuentes en [`02`](02-presupuesto.md), §9 y [`20`](20-reservas.md) §7)*
 - 🛏️ Walvis Bay, segunda noche
 
@@ -381,11 +383,12 @@ flowchart LR
   Swakopmund → Henties Bay → 🦭 **Cape Cross** (miles de lobos marinos; pañuelo para el olor).
   ⛽ **En Henties Bay se llena sí o sí** *(Puma 24 h)*: es el último surtidor seguro antes del
   bucle de la costa y Damaraland — la aritmética del depósito, en `07`
-- 🎫 **Cape Cross cobra entrada propia, aparte del permiso de Skeleton Coast:** **N$150 (~€8)/extranjero
-  + N$50 (~€3)/coche** (≤10 plazas) = **~N$350 (~€18) los dos** ◐, en **efectivo**, se paga en recepción
-  al entrar (reserva dentro del Dorob NP; tarifa menor que el baremo premium, **no** son las 7 unidades
-  de `02` §5 — súmalo). Horario ◐: **abre a las 08:00 solo del 16 nov al 30 jun; el resto del año, a
-  las 10:00** *(confirmado por búsqueda; la ficha del MEFT sigue en 403)*. **Ojo: vuestro D7 es el 6 nov,
+- 🎫 **Cape Cross cobra entrada propia, aparte del permiso de Skeleton Coast:** **N$280 (~€14)/extranjero
+  + N$60 (~€3)/coche** (≤10 plazas) = **~N$620 (~€31) los dos** ◐, en **efectivo**, se paga en recepción
+  al entrar. **No** son las 7 unidades de `02` §5 — súmalo. *(Corregido el 25/08: el dossier contaba
+  N$150 (~€7,5) + N$50 (~€2,5) = N$350 (~€17,5), que es la tarifa de 2021; desde abril de 2026 las
+  secundarias concordantes ponen la Cape Cross Seal Reserve en el tramo premium, el de Etosha — `02` §5.)* Horario ◐: **abre a las 08:00 solo del 16 nov al 30 jun; el resto del año, a
+  las 10:00** ◐ *(secundarias concordantes; la ficha del MEFT ya abre —25/08— y **no lleva horario**, así que sigue sin primaria)*. **Ojo: vuestro D7 es el 6 nov,
   antes del 16 → Cape Cross abre a las 10:00, NO a las 08:00** *(y adelantar el día del 7 al 6 no cambia
   nada: la raya está en el 16)*. No hay entrada a primera hora: apuntad
   el alto de los lobos a las 10:00 en punto y salid seguidos. De Cape Cross a Ugabmund quedan **~80 km**
@@ -512,14 +515,17 @@ flowchart LR
   via Gemsbokvlakte road from Okaukuejo to Halali» *(meft.gov.na/news/335)*, con aviso paralelo de
   NWR— que fija un **desvío OBLIGATORIO desde el 2 de junio de 2026 y hasta julio de 2027**. Tu
   ventana de la primera quincena de noviembre **caería de lleno dentro**.
-  ⚠️ **PERO ESTO SE REABRIÓ EL 24/08 y hay que preguntarlo**: ese día las dos páginas oficiales
-  —MEFT `news/335` y el aviso de NWR—, que hasta entonces daban `403`, **se dejaron abrir por fin**,
-  y **las dos fechan el desvío del 23 de abril al 30 de noviembre de 2025**: una fase **ya
-  terminada**. O hay una fase 2026–2027 que solo recogen las secundarias, o el desvío ya no está.
-  **No se puede cerrar desde aquí** *(el análisis completo, en `15`)*.
-  👉 **Pregúntaselo a NWR Okaukuejo, +264 67 229 800**, en la misma llamada de las reservas: si el
-  desvío ya no está activo, este día va por la directa, **son ~38 km menos** y **Nebrownii y
-  Kapupuhedi vuelven a entrar**.
+  ⚠️ **Esto se reabrió el 24/08 y se cerró a medias el 25/08.** Las dos páginas oficiales —MEFT
+  `news/335` y el aviso de NWR— fechan la **primera fase** del 23 de abril al 30 de noviembre de
+  2025, y el proyecto entero *«from Okaukuejo to King Nehale Gate including detours through Halali
+  via Namutoni»*. **Y sí hay fase 2026, con fecha y fuente**: [namibian.org, 30/01/2026](https://namibian.org/blog/construction-of-new-main-road-through-etosha-progressing)
+  *(«from February 1, 2026 … from February 26, Sueda, Salvadora and Charitsaub … 47 km»)* y
+  [tourismupdate, 09/02/2026](https://www.tourismupdate.com/article/etosha-road-closed-for-upgrades)
+  *(«closed on February 1», citando al MEFT)* ◐. Es decir: **el proyecto es plurianual y el desvío
+  sigue en pie** — **planifica este día CON el desvío**, no con la directa. Lo que sigue sin nota
+  oficial abierta es la fecha de fin *(«julio de 2027» solo en secundarias)*.
+  👉 **Pregúntaselo igualmente a NWR Okaukuejo, +264 67 229 800**, al reservar: si para noviembre
+  el tramo hubiera reabierto, serían **~38 km menos** y **Nebrownii y Kapupuhedi volverían a entrar**.
 - 🚗 **El desvío en la práctica ◐**: desde Okaukuejo se sigue por grava hasta **~km 47** y ahí se
   toma el **bypass nuevo y el Rhino Drive** hacia Halali. Las charcas accesibles en ese tramo se
   reducen a **Gemsbokvlakte, Sueda y Salvadora**; **Nebrownii y Kapupuhedi quedan fuera** por la
@@ -541,7 +547,7 @@ flowchart LR
 
 ### D12 · mié 11 — Safari Halali → Namutoni → salida a Onguma · **~93 km de safari** ◐ *(OSRM 92,8, con la salida por la puerta)*
 - 🌡️ **Etosha 37,1 / 18,9 ✅** — la noche más cálida del viaje: casi 19 °C de mínima
-- ☀️ amanecer **06:09** (Halali) · anochecer **19:04** (Onguma) · 🚪 **Von Lindequist, 10–16 nov:
+- ☀️ amanecer **06:09** (Halali) · anochecer **19:04** (Onguma) · 🚪 **Von Lindequist, tabla 2025 para 10–16 nov:
   06:10–19:10** ✅ — *hoy hay que cruzarla: se duerme fuera*
 - 🧭 **Salida guiada de mañana desde Halali — N$650 (~€33)/persona** ✅ — y el traslado por la
   tarde con vuestro coche, parando en **Goas, Nuamses, Springbokfontein, Batia y Chudop** — el
@@ -566,9 +572,7 @@ flowchart LR
 - 🛏️ **Onguma Tamboti — RESERVADO ✅ (act. 24/08), primera de DOS noches.** Rack oficial 2027
   *(vigente del 01/11/26 al 31/10/27, justo vuestras noches)*: **N$540 + N$80 de tasa de
   conservación = N$620 (~€31) por persona → N$1.240 (~€62) los dos y por noche** ✅, IVA y Social
-  Development Levy incluidos. ❌ *El importe exacto de la reserva y sus condiciones de cancelación,
-  sin confirmar — y se ha decidido no perseguirlos: saltarse la segunda noche se decide sobre la
-  marcha asumiendo la penalización que sea, que sobre N$1.240 (~€62) tiene poco techo (`aparte/decision-del-ccf`).*
+  Development Levy incluidos. **Condiciones de cancelación del camping, en el propio rack 2027 de Onguma ✅** *(verificado el 25/08 abriendo el PDF)*: *«In the event of a confirmed reservation being cancelled and not postponed (in writing) 100% cancellation fees will be charged and pre-payments will be non-refundable»* — y **depósito del 50 % al reservar, el otro 50 % 30 días antes**. Es decir: **cancelar la segunda noche cuesta el 100 % (N$1.240 · ~€62); POSPONERLA por escrito, no.** ❌ *El importe exacto de la reserva, por confirmar.*
 - ⛺ **La parcela**: **25 parcelas**, máximo **2 tiendas / 4 personas**, **cada una con su ducha, su
   wc y su enchufe** —lo que ningún campamento de NWR da—, limpieza diaria, **un lote de leña el día
   de llegada** y **wifi gratis en recepción** ✅. Kiosco con lo básico, hielo, leña y braai packs;
@@ -577,7 +581,7 @@ flowchart LR
 
 ### D13 · jue 12 — Etosha este desde Onguma: Fischer's Pan · **~70 km de safari** ◐ *(OSRM 70,5, entrando y saliendo por Von Lindequist)*
 - 🌡️ **Etosha 37,1 / 18,9 ✅**
-- ☀️ amanecer **06:07** · anochecer **19:05** · 🚪 **Von Lindequist, 10–16 nov: 06:10–19:10** ✅ —
+- ☀️ amanecer **06:07** · anochecer **19:05** · 🚪 **Von Lindequist, ~06:10–19:10** ◐ *(tabla de 2025; la de 2026 va en la puerta)* —
   *hoy se cruza dos veces: entrando al abrir y saliendo antes de cerrar*
 - 🎫 **Y la tasa de parque no se dispara por dormir fuera**: se está dentro los días **9, 10, 11 y
   12**, y se cobra **por cada 24 h desde la entrada** *(`03`)* — **4 unidades**, las mismas que
@@ -626,8 +630,9 @@ flowchart LR
 >   que **anuncia wifi en recepción** ✅.
 > - 🎁 **Lo que se gana además**: el **D14 baja de 539 a 294 km** y deja de ser el día más largo del
 >   viaje.
-> - ⚖️ **Lo que cuesta**: el **D13 entero de Fischer's Pan y Chudop**; la penalización de anular
->   Onguma ❌, que se asume sin conocerla *(sobre N$1.240 · ~€62, poco techo)*; y que **en el CCF no
+> - ⚖️ **Lo que cuesta**: el **D13 entero de Fischer's Pan y Chudop**; y **ojo con Onguma: cancelar
+>   es el 100 %, pero POSPONER por escrito no** ✅ *(su rack 2027)* — así que en la llamada se pide
+>   posponer la noche, no anularla; y que **en el CCF no
 >   hay camping** ◐ —es lodge: la segunda noche del viaje en habitación, tras Terrace Bay—.
 > - 🛟 **Si el CCF está lleno, no se pierde nada**: se queda la noche de Onguma, que es un buen plan
 >   por sí mismo. **Ésa es la red, y es buena.**
@@ -643,7 +648,7 @@ flowchart LR
   esperar a que Von Lindequist abra a las 06:10** — se sale en cuanto esté el coche cargado, con el
   desayuno hecho la víspera. **Media hora larga de ventaja** en el día más largo de asfalto
 - Onguma → C38 → Tsumeb → Otjiwarongo → B1 · comida en Otjiwarongo
-- ⛽ **Primer repostaje, Tsumeb: 105 km** ✅ *(enrutado propio)* — el depósito no se fía a los
+- ⛽ **Primer repostaje, Tsumeb: ~105 km** ◐ *(enrutado propio; las secundarias dan 108–110)* — el depósito no se fía a los
   surtidores del parque *(`07`)*
 - 🥩 **Línea Roja**: la carne cruda no baja del norte — el braai se come en Etosha
 - 🐾 **Alrededor del camping: ciudad otra vez — la fauna se queda en la Línea Roja** ○
@@ -720,7 +725,7 @@ flowchart LR
   por noche → N$2.480 (~€124)** ✅ *(rack oficial 2027: N$540 + N$80 de tasa de conservación por
   persona)*. **Las 4 noches de Etosha suman N$4.320 (~€216)**, N$320 (~€16) más que con Namutoni
 - **Tasas de parque**: Namib 2 + Skeleton 1 + Etosha 4 = 7 unidades × N$620 + **la entrada propia
-  de Cape Cross (~N$350 los dos)** ≈ **N$4.690 (~€234)** ◐ — **no cambian** por dormir fuera: se
+  de Cape Cross (~N$620 · ~€31 los dos, tramo premium desde 2026)** ≈ **N$4.960 (~€248)** ◐ — **no cambian** por dormir fuera: se
   entra el D10 y se sale el D13
 - **Safaris guiados de Etosha**: 2 mañanas *(Okaukuejo y Halali)* = **N$2.600 (~€130)** ✅
   *(tarifas NWR; + lanzadera Deadvlei N$360 · ~€18 — sin reservar: en recepción)*.
@@ -733,7 +738,7 @@ flowchart LR
   RESERVADO con Savanna, es cifra cerrada (€2.363 los 15 días completos). Sumando
   vuelos (**€3.072, EMITIDOS el 10/08**) y seguro IATI Estrella (€226,04 — **contratado el 24/08 con
   el código de Chavetas**, `20` §3):
-  **~€7.860 (~N$157.200) la pareja · ~€3.930 por persona** (ver `02`; actualizado el 24/08 —
+  **~€7.872 (~N$157.400) la pareja · ~€3.936 por persona** (ver `02`; actualizado el 24/08 —
   **−€60 por persona** sobre la cifra del 21/08, y **€70 de esa bajada son las dos salidas guiadas
   que ya no se pueden comprar**, no un ahorro)*
 - ➕ **Opcional, sin decidir: el Sundowner Drive de Onguma — N$1.960 (~€98) los dos** ✅.
@@ -822,7 +827,12 @@ flowchart LR
   la práctica manda el 15:00.**
 - **Etosha** ✅ — **horarios oficiales de puerta**, de la tabla que publica el parque *(cambian cada
   semana siguiendo al sol, y están puestas en cada puerta)*: **3–9 nov: 06:13–19:06** ·
-  **10–16 nov: 06:10–19:10**. Son **trece horas de parque al día**, casi dos más que en invierno.
+  **10–16 nov: 06:10–19:10** ◐. ⚠️ **Corregido el 25/08: esa tabla es la de 2025**, no la de 2026
+  —el PDF que la sostiene se titula «Gates Opening & Closing Time for 2025»—. Los tramos van de
+  lunes a domingo, y **en 2026 los lunes caen en 2, 9 y 16 de noviembre**, así que la tabla real
+  será 2–8 / 9–15, con minutos ligeramente distintos *(±1–2)*. No hay tabla 2026 abierta desde
+  aquí: **la buena es la que está puesta en la puerta**. Son **trece horas de parque al día**, casi
+  dos más que en invierno.
   *(Cuadra a ±4 min con el cálculo astronómico de arriba.)* Dentro: **60 km/h**, **20 en los
   campamentos**, y **solo se puede bajar del coche dentro de los campamentos** — la única excepción
   es el *koppie* de dolomita de **Halali**, que sí se puede pasear. De noche te quedas dentro: la
@@ -943,7 +953,7 @@ persona y noche** ✅ — la reserva privada por el precio del parque, sin el lo
   desde Namutoni eran 548 y ahí convergían las secundarias, 553–575)*. Detalle y fuentes en `13`.
 - ✅ **Las cuatro noches de Etosha, RESERVADAS** — Okaukuejo, Halali y **Onguma Tamboti ×2 (D12 y
   D13)**; **Namutoni se anuló el 24/08**. Lo que queda abierto: **el importe exacto de la reserva de
-  Onguma y sus condiciones de cancelación** ❌ —de las que depende poder cambiar la segunda noche por
+  Onguma** ❌ *(sus condiciones de cancelación ya están: 100 % si se cancela, nada si se pospone ✅)* —de las que depende poder cambiar la segunda noche por
   el CCF, `aparte/decision-del-ccf`— y **si Onguma hace un night drive de verdad**, que su tarifa oficial 2027 no lista ❌
   *(ver D13)*.
 - ◐ **Km del D8 y el D9, partidos el 24/08** — lo que era un solo día de ~370 km son ahora

@@ -12,7 +12,7 @@
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
 [![cuenta atrás](https://img.shields.io/badge/faltan-67_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-7_de_8-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
-[![presupuesto](https://img.shields.io/badge/€3.930-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
+[![presupuesto](https://img.shields.io/badge/€3.936-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
 
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos*
@@ -104,7 +104,7 @@ flowchart LR
    Fund](https://cheetah.org/) se resuelve SOBRE LA MARCHA — decidido el 24/08.** No hace falta
    pedir nada por adelantado: si el guepardo no ha salido en Etosha, se llama desde allí *(la
    decisión del D13, entera en [la decisión del CCF](aparte/decision-del-ccf.md))*. Lo que eso acepta de antemano, dicho
-   una vez y sin insistir: **la penalización de cancelación de Onguma se asume a ciegas** ❌ y **el
+   una vez y sin insistir: **cancelar la noche de Onguma cuesta el 100 %, pero posponerla por escrito no** ✅ *(está en su rack, verificado el 25/08)* — así que se pospone, no se anula — y **el
    CCF puede estar lleno** ❌ — en cuyo caso, sencillamente, se queda la noche de Onguma, que es un
    buen plan. Si un día apetece cerrarlo antes, son dos emails *(`20` §4)*.
 6. **Reservar Terrace Bay — la única noche que queda sin reservar y con fecha dura** *(vie 6 nov,
@@ -153,7 +153,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 156 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 157 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -351,9 +351,9 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 ## 💶 El presupuesto — por persona, partida a partida
 
-### ~€3.930 por persona · todo incluido
+### ~€3.936 por persona · todo incluido
 
-Rango honesto: **€3.780–4.080**. El **~81 %** ya está cerrado con precio real, no estimado.
+Rango honesto: **€3.790–4.090**. El **~81 %** ya está cerrado con precio real, no estimado.
 
 </div>
 
@@ -372,16 +372,16 @@ pie showData
     "Comida" : 140
     "Seguro" : 113
     "Misc + actividades" : 149
-    "Tasas de parque" : 117
+    "Tasas de parque" : 124
     "Visado" : 80
 ```
 
-*Vuelo y coche son el **69 %** del viaje. Todo lo demás junto son ~€1.212.*
+*Vuelo y coche son el **69 %** del viaje. Todo lo demás junto son ~€1.219.*
 
 - ✈️ Vuelo **€1.536** ✅ *(EMITIDO el 10/08)* · 🚙 Coche **€1.181,50** ✅ *(RESERVADO con Savanna,
   15 días completos — `20` §1)* ·
   ⛺ Alojamiento **~€385** *(€276,50 verificado ✅)* · ⛽ Combustible **~€228** · 🍖 Comida **~€140** ·
-  🩺 Seguro **€113** ✅ · 🎫 Tasas **~€117** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€149** *(los safaris
+  🩺 Seguro **€113** ✅ · 🎫 Tasas **~€124** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€149** *(los safaris
   guiados de Etosha que quedan comprables, dentro)*
 - **El ~81 % ya está cerrado** con precio real: vuelo *(emitido)*, el coche completo *(reservado)*,
   seguro, visado y **8 de las 14 noches** *(Sesriem ×2, Okaukuejo, Halali, Onguma ×2, Terrace Bay y
@@ -441,7 +441,7 @@ flowchart TD
    pernoctar (el permiso de tránsito obliga a salir el mismo día). *(Las **4 noches de Etosha** ya
    están: Okaukuejo, Halali y **Onguma Tamboti ×2** ✅ — **Namutoni se anuló el 24/08**.)*
 4. **Los papeles con calendario.** El **e-visa (N$1.600, ~€80)** se pide online y **se imprime y
-   firma ante el oficial** — solo en `eservices.mhaiss.gov.na` ⚠️ *(`namibia-evisa.com` parece
+   firma ante el oficial** — en `eservices.mhaiss.gov.na` *(hay visado a la llegada como plan B, MAEC)* ⚠️ *(`namibia-evisa.com` parece
    oficial y no lo es; el portal real puede dar un aviso de certificado — es mala configuración
    suya: verifica el dominio y sigue)*. La **cita del Centro de Vacunación** (A Coruña, Durán
    Lóriga 3 · **981 989 570**) se pide **en agosto**. Y el **permiso internacional de conducir**:
@@ -484,7 +484,7 @@ hospital) y que lleve **búsqueda y salvamento**, que en el Estrella es **opcion
   piden suavidad en las piedras igualmente. Las pistas malditas **D3707/D3703 no están en esta ruta**.
   *Dune driving* y Sandwich Harbour, **prohibidos por contrato** — el tour guiado es el plan.
 
-Extras: enchufes **tipo M** *(2 adaptadores online — el Schuko no entra)* · **SIM de MTC** en el
+Extras: enchufes **tipo M y D** *(2 adaptadores que cubran los dos, online — el Schuko no entra)* · **SIM de MTC** en el
 aeropuerto con pasaporte *(paquete turista «Leisure» N$349 ~€17 · 14 días · 10,1 GB ◐; el kiosco cierra ~21:00)* · un **satelital con SOS** es buena compañía
 donde no hay cobertura · la **Línea Roja**: la carne cruda no baja del norte — el braai se come en
 Etosha · los **N$ sobrantes se cambian antes de volar**.

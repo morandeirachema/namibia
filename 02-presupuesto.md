@@ -67,7 +67,7 @@ pie showData
     "Combustible" : 455
     "Comida" : 280
     "Seguro IATI Estrella x2" : 226
-    "Tasas de parque" : 234
+    "Tasas de parque" : 248
     "Visado x2" : 160
     "Miscelaneos" : 150
     "Actividades" : 148
@@ -76,7 +76,7 @@ pie showData
 > **Vuelo y coche son el 69 % del viaje.** El vuelo está **EMITIDO (10/08: €3.072 los dos)** y el
 > coche **RESERVADO (12/08: €2.363 los dos, los 15 días completos con Savanna)** — las dos
 > partidas grandes ya cerradas, no estimadas.
-> Todo lo demás junto (~€2.423 de la pareja) pesa menos que ellas dos.
+> Todo lo demás junto (~€2.437 de la pareja) pesa menos que ellas dos.
 
 ---
 
@@ -95,7 +95,7 @@ flowchart LR
 ```
 
 - 🚙 **€2.363 en total — ~€1.181,50 por persona** ✅ *(precio cerrado, no estimado)*.
-- ⛽ **Depósito de 140 L** ✅ — doble depósito (80+60 l) confirmado; el detalle de cómo se lee el
+- ⛽ **Depósito de 140 L** ✅ — y doble depósito (80+60 l) ◐ *(la web de Savanna solo dice «140L»; el reparto sale de su oferta)*; el detalle de cómo se lee el
   indicador, en `20` §1.
 - 🛡️ **Seguro Opción 4**: **franquicia CERO**, con neumáticos, lunas y bajos incluidos ✅.
 - 🛰️📦 **Extras: teléfono satelital y 2 sacos de dormir con almohada** ✅ — pagados y ya dentro
@@ -136,10 +136,8 @@ siguen sin precio**, salvo **Hoada**, que va en ◐.
   noche → N$2.480 (~€124) las dos noches** ✅, IVA y Social Development Levy incluidos. Rack oficial
   2027, **vigente del 01/11/26 al 31/10/27** *(el año fiscal de Onguma va de noviembre a octubre,
   igual que el de NWR — vuestras noches caen dentro)*.
-  ❌ *El importe exacto de la reserva y sus **condiciones de cancelación**, sin confirmar — y
-  **decidido el 24/08 no perseguirlos**: el cambio de la segunda noche por el CCF se resuelve sobre
-  la marcha, asumiendo la penalización que sea. Sobre N$1.240 (~€62) el techo es pequeño
-  ([la decisión del CCF](aparte/decision-del-ccf.md)).*
+  **Condiciones de cancelación del camping, en el propio rack 2027 de Onguma ✅** *(verificado el 25/08 abriendo el PDF)*: *«In the event of a confirmed reservation being cancelled and not postponed (in writing) 100% cancellation fees will be charged and pre-payments will be non-refundable»* — y **depósito del 50 % al reservar, el otro 50 % 30 días antes**. Es decir: **cancelar la segunda noche cuesta el 100 % (N$1.240 · ~€62); POSPONERLA por escrito, no.** *(El repo lo dio por desconocido hasta el 25/08: estaba en el mismo PDF que ya citaba.)*
+  ❌ *El importe exacto de la reserva, por confirmar.*
 - **La segunda de Onguma sustituye a la de Namutoni**, que era **la charca iluminada más floja de
   las tres**: cuesta **N$320 (~€16) más** y a cambio da **ducha y wc propios en la parcela** y una
   reserva privada con **salida al atardecer con foco y campo a través** y **paseo guiado a pie**,
@@ -258,6 +256,10 @@ flowchart LR
 > [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) *(403, no abierta aquí)* ·
 > rebaja de julio 2026 en [thebrief.com.na](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/)
 > y **subida de agosto** en [thebrief.com.na](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/)
+> — y **la nota de prensa primaria del Ministerio existe**: [mme.gov.na · Fuel Price Media Release August 2026](https://www.mme.gov.na/fuel-price-media-release-august-2026-2/),
+> que el buscador resume como **«diésel N$26,26/l en Walvis Bay desde el 5 de agosto»** ◐ *(el
+> dominio no resuelve desde este entorno el 25/08; la cifra coincide con la que ya usa este
+> documento, pero sigue sin abrirse la página: se queda en ◐)*
 > *(ambas vía fragmento; el sitio y el boletín del MME devuelven 403 aquí, así que la extracción del
 > precio de bomba exacto no está verificada contra el primario — de ahí el ◐)*.
 
@@ -295,20 +297,26 @@ falta—, así que el total de tasas queda holgado. Confírmalo en recepción/al
   campamento.)*
 
 → **~7 unidades × N$620 = ~N$4.340 (~€217) pareja / ~€109 por persona** ◐ — y **con la entrada
-propia de Cape Cross (~N$350), ~N$4.690 (~€234) pareja / ~€117 por persona**, que es la cifra
+propia de Cape Cross (~N$620), ~N$4.960 (~€248) pareja / ~€124 por persona**, que es la cifra
 que usan los totales.
 
-> ➕ **Aparte, FUERA de esas 7 unidades premium: Cape Cross (D7).** El reserva de lobos cobra su
-> propia entrada — **N$150 (~€8)/extranjero + N$50 (~€3)/coche = ~N$350 (~€18) la pareja** ◐, en
-> **efectivo**, en recepción (Dorob NP; tarifa menor que el baremo premium). **Súmalo al total de
-> tasas.** Fuentes secundarias convergentes: una reseña de visitante de 2025 y una guía dan la misma
-> cifra (N$150 + N$50 ≈ €7,50 + €2,50); la primaria del MEFT sigue en 403. Detalle y horario (abre 08:00 del 16 nov
-> al 30 jun) en [`01` §D8](01-itinerarios-dia-a-dia.md).
+> ➕ **Aparte, FUERA de esas 7 unidades premium: Cape Cross (D7).** La reserva de lobos cobra su
+> propia entrada, y **desde abril de 2026 está en el tramo premium, el mismo que Etosha**:
+> **N$280 (~€14)/extranjero + N$60 (~€3)/coche = ~N$620 (~€31) la pareja** ◐, en **efectivo**, en
+> recepción. **Súmalo al total de tasas.**
+> ⚠️ **Corregido el 25/08**: este documento contaba **N$150 + N$50 = N$350**, y al abrir por fin el
+> PDF del MEFT resultó ser **la tabla de 2021** *(«with effect from 1 January 2021», firmada el
+> 18/11/2020: «Other foreign nationals · Adults 100 + 50 = 150 · Vehicles 10 seats or less 30 + 20 =
+> 50»)*. Las dos secundarias de 2026 que sí abren —[namibian.org](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent)
+> *(«Dorob Park, Cape Cross Seal Reserve and Skeleton Coast Park»)* y umhambi— lo listan en premium.
+> **+N$270 (~€13,5) la pareja** sobre lo que se contaba. Horario (abre 08:00 del 16 nov al 30 jun),
+> en [`01` §D7](01-itinerarios-dia-a-dia.md).
 
-> Fuentes: [gazettes.africa — Government Gazette Nº 8877, 1/04/2026 (Government Notice Nº 115)](https://gazettes.africa/akn/na/officialGazette/government-gazette/2026-04-01/8877/eng@2026-04-01) ·
-> [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
-> [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/)
-> *(las tres localizadas; ninguna se pudo abrir, 403)* · secundarias concordantes en `15`. **Confírmalo por email antes de pagar.**
+> Fuentes: [gazettes.africa — Government Gazette Nº 8877, 1/04/2026 (Government Notice Nº 115)](https://gazettes.africa/akn/na/officialGazette/government-gazette/2026-04-01/8877/eng@2026-04-01)
+> *(403 también con curl)* · [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/)
+> *(abre, pero solo enlaza un PDF de 2021 sin cifras)* · ❌ **el PDF `543_Park Entrance and Conservation
+> Fees` del MEFT que aquí se citaba como respaldo de la subida de 2026 es la tabla de 2021** —se retira
+> como fuente del baremo actual— · secundarias concordantes en `15`. **Confírmalo por email antes de pagar.**
 
 ---
 
@@ -582,7 +590,7 @@ Precios **por persona**, verificados salvo aviso:
   por persona** ◐, mínimo 2, **sin la tasa de parque** de Namib-Naukluft.
 - **Twyfelfontein (D8) — la visita guiada es obligatoria y de pago**: **N$270 (~€13,5)/persona,
   guía incluido, solo efectivo** ◐ *(tarifario del National Heritage Council vía secundarias
-  concordantes: [Safari2Go/namibian.org](https://namibian.org/news/tourism/access-to-namibias-natural-and-cultural-heritage-sites-costs-more)
+  concordantes: [Safari2Go/namibian.org](https://namibian.org/blog/access-to-namibias-natural-and-cultural-heritage-sites-costs-more)
   y reseñas 2025-26; ~45–60 min de visita)*. **Se paga del colchón de misceláneos** *(es la
   «tasa menor» tipo para la que existe)* — detalle en [`11`](11-entradas-y-permisos.md).
 
@@ -642,7 +650,7 @@ flowchart LR
     n2["Alojam.<br/>385"]
     n3["Combust.<br/>228"]
     n4["Comida<br/>140"]
-    n5["Tasas, seguro, visado,<br/>safaris y varios<br/>459"]
+    n5["Tasas, seguro, visado,<br/>safaris y varios<br/>466"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -661,16 +669,17 @@ flowchart LR
   Spreetshoogte €14,50— + ~€108,50 estimado ○, seis noches)*
 - ⛽ Combustible **~€228** ○/◐
 - 🍖 Comida **~€140** ○
-- 🎫 Tasas de parque **~€117** ◐ *(7 × N$620 + la entrada propia de Cape Cross, ~N$350 los dos)*
+- 🎫 Tasas de parque **~€124** ◐ *(7 × N$620 + la entrada propia de Cape Cross, ~N$620 los dos —
+  premium desde 2026, corregido el 25/08)*
 - 🩺 Seguro **€113,02** ✅
 - 🛂 Visado **€80** ✅
 - 🎯 Actividades **~€74** ✅ *(tarifas NWR verificadas: 2 guiadas de mañana + lanzadera de Deadvlei.
   **Eran €144 hasta el 24/08**: el nocturno y la guiada de Namutoni se caen al dormir fuera — §9)*
 - 🧷 Misceláneos **~€75** ○
 
-> ### **TOTAL POR PERSONA: ~€3.930 (~N$78.600)** *con el coche y ocho noches cerrados*
-> ### **TOTAL LA PAREJA: ~€7.860 (~N$157.200)**
-> Rango honesto: **€3.780–4.080 por persona** — el margen (±~€150) está en las noches sin
+> ### **TOTAL POR PERSONA: ~€3.936 (~N$78.700)** *con el coche y ocho noches cerrados*
+> ### **TOTAL LA PAREJA: ~€7.872 (~N$157.400)**
+> Rango honesto: **€3.790–4.090 por persona** — el margen (±~€150) está en las noches sin
 > precio, el combustible, la comida y los misceláneos; el coche, el vuelo y las noches reservadas
 > son precio cerrado. *(El 21/08 la cifra era €3.990. **Baja €60 por persona**, y el reparto no es
 > el que parece: **−€70 de actividades** que ya no se pueden comprar *(§9)* y **−€14,50 de la noche
@@ -699,35 +708,35 @@ por cabeza:
 - **Se reparte (fijo del grupo)**: coche 15 días **€2.363** ✅ *(RESERVADO con Savanna para 2
   personas — sin cotización propia para 3–4, que puede exigir grupo distinto: pregunta antes de
   invitar a nadie ❌)* + combustible **~€455 (~N$9.100)** + el vehículo en las tasas (7 × N$60 +
-  el coche de Cape Cross = **N$470 · ~€23,5**) → **~€2.842 (~N$56.840)** entre los que vayáis
+  el coche de Cape Cross = **N$480 · ~€24**) → **~€2.842 (~N$56.840)** entre los que vayáis
 - **Va por cabeza**: vuelo €1.536 · alojamiento ~€385 *(casi todo se cobra POR PERSONA ✅:
   Sesriem N$670/pax, Etosha NWR N$460/pax, Onguma N$620/pax, Spreetshoogte N$290/pax — y Terrace
   Bay, por persona en DBB)* ·
   comida ~€140 ·
-  tasas de persona 7 × N$280 = **N$1.960 (~€98) + Cape Cross N$150 (~€7,5)** · seguro ~€113 ·
-  visado €80 · actividades guiadas ~€74 · misceláneos ~€75 → **~€2.508 (~N$50.160)**
+  tasas de persona 7 × N$280 = **N$1.960 (~€98) + Cape Cross N$280 (~€14)** · seguro ~€113 ·
+  visado €80 · actividades guiadas ~€74 · misceláneos ~€75 → **~€2.515 (~N$50.300)**
 
 ```mermaid
 flowchart LR
     T["Total por persona segun cuantos vais<br/>EUR · camping"]
-    n0["2 personas<br/>3.930"]
-    n1["3 personas<br/>3.456"]
-    n2["4 personas<br/>3.219"]
+    n0["2 personas<br/>3.936"]
+    n1["3 personas<br/>3.462"]
+    n2["4 personas<br/>3.226"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
-- **2 personas** — **~€3.930 (~N$78.600)/persona** · grupo ~€7.860 (~N$157.200) *(cuadra con el
+- **2 personas** — **~€3.936 (~N$78.700)/persona** · grupo ~€7.872 (~N$157.400) *(cuadra con el
   total oficial de §10, que es el que manda para el plan real)*
-- **3 personas** — **~€3.456 (~N$69.100)/persona** · grupo ~€10.368 (~N$207.400) → *ahorra
-  ~€474/persona (−12 %) respecto a ir dos* — **sin cotizar con Savanna** ❌: su grupo GSXA-1 es
+- **3 personas** — **~€3.462 (~N$69.200)/persona** · grupo ~€10.387 (~N$207.700) → *ahorra
+  ~€478/persona (−12 %) respecto a ir dos* — **sin cotizar con Savanna** ❌: su grupo GSXA-1 es
   camping para 2; para 3–4 puede tocar otro grupo, con otro precio. ⚠️ Y hay un tope:
   **la parcela de Onguma Tamboti admite máximo 2 tiendas / 4 personas** ✅ — y ahora son **dos
   noches** las que dependen de ese tope
-- **4 personas** — **~€3.219 (~N$64.400)/persona** · grupo ~€12.876 (~N$257.500) → *ahorra
-  ~€711/persona (−18 %)* — misma reserva ❌ que la de 3
+- **4 personas** — **~€3.226 (~N$64.500)/persona** · grupo ~€12.902 (~N$258.000) → *ahorra
+  ~€714/persona (−18 %)* — misma reserva ❌ que la de 3
 
 > ⚠️ **Cuatro letras pequeñas antes de invitar a nadie:**
 > 1. **El vuelo (€1.536) está EMITIDO para 2 plazas** — un tercero o cuarto necesitaría su
@@ -744,7 +753,7 @@ flowchart LR
 
 ## 11. Qué parte de este número es sólida
 
-- **✅ Duro — ~€3.187 de los €3.930 (81 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
+- **✅ Duro — ~€3.187 de los €3.936 (81 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
   15 días, RESERVADO con Savanna, €1.181,50 · las 6 noches de Sesriem, Etosha y Onguma €175
   *(**reservadas**)* · Terrace Bay €87 · **Spreetshoogte €14,50** *(una noche, tarifa cerrada el
   24/08)* · seguro €113 · visado €80.
@@ -753,7 +762,7 @@ flowchart LR
   *(Okaukuejo y Halali)* y la lanzadera de Deadvlei — tarifas NWR reales, reserva en recepción.
   *(Eran ~€144 con las cuatro salidas; el nocturno y la guiada de Namutoni se caen al dormir fuera
   del parque — §9.)*
-- **◐ Corroborado o por recotizar — ~€117**: las tasas de parque *(con Cape Cross; la gaceta
+- **◐ Corroborado o por recotizar — ~€124**: las tasas de parque *(con Cape Cross en premium; la gaceta
   localizada, el PDF primario del MEFT sin abrirse)*.
 - **○ Estimado — ~€552**: **seis** noches de camping sin cotizar —entre ellas **la nueva de
   Twyfelfontein, que es el único riesgo serio al alza**— más Hoada ◐, combustible, comida y
@@ -769,8 +778,9 @@ flowchart LR
 - **Coche**: reserva confirmada con Savanna (12/08/2026) — el detalle, con fuentes, en
   [`20`](20-reservas.md) §1 y [`16`](16-punto-de-decision.md) §8.
 - **Alojamiento NWR**: [NWR Rack Rates 2026/2027 (PDF)](https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf) — ver `03` y `01`.
-- **Tasas de parque**: [MEFT — Park Entrance and Conservation Fees (PDF)](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF) ·
-  [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/) — ver `12` y `15`.
+- **Tasas de parque**: [MEFT — nota de prensa `news/199`](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/)
+  y secundarias concordantes de 2026 — ver `12` y `15`. *(El PDF `543_Park Entrance and Conservation
+  Fees` del MEFT es la tabla de 2021 y ya no se cita como fuente del baremo actual — 25/08.)*
 - **Visado**: [MAEC — Namibia](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia) — ver `12`.
 - **Diésel**: [GlobalPetrolPrices — Namibia](https://www.globalpetrolprices.com/Namibia/diesel_prices/) ·
   [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) ·

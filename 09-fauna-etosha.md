@@ -129,8 +129,10 @@ específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
   Burchell *(el aviso de identificación va en su ficha)*.
 - **La suricata tampoco toca**: es del Kalahari y del sur — fuera de la ruta y, desde el 09/08,
   **fuera de la guía**.
-- **Y el oricteropo, fuera con su propio dato**: el 0 % de 149 partes es la cifra más honesta
-  del método — nadie lo vio, así que no lleva ficha *(sus excavaciones en los termiteros sí las
+- **Y el oricteropo, fuera con su propio dato**: **0 de 149 partes sumando los tres campamentos
+  —0 de 100 en Okaukuejo, 0 de 38 en Halali, 0 de 11 en Namutoni—** ◐ es la cifra más honesta
+  del método *(ese 149 es la suma de partes, no los 149 viajeros de Okaukuejo: coincidencia
+  numérica, aclarada el 25/08)* — nadie lo vio, así que no lleva ficha *(sus excavaciones en los termiteros sí las
   veréis por todas partes)*.
 - **En Etosha NO hay búfalo** — se ven **cuatro de los «Big Five»**, no cinco. Extinguido en el
   parque a mediados del siglo XX ◐ y **nunca reintroducido, por el riesgo de aftosa y de
