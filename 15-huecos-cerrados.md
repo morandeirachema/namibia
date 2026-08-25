@@ -646,6 +646,39 @@ y los **PDF de rack** que cuelga, **uno por año tarifario**.
 
 ---
 
+## 💱 El tipo de cambio se ha movido — la banda de ~N$20 se quedó corta *(25/08/2026)*
+
+Todo el dossier convierte al **convenio ~N$20 = €1 *(banda 19,5–20,5)*** de la cabecera. **Ese
+convenio se ha quedado alto**: al mercado de agosto de 2026 el euro compra **menos** N$ de los que
+supone la banda, así que **cada importe en N$ cuesta un poco MÁS euros de los que el dossier
+escribe** — la conversión es optimista, no conservadora.
+
+- **El anclaje que no se discute** ✅: el **dólar namibio está clavado 1:1 al rand sudafricano**
+  *(y el ZAR es de curso legal en Namibia)* — [Wikipedia, «Namibian dollar»](https://en.wikipedia.org/wiki/Namibian_dollar).
+  Es decir, quien manda sobre el N$/€ es el **EUR/ZAR**, que **flota**: la cifra de hoy no es la de
+  noviembre.
+- **La cifra de agosto de 2026** ◐: **1 € ≈ 18,6–19,1 N$** — 18,65 el 9 de agosto, banda de los
+  últimos 30 días **18,61–19,15** *(media 18,88)*, y **media de todo 2026 de 19,11** *(mín. 18,59,
+  máx. 19,83)*. Síntesis de WebSearch sobre xe/Wise/valutafx; **los conversores en sí devuelven
+  egress/403 aquí** *(xe.com bloqueado)*, así que es **◐, no ✅** — el número no se descargó, pero
+  converge entre varias fuentes y es objetivo. Fuentes: [xe EUR→NAD](https://www.xe.com/en-us/currencyconverter/convert/?Amount=1&From=EUR&To=NAD),
+  [Wise EUR→NAD](https://wise.com/us/currency-converter/eur-to-nad-rate),
+  [valutafx histórico](https://www.valutafx.com/history/eur-nad).
+- **El efecto, acotado**: el desfase de ~19 frente a ~20 son **~5 %** *(y hasta ~7 % si toca la
+  banda baja de 18,6)*, pero **solo sobre lo que se paga en N$ sobre el terreno** —combustible,
+  comida, tasas de parque, camping y actividades—. **Las partidas grandes NO se mueven**: el vuelo
+  *(€1.536 p.p., emitido)*, el coche *(€/día)* y el seguro *(€25/día)* ya están en euros. Por eso el
+  total del `02` es **mucho menos sensible de lo que el titular sugiere**. Ejemplo tangible: la tasa
+  de N$280 que el `15` §Tasas convierte en **~€14** al convenio son **~€14,7–15** al mercado real.
+- 👉 **Acción — y lo que NO se hace esta noche**: **no se reescriben los precios**. El ~N$20
+  redondo sigue valiendo como regla de bolsillo en el surtidor, y bajar la cabecera a ~19 dejaría el
+  encabezado diciendo una cosa y las conversiones «~€» de todo el dossier *(calculadas a 20)*
+  diciendo otra — peor el remedio. Lo correcto es **tratar la conversión de la parte en N$ como ~5 %
+  optimista** y **revisar la banda cerca de la salida** *(finales de noviembre)*, cuando el EUR/ZAR
+  del momento sea el que importe. Queda anotado como tarea de revisión, no como corrección aplicada.
+
+---
+
 ## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 24/08/2026)*
 
 El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo el dossier.
