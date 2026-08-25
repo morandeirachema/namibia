@@ -685,7 +685,6 @@ escribe** — la conversión es optimista, no conservadora.
   del momento sea el que importe. Queda anotado como tarea de revisión, no como corrección aplicada.
 
 ---
-||||||| parent of a30bea1 (Auditoría de no-fabricación: cinco verificadores contra fuente primaria, lo que se reprodujo y lo que estaba mal)
 
 ## 🔎 La auditoría de no-fabricación — *(25/08/2026)*
 
