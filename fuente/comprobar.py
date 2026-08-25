@@ -652,8 +652,16 @@ def revisa_agenda(nombre="agenda-namibia-2026.pdf"):
             ultimo = m.group(1)
         if ultimo:
             cuenta[ultimo] = cuenta.get(ultimo, 0) + 1
+    # El total de paginas manda: si la explicacion de un dia empieza ya en la tercera pagina,
+    # las tres llevan su «Dn» en cabecera y la cuenta por dia no lo ve — paso el 25/08 con el
+    # D7, que salio a 32 paginas sin que esto avisara.
     if paginas == esperadas and all(n == 2 for n in cuenta.values()):
         return bien(f"{nombre}: portada + {len(trazado.ETAPAS)} dias, mapa y explicacion")
+    if paginas != esperadas:
+        sospechosos = sorted((d for d, n in cuenta.items() if n != 2),
+                             key=lambda d: int(d[1:])) or ["(no se localiza: mira el PDF)"]
+        return mal(f"{nombre} tiene {paginas} paginas y deberia tener {esperadas}: "
+                   f"se desborda {', '.join(sospechosos)}")
     largos = sorted((d for d, n in cuenta.items() if n > 2), key=lambda d: int(d[1:]))
     cortos = sorted((d for d, n in cuenta.items() if n < 2), key=lambda d: int(d[1:]))
     mal(f"{nombre} tiene {paginas} paginas y deberia tener {esperadas}"

@@ -97,8 +97,10 @@ pie showData
   que cruzáis el D8 y el D9: **Twyfelfontein —donde ahora se duerme—, los puestos de artesanía de
   la C39/D3254 (`08`) y el campamento comunitario de Hoada** son su tierra y su economía.
 - **San** — los primeros: cazadores-recolectores cuyos chamanes **grabaron Twyfelfontein hace
-  2.000–5.000 años** *(el primer Patrimonio Mundial de Namibia, 2007 —
-  [UNESCO](https://whc.unesco.org/en/list/1255) ✅)*. Hoy son la minoría más golpeada del país;
+  entre 6.000 y 2.000 años** ◐ *(radiocarbono c. 5.850–180 BP según
+  [Wikipedia](https://en.wikipedia.org/wiki/Twyfelfontein); la horquilla «2.000–5.000» que se daba
+  con ✅ no se ha podido leer en la ficha de UNESCO, que devuelve 403 — el Patrimonio Mundial, 2007,
+  sí: [UNESCO](https://whc.unesco.org/en/list/1255))*. Hoy son la minoría más golpeada del país;
   su rastro en vuestra ruta es el arte —el de la roca y la **joyería de cáscara de huevo de
   avestruz** del Craft Centre *(`08`)*.
 - **Nama, basters y coloured** — los nama comparten lengua con los damara y sufrieron el

@@ -43,8 +43,10 @@ central, prácticamente ninguno. **Y tu ventana juega a
 favor, ahora con fuente oficial** ✅: la guía británica
 *([TravelHealthPro/NaTHNaC](https://travelhealthpro.org.uk/country/157/namibia))* clasifica estas
 regiones como de riesgo alto **solo de diciembre a abril** — de mayo a noviembre recomienda
-únicamente evitar picaduras, **sin quimioprofilaxis**. El riesgo bajo no es riesgo cero: la
-consulta del CVI decide, con ese dato encima de la mesa.
+únicamente evitar picaduras, **sin quimioprofilaxis**. ⚠️ *Es la guía **británica** la que rebaja
+por meses; la del **CDC** recomienda quimioprofilaxis en esas regiones sin distinguir estación
+(verificado el 25/08). Las dos guías oficiales discrepan.* El riesgo bajo no es riesgo cero: la
+consulta del CVI decide, con las dos encima de la mesa.
 
 **La profilaxis marca la cuenta atrás**, porque cada fármaco tiene su plazo — y con Etosha al final
 del viaje (**D10–D13, del 9 al 12 de noviembre**), las fechas reales son:
@@ -263,9 +265,14 @@ ninguna pregunta.
 - **Rabia** ◐ — a valorar por actividad y lejanía: Terrace Bay y Damaraland cumplen el «remote
   areas with limited medical access» de NaTHNaC *(y la pauta ya no es excusa: 2 dosis, días 0 y
   7 — la corrección de arriba)*
-- **Cólera — la pregunta nueva del 14/08** ◐: el CDC dice que «may be considered» para quien
-  viaja a **Kunene**, y el MAEC confirma **brote de cólera en Kunene en junio de 2025** — la ruta
-  entra en Kunene el D7 (Terrace Bay). Que lo pese el CVI con ese dato delante
+- **Cólera — la pregunta nueva del 14/08, ampliada el 25/08** ◐: el CDC dice que «may be
+  considered» para quien viaja a **Kunene Y Otjozondjupa** —y **Otjozondjupa tiene el caso más
+  reciente: hace 3–6 meses, frente a 6–9 en Kunene** *([CDC Namibia](https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia))*—;
+  [TravelHealthPro](https://travelhealthpro.org.uk/country/157/namibia) fecha el último brote en
+  **diciembre de 2025** *(24 casos, 1 muerte, Kunene y Otjozondjupa)*. El «junio de 2025» del MAEC
+  es literal pero es la cifra vieja. La ruta entra en Kunene el D7 *(Terrace Bay)* **y en
+  Otjozondjupa el D10** *(parte de Etosha, y Otjiwarongo es su capital, en el D14)*. Que lo pese
+  el CVI con ese dato delante
 - **Gripe y COVID al día** ◐ (CDC; la AEV lista la gripe como situacional)
 
 *(De la misma ficha del MAEC, como contexto y sin efecto en el botiquín: un caso de **mpox**

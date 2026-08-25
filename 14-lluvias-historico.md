@@ -17,8 +17,12 @@
 
 ## ⚠️ Limitación de partida: no hay pluviómetro dentro de Etosha
 
-**No existe estación dentro del parque.** La más cercana, Okashana, está a 54 km de Namutoni; el
-resto, entre 96 y 257 km. Así que la serie que se usa es la **caja CHIRPS de 0,05° centrada en
+**No existe estación ACTIVA dentro del parque.** *(Matizado el 25/08: GHCN-Daily sí tiene un
+pluviómetro en la propia Okaukuejo —`WA010517310`, precipitación 1968–2022, con pocos días al
+año—, y tres estaciones históricas ya cerradas en Namutoni, Onguma y Halali. Para una serie diaria
+completa y actual no sirven, y por eso se usa CHIRPS.)* La más cercana de la red SASSCAL,
+Okashana, está a **~61 km** de Namutoni *(el 54 que se decía no se reproduce con las coordenadas
+de la estación)*; el resto, entre 96 y 257 km. Así que la serie que se usa es la **caja CHIRPS de 0,05° centrada en
 Okaukuejo** —satélite calibrado con estaciones—, apoyada en el **Servicio Meteorológico namibio**
 (que sí publica Namutoni), en **SASSCAL** (estaciones reales, todas fuera del parque) y en
 **FEWS NET**.

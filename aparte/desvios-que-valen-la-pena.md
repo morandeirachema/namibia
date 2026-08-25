@@ -106,7 +106,7 @@ este dossier y debería.
 
 - **Horarios, de su propia web** ✅
   *([cheetah.org — day visitors](https://cheetah.org/cheetah-ecolodge/day-visitors/))*:
-  abierto **08:00–17:00**, **364 días al año** · **alimentación de lunes a viernes a las 14:00**
+  abierto **08:00–17:00**, **a diario** · **alimentación de lunes a viernes a las 14:00**
   *(sábados y domingos a las 12:00)*, ~30 min, **incluida con cualquier actividad** · **Cheetah
   Run diario a las 08:00**, 30 minutos, **con reserva previa obligatoria**.
 - **Precios ◐/○, sin confirmar** — su web no los publica ❌: una guía da **tour del centro N$220

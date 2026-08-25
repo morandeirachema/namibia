@@ -348,7 +348,8 @@ ya hace el apaño.
 
 ## 🔌 Electrónica y energía
 
-- [ ] **Adaptadores tipo M ×2** ◐ — comprados **antes de salir**: el Schuko no entra, y no se
+- [ ] **Adaptadores tipo M y D ×2** ◐ — comprados **antes de salir**, y que cubran **los dos tipos**
+      *(Namibia usa M y D; verificado el 25/08)*: el Schuko no entra, y no se
       venden en supermercados españoles. **⚠️ Ojo con el modelo**: los adaptadores «universales»
       genéricos (Travel Blue, Skross 1103180) **excluyen Sudáfrica/Namibia explícitamente** — el
       pin M es más grueso que el que llevan de serie. Hace falta el producto específico: **[Skross
@@ -635,7 +636,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 ```mermaid
 flowchart TD
     A["¿Estan los papeles<br/>IMPRESOS?"] -->|"no"| A1["Imprimir AHORA:<br/>e-visa, reservas,<br/>poliza y telefonos"]
-    A -->|"si"| B["¿Los 2 adaptadores<br/>tipo M en el daypack?"]
+    A -->|"si"| B["¿Los 2 adaptadores<br/>tipo M y D en el daypack?"]
     B -->|"no"| B1["Es el fallo tonto<br/>mas probable del viaje"]
     B -->|"si"| C["¿Medicacion y gafas<br/>en CABINA?"]
     C -->|"si"| C2["¿Powerbank Anker y las baterias<br/>de la camara en CABINA,<br/>con los contactos tapados?"]

@@ -50,7 +50,8 @@ primaria más cercana a Swakopmund, a 30 km bajo la misma corriente de Benguela:
 - **mínimas de noviembre 12,7 °C** *(la madrugada más fría del viaje)*
 - récord de noviembre 38,9 °C (2010), un *berg wind* aislado — manda la media
 
-**Windhoek** ✅ — estación `68110`, 1.700 m, serie **1957–2025**: oct **30,5** · **nov 31,2** · dic
+**Windhoek** ✅ — estación `WA007401540` *(la GSN del aeropuerto de Eros, WMO 68110)*, 1.700 m,
+serie **1957–2025**: oct **30,5** · **nov 31,2** · dic
 **32,1 °C**; mínimas de noviembre **16,3 °C**. Cálido de día, pero a 1.700 m refresca de noche.
 
 **Sesriem** ◐ — **no existe estación que lo mida**, y eso está verificado, no supuesto: descargado el
@@ -61,6 +62,12 @@ le pone **~32,5 °C**, y el dato ◐ de NWR daba **34,1 / 15,5** — **coinciden
 
 > **La conclusión que importa:** «octubre es el peor mes» **solo vale para el interior norte**. En la
 > costa el calor sube despacio de septiembre a enero. Por eso este dossier no usa medias nacionales.
+
+> ✅ **Reproducido el 25/08/2026 desde los ficheros crudos**, sin pasar por el cálculo de julio:
+> descargados de nuevo `WA010517310`, `WAM00068098` y `WA007401540` y recalculadas las medias con
+> las banderas de calidad fuera. **Las catorce cifras de arriba coinciden al décimo de grado** —las
+> tres series, sus años y las mínimas de noviembre—. Es la prueba de no fabricación más fuerte que
+> este documento puede dar: no es que la fuente exista, es que el número sale de ella.
 
 **Fuente:** NOAA GHCN-Daily en AWS S3 —
 `https://noaa-ghcn-pds.s3.amazonaws.com/csv/by_station/{ESTACION}.csv`— más `ghcnd-stations.txt` y
@@ -678,6 +685,58 @@ escribe** — la conversión es optimista, no conservadora.
   del momento sea el que importe. Queda anotado como tarea de revisión, no como corrección aplicada.
 
 ---
+||||||| parent of a30bea1 (Auditoría de no-fabricación: cinco verificadores contra fuente primaria, lo que se reprodujo y lo que estaba mal)
+
+## 🔎 La auditoría de no-fabricación — *(25/08/2026)*
+
+Cinco verificadores independientes, uno por bloque —dinero y reservas · horarios, carreteras y
+normas · fauna · salud, seguro y trámites · clima, astronomía y geografía—, con una sola regla:
+**nada se da por bueno si no se ha abierto la fuente**. Lo que devolvió 403 se anotó como «no
+verificable», no como cierto. Y por mi cuenta, lo que se puede reproducir con cálculo o dato crudo.
+
+**Lo que se REPRODUJO desde fuente primaria, al dígito:**
+
+- 🌡️ **Las catorce cifras de temperatura** de Okaukuejo, Walvis Bay y Windhoek, recalculadas desde
+  los ficheros crudos de NOAA GHCN-Daily *(arriba, §temperaturas)*.
+- 🐾 **Los 51 porcentajes de avistamiento** de Expert Africa —17 especies × 3 campamentos—, leídos con
+  el propio parser del repo, y los agregados del `09` reconstruidos sumando partes. Los recuentos de
+  GBIF citados en el `01`, contra el JSON.
+- 🛏️ **Todas las tarifas de NWR 2026/27** *(camping, Terrace Bay DBB, chalets, actividades, máximo
+  8, aviso de lluvias)*, **las condiciones de NWR** *(20 %/48 h, 30 días, 30/75/100)*, **el rack de
+  Onguma** y **el de Barkhan**, literalmente.
+- ☀️ **Sol y luna** contra el USNO y **mareas** contra tidetime, día a día; luna nueva del 9 de
+  noviembre a las 07:02 UT; **UTC+2 sin horario de verano** desde 2017.
+- 🚗 **Los 80 km/h con caja negra en las condiciones del propio Savanna**, que hasta hoy solo se
+  tenían de Asco. El **triángulo, reg. 233**. El **29 % de muertos 16:00–20:00**: 121 de 413 en la
+  tabla horaria del NRSC 2019.
+- 📞 **Todos los teléfonos de urgencia hospitalarios y de rescate**, contra la web de cada centro
+  *(solo Tsumeb sigue en ◐, que es lo que merece)*. **La Liquor Act, s.46(2)**, cierre en domingo.
+- 📍 **Las ocho coordenadas** muestreadas de `trazado.py`, al metro contra OSM.
+
+**Lo que estaba MAL, y se corrigió:**
+
+- 💳 **Onguma: las condiciones de cancelación estaban en el mismo PDF que el repo citaba** —cancelar
+  el camping es el 100 %, **posponer por escrito no**—. El repo las daba por desconocidas. Cambia
+  cómo se hace el desvío del CCF: se pospone la noche, no se anula.
+- 🎫 **Cape Cross a N$150 + N$50 era la tarifa de 2021**; desde abril de 2026 está en el tramo
+  premium: **N$620 (~€31) los dos**, +N$270. Y **el PDF del MEFT que se citaba como fuente del baremo
+  2026 es la tabla de 2021** —retirado como fuente—.
+- 🚪 **La tabla de horarios de Etosha marcada ✅ es la de 2025**; los tramos de 2026 caen en 2–8 y
+  9–15 nov. Manda la puerta.
+- 🚧 **Sí hay fase 2026 del desvío de obras**, con fecha en prensa *(1 de febrero de 2026, 47 km)*:
+  el D11 se planifica con el desvío, no con la directa.
+- 🦠 **Cólera también en Otjozondjupa**, con el caso más reciente *(3–6 meses, CDC)* y brote de
+  diciembre de 2025; el `04` solo nombraba Kunene. 🔌 **Namibia usa enchufes tipo D y M**, no solo M.
+- 🌙 La luna del **D13 va al ~15 %**, no «0–9». 🌧️ **Sí hay pluviómetro GHCN en Okaukuejo**
+  *(1968–2022)*: el `14` decía que no había ninguna estación en el parque. 🗿 Los grabados de
+  Twyfelfontein: **6.000–2.000 años**, no «2.000–5.000 ✅».
+- Y marcas infladas rebajadas: SABAP1 es una *pers. obs.*; «364 días» del CCF no está en su web;
+  «3,4 km» y «105 km» son enrutado propio, no fuente; Waterberg N$280 no está en la ficha de NWR.
+
+**Lo que sigue sin poderse abrir desde aquí** *(y por eso sigue en ◐ o ❌, no en ✅)*: la gaceta
+8877 del MEFT, el portal del e-visa *(WAF 468)*, las páginas de Lufthansa/Discover, la ficha de
+UNESCO de Twyfelfontein, y la nota de prensa del Ministerio con el diésel de agosto *(que existe y
+dice N$26,26, pero el dominio no resuelve)*.
 
 ## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 24/08/2026)*
 

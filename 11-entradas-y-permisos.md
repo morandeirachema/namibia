@@ -29,19 +29,18 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
     Khorixas o Swakopmund. Visita de ~45–60 min más el paseo desde el aparcamiento.
   - En el presupuesto **va cargada al colchón de misceláneos de `02` §9** (tasas menores).
   - Acceso: **C39 → D2612 → D3254** (señalizado hacia el Country Lodge y el visitors centre).
-  - Fuentes: [Safari2Go/namibian.org — subida de tarifas NHC](https://namibian.org/news/tourism/access-to-namibias-natural-and-cultural-heritage-sites-costs-more) ·
+  - Fuentes: [Safari2Go/namibian.org — subida de tarifas NHC](https://namibian.org/blog/access-to-namibias-natural-and-cultural-heritage-sites-costs-more) ·
     [danesontheroad — visita 2025/26](https://danesontheroad.com/africa/namibia/visit-the-amazing-twyfelfontein-engravings-in-namibia/) ·
     acceso: [siyabona — Twyfelfontein location](https://www.siyabona.com/twyfelfontein-country-lodge_location.html)
 
 - **Cape Cross — colonia de lobos marinos (D7, en la ruta)** ◐
-  - **Lo presupuestado (`02` §5 y `01` §D7): N$150 (~€7,5)/extranjero + N$50 (~€2,5)/coche =
-    ~N$350 (~€18) los dos** ◐ *(reseña de visitante de 2025 + una guía, convergentes)*. Solo
-    **efectivo**, se paga en recepción.
-  - ⚠️ **El tramo exacto sigue abierto — tres cifras en circulación**: reseñas viejas dan
-    **N$80–150**; una secundaria ([namibian.org](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent))
-    sitúa Cape Cross en el baremo **«premium» del MEFT (N$280/adulto)** desde abril de 2026. Si
-    fuera premium, serían **+N$260 (~€13) la pareja** sobre lo presupuestado — lo absorbe el rango.
-    **Confírmalo contra el PDF del MEFT** *(el mismo email pendiente de las tasas, ver `02` y `15`)*.
+  - **Lo presupuestado (`02` §5 y `01` §D7), corregido el 25/08: N$280 (~€14)/extranjero + N$60
+    (~€3)/coche = ~N$620 (~€31) los dos** ◐ — **el tramo premium**. Solo **efectivo**, en recepción.
+  - ✅ **El tramo quedó resuelto al abrir el PDF del MEFT**: los **N$150 + N$50** que se contaban son
+    **la tabla de 2021** *(«with effect from 1 January 2021»)*, y las dos secundarias de 2026 que
+    abren —[namibian.org](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent)
+    *(«Dorob Park, Cape Cross Seal Reserve and Skeleton Coast Park»)* y umhambi— lo ponen en premium.
+    Las reseñas que dan N$80–150 son anteriores a abril de 2026. **+N$270 (~€13,5) la pareja.**
   - **Timing ideal:** el pico de cría es **noviembre-diciembre** (hasta ~210.000 focas) — justo
     vuestras fechas.
   - Acceso por la **C34** al norte de Swakopmund (costa). Gestiona MEFT.
@@ -63,11 +62,12 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
     **desvío opcional del D14** (Onguma → Windhoek vía Grootfontein) — ver `01`.
   - Fuente: [TripAdvisor — Hoba Meteorite](https://www.tripadvisor.com/Attraction_Review-g1137965-d3609771-Reviews-Hoba_Meteorite-Grootfontein_Otjozondjupa_Region.html)
 
-- **Waterberg Plateau** ◐/✅
+- **Waterberg Plateau** ◐
   - **N$280/persona/día (~€14)** — es el **baremo premium del MEFT** vigente desde el **1/04/2026**,
     el mismo que Etosha y Namib-Naukluft (ver `15`).
-  - Fuente: [NWR — Waterberg](https://www.nwrnamibia.com/waterberg-prices.htm) ·
-    baremo en [15-huecos-cerrados.md](15-huecos-cerrados.md)
+  - Fuente: el baremo en [15-huecos-cerrados.md](15-huecos-cerrados.md) *(secundarias concordantes)*.
+    *(La ficha [NWR — Waterberg](https://www.nwrnamibia.com/waterberg-prices.htm) que se citaba como
+    ✅ solo da el camping —N$430— y las habitaciones; **no menciona la entrada** — rebajado a ◐ el 25/08.)*
 
 - **Otjitotongwe Cheetah Farm** ◐
   - Interacción/alimentación de guepardos. En la **C40, a 24 km de Kamanjab hacia Outjo** — es

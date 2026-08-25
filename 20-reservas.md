@@ -228,6 +228,10 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 - 🔴 **Terrace Bay — vie 6 nov (D7)** — **habitación doble en media pensión, N$3.480 (~€174) los
   dos** ✅ *(no hay camping: la fila «Campsite» de su web no existe en el tarifario — error suyo)*.
   **ES LA ÚNICA QUE QUEDA POR RESERVAR con fecha dura.**
+  ⚠️ **Y su ficha web contradice al PDF en más cosas** *(verificado el 25/08)*: la web muestra
+  «Bush Chalet B&B 1.450 pp» y «Campsite 460», que son de otro resort; **el PDF de tarifas es el
+  bueno (1.740 pp DBB, sin camping)**. Al reservar, **pide el importe por escrito**: si la reserva
+  sale por la web, puede llegar con la cifra equivocada.
   ⚠️ **Sin esta reserva confirmada no se cruza Ugabmund a pernoctar** —última entrada **15:00**— y
   el permiso de tránsito obliga a salir del parque el mismo día: **llevadla impresa** *(`11`)*.
   ⚠️ **También bajó un día** *(era el 7)*.

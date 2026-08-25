@@ -125,7 +125,7 @@ DONDE = {
   "flamenco-comun": "⚠️ Lo mismo: **la pan está seca en noviembre**. En cambio en **Walvis Bay el máximo va de junio a noviembre** — allí sí, y en cantidad.",
   "grulla-azul": "**Andoni**, al norte de Namutoni, es el sitio. Pero quedaban **19 aves en 2021** —eran 138 en los 70—: es la población más aislada del mundo, a 1.200 km de la siguiente.",
   "abejaruco-europeo": "**Sí está en vuestras fechas**: llega en octubre y en noviembre se registra en el parque. Caza al vuelo desde ramas secas y postes.",
-  "ciguena-abdim": "⚠️ **En noviembre, no.** En Etosha es ave de **febrero y marzo**: en noviembre su tasa de registro es cero. Va aquí para que no la busquéis en balde.",
+  "ciguena-abdim": "⚠️ **En noviembre, casi no.** En Etosha es ave de **febrero y marzo**: en octubre–noviembre GBIF le da 2 registros de 398 en el parque. Va aquí para que no la busquéis en balde.",
   "bateleur": "Se cita sobre **Kalkheuwel**, junto con el milano. Etosha reúne unas 40 rapaces, casi el 70 % de las de Namibia.",
   "buho-lacteo": "En los árboles grandes **dentro de los campamentos** — mira arriba al volver de cenar.",
   "calao-amarillo": "En los tres campamentos, vigilando las mesas del desayuno.",
@@ -215,7 +215,7 @@ FUENTES_ETOSHA = [
   "ningún informe cita en la ruta se queda sin línea: gato de patas negras, águila pomerana, "
   "aguilucho caricalvo y milano; el águila pescadora en Walvis Bay solo la sostiene GBIF, y así se "
   "dice.",
-  "<b>Horarios de puerta:</b> tabla oficial <i>Etosha National Park Gates Opening &amp; Closing Time</i> (3–9 nov 06:13–19:06 · 10–16 nov 06:10–19:10). Cambian cada semana y están puestas en cada puerta.",
+  "<b>Horarios de puerta:</b> tabla <i>Etosha National Park Gates Opening &amp; Closing Time</i> — la que se tenía es la de <b>2025</b> (3–9 nov 06:13–19:06 · 10–16 nov 06:10–19:10); en 2026 los tramos semanales caen en 2–8 y 9–15 nov, a un minuto o dos. Cambian cada semana y están puestas en cada puerta: manda la puerta.",
   "<b>Reglamento del parque</b> (60 km/h, 20 en campamentos, prohibido bajar del coche fuera de los campamentos, prohibido salir de las pistas): <i>Park Regulations</i> de NWR/MEFT.",
   "<b>Rinoceronte negro:</b> MEFT (ficha de Etosha) y NWR confirman león, elefante y rinoceronte negro de noche en Okaukuejo. Lo de «mayor población mundial» es de la <i>subespecie suroccidental</i>: WWF sitúa el 72 % de la población nacional en Etosha.",
   "<b>Impala de cara negra:</b> UICN (Vulnerable, endémica de Kaokoveld y suroeste de Angola) y Matson 2006 — cinco subpoblaciones que coinciden con los cinco puntos de suelta de los años 70.",

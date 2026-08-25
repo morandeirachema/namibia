@@ -101,9 +101,9 @@ justo al principio de la ventana)*:
 - **IVA y Social Development Levy incluidos**
 - **2 pax: N$1.240 (~€62) por noche → N$2.480 (~€124) las dos** — **N$320 (~€16) más por noche que
   una parcela de Namutoni**, y a cambio la parcela lleva **ducha y wc propios**
-- ❌ *El importe exacto de la reserva y sus **condiciones de cancelación**, sin confirmar — y
-  **decidido el 24/08 no pedirlos**: el cambio de la segunda noche por el CCF se resuelve sobre el
-  terreno, asumiendo la penalización que sea ([la decisión del CCF](aparte/decision-del-ccf.md)).*
+- **Condiciones de cancelación del camping, en el propio rack 2027 de Onguma ✅** *(verificado el 25/08 abriendo el PDF)*: *«In the event of a confirmed reservation being cancelled and not postponed (in writing) 100% cancellation fees will be charged and pre-payments will be non-refundable»* — y **depósito del 50 % al reservar, el otro 50 % 30 días antes**. Es decir: **cancelar la segunda noche cuesta el 100 % (N$1.240 · ~€62); POSPONERLA por escrito, no.** El cambio por el CCF se resuelve sobre el terreno, y ahora se sabe cómo: **no se cancela,
+  se pospone** *([la decisión del CCF](aparte/decision-del-ccf.md))*. ❌ *El importe exacto de la
+  reserva, por confirmar.*
 - ⚠️ **Lo que este cambio cuesta no es el alojamiento**: al no dormir dentro, **el nocturno guiado
   de NWR y la guiada de mañana de Namutoni dejan de ser comprables** —se venden a quien pernocta—,
   **N$2.800 (~€140) la pareja** que salen del plan *(abajo, y `02` §9)*

@@ -302,7 +302,7 @@ al aterrizar y la carga grande en Windhoek ciudad.
   Cash Express en Spar/Woermann/OK) · **Outjo** (FNB + Standard + OK Grocer) · **Kamanjab** (solo
   un Cash Express en Sentra) · **Solitaire** (un Cash Express en el lodge)
 - **NO consta ninguno**: **Sesriem** *(la propia NWR pide llevar reserva de efectivo ✅
-  [nwrnamibia](https://www.nwrnamibia.com/sesriem-cash-credit-cards.htm))* · **Terrace Bay** · y
+  [nwrnamibia](https://www.nwrnamibia.com/sesriem-gate-opening-times.htm))* · **Terrace Bay** · y
   los de **dentro de Etosha** figuran pero con fama de poco fiables ○
 - Límites reportados por viajeros ○: **~N$1.500–2.000 (~€75–100) por operación** con ~N$50–55 (~€2,50–2,75) de comisión
   local *(además de lo que cobre tu banco)*; el del aeropuerto hasta ~N$3.000 (~€150)
@@ -393,7 +393,8 @@ No son una incidencia — son parte del paisaje, y con el kit en la guantera dur
 ⚠️ verificar al llegar)*:
 
 - **E-Med Rescue 24** *(todos los centros principales del país)* — gratuito **924**, también
-  **081 924** / **083 924** / **061 411 600**
+  **924** / **+264 83 924 9111** / **061 411 600** *(los cortos 081 924 / 083 924 de la lista NHP de
+  2024 ya no figuran en la web de E-Med, que publica éstos — 25/08)*
 - **Lifelink Emergency Services** *(centros principales + ambulancia aérea nacional)* — **999** desde
   fijo / **064 500 346**
 - **Medical Rescue Africa** *(ambulancia aérea nacional)* — **912** nacional /

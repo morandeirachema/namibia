@@ -23,7 +23,7 @@ flowchart TD
     R1["1 · El coche YA trae el camping<br/>tiendas, ropa de cama, menaje,<br/>nevera, sillas, compresor"] --> M["LA MOCHILA<br/>petate blando + daypack"]
     R2["2 · Noches de 13-19 C:<br/>forro polar, NO plumas"] --> M
     R3["3 · Dias de 20-25 C en la costa<br/>a 37 C en Etosha:<br/>el enemigo es el CALOR"] --> M
-    R4["4 · Enchufe tipo M:<br/>tu Schuko NO entra"] --> M
+    R4["4 · Enchufes tipo M y D:<br/>tu Schuko NO entra"] --> M
     R5["5 · Namibia funciona con PAPEL:<br/>todo impreso"] --> M
     R6["6 · Maletero justo:<br/>doble cabina + nevera + cajas"] --> M
     style M fill:#2d6a4f,color:#fff
@@ -50,7 +50,7 @@ flowchart TD
    los datos del pueblo dan 19–21 con un 88 % de humedad ◐, la divergencia queda anotada en
    [`15`](15-huecos-cerrados.md) —, **12,7 de madrugada**, niebla y viento) y **la salida de
    Deadvlei** (en marcha a las ~05:10, `01`).
-4. **Enchufe tipo M** ◐ (`04`): **DOS adaptadores comprados online antes de salir** — «el fallo
+4. **Enchufes tipo M y tipo D** ◐ (`04`; Namibia usa los dos — verificado el 25/08): **DOS adaptadores que cubran ambos, comprados online antes de salir** — «el fallo
    tonto más probable del viaje». Matizado el 11/08 ◐: el Europlug fino (tipo C) entra **a veces,
    flojo y con chispazo** en las tomas D, y **no entra** en las M, que son las mayoritarias
    *([worldstandards](https://www.worldstandards.eu/electricity/plugs-and-sockets/m/))*; el Schuko
@@ -85,7 +85,9 @@ flowchart TD
 
 Cuatro de ellos se comprueban **contra una fecha**, y por eso van antes que nada: el **pasaporte**
 tiene que valer hasta el **15/05/2027** y llevar **3 páginas en blanco de verdad** ✅; el **e-visa**
-no se puede pedir sin billete de vuelta, y solo lo emite `eservices.mhaiss.gov.na` ✅ (`04`); la
+no se puede pedir sin billete de vuelta, y se pide en `eservices.mhaiss.gov.na` ✅ (`04`) —*existe
+visado a la llegada en Hosea Kutako, según el MAEC y la misión namibia en Berna, pero es el plan B,
+no el plan*—; la
 **reserva impresa de Terrace Bay** es la que te deja entrar al parque a dormir ✅ (`11`); y el
 **permiso internacional de conducir** — **resuelto ◐ (`04`): con carnet español SÍ hace falta**,
 porque la ley namibia pide el carné en inglés, y lo piden también el alquiler y el seguro.
@@ -136,7 +138,7 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 
 ## 🔌 Electrónica
 
-- **2 adaptadores tipo M** ◐ (`04`) — pedidos online YA, no existen en súper españoles
+- **2 adaptadores tipo M + D** ◐ (`04`) — pedidos online YA, no existen en súper españoles; que cubran los dos tipos, que Namibia usa ambos
 - **Cargador 12 V multi-USB** ○ para el coche (los 12 V «se saltan el problema entero», `04`) +
   **powerbank** grande para las noches sin electricidad en parcela (**enchufe en parcela: sin
   dato** — pregúntalo al reservar NWR)
