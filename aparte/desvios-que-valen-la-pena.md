@@ -383,7 +383,9 @@ documento sea la lista completa de lo de fuera:
 
 ## 🧭 En dos frases
 
-**Del guepardo**: la ruta ya trae tres oportunidades sin mover una sola noche —las **llanuras del
+**Del guepardo**: el plan operativo —qué hacer y a qué hora— está aparte, en
+[el plan del guepardo](plan-del-guepardo.md); aquí va solo de dónde salen los días. La ruta ya trae
+tres oportunidades sin mover una sola noche —las **llanuras del
 este el D12**, la mejor casilla medida del parque *(Namutoni, 50 %)*; **Onguma, con guepardo
 confirmado por escrito, dos noches (D12–D13)**; y el **D13 entero** de Fischer's Pan y Chudop—.
 Y si aun así no sale, **la segunda noche de Onguma se cambia por el CCF** y entra el **Cheetah Run
