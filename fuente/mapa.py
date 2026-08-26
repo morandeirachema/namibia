@@ -200,7 +200,7 @@ def norte(x, y, r=11):
 
 
 def tropico(L, lat=-23.4362):
-    """El tropico de Capricornio: la ruta lo cruza el D6, y viene rotulado en la C14."""
+    """El tropico de Capricornio: la ruta lo cruza el D5, y viene rotulado en la C14."""
     if not (L.sur < lat < L.norte):
         return ""
     _, y = L.xy(lat, L.oeste)

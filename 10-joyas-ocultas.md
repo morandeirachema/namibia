@@ -36,7 +36,7 @@ encontrarlas es la gracia; la urbana tiene pin público y se da)*:
   mismo proyecto, esperando junto a una cabina que no va a sonar. Es **la única con ubicación
   publicada** *(Overlandbirds: **S 22°33,838′ E 17°04,227′**, en pleno centro)* — queda **a ~2 km
   a pie del Craft Centre ○: encaja en la mañana de regalos del D15**, o el D1 si sobran fuerzas.
-- **D8–D9 · Skeleton Coast NP — las POSIBLES** ◐: Wikipedia documenta avistamientos «en partes
+- **D7–D8 · Skeleton Coast NP — las POSIBLES** ◐: Wikipedia documenta avistamientos «en partes
   del parque» y hay foto de agencia de un Lone Man **en un mirador del Skeleton Coast** (Alamy).
   Vuestro tramo **Ugabmund → Terrace Bay → Springbokwasser es exactamente ese terreno**: ojos a
   crestas, lechos de río y salientes junto a la pista, sobre todo al bajar en las paradas. Se
@@ -66,12 +66,12 @@ la polémica de Venecia: [Artnet](https://news.artnet.com/art-world/namibia-pavi
 
 ```mermaid
 flowchart TD
-    D4["D4 · SolitaireSesriem"] --> J1["Circulos de hadas<br/>desde la C19/C27 · gratis"]
-    D5["D5 · Sossusvlei"] --> J2["Circulos junto a Elim Dune<br/>ya dentro de la puerta"]
-    D6["D6 · SesriemWalvis"] --> J3["Refugio de Henno Martin<br/>paso del Kuiseb"] --> J4["Dune 7<br/>llegando a Walvis"]
-    D7["D7 · dia de descanso"] --> J5["Moon Landscape +<br/>Welwitschia Drive<br/>permiso MEFT Swakopmund"] --> J6["Pelican Point +<br/>salinas rosas"]
-    D8["D8 · costa norte"] --> J7["Wlotzkasbaken"] --> J8["Pecio Zeila"] --> J9["LONE MEN +<br/>delta del Uniab"]
-    D9["D9 · Damaraland"] --> J10["Organ Pipes +<br/>Burnt Mountain"] --> J11["Petrified Forest<br/>desvio C39"]
+    D4["D3 · SolitaireSesriem"] --> J1["Circulos de hadas<br/>desde la C19/C27 · gratis"]
+    D5["D4 · Sossusvlei"] --> J2["Circulos junto a Elim Dune<br/>ya dentro de la puerta"]
+    D6["D5 · SesriemWalvis"] --> J3["Refugio de Henno Martin<br/>paso del Kuiseb"] --> J4["Dune 7<br/>llegando a Walvis"]
+    D7["D6 · dia de descanso"] --> J5["Moon Landscape +<br/>Welwitschia Drive<br/>permiso MEFT Swakopmund"] --> J6["Pelican Point +<br/>salinas rosas"]
+    D8["D7 · costa norte"] --> J7["Wlotzkasbaken"] --> J8["Pecio Zeila"] --> J9["LONE MEN +<br/>delta del Uniab"]
+    D9["D8-D9 · Damaraland"] --> J10["Organ Pipes +<br/>Burnt Mountain"] --> J11["Petrified Forest<br/>desvio C39"]
     D14["D14 · vuelta"] --> J12["Lago Otjikoto<br/>B1, de frente"] --> J13["Hoba"]
     style J9 fill:#C2542F,color:#fff
     style J12 fill:#2d6a4f,color:#fff
@@ -108,8 +108,8 @@ Fuentes ○: [WhereToStay](https://www.wheretostay.co.za/topic/6283-dune-7-walvi
 ### D6 · Pelican Point y las salinas rosas
 Península con **faro de 1932** (hoy lodge) y lobos marinos a tiro de piedra; el acceso cruza las
 **salinas rosas llenas de flamencos**. La lengua de arena, mejor **en tour** (combinable con
-Sandwich Harbour, que va con la marea — **la del D7 ya está medida: bajamar 07:18, la ventana es
-la salida de la mañana, ver `01` y `15`**) — con tu coche es terreno de atasco y el contrato no
+Sandwich Harbour, que va con la marea — **la del D6 ya está medida: bajamar 06:37, la ventana es
+la salida de la mañana, ver `01` y `20` §7**) — con tu coche es terreno de atasco y el contrato no
 está para bromas. Precio del tour: sin dato en N$ — pregúntalo allí.
 Fuentes ◐/○: [sandwich-harbor.com](https://www.sandwich-harbor.com/tours) ·
 [Tripadvisor](https://www.tripadvisor.com/AttractionProductReview-g298358-d20045116-Pelican_Point_Seal_Colony_4x4_Tour-Walvis_Bay_Erongo_Region.html)
@@ -119,7 +119,7 @@ Badlands lunares del valle del Swakop y **ruta autoguiada de 13 paradas** que ac
 welwitschia de **~1.500 años**, con el oasis de Goanikontes en medio. **Permiso obligatorio en la
 oficina del MEFT en Swakopmund** (Bismarck Str. esq. Sam Nujoma Ave.) — los blogs citan N$50–80 (~€2,5–4) +
 vehículo, pero es Namib-Naukluft (parque premium): **cuenta con N$280 (~€14)/adulto y confírmalo
-en la oficina**. ⚠️ La oficina cierra el fin de semana según blogs — **tu D7 es viernes** ✓.
+en la oficina**. ⚠️ La oficina cierra el fin de semana según blogs — **tu D6 es jueves** ✓.
 Fuentes ○/◐: [The Orange Backpack](https://theorangebackpack.nl/en/namibia/the-welwitschia-drive/) ·
 [Drive South Africa](https://www.drivesouthafrica.com/blog/what-you-need-to-know-about-the-welwitschia-drive-in-namibia/) ·
 tarifas: [namibian.org](https://namibian.org/blog/namibia-raises-park-fees-by-80-to-100-percent)

@@ -396,7 +396,7 @@ ya hace el apaño.
 - [ ] Móvil con **Tracks4Africa** ✅ y mapas offline **descargados** — y las otras tres apps,
       TAMBIÉN antes de salir ○: **iOverlander** *(campings y aguadas — útil para los tres sin
       tarifa)*, una de **cielo/estrellas con modo offline** *(las noches de luna nueva del
-      9–12, `01`)* y una de **previsión marina/viento y marea** para el día de mar del D7
+      9–12, `01`)* y una de **previsión marina/viento y marea** para el día de mar del D6
       *(Sandwich Harbour va con la bajamar, `20` §7)*
 - [ ] Reloj o despertador que no dependa de la batería del móvil ○ — **[TFA Dostmann Mini
       Digital Alarm Clock](https://www.amazon.es/dp/B0DDQ1MNW8)** ✅ 7,49 € (Amazon)

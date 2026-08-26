@@ -163,7 +163,7 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   refutada por abajo**: su tramo «Cape Cross → Terrace Bay ~200 km» era **menor que la línea
   recta entre los dos puntos (220 km)** — el mismo argumento que tumbó el «~85 km» de
   Twyfelfontein–Hoada. Para el día con hora de puerta, **cuenta ~410**.
-- **Salida de la costa (D9) — Terrace Bay → Twyfelfontein ~216 km** ◐ *(verificado 03/08)*: es la ruta
+- **Salida de la costa (D8) — Terrace Bay → Twyfelfontein ~216 km** ◐ *(verificado 03/08)*: es la ruta
   **directa por Springbokwasser** (no la vuelta por Khorixas). Desglose: **Terrace Bay → puerta de
   Springbokwasser ~96 km** (por la costa hasta Torra Bay ~50 + tierra adentro ~40–46 a la puerta) →
   **Springbokwasser → Twyfelfontein ~120 km** por la C39 y las D2612/**D3254** *(la numeración
@@ -203,7 +203,8 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   ~105 km** ◐ *(enrutado propio; secundarias 108–110)* — es el primer repostaje del día
 - **La pieza nueva del 21/08**, medida con el mismo enrutado que el resto de la ruta ✅: **puerta
   de Von Lindequist → Onguma Tamboti, 3,4 km** *(coordenadas de OpenStreetMap: 18,7819 S
-  17,0592 E, `camp_site`)*. Es lo que explica los ~16 km que sube el D13 y los ~9 que baja el D14
+  17,0592 E, `camp_site`)*. Es lo que explica los ~16 km que sube el D12 *(salir por la puerta hasta Onguma)*, los ~14 del
+  D13 *(entrar y salir)* y los ~9 que baja el D14
 - **Otjiwarongo → Outjo**: 75 km ◐ — Otjiwarongo es la parada de comida del D14
 
 > ⚠️ **Aviso de fuente:** el bloque del eje central se apoya en una matriz con **copyright de 2010**.
@@ -223,7 +224,8 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   las cifras reverificadas el 03–04/08 (D8 por Springbokwasser, D10, D14) son secundarias
   convergentes ◐ — y **las tres cuadran con OSRM a ±5 km**, que es justo lo que les faltaba.
   El desglose viejo de la costa (~380) **quedó refutado** el 09/08 *(ver §3)*.
-- **La cola Twyfelfontein → Hoada quedó cerrada en ~150 km ◐** (03/08, OSRM 148): el ~85 km que se
+- **La cola Twyfelfontein → Hoada quedó cerrada en ~159 km ◐** *(OSRM 158,7 por Palmwag; el 03/08 se
+  midió en ~150 con un enrutado anterior)*: el ~85 km que se
   manejaba antes está **refutado** por ser menor que la línea recta (~95 km). Con esto **la ruta E
   ya no tiene distancias sin medir**, y **la discrepancia del D10 quedó resuelta el 04/08 en ~340 km**
   *(ver §3)*.
@@ -289,7 +291,7 @@ cifra queda doblemente apoyada.
 - **Numeración del acceso a Twyfelfontein (C39 → D2612 → D3254):**
   https://www.siyabona.com/twyfelfontein-country-lodge_location.html *(◐; corrige el «D3245» de un
   borrador)*
-- **Salida de la costa (D9) Terrace Bay → Twyfelfontein — verificado 03/08 (◐):**
+- **Salida de la costa (D8) Terrace Bay → Twyfelfontein — verificado 03/08 (◐):**
   https://www.distancesfrom.com/na/Twyfelfontein-to-Terrace-bay-Namibia-Route/RouteplannerHistory/6599689.aspx
   *(216 km vía Springbokwasser: 96 + 120)* · puerta de Springbokwasser «40 km east of Torra Bay»
   (https://skeletoncoastparkspringbokwassergate.wheretostay.na/) y «170 km west of Khorixas» +
