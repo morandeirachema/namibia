@@ -46,8 +46,9 @@ flowchart LR
   volver a entrar por la mañana. Son **+30 km** entre los dos días *(`13` §5)*.
 - **Y se gana media hora el D14**: durmiendo fuera no hay que esperar a que la puerta abra.
 - 🐆 **La segunda noche de Onguma tiene salida**: si el guepardo no ha aparecido, se cancela y se
-  baja al **Cheetah Conservation Fund** *(la decisión del D13, entera en
-  [la decisión del CCF](aparte/decision-del-ccf.md))*.
+  se queda: **desde el 26/08 la segunda noche es firme y el desvío al Cheetah Conservation Fund
+  queda descartado** *(el porqué, en [el plan del guepardo](aparte/plan-del-guepardo.md); el
+  descarte razonado, en [su archivo](aparte/decision-del-ccf.md))*.
 
 **Lo común a los campamentos de NWR** ✅ *(fichas de NWR: [Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
 [Halali](https://www.nwr.com.na/resorts/halali-resort/) · [Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/))* —
@@ -264,7 +265,8 @@ por persona y noche** = **N$620 (~€31) por persona**, IVA y Social Development
 por noche que la parcela de Namutoni** que sustituye.
 
 **Condiciones de cancelación del camping, en el propio rack 2027 de Onguma ✅** *(verificado el 25/08 abriendo el PDF)*: *«In the event of a confirmed reservation being cancelled and not postponed (in writing) 100% cancellation fees will be charged and pre-payments will be non-refundable»* — y **depósito del 50 % al reservar, el otro 50 % 30 días antes**. Es decir: **cancelar la segunda noche cuesta el 100 % (N$1.240 · ~€62); POSPONERLA por escrito, no.** La segunda noche se cambia por el Cheetah Conservation Fund **sobre el terreno, posponiéndola
-por escrito, no cancelándola** *([la decisión del CCF](aparte/decision-del-ccf.md), `20` §4)*.
+por escrito, no cancelándola** *(`20` §4)*. **Ya no hace falta para el guepardo** —el desvío al CCF
+se descartó el 26/08—, pero sigue valiendo si algo obliga a mover la noche.
 ❌ **El importe exacto de la reserva, por confirmar.**
 
 ---

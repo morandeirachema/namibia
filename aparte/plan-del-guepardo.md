@@ -111,21 +111,29 @@ vas sin verlo**; no como sustituto.
 
 ---
 
-## 🐆 El plan B que ya está montado: el CCF
+## ❌ El plan B que había, y por qué se ha descartado
 
-Si al final del D12 el guepardo no ha salido, **la segunda noche de Onguma se cambia por el
-[Cheetah Conservation Fund](https://cheetah.org/)** — está entero en
-[la decisión del CCF](decision-del-ccf.md): **331 km por la B1**, la **alimentación de las 14:00**
-el mismo día *(el 12 es jueves, horario de lunes a viernes ✅)* y el **Cheetah Run de las 08:00** a
-la mañana siguiente.
+Hasta el 26/08 la red era ésta: si al final del D12 el guepardo no había salido, **la segunda noche
+de Onguma se cambiaba por el [Cheetah Conservation Fund](https://cheetah.org/)** — 331 km por la B1,
+la alimentación de las 14:00 el mismo día y el **Cheetah Run de las 08:00** a la mañana siguiente.
+Está medido entero en [su archivo](decision-del-ccf.md).
 
-> 💳 **Lo que cuesta cambiar, y está verificado** ✅ *(rack 2027 de Onguma, abierto el 25/08)*:
-> **cancelar la segunda noche cuesta el 100 % — N$1.240 (~€62)**; **POSPONERLA por escrito, no**.
-> Es la diferencia entre escribir «cancel» y escribir «postpone», y son sesenta euros.
+**Se ha descartado, y el motivo es este documento.** Bajar al CCF **gasta el D13**, que es la
+ventana nº 1 de esta lista: el único día del viaje sin traslado y dentro del mejor terreno medido de
+guepardo. Era **cambiar el mejor día de guepardo salvaje por un guepardo seguro y cautivo** — y con
+el guepardo como prioridad declarada, la prioridad es el bicho suelto.
 
-⚠️ **Pero ojo al orden de los factores**: bajar al CCF **gasta el D13 entero**, que es la ventana
-nº 1 de este documento. **Es cambiar el mejor día de guepardo salvaje por un guepardo seguro y
-cautivo.** Si lo que se busca es el bicho suelto, **el CCF es la red, no el plan**.
+> 🎯 **Lo que eso significa en la práctica, dicho sin adornar: ya no hay red.** Nadie va a rescatar
+> el viaje la tarde del D13. **Las cinco ventanas de arriba son todo lo que hay**, y por eso el
+> horario del D13 —puerta a las 06:05, comer en el coche, última hora en llanura— **deja de ser un
+> consejo y pasa a ser el plan**.
+>
+> ✅ **Y a cambio se simplifica todo**: las dos noches de Onguma son **firmes**, no hay que llamar a
+> nadie desde Etosha, no hay que preguntar condiciones de cancelación ❌ y **no queda ninguna
+> decisión de alojamiento abierta dentro del parque** *(`../20-reservas.md` §4)*.
+
+**Lo que sigue vivo del plan B es solo el seguro barato**: **Otjitotongwe el D10** *(ventana nº 5)*,
+que no cuesta ni una noche ni un desvío — solo una llamada para preguntar la hora.
 
 ---
 
@@ -140,8 +148,9 @@ cautivo.** Si lo que se busca es el bicho suelto, **el CCF es la red, no el plan
    hora de luz en llanura. **Sin sundowner.**
 5. **La actividad de Onguma que se compra es el game drive dentro de Etosha** *(N$1.930 · ~€97 pp)*,
    no el sundowner, si es que se compra alguna.
-6. **La decisión del CCF se toma la tarde del D12**, con lo visto en la mano — y si se toma, se pide
-   a Onguma **«postpone», no «cancel»**.
+6. **No hay decisión que tomar en Etosha**: el CCF está descartado y las dos noches de Onguma son
+   firmes. Si el guepardo no ha salido al final del D13, **el viaje se queda con Otjitotongwe**, y
+   eso ya se sabía el D10.
 
 ---
 

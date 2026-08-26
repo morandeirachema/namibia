@@ -125,7 +125,9 @@ Y hay dos que **Namibia da mejor** que los otros dos:
 - 🦏 **Rinoceronte negro**: **82 % en los partes de vuestros campamentos** ✅ y la charca iluminada
   de Okaukuejo, que lo pone a diez metros de noche. Es de los mejores sitios del mundo para verlo.
 - 🐆 **Guepardo**: Namibia tiene **la mayor población del mundo** ◐, y vuestra ruta lo lleva medido
-  —**Namutoni 50 %**— más el **Cheetah Conservation Fund** en el camino de vuelta *(`aparte/desvios`, `aparte/decision-del-ccf`)*.
+  —**Namutoni 50 %**, que ahora se cruza de día en vez de dormirse—, y el plan para exprimirlo está
+  en [el plan del guepardo](plan-del-guepardo.md). *(El Cheetah Conservation Fund del camino de
+  vuelta **quedó descartado el 26/08**.)*
   El Okavango y el Luangwa **no son país de guepardo**: demasiada agua, demasiado árbol y
   demasiado león y hiena.
 
