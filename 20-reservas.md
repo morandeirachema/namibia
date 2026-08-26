@@ -445,11 +445,12 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
 - **El viaje a Oporto — decidido (09/08): se va y se vuelve en coche propio** *(~270 km)*. Queda
   **cotizar para las fechas y reservar el aparcamiento de larga estancia** del aeropuerto Sá
   Carneiro *(17 días, 30 oct – 15 nov)* y los **peajes** ❌. Orden de magnitud, ganchos «desde» ◐:
-  los low cost junto a la terminal rondan **€3,7–5/día** *(~€65–90 los 17 días —
+  los **oficiales de larga estancia más baratos son P6 y P9 «Low Cost», €5,50/día** *(~€88–94 los
+  16–17 días — `02` §8)*; fuera del recinto, con lanzadera, **desde ~€3,3–5/día** *(~€57–85 —
   [parkingoporto.com](https://parkingoporto.com/) ·
   [ParkCare](https://parkcare.es/parking-aeropuerto-oporto) ·
-  [Parkos](https://eu.parkos.com/porto-airport-parking/))* y el oficial del aeropuerto **desde
-  ~€8/día** *(~€135+ —
+  [Parkos](https://eu.parkos.com/porto-airport-parking/))*; y el oficial junto a la terminal,
+  **desde ~€8/día** *(~€135+ —
   [aeropuertoporto.pt](https://www.aeropuertoporto.pt/es/opo/acceso-y-parking/para-mayor-comodidad/parking))*.
   *(El bus directo de ALSA / FlixBus, ~3 h 43 y ~€17 · ~N$340 por persona y trayecto ◐, queda
   archivado de plan B — `02` §8.)*
@@ -514,7 +515,8 @@ Para no gastar llamadas en lo que se cierra allí:
   decididos y en el presupuesto** *(26/08, `02` §9)*.
 - **La lanzadera de Deadvlei** *(N$180 · ~€9/persona ✅)*: en Sesriem.
 - **Las tasas de parque** *(~N$620 · ~€31 al día, pareja + coche ◐)*: en cada puerta, por cada 24 h.
-- **Cape Cross** *(~N$350 · ~€18 los dos ◐)*: **en efectivo** en recepción — y vuestro día, el 6
+- **Cape Cross** *(~N$620 · ~€31 los dos ◐ — tramo premium desde abril de 2026; el N$350 que
+  circulaba era la tabla de 2021)*: **en efectivo** en recepción — y vuestro día, el 6
   nov, **abre a las 10:00**, no a las 08:00 *(la raya está en el 16 de noviembre, así que adelantar
   el día no cambia nada — `01` §D7)*.
 - **Twyfelfontein** *(N$270 · ~€13,5/persona ◐)*: visita guiada obligatoria, **solo efectivo**, se

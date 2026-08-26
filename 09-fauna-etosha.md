@@ -115,7 +115,7 @@ la rata dassie en las peñas de Twyfelfontein, el lagarto de nariz de cuña en l
 por donde se camina. Y las 33 del 15/08, con 29 líneas sacadas de veintidós informes de viaje de octubre-noviembre leídos enteros —el autillo africano en su árbol de Halali, el halconcito dentro del pajar de Sesriem, el águila cafre en el alto de Spreetshoogte— y cuatro sin ella porque ningún informe las cita en la ruta: gato de patas negras, águila pomerana, aguilucho caricalvo y milano.)* Las 48 fichas restantes **no llevan esa línea**: no apareció información
 específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
 
-### Y diez avisos que corrigen lo que dicen las webs de safaris
+### Y once avisos que corrigen lo que dicen las webs de safaris
 
 - **Flamencos: en noviembre no hay.** La depresión está seca —la NASA la fotografió «bone dry» en
   diciembre— y solo crían cuando la lluvia pasa de 400 mm, algo que ocurrió **tres veces en cuarenta

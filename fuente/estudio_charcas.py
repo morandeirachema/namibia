@@ -164,8 +164,8 @@ flowchart LR
   *({leo['lo']:.0f}–{leo['hi']:.0f} frente a {leo_ok['lo']:.0f}–{leo_ok['hi']:.0f})*. Es **la única
   charca del parque con fama de leopardo que además la sostienen los números**, y encaja con lo que
   ya decía el [`09`](../09-fauna-etosha.md): «Halali y Goas para el leopardo».
-- 🐆 **El guepardo es de Namutoni**, y esto confirma el **{gue['pct']} %** que el README lleva
-  citando: *({gue['k']}/{gue['n']})*, intervalo **{gue['lo']:.0f}–{gue['hi']:.0f}**, y **por encima
+- 🐆 **El guepardo es de Namutoni**, y esto confirma el **{gue['pct']} %** que el `01` y el `11`
+  citan: *({gue['k']}/{gue['n']})*, intervalo **{gue['lo']:.0f}–{gue['hi']:.0f}**, y **por encima
   de los otros dos sin solaparse**. Con {gue['n']} partes el intervalo es ancho —hay que decirlo—,
   pero **aun así se separa**: la afirmación aguanta.
 - 🦏 **El rinoceronte negro es de Okaukuejo.** **{rin['pct']} %** *({rin['k']}/{rin['n']})* contra el

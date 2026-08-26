@@ -732,12 +732,13 @@ flowchart LR
   RESERVADO con Savanna, es cifra cerrada (€2.363 los 15 días completos). Sumando
   vuelos (**€3.072, EMITIDOS el 10/08**) y seguro IATI Estrella (€226,04 — **contratado el 24/08 con
   el código de Chavetas**, `20` §3):
-  **~€7.872 (~N$157.400) la pareja · ~€3.936 por persona** (ver `02`; actualizado el 24/08 —
-  **−€60 por persona** sobre la cifra del 21/08, y **€70 de esa bajada son las dos salidas guiadas
-  que ya no se pueden comprar**, no un ahorro)*
-- ➕ **Opcional, sin decidir: el Sundowner Drive de Onguma — N$1.960 (~€98) los dos** ✅.
-  Queda **fuera** del total de arriba a propósito, pero **ojo: es lo que sustituye al nocturno
-  perdido**. Cogiéndolo, las actividades vuelven a ~€246 la pareja
+  **~€8.164 (~N$163.300) la pareja · ~€4.082 por persona** (ver `02`; actualizado el 26/08 —
+  **+€146 por persona** sobre la cifra del 24/08 por **las dos actividades de Onguma, decididas**;
+  la bajada del 24/08 fueron €70 de salidas guiadas que ya no se pueden comprar, no un ahorro)*
+- ✅ **Decidido el 26/08, y ya dentro del total de arriba**: el **Sundowner Drive de Onguma el D12
+  — N$1.960 (~€98) los dos** ✅, que es lo que sustituye al nocturno perdido, y el **game drive
+  guiado dentro de Etosha el D13 — N$3.860 (~€193) los dos** ✅, que sustituye a la guiada de mañana
+  de Namutoni y es la única actividad de Onguma que sirve para el guepardo
 
 ### ⛽ Las gasolineras, etapa a etapa — cuáles son OBLIGATORIAS y cuáles opcionales
 

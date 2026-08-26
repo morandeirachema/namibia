@@ -124,7 +124,7 @@ cálculo reproduce los números ya publicados** en las celdas conocidas:
 Tres regímenes distintos (meseta, sabana, desierto) clavados a **±0,04 °C**: el mismo tubo de
 cálculo aplicado a los puntos sin medir es fiable. Con eso:
 
-- 🏔️ **Spreetshoogte** *(campamento del D2–D3, borde de la escarpa ~1.700 m)* — **media de máximas de
+- 🏔️ **Spreetshoogte** *(campamento del D2, borde de la escarpa ~1.700 m)* — **media de máximas de
   noviembre 31,5 °C / mínima 17,1 °C** ◐ *(ERA5, celda −24,00 / 16,00)*. **Corrobora el proxy de
   Windhoek** que ya usaba `01`: misma altitud, mismo clima de meseta. Días extremos de la serie
   entre 22,5 y **38,0 °C**. Como es meseta —el terreno donde ERA5 apenas tiene sesgo— el número se
@@ -512,12 +512,12 @@ ficha** *(el más registrado allí es R. diporus, no el boultoni de la hipótesi
 dato de este archivo)* y el **eslizón de roca occidental** *(los «machos casi negros» no tienen
 frase publicada — flecos de fuente)*.
 
-**Y un hueco de método que se asume por escrito**: el campamento de **Spreetshoogte (D2–D3) no
+**Y un hueco de método que se asume por escrito**: el campamento de **Spreetshoogte (D2) no
 cae en ninguna de las cuatro zonas medidas** — sus fichas no pueden llevar banda de allí. Los
 informes de birding del paso citan el chat de Herero *(restringido a Namibia y Angola, y no
 garantizado: WINGS lo buscó en 2026 «without success»)*, collalbas y escribanos. Si algún día
 hace falta, el arreglo es una caja nueva en `CAJAS` de `avistamientos.py`; hoy se prefiere
-asumir el hueco a montar una zona para dos noches.
+asumir el hueco a montar una zona para una noche.
 
 **El archivo de la consulta puntual del 08/08/2026** *(API de GBIF sobre los polígonos de las
 zonas; NO está en el JSON del build —que solo guarda totales y oct–nov— y por eso se deja aquí
@@ -633,7 +633,8 @@ y los **PDF de rack** que cuelga, **uno por año tarifario**.
 - **Lo que dice el rack que aplica** ✅ *([«2026 RACK CAMPING»](https://www.barkhan.africa/2026%20RACK%20CAMPING.pdf) — **01 dic 2025 a 30 nov 2026**)*: **Spreetshoogte Campsite estándar
   N$290 (~€14,50) por persona y noche**, **VIP con baño propio en la parcela N$680 (~€34)** y
   **Farmhouse N$225 (~€11)**; niño de 2 a 10 años, N$70 (~€3,50). Wifi gratis, parcela «stand
-  only», **máximo 4 adultos**. Para las dos noches de los dos: **N$1.160 (~€58)** en estándar.
+  only», **máximo 4 adultos**. Para una noche de los dos: **N$580 (~€29)** en estándar *(hasta el
+  24/08 eran dos: N$1.160)*.
 - ⚠️ **La trampa, y por dos semanas**: **el año tarifario de Barkhan va de DICIEMBRE a NOVIEMBRE**,
   no de noviembre a octubre como el de NWR. El PDF titulado **«2027» arranca el 01/12/2026**, así
   que sus N$300 **no son los de este viaje** — las noches del 1 y 2 de noviembre de 2026 caen en
@@ -675,7 +676,7 @@ escribe** — la conversión es optimista, no conservadora.
 - **El efecto, acotado**: el desfase de ~19 frente a ~20 son **~5 %** *(y hasta ~7 % si toca la
   banda baja de 18,6)*, pero **solo sobre lo que se paga en N$ sobre el terreno** —combustible,
   comida, tasas de parque, camping y actividades—. **Las partidas grandes NO se mueven**: el vuelo
-  *(€1.536 p.p., emitido)*, el coche *(€/día)* y el seguro *(€25/día)* ya están en euros. Por eso el
+  *(€1.536 p.p., emitido)*, el coche *(€/día)* y el seguro *(€226 la pareja, ~€13/día)* ya están en euros. Por eso el
   total del `02` es **mucho menos sensible de lo que el titular sugiere**. Ejemplo tangible: la tasa
   de N$280 que el `15` §Tasas convierte en **~€14** al convenio son **~€14,7–15** al mercado real.
 - 👉 **Acción — y lo que NO se hace esta noche**: **no se reescriben los precios**. El ~N$20
@@ -1018,7 +1019,7 @@ o de un email)*:
   camping ❌ · el **check-out del camping de Windhoek el D15** y si se puede volver por la tarde ❌
   *(`01` §D15)* · los **horarios de desayuno/restaurante** de los campamentos NWR y de Joe's ❌
   *(`01` §horarios)*.
-- 📡 **Cobertura móvil en la escarpa de Spreetshoogte y la D1275** (noches D2–D3): **sin dato** ❌
+- 📡 **Cobertura móvil en la escarpa de Spreetshoogte y la D1275** (noche D2): **sin dato** ❌
   — trátala como silencio *(`07` §Cobertura)*.
 - 📷 **Tarifas 2026/27 de ProHire y Capture Namibia** *(alquiler de cámara en Windhoek)*: la
   publicada caduca el 31 de octubre — pedir por escrito ❌ *(equipo de fotografía, en el repo
@@ -1028,9 +1029,10 @@ o de un email)*:
   (N$6.900–17.500 según ruta y grupo), todos desde Swakopmund o Kulala.~~ **DESCARTADO (24/08):
   el viajero decide no hacerlo** — el día de mar del D7 es la excursión a Sandwich Harbour en 4x4
   (`20` §7).
-- 🎫 **El tramo exacto de Cape Cross** *(¿N$150 o el baremo premium de N$280?)*: presupuestado
-  N$150+50 ◐ con la banda alta dentro del rango — mismo email del MEFT que la tabla fina de
-  tasas *(`11`)*. · La **parcela de Waterberg**: cifra fina sin extraer *(`11` §huecos)*.
+- 🎫 ~~**El tramo exacto de Cape Cross**~~ **cerrado a nivel ◐ (25/08)**: tramo premium, **N$280 +
+  N$60 = N$620 (~€31) los dos** *(arriba, §Lo que estaba mal)*; queda el PDF primario del MEFT sin
+  abrir, como para el resto de tasas. · La **parcela de Waterberg**: cifra fina sin extraer
+  *(`11` §huecos)*.
 
 ---
 

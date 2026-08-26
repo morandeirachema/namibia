@@ -70,13 +70,13 @@ pie showData
     "Tasas de parque" : 248
     "Visado x2" : 160
     "Miscelaneos" : 150
-    "Actividades" : 148
+    "Actividades" : 440
 ```
 
-> **Vuelo y coche son el 69 % del viaje.** El vuelo está **EMITIDO (10/08: €3.072 los dos)** y el
+> **Vuelo y coche son el 67 % del viaje.** El vuelo está **EMITIDO (10/08: €3.072 los dos)** y el
 > coche **RESERVADO (12/08: €2.363 los dos, los 15 días completos con Savanna)** — las dos
 > partidas grandes ya cerradas, no estimadas.
-> Todo lo demás junto (~€2.437 de la pareja) pesa menos que ellas dos.
+> Todo lo demás junto (~€2.729 de la pareja) pesa menos que ellas dos.
 
 ---
 
@@ -282,11 +282,12 @@ búsqueda de 08/2026 apunta a que la subida es de **dos tramos** —los parques 
 **ninguna fuente se pudo descargar para confirmar en qué tramo cae cada parque** *(MEFT, NWR, namibian.org,
 safarifind y el blog: todos egress/403)*. Etosha es premium sin discusión *(es la cifra N$280 que repiten
 todas las fuentes)*; **Namib-Naukluft** fue siempre de la banda emblemática de N$150, así que muy
-probablemente también premium; **la unidad de Skeleton Coast es la MENOS segura** de las tres —podría ser
-del tramo estándar (~N$200) y, además, `11` registra que el **permiso de tránsito self-drive del sector
-Ugabmund–Springbokwasser es GRATIS** ◐, distinto de la tasa de conservación de Terrace Bay. **Dirección
-del riesgo: a la BAJA** —si Skeleton Coast no es premium o su tránsito no se cobra, la cifra sobra, no
-falta—, así que el total de tasas queda holgado. Confírmalo en recepción/al reservar.
+probablemente también premium; **la unidad de Skeleton Coast** se marcó un tiempo como la menos
+segura de las tres —podía ser del tramo estándar, ~N$200—, pero **el 15/08 quedó en premium como las
+otras dos** *(`15` §Tasas)*: **el riesgo a la baja por ese lado queda descartado**. Lo que sigue en
+pie es que `11` registra el **permiso de tránsito self-drive del sector Ugabmund–Springbokwasser
+como GRATIS** ◐, distinto de la tasa de conservación de Terrace Bay. Confírmalo en recepción/al
+reservar.
 
 **La ruta cruza tres zonas de pago:**
 - **Namib-Naukluft** (Sesriem/Sossusvlei): ~2 unidades de 24 h (tarde de llegada + amanecer en Deadvlei).
@@ -467,9 +468,10 @@ la mañana entera del primero y el día 14 completo.** Tres consecuencias, todas
    los **€113,02 p.p.** de la cotización, sin descontar — la cifra conservadora.)*
 2. ✅ **El coche: RESERVADO — 15 días completos, con transfer aeropuerto ↔ oficina** — 31 oct
    11:00 → 14 nov 18:00, el día del vuelo de vuelta (20:45). Precio cerrado *(§2)*.
-3. ✅ **Las noches de NWR no se tocan.** Las del 31 de octubre (Windhoek) y del 1–2 de noviembre
-   (Spreetshoogte, decidido 08/08) **no son NWR**: la primera noche NWR sigue siendo Sesriem el
-   3 de noviembre, y todas las de parque caen del **1 de noviembre** en adelante, en tramo barato.
+3. ✅ **Las noches de NWR no se tocan.** Las del 31 de octubre (Windhoek) y del 1 de noviembre
+   (Spreetshoogte, una sola noche desde el 24/08) **no son NWR**: la primera noche NWR es Sesriem
+   el **2 de noviembre** *(reservada 2–3 nov)*, y todas las de parque caen del **1 de noviembre**
+   en adelante, en tramo barato.
 
 ### 🚗 Y el precio de salir de Oporto: **~270 km hasta el aeropuerto — en coche propio**
 
@@ -609,6 +611,12 @@ por decisión: por imposibilidad.** Lo que queda comprable es **2 salidas de ma�
 D11 y Halali el D12 — N$650 pp ✅)* + la **lanzadera de Deadvlei** *(N$180 pp ✅)* = **N$2.960
 (~€148) la pareja / ~€74 por persona**. Cada tarde guiada extra: **+N$1.300 (~€65) la pareja**.
 
+➕ **Y desde el 26/08 entran las dos de Onguma, decididas** ✅: el **Sundowner Drive del D12**
+*(N$980 · ~€49 pp)* —lo que sustituye al nocturno— y el **game drive guiado dentro de Etosha del
+D13** *(N$1.930 · ~€97 pp)* —la única actividad de Onguma que sirve para el guepardo,
+`aparte/plan-del-guepardo.md`—. **N$5.820 (~€291) la pareja más**, que llevan la partida a
+**N$8.780 (~€439) la pareja / ~€220 por persona**.
+
 > ### ⚠️ Los N$2.800 (~€140) que se caen del total, y por qué
 > Las salidas de NWR **se compran durmiendo la víspera en ese campamento**. Al cambiar Namutoni por
 > la segunda noche de Onguma, **las dos últimas noches se duermen fuera del parque**, así que
@@ -619,13 +627,16 @@ D11 y Halali el D12 — N$650 pp ✅)* + la **lanzadera de Deadvlei** *(N$180 pp
 > **El total de §10 baja €70 por persona por esto**, y conviene no leerlo como un ahorro: es una
 > actividad decidida que se pierde.
 >
-> ➕ **Lo que la sustituye tiene precio verificado y está FUERA del total, a propósito**: el
+> ➕ **Lo que la sustituye tiene precio verificado y desde el 26/08 está DENTRO del total**: el
 > **Sundowner Drive de Onguma, N$1.960 (~€98) la pareja ✅** —sale al atardecer y vuelve de noche,
-> **con foco y campo a través**— y el **paseo guiado a pie, N$1.960 (~€98) la pareja ✅**, que Etosha
-> no permite en ninguna circunstancia. **Cogiendo el sundowner, la partida de actividades vuelve a
-> ~€246 la pareja (~€123 pp)** y se recupera lo perdido con N$460 (~€23) de más.
-> ⚖️ Ojo al choque de horarios: hacerlo obliga a **salir del parque hacia
-> las 17:00** y renunciar a la última tarde de charcas *(`01` §D13)*. ⚠️ Horarios de salida ❌ no publicados y
+> **con foco y campo a través**— **el D12**, y el **game drive guiado dentro de Etosha, N$3.860
+> (~€193) la pareja ✅**, **el D13** a primera hora. *(El **paseo guiado a pie, N$1.960 (~€98) la
+> pareja ✅**, que Etosha no permite en ninguna circunstancia, sigue fuera.)* Con los dos, la partida
+> de actividades pasa a **~€439 la pareja (~€220 pp)**: se recuperan los €140 perdidos **y €151
+> más** — el sundowner cuesta N$460 (~€23) la pareja más que el nocturno al que sustituye, y el
+> game drive, casi el triple que la guiada de NWR.
+> ⚖️ El choque de horarios está resuelto: **el sundowner va el D12**, así que el D13 queda entero
+> para la llanura *(`01` §D13, `aparte/plan-del-guepardo.md`)*. ⚠️ Horarios de salida ❌ no publicados y
 pre-reserva incierta en temporada de lluvias: **se cierra en recepción al llegar** *(`01`)*.
 **El día de mar en Walvis, decidido (24/08): la excursión guiada a Sandwich Harbour en 4x4** —el
 crucero de delfines y lobos sigue abierto como alternativa o complemento, sin decidir. Sigue
@@ -650,7 +661,7 @@ flowchart LR
     n2["Alojam.<br/>385"]
     n3["Combust.<br/>228"]
     n4["Comida<br/>140"]
-    n5["Tasas, seguro, visado,<br/>safaris y varios<br/>466"]
+    n5["Tasas, seguro, visado,<br/>safaris y varios<br/>612"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
@@ -673,18 +684,20 @@ flowchart LR
   premium desde 2026, corregido el 25/08)*
 - 🩺 Seguro **€113,02** ✅
 - 🛂 Visado **€80** ✅
-- 🎯 Actividades **~€74** ✅ *(tarifas NWR verificadas: 2 guiadas de mañana + lanzadera de Deadvlei.
-  **Eran €144 hasta el 24/08**: el nocturno y la guiada de Namutoni se caen al dormir fuera — §9)*
+- 🎯 Actividades **~€220** ✅ *(tarifas verificadas: 2 guiadas de mañana de NWR + lanzadera de
+  Deadvlei = €74, más **el Sundowner del D12 y el game drive dentro de Etosha del D13, de Onguma,
+  €146 — decididos el 26/08**. El nocturno y la guiada de Namutoni se cayeron al dormir fuera — §9)*
 - 🧷 Misceláneos **~€75** ○
 
-> ### **TOTAL POR PERSONA: ~€3.936 (~N$78.700)** *con el coche y ocho noches cerrados*
-> ### **TOTAL LA PAREJA: ~€7.872 (~N$157.400)**
-> Rango honesto: **€3.790–4.090 por persona** — el margen (±~€150) está en las noches sin
+> ### **TOTAL POR PERSONA: ~€4.082 (~N$81.600)** *con el coche y ocho noches cerrados*
+> ### **TOTAL LA PAREJA: ~€8.164 (~N$163.300)**
+> Rango honesto: **€3.940–4.240 por persona** — el margen (±~€150) está en las noches sin
 > precio, el combustible, la comida y los misceláneos; el coche, el vuelo y las noches reservadas
-> son precio cerrado. *(El 21/08 la cifra era €3.990. **Baja €60 por persona**, y el reparto no es
-> el que parece: **−€70 de actividades** que ya no se pueden comprar *(§9)* y **−€14,50 de la noche
-> de Spreetshoogte que se quita**, contra **+€8 de la segunda de Onguma**, **+€3,50 de
-> combustible** y **+€13 de la noche nueva de Twyfelfontein** en la estimación.)*
+> son precio cerrado. *(El 21/08 la cifra era €3.990; el 24/08 bajó a €3.936 —**−€70 de
+> actividades** que ya no se pueden comprar *(§9)*, **−€14,50 de la noche de Spreetshoogte que se
+> quita**, contra **+€8 de la segunda de Onguma**, **+€3,50 de combustible** y **+€13 de la noche
+> nueva de Twyfelfontein**, más redondeos de las partidas estimadas—; y **el 26/08 sube a €4.082:
+> +€146 por las dos actividades de Onguma, decididas** *(§9)*.)*
 >
 > ⚠️ **Y el número tiene un riesgo al alza que antes no tenía**: la **noche del D8 en
 > Twyfelfontein** está presupuestada como camping *(~€35 la pareja)* y **los dos candidatos
@@ -695,7 +708,7 @@ flowchart LR
 > **el Sundowner de Onguma** si se coge *(+€49 pp)* ·
 > **+el traslado a Oporto** ida y vuelta *(ya cotizado el 10/08 en ~€180–185 la pareja ◐/❌ —
 > parking + peajes + combustible, ver §8)* y **+el día extra de seguro** *(❌ sin cotizar)*.
-> **Cuenta ~€4.100 por persona para no llevarte sorpresas.**
+> **Cuenta ~€4.250 por persona para no llevarte sorpresas.**
 
 **Qué parte de este número es sólida: en §11, al final.**
 
@@ -714,29 +727,29 @@ por cabeza:
   Bay, por persona en DBB)* ·
   comida ~€140 ·
   tasas de persona 7 × N$280 = **N$1.960 (~€98) + Cape Cross N$280 (~€14)** · seguro ~€113 ·
-  visado €80 · actividades guiadas ~€74 · misceláneos ~€75 → **~€2.515 (~N$50.300)**
+  visado €80 · actividades ~€220 · misceláneos ~€75 → **~€2.661 (~N$53.200)**
 
 ```mermaid
 flowchart LR
     T["Total por persona segun cuantos vais<br/>EUR · camping"]
-    n0["2 personas<br/>3.936"]
-    n1["3 personas<br/>3.462"]
-    n2["4 personas<br/>3.226"]
+    n0["2 personas<br/>4.082"]
+    n1["3 personas<br/>3.608"]
+    n2["4 personas<br/>3.372"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
-- **2 personas** — **~€3.936 (~N$78.700)/persona** · grupo ~€7.872 (~N$157.400) *(cuadra con el
+- **2 personas** — **~€4.082 (~N$81.600)/persona** · grupo ~€8.164 (~N$163.300) *(cuadra con el
   total oficial de §10, que es el que manda para el plan real)*
-- **3 personas** — **~€3.462 (~N$69.200)/persona** · grupo ~€10.387 (~N$207.700) → *ahorra
-  ~€478/persona (−12 %) respecto a ir dos* — **sin cotizar con Savanna** ❌: su grupo GSXA-1 es
+- **3 personas** — **~€3.608 (~N$72.200)/persona** · grupo ~€10.825 (~N$216.500) → *ahorra
+  ~€474/persona (−12 %) respecto a ir dos* — **sin cotizar con Savanna** ❌: su grupo GSXA-1 es
   camping para 2; para 3–4 puede tocar otro grupo, con otro precio. ⚠️ Y hay un tope:
   **la parcela de Onguma Tamboti admite máximo 2 tiendas / 4 personas** ✅ — y ahora son **dos
   noches** las que dependen de ese tope
-- **4 personas** — **~€3.226 (~N$64.500)/persona** · grupo ~€12.902 (~N$258.000) → *ahorra
-  ~€714/persona (−18 %)* — misma reserva ❌ que la de 3
+- **4 personas** — **~€3.372 (~N$67.400)/persona** · grupo ~€13.486 (~N$269.700) → *ahorra
+  ~€710/persona (−17 %)* — misma reserva ❌ que la de 3
 
 > ⚠️ **Cuatro letras pequeñas antes de invitar a nadie:**
 > 1. **El vuelo (€1.536) está EMITIDO para 2 plazas** — un tercero o cuarto necesitaría su
@@ -753,13 +766,15 @@ flowchart LR
 
 ## 11. Qué parte de este número es sólida
 
-- **✅ Duro — ~€3.187 de los €3.936 (81 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
+- **✅ Duro — ~€3.187 de los €4.082 (78 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
   15 días, RESERVADO con Savanna, €1.181,50 · las 6 noches de Sesriem, Etosha y Onguma €175
   *(**reservadas**)* · Terrace Bay €87 · **Spreetshoogte €14,50** *(una noche, tarifa cerrada el
   24/08)* · seguro €113 · visado €80.
   Todo con precio real para las fechas exactas.
-- **✅ Decidido con tarifa verificada — ~€74**: las **dos** guiadas de mañana que quedan comprables
-  *(Okaukuejo y Halali)* y la lanzadera de Deadvlei — tarifas NWR reales, reserva en recepción.
+- **✅ Decidido con tarifa verificada — ~€220**: las **dos** guiadas de mañana que quedan comprables
+  *(Okaukuejo y Halali)* y la lanzadera de Deadvlei —tarifas NWR reales, reserva en recepción—, más
+  **el Sundowner del D12 y el game drive dentro de Etosha del D13**, del rack 2027 de Onguma
+  *(decididos el 26/08)*.
   *(Eran ~€144 con las cuatro salidas; el nocturno y la guiada de Namutoni se caen al dormir fuera
   del parque — §9.)*
 - **◐ Corroborado o por recotizar — ~€124**: las tasas de parque *(con Cape Cross en premium; la gaceta

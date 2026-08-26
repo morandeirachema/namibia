@@ -12,7 +12,7 @@
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
 [![cuenta atrás](https://img.shields.io/badge/faltan-67_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-7_de_8-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
-[![presupuesto](https://img.shields.io/badge/€3.936-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
+[![presupuesto](https://img.shields.io/badge/€4.082-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
 
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos*
@@ -114,8 +114,8 @@ flowchart LR
    noche)*, **Sesriem ×2** *(2–3 nov)*, **Okaukuejo** *(9–10)*, **Halali** *(10–11)* y
    **[Onguma Tamboti](https://onguma.com/) ×2** *(11–13)*, ya **fuera** de la puerta de Von
    Lindequist. **Namutoni se anuló.** *(Contador: **8 noches cerradas de 14**; quedan Terrace Bay
-   —con tarifa ✅ pero sin reservar— y las cinco de camping sin tarifa: Walvis ×2, Twyfelfontein,
-   Hoada y Windhoek del D14.)*
+   —con tarifa ✅ pero sin reservar— y las cinco de camping aún sin reservar: Walvis ×2,
+   Twyfelfontein, Hoada *(con banda de precio ◐)* y Windhoek del D14.)*
    ⏳ **Y la noche nueva de Twyfelfontein (D8) NO hay que reservarla**: fuera de parque y en
    temporada hombro, se decide sobre la marcha — **por eso es la red del calendario**, la que se
    sacrifica sin perder un céntimo si el vuelo se retrasa *(`aparte/decision-del-ccf`)*.
@@ -353,9 +353,9 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 ## 💶 El presupuesto — por persona, partida a partida
 
-### ~€3.936 por persona · todo incluido
+### ~€4.082 por persona · todo incluido
 
-Rango honesto: **€3.790–4.090**. El **~81 %** ya está cerrado con precio real, no estimado.
+Rango honesto: **€3.940–4.240**. El **~78 %** ya está cerrado con precio real, no estimado.
 
 </div>
 
@@ -373,12 +373,12 @@ pie showData
     "Combustible" : 228
     "Comida" : 140
     "Seguro" : 113
-    "Misc + actividades" : 149
+    "Misc + actividades" : 295
     "Tasas de parque" : 124
     "Visado" : 80
 ```
 
-*Vuelo y coche son el **69 %** del viaje. Todo lo demás junto son ~€1.219.*
+*Vuelo y coche son el **67 %** del viaje. Todo lo demás junto son ~€1.365.*
 
 - ✈️ Vuelo **€1.536** ✅ *(EMITIDO el 10/08)* · 🚙 Coche **€1.181,50** ✅ *(RESERVADO con Savanna,
   15 días completos — `20` §1)* ·
