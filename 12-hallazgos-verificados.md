@@ -115,7 +115,7 @@ La ficha del MAEC se actualizó el 26/05/2026 — tiene ~7 semanas.
 - https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia
 - https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements
 
-## 7. Las tasas de parque subieron un 80–100 % el 1 de abril de 2026 ✅
+## 7. Las tasas de parque subieron un 80–100 % el 1 de abril de 2026 ◐ *(secundarias concordantes; el PDF primario del MEFT sigue sin abrirse — `02` §5, `15` §Tasas)*
 
 **N$280 (~€14) por adulto internacional y día**, más **N$60 (~€3) por vehículo, por parque y por cada
 24 h**. Es casi el doble de la cifra que sigue circulando por los blogs (N$150), y es de las

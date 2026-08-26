@@ -91,7 +91,7 @@ Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wik
 - 35.970 ha ✅. Su año fiscal corre 1 nov-31 oct, así que las noches del viaje (11-12 nov) caen en
   la tarifa **"2027"**, no en la "2026" — usada aquí: [PDF 2027](https://onguma.com/wp-content/uploads/2026/07/1.-Onguma-2027-Rack.pdf)
   ✅, leído completo:
-  - Campsite Leadwood/Tamboti: N$620+80 tasa = **N$620 (~€31)** — el más barato de toda la lista,
+  - Campsite Leadwood/Tamboti: N$540+80 tasa = **N$620 (~€31)** — el más barato de toda la lista,
     casi lo mismo que el camping dentro de Etosha
   - Bush Camp, Rondavel DBB: **N$3.410 (~€171)** *(cruza con una fuente secundaria independiente,
     R2.782-3.029 pp — mismo orden de magnitud ◐)*

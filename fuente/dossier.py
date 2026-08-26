@@ -357,7 +357,7 @@ def portada(total_paginas=None):
     <div class="datos">
       Un 4×4 con tienda de techo · <b>30 de octubre – 15 de noviembre</b><br>
       Desierto → costa → Damaraland → <b>cuatro noches de safari en Etosha</b><br>
-      ~2.764 km · <b>~€3.990 por persona</b>, todo incluido
+      ~2.798 km · <b>~€4.082 por persona</b>, todo incluido
     </div>
     <div class="pie"><span>{pie_izq}</span><span>{pie_der}</span></div>
   </div>

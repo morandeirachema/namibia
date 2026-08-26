@@ -295,8 +295,9 @@ sale de esto, y que el [`07`](07-logistica.md) ya aplica en general:
 
 ## 🕳️ Lo que esta ficha no pudo cerrar
 
-**El importe exacto de la reserva de Onguma** ❌ *(el rack da N$1.240 · ~€62; el dato recibido,
-€132, era el de dos noches)* · **si Onguma hace night drive de verdad y a qué precio** ❌ *(su
+**El importe exacto de la reserva de Onguma** ❌ *(el rack da N$1.240 · ~€62 la noche, **N$2.480 ·
+~€124 las dos**; el dato recibido es **€132** — **+€8 que nadie ha explicado**, quizá el cambio del día
+o el depósito: **pregúntalo antes de pagar el segundo 50 %**)* · **si Onguma hace night drive de verdad y a qué precio** ❌ *(su
 tarifa 2027 solo lista el sundowner)* · **La distancia exacta parcela → charca en Okaukuejo** ❌
 *(nadie la publica; «un paseo» en todas las reseñas)* · **wifi y cajeros en los tres del parque**
 ❌ *(NWR no lo publica; solo «cobertura irregular» en Halali ○ — Onguma sí anuncia wifi en

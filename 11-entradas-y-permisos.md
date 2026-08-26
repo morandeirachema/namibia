@@ -72,7 +72,8 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
 - **Otjitotongwe Cheetah Farm** ◐
   - Interacción/alimentación de guepardos. En la **C40, a 24 km de Kamanjab hacia Outjo** — es
     decir, **de camino el D10** (Hoada → Kamanjab → Outjo → Etosha, ver `01`). Alimentación
-    **~15:00** (16:00 en invierno).
+    **~15:00 ◐ — pero una fuente reciente dice 16:00 ❌: no coinciden, pregunta la hora al avisar**,
+    porque de ella depende a qué hora se sale de Hoada *(`aparte/plan-del-guepardo.md`)*.
   - **~US$33 (~€30; ~N$610)** el paseo (◐, una reseña). Los no alojados deben **avisar antes**;
     cerrado fines de semana según una fuente.
   - Fuente: [namibweb — Otjitotongwe](https://www.namibweb.com/otjitotongwe.htm)
@@ -326,7 +327,7 @@ El contraste, de un vistazo (N$/persona):
 ```mermaid
 flowchart LR
     T["Coste por persona en N-dolar -<br/>visitas de camino"]
-    n0["Cape Cross<br/>150"]
+    n0["Cape Cross<br/>280"]
     nT["Twyfelfontein<br/>270"]
     n1["Hoba<br/>250"]
     n2["Brandberg<br/>270"]
@@ -354,8 +355,8 @@ flowchart LR
 
 - **Cape Cross:** el **tramo exacto** de la tabla MEFT no se pudo verificar contra el PDF primario
   (bloqueado): reseñas viejas dan N$80–150, una secundaria lo sitúa en el baremo premium (N$280).
-  **Presupuestado N$150 + N$50 de coche ◐, con el «¿y si es premium?» (+~€13 la pareja) dentro del
-  rango** — ver la ficha de arriba.
+  **Presupuestado N$280 + N$60 de coche = N$620 (~€31) la pareja ◐, corregido el 25/08** *(los
+  N$150 + N$50 anteriores eran la tabla de 2021)* — ver la ficha de arriba.
 - **Waterberg (camping NWR):** la tasa de **parcela** (distinta de la entrada de N$280) no se
   extrajo; solo la entrada.
 - **Kgalagadi:** descartado por decisión del viajero — no se investiga si Asco autoriza el cruce.
