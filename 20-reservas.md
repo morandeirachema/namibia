@@ -257,11 +257,11 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   que **la cena y las actividades se reservan al llegar, en recepción** ✅. Si a esa hora está
 >   cerrada, se pierden las dos la primera noche. *(Con dos noches el daño es menor: lo que no se
 >   cierre el D12 se cierra el D13.)*
-> - 🟡 **Sus condiciones de cancelación siguen sin pedirse** ❌, **y se ha decidido no pedirlas**
->   *(24/08)*: el cambio de la segunda noche por el [Cheetah Conservation Fund](https://cheetah.org/)
->   **se resuelve sobre la marcha** *([la decisión del CCF](aparte/decision-del-ccf.md))*. Queda escrito lo que eso
->   acepta: **la penalización, la que sea, se asume sin conocerla**. Sobre N$1.240 (~€62) el techo es
->   pequeño, que es justo por lo que la decisión aguanta bien sin este dato.
+> - ✅ **Y desde el 26/08 esto deja de tener consecuencias.** El desvío al Cheetah Conservation Fund
+>   **queda descartado** —el D13 es el mejor día de guepardo salvaje del viaje y bajar al CCF se lo
+>   comía entero: [el plan del guepardo](aparte/plan-del-guepardo.md)—, así que **las dos noches de
+>   Onguma son firmes y no hay ninguna que cancelar**. Sus condiciones de cancelación siguen sin
+>   pedirse ❌, pero **ya no bloquean nada**: son solo el seguro por si algo obliga a mover la noche.
 > - **Lo que hay que hacer con esta reserva, y nadie lo va a recordar por vosotros**: su tarifa
 >   dice expresamente que **las comidas y las actividades se pre-reservan** ✅ — o al reservar, o
 >   en recepción al llegar. Si queréis el **Sundowner Drive (3 h, N$980 · ~€49 pp)**, pedidlo ya.
@@ -289,11 +289,11 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   comprometido y **su pago íntegro vence hacia el 3 de octubre** — apúntalo en el calendario. Lo
 >   que queda por arriesgar es el **20 % de Terrace Bay: ~N$696 (~€35)**, y **a partir del 7 de
 >   octubre se arriesga el 100 %**.
-> - ✅ **Y la vieja fecha límite de la variante del `aparte/decision-del-ccf` ya no existe.** Cuando ese documento
->   proponía otra ruta entera, decidirlo tarde costaba dinero porque movía las fechas de Sesriem y
->   Terrace Bay. **Desde el 24/08 esas fechas ya son las definitivas** y lo que queda del `aparte/decision-del-ccf` —el
->   cambio de la segunda noche de Onguma por el CCF— **no toca ninguna reserva de NWR**. Depende
->   solo de las condiciones de Onguma, arriba.
+> - ✅ **Y ya no hay ninguna fecha límite pendiente por este lado.** Cuando el
+>   [`aparte/decision-del-ccf`](aparte/decision-del-ccf.md) proponía otra ruta entera, decidirlo
+>   tarde costaba dinero porque movía las fechas de Sesriem y Terrace Bay; desde el **24/08** esas
+>   fechas son las definitivas, y desde el **26/08 el desvío al CCF está descartado del todo**.
+>   **No queda ninguna decisión de alojamiento abierta dentro de Etosha.**
 > - ⚠️ **Y el canal**: **su sistema de reservas online está caído** ◐ *(nwr.com.na avisa de que
 >   está «currently unavailable» y remite a reservations@nwr.com.na; el portal
 >   `nwr.cimsoweb.com` se queda en «Initializing…»)*. **Es email o teléfono, no pierdas la tarde
@@ -539,15 +539,15 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] 🔴 **Terrace Bay** *(6 nov — confirmación impresa)* — **la única que queda con fecha dura** *(§4)*
 - [x] **Las 4 noches de Etosha — RESERVADAS** *(§4)*: Okaukuejo *(9–10)* · Halali
       *(10–11)* · **Onguma Tamboti ×2** *(11–13, ya fuera de la puerta)*. **Namutoni, anulado**
-- [ ] *(Opcional)* **Pedir a Onguma sus condiciones de cancelación** ❌ — **decidido el 24/08 que no
-      hace falta**: el cambio por el CCF se resuelve sobre la marcha *(§4 y `aparte/decision-del-ccf`)*
+- [ ] *(Opcional)* **Pedir a Onguma sus condiciones de cancelación** ❌ — **no hace falta**: con el
+      CCF descartado *(26/08)* las dos noches son firmes y no hay nada que cancelar *(§4)*
 - [ ] **Confirmar el importe de la reserva de Onguma** *(el rack da N$1.240 · ~€62 por noche)* *(§4)*
 - [ ] **Pre-reservar en Onguma la cena y, si se quiere, el Sundowner Drive** — y preguntar si hay
       night drive *(§4)*
 - [ ] **Preguntar a NWR si venden el nocturno y la guiada de mañana a quien NO duerme dentro** ❌ —
       son N$2.800 (~€140) que hoy están fuera del presupuesto *(§4)*
-- [ ] *(Opcional)* **Preguntar al CCF si tiene sitio el 12 de noviembre y cuánto cuesta** ❌ — se
-      llama desde Etosha si hace falta *(`aparte/decision-del-ccf`)*
+- [ ] 🐆 **Llamar a Otjitotongwe y preguntar la hora de la alimentación** ❌ — 15:00 ◐ contra 16:00,
+      y de ella depende la hora de salida de Hoada del D10 *([el plan del guepardo](aparte/plan-del-guepardo.md))*
 - [x] **Spreetshoogte — RESERVADO** *(1 nov, UNA noche)*: lo opera **Barkhan Dune Retreat** en la
       D1275 y la tarifa está cerrada ✅ — **N$290 pp/noche → N$580 (~€29) los dos** *(§5)*
 - [x] **Windhoek D1 — RESERVADO** *(Urban Camp)* — falta pedirles el importe por escrito ❌ *(§5)*

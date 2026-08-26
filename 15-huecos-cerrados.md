@@ -737,6 +737,35 @@ verificable», no como cierto. Y por mi cuenta, lo que se puede reproducir con c
 UNESCO de Twyfelfontein, y la nota de prensa del Ministerio con el diésel de agosto *(que existe y
 dice N$26,26, pero el dominio no resuelve)*.
 
+## 🐆 El desvío al CCF — DESCARTADO *(26/08/2026)*
+
+Era el último plan alternativo vivo del viaje: si a la tarde del D12 el guepardo no había salido, la
+segunda noche de Onguma se cambiaba por el **Cheetah Conservation Fund**, con el Cheetah Run de las
+08:00 a la mañana siguiente. Estaba medido entero *(331 km, mínimo ~3 h 26)*.
+
+**Se descarta, y el argumento es de la propia guía de fauna**: el guepardo **«caza de día, a plena
+luz»** ✅. El **D13 es el único día del viaje sin traslado y dentro del mejor terreno medido de
+guepardo** —las llanuras del este, de donde salía el 50 % de Namutoni—, así que bajar al CCF
+**gastaba justo ese día** para cambiar un guepardo salvaje por uno cautivo.
+
+**Lo que cierra**, y no es poco:
+
+- ✅ **Las dos noches de Onguma son firmes.** No hay que llamar a nadie desde Etosha ni decidir nada
+  sobre la marcha: **no queda ninguna decisión de alojamiento abierta dentro del parque**.
+- ✅ **Sale de la lista el hueco de las condiciones de cancelación de Onguma** ❌, que ya solo es un
+  seguro por si algo obliga a mover la noche — no bloquea nada.
+- ✅ **Y sale el «preguntar al CCF si tiene sitio»** ❌, que estaba en `20` §9 como opcional.
+
+**Lo que abre**: **ya no hay red.** El plan del guepardo pasa a repartirse en **cinco ventanas
+diurnas** —`aparte/plan-del-guepardo.md`—, y el único hueco que queda con consecuencia de horario es
+**la hora de la alimentación de Otjitotongwe** ❌ *(15:00 ◐ contra 16:00)*, que decide a qué hora se
+sale de Hoada el D10.
+
+*El descarte razonado y los números de lo que se comparó quedan en `aparte/decision-del-ccf.md`,
+marcado como archivado.*
+
+---
+
 ## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 24/08/2026)*
 
 El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo el dossier.

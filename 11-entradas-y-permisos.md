@@ -303,12 +303,13 @@ Son las únicas que caben en un día de llegada o de salida, porque están **a m
   pp, son de 2019–2021 ○)*.
 - **D8 Skeleton Coast** — nada: el permiso es de tránsito y no hay operador de game drive dentro.
 - **D10 Kamanjab** — **Otjitotongwe**, los guepardos, que **ya está arriba** en este mismo documento.
-- 🐆 **Y en el D14, el que faltaba: el Cheetah Conservation Fund**, a 44 km de Otjiwarongo — **+89 km**
+- 🐆 *(**Descartado el 26/08**, se deja el dato por si vuelve: el Cheetah Conservation Fund, a 44 km
+  de Otjiwarongo — **+89 km**
   medidos, alimentación **de lunes a viernes a las 14:00** ✅ y **Cheetah Run a las 08:00 con reserva
   previa**. Con el guepardo como prioridad, **el sitio donde se decide todo esto es
   [los desvíos](aparte/desvios-que-valen-la-pena.md)**, que compara los tres centros contra el guepardo
   salvaje de Etosha —medido: **Namutoni 50 %**, Okaukuejo 18 %, Halali 10 %— y dice de qué noche
-  saldría el día.
+  saldría el día.)*
 - **D13 Onguma** — el **Sundowner Drive, N$980 (~€49)/persona** ✅, que es el único game drive
   no-Etosha **ya presupuestado como opción** *(`20` §7)*; su **night drive sigue sin confirmar** ❌.
 

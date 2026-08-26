@@ -62,10 +62,11 @@ llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
 >   11 y 12**, y la tasa se cobra **por cada 24 h desde la entrada** *(`03`)* — dormir fuera no
 >   quita ninguno de esos cuatro días ni añade un quinto. **Siguen siendo 4 unidades.**
 >
-> > 🐆 **Y la segunda noche de Onguma tiene una puerta de salida, a propósito.** Si a la tarde del
-> > D12 el guepardo no ha aparecido, **se cancela y se baja al [Cheetah Conservation
-> > Fund](https://cheetah.org/)**: es la decisión del D13, y está entera —kilómetros, horarios y qué
-> > hay que preguntar— en [la decisión del CCF](aparte/decision-del-ccf.md).
+> > 🐆 **Y la segunda noche de Onguma es FIRME desde el 26/08.** El desvío al Cheetah Conservation
+> > Fund, que hasta ahora figuraba como puerta de salida, **queda descartado**: el D13 —día entero
+> > en las llanuras del este— es la mejor ventana de guepardo salvaje del viaje, y bajar al CCF se
+> > la comía entera. El plan del guepardo, sin red y por eso más exigente, en
+> > [el plan del guepardo](aparte/plan-del-guepardo.md).
 >
 > *Onguma por dentro, en [`21`](21-campamentos-de-etosha.md); su tarifa, en
 > [`03`](03-alojamiento-y-tasas.md); la reserva, en [`20`](20-reservas.md).*
@@ -611,37 +612,28 @@ flowchart LR
   - 📌 **Las actividades y las comidas se reservan al hacer la reserva o al llegar a recepción** ✅
 - 🛏️ **Onguma Tamboti, segunda noche** ✅ **RESERVADA**
 
-> ### 🐆 O NO — el desvío del guepardo, y ésta es la decisión del día
-> *(Antes de decidir: **el plan completo del guepardo** —las cinco ventanas del viaje ordenadas por
-> lo que rinden, con sus horas— está en [`aparte/plan-del-guepardo.md`](aparte/plan-del-guepardo.md).
-> Su titular: bajar al CCF **gasta el D13**, que es la mejor ventana de guepardo salvaje del viaje.)*
-> **Si a estas alturas el guepardo no ha salido**, esta segunda noche se cancela y se baja al
-> **[Cheetah Conservation Fund](https://cheetah.org/)**. **La decisión se toma aquí, la tarde del
-> D12 o la mañana del D13, con lo visto en la mano** — no hay que preparar nada por adelantado
-> *(decidido el 24/08)*.
+> ### 🐆 El día del guepardo — y ya no hay plan B, así que se juega bien
+> **El desvío al Cheetah Conservation Fund quedó descartado el 26/08.** La razón, en una línea: el
+> guepardo **«caza de día, a plena luz»** ✅ *(su propia ficha en la guía de fauna)*, y **hoy es el
+> único día del viaje entero en el mejor terreno medido para eso, sin un solo kilómetro de
+> traslado**. Bajar al CCF **se comía justo este día** para cambiar un guepardo salvaje por uno
+> cautivo.
 >
-> - 🚗 **El día**: **331 km por la B1** *(OSRM)* — Onguma → Tsumeb → Otjiwarongo → CCF. **Mínimo
->   ~3 h 26, realista ~4 h 05** con la parada de Otjiwarongo *(284 km de asfalto y 47 de grava, los
->   del ramal)*. Saliendo a las **~07:00** se llega **hacia las 11:05**.
-> - 🕑 **Lo que cabe el mismo día**: la **alimentación de las 14:00** *(el 12 es jueves, horario de
->   lunes a viernes ✅)*, el **tour del centro** y el **Cheetah Drive**.
-> - 🏃 **Y a la mañana siguiente, el Cheetah Run de las 08:00** ✅ — la actividad que justifica todo
->   el cambio, y **la única que exige reserva previa**: pídela en la misma llamada.
-> - 📞 **Las dos llamadas, en este orden**: **CCF, +264 (0)67 306225** ✅ *(o NightsBridge)* — si hay
->   sitio y cuánto cuesta ❌, que no publican precios; y **después** recepción de Onguma, para
->   anular. **Primero se asegura la cama nueva, después se suelta la vieja.** Se llama desde Onguma,
->   que **anuncia wifi en recepción** ✅.
-> - 🎁 **Lo que se gana además**: el **D14 baja de 539 a 294 km** y deja de ser el día más largo del
->   viaje.
-> - ⚖️ **Lo que cuesta**: el **D13 entero de Fischer's Pan y Chudop**; y **ojo con Onguma: cancelar
->   es el 100 %, pero POSPONER por escrito no** ✅ *(su rack 2027)* — así que en la llamada se pide
->   posponer la noche, no anularla; y que **en el CCF no
->   hay camping** ◐ —es lodge: la segunda noche del viaje en habitación, tras Terrace Bay—.
-> - 🛟 **Si el CCF está lleno, no se pierde nada**: se queda la noche de Onguma, que es un buen plan
->   por sí mismo. **Ésa es la red, y es buena.**
+> Lo que eso significa: **esta segunda noche de Onguma es firme**, no hay que llamar a nadie ni
+> decidir nada sobre la marcha — y **el día hay que exprimirlo**:
 >
-> *El desvío entero, día a día y con su mapa a escala de país, en
-> [`aparte/decision-del-ccf`](aparte/decision-del-ccf.md) — fuera del dossier impreso a propósito.*
+> - 🕕 **En la cola de Von Lindequist a las 06:05**, no a las 07:30. La primera hora de luz en
+>   llanura abierta es la mejor del día y hoy no compite con ningún traslado.
+> - 🚗 **Chudop → Klein Namutoni y el Dik-dik Drive → Fischer's Pan.** Que el Pan esté **seco** en
+>   noviembre ◐ es mala noticia para el ave acuática y **buena para éste**: llanura abierta y
+>   visibilidad larga.
+> - 🕐 **Y contra el instinto: no volver a comer.** El mediodía es hora muerta para casi todo el
+>   catálogo **menos para el guepardo**. Comida fría en el coche, y seguir.
+> - 🕔 **La última hora de luz, otra vez en llanura** — no de camino a la ducha, y **por eso el
+>   sundowner de Onguma no es hoy** *(abajo)*.
+>
+> *Las cinco ventanas de guepardo del viaje, ordenadas por lo que rinden y con sus horas, en
+> [el plan del guepardo](aparte/plan-del-guepardo.md).*
 
 
 ### D14 · vie 13 — Onguma → Windhoek · **~539 km asfalto · ~5h30 de volante · 6h–6h30 con comida** ◐ *(OSRM propio; desde Namutoni eran 548)*
@@ -661,9 +653,6 @@ flowchart LR
 - *Parada opcional de camino: **Okonjima/AfriCat** (leopardo, rinoceronte a pie y pangolín —
   **guepardo ya no tiene**, `aparte/desvios` §3), el meteorito de **Hoba** (desvío por Grootfontein, B8) o el
   **Plateau de Waterberg** (desvío desde Otjiwarongo; entrada N$280 · ~€14 — ver `11`)*
-- 🐆 **Si anoche se durmió en el CCF y no en Onguma**, hoy el día es otro y mucho más corto:
-  **Cheetah Run de las 08:00 y 294 km hasta Windhoek** *(OSRM)*, en Windhoek hacia las 12:30 y con
-  la tarde libre. El día entero, en [la decisión del CCF](aparte/decision-del-ccf.md)
 
 ### D15 · sáb 14 — Vuelo *(plan horario)*
 
@@ -956,9 +945,9 @@ persona y noche** ✅ — la reserva privada por el precio del parque, sin el lo
   desde Namutoni eran 548 y ahí convergían las secundarias, 553–575)*. Detalle y fuentes en `13`.
 - ✅ **Las cuatro noches de Etosha, RESERVADAS** — Okaukuejo, Halali y **Onguma Tamboti ×2 (D12 y
   D13)**; **Namutoni se anuló el 24/08**. Lo que queda abierto: **el importe exacto de la reserva de
-  Onguma** ❌ *(sus condiciones de cancelación ya están: 100 % si se cancela, nada si se pospone ✅)* —de las que depende poder cambiar la segunda noche por
-  el CCF, `aparte/decision-del-ccf`— y **si Onguma hace un night drive de verdad**, que su tarifa oficial 2027 no lista ❌
-  *(ver D13)*.
+  Onguma** ❌ *(sus condiciones de cancelación ya están: 100 % si se cancela, nada si se pospone ✅ —
+  y desde el **26/08 ya no bloquean nada**: descartado el desvío al CCF, las dos noches son firmes)*
+  y **si Onguma hace un night drive de verdad**, que su tarifa oficial 2027 no lista ❌ *(ver D13)*.
 - ◐ **Km del D8 y el D9, partidos el 24/08** — lo que era un solo día de ~370 km son ahora
   **Terrace Bay → Twyfelfontein ≈ ~211 km** por la ruta directa de Springbokwasser *(OSRM; cuadra
   con el 96+120 verificado el 03/08 y con los 216 del routeplanner)* **y Twyfelfontein → Palmwag →

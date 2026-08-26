@@ -100,13 +100,13 @@ flowchart LR
 4. **Pedir cita en el Centro de Vacunación Internacional** *(A Coruña, Durán Lóriga 3 ·
    **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
    **la cita es el recurso escaso, no la vacuna**.
-5. 🟡 **El cambio de la segunda noche de Onguma por el [Cheetah Conservation
-   Fund](https://cheetah.org/) se resuelve SOBRE LA MARCHA — decidido el 24/08.** No hace falta
-   pedir nada por adelantado: si el guepardo no ha salido en Etosha, se llama desde allí *(la
-   decisión del D13, entera en [la decisión del CCF](aparte/decision-del-ccf.md))*. Lo que eso acepta de antemano, dicho
-   una vez y sin insistir: **cancelar la noche de Onguma cuesta el 100 %, pero posponerla por escrito no** ✅ *(está en su rack, verificado el 25/08)* — así que se pospone, no se anula — y **el
-   CCF puede estar lleno** ❌ — en cuyo caso, sencillamente, se queda la noche de Onguma, que es un
-   buen plan. Si un día apetece cerrarlo antes, son dos emails *(`20` §4)*.
+5. 🐆 **Llamar a Otjitotongwe y preguntar la hora de la alimentación** ❌ — **15:00 ◐ contra 16:00**,
+   las fuentes no coinciden, y **de esa hora depende a qué hora se sale de Hoada el D10** *(`01`)*.
+   Es la única llamada que pide el plan del guepardo, y es la más barata del viaje.
+   ✅ **El desvío al Cheetah Conservation Fund quedó DESCARTADO el 26/08**: la segunda noche de
+   Onguma es **firme** y no hay nada que decidir sobre la marcha. El guepardo *«caza de día, a plena
+   luz»*, así que el esfuerzo se reparte en **cinco ventanas diurnas** en vez de en una red al final
+   — [el plan del guepardo](aparte/plan-del-guepardo.md).
 6. **Reservar Terrace Bay — la única noche que queda sin reservar y con fecha dura** *(vie 6 nov,
    un día antes de lo que decía el plan de agosto)*: sin ella **no se entra** al Skeleton Coast a
    pernoctar.
@@ -153,7 +153,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 157 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 153 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*

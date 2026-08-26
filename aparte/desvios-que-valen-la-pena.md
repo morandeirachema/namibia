@@ -1,7 +1,15 @@
 # Los desvíos que valen la pena
 
-*Documento de consulta aparte — **fuera del dossier impreso desde el 25/08**, porque de las
-alternativas que compara solo queda viva la del CCF.*
+*Documento de consulta aparte — **fuera del dossier impreso desde el 25/08**. **Y desde el 26/08 no
+queda viva ninguna de las alternativas que compara**: el desvío al CCF, la última que seguía en pie,
+está descartado. Se conserva como el registro de qué se comparó y con qué números.*
+
+> ## ❌ Descartado el 26/08 — no se baja al CCF
+> El guepardo **«caza de día, a plena luz»** ✅, y el **D13 es el único día del viaje entero en el
+> mejor terreno medido para eso, sin un solo kilómetro de traslado**: bajar al CCF se lo comía para
+> cambiar un guepardo salvaje por uno cautivo. **Lo que se hace en su lugar está en
+> [el plan del guepardo](plan-del-guepardo.md)**; el descarte razonado, en
+> [el archivo del CCF](decision-del-ccf.md). Lo de abajo se deja tal cual, como comparación.
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](../README.md)
 >
@@ -243,17 +251,15 @@ bloque entero.**
 > noches en Onguma**, el guepardo tiene **tres oportunidades sin mover nada**: las llanuras del
 > este el **D12**, la reserva privada —que lo tiene confirmado por escrito— y el **D13 entero** de
 > Fischer's Pan y Chudop.
-> **Y si a la tarde del D12 no ha salido, la segunda noche se cambia por el CCF** y entra el
-> **Cheetah Run de las 08:00**, con el D14 además cómodo. *(Okonjima sigue mereciendo la noche, pero
-> por leopardo, rinoceronte a pie y pangolín: **guepardo ya no tiene** — §3.)*
-> 📞 **Y se resuelve allí mismo, sin preparar nada** *(decidido el 24/08)*: se llama al CCF desde
-> Onguma. Lo único que conviene no olvidar en esa llamada es **pedir el Cheetah Run, que sí exige
-> reserva previa** ✅ — es lo que justifica el cambio. Si no hay sitio, se queda Onguma *(ver la decisión del CCF, al lado)*.
+> ❌ **Y si no sale, ya no hay recambio: el cambio por el CCF quedó descartado el 26/08** —se comía
+> el D13, que es justo la mejor de las tres oportunidades de arriba—. Lo que queda como seguro
+> barato es **Otjitotongwe el D10** *(§4)*, que no cuesta ni una noche ni un desvío.
+> *(Okonjima sigue mereciendo la noche, pero por leopardo, rinoceronte a pie y pangolín: **guepardo
+> ya no tiene** — §3.)*
 >
-> 👉 **Ese cambio está desarrollado y medido en [la decisión del CCF](decision-del-ccf.md)**, con el D13 y el
-> D14 recalculados y con lo mejor y lo peor de cada opción. Titular: **no quita ni una noche de
-> dentro del parque** —las tres de dentro y las tasas siguen igual— y **parte el D14 de 539 km en
-> dos**.
+> 👉 **El plan operativo —cinco ventanas diurnas, con sus horas— está en
+> [el plan del guepardo](plan-del-guepardo.md)**; los números del desvío descartado, en
+> [su archivo](decision-del-ccf.md).
 
 ---
 
@@ -388,9 +394,8 @@ documento sea la lista completa de lo de fuera:
 tres oportunidades sin mover una sola noche —las **llanuras del
 este el D12**, la mejor casilla medida del parque *(Namutoni, 50 %)*; **Onguma, con guepardo
 confirmado por escrito, dos noches (D12–D13)**; y el **D13 entero** de Fischer's Pan y Chudop—.
-Y si aun así no sale, **la segunda noche de Onguma se cambia por el CCF** y entra el **Cheetah Run
-de las 08:00**: es la decisión del D13, se toma allí, y está entera en
-[la decisión del CCF](decision-del-ccf.md).
+Y si aun así no sale, **ya no hay recambio**: el cambio por el CCF se descartó el 26/08 porque
+gastaba el D13, que es la mejor de las tres. El seguro barato es **Otjitotongwe el D10** *(§4)*.
 
 **De lo demás**: solo uno de los cinco desvíos puede entrar sin romper nada, y solo si algo falla —
 si **Terrace Bay** se queda sin sitio, la ruta baja por dentro y gana **Spitzkoppe y Brandberg**,

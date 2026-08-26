@@ -85,7 +85,12 @@ añadir uno, se añade a `INTERES` en `geodatos.py` y se regenera.
   CCF, que eran el `23` y el `24`)*: el PDF lleva la ruta que se va a hacer, no la deliberación de
   por qué es ésa ni las alternativas que se descartaron.
 
-## La variante del CCF — `aparte/decision-del-ccf.md`, fuera del PDF
+## La variante del CCF — `aparte/decision-del-ccf.md`, **archivada** desde el 26/08
+
+⚠️ **El desvío al CCF se descartó el 26/08** *(el guepardo caza de día, y bajar allí gastaba el D13,
+que es el único día del viaje sin traslado en su mejor terreno — `aparte/plan-del-guepardo.md`)*. El
+documento y su maquinaria **se conservan como registro**, no como plan: si algún día vuelve, está
+todo montado y comprobado. Lo que sigue describe cómo funciona esa maquinaria.
 
 Ese documento no es prosa: tiene **sus propias quince etapas** en `trazado.ETAPAS_ALT`, su geometría en
 `geo/ruta-alt.json` —`python3 geodatos.py ruta-alt`— y **su propio mapa a escala de país**,
@@ -199,7 +204,7 @@ noches)*: al reservar o anular algo hay que tocar **la casilla y la chapa**, y s
 de reservas que hacen el viaje, también esa tabla.
 
 Y que la **agenda tenga exactamente 16 páginas** —portada y un A4 por día— y, si sale una más,
-que diga qué día se ha desbordado *(el D13, el del desvío del CCF, es el que va justo)*.
+que diga qué día se ha desbordado *(el D13 es el que va justo)*.
 
 Y que la **lámina de ruta sea UNA hoja A2** *(si se desborda salen dos y la segunda va medio
 vacía; el margen es de pocos milímetros, así que cualquier línea de más en la banda de abajo lo

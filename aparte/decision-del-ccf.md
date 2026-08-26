@@ -1,8 +1,21 @@
-# La decisión del D13 — la segunda noche de Onguma, o el Cheetah Conservation Fund
+# ARCHIVADO · El desvío al Cheetah Conservation Fund, y por qué se descartó
 
-*Documento de consulta aparte — **fuera del dossier impreso desde el 25/08**. Lo que hay que
-saber sobre el terreno está en el [`01` §D13](../01-itinerarios-dia-a-dia.md); esto es el detalle
-largo, con su mapa.*
+*Documento de consulta aparte — **fuera del dossier impreso desde el 25/08** y **descartado como
+plan el 26/08**. Se conserva por dos razones: porque aquí está escrito el argumento —todavía
+vigente— de **quitarle la segunda noche a Spreetshoogte y llevarla a Damaraland**, que sí se hizo;
+y porque un descarte razonado vale más que un hueco en la memoria.*
+
+> ## ❌ DESCARTADO el 26/08 — no se baja al CCF
+>
+> **La segunda noche de Onguma es firme y no hay plan B.** La razón cabe en una línea: el guepardo
+> **«caza de día, a plena luz»** ✅ *(su ficha en la guía de fauna)*, y el **D13 es el único día del
+> viaje entero en el mejor terreno medido para eso, sin un solo kilómetro de traslado**. Bajar al
+> CCF **se comía justo ese día** para cambiar un guepardo salvaje por uno cautivo.
+>
+> 👉 **Lo que hay que hacer ahora está en [el plan del guepardo](plan-del-guepardo.md)**, que
+> reparte el esfuerzo en cinco ventanas diurnas en vez de en una red al final.
+>
+> *Lo que sigue se deja tal cual estaba escrito el 24–25/08, para que se vea qué se comparó.*
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](../README.md)
 >
