@@ -129,7 +129,7 @@ flowchart LR
 2. **Sesriem → Sossusvlei ida y vuelta**: son **~120 km MÁS los 5 km finales de arena blanda en
    reductora**, todo dentro del parque, **sin gasolinera** y con **consumo alto en arena** →
    presupuesta **130–150 km de combustible que quizá no habías contado**
-3. **El bucle de la Costa de los Esqueletos (D8–D9):** Henties Bay → Cape Cross → Ugabmund →
+3. **El bucle de la Costa de los Esqueletos (D7–D8):** Henties Bay → Cape Cross → Ugabmund →
    **Terrace Bay**, y al día siguiente Springbokwasser → Bergsig → Twyfelfontein → Hoada.
    **En Terrace Bay HAY surtidor físico (reportes de viajeros) ◐, pero la web oficial de NWR no
    lo lista, se quedó seco en los cortes de 2025 y alguna guía lo da «solo huéspedes» — trátalo
@@ -496,8 +496,9 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
 - **El surtidor de Terrace Bay**: existe físicamente ◐ pero NWR no lo publicita y se secó en 2025
   — **trátalo como que NO** y llena en Henties Bay (detalle estación a estación: `08`)
 - ~~**Los km reales del eje de la costa y Damaraland** (D8–D10)~~ **cerrados ◐ (03–04/08, y
-  recalibrados el 09/08 con OSRM)**: **D8 ~410** *(el ~380 por tramos se quedaba corto)* · D9 ~370 ·
-  D10 ~340 km — ver `13` §3 y §5
+  recalibrados el 09/08 con OSRM)**: **D7 ~412** *(el ~380 por tramos se quedaba corto)* · D8 ~211 ·
+  D9 ~159 *(el antiguo día de Damaraland, de ~370, se partió en dos el 24/08)* · D10 ~343 km — ver
+  `13` §3 y §5
 - ~~**Precios actuales de los bonos turistas de MTC**~~ **cerrados ◐ (05/08)**: paquete «Leisure»
   **N$349 ≈ €17/14 días/10,1 GB** y «Premium» **N$659 ≈ €33/30 días/20,1 GB**, convergentes entre la web de MTC,
   su PDF de T&C y un blog independiente (ver §Cobertura). El precio de la **eSIM** sigue sin cerrar

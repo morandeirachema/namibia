@@ -415,7 +415,7 @@ flowchart LR
 - *Variante fácil: saltarse Terrace Bay, dormir en Henties/Swakopmund y entrar a Damaraland al día
   siguiente por Springbokwasser en tránsito — un día mucho más corto*
 
-### D8 · sáb 7 — Skeleton Coast → Springbokwasser → Twyfelfontein · **~211 km · ~2h40–3h de volante** ◐ *(OSRM 211,5)* ⬅️ **la noche nueva**
+### D8 · sáb 7 — Skeleton Coast → Springbokwasser → Twyfelfontein · **~211 km · ~3h–3h30 de volante** ◐ *(OSRM 211,5)* ⬅️ **la noche nueva**
 - 🆕 **Éste es el día que no existía.** Sale de quitarle la segunda noche a Spreetshoogte, y **parte
   en dos el día más largo de grava del viaje**: lo que era una tirada de ~370 km con la visita de
   los grabados metida en medio pasa a ser **211 + 159 km**, con la mañana del D9 libre entera
@@ -790,8 +790,8 @@ flowchart LR
 - **D11–D13 · Etosha** ✅⚠️ — los campamentos **listan «Filling Station» en la web oficial de
   NWR**, pero **con historial de cortes en 2025**: **entra lleno desde Outjo** y no planifiques con
   ellos. Respaldo: la **Etosha Trading Post**, a 6,5 km de Andersson *(`08`)*. ⚠️ **Y desde el
-  24/08 esto pesa más**: durmiendo fuera desde el D12, el coche hace **cuatro cruces de Von
-  Lindequist** con lo que salga de Outjo — son pocos kilómetros *(93 + 70)*, pero cuéntalos.
+  24/08 esto pesa más**: durmiendo fuera desde el D12, el coche hace **tres cruces de Von
+  Lindequist** —salida el D12, entrada y salida el D13— con lo que salga de Outjo — son pocos kilómetros *(93 + 70)*, pero cuéntalos.
 - **D14 · Tsumeb, a 105 km de Onguma** ✅ — ⛽ **primer repostaje del día largo**, precisamente
   **porque el depósito no se fía a los surtidores del parque**. Y **Otjiwarongo** ✅, punto de
   anclaje de la ruta, donde además se come.
