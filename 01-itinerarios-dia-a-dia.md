@@ -612,6 +612,9 @@ flowchart LR
 - 🛏️ **Onguma Tamboti, segunda noche** ✅ **RESERVADA**
 
 > ### 🐆 O NO — el desvío del guepardo, y ésta es la decisión del día
+> *(Antes de decidir: **el plan completo del guepardo** —las cinco ventanas del viaje ordenadas por
+> lo que rinden, con sus horas— está en [`aparte/plan-del-guepardo.md`](aparte/plan-del-guepardo.md).
+> Su titular: bajar al CCF **gasta el D13**, que es la mejor ventana de guepardo salvaje del viaje.)*
 > **Si a estas alturas el guepardo no ha salido**, esta segunda noche se cancela y se baja al
 > **[Cheetah Conservation Fund](https://cheetah.org/)**. **La decisión se toma aquí, la tarde del
 > D12 o la mañana del D13, con lo visto en la mano** — no hay que preparar nada por adelantado
