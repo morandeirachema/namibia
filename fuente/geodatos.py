@@ -282,7 +282,7 @@ def tramos():
 # con Nominatim y NUNCA a ojo. Si Nominatim no lo encuentra, no entra al mapa — y se
 # dice en la salida, para que conste que falta.
 #   (consulta a Nominatim, rotulo del mapa, clase, dias)
-#   clase: comer · joya · compra
+#   clase: dormir · comer · joya · compra
 INTERES = [
     ("Schanzen Road, Windhoek", "Urban Camp · Schanzen Road", "dormir", ["D1", "D14", "D15"]),
     ("80 Trift Street, Windhoek", "Savanna · recogida del 4x4", "compra", ["D1", "D15"]),

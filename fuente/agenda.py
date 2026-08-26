@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""La agenda: el día a día del `01`, y nada más — un A4 por día, para la guantera.
+"""La agenda: el día a día del `01`, y nada más — dos A4 por día, mapa y explicación, para la guantera.
 
 No es el dossier recortado a mano: es el MISMO markdown del `01`, cortado entre `### D1` y
 el final del `### D15`, con las digresiones de investigación fuera. Todo lo que aquí se
@@ -27,7 +27,7 @@ import trazado
 from comun import RAIZ, marca_texto, md
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-FECHA = "25 de agosto de 2026"
+from fecha import FECHA
 FUENTE = os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md")
 MARGEN = (14, 12, 16, 12)                        # los del dossier, para que se parezcan
 
@@ -39,7 +39,11 @@ def dias():
     """Los quince bloques `### Dn · …` del `01`, en orden, con su markdown."""
     texto = open(FUENTE, encoding="utf-8").read()
     ini = texto.index("\n### D1 ·")
-    fin = texto.index("\n### 💰 Coste real")
+    corte = "\n### 💰 Coste real"
+    if corte not in texto:
+        raise SystemExit(f"agenda: el `01` ya no tiene el encabezado «{corte.strip()}», que es "
+                         "donde acaba el dia a dia — sin el no se donde cortar")
+    fin = texto.index(corte)
     cuerpo = texto[ini:fin]
     trozos = re.split(r"\n(?=### D\d+ ·)", cuerpo)
     salida = []

@@ -27,7 +27,7 @@ import trazado
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(HERE)
-FECHA = "21 de agosto de 2026"
+from fecha import FECHA
 
 # --- La geometria de la hoja, en mm. Todo lo demas se calcula de aqui. -----------
 HOJA_ANCHO, HOJA_ALTO = 420, 594
