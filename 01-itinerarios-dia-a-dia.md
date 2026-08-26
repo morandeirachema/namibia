@@ -167,8 +167,8 @@ gantt
 
 > ### 🏕️ Dónde se duerme: **en la tienda de techo siempre que se pueda**
 >
-> El plan es dormir arriba las 14 noches y **meterse en campings**, incluidos los tres de dentro de
-> Etosha. Estado noche a noche:
+> El plan es dormir arriba las 14 noches y **meterse en campings**, incluidos los dos de dentro de
+> Etosha y los dos de Onguma, a su puerta. Estado noche a noche:
 >
 > ```mermaid
 > flowchart TD

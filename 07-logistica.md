@@ -171,9 +171,9 @@ el corte te tocara a ti. El respaldo estable queda **fuera de la puerta de Ander
 Trading Post, a 6,5 km, con diésel 50 ppm y gasolina 95** ◐
 *([web](https://www.etosha-tradingpost.com/facilities.html))* — la regla de los días de Etosha,
 en el [`21`](21-campamentos-de-etosha.md): entrar lleno de Outjo y no fiar el D14 al surtidor de
-Namutoni. ⚠️ **Y desde el 21/08 hay un matiz nuevo: la última noche se duerme en Onguma, fuera del
-parque, y Onguma no tiene surtidor** ❌ — el último de dentro es el de Namutoni, el D13 por la
-tarde; el siguiente seguro es **Tsumeb, a 105 km** ✅.
+Namutoni. ⚠️ **Y desde el 24/08 hay un matiz nuevo: las dos últimas noches se duermen en Onguma,
+fuera del parque, y Onguma no tiene surtidor** ❌ — el último de dentro es el de Namutoni, **al
+pasar el D12**; el siguiente seguro es **Tsumeb, a 105 km** ✅.
 
 ---
 

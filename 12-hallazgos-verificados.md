@@ -25,7 +25,7 @@ aunque sea habitación y no parcela**, cae igualmente después del 1.
 *(Eran cinco hasta el 24/08: **Namutoni se anuló** y su noche se fue a Onguma, que no es NWR.)*
 *(Desde el 21/08 la **cuarta** noche de Etosha ya **no es NWR**: es **Onguma Tamboti**, reserva
 privada — su año tarifario corre también de noviembre a octubre, `03`. Se aterriza el 31 a las
-09:25; esa noche —Windhoek— y las dos de Spreetshoogte tampoco son NWR.)*
+09:25; esa noche —Windhoek— y la de Spreetshoogte tampoco son NWR.)*
 
 > El detalle tarifa a tarifa está en [`03-alojamiento-y-tasas`](03-alojamiento-y-tasas.md) y el
 > cálculo cerrado, en [`02-presupuesto`](02-presupuesto.md).

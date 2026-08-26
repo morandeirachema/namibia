@@ -66,9 +66,9 @@ flowchart LR
    respuesta directa — **elefante 96 %, rinoceronte negro 82 %, león 70 %, guepardo 19 %,
    leopardo 12 %** ◐ — y el **0 % del oricteropo**, que precisamente por eso **quedó fuera de
    la guía** *(regla del 09/08: lo que nadie vio, no lleva ficha)*. Ojo con la unidad: es
-   **por estancia en un campamento**, ni por día ni por viaje. Y como se duerme en los tres,
-   son tres tiradas y no una. *(Desde el 21/08 son **una noche en cada uno**: la cuarta se duerme
-   en Onguma, fuera de la puerta. Siguen siendo tres tiradas.)*
+   **por estancia en un campamento**, ni por día ni por viaje. Y como se duerme en dos de ellos
+   —Okaukuejo y Halali— y el tercero se cruza de día, son **dos tiradas y media**, no una *(hasta
+   el 24/08 eran tres: la noche de Namutoni se cambió por la segunda de Onguma, fuera de la puerta)*.
 2. **Los registros de GBIF** dentro del polígono real del parque *(y de otras tres zonas de la
    ruta)*, **filtrados a octubre y noviembre**: 4.529 registros de mamífero y 69.600 de ave solo
    en Etosha ◐. Eso mide **lo que se registra**, que no es lo que se ve, así que la guía dice
@@ -172,10 +172,12 @@ específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
   mirar las patas anilladas.
 
 Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horarios de puerta calculados
-para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las tres charcas
-iluminadas, el safari nocturno guiado de NWR (**N$750 ≈ €38** por persona) y —decidido el
-08/08— **las salidas guiadas de mañana desde cada campamento (N$650 ≈ €33 por persona)**: los
-traslados entre campamentos van con el 4x4 propio—, y un **bloque de
+para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las **dos** charcas
+iluminadas que se pisan *(Okaukuejo y Moringa; King Nehale se perdió con la noche de Namutoni)*,
+el safari nocturno guiado de NWR *(**N$750 ≈ €38** por persona — **fuera del plan desde el
+24/08**: se compra durmiendo dentro)* y —decidido el 08/08— **las salidas guiadas de mañana
+desde los dos campamentos donde se duerme (N$650 ≈ €33 por persona)**: los traslados entre
+campamentos van con el 4x4 propio—, y un **bloque de
 seguridad** con las serpientes y el escorpión que de verdad importan.
 
 > 🔁 **Ajuste del 24/08, y afecta de lleno a las tres especies nocturnas.** **Namutoni sale del

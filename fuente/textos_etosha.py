@@ -38,7 +38,8 @@ NOCTURNO = """
   <h3>Dentro del parque</h3>
   <ul>
   <li><strong>Charca iluminada, gratis, a pie desde la parcela</strong> — Okaukuejo, Halali y
-  Namutoni tienen la suya. La que de verdad importa es <strong>Okaukuejo</strong>: MEFT y NWR
+  Namutoni tienen la suya — y desde el 24/08 solo se pisan las dos primeras, porque en
+  Namutoni ya no se duerme. La que de verdad importa es <strong>Okaukuejo</strong>: MEFT y NWR
   confirman <strong>león, elefante y rinoceronte negro</strong> de noche en ella ✅ — «seguramente
   el mejor sitio de África» para el rinoceronte negro. En <strong>Halali</strong>, la propia NWR
   cita el <strong>puercoespín</strong> entre los habituales de su charca ✅. En los muros y

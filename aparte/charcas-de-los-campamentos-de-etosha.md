@@ -28,7 +28,8 @@ es «lo que se acercó a beber»**.
 Nadie publica lo segundo. Si algún día apareciera, sería otro documento.
 
 Y la segunda advertencia, de tamaño: **la estancia típica es de una o dos noches** ✅. Como en esta
-ruta se duerme en los tres *(`../21-campamentos-de-etosha.md`)*, son **tres tiradas**, y la
+ruta se duerme en dos de los tres *(Okaukuejo y Halali; Namutoni se cruza de día el D12 —
+`../21-campamentos-de-etosha.md`)*, son **dos tiradas y media**, y la
 posibilidad real en el conjunto del viaje es **más alta que cualquiera de estos números**. Cuánto
 más, estos datos no lo dicen — así que no se dice.
 

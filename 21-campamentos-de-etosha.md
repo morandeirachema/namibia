@@ -3,15 +3,16 @@
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
 > Las cuatro noches de Etosha contadas como lo que son para este viaje: la parcela, la charca,
-> los servicios de cada una — y lo que los viajeros recientes avisan de verdad. Tres son los
-> campamentos del parque; la cuarta, desde el 21/08, es **Onguma Tamboti**, ya fuera de la puerta.
+> los servicios de cada una — y lo que los viajeros recientes avisan de verdad. Dos son
+> campamentos del parque —Okaukuejo y Halali—; las otras dos, desde el 24/08, se duermen en
+> **Onguma Tamboti**, ya fuera de la puerta.
 >
 > **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigado el 14/08/2026 — fichas oficiales de NWR, guías de Etosha y reseñas de viajeros
 > 2023–2026; **ampliado el 21/08/2026 con Onguma Tamboti**, del tarifario oficial 2027 leído ese
-> día, al reservarse ahí la cuarta noche. Cómo se vive del coche en cualquiera de ellos es el [`18`](18-manual-de-campamento.md);
+> día, al reservarse ahí la última noche —y el 24/08, también la anterior—. Cómo se vive del coche en cualquiera de ellos es el [`18`](18-manual-de-campamento.md);
 > las tarifas, el [`03`](03-alojamiento-y-tasas.md); qué se ve en cada charca y a qué hora, el
 > [`01`](01-itinerarios-dia-a-dia.md) y la guía de fauna.*
 
@@ -94,8 +95,7 @@ viajeros ○ *([Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g424916-d2
 es el campamento **grande, turístico y ruidoso** de los tres — los grupos overlander acampan
 pegados a los aseos y se nota —, y el estado de los baños oscila según la reseña entre «nuevos y
 limpios» y «los más básicos del parque». **El chacal ronda de noche buscando comida** ○ — nada
-comestible a la vista *(el protocolo, en el [`18`](18-manual-de-campamento.md) §7)*. Con dos
-noches aquí, la parcela lejos del bloque de aseos compra silencio ○.
+comestible a la vista *(el protocolo, en el [`18`](18-manual-de-campamento.md) §7)*. Aunque sea una sola noche, la parcela lejos del bloque de aseos compra silencio ○.
 
 ### Los servicios
 
@@ -182,8 +182,8 @@ ya cuenta con ello *([`01`](01-itinerarios-dia-a-dia.md))*.
 
 ### El camping y su fama dividida
 
-**25 parcelas** ✅ *(NWR)* — **RESERVADA una noche, N$920 (~€46) los dos** ✅ *(21/08; la segunda
-que había aquí se cambió por Onguma)* — el pequeño y, para muchos, el más acogedor: parcelas de sabana con
+**25 parcelas** ✅ *(NWR)* — **la noche que había aquí se ANULÓ el 24/08** y pasó a ser la
+primera de las dos de Onguma *(`20` §4)*; el campamento se cruza el D12 de paso — el pequeño y, para muchos, el más acogedor: parcelas de sabana con
 sombra **y hierba** en vez del polvo habitual ◐/○ *([Wanderlog](https://app.wanderlog.com/place/details/771043/namutoni-camp-camping-area) ·
 Tripadvisor)*. Electricidad, aseos y braai ◐. Es también **la ficha más dividida de los tres** ○:
 conviven un «very dilapidated» con un «best camp in Etosha» de febrero de 2025 — el patrón que
