@@ -13,7 +13,7 @@ make            los cuatro PDF
 make dossier    solo el dossier
 make fauna      solo la guía de campo
 make lamina     solo la lámina de ruta (A2, una hoja)
-make agenda     solo la agenda (el día a día del `01`, un A4 por día)
+make agenda     solo la agenda (el día a día del `01`, dos A4 por día: mapa y explicación)
 make avistam    recuentos de GBIF y porcentajes por campamento
 make mymaps     los CSV y el KML de `aparte/` para Google My Maps
 make comprueba  las comprobaciones de abajo
@@ -79,7 +79,7 @@ añadir uno, se añade a `INTERES` en `geodatos.py` y se regenera.
   visual va en Mermaid. Los diagramas verticales largos se comen media página: mejor `flowchart LR`.
 - **El orden del volumen es el del número del fichero**, salvo lo que diga `ORDEN` en `dossier.py`
   —hoy el `20`, que se lee pegado al `04`; el `17`, pegado al `05`; el `18`, pegado al `06`; el
-  `21`, pegado al `18`, y el `19`, pegado al `08`—. Y lo que no entra en el PDF está en
+  `21`, pegado al `18`; el `22`, pegado al `21`, y el `19`, pegado al `08`—. Y lo que no entra en el PDF está en
   `FUERA_DEL_PDF` —hoy solo el `16`— **o directamente en `aparte/`**, que es donde viven los
   documentos que dejan de ser del volumen *(el 25/08 se fueron ahí los desvíos y la decisión del
   CCF, que eran el `23` y el `24`)*: el PDF lleva la ruta que se va a hacer, no la deliberación de
@@ -203,8 +203,8 @@ reparto vive en `RESERVAS_CONTADAS` de `comprobar.py` *(la casilla de Etosha val
 noches)*: al reservar o anular algo hay que tocar **la casilla y la chapa**, y si cambia el conjunto
 de reservas que hacen el viaje, también esa tabla.
 
-Y que la **agenda tenga exactamente 16 páginas** —portada y un A4 por día— y, si sale una más,
-que diga qué día se ha desbordado *(el D13 es el que va justo)*.
+Y que la **agenda tenga exactamente 31 páginas** —portada y dos por día— y, si sale una más,
+que diga qué día se ha desbordado *(el D7 fue el que se desbordó el 25/08)*.
 
 Y que la **lámina de ruta sea UNA hoja A2** *(si se desborda salen dos y la segunda va medio
 vacía; el margen es de pocos milímetros, así que cualquier línea de más en la banda de abajo lo
@@ -213,10 +213,26 @@ mudo si falta y nada avisaba)*. Más las tres convenciones de arriba, que antes 
 escritas: **ninguna tabla de markdown**, **el `%% ancho` en la segunda línea** del bloque Mermaid,
 y **todo precio en N$ con su € al lado**.
 Lo del euro se comprueba solo en los documentos que se leen sobre el terreno —`01`, `03`, `13`,
-`18` y `21`— y en el cuaderno de reservas —`20`, que se lee con la tarjeta en la mano—, porque los de
+`18`, `21` y `22`— y en el cuaderno de reservas —`20`, que se lee con la tarjeta en la mano—, porque los de
 investigación citan cifras para desmentirlas *(«N$150 es lo que repiten los blogs»)* y tarifas que
 no nos aplican: exigirles el euro llenaría la comprobación de avisos falsos, y una comprobación
 que grita sin motivo se acaba ignorando.
+
+Y cuatro más que estaban sin escribir aquí: que **el día a día del `01` cuadre con OSRM**
+*(`revisa_dia_a_dia`: cada `### Dn` con kilómetros contra `geo/ruta.json` — la gemela de la de la
+variante)*; que **el GPX y el KML lleven la misma ruta** que `ruta.json`; que **la cuenta atrás del
+README cuadre con la fecha que él mismo declara, y que esa fecha sea la que imprimen los tres PDF**
+—vive en `fuente/fecha.py` y de ahí la leen `dossier.py`, `agenda.py` y `lamina.py`, porque el
+26/08 cada uno llevaba la suya y salieron con tres fechas—; que **el `01` conserve los dos
+encabezados entre los que `agenda.py` recorta el día a día**; y que **los 22 documentos tengan
+título**.
+
+**Y la regla que se aprendió el 26/08: una comprobación que no puede correr FALLA, no calla.** Sin
+`pdftoppm` o sin Pillow, la de la escala devolvía `ok`; la de las páginas del README daba `ok` cuando
+su patrón no encontraba nada *(le pasaba con la lámina, que no dice «páginas» sino «una sola hoja»)*;
+dos cuadres del presupuesto se saltaban si su literal desaparecía. Todas gritan ahora. Si una
+comprobación depende de un literal del markdown y el literal cambia, tiene que avisar de que se ha
+quedado ciega — un tick verde sin haber medido es peor que ninguna comprobación.
 
 Las mismas comprobaciones corren solas en cada push (`.github/workflows/comprueba.yml`). No
 regeneran los PDF —eso pide Chrome y red—: vigilan que lo commiteado sea coherente.

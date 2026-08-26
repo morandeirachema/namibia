@@ -146,6 +146,22 @@ def revisa_dia_a_dia():
              f"todos los que mide la geometria")
 
 
+def revisa_anclas_de_la_agenda():
+    """Que el `01` siga teniendo los dos literales entre los que `agenda.py` recorta el dia a dia.
+
+    La agenda corta el `01` entre `### D1 ·` y `### 💰 Coste real`. Si alguien reescribe ese
+    encabezado, `make agenda` muere — y como el CI no regenera los PDF, nadie lo ve hasta el
+    siguiente `make`. Mejor que lo diga esto.
+    """
+    texto = open(os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md")).read()
+    faltan = [a for a in ("\n### D1 ·", "\n### 💰 Coste real") if a not in texto]
+    if faltan:
+        mal(f"el `01` ya no tiene {[a.strip() for a in faltan]}, y `agenda.py` recorta el dia a "
+            f"dia entre esos dos encabezados")
+    else:
+        bien("agenda: el `01` conserva los dos encabezados entre los que se recorta")
+
+
 def revisa_ruta_alt():
     """Que el dia a dia del `aparte/decision-del-ccf` no se haya despegado de la geometria de su variante.
 
@@ -166,7 +182,11 @@ def revisa_ruta_alt():
     if sin_traza:
         mal(f"etapas de la variante sin trazado: {sin_traza}")
 
-    doc = open(os.path.join(RAIZ, "aparte", "decision-del-ccf.md")).read()
+    md = os.path.join(RAIZ, "aparte", "decision-del-ccf.md")
+    if not os.path.exists(md):
+        return mal("falta aparte/decision-del-ccf.md — si se ha borrado a proposito, quita con el "
+                   "revisa_ruta_alt, trazado.ETAPAS_ALT y geo/ruta-alt.json")
+    doc = open(md).read()
     medido = {e["id"]: e["km"] for e in alt if e["km"] is not None}
     dichos, fallos = {}, []
     for m in re.finditer(r"^- \*\*(D\d+) ·[^\n]*?(\d[\d.]*) km", doc, re.M):
@@ -178,7 +198,7 @@ def revisa_ruta_alt():
         if d in medido and abs(km - medido[d]) > 1:
             fallos.append(f"{d}: el `aparte/decision-del-ccf` dice {km:.0f} km y OSRM mide {medido[d]:.1f}")
 
-    fallos += _horas_del_24(doc, medido)
+    fallos += _horas_de_la_variante(doc, medido)
 
     total = sum(medido.values())
     m = re.search(r"\*\*~([\d.]+) km\*\* \*\(\*\*(\d+) (menos|más)\*\*", doc)
@@ -216,7 +236,7 @@ def revisa_ruta_alt():
 V = {"asfalto": 100.0, "grava": 80.0, "parque": 60.0}
 
 
-def _horas_del_24(doc, medido):
+def _horas_de_la_variante(doc, medido):
     """Que los tiempos del `aparte/decision-del-ccf` se deriven de su propio desglose de firme, y no de la nada.
 
     Lo que paso: el `aparte/decision-del-ccf` daba «289 km · ~3 h 35» y «294 km · ~3 h 40», la MISMA velocidad
@@ -364,11 +384,16 @@ def revisa_fechas():
     else:
         bien(f"fechas: el README dice {fecha:%d/%m/%Y} y sus {faltan} dias cuadran")
 
-    dossier = open(os.path.join(HERE, "dossier.py")).read()
-    m2 = re.search(r'^FECHA = "([^"]+)"', dossier, re.M)
+    # La fecha del pie de los TRES PDF vive en fecha.py: el 26/08 cada programa llevaba la
+    # suya y salieron con tres fechas distintas sin que esto —que solo miraba dossier.py— avisara.
+    fecha_py = open(os.path.join(HERE, "fecha.py")).read()
+    m2 = re.search(r'^FECHA = "([^"]+)"', fecha_py, re.M)
     esperada = f"{dia} de {mes} de {ano}"
-    if m2 and m2.group(1) != esperada:
-        mal(f"el dossier se imprime con fecha «{m2.group(1)}» y el README dice «{esperada}»")
+    if not m2:
+        mal("fuente/fecha.py ya no define FECHA, y los tres PDF la imprimen de ahi")
+    elif m2.group(1) != esperada:
+        mal(f"los PDF se imprimen con fecha «{m2.group(1)}» (fuente/fecha.py) y el README dice "
+            f"«{esperada}»")
 
 
 # Las reservas de alojamiento que hacen el viaje, con lo que pesa cada casilla del `20`
@@ -494,7 +519,10 @@ def revisa_cuadre_presupuesto():
 
     # 3 · y la linea de texto del README no puede contradecir a su propia tarta
     m = re.search(r"Alojamiento \*\*~?€([\d.]+)\*\*", readme)
-    if m and abs(float(m.group(1).replace(".", "")) - pp["Alojamiento"]) > 1:
+    if not m:
+        mal("el README ya no escribe «Alojamiento **€…**» en su desglose, y esta comprobacion "
+            "lo necesita para cotejarlo con la tarta")
+    elif abs(float(m.group(1).replace(".", "")) - pp["Alojamiento"]) > 1:
         mal(f"el README escribe «Alojamiento €{m.group(1)}» en el desglose y "
             f"{_eur(pp['Alojamiento'])} en su tarta")
 
@@ -518,6 +546,7 @@ def revisa_cuadre_presupuesto():
             ("`02` §1", presu, par, r"Todo lo demás junto \(~€([\d.]+)")):
         m = re.search(rx, texto)
         if not m:
+            mal(f"{doc} ya no dice «todo lo demás junto son ~€…», y esa resta se queda sin vigilar")
             continue
         vuelo = next(v for k, v in tarta.items() if k.startswith("Vuelo"))
         coche = next(v for k, v in tarta.items() if k.startswith("Coche"))
@@ -662,9 +691,10 @@ def revisa_agenda(nombre="agenda-namibia-2026.pdf"):
                              key=lambda d: int(d[1:])) or ["(no se localiza: mira el PDF)"]
         return mal(f"{nombre} tiene {paginas} paginas y deberia tener {esperadas}: "
                    f"se desborda {', '.join(sospechosos)}")
+    # aqui el total ya cuadra: lo que falla es el reparto (un dia a tres paginas y otro a una)
     largos = sorted((d for d, n in cuenta.items() if n > 2), key=lambda d: int(d[1:]))
     cortos = sorted((d for d, n in cuenta.items() if n < 2), key=lambda d: int(d[1:]))
-    mal(f"{nombre} tiene {paginas} paginas y deberia tener {esperadas}"
+    mal(f"{nombre} tiene sus {paginas} paginas pero mal repartidas"
         + (f": se desborda la explicacion de {', '.join(largos)}" if largos else "")
         + (f"; sin sus dos paginas: {', '.join(cortos)}" if cortos else ""))
 
@@ -712,11 +742,13 @@ def revisa_escala(nombre, alto=267, tolerancia=3):
                            capture_output=True)
         png = sorted(f for f in os.listdir(tmp) if f.endswith(".png"))
         if r.returncode or not png:
-            return bien(f"{nombre}: sin pdftoppm, no se mide la escala")
+            return mal(f"{nombre}: sin pdftoppm no se mide la escala — instala poppler-utils; "
+                       f"esta es la comprobacion de la tarde perdida y no pasa en verde sin correr")
         try:
             from PIL import Image
         except ImportError:
-            return bien(f"{nombre}: sin Pillow, no se mide la escala")
+            return mal(f"{nombre}: sin Pillow no se mide la escala — pip install -r requirements.txt; "
+                       f"esta es la comprobacion de la tarde perdida y no pasa en verde sin correr")
         im = Image.open(os.path.join(tmp, png[0])).convert("L")
         w, h = im.size
         px = im.load()
@@ -751,6 +783,14 @@ def revisa_paginas_readme():
             re.escape(nombre) + r"[^\n]*?(\d+)\s+páginas", texto)}
         dichas |= {int(n) for n in re.findall(
             r"\((\d+)\s+páginas[^\n]*?\)", texto)} if "guia-fauna" in nombre else set()
+        # la lamina no dice «1 páginas»: dice «una sola hoja A2», y eso cuenta como 1
+        if re.search(re.escape(nombre) + r"[^\n]*?una sola hoja", texto):
+            dichas.add(1)
+        if not dichas:
+            # antes esto seguia y daba `ok` con el conjunto vacio: la lamina paso asi semanas
+            mal(f"el README ya no dice cuantas paginas tiene {nombre} — o lo dice con otras "
+                f"palabras y esta comprobacion no las ve")
+            continue
         malas = {n for n in dichas if n != real}
         if malas:
             mal(f"el README dice {sorted(malas)} paginas de {nombre}, y tiene {real}")
@@ -820,6 +860,7 @@ def main():
     revisa_imagenes()
     revisa_geo()
     revisa_dia_a_dia()
+    revisa_anclas_de_la_agenda()
     revisa_ruta_alt()
     revisa_gps()
     revisa_avistamientos()

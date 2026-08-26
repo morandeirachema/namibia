@@ -10,7 +10,8 @@
 #   make dossier    solo dossier-namibia-2026.pdf
 #   make fauna      solo guia-fauna-etosha.pdf
 #   make lamina     mapa-ruta-namibia-2026.pdf, la lamina A2 para imprimir
-#   make agenda     agenda-namibia-2026.pdf, el dia a dia del `01` y nada mas, un A4 por dia
+#   make agenda     agenda-namibia-2026.pdf, el dia a dia del `01` y nada mas, dos A4 por dia
+#   make gps        el GPX y el KML de la ruta, para el GPS y el movil
 #   make todo       de cero: imagenes + geo + avistamientos + mapas + los cuatro PDF
 #   make comprueba  imagenes, licencias, geometria, avistamientos, escala y README
 #   make limpia     borra el HTML intermedio
@@ -31,7 +32,7 @@ GEO     := geo
 
 all: dossier fauna lamina agenda gps
 
-todo: imagenes geo avistam mapas mymaps dossier fauna lamina agenda gps
+todo: imagenes geo avistam mapas mymaps charcas dossier fauna lamina agenda gps
 
 imagenes:
 	$(PY) descargar.py

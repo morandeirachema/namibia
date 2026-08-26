@@ -22,7 +22,7 @@ import mapa                                                        # noqa: E402
 import trazado                                                     # noqa: E402
 from comun import RAIZ, marca_texto, md                            # noqa: E402
 
-FECHA = "24 de agosto de 2026"
+from fecha import FECHA
 
 # ---------------------------------------------------------------------------
 # Estructura del volumen
@@ -166,9 +166,8 @@ def miles(n, sufijo=" km"):
 # sale; el manual de campamento (`18`) va pegado al `06`, porque el dia de ruta se lee
 # del tiron: conducir y acampar; los campamentos de Etosha (`21`) van pegados al `18`,
 # que es su manual de uso; la picadura de escorpion (`22`) detras del `21`, porque es del
-# campamento; la cultura (`19`) pegada al `08`, que ya lleva la mesa y los mercados; y los
-# desvios de fuera de la ruta (`aparte/desvios`) detras del `10`, que cataloga las joyas de dentro:
-# son las dos caras de la misma pregunta y se leen seguidas.
+# campamento; y la cultura (`19`) pegada al `08`, que ya lleva la mesa y los mercados. (Los
+# desvios se fueron a `aparte/` el 25/08: lo que vive alli no entra en el PDF ni se ordena.)
 # Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
 ORDEN = {"20": "04a", "17": "05a", "18": "06a", "21": "06b", "22": "06c", "19": "08a"}
 
