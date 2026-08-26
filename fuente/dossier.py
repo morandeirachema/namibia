@@ -72,8 +72,9 @@ FOTOS = {
 PLENAS = {
     "01": ("duna45", "Duna 45 al amanecer. El D4 empieza una hora antes que para todos "
                      "los demás: la puerta interior de Sesriem abre solo para quien duerme dentro."),
-    "09": ("etosha-jirafas", "Etosha al atardecer. Cuatro noches dentro del parque, "
-                             "tres campamentos y una charca iluminada en cada uno."),
+    "09": ("etosha-jirafas", "Etosha al atardecer. Cuatro noches en Etosha, dos dentro del "
+                             "parque y dos a su puerta — y una charca iluminada en cada "
+                             "campamento de dentro."),
 }
 
 # ---------------------------------------------------------------------------

@@ -124,7 +124,7 @@ def cabecera(km):
   <div class="datos">
     <span class="grande">~{comun.mil(km)} km en 15 días</span>
     <b>30 de octubre – 15 de noviembre</b> · un 4×4 con tienda de techo<br>
-    14 noches, 13 de ellas arriba · cuatro en Etosha, tres dentro del parque
+    14 noches, 13 de ellas arriba · cuatro en Etosha, dos dentro del parque
   </div>
 </header>"""
 

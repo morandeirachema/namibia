@@ -255,7 +255,8 @@ def recuenta(tx):
 # 4 · Los partes de avistamiento de los viajeros (Expert Africa)
 # ---------------------------------------------------------------------------
 
-# Los tres campamentos donde se duerme, en el orden del viaje.
+# Los tres campamentos de NWR con partes, en el orden del viaje: en los dos primeros se
+# duerme; Namutoni se cruza de dia el D12 (su noche se cambio por Onguma el 24/08).
 CAMPAMENTOS = [("okaukuejo", "Okaukuejo", "okaukuejo-camp"),
                ("halali", "Halali", "halali-camp"),
                ("namutoni", "Namutoni", "namutoni-camp")]
@@ -391,8 +392,8 @@ def porcentajes(slug):
     El porcentaje que se destaca es el de los TRES campamentos juntos, no el del
     campamento donde mas se ve. Coger el maximo suena mejor y enganaba: el maximo
     salia casi siempre de Namutoni, que es la muestra pequena —16 viajeros—, y asi el
-    eland pasaba de un 45 % real a un 73 % de casualidad. Aqui se duerme en los tres,
-    de modo que lo que corresponde es sumar partes y avistamientos.
+    eland pasaba de un 45 % real a un 73 % de casualidad. Aqui se pasa por los tres —se
+    duerme en dos—, de modo que lo que corresponde es sumar partes y avistamientos.
 
     Detras van igualmente los tres por separado, porque ahi esta lo util: que el
     leopardo es de Halali y el rinoceronte negro, de Okaukuejo.

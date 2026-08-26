@@ -291,7 +291,7 @@ falta—, así que el total de tasas queda holgado. Confírmalo en recepción/al
 **La ruta cruza tres zonas de pago:**
 - **Namib-Naukluft** (Sesriem/Sossusvlei): ~2 unidades de 24 h (tarde de llegada + amanecer en Deadvlei).
 - **Skeleton Coast** (permiso de tránsito + Terrace Bay): ~1 unidad.
-- **Etosha**: 4 días de parque → **~4 unidades, y siguen siendo 4** con la última noche fuera:
+- **Etosha**: 4 días de parque → **~4 unidades, y siguen siendo 4** con las dos últimas noches fuera:
   se entra el **D10** por Andersson y se sale el **D13** por Von Lindequist; el **D14 ya no se
   vuelve a entrar**. *(Dormir fuera la última noche no ahorra tasas: las cobra la puerta, no el
   campamento.)*

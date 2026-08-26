@@ -83,8 +83,9 @@ flowchart LR
 ```
 
 - **VENCIDO · era julio** — reservar el 4×4 *(✅ hecho — Savanna, `20` §1)*; los **campamentos de
-  Etosha** *(✅ hechos el 21/08: Okaukuejo, Halali, Namutoni y Onguma Tamboti — `20` §4)*; reservar
-  **Sesriem ×2 y Terrace Bay**, que siguen pendientes; y **comprobar los pasaportes** contra la
+  Etosha** *(✅ hechos: Okaukuejo, Halali y Onguma Tamboti ×2 — Namutoni se anuló el 24/08, `20`
+  §4)*; reservar **Sesriem ×2** *(✅ hecho el 24/08, 2–3 nov)* y **Terrace Bay**, que sigue
+  pendiente; y **comprobar los pasaportes** contra la
   vuelta del 15 de noviembre —válidos hasta el **15/05/2027** y con 3 páginas en blanco de verdad
   (§Pasaporte)—, que es lo que el e-visa da por hecho y nadie ha confirmado todavía.
 - **AHORA · agosto** — pedir cita **ya** en el Centro de Vacunación Internacional: **la cita es el
