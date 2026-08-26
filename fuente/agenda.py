@@ -267,7 +267,7 @@ header.dia .duerme b { display: block; font-family: var(--serif); font-size: 12p
    este margen se pegan a la palabra siguiente y se lee «teléfonoLas dos llamadas». */
 .rot { font-size: 7.6pt; text-transform: uppercase; letter-spacing: .07em; color: var(--tinta-3);
        font-weight: 700; margin-right: 1.6mm; white-space: nowrap; }
-/* El D13, el dia del desvio del CCF, es el mas largo y se salia por dos viñetas: la
+/* El D13 es el mas largo y se salia por dos viñetas: la
    ultima lista de cada dia no necesita aire debajo, que ahi acaba la pagina. */
 .cuerpo > :last-child, .cuerpo blockquote > :last-child { margin-bottom: 0; }
 .cuerpo blockquote li { margin-bottom: 1mm; }

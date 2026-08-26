@@ -488,8 +488,8 @@ ROTULOS_RUTA = {
     "namutoni":        (-9, -6, "end"),
     "onguma":          (10, 3, "start"),
     "lindequist":      (2, 15, "start"),
-    # --- solo en el mapa de la variante del `aparte/decision-del-ccf` ---
     "palmwag":         (-8, -5, "end"),
+    # --- solo en el mapa de la variante archivada del `aparte/decision-del-ccf` ---
     "ccf":             (9, 4, "start"),
 }
 
@@ -579,16 +579,15 @@ TEXTO_ROTULO = _rotulos(trazado.ETAPAS)
 BLOQUES_LEYENDA = _leyenda(trazado.ETAPAS, TITULOS_LEYENDA)
 
 # --- la variante del `aparte/decision-del-ccf` -------------------------------------------------
-# Misma ruta que la oficial salvo dos cosas, y el mapa esta para que se vean las dos:
-# Spreetshoogte pierde una noche —Sesriem cae un dia antes y aparece una noche en
-# Damaraland— y el final sale por el CCF en vez de por Onguma. Fuera de eso, la linea
-# es la del `01`: la costa y el Skeleton Coast siguen enteros.
+# Variante DESCARTADA el 26/08; el mapa se conserva como registro. Misma ruta que la
+# oficial hasta el D12 y solo cambia el final: en vez de la segunda noche de Onguma, el D13
+# baja al CCF por la B1 y el D14 sale de alli.
 EN_MAPA_ALT = ["windhoek", "aeropuerto", "okahandja", "otjiwarongo", "tsumeb", "outjo",
                "rehoboth", "spreetshoogte", "solitaire", "sesriem", "sossusvlei",
                "walvisbay", "swakopmund", "hentiesbay", "capecross", "ugabmund",
                "terracebay", "springbokwasser", "twyfelfontein", "palmwag", "hoada",
                "kamanjab", "andersson", "okaukuejo", "halali", "namutoni",
-               "lindequist", "ccf"]
+               "lindequist", "onguma", "ccf"]
 
 TITULOS_LEYENDA_ALT = [
     (("desierto",), "El desierto"),

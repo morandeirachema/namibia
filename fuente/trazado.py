@@ -131,11 +131,11 @@ ETAPAS = [
      "por": ["windhoek", "aeropuerto"]},
 ]
 
-# Las quince etapas de la VARIANTE del `aparte/decision-del-ccf`. Desde el 24/08 la variante ya NO es otra ruta:
-# es UN cambio, el del final. La ruta oficial y ésta son la misma línea hasta la noche del
-# D12 en Onguma; lo que cambia es que aquí NO se duerme la segunda noche de Onguma, sino
-# que el D13 se emplea en bajar al Cheetah Conservation Fund por la B1 y el D14 sale de
-# allí. Es una decisión que se toma DENTRO de Etosha, según la fauna que haya salido.
+# Las quince etapas de la VARIANTE ARCHIVADA del `aparte/decision-del-ccf` — DESCARTADA el
+# 26/08: se conserva como registro, con su geometria y su mapa, por si algun dia vuelve.
+# Es la ruta oficial hasta la noche del D12 en Onguma; lo que cambiaba es que aqui NO se
+# dormia la segunda noche de Onguma, sino que el D13 bajaba al Cheetah Conservation Fund
+# por la B1 y el D14 salia de alli.
 # Misma forma que ETAPAS para que `geodatos.ruta_alt()` y `mapa.mapa_ruta_alt()` la
 # traten igual — y para que el dia a dia del `aparte/decision-del-ccf` no se escriba a mano en ningun sitio.
 ETAPAS_ALT = [

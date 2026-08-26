@@ -400,7 +400,8 @@ Halali el D12, N$650 pp ✅)* = **N$2.600 (~€130) la pareja**; **se caen la gu
 nocturno**, N$2.800 (~€140). Tarifa NWR verificada, **sin reservar**: horarios
 de salida ❌ no publicados y pre-reserva incierta en temporada de lluvias — se cierra en
 recepción (la pregunta a NWR está en el README, punto 7). **Lo que sustituye al nocturno lo vende
-Onguma**: Sundowner Drive con foco, N$980 (~€49) pp ✅. Los traslados entre campamentos siguen
+Onguma**: Sundowner Drive con foco, N$980 (~€49) pp ✅ — **decidido el 26/08 para el D12, junto con
+el game drive diurno dentro de Etosha del D13, N$1.930 (~€97) pp** *(`02` §9)*. Los traslados entre campamentos siguen
 siendo con el 4x4. El análisis descartado, en `16` §7.
 
 ## 🐾 Dos fichas nuevas en la guía — añadidas *(08/08/2026)*

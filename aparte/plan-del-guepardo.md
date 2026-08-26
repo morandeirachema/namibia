@@ -84,20 +84,21 @@ con los prismáticos**, que es lo único que hay que hacer distinto.
 ### 4 · Onguma (D12–D13) — sí, pero eligiendo bien la actividad
 
 Onguma tiene **guepardo confirmado por escrito en su propia web** ✅ y es **la única de la zona con
-leopardo Y guepardo en fuente propia**. De su tarifa oficial 2027, **para guepardo solo vale una**:
+leopardo Y guepardo en fuente propia**. De su tarifa oficial 2027 **se compran dos, y cada una en
+su día** *(decidido el 26/08, en el presupuesto — `../02-presupuesto.md` §9)*:
 
-- ✅ **Game drive guiado dentro de Etosha · 4 h · N$1.930 (~€97) pp** — **diurno**, guiado y en el
-  terreno bueno. **Es la única de sus actividades que es cheetah-positiva.**
-- ⚠️ **Sundowner Drive · 3 h · N$980 (~€49) pp** — foco y campo a través, **cosas que el parque
-  prohíbe** y magníficas para leopardo, hiena y gato montés. **Para guepardo, no**: sale al
-  atardecer y **obliga a salir del parque hacia las 17:00**, gastando la última hora de luz del
-  D13, que es la ventana nº 1 de esta lista.
+- ✅ **D13 · Game drive guiado dentro de Etosha · 4 h · N$1.930 (~€97) pp** — **diurno**, guiado y
+  en el terreno bueno. **Es la única de sus actividades que es cheetah-positiva**, y abre el D13:
+  el guía conoce las llanuras del este mejor que el mapa, y las cuatro horas caen en la mejor luz.
+- ✅ **D12 · Sundowner Drive · 3 h · N$980 (~€49) pp** — foco y campo a través, **cosas que el parque
+  prohíbe** y magníficas para leopardo, hiena y gato montés. **Para guepardo, no** — por eso **va el
+  D12**, que ya está gastado como traslado, y **no el D13**: sale al atardecer y obligaría a salir
+  del parque hacia las 17:00, gastando la última hora de luz de la ventana nº 1.
 - ○ **Onkolo Hide · 3 h · N$720 (~€36) pp** — un escondite a pie de agua. Es una charca: sirve para
-  todo lo demás, **no es método de guepardo**.
+  todo lo demás, **no es método de guepardo**. Fuera.
 
-> ⚖️ **El choque, dicho claro**: **sundowner y ventana nº 1 son excluyentes.** Con el guepardo como
-> prioridad declarada, **el sundowner se sacrifica** — o se hace el **D12**, que ya está gastado
-> como traslado, y se deja el D13 entero limpio.
+> ⚖️ **El choque, resuelto**: sundowner y ventana nº 1 eran excluyentes el mismo día, así que se
+> reparten — **sundowner el D12, game drive el D13**, y el D13 queda entero limpio.
 
 ### 5 · D10 (lun 9) — Otjitotongwe, el casi seguro, y hay que mirarlo de frente
 
@@ -142,12 +143,13 @@ que no cuesta ni una noche ni un desvío — solo una llamada para preguntar la 
 1. **D10** — llamar a Otjitotongwe y **preguntar la hora de la alimentación** ❌; ir, con los ojos
    abiertos sobre lo que es.
 2. **D11** — el desvío obligatorio pasa por **Gemsbokvlakte–Sueda–Salvadora**: hacerlo **despacio**.
-3. **D12** — tratar el traslado a Onguma **como safari**, no como mudanza. Y si se quiere sundowner,
-   **es hoy**.
-4. **D13** — **en la puerta a las 06:05**, circuito del este, **comer en el coche**, y la última
-   hora de luz en llanura. **Sin sundowner.**
-5. **La actividad de Onguma que se compra es el game drive dentro de Etosha** *(N$1.930 · ~€97 pp)*,
-   no el sundowner, si es que se compra alguna.
+3. **D12** — tratar el traslado a Onguma **como safari**, no como mudanza. **Y el sundowner es
+   hoy**, no mañana.
+4. **D13** — **el game drive guiado de Onguma a primera hora** *(4 h, dentro de Etosha)*; después,
+   el circuito del este por vuestra cuenta, **comer en el coche**, y la última hora de luz en
+   llanura. **Sin sundowner.**
+5. **Las dos actividades de Onguma están decididas y en el presupuesto**: sundowner del D12
+   *(N$980 · ~€49 pp)* y game drive del D13 *(N$1.930 · ~€97 pp)* — **+€146 por persona**.
 6. **No hay decisión que tomar en Etosha**: el CCF está descartado y las dos noches de Onguma son
    firmes. Si el guepardo no ha salido al final del D13, **el viaje se queda con Otjitotongwe**, y
    eso ya se sabía el D10.
