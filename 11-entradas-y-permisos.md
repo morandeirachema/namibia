@@ -175,7 +175,7 @@ flowchart LR
     T["FUERA DE ETOSHA<br/>que cabe en la ruta tal y como esta"]
     S["D9 · RASTREO DE RINOCERONTE<br/>PALMWAG, media jornada y en el camino<br/>la manana libre que dio el D8"]
     G["D9 · Hoada / Grootberg<br/>nature drive con sundowner<br/>la tarde de llegada"]
-    O["D12-D13 · Onguma<br/>Sundowner Drive<br/>N$980 pp · sustituye al nocturno"]
+    O["D12 · Onguma: Sundowner Drive N$980 pp<br/>D13 · game drive en Etosha N$1.930 pp<br/>decididos el 26/08"]
     X["SIGUEN SIN CABER:<br/>el rastreo de rino de DIA ENTERO de Grootberg<br/>(saldria de noche por grava) · el leopardo de<br/>Okonjima (medio dia en el D14 de 539 km) ·<br/>Okapuka · el farm drive de Spreetshoogte"]
     T --> S --> G --> O
     T --> X
@@ -273,8 +273,9 @@ la razón de que allí se vean con una frecuencia que el parque no da ◐.
   **son +34 km sobre el trazado directo del D14** ✅ *(medido con OSRM el 24/08 — está casi en la
   B1)*, pero la salida de las 06:00 obliga a **haber dormido cerca** *(desde Onguma son 312 km)* y
   la de las 15:30 termina a las 19:30, llegando a Windhoek **de noche**, contra la regla de las
-  18:00 *(`06`)*. **Con la noche de Onguma cambiada por una en Okonjima, encaja entero — y el D14
-  se queda en 226 km.** El análisis completo, con el guepardo delante, en
+  18:00 *(`06`)*. *(Cambiar una noche de Onguma por Okonjima encajaría —el D14 quedaría en 226 km—,
+  pero **no se hace**: Okonjima ya no tiene guepardo y las dos noches de Onguma son firmes desde
+  el 26/08.)* El análisis completo, con el guepardo delante, en
   [los desvíos](aparte/desvios-que-valen-la-pena.md).
 
 ### 🦁 D1 y D14 · Windhoek — las reservas valladas de la ciudad ✅
@@ -310,8 +311,10 @@ Son las únicas que caben en un día de llegada o de salida, porque están **a m
   [los desvíos](aparte/desvios-que-valen-la-pena.md)**, que compara los tres centros contra el guepardo
   salvaje de Etosha —medido: **Namutoni 50 %**, Okaukuejo 18 %, Halali 10 %— y dice de qué noche
   saldría el día.)*
-- **D13 Onguma** — el **Sundowner Drive, N$980 (~€49)/persona** ✅, que es el único game drive
-  no-Etosha **ya presupuestado como opción** *(`20` §7)*; su **night drive sigue sin confirmar** ❌.
+- **D12 Onguma** — el **Sundowner Drive, N$980 (~€49)/persona** ✅, **decidido el 26/08 y en el
+  presupuesto** *(`02` §9)*; y **D13, el game drive guiado dentro de Etosha, N$1.930 (~€97)/persona**
+  ✅, también decidido — la única actividad de Onguma que sirve para el guepardo
+  *(`aparte/plan-del-guepardo.md`)*. Su **night drive sigue sin confirmar** ❌.
 
 ---
 

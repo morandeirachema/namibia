@@ -260,11 +260,14 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 > - ✅ **Y desde el 26/08 esto deja de tener consecuencias.** El desvío al Cheetah Conservation Fund
 >   **queda descartado** —el D13 es el mejor día de guepardo salvaje del viaje y bajar al CCF se lo
 >   comía entero: [el plan del guepardo](aparte/plan-del-guepardo.md)—, así que **las dos noches de
->   Onguma son firmes y no hay ninguna que cancelar**. Sus condiciones de cancelación siguen sin
->   pedirse ❌, pero **ya no bloquean nada**: son solo el seguro por si algo obliga a mover la noche.
+>   Onguma son firmes y no hay ninguna que cancelar**. Sus condiciones de cancelación **están
+>   leídas en su propio rack 2027** ✅ *(25/08: cancelar cuesta el 100 %, posponer por escrito no —
+>   arriba)*, y ya no bloquean nada: son solo el seguro por si algo obliga a mover la noche.
 > - **Lo que hay que hacer con esta reserva, y nadie lo va a recordar por vosotros**: su tarifa
 >   dice expresamente que **las comidas y las actividades se pre-reservan** ✅ — o al reservar, o
->   en recepción al llegar. Si queréis el **Sundowner Drive (3 h, N$980 · ~€49 pp)**, pedidlo ya.
+>   en recepción al llegar. **El Sundowner Drive del D12** *(3 h, N$980 · ~€49 pp)* **y el game drive
+>   guiado dentro de Etosha del D13** *(4 h, N$1.930 · ~€97 pp)* **están decididos (26/08)**: pedidlos
+>   ya, con la cena.
 > - **Y una pregunta que sigue abierta** ❌: **si hacen un night drive de verdad**. Su tarifa
 >   oficial 2027 **no lo lista** —el que sale de noche es el sundowner— aunque agregadores
 >   independientes lo citen ◐, sin precio ni horario.
@@ -507,7 +510,8 @@ Para no gastar llamadas en lo que se cierra allí:
   *(la pregunta de si los venden igual va en la gestión NWR — §4)*.
 - **Las actividades de Onguma** *(Sundowner Drive N$980 · ~€49 pp ✅; paseo a pie N$980 · ~€49 pp ✅;
   game drive dentro de Etosha N$1.930 · ~€97 pp ✅)*: **al reservar o en recepción al llegar** — son
-  lo que sustituye al nocturno de NWR *(§4)*.
+  lo que sustituye al nocturno de NWR *(§4)*. **El sundowner (D12) y el game drive (D13) están
+  decididos y en el presupuesto** *(26/08, `02` §9)*.
 - **La lanzadera de Deadvlei** *(N$180 · ~€9/persona ✅)*: en Sesriem.
 - **Las tasas de parque** *(~N$620 · ~€31 al día, pareja + coche ◐)*: en cada puerta, por cada 24 h.
 - **Cape Cross** *(~N$350 · ~€18 los dos ◐)*: **en efectivo** en recepción — y vuestro día, el 6
@@ -539,11 +543,12 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] 🔴 **Terrace Bay** *(6 nov — confirmación impresa)* — **la única que queda con fecha dura** *(§4)*
 - [x] **Las 4 noches de Etosha — RESERVADAS** *(§4)*: Okaukuejo *(9–10)* · Halali
       *(10–11)* · **Onguma Tamboti ×2** *(11–13, ya fuera de la puerta)*. **Namutoni, anulado**
-- [ ] *(Opcional)* **Pedir a Onguma sus condiciones de cancelación** ❌ — **no hace falta**: con el
-      CCF descartado *(26/08)* las dos noches son firmes y no hay nada que cancelar *(§4)*
+- [x] **Condiciones de cancelación de Onguma — leídas en su rack 2027** ✅ *(25/08: cancelar cuesta
+      el 100 %, posponer por escrito no; y con el CCF descartado el 26/08 no hay nada que cancelar
+      — §4)*
 - [ ] **Confirmar el importe de la reserva de Onguma** *(el rack da N$1.240 · ~€62 por noche)* *(§4)*
-- [ ] **Pre-reservar en Onguma la cena y, si se quiere, el Sundowner Drive** — y preguntar si hay
-      night drive *(§4)*
+- [ ] **Pre-reservar en Onguma la cena, el Sundowner Drive del D12 y el game drive dentro de Etosha
+      del D13** *(decididos el 26/08, `02` §9)* — y preguntar si hay night drive *(§4)*
 - [ ] **Preguntar a NWR si venden el nocturno y la guiada de mañana a quien NO duerme dentro** ❌ —
       son N$2.800 (~€140) que hoy están fuera del presupuesto *(§4)*
 - [ ] 🐆 **Llamar a Otjitotongwe y preguntar la hora de la alimentación** ❌ — 15:00 ◐ contra 16:00,

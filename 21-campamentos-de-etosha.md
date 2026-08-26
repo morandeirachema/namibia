@@ -46,9 +46,8 @@ flowchart LR
   las **19:10** ✅ *(tabla oficial del parque, 10–16 nov)*, dos días seguidos — y el D13 hay que
   volver a entrar por la mañana. Son **+30 km** entre los dos días *(`13` §5)*.
 - **Y se gana media hora el D14**: durmiendo fuera no hay que esperar a que la puerta abra.
-- 🐆 **La segunda noche de Onguma tiene salida**: si el guepardo no ha aparecido, se cancela y se
-  se queda: **desde el 26/08 la segunda noche es firme y el desvío al Cheetah Conservation Fund
-  queda descartado** *(el porqué, en [el plan del guepardo](aparte/plan-del-guepardo.md); el
+- 🐆 **La segunda noche de Onguma es firme desde el 26/08**: el desvío al Cheetah Conservation
+  Fund queda descartado *(el porqué, en [el plan del guepardo](aparte/plan-del-guepardo.md); el
   descarte razonado, en [su archivo](aparte/decision-del-ccf.md))*.
 
 **Lo común a los campamentos de NWR** ✅ *(fichas de NWR: [Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
@@ -241,12 +240,12 @@ camping:
 - Young Explorers Walk N$460 (~€23) · game drive privado N$10.680 (~€534)/vehículo · desayuno
   suelto N$320 (~€16)
 
-> ⚖️ **El choque de horarios, dicho antes de que pase**: el sundowner sale al atardecer, así que
-> **hacerlo obliga a salir del parque hacia las 17:00** y renunciar a la mejor hora de charcas del
-> último día. Son **dos planes buenos y excluyentes**: decidid al reservar.
-> ✅ **Pero con dos noches hay margen que antes no había**: el sundowner cabe **el D12**, que se
-> llega desde Halali con la tarde ya gastada en el traslado, y así **el D13 queda entero para las
-> charcas del este**. Es la ventaja discreta de la segunda noche.
+> ⚖️ **El choque de horarios, resuelto el 26/08**: el sundowner sale al atardecer y obliga a salir
+> del parque hacia las 17:00, así que **va el D12** —que se llega desde Halali con la tarde ya
+> gastada en el traslado— y **el D13 queda entero para la llanura del este**. Y el D13 arranca con
+> el **game drive guiado dentro de Etosha** *(4 h · N$1.930 · ~€97 pp)*, la única actividad de
+> Onguma que sirve para el guepardo. **Los dos están decididos y en el presupuesto** *(`02` §9,
+> `aparte/plan-del-guepardo.md`)*.
 
 > ⚠️ **El hueco honesto, y ahora pesa más: «night drive» NO figura en el tarifario oficial 2027**
 > ❌ — y **el nocturno de NWR ya no está disponible**, así que esto es lo único que queda para ver

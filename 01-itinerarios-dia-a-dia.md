@@ -606,9 +606,11 @@ flowchart LR
   - ⚠️ **Un «night drive» como tal NO figura en el tarifario oficial 2027** ❌; lo citan agregadores
     independientes ◐ *([safaribookings](https://www.safaribookings.com/onguma))*, sin precio ni
     horario. El que está en la tarifa —y el que hay que reservar— es el sundowner
-  - ⚖️ **El choque honesto, y hoy es más agudo**: el sundowner sale al atardecer, así que **hacerlo
-    obliga a salir del parque hacia las 17:00** y renunciar a la mejor hora de charcas del último
-    día. **Son dos planes buenos y excluyentes** — decidid al reservar
+  - ⚖️ **El choque de horarios, resuelto el 26/08**: el sundowner sale al atardecer y obligaría a
+    salir del parque hacia las 17:00, así que **se hace el D12, no hoy** — el D13 queda entero para
+    la llanura. Y **el game drive guiado dentro de Etosha va hoy a primera hora**: es la única
+    actividad de Onguma que sirve para el guepardo *(`aparte/plan-del-guepardo.md`)*. **Los dos,
+    decididos y en el presupuesto** *(`02` §9)*
   - 📌 **Las actividades y las comidas se reservan al hacer la reserva o al llegar a recepción** ✅
 - 🛏️ **Onguma Tamboti, segunda noche** ✅ **RESERVADA**
 
@@ -898,17 +900,18 @@ mediodía siguen siendo vuestros.
 > D13.** ❌ *Que NWR lo venda a quien no pernocta no está verificado — es la primera pregunta de la
 > llamada, 📞 +264 67 229 800.*
 >
-> 👉 **Lo que hay en su lugar es el Sundowner Drive de Onguma** *(3 h, **N$980 · ~€49 pp** →
-> **N$1.960 · ~€98 los dos** ✅)*: sale al atardecer y **vuelve de noche, con foco y campo a
-> través**. No es dentro de Etosha —es la reserva privada de 35.970 ha que linda con ella— pero **da
-> las dos cosas que el parque prohíbe**, y añade una que el nocturno de NWR tampoco tiene: **el
-> paseo guiado a pie** *(1½ h, N$980 · ~€49 pp)*.
+> 👉 **Lo que hay en su lugar es el Sundowner Drive de Onguma, decidido el 26/08 para el D12**
+> *(3 h, **N$980 · ~€49 pp** → **N$1.960 · ~€98 los dos** ✅)*: sale al atardecer y **vuelve de
+> noche, con foco y campo a través**. No es dentro de Etosha —es la reserva privada de 35.970 ha
+> que linda con ella— pero **da las dos cosas que el parque prohíbe**. *(El **paseo guiado a pie**,
+> 1½ h, N$980 · ~€49 pp, que el nocturno de NWR tampoco tenía, queda como opcional.)*
 > **El coste sube N$460 (~€23) la pareja** frente al nocturno de NWR, y a cambio se pierde el
-> escenario de Etosha de noche.
+> escenario de Etosha de noche. **Y a la guiada de mañana de Namutoni la sustituye el game drive
+> guiado dentro de Etosha del D13** *(4 h, **N$1.930 · ~€97 pp** ✅)*, también decidido.
 >
-> ⚖️ **Y arrastra un choque de horarios**: el sundowner sale al atardecer, así que hacerlo **obliga a
-> salir del parque hacia las 17:00** el D13 y renunciar a la mejor hora de charcas del último día.
-> Decidid al reservar; lo demás del viaje no depende de ello.
+> ⚖️ **El choque de horarios está resuelto**: el sundowner sale al atardecer, así que **va el D12**
+> —y el D13 queda entero para la llanura del este, que es donde se busca el guepardo
+> *(`aparte/plan-del-guepardo.md`)*.
 
 **Fuera de Etosha**, ya en el dossier: la **lanzadera de Deadvlei N$180** ✅, el safari guiado de
 mañana de Sesriem N$600–700 (~€30–35), Elim Dune N$300 (~€15) y el cañón N$200 (~€10) *(ver [`03`](03-alojamiento-y-tasas.md))*.
