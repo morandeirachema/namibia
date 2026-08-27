@@ -312,8 +312,6 @@ Fuentes: [namibweb — Skeleton Coast](https://www.namibweb.com/skeleton.htm) �
   «una de las concentraciones más ricas del país». **La llave se pide con depósito en el Oase Garni
   B&B o en Oppi-Koppi, en Kamanjab** ◐; unas cancelas de granja, subida empinada de 600–800 m y sin
   guía: una hora. Depósito ❌.
-- **Otjitotongwe, los guepardos alimentados a mano** *(C40, 24 km de Kamanjab)* ◐ — ya en el `11`:
-  ~N$610 (~€30) pp, **hora de la alimentación sin cuadrar (15:00 ◐ o 16:00 ❌)** — llama antes.
 - **Franke House, el museo de Outjo** *(Church St, a un paso del Spar y de la Outjo Bakkery — en el
   mapa)* ◐ — la «casa de piedra» de **1899** que mandó levantar von Estorff y que ocupó el mayor
   Franke, hoy museo de gemas y fauna; y al lado la **torre de molino de 1900**, 9,4 m, lo único que

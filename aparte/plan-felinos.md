@@ -14,7 +14,7 @@ pone en la misma frase**.*
 >
 > El viajero lo ha dicho tres veces y la última así: **«lo fundamental, aparte de lo fácil de ver,
 > es ver leopardos y sobre todo guepardos»** *(27/08)*. Del guepardo se ocupa el plan del 26/08:
-> cinco ventanas diurnas, el D13 entero en las llanuras del este y **sin plan B**, porque el único
+> cuatro ventanas diurnas, el D13 entero en las llanuras del este y **sin plan B**, porque el único
 > que había —bajar al CCF— se comía justo ese día. **Este documento es el del leopardo**: qué da ya
 > la ruta, cifra a cifra; cómo exprimirlo sin gastar; y **la única vía casi segura que cabe sin
 > tocar el D13 ni las dos noches de Onguma** — la noche del D14 en Okonjima en vez de en Windhoek —,
@@ -85,6 +85,36 @@ límites, en `09`; los intervalos, en el [estudio de las charcas](charcas-de-los
 > tres» la noche del D11**, más lo que dé Onguma con foco el D12. Es una opción real; no es una
 > probabilidad alta. **Lo que la sube de verdad son los collares de Okonjima**, y eso cuesta una
 > noche cambiada y ~€160–320 la pareja.
+
+---
+
+## 1b · Las reservas con los DOS felinos sueltos, buscadas una a una *(27/08)*
+
+El viajero lo pidió así: **«si hay alguna reserva concreta para ver leopardos y guepardos, pero SOLO
+EN LIBERTAD, se añade; si no, no interesa»**. Se ha buscado en todo el eje de la ruta, y esto es lo
+que hay — con lo que cabe y lo que no:
+
+- ✅ **Onguma** *(D12–D13, RESERVADA)* — 35.970 ha, **leopardo y guepardo confirmados por escrito en su
+  web**, sueltos. **Es la reserva concreta que se pedía, y ya está en el plan** con sus dos
+  actividades decididas. No hay que añadir nada: hay que exprimirla *(§2)*.
+- ❌ **Erindi** *(70.000 ha entre Omaruru y Otjiwarongo, a 428 km de Onguma y 187 de Windhoek — OSRM)*
+  — sería la otra: guepardo y leopardo libres y vistos con regularidad ◐. **Pero está CERRADA:
+  su propia web dice que el Old Traders Lodge está en obras «hasta nuevo aviso, posible reapertura en
+  2027», que Camp Elephant «no volverá a abrir» y que no admiten visitantes de día** ✅
+  *([erindi.com](https://www.erindi.com/), leído el 27/08)*. Fuera, y no por elección.
+- ◐ **Ongava** *(300 km² pegados a la puerta de Andersson)* y **Etosha Heights / Safarihoek**
+  *(al suroeste del parque)* — las dos son reservas privadas con **leopardo y guepardo sueltos**
+  según sus fichas ◐ *(Expert Africa; Safarihoek colabora con el censo nacional de guepardo)*. **Las dos
+  son solo lodge** —camping ❌ no consta—, **sin precio verificado** ❌ *(la liga de Ongava son
+  cientos de euros por persona y noche ○)*, y **su hueco en la ruta sería la noche de Okaukuejo del
+  D10**, que está reservada y es la charca del rinoceronte *(87 %)*. **No se añaden**: cambiarían
+  una noche buena y barata dentro del parque por una cara y sin medir, en el lado del parque donde
+  el guepardo rinde menos *(Okaukuejo 18 %)*. Quedan aquí por si algún día sobra una noche.
+- **Okonjima** *(D14)* — **solo leopardo**, suelto en 220 km²; es el §3. No es «los dos».
+
+> **Conclusión honesta**: la reserva concreta con los dos felinos en libertad que cabe en esta ruta
+> **es Onguma, y ya está reservada**. Lo que se puede añadir sin tocar Etosha es **el leopardo de
+> Okonjima** el D14. Lo demás, o está cerrado, o no cabe sin quitar una noche del parque.
 
 ---
 
@@ -184,7 +214,7 @@ flowchart LR
    condiciones de cancelación** ❌. Con eso en la mano, la decisión final se toma **la tarde del D13
    en Onguma, con lo visto**: si el leopardo ya salió en Moringa o con el foco, se cancela *(según
    lo que digan esas condiciones)* y el D14 vuelve a ser Windhoek; si no, se va a por él.
-3. **Nada de lo anterior toca el plan del guepardo**: las cinco ventanas, el D13 entero, las dos
+3. **Nada de lo anterior toca el plan del guepardo**: las cuatro ventanas, el D13 entero, las dos
    noches firmes de Onguma y el game drive del D13 siguen exactamente como están.
 
 > **En una frase**: el guepardo se juega de día en Etosha y ya tiene su plan; el leopardo se juega

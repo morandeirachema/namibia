@@ -69,13 +69,12 @@ cambio aproximado del día, ~N$18,5/US$ y ~€0,92/US$, y se marcan como tales).
     *(La ficha [NWR — Waterberg](https://www.nwrnamibia.com/waterberg-prices.htm) que se citaba como
     ✅ solo da el camping —N$430— y las habitaciones; **no menciona la entrada** — rebajado a ◐ el 25/08.)*
 
-- **Otjitotongwe Cheetah Farm** ◐
-  - Interacción/alimentación de guepardos. En la **C40, a 24 km de Kamanjab hacia Outjo** — es
-    decir, **de camino el D10** (Hoada → Kamanjab → Outjo → Etosha, ver `01`). Alimentación
-    **~15:00 ◐ — pero una fuente reciente dice 16:00 ❌: no coinciden, pregunta la hora al avisar**,
-    porque de ella depende a qué hora se sale de Hoada *(`aparte/plan-del-guepardo.md`)*.
-  - **~US$33 (~€30; ~N$610)** el paseo (◐, una reseña). Los no alojados deben **avisar antes**;
-    cerrado fines de semana según una fuente.
+- ~~**Otjitotongwe Cheetah Farm**~~ ◐ — **FUERA desde el 27/08, por decisión del viajero: «solo me
+  interesan animales en libertad»**. Son guepardos habituados y alimentados a mano, la misma
+  categoría que el CCF. El dato queda como registro:
+  - En la **C40, a 24 km de Kamanjab hacia Outjo** — de camino el D10. Alimentación **~15:00 ◐ / 16:00
+    ❌** *(las fuentes no coinciden)*; **~US$33 (~€30; ~N$610)** el paseo (◐, una reseña); los no
+    alojados avisan antes; cerrado fines de semana según una fuente.
   - Fuente: [namibweb — Otjitotongwe](https://www.namibweb.com/otjitotongwe.htm)
 
 ---
@@ -313,7 +312,7 @@ Son las únicas que caben en un día de llegada o de salida, porque están **a m
   sidewinder…)*: **precio actual sin verificar** ❌ *(las tarifas que circulan, N$750–850 · ~€38–43
   pp, son de 2019–2021 ○)*.
 - **D8 Skeleton Coast** — nada: el permiso es de tránsito y no hay operador de game drive dentro.
-- **D10 Kamanjab** — **Otjitotongwe**, los guepardos, que **ya está arriba** en este mismo documento.
+- **D10 Kamanjab** — ~~Otjitotongwe~~, **fuera desde el 27/08** *(animales alimentados a mano; el viajero solo quiere fauna libre)*.
 - 🐆 *(**Descartado el 26/08 y del todo el 27/08** —el viajero: «más un zoo que animales en
   libertad»—; el dato se deja solo como registro: el Cheetah Conservation Fund, a 44 km
   de Otjiwarongo — **+89 km**
@@ -343,20 +342,17 @@ flowchart LR
     n1["Hoba<br/>250"]
     n2["Brandberg<br/>270"]
     n3["Waterberg dia<br/>280"]
-    n4["Otjitotongwe<br/>610"]
     T ~~~ n0
     n0 ~~~ nT
     nT ~~~ n1
     n1 ~~~ n2
     n2 ~~~ n3
-    n3 ~~~ n4
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
 > **Lectura:** Twyfelfontein, Cape Cross, Brandberg y una tasa de parque se mueven todos en la
-> banda de ~N$150–280 (~€7–14) por cabeza. El único desembolso de otra liga es Otjitotongwe
-> (~N$610 · ~€30), que ya es una actividad y no una entrada — y aun así vale menos que una cena
-> en Swakopmund.
+> banda de ~N$250–280 (~€12,5–14) por cabeza: calderilla. *(Otjitotongwe, ~N$610, salió de la
+> gráfica el 27/08: fuera del viaje.)*
 
 ---
 
