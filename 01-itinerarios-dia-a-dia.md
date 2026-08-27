@@ -397,8 +397,9 @@ flowchart LR
   hay piernas y fresco**: 4 km a pie de ida desde el 2WD y sin sombra — el vlei que nadie hace; a
   mediodía, no
 - 🌇 **Y la Duna 45 al atardecer, no al mediodía** ○: sale del campamento a las ~17:15, 45 km de
-  asfalto, **30–40 min de subida por la cresta** *(~170 m ◐)* con la luz de lado que la ha hecho la
-  duna más fotografiada del país, y de vuelta con el ocaso (**19:13**). **La puerta interior cierra
+  asfalto y **20–30 min de subida por la cresta** ◐ con la luz de lado que la ha hecho la duna más
+  fotografiada del país *(**su altura, en disputa y así se queda**: Wikipedia da «más de 170 m» y el
+  NASA Earth Observatory, 80 — nadie la ha medido para nosotros)*, y de vuelta con el ocaso (**19:13**). **La puerta interior cierra
   ~20:10** para quien duerme dentro, así que hay margen; pero **esos 45 km no se hacen de noche**: la
   regla de las 18:00 se estira hoy hasta el ocaso y ni un minuto más *(`06`)*. *(Si el D3 se llegó
   con luz de sobra, la Duna 45 puede hacerse ayer al atardecer en vez de Elim Dune, y hoy la tarde

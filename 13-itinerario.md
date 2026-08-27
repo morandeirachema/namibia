@@ -57,9 +57,13 @@ flowchart TD
 - **Regla de oro (de `06`)**: apuntar a **llegar a las 18:00**, una hora antes del ocaso. La franja
   16:00–20:00 concentra el **29 % de los muertos** del país. Si vas tarde, **te paras y llegas mañana**.
 
-Guía independiente de operadores, que coincide: *«plan your daily routing to be no further than
-400 km per day»* y, mejor, *«aim to drive no more than 4 to 6 hours per day»* (Expert Africa). Un
-viajero cita un tramo de *«288 km that took over 4 hours»* y que después **acortó todos los días**.
+El techo coincide con lo que repiten las guías de operadores —*«no más de 400 km al día»*, y mejor
+*«de 4 a 6 horas al volante»*— ○ ⚠️ *(**la atribución a Expert Africa se retira el 28/08**: sus
+páginas devuelven 403 desde aquí y las dos frases no aparecen en ninguna suya que se pueda abrir,
+así que la regla se queda como práctica común y no como cita — es exactamente el caso que la marca
+○ existe para cubrir)*. Lo que sí es de un viajero real, y se sostiene, es el tramo de
+*«288 km que le llevaron más de 4 horas»* ◐ *(Spitzkoppe → Vingerklip, relato citado por
+naturallynamibia)* y que después **acortó todos los días**.
 👉 **Trabajo con un techo de ~300–350 km/día de tránsito**, y menos si el día tiene grava dura o
 actividad (Sossusvlei, safari).
 
