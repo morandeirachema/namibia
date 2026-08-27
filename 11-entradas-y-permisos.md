@@ -314,7 +314,8 @@ Son las únicas que caben en un día de llegada o de salida, porque están **a m
   pp, son de 2019–2021 ○)*.
 - **D8 Skeleton Coast** — nada: el permiso es de tránsito y no hay operador de game drive dentro.
 - **D10 Kamanjab** — **Otjitotongwe**, los guepardos, que **ya está arriba** en este mismo documento.
-- 🐆 *(**Descartado el 26/08**, se deja el dato por si vuelve: el Cheetah Conservation Fund, a 44 km
+- 🐆 *(**Descartado el 26/08 y del todo el 27/08** —el viajero: «más un zoo que animales en
+  libertad»—; el dato se deja solo como registro: el Cheetah Conservation Fund, a 44 km
   de Otjiwarongo — **+89 km**
   medidos, alimentación **de lunes a viernes a las 14:00** ✅ y **Cheetah Run a las 08:00 con reserva
   previa**. **Precios 2026** ◐ *(info-namibia; la web propia no los publica)*: **tour del centro

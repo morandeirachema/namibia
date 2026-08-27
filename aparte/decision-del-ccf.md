@@ -5,7 +5,11 @@ plan el 26/08**. Se conserva por dos razones: porque aquí está escrito el argu
 vigente— de **quitarle la segunda noche a Spreetshoogte y llevarla a Damaraland**, que sí se hizo;
 y porque un descarte razonado vale más que un hueco en la memoria.*
 
-> ## ❌ DESCARTADO el 26/08 — no se baja al CCF
+> ## ❌ DESCARTADO el 26/08 — no se baja al CCF · y el 27/08, del todo
+>
+> **El viajero, el 27/08: «el CCF no me interesa; me parece más un zoo que ver a los animales en
+> libertad».** Con eso, esto ya no es un plan B en reserva: es un archivo. Lo que cuenta es fauna
+> suelta — el parque y las reservas privadas—, y los centros no entran.
 >
 > **La segunda noche de Onguma es firme y no hay plan B.** La razón cabe en una línea: el guepardo
 > **«caza de día, a plena luz»** ✅ *(su ficha en la guía de fauna)*, y el **D13 es el único día del

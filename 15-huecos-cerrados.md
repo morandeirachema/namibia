@@ -702,7 +702,8 @@ senderos— no se puede reservar de antemano; el leopardo sí. **Corregido en `1
 en el nuevo [plan de felinos](aparte/plan-felinos.md)**; el «desde N$1.130» del `20` §7 era correcto
 *(es por persona)*. Y el CCF, que sigue sin publicar precios en su web, tiene tabla 2026 en
 info-namibia ◐: **tour N$290 · Cheetah Drive N$800 · Cheetah Run N$800** — el `11` y los desvíos
-daban N$220/N$605, de una guía vieja *(el CCF sigue descartado como plan; el dato queda por si vuelve)*. Fuentes: los dos PDF, enlazados en
+daban N$220/N$605, de una guía vieja *(el CCF está descartado del todo desde el 27/08 — el viajero: «más
+un zoo que ver a los animales en libertad»—; el dato queda solo como registro)*. Fuentes: los dos PDF, enlazados en
 `11`; [info-namibia — CCF](https://www.info-namibia.com/activities-and-places-of-interest/waterberg/cheetah-conservation-fund).
 
 ---

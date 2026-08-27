@@ -106,7 +106,11 @@ de los partes de Expert Africa, campamento a campamento ✅ *(el método, en `09
 **Y el D12 y el D13, Onguma**, ya reservados, tienen **guepardo confirmado por escrito en su propia
 web** ✅ — es **la única de la zona con leopardo Y guepardo confirmados** *(`21`)*.
 
-### 2 · El que me dejé fuera: el Cheetah Conservation Fund (CCF) — y cae en la ruta
+### 2 · El Cheetah Conservation Fund (CCF) — ARCHIVADO: el viajero no lo quiere
+
+> ❌ **27/08 — «el CCF no me interesa; me parece más un zoo que ver a los animales en libertad».**
+> Con eso el CCF sale del viaje del todo, no solo del plan. Lo de abajo queda como registro de lo
+> que se midió.
 
 **Es la organización de referencia mundial del guepardo**, y está **a 44 km al este de
 Otjiwarongo** ◐ — es decir, **pegada al eje del D14**, el día de vuelta a Windhoek. No estaba en
