@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""La agenda: el día a día del `01`, y nada más — dos A4 por día, mapa y explicación, para la guantera.
+"""La agenda: el día a día del `01` con su mapa, y lo opcional del `10` — dos A4 por día.
 
 No es el dossier recortado a mano: es el MISMO markdown del `01`, cortado entre `### D1` y
 el final del `### D15`, con las digresiones de investigación fuera. Todo lo que aquí se
 imprime sale del `01`, así que cambiar una noche en el `01` cambia la agenda sola.
+
+Y desde el 27/08, bajo el mapa de cada día va un bloque OPCIONAL: las joyas y posibles cosas
+que hacer ese día, que son las viñetas de la sección `### Dn` del `10`. Solo las viñetas:
+los párrafos sueltos y las líneas de fuentes del `10` son del dossier, no de la guantera.
 
 Lo que se quita, y por qué:
   · las notas entre paréntesis en cursiva que citan fuentes, decisiones y fechas
@@ -29,6 +33,14 @@ from comun import RAIZ, marca_texto, md
 HERE = os.path.dirname(os.path.abspath(__file__))
 from fecha import FECHA
 FUENTE = os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md")
+JOYAS = os.path.join(RAIZ, "10-joyas-ocultas.md")
+
+
+# El mapa cede altura al bloque opcional: un dia con dos joyas lleva el mapa casi cuadrado y
+# el D7, con nueve, lo lleva mas apaisado. Si no, la lista salta entera a una tercera pagina.
+def alto_mapa(opcional):
+    n = len(opcional)
+    return 800 if n <= 1100 else 700 if n <= 1700 else 600
 MARGEN = (14, 12, 16, 12)                        # los del dossier, para que se parezcan
 
 # Bullets del `01` que son del dossier y no de la agenda: empiezan por este emoji.
@@ -82,6 +94,42 @@ def poda(mdtexto):
     return t
 
 
+def opcionales():
+    """Las viñetas de cada `### Dn` del `10`: lo que la agenda imprime como opcional del día.
+
+    Se queda SOLO con las listas —cada viñeta es una joya, con dónde cae y qué cuesta—; los
+    párrafos, las citas y las líneas «Fuentes:» del `10` son del dossier. Los enlaces se
+    desenvuelven y las remisiones a otros documentos quedan como su número, igual que en `poda`.
+    """
+    texto = open(JOYAS, encoding="utf-8").read()
+    ini = texto.index("\n### D1 ·")
+    fin = texto.index("\n## ", ini)
+    salida = {}
+    for t in re.split(r"\n(?=### D\d+ ·)", texto[ini:fin]):
+        m = re.match(r"### (D\d+) · [^\n]*\n", t)
+        if not m:
+            continue
+        lineas, dentro = [], False
+        for ln in t[m.end():].split("\n"):
+            if ln.startswith("- "):
+                dentro = True
+            elif not ln.startswith("  ") or not ln.strip():
+                dentro = False
+            if dentro:
+                lineas.append(ln)
+        salida[m.group(1)] = poda("\n".join(lineas))
+    return salida
+
+
+def bloque_opcional(dia, viñetas):
+    if not viñetas.strip():
+        return ""
+    return f"""<section class="opcional">
+  <h2>Opcional · qué ver de paso y posibles cosas que hacer, si sobra tiempo</h2>
+  <div class="cuerpo">{a_html(viñetas)}</div>
+</section>"""
+
+
 def cabecera_dia(dia, titulo, breve=False):
     """«D3 · lun 2 — Spreetshoogte → Sesriem · ~129 km · ~2h» partido en sus piezas."""
     fecha, _, resto = titulo.partition(" — ")
@@ -103,7 +151,7 @@ def cabecera_dia(dia, titulo, breve=False):
 </header>"""
 
 
-def banda_mapa(dia):
+def banda_mapa(dia, alto=800):
     """El mapa del dia con, encima, su ficha: kilometros por firme, tiempos y lugares de paso.
 
     Los kilometros por firme salen de `geo/tramos.json` (OSRM, con el ref de cada tramo y
@@ -118,7 +166,7 @@ def banda_mapa(dia):
     total = sum(km.values())
     if not total:
         # dia sin traslado: el mapa es lo que hay alrededor de donde se duerme
-        svg = mapa.mapa_dia(dia, 1000, 1080)
+        svg = mapa.mapa_dia(dia, 1000, alto)
         donde = trazado.PUNTOS[etapa["duerme"]][2].split(" · ")[0]
         return f"""<section class="mapa-dia">
   <div class="ficha"><span class="tot"><b>sin traslado</b></span>
@@ -148,7 +196,7 @@ def banda_mapa(dia):
     # sin repetir el punto de partida cuando el dia vuelve al mismo sitio
     compact = [p for i, p in enumerate(paso) if i == 0 or p != paso[i - 1]]
     lugares = " → ".join(compact)
-    svg = mapa.mapa_dia(dia, 1000, 1080)
+    svg = mapa.mapa_dia(dia, 1000, alto)
     return f"""<section class="mapa-dia">
   <div class="ficha">
     <span class="tot"><b>{total:.0f} km</b></span>
@@ -228,6 +276,15 @@ header.dia.breve .cifra, header.dia.breve .duerme { display: none; }
 .cuerpo > * { break-inside: avoid; }
 .cuerpo pre.mermaid { column-span: all; }
 
+/* --- lo opcional del día, bajo el mapa: las viñetas del `10` ---------------- */
+.opcional { margin-top: 2.2mm; border-top: .5mm solid var(--tinta); padding-top: 1.4mm; }
+.opcional h2 { font-size: 7.6pt; text-transform: uppercase; letter-spacing: .09em;
+               color: var(--tinta-3); margin: 0 0 1.2mm; font-weight: 700; }
+.opcional .cuerpo { font-size: 8pt; line-height: 1.28; column-gap: 5mm; }
+.opcional .cuerpo > ul { padding-left: 3.6mm; margin: 0; break-inside: auto; }
+.opcional .cuerpo li { margin: 0 0 .9mm; break-inside: avoid; }
+.opcional .cuerpo em { color: var(--tinta-2); }
+
 /* --- cada día ----------------------------------------------------------- */
 section.d { page-break-before: always; }
 header.dia { display: grid; grid-template-columns: 22mm 1fr auto; gap: 0 4mm; align-items: end;
@@ -297,13 +354,15 @@ def portada():
     <p class="que">Dos páginas por día. La primera, el mapa del recorrido pintado por
     firme —asfalto, grava, sal, pista de parque—, con los lugares de paso, las gasolineras
     obligatorias, dónde comer y qué ver de paso, y los kilómetros y el tiempo de cada
-    firme. La segunda, lo mismo que cuenta el itinerario del dossier sin la investigación
-    detrás: horas, qué hacer, qué reservar, qué preguntar, el sol y la luna, y las opciones
-    que ya están decididas o abiertas. Cada casilla se marca a boli.</p>
+    firme; y debajo, <b>lo opcional</b>: las joyas y posibles cosas que hacer ese día si
+    sobra tiempo, con su desvío medido y su precio. La segunda, lo mismo que cuenta el
+    itinerario del dossier sin la investigación detrás: horas, qué hacer, qué reservar, qué
+    preguntar, el sol y la luna, y las opciones que ya están decididas o abiertas. Cada
+    casilla se marca a boli.</p>
     <ol class="indice">{"".join(li)}</ol>
   </div>
   <div class="pie">~{comun.mil(total)} km en 15 días · 30 de octubre – 15 de noviembre ·
-  Chema Morandeira y Miguel Rivera · generado del documento <code>01</code> el {FECHA}</div>
+  Chema Morandeira y Miguel Rivera · generado de los documentos <code>01</code> y <code>10</code> el {FECHA}</div>
 </section>"""
 
 
@@ -315,8 +374,11 @@ def html_completo():
     import dossier
     tipos = comun.tipografias(os.path.join(HERE, "tipos"))
     secciones = []
+    joyas = opcionales()
     for dia, titulo, cuerpo in dias():
-        secciones.append(f'<section class="d mapa">{cabecera_dia(dia, titulo)}{banda_mapa(dia)}</section>'
+        opc = joyas.get(dia, "")
+        secciones.append(f'<section class="d mapa">{cabecera_dia(dia, titulo)}'
+                         f'{banda_mapa(dia, alto_mapa(opc))}{bloque_opcional(dia, opc)}</section>'
                          f'<section class="d texto">{cabecera_dia(dia, titulo, breve=True)}'
                          f'<div class="cuerpo">{a_html(poda(cuerpo))}</div></section>')
     completo = dossier.html_completo()

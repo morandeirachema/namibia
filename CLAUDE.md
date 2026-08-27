@@ -56,16 +56,30 @@ hace fila, y el D4 avisa de los ~5 km de arena de Sossusvlei que OSRM no enruta.
 regenera, el mapa pinta el recorrido de antes— y que **ningún tramo de más de 8 km quede sin firme
 en la tabla**.
 
-**Cada día son DOS páginas, exactamente**: la primera el mapa a página entera y la segunda la
-explicación a dos columnas. `make comprueba` exige 31 páginas y, si la explicación de un día se
+**Cada día son DOS páginas, exactamente**: la primera el mapa con, debajo, **lo opcional del día**,
+y la segunda la explicación a dos columnas. `make comprueba` exige 31 páginas y, si un día se
 desborda a una tercera, dice cuál.
+
+**Lo opcional del día sale del `10`** *(desde el 27/08)*: `agenda.opcionales()` corta el `10` por
+sus `### Dn` —el `10` tiene una sección por día, las quince, con el mismo encabezado que el `01`—
+y se queda **solo con las viñetas**: cada viñeta es una joya con dónde cae, qué cuesta y cuánto
+desvío añade. Los párrafos sueltos y las líneas «Fuentes:» del `10` son del dossier y no pasan.
+Por eso en el `10` las viñetas son cortas y los porqués van en párrafo aparte. **El mapa cede
+altura al bloque**: 800 px de alto para un día de dos joyas, 700 para uno de cuatro y 600 para el
+D7, que lleva nueve (`agenda.alto_mapa`); si no, la lista saltaba entera a una tercera página, que es
+lo que pasó la primera vez con el D5, el D7, el D8 y el D14.
 
 **Los puntos de interés del mapa** —dónde comer, qué ver de paso, compras— son los que el `08` y el
 `10` ya nombran; `geodatos.py interes` les pone coordenada **con Nominatim, nunca a ojo**, y los
 cachea en `geo/interes.json` con el día en que se pasa. Lo que Nominatim no encuentra **queda fuera
-del mapa y consta en el JSON** *(hoy: Anchors @ the Jetty, el pecio Zeila, el lago Otjikoto y el
-Urban Camp de Windhoek — la oficina de Savanna sí sale)*. Para
-añadir uno, se añade a `INTERES` en `geodatos.py` y se regenera.
+del mapa y consta en el JSON**. Para
+añadir uno, se añade a `INTERES` en `geodatos.py` y se regenera. Desde el 27/08 la tabla lleva las
+joyas del `10` una a una y en su día *(Heroes' Acre, Vogelfederberg, Bird Rock, el Zeila, la torre
+del Toscanini, Wondergat, el Damara Living Museum, Peet Alberts, el museo de Outjo, el de Tsumeb, la
+Crocodile Farm, los meteoritos de Gibeon…)*; **sin coordenada, y por tanto fuera del mapa, quedan
+seis**: el Urban Camp, Anchors @ the Jetty, el delta del Uniab, el lago Otjikoto, el memorial de
+Khorab y el Telephone Man. Los desvíos que el `10` cita *(Petrified Forest +60 km, Hoba +93,
+Peet Alberts +4)* se midieron metiendo el punto en la etapa de OSRM y restando.
 
 ## Convenciones que no se ven en el markdown
 

@@ -10,7 +10,7 @@
 **30 de octubre – 15 de noviembre de 2026**
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
-[![cuenta atrás](https://img.shields.io/badge/faltan-65_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
+[![cuenta atrás](https://img.shields.io/badge/faltan-64_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-7_de_8-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
 [![presupuesto](https://img.shields.io/badge/€4.082-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
@@ -107,6 +107,11 @@ flowchart LR
    Onguma es **firme** y no hay nada que decidir sobre la marcha. El guepardo *«caza de día, a plena
    luz»*, así que el esfuerzo se reparte en **cinco ventanas diurnas** en vez de en una red al final
    — [el plan del guepardo](aparte/plan-del-guepardo.md).
+   🐆 **Y el leopardo, que es la otra prioridad declarada (27/08), tiene su plan aparte y sin
+   decidir: [el plan de felinos](aparte/plan-felinos.md)** — lo que la ruta ya da *(Moringa, 31 %)* y
+   la única vía casi segura que **no toca el D13 ni las noches de Onguma**: dormir el D14 en Okonjima
+   en vez de en Windhoek, con el rastreo de leopardo de la tarde *(N$1.600 · ~€80 pp, 80 % declarado)*.
+   **Sus PDF 2026 se abrieron el 27/08 y corrigen el `11`**: el rastreo son N$1.600, no N$880.
 6. **Reservar Terrace Bay — la única noche que queda sin reservar y con fecha dura** *(vie 6 nov,
    un día antes de lo que decía el plan de agosto)*: sin ella **no se entra** al Skeleton Coast a
    pernoctar.
@@ -161,7 +166,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 leer del tirón, imprimir o llevar sin conexión.*
 🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(34 páginas, 148 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari — y ni un animal que nadie haya visto: el corte del 09/08 dejó fuera al oricteropo, la suricata y la cebra de Hartmann; el barrido COMPLETO del 10/08 añadió las 14 que faltaban en Etosha, del águila rapaz al galápago que caza quéleas; el del 11/08, las 13 de las otras zonas — el delfín mular del crucero, el charrán que llega de Europa a decenas de miles, la rata dassie de Twyfelfontein—; y el del 15/08, **todas las rapaces y todos los felinos de la ruta** en dos secciones propias: 31 rapaces diurnas y nocturnas, del cernícalo ojiblanco que nadie había echado en falta al halconcito que vive dentro del pajar del tejedor, más el caracal y el gato de patas negras)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
 
-📆 Y para la guantera, **el día a día y nada más**: [**la agenda**](agenda-namibia-2026.pdf) *(**31 páginas: portada y dos por día — el mapa y la explicación**. El mapa, a página entera: el recorrido del día pintado por firme —asfalto, grava, sal o pista de parque—, los lugares de paso, las gasolineras obligatorias, dónde comer y qué ver de paso, y debajo los kilómetros de cada firme con el tiempo mínimo y realista a las velocidades de planificación. En la página siguiente, el itinerario del dossier sin la investigación detrás: horas, qué hacer, qué reservar, qué preguntar, el sol y la luna, las opciones ya decididas o abiertas y las casillas para marcar a boli. Se genera sola del documento `01` y de los tramos de OSRM: si cambia una noche, cambia la agenda)*.
+📆 Y para la guantera, **el día a día y nada más**: [**la agenda**](agenda-namibia-2026.pdf) *(**31 páginas: portada y dos por día — el mapa con lo opcional, y la explicación**. El mapa: el recorrido del día pintado por firme —asfalto, grava, sal o pista de parque—, los lugares de paso, las gasolineras obligatorias, dónde comer y qué ver de paso, y encima los kilómetros de cada firme con el tiempo mínimo y realista a las velocidades de planificación; **y debajo del mapa, lo opcional del día**: las joyas y posibles cosas que hacer si sobra tiempo, con su desvío medido y su precio, que son las viñetas del `10` tal cual. En la página siguiente, el itinerario del dossier sin la investigación detrás: horas, qué hacer, qué reservar, qué preguntar, el sol y la luna, las opciones ya decididas o abiertas y las casillas para marcar a boli. Se genera sola del documento `01` y de los tramos de OSRM: si cambia una noche, cambia la agenda)*.
 
 🗺️ Y para la pared, o para doblar en la guantera: [**la lámina de ruta**](mapa-ruta-namibia-2026.pdf) *(**una sola hoja A2**, 420×594 mm, vectorial: el recorrido entero a 384 mm de ancho, las quince etapas con sus kilómetros del enrutado propio y dónde se duerme cada noche, y abajo lo que manda —velocidades de planificación, la regla de las 18:00, los horarios de puerta de Etosha y los teléfonos de emergencia—. Se genera sola desde la misma geometría que el dossier: si cambia una noche, cambia la lámina. En una impresora de casa, «ajustar a página» a A3 o A4)*.
 
@@ -557,7 +562,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 13. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
 14. 🪘 [**`19-cultura-de-namibia`**](19-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
 15. 🦁 [**`09-fauna-etosha`**](09-fauna-etosha.md) — **guía de campo en PDF**: 148 especies con foto —felinos y rapaces en secciones propias—, qué posibilidades hay de ver cada una, dónde y cuándo, y cómo se hace un safari
-16. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — los Lone Stone Men, la cascada del Uniab, los círculos de hadas
+16. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — **lo que la ruta pisa y el itinerario no nombra, día a día**: los Lone Stone Men, la cascada del Uniab, la plataforma de guano, la cruz de Diogo Cão, los grabados de Peet Alberts, los cañones del Otjikoto — cada joya con su desvío medido, y es lo que la agenda imprime como *opcional* bajo el mapa de cada día
 17. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**
@@ -711,6 +716,6 @@ El NAD va ligado al rand: **el importe en N$ es el que se paga**, el euro es ori
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 
-**Última actualización: 26 de agosto de 2026**
+**Última actualización: 27 de agosto de 2026**
 
 </div>

@@ -6,4 +6,4 @@ que declara el README en «Última actualización». Antes cada programa llevaba
 26/08 los tres PDF salieron con tres fechas distintas (21, 24 y 25 de agosto) sin que nada
 avisara: solo se comprobaba la del dossier.
 """
-FECHA = "26 de agosto de 2026"
+FECHA = "27 de agosto de 2026"
