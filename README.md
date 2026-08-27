@@ -10,7 +10,7 @@
 **30 de octubre – 15 de noviembre de 2026**
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
-[![cuenta atrás](https://img.shields.io/badge/faltan-64_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
+[![cuenta atrás](https://img.shields.io/badge/faltan-63_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-7_de_8-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
 [![presupuesto](https://img.shields.io/badge/€4.082-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
@@ -28,7 +28,7 @@
 
 ## 📍 Estado del viaje
 
-**24 de agosto de 2026**
+**28 de agosto de 2026**
 
 </div>
 
@@ -159,15 +159,15 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 164 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 161 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
 🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-etosha.pdf) *(34 páginas, 148 especies con foto, **qué posibilidades hay de ver cada una** y cómo se hace un safari — y ni un animal que nadie haya visto: el corte del 09/08 dejó fuera al oricteropo, la suricata y la cebra de Hartmann; el barrido COMPLETO del 10/08 añadió las 14 que faltaban en Etosha, del águila rapaz al galápago que caza quéleas; el del 11/08, las 13 de las otras zonas — el delfín mular del crucero, el charrán que llega de Europa a decenas de miles, la rata dassie de Twyfelfontein—; y el del 15/08, **todas las rapaces y todos los felinos de la ruta** en dos secciones propias: 31 rapaces diurnas y nocturnas, del cernícalo ojiblanco que nadie había echado en falta al halconcito que vive dentro del pajar del tejedor, más el caracal y el gato de patas negras)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
 
-📆 Y para la guantera, **el día a día y nada más**: [**la agenda**](agenda-namibia-2026.pdf) *(**31 páginas: portada y dos por día — el mapa con lo opcional, y la explicación**. El mapa: el recorrido del día pintado por firme —asfalto, grava, sal o pista de parque—, los lugares de paso, las gasolineras obligatorias, dónde comer y qué ver de paso, y encima los kilómetros de cada firme con el tiempo mínimo y realista a las velocidades de planificación; **y debajo del mapa, lo opcional del día**: las joyas y posibles cosas que hacer si sobra tiempo, con su desvío medido y su precio, que son las viñetas del `10` tal cual. En la página siguiente, el itinerario del dossier sin la investigación detrás: horas, qué hacer, qué reservar, qué preguntar, el sol y la luna, las opciones ya decididas o abiertas y las casillas para marcar a boli. Se genera sola del documento `01` y de los tramos de OSRM: si cambia una noche, cambia la agenda)*.
+📆 Y para la guantera, **el día a día y nada más**: [**la agenda**](agenda-namibia-2026.pdf) *(**32 páginas: portada y dos por día — el mapa con lo opcional, y la explicación—, y tres el D4, el de Sossusvlei y Deadvlei, que desde el 28/08 lleva el horario del día, las distancias, Big Daddy y la arena**. El mapa: el recorrido del día pintado por firme —asfalto, grava, sal o pista de parque—, los lugares de paso, las gasolineras obligatorias, dónde comer y qué ver de paso, y encima los kilómetros de cada firme con el tiempo mínimo y realista a las velocidades de planificación; **y debajo del mapa, lo opcional del día**: las joyas y posibles cosas que hacer si sobra tiempo, con su desvío medido y su precio, que son las viñetas del `10` tal cual. En la página siguiente, el itinerario del dossier sin la investigación detrás: horas, qué hacer, qué reservar, qué preguntar, el sol y la luna, las opciones ya decididas o abiertas y las casillas para marcar a boli. Se genera sola del documento `01` y de los tramos de OSRM: si cambia una noche, cambia la agenda)*.
 
-🗺️ Y para la pared, o para doblar en la guantera: [**la lámina de ruta**](mapa-ruta-namibia-2026.pdf) *(**una sola hoja A2**, 420×594 mm, vectorial: el recorrido entero a 384 mm de ancho, las quince etapas con sus kilómetros del enrutado propio y dónde se duerme cada noche, y abajo lo que manda —velocidades de planificación, la regla de las 18:00, los horarios de puerta de Etosha y los teléfonos de emergencia—. Se genera sola desde la misma geometría que el dossier: si cambia una noche, cambia la lámina. En una impresora de casa, «ajustar a página» a A3 o A4)*.
+🗺️ Y para la pared, o para doblar en la guantera: [**la lámina de ruta**](mapa-ruta-namibia-2026.pdf) *(**una sola hoja A2**, 420×594 mm, vectorial: el recorrido entero a 372 mm de ancho **pintado por firme** —asfalto, tierra, sal compactada, pista de parque y los ~5 km de arena de Sossusvlei—, con **el número de cada carretera en su escudo** (B1, C14, D1275…), **la distancia entre paradas** medida sobre el enrutado, y **las gasolineras en tres estados** —obligatoria, opcional y «sin garantía», tal como las clasifica el `01`—; debajo, las quince etapas con sus kilómetros, **sus carreteras y su firme**, y dónde se duerme cada noche; y al pie lo que manda —velocidades de planificación, la regla de las 18:00, los horarios de puerta de Etosha y los teléfonos de emergencia—. Se genera sola desde la misma geometría que el dossier y la agenda: si cambia una noche, cambia la lámina. En una impresora de casa, «ajustar a página» a A3 o A4)*.
 
 🛰️ Y para el GPS y el móvil: [**`ruta-namibia-2026.gpx`**](ruta-namibia-2026.gpx) y
 [**`ruta-namibia-2026.kml`**](ruta-namibia-2026.kml) — **los 39 puntos de la ruta como waypoints**
@@ -262,8 +262,11 @@ entrega— está en [`20-reservas`](20-reservas.md) §1.
 - 🌊 **Dormir en la Costa de los Esqueletos.** Noche en **Terrace Bay**, dentro del parque, con la
   niebla y el Atlántico rugiendo. Pocos lo hacen: exige reserva y entrar antes de las 15:00. ✅
 - 🪨 **Twyfelfontein**, los grabados rupestres UNESCO — **y desde el 24/08 con noche propia**, así
-  que se ven sin reloj y la mañana siguiente queda libre para el **rastreo de rinoceronte negro de
-  media jornada de Palmwag**, que antes no cabía y que además cae en mitad de la etapa. Y la noche en **Hoada** — el campamento entre
+  que se ven sin reloj y la mañana siguiente queda libre en Damaraland. ⚠️ **El rastreo de
+  rinoceronte de Palmwag, que era el premio de esa mañana, NO cabe** *(28/08: sale a las 06:00–06:30
+  ✅, N$3.975 · ~€199 pp — solo entra durmiendo el D8 en Palmwag)*; lo que sí cabe llegando a las
+  08:45 es su **nature drive de 3 h** *(N$1.355 · ~€68 pp ✅)* — está sin decidir, en
+  [`11`](11-entradas-y-permisos.md). Y la noche en **Hoada** — el campamento entre
   peñas de granito que la referencia llama el más bonito de su viaje. ◐
 - 🦩 **Flamencos en Walvis Bay** al amanecer, ostras y paseo — **dos noches (4 y 5 nov) y un día entero de
   descanso** a mitad de viaje. La excursión a **Sandwich Harbour, en tour guiado** *(con tu coche
@@ -715,6 +718,6 @@ El NAD va ligado al rand: **el importe en N$ es el que se paga**, el euro es ori
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 
-**Última actualización: 27 de agosto de 2026**
+**Última actualización: 28 de agosto de 2026**
 
 </div>

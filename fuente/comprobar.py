@@ -659,24 +659,30 @@ def revisa_pdf(nombre, minimo):
 
 
 def revisa_agenda(nombre="agenda-namibia-2026.pdf"):
-    """La agenda: portada y DOS paginas por dia — el mapa y la explicacion —, exactamente.
+    """La agenda: portada y DOS paginas por dia — el mapa y la explicacion —, exactamente,
+    salvo los dias de `agenda.PAGINAS_EXTRA` (hoy el D4, con tres a proposito).
 
     Cada dia abre en pagina impar con su mapa a pagina entera y sigue con el texto. Si
-    la explicacion de un dia se desborda a una tercera, en la guantera se lee a medias:
-    se localiza cual, para no tener que abrir el PDF a mirarlo. Se lee el «Dn» de la
-    cabecera: la pagina del mapa y la del texto lo llevan; una tercera sin el no."""
+    la explicacion de un dia se desborda a una mas de las suyas, en la guantera se lee a
+    medias: se localiza cual, para no tener que abrir el PDF a mirarlo. Se lee el «Dn» de
+    la cabecera: la pagina del mapa y la del texto lo llevan; una de mas sin el no."""
     ruta = os.path.join(RAIZ, nombre)
     if not os.path.exists(ruta):
         return mal(f"no existe {nombre}")
     salida = subprocess.run(["pdfinfo", ruta], capture_output=True, text=True).stdout
     paginas = next((int(l.split()[1]) for l in salida.splitlines()
                     if l.startswith("Pages:")), 0)
-    esperadas = 1 + 2 * len(trazado.ETAPAS)
+    import agenda
+    esperadas = agenda.paginas_esperadas()
+    debe = {e["id"]: 2 + agenda.PAGINAS_EXTRA.get(e["id"], 0) for e in trazado.ETAPAS}
     cuenta, ultimo = {}, None
     for i in range(2, paginas + 1):
         txt = subprocess.run(["pdftotext", "-f", str(i), "-l", str(i), ruta, "-"],
                              capture_output=True, text=True).stdout
-        m = re.search(r"\b(D\d+)\b", "\n".join(txt.splitlines()[:6]))
+        # el «Dn» de la cabecera abre su linea (es el numero grande, a veces pegado al
+        # titulo: «D10 Hoada → Etosha»); en el cuerpo de un dia se cita otro dia —«el D3»—
+        # y eso no es cabecera
+        m = re.search(r"^(D\d+)\b", "\n".join(txt.splitlines()[:6]), re.M)
         if m:
             ultimo = m.group(1)
         if ultimo:
@@ -684,16 +690,18 @@ def revisa_agenda(nombre="agenda-namibia-2026.pdf"):
     # El total de paginas manda: si la explicacion de un dia empieza ya en la tercera pagina,
     # las tres llevan su «Dn» en cabecera y la cuenta por dia no lo ve — paso el 25/08 con el
     # D7, que salio a 32 paginas sin que esto avisara.
-    if paginas == esperadas and all(n == 2 for n in cuenta.values()):
-        return bien(f"{nombre}: portada + {len(trazado.ETAPAS)} dias, mapa y explicacion")
+    extra = ", ".join(f"{d} con {2 + n}" for d, n in agenda.PAGINAS_EXTRA.items())
+    if paginas == esperadas and all(n == debe.get(d, 2) for d, n in cuenta.items()):
+        return bien(f"{nombre}: portada + {len(trazado.ETAPAS)} dias, mapa y explicacion"
+                    + (f" ({extra})" if extra else ""))
     if paginas != esperadas:
-        sospechosos = sorted((d for d, n in cuenta.items() if n != 2),
+        sospechosos = sorted((d for d, n in cuenta.items() if n != debe.get(d, 2)),
                              key=lambda d: int(d[1:])) or ["(no se localiza: mira el PDF)"]
         return mal(f"{nombre} tiene {paginas} paginas y deberia tener {esperadas}: "
                    f"se desborda {', '.join(sospechosos)}")
-    # aqui el total ya cuadra: lo que falla es el reparto (un dia a tres paginas y otro a una)
-    largos = sorted((d for d, n in cuenta.items() if n > 2), key=lambda d: int(d[1:]))
-    cortos = sorted((d for d, n in cuenta.items() if n < 2), key=lambda d: int(d[1:]))
+    # aqui el total ya cuadra: lo que falla es el reparto (un dia a una de mas y otro a una de menos)
+    largos = sorted((d for d, n in cuenta.items() if n > debe.get(d, 2)), key=lambda d: int(d[1:]))
+    cortos = sorted((d for d, n in cuenta.items() if n < debe.get(d, 2)), key=lambda d: int(d[1:]))
     mal(f"{nombre} tiene sus {paginas} paginas pero mal repartidas"
         + (f": se desborda la explicacion de {', '.join(largos)}" if largos else "")
         + (f"; sin sus dos paginas: {', '.join(cortos)}" if cortos else ""))

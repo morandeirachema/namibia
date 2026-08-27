@@ -735,6 +735,378 @@ def _mapa_ruta(ancho, fichero, en_mapa, textos, bloques, mueve=None):
 
 
 # ---------------------------------------------------------------------------
+# Mapa 1b · la lámina: la ruta entera POR FIRME, con carreteras, distancias y gasolineras
+# ---------------------------------------------------------------------------
+#
+# Mismo encuadre y mismos puntos que el mapa de la ruta, pero la linea no dice en que
+# bloque del viaje estas —eso ya lo dice la tira de etapas de la lamina— sino sobre que
+# ruedas: asfalto, grava (tierra), sal compactada, pista de parque y los ~5 km de arena
+# de Sossusvlei. Encima, el numero de cada carretera en escudo, la distancia entre
+# paradas medida sobre la propia geometria de OSRM, y las gasolineras del `01` con su
+# estado. Nada se escribe a mano: si cambia una noche, cambia la lamina.
+
+COLOR_FIRME["arena"] = "#D9A441"
+NOMBRE_FIRME["arena"] = "arena"
+
+
+def _hav(a, b):
+    """Kilometros entre dos (lat, lon)."""
+    R = 6371.0
+    la1, lo1, la2, lo2 = map(math.radians, (a[0], a[1], b[0], b[1]))
+    h = (math.sin((la2 - la1) / 2) ** 2
+         + math.cos(la1) * math.cos(la2) * math.sin((lo2 - lo1) / 2) ** 2)
+    return 2 * R * math.asin(math.sqrt(h))
+
+
+def _acumulado(pts):
+    cum = [0.0]
+    for i in range(1, len(pts)):
+        cum.append(cum[-1] + _hav(pts[i - 1], pts[i]))
+    return cum
+
+
+def _indice_a(cum, km, desde=0, hasta=None):
+    """El vertice de la polilinea que cae mas cerca del kilometro `km`."""
+    hasta = len(cum) if hasta is None else hasta
+    return min(range(desde, hasta), key=lambda k: abs(cum[k] - km))
+
+
+def _rumbo(pts, j, paso=3):
+    """Vector unitario de avance en el vertice j, promediando unos vertices a cada lado."""
+    a = pts[max(0, j - paso)]
+    b = pts[min(len(pts) - 1, j + paso)]
+    dx, dy = (b[1] - a[1]) * math.cos(math.radians(a[0])), -(b[0] - a[0])
+    n = math.hypot(dx, dy) or 1
+    return dx / n, dy / n
+
+
+def capa_ruta_firme(L, ancho=3.6):
+    """La ruta entera pintada por firme, tramo a tramo, desde geo/tramos.json.
+
+    Todos los halos van primero y todos los colores despues: si no, el halo de un tramo
+    tapa el color del anterior en cada empalme.
+    """
+    tramos = [t for e in carga("tramos.json") for t in e["tramos"] if len(t["geometria"]) > 1]
+    out = []
+    for t in tramos:
+        d = L.d([(p[1], p[0]) for p in t["geometria"]])
+        out.append(f'<path d="{d}" fill="none" stroke="{C["papel"]}" '
+                   f'stroke-width="{ancho + 2.2}" stroke-linecap="round" '
+                   f'stroke-linejoin="round" opacity=".85"/>')
+    for t in tramos:
+        d = L.d([(p[1], p[0]) for p in t["geometria"]])
+        col = COLOR_FIRME[t["firme"] or "urbano"]
+        out.append(f'<path d="{d}" fill="none" stroke="{col}" stroke-width="{ancho}" '
+                   f'stroke-linecap="round" stroke-linejoin="round"/>')
+    return "".join(out)
+
+
+def arena_sossusvlei():
+    """Los ~5 km de arena blanda que OSRM no enruta: del aparcamiento 2WD —donde acaba
+    el asfalto del D4— a Sossusvlei y a Deadvlei. Es el unico firme del viaje que no sale
+    del enrutado, y por eso es el unico que se traza recto entre dos puntos conocidos."""
+    d4 = next((e for e in carga("tramos.json") if e["id"] == "D4"), None)
+    if not d4 or not d4["tramos"]:
+        return []
+    asfalto = max(d4["tramos"], key=lambda t: t["km"])
+    lon, lat = asfalto["geometria"][-1]
+    fin = (lat, lon)
+    return [[fin, trazado.PUNTOS["sossusvlei"][:2]], [fin, trazado.PUNTOS["deadvlei"][:2]]]
+
+
+def capa_arena(L, ancho=3.6):
+    out = []
+    for seg in arena_sossusvlei():
+        d = L.d(seg)
+        out.append(f'<path d="{d}" fill="none" stroke="{C["papel"]}" stroke-width="{ancho + 2.2}" '
+                   f'stroke-linecap="round" opacity=".85"/>')
+        out.append(f'<path d="{d}" fill="none" stroke="{COLOR_FIRME["arena"]}" '
+                   f'stroke-width="{ancho}" stroke-linecap="round" stroke-dasharray="4 3"/>')
+    return "".join(out)
+
+
+# El numero de carretera que se rotula: la B1 dentro de Windhoek va como A1 en OSM y la
+# C24 lleva tambien M47. Lo que no tiene numero (pistas de parque, la carretera de
+# Sossusvlei) no lleva escudo: ya lo dicen el color y el nombre de la parada.
+REF_ROTULO = {"A1": "B1", "M47": "C24"}
+
+
+def _carreteras(min_km=20):
+    """Tramos seguidos con el mismo numero de carretera, por dia: [{ref, km, pts}]."""
+    runs = []
+    for e in carga("tramos.json"):
+        for t in e["tramos"]:
+            ref = (t["ref"] or "").split(";")[0].strip()
+            ref = REF_ROTULO.get(ref, ref)
+            pts = [(p[1], p[0]) for p in t["geometria"]]
+            if runs and runs[-1]["ref"] == ref and runs[-1]["dia"] == e["id"]:
+                runs[-1]["km"] += t["km"]
+                runs[-1]["pts"].extend(pts)
+            else:
+                runs.append({"dia": e["id"], "ref": ref, "km": t["km"], "pts": pts})
+    return [r for r in runs if r["ref"] and r["km"] >= min_km]
+
+
+# Escudo por letra: las B (asfalto) en negativo, las C y D en claro.
+ESCUDO = {"B": (C["tinta"], C["papel"], C["tinta"]),
+          "C": (C["papel"], C["tinta"], C["tinta"]),
+          "D": (C["papel"], C["tinta2"], C["tinta3"])}
+
+# Escudos que hay que apartar a mano para que no pisen un rotulo: (ref, indice) -> (dx, dy).
+DESVIO_ESCUDO = {}
+
+
+def escudo(L, ref, lat, lon, dx=0, dy=0, tam=8.2):
+    fondo, texto, borde = ESCUDO.get(ref[:1], ESCUDO["C"])
+    x, y = L.xy(lat, lon)
+    x, y = x + dx, y + dy
+    w, h = 6 + 5.2 * len(ref), 11.4
+    return (f'<g><rect x="{x - w / 2:.1f}" y="{y - h / 2:.1f}" width="{w:.1f}" height="{h}" '
+            f'rx="2.2" fill="{fondo}" stroke="{borde}" stroke-width=".9"/>'
+            f'<text x="{x:.1f}" y="{y + 3:.1f}" text-anchor="middle" font-size="{tam}" '
+            f'font-weight="700" fill="{texto}">{esc(ref)}</text></g>')
+
+
+def rotulos_carreteras(L, cada_km=150, separa_km=60):
+    """Un escudo por carretera, en mitad de cada tramo largo; en los muy largos, uno cada
+    ~150 km. La misma carretera no se rotula dos veces a menos de 60 km: la C19 y la
+    C14 se pisan dos dias, y el escudo es el mismo."""
+    puestos = []
+    out = []
+    for r in _carreteras():
+        cum = _acumulado(r["pts"])
+        n = max(1, round(cum[-1] / cada_km))
+        for i in range(n):
+            j = _indice_a(cum, cum[-1] * (i + 0.5) / n)
+            lat, lon = r["pts"][j]
+            if lat > -19.5 and 15.5 < lon < 17.2:          # dentro de Etosha: sin escudo
+                continue
+            if any(p[0] == r["ref"] and _hav((lat, lon), p[1:]) < separa_km for p in puestos):
+                continue
+            puestos.append((r["ref"], lat, lon))
+            dx, dy = DESVIO_ESCUDO.get((r["ref"], len([p for p in puestos if p[0] == r["ref"]]) - 1), (0, 0))
+            out.append(escudo(L, r["ref"], lat, lon, dx, dy))
+    return "".join(out)
+
+
+def tramos_entre_paradas(fichero="ruta.json", min_km=25):
+    """La distancia entre puntos de paso consecutivos, medida sobre la geometria de OSRM.
+
+    Devuelve [(a, b, km, (lat, lon), (ux, uy))]: el par, los kilometros, el punto de la
+    polilinea donde poner el rotulo y el rumbo alli. Cada par se rotula una vez aunque
+    se pise dos dias (Solitaire–Sesriem, Chudob–Namutoni), y en un dia que vuelve a
+    donde salio (la excursion de Sossusvlei) el tramo de vuelta no se rotula: iria
+    encima del de ida.
+    """
+    vistos, salida = set(), []
+    for e in carga(fichero):
+        g = e.get("geometria") or []
+        if len(g) < 2 or len(e["por"]) < 2:
+            continue
+        pts = [(p[1], p[0]) for p in g]
+        cum = _acumulado(pts)
+        idx, prev = [], 0
+        for clave in e["por"]:
+            lat, lon = trazado.PUNTOS[clave][:2]
+            j = min(range(prev, len(pts)), key=lambda k: _hav(pts[k], (lat, lon)))
+            idx.append(j)
+            prev = j
+        # un puerto de montana (clase «paso») no corta la distancia si no se duerme en el:
+        # Palmwag → Hoada son 52 km, no «26 + 26» con el escudo del C40 en medio
+        paradas = [(c, idx[k]) for k, c in enumerate(e["por"])
+                   if trazado.PUNTOS[c][3] != "paso" or c == e.get("duerme")]
+        for i in range(len(paradas) - 1):
+            (a, ja), (b, jb) = paradas[i], paradas[i + 1]
+            km = cum[jb] - cum[ja]
+            par = tuple(sorted((a, b)))
+            vuelta = b == e["por"][0] and e.get("duerme") == b
+            if par in vistos or km < min_km or vuelta:
+                continue
+            vistos.add(par)
+            # al 33 % del tramo, para no caer sobre el escudo, que va al 50 % de su carretera
+            j = _indice_a(cum, cum[ja] + km * 0.33, ja, jb + 1)
+            salida.append((a, b, km, pts[j], _rumbo(pts, j)))
+    return salida
+
+
+# Rotulos de distancia que hay que mover a mano: (a, b) -> (dx, dy) extra.
+DESVIO_DISTANCIA = {("walvisbay", "swakopmund"): (26, 4),
+                    ("spreetshoogte", "solitaire"): (30, 10),
+                    ("twyfelfontein", "palmwag"): (14, 14),
+                    ("terracebay", "springbokwasser"): (-8, 16)}
+
+
+def rotulos_distancias(L, aparta=10, tam=7.8):
+    out = []
+    for a, b, km, (lat, lon), (ux, uy) in tramos_entre_paradas():
+        x, y = L.xy(lat, lon)
+        # a la izquierda del sentido de la marcha, apartado de la linea
+        nx, ny = -uy, ux
+        dx, dy = DESVIO_DISTANCIA.get((a, b), (0, 0))
+        x, y = x + nx * aparta + dx, y + ny * aparta + dy
+        out.append(f'<text x="{x:.1f}" y="{y + 2.6:.1f}" text-anchor="middle" font-size="{tam}" '
+                   f'font-family="IBM Plex Mono, monospace" font-weight="600" fill="{C["tinta2"]}" '
+                   f'paint-order="stroke" stroke="{C["papel"]}" stroke-width="2.6" '
+                   f'stroke-linejoin="round">{km:.0f} km</text>')
+    return "".join(out)
+
+
+# Donde va el surtidor respecto al punto, para no pisar el rotulo del pueblo
+# (los rotulos van a un lado; el surtidor, al otro). clave -> (dx, dy).
+POS_GASOLINERA = {
+    "windhoek": (-12, -12), "solitaire": (10, -10), "sesriem": (10, -11),
+    "walvisbay": (10, -11), "swakopmund": (10, -11), "hentiesbay": (10, -11),
+    "terracebay": (10, -11), "twyfelfontein": (-10, -12), "palmwag": (-12, 9),
+    "kamanjab": (10, -11), "outjo": (-11, -11), "okaukuejo": (10, -11),
+    "halali": (12, -3), "namutoni": (-10, 12), "tsumeb": (-10, -11),
+    "otjiwarongo": (-11, -11),
+}
+
+
+def surtidor(x, y, estado, escala=1.0):
+    """El icono de gasolinera: lleno (obligatoria), vacio (opcional) o tachado (no fiable)."""
+    verde = C["verde"]
+    if estado == "obligatoria":
+        fondo, borde, ventana = verde, verde, C["papel"]
+    elif estado == "opcional":
+        fondo, borde, ventana = C["papel"], verde, verde
+    else:
+        fondo, borde, ventana = C["papel"], C["tinta3"], C["tinta3"]
+    g = [f'<g transform="translate({x:.1f} {y:.1f}) scale({escala})">',
+         f'<rect x="-4.8" y="-5.6" width="7.4" height="11.2" rx="1.4" fill="{fondo}" '
+         f'stroke="{borde}" stroke-width="1.3"/>',
+         f'<rect x="-3.3" y="-4" width="4.4" height="3.3" rx=".5" fill="{ventana}" opacity=".9"/>',
+         f'<path d="M3 -2.2 h1.7 v6 a1.6 1.6 0 0 1 -3.2 0 v-1.4" fill="none" stroke="{borde}" '
+         f'stroke-width="1.2" stroke-linecap="round"/>']
+    if estado == "no":
+        g.append(f'<line x1="-6.5" y1="7" x2="6.5" y2="-7" stroke="{C["rojo"]}" '
+                 f'stroke-width="1.7" stroke-linecap="round"/>')
+    g.append("</g>")
+    return "".join(g)
+
+
+def capa_gasolineras(L, escala=1.05):
+    out = []
+    for clave, estado, _nota in trazado.GASOLINERAS:
+        lat, lon = trazado.PUNTOS[clave][:2]
+        x, y = L.xy(lat, lon)
+        dx, dy = POS_GASOLINERA.get(clave, (10, -11))
+        out.append(surtidor(x + dx, y + dy, estado, escala))
+    return "".join(out)
+
+
+def leyenda_lamina(L, total, lx=40, fondo=None):
+    """La leyenda de la lamina: el firme, los simbolos y las gasolineras por estado.
+    Va ABAJO a la izquierda, sobre el mar y encima de la barra de escala: arriba tapaba
+    Hoada, Palmwag y el paso de Grootberg."""
+    paso = 19
+    filas = [("linea", COLOR_FIRME["asfalto"], "Asfalto · 100 km/h de planificación", None),
+             ("linea", COLOR_FIRME["grava"], "Tierra (grava) · 80, techo del contrato", None),
+             ("linea", COLOR_FIRME["sal"], "Sal compactada · como grava", None),
+             ("linea", COLOR_FIRME["parque"], "Pista de parque · 60", None),
+             ("arena", COLOR_FIRME["arena"], "Arena · los ~5 km finales a Sossusvlei y Deadvlei", None),
+             ("escudo", None, "Número de carretera (B asfalto · C y D tierra)", None),
+             ("km", None, "Distancia entre paradas, sobre el enrutado", None),
+             ("anillo", C["oxido"], "Donde se duerme, con sus días", None),
+             ("rombo", C["rojo"], "Puerta de parque con horario", None),
+             ("surtidor", "obligatoria", "Gasolinera OBLIGATORIA: se llena, marque lo que marque", None),
+             ("surtidor", "opcional", "Gasolinera opcional: conviene, no hace falta", None),
+             ("surtidor", "no", "Surtidor sin garantía: no cuentes con él", None)]
+    alto = 40 + paso * len(filas)
+    ly = L.alto - 64 - alto + 26                 # la caja acaba 64 unidades sobre el borde
+    out = [f'<rect x="{lx - 12}" y="{ly - 26}" width="330" height="{alto}" rx="6" '
+           f'fill="{C["papel"]}" opacity=".94" stroke="{C["borde"]}" stroke-width=".8"/>',
+           f'<text x="{lx}" y="{ly - 8}" font-size="12.5" font-weight="800" fill="{C["tinta"]}">'
+           f'~{total:,.0f}'.replace(",", ".") + ' km en 15 días · por firme</text>']
+    for i, (tipo, col, txt, _) in enumerate(filas):
+        y0 = ly + 14 + i * paso
+        cx = lx + 13
+        if tipo == "linea":
+            out.append(f'<line x1="{lx}" y1="{y0}" x2="{lx + 26}" y2="{y0}" stroke="{col}" '
+                       f'stroke-width="4" stroke-linecap="round"/>')
+        elif tipo == "arena":
+            out.append(f'<line x1="{lx}" y1="{y0}" x2="{lx + 26}" y2="{y0}" stroke="{col}" '
+                       f'stroke-width="4" stroke-linecap="round" stroke-dasharray="4 3"/>')
+        elif tipo == "escudo":
+            fondo, texto, borde = ESCUDO["C"]
+            out.append(f'<rect x="{cx - 10.5}" y="{y0 - 5.7}" width="21" height="11.4" rx="2.2" '
+                       f'fill="{fondo}" stroke="{borde}" stroke-width=".9"/>'
+                       f'<text x="{cx}" y="{y0 + 3}" text-anchor="middle" font-size="8.2" '
+                       f'font-weight="700" fill="{texto}">C14</text>')
+        elif tipo == "km":
+            out.append(f'<text x="{cx}" y="{y0 + 2.6}" text-anchor="middle" font-size="7.8" '
+                       f'font-family="IBM Plex Mono, monospace" font-weight="600" '
+                       f'fill="{C["tinta2"]}">84 km</text>')
+        elif tipo == "anillo":
+            out.append(f'<circle cx="{cx}" cy="{y0}" r="5.2" fill="{col}"/>'
+                       f'<circle cx="{cx}" cy="{y0}" r="2.8" fill="{C["papel"]}"/>')
+        elif tipo == "rombo":
+            out.append(f'<rect x="{cx - 4}" y="{y0 - 4}" width="8" height="8" fill="{col}" '
+                       f'transform="rotate(45 {cx} {y0})"/>')
+        else:
+            out.append(surtidor(cx, y0, col, 0.95))
+        out.append(f'<text x="{lx + 34}" y="{y0 + 3.4}" font-size="9.2" fill="{C["tinta"]}">'
+                   f'{esc(txt)}</text>')
+    return "".join(out)
+
+
+def mapa_lamina(ancho=1100):
+    """El mapa de la lamina A2: la ruta oficial por firme, con carreteras, distancias y
+    gasolineras. Mismo encuadre que `mapa_ruta`."""
+    L = Lienzo(sur=-25.05, oeste=12.62, norte=-18.32, este=18.42, ancho=ancho, margen=0)
+    km = _kms("ruta.json")
+    total = sum(v for v in km.values() if v)
+
+    cuerpo = [capa_paises(L)]
+    cuerpo.append(capa_parques(L, ["Namib-Naukluft", "Skeleton Coast", "Dorob", "Etosha"]))
+    cuerpo.append(capa_pan(L))
+    cuerpo.append(tropico(L))
+    cuerpo.append(capa_ruta_firme(L, ancho=3.8))
+    cuerpo.append(capa_arena(L, ancho=3.8))
+
+    for nom, lat, lon in [("ANGOLA", -17.15, 15.6), ("BOTSUANA", -20.4, 21.6),
+                          ("SUDÁFRICA", -25.15, 19.6), ("ZAMBIA", -17.35, 24.2)]:
+        x, y = L.xy(lat, lon)
+        if 0 < x < L.ancho and 0 < y < L.alto:
+            cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="11" fill="{C["tinta3"]}" '
+                          f'letter-spacing="2.2" font-weight="600" opacity=".8">{nom}</text>')
+    x, y = L.xy(-22.4, 13.05)
+    cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="12" fill="{C["mar2"]}" '
+                  f'letter-spacing="3" font-style="italic" font-weight="600" '
+                  f'transform="rotate(-90 {x:.0f} {y:.0f})">OCÉANO ATLÁNTICO</text>')
+    for texto, lat, lon, rot in [("Parque Nacional de Etosha", -19.44, 16.55, 0),
+                                 ("Namib-Naukluft", -24.15, 15.05, -62),
+                                 ("Costa de los Esqueletos", -20.75, 13.15, -68)]:
+        x, y = L.xy(lat, lon)
+        cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="8.6" fill="{C["parqueb"]}" '
+                      f'font-weight="700" letter-spacing=".6" text-anchor="middle" '
+                      f'transform="rotate({rot} {x:.0f} {y:.0f})">{esc(texto)}</text>')
+    x, y = L.xy(-18.83, 16.32)
+    cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="8" fill="{C["tinta3"]}" '
+                  f'font-style="italic" text-anchor="middle">depresión de Etosha</text>')
+
+    cuerpo.append(rotulos_carreteras(L))
+    cuerpo.append(rotulos_distancias(L))
+    # las gasolineras dejan de ser una clase de punto: el surtidor las cuenta aparte
+    for clave in EN_MAPA_RUTA:
+        dx, dy, anc = ROTULOS_RUTA[clave]
+        cl = "ciudad" if trazado.PUNTOS[clave][3] == "combu" else None
+        cuerpo.append(punto(L, clave, TEXTO_ROTULO.get(clave), dx, dy, anc,
+                            tam=9.6 if clave in TEXTO_ROTULO else 8.4, clase=cl))
+    cuerpo.append(capa_gasolineras(L))
+
+    cuerpo.append(escala(L, 42, L.alto - 42, 200))
+    cuerpo.append(norte(L.ancho - 46, 52))
+    cuerpo.append(leyenda_lamina(L, total))
+    cuerpo.append(situacion(L, L.ancho - 178, L.alto - 208, 158))
+    cuerpo.append(f'<text x="{L.ancho - 14}" y="{L.alto - 12}" text-anchor="end" font-size="7.6" '
+                  f'fill="{C["tinta3"]}">Contornos: Natural Earth (dominio público) · '
+                  f'trazado, carreteras y distancias: OSRM sobre OpenStreetMap (ODbL) · '
+                  f'firme: `trazado.FIRME` · gasolineras: `01` §gasolineras</text>')
+    return envoltorio(L.ancho, L.alto, "".join(cuerpo))
+
+
+# ---------------------------------------------------------------------------
 # Mapa 2 · Etosha, charca a charca
 # ---------------------------------------------------------------------------
 

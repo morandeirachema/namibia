@@ -25,6 +25,23 @@ mapa de ruta grande, las quince etapas y una banda de reglas. No lleva ni un dat
 etapas salen de `trazado.ETAPAS` y los kilómetros de `geo/ruta.json`, igual que el mapa—, así que
 cambiar una noche la actualiza sola. `imprimir.a_pdf` acepta `papel="A2"` para esto.
 
+Desde el 28/08 su mapa es `mapa.mapa_lamina()`, no el `mapa_ruta()` del README: **la línea va por
+firme, no por bloque del viaje** *(el bloque ya lo dice el color de la tira de etapas)*, con la
+misma paleta que el mapa del día de la agenda y **una capa más, la arena**: los ~5 km del
+aparcamiento 2WD a Sossusvlei y Deadvlei, que OSRM no enruta, se trazan rectos desde el final del
+asfalto del D4 (`mapa.arena_sossusvlei`) — el único firme del viaje que no sale del enrutado.
+Encima van **los escudos de carretera** *(`rotulos_carreteras`: un escudo por tramo largo con el
+mismo `ref`, uno cada ~150 km en los muy largos, nunca dos del mismo número a menos de 60 km y
+ninguno dentro de Etosha, donde es pista)*, **las distancias entre paradas** *(`tramos_entre_paradas`:
+medidas sobre la geometría de OSRM entre los puntos de `por`, sin cortar en los puertos de montaña
+—Palmwag → Hoada son 52, no 26 + 26— y sin rotular la vuelta de la excursión de Sossusvlei, que iría
+sobre la ida)* y **las gasolineras** de `trazado.GASOLINERAS`, que son **las del `01` §gasolineras y
+solo esas**, en tres estados: obligatoria (surtidor lleno), opcional (vacío) y «no cuentes con
+ella» (tachado). Los escudos van al 50 % de su carretera y las distancias al 33 % de su tramo para
+no pisarse; lo que aun así choca se aparta a mano en `DESVIO_DISTANCIA`, `DESVIO_ESCUDO` y
+`POS_GASOLINERA`. La tira de abajo lleva, bajo cada etapa, sus carreteras y sus km por firme
+(`lamina.carreteras_del_dia`, `firme_texto`); para que cupiera, el mapa bajó de 384 a 372 mm.
+
 Hace falta Python 3 con `markdown-it-py` y `Pillow` —`pip install -r fuente/requirements.txt`—,
 Google Chrome y `poppler-utils`. Chrome lo localiza `navegador.py`, que mira el PATH y **después
 los `.app` de macOS**, donde Chrome nunca queda en el PATH: sin eso, en un Mac `mapa.py` escribía
@@ -57,8 +74,12 @@ regenera, el mapa pinta el recorrido de antes— y que **ningún tramo de más d
 en la tabla**.
 
 **Cada día son DOS páginas, exactamente**: la primera el mapa con, debajo, **lo opcional del día**,
-y la segunda la explicación a dos columnas. `make comprueba` exige 31 páginas y, si un día se
-desborda a una tercera, dice cuál.
+y la segunda la explicación a dos columnas. `make comprueba` exige las páginas que dice
+`agenda.paginas_esperadas()` —portada, dos por día y las de más de `agenda.PAGINAS_EXTRA`, que hoy
+es solo el D4 con una tercera, ampliado el 28/08 a petición del viajero— y, si un día se desborda
+más allá de eso, dice cuál. La lista de viñetas puede partirse entre páginas (`.cuerpo > ul`); si
+no, la del D4, que va detrás de su diagrama, saltaba entera a la página siguiente y dejaba la
+anterior en blanco.
 
 **Lo opcional del día sale del `10`** *(desde el 27/08)*: `agenda.opcionales()` corta el `10` por
 sus `### Dn` —el `10` tiene una sección por día, las quince, con el mismo encabezado que el `01`—
@@ -217,8 +238,9 @@ reparto vive en `RESERVAS_CONTADAS` de `comprobar.py` *(la casilla de Etosha val
 noches)*: al reservar o anular algo hay que tocar **la casilla y la chapa**, y si cambia el conjunto
 de reservas que hacen el viaje, también esa tabla.
 
-Y que la **agenda tenga exactamente 31 páginas** —portada y dos por día— y, si sale una más,
-que diga qué día se ha desbordado *(el D7 fue el que se desbordó el 25/08)*.
+Y que la **agenda tenga exactamente las páginas que dice `agenda.paginas_esperadas()`** —portada,
+dos por día y una más para el D4, hoy 32— y, si sale una más, que diga qué día se ha desbordado
+*(el D7 fue el que se desbordó el 25/08)*.
 
 Y que la **lámina de ruta sea UNA hoja A2** *(si se desborda salen dos y la segunda va medio
 vacía; el margen es de pocos milímetros, así que cualquier línea de más en la banda de abajo lo

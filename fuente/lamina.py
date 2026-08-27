@@ -33,12 +33,43 @@ from fecha import FECHA
 HOJA_ANCHO, HOJA_ALTO = 420, 594
 MARGEN = (10, 10, 12, 10)                      # arriba, derecha, abajo, izquierda
 UTIL_ANCHO = HOJA_ANCHO - MARGEN[1] - MARGEN[3]
-MAPA_ANCHO = 384                               # ~9 pt de rotulo; ver la cabecera
+MAPA_ANCHO = 372                               # ~9 pt de rotulo; ver la cabecera. Bajo de
+                                               # 384 el 28/08 para que quepa la segunda
+                                               # linea de cada etapa (carreteras y firme)
 MAPA_ALTO = MAPA_ANCHO * 1373.5 / 1100         # la proporcion del encuadre de mapa.py
 
 
+def carreteras_del_dia(dia, min_km=8):
+    """Los numeros de carretera que pisa la etapa, en orden y sin repetir: «B1 · C24 · D1261».
+    Lo que no tiene numero (la carretera de Sossusvlei, las pistas de Etosha) se nombra
+    por su firme, que es lo que importa al volante."""
+    refs, sin_ref = [], 0.0
+    for t in mapa._tramos(dia):
+        ref = (t["ref"] or "").split(";")[0].strip()
+        ref = mapa.REF_ROTULO.get(ref, ref)
+        if not ref:
+            sin_ref += t["km"]
+            continue
+        if t["km"] < min_km and ref not in refs:
+            continue
+        if not refs or refs[-1] != ref:
+            refs.append(ref)
+    return refs, sin_ref
+
+
+def firme_texto(dia):
+    """«82 asfalto · 123 tierra», con los kilometros por firme de la etapa."""
+    km, _ = mapa.firme_del_dia(dia)
+    nombre = {"asfalto": "asfalto", "grava": "tierra", "sal": "sal", "parque": "parque"}
+    partes = [f"{v:.0f} {nombre[f]}" for f, v in km.items() if f in nombre]
+    if dia == "D4":
+        partes.append("~5 arena")
+    return " · ".join(partes)
+
+
 def etapas():
-    """Las quince etapas con su kilometraje real y donde se duerme esa noche."""
+    """Las quince etapas con su kilometraje real, sus carreteras, su firme y donde se
+    duerme esa noche."""
     km = {e["id"]: e.get("km") for e in mapa.carga("ruta.json")}
     filas = []
     for e in trazado.ETAPAS:
@@ -48,10 +79,18 @@ def etapas():
         duerme = (trazado.PUNTOS[e["duerme"]][2].split(" · ")[0].replace("Paso de ", "")
                   if e["duerme"] else "—")
         d = km.get(e["id"]) or 0
+        refs, sin_ref = carreteras_del_dia(e["id"])
+        if e["id"] == "D4":
+            vias = "carretera de Sossusvlei"
+        elif e["id"] in ("D11", "D12", "D13"):
+            vias = " · ".join(refs + ["pistas de Etosha"]) if refs else "pistas de Etosha"
+        else:
+            vias = " · ".join(refs)
         filas.append({
             "id": e["id"], "fecha": e["fecha"], "titulo": e["titulo"],
             "km": f"{d:.0f} km" if d else "sin traslado",
             "duerme": duerme, "bloque": e["bloque"],
+            "vias": vias if d else "", "firme": firme_texto(e["id"]) if d else "",
         })
     return filas
 
@@ -101,6 +140,10 @@ ol.etapas .que i {{ font-style: normal; color: #7D776E; }}
 ol.etapas .que i b {{ font-weight: 700; color: #1D1A15; }}
 ol.etapas .km {{ text-align: right; font-family: 'IBM Plex Mono', monospace;
                 font-size: 7.6pt; color: #56514A; white-space: nowrap; }}
+/* la segunda linea de cada etapa: las carreteras y el firme, en pequeno */
+ol.etapas .vias {{ grid-column: 2 / 4; font-size: 6.9pt; color: #56514A; line-height: 1.2;
+                  font-family: 'IBM Plex Mono', monospace; }}
+ol.etapas .vias b {{ font-weight: 600; color: #1D1A15; }}
 
 /* --- la banda de reglas ------------------------------------------------ */
 .reglas {{ margin-top: 3.5mm; display: grid; grid-template-columns: repeat(4, 1fr);
@@ -133,14 +176,18 @@ def tira():
     li = []
     for e in etapas():
         color = trazado.COLOR_BLOQUE[e["bloque"]]
+        vias = ""
+        if e["vias"] or e["firme"]:
+            vias = (f'<span class="vias"><b>{mapa.esc(e["vias"])}</b>'
+                    f'{" — " if e["vias"] and e["firme"] else ""}{mapa.esc(e["firme"])}</span>')
         li.append(
             f'<li style="--c:{color}">'
             f'<span class="dia">{e["id"]} <i>{e["fecha"]}</i></span>'
             f'<span class="que">{mapa.esc(e["titulo"])} '
             f'<i>· duerme <b>{e["duerme"]}</b></i></span>'
-            f'<span class="km">{e["km"]}</span></li>')
+            f'<span class="km">{e["km"]}</span>{vias}</li>')
     return ('<section class="tira"><h2>Las quince etapas · kilómetros del enrutado '
-            'propio sobre OpenStreetMap</h2>'
+            'propio sobre OpenStreetMap · debajo, las carreteras y el firme de cada día</h2>'
             f'<ol class="etapas">{"".join(li)}</ol></section>')
 
 
@@ -175,7 +222,7 @@ def html_completo():
 <title>Namibia 2026 — la lámina de ruta</title>
 <style>{tipos}</style><style>{css}</style></head><body>
 {cabecera(total_km())}
-<div class="mapa">{mapa.mapa_ruta(1100)}</div>
+<div class="mapa">{mapa.mapa_lamina(1100)}</div>
 {tira()}
 {reglas()}
 </body></html>"""
