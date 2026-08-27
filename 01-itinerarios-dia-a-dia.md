@@ -655,6 +655,11 @@ flowchart LR
 - *Parada opcional de camino: **Okonjima/AfriCat** (leopardo, rinoceronte a pie y pangolín —
   **guepardo ya no tiene**, `aparte/desvios` §3), el meteorito de **Hoba** (desvío por Grootfontein, B8) o el
   **Plateau de Waterberg** (desvío desde Otjiwarongo; entrada N$280 · ~€14 — ver `11`)*
+- 🐆 **Y la versión de este día que va a por el leopardo, sin tocar nada de Etosha**: dormir hoy en
+  **Okonjima** en vez de en Windhoek —**312 km** en vez de 539—, con el **rastreo de leopardo de la
+  tarde** *(N$1.600 · ~€80 pp, «alrededor del 80 %» según su jefe de guías)* y otro a la mañana
+  siguiente si hace falta, y el D15 con **225 km** hasta Windhoek. **Sin decidir**: medida entera
+  en `aparte/plan-felinos` *(27/08)*
 
 ### D15 · sáb 14 — Vuelo *(plan horario)*
 

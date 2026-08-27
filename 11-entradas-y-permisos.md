@@ -262,14 +262,23 @@ El **D14 son 539 km de Onguma a Windhoek por la B1**, y **Okonjima está justo e
 *(al sur de Otjiwarongo)*. Varios de sus leopardos adultos **llevan collar de telemetría**, que es
 la razón de que allí se vean con una frecuencia que el parque no da ◐.
 
-- **Rastreo de leopardo — N$880 (~€44)/adulto en temporada baja y N$970 (~€49) en alta** ◐;
-  niño de 6 a 13, la mitad. Salidas **06:00–06:30** *(vuelta 09:30–10:00)* y **15:30–16:00**
-  *(vuelta 19:00–19:30)* ◐.
-- ⚠️ **Por qué va en ◐ y no en ✅**: la línea de precio sale del **PDF oficial** de Okonjima
-  *(«Okonjima Activity Overview 2026»)*, pero **el PDF devuelve `403`** y no se ha podido abrir
-  para verificar la extracción — y **otras fuentes dan cifras muy distintas** *(US$40–60 por un
-  lado, N$2.300 por otro)*. **Confírmalo por email**: 📞 +264 83 373 1400 ·
-  📧 info@okonjimalodge.com *([okonjima.com](https://okonjima.com/leopard-tracking/))*.
+- **Rastreo de leopardo — N$1.600 (~€80)/adulto en temporada alta *(1 jul – 31 dic 2026: la
+  vuestra)*, N$1.450 (~€72,5) en baja** ✅; niño de 6 a 13, la mitad. Salidas **06:00–06:30**
+  *(vuelta 09:30–10:00)* y **15:30–16:00** *(vuelta 19:00–19:30)* ✅. **Y el jefe de guías declara
+  «alrededor del 80 %» de éxito** ◐ *(Expert Africa, entrevista)*.
+- ✅ **Corregido el 27/08 — y esto es de las que importan**: hasta hoy aquí ponía **N$880/970**, que
+  es **la línea del game drive normal** *(«Game & Nature Drive», sin telemetría)*, no la del rastreo.
+  El PDF oficial *(«Okonjima Experience 2026», actualizado el 06/12/2025)* **se abrió por fin con
+  `curl` y cabecera de navegador** —a `WebFetch` le sigue devolviendo `403`— y da la tabla entera:
+  **leopardo, hiena parda e «Into AfriCat» N$1.600 · nocturno N$1.600 · rinoceronte a pie N$2.200 ·
+  pangolín N$2.900 *(mínimo dos noches)* · game drive N$970 · sendero guiado N$420** *(alta, por
+  adulto)*. **Nocturno, rinoceronte y senderos no se pueden reservar por adelantado**: se piden en
+  el lodge, sujetos a tiempo y disponibilidad; el pangolín sí, sin reembolso.
+  **Camping Omboroko: N$880 + N$250 de tasa de parque = N$1.130 (~€56,5) por persona y noche** ✅
+  *(rack 2026; cena N$750, desayuno N$420)*. 📞 +264 83 373 1400 · 📧 info@okonjimalodge.com ·
+  [PDF de actividades](https://okonjima.com/wp-content/uploads/2025/12/Okonjima-Activity-Overview-2026-.pdf) ·
+  [PDF de tarifas](https://okonjima.com/wp-content/uploads/2025/12/Okonjima-Rack-Rates-2026.pdf) ·
+  [el 80 %](https://blog.expertafrica.com/conservation/looking-out-for-leopards/).
 - ⚠️ **Y otra vez el reloj — que aquí es lo único que estorba, porque el desvío es baratísimo**:
   **son +34 km sobre el trazado directo del D14** ✅ *(medido con OSRM el 24/08 — está casi en la
   B1)*, pero la salida de las 06:00 obliga a **haber dormido cerca** *(desde Onguma son 312 km)* y
@@ -308,7 +317,8 @@ Son las únicas que caben en un día de llegada o de salida, porque están **a m
 - 🐆 *(**Descartado el 26/08**, se deja el dato por si vuelve: el Cheetah Conservation Fund, a 44 km
   de Otjiwarongo — **+89 km**
   medidos, alimentación **de lunes a viernes a las 14:00** ✅ y **Cheetah Run a las 08:00 con reserva
-  previa**. Con el guepardo como prioridad, **el sitio donde se decide todo esto es
+  previa**. **Precios 2026** ◐ *(info-namibia; la web propia no los publica)*: **tour del centro
+  N$290 (~€14,5) · Cheetah Drive N$800 (~€40) · Cheetah Run N$800 (~€40)**, menores de 12 al 50 %. Con el guepardo como prioridad, **el sitio donde se decide todo esto es
   [los desvíos](aparte/desvios-que-valen-la-pena.md)**, que compara los tres centros contra el guepardo
   salvaje de Etosha —medido: **Namutoni 50 %**, Okaukuejo 18 %, Halali 10 %— y dice de qué noche
   saldría el día.)*

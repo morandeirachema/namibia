@@ -135,7 +135,9 @@ RESUMEN = {
     "08": "El súper parada a parada, la ley del alcohol, dónde comer y la aduana.",
     "09": "Cómo funciona el safari en seco, y la guía de campo con las posibilidades "
           "medidas de ver cada especie.",
-    "10": "Los Lone Stone Men, la cascada del Uniab, los círculos de hadas.",
+    "10": "Lo que la ruta pisa y el itinerario no nombra, día a día y con su desvío medido: los "
+          "Lone Stone Men, la cascada del Uniab, la plataforma de guano, los grabados de Peet "
+          "Alberts, los cañones del Otjikoto.",
     "11": "Lo que cuesta entrar en cada sitio de la ruta, los permisos y la norma de drones.",
     "12": "Lo que superó la verificación a tres votos, y lo que quedó refutado.",
     "13": "Distancias, firme y viabilidad — con el contraste de OSRM.",

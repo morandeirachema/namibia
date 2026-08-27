@@ -688,6 +688,25 @@ escribe** — la conversión es optimista, no conservadora.
 
 ---
 
+## 🐆 Okonjima y el CCF, con tarifa 2026 — y el `11` daba el precio del game drive como rastreo *(27/08/2026)*
+
+El PDF de actividades de Okonjima devolvía `403` a todo lo que no fuera un navegador, y el `11`
+llevaba desde el 24/08 un «rastreo de leopardo N$880/970 ◐» sacado de un resumen de buscador. **Hoy
+se abrió con `curl` y cabecera de navegador** —a `WebFetch` le sigue dando `403`—, junto con el rack
+2026, y **la cifra era de otra línea**: N$880/970 es el **Game & Nature Drive**, sin telemetría; el
+**rastreo de leopardo es N$1.450 en temporada baja y N$1.600 en alta** *(1 jul – 31 dic 2026: la
+del viaje)*, igual que el nocturno y la hiena parda; rinoceronte a pie N$2.200; pangolín N$2.900 y
+dos noches mínimo; **camping Omboroko N$880 + N$250 de tasa = N$1.130 por persona y noche**. Lo
+que el PDF marca como «solo en el lodge, según tiempo y disponibilidad» —nocturno, rinoceronte,
+senderos— no se puede reservar de antemano; el leopardo sí. **Corregido en `11`, en los desvíos y
+en el nuevo [plan de felinos](aparte/plan-felinos.md)**; el «desde N$1.130» del `20` §7 era correcto
+*(es por persona)*. Y el CCF, que sigue sin publicar precios en su web, tiene tabla 2026 en
+info-namibia ◐: **tour N$290 · Cheetah Drive N$800 · Cheetah Run N$800** — el `11` y los desvíos
+daban N$220/N$605, de una guía vieja *(el CCF sigue descartado como plan; el dato queda por si vuelve)*. Fuentes: los dos PDF, enlazados en
+`11`; [info-namibia — CCF](https://www.info-namibia.com/activities-and-places-of-interest/waterberg/cheetah-conservation-fund).
+
+---
+
 ## 🔎 La auditoría de no-fabricación — *(25/08/2026)*
 
 Cinco verificadores independientes, uno por bloque —dinero y reservas · horarios, carreteras y

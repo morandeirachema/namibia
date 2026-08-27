@@ -117,9 +117,10 @@ este dossier y debería.
   abierto **08:00–17:00**, **a diario** · **alimentación de lunes a viernes a las 14:00**
   *(sábados y domingos a las 12:00)*, ~30 min, **incluida con cualquier actividad** · **Cheetah
   Run diario a las 08:00**, 30 minutos, **con reserva previa obligatoria**.
-- **Precios ◐/○, sin confirmar** — su web no los publica ❌: una guía da **tour del centro N$220
-  (~€11)** y **Cheetah Run + Cheetah Drive N$605 (~€30)** ◐, y una reseña de visitante habla de
-  **N$480 (~€24)** por el Cheetah Drive ○. **Confírmalo por teléfono: +264 (0)67 306225** ✅.
+- **Precios 2026 ◐** — su web sigue sin publicarlos ❌, pero info-namibia da la tabla de 2026:
+  **tour del centro N$290 (~€14,5) · Cheetah Drive N$800 (~€40) · Cheetah Run N$800 (~€40)**,
+  menores de 12 al 50 % *(actualizado el 27/08: las cifras anteriores —N$220 y N$605— eran de una
+  guía vieja)*. **Confírmalo por teléfono: +264 (0)67 306225** ✅.
 - **El desvío, medido** ✅: **+89 km** sobre el trazado directo del D14 *(OSRM)*.
 - **⏰ Y aquí está el detalle que decide**, con los tiempos reales medidos:
   - **Onguma → CCF son 280 km, ~3 h 30** a velocidad de planificación. Saliendo a las 08:00 se
@@ -163,9 +164,12 @@ senderos y *Into AfriCat*. Y una rareza que casi nadie ofrece:
   avistamiento en 149+48+16 partes de Etosha — `15`. Aquí lo rastrean.)*
 - **El desvío, medido** ✅: **+34 km** sobre el D14. **Es el desvío más barato de todo este
   documento** — está prácticamente en la B1.
-- **Tiene camping** ◐ *(desde ~N$1.130 · ~€57 — `20` §7)*, así que puede ser noche, no solo parada.
-- **Rastreo de leopardo N$880 (~€44) en temporada baja / N$970 (~€49) en alta** ◐ *(el porqué de
-  la marca ◐ y el contacto, en `11`)*.
+- **Tiene camping** ✅ *(N$880 + N$250 de tasa = N$1.130 · ~€56,5 por persona y noche, rack 2026 —
+  `11`)*, así que puede ser noche, no solo parada.
+- **Rastreo de leopardo N$1.600 (~€80) por adulto en temporada alta** ✅ *(corregido el 27/08: los
+  N$880/970 que había aquí eran el game drive normal — el PDF oficial, por fin abierto, en `11`)*, y
+  **«alrededor del 80 %» de éxito según su jefe de guías** ◐. **La versión que lo mete sin tocar el
+  D13 —dormir el D14 aquí en vez de en Windhoek—, medida, en [el plan de felinos](plan-felinos.md).**
 - **⏰ Su pega horaria**: las salidas son **06:00–06:30** *(vuelta 09:30–10:00)* o **15:30–16:00**
   *(vuelta 19:00–19:30)* ◐. La de la mañana pide haber dormido allí; la de la tarde termina a las
   19:30 y deja Windhoek de noche.
