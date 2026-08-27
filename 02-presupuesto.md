@@ -562,7 +562,7 @@ publica en su propia web.
 
 ### Actividades — unidades verificadas, selección estimada
 Precios **por persona**, verificados salvo aviso:
-- Lanzadera 4x4 a Deadvlei — **N$180 (~€9)** ✅ (NWR)
+- Lanzadera 4x4 a Deadvlei — **N$180 (~€9)** ✅ (NWR) *(el concesionario About Africa cobra N$200 · ~€10 ◐: +N$40 la pareja si se usa — es opcional con el 4×4, `01` D4)*
 - Sesriem, guiado de mañana / paseo — N$300–700 (~€15–35) ✅ (NWR)
 - Etosha, safari guiado de mañana o tarde — **N$650 (~€33)** ✅ (NWR, los tres campamentos)
 - Etosha, safari nocturno guiado — N$750 (~€38) ✅ (NWR) — ⚠️ **FUERA DEL PLAN desde el 24/08**: se

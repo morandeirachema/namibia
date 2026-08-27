@@ -305,6 +305,10 @@ INTERES = [
     ("Spreetshoogte Pass", "Mirador del paso", "joya", ["D2"]),
     ("Sesriem Canyon", "Sesriem Canyon", "joya", ["D3"]),
     ("Elim Dune, Sesriem", "Elim Dune", "joya", ["D3"]),
+    # --- el D4, ampliado el 28/08: los hitos del dia de las dunas, en su sitio
+    ("Dune 45", "Duna 45 · km 45", "joya", ["D4"]),
+    ("Big Daddy Dune", "Big Daddy · ~325 m", "joya", ["D4"]),
+    ("Hidden Vlei, Sossusvlei", "Hidden Vlei · 4 km a pie", "joya", ["D4"]),
     ("Kuiseb Pass", "Paso del Kuiseb · Henno Martin", "joya", ["D5"]),
     ("Vogelfederberg", "Vogelfederberg", "joya", ["D5"]),
     ("Dune 7, Walvis Bay", "Dune 7", "joya", ["D5", "D6"]),

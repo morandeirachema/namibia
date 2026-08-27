@@ -166,7 +166,9 @@ es el dinero, es el reloj**.
 > Al quitarle la segunda noche a Spreetshoogte y **darle una noche propia a Twyfelfontein (D8)**,
 > **la mañana del D9 queda libre entera** *(`aparte/decision-del-ccf`)*. Eso **da la vuelta a la conclusión de abajo**:
 > el rastreo de rinoceronte negro **de media jornada de Palmwag**, que aquí se daba por imposible,
-> **ahora cabe** *(el de día entero de Grootberg sigue sin caber — abajo)* — es el mejor argumento del cambio de ruta. En sentido contrario, **el farm drive de
+> parecía caber — **y el 28/08 se comprobó que no: sale a las 06:00–06:30, no a media mañana**
+> *(abajo, con su tarifa)*. Lo que la noche nueva sí compra es una mañana entera en Damaraland y
+> las actividades de Palmwag que salen a las ~07:00. En sentido contrario, **el farm drive de
 > Spreetshoogte pierde su hueco**: el día de 0 km en la escarpa ya no existe.
 
 ```mermaid
@@ -226,12 +228,21 @@ Namibia — el mismo contacto con el que se reserva la noche)*. Hace ✅
 > **Ahora se duerme en Twyfelfontein el D8 y el D9 son solo ~159 km**, así que **la mañana está
 > libre entera**. Pero no todo cabe igual, y conviene separarlo:
 >
-> - ✅ **Lo que cabe sin forzar nada, y es la opción recomendada: el rastreo de rinoceronte de
->   MEDIA JORNADA de Palmwag**, que además **está en el camino** —a ~107 km de Twyfelfontein, en
->   mitad de la etapa—. Saliendo a las **~07:00** *(amanece 06:17)* se llega hacia las **08:45**,
->   cabe la media jornada y quedan **51 km hasta Hoada** para la tarde.
-> - ✅ **También cabe el rastreo del elefante del desierto de Grootberg** *(media jornada, vuelta
->   prevista ~15:00)*, y el **nature drive con sundowner** de la tarde, ya en Hoada.
+> - ❌ **El rastreo de rinoceronte de MEDIA JORNADA de Palmwag TAMPOCO cabe, y esto es del 28/08.**
+>   Está en el camino —a ~107 km de Twyfelfontein, en mitad de la etapa— pero **sale entre las 06:00
+>   y las 06:30** ✅ *(tarifa 2026/27 de Gondwana, que opera el lodge: «Half Day Rhino Tracking ·
+>   Departure: between 6h00 and 6h30 AM · **N$3.975 · ~€199 pp**, mínimo 2, no apto para menores de
+>   12»)*. Saliendo de Twyfelfontein a las ~07:00 se llega a las **~08:45** y ya ha salido: **el
+>   «cabe» de arriba, escrito el 24/08, era una suposición sobre el horario y era falsa.** Para que
+>   quepa hay que **dormir el D8 en Palmwag en vez de en Twyfelfontein** *(los grabados se ven esa
+>   misma tarde)*, y son **N$7.950 · ~€398 la pareja**.
+> - ✅ **Lo que SÍ cabe llegando a las 08:45, con precio de su propia tarifa 2026/27**: el
+>   **Half Day Nature Drive de Palmwag** *(±3 h, sale a las ~07:00 y también por la tarde,
+>   **N$1.355 · ~€68 pp**)* y las **caminatas guiadas de 2 y 5 km** *(**N$400 y N$485 · ~€20 y ~€24
+>   pp**, ~07:00)*. Y en Hoada, el **nature drive con sundowner** de la tarde.
+> - ◐ **El rastreo del elefante del desierto de Grootberg** *(media jornada, vuelta prevista ~15:00)*
+>   sigue en pie **a falta de su hora exacta de salida** ❌ — pregúntala, que es justo lo que tumbó
+>   al de Palmwag.
 > - ❌ **Lo que sigue SIN caber es el rastreo de rinoceronte de día entero de Grootberg**, que sale
 >   a primera hora desde el lodge. Llegar a esa hora desde Twyfelfontein pide **~130 km de grava
 >   antes del amanecer**, y eso choca con dos reglas propias: la franja nocturna del
@@ -239,8 +250,11 @@ Namibia — el mismo contacto con el que se reserva la noche)*. Hace ✅
 >   que deja «antes del amanecer» como zona a riesgo propio** *(`20` §1)*. **Solo cabría dándole
 >   una segunda noche a Damaraland.**
 >
-> ⚠️ **Lo único que falta para poder cerrarlo es el precio** ❌ — pídelo por escrito al reservar
-> Hoada: 📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104** *(`20` §5)*.
+> ✅ **El precio de Palmwag ya está** *(28/08, tarifa 2026/27 de Gondwana: rastreo N$3.975, nature
+> drive N$1.355, caminatas N$400/485, todo por persona)*; **📞 se reserva en Gondwana: +264 61 427 200
+> · 📧 info@gcnam.com**. **Lo que falta es el de Grootberg** ❌ — pídelo por escrito al reservar
+> Hoada: 📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104** *(`20` §5)*, **y pídele la hora de
+> salida, no solo el precio**.
 
 **Palmwag** *(cae en mitad del D9, ~51 km al oeste de Hoada, y es el surtidor de respaldo del
 tramo — `07`)* ◐: su concesión tiene rinoceronte negro, elefante del desierto y **la mayor
@@ -249,7 +263,15 @@ población de depredadores fuera de Etosha**. Ofrece **game drives panorámicos 
 jornada** *(no apto para menores de 12)* ✅
 *([ficha de actividades](https://wetu.com/iBrochure/en/Information/8016_1622/palmwag_lodge_gondwana_collection_namibia/Activities))*.
 
-> ❌ **Sus precios no están publicados, y aquí hay una trampa que conviene dejar escrita.** Una
+> ✅ **Y desde el 28/08 sus precios SÍ están, en la tarifa 2026/27 de Gondwana** *(1 nov 2026 –
+> 31 oct 2027, justo la ventana del viaje)*: **rastreo de rinoceronte de media jornada N$3.975
+> (~€199) pp**, salida 06:00–06:30, mínimo 2 · **half day nature drive N$1.355 (~€68) pp**, ~07:00 o
+> tarde · **caminatas de 2 y 5 km N$400 y N$485 (~€20 y ~€24) pp** · **excursión de día entero por
+> Damaraland N$3.555 (~€178) pp**, mínimo 4 · **sleep-out N$4.995 (~€250) pp**. El surtidor,
+> **07:00–19:00**. Lo que sigue debajo se escribió cuando no había precios y se conserva **como
+> aviso**:
+>
+> ❌ **Sus precios no estaban publicados, y aquí hubo una trampa que conviene dejar escrita.** Una
 > búsqueda devolvió con todo aplomo «N$3.375 el día entero, N$4.375 la media jornada y N$4.200 el
 > nature drive» — cifras que **no aparecen en ninguna página abierta**, y que **se contradicen
 > solas**: la media jornada saldría más cara que el día completo. **No se usan.** Es el mismo tipo

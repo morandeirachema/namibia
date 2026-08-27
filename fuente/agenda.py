@@ -43,6 +43,17 @@ def alto_mapa(opcional):
     return 800 if n <= 1100 else 700 if n <= 1700 else 600
 MARGEN = (14, 12, 16, 12)                        # los del dossier, para que se parezcan
 
+# Cada dia son DOS paginas —mapa y explicacion—, salvo los que llevan una mas a proposito:
+# el D4, Sossusvlei y Deadvlei, se amplio el 28/08 a peticion del viajero y su explicacion
+# ocupa dos paginas (horario del dia, distancias, Big Daddy, la arena, la tarde).
+# `comprobar.py` lee esta tabla para saber cuantas paginas exigir.
+PAGINAS_EXTRA = {"D4": 1}
+
+
+def paginas_esperadas():
+    """Portada + dos por dia + las de mas de PAGINAS_EXTRA."""
+    return 1 + 2 * len(trazado.ETAPAS) + sum(PAGINAS_EXTRA.values())
+
 # Bullets del `01` que son del dossier y no de la agenda: empiezan por este emoji.
 FUERA = ("🌡️", "🐾")
 
@@ -274,6 +285,10 @@ header.dia.breve .cifra, header.dia.breve .duerme { display: none; }
                   font-family: var(--serif); font-style: italic; }
 .cuerpo { column-count: 2; column-gap: 6mm; column-fill: auto; }
 .cuerpo > * { break-inside: avoid; }
+/* La lista puede partirse entre columnas y paginas (cada viñeta, no): si no, la lista
+   entera del D4, que va detras de su diagrama, saltaba a la pagina siguiente y dejaba la
+   anterior en blanco. */
+.cuerpo > ul { break-inside: auto; }
 .cuerpo pre.mermaid { column-span: all; }
 
 /* --- lo opcional del día, bajo el mapa: las viñetas del `10` ---------------- */

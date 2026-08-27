@@ -107,7 +107,11 @@ fuentes, y coinciden entre sí ◐:
   vehículo en el aeropuerto — hay un **transfer gratuito entre el aeropuerto y su oficina de
   Windhoek** (80 Trift Street, Snyman Circle), incluido sin coste en alquileres de **14 días o
   más** *(el suyo son 15: entra de sobra)*, con **dos traslados gratuitos** — uno a la llegada,
-  otro a la vuelta. El transfer gratuito solo corre **entre las 06:30 y las 17:20**: la llegada
+  otro a la vuelta. ⚠️ **Corregido el 28/08**: su web da **«Latest transfer: 16:00 (from the office
+  to the airport)»** y **N$550 (~€28) por trayecto fuera de horario** — el 17:20 es la hora tope de
+  las **llegadas** que van a recoger, no la del transfer de vuelta, y **el D15 la devolución está
+  puesta a las 18:00**: hay que pedir por escrito el transfer tardío (y las horas de sábado, que no
+  publican) o devolver a las 16:00. La llegada
   (09:25) cae dentro; **la salida (20:45) cae fuera** — fuera de esa ventana el transfer es de
   pago, N$550 (~€27,50) el trayecto hasta 4 personas. La confirmación de reserva marca «Airport Transfer:
   yes» para la vuelta, así que Savanna parece asumirlo de todos modos ◐ — **confírmalo por
@@ -413,12 +417,16 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
     y **es el colchón que quedó** cuando la escarpa perdió su segunda noche — la que se sacrifica
     sin penalización si el vuelo se retrasa. **Pide precios igualmente**, para que el presupuesto no
     mienta *(`02` §3)*.
-  - 🦏 **Y en la misma llamada, lo que la noche desbloquea**: el **rastreo de rinoceronte negro de
-    media jornada de PALMWAG**, que con el itinerario de agosto no cabía y que además cae en mitad
-    del D9. **Precio ❌** — 📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104**. Es el mejor
-    argumento del cambio y sigue sin tarifa por escrito.
-    ⚠️ **Pide el de media jornada, no el de día entero de Grootberg**: ése sale a primera hora desde
-    el lodge y no cabe sin conducir grava de noche *(`11`)*.
+  - 🦏 **Y el rastreo de rinoceronte, que era lo que la noche desbloquaba: hay que decidirlo aquí**
+    *(reabierto el 28/08)*. El de **media jornada de PALMWAG** ya tiene tarifa ✅ —**N$3.975 (~€199)
+    pp, mínimo 2**, tarifa 2026/27 de Gondwana— pero **sale entre las 06:00 y las 06:30**, así que
+    **no cabe llegando desde Twyfelfontein**: o se duerme esta noche **en Palmwag** en vez de en
+    Twyfelfontein *(y entonces cabe, y son N$7.950 · ~€398 la pareja)*, o se cambia por lo que sí
+    sale a las ~07:00 —**nature drive de 3 h, N$980–1.355 pp**… el suyo es **N$1.355 (~€68) pp** ✅— o
+    se renuncia. 📞 **Gondwana: +264 61 427 200 · 📧 info@gcnam.com**.
+    ⚠️ **Del de Grootberg falta la HORA, no solo el precio** *(res4@journeysnamibia.com ·
+    +264 61 228 104)*: el de día entero sale a primera hora desde el lodge y no cabe sin conducir
+    grava de noche *(`11`)*.
 - **Hoada Campsite — dom 8 nov (D9)** — campamento **comunitario** *(la caja se queda en la
   conservancy ◐ — `19`)*, el que el blog llama el más bonito de su viaje. **N$271–366/persona según
   temporada → N$542–732 (~€27–37) los dos** ◐ *(la temporada de noviembre sin fijar — `02` §3)*.
@@ -512,7 +520,7 @@ Para no gastar llamadas en lo que se cierra allí:
   game drive dentro de Etosha N$1.930 · ~€97 pp ✅)*: **al reservar o en recepción al llegar** — son
   lo que sustituye al nocturno de NWR *(§4)*. **El sundowner (D12) y el game drive (D13) están
   decididos y en el presupuesto** *(26/08, `02` §9)*.
-- **La lanzadera de Deadvlei** *(N$180 · ~€9/persona ✅)*: en Sesriem.
+- **La lanzadera de Deadvlei** *(N$180 · ~€9/persona ✅ en la web de NWR; About Africa, que la opera, cobra N$200 · ~€10 ◐)*: en Sesriem, y solo si no apetece la arena o vuelve la prohibición del 1/05/2026 *(`01` D4)*.
 - **Las tasas de parque** *(~N$620 · ~€31 al día, pareja + coche ◐)*: en cada puerta, por cada 24 h.
 - **Cape Cross** *(~N$620 · ~€31 los dos ◐ — tramo premium desde abril de 2026; el N$350 que
   circulaba era la tabla de 2021)*: **en efectivo** en recepción — y vuestro día, el 6

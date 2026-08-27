@@ -204,7 +204,7 @@ sigue siendo real independientemente del coche.)*
 
 ## 🎯 Actividades NWR (por persona)
 
-- **Sesriem → lanzadera 4x4 a Deadvlei** — N$180 (~€9)
+- **Sesriem → lanzadera 4x4 a Deadvlei** — N$180 (~€9) *(lo que lista la web de NWR ✅; el concesionario que la opera desde 2025, About Africa, cobra **N$200 (~€10)** por adulto ida y vuelta según la prensa namibia ◐ — el precio bueno, en recepción; `01` D4)*
 - Sesriem, safari guiado de mañana — N$600 (~€30) *(sin desayuno)* / N$700 (~€35) *(con desayuno)*
 - Sesriem, ruta al atardecer a Elim Dune — N$300 (~€15)
 - Sesriem, ruta del cañón — N$200 (~€10)

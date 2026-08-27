@@ -916,11 +916,15 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   dos sitios identificados *(Twyfelfontein Country Lodge y la zona de Palmwag)* **son lodges**. Es el
   **único riesgo al alza serio del presupuesto**: presupuestada como camping *(~€35 la pareja)*,
   puede irse a **€150–200** si acaba siendo habitación *(`02` §3)*.
-- 🦏 **El rastreo de rinoceronte sigue sin precio** ❌ *(res4@journeysnamibia.com · +264 61 228 104)*.
-  **Es lo que compró la noche nueva del D8** —con el itinerario de agosto no cabía—, así que es el
-  hueco que más valor tiene por lo que cuesta cerrarlo: un email. ⚠️ **Y hay que pedir el de
-  Palmwag, de media jornada**: el de Grootberg es de día entero y **no cabe** —saldría a primera
-  hora desde el lodge, a ~130 km de donde se duerme la víspera— *(`11`)*.
+- 🦏 **El rastreo de rinoceronte: precio CERRADO el 28/08, y el encaje ROTO el mismo día.** La
+  tarifa 2026/27 de Gondwana da el de **media jornada de Palmwag a N$3.975 (~€199) pp, mínimo 2** ✅
+  — y con ella, el dato que faltaba: **sale entre las 06:00 y las 06:30**, no a media mañana. El
+  plan del 24/08 *(salir de Twyfelfontein a las 07:00 y llegar a las 08:45)* **no llega**, así que
+  lo que «compró la noche nueva del D8» era una suposición de horario, no un hecho. Sigue abierto
+  **qué se hace en su lugar**: dormir el D8 en Palmwag *(cabe, N$7.950 · ~€398 la pareja)*, el
+  **nature drive de ~07:00** *(N$1.355 · ~€68 pp ✅)* o nada. ⚠️ **Y de Grootberg falta la HORA de
+  salida además del precio** ❌ *(res4@journeysnamibia.com · +264 61 228 104)* — es justo el dato que
+  tumbó al de Palmwag.
 - 🌙 **¿Vende NWR el nocturno guiado y la guiada de mañana a quien NO duerme en el campamento?** ❌
   **N$2.800 (~€140) en juego.** Al anular Namutoni, las dos últimas noches se duermen fuera y las dos
   actividades salieron del presupuesto. Si las venden igual, vuelven al plan *(`20` §4)*.

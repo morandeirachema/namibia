@@ -134,14 +134,21 @@ del día a día. Desactívalo al volver a firme normal.
 
 ## 5. La arena de Sossusvlei, y una prohibición que anula el seguro ◐
 
-**(A) La norma, que está en el aire.** El 1 de mayo de 2026 se anunció una prohibición al self-drive
-y **se revirtió al día siguiente**. Nota del MEFT del 2 de mayo: *«Deadvlei will remain accessible to
+**(A) La norma, que está en el aire.** Se anunció el **15 de abril de 2026** —con efecto el 1 de
+mayo— una prohibición al self-drive en esos 5 km, y **el 2 de mayo el MEFT la revirtió**
+*(fechas precisadas el 28/08)*. Nota del MEFT del 2 de mayo: *«Deadvlei will remain accessible to
 tour guides registered with the Namibia Tourism Board and to self-drive visitors with 4x4 vehicles»*,
 y los visitantes *«may also use the concessionaire's shuttle service but buses and trucks are not
 permitted»*.
 
 > A 16/07/2026 **el self-drive está permitido**, pero **ya bailó una vez en tres meses**.
 > 👉 **Reconfirmar ~4 semanas antes = primeros de octubre de 2026.**
+>
+> Y si vuelve a caer, el plan B ya tiene precio: **la lanzadera del concesionario About Africa**,
+> que sale del propio aparcamiento 2WD — **N$200 (~€10) por persona ida y vuelta** ◐ *(prensa
+> namibia, 08/2025; alguna fuente da N$250)*, frente a los **N$180 (~€9)** que sigue listando la web
+> de NWR ✅. Con 4×4 es **opcional**: la nota del MEFT del 2 de mayo deja pasar a los
+> *«self-driving visitors with 4x4 vehicles»*.
 
 **(B) La conducción.** Desde el aparcamiento 2WD son ~5 km, de los que los **~4 finales** exigen 4x4:
 
@@ -150,7 +157,8 @@ permitted»*.
   asfalto y hacerlos con poca presión destroza las ruedas
 - Mantén inercia · métete en **las roderas** del de delante · no pares en subida · no patines
 - Si te encajas, **marcha atrás por tus propias huellas** antes que cavar
-- **Reinfla** en cuanto pises duro; en Sesriem hay aire
+- **Reinfla en el propio aparcamiento 2WD, con el compresor, antes de los 60 km de asfalto** — no
+  los hagas a 1,2 bar (es la receta del reventón de §11); en Sesriem hay aire para rematar
 - Presión de arena típica **~1,0–1,6 bar** (African Tracks da 1,6) — pero **necesitas el compresor**
   para volver a subir: **confirma que funciona en la entrega**
 

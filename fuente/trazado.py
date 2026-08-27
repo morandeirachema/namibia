@@ -241,6 +241,34 @@ def firme_de(ref, lat=None, lon=None, nombre=None):
     return f
 
 
+# Las gasolineras de la ruta, tal como las clasifica el `01` §gasolineras — y SOLO esas:
+# aqui no se anade ningun surtidor que el dossier no haya verificado. El estado manda en
+# como se pinta en la lamina:
+#    obligatoria · si te la saltas, el siguiente surtidor seguro queda fuera de alcance
+#    opcional    · conviene, no hace falta (o «sal lleno de aqui»)
+#    no          · existe o se lista, pero no cuentes con ella (cortes, «solo huespedes»)
+# La coordenada es la del punto de PUNTOS donde esta: a escala de pais, el surtidor y el
+# pueblo son el mismo sitio.  (clave de PUNTOS, estado, nota corta)
+GASOLINERAS = [
+    ("windhoek",      "opcional",    "salir de la ciudad lleno"),
+    ("solitaire",     "obligatoria", "las dos veces: despues, ~230 km sin nada"),
+    ("sesriem",       "opcional",    "Sossus Oasis (Engen), en la puerta; el del camping, con cortes"),
+    ("walvisbay",     "opcional",    "varias 24 h; salir lleno hacia el bucle"),
+    ("swakopmund",    "opcional",    ""),
+    ("hentiesbay",    "obligatoria", "Puma 24 h: la mas critica, empieza el bucle de ~740 km"),
+    ("terracebay",    "no",          "surtidor sin garantia: no es plan, es loteria"),
+    ("twyfelfontein", "no",          "irregular; la bomba historica ya no va"),
+    ("palmwag",       "opcional",    "07:00–19:00, recomendada; efectivo por si el datafono"),
+    ("kamanjab",      "obligatoria", "Shell"),
+    ("outjo",         "obligatoria", "Shell Eyambeko: se llena antes de Andersson"),
+    ("okaukuejo",     "no",          "NWR la lista; historial de cortes en 2025"),
+    ("halali",        "no",          "NWR la lista; historial de cortes en 2025"),
+    ("namutoni",      "no",          "NWR la lista; historial de cortes en 2025"),
+    ("tsumeb",        "opcional",    "primer repostaje del D14, a ~105 km de Onguma"),
+    ("otjiwarongo",   "opcional",    "donde ademas se come"),
+]
+
+
 # Color por bloque. Sale de la paleta del sitio: basalto, hueso y oxido, mas los
 # acentos de estado que ya usan los diagramas del dossier.
 COLOR_BLOQUE = {

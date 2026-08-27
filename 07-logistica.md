@@ -195,12 +195,20 @@ flowchart LR
 
 - **PUEDES** subir carne cruda y lácteos sin pasteurizar **hacia** la zona infectada
 - **NO PUEDES** sacarlos de ella: **te los confiscan y destruyen** en el control
-- **Controles de tu ruta**: límite **sur de Etosha**, y **Palmwag** bajando a Damaraland
+- **Controles de tu ruta, con nombre y día** *(precisado el 28/08)*: las puertas **Andersson y Von
+  Lindequist** de Etosha ✅ *(las dos cruzan la valla; King Nehale, al norte, no)* — o sea, **al SALIR
+  el D12 por Von Lindequist camino de Onguma**, no el D14 · y el **«Disease Control Point» de la C43
+  de Palmwag** ◐ *(OpenStreetMap: −19,884 · 13,949, ~500 m al sur del lodge)*, que se cruza hacia el
+  sur el **D9** camino de Grootberg y Hoada · Springbokwasser figura como puerta de control, aunque
+  solo consta que revisen en sentido norte ○
 - La carne **cocinada** suele pasar; envasados al vacío comerciales y **biltong**, normalmente bien
 - **La aplicación varía**
 
-👉 **Plan:** compra el braai en **Otjiwarongo subiendo**, y **cómetelo o cocínalo todo antes de salir
-de Etosha hacia el sur**. No llenes la nevera de filetes crudos para la vuelta.
+👉 **Plan, día a día:** la carne del **D9** *(la comprada en Walvis Bay)* se cocina en Twyfelfontein
+el D8 o se queda en el control de Palmwag · la de **Outjo, el D10**, da para los braais de Okaukuejo
+y Halali y **se acaba antes del D12**, que es cuando se sale por Von Lindequist · y las dos noches de
+**Onguma se resuelven con sus braai packs**, que se compran ya fuera de la Línea *(`21`)*.
+No llenes la nevera de filetes crudos para la vuelta.
 **Declara siempre**: al turista que declara **no se le multa**, pero **saltarse un control
 veterinario es delito**. Para cuando te lo indiquen.
 

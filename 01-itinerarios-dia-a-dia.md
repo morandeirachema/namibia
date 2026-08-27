@@ -224,8 +224,10 @@ flowchart LR
   apuntadas, las DOS ruedas de repuesto, gato y compresor a la vista *(`06`)*, el **inventario del
   camping contra la ficha** *(`20` §1)* y las **preguntas de la nevera**
   *([`18`](18-manual-de-campamento.md), §5)*
-- 🚗 **~13:00–13:45 · B6 al centro: ~45 km de asfalto** ○ — la conducción por la izquierda se
-  estrena sin tráfico
+- 🚗 **~11:00 · los 45 km de la B6 al centro se hacen EN EL TRANSFER de Savanna, no al volante**
+  *(su oficina está en el 80 de Trift Street, en el polígono sur — `20` §1)*. **La conducción por la
+  izquierda se estrena en los ~5 km de ciudad de la oficina a Maerua**, un sábado y con rotondas:
+  despacio *(corregido el 28/08 — antes esto se contaba como el primer tramo conducido)*
 - 🍽️🛒 **~14:00–16:30 · comer y LA compra grande, HOY que es sábado** — Maerua Mall ○: algo rápido
   de comer y **SuperSpar + TOPS anexo** — cerveza y vino incluidos: **mañana es domingo y el
   alcohol para llevar cierra por ley** ✅. Aquí también la **carga grande de efectivo
@@ -311,20 +313,96 @@ flowchart LR
   el plan de agosto)*
 
 ### D4 · mar 3 — Sossusvlei y Deadvlei · **122 km · día completo** ✅ *(OSRM 122,1)*
+
+> **El día entero cabe en una idea: la luz buena de Deadvlei dura hora y media, y empieza cuando
+> el sol asoma por encima de las dunas, hacia las 06:30.** Todo lo demás —Big Daddy, la charca de
+> Sossusvlei, la Duna 45— se ordena alrededor de eso: lo de la mañana, temprano y en orden; el
+> mediodía, fuera del desierto; y la duna del atardecer, al atardecer. *(Ampliado el 28/08 a
+> petición del viajero; distancias y horas con su fuente, abajo.)*
+
+```mermaid
+flowchart LR
+%% ancho
+    A["05:10<br/>abre la puerta<br/>interior: 1 h antes<br/>del amanecer"] --> B["05:10-06:10<br/>60 km de asfalto<br/>a 60 km/h: orix y<br/>chacal en la cuneta"]
+    B --> C["06:10 · km 60<br/>aparcamiento 2WD<br/>4H y desinflar<br/>a ~1,2-1,6 bar"]
+    C --> D["06:20-06:35<br/>~5 km de arena<br/>blanda hasta el<br/>aparcamiento de Deadvlei"]
+    D --> E["06:35-07:45<br/>1 km a pie por la duna<br/>baja: DEADVLEI con la<br/>duna encendida y el vlei<br/>aun en sombra"]
+    F["07:45-09:15<br/>Big Daddy por la cresta<br/>(45-90 min) y bajada<br/>corriendo al vlei"]
+    F --> G["09:15-10:00<br/>Sossusvlei, la charca,<br/>1-2 km mas alla<br/>al final de la pista"]
+    G --> H["10:30-16:30<br/>Sesriem: reinflar,<br/>piscina y siesta:<br/>la arena quema"]
+    H --> I["17:15-19:00<br/>Duna 45 (km 45)<br/>al atardecer, con<br/>la luz de lado"]
+    I --> J["19:13 ocaso<br/>la puerta interior<br/>cierra ~20:10"]
+    style A fill:#2d6a4f,color:#fff
+    style E fill:#C2542F,color:#fff
+    style J fill:#9d0208,color:#fff
+```
+
 - 🌡️ **Sesriem ~32,5–34 / 15,5 ◐** — y en la duna, a mediodía, la arena está muy por encima de eso:
   **Big Daddy se sube al amanecer o no se sube** ○
 - ☀️ amanecer **06:10** (Deadvlei) · anochecer **19:13** — **la puerta interior abre 1 h antes del
-  amanecer: ~05:10.** Son ~60 km de asfalto + arena hasta el aparcamiento: saliendo al abrirse,
-  llegas con la duna encendiéndose *(horas de puerta: confírmalas en recepción al llegar, se
-  mueven con el orto real — ver `06`)*
+  amanecer, ~05:10, y cierra 1 h después del ocaso, ~20:10** ✅ *(NWR: «opens 1 hour before sunrise and
+  closes 1 hour after sunset» — `06` §12; confírmalo en recepción la víspera: se mueve con el orto
+  real)*. Son ~60 km de asfalto a **60 km/h** *(límite del parque)* más ~5 km de arena: saliendo al
+  abrirse se llega al 2WD justo al amanecer y **a Deadvlei con la duna ya encendida**, que es la luz
+  que se busca — no la del minuto exacto del orto, que ahí abajo no entra
 - 🌅 **Puerta interior 1 h antes del amanecer** — Deadvlei casi en solitario. 🌙 *Y la luna, al
   **~36 %** menguante: algo más de la que había en el plan de agosto —era el 4 y ahora es el 3—,
   pero sale tarde y de madrugada ya está alta y pálida; el amanecer manda igual*
 - ⚠️ **Este tramo, antes del amanecer, es zona a riesgo propio del seguro de Savanna salvo que se
   pida por escrito en la entrega** — el detalle, en `06` §6 y `20` §1
-- Con día entero: **Big Daddy** (la subida) + **Hidden Vlei** + **Duna 45** a la vuelta
-- Arena final: 4H antes de entrar, desinflar en el 2WD, reinflar en Sesriem *(o lanzadera
-  N$180 ≈ €9/persona)*
+- 📏 **Las distancias del día, para no calcularlas a oscuras** ◐ *(web de NWR, Wikipedia y las
+  guías de 2025–26, concordantes)*: puerta interior → **Elim Dune, km 5** *(ramal a la derecha)* →
+  **Duna 45, km 45** → **aparcamiento 2WD, km 60**, donde acaba el asfalto → **~5 km de arena** →
+  **aparcamiento de Deadvlei** *(el de en medio de la pista de arena)* → **1 km a pie** por una duna
+  baja hasta **Deadvlei** → **Sossusvlei, la charca de verdad, 1–2 km más allá**, al final de la
+  pista. Aparte: **Hidden Vlei, 4 km a pie** desde el 2WD, con postes, y casi nadie va ·
+  **Sesriem Canyon, a 4 km del campamento**: 1 km de largo, hasta 30 m de hondo y una poza que no se
+  seca; el nombre son los *seis riems* —correas de cuero— que los trekkers empalmaban para llegar al
+  agua con el cubo
+- 🏜️ **Deadvlei es lo que hay que ver, y es a primera hora.** La duna de detrás —**Big Daddy, ~325 m,
+  la más alta de la zona** ◐— se enciende de naranja mientras la arcilla blanca sigue en sombra: ese
+  contraste dura hasta las ~08:30 y a mediodía no existe. Los árboles son espinos camello **muertos
+  hace 600–700 años** *(hacia 1340–1430)*, cuando las dunas cerraron el paso al Tsauchab; siguen en
+  pie porque no hay humedad que los pudra ◐ *(Wikipedia)*. **Ni se tocan ni se trepan**, y en la
+  arcilla se pisa por donde ya hay huellas ○
+- 🧗 **Big Daddy, si se sube: por la cresta, desde el aparcamiento de Deadvlei** ◐ *(guías 2025–26)*
+  — 20–30 min hasta la base y **45–90 min de subida por el filo**, con paradas; arriba, Deadvlei
+  entero a los pies y **Big Mama** enfrente. **Se baja corriendo por la cara de sotavento, derecho al
+  vlei**: cinco minutos, y es la parte divertida. Regla de la casa: **en la cresta antes de las
+  08:00 o no se sube** — a las 10:00 la arena quema y no hay una sombra en 5 km. Zapatilla ligera y
+  cerrada *(la arena entra igual; hay quien sube descalzo y baja con calcetín)*, **≥2 L de agua por
+  cabeza solo para la subida**, gorra y crema puestas desde el coche ○
+- 🚙 **La arena, en tres reglas** *(el detalle, `06` §5)*: **4H ANTES de entrar**, desinflar **en el
+  2WD y no antes** a **~1,2–1,6 bar**, y **no parar en blando** — roderas del de delante, inercia, y
+  si te encajas, marcha atrás por tus propias huellas. **Reinflar al volver al 2WD, con el compresor
+  del coche, ANTES de los 60 km de asfalto** — hacerlos a 1,2 bar y a 35 °C es la receta del
+  reventón de `06` §11; en Sesriem hay aire para rematar. **El compresor se comprueba en la entrega
+  del D1**. ⚠️ **La norma bailó en mayo de 2026**: el 1/05 se prohibió el self-drive en esos 5 km y
+  el 2/05 el MEFT lo revirtió — *«self-driving visitors with 4x4 vehicles»* pueden seguir ✅ *(nota
+  del MEFT del 2/05, citada en `06` §5)*. **Reconfírmalo a primeros de octubre**, y si vuelve la
+  prohibición o no apetece la arena: **la lanzadera del concesionario About Africa** sale del propio
+  aparcamiento 2WD, en continuo desde primera hora — **N$200 · ~€10 por persona** ◐ *(ida y vuelta;
+  prensa namibia de agosto de 2025 y guías de 2026; alguna fuente da N$250)*, mientras **la web de
+  NWR sigue listando N$180 · ~€9** ✅: el precio bueno es el que digan en recepción
+- 🎫 **La tasa de parque no se paga otra vez**: las **dos unidades de Namib-Naukluft** del presupuesto
+  *(`02` §5, ~N$620 · ~€31 cada una)* cubren el D3 y el D4 — se cobra **por 24 h desde la entrada**
+  *(`03`)*. **Lleva el resguardo a mano**: en la puerta interior lo piden ○
+- 💧🎒 **En el coche desde las 05:00** ○: **≥4 L de agua por cabeza para el día**, desayuno hecho la
+  víspera *(o fruta y pan, y se come en el 2WD mientras se desinfla)*, ropa por capas *(a las 05:10
+  hacen ~16 °C con viento; a las 10:00, 30)*, prismáticos *(órix, avestruz y springbok en el llano de
+  la carretera, al alba)* y el móvil cargado, que la cámara va a trabajar: **no cuentes con cobertura
+  pasada la puerta** *(`07`)*
+- 🕐 **El mediodía no es del desierto** ○: a las 10:30 se está de vuelta en Sesriem reinflando;
+  **piscina, sombra y siesta** en el campamento hasta las 16:30. **Hidden Vlei solo si a las 09:30 aún
+  hay piernas y fresco**: 4 km a pie de ida desde el 2WD y sin sombra — el vlei que nadie hace; a
+  mediodía, no
+- 🌇 **Y la Duna 45 al atardecer, no al mediodía** ○: sale del campamento a las ~17:15, 45 km de
+  asfalto, **30–40 min de subida por la cresta** *(~170 m ◐)* con la luz de lado que la ha hecho la
+  duna más fotografiada del país, y de vuelta con el ocaso (**19:13**). **La puerta interior cierra
+  ~20:10** para quien duerme dentro, así que hay margen; pero **esos 45 km no se hacen de noche**: la
+  regla de las 18:00 se estira hoy hasta el ocaso y ni un minuto más *(`06`)*. *(Si el D3 se llegó
+  con luz de sobra, la Duna 45 puede hacerse ayer al atardecer en vez de Elim Dune, y hoy la tarde
+  queda libre.)*
 - 🛏️ Sesriem, segunda noche ✅ **RESERVADA**
 
 ### D5 · mié 4 — Sesriem → Walvis Bay · **~316 km · ~5h30–6h** ◐ *(OSRM 315,6; el ~270 de la matriz de 2010 se quedaba corto)*
@@ -462,19 +540,36 @@ flowchart LR
   a la venta* ✅ *(`08`)*
 - 🦏 **La mañana libre es el premio del día — y lo que desbloquea es el rastreo de rinoceronte.**
   En el plan de agosto no cabía: se pasaba por aquí a mediodía con 343 km por delante *(`aparte/desvios`)*.
-  👉 **El que encaja es el de MEDIA JORNADA de Palmwag**, que además **está en el camino**: saliendo
-  de Twyfelfontein a las ~07:00 se llega hacia las **08:45**, cabe la media jornada y quedan los
-  51 km hasta Hoada para la tarde. También cabe el **rastreo del elefante del desierto de
-  Grootberg** *(media jornada, vuelta ~15:00)*.
+  ⚠️ **Y aquí hay un problema de horario que el plan de agosto no vio, destapado el 28/08**: el
+  rastreo de rinoceronte de media jornada de Palmwag **sale entre las 06:00 y las 06:30**, no a media
+  mañana ✅ *(tarifa 2026/27 de Gondwana, la que opera Palmwag Lodge: «Half Day Rhino Tracking ·
+  Departure: between 6h00 and 6h30 AM · **N$3.975 (~€199) por persona**, mínimo 2»)*. Saliendo de
+  Twyfelfontein a las ~07:00 se llega a las **~08:45** y ya ha salido. **Con la ruta como está, el
+  rastreo de rinoceronte NO cabe.** Las tres salidas posibles, dichas claro:
+  - 🥇 **Dormir el D8 en el camping de Palmwag en vez de en Twyfelfontein** — los grabados se ven
+    esa misma tarde al llegar, y el D9 empieza con el rastreo a las 06:00 y sigue con los 51 km a
+    Hoada. Es la única forma de que quepa, y **cuesta N$7.950 (~€398) la pareja** ❌ *(sin reservar)*
+  - 🥈 **Cambiarlo por lo que sí sale a las ~07:00 en Palmwag**: **Half Day Nature Drive, ~3 h,
+    N$1.355 (~€68) pp** ✅, o las caminatas guiadas de 2 y 5 km *(N$400 y N$485 · ~€20 y ~€24 pp ✅)*.
+    Sigue sin ser rinoceronte, pero es Damaraland con guía y cabe llegando a las 08:45
+  - 🥉 **No parar y ganar la mañana**: Twyfelfontein temprano y llegar a Hoada a mediodía, con la
+    tarde en el granito
   ⚠️ **El de rinoceronte de DÍA ENTERO de Grootberg sigue sin caber**: sale a primera hora desde el
   lodge, y llegar a esa hora pediría ~130 km de grava **antes del amanecer** — contra la regla del
-  `06` y contra la cláusula de Savanna *(`20` §1)*.
-  ⚠️ **Precio ❌ en los dos**: pídelo por escrito antes de contar
-  con ello — **res4@journeysnamibia.com · +264 61 228 104** *(`20` §5)* *(detalle en `11`)*
+  `06` y contra la cláusula de Savanna *(`20` §1)*. **Los precios de Grootberg siguen ❌**: pídelos por
+  escrito — **res4@journeysnamibia.com · +264 61 228 104** *(`20` §5)* *(detalle en `11`)*.
+  📞 **Palmwag se reserva en Gondwana: +264 61 427 200 · info@gcnam.com** ✅
 - Ruta: **Twyfelfontein → Palmwag ~107 km** ◐ → **paso de Grootberg** → **Hoada ~51 km**. Grava
   entera, y **la C40 por el paso es de las carreteras bonitas del país** ○
 - ⛽ **Palmwag es el surtidor de respaldo del tramo** *(`07`)* — si el de Terrace Bay falló, aquí
   se repone
+- 🥩 **Y aquí está la primera puerta veterinaria del viaje, que el dossier situaba solo en Etosha**
+  *(corregido el 28/08)*: el control de la Línea Roja está **en la C43, entre el cruce de la C40 y el
+  lodge de Palmwag** ◐ *(OpenStreetMap: «Disease Control Point», −19,884 · 13,949; el lodge queda
+  ~500 m al norte)*. Se cruza **hacia el sur** al salir de Palmwag rumbo a Grootberg, y ahí
+  **confiscan la carne cruda** — la comprada en Walvis Bay el D5 hay que **habérsela comido o
+  cocinado antes**. Pasan el biltong, las conservas, los envasados comerciales, el pollo y el
+  pescado *(`07`)*
 - 🐾 **Alrededor del campamento** — mismo polígono GBIF que ayer *(Damaraland: elefante del
   desierto 139/27, damán 62/13, springbok 50/23 ◐)*, pero **Hoada está en el granito**: el damán es
   el fijo de las rocas del campamento ○
@@ -512,10 +607,12 @@ flowchart LR
 - ☀️ amanecer **06:12** · anochecer **19:06** (Halali) — *dentro del campamento, del ocaso al
   amanecer: la charca iluminada ES el plan de la noche*
 - 🚧 **Obras Okaukuejo–Halali–Namutoni — CONFIRMADO que te afectan (act. 03/08, ◐)**: el MEFT
-  reconstruye la pista central para asfaltarla, y ya hay **nota oficial de 2026** —«Traffic deviation
-  via Gemsbokvlakte road from Okaukuejo to Halali» *(meft.gov.na/news/335)*, con aviso paralelo de
-  NWR— que fija un **desvío OBLIGATORIO desde el 2 de junio de 2026 y hasta julio de 2027**. Tu
-  ventana de la primera quincena de noviembre **caería de lleno dentro**.
+  reconstruye la pista central para asfaltarla, y hay **nota oficial** —«Traffic deviation
+  via Gemsbokvlakte road from Okaukuejo to Halali» *(meft.gov.na/news/335, **02/05/2025**, con aviso
+  paralelo de NWR)*— más **secundarias que citan al MEFT** para el tramo «junio de 2026 – julio de
+  2027» ◐ *(etosha.org, etoshanationalpark.com.na; corregido el 28/08: la nota oficial es de 2025,
+  no de 2026 — lo de 2026 son secundarias)*. Tu ventana de la primera quincena de noviembre
+  **caería de lleno dentro**.
   ⚠️ **Esto se reabrió el 24/08 y se cerró a medias el 25/08.** Las dos páginas oficiales —MEFT
   `news/335` y el aviso de NWR— fechan la **primera fase** del 23 de abril al 30 de noviembre de
   2025, y el proyecto entero *«from Okaukuejo to King Nehale Gate including detours through Halali
@@ -642,12 +739,15 @@ flowchart LR
 - 🌡️ De **Etosha (37,1 ✅)** a **Windhoek (31,2 ✅)**: el día de bajar 6 grados y 540 km
 - ☀️ amanecer **06:07** (Onguma) · anochecer **19:11** (Windhoek)
 - ⏰ **Y aquí el cambio del 21/08 regala tiempo**: durmiendo **fuera** del parque **ya no hay que
-  esperar a que Von Lindequist abra a las 06:10** — se sale en cuanto esté el coche cargado, con el
-  desayuno hecho la víspera. **Media hora larga de ventaja** en el día más largo de asfalto
+  esperar a que Von Lindequist abra a las 06:10 ni hacer los 20–30 min de ventanilla** — se sale con
+  la primera luz, con el desayuno hecho la víspera. **Media hora larga de ventaja** en el día más
+  largo de asfalto. ⚠️ **Pero no de noche**: el amanecer es a las **06:07** y salir antes mete el día
+  en la franja de kudú y órix y en la ventana «antes del amanecer» que el seguro de Savanna deja a
+  riesgo propio *(`06` §6, `20` §1)* — la ventaja es la ventanilla que no hay que hacer, no madrugar
+  a oscuras *(corregido el 28/08)*
 - Onguma → C38 → Tsumeb → Otjiwarongo → B1 · comida en Otjiwarongo
 - ⛽ **Primer repostaje, Tsumeb: ~105 km** ◐ *(enrutado propio; las secundarias dan 108–110)* — el depósito no se fía a los
   surtidores del parque *(`07`)*
-- 🥩 **Línea Roja**: la carne cruda no baja del norte — el braai se come en Etosha
 - 🐾 **Alrededor del camping: ciudad otra vez — la fauna se queda en la Línea Roja** ○
 - 🛏️ **Windhoek, arriba y CON coche** — la entrega ya no es hoy: **decidido (07/08)**, se
   devuelve mañana en el aeropuerto. Última noche de tienda: braai de despedida, o Joe's si el
@@ -699,8 +799,10 @@ flowchart LR
 - 🚙 **~18:00 · devolución del 4×4** ✅ *(hora acordada; amplía la política estándar de Savanna,
   que da 16:00 como límite — que quede por escrito, `20` §1)* — todavía **con luz para la
   inspección** *(anochecer ~19:12)*. **El transfer gratuito de Savanna solo cubre hasta las
-  17:20** ❌: cómo cubren el tramo oficina→aeropuerto a esta hora concreta sigue sin confirmar
-  por escrito — es la pieza que más falta por cerrar de toda la reserva.
+  16:00**, y fuera de horario cobran **N$550 (~€28) por trayecto** ⚠️ *(corregido el 28/08: el
+  17:20 de antes era la hora tope de las llegadas que recogen, no la del transfer de vuelta)*. Que
+  cubran las 18:00 **de un sábado sigue sin confirmar por escrito: es la pieza que más falta por
+  cerrar**. Plan B: **devolver a las 16:00** y salir en el último transfer gratis.
 - 🧳 **Facturación** ◐ — mostradores de Discover: **abren 16:45 (4 h antes)
   y CIERRAN 19:45 (60 min antes)** — **la hora dura del día es esa**. Devolviendo a las 18:00
   quedan **~1h45 de colchón** hasta que cierre facturación, contando ya el transfer: cabe hasta un
@@ -835,8 +937,11 @@ flowchart LR
   dos más que en invierno.
   *(Cuadra a ±4 min con el cálculo astronómico de arriba.)* Dentro: **60 km/h**, **20 en los
   campamentos**, y **solo se puede bajar del coche dentro de los campamentos** — la única excepción
-  es el *koppie* de dolomita de **Halali**, que sí se puede pasear. De noche te quedas dentro: la
-  charca iluminada es el plan.
+  son los **puntos señalizados con valla** —los miradores de la depresión (Etosha Lookout, Halali
+  Pan View) y los merenderos con aseo—; el *koppie* de dolomita de **Halali** se pasea, pero es que
+  **está dentro de la valla del campamento**, así que no cuenta como excepción *(corregido el
+  28/08)*. **Pregunta en Okaukuejo cuáles siguen abiertos con el desvío de obras.** De noche te
+  quedas dentro: la charca iluminada es el plan.
 - **Kiosco SIM de MTC en el aeropuerto** ◐: cierra **~21:00** — aterrizas a las **09:25**, de sobra.
 - **Facturación en Hosea Kutako (D15)** ◐: mostradores de Discover — **abren 4 h antes
   (16:45) y cierran 60 min antes (19:45)** del despegue de las 20:45. **Esa es la hora dura de la
