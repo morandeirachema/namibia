@@ -108,7 +108,9 @@ se sale de Hoada)*. Si no te alojas, **hay que avisar antes**.
 
 **Y la comparación honesta**: son **animales habituados y alimentados a mano**. Ver un guepardo aquí
 es casi seguro y **no es lo mismo** que verlo cazar en Salvadora. Vale como **seguro de que no te
-vas sin verlo**; no como sustituto.
+vas sin verlo**; no como sustituto. ⚠️ **Y con el criterio que el viajero dio el 27/08 para el CCF
+—«más un zoo que animales en libertad»— esta ventana cae en la misma categoría, o peor**: se deja
+escrita, pero la decisión de ir o no es suya con eso delante.
 
 ---
 
@@ -118,6 +120,10 @@ Hasta el 26/08 la red era ésta: si al final del D12 el guepardo no había salid
 de Onguma se cambiaba por el [Cheetah Conservation Fund](https://cheetah.org/)** — 331 km por la B1,
 la alimentación de las 14:00 el mismo día y el **Cheetah Run de las 08:00** a la mañana siguiente.
 Está medido entero en [su archivo](decision-del-ccf.md).
+
+**Y el 27/08 el viajero lo descartó del todo, por otro motivo que pesa más que cualquier
+horario: «el CCF no me interesa; me parece más un zoo que ver a los animales en libertad».** No
+vuelve. Lo de abajo es el argumento del 26/08, que ya lo había sacado del plan.
 
 **Se ha descartado, y el motivo es este documento.** Bajar al CCF **gasta el D13**, que es la
 ventana nº 1 de esta lista: el único día del viaje sin traslado y dentro del mejor terreno medido de

@@ -7,6 +7,11 @@ pone en la misma frase**.*
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](../README.md)
 >
+> **Y el criterio que ordena este documento, dicho por el viajero el 27/08: el CCF no le interesa —
+> «me parece más un zoo que ver a los animales en libertad»—.** Así que aquí no hay centros con
+> animales cautivos ni semicautivos: **solo fauna suelta**, en el parque o en reserva privada. El CCF
+> queda descartado del todo, y no como plan B.
+>
 > El viajero lo ha dicho tres veces y la última así: **«lo fundamental, aparte de lo fácil de ver,
 > es ver leopardos y sobre todo guepardos»** *(27/08)*. Del guepardo se ocupa el plan del 26/08:
 > cinco ventanas diurnas, el D13 entero en las llanuras del este y **sin plan B**, porque el único
@@ -33,11 +38,14 @@ primera y última luz**. **No compiten por las mismas horas**, así que el plan 
 montar **entero alrededor** del plan del guepardo sin robarle un minuto de llanura. Lo único que
 compite es una noche —la del D14— y esa noche **hoy no está reservada ni tiene fauna**: es ciudad.
 
-Y la asimetría que decide: el guepardo no tiene ningún sitio *casi seguro* que no se coma el D13
-*(por eso se descartó el CCF)*; el leopardo **sí lo tiene, y cae en la carretera de vuelta**:
-Okonjima, con collares de telemetría y un **«alrededor del 80 %» de éxito declarado por su jefe de
-guías** ◐. **Okonjima no tiene guepardo desde 2020** ✅ *(desvíos §3)* — es sitio de leopardo, y
-solo de eso va esto.
+Y la asimetría que decide: el guepardo no tiene ningún sitio *casi seguro* **con el animal suelto**
+—los centros no cuentan—; el leopardo **sí lo tiene, y cae en la carretera de vuelta**: Okonjima,
+**220 km² de reserva sin recintos**, con collares de telemetría en parte de los adultos y un
+**«alrededor del 80 %» de éxito declarado por su jefe de guías** ◐. Con el criterio del viajero
+delante, conviene decirlo con precisión: **es el mismo tipo de sitio que Onguma** —reserva privada
+vallada, animales libres dentro de ella—, no un centro; lo que añade es que a algunos leopardos se
+les puede localizar por radio. **Okonjima no tiene guepardo desde 2020** ✅ *(desvíos §3)* — es sitio
+de leopardo, y solo de eso va esto.
 
 ```mermaid
 flowchart LR
@@ -167,24 +175,7 @@ flowchart LR
 
 ---
 
-## 4 · Y el CCF, por si el guepardo no salió — solo si cabe sin tocar nada
-
-El CCF **no vuelve como plan** *(el argumento del 26/08 sigue en pie)*. Pero **cae en la misma
-carretera del D14, a 101 km de Okonjima** ✅, y si al final del D13 el guepardo salvaje no ha salido,
-**se puede meter de paso sin tocar el D13**:
-
-- Onguma → CCF **281 km** ✅ *(directo; 331 por la B1 con repostaje en Tsumeb)*, saliendo a las
-  06:30 se llega **hacia las 10:00**. **Tour del centro** *(N$290 · ~€14,5, cada hora desde las
-  09:00)* y **Cheetah Drive** *(N$800 · ~€40, cada hora desde las 09:30)* ◐; **la alimentación de las
-  14:00 NO cabe** —a esa hora hay que estar saliendo hacia Okonjima— y **el Cheetah Run de las 08:00
-  tampoco**. Salida ~13:00 → **Okonjima hacia las 14:30** *(101 km, 47 de grava)* → rastreo a las
-  15:30. **Apretado, y solo con el guepardo como motivo.**
-- Es un guepardo **cautivo o en recinto**, y así hay que contarlo. El salvaje se jugó el D11–D13; esto
-  es la foto de seguridad, como Otjitotongwe el D10, pero con la institución de referencia detrás.
-
----
-
-## 5 · La recomendación, y qué pedir ya
+## 4 · La recomendación, y qué pedir ya
 
 1. **El §2 se hace siempre**: Moringa por turnos el D11, leopardo al guía el D12, y el sundowner
    con el foco puesto en él. No cuesta nada más.
@@ -193,9 +184,7 @@ carretera del D14, a 101 km de Okonjima** ✅, y si al final del D13 el guepardo
    condiciones de cancelación** ❌. Con eso en la mano, la decisión final se toma **la tarde del D13
    en Onguma, con lo visto**: si el leopardo ya salió en Moringa o con el foco, se cancela *(según
    lo que digan esas condiciones)* y el D14 vuelve a ser Windhoek; si no, se va a por él.
-3. **El CCF, solo como parada del D14 y solo si el guepardo no salió** *(§4)*: no se reserva nada,
-   se decide en la misma tarde del D13.
-4. **Nada de lo anterior toca el plan del guepardo**: las cinco ventanas, el D13 entero, las dos
+3. **Nada de lo anterior toca el plan del guepardo**: las cinco ventanas, el D13 entero, las dos
    noches firmes de Onguma y el game drive del D13 siguen exactamente como están.
 
 > **En una frase**: el guepardo se juega de día en Etosha y ya tiene su plan; el leopardo se juega
