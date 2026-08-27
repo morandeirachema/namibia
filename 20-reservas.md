@@ -483,9 +483,8 @@ Viator, cruzadas entre operadores — confírmalas por email antes de reservar.*
   ◐, sin la tasa de parque. *(En Viator: `d4467-105190P1` el crucero, `-105190P2` el combo,
   `-37950P1` Sandwich Harbour.)*
 
-**Otros opcionales con aviso previo**: **Otjitotongwe** *(guepardos, de camino el D10 — alimentación
-~15:00; los no alojados **avisan antes** ◐, ~N$610 · ~€30/persona —
-[namibweb](https://www.namibweb.com/otjitotongwe.htm))* ·
+**Otros opcionales con aviso previo**: ~~Otjitotongwe~~ *(fuera desde el 27/08: guepardos
+alimentados a mano, y el viajero solo quiere animales en libertad)* ·
 **Onguma y Okonjima** son otra liga — reservas privadas junto a Etosha con nocturno y tracking a pie
 que el parque no permite: **Onguma** desde N$620 (~€31) en su camping hasta N$30.750 (~€1.538)
 pp/noche todo incluido; **Okonjima** desde N$1.130 (~€57) en camping hasta N$22.350 (~€1.118)
@@ -553,8 +552,10 @@ Para no gastar llamadas en lo que se cierra allí:
       del D13** *(decididos el 26/08, `02` §9)* — y preguntar si hay night drive *(§4)*
 - [ ] **Preguntar a NWR si venden el nocturno y la guiada de mañana a quien NO duerme dentro** ❌ —
       son N$2.800 (~€140) que hoy están fuera del presupuesto *(§4)*
-- [ ] 🐆 **Llamar a Otjitotongwe y preguntar la hora de la alimentación** ❌ — 15:00 ◐ contra 16:00,
-      y de ella depende la hora de salida de Hoada del D10 *([el plan del guepardo](aparte/plan-del-guepardo.md))*
+- [ ] 🐆 *(Opcional, sin decidir)* **Pedir a Okonjima parcela del camping Omboroko para el 13 de
+      noviembre, el rastreo de leopardo de esa tarde y sus condiciones de cancelación** ❌ — la
+      noche del D14 a por el leopardo, en vez de Windhoek *([el plan de felinos](aparte/plan-felinos.md))*.
+      *(Otjitotongwe y el CCF, fuera desde el 27/08: solo animales en libertad.)*
 - [x] **Spreetshoogte — RESERVADO** *(1 nov, UNA noche)*: lo opera **Barkhan Dune Retreat** en la
       D1275 y la tarifa está cerrada ✅ — **N$290 pp/noche → N$580 (~€29) los dos** *(§5)*
 - [x] **Windhoek D1 — RESERVADO** *(Urban Camp)* — falta pedirles el importe por escrito ❌ *(§5)*

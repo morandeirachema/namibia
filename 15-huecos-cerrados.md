@@ -778,10 +778,10 @@ guepardo** —las llanuras del este, de donde salía el 50 % de Namutoni—, as�
   seguro por si algo obliga a mover la noche — no bloquea nada.
 - ✅ **Y sale el «preguntar al CCF si tiene sitio»** ❌, que estaba en `20` §9 como opcional.
 
-**Lo que abre**: **ya no hay red.** El plan del guepardo pasa a repartirse en **cinco ventanas
-diurnas** —`aparte/plan-del-guepardo.md`—, y el único hueco que queda con consecuencia de horario es
-**la hora de la alimentación de Otjitotongwe** ❌ *(15:00 ◐ contra 16:00)*, que decide a qué hora se
-sale de Hoada el D10.
+**Lo que abre**: **ya no hay red.** El plan del guepardo pasa a repartirse en **cuatro ventanas
+diurnas** —`aparte/plan-del-guepardo.md`—, todas de animal suelto. *(La quinta, Otjitotongwe, y su
+hueco de la hora de la alimentación salieron el 27/08: el viajero solo quiere animales en libertad,
+y una granja de guepardos alimentados a mano es la misma categoría que el CCF.)*
 
 *El descarte razonado y los números de lo que se comparó quedan en `aparte/decision-del-ccf.md`,
 marcado como archivado.*

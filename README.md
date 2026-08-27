@@ -100,13 +100,12 @@ flowchart LR
 4. **Pedir cita en el Centro de Vacunación Internacional** *(A Coruña, Durán Lóriga 3 ·
    **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
    **la cita es el recurso escaso, no la vacuna**.
-5. 🐆 **Llamar a Otjitotongwe y preguntar la hora de la alimentación** ❌ — **15:00 ◐ contra 16:00**,
-   las fuentes no coinciden, y **de esa hora depende a qué hora se sale de Hoada el D10** *(`01`)*.
-   Es la única llamada que pide el plan del guepardo, y es la más barata del viaje.
-   ✅ **El desvío al Cheetah Conservation Fund quedó DESCARTADO el 26/08**: la segunda noche de
-   Onguma es **firme** y no hay nada que decidir sobre la marcha. El guepardo *«caza de día, a plena
-   luz»*, así que el esfuerzo se reparte en **cinco ventanas diurnas** en vez de en una red al final
-   — [el plan del guepardo](aparte/plan-del-guepardo.md).
+5. 🐆 **Los felinos, solo en libertad — decidido el 27/08.** El CCF *(«más un zoo»)* y
+   **Otjitotongwe** *(guepardos alimentados a mano)* **están fuera del viaje**; no hay ninguna
+   llamada que hacer por ellos. El guepardo *«caza de día, a plena luz»*, así que se juega entero
+   en **cuatro ventanas diurnas** de animal suelto —el desvío obligatorio del D11, el traslado del
+   D12, el D13 entero en las llanuras del este y el game drive de Onguma— sin red al final:
+   [el plan del guepardo](aparte/plan-del-guepardo.md). La segunda noche de Onguma es **firme**.
    🐆 **Y el leopardo, que es la otra prioridad declarada (27/08), tiene su plan aparte y sin
    decidir: [el plan de felinos](aparte/plan-felinos.md)** — lo que la ruta ya da *(Moringa, 31 %)* y
    la única vía casi segura que **no toca el D13 ni las noches de Onguma**: dormir el D14 en Okonjima

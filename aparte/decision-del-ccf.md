@@ -17,7 +17,7 @@ y porque un descarte razonado vale más que un hueco en la memoria.*
 > CCF **se comía justo ese día** para cambiar un guepardo salvaje por uno cautivo.
 >
 > 👉 **Lo que hay que hacer ahora está en [el plan del guepardo](plan-del-guepardo.md)**, que
-> reparte el esfuerzo en cinco ventanas diurnas en vez de en una red al final.
+> reparte el esfuerzo en cuatro ventanas diurnas en vez de en una red al final.
 >
 > *Lo que sigue se deja tal cual estaba escrito el 24–25/08, para que se vea qué se comparó.*
 

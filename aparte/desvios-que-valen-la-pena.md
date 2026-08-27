@@ -180,7 +180,10 @@ senderos y *Into AfriCat*. Y una rareza que casi nadie ofrece:
 - ⚠️ **Y todo se reserva directamente al llegar al lodge**, sujeto a disponibilidad ◐ — el
   pangolín y la nocturna, **solo por reserva directa**.
 
-### 4 · Otjitotongwe (D10) — el casi seguro, y el que hay que mirar con los ojos abiertos
+### 4 · ~~Otjitotongwe (D10)~~ — FUERA desde el 27/08: el viajero solo quiere animales en libertad
+
+> ❌ **27/08**: guepardos habituados y alimentados a mano son la misma categoría que el CCF. Sale del
+> viaje. Lo de abajo queda como registro.
 
 Ya estaba en el dossier *(`11`)*: **C40, a 24 km de Kamanjab, de camino el D10** — **~N$610
 (~€30)/persona** ◐. Aquí los guepardos **están habituados y se les da de comer a mano**: es la
@@ -260,12 +263,12 @@ bloque entero.**
 > este el **D12**, la reserva privada —que lo tiene confirmado por escrito— y el **D13 entero** de
 > Fischer's Pan y Chudop.
 > ❌ **Y si no sale, ya no hay recambio: el cambio por el CCF quedó descartado el 26/08** —se comía
-> el D13, que es justo la mejor de las tres oportunidades de arriba—. Lo que queda como seguro
-> barato es **Otjitotongwe el D10** *(§4)*, que no cuesta ni una noche ni un desvío.
+> el D13, que es justo la mejor de las tres oportunidades de arriba—. **Y tampoco Otjitotongwe**
+> *(fuera el 27/08: solo animales en libertad)*. Si no sale, no sale: se ha elegido así.
 > *(Okonjima sigue mereciendo la noche, pero por leopardo, rinoceronte a pie y pangolín: **guepardo
 > ya no tiene** — §3.)*
 >
-> 👉 **El plan operativo —cinco ventanas diurnas, con sus horas— está en
+> 👉 **El plan operativo —cuatro ventanas diurnas, con sus horas— está en
 > [el plan del guepardo](plan-del-guepardo.md)**; los números del desvío descartado, en
 > [su archivo](decision-del-ccf.md).
 
@@ -403,7 +406,8 @@ tres oportunidades sin mover una sola noche —las **llanuras del
 este el D12**, la mejor casilla medida del parque *(Namutoni, 50 %)*; **Onguma, con guepardo
 confirmado por escrito, dos noches (D12–D13)**; y el **D13 entero** de Fischer's Pan y Chudop—.
 Y si aun así no sale, **ya no hay recambio**: el cambio por el CCF se descartó el 26/08 porque
-gastaba el D13, que es la mejor de las tres. El seguro barato es **Otjitotongwe el D10** *(§4)*.
+gastaba el D13, que es la mejor de las tres — y Otjitotongwe salió el 27/08 por el mismo criterio
+que el CCF: **solo animales en libertad**.
 
 **De lo demás**: solo uno de los cinco desvíos puede entrar sin romper nada, y solo si algo falla —
 si **Terrace Bay** se queda sin sitio, la ruta baja por dentro y gana **Spitzkoppe y Brandberg**,

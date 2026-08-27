@@ -634,7 +634,7 @@ flowchart LR
 > - 🕔 **La última hora de luz, otra vez en llanura** — no de camino a la ducha, y **por eso el
 >   sundowner de Onguma no es hoy** *(abajo)*.
 >
-> *Las cinco ventanas de guepardo del viaje, ordenadas por lo que rinden y con sus horas, en
+> *Las cuatro ventanas de guepardo del viaje, ordenadas por lo que rinden y con sus horas, en
 > [el plan del guepardo](aparte/plan-del-guepardo.md).*
 
 
@@ -846,12 +846,9 @@ flowchart LR
 - **Alcohol** ✅: bottle stores y secciones de licores **cierran domingos y festivos**. Tus
   domingos de viaje: **1 nov (el día que se sale al paso) y 8 nov** — por eso la compra grande es
   el sábado 31.
-- **Otjitotongwe (guepardos)** ◐ — C40, a 24 km de Kamanjab, de camino el D10 (lunes):
-  alimentación **~15:00** ◐ ⚠️ **pero una fuente reciente dice 16:00** ❌ *(no coinciden: **pregunta
-  la hora al avisar**, porque de ella depende a qué hora se sale de Hoada)*; si no te alojas, avisa
-  antes. *(Una fuente dice que cierra los fines de semana — tu paso es lunes.)* **Con el guepardo
-  como prioridad, aquí es casi seguro pero son animales habituados y alimentados a mano: la
-  comparación honesta con el salvaje, en [los desvíos](aparte/desvios-que-valen-la-pena.md).**
+- ~~**Otjitotongwe (guepardos)**~~ — **FUERA desde el 27/08**: guepardos habituados y alimentados
+  a mano, y el viajero solo quiere animales en libertad *(igual que el CCF)*. El D10 se sale de
+  Hoada sin hora que cuadrar.
 - **Gasolinera en Etosha** ✅⚠️: los tres campamentos **listan «Filling Station» en la web oficial
   de NWR**, pero con historial de cortes en 2025 — entra lleno desde Outjo; respaldo: la Etosha
   Trading Post a 6,5 km de Andersson (`08`).

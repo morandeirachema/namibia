@@ -4,7 +4,7 @@
 >
 > El guepardo es **la prioridad declarada del viaje**, y desde que la última noche del parque se
 > cambió por **Onguma en vez de Namutoni**, la mejor cifra medida que tenía la ruta **dejó de
-> aplicar tal cual**. Esto es el plan rehecho: **las cinco ventanas que quedan, ordenadas por lo
+> aplicar tal cual**. Esto es el plan rehecho: **las cuatro ventanas que quedan, ordenadas por lo
 > que rinden**, la hora de cada una, y las dos decisiones que hay que tomar antes de llegar.
 >
 > **✅** fuente primaria · **◐** secundaria concordante · **○** práctica común, sin fuente ·
@@ -51,7 +51,7 @@ itinerario ya las tiene; el plan es no regalarlas.
 
 ---
 
-## 🥇 Las cinco ventanas, ordenadas por lo que rinden
+## 🥇 Las cuatro ventanas, ordenadas por lo que rinden
 
 ### 1 · D13 (jue 12) — el día entero del este, y el mejor activo del viaje
 
@@ -100,17 +100,13 @@ su día** *(decidido el 26/08, en el presupuesto — `../02-presupuesto.md` §9)
 > ⚖️ **El choque, resuelto**: sundowner y ventana nº 1 eran excluyentes el mismo día, así que se
 > reparten — **sundowner el D12, game drive el D13**, y el D13 queda entero limpio.
 
-### 5 · D10 (lun 9) — Otjitotongwe, el casi seguro, y hay que mirarlo de frente
+### ~~5 · D10 — Otjitotongwe~~ — FUERA desde el 27/08: solo animales en libertad
 
-**C40, a 24 km de Kamanjab, de camino** ◐. Alimentación **~15:00** ◐, ⚠️ **pero una fuente reciente
-dice 16:00** ❌ *(no coinciden — **pregunta la hora al avisar**, porque de ella depende a qué hora
-se sale de Hoada)*. Si no te alojas, **hay que avisar antes**.
-
-**Y la comparación honesta**: son **animales habituados y alimentados a mano**. Ver un guepardo aquí
-es casi seguro y **no es lo mismo** que verlo cazar en Salvadora. Vale como **seguro de que no te
-vas sin verlo**; no como sustituto. ⚠️ **Y con el criterio que el viajero dio el 27/08 para el CCF
-—«más un zoo que animales en libertad»— esta ventana cae en la misma categoría, o peor**: se deja
-escrita, pero la decisión de ir o no es suya con eso delante.
+Era la ventana «casi segura»: guepardos **habituados y alimentados a mano** en una granja de la
+C40, a 24 km de Kamanjab, ~N$610 (~€30) pp ◐. **El viajero la ha quitado el 27/08 con el mismo
+criterio que el CCF: «solo me interesan animales en libertad».** Deja de ser seguro, ventana ni
+llamada pendiente: **el guepardo de este viaje se juega entero en las cuatro ventanas de arriba**,
+que son todas de animal suelto, y si no sale, no sale. Eso es lo que se ha elegido, y con razón.
 
 ---
 
@@ -131,7 +127,7 @@ guepardo. Era **cambiar el mejor día de guepardo salvaje por un guepardo seguro
 el guepardo como prioridad declarada, la prioridad es el bicho suelto.
 
 > 🎯 **Lo que eso significa en la práctica, dicho sin adornar: ya no hay red.** Nadie va a rescatar
-> el viaje la tarde del D13. **Las cinco ventanas de arriba son todo lo que hay**, y por eso el
+> el viaje la tarde del D13. **Las cuatro ventanas de arriba son todo lo que hay**, y por eso el
 > horario del D13 —puerta a las 06:05, comer en el coche, última hora en llanura— **deja de ser un
 > consejo y pasa a ser el plan**.
 >
@@ -139,15 +135,15 @@ el guepardo como prioridad declarada, la prioridad es el bicho suelto.
 > nadie desde Etosha, no hay que preguntar condiciones de cancelación ❌ y **no queda ninguna
 > decisión de alojamiento abierta dentro del parque** *(`../20-reservas.md` §4)*.
 
-**Lo que sigue vivo del plan B es solo el seguro barato**: **Otjitotongwe el D10** *(ventana nº 5)*,
-que no cuesta ni una noche ni un desvío — solo una llamada para preguntar la hora.
+**Y del plan B no queda nada**: Otjitotongwe, que era el seguro barato, **salió el 27/08 por el
+mismo criterio** *(§5)*. Solo fauna suelta.
 
 ---
 
 ## ✅ El plan, en seis líneas
 
-1. **D10** — llamar a Otjitotongwe y **preguntar la hora de la alimentación** ❌; ir, con los ojos
-   abiertos sobre lo que es.
+1. **D10** — nada que llamar: Otjitotongwe está fuera *(27/08)*. Llegar a Okaukuejo con luz y dormir
+   pronto, que el D11 se madruga.
 2. **D11** — el desvío obligatorio pasa por **Gemsbokvlakte–Sueda–Salvadora**: hacerlo **despacio**.
 3. **D12** — tratar el traslado a Onguma **como safari**, no como mudanza. **Y el sundowner es
    hoy**, no mañana.
@@ -156,16 +152,14 @@ que no cuesta ni una noche ni un desvío — solo una llamada para preguntar la 
    llanura. **Sin sundowner.**
 5. **Las dos actividades de Onguma están decididas y en el presupuesto**: sundowner del D12
    *(N$980 · ~€49 pp)* y game drive del D13 *(N$1.930 · ~€97 pp)* — **+€146 por persona**.
-6. **No hay decisión que tomar en Etosha**: el CCF está descartado y las dos noches de Onguma son
-   firmes. Si el guepardo no ha salido al final del D13, **el viaje se queda con Otjitotongwe**, y
-   eso ya se sabía el D10.
+6. **No hay decisión que tomar en Etosha**: el CCF y Otjitotongwe están fuera y las dos noches de
+   Onguma son firmes. Si el guepardo no ha salido al final del D13, **no ha salido** — se ha
+   elegido el animal suelto o nada, y eso se sabe desde casa.
 
 ---
 
 ## 🕳️ Lo que este plan no puede cerrar
 
-- ❌ **La hora de la alimentación de Otjitotongwe**: 15:00 ◐ contra 16:00 ❌, y de ella depende la
-  hora de salida de Hoada del D10.
 - ❌ **Nadie publica la probabilidad de guepardo por kilómetro ni por tramo.** Los porcentajes de
   Expert Africa son **por estancia en un campamento** y el resto es **GBIF, que mide registros y no
   avistamientos**: en Etosha son **28 registros de guepardo en octubre–noviembre** sobre **4.529 de
