@@ -560,6 +560,86 @@ def revisa_cuadre_presupuesto():
              f"({_eur(sum(pp.values()))} pp / {_eur(sum(par.values()))} pareja)")
 
 
+def revisa_sol_y_luna():
+    """Que las horas de sol y la luna que imprime el `01` cuadren con el calculo.
+
+    El `01` da quince amaneceres, quince ocasos y una fraccion iluminada por noche, y hasta
+    el 28/08 no habia nada que los comprobara: se escribieron a mano una vez y ahi se
+    quedaron. Ahora se recalculan aqui —`astro.py`, algoritmo solar de la NOAA y series de
+    Meeus, sin red ni dependencias— y se cotejan linea a linea.
+
+    El sitio de cada hora sale del propio texto: «amanecer **06:18** (Cape Cross)». Cuando
+    el `01` no lo nombra —«amanecer **06:14** · anochecer **19:17**»— se usa donde se
+    duerme esa noche, que es lo que el documento da por supuesto.
+    """
+    import datetime
+
+    import astro
+
+    texto = open(os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md"), encoding="utf-8").read()
+    # el mapa de nombre visible -> clave de PUNTOS, para leer el «(Cape Cross)» del texto
+    por_nombre = {v[2].split(" · ")[0].lower(): k for k, v in trazado.PUNTOS.items()}
+    por_nombre["deadvlei"] = "deadvlei"
+    por_nombre["el paso"] = "spreetshoogte"
+
+    dias = dict(re.findall(r"\n### (D\d+) ·[^\n]*\n(.*?)(?=\n### D\d+ ·|\n### 💰)", texto, re.S))
+    if len(dias) < 14:
+        return mal(f"sol: solo encuentro {len(dias)} dias en el `01` — la comprobacion se ha "
+                   "quedado ciega")
+
+    fallos, comprobadas = [], 0
+    for e in trazado.ETAPAS:
+        cuerpo = dias.get(e["id"])
+        if not cuerpo:
+            continue
+        d, m = ((31, 10) if e["fecha"] == "31 oct" else (int(e["fecha"].split()[0]), 11))
+        fecha = datetime.date(2026, m, d)
+        defecto = e["duerme"] or "windhoek"
+        pat = (r"amanecer \*\*~?(\d\d:\d\d)\*\*(?:\s*\(([^)]+)\))?"
+               r"(?:\s*·\s*anochecer \*\*~?(\d\d:\d\d)\*\*(?:\s*\(([^)]+)\))?)?")
+        mm = re.search(pat, cuerpo)
+        if not mm:
+            continue
+        for hora, sitio, cual in ((mm.group(1), mm.group(2), "sale"),
+                                  (mm.group(3), mm.group(4), "pone")):
+            if not hora:
+                continue
+            clave = por_nombre.get((sitio or "").strip().lower(), defecto)
+            lat, lon = trazado.PUNTOS[clave][:2]
+            calc = astro.minutos_de_sol(lat, lon, fecha, cual)
+            dicho = int(hora[:2]) * 60 + int(hora[3:])
+            comprobadas += 1
+            if abs(calc - dicho) > 4:
+                fallos.append(f"{e['id']} {cual} en {clave}: dice {hora} y sale "
+                              f"{astro.hhmm(calc)}")
+    if comprobadas < 20:
+        return mal(f"sol: solo he podido cotejar {comprobadas} horas de las ~29 que tiene el "
+                   "`01` — el formato ha cambiado y la comprobacion se ha quedado ciega")
+    if fallos:
+        return mal(f"sol: {len(fallos)} horas no cuadran con el calculo — {'; '.join(fallos[:4])}")
+
+    # la luna: el bloque de arriba nombra el novilunio y va noche a noche en el cuerpo
+    lunas = re.findall(r"[Ll]una al (?:~)?([\d,]+) ?%", texto)
+    if not lunas:
+        return mal("sol: el `01` ya no dice ninguna «Luna al … %» — la comprobacion de la luna "
+                   "se ha quedado ciega")
+    mal_luna = []
+    for e in trazado.ETAPAS:
+        cuerpo = dias.get(e["id"]) or ""
+        ml = re.search(r"[Ll]una al (?:~)?([\d,]+) ?%", cuerpo)
+        if not ml:
+            continue
+        d, m = ((31, 10) if e["fecha"] == "31 oct" else (int(e["fecha"].split()[0]), 11))
+        dicho = float(ml.group(1).replace(",", "."))
+        calc = astro.iluminada(datetime.date(2026, m, d))
+        if abs(calc - dicho) > 2:
+            mal_luna.append(f"{e['id']}: dice {dicho:g} % y sale {calc:.1f} %")
+    if mal_luna:
+        return mal(f"luna: {len(mal_luna)} noches no cuadran — {'; '.join(mal_luna)}")
+    bien(f"sol y luna: las {comprobadas} horas del `01` cuadran con el calculo propio "
+         f"(NOAA + Meeus) y las {len(lunas)} lunas tambien")
+
+
 def revisa_gps():
     """Que el GPX y el KML sigan describiendo la MISMA ruta que el dossier.
 
@@ -884,6 +964,7 @@ def main():
     revisa_dia_a_dia()
     revisa_anclas_de_la_agenda()
     revisa_ruta_alt()
+    revisa_sol_y_luna()
     revisa_gps()
     revisa_avistamientos()
     revisa_pdf("dossier-namibia-2026.pdf", 40)

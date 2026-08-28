@@ -748,7 +748,7 @@ verificable», no como cierto. Y por mi cuenta, lo que se puede reproducir con c
   el D11 se planifica con el desvío, no con la directa.
 - 🦠 **Cólera también en Otjozondjupa**, con el caso más reciente *(3–6 meses, CDC)* y brote de
   diciembre de 2025; el `04` solo nombraba Kunene. 🔌 **Namibia usa enchufes tipo D y M**, no solo M.
-- 🌙 La luna del **D13 va al ~15 %**, no «0–9». 🌧️ **Sí hay pluviómetro GHCN en Okaukuejo**
+- 🌙 La luna del **D13 va al ~11 %**, no «0–9» *(el 25/08 se corrigió a ~15 % contra el USNO; el **28/08 se recalcularon las quince noches con las series periódicas de Meeus** y el método anterior —conjunción de referencia más mes sinódico— se quedaba **3–7 puntos alto** en toda la fase menguante: las noches del viaje son **más oscuras** de lo que decía el dossier, y la del D10 en Okaukuejo es la más oscura de todas, al **0,2 %**)*. 🌧️ **Sí hay pluviómetro GHCN en Okaukuejo**
   *(1968–2022)*: el `14` decía que no había ninguna estación en el parque. 🗿 Los grabados de
   Twyfelfontein: **6.000–2.000 años**, no «2.000–5.000 ✅».
 - Y marcas infladas rebajadas: SABAP1 es una *pers. obs.*; «364 días» del CCF no está en su web;
