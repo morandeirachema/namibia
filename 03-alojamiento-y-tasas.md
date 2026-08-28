@@ -212,11 +212,14 @@ sigue siendo real independientemente del coche.)*
   03/08/2026 en sus fichas de nwr.com.na: safari guiado de **mañana N$650 (~€33)** · de **tarde
   N$650 (~€33)** · **NOCTURNO N$750 (~€38)**. ❌ *Horarios de salida: NWR no los publica en ninguna
   parte — hay que preguntarlos en recepción (ver `01`).*
-  ⚠️ **Se venden a quien duerme en el campamento**, y desde el 24/08 **solo se duerme dentro dos
-  noches: Okaukuejo (D10) y Halali (D11)**. Comprables quedan, por tanto, **dos guiadas de mañana**
-  *(N$1.300 · ~€65 la pareja cada una)*. **El nocturno se cae del plan** ❌ —se compraba desde
-  Namutoni— y lo sustituye el **Sundowner Drive de Onguma** *(N$980 · ~€49 pp)*, que sale al
-  atardecer con foco y campo a través *(`01` §D13)*.
+  ⚠️ **Se venden a quien duerme en el campamento**, y **se duerme dentro dos noches: Okaukuejo
+  (D10) y Halali (D11)**. Comprables quedan, por tanto, **seis salidas**: dos de mañana, dos de
+  tarde y **DOS NOCTURNOS** *(N$1.300 · ~€65 la pareja las de día; **N$1.500 · ~€75 la pareja cada
+  nocturno**)*. ✅ **Corregido el 28/08**: aquí ponía «el nocturno se cae del plan ❌ — se compraba
+  desde Namutoni», y **no es cierto** — la web de NWR lista «Guided Night Drives 750.00» en los
+  tres campamentos para nov 2026 – jun 2027. Lo que se perdió al dejar Namutoni fue **la noche del
+  D12**. El **Sundowner Drive de Onguma** *(N$980 · ~€49 pp)* no lo sustituye: es campo a través y
+  foco fuera del parque *(`01` §D13)*.
 - Dolomite, safari guiado de mañana/tarde — N$650 (~€33)
 - Sossus Dune Lodge, safari guiado — N$750 (~€38)
 

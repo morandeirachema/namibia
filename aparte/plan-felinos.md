@@ -76,7 +76,8 @@ límites, en `09`; los intervalos, en el [estudio de las charcas](charcas-de-los
   decidido y en el presupuesto** *(N$980 · ~€49 pp — `02` §9)*: sale al atardecer y vuelve **de
   noche, con foco y campo a través**, que es exactamente el método del leopardo.
 - 🐆 **Okonjima** *(B1, al sur de Otjiwarongo — en la carretera del D14)* — 220 km² de reserva,
-  **dos tercios de los leopardos adultos con collar** ◐, y **«alrededor del 80 %» de éxito** en el
+  **18 de sus ~30 leopardos con collar VHF** ◐ *(corregido el 28/08: aquí ponía «dos tercios de los
+  adultos», y la fuente dice 18 de 30 sin hablar de adultos)*, y **«alrededor del 80 %» de éxito** en el
   rastreo, según su jefe de guías ◐ *(entrevista en Expert Africa)*. **Es el mejor sitio de leopardo
   del país para quien tiene una tarde y una mañana.** El `11` lo daba a N$880/970 y **estaba mal**:
   eso es el game drive; **el rastreo son N$1.600 (~€80) por adulto en temporada alta** ✅.
@@ -108,8 +109,11 @@ que hay — con lo que cabe y lo que no:
   son solo lodge** —camping ❌ no consta—, **sin precio verificado** ❌ *(la liga de Ongava son
   cientos de euros por persona y noche ○)*, y **su hueco en la ruta sería la noche de Okaukuejo del
   D10**, que está reservada y es la charca del rinoceronte *(87 %)*. **No se añaden**: cambiarían
-  una noche buena y barata dentro del parque por una cara y sin medir, en el lado del parque donde
-  el guepardo rinde menos *(Okaukuejo 18 %)*. Quedan aquí por si algún día sobra una noche.
+  una noche buena y barata dentro del parque por una cara y sin precio verificado, **y de paso la
+  charca del rinoceronte, que es el 87 % mejor medido del dataset**. ⚠️ *(Corregido el 28/08: aquí
+  se decía «el lado del parque donde el guepardo rinde menos (Okaukuejo 18 %)», y es falso — de los
+  tres campamentos el más bajo es **Halali, 10 %**, y el 18 % de Okaukuejo es además el mejor
+  sostenido de los tres: 21 partes de 116, frente a los 14 de Namutoni.)* Quedan aquí por si algún día sobra una noche.
 - **Okonjima** *(D14)* — **solo leopardo**, suelto en 220 km²; es el §3. No es «los dos».
 
 > **Conclusión honesta**: la reserva concreta con los dos felinos en libertad que cabe en esta ruta
@@ -123,18 +127,33 @@ que hay — con lo que cabe y lo que no:
 Esto va **encima** del plan del guepardo, no en su lugar; las horas de llanura del D11–D13 no se
 tocan.
 
-- **D11 · Halali, la noche del leopardo** — llegar con luz, cenar pronto y **sentarse en Moringa
-  desde el ocaso** *(19:06)* **y hasta que el cuerpo aguante, por turnos**: uno mira, otro duerme, y
-  se cambia. El leopardo de Moringa llega **de noche**, no a la hora de las fotos de elefante. Y
-  **el koppie de Halali al atardecer**, que es la única caminata del parque y mira sobre la
-  llanura *(`01`)*.
+> 🛑 **Lo primero, descubierto el 28/08: hay una compra de leopardo que este plan no contemplaba
+> porque el dossier la daba por perdida.** El **nocturno guiado de NWR** *(N$750 · ~€38 pp)* **no
+> era de Namutoni: se vende en los tres campamentos**, y se duerme dentro **dos noches**. Es **la
+> única forma legal de estar en Etosha a oscuras**, con foco y por pistas cerradas al self-drive —
+> es decir, **el método del leopardo**. Sube al primer puesto de esta lista.
+
+- 🐆 **D11 · el NOCTURNO DE HALALI — la mejor compra de leopardo del viaje** *(N$750 · ~€38 pp; se
+  pide en recepción al llegar)*. Halali tiene **la única cifra de leopardo que aguanta el análisis**
+  *(31 %, 12 de 39 — la única de las tres diferencias del estudio que sobrevive a corregir por las
+  42 comparaciones que se hacen)*, su vegetación espesa es lo que lo atrae —lo dice la propia NWR:
+  *«a popular draw to leopards»*— y **cae en luna nueva**. ⚠️ **Compite con Moringa por las mismas
+  horas**: o el nocturno primero y Moringa a la vuelta, o uno a cada cosa.
+- **D11 · Moringa, la vigilia** — llegar con luz, cenar pronto y **sentarse desde el ocaso**
+  *(19:06)* **hasta que el cuerpo aguante, por turnos**: uno mira, otro duerme. El leopardo de
+  Moringa llega **de noche**, no a la hora de las fotos de elefante. Y **el koppie de Halali al
+  atardecer**, que mira sobre la llanura *(`01`)*.
+- 🌙 **D10 · el nocturno de Okaukuejo** *(N$750 · ~€38 pp)* — el otro rato legal de noche dentro del
+  parque. De aquí salió el **caracal a 20 m del coche** que la propia guía cita.
 - **D12 · la guiada de mañana de Halali** *(comprada, N$650 pp)* — **pedid leopardo al guía: Goas,
-  Rietfontein**, y después llanura para el guepardo. Son los dos felinos en la misma salida y a la
-  misma hora buena.
+  Nuamses y el bucle de Ngobib**, que es el agua de leopardo **al este** de Halali, y después
+  llanura para el guepardo. ⚠️ *(Corregido el 28/08: aquí ponía «Goas, Rietfontein», y Rietfontein
+  queda al OESTE, en el tramo que corta la obra — no se llega desde Halali un día que sigue hacia
+  Namutoni.)*
 - **D12 · el Sundowner Drive de Onguma** *(decidido para hoy el 26/08)* — foco y campo a través:
   **decidle al guía que el objetivo es el leopardo**; Onguma lo tiene, y el foco es el método.
-- **D13 · nada nuevo**: el día entero es de llanura y del guepardo *(el plan del 26/08)*. Si el
-  leopardo aparece, será de propina.
+- **D13 · el Dik-dik Drive, a última hora** — monte espeso a diez minutos de la puerta: mal terreno
+  para el guepardo y **buen terreno para un leopardo al anochecer**.
 
 ---
 

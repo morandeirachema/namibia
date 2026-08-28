@@ -588,10 +588,15 @@ Precios **por persona**, verificados salvo aviso:
 - Lanzadera 4x4 a Deadvlei — **N$180 (~€9)** ✅ (NWR) *(el concesionario About Africa cobra N$200 · ~€10 ◐: +N$40 la pareja si se usa — es opcional con el 4×4, `01` D4)*
 - Sesriem, guiado de mañana / paseo — N$300–700 (~€15–35) ✅ (NWR)
 - Etosha, safari guiado de mañana o tarde — **N$650 (~€33)** ✅ (NWR, los tres campamentos)
-- Etosha, safari nocturno guiado — N$750 (~€38) ✅ (NWR) — ⚠️ **FUERA DEL PLAN desde el 24/08**: se
-  compra durmiendo en el campamento, y al cambiar Namutoni por Onguma ya no se duerme dentro
-  ninguna de las dos últimas noches. ❌ *Que NWR lo venda a quien no pernocta, sin verificar:
-  pregúntalo*
+- 🐆 **Etosha, safari nocturno guiado — N$750 (~€38) pp** ✅ *(NWR, **los tres campamentos**)* —
+  🛑 **VUELVE A ESTAR DISPONIBLE, y nunca dejó de estarlo** *(corregido el 28/08)*: aquí ponía
+  «FUERA DEL PLAN desde el 24/08 porque se compraba desde Namutoni», y **el nocturno no es de
+  Namutoni**. La web de NWR lo lista en Okaukuejo, Halali y Namutoni para nov 2026 – jun 2027. Se
+  duerme dentro **dos noches**, así que **se puede comprar dos veces: D10 en Okaukuejo y D11 en
+  Halali**. ⚖️ **Coste si se cogen los dos: N$3.000 (~€150) la pareja, ~€75 por persona** — **NO
+  está en el total** *(§10)*, porque no está decidido: es una compra nueva sobre la mesa, y el
+  nocturno de Halali es **el mejor rato de leopardo del viaje** *(`aparte/plan-felinos`)*. Si se
+  coge solo uno, que sea el de Halali: **N$1.500 (~€75) la pareja**.
 - **Onguma (D12–D13), tarifa oficial 2027 ✅** — reservables desde el camping: **Sundowner Drive 3 h
   N$980 (~€49)** *(sale al atardecer y vuelve de noche, con foco y campo a través — prohibido
   dentro del parque)* · **Onkolo Hide 3 h N$720 (~€36)** *(mín. 2, máx. 7)* · **paseo
