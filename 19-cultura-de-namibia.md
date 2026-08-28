@@ -36,6 +36,8 @@ timeline
          : Sam Nujoma, SWAPO
     2021 : Alemania reconoce el genocidio
          : y negocia la reparacion
+    2025 : Muere Sam Nujoma (8 feb)
+         : Nandi-Ndaitwah, PRIMERA PRESIDENTA
 ```
 
 - **La colonia alemana duró solo 31 años (1884–1915)** y dejó una huella desproporcionada: la
@@ -54,6 +56,12 @@ timeline
 - **La independencia llegó el 21 de marzo de 1990**, tras la larga guerra de la SWAPO desde
   Angola. Namibia es **más joven que sus viajeros**: la generación que la fundó sigue en los
   campamentos, las granjas y los surtidores que vais a cruzar.
+- 🆕 **Y lo que ha pasado desde entonces, que es lo que se habla hoy** *(añadido el 28/08)*:
+  **Sam Nujoma, el presidente fundador, murió el 8 de febrero de 2025** a los 95 y **está enterrado
+  en Heroes' Acre desde el 1 de marzo** ✅ — el monumento por el que pasáis el D2 *(`10`)* es ahora
+  su tumba. Y desde el **21 de marzo de 2025** gobierna **Netumbo Nandi-Ndaitwah, la primera
+  presidenta** del país, sucediendo a Nangolo Mbumba ✅. Namibia marca además el **28 de mayo como
+  Día del Recuerdo del Genocidio** desde 2025: por eso los festivos ya son **catorce**, no trece.
 
 Fuentes ◐: [Wikipedia — History of Namibia](https://en.wikipedia.org/wiki/History_of_Namibia) ·
 [Wikipedia — Herero and Namaqua genocide](https://en.wikipedia.org/wiki/Herero_and_Nama_genocide) ·
@@ -107,8 +115,10 @@ pie showData
   genocidio junto a los herero. Los **basters de Rehoboth** *(vuestra primera parada de la B1 el
   D2)* son una comunidad de origen mixto nama-afrikáner llegada del Cabo en 1870, con su propio
   capítulo de autogobierno ◐.
-- **Blancos (~6 %)** — afrikáners, alemanes *(la comunidad de Swakopmund, con periódico propio,
-  la Allgemeine Zeitung)* y angloparlantes: la mayoría de las granjas del centro y buena parte
+- **Blancos (~2–6 %, según la fuente ◐)** — afrikáners, alemanes y angloparlantes *(el **Allgemeine
+  Zeitung** no es el periódico de Swakopmund como decía aquí: se hace en **Windhoek**, nació en 1916
+  como *Der Kriegsbote* y es **el diario más antiguo de Namibia y el único diario en alemán de
+  África que sobrevivió a la Primera Guerra Mundial** ✅ — corregido el 28/08)*: la mayoría de las granjas del centro y buena parte
   del sector turístico que os va a atender.
 
 Fuentes ◐: [Wikipedia — Demographics of Namibia](https://en.wikipedia.org/wiki/Demographics_of_Namibia) ·
@@ -177,7 +187,8 @@ os atiende, no un extra.
   **la ley seca dominical del alcohol (`08`) es tan cultural como legal**, y vuestros dos
   domingos de viaje *(1 y 8 de noviembre)* ya están planificados con ella.
 - **En vuestra quincena no cae ningún festivo nacional** ✅ *(verificado el 24/08 contra el
-  calendario oficial de 2026: los 13 festivos del Public Holidays Act de 1990 caen todos fuera —
+  calendario oficial de 2026: los **catorce** festivos *(trece del Public Holidays Act de 1990 más
+  el Día del Recuerdo del Genocidio, 28 de mayo, desde 2025)* caen todos fuera —
   el más cercano por detrás es **Heroes' Day, el 26 de agosto**, y por delante el **Día de los
   Derechos Humanos, el 10 de diciembre**. **En octubre y noviembre no hay ninguno.**)* Así que la
   única restricción de calendario que os aplica es **el domingo** *(alcohol, `08`)* — el

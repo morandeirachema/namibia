@@ -56,21 +56,35 @@ existe al menos la **nº 37**, y se rumorean más de cuarenta.
 **La guía para TU recorrido** *(regla de la casa: las del desierto van sin coordenadas —
 encontrarlas es la gracia; la urbana tiene pin público y se da)*:
 
-- **D15 · Windhoek — la SEGURA: «No Answer», el *Telephone Man*** ◐. Figura urbana del mismo
-  proyecto, esperando junto a una cabina que no va a sonar. Es **la única con ubicación publicada**
-  *(Overlandbirds: **−22,56397 · 17,07045**, es decir S 22°33,838′ E 17°04,227′, en pleno centro)*
-  — queda **a ~2 km a pie del Craft Centre**: encaja en la mañana de regalos del D15, y el D1 solo si
-  sobran fuerzas. *(Nominatim no lo conoce, así que no está en el mapa de la agenda: la coordenada
-  de arriba es la que hay.)*
-- **D7–D8 · Skeleton Coast NP — las POSIBLES** ◐: Wikipedia documenta avistamientos «en partes del
-  parque» y hay foto de agencia de un Lone Man **en un mirador del Skeleton Coast** (Alamy).
-  Vuestro tramo **Ugabmund → Terrace Bay → Springbokwasser es exactamente ese terreno**: ojos a
-  crestas, lechos de río y salientes junto a la pista, sobre todo al bajar en las paradas *(la
-  torre del Toscanini, el delta del Uniab)*. Se reconocen por el **disco de aluminio numerado con su
-  mensaje**. Nadie garantiza ninguna: esa es la obra.
-- **El núcleo duro** (Purros, Van Zyl's Pass, Otjinungua, la D3707) queda en el **Kaokoveld
-  profundo: fuera de ruta y fuera de seguro** — para otro viaje. *(Las coordenadas circulan en el
-  grupo de Facebook «Overlanding GPS Logs & Tracks»: se piden, no se publican ○.)*
+> ⚠️ **Y esto se rehízo el 28/08, porque prometía algo que las fuentes no sostienen.** Hasta esa
+> fecha aquí se decía que el tramo Ugabmund → Terrace Bay → Springbokwasser «es exactamente ese
+> terreno» y que había que ir con «ojos a crestas». **No lo es.** El propio autor de Overlandbirds
+> —que ha conocido al artista y es quien más ha encontrado— responde a esa misma pregunta:
+> *«The farthest south one **in the bush**, so to speak, is between Sesfontein and Puros»*. Sesfontein
+> está a 19°07′S; **Terrace Bay a 19°59′, Torra Bay a 20°17′ y Ugabmund a 21°09′**: todo vuestro
+> tramo queda **entre 100 y 250 km AL SUR de la figura más meridional que nadie ha encontrado**. La
+> foto de Alamy que se citaba como prueba la titula su propio fotógrafo *«…Lone Men, **Kaokoland**,
+> Kunene Region»*. Y en el Palmwag de vuestro D9, lo que un equipo de búsqueda tomó por un Lone Man
+> *«turned out to be an actual person waving from a koppie»*. **En este viaje no vais a ver uno en
+> el campo.**
+
+- **D15 · Windhoek — la ÚNICA de este viaje: «No Answer», el *Telephone Man*** ○. Figura urbana del
+  mismo proyecto, esperando junto a una cabina que no va a sonar. **Coordenada: −22,56397 ·
+  17,07045** *(S 22°33,838′ E 17°04,227′)*, que cae en **Roentgen Street, Windhoek West** — calle
+  residencial, **no «pleno centro»** como decía este documento hasta el 28/08. Del Craft Centre son
+  **1,65 km en línea recta y 2,0–2,3 km andando, 25–30 min por trayecto**; y de paso **queda a 235 m
+  de vuestra entrada a la ciudad el D14**, así que la opción barata es verla desde el coche al
+  llegar.
+  ⚠️ **La coordenada tiene UNA sola fuente y no es el artículo**: es un **comentario del propio autor
+  de Overlandbirds (11/04/2024)** respondiendo a un lector — *«No Answer aka Telephone Man GPS
+  -22.56397 17.07045»*—. Sin segunda fuente, sin foto atada a esa coordenada y sin confirmar que
+  siga en pie en 2026. Por eso baja de ◐ a ○: **si no está, habréis dado un paseo de 25 minutos.**
+- **El núcleo duro** —de **Sesfontein hacia el norte**: Purros, Orupembe, Marienfluss, Van Zyl's
+  Pass, Otjinungua, la D3707— queda en el **Kaokoveld profundo: fuera de ruta y fuera de seguro**,
+  y son los cuatro extremos del proyecto *(Purros al sur, Van Zyl's al este, Otjinungua al norte,
+  Skeleton Coast al oeste — pero la mitad NORTE del parque, la de las concesiones, no vuestra
+  carretera)*. Para otro viaje. *(Las coordenadas circulan en el grupo de Facebook «Overlanding GPS
+  Logs & Tracks»: se piden, no se publican ○.)*
 
 **La etiqueta, que es parte de la obra** ○: se tocan con los ojos — ni moverlos, ni «recolocarlos»
 para la foto, ni llevarse el disco; y si dais con uno no documentado, la norma de la comunidad es
@@ -95,7 +109,7 @@ flowchart LR
     A["D1-D2 · WINDHOEK Y LA ESCARPA<br/>Heroes' Acre, de paso en la B1<br/>el paso mas empinado del pais"]
     B["D3-D5 · EL DESIERTO<br/>circulos de hadas · Solitaire<br/>Tropico · Kuiseb y Henno Martin<br/>Vogelfederberg · Dune 7"]
     C["D6-D7 · LA COSTA<br/>Welwitschia Drive · Pelican Point<br/>Bird Rock · Wlotzkasbaken · Zeila<br/>la cruz de Cao · Toscanini · UNIAB"]
-    D["D8-D9 · DAMARALAND<br/>welwitschias de la C39 · Wondergat<br/>museo vivo damara · Organ Pipes<br/>LONE MEN en el parque"]
+    D["D8-D9 · DAMARALAND<br/>welwitschias de la C39 · Wondergat<br/>museo vivo damara · Organ Pipes<br/>Twyfelfontein y el granito"]
     E["D10-D13 · ETOSHA<br/>Peet Alberts · Franke House<br/>Etosha Lookout · el koppie de Halali<br/>el fuerte de Namutoni"]
     F["D14-D15 · LA VUELTA<br/>Otjikoto y el museo de Tsumeb<br/>Khorab · la locomotora 41<br/>meteoritos de Gibeon · TELEPHONE MAN"]
     A --> B --> C --> D --> E --> F
@@ -120,8 +134,12 @@ flowchart LR
   500 m)* ◐ — el monumento a la independencia: obelisco de mármol, **soldado desconocido de bronce
   de 8 m**, muro en relieve con la historia de la lucha y llama eterna; inaugurado el **26/08/2002**
   y diseñado **con un equipo norcoreano** ✅ *(el mismo estudio del museo dorado de Windhoek, `19`)*.
-  **Abre a diario 08:00–17:00 ◐ · ~N$70 (~€3,5) ◐**. Salís a las 09:00–09:30 con un día de 3h–3h30:
-  media hora que sobra.
+  🆕 **Y lo que hace que hoy merezca la parada, y no estaba escrito** *(28/08)*: **Sam Nujoma, el
+  presidente fundador, está enterrado aquí desde el 1 de marzo de 2025** ✅ — murió el 8 de febrero
+  de 2025 a los 95 y su tumba es ahora el centro del recinto. Estáis ante la tumba del hombre que
+  sale en los billetes, año y medio después de que el país lo enterrase.
+  **Abre a diario 08:00–17:00 ✅ · N$70 (~€3,5) ✅**. Salís a las 09:00–09:30 con un día de 3h–3h30:
+  media hora que sobra, y ésta es la media hora mejor pagada del documento.
 - **El paso, para contarlo arriba** ◐ — 1.822 m en lo alto y **casi 1.000 m de caída en 4 km**,
   pendiente entre 1:4,5 y 1:6: **el paso más empinado de Namibia** y el de mayor desnivel. Lo abrió
   **a mano, con cuarcita y dinamita, el granjero Nicolaas Spreeth** durante la II Guerra Mundial
@@ -142,7 +160,8 @@ Fuentes: [City of Windhoek — Heroes' Acre](https://www.windhoekcc.org.na/heroe
   Sesriem)* ✅/◐ — discos de suelo desnudo de 2–12 m orlados de hierba, **el misterio científico más
   famoso del país**: termitas de arena *(Jürgens, «Science» 2013)* o autoorganización de la hierba
   por el agua — hoy, probablemente ambas. El parque privado de Gondwana, «al sur de Solitaire»,
-  tiene **uno de los nueve sitios documentados de Namibia** ✅ y linda con la C19 que bajáis ◐:
+  tiene círculos junto a la C19 que bajáis ◐ *(el «uno de los nueve sitios documentados» que ponía
+  aquí con ✅ **no se ha podido sostener en ninguna fuente**: fuera el número, 28/08)*:
   mirad el llano a los lados. Gratis desde la carretera; la excursión la vende Namib Desert Lodge.
 - **Sesriem Canyon, el nombre** ○ — «ses riem» son las **seis correas de cuero de órix** que los
   primeros colonos ataban para bajar un cubo hasta el agua del fondo; el cañón tiene ~1 km y hasta
@@ -192,9 +211,15 @@ Fuentes: [Wikipedia — C14](https://en.wikipedia.org/wiki/C14_road_(Namibia)) �
 
 ### D6 · jue 5 — Walvis Bay: Sandwich Harbour y descanso
 
-- **Moon Landscape + Welwitschia Drive** *(desde Swakopmund, 30 km al norte — la tarde, tras
-  Sandwich Harbour)* ◐ — badlands lunares del valle del Swakop y **ruta autoguiada de 13 paradas**
-  que acaba en una welwitschia de **~1.500 años**, con el oasis de Goanikontes en medio. **Permiso
+- **Moon Landscape + Welwitschia Drive** *(desde Swakopmund, 30 km al norte)* ◐ — badlands lunares
+  del valle del Swakop y **ruta autoguiada de 13 paradas** que acaba en una welwitschia de
+  **~1.500 años**, con el oasis de Goanikontes en medio.
+  🛑 **Pero NO detrás de Sandwich Harbour, y esto se corrigió el 28/08**: el Welwitschia Drive son
+  **160 km de pista y ~4 h** según la propia fuente que se cita aquí, y el tour de Sandwich Harbour
+  no devuelve a Walvis Bay hasta las ~15:00. Con el ocaso a las **19:17** y la oficina del MEFT ya
+  cerrada a la vuelta, **no cabe**: es medio día propio, no un remate de tarde.
+  👉 **La versión que sí cabe** es el **Moon Landscape solo, por la C28** — una hora, los mismos
+  badlands y sin pista de 4×4 —, y la tarde para las ostras, que es para lo que está el D6. **Permiso
   obligatorio en la oficina del MEFT de Swakopmund** *(Bismarck St esq. Sam Nujoma Ave)* — es
   Namib-Naukluft, parque premium: **cuenta N$280 (~€14) por persona + N$60 (~€3) el coche** ◐ y
   confírmalo en la oficina. ⚠️ La oficina cierra el fin de semana según blogs — **hoy es jueves** ✓.
@@ -261,21 +286,29 @@ Fuentes: [namibweb — Skeleton Coast](https://www.namibweb.com/skeleton.htm) �
 
 - **El delta del Uniab y su cascada** *(entre Terrace Bay y Torra Bay: lo cruzáis al salir)* ◐ —
   cinco brazos con pozas orladas de caña, hides sobre las charcas, springbok, órix y hasta hiena
-  parda; y desde el segundo brazo, **un paseo corto (~30 min; la versión larga son 6 km por una
-  garganta estrecha) hasta donde el agua cae sobre roca de colores a una poza junto al mar**. Un
-  hilo de cascada en la Costa de los Esqueletos: eso no lo trae casi nadie a casa. Va con la entrada
+  parda; y desde el segundo brazo, **el sendero de la cascada: ~6 km ida y vuelta por una garganta
+  estrecha** *(corregido el 28/08 — aquí se ofrecía «un paseo corto de ~30 min» que la fuente no
+  dice)*, **hasta donde el agua cae sobre roca de colores a una poza junto al mar**. La versión
+  corta, si no hay tiempo: **el hide del segundo brazo y el mirador de las cinco pozas**, que sí
+  están al lado. Un hilo de cascada en la Costa de los Esqueletos: eso no lo trae casi nadie a
+  casa. Va con la entrada
   del parque; **hoy hay tiempo** *(211 km, sin puerta con hora — solo hay que salir del parque)*.
 - **Las welwitschias de la C39** *(entre Springbokwasser y Bergsig, ~54 km)* ◐ — crecen **junto a
   la carretera**, en los drenajes que bajan al Huab y al Springbokwasser: es el Welwitschia Drive
   sin permiso ni desvío. Parar, mirar, no pisar.
-- **Wondergat** *(D3254, 4 km al norte del cruce con la D2612; pista de 500 m al oeste)* ◐ —
+- **Wondergat** *(D3254, 4 km al norte del cruce con la D2612; **+11 km y ~45 min medidos con
+  OSRM**, no los «500 m de pista» que ponía aquí hasta el 28/08 — el agujero está a 3,3 km de la
+  línea del día)* ◐ —
   dolina en caliza con **37 m de caída** a un sistema de galerías de 830 m; «Heitsieibeb», lugar
   sagrado para los khoikhoi. Sin barandilla ○. Gratis ○.
 - **El Damara Living Museum** *(en la D3254, ~10 km antes de los grabados — en el mapa)* ✅ — el
   primer museo vivo damara del país: herrería, curtido, joyería, danza, juegos y fuego sagrado, con
-  guía. **Tarifa 2026–27 ✅: N$130 (~€6,5) la vida tradicional · N$110 (~€5,5) el paseo botánico ·
-  N$220 (~€11) los dos · N$100 (~€5) la aldea moderna (a petición, a 2 km)**. Horario ❌.
-- **Organ Pipes y Burnt Mountain** *(a pocos km al sur de Twyfelfontein, señalizados)* ◐ —
+  guía. **Tarifa 2026–27 ✅** *(su propio PDF, descargado el 28/08 — hasta esa fecha aquí estaban
+  las cifras de 2024–25 con etiqueta de 2026)*: **N$150 (~€7,5) la vida tradicional (~1 h) · N$120
+  (~€6) el paseo botánico (~45 min) · N$240 (~€12) los dos (~2 h) · N$110 (~€5,5) la aldea moderna
+  (a petición, a 2 km)**; niños 0–2 gratis y 3–12 mitad de precio. Horario ❌.
+- **Organ Pipes y Burnt Mountain** *(al sur de Twyfelfontein, señalizados; a 7 y 8 km de la línea
+  del día, pero las pistas son lentas: **+25 km y +1 h 13 medidos con OSRM** sobre la etapa)* ◐ —
   columnas de dolerita de **~120 millones de años** en una garganta *(mejor luz al amanecer)* y la
   ladera volcánica que vira a púrpuras y negros. **N$250 (~€12,5)/adulto como visita guiada** ◐
   *(NHC vía prensa; los blogs viejos dicen «gratis»)*. Horario ❌.
@@ -388,8 +421,9 @@ Fuentes: [info-namibia — Lake Otjikoto](https://www.info-namibia.com/activitie
   mapa)* ◐ — **29 trozos de hierro meteorítico** *(de 195 a 506 kg)* de los 33 que se recogieron
   cerca de Gibeon en 1911–13, plantados sobre pilares en una fuente de **1975**; monumento nacional
   desde **1950**, y con dos pilares vacíos porque cuatro trozos se los llevaron. En la calle, gratis.
-- **«No Answer», el Telephone Man** *(−22,56397 · 17,07045, ~2 km a pie del Craft Centre)* ◐ — la
-  única figura de los Lone Men con pin público *(arriba)*: el cierre del viaje, con la cámara.
+- **«No Answer», el Telephone Man** *(−22,56397 · 17,07045, Windhoek West — 25–30 min a pie del
+  Craft Centre, o a 235 m de la entrada del D14)* ○ — la única figura de los Lone Men que cae en
+  este viaje, y con una sola fuente detrás *(arriba)*: el cierre del viaje, con la cámara.
 - **La Christuskirche, el Alte Feste y el museo de la Independencia** están juntos a diez minutos
   del Craft Centre, y ya están contados en el `19`.
 

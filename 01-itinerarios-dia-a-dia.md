@@ -749,6 +749,9 @@ flowchart LR
 - Onguma → C38 → Tsumeb → Otjiwarongo → B1 · comida en Otjiwarongo
 - ⛽ **Primer repostaje, Tsumeb: ~105 km** ◐ *(enrutado propio; las secundarias dan 108–110)* — el depósito no se fía a los
   surtidores del parque *(`07`)*
+- 🗿 **Al entrar en la ciudad pasáis a 235 m del «Telephone Man»** ○ *(−22,56397 · 17,07045,
+  Windhoek West)* — el único Lone Man que cae en este viaje. Verlo hoy desde el coche ahorra el
+  paseo de 25 minutos de mañana *(`10`)*
 - 🐾 **Alrededor del camping: ciudad otra vez — la fauna se queda en la Línea Roja** ○
 - 🛏️ **Windhoek, arriba y CON coche** — la entrega ya no es hoy: **decidido (07/08)**, se
   devuelve mañana en el aeropuerto. Última noche de tienda: braai de despedida, o Joe's si el
@@ -783,8 +786,10 @@ flowchart LR
 - 🎁 **~10:00–13:00 · los regalos — decidido (07/08): con coche, sin traslados** — **Namibia Craft
   Centre, 40 Tal St** *(la parada única, [`08`](08-comida-compras-y-regalos.md))*: **sábados
   09:00–16:00** ✅ *([web oficial](https://www.namibiacraftcentre.com/))* — hazlo por la mañana y
-  deja la tarde limpia — y **a ~2 km a pie queda el «Telephone Man» de los Lone Men** ○, el
-  cierre perfecto del viaje *(la guía entera de los Lone Men por la ruta, en `10`)*.
+  deja la tarde limpia — y **a 25–30 min a pie queda el único Lone Man del viaje**, «No Answer», el
+  *Telephone Man* del artista anónimo RENN: **−22,56397 · 17,07045**, en Roentgen Street, Windhoek
+  West ○ ⚠️ *(una sola fuente y sin confirmar que siga en pie; el resto de la obra vive en el
+  Kaokoveld, 300 km al norte — `10`)*
   ⚠️ *Único día con el coche cargado aparcado en ciudad: nada a la vista,
   aparca vigilado (cuidacoches ~N$10 · ~€0,50, `07`)* ○
 - 🍽️💱 **~13:00–16:30 · comida de despedida y última vuelta** — y **gasta los N$**: fuera de
@@ -804,13 +809,10 @@ flowchart LR
   17:20 de antes era la hora tope de las llegadas que recogen, no la del transfer de vuelta)*. Que
   cubran las 18:00 **de un sábado sigue sin confirmar por escrito: es la pieza que más falta por
   cerrar**. Plan B: **devolver a las 16:00** y salir en el último transfer gratis.
-- 🧳 **Facturación** ◐ — mostradores de Discover: **abren 16:45 (4 h antes)
-  y CIERRAN 19:45 (60 min antes)** — **la hora dura del día es esa**. Devolviendo a las 18:00
-  quedan **~1h45 de colchón** hasta que cierre facturación, contando ya el transfer: cabe hasta un
-  pinchazo en la B6 *([ficha de aeropuertos de
-  Discover](https://www.discover-airlines.com/us/en/book/travel-information/airport-info); la
-  página devuelve 403 al descargar — extractos convergentes)*. La franquicia: **1×23 kg por
-  cabeza**, cerrada en [`02`](02-presupuesto.md) §8
+- 🧳 **Facturación** ◐ — mostradores de Discover: **abren 16:45 y CIERRAN 19:45** *(4 h antes y
+  60 min antes)* — **la hora dura del día es esa**. Devolviendo a las 18:00 quedan **~1h45 de
+  colchón**, transfer incluido: cabe hasta un pinchazo en la B6. Franquicia **1×23 kg por
+  cabeza** *(`02` §8)*
 - 🛫 **~20:00 embarque ○ · 20:45 despegue** → escala en Múnich → **Oporto, domingo 15 a las
   12:50** — y el coche propio, del aparcamiento del aeropuerto hasta A Coruña *(decidido 09/08 —
   `02` §8)*
