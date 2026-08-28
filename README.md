@@ -68,8 +68,11 @@ flowchart LR
 
 - ✈️ **Vuelo — EMITIDO el 10/08 por €1.536 (~N$30.720) por persona** ✅ *(cotizado en €1.450 el
   05/08: +€86 entre cotizar y comprar)*. **Con el billete, el e-visa queda desbloqueado.**
-- 🚙 **Coche — RESERVADO con Savanna (12/08): €2.363 en total, 15 días completos, Opción 4 con
-  franquicia cero** ✅ *(el detalle completo, en [`20`](20-reservas.md) §1)*
+- 🚙 **Coche — RESERVADO con Savanna (12/08): €2.363 en total, 15 días completos, con la Opción 4
+  de seguro** ✅ *(el detalle completo, en [`20`](20-reservas.md) §1)*. ⚠️ **Ya no se dice
+  «franquicia cero»** *(28/08)*: la propia web de Savanna excluye de las cuatro opciones el
+  **accidente sin terceros** —volcar en grava— y ahí el cliente responde de **N$165.000 (~€8.900)**,
+  aunque su otra página liste el vuelco como cubierto. **Es la pregunta nº 1 de la entrega.**
 - 🩺 **Seguro IATI Estrella — CONTRATADO, y ya desde el 30/10** ✅ *(dicho por el viajero el 24/08,
   con el código de Chavetas)*. Era lo más urgente del cuaderno y deja de serlo. ⚠️ **El importe
   real pagado, ❌ sin recuperar todavía**: el presupuesto sigue contando la cotización de
@@ -159,7 +162,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 162 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 163 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -222,7 +225,10 @@ viaje**: está medido y documentado en el historial de git por si algún día vu
 **Savanna, grupo GSXA-1 Camping — Ford Ranger 2.2 o 2.0 D/Cab automático — RESERVADO el
 12/08/2026: €2.363 en total, 15 días completos, con transfer aeropuerto ↔ oficina.**
 
-- 🛡️ **Opción 4 de seguro**: franquicia cero, con neumáticos, lunas y bajos incluidos.
+- 🛡️ **Opción 4 de seguro**: lunas *(laterales y parabrisas)*, **dos** neumáticos *(no las
+  llantas)*, sandblast y bajos. ⚠️ **No es franquicia cero**: el accidente sin terceros —el vuelco—
+  queda fuera según su página de seguro, y son **N$165.000 (~€8.900)**; su página de condiciones dice
+  lo contrario. **Que lo pongan por escrito en la entrega** *(`20` §1)*.
 - ⛽ **Depósito de 140 l** — doble depósito, 80 + 60 l.
 - 🏕️ **Kit de camping**: una tienda de techo, nevera con batería propia, mesa, sillas, cocina de
   gas y menaje completo.
@@ -713,8 +719,13 @@ la trampa de la URL larga que encoge el PDF entero sin avisar—.
 
 <div align="center">
 
-**Tipo de cambio: ~N$20 = €1** *(rango N$19,5–20,5, a 17·07·2026)*
-El NAD va ligado al rand: **el importe en N$ es el que se paga**, el euro es orientativo.
+**Tipo de cambio de bolsillo: ~N$20 = €1** ⚠️ *(y es de bolsillo, no real: el cambio de 2026 no ha
+tocado esa banda **ni un solo día** — el BCE da **18,62 el 27·08**, 18,88 el 17·07 y entre 18,5 y
+19,4 todo el año. Comprobado el 28/08)*.
+El NAD va ligado al rand: **el importe en N$ es el que se paga**, el euro es orientativo — y al
+convertir a 20 **se queda ~7 % corto**: la parte del presupuesto denominada en N$ son
+**~€93 más por persona (~€186 la pareja)** de los que dicen estas páginas, dentro del rango honesto
+de €3.940–4.240 pero siempre hacia arriba. **Lleva N$, no euros mentales.**
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 

@@ -4,7 +4,7 @@
 >
 > Lo que cuesta el viaje, partida a partida, con el porcentaje que ya está cerrado y el que sigue siendo estimación.
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · precio del
@@ -97,7 +97,22 @@ flowchart LR
 - 🚙 **€2.363 en total — ~€1.181,50 por persona** ✅ *(precio cerrado, no estimado)*.
 - ⛽ **Depósito de 140 L** ✅ — y doble depósito (80+60 l) ◐ *(la web de Savanna solo dice «140L»; el reparto sale de su oferta)*; el detalle de cómo se lee el
   indicador, en `20` §1.
-- 🛡️ **Seguro Opción 4**: **franquicia CERO**, con neumáticos, lunas y bajos incluidos ✅.
+- 🛡️ **Seguro Opción 4 — y aquí hay que leer despacio, porque «franquicia cero» no es lo que dice
+  Savanna** ⚠️ *(destapado el 28/08)*. Su página de seguro define la Opción 4 como
+  *«Collision with a moving object only — animal, person or another vehicle»* ✅ y añade, en
+  mayúsculas: *«**IMPORTANT**: an accident without involvement of other parties (single vehicle
+  accidents), is not covered with Reduced Excess 1 and 2, 3 and 4. Also not when you tried to avoid
+  hitting an animal crossing the road»* ✅ — y un accidente sin terceros es, con sus palabras,
+  *«losing the control over the car and rolling the car»*: **el vuelco en grava, que es el accidente
+  namibio por excelencia**. En ese caso *«the Client will be liable for **N$165.000** and all
+  recovery cost»* — **~€8.900**.
+  ⚠️ **Y sus dos páginas se contradicen**: la de condiciones lista dentro de la Opción 4
+  *«Vehicle Overturning/Role over»* y *«Undercarriage damages»*, y la de seguro excluye todo
+  accidente sin terceros. **No se sabe cuál manda, y es la diferencia entre 0 y ~€8.900.**
+  👉 **Pregunta nº 1 de la entrega, por escrito** *(`20` §1 y §9)*. Lo que sí está claro: cubre
+  **lunas** *(solo laterales y parabrisas)*, **dos neumáticos — no las llantas**, **sandblast** y
+  **bajos**; y **cualquier exceso de velocidad la anula entera** *(caja negra: 120 asfalto, 80 grava,
+  60 parque y ciudad)*.
 - 🛰️📦 **Extras: teléfono satelital y 2 sacos de dormir con almohada** ✅ — pagados y ya dentro
   del precio total; no hay que gastar nada aparte en satelital.
 - ✈️ **Transfer aeropuerto ↔ oficina de Windhoek**, no entrega en el aeropuerto — gratuito por
@@ -267,7 +282,10 @@ flowchart LR
 
 ## 5. Tasas de parque — N$620/día para pareja + coche ◐
 
-**N$280 (~€14)/adulto extranjero/día** (N$140 entrada + N$140 conservación) **+ N$60 (~€3)/vehículo**,
+**N$280 (~€14)/adulto extranjero/día + N$60 (~€3)/vehículo** ❌ *(el reparto interno entre entrada y
+conservación no se ha podido leer en la gaceta: el 28/08 se retiró un «N$140 + N$140» que no dice
+ninguna fuente — la única tabla primaria abierta, la de 2021, repartía 2:1. El total sí está
+respaldado)*,
 cobrado **por parque y por cada 24 h desde la entrada** (ver `12` §7 y `15`). Dos adultos + coche =
 **N$620 (~€31)/día de parque**. Baremo del MEFT publicado en el **Government Gazette Nº 8877 ·
 Government Notice Nº 115** (firmado por la ministra el 26/03/2026, en vigor desde el **1/04/2026**),
@@ -377,11 +395,16 @@ móvil**. Es exactamente el escenario para el que existe esa garantía.
 > contrató el **Estrella**, donde la garantía **no entra sola** — **hay que comprobar en la póliza
 > que se añadió** *(`20` §3)*.
 
-### 🔁 La franquicia de coche de alquiler te sobra
+### 🔁 La franquicia de coche de alquiler **NO te sobra** *(corregido el 28/08)*
 
-El Estrella cubre **1.000 € de franquicia del coche**. El coche va con **franquicia CERO** ✅ —su
-Opción 4 la anula, y de paso cubre neumáticos, lunas y bajos— así que no hay franquicia que
-cubrir. Es una garantía casi redundante en tu caso — no la cuentes como valor.
+Esto decía lo contrario hasta el 28/08, y era el consejo equivocado. El Estrella cubre **1.000 € de
+franquicia del coche**, y la Opción 4 de Savanna **no deja la franquicia en cero en el accidente más
+probable de Namibia**: su propia página excluye de las cuatro opciones el *«single vehicle
+accident»* —perder el control y volcar— y ahí el cliente responde de **N$165.000 (~€8.900)**
+*(§2)*. Los €1.000 del Estrella no tapan eso ni de lejos, pero **dejan de ser redundantes**: son
+los únicos mil euros de colchón que hay. **Cuéntalos como valor, no como duplicado** — y si en la
+entrega Savanna confirma por escrito que el vuelco SÍ entra en la Opción 4, entonces sí vuelve a
+sobrar.
 
 ### ❓ La pregunta que decide: ¿evacuación aérea DENTRO del país?
 
@@ -763,6 +786,22 @@ flowchart LR
 >    si su vehículo aguanta más plazas y equipaje, o cambiar de grupo — **sin verificar** ❌.
 
 ---
+
+### 💱 Y un sesgo que no es riesgo, es un hecho: el euro de este dossier va ~7 % corto *(28/08)*
+
+Todo el dossier convierte a **N$20 = €1**, que es la cuenta de bolsillo con la que se anda por
+Namibia. **El cambio real no ha tocado esa cifra en todo 2026**: el BCE da **18,62 el 27 de agosto**
+y **18,88 el 17 de julio** —la fecha que el propio README estampaba en su «rango 19,5–20,5»—, con
+una banda de **18,5–19,4** en el año entero. Convertir a 20 **abarata** en euros cada precio namibio.
+
+**Cuánto.** La parte del presupuesto denominada en N$ *(alojamiento, combustible, comida, tasas,
+actividades, misceláneos y visado — unos N$25.000 por persona)* sale a **~€1.344 y no a €1.251**:
+**+€93 por persona, +€186 la pareja**. El total honesto se va a **~€4.175 pp · ~€8.350 la pareja**,
+que **sigue dentro del rango declarado de €3.940–4.240** — pero siempre por arriba.
+
+**No se reconvierten las cifras una a una** *(son cientos, y lo que se paga es el N$)*: queda dicho
+aquí, en la cabecera de los 21 documentos y en el README — **el euro de este dossier es orientativo
+y corto; con la tarjeta en la mano manda el N$**.
 
 ## 11. Qué parte de este número es sólida
 

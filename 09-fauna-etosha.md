@@ -7,7 +7,7 @@
 > ficha — fuera oricteropo, suricata y cebra de Hartmann. Una excepción consciente desde el
 > 15/08: el gato de patas negras, ver abajo.)*
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 03/08/2026 · posibilidades de avistamiento y consejos de safari

@@ -6,7 +6,7 @@
 >
 > **La lista para tachar, ítem a ítem, está aparte: [`17`](17-lista-de-equipaje.md).** Aquí está el porqué; allí, el qué.
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 02/08/2026 · podado el 06/08/2026 al separar la lista en `17` ·

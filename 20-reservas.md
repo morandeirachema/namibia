@@ -6,7 +6,7 @@
 > y de dónde sale cada dato. **El estado vivo —qué está ya cerrado— se lleva en el
 > [README](README.md); los plazos de calendario, en `04`; el dinero, en `02`.**
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Levantado el 09/08/2026. Al 24/08, el **vuelo está EMITIDO (€1.536 p.p.)**, el **coche
@@ -125,11 +125,26 @@ fuentes, y coinciden entre sí ◐:
   cuadrar exactamente con los €2.363 pagados** ❌: la diferencia puede ser el tipo de cambio real
   de la tarjeta, cargos no listados en la tarifa genérica o el uso efectivo del satelital. No se
   fuerza el cuadre: el precio que manda es el pagado, €2.363.
-- **Seguro: Opción 4 — franquicia CERO, con neumáticos, lunas Y bajos** ✅ *(«Option 4 Includes
-  Insurance for Tyre and Windscreen as well as Undercarriage»)* — no solo tapa pinchazos y
-  parabrisas, también los **bajos**, el riesgo real de la grava de Damaraland. Precio: N$450/día
-  (~€22,50) sobre una franquicia estándar de N$35.000 (~€1.750) sin la opción. Retenida en tarjeta
+- 🛑 **Seguro: Opción 4 — y NO es franquicia cero. Es la pregunta nº 1 de la entrega** ⚠️
+  *(corregido el 28/08; hasta esa fecha este cuaderno decía «franquicia CERO ✅»)*. Cubre
+  **lunas** *(«limited to ONLY side windows and/or windscreen»)*, **dos neumáticos — «NOT RIMS»**,
+  **sandblast**, **vuelco** y **bajos** ✅, y cuesta N$450/día (~€22,50) sobre la franquicia
+  estándar de N$35.000 (~€1.750). **Pero sus dos páginas dicen cosas distintas:**
+  - `rental-conditions` define la Opción 4 como *«Collision with a moving object only — animal,
+    person or another vehicle»* y aun así lista *«Vehicle Overturning/Role over»* y
+    *«Undercarriage damages»* dentro.
+  - `reduced-excess-insurance` dice en mayúsculas: *«**IMPORTANT**: an accident without involvement
+    of other parties (single vehicle accidents), is not covered with Reduced Excess 1 and 2, 3 and
+    4. Also not when you tried to avoid hitting an animal crossing the road»*, y define ese
+    accidente como *«losing the control over the car and rolling the car»*, con
+    *«the Client will be liable for **N$165.000** and all recovery cost»* — **~€8.900**.
+  👉 **Que te pongan por escrito, con el contrato delante: si vuelco solo en grava, sin tocar a
+  nadie, ¿cuánto pago?** Es la diferencia entre 0 y ~€8.900, y es el accidente más probable del
+  viaje *(`06` §1: uno de cada cinco siniestros de Hardap es un vuelco)*. Retenida en tarjeta
   Visa/Mastercard.
+  ⚠️ **Y lo que sí es inequívoco en las dos páginas**: *«If you exceed this speed limit all
+  insurances and Reduced Excesses lapse and become invalid»*, con caja negra — **120 asfalto, 80
+  grava, 60 parque y dentro de ciudad**.
 - **Extras: teléfono satelital y 2 sacos de dormir con almohada — pagados y reservados, no
   gratis** ✅: son extras de pago añadidos a la reserva —N$160/día (~€8) el satelital, N$30/día
   (~€1,50) cada saco— y ya están dentro de los €2.363. No hace falta comprar ni alquilar nada aparte: ya está
@@ -540,8 +555,11 @@ Para no gastar llamadas en lo que se cierra allí:
 ## 9 · ✅ La lista para tachar
 
 - [x] **Reservar el 4×4** — Savanna, 12/08, €2.363 en total *(§1)*
-- [ ] **En la entrega, pedir por escrito**: zona sunrise/sunset como zona cubierta de la Opción 4,
-  teléfono de emergencias 24h, con cuánto tanque lo entregan, coste del conductor adicional *(§1)*
+- [ ] 🛑 **En la entrega, la pregunta nº 1 por escrito: si vuelco solo en grava, sin terceros,
+  ¿cuánto pago?** Sus dos páginas se contradicen y la diferencia es **N$165.000 (~€8.900)** *(§1)*
+- [ ] **Y en la misma hoja**: zona sunrise/sunset como zona cubierta de la Opción 4,
+  teléfono de emergencias 24h, con cuánto tanque lo entregan, y que Miguel figure como conductor
+  adicional *(**N$30/día · ~€1,50**, publicado en su web — ~N$450 el viaje; ya no es una incógnita)*
 - [ ] **Cita del CVI pedida** *(§6 — agosto)*
 - [x] **Seguro contratado desde el 30/10** — IATI **Estrella**, con el código de Chavetas, 24/08 *(§3)*
 - [ ] **Del seguro, recuperar el importe real pagado** ❌ — hoy `02` va con la cotización *(§3)*

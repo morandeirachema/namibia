@@ -5,7 +5,7 @@
 > Las tarifas oficiales de NWR 2026/2027, leídas del PDF: campings, chalets, actividades y tasas
 > de parque — **más la de Onguma**, que desde el 24/08 son las dos últimas noches de Etosha.
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 08/08/2026 · **añadida el

@@ -6,7 +6,7 @@
 > es, qué va a pasar, qué hacer y qué no, cuándo salir corriendo al hospital y a quién llamar.
 > Catorce noches en tienda, trece de ellas en el suelo de un escorpión.
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigado el 15/08/2026 con la revisión clínica de referencia del sur de África —Müller,

@@ -7,7 +7,7 @@
 > campamentos del parque —Okaukuejo y Halali—; las otras dos, desde el 24/08, se duermen en
 > **Onguma Tamboti**, ya fuera de la puerta.
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigado el 14/08/2026 — fichas oficiales de NWR, guías de Etosha y reseñas de viajeros

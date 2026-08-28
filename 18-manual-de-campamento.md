@@ -5,7 +5,7 @@
 > Vivir del coche catorce noches: la rutina que ordena el día, la tienda de techo, el fuego,
 > la nevera y los vecinos del campamento.
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Escrito el 07/08/2026. Aquí hay más ○ que en ningún otro documento, a propósito: el oficio de

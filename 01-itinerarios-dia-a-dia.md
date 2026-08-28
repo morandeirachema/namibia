@@ -4,7 +4,7 @@
 >
 > La ruta desarrollada día por día: qué se conduce, a qué hora sale y se pone el sol, qué temperatura hace donde se duerme y qué cuesta cada noche.
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 — los km por
@@ -817,7 +817,9 @@ flowchart LR
 
 ### 💰 Coste real *(31 oct – 14 nov · el detalle completo, en `02-presupuesto.md`)*
 - **Alquiler — RESERVADO, 15 días completos, con transfer aeropuerto ↔ oficina (31 oct 11:00 – 14
-  nov 18:00)**: **Savanna, €2.363 en total** ✅, con Opción 4 (franquicia cero) y km ilimitados
+  nov 18:00)**: **Savanna, €2.363 en total** ✅, con Opción 4 *(lunas, dos neumáticos, sandblast y
+  bajos; **no** franquicia cero — el vuelco sin terceros está en disputa entre sus dos páginas,
+  `20` §1)* y km ilimitados
   *(`20` §1; Asco, descartada: €2.652 en su banda alta)*
 - **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 =
   **N$4.520 (~€226)** ✅ — **dos de las cuatro noches de Etosha, dentro del parque**
