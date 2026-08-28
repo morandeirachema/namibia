@@ -3,12 +3,13 @@
 #   make            los cuatro PDF, con lo que ya haya descargado
 #   make imagenes   descarga las fotos del catalogo (Wikimedia Commons) a img/
 #   make geo        descarga y cachea la geometria de los mapas a fuente/geo/
-#   make avistam    recuentos de GBIF y porcentajes por campamento a fuente/geo/
+#   make avistam    recuentos de GBIF y porcentajes por campamento
+#   make pais       reparto por regiones: donde vive cada bicho en Namibia a fuente/geo/
 #   make charcas    reescribe aparte/charcas-de-los-campamentos-de-etosha.md
 #   make mapas      exporta los mapas a img/mapas/ (SVG y PNG; el de la ruta va en el README)
 #   make mymaps     reescribe los CSV y el KML de aparte/ para Google My Maps
 #   make dossier    solo dossier-namibia-2026.pdf
-#   make fauna      solo guia-fauna-etosha.pdf
+#   make fauna      solo guia-fauna-namibia.pdf
 #   make lamina     mapa-ruta-namibia-2026.pdf, la lamina A2 para imprimir
 #   make agenda     agenda-namibia-2026.pdf, el dia a dia del `01` y nada mas, dos A4 por dia
 #   make gps        el GPX y el KML de la ruta, para el GPS y el movil
@@ -28,11 +29,11 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps limpia comprueba
+.PHONY: all todo imagenes geo avistam pais mapas charcas mymaps dossier fauna lamina agenda gps limpia comprueba
 
 all: dossier fauna lamina agenda gps
 
-todo: imagenes geo avistam mapas mymaps charcas dossier fauna lamina agenda gps
+todo: imagenes geo avistam pais mapas mymaps charcas dossier fauna lamina agenda gps
 
 imagenes:
 	$(PY) descargar.py
@@ -42,6 +43,11 @@ geo:
 
 avistam: | $(GEO)/ruta.json
 	$(PY) avistamientos.py
+
+# El reparto por regiones de la guia de fauna. Reusa los taxones ya resueltos por
+# avistamientos.py, asi que va detras de el.
+pais: | $(GEO)/avistamientos.json
+	$(PY) pais.py
 
 mapas: | $(GEO)/ruta.json
 	$(PY) mapa.py
@@ -53,7 +59,7 @@ charcas: | $(GEO)/avistamientos.json
 dossier: | $(IMG)/creditos.json $(GEO)/ruta.json
 	$(PY) dossier.py
 
-fauna: | $(IMG)/creditos.json $(GEO)/avistamientos.json
+fauna: | $(IMG)/creditos.json $(GEO)/avistamientos.json $(GEO)/fauna-pais.json
 	$(PY) guia_fauna.py
 
 # La lamina solo necesita la geometria: ni fotos ni avistamientos.

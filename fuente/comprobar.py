@@ -738,6 +738,66 @@ def sin_sesgo(d):
     return False
 
 
+def revisa_pais():
+    """El reparto por regiones que sostiene la linea «En Namibia» de cada ficha.
+
+    Tres cosas, y la tercera es la que de verdad importa: que **ninguna ficha de la
+    parte 2 tenga presencia de verdad en la ruta**. La parte 2 se titula «lo que este
+    viaje no pisa», y si GBIF empieza a registrar una de esas especies dentro de las
+    zonas del viaje, el titulo miente y la ficha tiene que cambiarse de sitio. Ya paso
+    el 29/08 con la grulla carunculada: entro como fauna del Zambeze y tenia 18
+    registros de octubre-noviembre dentro de Etosha.
+    """
+    import avistamientos
+    ruta = os.path.join(HERE, "geo", "fauna-pais.json")
+    if not os.path.exists(ruta):
+        return mal("no existe geo/fauna-pais.json — ejecuta `python3 fuente/pais.py`")
+    d = json.load(open(ruta))
+    esperadas = {e[0] for _, _, l in catalogo.GRUPOS_FAUNA for e in l}
+    faltan = esperadas - set(d.get("especies", {}))
+    sobran = set(d.get("especies", {})) - esperadas
+    if faltan:
+        mal(f"{len(faltan)} especies sin reparto por regiones: {sorted(faltan)[:4]}…")
+    if sobran:
+        mal(f"{len(sobran)} repartos de especies que ya no estan en el catalogo: {sorted(sobran)}")
+
+    regiones = d.get("regiones") or {}
+    if len(regiones) != 13:
+        mal(f"el reparto tiene {len(regiones)} regiones y Namibia tiene 13 en GADM")
+    sin_geo = [r for r in regiones if r not in
+               {x["gadm"] for x in json.load(open(os.path.join(HERE, "geo", "regiones.json")))["regiones"]}]
+    if sin_geo:
+        mal(f"regiones con recuento y sin limite que dibujar: {sin_geo}")
+    for nombre in ("regiones.svg", "regiones.png"):
+        if not os.path.exists(os.path.join(RAIZ, "img", "mapas", nombre)):
+            mal(f"falta img/mapas/{nombre}: la guia de fauna se queda sin el mapa de regiones")
+
+    # Lo importante: la parte 2 tiene que seguir siendo la parte 2.
+    try:
+        import guia_fauna
+        fuera = set(guia_fauna.FUERA_DE_LA_RUTA)
+    except Exception as e:                                        # noqa: BLE001
+        return mal(f"no se puede leer que grupos son de fuera de la ruta: {e}")
+    intrusos = []
+    for clave, _n, lista in catalogo.GRUPOS_FAUNA:
+        if clave not in fuera:
+            continue
+        for slug, es, *_ in lista:
+            sp = avistamientos.datos().get("especies", {}).get(slug, {})
+            mejor = max((z.get("oct_nov", 0) for z in sp.get("zonas", {}).values()),
+                        default=0)
+            if mejor >= avistamientos.MINIMO_ESPECIE:
+                intrusos.append(f"{es} ({mejor} registros de oct-nov en la ruta)")
+    if intrusos:
+        mal("hay fichas en «el resto de Namibia» que SI se registran en la ruta — "
+            f"cambialas de seccion: {', '.join(intrusos)}")
+
+    if not (faltan or sobran or sin_geo or intrusos):
+        n_fuera = sum(len(l) for c, _n, l in catalogo.GRUPOS_FAUNA if c in fuera)
+        bien(f"el pais: {len(esperadas)} especies repartidas en {len(regiones)} regiones, "
+             f"y las {n_fuera} de fuera de la ruta siguen fuera")
+
+
 def revisa_pdf(nombre, minimo):
     ruta = os.path.join(RAIZ, nombre)
     if not os.path.exists(ruta):
@@ -873,7 +933,7 @@ def revisa_paginas_readme():
     """El README anuncia cuantas paginas tiene cada PDF: que no se quede desfasado."""
     import re
     texto = open(os.path.join(RAIZ, "README.md")).read()
-    for nombre in ("dossier-namibia-2026.pdf", "guia-fauna-etosha.pdf",
+    for nombre in ("dossier-namibia-2026.pdf", "guia-fauna-namibia.pdf",
                    "mapa-ruta-namibia-2026.pdf", "agenda-namibia-2026.pdf"):
         ruta = os.path.join(RAIZ, nombre)
         if not os.path.exists(ruta):
@@ -967,8 +1027,9 @@ def main():
     revisa_sol_y_luna()
     revisa_gps()
     revisa_avistamientos()
+    revisa_pais()
     revisa_pdf("dossier-namibia-2026.pdf", 40)
-    revisa_pdf("guia-fauna-etosha.pdf", 8)
+    revisa_pdf("guia-fauna-namibia.pdf", 8)
     revisa_lamina()
     revisa_agenda()
     revisa_escala("dossier-namibia-2026.pdf")

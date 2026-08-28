@@ -36,6 +36,10 @@ C = {
     "parque":    "#E3E7DA",
     "parqueb":   "#9CAA83",
     "oxido":     "#C2542F",
+    # Tinte calido para las regiones que pisa la ruta en el mapa de la guia de fauna:
+    # es el oxido de la ruta rebajado, para que se lean como «lo de este viaje» sin
+    # competir con la linea del trazado, que va encima.
+    "region":    "#EFDACD",
     "verde":     "#5F7043",
     "oro":       "#8A6210",
     "rojo":      "#A32E28",
@@ -1284,6 +1288,147 @@ def mapa_etosha(ancho=1000):
 # Exportar a fichero, para el README y para GitHub
 # ---------------------------------------------------------------------------
 
+# ---------------------------------------------------------------------------
+# Mapa de las regiones · para la guia de fauna: donde vive cada bicho
+# ---------------------------------------------------------------------------
+
+# Las cuatro regiones de Owambo y las dos del Kavango son franjas estrechas y pegadas:
+# escribirles el nombre encima las tapa y los rotulos se pisan entre si. Por eso el mapa
+# lleva un DISCO NUMERADO en cada una y la lista va aparte, en el hueco de Botsuana, que
+# es espacio que el encuadre tiene que reservar igualmente para que quepa la Franja de
+# Caprivi. Un par de discos se apartan a mano de su centroide, que cae en un rio.
+DISCO_REGION = {"NAM.7_1": (-17.55, 16.30), "NAM.10_1": (-17.85, 15.55),
+                "NAM.4_1": (-18.35, 20.10)}
+
+
+def _centroide(anillo):
+    """Centroide de area de un anillo (lat, lon). El de la media de vertices se va al
+    lado donde la frontera tiene mas puntos, que en Namibia es siempre el rio."""
+    a = cx = cy = 0.0
+    for i in range(len(anillo) - 1):
+        y0, x0 = anillo[i]
+        y1, x1 = anillo[i + 1]
+        f = x0 * y1 - x1 * y0
+        a += f
+        cx += (x0 + x1) * f
+        cy += (y0 + y1) * f
+    if abs(a) < 1e-12:
+        return anillo[0]
+    a *= .5
+    return (cy / (6 * a), cx / (6 * a))
+
+
+def _fichas_por_region():
+    """Cuantas fichas de la guia tienen su GRUESO de registros en cada region.
+
+    No es «cuantas especies viven ahi» —casi todas viven en varias— sino donde esta el
+    grueso de cada una, que es lo que contesta la pregunta util: si quiero ver esto,
+    ¿donde tengo que estar?"""
+    import catalogo
+    import pais
+    cuenta = {}
+    for _c, _n, lista in catalogo.GRUPOS_FAUNA:
+        for slug, *_ in lista:
+            d = pais.donde(slug)
+            if d and d[1]:
+                cuenta[d[1]] = cuenta.get(d[1], 0) + 1
+    return cuenta
+
+
+# Las regiones que la ruta pisa, por su gid de GADM: Khomas (Windhoek), Hardap
+# (Sossusvlei), Erongo (la costa), Kunene (Damaraland y el oeste de Etosha), Oshana y
+# Oshikoto (el centro y el este del parque) y Otjozondjupa (la vuelta por Otjiwarongo).
+REGIONES_DE_LA_RUTA = {"NAM.5_1", "NAM.3_1", "NAM.2_1", "NAM.6_1",
+                       "NAM.10_1", "NAM.11_1", "NAM.12_1"}
+
+
+def mapa_regiones(ancho=1180):
+    """Namibia por regiones, con la ruta encima y el recuento de fichas de cada una.
+
+    Es el mapa que hace legible la linea «En Namibia» de cada ficha: sin el, decir que
+    el hipopotamo esta en Kavango y el pinguino en ǁKaras no situa nada. Las regiones
+    que la ruta pisa van en color y las demas en gris: de un vistazo se ve que el norte
+    mojado —donde vive toda la parte 2 de la guia— se queda entero fuera del viaje.
+    """
+    import pais
+    L = Lienzo(sur=-29.10, oeste=11.62, norte=-16.85, este=25.45, ancho=ancho, margen=0)
+    cuenta = _fichas_por_region()
+    orden = {gid: i + 1 for i, (gid, _n, _a) in enumerate(pais.REGIONES)}
+
+    cuerpo = [capa_paises(L, resaltar=None)]
+    centros = {}
+    for r in carga("regiones.json")["regiones"]:
+        gid = r["gadm"]
+        aros = [[tuple(p) for p in a] for a in r["anillos"]]
+        d = "".join(L.d(a, cerrar=True) for a in aros if len(a) > 3)
+        if not d:
+            continue
+        dentro = gid in REGIONES_DE_LA_RUTA
+        cuerpo.append(f'<path d="{d}" fill="{C["region"] if dentro else C["vecino"]}" '
+                      f'stroke="{C["tinta3"]}" stroke-width="{1.4 if dentro else .8}" '
+                      f'fill-rule="evenodd" stroke-linejoin="round"/>')
+        grande = max(aros, key=len)
+        # Kavango son dos poligonos con un solo gid: se queda el mas grande de los dos.
+        if gid not in centros or len(grande) > centros[gid][1]:
+            centros[gid] = (_centroide(grande), len(grande), dentro)
+
+    cuerpo.append(capa_parques(L, ["Namib-Naukluft", "Skeleton Coast", "Dorob", "Etosha"]))
+    cuerpo.append(capa_pan(L))
+    cuerpo.append(capa_ruta(L, ancho=3.0))
+
+    for gid, (cen, _n, dentro) in centros.items():
+        lat, lon = DISCO_REGION.get(gid, cen)
+        x, y = L.xy(lat, lon)
+        col = C["oxido"] if dentro else C["tinta3"]
+        cuerpo.append(
+            f'<circle cx="{x:.0f}" cy="{y:.0f}" r="11" fill="{col}" stroke="{C["papel"]}" '
+            f'stroke-width="2"/>'
+            f'<text x="{x:.0f}" y="{y + 4:.0f}" font-size="12" font-weight="800" '
+            f'fill="{C["papel"]}" text-anchor="middle">{orden[gid]}</text>')
+
+    for nom, lat, lon in [("ANGOLA", -17.05, 14.2), ("BOTSUANA", -20.6, 23.6),
+                          ("SUDÁFRICA", -28.75, 20.4), ("ZAMBIA", -17.05, 24.6)]:
+        x, y = L.xy(lat, lon)
+        cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="11" fill="{C["tinta3"]}" '
+                      f'letter-spacing="2.2" font-weight="600" opacity=".75" '
+                      f'text-anchor="middle">{nom}</text>')
+
+    cuerpo.append(escala(L, 44, L.alto - 44, 200))
+    cuerpo.append(norte(L.ancho - 48, 54))
+
+    # ---- la lista, en el hueco de Botsuana ----
+    lx = L.xy(-21.6, 20.9)[0]
+    ly = 205                       # por debajo de la Franja de Caprivi, que llega arriba
+    alto_caja = 46 + 20 * len(pais.REGIONES)
+    ln = [f'<rect x="{lx - 14}" y="{ly - 30}" width="332" height="{alto_caja}" rx="7" '
+          f'fill="{C["papel"]}" opacity=".95" stroke="{C["borde"]}" stroke-width=".9"/>',
+          f'<text x="{lx}" y="{ly - 12}" font-size="13" font-weight="800" '
+          f'fill="{C["tinta"]}">Las trece regiones, y cuántas fichas</text>',
+          f'<text x="{lx}" y="{ly + 2}" font-size="9.6" fill="{C["tinta3"]}">'
+          f'tienen aquí su grueso de registros de GBIF</text>']
+    for i, (gid, nombre, apodo) in enumerate(pais.REGIONES):
+        y0 = ly + 24 + i * 20
+        dentro = gid in REGIONES_DE_LA_RUTA
+        col = C["oxido"] if dentro else C["tinta3"]
+        ln.append(
+            f'<circle cx="{lx + 7}" cy="{y0 - 4}" r="7.5" fill="{col}"/>'
+            f'<text x="{lx + 7}" y="{y0 - 1}" font-size="9" font-weight="800" '
+            f'fill="{C["papel"]}" text-anchor="middle">{i + 1}</text>'
+            f'<text x="{lx + 20}" y="{y0}" font-size="10.5" '
+            f'font-weight="{700 if dentro else 400}" fill="{C["tinta"]}">'
+            f'{esc(nombre)}</text>'
+            f'<text x="{lx + 20 + 7.2 * len(nombre)}" y="{y0}" font-size="9.4" '
+            f'fill="{C["tinta3"]}"> · {esc(apodo)}</text>'
+            f'<text x="{lx + 300}" y="{y0}" font-size="10.5" font-weight="700" '
+            f'fill="{col}" text-anchor="end">{cuenta.get(gid, 0)}</text>')
+    y0 = ly + 30 + 20 * len(pais.REGIONES)
+    ln.append(f'<text x="{lx}" y="{y0}" font-size="9.6" fill="{C["tinta3"]}">'
+              f'En NARANJA, las siete regiones que pisa la ruta.</text>')
+    cuerpo.append("".join(ln))
+
+    return envoltorio(L.ancho, L.alto, "".join(cuerpo))
+
+
 def exporta(destino=None):
     """Escribe los mapas en img/mapas/ como SVG y como PNG.
 
@@ -1298,7 +1443,8 @@ def exporta(destino=None):
     os.makedirs(destino, exist_ok=True)
     hechos = []
     for nombre, fn, ancho in (("ruta", mapa_ruta, 1100), ("etosha", mapa_etosha, 1500),
-                              ("ruta-alternativa", mapa_ruta_alt, 1100)):
+                              ("ruta-alternativa", mapa_ruta_alt, 1100),
+                              ("regiones", mapa_regiones, 1180)):
         svg = fn(ancho)
         ruta_svg = os.path.join(destino, nombre + ".svg")
         with open(ruta_svg, "w") as f:

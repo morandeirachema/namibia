@@ -6,7 +6,7 @@ directamente cuando fue posible — nunca de memoria.*
 
 **Alcance**: esto es Etosha como lugar — cómo se formó, qué clima tiene, quién vivió allí antes del
 parque y qué le pasó, cómo se gestiona hoy. **No es sobre qué fauna se ve ni dónde**: eso ya está
-en [`09-fauna-etosha.md`](../09-fauna-etosha.md) y en `guia-fauna-etosha.pdf`, con su propio método y
+en [`09-fauna-namibia.md`](../09-fauna-namibia.md) y en `guia-fauna-namibia.pdf`, con su propio método y
 sus propias fuentes.
 
 Confianza: ✅ fuente primaria (paper académico leído completo, base de datos oficial, comunicado
