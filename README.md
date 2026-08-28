@@ -272,7 +272,7 @@ entrega— está en [`20-reservas`](20-reservas.md) §1.
   en **Onguma Tamboti** (**N$1.240 ≈ €62/noche** ✅), el camping de una **reserva privada de 35.970 ha**
   con leopardo, guepardo y rinoceronte confirmados por escrito, **baño propio en la parcela** y
   salida al atardecer con foco y campo a través que el parque no permite. Y en seco: el parque
-  estuvo así en **4 de las últimas 5 temporadas** — la fauna concentrada en las charcas. ✅
+  estuvo así en **las 5 últimas temporadas** — la fauna concentrada en las charcas. ✅
 - 🦭 **Cape Cross**: decenas de miles de lobos marinos *(pañuelo para la nariz — en serio)*. ✅
 - 🌊 **Dormir en la Costa de los Esqueletos.** Noche en **Terrace Bay**, dentro del parque, con la
   niebla y el Atlántico rugiendo. Pocos lo hacen: exige reserva y entrar antes de las 15:00. ✅
@@ -301,7 +301,7 @@ entrega— está en [`20-reservas`](20-reservas.md) §1.
 
 ```mermaid
 flowchart LR
-    A["Tu ventana<br/>31 oct - 14 nov"] --> B["LLUVIA<br/>la quincena mas seca del rango:<br/>en 4 de 5 temporadas<br/>no habia empezado"]
+    A["Tu ventana<br/>31 oct - 14 nov"] --> B["LLUVIA<br/>la quincena mas seca del rango:<br/>en las 5 ultimas temporadas<br/>no habia empezado"]
     A --> C["CALOR<br/>Etosha ~37-38 C: fuerte<br/>desierto y costa: suaves"]
     A --> D["PRECIO<br/>NWR barato desde el 1 nov<br/>coche ya reservado y cerrado"]
     B --> E["Ventana excelente<br/>para fauna y dunas"]
@@ -310,16 +310,26 @@ flowchart LR
     style E fill:#2d6a4f,color:#fff
 ```
 
-- 🌧️ **Lluvia: la mejor noticia.** En las últimas 5 temporadas, el inicio real de las lluvias en
-  Etosha cayó en **enero tres veces, diciembre una y noviembre una**. Tu quincena: charcas llenas
-  de fauna y cielos limpios, con datos de estación — no de folletos.
+- 🌧️ **Lluvia: la mejor noticia, y es mejor de lo que este README decía** *(recontado el 28/08
+  contra las cinco temporadas del propio [`14`](14-lluvias-historico.md))*. El primer día con
+  ≥10 mm cayó en **enero dos veces** *(2021/22 y 2022/23)*, **noviembre una** *(el 19, en 2024/25)*,
+  **diciembre una** *(el 11, en 2025/26)* — y en **2023/24, la de El Niño, no se cumplió en toda la
+  temporada**. *(Aquí ponía «enero tres veces», que convertía en enero la temporada en la que la
+  lluvia no llegó nunca.)* **Y en las CINCO, no en cuatro, vuestra quincena cae antes del inicio**:
+  incluso el noviembre lluvioso arrancó el 19, cinco días después de que hayáis volado. Charcas
+  llenas de fauna y cielos limpios, con datos medidos — no de folletos.
 - 🌡️ **Calor: Etosha aprieta, el resto acompaña.** El norte a **~37–38 °C** de máxima — el safari se
   hace al amanecer y al atardecer, con siesta y charca iluminada de noche, que es como se hace bien
   de todas formas. El desierto **Sesriem ~32,5 °C** y la costa fresca (Benguela):
   **Swakopmund/Walvis Bay ~25 °C** de máxima en noviembre. Etosha y la costa vienen de **estación
   NOAA**; los puntos sin estación —**Sesriem, Spreetshoogte (~31,5) y Hoada (~33,1)**— se cerraron con
-  el **reanálisis ERA5**, validado a ±0,04 °C contra las estaciones *(ver [`15`](15-huecos-cerrados.md),
-  secciones "La costa" y §ERA5)*. **Las noches, entre 12,7 °C (la costa) y 18,9 °C (Etosha)**:
+  el **reanálisis ERA5** ◐ ⚠️ *(y aquí este README decía algo que su propia fuente no dice, hasta el
+  28/08: el **±0,04 °C no es contra las estaciones**, es la **reproducibilidad del propio cálculo**
+  —recalcular ERA5 con la misma receta devuelve los mismos números ERA5—. **Contra estaciones el
+  error llega a 1,9 °C**: el `15` §ERA5 lo dice con todas las letras —clava la meseta, va ~1 °C
+  cálido en la costa y **~2 °C FRÍO en la sabana seca**—, y por eso el propio dossier avisa de que
+  el mediodía real de Hoada ronda 34–35 y no 33)* *(ver [`15`](15-huecos-cerrados.md), secciones
+  "La costa" y §ERA5)*. **Las noches, entre 12,7 °C (la costa) y 18,9 °C (Etosha)**:
   **forro polar, no plumas** — el porqué en [`05`](05-equipaje.md), la lista con casilla en
   [`17`](17-lista-de-equipaje.md), y la temperatura noche a noche en [`01`](01-itinerarios-dia-a-dia.md).
 - 💶 **Precio: la frontera del 1 de noviembre.** **NWR** entra en tramo barato el 1 de noviembre
@@ -526,7 +536,7 @@ usan esas palabras. Tres de ellas se confunden entre sí constantemente:
 
 ```mermaid
 flowchart TD
-    P["PAN · la depresion salina<br/>Etosha Pan son ~5.000 km2 de arcilla y sal<br/>SECA casi todo el año — solo se inunda<br/>en una buena temporada de lluvias<br/>no es agua, es un desierto blanco"]
+    P["PAN · la depresion salina<br/>Etosha Pan son 4.812 km2 de arcilla y sal<br/>SECA casi todo el año — solo se inunda<br/>en una buena temporada de lluvias<br/>no es agua, es un desierto blanco"]
     C["CHARCA (waterhole) · el abrevadero<br/>la poza pequeña, de manantial o de sondeo,<br/>donde bebe la fauna. Es donde se aparca<br/>y se espera. Okaukuejo, Chudop, Goas...<br/>esto SI es agua, y es el safari"]
     V["VLEI · la hondonada que se encharca<br/>Deadvlei, Sossusvlei, Hidden Vlei<br/>Deadvlei lleva 900 años sin agua:<br/>por eso los arboles estan muertos y de pie"]
     K["KOPPIE · el cerro rocoso aislado<br/>el de Halali se puede subir a pie:<br/>el unico sitio del parque donde se<br/>puede andar fuera del coche"]

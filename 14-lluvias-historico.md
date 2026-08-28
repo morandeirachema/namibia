@@ -31,7 +31,7 @@ Okaukuejo** —satélite calibrado con estaciones—, apoyada en el **Servicio M
 
 ---
 
-## 📊 El resultado: 4 de 5 temporadas empezaron tarde
+## 📊 El resultado: las 5 temporadas empezaron después de vuestra ventana
 
 ```mermaid
 flowchart TD
@@ -62,8 +62,10 @@ de verdad:
 - **2025/26** → **11 de diciembre**. La más adelantada de las cuatro comparables… y aun así, diciembre.
 
 > ### 👉 Lo que esto significa para el 31 de octubre – 14 de noviembre
-> En **cuatro de las cinco últimas temporadas**, cuando vosotros estéis allí **la temporada de
-> lluvias todavía no había empezado**. Y eso es justo lo que hace que el safari funcione: sin lluvia
+> En **las cinco últimas temporadas** —no en cuatro, como decía este documento hasta el 28/08—,
+> cuando vosotros estéis allí **la temporada de lluvias todavía no había empezado**: la más
+> adelantada de las cinco arrancó el **19 de noviembre**, y vosotros voláis el 14. En una, la de El
+> Niño, **no arrancó nunca**. Y eso es justo lo que hace que el safari funcione: sin lluvia
 > **no hay agua dispersa por el monte, y la fauna se concentra en las charcas**.
 
 ---
