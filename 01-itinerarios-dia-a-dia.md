@@ -120,16 +120,19 @@ gantt
 > (~19:05, está al este) y en la costa después (~19:20)** — la regla de «en el campamento a las
 > 18:00» vale igual en toda la ruta.
 
-> ### 🌙 Y la luna: el viaje acaba en NOCHE CERRADA *(cálculo propio de fase — conjunción de referencia + mes sinódico, ±1 día; añadido el 09/08)*
-> **Luna nueva el 9–10 de noviembre — clavada en las noches de Etosha.** El arco: se sale de
-> Windhoek con una **menguante del ~57 %** que ya no sale hasta bien entrada la noche *(D2: primeras
-> horas de estrellas limpias en la escarpa)*; el **amanecer de Deadvlei (D4) lleva un menguante del
-> ~36 % colgado sobre las dunas**; la costa apaga la luna del todo *(D6 ~18 %, D7 ~10 %)*; **la
-> noche nueva de Twyfelfontein (D8) cae al ~5 %** y la de **Hoada (D9), al ~1 %** — las dos noches
-> de Damaraland, con el granito y el cielo entero; y **las cuatro noches de Etosha (D10–D13) caen
-> entre el 0 y el 9 %** *(salvo la última, el D13 en Onguma, que ya va al ~15 % — corregido el
-> 25/08 contra el USNO)*: charca iluminada **sin competencia lunar** y Vía Láctea de libro. La
-> vuelta (D14–D15), con un creciente fino al atardecer.
+> ### 🌙 Y la luna: el viaje acaba en NOCHE CERRADA *(recalculado el 28/08 con las series periódicas de Meeus; antes iba con «conjunción de referencia + mes sinódico», que se quedaba 3–7 puntos alto)*
+> **Luna nueva el 9 de noviembre a las ~09:00 locales — clavada en las noches de Etosha.** El arco,
+> con la fracción iluminada a las 21:00 de cada noche: se sale de Windhoek con una **menguante del
+> ~51 %** que ya no sale hasta bien entrada la noche *(D2: primeras horas de estrellas limpias en la
+> escarpa)*; el **amanecer de Deadvlei (D4) lleva un menguante del ~29 % colgado sobre las dunas**;
+> la costa la apaga del todo *(D6 ~12 %, D7 ~6 %)*; **la noche de Twyfelfontein (D8) cae al ~2 %** y
+> la de **Hoada (D9), al 0,3 %** — las dos noches de Damaraland, con el granito y el cielo entero; y
+> **las cuatro noches de Etosha (D10–D13) van del 0,2 % al 11 %**: el **D10 en Okaukuejo es la noche
+> más oscura del viaje entero (0,2 %)** y el D11 en Halali va al 2 % — **que es justo la noche del
+> leopardo en Moringa**. La vuelta (D14–D15), con un creciente fino al atardecer *(18 % y 25 %)*.
+> ✅ *Y el sol de aquí abajo está verificado: los quince amaneceres y ocasos se recalcularon el 28/08
+> con el algoritmo solar de la NOAA sobre las coordenadas de `trazado.py` y **cuadran los quince,
+> ninguno con más de 2 minutos de diferencia**.*
 > *(El registro del cálculo, en `15`; la fotografía nocturna tiene su propio repo, aparte de este
 > dossier.)*
 
@@ -346,7 +349,7 @@ flowchart LR
   abrirse se llega al 2WD justo al amanecer y **a Deadvlei con la duna ya encendida**, que es la luz
   que se busca — no la del minuto exacto del orto, que ahí abajo no entra
 - 🌅 **Puerta interior 1 h antes del amanecer** — Deadvlei casi en solitario. 🌙 *Y la luna, al
-  **~36 %** menguante: algo más de la que había en el plan de agosto —era el 4 y ahora es el 3—,
+  **~29 %** menguante: algo más de la que había en el plan de agosto —era el 4 y ahora es el 3—,
   pero sale tarde y de madrugada ya está alta y pálida; el amanecer manda igual*
 - ⚠️ **Este tramo, antes del amanecer, es zona a riesgo propio del seguro de Savanna salvo que se
   pida por escrito en la entrega** — el detalle, en `06` §6 y `20` §1
@@ -523,7 +526,7 @@ flowchart LR
   protocolo del `18`)*; **damán en el granito** *(62/13 ◐)*, **springbok** *(50/23 ◐)* — y por
   encima del umbral también avestruz, jirafa y el propio babuino ◐ *(el detalle, en la guía)*.
   Lo que no llega a muestra, no se afirma
-- 🌙 **Luna al ~5 %**: casi novilunio, y aquí no hay una sola luz alrededor
+- 🌙 **Luna al ~2 %**: casi novilunio, y aquí no hay una sola luz alrededor
 - 🛏️ **Damaraland, y ESTA es la noche que NO hay que reservar con antelación** — ni está dentro de
   un parque ni es Sesriem, y **noviembre es temporada hombro**: la práctica documentada es que
   fuera de Etosha y Sesriem no hace falta reservar ◐ *(`20` §antelación)*. **Por eso es la red del
@@ -574,7 +577,7 @@ flowchart LR
 - 🐾 **Alrededor del campamento** — mismo polígono GBIF que ayer *(Damaraland: elefante del
   desierto 139/27, damán 62/13, springbok 50/23 ◐)*, pero **Hoada está en el granito**: el damán es
   el fijo de las rocas del campamento ○
-- 🌙 **Luna al ~1 %** — la noche más oscura del viaje entero, y en un campamento sin una luz
+- 🌙 **Luna al 0,3 %** — la segunda noche más oscura del viaje, y en un campamento sin una luz
 - 🛏️ **Hoada Campsite** (zona Grootberg) — el blog lo llama su campamento más bonito del viaje:
   rocas de granito, duchas entre peñas, cielo estrellado. **N$271–366/persona según temporada
   (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `15`)*
@@ -595,7 +598,7 @@ flowchart LR
 - 🎟️ **Nada más llegar, en recepción: cierra los guiados** — la salida de mañana de MAÑANA en
   Okaukuejo y pregunta los horarios *(❌ no los publican; decidido 08/08 — ver §parques)*
 - 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros. Y **en luna nueva**
-  *(novilunio el 9–10: las cuatro noches de Etosha, a oscuras — ver el bloque 🌙 de arriba)*: la
+  *(novilunio **el 9 a las ~09:00**: esta noche es la más oscura del viaje entero, **0,2 %** — ver el bloque 🌙 de arriba)*: la
   charca manda sola sobre la oscuridad total, y el cielo de la parcela es de libro
 - 🐾 **La cifra real de la charca, de partes de viajeros** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/okaukuejo-camp/reviews/1),
   149 viajeros desde 2018 — cada % lleva su propia muestra ◐)*: **rino negro 87 % (119 de 137), elefante 97 %, jirafa 99 %, león 68 %** —
@@ -677,7 +680,7 @@ flowchart LR
   wc y su enchufe** —lo que ningún campamento de NWR da—, limpieza diaria, **un lote de leña el día
   de llegada** y **wifi gratis en recepción** ✅. Kiosco con lo básico, hielo, leña y braai packs;
   **restaurante à la carte — la cena se reserva AL LLEGAR, en recepción** ✅. Recinto **vallado** ✅
-- 🌙 **Luna al ~4 %**: prácticamente noche cerrada
+- 🌙 **Luna al ~6 %**: prácticamente noche cerrada
 
 ### D13 · jue 12 — Etosha este desde Onguma: Fischer's Pan · **~70 km de safari** ◐ *(OSRM 70,5, entrando y saliendo por Von Lindequist)*
 - 🌡️ **Etosha 37,1 / 18,9 ✅**

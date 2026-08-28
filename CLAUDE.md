@@ -265,6 +265,17 @@ README cuadre con la fecha que él mismo declara, y que esa fecha sea la que imp
 encabezados entre los que `agenda.py` recorta el día a día**; y que **los 22 documentos tengan
 título**.
 
+Y **que el sol y la luna del `01` salgan del cálculo y no de la memoria** *(desde el 28/08)*: los
+quince amaneceres, los quince ocasos y la fracción iluminada de cada noche se recalculan en
+`fuente/astro.py` —**algoritmo solar de la NOAA** con cenit 90,833° y **series de Meeus** para la
+fase, sin red ni dependencias— y `revisa_sol_y_luna` los cotea línea a línea contra el markdown,
+sacando el sitio del propio texto *(«amanecer **06:18** (Cape Cross)»)* y, cuando no lo nombra, de
+donde se duerme esa noche. Tolerancia de 4 minutos y de 2 puntos de luna. **Si el formato cambia y
+el patrón deja de encontrar horas, falla en vez de callar.** *(Las horas ya estaban bien —las
+veintisiete cuadran—; la luna no: iba con «conjunción de referencia + mes sinódico» y se quedaba
+3–7 puntos alta en toda la menguante, así que las noches del viaje son más oscuras de lo que decía
+el dossier.)*
+
 **Y la regla que se aprendió el 26/08: una comprobación que no puede correr FALLA, no calla.** Sin
 `pdftoppm` o sin Pillow, la de la escala devolvía `ok`; la de las páginas del README daba `ok` cuando
 su patrón no encontraba nada *(le pasaba con la lámina, que no dice «páginas» sino «una sola hoja»)*;
