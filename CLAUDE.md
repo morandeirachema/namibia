@@ -256,7 +256,9 @@ que grita sin motivo se acaba ignorando.
 
 Y cuatro más que estaban sin escribir aquí: que **el día a día del `01` cuadre con OSRM**
 *(`revisa_dia_a_dia`: cada `### Dn` con kilómetros contra `geo/ruta.json` — la gemela de la de la
-variante)*; que **el GPX y el KML lleven la misma ruta** que `ruta.json`; que **la cuenta atrás del
+variante)*; que **el GPX y el KML lleven la misma ruta** que `ruta.json` **y que el README cuente sus puntos y
+sus pistas bien** *(decía «las 13 etapas» con 14 dentro desde que el día de llegada pasó a ser el D1:
+los PDF tenían su comprobación de páginas y esto no)*; que **la cuenta atrás del
 README cuadre con la fecha que él mismo declara, y que esa fecha sea la que imprimen los tres PDF**
 —vive en `fuente/fecha.py` y de ahí la leen `dossier.py`, `agenda.py` y `lamina.py`, porque el
 26/08 cada uno llevaba la suya y salieron con tres fechas—; que **el `01` conserve los dos

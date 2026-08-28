@@ -171,7 +171,7 @@ leer del tirón, imprimir o llevar sin conexión.*
 
 🛰️ Y para el GPS y el móvil: [**`ruta-namibia-2026.gpx`**](ruta-namibia-2026.gpx) y
 [**`ruta-namibia-2026.kml`**](ruta-namibia-2026.kml) — **los 39 puntos de la ruta como waypoints**
-*(con símbolo según sean parada, gasolinera obligatoria, puerta de parque o hito)* **y las 13
+*(con símbolo según sean parada, gasolinera obligatoria, puerta de parque o hito)* **y las 14
 etapas con trazado como pistas separadas**, para encender y apagar los días uno a uno. Salen de la
 **misma geometría** que el mapa y la lámina, así que cambiar una noche los actualiza solos.
 ⚠️ **Tracks4Africa no los importa** *(su planificador exporta GPX y KML, pero importar sigue
