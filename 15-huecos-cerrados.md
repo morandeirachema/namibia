@@ -5,7 +5,7 @@
 > Los datos duros del dossier con su fuente y su método: temperaturas de estación, viento, tasas,
 > vuelos y lodges. Y al final, **la lista de lo que sigue sin cerrar**.
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026*

@@ -5,7 +5,7 @@
 > Quién vive en el país que vais a cruzar: los pueblos, las lenguas, la historia que explica lo que
 > se ve por la ventanilla, y la etiqueta que hace el viaje más fácil — atado a los días de la ruta.
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Escrito el 09/08/2026. La mesa y los mercados están en [`08`](08-comida-compras-y-regalos.md);

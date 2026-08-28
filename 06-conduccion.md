@@ -4,7 +4,7 @@
 >
 > El documento duro: el vuelco, el contrato, las presiones, la arena de Sossusvlei y las puertas de Sesriem.
 >
-> **~N$20 = €1** *(rango 19,5–20,5)* · **✅** fuente primaria · **◐** secundaria concordante ·
+> **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 09/08/2026*
@@ -16,9 +16,12 @@
 > ### ⚠️ Sobre las cláusulas de contrato citadas aquí (nota del 02/08, actualizada el 12/08/2026)
 > Las cláusulas literales de este documento (80 km/h con caja negra, dune driving, rescate,
 > D3707/D3703, cláusula 10.9…) son de los contratos **descargados y verificados de Asco y African
-> Tracks**. El coche contratado es **Savanna** *(`20` §1)*: su Opción 4 de seguro —neumáticos,
-> lunas, bajos y franquicia cero— y su kit de recuperación ya están confirmados, pero **el
-> contrato completo no se ha leído todavía**. Trata lo de abajo como **la referencia del sector**
+> Tracks**. El coche contratado es **Savanna** *(`20` §1)*: su Opción 4 de seguro —lunas, dos
+> neumáticos, sandblast y bajos— y su kit de recuperación ya están confirmados, pero **el
+> contrato completo no se ha leído todavía**. ⚠️ **Y lo que se leyó el 28/08 en su web quita el
+> «franquicia cero» que ponía aquí**: excluye el *«single vehicle accident»* —volcar sin tocar a
+> nadie, que es justo el siniestro de este documento— con **N$165.000 (~€8.900)** a cargo del
+> cliente, mientras su otra página lista el vuelco como cubierto. **Sin resolver** *(`20` §1)*. Trata lo de abajo como **la referencia del sector**
 > —los límites reales pueden ser iguales o peores— y **pide el contrato de Savanna por escrito**
 > con tres preguntas concretas: bajos en Damaraland, número de ruedas de repuesto, y coste
 > orientativo de rescate. Buena noticia de ruta: **las pistas malditas D3707/D3703 NO están en la
