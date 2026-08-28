@@ -590,8 +590,22 @@ def revisa_gps():
                    f"{len(trazado.puntos_oficiales())} — regenera con `make gps`")
     if not os.path.exists(os.path.join(RAIZ, "ruta-namibia-2026.kml")):
         return mal("falta ruta-namibia-2026.kml — ejecuta `make gps`")
+
+    # Y que el README cuente los mismos puntos y pistas que hay dentro. Decia «las 13
+    # etapas» con 14 en el fichero desde que el dia de llegada paso a ser el D1: los PDF
+    # tienen su comprobacion de paginas desde hace semanas y esto no la tenia.
+    texto = open(os.path.join(RAIZ, "README.md"), encoding="utf-8").read()
+    for cuantos, patron, que in ((len(puntos), r"los (\d+) puntos de la ruta como waypoints", "puntos"),
+                                 (len(pistas), r"las (\d+)\s*\n?etapas con trazado", "etapas con trazado")):
+        m = re.search(patron, texto)
+        if not m:
+            return mal(f"el README ya no dice cuantos {que} lleva el GPX, o lo dice de otra "
+                       f"forma: la comprobacion se ha quedado ciega (patron {patron!r})")
+        if int(m.group(1)) != cuantos:
+            return mal(f"el README dice {m.group(1)} {que} en el GPX, y hay {cuantos}")
+
     bien(f"gps: el GPX y el KML llevan las {len(pistas)} etapas con trazado, "
-         f"{len(puntos)} puntos y los {km:.0f} km de la ruta")
+         f"{len(puntos)} puntos y los {km:.0f} km de la ruta, y el README lo dice bien")
 
 
 def revisa_avistamientos():
