@@ -71,7 +71,7 @@ flowchart LR
   **5 %** de Okaukuejo *(6/111)*: los intervalos **no se tocan**
   *(19–46 frente a 3–11)*. Es **la única
   charca del parque con fama de leopardo que además la sostienen los números**, y encaja con lo que
-  ya decía el [`09`](../09-fauna-etosha.md): «Halali y Goas para el leopardo».
+  ya decía el [`09`](../09-fauna-namibia.md): «Halali y Goas para el leopardo».
 - 🐆 **El guepardo es de Namutoni**, y esto confirma el **50 %** que el `01` y el `11`
   citan: *(7/14)*, intervalo **27–73**, y **por encima
   de los otros dos sin solaparse**. Con 14 partes el intervalo es ancho —hay que decirlo—,

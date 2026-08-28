@@ -17,8 +17,7 @@
 ## 🔑 Lo que cambia todo, y está en la ficha de la propia guía
 
 > **«Caza de día»** ✅ — y ahí está todo, porque el león y el leopardo no. ⚠️ *(Matizado el 28/08: «a plena luz» se leía como «también a mediodía», y no es así — la actividad va del amanecer a media mañana y otra vez antes del ocaso, y con los 37 °C de Etosha en noviembre aún más hacia el atardecer ◐.)*
-> *(ficha del guepardo, `guia-fauna-etosha.pdf`)*
-
+> *(ficha del guepardo, `guia-fauna-namibia.pdf`)*
 **El guepardo es el único de los seis felinos de la ruta que el horario diurno puede darte.** El
 león y el leopardo se buscan en la charca iluminada y en el nocturno; el gato montés y el de patas
 negras, con foco. **El guepardo, no**: se busca conduciendo despacio por llanura abierta **con el

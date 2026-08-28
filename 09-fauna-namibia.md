@@ -1,10 +1,12 @@
-# 09 · Fauna del viaje
+# 09 · Fauna de Namibia
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> El índice de la guía de campo en PDF: 148 especies con foto, cómo reconocerlas, **qué
-> posibilidades hay de verlas** y dónde y cuándo. *(Regla del 09/08: sin avistamientos, sin
-> ficha — fuera oricteropo, suricata y cebra de Hartmann; **la de Hartmann, con el motivo revisado el 28/08: sí cae en el D2 y el D9, y su ficha es un hueco reconocido** ❌. Una excepción consciente desde el
+> El índice de la guía de campo en PDF: **186 especies con foto** — **162 de vuestra ruta** y
+> **24 del resto de Namibia** —, cómo reconocerlas, **qué posibilidades hay de verlas**, dónde y
+> cuándo, y **en qué regiones del país vive cada una**. *(La regla del 09/08 —sin avistamientos,
+> sin ficha— sigue mandando en la parte 1; lo que el 29/08 cambió es que lo que no toca la ruta ya
+> no desaparece: se va a una parte 2 rotulada como lo que es. Una excepción consciente desde el
 > 15/08: el gato de patas negras, ver abajo.)*
 >
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
@@ -17,11 +19,14 @@
 > la ruta (+13 — el mular del crucero, las aves del Namib y Damaraland, la rata dassie…; el
 > detalle de ambos, en `15`) · ampliación del 15/08/2026: **todas las rapaces y todos los
 > felinos de la ruta** (+33: 31 rapaces diurnas y nocturnas, el caracal y el gato de patas
-> negras), en dos secciones propias — el detalle, en `15`*
+> negras), en dos secciones propias — el detalle, en `15` · **ampliación del 29/08/2026: la guía
+> deja de ser solo de la ruta** — +38 fichas *(el norte mojado, el Kalahari, los casi endémicos del
+> oeste y cuatro bichos de mar que estaban en vuestra propia costa)*, el **reparto por las trece
+> regiones del país** en cada ficha y el mapa que las sitúa*
 
-📕 **[Descargar la guía: `guia-fauna-etosha.pdf`](guia-fauna-etosha.pdf)** — 34 páginas A4,
-**148 especies de toda la ruta**, con foto **completa** de cada una — sin recortes: cuernos,
-cuellos y colas se ven enteros, que es justo lo que sirve para identificar.
+📕 **[Descargar la guía: `guia-fauna-namibia.pdf`](guia-fauna-namibia.pdf)** — 48 páginas A4,
+**186 especies**, con foto **completa** de cada una — sin recortes: cuernos, cuellos y colas se ven
+enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
 
 *(GitHub no previsualiza PDF: pulsa el enlace y se descarga. Este documento es el índice, para poder
@@ -34,13 +39,17 @@ buscar una especie desde el repo.)*
 - **Nombre en castellano, científico e inglés** — el inglés importa: es el que veréis en los
   carteles del parque y el que usa todo el mundo allí
 - **Qué posibilidades hay de verla**, medida y con su muestra detrás *(abajo, de dónde sale)* —
-  en **145 de las 148**: tres fichas *(tortuga leopardo, galápago africano y shongololo)* se
-  quedan sin línea a propósito, porque su clase no llega a la muestra mínima y **callarse es
-  la regla**
+  en **182 de las 186**: cuatro fichas *(tortuga leopardo, galápago africano, shongololo y
+  cocodrilo del Nilo)* se quedan sin línea a propósito, porque su clase no llega a la muestra
+  mínima en ninguna zona de la ruta y **callarse es la regla**
 - **Cómo reconocerla en el campo**: los rasgos que de verdad distinguen, no una descripción de
   enciclopedia *(labio del rinoceronte, rosetas frente a manchas, orejas de la hiena, pico del cálao…)*
 - **Cuántas quedan**, en las veintidós especies con una cifra publicada que se pueda citar —y, desde
   el 15/08, la **categoría UICN** de las rapaces amenazadas: cuatro En Peligro, dos En Peligro Crítico
+- **En qué regiones de Namibia vive** *(desde el 29/08, en las 186 fichas)* — el reparto de sus
+  registros de GBIF por las **trece divisiones administrativas del país**, sin filtrar por mes:
+  *«Kavango 192 · Zambezi 166 · Otjozondjupa 18 — de 445 registros en el país»*. Es otra pregunta
+  que la de arriba y por eso va en otra línea: **arriba, si lo vais a ver; abajo, dónde vive**
 - **Foto** de Wikimedia Commons, todas con **licencia libre** (CC BY, CC BY-SA, CC0 o dominio
   público), con autoría y licencia bajo la imagen y en los créditos finales
 
@@ -89,6 +98,58 @@ Lo baja y lo cachea [`fuente/avistamientos.py`](fuente/avistamientos.py) en
 Fuentes: [GBIF](https://www.gbif.org) ·
 [Expert Africa · Etosha](https://www.expertafrica.com/namibia/etosha-national-park)
 
+## Dónde vive cada bicho en Namibia *(29/08)*
+
+Hasta el 29/08 la guía contestaba una sola pregunta —**¿lo vamos a ver en este viaje?**— y por eso
+lo que no caía en la ruta no tenía ficha. Desde el 29/08 contesta dos, y la segunda es
+**¿dónde vive en Namibia?**, que es otra cosa y se mide de otra manera:
+
+```mermaid
+flowchart LR
+%% ancho
+    A["¿LO VAMOS A VER?<br/>4 zonas de la ruta<br/>filtrado a OCTUBRE y NOVIEMBRE<br/>partes de Expert Africa + GBIF"] --> A1["la linea de ARRIBA<br/>de cada ficha"]
+    B["¿DONDE VIVE?<br/>13 regiones del pais<br/>SIN filtrar por mes<br/>GBIF por division administrativa"] --> B1["la linea de ABAJO<br/>«En Namibia»"]
+    style A fill:#F7F4ED,stroke:#C2542F
+    style B fill:#EDF1E4,stroke:#5F7043
+```
+
+El reparto sale de pedirle a GBIF los registros de cada especie **región a región** *(por
+`gadmGid`, el código de la división administrativa)*, y el límite de cada región lo dibuja
+**OpenStreetMap**. No se filtra por mes a propósito: la pregunta es de mapa, no de calendario, y
+recortar a dos meses solo añadiría ruido de muestreo en las regiones que ya tienen pocos registros.
+Lo baja y lo cachea [`fuente/pais.py`](fuente/pais.py) en `fuente/geo/fauna-pais.json`.
+
+[![Las trece regiones de Namibia, con la ruta encima y cuántas fichas de la guía tienen su grueso en cada una](img/mapas/regiones.png)](img/mapas/regiones.svg)
+
+**Este mapa va dentro de la guía**, delante de las fichas: sin él, decir que el hipopótamo está en
+Kavango y el pingüino en ǁKaras no sitúa nada. En naranja, **las siete regiones que pisa la ruta**;
+en gris, las seis que no — y ahí vive entera la parte 2. El número de cada región es cuántas de las
+186 fichas tienen ahí **el grueso** de sus registros: **Oshikoto se lleva 56**, y eso no es que sea
+la región más rica, es que el este de Etosha es donde más mira todo el mundo. **El sesgo del
+observador está en el dato y se dice, no se disimula**: en la Franja de Caprivi hay lodges con
+ornitólogos y en el Kaokoveld no.
+
+⚠️ **Lo que esto NO es**: una probabilidad de ver nada. Es dónde se ha **registrado** la especie.
+Por eso la línea da siempre el recuento crudo detrás —*«de 445 registros en el país»*— y por eso
+**no se nombra ninguna región con menos de cinco registros**.
+
+### Y lo que el propio reparto destapó
+
+- **La grulla carunculada entró como fauna del Zambeze y el dato la devolvió a la ruta**: tiene
+  **18 registros de octubre-noviembre dentro del polígono de Etosha**, más que muchas fichas que
+  nadie discute. Está en la parte 1, al lado de la grulla azul. *(Y `make comprueba` no deja que
+  eso vuelva a pasar sin avisar: si una ficha de la parte 2 pasa de diez registros en la ruta, la
+  comprobación falla y dice cuál.)*
+- **Cuatro bichos de mar que se metieron como fauna del sur y estaban en vuestra costa**: el
+  **alcatraz del Cabo** (228 registros de oct-nov en la caja de Walvis Bay–Swakopmund), el
+  **cormorán de las bancas** (65), el **pingüino africano** (65) y la **ballena franca austral**
+  (4 — ésa sí se va antes de que lleguéis). Los cuatro están en la parte 1, en «la costa».
+- **Los casi endémicos del oeste no son una rareza de otro sitio: caen en Damaraland.** El cantor
+  de roca (24), el papamoscas herero (27), el alcaudón de cola blanca (74), el francolín de
+  Hartlaub (19) y el carbonero de Carp (83), todos en registros de octubre-noviembre del D8–D9.
+- **Y dos regiones enteras de Namibia no tienen ni una ficha con su grueso**: Ohangwena y Omaheke.
+  No es que no haya animales; es que **casi nadie sube registros desde ahí**.
+
 ## Cómo se hace un safari, delante de las fichas
 
 Tres páginas antes de las especies, maquetadas como un documento del dossier: **la ropa**
@@ -100,7 +161,7 @@ táctica de la charca** *(motor apagado y tres cuartos de hora, que es lo que de
 ✅: 60 km/h, no bajar del coche fuera de los campamentos, no salirse de las pistas y estar dentro
 antes de que cierre la puerta.
 
-## El «dónde y cuándo», en 100 de las 148 fichas
+## El «dónde y cuándo» de Etosha, en 100 fichas
 
 Charca por charca y con su fuente: **Okondeka** para el león, **Halali y Goas** para el leopardo,
 **Salvadora–Sueda–Charitsaub** para el guepardo, el **Dik-dik Drive** nada más entrar por Von
@@ -124,26 +185,29 @@ específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
 - **El abejaruco carmesí no está en Etosha**: cero registros dentro del parque. El que sí veréis es
   el **abejaruco europeo**, que llega en octubre.
 - **La cigüeña de Abdim tampoco**: en Etosha es ave de febrero y marzo.
-- ⚠️ **La cebra de montaña de Hartmann: el motivo por el que se excluyó era cierto solo a medias, y
-  hay que decirlo** *(28/08)*. **Dentro de Etosha** sí es verdad —vive en las lomas de dolomita del
-  extremo oeste, a doscientos kilómetros del eje Okaukuejo–Namutoni— y ése fue el argumento del
-  09/08 para dejarla sin ficha. **Pero la ruta no es solo Etosha**: el **D2 cruza la escarpa de
-  Spreetshoogte** y el **D8–D9 va Twyfelfontein → Palmwag → paso de Grootberg**, que es su terreno
-  clásico. En los propios polígonos de este repo, GBIF le da **55 registros en el Namib (8 en
-  oct–nov)** y **28 en Damaraland (7 en oct–nov)**, varios de ellos con coordenada sobre la
-  carretera del D9. **Es un animal grande, conspicuo y casi endémico que probablemente veáis**, y la
-  guía no lleva su ficha: **hueco reconocido, pendiente de rehacer** ❌. Mientras tanto: la de Etosha
-  es la de **Burchell**; la de la escarpa y Damaraland, si tiene la grupa a rayas hasta la panza y
-  una papada bajo el cuello, es **la de Hartmann**.
+- ⚠️ **La cebra de montaña de Hartmann: el motivo por el que se excluyó era cierto solo a medias**
+  *(destapado el 28/08, cerrado el 29/08)*. **Dentro de Etosha** sí lo era —vive en las lomas de
+  dolomita del extremo oeste, a doscientos kilómetros del eje Okaukuejo–Namutoni— y ése fue el
+  argumento del 09/08 para dejarla sin ficha. **Pero la ruta no es solo Etosha**: el **D2 cruza la
+  escarpa de Spreetshoogte** y el **D8–D9 va Twyfelfontein → Palmwag → paso de Grootberg**, que es su
+  terreno clásico. En los propios polígonos de este repo, GBIF le da **55 registros en el Namib
+  (8 en oct–nov)** y **28 en Damaraland (7 en oct–nov)**, varios con coordenada sobre la carretera
+  del D9 — y **635 en todo el país**, con el grueso en Hardap. Era un animal grande, conspicuo y
+  casi endémico que probablemente veáis, y la guía no llevaba su ficha: **el hueco quedó reconocido
+  el 28/08 y se cerró el 29/08**, con ficha propia en la parte 1. Para distinguirlas: la de Etosha es
+  la de **Burchell**; la de la escarpa y Damaraland, si tiene la panza blanca sin rayar y una papada
+  bajo el cuello, es **la de Hartmann**.
 - **La suricata roza el extremo sur de la ruta** —hay registros en las llanuras de grava del Namib—
-  pero es rarísima aquí y no se planifica: **fuera de la guía por escasez, no por área** *(matizado
-  el 28/08: decía «es del Kalahari y del sur», y el área sí la roza)*.
-- **Y el oricteropo, fuera con su propio dato**: **0 de 149 partes sumando los tres campamentos
+  pero es rarísima aquí y no se planifica *(matizado el 28/08: decía «es del Kalahari y del sur», y
+  el área sí la roza)*. Salió de la guía el 09/08 por eso y el **29/08 vuelve, pero a la parte 2** —
+  que es donde se dice, con todas las letras, que no se va a ver.
+- **Y el oricteropo, con su propio dato**: **0 de 149 partes sumando los tres campamentos
   —0 de 100 en Okaukuejo, 0 de 38 en Halali, 0 de 11 en Namutoni—** ◐ es la cifra más honesta
   del método *(ese 149 es la suma de partes, no los 149 viajeros de Okaukuejo: coincidencia
-  numérica, aclarada el 25/08)* — nadie lo vio, así que no lleva ficha *(sus excavaciones en los termiteros sí las
-  veréis por todas partes)*.
-- **En Etosha NO hay búfalo** — se ven **cuatro de los «Big Five»**, no cinco. Extinguido en el
+  numérica, aclarada el 25/08)* — nadie lo vio, así que hasta el 29/08 no llevaba ficha; ahora la lleva **en la parte 2**, con ese
+  cero por delante *(sus excavaciones en los termiteros sí las veréis por todas partes)*.
+- **En Etosha NO hay búfalo** — se ven **cuatro de los «Big Five»**, no cinco *(el búfalo tiene
+  ficha desde el 29/08, en la parte 2: su sitio es el Kavango y el Zambezi)*. Extinguido en el
   parque a mediados del siglo XX ◐ y **nunca reintroducido, por el riesgo de aftosa y de
   tuberculosis bovina**: lo dice la literatura con el propio Etosha Ecological Institute entre
   los autores ✅ *([Turner et al. 2022](https://doi.org/10.1016/j.gecco.2022.e02221): «has not
@@ -218,7 +282,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ---
 
-## Las 148 especies
+## Parte 1 · la fauna de vuestra ruta (162)
 
 ### 🐆 Felinos (6)
 
@@ -229,7 +293,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Gato montés africano** — *Felis lybica* · African wildcat *(añadido el 08/08: objetivo del nocturno guiado)*
 - **Gato de patas negras** — *Felis nigripes* · Black-footed cat *(añadido el 15/08 por petición expresa, con la banda «Sin registros» — 0 en oct-nov, 1 en toda la historia del polígono: la única excepción consciente a la regla del 09/08, y va para no confundirlo con el gato montés en el nocturno)*
 
-### 🦁 Mamíferos (31)
+### 🦁 Mamíferos (33)
 
 - **Elefante africano de sabana** — *Loxodonta africana* · African bush elephant
 - **Rinoceronte negro** — *Diceros bicornis* · Black rhinoceros
@@ -256,27 +320,20 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Liebre saltadora** — *Pedetes capensis* · Springhare
 - **Klipspringer o saltarrocas** — *Oreotragus oreotragus* · Klipspringer
 - **Mangosta amarilla** — *Cynictis penicillata* · Yellow mongoose
+- **Babuino chacma** — *Papio ursinus* · Chacma baboon *(añadido el 08/08: es el «mono» real de
 - **Mangosta rayada** — *Mungos mungo* · Banded mongoose *(añadida el 08/08: 400 registros GBIF
-  en Etosha, 101 en oct–nov — el gran ausente que destapó la revisión)*
 - **Zorro del Cabo** — *Vulpes chama* · Cape fox *(añadido el 08/08: objetivo del nocturno guiado)*
 - **Lobo de tierra** — *Proteles cristata* · Aardwolf *(añadido el 08/08: ídem — nocturno estricto,
-  GBIF lo infrarregistra como a la liebre saltadora)*
-- **Babuino chacma** — *Papio ursinus* · Chacma baboon *(añadido el 08/08: es el «mono» real de
-  los miradores y campamentos de esta ruta — el vervet se descartó a propósito: sin un solo
-  registro en la consulta GBIF del 08/08, archivada en `15`)*
 - **Ardilla de matorral de Smith** — *Paraxerus cepapi* · Smith's bush squirrel *(añadida el
-  10/08: la ladrona del restaurante de Halali — 267 registros GBIF en el parque y «common in
-  HAL camp» en los informes de mamíferos)*
 - **Mangosta esbelta** — *Galerella sanguinea* · Slender mongoose *(añadida el 10/08: la
-  tercera mangosta diurna, fiable en el Dik-dik Drive — punta de cola negra)*
+- **Cebra de montaña de Hartmann** — *Equus zebra hartmannae* · Hartmann's mountain zebra *(vuelve el 29/08: salió el 09/08 por vivir «en el extremo oeste de Etosha», pero la ruta cambió y ahora pisa la escarpa de Spreetshoogte —donde la finca la anuncia— y Damaraland; 635 registros en el país, el grueso en Hardap)*
+- **Duiker común o cefalofo de Grimm** — *Sylvicapra grimmia* · Common (grey) duiker *(añadido el 29/08: 169 registros en el país, el grueso en Otjozondjupa y Oshikoto)*
 
 ### 🦅 Aves rapaces (40)
 
 - **Secretario** — *Sagittarius serpentarius* · Secretarybird
 - **Águila marcial** — *Polemaetus bellicosus* · Martial eagle
 - **Águila rapaz** — *Aquila rapax* · Tawny eagle *(añadida el 10/08: la gran águila más
-  registrada del eje —755 en oct-nov, por delante del bateleur y la marcial— y En Peligro en
-  Namibia: el hueco gordo que destapó el barrido completo)*
 - **Águila volatinera o bateleur** — *Terathopius ecaudatus* · Bateleur
 - **Águila cafre o de Verreaux** — *Aquila verreauxii* · Verreaux's eagle *(15/08: la de la roca — 80 registros en Damaraland, 5 en Etosha)*
 - **Águila azor africana** — *Aquila spilogaster* · African hawk-eagle *(15/08: 83 registros en oct-nov en Etosha)*
@@ -315,7 +372,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Lechuza común** — *Tyto alba* · Barn owl *(15/08: 106 registros en oct-nov en Etosha)*
 - **Búho moro** — *Asio capensis* · Marsh owl *(15/08: 22 registros en oct-nov en Etosha)*
 
-### 🐦 Aves (39)
+### 🐦 Aves (46)
 
 - **Avestruz común** — *Struthio camelus* · Common ostrich
 - **Avutarda kori** — *Ardeotis kori* · Kori bustard
@@ -324,13 +381,12 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Cálao de pico rojo sureño** — *Tockus rufirostris* · Southern red-billed hornbill
 - **Tejedor republicano** — *Philetairus socius* · Sociable weaver
 - **Flamenco enano** — *Phoeniconaias minor* · Lesser flamingo
+- **Grulla carunculada** — *Bugeranus carunculatus* · Wattled crane *(29/08 · entró como fauna del Zambeze y el dato la devolvió aquí: **18 registros de oct-nov dentro de Etosha**)*
 - **Grulla azul** — *Grus paradisea* · Blue crane
 - **Ganga namaqua** — *Pterocles namaqua* · Namaqua sandgrouse
 - **Sisón negro norteño** — *Afrotis afraoides* · Northern black korhaan
 - **Alcaudón de pecho carmesí** — *Laniarius atrococcineus* · Crimson-breasted shrike
 - **Abejaruco europeo** — *Merops apiaster* · European bee-eater *(el carmesí, que es el que
-  anuncian las webs, tiene cero registros en el parque — ver el aviso de arriba; esta línea
-  decía «abejaruco carmesí» por error hasta el 10/08)*
 - **Cigüeña de Abdim** — *Ciconia abdimii* · Abdim's stork
 - **Estornino brillante del Cabo** — *Lamprotornis nitens* · Cape starling
 - **Pelícano blanco común** — *Pelecanus onocrotalus* · Great white pelican
@@ -339,42 +395,33 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Charrán damara** — *Sternula balaenarum* · Damara tern
 - **Ostrero africano** — *Haematopus moquini* · African oystercatcher
 - **Gaviota de Hartlaub** — *Chroicocephalus hartlaubii* · Hartlaub's gull *(añadida el 08/08:
-  6.334 registros GBIF en la costa — el ave más registrada de la laguna sin ficha)*
 - **Avoceta común** — *Recurvirostra avosetta* · Pied avocet *(añadida el 08/08: 3.944 en la costa)*
 - **Francolín de pico rojo** — *Pternistis adspersus* · Red-billed spurfowl
 - **Avefría armada** — *Vanellus armatus* · Blacksmith lapwing *(10/08: 2.010 en oct-nov, el
-  borde de casi cualquier charca)*
 - **Drongo ahorquillado** — *Dicrurus adsimilis* · Fork-tailed drongo *(10/08: 1.623)*
 - **Pintada común** — *Numida meleagris* · Helmeted guineafowl *(10/08: 1.016)*
 - **Quélea común** — *Quelea quelea* · Red-billed quelea *(10/08: los enjambres de las charcas —
-  y la presa del galápago de abajo)*
 - **Turaco unicolor** — *Corythaixoides concolor* · Grey go-away-bird *(10/08: el «go-away» de
-  los campamentos)*
 - **Toco piquinegro** — *Lophoceros nasutus* · African grey hornbill *(10/08: el tercer cálao)*
 - **Bulbul encapuchado** — *Pycnonotus nigricans* · African red-eyed bulbul *(10/08)*
 - **Turdoide caricalvo** — *Turdoides gymnogenys* · Bare-cheeked babbler *(10/08: casi endémico;
-  ~700 de sus ~770 registros del eje, en la banda de Halali — el pájaro del camping)*
 - **Charrán común** — *Sterna hirundo* · Common tern *(añadido el 11/08: el ave más registrada de
-  la costa en oct-nov —3.582— y ni ficha tenía; llegan de Europa a decenas de miles)*
 - **Gaviota cocinera** — *Larus dominicanus* · Kelp gull *(11/08: la grande de dorso negro,
-  empatada en registros con la Hartlaub que ya tenía ficha)*
 - **Estornino Naburup** — *Onychognathus nabouroup* · Pale-winged starling *(11/08: el de los
-  picnics de Sossusvlei y los acantilados de Damaraland)*
 - **Sisón de Damaraland** — *Heterotetrax rueppelii* · Rüppell's korhaan *(11/08: casi endémico,
-  en parejas junto a la carretera de Sossusvlei)*
 - **Avutarda de Namibia** — *Neotis ludwigii* · Ludwig's bustard *(11/08: En Peligro — los
-  tendidos eléctricos)*
 - **Alondra de las dunas** — *Calendulauda erythrochlamys* · Dune lark *(11/08: casi toda su
-  especie vive dentro de Namibia — con el matiz del IOC de 2024, que le fusionó la de Barlow)*
 - **Lorito de Rüppell** — *Poicephalus rueppellii* · Rüppell's parrot *(11/08: casi endémico,
-  citado en el propio cauce del Aba Huab)*
 - **Toco angoleño** — *Tockus monteiri* · Monteiro's hornbill *(11/08: el 10/08 quedó fuera por
-  Etosha —71 registros, «Escasa»— y era la pregunta equivocada: su casa es la escarpa de
-  Damaraland, donde sale «Frecuente»)*
 - **Inseparable de Namibia** — *Agapornis roseicollis* · Rosy-faced lovebird *(11/08: llevaba
-  desde el 03/08 citado de inquilino en la ficha del tejedor republicano, sin ficha propia)*
+- **Cantor de roca o rockrunner** — *Achaetops pycnopygius* · Rockrunner *(29/08 · casi endémico: 24 registros de oct-nov en Damaraland)*
+- **Papamoscas herero** — *Namibornis herero* · Herero chat *(29/08 · casi endémico: 27 en Damaraland)*
+- **Alcaudón de cola blanca** — *Lanioturdus torquatus* · White-tailed shrike *(29/08 · casi endémico: 74 en Damaraland)*
+- **Francolín de Hartlaub** — *Pternistis hartlaubi* · Hartlaub's spurfowl *(29/08 · casi endémico: 19 en Damaraland)*
+- **Carbonero de Carp** — *Melaniparus carpi* · Carp's tit *(29/08 · casi endémico: 83 en Damaraland)*
+- **Alondra de Gray** — *Ammomanopsis grayi* · Gray's lark *(29/08: 192 registros de oct-nov en la costa — vive en la gravilla del Namib)*
 
-### 🦎 Reptiles (16)
+### 🦎 Reptiles (17)
 
 *Las tres primeras van por seguridad: dormís trece noches en tienda.*
 
@@ -390,21 +437,13 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Tortuga leopardo** — *Stigmochelys pardalis* · Leopard tortoise
 - **Lagarto de nariz de pala** — *Meroles anchietae* · Shovel-snouted lizard
 - **Escinco arborícola del Kalahari** — *Trachylepis spilogaster* · Kalahari tree skink
-  *(añadido el 10/08: el lagarto diurno de los recintos — 38 de los 187 registros de reptil del
-  parque en oct-nov)*
 - **Gecko de Fischer** — *Chondrodactylus laevigatus* · Fischer's thick-toed gecko *(10/08: el
-  nocturno de los muros de Okaukuejo)*
 - **Galápago africano** — *Pelomedusa subrufa* · African helmeted turtle *(10/08: el de la
-  charca — documentado en el parque cazando quéleas en grupo; sin línea de posibilidades: su
-  clase no llega a la muestra mínima)*
 - **Gecko diurno del Namib** — *Rhoptropus afer* · Namib day gecko *(añadido el 11/08: un gecko
-  que cambió la noche por el día — la vuelta a la diurnidad está publicada — en las rocas de la
-  costa de la niebla)*
 - **Lagarto de nariz de cuña** — *Meroles cuneirostris* · Wedge-snouted sand lizard *(11/08: en
-  Sesriem/Sossusvlei tiene 4× más registros que el de nariz de pala — es el de la base de la
-  duna, por donde se camina; el de la pala vive ladera arriba y las dos fichas se cruzan aviso)*
+- **Gecko gigante del suelo** — *Chondrodactylus angulifer* · Giant ground gecko *(29/08: no trepa, vive en la arena)*
 
-### 🌊 La costa, la roca y la arena (7)
+### 🌊 La costa, la roca y la arena (11)
 
 *Lo de fuera de Etosha: Cape Cross (D7), la laguna de Walvis Bay (D5–D6) y los roquedos de
 Damaraland — con una excepción a caballo: la ardilla terrestre campa igual de bien por dentro del
@@ -413,17 +452,14 @@ parque, y de ahí sale su banda.*
 - **Lobo marino del Cabo** — *Arctocephalus pusillus* · Cape fur seal
 - **Delfín de Heaviside** — *Cephalorhynchus heavisidii* · Heaviside's dolphin
 - **Delfín mular** — *Tursiops truncatus* · Bottlenose dolphin *(añadido el 11/08: más registros
-  que el propio Heaviside en la zona —31 vs 26— y una población residente de menos de cien;
-  el 15 archivó su estacionalidad el 08/08 y nadie le hizo ficha hasta hoy)*
 - **Ballena jorobada** — *Megaptera novaeangliae* · Humpback whale *(añadida el 08/08: migra
-  frente a la costa jun–nov — los registros GBIF de la zona, consulta del 08/08/2026
-  archivada mes a mes en `15`, dan pico jul–sep y 27 aún en noviembre: el crucero del D6 cae en
-  temporada)*
 - **Damán roquero** — *Procavia capensis* · Rock hyrax
 - **Rata dassie o rata de las rocas** — *Petromus typicus* · Dassie rat *(añadida el 11/08:
-  la única especie viva de toda su familia, diurna en las peñas de Twyfelfontein — al lado del
-  damán, que es «el otro dassie»)*
 - **Ardilla terrestre del Cabo** — *Xerus inauris* · Cape ground squirrel
+- **Pingüino africano** — *Spheniscus demersus* · African penguin *(29/08: 65 registros de oct-nov en la caja de la costa de la ruta)*
+- **Alcatraz del Cabo** — *Morus capensis* · Cape gannet *(29/08: 228 registros de oct-nov ahí — no es rareza de Lüderitz)*
+- **Cormorán de las bancas** — *Phalacrocorax neglectus* · Bank cormorant *(29/08: 65 registros de oct-nov ahí)*
+- **Ballena franca austral** — *Eubalaena australis* · Southern right whale *(29/08, y con su aviso: 4 registros de oct-nov — se va antes de que lleguéis)*
 
 ### 🐞 Bichos (9)
 
@@ -442,20 +478,63 @@ sube termitas, y la banda mide registros, no presencia.*
 
 ---
 
+## Parte 2 · el resto de Namibia (24)
+
+Ni una ficha de aquí es una expectativa del viaje: **son los animales que el país tiene y que
+este itinerario no pisa**, con el sitio al que habría que ir a buscarlos. La que manda en estas
+fichas es la línea **«En Namibia»**, no la de arriba — en casi todas da cero, porque esa mide las
+cuatro zonas de la ruta.
+
+### 💧 El norte húmedo: el Zambeze, el Okavango y el Kunene (20)
+
+- **Hipopótamo** — *Hippopotamus amphibius* · Hippopotamus
+- **Cocodrilo del Nilo** — *Crocodylus niloticus* · Nile crocodile
+- **Búfalo cafre** — *Syncerus caffer* · African buffalo *(y por eso Etosha tiene cuatro de los «Big Five», no cinco — ver el aviso de arriba)*
+- **Licaón o perro salvaje africano** — *Lycaon pictus* · African wild dog *(49 registros en todo el país)*
+- **Antílope sable** — *Hippotragus niger* · Sable antelope *(el del 14 % de partes de Okaukuejo que en Etosha no existe: 235 registros en el país, 136 en Kavango)*
+- **Antílope ruano** — *Hippotragus equinus* · Roan antelope
+- **Antílope acuático o waterbuck** — *Kobus ellipsiprymnus* · Waterbuck
+- **Lechwe rojo** — *Kobus leche* · Red lechwe
+- **Puku** — *Kobus vardonii* · Puku *(**14** registros en todo el país, 13 en el Zambezi: no es que sea difícil de ver, es que casi no hay)*
+- **Sitatunga** — *Tragelaphus spekii* · Sitatunga *(14 registros en el país)*
+- **Tsessebe** — *Damaliscus lunatus* · Tsessebe
+- **Antílope jeroglífico o bushbuck** — *Tragelaphus sylvaticus* · Bushbuck
+- **Mono vervet o cercopiteco verde** — *Chlorocebus pygerythrus* · Vervet monkey
+- **Nutria de cuello manchado** — *Hydrictis maculicollis* · Spotted-necked otter
+- **Nutria del Cabo** — *Aonyx capensis* · African clawless otter *(la foto es de Shamvura, en el Kavango)*
+- **Abejaruco carmesí sureño** — *Merops nubicoides* · Southern carmine bee-eater *(el que las webs colocan en Etosha y no está: cero registros dentro del parque, 2.528 en el Zambezi)*
+- **Picotijera africano** — *Rynchops flavirostris* · African skimmer
+- **Búho pescador de Pel** — *Scotopelia peli* · Pel's fishing owl
+- **Garceta vinosa** — *Egretta vinaceigula* · Slaty egret *(vive casi solo en el Okavango y el Zambeze)*
+- **Pitón de roca sudafricana** — *Python natalensis* · Southern African rock python
+
+### 🌵 El Kalahari, el sur y lo que casi nadie ve (4)
+
+- **Suricata** — *Suricata suricatta* · Meerkat *(vuelve el 29/08, en su sitio: salió de la guía el 09/08 por no tocar la ruta, y es verdad — es del Kalahari)*
+- **Oricteropo o cerdo hormiguero** — *Orycteropus afer* · Aardvark *(vuelve el 29/08, en su sitio: **0 de 149 partes** de los tres campamentos, 73 registros en el país y el grueso en Otjozondjupa)*
+- **Pangolín de Temminck** — *Smutsia temminckii* · Temminck's ground pangolin *(43 registros en todo el país)*
+- **Pitón de Anchieta** — *Python anchietae* · Anchieta's dwarf python *(26 registros en el país, el grueso en Kunene: de las serpientes menos vistas de África)*
+
+---
+
 ## Cómo se regenera
 
 Todo vive en [`fuente/`](fuente/): `catalogo.py` fija qué fichero exacto de Wikimedia Commons usa
 cada especie, `descargar.py` los baja con su licencia y autoría, `textos_especies.py` guarda los
 rasgos de identificación, `textos_etosha.py` lo específico del parque, `textos_poblacion.py` las
 cifras de cuántos quedan, `textos_safari.py` los consejos, `avistamientos.py` los recuentos de
-GBIF y los porcentajes por campamento, y `guia_fauna.py` arma el HTML. El PDF lo imprime Chrome
+GBIF y los porcentajes por campamento **de las cuatro zonas de la ruta**, `pais.py` el reparto por
+**las trece regiones del país**, `geodatos.py regiones` el límite de cada una y `mapa.py` el mapa
+que las dibuja; `guia_fauna.py` arma el HTML. El PDF lo imprime Chrome
 desde `imprimir.py`, que es quien pone los números de página.
 
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
-imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
-que están las 197 imágenes, que ninguna se ha colado con licencia no libre, que los dos PDF tienen
-las páginas que deben y que los datos de avistamiento cubren las 148 especies.
+imágenes y recuentos incluidos; `make avistam` solo los recuentos de la ruta y `make pais` solo el
+reparto por regiones)*. Y **`make comprueba`** valida que están las 235 imágenes, que ninguna se ha
+colado con licencia no libre, que los PDF tienen las páginas que deben, que los datos de
+avistamiento cubren las 186 especies, que el reparto por regiones también — y que **ninguna ficha
+de la parte 2 se registra de verdad en la ruta**, que es lo que pasó con la grulla carunculada.
 
-*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/): son ~9,3 MB, y a cambio el PDF
-se puede regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una
-búsqueda. `avistamientos.py` es incremental desde el 15/08: solo baja lo que falte. · 15/08/2026*
+*Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/), y a cambio el PDF se puede
+regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una búsqueda.
+`avistamientos.py` y `pais.py` son incrementales: solo bajan lo que falte. · 29/08/2026*

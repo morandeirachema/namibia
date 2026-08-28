@@ -211,6 +211,14 @@ MAMIFEROS = [
      'Tree squirrel, Etosha National Park, Namibia.jpg'),
     ('mangosta-esbelta', 'Mangosta esbelta', 'Slender mongoose', 'Galerella sanguinea',
      'Slender Mongoose Etosha National Park Namibia, crop.jpg'),
+    # Vuelve el 29/08: salio del catalogo el 09/08 por vivir «en las lomas del extremo
+    # oeste de Etosha», pero la ruta cambio y ahora pisa DOS sitios donde si esta —la
+    # escarpa de Spreetshoogte (D2), donde la propia finca la anuncia (`11`), y
+    # Damaraland (D8-D9)—. El reparto por regiones de `pais.py` lo mide.
+    ('cebra-hartmann', 'Cebra de montaña de Hartmann', "Hartmann's mountain zebra",
+     'Equus zebra hartmannae', 'Equus zebra hartmannae - Etosha 2015.jpg'),
+    ('duiker-comun', 'Duiker común o cefalofo de Grimm', 'Common (grey) duiker',
+     'Sylvicapra grimmia', 'Sylvicapra grimmia ssp. caffra.jpg'),
 ]
 
 # Las rapaces, diurnas y nocturnas, tambien aparte desde el 15/08 y por el mismo motivo.
@@ -314,6 +322,11 @@ AVES = [
      'Sociable weaver (Philetairus socius).jpg'),
     ('flamenco-enano', 'Flamenco enano', 'Lesser flamingo', 'Phoeniconaias minor',
      'Flock of Lesser Flamingo along with juvenile near Jamnagar railway stationDSCN1798 1.jpg'),
+    # Estaba en la parte 2 hasta que se miro el dato: GBIF le da 18 registros de
+    # octubre-noviembre DENTRO del poligono de Etosha, mas que muchas fichas de la ruta.
+    # No es del Zambeze solamente; aqui tambien cria. Se mueve donde toca.
+    ('grulla-carunculada', 'Grulla carunculada', 'Wattled crane', 'Bugeranus carunculatus',
+     'Grus carunculata, Linyanti, Caprivi, Namibia 1.jpg'),
     ('grulla-azul', 'Grulla azul', 'Blue crane', 'Grus paradisea',
      'Grus paradisea Etosha 1.jpg'),
     ('ganga-namaqua', 'Ganga namaqua', 'Namaqua sandgrouse', 'Pterocles namaqua',
@@ -378,6 +391,21 @@ AVES = [
      'Tockus monteiri (606), crop.jpg'),
     ('inseparable-namibia', 'Inseparable de Namibia', 'Rosy-faced lovebird', 'Agapornis roseicollis',
      '087 Rosy-faced lovebird couple cuddling in Damaraland Photo by Giles Laurent.jpg'),
+    # Los casi endemicos del oeste, anadidos el 29/08 con el barrido de todo el pais:
+    # pajaros que practicamente solo existen en Namibia y el suroeste de Angola y que
+    # caen en el trozo de ruta de la escarpa, Erongo y Damaraland.
+    ('cantor-de-roca', 'Cantor de roca o rockrunner', 'Rockrunner', 'Achaetops pycnopygius',
+     'Rockrunner 143ND500 DSC0869.jpg'),
+    ('papamoscas-herero', 'Papamoscas herero', 'Herero chat', 'Namibornis herero',
+     'Namibornis herero K1.jpg'),
+    ('alcaudon-colablanca', 'Alcaudón de cola blanca', 'White-tailed shrike',
+     'Lanioturdus torquatus', 'White-tailed Shrike 143ND500 DSC0729.jpg'),
+    ('francolin-hartlaub', 'Francolín de Hartlaub', "Hartlaub's spurfowl",
+     'Pternistis hartlaubi', 'Hartlaub-s Spurfowl 143ND500 DSC0583.jpg'),
+    ('carbonero-carp', 'Carbonero de Carp', "Carp's tit", 'Melaniparus carpi',
+     "Carp's Tit (Melaniparus carpi) in Namibia.jpg"),
+    ('alondra-gray', 'Alondra de Gray', "Gray's lark", 'Ammomanopsis grayi',
+     "Gray's lark -4770 - Flickr - Ragnhild & Neil Crawford.jpg"),
 ]
 
 REPTILES = [
@@ -413,6 +441,8 @@ REPTILES = [
      'Rhoptropus afer 345390145.jpg'),
     ('lagarto-cuna', 'Lagarto de nariz de cuña', 'Wedge-snouted sand lizard', 'Meroles cuneirostris',
      'Meroles cuneirostris 345390278.jpg'),
+    ('gecko-suelo-gigante', 'Gecko gigante del suelo', 'Giant ground gecko',
+     'Chondrodactylus angulifer', 'Giant Ground Gecko (Chondrodactylus angulifer) (31145329777).jpg'),
 ]
 
 COSTA = [
@@ -430,6 +460,17 @@ COSTA = [
      '141 Dassie rat in Twyfelfontein Photo by Giles Laurent.jpg'),
     ('ardilla-terrestre', 'Ardilla terrestre del Cabo', 'Cape ground squirrel', 'Xerus inauris',
      'Cape ground squirrel, Xerus inauris, at Krugersdorp Game Reserve, Gauteng, South Africa (27410204561).jpg'),
+    # GBIF los sitúa en la caja de la costa de la ruta —Walvis Bay y Swakopmund—, así
+    # que van aquí y no en la parte de «el resto del país»: el alcatraz con 228 registros
+    # de oct-nov y el cormorán de las bancas con 65 no son una rareza de Lüderitz.
+    ('pinguino-africano', 'Pingüino africano', 'African penguin', 'Spheniscus demersus',
+     'Pingüino de El Cabo (Spheniscus demersus), Playa de Boulders, Simon\'s Town, Sudáfrica, 2018-07-23, DD 11.jpg'),
+    ('alcatraz-cabo', 'Alcatraz del Cabo', 'Cape gannet', 'Morus capensis',
+     'Cape gannet (Morus capensis) sideview.jpg'),
+    ('cormoran-bancas', 'Cormorán de las bancas', 'Bank cormorant', 'Phalacrocorax neglectus',
+     'Bank Cormorant (Phalacrocorax neglectus) (32414152818).jpg'),
+    ('ballena-franca', 'Ballena franca austral', 'Southern right whale', 'Eubalaena australis',
+     'Eubalaena australis 98405964.jpg'),
 ]
 
 BICHOS = [
@@ -453,6 +494,71 @@ BICHOS = [
      'Anopheles stephensi.jpeg'),
 ]
 
+# ---------------------------------------------------------------------------
+# La Namibia que este viaje NO pisa. Anadido el 29/08/2026.
+#
+# El resto del catalogo son animales de la ruta y llevan su porcentaje de avistamiento
+# medido. Estas tres listas son lo contrario: fauna que existe en el pais y que **con
+# este itinerario no se va a ver**, con el sitio al que habria que ir a buscarla. Van
+# en una parte aparte de la guia y con esa etiqueta, para que ni una ficha de aqui se
+# confunda con una expectativa del viaje.
+# ---------------------------------------------------------------------------
+
+NORTE = [
+    ('hipopotamo', 'Hipopótamo', 'Hippopotamus', 'Hippopotamus amphibius',
+     'Hipopótamo (Hippopotamus amphibius), parque nacional de Chobe, Botsuana, 2018-07-28, DD 82.jpg'),
+    ('cocodrilo-nilo', 'Cocodrilo del Nilo', 'Nile crocodile', 'Crocodylus niloticus',
+     'Nile crocodile in the Zambezi.jpg'),
+    ('bufalo-cafre', 'Búfalo cafre', 'African buffalo', 'Syncerus caffer',
+     'African buffalo (Syncerus caffer caffer) male with cattle egret.jpg'),
+    ('licaon', 'Licaón o perro salvaje africano', 'African wild dog', 'Lycaon pictus',
+     'African wild dog (Lycaon pictus pictus).jpg'),
+    ('sable', 'Antílope sable', 'Sable antelope', 'Hippotragus niger',
+     'Sable antelope (Hippotragus niger) adult male.jpg'),
+    ('roan', 'Antílope ruano', 'Roan antelope', 'Hippotragus equinus',
+     'Roan antelope (Hippotragus equinus) male walking.jpg'),
+    ('antilope-acuatico', 'Antílope acuático o waterbuck', 'Waterbuck', 'Kobus ellipsiprymnus',
+     'Antílope acuático (Kobus ellipsiprymnus), parque nacional de Chobe, Botsuana, 2018-07-28, DD 49.jpg'),
+    ('lechwe-rojo', 'Lechwe rojo', 'Red lechwe', 'Kobus leche',
+     'Red lechwe (Kobus leche leche) male.jpg'),
+    ('puku', 'Puku', 'Puku', 'Kobus vardonii',
+     'Kobus vardonii b.jpg'),
+    ('sitatunga', 'Sitatunga', 'Sitatunga', 'Tragelaphus spekii',
+     'Sitatunga (1).JPG'),
+    ('tsessebe', 'Tsessebe', 'Tsessebe', 'Damaliscus lunatus',
+     'Tsessebe (Botswana).jpg'),
+    ('antilope-jeroglifico', 'Antílope jeroglífico o bushbuck', 'Bushbuck',
+     'Tragelaphus sylvaticus', 'Cape bushbuck (Tragelaphus sylvaticus) female.jpg'),
+    ('mono-vervet', 'Mono vervet o cercopiteco verde', 'Vervet monkey',
+     'Chlorocebus pygerythrus',
+     'Chlorocebus pygerythrus.jpg'),
+    ('nutria-cuellomanchado', 'Nutria de cuello manchado', 'Spotted-necked otter',
+     'Hydrictis maculicollis', 'Spot-necked Otter (8379813628).jpg'),
+    ('nutria-cabo', 'Nutria del Cabo', 'African clawless otter', 'Aonyx capensis',
+     'Aonyx capensis, male, Shamvura.jpg'),
+    ('abejaruco-carmesi', 'Abejaruco carmesí sureño', 'Southern carmine bee-eater',
+     'Merops nubicoides', 'Merops nubicoides, Kasane, Botswana 1.jpg'),
+    ('picotijera-africano', 'Picotijera africano', 'African skimmer', 'Rynchops flavirostris',
+     'African skimmer in Chobe National Park 01.jpg'),
+    ('buho-pescador-pel', 'Búho pescador de Pel', "Pel's fishing owl", 'Scotopelia peli',
+     "Pel's Fishing-Owl - Malawi.jpg"),
+    ('garceta-vinosa', 'Garceta vinosa', 'Slaty egret', 'Egretta vinaceigula',
+     'Slaty egret, Egretta vinaceigula, Chobe National Park, Botswana. (32278292746).jpg'),
+    ('piton-roca', 'Pitón de roca sudafricana', 'Southern African rock python',
+     'Python natalensis', 'Southern African Python (Python natalensis) juvenile (6046152898).jpg'),
+]
+
+KALAHARI = [
+    ('suricata', 'Suricata', 'Meerkat', 'Suricata suricatta',
+     '112 Meerkat standing in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg'),
+    ('oricteropo', 'Oricteropo o cerdo hormiguero', 'Aardvark', 'Orycteropus afer',
+     'Orycteropus afer 175359469.jpg'),
+    ('pangolin', 'Pangolín de Temminck', 'Temminck\'s ground pangolin', 'Smutsia temminckii',
+     '20150808 Schuppentier am Waterberg.jpg'),
+    ('piton-anchieta', 'Pitón de Anchieta', "Anchieta's dwarf python", 'Python anchietae',
+     'Python anchietae (1).jpg'),
+]
+
 GRUPOS_FAUNA = [
     ('felino', 'Felinos', FELINOS),
     ('mamifero', 'Mamíferos', MAMIFEROS),
@@ -461,4 +567,7 @@ GRUPOS_FAUNA = [
     ('reptil', 'Reptiles', REPTILES),
     ('costa', 'La costa, la roca y la arena', COSTA),
     ('bicho', 'Bichos', BICHOS),
+    # La parte 2 de la guia: lo que hay en Namibia y este viaje no pisa.
+    ('norte', 'El norte húmedo: el Zambeze, el Okavango y el Kunene', NORTE),
+    ('kalahari', 'El Kalahari, el sur y lo que casi nadie ve', KALAHARI),
 ]

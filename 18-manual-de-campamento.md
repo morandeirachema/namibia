@@ -66,7 +66,7 @@ confirmar ❌.
   Se cierra húmeda si toca y **se abre a secar en la primera parada larga del día** ○: lona húmeda
   cerrada dos días huele a perro mojado.
 - **Dentro de la tienda no entra comida. Nunca.** ○ El chacal ronda los campamentos al anochecer
-  *(está hasta en su ficha de la [guía de fauna](guia-fauna-etosha.pdf))*, y lo que huele, atrae.
+  *(está hasta en su ficha de la [guía de fauna](guia-fauna-namibia.pdf))*, y lo que huele, atrae.
 - **Escalera: pisada firme y linterna colgada** ○ — el baño de las 3 a. m. con 18 °C ✅ no es
   problema; a oscuras y con prisa, sí.
 - **Tormenta eléctrica = a la cabina** ◐ — noviembre estrena las tormentas de Etosha *(`05`)*, y
@@ -176,7 +176,7 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 - **Escorpión y serpientes**: la prevención cabe en una línea — **botas sacudidas, linterna al
   baño, mirar dónde pisas al anochecer** ○ —; el protocolo entero de la picadura, con el hospital
   etapa a etapa, es el [`22`](22-picadura-de-escorpion.md), y las fichas de los bichos, la
-  [guía de fauna](guia-fauna-etosha.pdf).
+  [guía de fauna](guia-fauna-namibia.pdf).
 - **Mosquito al anochecer**: manga larga y repelente desde el crepúsculo ✅ — Etosha es zona de
   malaria y la profilaxis está en el [`04`](04-guia-preparacion.md).
 - **Y los buenos vecinos**: el cálao vigilando el desayuno, el francolín que os despertará sin

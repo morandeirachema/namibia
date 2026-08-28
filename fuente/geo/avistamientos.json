@@ -3689,6 +3689,918 @@
      "oct_nov": 0
     }
    }
+  },
+  "cebra-hartmann": {
+   "sci": "Equus zebra hartmannae",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SUBSPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 52,
+     "oct_nov": 23
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 55,
+     "oct_nov": 8
+    },
+    "damaraland": {
+     "registros": 28,
+     "oct_nov": 7
+    }
+   }
+  },
+  "duiker-comun": {
+   "sci": "Sylvicapra grimmia",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 17,
+     "oct_nov": 5
+    },
+    "costa": {
+     "registros": 3,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 2,
+     "oct_nov": 0
+    }
+   }
+  },
+  "cantor-de-roca": {
+   "sci": "Achaetops pycnopygius",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 10,
+     "oct_nov": 2
+    },
+    "costa": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 4,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 102,
+     "oct_nov": 24
+    }
+   }
+  },
+  "papamoscas-herero": {
+   "sci": "Namibornis herero",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 4,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 5,
+     "oct_nov": 1
+    },
+    "damaraland": {
+     "registros": 107,
+     "oct_nov": 27
+    }
+   }
+  },
+  "alcaudon-colablanca": {
+   "sci": "Lanioturdus torquatus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 17,
+     "oct_nov": 6
+    },
+    "costa": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 72,
+     "oct_nov": 7
+    },
+    "damaraland": {
+     "registros": 387,
+     "oct_nov": 74
+    }
+   }
+  },
+  "francolin-hartlaub": {
+   "sci": "Pternistis hartlaubi",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 72,
+     "oct_nov": 9
+    },
+    "costa": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 72,
+     "oct_nov": 19
+    }
+   }
+  },
+  "carbonero-carp": {
+   "sci": "Melaniparus carpi",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 113,
+     "oct_nov": 24
+    },
+    "costa": {
+     "registros": 3,
+     "oct_nov": 2
+    },
+    "namib": {
+     "registros": 2,
+     "oct_nov": 1
+    },
+    "damaraland": {
+     "registros": 369,
+     "oct_nov": 83
+    }
+   }
+  },
+  "alondra-gray": {
+   "sci": "Ammomanopsis grayi",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 900,
+     "oct_nov": 192
+    },
+    "namib": {
+     "registros": 14,
+     "oct_nov": 5
+    },
+    "damaraland": {
+     "registros": 27,
+     "oct_nov": 5
+    }
+   }
+  },
+  "gecko-suelo-gigante": {
+   "sci": "Chondrodactylus angulifer",
+   "clase": "Squamata",
+   "clase_clave": 11592253,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 5,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 22,
+     "oct_nov": 1
+    },
+    "damaraland": {
+     "registros": 1,
+     "oct_nov": 0
+    }
+   }
+  },
+  "hipopotamo": {
+   "sci": "Hippopotamus amphibius",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "cocodrilo-nilo": {
+   "sci": "Crocodylus niloticus",
+   "clase": "Crocodylia",
+   "clase_clave": 11493978,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "bufalo-cafre": {
+   "sci": "Syncerus caffer",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 1,
+     "oct_nov": 1
+    }
+   }
+  },
+  "licaon": {
+   "sci": "Lycaon pictus",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 1,
+     "oct_nov": 1
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "sable": {
+   "sci": "Hippotragus niger",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 3,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "roan": {
+   "sci": "Hippotragus equinus",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "antilope-acuatico": {
+   "sci": "Kobus ellipsiprymnus",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 5,
+     "oct_nov": 3
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "lechwe-rojo": {
+   "sci": "Kobus leche",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 3,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "puku": {
+   "sci": "Kobus vardonii",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "sitatunga": {
+   "sci": "Tragelaphus spekii",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "tsessebe": {
+   "sci": "Damaliscus lunatus",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 3,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "antilope-jeroglifico": {
+   "sci": "Tragelaphus sylvaticus",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "mono-vervet": {
+   "sci": "Chlorocebus pygerythrus",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "nutria-cuellomanchado": {
+   "sci": "Hydrictis maculicollis",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "nutria-cabo": {
+   "sci": "Aonyx capensis",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "abejaruco-carmesi": {
+   "sci": "Merops nubicoides",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 2,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 2,
+     "oct_nov": 0
+    }
+   }
+  },
+  "picotijera-africano": {
+   "sci": "Rynchops flavirostris",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "buho-pescador-pel": {
+   "sci": "Scotopelia peli",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "grulla-carunculada": {
+   "sci": "Bugeranus carunculatus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 40,
+     "oct_nov": 18
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "garceta-vinosa": {
+   "sci": "Egretta vinaceigula",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "piton-roca": {
+   "sci": "Python natalensis",
+   "clase": "Squamata",
+   "clase_clave": 11592253,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 8,
+     "oct_nov": 2
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "suricata": {
+   "sci": "Suricata suricatta",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 4,
+     "oct_nov": 2
+    },
+    "costa": {
+     "registros": 6,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 10,
+     "oct_nov": 5
+    },
+    "damaraland": {
+     "registros": 17,
+     "oct_nov": 3
+    }
+   }
+  },
+  "oricteropo": {
+   "sci": "Orycteropus afer",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 1,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 3,
+     "oct_nov": 0
+    }
+   }
+  },
+  "pangolin": {
+   "sci": "Smutsia temminckii",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 3,
+     "oct_nov": 1
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "piton-anchieta": {
+   "sci": "Python anchietae",
+   "clase": "Squamata",
+   "clase_clave": 11592253,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 3,
+     "oct_nov": 1
+    }
+   }
+  },
+  "pinguino-africano": {
+   "sci": "Spheniscus demersus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 180,
+     "oct_nov": 65
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "alcatraz-cabo": {
+   "sci": "Morus capensis",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 841,
+     "oct_nov": 228
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "cormoran-bancas": {
+   "sci": "Phalacrocorax neglectus",
+   "clase": "Aves",
+   "clase_clave": 212,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 345,
+     "oct_nov": 65
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
+  },
+  "ballena-franca": {
+   "sci": "Eubalaena australis",
+   "clase": "Mammalia",
+   "clase_clave": 359,
+   "rango": "SPECIES",
+   "zonas": {
+    "etosha": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "costa": {
+     "registros": 4,
+     "oct_nov": 3
+    },
+    "namib": {
+     "registros": 0,
+     "oct_nov": 0
+    },
+    "damaraland": {
+     "registros": 0,
+     "oct_nov": 0
+    }
+   }
   }
  },
  "campamentos": {

@@ -231,7 +231,7 @@ def a_html(texto, doc=None):
     # enlaces entre documentos -> anclas internas del propio PDF
     h = re.sub(r'href="(\d\d)-[a-z-]+\.md"', r'href="#doc-\1"', h)
     h = h.replace('href="README.md"', 'href="#presentacion"')
-    h = re.sub(r'href="guia-fauna-etosha\.pdf"', 'href="#fauna"', h)
+    h = re.sub(r'href="guia-fauna-namibia\.pdf"', 'href="#fauna"', h)
     h = re.sub(r'href="dossier-namibia-2026\.pdf"', 'href="#portada"', h)
 
     h = marca_texto(h)
@@ -444,7 +444,10 @@ def indice(paginas):
 # Vacio desde el 25/08: el unico que habia era el de la variante del CCF, y ese documento
 # se fue a `aparte/` — fuera del PDF. El mecanismo se queda montado por si vuelve a hacer
 # falta; `mapa.mapa_ruta_alt()` sigue existiendo y su SVG sigue generandose.
-MAPAS_EN_DOC = {}
+# El mapa que va DENTRO de un documento y no en las paginas de mapas del principio. En el
+# markdown va como <img> —para que GitHub lo pinte— y aqui se cambia por el SVG en linea:
+# sale vectorial y no depende de que el PNG este generado.
+MAPAS_EN_DOC = {"09": ("regiones", mapa.mapa_regiones)}
 
 
 def mete_mapas(html, doc):
@@ -595,7 +598,7 @@ def creditos_seccion():
   licencia — es lo que hace esta lista. El fichero exacto de cada una está en
   <code>fuente/catalogo.py</code>, y <code>fuente/descargar.py</code> rechaza cualquier imagen
   cuya licencia no sea libre. Los créditos de las <b>{n_fauna} fotografías de fauna</b> van en su
-  propio PDF, <code>guia-fauna-etosha.pdf</code>, donde se usan.</p>
+  propio PDF, <code>guia-fauna-namibia.pdf</code>, donde se usan.</p>
   <h2>Los lugares</h2><ul class="dos">{lug}</ul>
   <h2>Los mapas</h2>
   <ul class="dos">
