@@ -141,7 +141,9 @@ gantt
 > previsión de tu día**: el récord de noviembre en el sur llega a 41–42 °C (`15`).
 > **Regla de fuentes de este repo:** las webs de safaris fueron **refutadas 0–3** (`15`), así que
 > aquí solo hay **estación ✅** (o secundaria que la cite) y, donde no hay estación, **reanálisis
-> ERA5 ◐** validado a ±0,04 °C contra las estaciones (`15` §ERA5). Terrace Bay se queda en «sin
+> ERA5 ◐** ⚠️ *(cuyo ±0,04 °C es la **reproducibilidad del cálculo**, no el error contra
+> estaciones: contra estaciones ERA5 clava la meseta pero se queda **~2 °C corto en sabana seca** —
+> precisado el 28/08, `15` §ERA5)*. Terrace Bay se queda en «sin
 > dato» a propósito: su celda ERA5 es mar.
 >
 > ```mermaid
