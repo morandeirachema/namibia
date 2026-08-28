@@ -146,6 +146,21 @@ más, estos datos no lo dicen — así que no se dice.
 
 Puestos los intervalos del 95 %, de catorce especies **solo sobreviven tres diferencias**:
 
+> ⚠️ **Y hay que decir qué test es éste, porque cambia la respuesta** *(revisado el 28/08)*. «Que los
+> intervalos no se toquen» es un criterio **conservador**: equivale a exigir un α de ~0,005, no de
+> 0,05. Con el test que toca —**Fisher exacto, bilateral**— salen **cinco** diferencias a 0,05:
+> entran también el **rinoceronte negro de Halali** *(p=0,036)* y el **eland de Namutoni**
+> *(p=0,035)*, que aquí abajo figuran como ruido. Y en sentido contrario: aquí se hacen **42
+> comparaciones** *(14 especies × 3 pares)*, donde a 0,05 se esperan ~2 falsos positivos por puro
+> azar. Corrigiendo por eso **sobrevive UNA sola: el leopardo de Moringa** *(p=0,0001 → 0,006
+> corregido)*. El **guepardo de Namutoni** queda en p=0,004 sin corregir y **0,17 corregido**, sobre
+> **14 partes**, y siendo además **el máximo de tres campamentos** — que es exactamente el sesgo que
+> `avistamientos.py` documenta en su propio código *(«el maximo salia casi siempre de Namutoni, que
+> es la muestra pequena»)*. Se queda como **pista fuerte, no como hecho geográfico**: es la
+> diferencia entre planificar un día alrededor de él y usarlo para desempatar.
+
+**Con el criterio de los intervalos**:
+
 ```mermaid
 flowchart LR
 %% ancho

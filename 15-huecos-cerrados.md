@@ -916,6 +916,19 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   dos sitios identificados *(Twyfelfontein Country Lodge y la zona de Palmwag)* **son lodges**. Es el
   **único riesgo al alza serio del presupuesto**: presupuestada como camping *(~€35 la pareja)*,
   puede irse a **€150–200** si acaba siendo habitación *(`02` §3)*.
+- 🦓 **La cebra de montaña de Hartmann no tiene ficha, y el motivo por el que se excluyó el 09/08
+  era cierto solo dentro de Etosha** ❌ *(28/08)*. La ruta cruza su terreno clásico **dos veces** —la
+  escarpa de Spreetshoogte el D2 y Twyfelfontein → Palmwag → Grootberg el D8–D9— y GBIF le da, en
+  los propios polígonos de este repo, **55 registros en el Namib (8 en oct–nov)** y **28 en
+  Damaraland (7 en oct–nov)**. Es un animal grande y casi endémico que probablemente vean, y la guía
+  no lo lleva. **Cerrarlo cuesta una ficha y una banda calculada desde Damaraland/Namib, no desde
+  Etosha.**
+- 🌙 **El nocturno guiado de NWR estuvo cuatro días dado por perdido sin serlo** ✅ *(cerrado el
+  28/08)*. Se daba por caído desde el 24/08 «porque se compraba desde Namutoni»; la web de NWR lo
+  lista en **los tres campamentos** para nov 2026 – jun 2027 *(«Guided Night Drives · 750.00»)*, y
+  se duerme dentro dos noches. **Lo que queda abierto es su horario de salida y si aceptan reserva
+  anticipada** ❌ — se cierra en recepción *(+264 67 229 800)*. Y **la decisión de comprarlos**:
+  N$3.000 (~€150) la pareja por los dos, fuera del total hasta que se decida *(`02` §9)*.
 - 🦏 **El rastreo de rinoceronte: precio CERRADO el 28/08, y el encaje ROTO el mismo día.** La
   tarifa 2026/27 de Gondwana da el de **media jornada de Palmwag a N$3.975 (~€199) pp, mínimo 2** ✅
   — y con ella, el dato que faltaba: **sale entre las 06:00 y las 06:30**, no a media mañana. El

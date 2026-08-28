@@ -4,7 +4,7 @@
 >
 > El índice de la guía de campo en PDF: 148 especies con foto, cómo reconocerlas, **qué
 > posibilidades hay de verlas** y dónde y cuándo. *(Regla del 09/08: sin avistamientos, sin
-> ficha — fuera oricteropo, suricata y cebra de Hartmann. Una excepción consciente desde el
+> ficha — fuera oricteropo, suricata y cebra de Hartmann; **la de Hartmann, con el motivo revisado el 28/08: sí cae en el D2 y el D9, y su ficha es un hueco reconocido** ❌. Una excepción consciente desde el
 > 15/08: el gato de patas negras, ver abajo.)*
 >
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
@@ -124,11 +124,20 @@ específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
 - **El abejaruco carmesí no está en Etosha**: cero registros dentro del parque. El que sí veréis es
   el **abejaruco europeo**, que llega en octubre.
 - **La cigüeña de Abdim tampoco**: en Etosha es ave de febrero y marzo.
-- **La cebra de montaña de Hartmann no está en vuestro eje**: vive en las lomas de dolomita del
-  extremo oeste del parque — por eso, desde el 09/08, **no tiene ficha**: la vuestra es la de
-  Burchell *(el aviso de identificación va en su ficha)*.
-- **La suricata tampoco toca**: es del Kalahari y del sur — fuera de la ruta y, desde el 09/08,
-  **fuera de la guía**.
+- ⚠️ **La cebra de montaña de Hartmann: el motivo por el que se excluyó era cierto solo a medias, y
+  hay que decirlo** *(28/08)*. **Dentro de Etosha** sí es verdad —vive en las lomas de dolomita del
+  extremo oeste, a doscientos kilómetros del eje Okaukuejo–Namutoni— y ése fue el argumento del
+  09/08 para dejarla sin ficha. **Pero la ruta no es solo Etosha**: el **D2 cruza la escarpa de
+  Spreetshoogte** y el **D8–D9 va Twyfelfontein → Palmwag → paso de Grootberg**, que es su terreno
+  clásico. En los propios polígonos de este repo, GBIF le da **55 registros en el Namib (8 en
+  oct–nov)** y **28 en Damaraland (7 en oct–nov)**, varios de ellos con coordenada sobre la
+  carretera del D9. **Es un animal grande, conspicuo y casi endémico que probablemente veáis**, y la
+  guía no lleva su ficha: **hueco reconocido, pendiente de rehacer** ❌. Mientras tanto: la de Etosha
+  es la de **Burchell**; la de la escarpa y Damaraland, si tiene la grupa a rayas hasta la panza y
+  una papada bajo el cuello, es **la de Hartmann**.
+- **La suricata roza el extremo sur de la ruta** —hay registros en las llanuras de grava del Namib—
+  pero es rarísima aquí y no se planifica: **fuera de la guía por escasez, no por área** *(matizado
+  el 28/08: decía «es del Kalahari y del sur», y el área sí la roza)*.
 - **Y el oricteropo, fuera con su propio dato**: **0 de 149 partes sumando los tres campamentos
   —0 de 100 en Okaukuejo, 0 de 38 en Halali, 0 de 11 en Namutoni—** ◐ es la cifra más honesta
   del método *(ese 149 es la suma de partes, no los 149 viajeros de Okaukuejo: coincidencia
@@ -174,23 +183,36 @@ específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
 Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horarios de puerta calculados
 para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las **dos** charcas
 iluminadas que se pisan *(Okaukuejo y Moringa; King Nehale se perdió con la noche de Namutoni)*,
-el safari nocturno guiado de NWR *(**N$750 ≈ €38** por persona — **fuera del plan desde el
-24/08**: se compra durmiendo dentro)* y —decidido el 08/08— **las salidas guiadas de mañana
+el safari nocturno guiado de NWR *(**N$750 ≈ €38** por persona — **comprable las dos noches que se
+duerme dentro, D10 en Okaukuejo y D11 en Halali** ✅, corregido el 28/08)* y —decidido el 08/08— **las salidas guiadas de mañana
 desde los dos campamentos donde se duerme (N$650 ≈ €33 por persona)**: los traslados entre
 campamentos van con el 4x4 propio—, y un **bloque de
 seguridad** con las serpientes y el escorpión que de verdad importan.
 
-> 🔁 **Ajuste del 24/08, y afecta de lleno a las tres especies nocturnas.** **Namutoni sale del
-> plan**: las **dos últimas noches se duermen en [Onguma Tamboti](https://onguma.com/)**, reserva
-> privada fuera de la puerta de Von Lindequist. Consecuencia incómoda para la fauna: **el nocturno
-> guiado de NWR se cae** ❌ —se vende a quien duerme en el campamento, y ya no se duerme dentro—,
-> así que **la única forma de salir de noche pasa a ser el Sundowner Drive de Onguma (3 h, N$980 ≈
-> €49 pp ✅, tarifa oficial 2027)**, que **sale al atardecer y vuelve de noche, con foco y campo a
-> través** — las dos cosas prohibidas dentro del parque. Para el **zorro del Cabo**, el **gato
-> montés africano** y el **lobo de tierra**, eso es **una oportunidad, y fuera del parque en vez de
-> dentro**. ⚠️ Un «night drive» como tal **no figura en la tarifa de Onguma** ❌; el que sale de
-> noche es el sundowner. ❌ *Si NWR vende el nocturno a quien no pernocta, sin verificar: está
-> preguntado en el `20` §4.*
+> 🛑 **Corregido el 28/08, y es el error más caro de este documento en lo que toca al leopardo.**
+> Desde el 24/08 aquí se decía que **«el nocturno guiado de NWR se cae»** porque se compraba desde
+> Namutoni. **Es falso: el nocturno no era de Namutoni, es de los tres campamentos.** La web de NWR
+> lo lista, campamento por campamento y para la temporada de vuestras fechas *(nov 2026 – jun
+> 2027)*: **Okaukuejo, Halali y Namutoni · «Guided Night Drives · Per Person 750.00»** ✅. Y se
+> duerme dentro **dos noches**: **D10 en Okaukuejo y D11 en Halali**. La condición que este mismo
+> documento ponía —«se vende a quien duerme en el campamento»— **se cumple las dos veces**.
+>
+> 👉 **Lo que se perdió al dejar Namutoni fue la NOCHE del D12, no el producto.** Y el nocturno de
+> Halali es, con diferencia, **el mejor rato de leopardo de todo el viaje**: foco, pistas cerradas
+> al self-drive y el campamento con la única cifra de leopardo que aguanta el análisis *(31 %,
+> 12 de 39)*. La propia ficha de NWR lo dice: *«The thick vegetation in the area makes it a popular
+> draw to **leopards**, rhinos and elephants»* ✅. Que este repo tiene avistamientos de esos mismos
+> nocturnos ya estaba escrito aquí y nadie ató cabos: el **caracal a 20 m del coche** salió del
+> nocturno de Okaukuejo, y los dos búhos del de Halali.
+>
+> ➕ **Y hay una tercera actividad que este dossier nunca ha nombrado**: la **salida guiada de
+> TARDE**, también N$650 pp, en los tres campamentos ✅.
+>
+> El **Sundowner Drive de Onguma** *(3 h, N$980 ≈ €49 pp ✅)* **sigue valiendo y sigue comprado**:
+> sale al atardecer y vuelve de noche **con foco y campo a través**, las dos cosas prohibidas dentro
+> del parque, y para el **zorro del Cabo**, el **gato montés africano** y el **lobo de tierra** es
+> una oportunidad distinta —fuera del parque— y no un sustituto. ⚠️ Un «night drive» como tal **no
+> figura en la tarifa de Onguma** ❌; el que sale de noche es el sundowner.
 > ➕ **Y a cambio se abre algo que el parque prohíbe del todo**: el **paseo interpretativo a pie**
 > de Onguma *(1½ h, N$980 ≈ €49 pp ✅)* — rastros, huellas y escala del bicho a pie de suelo.
 

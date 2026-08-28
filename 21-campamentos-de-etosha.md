@@ -163,10 +163,12 @@ tarde** para ir a dormir a Onguma, y otra vez **el D13** en los dos sentidos.
 > torre del atardecer y **Chudop a un paso**, que es lo que de verdad compensa aquí. **Contad el
 > reloj hacia atrás desde las 19:10**, que es cuando cierra Von Lindequist.
 >
-> 🌙 **Y lo que se fue con la parcela es el nocturno guiado** *(N$750 · ~€38 pp)*: se compra
-> durmiendo en el campamento. Era la única forma legal de circular por Etosha a oscuras. **Lo que
-> queda es el Sundowner Drive de Onguma** —foco y campo a través, fuera del parque— *(`01` §D13)*.
-> ❌ *Que NWR lo venda a quien no pernocta, sin verificar: está preguntado en el `20` §4.*
+> 🌙 **Lo que se fue con la parcela es LA NOCHE del D12, no el nocturno guiado** *(corregido el
+> 28/08)*: el nocturno **se vende en los tres campamentos** *(N$750 · ~€38 pp, web de NWR, temporada
+> nov 2026 – jun 2027 ✅)*, así que **se compra igual el D10 en Okaukuejo y el D11 en Halali** — y
+> el de Halali es el mejor rato de leopardo del viaje. Lo que ya no se puede es salir de noche
+> **desde aquí**. El **Sundowner Drive de Onguma** —foco y campo a través, fuera del parque— es
+> otra cosa, no el sustituto *(`01` §D13)*.
 
 ### La charca King Nehale
 
@@ -247,9 +249,9 @@ camping:
 > Onguma que sirve para el guepardo. **Los dos están decididos y en el presupuesto** *(`02` §9,
 > `aparte/plan-del-guepardo.md`)*.
 
-> ⚠️ **El hueco honesto, y ahora pesa más: «night drive» NO figura en el tarifario oficial 2027**
-> ❌ — y **el nocturno de NWR ya no está disponible**, así que esto es lo único que queda para ver
-> fauna a oscuras. El que sale de noche es el **sundowner**. Dos agregadores independientes sí citan night drives en Onguma ◐
+> ⚠️ **El hueco honesto: «night drive» NO figura en el tarifario oficial 2027 de Onguma** ❌ — el
+> que sale de noche es el sundowner. *(Lo que decía aquí hasta el 28/08 —«el nocturno de NWR ya no
+> está disponible»— era falso: se compra el D10 y el D11, arriba.)* El que sale de noche es el **sundowner**. Dos agregadores independientes sí citan night drives en Onguma ◐
 > *([safaribookings](https://www.safaribookings.com/onguma) ·
 > [discoverafrica](https://www.discoverafrica.com/safaris/namibia/onguma-private-game-reserve/))*,
 > pero **sin precio ni horario**. Se pregunta al reservar.

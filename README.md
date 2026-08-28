@@ -109,6 +109,15 @@ flowchart LR
    en **cuatro ventanas diurnas** de animal suelto —el desvío obligatorio del D11, el traslado del
    D12, el D13 entero en las llanuras del este y el game drive de Onguma— sin red al final:
    [el plan del guepardo](aparte/plan-del-guepardo.md). La segunda noche de Onguma es **firme**.
+   🛑 **Y lo que destapó la auditoría del 28/08, que es la mejor noticia del mes para el leopardo:
+   el nocturno guiado de NWR NUNCA se cayó.** El dossier lo daba por perdido desde el 24/08 «porque
+   se compraba desde Namutoni», y **no es de Namutoni: la web de NWR lo vende en los tres
+   campamentos** *(«Guided Night Drives · 750.00», temporada nov 2026 – jun 2027 ✅)*. Se duerme
+   dentro dos noches, así que **se puede comprar dos veces — D10 en Okaukuejo y D11 en Halali**, y
+   el de Halali es **la única forma legal de estar en Etosha a oscuras con foco**, en el campamento
+   con la única cifra de leopardo que aguanta el análisis *(31 %)* y **en luna nueva**.
+   **N$750 · ~€38 pp cada uno** *(los dos: ~€150 la pareja, **fuera del total** hasta que se
+   decida)*. **Se piden en recepción al llegar a cada campamento.**
    🐆 **Y el leopardo, que es la otra prioridad declarada (27/08), tiene su plan aparte y sin
    decidir: [el plan de felinos](aparte/plan-felinos.md)** — lo que la ruta ya da *(Moringa, 31 %)* y
    la única vía casi segura que **no toca el D13 ni las noches de Onguma**: dormir el D14 en Okonjima
@@ -162,7 +171,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 164 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 166 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*

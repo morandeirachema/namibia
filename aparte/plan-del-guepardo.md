@@ -16,7 +16,7 @@
 
 ## 🔑 Lo que cambia todo, y está en la ficha de la propia guía
 
-> **«Manchas simples, no rosetas… Caza de día, a plena luz.»** ✅
+> **«Caza de día»** ✅ — y ahí está todo, porque el león y el leopardo no. ⚠️ *(Matizado el 28/08: «a plena luz» se leía como «también a mediodía», y no es así — la actividad va del amanecer a media mañana y otra vez antes del ocaso, y con los 37 °C de Etosha en noviembre aún más hacia el atardecer ◐.)*
 > *(ficha del guepardo, `guia-fauna-etosha.pdf`)*
 
 **El guepardo es el único de los seis felinos de la ruta que el horario diurno puede darte.** El
@@ -55,18 +55,43 @@ itinerario ya las tiene; el plan es no regalarlas.
 
 ### 1 · D13 (jue 12) — el día entero del este, y el mejor activo del viaje
 
-Es **el único día del viaje sin traslado y dentro del mejor terreno medido de guepardo**: ~70 km de
-safari, entrando al abrir y saliendo antes de cerrar ✅. **Von Lindequist, ~06:10–19:10** ◐, con
-**amanecer 06:07 y anochecer 19:05** ✅.
+Es **el único día del viaje sin un solo kilómetro de traslado**: ~70 km de safari, entrando al abrir
+y saliendo antes de cerrar ✅. **Von Lindequist, ~06:10–19:10** ◐, con **amanecer 06:07 y anochecer
+19:05** ✅.
 
-- 🕕 **Estar en la cola de la puerta a las 06:05**, no a las 07:30. La primera hora de luz en
-  llanura abierta es la mejor del día, y hoy no compite con ningún traslado.
-- 🚗 **El circuito**: Chudop → Klein Namutoni y el **Dik-dik Drive** → **Fischer's Pan**. En
-  noviembre Fischer's Pan está **seco** ◐ — mala noticia para el ave acuática, **buena para el
-  guepardo**: llanura abierta y visibilidad larga.
-- 🕐 **Y aquí va contra el instinto: no volver a comer.** El mediodía es hora muerta para casi todo
-  el catálogo **menos para éste**. Comida fría en el coche, y seguir.
-- 🕔 **La última hora de luz, otra vez en llanura**, no de camino a la ducha.
+> 🛑 **El circuito de este día se rehízo el 28/08, porque estaba en el terreno equivocado.** Hasta
+> hoy decía «Chudop → Klein Namutoni y el Dik-dik Drive → Fischer's Pan» y lo llamaba «el mejor
+> terreno medido de guepardo». **La propia ficha de guepardo de la guía dice dónde está el bicho**:
+> *«Llanura abierta del borde de la pan: **Salvadora, Sueda, Charitsaub, Batia y Okerfontein**»* — y
+> **ninguna de las cinco cae en este circuito** *(tres son del D11 y dos del D12)*. Peor: las tres
+> que sí caían son, por la propia guía, **lo contrario de llanura** — **Chudop** es charca con monte
+> alrededor *(ahí manda a buscar el kudú)*, el **Dik-dik Drive** es **monte espeso** *(ahí manda a
+> buscar el dik-dik)*, y **Fischer's Pan seco** es calcreta pelada, no pradera de springbok.
+>
+> **Y faltaba lo único que aquí es de verdad llanura abierta: ANDONI**, la pradera de hierba corta
+> al norte de Namutoni, que la propia guía cita cinco veces para las rapaces de campo abierto y como
+> el sitio de la grulla azul, y que este plan no nombraba ni una vez.
+
+- 🕕 **En la cola de la puerta a las 06:05**, no a las 07:30. La primera hora de luz en llanura
+  abierta es la mejor del día, y hoy no compite con ningún traslado.
+- 🌾 **06:15–09:30 · ANDONI, y esto es lo primero del día.** Namutoni → Tsumcor → **la llanura de
+  Andoni**, ~35–40 km al norte por la pista de King Nehale. Es **la única llanura de hierba corta de
+  verdad del sector este**, con springbok, órix y ñu al descubierto — la base de presa que la ficha
+  del guepardo nombra. Ida y vuelta despacio, **con los prismáticos arriba en cada loma**.
+- 🌴 **09:30–11:00 · el bucle de Fischer's Pan y Twee Palms** a la vuelta: sigue siendo visibilidad
+  larga, y las palmeras makalani son donde está el halconcito de cuello rojo.
+- 🕐 **11:00–16:00 · sombra, pero NO volver al campamento.** ⚠️ *(Matizado el 28/08: aquí se decía
+  que el mediodía «es la hora del guepardo». No lo es — caza sobre todo **del amanecer a media
+  mañana** y otra vez **antes del ocaso**, y con calor extremo se corre aún más al atardecer; con
+  los 37 °C de Etosha en noviembre, el mediodía es hora muerta también para él.)* La razón para no
+  volver es otra y sigue en pie: **ir y volver cuesta dos horas de conducción que no valen lo que
+  dan**. Aparcar mirando a campo abierto, motor parado, comida fría y turnos — uno con los ojos
+  arriba.
+- 🕔 **16:00–19:00 · otra vez a campo abierto**: Andoni de nuevo si la mañana pintó bien, o las
+  llanuras de Springbokfontein–Okerfontein al oeste de Namutoni.
+- 🐆 **Y el Dik-dik Drive, el último**, en la media hora final: es monte espeso a diez minutos de la
+  puerta — mal sitio para el guepardo y **buen sitio para un leopardo al anochecer**.
+- 🚪 **Fuera a las 19:00.**
 
 ### 2 · D12 (mié 11) — el traslado que puede dejar de ser un traslado
 
@@ -122,7 +147,7 @@ horario: «el CCF no me interesa; me parece más un zoo que ver a los animales e
 vuelve. Lo de abajo es el argumento del 26/08, que ya lo había sacado del plan.
 
 **Se ha descartado, y el motivo es este documento.** Bajar al CCF **gasta el D13**, que es la
-ventana nº 1 de esta lista: el único día del viaje sin traslado y dentro del mejor terreno medido de
+ventana nº 1 de esta lista: el único día del viaje sin traslado y en el mejor terreno disponible de
 guepardo. Era **cambiar el mejor día de guepardo salvaje por un guepardo seguro y cautivo** — y con
 el guepardo como prioridad declarada, la prioridad es el bicho suelto.
 

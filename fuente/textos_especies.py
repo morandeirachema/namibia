@@ -8,7 +8,7 @@ ID = {
  "rino-blanco": "Labio **ancho y cuadrado** para pacer hierba, cabeza baja y joroba en la nuca. Más grande y más sociable que el negro. Lo de «blanco» viene de *wijd* (ancho) en afrikáans.",
  "leon": "Melena en el macho, pardo uniforme. Con calor pasa el día tumbado a la sombra: la actividad es al alba, al anochecer y de noche.",
  "leopardo": "Rosetas **sin punto central**, cuerpo bajo y macizo, cola larguísima. Nocturno y arborícola: el más difícil de ver de los grandes.",
- "guepardo": "Manchas **simples**, no rosetas, y dos «lágrimas» negras del ojo a la boca. Silueta esbelta de galgo con cabeza pequeña. Caza de día, a plena luz.",
+ "guepardo": "Manchas **simples**, no rosetas, y dos «lágrimas» negras del ojo a la boca. Silueta esbelta de galgo con cabeza pequeña. Caza **de día**, y ahí está su ventaja frente al león y al leopardo — pero no a cualquier hora: sobre todo **del amanecer a media mañana** y otra vez **antes del ocaso**, y con calor extremo se corre aún más al atardecer ◐.",
  "jirafa": "La subespecie del suroeste, de manchas irregulares que se desvanecen hacia las patas. Al beber tiene que abrir las patas en compás: su momento más vulnerable, y el mejor para la foto.",
  "cebra-burchell": "La cebra de llanura: rayas **anchas** que siguen hasta la barriga, con «rayas de sombra» pardas intercaladas. Es la que forma manadas en las charcas.",
  "orix": "Cuernos rectos como lanzas —en el macho y en la hembra— y máscara facial en blanco y negro. Aguanta sin beber; es el emblema del país y sale en el escudo de Namibia.",

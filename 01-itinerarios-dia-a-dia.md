@@ -649,8 +649,9 @@ flowchart LR
 - ☀️ amanecer **06:09** (Halali) · anochecer **19:04** (Onguma) · 🚪 **Von Lindequist, tabla 2025 para 10–16 nov:
   06:10–19:10** ✅ — *hoy hay que cruzarla: se duerme fuera*
 - 🧭 **Salida guiada de mañana desde Halali — N$650 (~€33)/persona** ✅ — y el traslado por la
-  tarde con vuestro coche, parando en **Goas, Nuamses, Springbokfontein, Batia y Chudop** — el
-  corazón del safari. **Namutoni se visita entero** *(el fuerte alemán, su museo, la torre del
+  tarde con vuestro coche, parando en **Goas, Nuamses, Springbokfontein, Batia, Okerfontein y
+  Chudop** — el corazón del safari. *(**Okerfontein se añadió el 28/08**: es una de las cinco
+  charcas de guepardo que nombra la guía y estaba fuera de la lista.)* **Namutoni se visita entero** *(el fuerte alemán, su museo, la torre del
   atardecer)*, pero **ya no se duerme ahí**
 - 🚪 **Y hoy hay una hora nueva: HAY QUE SALIR DEL PARQUE.** Von Lindequist cierra a las **19:10**
   ✅ y **Onguma queda 3,4 km después** ✅ *(enrutado propio)* — con luz de sobra para montar. **Cuenta
@@ -724,13 +725,20 @@ flowchart LR
 >
 > - 🕕 **En la cola de Von Lindequist a las 06:05**, no a las 07:30. La primera hora de luz en
 >   llanura abierta es la mejor del día y hoy no compite con ningún traslado.
-> - 🚗 **Chudop → Klein Namutoni y el Dik-dik Drive → Fischer's Pan.** Que el Pan esté **seco** en
->   noviembre ◐ es mala noticia para el ave acuática y **buena para éste**: llanura abierta y
->   visibilidad larga.
-> - 🕐 **Y contra el instinto: no volver a comer.** El mediodía es hora muerta para casi todo el
->   catálogo **menos para el guepardo**. Comida fría en el coche, y seguir.
-> - 🕔 **La última hora de luz, otra vez en llanura** — no de camino a la ducha, y **por eso el
->   sundowner de Onguma no es hoy** *(abajo)*.
+> - 🌾 **06:15–09:30 · ANDONI primero** *(rehecho el 28/08)* — Namutoni → Tsumcor → la **llanura de
+>   Andoni**, ~35–40 km al norte: **la única pradera de hierba corta de verdad del este**, con
+>   springbok, órix y ñu al descubierto. **El circuito viejo —Chudop, Dik-dik Drive, Fischer's
+>   Pan— estaba en el terreno contrario**: charca con monte, monte espeso y calcreta pelada, y
+>   ninguna de las cinco charcas de guepardo que nombra la propia guía *(`aparte/plan-del-guepardo`)*.
+> - 🌴 **09:30–11:00 · el bucle de Fischer's Pan y Twee Palms** a la vuelta: visibilidad larga, y
+>   las palmeras del halconcito de cuello rojo.
+> - 🕐 **11:00–16:00 · sombra, pero sin volver al campamento.** No porque el mediodía sea la hora del
+>   guepardo *(no lo es: caza del amanecer a media mañana y otra vez antes del ocaso, y con 37 °C
+>   aún más — matizado el 28/08)*, sino porque **ir y volver cuesta dos horas que no valen lo que
+>   dan**. Motor parado mirando a campo abierto, comida fría y turnos.
+> - 🕔 **16:00–19:00 · otra vez campo abierto**, y **el Dik-dik Drive el último**, en la media hora
+>   final: es monte espeso — mal sitio para el guepardo y **buen sitio para un leopardo al
+>   anochecer**. Por eso **el sundowner de Onguma no es hoy** *(abajo)*.
 >
 > *Las cuatro ventanas de guepardo del viaje, ordenadas por lo que rinden y con sus horas, en
 > [el plan del guepardo](aparte/plan-del-guepardo.md).*
@@ -1002,24 +1010,40 @@ exactamente lo que el viajero valora**: decidido el 08/08. La aritmética antigu
 y trece horas de puerta»)* queda en `16` §7 por si algún día se revisa; los traslados y el
 mediodía siguen siendo vuestros.
 
-> ### ⚠️ El nocturno de NWR se cae del plan — y esto hay que leerlo entero *(24/08)*
-> De noche está **prohibido circular por libre** dentro de Etosha, así que el nocturno guiado era
-> **la única forma de estar en el parque a oscuras**: puercoespín, liebre saltadora, **zorro del
-> Cabo, gato montés africano o un lobo de tierra** *(los tres, con ficha en la guía)* — o leones
-> cazando. *(El oricteropo se quedó fuera de la guía a propósito: **0 % en 149 partes — nadie lo
-> vio**; lo que sí veréis son sus excavaciones en los termiteros.)*
+> ### 🛑 El nocturno de NWR **NO se cae**: se compra el D10 y el D11 *(corregido el 28/08)*
+> De noche está **prohibido circular por libre** dentro de Etosha, así que el nocturno guiado es
+> **la única forma legal de estar en el parque a oscuras**: puercoespín, liebre saltadora, **zorro
+> del Cabo, gato montés africano o un lobo de tierra** *(los tres, con ficha en la guía)*, leones
+> cazando — y **leopardo**. *(El oricteropo se quedó fuera de la guía a propósito: **0 % en 149
+> partes — nadie lo vio**; lo que sí veréis son sus excavaciones en los termiteros.)*
 >
-> **Se compra durmiendo en el campamento, y ya no se duerme en ninguno la noche del D12 ni la del
-> D13.** ❌ *Que NWR lo venda a quien no pernocta no está verificado — es la primera pregunta de la
-> llamada, 📞 +264 67 229 800.*
+> ⚠️ **Desde el 24/08 este dossier daba el nocturno por perdido «porque se compraba desde
+> Namutoni». Era falso, y ha costado cuatro días.** El nocturno **no es de Namutoni: es de los tres
+> campamentos**, y la web de NWR lo lista uno por uno para **la temporada de vuestras fechas**
+> *(nov 2026 – jun 2027)*: **Okaukuejo, Halali y Namutoni — «Guided Night Drives · Per Person
+> 750.00»** ✅. Se duerme dentro **dos noches**, así que **se puede comprar dos veces**:
+> - 🌙 **D10, Okaukuejo** — se pide en recepción al cruzar Andersson, con la guiada de mañana.
+> - 🐆 **D11, Halali — y ésta es LA noche de leopardo del viaje.** Foco, pistas cerradas al
+>   self-drive, y el campamento con la única cifra de leopardo que aguanta el análisis estadístico
+>   *(31 %, 12 de 39)*. La propia ficha de NWR: *«The thick vegetation in the area makes it a
+>   popular draw to **leopards**, rhinos and elephants»* ✅. Y cae **en luna nueva**.
 >
-> 👉 **Lo que hay en su lugar es el Sundowner Drive de Onguma, decidido el 26/08 para el D12**
+> **Lo que se perdió al dejar Namutoni fue la noche del D12, no el producto** — y con ella la
+> tercera oportunidad, no las tres. **Coste: N$750 · ~€38 pp cada uno** *(los dos, N$3.000 · ~€150
+> la pareja)*. ➕ **Y hay una tercera actividad que este dossier nunca nombró**: la **guiada de
+> TARDE**, N$650 (~€33) pp, también en los tres campamentos ✅.
+> ❌ *Los horarios de salida siguen sin publicarse y no se sabe si aceptan reserva anticipada: se
+> cierran en recepción al llegar a cada campamento* 📞 *+264 67 229 800.*
+>
+> 👉 **Y el Sundowner Drive de Onguma, decidido el 26/08 para el D12, sigue en pie y sigue siendo
+> otra cosa**
 > *(3 h, **N$980 · ~€49 pp** → **N$1.960 · ~€98 los dos** ✅)*: sale al atardecer y **vuelve de
 > noche, con foco y campo a través**. No es dentro de Etosha —es la reserva privada de 35.970 ha
 > que linda con ella— pero **da las dos cosas que el parque prohíbe**. *(El **paseo guiado a pie**,
 > 1½ h, N$980 · ~€49 pp, que el nocturno de NWR tampoco tenía, queda como opcional.)*
-> **El coste sube N$460 (~€23) la pareja** frente al nocturno de NWR, y a cambio se pierde el
-> escenario de Etosha de noche. **Y a la guiada de mañana de Namutoni la sustituye el game drive
+> **No sustituye al nocturno de NWR —eso era el error—: lo complementa.** El de NWR es Etosha a
+> oscuras, en pista; el de Onguma es **campo a través con foco fuera del parque**, que Etosha no
+> permite en ninguna circunstancia. **Y a la guiada de mañana de Namutoni la sustituye el game drive
 > guiado dentro de Etosha del D13** *(4 h, **N$1.930 · ~€97 pp** ✅)*, también decidido.
 >
 > ⚖️ **El choque de horarios está resuelto**: el sundowner sale al atardecer, así que **va el D12**
