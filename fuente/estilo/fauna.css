@@ -58,10 +58,10 @@
 .final li { break-inside: avoid; margin-bottom: 1mm; }
 .final .u { color: var(--tinta-3); word-break: break-all; }
 
-/* La linea de «donde vive en Namibia», que es la que convierte esto en una guia del
-   pais y no solo de la ruta. Va la ULTIMA de la ficha a proposito: en la charca se mira
-   primero si se va a ver y despues donde vive. Fondo verde para no confundirla con la
-   caja azul de «cuantos quedan», que es un censo y no un reparto. */
+/* La linea de «en la ruta», que reparte los registros entre las cuatro zonas del viaje
+   con el dia al lado. Va la ULTIMA de la ficha a proposito: en la charca se mira primero
+   si se va a ver y despues en que dia toca buscarlo. Fondo verde para no confundirla con
+   la caja azul de «cuantos quedan», que es un censo y no un reparto. */
 .sp .pais { margin: 1.2mm 0 0; font-size: 7.2pt; background: var(--verde-bg);
             padding: 1.1mm 1.6mm; border-radius: 1mm; }
 .sp .pais .marca-et { font-family: var(--sans); font-weight: 700; color: var(--verde);
@@ -69,18 +69,7 @@
                       margin-right: 1.4mm; }
 .sp .pais b { font-weight: 700; }
 
-/* El corte entre la parte 1 (la ruta) y la parte 2 (el resto del pais). Empieza pagina:
-   no es una seccion mas, es un cambio de lo que significan los numeros. */
-.fauna .parte { column-span: all; break-before: page; page-break-before: always;
-                break-inside: avoid; margin: 0 0 4mm; padding: 3.4mm 4mm;
-                background: var(--oxido); color: #fff; border-radius: 1.4mm; }
-.fauna .parte:first-child { break-before: auto; page-break-before: auto; }
-.fauna .parte h2 { margin: 0 0 1.6mm; font-family: var(--sans); font-size: 13pt;
-                   color: #fff; border: 0; padding: 0; }
-.fauna .parte p { margin: 0; font-size: 8.4pt; line-height: 1.35; }
-.fauna .parte strong { color: #fff; }
-
-/* El mapa de las regiones, dentro de la portadilla y cruzando las dos columnas. Va en
+/* El mapa de las zonas, dentro de la portadilla y cruzando las dos columnas. Va en
    SVG en linea —vectorial, y sin depender de que el PNG este generado—; el limite de
    alto es para que le quepa debajo el pie sin empujarlo a la pagina siguiente. */
 .portadilla .mapa-doc { column-span: all; margin: 4mm 0 3mm; text-align: center; }

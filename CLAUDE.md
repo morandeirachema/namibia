@@ -12,7 +12,6 @@ cd fuente
 make            los cuatro PDF
 make dossier    solo el dossier
 make fauna      solo la guía de campo
-make pais       el reparto por regiones: dónde vive cada bicho en Namibia
 make lamina     solo la lámina de ruta (A2, una hoja)
 make agenda     solo la agenda (el día a día del `01`, dos A4 por día: mapa y explicación)
 make avistam    recuentos de GBIF y porcentajes por campamento (las 4 zonas de la ruta)
@@ -163,51 +162,43 @@ que nada avisara. Los puntos que la ruta pisa pero que **no son ancla de enrutad
 Deadvlei y Torra Bay— no aparecen en ningún `por`, así que llevan su día escrito en la tabla
 `A_MANO` del propio script; es el único sitio donde se dice a mano en qué día cae un punto.
 
-## La guía de fauna es de TODO el país, en dos partes *(desde el 29/08)*
+## La guía de fauna es SOLO de los sitios a los que se va
 
-`guia-fauna-namibia.pdf` —antes `guia-fauna-etosha.pdf`— lleva **186 fichas y va partida en dos**,
-y el corte no es de estilo sino de honestidad:
+`guia-fauna-namibia.pdf` —antes `guia-fauna-etosha.pdf`, que mentía: cubre cuatro zonas, no un
+parque— lleva **159 fichas y todas caen en la ruta**. La regla del 09/08 *(sin avistamientos, sin
+ficha)* manda entera, y **desde el 29/08 está comprobada y no solo escrita**: `comprobar.revisa_ruta`
+exige que **cada ficha tenga al menos un registro de GBIF dentro de alguna de las cuatro zonas del
+viaje**, y lo que no lo tenga va en `catalogo.EXCEPCIONES_RUTA` **con su motivo escrito** *(hoy una
+sola: el shongololo, que no está en GBIF porque nadie sube milpiés)*.
 
-- **Parte 1 · la fauna de la ruta** *(162)* — los siete grupos de siempre. Cada ficha con **qué
-  posibilidades hay de verla**, medida en las cuatro zonas del viaje y filtrada a octubre y
-  noviembre. Aquí sigue mandando la regla del 09/08: sin avistamientos, sin ficha.
-- **Parte 2 · el resto de Namibia** *(24, grupos `norte` y `kalahari` en `catalogo.py`)* — lo que
-  el país tiene y **este itinerario no pisa**. Ni una ficha de aquí es una expectativa, y va
-  rotulada como tal. Ahí volvieron la suricata y el oricteropo, que el 09/08 habían salido.
+⚠️ **Esto se aprendió el 29/08 haciéndolo mal.** Ese día entraron **24 fichas del Zambeze, el
+Okavango y el Kalahari** —hipopótamo, licaón, sable, búfalo, suricata, pangolín— en una «parte 2»
+rotulada «lo que este viaje no pisa». **Se deshizo el mismo día, y el motivo es la regla**:
+rotularlo no arregla nada, porque en la guantera ocupa sitio una guía de un viaje que no se hace.
+Con ellas se fueron tres que tampoco llegaban al umbral de la ruta *(gecko gigante del suelo, 1
+registro de oct-nov; duiker común, 5; ballena franca austral, 3 y se va antes de noviembre)*.
 
-`guia_fauna.FUERA_DE_LA_RUTA` dice qué grupos son de la parte 2 y `comprobar.revisa_pais` **exige
-que sigan siéndolo**: si una ficha de la parte 2 pasa de diez registros de octubre-noviembre en
-alguna zona de la ruta, la comprobación falla y dice cuál. *(No es teórico: la grulla carunculada
-entró como fauna del Zambeze y tenía 18 registros dentro de Etosha. Y cuatro bichos de mar que se
-metieron como fauna de Lüderitz —alcatraz, cormorán de las bancas, pingüino y ballena franca—
-resultaron estar en la caja de Walvis Bay; los cinco están hoy en la parte 1.)*
+Lo que sí se quedó de aquel barrido son **once fichas que faltaban y son de la ruta**: la cebra de
+Hartmann *(23 registros de oct-nov en Etosha, 8 en el Namib, 7 en Damaraland — cierra el hueco que
+la auditoría del 28/08 dejó reconocido)*, cinco casi endémicos del oeste que caen en Damaraland
+*(alcaudón de cola blanca 74, carbonero de Carp 83, papamoscas herero 27, cantor de roca 24,
+francolín de Hartlaub 19)*, la alondra de Gray *(192 en la costa)*, tres bichos de mar que estaban
+en la caja de Walvis Bay *(alcatraz 228, cormorán de las bancas 65, pingüino 65)* y la grulla
+carunculada *(18 dentro de Etosha, aunque su casa sea el Okavango)*.
 
-## Dónde vive cada bicho, región por región — `pais.py`
+## La línea «En la ruta» de cada ficha, y su mapa
 
-La línea **«En Namibia»** que cierra cada ficha es la que convierte esto en una guía del país.
-Contesta **otra pregunta** que la de arriba y por eso va aparte: arriba, *¿lo vamos a ver en este
-viaje?* —cuatro zonas, octubre y noviembre—; abajo, *¿dónde vive?* — **las trece regiones de
-Namibia y sin filtrar por mes**, porque es una pregunta de mapa y no de calendario.
+La línea que cierra cada ficha reparte sus registros de GBIF entre **las cuatro zonas del viaje** y
+pone **el día al lado** — *«Damaraland (D8–D9) 83 · Etosha (D10–D13) 24…»*. La de arriba da **una**
+cifra y la de **una** zona, la mejor; ésta abre el reparto, que es lo que contesta la pregunta del
+que conduce: **en qué día toca buscar esto**. Sale de `guia_fauna.en_la_ruta()` y del mismo
+`geo/avistamientos.json` que la de arriba: **ni una consulta más ni un fichero más**.
 
-`pais.py` (`make pais`) se lo pide a GBIF por **`gadmGid`**, el código de la división
-administrativa, y lo cachea en `geo/fauna-pais.json`. El límite que dibuja cada región lo baja
-`geodatos.py regiones` de OpenStreetMap a `geo/regiones.json` — **catorce** relaciones, que son
-trece gid porque GADM aún trae Kavango entero *(la partición en Este y Oeste es de 2013)*. Reusa los
-taxones que `avistamientos.py` ya resolvió, así que va detrás de él, y es incremental: al añadir
-especies solo baja las clases que hagan falta.
-
-Tres reglas de la línea: **no se nombra una región con menos de cinco registros**; siempre va el
-recuento crudo detrás *(«de 445 registros en el país»)*, porque sin denominador un nombre propio
-suena a certeza; y lo que GBIF no sitúa en ninguna región —lo del mar, y lo que llegó sin
-coordenada— **se dice**, en vez de desaparecer de la resta.
-
-El mapa que sitúa las regiones es `mapa.mapa_regiones()` → `img/mapas/regiones.svg` y `.png`: las
-catorce regiones con un disco numerado, la ruta encima, y **cuántas fichas tienen su grueso en
-cada una**. Va dentro de la guía *(SVG en línea)* y dentro del `09` *(vía `dossier.MAPAS_EN_DOC`)*.
-⚠️ Cuidado con `geodatos._simplifica`: un anillo cerrado empieza y acaba en el mismo punto, la
-recta de referencia del primer corte de Douglas-Peucker mide cero y **el algoritmo de libro borra
-el país entero** — por eso el anillo se parte por su vértice más lejano y se simplifican las dos
-mitades como líneas abiertas.
+El mapa que la sitúa es `mapa.mapa_zonas()` → `img/mapas/zonas-fauna.svg` y `.png`: las cuatro
+zonas con la ruta encima y cuántas fichas tienen su grueso en cada una *(Etosha 97, la costa 31,
+Damaraland 18, el Namib 6)*. **Se dibuja desde el WKT que `avistamientos.py` cacheó**, no desde una
+geometría aparte: si la caja cambia, el mapa cambia con ella y la ficha no puede separarse del
+dibujo. Va dentro de la guía *(SVG en línea)* y dentro del `09` *(vía `dossier.MAPAS_EN_DOC`)*.
 
 ## Las posibilidades de avistamiento
 
@@ -223,9 +214,7 @@ por porcentaje *(si no, siete registros en Damaraland se convertían en «lo vai
 debajo de 10 registros de la especie o 120 de su clase **no se afirma nada**; y desde el 09/08,
 **la guía no lleva animales que nadie vio**: lo que la fuente sitúa fuera de la ruta o con 0 %
 medido de avistamiento sale del catálogo *(el mecanismo `FUERA_DE_RUTA` de banda forzada queda
-vacío, por si algún día vuelve a hacer falta)*. **Eso sigue rigiendo en la parte 1 y solo ahí**:
-desde el 29/08, lo que no toca la ruta ya no desaparece —se va a la parte 2, rotulada como lo que
-es—. **Una sola excepción consciente, desde el 15/08**:
+vacío, por si algún día vuelve a hacer falta)*. **Una sola excepción consciente, desde el 15/08**:
 el gato de patas negras entra con banda «Sin registros» porque el viajero pidió *todos* los
 felinos y la ficha sirve para no confundirlo con el gato montés — está escrito en la intro de
 Felinos y en el `09`; no es precedente para otras.
@@ -254,10 +243,9 @@ no avisa de nada: parece un problema de diseño de la portada. Por eso `.doc` ll
 
 ## Qué comprueba `comprobar.py`
 
-Que estén las 235 imágenes con licencia libre y autor, que el catálogo y los créditos cuadren, que
+Que estén las 208 imágenes con licencia libre y autor, que el catálogo y los créditos cuadren, que
 la geometría de la ruta esté completa, **que ningún porcentaje de avistamiento se quede sin su
-muestra detrás**, que las 186 especies tengan recuento —y **reparto por región**, y que las de la
-parte 2 sigan sin registrarse en la ruta—, que los PDF tengan las páginas que
+muestra detrás**, que las 159 especies tengan recuento y **que ninguna sea de fuera de la ruta**, que los PDF tengan las páginas que
 deben, **que la portada mida sus 267 mm** —si mide menos, Chrome ha encogido el documento— y que el
 README no mienta ni en el número de páginas ni en el índice de documentos.
 

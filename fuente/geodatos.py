@@ -5,9 +5,7 @@ Tres fuentes, todas libres:
   · Natural Earth 1:10M (dominio publico) -> contorno de Namibia y de los paises vecinos.
   · OSRM publico sobre OpenStreetMap      -> el trazado real de carretera de la ruta.
   · Overpass sobre OpenStreetMap (ODbL)   -> Etosha: la depresion, las pistas, las charcas,
-                                             los campamentos y las puertas; y el limite de las
-                                             catorce regiones del pais, que es el reparto con
-                                             el que la guia de fauna dice donde vive cada bicho.
+                                             los campamentos y las puertas.
 
 Todo se guarda en fuente/geo/*.json. `mapa.py` solo lee de ahi, asi que el build del PDF
 no necesita red. Uso:
@@ -161,101 +159,6 @@ out geom;"""
                 m["geometry"] = [{"lat": round(p["lat"], 3), "lon": round(p["lon"], 3)}
                                  for p in m["geometry"]]
     guarda("parques.json", d)
-
-
-# ---------------------------------------------------------------------------
-# 2 bis · Las catorce regiones de Namibia (Overpass)
-# ---------------------------------------------------------------------------
-
-# Como se llama cada region aqui y que gid de GADM le corresponde en GBIF. GADM
-# todavia trae Kavango entero —la particion en Este y Oeste es de 2013— asi que las
-# dos regiones de OSM apuntan al mismo gid y sus recuentos se suman al leerlos.
-REGIONES = {
-    "NA-CA": ("Zambezi", "NAM.13_1"),
-    "NA-ER": ("Erongo", "NAM.2_1"),
-    "NA-HA": ("Hardap", "NAM.3_1"),
-    "NA-KA": ("ǁKaras", "NAM.1_1"),
-    "NA-KE": ("Kavango Este", "NAM.4_1"),
-    "NA-KW": ("Kavango Oeste", "NAM.4_1"),
-    "NA-KH": ("Khomas", "NAM.5_1"),
-    "NA-KU": ("Kunene", "NAM.6_1"),
-    "NA-OW": ("Ohangwena", "NAM.7_1"),
-    "NA-OH": ("Omaheke", "NAM.8_1"),
-    "NA-OS": ("Omusati", "NAM.9_1"),
-    "NA-ON": ("Oshana", "NAM.10_1"),
-    "NA-OT": ("Oshikoto", "NAM.11_1"),
-    "NA-OD": ("Otjozondjupa", "NAM.12_1"),
-}
-
-
-def _dp(pts, tol):
-    """Douglas-Peucker sobre una linea ABIERTA."""
-    guarda_i, marcados = [(0, len(pts) - 1)], {0, len(pts) - 1}
-    while guarda_i:
-        i, j = guarda_i.pop()
-        if j <= i + 1:
-            continue
-        (y0, x0), (y1, x1) = pts[i], pts[j]
-        dx, dy = x1 - x0, y1 - y0
-        norma = (dx * dx + dy * dy) ** .5 or 1e-12
-        peor, idx = 0.0, i
-        for k in range(i + 1, j):
-            y, x = pts[k]
-            d = abs(dy * x - dx * y + x1 * y0 - y1 * x0) / norma
-            if d > peor:
-                peor, idx = d, k
-        if peor > tol:
-            marcados.add(idx)
-            guarda_i += [(i, idx), (idx, j)]
-    return [pts[k] for k in sorted(marcados)]
-
-
-def _simplifica(aro, tol):
-    """Douglas-Peucker sobre un anillo CERRADO, que es otra cosa.
-
-    Un anillo empieza y acaba en el mismo punto, asi que la recta de referencia del
-    primer corte mide cero y **todo el anillo se queda a distancia cero de ella**: el
-    algoritmo de libro devuelve dos puntos y borra el pais. Se parte el anillo por el
-    vertice mas lejano al inicio, se simplifican las dos mitades como lineas abiertas
-    y se vuelve a cerrar. El limite de Namibia trae decenas de miles de vertices y el
-    mapa del pais mide ~1,4 km por pixel: guardarlos todos es un megabyte de ruido.
-    """
-    if len(aro) < 5:
-        return aro
-    cerrado = aro[0] == aro[-1]
-    pts = aro[:-1] if cerrado else aro
-    y0, x0 = pts[0]
-    lejos = max(range(len(pts)), key=lambda k: (pts[k][0] - y0) ** 2 + (pts[k][1] - x0) ** 2)
-    fuera = _dp(pts[:lejos + 1], tol) + _dp(pts[lejos:] + [pts[0]], tol)[1:]
-    return fuera if cerrado else fuera[:-1]
-
-
-def regiones():
-    """El limite real de las catorce regiones administrativas, para el mapa del pais.
-
-    Se piden por su codigo ISO 3166-2 —NA-CA, NA-ER…— y no por nombre: los nombres
-    llevan tildes, barras y la letra ǁ del nama, y cualquiera de las tres formas de
-    escribirlos deja fuera media lista. La geometria se guarda redondeada a tres
-    decimales: es un mapa de pais, no un catastro.
-    """
-    print("Overpass · las catorce regiones de Namibia")
-    q = """[out:json][timeout:300];
-relation["boundary"="administrative"]["admin_level"="4"]["ISO3166-2"~"^NA-"];
-out geom;"""
-    d = overpass(q, timeout=300)
-    feats = []
-    for e in d.get("elements", []):
-        iso = e["tags"].get("ISO3166-2")
-        if iso not in REGIONES:
-            continue
-        nombre, gid = REGIONES[iso]
-        aros = [[(round(la, 3), round(lo, 3)) for la, lo in a] for a in anillos(e)]
-        aros = [_simplifica(a, 0.006) for a in aros if len(a) > 3]   # ~600 m
-        feats.append({"iso": iso, "nombre": nombre, "gadm": gid,
-                      "osm": e["id"], "anillos": aros})
-    if len(feats) != 14:
-        raise RuntimeError(f"esperaba 14 regiones y Overpass dio {len(feats)}")
-    guarda("regiones.json", {"regiones": feats})
 
 
 def etosha_pistas():
@@ -463,7 +366,6 @@ def interes():
 
 PASOS = [("paises.json", paises),
          ("parques.json", parques),
-         ("regiones.json", regiones),
          ("etosha_pan.json", etosha_pan),
          ("etosha_pistas.json", etosha_pistas),
          ("etosha_puntos.json", etosha_puntos),

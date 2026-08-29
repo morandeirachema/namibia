@@ -595,6 +595,55 @@ de la intro: ratonero estepario 45 en nov y 44 en dic *(0 de mayo a agosto)*, ag
 16 en nov, cenizo 10, pomerana 8, calzada 17, Wahlberg 14–18 de septiembre a noviembre *(llega a
 criar)*, milano negro 30 en nov y piquigualdo 48 en dic *(llegan con las lluvias)*.
 
+## 🦁 La guía de fauna, ampliada y luego podada — +11 fichas y una regla nueva *(29/08/2026)*
+
+Dos peticiones seguidas del viajero, y la segunda corrigió a la primera. **La primera**: «una guía
+más en profundidad de la fauna, con animales no solo en Etosha sino en toda Namibia». **La
+segunda, el mismo día**: «la guía de fauna solo de los sitios que vamos a visitar, no de zonas
+donde no vamos a ir».
+
+**Lo que se hizo primero y se deshizo**: un barrido de GBIF sobre las trece divisiones
+administrativas del país metió **24 fichas del Zambeze, el Okavango y el Kalahari** —hipopótamo,
+cocodrilo del Nilo, búfalo, licaón, sable, ruano, lechwe, puku, sitatunga, tsessebe, suricata,
+oricteropo, pangolín…— en una segunda parte de la guía rotulada «lo que este viaje no pisa». **Se
+retiró entera**, y el motivo es bueno: rotularlo no arregla nada, porque **en la guantera ocupa
+sitio una guía de un viaje que no se hace**. Con ellas se fueron tres que tampoco llegaban al
+umbral de la ruta: **gecko gigante del suelo** *(1 registro de oct-nov en el Namib)*, **duiker
+común** *(5 en Etosha)* y **ballena franca austral** *(3 en la costa, y se va de aquí antes de
+noviembre)*.
+
+**Lo que sí se quedó — once fichas que faltaban y son de la ruta**, cada una con su medida:
+
+- 🦓 **Cebra de montaña de Hartmann** — **23 registros de oct-nov en Etosha, 8 en el Namib, 7 en
+  Damaraland**. Cierra el hueco que la auditoría del 28/08 había dejado **reconocido y sin tapar**:
+  el motivo del descarte del 09/08 valía dentro del parque y no fuera de él.
+- 🐦 **Cinco casi endémicos del oeste, todos en Damaraland**: alcaudón de cola blanca *(74)*,
+  carbonero de Carp *(83)*, papamoscas herero *(27)*, cantor de roca *(24)* y francolín de Hartlaub
+  *(19)*. Son la razón por la que vienen ornitólogos a Namibia y la guía no los llevaba.
+- 🕊️ **Alondra de Gray** — **192 en la costa**: vive en la gravilla del Namib y es de su color exacto.
+- 🌊 **Tres bichos de mar que estaban en vuestra propia costa** y se habían metido como fauna del
+  sur: **alcatraz del Cabo** *(228)*, **cormorán de las bancas** *(65)* y **pingüino africano**
+  *(65)*, todos en la caja de Walvis Bay–Swakopmund.
+- 🕊️ **Grulla carunculada** — entró como fauna del Zambeze y resultó tener **18 registros de oct-nov
+  dentro del polígono de Etosha**. Su casa es el Okavango, pero aquí también está.
+
+**Y una línea nueva en cada ficha**, que es lo que queda de la petición de profundidad: **«En la
+ruta»** reparte los registros de la especie entre **las cuatro zonas del viaje** y pone **el día al
+lado** — *«Damaraland (D8–D9) 83 · Etosha (D10–D13) 24…»*—. La de arriba da una cifra y la de una
+zona; ésta abre el reparto y contesta la pregunta del que conduce: **en qué día toca buscarlo**.
+Sale del mismo `geo/avistamientos.json` que ya existía: **ni una consulta más ni un fichero más**.
+Con su mapa delante de las fichas *(`mapa.mapa_zonas`)*, dibujado **desde los mismos polígonos** con
+los que se cuenta en GBIF, para que la ficha y el mapa no puedan separarse.
+
+**Y la regla, que ahora se comprueba**: `comprobar.revisa_ruta` exige que **cada ficha tenga al
+menos un registro dentro de alguna de las cuatro zonas del viaje**, y lo que no lo tenga va en
+`catalogo.EXCEPCIONES_RUTA` **con su motivo escrito**. Hoy hay **una sola excepción**: el
+**shongololo**, que tiene cero registros porque a GBIF nadie sube milpiés, no porque no esté.
+
+*(La guía se llamaba `guia-fauna-etosha.pdf` y el documento `09-fauna-etosha.md`. Los dos se
+renombraron a `-namibia`: el nombre viejo mentía, porque la guía cubre cuatro zonas del país y no
+un parque. Total: **159 fichas, 208 imágenes**.)*
+
 ## 🧳 Franquicia de equipaje — cerrada ✅ *(07/08/2026)*
 
 Era uno de los huecos del README *(«tres aerolíneas en la vuelta»)* y se cierra con fuente
@@ -916,13 +965,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   dos sitios identificados *(Twyfelfontein Country Lodge y la zona de Palmwag)* **son lodges**. Es el
   **único riesgo al alza serio del presupuesto**: presupuestada como camping *(~€35 la pareja)*,
   puede irse a **€150–200** si acaba siendo habitación *(`02` §3)*.
-- 🦓 **La cebra de montaña de Hartmann no tiene ficha, y el motivo por el que se excluyó el 09/08
-  era cierto solo dentro de Etosha** ❌ *(28/08)*. La ruta cruza su terreno clásico **dos veces** —la
-  escarpa de Spreetshoogte el D2 y Twyfelfontein → Palmwag → Grootberg el D8–D9— y GBIF le da, en
-  los propios polígonos de este repo, **55 registros en el Namib (8 en oct–nov)** y **28 en
-  Damaraland (7 en oct–nov)**. Es un animal grande y casi endémico que probablemente vean, y la guía
-  no lo lleva. **Cerrarlo cuesta una ficha y una banda calculada desde Damaraland/Namib, no desde
-  Etosha.**
+- 🦓 ~~**La cebra de montaña de Hartmann no tiene ficha**~~ **CERRADO el 29/08** ✅. El motivo del
+  descarte del 09/08 era cierto solo dentro de Etosha *(destapado el 28/08)*: la ruta cruza su
+  terreno clásico **dos veces** —la escarpa de Spreetshoogte el D2 y Twyfelfontein → Palmwag →
+  Grootberg el D8–D9—. **Ya tiene ficha**, con la banda calculada donde toca: **23 registros de
+  oct-nov en Etosha, 8 en el Namib y 7 en Damaraland** *(sección de la guía, arriba)*.
 - 🌙 **El nocturno guiado de NWR estuvo cuatro días dado por perdido sin serlo** ✅ *(cerrado el
   28/08)*. Se daba por caído desde el 24/08 «porque se compraba desde Namutoni»; la web de NWR lo
   lista en **los tres campamentos** para nov 2026 – jun 2027 *(«Guided Night Drives · 750.00»)*, y

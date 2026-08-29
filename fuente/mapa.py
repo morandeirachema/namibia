@@ -1289,105 +1289,97 @@ def mapa_etosha(ancho=1000):
 # ---------------------------------------------------------------------------
 
 # ---------------------------------------------------------------------------
-# Mapa de las regiones · para la guia de fauna: donde vive cada bicho
+# Mapa de las zonas de la guia de fauna · donde se mide cada ficha
 # ---------------------------------------------------------------------------
 
-# Las cuatro regiones de Owambo y las dos del Kavango son franjas estrechas y pegadas:
-# escribirles el nombre encima las tapa y los rotulos se pisan entre si. Por eso el mapa
-# lleva un DISCO NUMERADO en cada una y la lista va aparte, en el hueco de Botsuana, que
-# es espacio que el encuadre tiene que reservar igualmente para que quepa la Franja de
-# Caprivi. Un par de discos se apartan a mano de su centroide, que cae en un rio.
-DISCO_REGION = {"NAM.7_1": (-17.55, 16.30), "NAM.10_1": (-17.85, 15.55),
-                "NAM.4_1": (-18.35, 20.10)}
+# Las cuatro zonas del viaje, en el orden en que se recorren, con el dia y el color con
+# el que van en la ficha. Son los MISMOS poligonos con los que `avistamientos.py` cuenta
+# en GBIF —el limite real del parque para Etosha y tres cajas para el resto—, y por eso
+# el mapa se dibuja desde el WKT cacheado y no desde una geometria aparte: si la caja
+# cambia, el mapa cambia con ella.
+ZONAS_FAUNA = [("namib", "El Namib", "D3–D4 · Sesriem y Sossusvlei", "#8A6210"),
+               ("costa", "La costa", "D5–D7 · Walvis Bay, Swakopmund y Cape Cross", "#2F6E8E"),
+               ("damaraland", "Damaraland", "D8–D9 · Twyfelfontein, Palmwag y Hoada", "#C2542F"),
+               ("etosha", "Etosha", "D10–D13 · el parque entero", "#5F7043")]
 
 
-def _centroide(anillo):
-    """Centroide de area de un anillo (lat, lon). El de la media de vertices se va al
-    lado donde la frontera tiene mas puntos, que en Namibia es siempre el rio."""
-    a = cx = cy = 0.0
-    for i in range(len(anillo) - 1):
-        y0, x0 = anillo[i]
-        y1, x1 = anillo[i + 1]
-        f = x0 * y1 - x1 * y0
-        a += f
-        cx += (x0 + x1) * f
-        cy += (y0 + y1) * f
-    if abs(a) < 1e-12:
-        return anillo[0]
-    a *= .5
-    return (cy / (6 * a), cx / (6 * a))
+def _poligono_zona(wkt):
+    """Los (lat, lon) de un POLYGON((lon lat, …)) como el que guarda avistamientos.json."""
+    dentro = wkt[wkt.index("((") + 2:wkt.rindex("))")]
+    pts = []
+    for par in dentro.split(","):
+        lon, lat = par.split()
+        pts.append((float(lat), float(lon)))
+    return pts
 
 
-def _fichas_por_region():
-    """Cuantas fichas de la guia tienen su GRUESO de registros en cada region.
+def _fichas_por_zona():
+    """Cuantas fichas de la guia tienen su GRUESO de registros de oct-nov en cada zona.
 
-    No es «cuantas especies viven ahi» —casi todas viven en varias— sino donde esta el
-    grueso de cada una, que es lo que contesta la pregunta util: si quiero ver esto,
-    ¿donde tengo que estar?"""
+    Es la pregunta util del que conduce: cuanta de esta guia se juega en cada tramo del
+    viaje. No es «cuantas especies viven ahi» —casi todas estan en varias— sino donde
+    esta el grueso de cada una."""
+    import avistamientos
     import catalogo
-    import pais
     cuenta = {}
     for _c, _n, lista in catalogo.GRUPOS_FAUNA:
         for slug, *_ in lista:
-            d = pais.donde(slug)
-            if d and d[1]:
-                cuenta[d[1]] = cuenta.get(d[1], 0) + 1
+            sp = avistamientos.datos().get("especies", {}).get(slug)
+            if not sp:
+                continue
+            mejor, n = None, 0
+            for z, v in sp["zonas"].items():
+                if v.get("oct_nov", 0) > n:
+                    mejor, n = z, v["oct_nov"]
+            if mejor:
+                cuenta[mejor] = cuenta.get(mejor, 0) + 1
     return cuenta
 
 
-# Las regiones que la ruta pisa, por su gid de GADM: Khomas (Windhoek), Hardap
-# (Sossusvlei), Erongo (la costa), Kunene (Damaraland y el oeste de Etosha), Oshana y
-# Oshikoto (el centro y el este del parque) y Otjozondjupa (la vuelta por Otjiwarongo).
-REGIONES_DE_LA_RUTA = {"NAM.5_1", "NAM.3_1", "NAM.2_1", "NAM.6_1",
-                       "NAM.10_1", "NAM.11_1", "NAM.12_1"}
+def mapa_zonas(ancho=1100):
+    """Las cuatro zonas en las que se mide la guia de fauna, sobre la ruta.
 
-
-def mapa_regiones(ancho=1180):
-    """Namibia por regiones, con la ruta encima y el recuento de fichas de cada una.
-
-    Es el mapa que hace legible la linea «En Namibia» de cada ficha: sin el, decir que
-    el hipopotamo esta en Kavango y el pinguino en ǁKaras no situa nada. Las regiones
-    que la ruta pisa van en color y las demas en gris: de un vistazo se ve que el norte
-    mojado —donde vive toda la parte 2 de la guia— se queda entero fuera del viaje.
+    Es el mapa que hace legible la linea «En la ruta» de cada ficha: sin el, decir que
+    el alcaudon de cola blanca tiene 74 registros en Damaraland no situa ni el sitio ni
+    el dia. Solo salen las zonas del viaje: donde vive la especie en el resto del pais
+    no es de esta guia, porque ahi no se va.
     """
-    import pais
-    L = Lienzo(sur=-29.10, oeste=11.62, norte=-16.85, este=25.45, ancho=ancho, margen=0)
-    cuenta = _fichas_por_region()
-    orden = {gid: i + 1 for i, (gid, _n, _a) in enumerate(pais.REGIONES)}
+    import avistamientos
+    L = Lienzo(sur=-25.85, oeste=11.75, norte=-17.30, este=20.30, ancho=ancho, margen=0)
+    cuenta = _fichas_por_zona()
+    zonas = avistamientos.datos().get("zonas", {})
 
-    cuerpo = [capa_paises(L, resaltar=None)]
-    centros = {}
-    for r in carga("regiones.json")["regiones"]:
-        gid = r["gadm"]
-        aros = [[tuple(p) for p in a] for a in r["anillos"]]
-        d = "".join(L.d(a, cerrar=True) for a in aros if len(a) > 3)
-        if not d:
-            continue
-        dentro = gid in REGIONES_DE_LA_RUTA
-        cuerpo.append(f'<path d="{d}" fill="{C["region"] if dentro else C["vecino"]}" '
-                      f'stroke="{C["tinta3"]}" stroke-width="{1.4 if dentro else .8}" '
-                      f'fill-rule="evenodd" stroke-linejoin="round"/>')
-        grande = max(aros, key=len)
-        # Kavango son dos poligonos con un solo gid: se queda el mas grande de los dos.
-        if gid not in centros or len(grande) > centros[gid][1]:
-            centros[gid] = (_centroide(grande), len(grande), dentro)
-
+    cuerpo = [capa_paises(L)]
     cuerpo.append(capa_parques(L, ["Namib-Naukluft", "Skeleton Coast", "Dorob", "Etosha"]))
     cuerpo.append(capa_pan(L))
-    cuerpo.append(capa_ruta(L, ancho=3.0))
 
-    for gid, (cen, _n, dentro) in centros.items():
-        lat, lon = DISCO_REGION.get(gid, cen)
+    etiquetas = []
+    for clave, nombre, cuando, color in ZONAS_FAUNA:
+        wkt = (zonas.get(clave) or {}).get("wkt")
+        if not wkt:
+            continue
+        pts = _poligono_zona(wkt)
+        cuerpo.append(f'<path d="{L.d(pts, cerrar=True)}" fill="{color}" fill-opacity=".16" '
+                      f'stroke="{color}" stroke-width="2.2" stroke-linejoin="round"/>')
+        lat = max(p[0] for p in pts)
+        lon = sum(p[1] for p in pts) / len(pts)
+        etiquetas.append((clave, nombre, cuando, color, lat, lon))
+
+    cuerpo.append(capa_ruta(L, ancho=3.2))
+
+    for clave, nombre, _cuando, color, lat, lon in etiquetas:
         x, y = L.xy(lat, lon)
-        col = C["oxido"] if dentro else C["tinta3"]
+        n = cuenta.get(clave, 0)
         cuerpo.append(
-            f'<circle cx="{x:.0f}" cy="{y:.0f}" r="11" fill="{col}" stroke="{C["papel"]}" '
-            f'stroke-width="2"/>'
-            f'<text x="{x:.0f}" y="{y + 4:.0f}" font-size="12" font-weight="800" '
-            f'fill="{C["papel"]}" text-anchor="middle">{orden[gid]}</text>')
+            f'<text x="{x:.0f}" y="{y - 23:.0f}" font-size="13" font-weight="800" '
+            f'fill="{color}" text-anchor="middle" paint-order="stroke" '
+            f'stroke="{C["papel"]}" stroke-width="3.6" stroke-linejoin="round">'
+            f'{esc(nombre)}</text>'
+            f'<text x="{x:.0f}" y="{y - 10:.0f}" font-size="10" fill="{color}" '
+            f'text-anchor="middle" paint-order="stroke" stroke="{C["papel"]}" '
+            f'stroke-width="3.2" stroke-linejoin="round">{n} fichas</text>')
 
-    for nom, lat, lon in [("ANGOLA", -17.05, 14.2), ("BOTSUANA", -20.6, 23.6),
-                          ("SUDÁFRICA", -28.75, 20.4), ("ZAMBIA", -17.05, 24.6)]:
+    for nom, lat, lon in [("ANGOLA", -17.45, 15.4), ("BOTSUANA", -21.9, 19.8)]:
         x, y = L.xy(lat, lon)
         cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="11" fill="{C["tinta3"]}" '
                       f'letter-spacing="2.2" font-weight="600" opacity=".75" '
@@ -1396,34 +1388,25 @@ def mapa_regiones(ancho=1180):
     cuerpo.append(escala(L, 44, L.alto - 44, 200))
     cuerpo.append(norte(L.ancho - 48, 54))
 
-    # ---- la lista, en el hueco de Botsuana ----
-    lx = L.xy(-21.6, 20.9)[0]
-    ly = 205                       # por debajo de la Franja de Caprivi, que llega arriba
-    alto_caja = 46 + 20 * len(pais.REGIONES)
-    ln = [f'<rect x="{lx - 14}" y="{ly - 30}" width="332" height="{alto_caja}" rx="7" '
-          f'fill="{C["papel"]}" opacity=".95" stroke="{C["borde"]}" stroke-width=".9"/>',
-          f'<text x="{lx}" y="{ly - 12}" font-size="13" font-weight="800" '
-          f'fill="{C["tinta"]}">Las trece regiones, y cuántas fichas</text>',
+    # ---- leyenda ----
+    lx, ly, an = L.ancho - 356, 56, 336
+    ln = [f'<rect x="{lx - 14}" y="{ly - 30}" width="{an}" height="{54 + 26 * len(ZONAS_FAUNA)}" '
+          f'rx="7" fill="{C["papel"]}" opacity=".95" stroke="{C["borde"]}" stroke-width=".9"/>',
+          f'<text x="{lx}" y="{ly - 12}" font-size="13" font-weight="800" fill="{C["tinta"]}">'
+          f'Dónde se mide cada ficha</text>',
           f'<text x="{lx}" y="{ly + 2}" font-size="9.6" fill="{C["tinta3"]}">'
-          f'tienen aquí su grueso de registros de GBIF</text>']
-    for i, (gid, nombre, apodo) in enumerate(pais.REGIONES):
-        y0 = ly + 24 + i * 20
-        dentro = gid in REGIONES_DE_LA_RUTA
-        col = C["oxido"] if dentro else C["tinta3"]
+          f'las cuatro zonas del viaje, y cuántas fichas se juegan en cada una</text>']
+    for i, (clave, nombre, cuando, color) in enumerate(ZONAS_FAUNA):
+        y0 = ly + 26 + i * 26
         ln.append(
-            f'<circle cx="{lx + 7}" cy="{y0 - 4}" r="7.5" fill="{col}"/>'
-            f'<text x="{lx + 7}" y="{y0 - 1}" font-size="9" font-weight="800" '
-            f'fill="{C["papel"]}" text-anchor="middle">{i + 1}</text>'
-            f'<text x="{lx + 20}" y="{y0}" font-size="10.5" '
-            f'font-weight="{700 if dentro else 400}" fill="{C["tinta"]}">'
-            f'{esc(nombre)}</text>'
-            f'<text x="{lx + 20 + 7.2 * len(nombre)}" y="{y0}" font-size="9.4" '
-            f'fill="{C["tinta3"]}"> · {esc(apodo)}</text>'
-            f'<text x="{lx + 300}" y="{y0}" font-size="10.5" font-weight="700" '
-            f'fill="{col}" text-anchor="end">{cuenta.get(gid, 0)}</text>')
-    y0 = ly + 30 + 20 * len(pais.REGIONES)
-    ln.append(f'<text x="{lx}" y="{y0}" font-size="9.6" fill="{C["tinta3"]}">'
-              f'En NARANJA, las siete regiones que pisa la ruta.</text>')
+            f'<rect x="{lx}" y="{y0 - 9}" width="15" height="11" fill="{color}" '
+            f'fill-opacity=".22" stroke="{color}" stroke-width="1.6"/>'
+            f'<text x="{lx + 23}" y="{y0}" font-size="11" font-weight="700" '
+            f'fill="{C["tinta"]}">{esc(nombre)}</text>'
+            f'<text x="{lx + 23}" y="{y0 + 11}" font-size="9.2" fill="{C["tinta3"]}">'
+            f'{esc(cuando)}</text>'
+            f'<text x="{lx + an - 28}" y="{y0}" font-size="12" font-weight="800" '
+            f'fill="{color}" text-anchor="end">{cuenta.get(clave, 0)}</text>')
     cuerpo.append("".join(ln))
 
     return envoltorio(L.ancho, L.alto, "".join(cuerpo))
@@ -1444,7 +1427,7 @@ def exporta(destino=None):
     hechos = []
     for nombre, fn, ancho in (("ruta", mapa_ruta, 1100), ("etosha", mapa_etosha, 1500),
                               ("ruta-alternativa", mapa_ruta_alt, 1100),
-                              ("regiones", mapa_regiones, 1180)):
+                              ("zonas-fauna", mapa_zonas, 1100)):
         svg = fn(ancho)
         ruta_svg = os.path.join(destino, nombre + ".svg")
         with open(ruta_svg, "w") as f:

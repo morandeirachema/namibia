@@ -171,11 +171,11 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 171 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 172 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
-🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-namibia.pdf) *(48 páginas, **186 especies con foto** y en dos partes: **162 de vuestra ruta**, cada una con **qué posibilidades hay de verla** medidas de verdad, y **24 del resto de Namibia** —el norte mojado del Zambeze y el Okavango, y lo del Kalahari que sale de noche— rotuladas como lo que son: lo que el país tiene y este viaje no pisa. **Desde el 29/08 cada ficha dice además en qué regiones de Namibia vive la especie**, con su reparto de registros por las trece divisiones del país y un mapa que las sitúa. Antes de las fichas, cómo se hace un safari)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
+🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-namibia.pdf) *(**159 especies con foto, todas de esta ruta y de ningún otro sitio**, cada una con **qué posibilidades hay de verla** medidas de verdad. **Desde el 29/08 cada ficha reparte además sus registros entre las cuatro zonas del viaje —el Namib, la costa, Damaraland y Etosha— con el día al lado**, que es lo que contesta la pregunta del que conduce: en qué día toca buscar esto. Ese mismo día se probaron 24 fichas de fuera de la ruta —el hipopótamo, el licaón, el sable del Zambeze— y se deshizo: en la guantera ocupa sitio una guía de un viaje que no se hace. Antes de las fichas, cómo se hace un safari)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
 
 📆 Y para la guantera, **el día a día y nada más**: [**la agenda**](agenda-namibia-2026.pdf) *(**32 páginas: portada y dos por día — el mapa con lo opcional, y la explicación—, y tres el D4, el de Sossusvlei y Deadvlei, que desde el 28/08 lleva el horario del día, las distancias, Big Daddy y la arena**. El mapa: el recorrido del día pintado por firme —asfalto, grava, sal o pista de parque—, los lugares de paso, las gasolineras obligatorias, dónde comer y qué ver de paso, y encima los kilómetros de cada firme con el tiempo mínimo y realista a las velocidades de planificación; **y debajo del mapa, lo opcional del día**: las joyas y posibles cosas que hacer si sobra tiempo, con su desvío medido y su precio, que son las viñetas del `10` tal cual. En la página siguiente, el itinerario del dossier sin la investigación detrás: horas, qué hacer, qué reservar, qué preguntar, el sol y la luna, las opciones ya decididas o abiertas y las casillas para marcar a boli. Se genera sola del documento `01` y de los tramos de OSRM: si cambia una noche, cambia la agenda)*.
 
@@ -588,7 +588,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 12. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
 13. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
 14. 🪘 [**`19-cultura-de-namibia`**](19-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
-15. 🦁 [**`09-fauna-namibia`**](09-fauna-namibia.md) — **guía de campo en PDF**: 186 especies con foto, en dos partes —162 de la ruta y 24 del resto del país—, qué posibilidades hay de ver cada una, **en qué regiones de Namibia vive**, dónde y cuándo, y cómo se hace un safari
+15. 🦁 [**`09-fauna-namibia`**](09-fauna-namibia.md) — **guía de campo en PDF**: 159 especies con foto, **todas de esta ruta**, qué posibilidades hay de ver cada una, **en qué zona del viaje cae y en qué día**, dónde y cuándo, y cómo se hace un safari
 16. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — **lo que la ruta pisa y el itinerario no nombra, día a día**: los Lone Stone Men, la cascada del Uniab, la plataforma de guano, la cruz de Diogo Cão, los grabados de Peet Alberts, los cañones del Otjikoto — cada joya con su desvío medido, y es lo que la agenda imprime como *opcional* bajo el mapa de cada día
 17. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
@@ -600,13 +600,16 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 21. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
 22. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
 
-📕 Y el PDF: [**`guia-fauna-namibia.pdf`**](guia-fauna-namibia.pdf) — la guía de campo, **48 páginas**, para imprimir.
+📕 Y el PDF: [**`guia-fauna-namibia.pdf`**](guia-fauna-namibia.pdf) — la guía de campo, **40 páginas**, para imprimir.
 Lleva **medidas** las posibilidades de ver cada bicho: los partes de avistamiento de los tres
 campamentos *(elefante 96 %, rinoceronte negro 82 %, león 70 %, leopardo 12 %)* y, para las que
 no tienen parte, el peso de la especie en los registros de GBIF de octubre y noviembre. Con su
 muestra detrás y con los sesgos escritos, no en letra pequeña — **y con la regla del 09/08: lo
-que nadie vio, no lleva ficha** *(el 0 % medido del oricteropo lo dejó fuera, con la suricata y
-la cebra de Hartmann, que no caen en la ruta)*.
+que nadie vio, no lleva ficha** *(el 0 % medido del oricteropo lo dejó fuera, y con él la
+suricata, que es del Kalahari; **la cebra de Hartmann volvió el 29/08**, porque la ruta cambió y
+ahora pisa la escarpa de Spreetshoogte y Damaraland, donde sí está)*. **Desde el 29/08 esa regla
+está comprobada y no solo escrita**: `make comprueba` exige que cada ficha tenga registros dentro
+de alguna de las cuatro zonas del viaje.
 
 ---
 
@@ -721,7 +724,7 @@ make gps        # el GPX y el KML            make comprueba  # las comprobacione
 make todo       # de cero: imágenes, geometría, avistamientos, mapas y los cuatro PDF
 ```
 
-> ⚠️ **`make todo` descarga de la red**: las ~235 imágenes con licencia libre, la geometría de
+> ⚠️ **`make todo` descarga de la red**: las ~208 imágenes con licencia libre, la geometría de
 > OpenStreetMap, el enrutado de OSRM y los recuentos de GBIF. Tarda, y depende de que esos
 > servicios respondan. **Para el uso normal basta `make`**, que trabaja con lo que ya está
 > cacheado en `fuente/geo/` y en `img/`.

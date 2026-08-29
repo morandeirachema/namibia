@@ -312,7 +312,7 @@ flowchart LR
 - 🐾 **Alrededor del camping** — el fijo: **chacal de lomo negro al anochecer, a por las sobras** ○
   *(comida y basura cerradas: protocolo en `18` §7)*. En el llano, GBIF de oct–nov da **órix y
   avestruz frecuentes y springbok presente** ◐ *(zona del Namib: 168, 389 y 41 registros oct–nov;
-  método y umbrales, en la [guía de fauna](guia-fauna-etosha.pdf))*
+  método y umbrales, en la [guía de fauna](guia-fauna-namibia.pdf))*
 - 🛏️ **🔑 DENTRO de la puerta: Sesriem Campsite — N$1.340 (~€67) los dos, primera de DOS noches** ✅
   — **RESERVADO (24/08)**, con las fechas nuevas *(2 y 3 de noviembre, un día antes de lo que decía
   el plan de agosto)*
@@ -449,7 +449,7 @@ flowchart LR
   dan la migración **jun–nov** *(pico jul–sep con 42; noviembre aún 27; diciembre se desploma a
   5 — consulta del 08/08/2026, archivada mes a mes en `15`)*; los **delfines se ven todo el año** *(el de
   Heaviside es residente de la corriente de Benguela — su ficha está en la guía; el mular,
-  práctica común de los cruceros ○)*. Ficha nueva en la [guía de fauna](guia-fauna-etosha.pdf) *(añadida el 08/08)*
+  práctica común de los cruceros ○)*. Ficha nueva en la [guía de fauna](guia-fauna-namibia.pdf) *(añadida el 08/08)*
 - Día libre: paseo marítimo, ostras, y la excursión guiada a **Sandwich Harbour en 4x4** —
   **decidida (24/08)** *(~N$2.600–3.220, ~€130–161 pp ◐)*; el **crucero de delfines y lobos**
   sigue abierto como alternativa o complemento del mismo día *(~N$1.400–1.990, ~€70–100 pp ◐)*
@@ -606,7 +606,7 @@ flowchart LR
   charca manda sola sobre la oscuridad total, y el cielo de la parcela es de libro
 - 🐾 **La cifra real de la charca, de partes de viajeros** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/okaukuejo-camp/reviews/1),
   149 viajeros desde 2018 — cada % lleva su propia muestra ◐)*: **rino negro 87 % (119 de 137), elefante 97 %, jirafa 99 %, león 68 %** —
-  andando desde la parcela *(método y las 148 fichas, en la [guía de fauna](guia-fauna-etosha.pdf))*
+  andando desde la parcela *(método y las 159 fichas, en la [guía de fauna](guia-fauna-namibia.pdf))*
 - 🛏️ **Camping Okaukuejo — N$920 (~€46) los dos** ✅ — **RESERVADO el 21/08**
 
 ### D11 · mar 10 — Safari Okaukuejo → Halali · **~110 km de safari lento** ◐ *(OSRM 108 por el desvío obligatorio; la directa eran ~70)*
