@@ -332,8 +332,12 @@ Fuentes: [namibweb — Skeleton Coast](https://www.namibweb.com/skeleton.htm) �
 
 ### D9 · dom 8 — Twyfelfontein → Palmwag → paso de Grootberg → Hoada
 
-- **La mañana ya tiene dueño**: el rastreo de rinoceronte de media jornada de Palmwag *(`11`)*.
-  No hay joya que compita con eso.
+- 🦏 **La mañana está libre, y el rastreo de rinoceronte de Palmwag NO la ocupa**: sale a las
+  **06:00–06:30** y desde Twyfelfontein se llega a las 08:45 *(28/08)*. Queda como **alternativa** y
+  sólo entra durmiendo el D8 en Palmwag — **N$3.975 (~€199) pp, mínimo 2** ✅.
+- **Lo que sí sale a las ~07:00 en Palmwag**, ya de paso y sin tocar dónde se duerme: **nature drive
+  de ~3 h, N$1.355 (~€68) pp** ✅, o las **caminatas guiadas de 2 y 5 km** *(N$400 y N$485 · ~€20 y
+  ~€24 pp)* ✅. Sin decidir *(`11`)*.
 - **El paso de Grootberg** *(C40, de paso)* ○ — la vista desde lo alto sobre el valle del Klip y las
   mesetas de basalto del Etendeka es la carretera bonita del país que el `01` ya promete: parar en
   el mirador, que después viene Hoada y su granito.

@@ -43,8 +43,9 @@ sobra un día.** Así que cualquier joya de este documento se paga de una de est
   fauna se echa a los arcenes.
 - **Quitando una noche a otro sitio** — y desde el **24/08 esto ya no está disponible**: la noche
   suelta que había *(la segunda de la escarpa de Spreetshoogte)* **ya se gastó**, y se gastó bien —
-  se fue a **Damaraland**, a partir en dos el día más largo de grava del viaje y **desbloquear el
-  rastreo de rinoceronte de Grootberg** *(la decisión del CCF, y el `11`)*. Lo que queda como colchón es **la noche del
+  se fue a **Damaraland**, a partir en dos el día más largo de grava del viaje *(la decisión del
+  CCF, y el `11`)* — **la mañana del D9 que compró no da para el rastreo de rinoceronte**, como se
+  vio el 28/08: sale a las 06:00–06:30. Lo que queda como colchón es **la noche del
   D8 en Twyfelfontein**, que a propósito no se reserva: es lo que se sacrifica si el vuelo se
   retrasa, sin perder un céntimo.
 - **Cambiando un tramo por otro** — que es el único caso en que un desvío puede salir **gratis o a
@@ -206,7 +207,7 @@ primera mitad no tiene nada reservado y la segunda sí**: Etosha está cerrada c
 ```mermaid
 flowchart LR
 %% ancho
-    A["YA GASTADO 24-08<br/>el dia entero en Spreetshoogte"] --> A2["se fue a DAMARALAND<br/>-> noche en Twyfelfontein el D8<br/>y manana libre el D9<br/>desbloquea el rastreo de rinoceronte"]
+    A["YA GASTADO 24-08<br/>el dia entero en Spreetshoogte"] --> A2["se fue a DAMARALAND<br/>-> noche en Twyfelfontein el D8<br/>y manana libre el D9<br/>(el rastreo de rinoceronte NO cabe:<br/>sale a las 06:00 - auditoria del 28-08)"]
     B["QUITAR LA 2a NOCHE DE ONGUMA<br/>el D13 · SIGUE DISPONIBLE"] --> B2["se duerme en el CCF<br/>-> Cheetah Run de las 08:00<br/>(Okonjima ya NO tiene guepardo)<br/>y el D14 deja de ser 539 km"]
     style A fill:#7D776E,color:#fff
     style B fill:#2d6a4f,color:#fff
@@ -219,11 +220,13 @@ flowchart LR
 - **Qué pasó (24/08)**: Spreetshoogte se quedó en **una sola noche** y el día liberado se fue a
   **Damaraland**. No fue a Otjitotongwe: fue a **partir en dos el día de ~370 km de grava**, con
   **noche propia en Twyfelfontein el D8** y **la mañana del D9 libre entera** *(ver la decisión del CCF, al lado)*.
-- **Y eso compra justo lo que este documento daba por imposible**: el **rastreo de rinoceronte
-  negro de media jornada de Palmwag**, que además cae **en mitad del D9** *(`11`)*. Ahora cabe.
-  ⚠️ *El de **día entero de Grootberg** sigue sin caber: saldría a primera hora y pediría conducir
-  grava de noche.* ❌ *El precio de los dos sigue sin publicarse: pídelo —
-  res4@journeysnamibia.com.*
+- **Y lo que se creyó que compraba, no lo compró** *(28/08)*: el **rastreo de rinoceronte negro de
+  media jornada de Palmwag** cae en mitad del D9, sí, pero **sale entre las 06:00 y las 06:30** y
+  desde Twyfelfontein se llega a las 08:45 — **no cabe**, y desde el 29/08 va como alternativa y no
+  como plan. Ya tiene tarifa: **N$3.975 (~€199) pp** ✅. Sólo entra **durmiendo el D8 en Palmwag**;
+  lo que sí cabe llegando a las 08:45 es su **nature drive de 3 h, N$1.355 (~€68) pp** ✅ *(`11`)*.
+  ⚠️ *El de **día entero de Grootberg** sigue sin caber y sigue **sin precio** ❌: saldría a primera
+  hora y pediría conducir grava de noche — res4@journeysnamibia.com.*
 - **Qué costó**: **el colchón**. Ya no hay ningún día que sacrificar si el vuelo se retrasa; la red
   que queda es **no reservar la noche del D8**, que es la única sin penalización.
 
