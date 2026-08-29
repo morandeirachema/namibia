@@ -141,10 +141,21 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
 
 - **D1 y D14, Windhoek** — Mediclinic Windhoek, urgencias **+264 61 433 1109** ✅ · Lady Pohamba,
   urgencias **+264 83 335 9036** ✅ · Roman Catholic, urgencias **+264 61 270 2443** ✅.
-- **D2–D4, Spreetshoogte y Sesriem** — **no hay hospital cerca** ❌: Windhoek a ~320 km y Walvis
-  Bay a ~270 km de grava, cuatro horas largas *(el `07` lo llama «la verdad incómoda»)*. Aquí
-  la llamada al NSIG y la ambulancia aérea van **antes** que el volante: se llama, se describe,
-  y se conduce hacia donde digan — o se espera al helicóptero donde digan.
+- **D2–D4, Spreetshoogte y Sesriem** — **no hay hospital con respirador cerca**, que es lo que
+  cuenta; pero **sí hay asistencia a menos de la mitad de distancia de la que decía este documento
+  hasta el 28/08**, y conviene saberlo antes de arrancar hacia Windhoek de noche ⚠️
+  *(distancias remedidas con el enrutado propio; centros localizados en OpenStreetMap ◐)*:
+  - **Desde Spreetshoogte (D2)**: **Rietoog Clinic a 83 km / ~1h05** · **St Mary's Hospital de
+    Rehoboth a 114 km / ~1h30** *(062 522 2006)* · Windhoek a **174 km / ~2h20**.
+  - **Desde Sesriem (D3–D4)**: **Maltahöhe Health Centre a 167 km / ~2h05** · Rietoog Clinic a
+    141 km / ~1h50 · Rehoboth a 251 km / ~3h · **Windhoek a 340 km / ~4h** y **Walvis Bay a
+    315 km / ~3h55** *(no los «~320 y ~270» que ponía aquí: los dos estaban cortos)*.
+  ⚠️ **Un health centre rural no es un hospital**: no cuentes con respirador ni con antiveneno, y
+  de sus horarios y su dotación **no hay nada publicado** ❌. Sirven para lo que sirven —oxígeno,
+  manos, y sobre todo un sitio conocido al que dirigir una evacuación—, y **están a dos horas en
+  vez de a cuatro**. Por eso el orden aquí no cambia: **la llamada al NSIG y a la ambulancia aérea
+  van ANTES que el volante** — se llama, se describe, y se conduce hacia donde digan, o se espera
+  al helicóptero donde digan.
 - **D5–D6, Walvis Bay y Swakopmund** — Welwitschia Hospital, urgencias **+264 64 218 911** ✅
   *(«24/7»)* · Mediclinic Swakopmund, urgencias **+264 64 412 205** ✅.
 - **D7, Terrace Bay** — nada al norte de Henties Bay: Swakopmund queda a más de 400 km de sal y
