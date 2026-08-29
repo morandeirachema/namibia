@@ -544,8 +544,10 @@ flowchart LR
   y el norte caluroso
 - ☀️ amanecer **06:17** (Twyfelfontein) · anochecer **19:15** (Hoada) — *y es domingo: sin alcohol
   a la venta* ✅ *(`08`)*
-- 🦏 **La mañana libre es el premio del día — y lo que desbloquea es el rastreo de rinoceronte.**
-  En el plan de agosto no cabía: se pasaba por aquí a mediodía con 343 km por delante *(`aparte/desvios`)*.
+- 🦏 **La mañana libre es el premio del día. El rastreo de rinoceronte 🟡 es una alternativa, no
+  el plan** *(bajado de rango el 29/08, a petición del viajero, con lo que la auditoría del 28/08
+  destapó)*. La mañana existe porque el 24/08 se partió en dos el día de 370 km *(`aparte/desvios`)*;
+  lo que no existe es el hueco horario que se le suponía.
   ⚠️ **Y aquí hay un problema de horario que el plan de agosto no vio, destapado el 28/08**: el
   rastreo de rinoceronte de media jornada de Palmwag **sale entre las 06:00 y las 06:30**, no a media
   mañana ✅ *(tarifa 2026/27 de Gondwana, la que opera Palmwag Lodge: «Half Day Rhino Tracking ·
@@ -1098,9 +1100,11 @@ persona y noche** ✅ — la reserva privada por el precio del parque, sin el lo
   con el 96+120 verificado el 03/08 y con los 216 del routeplanner)* **y Twyfelfontein → Palmwag →
   Hoada ≈ ~159 km** *(OSRM; «~2,5 h» del operador)*. El ~85 km que se manejó para la cola quedó
   **refutado** (menor que la línea recta de ~95 km). Detalle y fuentes en `13`.
-- ❌ **Lo que abre la noche nueva del D8, y todavía no tiene precio**: el **rastreo de rinoceronte
-  negro de media jornada de Palmwag** —el que encaja en el día— y el del **elefante del desierto de
-  Grootberg** *(res4@journeysnamibia.com · +264 61 228 104)*. Es el
-  mejor argumento del cambio y **sigue sin tarifa por escrito**: pídela.
+- ⚠️ **Lo que abría la noche nueva del D8 ya no es lo que parecía** *(cerrado el 28/08 y bajado de
+  rango el 29/08)*: el **rastreo de rinoceronte de media jornada de Palmwag** **ya tiene tarifa**
+  —**N$3.975 (~€199) pp, mínimo 2** ✅— pero **sale entre las 06:00 y las 06:30** y llegando desde
+  Twyfelfontein **no cabe**. Queda como alternativa y sólo entra durmiendo el D8 en Palmwag *(ver
+  D9)*. Lo que sigue **sin precio ❌** es lo de **Grootberg** —rastreo de rinoceronte de día entero,
+  que tampoco cabe, y elefante del desierto— *(res4@journeysnamibia.com · +264 61 228 104)*.
 - 🚧 **Las obras de Etosha** — **desvío obligatorio Okaukuejo→Halali en vigor hasta julio de 2027**
   *(afecta al D11; detalle y fuente en ese día)*. Confírmalo con NWR al reservar.

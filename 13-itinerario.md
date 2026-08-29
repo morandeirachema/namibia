@@ -107,8 +107,9 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
   a salir del parque el mismo día**. Llegando a media tarde, los grabados entran hoy o mañana
   temprano ✓ **Es la etapa que nació el 24/08**, de partir en dos el antiguo D9
 - **D9 · Twyfelfontein → Palmwag → Hoada (~159 km ◐, OSRM 158,7)** — grava entera *(107 + 51)*: a
-  60–70, **~2h15–2h35 de volante**; «~2,5 h» del operador. **Con la mañana libre entera**, que es lo
-  que desbloquea el rastreo de rinoceronte de media jornada de Palmwag, que cae a mitad de etapa *(`11`)* ✓
+  60–70, **~2h15–2h35 de volante**; «~2,5 h» del operador. **Con la mañana libre entera** — que no
+  llega a dar para el rastreo de rinoceronte de Palmwag, que sale a las 06:00–06:30 *(28/08)*: eso
+  queda como alternativa y sólo cabe durmiendo el D8 allí *(`11`)* ✓
   *(Hasta el 24/08 estos dos días eran **uno solo de ~370 km**, la etapa más dura del viaje, con la
   visita de Twyfelfontein metida en medio. Partirla cuesta **+3 km** y devuelve una mañana.)*
 - **D10 · Hoada → Okaukuejo (~343 km ◐, resuelto 04/08 y OSRM 342,6 — ver §3)** — grava hasta Kamanjab, asfalto después (firme de la C38
