@@ -738,64 +738,45 @@ def sin_sesgo(d):
     return False
 
 
-def revisa_pais():
-    """El reparto por regiones que sostiene la linea «En Namibia» de cada ficha.
+def revisa_ruta():
+    """Que la guia de fauna sea de los sitios a los que se va, y de ningun otro.
 
-    Tres cosas, y la tercera es la que de verdad importa: que **ninguna ficha de la
-    parte 2 tenga presencia de verdad en la ruta**. La parte 2 se titula «lo que este
-    viaje no pisa», y si GBIF empieza a registrar una de esas especies dentro de las
-    zonas del viaje, el titulo miente y la ficha tiene que cambiarse de sitio. Ya paso
-    el 29/08 con la grulla carunculada: entro como fauna del Zambeze y tenia 18
-    registros de octubre-noviembre dentro de Etosha.
+    Es la regla del 29/08, y no es teorica: ese dia entraron 24 fichas del Zambeze, el
+    Okavango y el Kalahari —hipopotamo, licaon, sable, suricata…— en una «parte 2»
+    rotulada como «lo que este viaje no pisa». Rotularlo no arregla nada: en la guantera
+    ocupa sitio una guia de un viaje que no se hace. Aqui se exige que **cada ficha tenga
+    al menos un registro de GBIF dentro de alguna de las cuatro zonas del viaje**, y lo
+    que no lo tenga va en `catalogo.EXCEPCIONES_RUTA` con su motivo escrito.
     """
-    import avistamientos
-    ruta = os.path.join(HERE, "geo", "fauna-pais.json")
+    ruta = os.path.join(HERE, "geo", "avistamientos.json")
     if not os.path.exists(ruta):
-        return mal("no existe geo/fauna-pais.json — ejecuta `python3 fuente/pais.py`")
+        return mal("no existe geo/avistamientos.json — no se puede comprobar la regla de la ruta")
     d = json.load(open(ruta))
-    esperadas = {e[0] for _, _, l in catalogo.GRUPOS_FAUNA for e in l}
-    faltan = esperadas - set(d.get("especies", {}))
-    sobran = set(d.get("especies", {})) - esperadas
-    if faltan:
-        mal(f"{len(faltan)} especies sin reparto por regiones: {sorted(faltan)[:4]}…")
-    if sobran:
-        mal(f"{len(sobran)} repartos de especies que ya no estan en el catalogo: {sorted(sobran)}")
-
-    regiones = d.get("regiones") or {}
-    if len(regiones) != 13:
-        mal(f"el reparto tiene {len(regiones)} regiones y Namibia tiene 13 en GADM")
-    sin_geo = [r for r in regiones if r not in
-               {x["gadm"] for x in json.load(open(os.path.join(HERE, "geo", "regiones.json")))["regiones"]}]
-    if sin_geo:
-        mal(f"regiones con recuento y sin limite que dibujar: {sin_geo}")
-    for nombre in ("regiones.svg", "regiones.png"):
-        if not os.path.exists(os.path.join(RAIZ, "img", "mapas", nombre)):
-            mal(f"falta img/mapas/{nombre}: la guia de fauna se queda sin el mapa de regiones")
-
-    # Lo importante: la parte 2 tiene que seguir siendo la parte 2.
-    try:
-        import guia_fauna
-        fuera = set(guia_fauna.FUERA_DE_LA_RUTA)
-    except Exception as e:                                        # noqa: BLE001
-        return mal(f"no se puede leer que grupos son de fuera de la ruta: {e}")
-    intrusos = []
-    for clave, _n, lista in catalogo.GRUPOS_FAUNA:
-        if clave not in fuera:
-            continue
+    excepciones = getattr(catalogo, "EXCEPCIONES_RUTA", {})
+    fuera, flojas = [], []
+    for _clave, _nombre, lista in catalogo.GRUPOS_FAUNA:
         for slug, es, *_ in lista:
-            sp = avistamientos.datos().get("especies", {}).get(slug, {})
-            mejor = max((z.get("oct_nov", 0) for z in sp.get("zonas", {}).values()),
-                        default=0)
-            if mejor >= avistamientos.MINIMO_ESPECIE:
-                intrusos.append(f"{es} ({mejor} registros de oct-nov en la ruta)")
-    if intrusos:
-        mal("hay fichas en «el resto de Namibia» que SI se registran en la ruta — "
-            f"cambialas de seccion: {', '.join(intrusos)}")
-
-    if not (faltan or sobran or sin_geo or intrusos):
-        n_fuera = sum(len(l) for c, _n, l in catalogo.GRUPOS_FAUNA if c in fuera)
-        bien(f"el pais: {len(esperadas)} especies repartidas en {len(regiones)} regiones, "
-             f"y las {n_fuera} de fuera de la ruta siguen fuera")
+            sp = d.get("especies", {}).get(slug)
+            if sp is None:
+                continue                       # lo cazan revisa_avistamientos y las imagenes
+            zonas = sp.get("zonas", {})
+            total = sum(z.get("registros", 0) for z in zonas.values())
+            if total == 0 and slug not in excepciones:
+                fuera.append(es)
+            mejor = max((z.get("oct_nov", 0) for z in zonas.values()), default=0)
+            if mejor == 0 and total and slug not in excepciones:
+                flojas.append(f"{es} ({total} registros, ninguno en oct-nov)")
+    if fuera:
+        mal("hay fichas SIN un solo registro dentro de las zonas del viaje — o son de otro "
+            f"sitio y sobran, o van a EXCEPCIONES_RUTA con su motivo: {', '.join(fuera)}")
+    sobran = set(excepciones) - {s for _c, _n, l in catalogo.GRUPOS_FAUNA for s, *_ in l}
+    if sobran:
+        mal(f"EXCEPCIONES_RUTA justifica fichas que ya no estan en el catalogo: {sorted(sobran)}")
+    if not (fuera or sobran):
+        n = sum(len(l) for _c, _n, l in catalogo.GRUPOS_FAUNA)
+        aviso = f" ({len(flojas)} sin registros de oct-nov, todas ya en la guia)" if flojas else ""
+        bien(f"la regla de la ruta: las {n} fichas caen en las cuatro zonas del viaje, "
+             f"con {len(excepciones)} excepcion(es) escritas{aviso}")
 
 
 def revisa_pdf(nombre, minimo):
@@ -1027,7 +1008,7 @@ def main():
     revisa_sol_y_luna()
     revisa_gps()
     revisa_avistamientos()
-    revisa_pais()
+    revisa_ruta()
     revisa_pdf("dossier-namibia-2026.pdf", 40)
     revisa_pdf("guia-fauna-namibia.pdf", 8)
     revisa_lamina()

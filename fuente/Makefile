@@ -29,11 +29,11 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam pais mapas charcas mymaps dossier fauna lamina agenda gps limpia comprueba
+.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps limpia comprueba
 
 all: dossier fauna lamina agenda gps
 
-todo: imagenes geo avistam pais mapas mymaps charcas dossier fauna lamina agenda gps
+todo: imagenes geo avistam mapas mymaps charcas dossier fauna lamina agenda gps
 
 imagenes:
 	$(PY) descargar.py
@@ -43,11 +43,6 @@ geo:
 
 avistam: | $(GEO)/ruta.json
 	$(PY) avistamientos.py
-
-# El reparto por regiones de la guia de fauna. Reusa los taxones ya resueltos por
-# avistamientos.py, asi que va detras de el.
-pais: | $(GEO)/avistamientos.json
-	$(PY) pais.py
 
 mapas: | $(GEO)/ruta.json
 	$(PY) mapa.py
@@ -59,7 +54,7 @@ charcas: | $(GEO)/avistamientos.json
 dossier: | $(IMG)/creditos.json $(GEO)/ruta.json
 	$(PY) dossier.py
 
-fauna: | $(IMG)/creditos.json $(GEO)/avistamientos.json $(GEO)/fauna-pais.json
+fauna: | $(IMG)/creditos.json $(GEO)/avistamientos.json
 	$(PY) guia_fauna.py
 
 # La lamina solo necesita la geometria: ni fotos ni avistamientos.

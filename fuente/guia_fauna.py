@@ -15,7 +15,6 @@ sys.path.insert(0, HERE)
 import avistamientos                                               # noqa: E402
 import catalogo                                                    # noqa: E402
 import mapa                                                        # noqa: E402
-import pais                                                        # noqa: E402
 import comun                                                       # noqa: E402
 import imprimir                                                    # noqa: E402
 from comun import RAIZ, marca_texto                                # noqa: E402
@@ -70,31 +69,29 @@ def metodo():
 """
 
 
-def _lider():
-    """La region con mas fichas y su cuenta, para no escribir el numero a mano."""
-    cuenta = mapa._fichas_por_region()
-    gid, n = max(cuenta.items(), key=lambda x: x[1])
-    return dict((g, nom) for g, nom, _a in pais.REGIONES)[gid], n
+def mapa_de_las_zonas():
+    """El mapa de las cuatro zonas en las que se mide la guia, dentro de la portadilla.
 
-
-def mapa_del_pais():
-    """El mapa de las trece regiones, en linea y cruzando las dos columnas.
-
-    Va DENTRO del documento y como SVG en linea, igual que el mapa de la variante en el
-    dossier: sale vectorial, no depende de que el PNG este generado y no hay que decidir
-    a que ancho se imprime. Sin este mapa, la linea «En Namibia» de cada ficha es una
-    lista de nombres propios que no situan nada.
+    Va como SVG en linea y cruzando las dos columnas: sale vectorial, no depende de que
+    el PNG este generado y no hay que decidir a que ancho se imprime. Sin el, la linea
+    «En la ruta» de cada ficha es una lista de nombres que no situa ni el sitio ni el dia.
     """
+    cuenta = mapa._fichas_por_zona()
+    lider = max(cuenta.items(), key=lambda x: x[1])
+    nombres = {c: n for c, n, _cu, _col in mapa.ZONAS_FAUNA}
     return f"""
-  <h2>Dónde vive cada bicho, y por dónde pasáis vosotros</h2>
-  <div class="mapa-doc">{mapa.mapa_regiones(1180)}</div>
-  <p class="pie-mapa"><strong>La última línea de cada ficha —«En Namibia»— dice en qué
-  regiones se ha registrado la especie y con cuántos registros.</strong> Este mapa es
-  dónde caen esas regiones. En naranja, las siete que pisa la ruta; en gris, las seis que
-  no — y ahí es donde vive entera la <strong>parte 2</strong> de la guía. El número de
-  cada región es cuántas de estas {total()} fichas tienen ahí <em>el grueso</em> de sus
-  registros: <strong>{_lider()[0]}</strong> se lleva {_lider()[1]} porque el este de Etosha es donde más
-  mira todo el mundo, y eso también es un sesgo del dato y no un ranking de riqueza.</p>"""
+  <h2>Dónde se mide cada ficha</h2>
+  <div class="mapa-doc">{mapa.mapa_zonas(1100)}</div>
+  <p class="pie-mapa"><strong>La última línea de cada ficha —«En la ruta»— reparte sus
+  registros entre las cuatro zonas del viaje, y con el día al lado.</strong> Este mapa es
+  dónde caen esas zonas: son los <em>mismos</em> polígonos con los que se cuenta en GBIF —el
+  límite real del parque para Etosha y tres cajas para el resto—, así que lo que dice la
+  ficha y lo que dibuja el mapa no pueden separarse. El número de cada zona es cuántas de
+  estas {total()} fichas tienen ahí <em>el grueso</em> de sus registros:
+  <strong>{nombres[lider[0]]}</strong> se lleva {lider[1]}, y eso es tanto porque hay más
+  fauna como porque es donde más mira todo el mundo — el sesgo está en el dato y se dice.
+  <strong>Fuera de estas cuatro zonas no se afirma nada</strong>: este viaje no va a más
+  sitios, y una guía que hable de donde no se va sobra en la guantera.</p>"""
 
 
 def portadilla():
@@ -112,16 +109,16 @@ def portadilla():
   —el de los carteles del parque—, la foto <strong>sin recortar</strong> <em>(los cuernos,
   el cuello y la cola se ven enteros, que es lo que sirve para identificar)</em> y los
   rasgos que distinguen a la especie <em>en el campo</em>. Debajo, dónde y cuándo verla,
-  cuántas quedan cuando hay una cifra publicada que citar, y <strong>en qué regiones de
-  Namibia vive</strong>.</p>
-  <p><strong>Y la guía va en dos partes, que no miden lo mismo.</strong> La
-  <strong>parte 1</strong> son las {de_la_ruta()} especies que caen en los 2.798 km de este
-  viaje, cada una con su posibilidad de avistamiento medida. La <strong>parte 2</strong> son
-  {del_resto()} que existen en Namibia y que <strong>este itinerario no pisa</strong> —el norte
-  mojado del Zambeze y el Okavango, y lo del Kalahari que sale de noche—: están para saber qué
-  tiene el país y qué haría falta para verlo, no para esperarlas en una charca de Etosha.</p>
+  cuántas quedan cuando hay una cifra publicada que citar, y <strong>en qué zona del viaje
+  cae</strong>, con los días al lado.</p>
+  <p><strong>Y aquí solo hay fauna de sitios a los que se va.</strong> Las {total()} fichas
+  caen en los <strong>2.798 km de este viaje</strong> y en ninguna otra parte: cada una tiene
+  registros de GBIF dentro de alguna de las cuatro zonas de la ruta. <em>(El 29/08 se probó lo
+  contrario —una segunda parte con el hipopótamo, el licaón y el sable del Zambeze y del
+  Okavango, rotulada «lo que este viaje no pisa»— y se deshizo el mismo día: rotularlo no
+  arregla nada, en la guantera ocupa sitio una guía de un viaje que no se hace.)*</em></p>
   {metodo()}
-  {mapa_del_pais()}
+  {mapa_de_las_zonas()}
   <h2>Cómo funciona el parque</h2>
   {INTRO_EXTRA}
   {NOCTURNO}
@@ -136,17 +133,16 @@ INTROS = {
               "banda dice lo que hay. El <strong>gato de patas negras</strong> va con un solo "
               "registro en toda la historia del polígono: está para saber distinguirlo del gato "
               "montés en el nocturno, no porque contéis con verlo.</p>",
-    "mamifero": "<p>Treinta y tres fichas, de lo que se ve en todas las charcas a lo que "
+    "mamifero": "<p>Treinta y dos fichas, de lo que se ve en todas las charcas a lo que "
                 "hay que tener suerte para cruzarse — los felinos van aparte, justo antes. "
                 "<strong>El orden no es alfabético: es el de siempre</strong> — primero los "
                 "grandes.</p>"
-                "<p><strong>Las dos últimas entraron el 29/08 con el barrido de todo el "
-                "país.</strong> La <strong>cebra de Hartmann</strong> había salido del catálogo "
-                "el 09/08 por vivir en las lomas del extremo oeste de Etosha, lejos del eje; "
-                "pero la ruta cambió y ahora pisa dos sitios donde sí está —la escarpa de "
-                "Spreetshoogte, donde la propia finca la anuncia, y Damaraland—. Y el "
-                "<strong>duiker común</strong>, que es el antílope pequeño que más se cruza de "
-                "noche en el bosque del norte.</p>",
+                "<p><strong>Y la última entró el 29/08:</strong> la <strong>cebra de "
+                "Hartmann</strong>, que había salido del catálogo el 09/08 por vivir en las lomas "
+                "del extremo oeste de Etosha, lejos del eje. La ruta cambió y ahora pisa dos "
+                "sitios donde sí está —la escarpa de Spreetshoogte, donde la propia finca la "
+                "anuncia, y Damaraland—, y el reparto lo confirma: <strong>23 registros de "
+                "octubre-noviembre en Etosha, 8 en el Namib y 7 en Damaraland</strong>.</p>",
     "rapaz": "<p><strong>Cuarenta rapaces, diurnas y nocturnas, y el criterio es el del "
              "método:</strong> entra toda la que GBIF registra <strong>diez veces o más en "
              "octubre-noviembre en alguna zona de la ruta</strong>. Las que se quedan por "
@@ -195,16 +191,14 @@ INTROS = {
               "salen a la pista tibia—, linterna para ir al baño, y si te encuentras una, "
               "<strong>quédate quieto y retrocede</strong>: casi todas las mordeduras pasan al "
               "intentar matarlas o cogerlas.</p>"
-              "<p>Las otras catorce son de las que apetece ver: el <strong>camaleón que "
+              "<p>Las otras trece son de las que apetece ver: el <strong>camaleón que "
               "corre</strong>, el <strong>gecko translúcido</strong> de las dunas, el "
               "<strong>agama naranja</strong> de las rocas de Damaraland, los tres "
               "del campamento de Etosha —el <strong>escinco</strong> de los recintos, el "
               "<strong>gecko</strong> de las noches de Okaukuejo y el <strong>galápago</strong> "
               "que caza quéleas— y los dos diurnos del 11/08: el <strong>gecko que cambió "
               "la noche por el día</strong> en la costa de la niebla y el <strong>lagarto de "
-              "nariz de cuña</strong> de la base de las dunas. Desde el 29/08, también el "
-              "<strong>gecko gigante del suelo</strong>, que no trepa: vive en la arena y de "
-              "día está bajo tierra.</p>",
+              "nariz de cuña</strong> de la base de las dunas.</p>",
     "costa": "<p>Etosha no es toda la fauna del viaje. Esto es lo que veréis <strong>fuera del "
              "parque</strong>: en <strong>Cape Cross</strong> (D7), en la laguna de "
              "<strong>Walvis Bay</strong> (D5–D6), en los roquedos de Damaraland y en la arena "
@@ -214,14 +208,14 @@ INTROS = {
              "La <strong>ardilla terrestre</strong> es la excepción a caballo: campa "
              "igual por dentro de Etosha —de ahí sale su banda— que por los campamentos "
              "del oeste.</p>"
-             "<p><strong>Los cuatro últimos son del 29/08 y estaban donde nadie los buscaba: en "
-             "vuestra propia costa.</strong> Se metieron en la guía como fauna del sur —las "
-             "islas de Lüderitz— y GBIF los devolvió a la caja de Walvis Bay y Swakopmund: "
+             "<p><strong>Los tres últimos son del 29/08 y estaban donde nadie los buscaba: en "
+             "vuestra propia costa.</strong> Se metieron en la guía como fauna del sur —las islas "
+             "de Lüderitz— y GBIF los devolvió a la caja de Walvis Bay y Swakopmund: "
              "<strong>alcatraz del Cabo</strong> (228 registros de octubre-noviembre ahí), "
-             "<strong>cormorán de las bancas</strong> (65), <strong>pingüino africano</strong> "
-             "(65) y la <strong>ballena franca austral</strong>, que es la excepción — cuatro "
-             "registros y se va antes de que lleguéis. Se quedan en la parte de la ruta porque "
-             "el dato dice que están, no porque apetezca.</p>",
+             "<strong>cormorán de las bancas</strong> (65) y <strong>pingüino africano</strong> "
+             "(65). Entran porque el dato dice que están. La <strong>ballena franca "
+             "austral</strong> venía con ellos y se quedó fuera el mismo día: cuatro registros, y "
+             "se va de esta costa antes de que lleguéis.</p>",
     "bicho": "<p>Los vecinos de cada braai — en un viaje de camping <strong>se dejan ver más "
              "que el leopardo</strong>, aunque en los registros ni salgan: a GBIF nadie sube "
              "termitas, y la banda de abajo mide registros, no presencia. "
@@ -232,29 +226,12 @@ INTROS = {
              "<p><strong>Y uno que no es anécdota:</strong> el mosquito. Es, de largo, el animal "
              "más peligroso de la ruta — la profilaxis está en "
              "<a href='#doc-04'><code>04</code></a>.</p>",
-    "norte": "<p><strong>Aquí empieza la Namibia que este viaje no ve.</strong> Todo lo de "
-             "abajo vive donde hay <strong>agua todo el año</strong>: la Franja de Caprivi, el "
-             "Okavango, el Kwando, el Chobe y el Zambeze, más el Kunene en la frontera con "
-             "Angola. Son 400 km al noreste de Etosha y otro viaje: la diferencia entre este "
-             "país y el de al lado <strong>no la marcan los animales, la marca el agua</strong> "
-             "<em>(el reparto entero, en <code>aparte/fauna-namibia-okavango-zambia.md</code>)</em>.</p>"
-             "<p><strong>Ninguna de estas fichas lleva porcentaje de avistamiento de vuestro "
-             "viaje, y no es un olvido:</strong> la línea de arriba mide las cuatro zonas de la "
-             "ruta y en casi todas da cero. Lo que hay que mirar aquí es la línea "
-             "<strong>«En Namibia»</strong>, que dice en qué región del país está cada una y "
-             "con cuántos registros. Dos avisos que da el propio dato: el "
-             "<strong>puku</strong> tiene <strong>catorce</strong> registros en todo el país "
-             "—trece en el Zambezi— y el <strong>sitatunga</strong>, catorce; no son animales "
-             "difíciles de ver, son animales que en Namibia casi no hay.</p>",
-    "kalahari": "<p>Y cuatro que no son de una región sino de una <strong>manera de vivir</strong>: "
-                "de noche, bajo tierra o en la arena roja del este. La <strong>suricata</strong> "
-                "es del Kalahari y por eso salió del catálogo el 09/08 — vuelve aquí, en su "
-                "sitio. El <strong>oricteropo</strong> y el <strong>pangolín</strong> son los "
-                "dos animales que todo guía africano quiere enseñar y casi ninguno enseña: "
-                "73 y 43 registros en todo el país, y de noche. Y la <strong>pitón de "
-                "Anchieta</strong>, con 26 registros, es de las serpientes menos vistas de "
-                "África y vive precisamente en el noroeste, cerca de por donde pasáis.</p>",
 }
+
+# El nombre de cada zona con el dia del viaje al lado: «Damaraland» a secas no dice
+# cuando, y lo que se pregunta en el coche es en que dia toca buscar el bicho.
+ZONA_DIA = {"etosha": "Etosha (D10-D13)", "damaraland": "Damaraland (D8-D9)",
+            "costa": "la costa (D5-D7)", "namib": "el Namib (D3-D4)"}
 
 PELIGRO = {"reptil"}
 
@@ -286,19 +263,29 @@ def verlo(slug):
             f'<span class="fino">{detalle}</span></p>')
 
 
-def en_namibia(slug):
-    """La linea de «donde vive en Namibia», que es la que hace de esta una guia del pais.
+def en_la_ruta(slug):
+    """La linea de «en que parte de la ruta cae», con las cuatro zonas del viaje.
 
-    La de arriba (`verlo`) contesta si se va a ver EN ESTE VIAJE, con las cuatro zonas de
-    la ruta y filtrada a octubre y noviembre. Esta contesta donde vive, con las trece
-    regiones y sin filtrar por mes. Son preguntas distintas y por eso van en dos lineas
-    distintas: mezclarlas es como sumar el mapa y el calendario.
+    La de arriba (`verlo`) da UNA cifra y la de UNA zona: la que mas registros tiene.
+    Esta abre el reparto — cuanto de Etosha, cuanto de la costa, cuanto del Namib, cuanto
+    de Damaraland—, que es lo que contesta la pregunta del que conduce: **en que dia del
+    viaje toca buscar esto**. Y se queda en las zonas del viaje a proposito: donde vive la
+    especie en el resto del pais no es de esta guia, porque ahi no se va *(29/08)*.
     """
-    d = pais.donde(slug)
+    d = avistamientos.datos().get("especies", {}).get(slug)
     if not d:
         return ""
-    texto, _region = d
-    return (f'<p class="pais"><span class="marca-et">En Namibia</span>{texto}</p>')
+    filas = [(ZONA_DIA[z], n) for z in ("etosha", "damaraland", "costa", "namib")
+             for n in [d["zonas"].get(z, {}).get("oct_nov", 0)] if n]
+    if not filas:
+        return ""
+    total = sum(n for _, n in filas)
+    if total < 5:
+        return ""
+    cabeza = " · ".join(f'<b>{z}</b> {comun.mil(n)}'
+                        for z, n in sorted(filas, key=lambda x: -x[1]))
+    return (f'<p class="pais"><span class="marca-et">En la ruta</span>{cabeza} — '
+            f'de {comun.mil(total)} registros de oct-nov en las cuatro zonas</p>')
 
 
 def ficha(slug, es, en, sci):
@@ -316,36 +303,14 @@ def ficha(slug, es, en, sci):
             f'<p class="nom"><em>{sci}</em> · {en}</p>'
             f'{verlo(slug)}'
             f'<p class="id">{_negrita(ID.get(slug, ""))}</p>{bloque}'
-            f'{en_namibia(slug)}</div>'
+            f'{en_la_ruta(slug)}</div>'
             f'<p class="cred">Foto: {cr.get("autor", "autor no indicado")} · '
             f'{cr.get("licencia", "")}</p></article>')
-
-
-# Los grupos que NO son de la ruta: la parte 2 de la guia. El corte no es de estilo, es
-# de honestidad — lo de la parte 1 lleva un porcentaje de avistamiento que significa algo
-# y lo de la parte 2, no: son animales que con este itinerario no se van a ver.
-FUERA_DE_LA_RUTA = ("norte", "kalahari")
-
-PARTES = {
-    "felino": ("Parte 1 · La fauna de vuestra ruta",
-               "Lo que cae en los 2.798 km de este viaje: el Namib, la costa, Damaraland y "
-               "Etosha. Cada ficha lleva <strong>qué posibilidades hay de verla</strong>, "
-               "medida en las cuatro zonas de la ruta y en octubre y noviembre."),
-    "norte": ("Parte 2 · El resto de Namibia",
-              "Y esto es lo que el país tiene y <strong>este viaje no pisa</strong>. Ni una "
-              "ficha de aquí es una expectativa: van con el sitio al que habría que ir a "
-              "buscarlas, que casi siempre es el norte mojado o el Kalahari. La línea "
-              "<strong>«En Namibia»</strong> de cada ficha es la que manda en esta parte."),
-}
 
 
 def secciones():
     out = []
     for clave, nombre, lista in catalogo.GRUPOS_FAUNA:
-        if clave in PARTES:
-            titulo, entradilla = PARTES[clave]
-            out.append(f'<div class="parte"><h2>{titulo}</h2>'
-                       f'<p>{marca_texto(entradilla)}</p></div>')
         fichas = "".join(ficha(s, es, en, sci) for s, es, en, sci, _f in lista)
         peligro = " peligro" if clave in PELIGRO else ""
         # titulo e intro juntos en una caja que no se parte: si no, el titulo se queda
@@ -358,14 +323,6 @@ def secciones():
 
 def total():
     return sum(len(l) for _, _, l in catalogo.GRUPOS_FAUNA)
-
-
-def de_la_ruta():
-    return sum(len(l) for c, _, l in catalogo.GRUPOS_FAUNA if c not in FUERA_DE_LA_RUTA)
-
-
-def del_resto():
-    return sum(len(l) for c, _, l in catalogo.GRUPOS_FAUNA if c in FUERA_DE_LA_RUTA)
 
 
 def remite_desde_dossier(ancla=""):
@@ -386,9 +343,10 @@ def remite_desde_dossier(ancla=""):
     varios megas, y que se usan en otro momento y de otra forma — en el coche, con el motor
     apagado en una charca, no leyendo del tirón en casa.</p>
     <p><strong>Y desde el 29/08 no es solo la fauna de la ruta:</strong> son
-    {de_la_ruta()} especies de este viaje más {del_resto()} del resto del país, y
-    <strong>cada ficha dice en qué regiones de Namibia vive</strong> la especie, medido en
-    GBIF sobre las trece divisiones administrativas.</p>
+    {total()} especies <strong>de esta ruta y de ninguna otra parte</strong>, y desde el 29/08
+    <strong>cada ficha reparte sus registros entre las cuatro zonas del viaje</strong> —el
+    Namib, la costa, Damaraland y Etosha— con el día al lado, que es lo que contesta la
+    pregunta del que conduce: en qué día toca buscar esto.</p>
     <p><strong>Está en <code>guia-fauna-namibia.pdf</code></strong>, en la raíz del repo:
     {cuentas}. Cada ficha lleva el nombre en castellano, el científico y el inglés —el de
     los carteles del parque—, cómo reconocer la especie, <strong>qué posibilidades hay de
@@ -421,9 +379,9 @@ def html_suelto():
 <section class="guia-portada">
   <div class="epi">Namibia · 31 de octubre – 14 de noviembre de 2026</div>
   <h1>Fauna de Namibia</h1>
-  <h2>Guía de campo · {total()} especies — {de_la_ruta()} de vuestra ruta y {del_resto()} del resto del país</h2>
+  <h2>Guía de campo · {total()} especies de vuestra ruta</h2>
   <div class="datos">{cuentas}<br>
-    Cada ficha dice <b>dónde vive en Namibia</b>, región por región<br>
+    Cada ficha dice <b>en qué zona del viaje cae</b>, y en qué días<br>
     Cuatro noches en Etosha · dos <b>dentro del parque</b><br>
     <b>Okaukuejo</b> · 9 nov &nbsp;—&nbsp; <b>Halali</b> · 10 nov &nbsp;—&nbsp;
     <b>Onguma</b> · 11 y 12 nov<br>
@@ -431,7 +389,7 @@ def html_suelto():
   <div class="pie">Fotografías de Wikimedia Commons, todas con licencia libre:<br>
   autoría y licencia bajo cada foto y en los créditos del final.<br>
   Los rasgos de identificación son descriptivos; lo específico de Etosha va con su fuente.<br>
-  El reparto por regiones sale de GBIF y de los límites de OpenStreetMap: se mide, no se dice a ojo.</div>
+  El reparto por zonas sale de GBIF sobre los polígonos del viaje: se mide, no se dice a ojo.</div>
 </section>
 {portadilla()}
 <section class="doc sin-columnas fauna">{secciones()}</section>
@@ -442,7 +400,7 @@ def html_suelto():
   <ul>{lista}</ul>
   {'<h2>Fuentes del «dónde y cuándo»</h2><ul>' + fuentes + '</ul>' if fuentes else ''}
   <h2>Fuentes de las posibilidades y de los recuentos</h2>
-  <ul>{avistamientos.fuente_html()}{pais.fuente_html()}{poblacion}</ul>
+  <ul>{avistamientos.fuente_html()}{poblacion}</ul>
 </section>
 </body></html>"""
 
@@ -455,7 +413,7 @@ def main():
     if "--html" in sys.argv:
         return 0
     imprimir.a_pdf(salida_html, salida_pdf, izquierda="Namibia 2026 · guía de campo",
-                   derecha=f"{total()} especies de Namibia", espera=2)
+                   derecha=f"{total()} especies de la ruta", espera=2)
     print(f"{os.path.relpath(salida_pdf, RAIZ)} · {imprimir.paginas(salida_pdf)} páginas · "
           f"{os.path.getsize(salida_pdf) // 1024} KB")
     return 0

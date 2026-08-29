@@ -170,46 +170,18 @@ ID = {
  "lechuza-comun": "La misma que en casa: **cara blanca en forma de corazón**, ojos negros, dorada por arriba y pálida por abajo. De noche en los recintos y al borde de la luz de las charcas iluminadas; a veces dentro de un pajar de tejedor.",
  "buho-moro": "Búho de las **llanuras herbosas**, pardo oscuro con disco facial pálido y ojos oscuros; **caza al atardecer, volando bajo como un aguilucho** sobre la hierba, y se levanta de la cuneta al pasar el coche; de noche ronda la luz de las charcas iluminadas.",
 
- # --- ANADIDAS EL 29/08 CON EL BARRIDO DE TODO EL PAIS ---
- # De la ruta: los casi endemicos del oeste y dos mamiferos que la ruta nueva si pisa.
+ # --- ANADIDAS EL 29/08 ---
+ # Todas de la ruta: los casi endemicos del oeste, que caen en Damaraland, y la cebra de
+ # Hartmann, que cae en la escarpa del D2 y en Damaraland. Las tres marinas van al final.
  "cebra-hartmann": "Cebra de montaña: **sin las rayas de sombra pardas** de la de Burchell, la **panza blanca y sin rayar**, una **papada colgante** bajo la garganta y una parrilla de rayas anchas en la grupa. Sube laderas donde la de llanura no entra.",
- "duiker-comun": "Antílope pequeño y arqueado, gris pardo, con un **mechón de pelo entre los cuernos** y una raya oscura en el morro. Solitario y de matorral: sale disparado agachado y en zigzag.",
  "cantor-de-roca": "**Garganta y pecho moteados de negro sobre blanco**, vientre canela, ceja clara y cola larga. Vive entre peñas de granito y canta desde lo alto de una roca. Casi solo existe aquí y en el suroeste de Angola.",
  "papamoscas-herero": "Pardo arena con **la cola rojiza** y un antifaz oscuro sobre la cara clara. Caza desde una percha baja en la ladera. Endemismo de la escarpa namibia y el suroeste de Angola.",
  "alcaudon-colablanca": "Blanco y negro, sin cuello aparente y con **la cola tan corta que parece una bola**. Anda a saltos por el suelo entre arbustos. Otro endemismo namibio-angoleño.",
  "francolin-hartlaub": "El francolín pequeño de los cerros de granito. El **macho**, con la **cara y el pecho blanquecinos** y el pico grueso y curvo; la **hembra**, canela con listas. Se le oye al amanecer desde los koppies.",
  "carbonero-carp": "Carbonero **negro entero con una línea blanca en el ala** y el ojo pálido. Sustituye al carbonero cabecinegro en el noroeste; recorre las acacias en bandos ruidosos.",
  "alondra-gray": "Alondra **pálida casi hasta el blanco**, sin apenas dibujo: es del color exacto de la gravilla en la que vive. **Corre más de lo que vuela** — se la ve moverse antes que verla.",
- "gecko-suelo-gigante": "El gecko más grande y más robusto de la zona árida: **cabeza gruesa**, ojos enormes y **patas de dedos rectos, sin almohadillas** — no trepa, vive en el suelo. De día, en su madriguera.",
-
- # --- PARTE 2 · la Namibia que esta ruta no pisa ---
- "hipopotamo": "Un barril de tonelada y media con **orejas diminutas y los ojos y las narices en lo alto de la cabeza**, para respirar sin salir. Pasa el día en el agua y sale a pastar de noche. Es el gran herbívoro que más gente mata en África.",
- "cocodrilo-nilo": "Hasta cinco metros. De un tronco flotante lo distinguen **los ojos y las narices alineados sobre la superficie** — y que el tronco no se mueve. En el Kunene, el Okavango y el Zambeze.",
- "bufalo-cafre": "Vacuno macizo y negro cuyos cuernos se funden arriba en un **casco de hueso sobre la frente** en el macho viejo. Va en manada; el solitario expulsado es el peligroso.",
- "licaon": "Manchas irregulares de negro, canela y blanco —**no hay dos iguales**—, **orejas redondas enormes** y **cola de punta blanca**. Caza en jauría, a la carrera y de día.",
- "sable": "El macho, **negro azabache con la panza blanca**, la cara rayada y **cuernos larguísimos curvados hacia atrás como cimitarras**. Hembras y jóvenes, castaños.",
- "roan": "Como el sable pero **pardo rojizo**, con **orejas larguísimas y puntiagudas** rematadas en un mechón, cara enmascarada y cuernos más cortos. Es el segundo antílope más grande de África.",
- "antilope-acuatico": "Pelaje áspero, gris y grasiento, y **un anillo blanco alrededor de la grupa, como una diana** — es lo que se ve cuando huye. Nunca se aleja del agua.",
- "lechwe-rojo": "Castaño rojizo, con **los cuartos traseros más altos que la cruz** y las patas embadurnadas hasta arriba. Huye **hacia dentro del agua**, no fuera: es donde nadie le sigue.",
- "puku": "Parecido al lechwe pero **más compacto y dorado**, con el lomo horizontal y cuernos cortos y anillados. En Namibia solo queda en la ribera del Chobe.",
- "sitatunga": "El antílope de pantano: **pezuñas larguísimas y muy abiertas** para no hundirse en la mata flotante, pelo largo y aceitoso, rayas y motas blancas. Se sumerge y deja fuera solo el morro.",
- "tsessebe": "Castaño oscuro **con brillo violáceo en el lomo**, cara larga, grupa muy caída y cuernos en media luna. Tiene fama de ser el antílope más rápido de África.",
- "antilope-jeroglifico": "Castaño con **motas y rayas blancas sueltas, como escritas a mano** — de ahí el nombre. Solitario, de espesura junto al agua; el macho lleva cuernos rectos con media espiral.",
- "mono-vervet": "Gris oliva con **la cara negra rodeada de una banda blanca** y la cola más larga que el cuerpo. Va en grupo cerca del agua y roba comida de la mesa sin ningún pudor.",
- "nutria-cuellomanchado": "Nutria pequeña y esbelta con **la garganta salpicada de manchas claras**, distintas en cada animal. Pesca de día en agua limpia y profunda.",
- "nutria-cabo": "La nutria grande de África: **manos sin uñas**, garganta blanca y hocico ancho. Abre cangrejos con los dedos desnudos. Está en los ríos del norte y en la costa.",
- "abejaruco-carmesi": "Carmesí entero, con **la garganta turquesa** y un antifaz negro. Anida en **colonias de miles de agujeros** en los taludes de arena del río; llega al norte al final de la primavera austral.",
- "picotijera-africano": "**La mandíbula de abajo es más larga que la de arriba.** Vuela a ras del agua con el pico abierto, cortándola, hasta que topa con un pez y lo cierra de golpe.",
- "buho-pescador-pel": "Un búho enorme, **canela con barras finas**, ojos negros y **sin penachos**. Pesca de noche desde una rama sobre el remanso; su reclamo es un lamento hondo que se oye a un kilómetro.",
- "grulla-carunculada": "La grulla más grande de África: **dos carúnculas blancas colgando de la garganta**, cuello blanco y cuerpo pizarra. Siempre en pareja, en llanura inundada.",
- "garceta-vinosa": "Garcita pizarra con **la garganta de un castaño vinoso** y las patas amarillas. Vive casi solo en el sistema del Okavango y el Zambeze: es de las garzas más escasas de África.",
- "piton-roca": "La serpiente más grande de África, hasta cinco metros. **No es venenosa: constriñe.** Manchas pardas en zigzag sobre fondo claro y una punta de flecha oscura en la cabeza.",
- "suricata": "De pie sobre las patas traseras, con el vientre al sol y un centinela vigilando desde un montículo. **Antifaz oscuro alrededor del ojo** y rayas transversales en el lomo. Es del Kalahari.",
- "oricteropo": "Un animal imposible: **orejas de burro, hocico tubular, lomo arqueado y cola gruesa**, todo rosado y casi sin pelo. Nocturno y solitario; abre las termiteras de un zarpazo.",
- "pangolin": "**El único mamífero cubierto de escamas.** Camina sobre las patas traseras haciendo contrapeso con la cola y, ante el peligro, se cierra en una bola que nada abre. Es el mamífero más traficado del mundo.",
- "piton-anchieta": "Pitón enana —poco más de metro y medio— **manchada de marrón y crema sobre fondo oscuro**, con la cabeza corta. Del noroeste namibio y el suroeste angoleño, y de las serpientes menos vistas de África.",
+ "grulla-carunculada": "La grulla más grande de África: **dos carúnculas blancas colgando de la garganta**, cuello blanco y cuerpo pizarra. Siempre en pareja. Su casa es el Okavango, pero también cría en las llanuras inundables de Etosha.",
  "pinguino-africano": "**Una sola banda negra en forma de herradura sobre el pecho**, y un dibujo de puntos negros que no se repite en dos individuos. Rebuzna igual que un burro.",
  "alcatraz-cabo": "Blanco con **la cabeza y la nuca doradas**, un antifaz azul alrededor del ojo y las puntas de las alas negras. Pesca lanzándose en picado desde veinte metros.",
  "cormoran-bancas": "Cormorán **negro entero y mate**, más grande y macizo que el del Cabo, con la cabeza cuadrada. Pesca justo detrás de la rompiente y cría sobre la roca.",
- "ballena-franca": "**Sin aleta dorsal**, cabezón, y con **callosidades blancas en la cabeza** cuyo dibujo identifica a cada ejemplar. El soplo sale en dos chorros, en V. Se arrima a la costa a criar en pleno invierno austral.",
 }

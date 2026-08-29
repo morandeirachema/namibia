@@ -12,6 +12,12 @@
 > *Investigado el 24/08/2026. Las cifras de **vuestra** ruta salen de la guía de fauna del repo
 > —GBIF y los partes de avistamiento de Expert Africa, `09` y `15`—; las de Botsuana y Zambia son
 > **secundarias ◐**: no se han medido aquí y sirven para decidir, no para presumir.*
+>
+> 📍 *Y este documento es **el sitio** donde vive lo que la guía de campo no lleva. El 29/08 se
+> probó a meter 24 fichas del Zambeze, el Okavango y el Kalahari dentro de la guía, en una parte
+> rotulada «lo que este viaje no pisa», y se deshizo el mismo día: **la guía es de los sitios a
+> los que se va** y en la guantera no cabe otra cosa. Lo de fuera se lee aquí, en `aparte/`, que
+> es donde el repo pone lo que deja de ser del volumen.*
 
 ---
 

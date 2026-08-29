@@ -133,8 +133,8 @@ RESUMEN = {
     "06": "El vuelco, el contrato, las presiones, la arena y las puertas de Sesriem.",
     "07": "Gasolineras, dinero, cobertura y emergencias.",
     "08": "El súper parada a parada, la ley del alcohol, dónde comer y la aduana.",
-    "09": "Cómo funciona el safari en seco, y la guía de campo con las posibilidades "
-          "medidas de ver cada especie.",
+    "09": "Cómo funciona el safari en seco, y la guía de campo: las posibilidades medidas "
+          "de ver cada especie y en qué zona del viaje cae cada una.",
     "10": "Lo que la ruta pisa y el itinerario no nombra, día a día y con su desvío medido: los "
           "Lone Stone Men, la cascada del Uniab, la plataforma de guano, los grabados de Peet "
           "Alberts, los cañones del Otjikoto.",
@@ -447,7 +447,7 @@ def indice(paginas):
 # El mapa que va DENTRO de un documento y no en las paginas de mapas del principio. En el
 # markdown va como <img> —para que GitHub lo pinte— y aqui se cambia por el SVG en linea:
 # sale vectorial y no depende de que el PNG este generado.
-MAPAS_EN_DOC = {"09": ("regiones", mapa.mapa_regiones)}
+MAPAS_EN_DOC = {"09": ("zonas-fauna", mapa.mapa_zonas)}
 
 
 def mete_mapas(html, doc):

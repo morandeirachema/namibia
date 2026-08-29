@@ -2,12 +2,11 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> El índice de la guía de campo en PDF: **186 especies con foto** — **162 de vuestra ruta** y
-> **24 del resto de Namibia** —, cómo reconocerlas, **qué posibilidades hay de verlas**, dónde y
-> cuándo, y **en qué regiones del país vive cada una**. *(La regla del 09/08 —sin avistamientos,
-> sin ficha— sigue mandando en la parte 1; lo que el 29/08 cambió es que lo que no toca la ruta ya
-> no desaparece: se va a una parte 2 rotulada como lo que es. Una excepción consciente desde el
-> 15/08: el gato de patas negras, ver abajo.)*
+> El índice de la guía de campo en PDF: **159 especies con foto, todas de esta ruta**, cómo
+> reconocerlas, **qué posibilidades hay de verlas**, dónde y cuándo, y **en qué zona del viaje cae
+> cada una**, con el día al lado. *(La regla del 09/08 sigue mandando: sin avistamientos, sin ficha
+> — y desde el 29/08 está comprobada, no solo escrita. Una excepción consciente desde el 15/08: el
+> gato de patas negras, ver abajo.)*
 >
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
@@ -19,13 +18,15 @@
 > la ruta (+13 — el mular del crucero, las aves del Namib y Damaraland, la rata dassie…; el
 > detalle de ambos, en `15`) · ampliación del 15/08/2026: **todas las rapaces y todos los
 > felinos de la ruta** (+33: 31 rapaces diurnas y nocturnas, el caracal y el gato de patas
-> negras), en dos secciones propias — el detalle, en `15` · **ampliación del 29/08/2026: la guía
-> deja de ser solo de la ruta** — +38 fichas *(el norte mojado, el Kalahari, los casi endémicos del
-> oeste y cuatro bichos de mar que estaban en vuestra propia costa)*, el **reparto por las trece
-> regiones del país** en cada ficha y el mapa que las sitúa*
+> negras), en dos secciones propias — el detalle, en `15` · **ampliación del 29/08/2026**: +11
+> fichas que faltaban y **son de la ruta** *(la cebra de Hartmann, cinco casi endémicos del oeste
+> en Damaraland, la alondra de Gray del Namib, tres bichos de mar de vuestra costa y la grulla
+> carunculada de Etosha)*, el **reparto por las cuatro zonas del viaje** en cada ficha con el día
+> al lado, y el mapa que las sitúa. Ese mismo día se probaron 24 fichas de fuera de la ruta y se
+> deshizo: la guía es de los sitios a los que se va*
 
-📕 **[Descargar la guía: `guia-fauna-namibia.pdf`](guia-fauna-namibia.pdf)** — 48 páginas A4,
-**186 especies**, con foto **completa** de cada una — sin recortes: cuernos, cuellos y colas se ven
+📕 **[Descargar la guía: `guia-fauna-namibia.pdf`](guia-fauna-namibia.pdf)** — A4,
+**159 especies de la ruta**, con foto **completa** de cada una — sin recortes: cuernos, cuellos y colas se ven
 enteros, que es justo lo que sirve para identificar.
 Pensada para **imprimirla y llevarla en la guantera**: en Etosha no hay cobertura.
 
@@ -39,17 +40,17 @@ buscar una especie desde el repo.)*
 - **Nombre en castellano, científico e inglés** — el inglés importa: es el que veréis en los
   carteles del parque y el que usa todo el mundo allí
 - **Qué posibilidades hay de verla**, medida y con su muestra detrás *(abajo, de dónde sale)* —
-  en **182 de las 186**: cuatro fichas *(tortuga leopardo, galápago africano, shongololo y
-  cocodrilo del Nilo)* se quedan sin línea a propósito, porque su clase no llega a la muestra
-  mínima en ninguna zona de la ruta y **callarse es la regla**
+  en **156 de las 159**: tres fichas *(tortuga leopardo, galápago africano y shongololo)* se
+  quedan sin línea a propósito, porque su clase no llega a la muestra mínima en ninguna zona de la
+  ruta y **callarse es la regla**
 - **Cómo reconocerla en el campo**: los rasgos que de verdad distinguen, no una descripción de
   enciclopedia *(labio del rinoceronte, rosetas frente a manchas, orejas de la hiena, pico del cálao…)*
 - **Cuántas quedan**, en las veintidós especies con una cifra publicada que se pueda citar —y, desde
   el 15/08, la **categoría UICN** de las rapaces amenazadas: cuatro En Peligro, dos En Peligro Crítico
-- **En qué regiones de Namibia vive** *(desde el 29/08, en las 186 fichas)* — el reparto de sus
-  registros de GBIF por las **trece divisiones administrativas del país**, sin filtrar por mes:
-  *«Kavango 192 · Zambezi 166 · Otjozondjupa 18 — de 445 registros en el país»*. Es otra pregunta
-  que la de arriba y por eso va en otra línea: **arriba, si lo vais a ver; abajo, dónde vive**
+- **En qué zona del viaje cae** *(desde el 29/08, en las 159 fichas)* — el reparto de sus
+  registros de GBIF entre **las cuatro zonas de la ruta**, con el día al lado:
+  *«Damaraland (D8–D9) 83 · Etosha (D10–D13) 24 · la costa (D5–D7) 2»*. La de arriba da una cifra
+  y la de una zona; ésta abre el reparto: **arriba, si lo vais a ver; abajo, en qué día buscarlo**
 - **Foto** de Wikimedia Commons, todas con **licencia libre** (CC BY, CC BY-SA, CC0 o dominio
   público), con autoría y licencia bajo la imagen y en los créditos finales
 
@@ -98,57 +99,66 @@ Lo baja y lo cachea [`fuente/avistamientos.py`](fuente/avistamientos.py) en
 Fuentes: [GBIF](https://www.gbif.org) ·
 [Expert Africa · Etosha](https://www.expertafrica.com/namibia/etosha-national-park)
 
-## Dónde vive cada bicho en Namibia *(29/08)*
+## En qué zona del viaje cae cada ficha *(29/08)*
 
-Hasta el 29/08 la guía contestaba una sola pregunta —**¿lo vamos a ver en este viaje?**— y por eso
-lo que no caía en la ruta no tenía ficha. Desde el 29/08 contesta dos, y la segunda es
-**¿dónde vive en Namibia?**, que es otra cosa y se mide de otra manera:
+Desde el 29/08 cada ficha cierra con una línea nueva, **«En la ruta»**, que reparte sus registros
+de GBIF entre **las cuatro zonas del viaje** y pone **el día al lado**:
+
+> **EN LA RUTA** · **Damaraland (D8–D9)** 83 · **Etosha (D10–D13)** 24 · **la costa (D5–D7)** 2 ·
+> **el Namib (D3–D4)** 1 — de 110 registros de oct-nov en las cuatro zonas
+> *(carbonero de Carp)*
+
+La línea de arriba de la ficha da **una** cifra y la de **una** zona: la que más registros tiene.
+Ésta abre el reparto, que es lo que contesta la pregunta del que conduce: **en qué día del viaje
+toca buscar esto**.
 
 ```mermaid
 flowchart LR
 %% ancho
-    A["¿LO VAMOS A VER?<br/>4 zonas de la ruta<br/>filtrado a OCTUBRE y NOVIEMBRE<br/>partes de Expert Africa + GBIF"] --> A1["la linea de ARRIBA<br/>de cada ficha"]
-    B["¿DONDE VIVE?<br/>13 regiones del pais<br/>SIN filtrar por mes<br/>GBIF por division administrativa"] --> B1["la linea de ABAJO<br/>«En Namibia»"]
+    A["LA LINEA DE ARRIBA<br/>que posibilidades hay<br/>una cifra, de la mejor zona<br/>partes de Expert Africa + GBIF"] --> A1["se mira ANTES<br/>de ir"]
+    B["LA LINEA DE ABAJO<br/>en que zona cae<br/>el reparto entre las cuatro<br/>y el dia de cada una"] --> B1["se mira EN EL COCHE<br/>con el motor parado"]
     style A fill:#F7F4ED,stroke:#C2542F
     style B fill:#EDF1E4,stroke:#5F7043
 ```
 
-El reparto sale de pedirle a GBIF los registros de cada especie **región a región** *(por
-`gadmGid`, el código de la división administrativa)*, y el límite de cada región lo dibuja
-**OpenStreetMap**. No se filtra por mes a propósito: la pregunta es de mapa, no de calendario, y
-recortar a dos meses solo añadiría ruido de muestreo en las regiones que ya tienen pocos registros.
-Lo baja y lo cachea [`fuente/pais.py`](fuente/pais.py) en `fuente/geo/fauna-pais.json`.
+[![Las cuatro zonas en las que se mide la guía de fauna, sobre la ruta](img/mapas/zonas-fauna.png)](img/mapas/zonas-fauna.svg)
 
-[![Las trece regiones de Namibia, con la ruta encima y cuántas fichas de la guía tienen su grueso en cada una](img/mapas/regiones.png)](img/mapas/regiones.svg)
+**El mapa va dentro de la guía**, delante de las fichas. Son los **mismos polígonos** con los que
+`avistamientos.py` cuenta en GBIF —el límite real del parque para Etosha y tres cajas para el
+resto—, así que lo que dice la ficha y lo que dibuja el mapa no pueden separarse. El número de
+cada zona es cuántas de las 159 fichas tienen ahí **el grueso** de sus registros: **Etosha
+97**, **la costa 31**, **Damaraland 18** y **el
+Namib 6** — y eso es tanto porque hay más fauna como porque es donde más mira todo
+el mundo. **El sesgo del observador está en el dato y se dice, no se disimula.**
 
-**Este mapa va dentro de la guía**, delante de las fichas: sin él, decir que el hipopótamo está en
-Kavango y el pingüino en ǁKaras no sitúa nada. En naranja, **las siete regiones que pisa la ruta**;
-en gris, las seis que no — y ahí vive entera la parte 2. El número de cada región es cuántas de las
-186 fichas tienen ahí **el grueso** de sus registros: **Oshikoto se lleva 56**, y eso no es que sea
-la región más rica, es que el este de Etosha es donde más mira todo el mundo. **El sesgo del
-observador está en el dato y se dice, no se disimula**: en la Franja de Caprivi hay lodges con
-ornitólogos y en el Kaokoveld no.
+⚠️ **Fuera de estas cuatro zonas esta guía no afirma nada, y es a propósito** *(29/08)*. Ese día se
+probó lo contrario: **24 fichas del Zambeze, el Okavango y el Kalahari** —hipopótamo, licaón, sable,
+búfalo, suricata, pangolín…— en una segunda parte rotulada «lo que este viaje no pisa». **Se
+deshizo el mismo día**: rotularlo no arregla nada, porque en la guantera ocupa sitio una guía de un
+viaje que no se hace. `make comprueba` ya no deja que vuelva: **toda ficha tiene que tener al menos
+un registro dentro de alguna de las cuatro zonas**, y lo que no lo tenga va en
+`catalogo.EXCEPCIONES_RUTA` con su motivo escrito *(hoy, una sola: el shongololo)*.
 
-⚠️ **Lo que esto NO es**: una probabilidad de ver nada. Es dónde se ha **registrado** la especie.
-Por eso la línea da siempre el recuento crudo detrás —*«de 445 registros en el país»*— y por eso
-**no se nombra ninguna región con menos de cinco registros**.
+### Y lo que el barrido dejó, que sí era de la ruta
 
-### Y lo que el propio reparto destapó
+- **La cebra de montaña de Hartmann vuelve al catálogo**, y con el motivo medido: **23 registros de
+  octubre-noviembre en Etosha, 8 en el Namib y 7 en Damaraland**. Cierra el hueco que la auditoría
+  del 28/08 había dejado reconocido.
+- **Cinco casi endémicos del oeste que caen en Damaraland**, no en otro sitio: el alcaudón de cola
+  blanca (74 registros de oct-nov ahí), el carbonero de Carp (83), el papamoscas herero (27), el
+  cantor de roca (24) y el francolín de Hartlaub (19). Son la razón por la que vienen ornitólogos
+  a Namibia y no tenían ficha.
+- **La alondra de Gray**, con **192 registros de oct-nov en la costa**: vive en la gravilla del
+  Namib y es del color exacto del suelo.
+- **Tres bichos de mar que estaban en vuestra propia costa** y se habían metido como fauna del sur:
+  alcatraz del Cabo (228), cormorán de las bancas (65) y pingüino africano (65).
+- **La grulla carunculada**, que entró como fauna del Zambeze y resultó tener **18 registros de
+  oct-nov dentro del polígono de Etosha**. Su casa es el Okavango, pero aquí también está — y la
+  ficha lo dice así.
 
-- **La grulla carunculada entró como fauna del Zambeze y el dato la devolvió a la ruta**: tiene
-  **18 registros de octubre-noviembre dentro del polígono de Etosha**, más que muchas fichas que
-  nadie discute. Está en la parte 1, al lado de la grulla azul. *(Y `make comprueba` no deja que
-  eso vuelva a pasar sin avisar: si una ficha de la parte 2 pasa de diez registros en la ruta, la
-  comprobación falla y dice cuál.)*
-- **Cuatro bichos de mar que se metieron como fauna del sur y estaban en vuestra costa**: el
-  **alcatraz del Cabo** (228 registros de oct-nov en la caja de Walvis Bay–Swakopmund), el
-  **cormorán de las bancas** (65), el **pingüino africano** (65) y la **ballena franca austral**
-  (4 — ésa sí se va antes de que lleguéis). Los cuatro están en la parte 1, en «la costa».
-- **Los casi endémicos del oeste no son una rareza de otro sitio: caen en Damaraland.** El cantor
-  de roca (24), el papamoscas herero (27), el alcaudón de cola blanca (74), el francolín de
-  Hartlaub (19) y el carbonero de Carp (83), todos en registros de octubre-noviembre del D8–D9.
-- **Y dos regiones enteras de Namibia no tienen ni una ficha con su grueso**: Ohangwena y Omaheke.
-  No es que no haya animales; es que **casi nadie sube registros desde ahí**.
+Y **lo que el mismo criterio dejó fuera**, para que conste: el **gecko gigante del suelo** *(1
+registro de oct-nov en el Namib)*, el **duiker común** *(5 en Etosha)* y la **ballena franca
+austral** *(3 en la costa, y se va de esta costa antes de que lleguéis)*.
 
 ## Cómo se hace un safari, delante de las fichas
 
@@ -199,15 +209,16 @@ específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
   bajo el cuello, es **la de Hartmann**.
 - **La suricata roza el extremo sur de la ruta** —hay registros en las llanuras de grava del Namib—
   pero es rarísima aquí y no se planifica *(matizado el 28/08: decía «es del Kalahari y del sur», y
-  el área sí la roza)*. Salió de la guía el 09/08 por eso y el **29/08 vuelve, pero a la parte 2** —
-  que es donde se dice, con todas las letras, que no se va a ver.
+  el área sí la roza)*. Salió de la guía el 09/08 por eso y sigue fuera: el 29/08 se probó a
+  devolverla en una parte aparte y **se deshizo el mismo día**.
 - **Y el oricteropo, con su propio dato**: **0 de 149 partes sumando los tres campamentos
   —0 de 100 en Okaukuejo, 0 de 38 en Halali, 0 de 11 en Namutoni—** ◐ es la cifra más honesta
   del método *(ese 149 es la suma de partes, no los 149 viajeros de Okaukuejo: coincidencia
-  numérica, aclarada el 25/08)* — nadie lo vio, así que hasta el 29/08 no llevaba ficha; ahora la lleva **en la parte 2**, con ese
-  cero por delante *(sus excavaciones en los termiteros sí las veréis por todas partes)*.
-- **En Etosha NO hay búfalo** — se ven **cuatro de los «Big Five»**, no cinco *(el búfalo tiene
-  ficha desde el 29/08, en la parte 2: su sitio es el Kavango y el Zambezi)*. Extinguido en el
+  numérica, aclarada el 25/08)* — nadie lo vio, así que **no lleva ficha**; el 29/08 se probó a
+  dársela en una parte aparte y se deshizo el mismo día *(sus excavaciones en los termiteros sí
+  las veréis por todas partes)*.
+- **En Etosha NO hay búfalo** — se ven **cuatro de los «Big Five»**, no cinco *(su sitio en
+  Namibia es el Kavango y el Zambezi, a 400 km de aquí: por eso no tiene ficha)*. Extinguido en el
   parque a mediados del siglo XX ◐ y **nunca reintroducido, por el riesgo de aftosa y de
   tuberculosis bovina**: lo dice la literatura con el propio Etosha Ecological Institute entre
   los autores ✅ *([Turner et al. 2022](https://doi.org/10.1016/j.gecco.2022.e02221): «has not
@@ -282,7 +293,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ---
 
-## Parte 1 · la fauna de vuestra ruta (162)
+## Las 159 especies
 
 ### 🐆 Felinos (6)
 
@@ -293,7 +304,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Gato montés africano** — *Felis lybica* · African wildcat *(añadido el 08/08: objetivo del nocturno guiado)*
 - **Gato de patas negras** — *Felis nigripes* · Black-footed cat *(añadido el 15/08 por petición expresa, con la banda «Sin registros» — 0 en oct-nov, 1 en toda la historia del polígono: la única excepción consciente a la regla del 09/08, y va para no confundirlo con el gato montés en el nocturno)*
 
-### 🦁 Mamíferos (33)
+### 🦁 Mamíferos (32)
 
 - **Elefante africano de sabana** — *Loxodonta africana* · African bush elephant
 - **Rinoceronte negro** — *Diceros bicornis* · Black rhinoceros
@@ -327,7 +338,6 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Ardilla de matorral de Smith** — *Paraxerus cepapi* · Smith's bush squirrel *(añadida el
 - **Mangosta esbelta** — *Galerella sanguinea* · Slender mongoose *(añadida el 10/08: la
 - **Cebra de montaña de Hartmann** — *Equus zebra hartmannae* · Hartmann's mountain zebra *(vuelve el 29/08: salió el 09/08 por vivir «en el extremo oeste de Etosha», pero la ruta cambió y ahora pisa la escarpa de Spreetshoogte —donde la finca la anuncia— y Damaraland; 635 registros en el país, el grueso en Hardap)*
-- **Duiker común o cefalofo de Grimm** — *Sylvicapra grimmia* · Common (grey) duiker *(añadido el 29/08: 169 registros en el país, el grueso en Otjozondjupa y Oshikoto)*
 
 ### 🦅 Aves rapaces (40)
 
@@ -421,7 +431,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Carbonero de Carp** — *Melaniparus carpi* · Carp's tit *(29/08 · casi endémico: 83 en Damaraland)*
 - **Alondra de Gray** — *Ammomanopsis grayi* · Gray's lark *(29/08: 192 registros de oct-nov en la costa — vive en la gravilla del Namib)*
 
-### 🦎 Reptiles (17)
+### 🦎 Reptiles (16)
 
 *Las tres primeras van por seguridad: dormís trece noches en tienda.*
 
@@ -441,9 +451,8 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Galápago africano** — *Pelomedusa subrufa* · African helmeted turtle *(10/08: el de la
 - **Gecko diurno del Namib** — *Rhoptropus afer* · Namib day gecko *(añadido el 11/08: un gecko
 - **Lagarto de nariz de cuña** — *Meroles cuneirostris* · Wedge-snouted sand lizard *(11/08: en
-- **Gecko gigante del suelo** — *Chondrodactylus angulifer* · Giant ground gecko *(29/08: no trepa, vive en la arena)*
 
-### 🌊 La costa, la roca y la arena (11)
+### 🌊 La costa, la roca y la arena (10)
 
 *Lo de fuera de Etosha: Cape Cross (D7), la laguna de Walvis Bay (D5–D6) y los roquedos de
 Damaraland — con una excepción a caballo: la ardilla terrestre campa igual de bien por dentro del
@@ -459,7 +468,6 @@ parque, y de ahí sale su banda.*
 - **Pingüino africano** — *Spheniscus demersus* · African penguin *(29/08: 65 registros de oct-nov en la caja de la costa de la ruta)*
 - **Alcatraz del Cabo** — *Morus capensis* · Cape gannet *(29/08: 228 registros de oct-nov ahí — no es rareza de Lüderitz)*
 - **Cormorán de las bancas** — *Phalacrocorax neglectus* · Bank cormorant *(29/08: 65 registros de oct-nov ahí)*
-- **Ballena franca austral** — *Eubalaena australis* · Southern right whale *(29/08, y con su aviso: 4 registros de oct-nov — se va antes de que lleguéis)*
 
 ### 🐞 Bichos (9)
 
@@ -476,65 +484,24 @@ sube termitas, y la banda mide registros, no presencia.*
 - **Milpiés gigante o shongololo** — *Archispirostreptus gigas* · Giant African millipede
 - **Mosquito anofeles** — *Anopheles* · Anopheles mosquito
 
----
-
-## Parte 2 · el resto de Namibia (24)
-
-Ni una ficha de aquí es una expectativa del viaje: **son los animales que el país tiene y que
-este itinerario no pisa**, con el sitio al que habría que ir a buscarlos. La que manda en estas
-fichas es la línea **«En Namibia»**, no la de arriba — en casi todas da cero, porque esa mide las
-cuatro zonas de la ruta.
-
-### 💧 El norte húmedo: el Zambeze, el Okavango y el Kunene (20)
-
-- **Hipopótamo** — *Hippopotamus amphibius* · Hippopotamus
-- **Cocodrilo del Nilo** — *Crocodylus niloticus* · Nile crocodile
-- **Búfalo cafre** — *Syncerus caffer* · African buffalo *(y por eso Etosha tiene cuatro de los «Big Five», no cinco — ver el aviso de arriba)*
-- **Licaón o perro salvaje africano** — *Lycaon pictus* · African wild dog *(49 registros en todo el país)*
-- **Antílope sable** — *Hippotragus niger* · Sable antelope *(el del 14 % de partes de Okaukuejo que en Etosha no existe: 235 registros en el país, 136 en Kavango)*
-- **Antílope ruano** — *Hippotragus equinus* · Roan antelope
-- **Antílope acuático o waterbuck** — *Kobus ellipsiprymnus* · Waterbuck
-- **Lechwe rojo** — *Kobus leche* · Red lechwe
-- **Puku** — *Kobus vardonii* · Puku *(**14** registros en todo el país, 13 en el Zambezi: no es que sea difícil de ver, es que casi no hay)*
-- **Sitatunga** — *Tragelaphus spekii* · Sitatunga *(14 registros en el país)*
-- **Tsessebe** — *Damaliscus lunatus* · Tsessebe
-- **Antílope jeroglífico o bushbuck** — *Tragelaphus sylvaticus* · Bushbuck
-- **Mono vervet o cercopiteco verde** — *Chlorocebus pygerythrus* · Vervet monkey
-- **Nutria de cuello manchado** — *Hydrictis maculicollis* · Spotted-necked otter
-- **Nutria del Cabo** — *Aonyx capensis* · African clawless otter *(la foto es de Shamvura, en el Kavango)*
-- **Abejaruco carmesí sureño** — *Merops nubicoides* · Southern carmine bee-eater *(el que las webs colocan en Etosha y no está: cero registros dentro del parque, 2.528 en el Zambezi)*
-- **Picotijera africano** — *Rynchops flavirostris* · African skimmer
-- **Búho pescador de Pel** — *Scotopelia peli* · Pel's fishing owl
-- **Garceta vinosa** — *Egretta vinaceigula* · Slaty egret *(vive casi solo en el Okavango y el Zambeze)*
-- **Pitón de roca sudafricana** — *Python natalensis* · Southern African rock python
-
-### 🌵 El Kalahari, el sur y lo que casi nadie ve (4)
-
-- **Suricata** — *Suricata suricatta* · Meerkat *(vuelve el 29/08, en su sitio: salió de la guía el 09/08 por no tocar la ruta, y es verdad — es del Kalahari)*
-- **Oricteropo o cerdo hormiguero** — *Orycteropus afer* · Aardvark *(vuelve el 29/08, en su sitio: **0 de 149 partes** de los tres campamentos, 73 registros en el país y el grueso en Otjozondjupa)*
-- **Pangolín de Temminck** — *Smutsia temminckii* · Temminck's ground pangolin *(43 registros en todo el país)*
-- **Pitón de Anchieta** — *Python anchietae* · Anchieta's dwarf python *(26 registros en el país, el grueso en Kunene: de las serpientes menos vistas de África)*
-
----
-
 ## Cómo se regenera
 
 Todo vive en [`fuente/`](fuente/): `catalogo.py` fija qué fichero exacto de Wikimedia Commons usa
 cada especie, `descargar.py` los baja con su licencia y autoría, `textos_especies.py` guarda los
 rasgos de identificación, `textos_etosha.py` lo específico del parque, `textos_poblacion.py` las
 cifras de cuántos quedan, `textos_safari.py` los consejos, `avistamientos.py` los recuentos de
-GBIF y los porcentajes por campamento **de las cuatro zonas de la ruta**, `pais.py` el reparto por
-**las trece regiones del país**, `geodatos.py regiones` el límite de cada una y `mapa.py` el mapa
-que las dibuja; `guia_fauna.py` arma el HTML. El PDF lo imprime Chrome
+GBIF y los porcentajes por campamento **de las cuatro zonas de la ruta** —las mismas con las que
+`mapa.mapa_zonas()` dibuja el mapa, para que la ficha y el mapa no puedan separarse—, y
+`guia_fauna.py` arma el HTML. El PDF lo imprime Chrome
 desde `imprimir.py`, que es quien pone los números de página.
 
 Con un solo comando, desde `fuente/`: **`make fauna`** *(o `make todo` para rehacerlo desde cero,
-imágenes y recuentos incluidos; `make avistam` solo los recuentos de la ruta y `make pais` solo el
-reparto por regiones)*. Y **`make comprueba`** valida que están las 235 imágenes, que ninguna se ha
-colado con licencia no libre, que los PDF tienen las páginas que deben, que los datos de
-avistamiento cubren las 186 especies, que el reparto por regiones también — y que **ninguna ficha
-de la parte 2 se registra de verdad en la ruta**, que es lo que pasó con la grulla carunculada.
+imágenes y recuentos incluidos; `make avistam` solo los recuentos)*. Y **`make comprueba`** valida
+que están las 208 imágenes, que ninguna se ha colado con licencia no libre, que los PDF tienen las
+páginas que deben, que los datos de avistamiento cubren las 159 especies — y **que ninguna ficha
+sea de fuera de la ruta**: toda especie tiene que tener al menos un registro dentro de una de las
+cuatro zonas del viaje, y la que no lo tenga va en `EXCEPCIONES_RUTA` con su motivo escrito.
 
 *Las fotos **sí** están en el repo, en [`img/fauna/`](img/fauna/), y a cambio el PDF se puede
 regenerar idéntico dentro de un año sin depender de que Commons siga ordenando igual una búsqueda.
-`avistamientos.py` y `pais.py` son incrementales: solo bajan lo que falte. · 29/08/2026*
+`avistamientos.py` es incremental: solo baja lo que falte. · 29/08/2026*
