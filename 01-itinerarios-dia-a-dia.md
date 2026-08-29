@@ -850,8 +850,12 @@ flowchart LR
   entra el D10 y se sale el D13
 - **Safaris guiados de Etosha**: 2 mañanas *(Okaukuejo y Halali)* = **N$2.600 (~€130)** ✅
   *(tarifas NWR; + lanzadera Deadvlei N$360 · ~€18 — sin reservar: en recepción)*.
-  ⚠️ **Eran N$5.400 (~€270)**: el nocturno y la guiada de Namutoni **se caen** al dormir fuera las
-  dos últimas noches *(`02` §9)*
+  ⚠️ **Eran N$5.400 (~€270), y la bajada de N$2.800 es de dos clases distintas** *(desglosado el
+  29/08)*: **N$1.300 (~€65) se caen de verdad** —la guiada de mañana de Namutoni, que se compra
+  durmiendo allí y ya no se duerme— y los otros **N$1.500 (~€75) son un nocturno que este dossier
+  dio por perdido y no lo estaba**. ➕ **Así que hay N$3.000 (~€150) sobre la mesa, fuera del
+  total**: **los dos nocturnos, D10 en Okaukuejo y D11 en Halali, a N$750 (~€38) pp** — el de
+  Halali es la mejor ventana de leopardo del viaje *(`aparte/plan-felinos`)*. **Sin decidir**
 - **Combustible ~2.798 km** *(control OSRM, rehecho el 24/08)*: ~308–364 l ≈
   **N$8.002–10.549 (~€400–527)** ○ — presupuestado **~N$9.100 (~€455)** *(ver `02` §4)*
 - **Visado**: N$3.200 (~€160) los dos ✅

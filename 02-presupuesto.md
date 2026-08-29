@@ -28,8 +28,10 @@ no se hace.**
 > agosto ya no valen: **Spreetshoogte pasó de dos noches a una** —la liberada se fue a Damaraland,
 > donde aparece **una noche nueva en Twyfelfontein (D8) sin tarifa ❌**— y **Namutoni desapareció**,
 > sustituido por una **segunda noche en Onguma**. Lo que más mueve el número no es el alojamiento:
-> es que **con Namutoni se caen dos actividades de NWR** —el nocturno y una guiada de mañana, que se
-> compran durmiendo allí—, **N$2.800 (~€140) la pareja menos** *(§9)*.
+> es que **con Namutoni se cae una guiada de mañana** —la suya, que se compra durmiendo allí—,
+> **N$1.300 (~€65) la pareja menos** *(§9)*. ⚠️ **Corregido el 29/08**: aquí se contaban **dos**
+> actividades y **N$2.800**, metiendo el nocturno, que **no se cae** — se vende en los tres
+> campamentos y se duerme dentro dos noches *(§9)*.
 >
 > **Terrace Bay sigue sin reservar** *(ver [`15`](15-huecos-cerrados.md) §lista maestra y
 > [`20`](20-reservas.md))*, aunque **con tarifa cerrada**: es un precio real, no un pago hecho. La
@@ -157,9 +159,10 @@ siguen sin precio**, salvo **Hoada**, que va en ◐.
   las tres**: cuesta **N$320 (~€16) más** y a cambio da **ducha y wc propios en la parcela** y una
   reserva privada con **salida al atardecer con foco y campo a través** y **paseo guiado a pie**,
   las dos prohibidas dentro del parque.
-  ⚠️ **Pero el intercambio no es gratis en actividades**: al no dormir dentro se caen **el nocturno
-  de NWR y la guiada de mañana de Namutoni** — **N$2.800 (~€140) la pareja** que salen del total
-  *(§9)*.
+  ⚠️ **Pero el intercambio no es gratis en actividades**: al no dormir en Namutoni se cae **su
+  guiada de mañana** — **N$1.300 (~€65) la pareja** que salen del total *(§9)*. *(Corregido el
+  29/08: aquí se sumaba también el nocturno, y el nocturno **no se cae** — se compra el D10 y el
+  D11.)*
 
 → **Las 4 noches de Etosha suman N$4.320 (~€216) la pareja** ✅ *(Okaukuejo N$920 + Halali N$920 +
 Onguma N$1.240 ×2)*, **N$320 (~€16) más** que con la segunda de Namutoni.
@@ -819,8 +822,8 @@ y corto; con la tarjeta en la mano manda el N$**.
   *(Okaukuejo y Halali)* y la lanzadera de Deadvlei —tarifas NWR reales, reserva en recepción—, más
   **el Sundowner del D12 y el game drive dentro de Etosha del D13**, del rack 2027 de Onguma
   *(decididos el 26/08)*.
-  *(Eran ~€144 con las cuatro salidas; el nocturno y la guiada de Namutoni se caen al dormir fuera
-  del parque — §9.)*
+  *(Eran ~€144 con las cuatro salidas; la que se cae al no dormir en Namutoni es **su guiada de
+  mañana** — el nocturno sigue comprable el D10 y el D11, §9.)*
 - **◐ Corroborado o por recotizar — ~€124**: las tasas de parque *(con Cape Cross en premium; la gaceta
   localizada, el PDF primario del MEFT sin abrirse)*.
 - **○ Estimado — ~€552**: **seis** noches de camping sin cotizar —entre ellas **la nueva de
