@@ -171,7 +171,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 169 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 171 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -646,6 +646,23 @@ por toda la web: las tasas de parque a N$150 *(son ~N$280 desde abril de 2026)*,
 los blogs *(caduca antes de aterrizar — factura por año tarifario nov–oct)*, el mito del «solo
 efectivo» en gasolineras *(«credit» ahí significa «a cuenta», no «tarjeta»)*, y **todas** las
 temperaturas de las webs de safaris — rehechas con datos de estación meteorológica.
+
+> ### ⚖️ Y el diagrama de arriba, dicho con honestidad *(29/08)*
+> **Lo que existe de verdad son las auditorías, no un tribunal de tres votos por cada dato.** El
+> historial guarda barridos completos con fecha —la de no-fabricación del **25/08** con cinco
+> verificadores contra fuente primaria, las cinco olas del **26/08**, y la del **28–29/08** que
+> produjo la mitad de las correcciones que lleva este README—, y sus resultados están escritos y
+> fechados en [`12`](12-hallazgos-verificados.md) y [`15`](15-huecos-cerrados.md). **Lo que no
+> existe es un registro voto a voto**: el diagrama describe el espíritu, no un procedimiento
+> reproducible.
+>
+> **Y la prueba de que no basta la da este mismo repo.** El `12`, que es *el documento de lo
+> verificado*, sostuvo hasta el 29/08 que el seguro del coche era de **«franquicia cero
+> confirmada ✅»** — **citando como fuente la página de Savanna que dice justo lo contrario**, y que
+> deja **N$165.000 (~€8.900)** a cargo del cliente si el coche vuelca sin terceros. Pasó tres
+> semanas ahí. Por eso la parte de este método en la que conviene fiarse no es el diagrama: son las
+> **marcas** *(✅ ◐ ○ ❌)*, las **fechas** de cada corrección y las **comprobaciones automáticas**,
+> que sí corren en cada push y sí fallan cuando algo no cuadra.
 
 <details>
 <summary><b>Y lo que no se pudo verificar, dicho en blanco</b></summary>

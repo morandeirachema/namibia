@@ -62,10 +62,23 @@ bajos, cristales, neumáticos—. Las franquicias de los niveles básicos iban d
 un rescate **sin tope**.
 
 **Por eso el criterio fue «franquicia cero o nada»**: el coche reservado, con Savanna, lleva la
-**Opción 4 con franquicia cero, incluidos neumáticos, lunas y bajos** *(`20` §1)*.
+**Opción 4**, que cubre neumáticos *(dos, no las llantas)*, lunas, sandblast y bajos *(`20` §1)*.
 
-> ⚠️ **Lo que sigue sin verificar del contrato completo**: el coste orientativo de un rescate. Es
-> la pregunta que queda por hacer por escrito. Ver [`06-conduccion`](06-conduccion.md).
+> 🛑 **Y aquí este documento se contradecía con su propia fuente, hasta el 29/08.** Decía
+> «franquicia cero» y citaba abajo, como prueba,
+> [savannacarhire.com.na/reduced-excess-insurance](https://www.savannacarhire.com.na/reduced-excess-insurance)
+> — que es **la página que dice lo contrario**: *«**IMPORTANT**: an accident without involvement of
+> other parties (single vehicle accidents), is not covered with Reduced Excess 1 and 2, 3 and 4.
+> Also not when you tried to avoid hitting an animal crossing the road»*, definiendo ese accidente
+> como *«losing the control over the car and rolling the car»* y fijando **N$165.000 (~€8.900)** a
+> cargo del cliente. **Los N$165.000 no eran solo el escenario de los niveles bajos de Asco: son
+> también el de la Opción 4 de Savanna**, según su propia página de seguro — mientras su página de
+> condiciones lista el vuelco *dentro* de la Opción 4. **Las dos se contradicen y nadie lo ha
+> resuelto.**
+>
+> ⚠️ **Lo que sigue sin verificar del contrato completo**: qué pasa exactamente en un vuelco sin
+> terceros —**la pregunta nº 1 de la entrega, por escrito** *(`20` §1, §9)*— y el coste orientativo
+> de un rescate. Ver [`06-conduccion`](06-conduccion.md).
 
 **Fuentes:** [ascocarhire.com/insurance](https://www.ascocarhire.com/insurance.html) ·
 [savannacarhire.com.na](https://www.savannacarhire.com.na/reduced-excess-insurance)
@@ -83,11 +96,15 @@ Verificado en los contratos: **80 km/h en grava** —el legal es 100—, **60 de
 
 ---
 
-## 5. Savanna — Opción 4, franquicia cero confirmada ✅
+## 5. Savanna — Opción 4, y lo que cubre de verdad ⚠️ *(retitulado el 29/08: decía «franquicia cero confirmada ✅», y no lo está)*
 
 **Grupo GSXA-1 Camping, Ford Ranger 2.2/2.0 D/Cab automático, RESERVADO el 12/08/2026.** La
-Opción 4 de seguro anula la franquicia estándar de N$35.000 y cubre neumáticos, lunas y bajos ✅
-*(de la propia oferta — `20` §1)*. Depósito de combustible de 140 l confirmado (doble depósito,
+Opción 4 de seguro rebaja la franquicia estándar de N$35.000 y cubre **lunas** *(laterales y
+parabrisas)*, **dos neumáticos — no las llantas**, **sandblast** y **bajos** ✅ *(de su propia
+web)*. **Lo que NO está confirmado es que la deje en cero**: su página de seguro excluye de las
+cuatro opciones el accidente sin terceros, con **N$165.000** a cargo del cliente *(§3 arriba)*.
+Y lo que sí es inequívoco en las dos páginas: **cualquier exceso de velocidad anula todos los
+seguros**, con caja negra *(§4)*. Depósito de combustible de 140 l confirmado (doble depósito,
 80+60 l). El detalle completo de la reserva, con todo lo que trae de serie —kit de recuperación,
 triángulo, botiquín, tienda, nevera con batería propia— está en [`20`](20-reservas.md) §1.
 
@@ -110,7 +127,13 @@ triángulo, botiquín, tienda, nevera con batería propia— está en [`20`](20-
   (~€1.800) para dos personas y 15 días** (fuente única y matizada como *"como referencia"*;
   el FCDO británico solo pide "fondos suficientes")
 
-La ficha del MAEC se actualizó el 26/05/2026 — tiene ~7 semanas.
+⚠️ **El recargo de los N$2.000 no lo dice el MAEC** *(comprobado el 29/08: su ficha cubre el visado
+en tres frases —1 de abril de 2025, preferentemente online, también a la llegada, 1.600 NAD— y **no
+menciona ningún recargo**)*. La afirmación se queda **❌, con la fuente por localizar**; el consejo
+—usar el e-visa— vale igual.
+
+*(La ficha del MAEC se actualizó el 26/05/2026: cuando esto se escribió tenía ~7 semanas; a día de
+hoy, ~14.)*
 
 - https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia
 - https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements
