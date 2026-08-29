@@ -455,23 +455,34 @@ zona de Etosha.
 
 ### El más cercano a Sossusvlei: la verdad incómoda
 
-> ### ❌ **No hay hospital cerca de Sesriem.**
-> Windhoek está a **~320 km** y Walvis Bay a **~270 km**, ambos **4+ horas** sobre grava a tu
-> límite contractual de 80 km/h.
+> ### ❌ **No hay hospital cerca de Sesriem** — pero sí hay algo, y está a la mitad.
+> **Remedido el 28/08 con el enrutado propio, porque las dos cifras que había aquí estaban
+> cortas**: **Windhoek a 340 km / ~4 h** *(no 320)* y **Walvis Bay a 315 km / ~3h55** *(no 270)*.
 >
-> **Un trauma grave en Sossusvlei significa evacuación aérea, o significa muchísimo tiempo.**
+> Y lo que faltaba: entre medias hay **centros pequeños del sistema público**, localizados en
+> OpenStreetMap ◐ — **Maltahöhe Health Centre a 167 km / ~2h05** de Sesriem, **Rietoog Clinic a
+> 141 km / ~1h50**, y desde **Spreetshoogte** *(D2)* la cosa cambia del todo: **Rietoog a 83 km /
+> ~1h05** y el **St Mary's Hospital de Rehoboth a 114 km / ~1h30** *(**062 522 2006**)*.
+> ⚠️ **Un health centre rural no es un hospital**: sin respirador, sin antiveneno, y **de sus
+> horarios y su dotación no hay nada publicado** ❌. Valen para oxígeno, manos y —sobre todo— para
+> ser un sitio con nombre al que dirigir una evacuación.
+>
+> **Un trauma grave en Sossusvlei sigue significando evacuación aérea, o muchísimo tiempo.**
 
 **Por eso, tres cosas encajan en una sola:**
 1. Tu seguro con **REPATRIACIÓN** —que además es **condición de entrada**— **no es papeleo**. El
    elegido es el **IATI Estrella** (ver README y `02`), y la pregunta clave **sigue pendiente por
    escrito**: 👉 **confirma que cubre evacuación AÉREA dentro del país desde una pista remota**, no
    solo el vuelo de vuelta a casa desde Windhoek. *(Y añádele la opción de búsqueda y salvamento.)*
-2. La exposición de **~N$165.000 (~€8.250)** del **vuelco sin terceros** era el escenario de los
-   niveles bajos de **Asco** (la referencia descartada). Con la **Opción 4 de Savanna la
-   franquicia es cero** ✅ *(`20` §1)* — pero su contrato completo sigue sin leer, así que las
-   exclusiones exactas (daños por agua, negligencia probada) no están confirmadas por escrito, y
-   el **rescate sin tope sigue sin confirmar por escrito**: el evento que te mete en una ambulancia
-   aérea es el mismo.
+2. 🛑 **La exposición de ~N$165.000 (~€8.900) por el vuelco sin terceros NO era solo de Asco: es
+   también de Savanna, y este párrafo decía lo contrario hasta el 28/08.** Su propia página de
+   seguro avisa en mayúsculas de que *«an accident without involvement of other parties (single
+   vehicle accidents), is not covered with Reduced Excess 1 and 2, 3 and 4»* —con *«losing the
+   control over the car and rolling the car»* como ejemplo— y fija esa cifra a cargo del cliente,
+   mientras **su página de condiciones lista el vuelco DENTRO de la Opción 4**. Las dos se
+   contradicen y **nadie lo ha resuelto**: es la **pregunta nº 1 de la entrega, por escrito**
+   *(`20` §1)*. Además, el **rescate sin tope sigue sin confirmar**: el evento que te mete en una
+   ambulancia aérea es el mismo que te deja el coche del revés en la grava.
 3. Un **dispositivo satelital con SOS** es lo que **dispara el rescate** donde no hay cobertura.
 
 ### La costa (D5–D7) sí tiene hospital — dos, privados ◐

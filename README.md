@@ -483,9 +483,17 @@ flowchart TD
    alquiler y el seguro. Se saca en la DGT por **~€10,51 (~N$210)**, vale **1 año** y va **siempre
    junto al carnet** *(detalle y evidencia en `04`)*.
 
-**Y tres datos médicos que se resuelven en una tarde:** **malaria** — Etosha sí es zona (CDC), el
-desierto y la costa no; a primeros de noviembre, antes de las lluvias, el riesgo está en su mínimo
-estacional *(Malarone empieza 1–2 días antes; mefloquina, 2–3 semanas)* · **fiebre amarilla** —
+**Y tres datos médicos que se resuelven en una tarde:** **malaria** — ⚠️ **la zona no empieza en
+Etosha, empieza el D7** *(precisado el 28/08 contra el CDC; este resumen decía solo «Etosha sí es
+zona» y se dejaba fuera tres días)*: el CDC marca **Kunene, Oshikoto, Oshana, Omusati y
+Otjozondjupa** entre otras, así que llevan riesgo **la Costa de los Esqueletos desde el cruce de
+Ugabmund (D7), Damaraland (D8–D9) y Etosha (D10–D13)** — el desierto, Walvis Bay y Windhoek, no.
+**Eso adelanta la profilaxis tres días** *(Malarone empieza 1–2 días antes, o sea el ~4–5 de
+noviembre, ya de viaje: hay que llevarla comprada; mefloquina, 2–3 semanas antes, ~16–23 de
+octubre)*. A primeros de noviembre, antes de las lluvias, el riesgo está en su mínimo estacional, y
+**las dos guías oficiales discrepan** —la británica no pide quimioprofilaxis de mayo a noviembre y
+el CDC sí, sin distinguir estación—: **lo decide la cita del CVI, con las dos delante**
+*(el detalle, en [`04`](04-guia-preparacion.md))* · **fiebre amarilla** —
 con el vuelo elegido **no hace falta**, porque **Fráncfort y Múnich no son zona de riesgo**
 *(Doha y Johannesburgo, también limpios)* · **seguro con repatriación** — es condición de entrada, y
 **el IATI Estrella la lleva al 100 %: requisito cumplido, y contratado el 24/08**. *Lo que queda es
