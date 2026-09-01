@@ -37,6 +37,24 @@ devuelven 403 aquí, así que el precio de bomba exacto no se ha leído del prim
 coordinated fuel supply arrangement» que había contenido los precios expiraba en septiembre: esta
 subida es justo esa presión al alza que ya se avisaba abajo, materializándose.)*
 
+**Y llegó septiembre y volvió a subir: revisión del 2 de septiembre de 2026 (+N$1,60/l diésel,
++60 c gasolina) ◐/❌** —justo la presión al alza que expiraba con el «emergency arrangement», ahora
+materializada: el barril de diésel 50 ppm subió de ~US$145 (julio) a ~US$162 (agosto) y el dólar más
+fuerte no lo compensó—. Precios de bomba de la costa (Walvis Bay):
+
+- **Diésel 50 ppm** — **N$27,86/l (~€1,39)** *(+N$1,60)*
+- **Diésel 10 ppm** — **N$27,96/l (~€1,40)**
+- **Gasolina 95** — **N$25,08/l (~€1,25)** *(+N$0,60)*
+
+Además, **el gravamen de uso de carretera sube 30 c/l** (de 243 a 273 c/l), para financiar los
+proyectos de carreteras alimentadoras.
+
+*(❌ **extracción sin verificar**: las cifras convergen en **dos búsquedas independientes** —thebrief,
+The Namibian, allAfrica, Informanté— pero **ni una sola fuente se dejó abrir** desde este entorno
+(egress 403; mme.gov.na ni resuelve el DNS), igual que en agosto, así que el precio de bomba exacto
+**no se ha leído del primario**. La dirección y el orden de magnitud son sólidos; el decimal, no.
+👉 **Reconfírmalo la semana antes de salir.)*
+
 > ### ⚠️ Dos avisos que invalidan esa cifra para tu viaje
 >
 > **1. Son precios de WALVIS BAY.** Namibia fija **un precio base nacional en el puerto** de Walvis
@@ -54,8 +72,10 @@ subida es justo esa presión al alza que ya se avisaba abajo, materializándose.
 > compra al Basic Fuel Price sin primas de importación— **solo dura de julio a septiembre de 2026**.
 > **Caduca antes de tu viaje.**
 
-**Para presupuestar (tras la subida de agosto):** **N$26–29/l (~€1,30–1,45)** de diésel en el
-interior, **como estimación, no como dato**. 👉 **Recomprueba la semana antes de salir.**
+**Para presupuestar (tras la subida de septiembre):** **N$28–31/l (~€1,40–1,55)** de diésel en el
+interior, **como estimación, no como dato** *(la costa quedó en N$27,86 el 2 sep, y el interior suma
+su diferencial de transporte encima; la banda vieja de agosto era N$26–29)*. 👉 **Recomprueba la
+semana antes de salir** —quedan aún la revisión de octubre y la de noviembre.
 
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: el
 Ford doble cabina cargado en los **~2.798 km de la ruta** (control OSRM, rehecho el 24/08
@@ -63,10 +83,15 @@ con las dos noches en Onguma y Damaraland partido en dos), a
 **~11–13 l/100 km**, quema **~308–364 l** → banda **N$8.002–10.549 (~€400–527)**, central
 **~N$9.066 (~€453)** con el diésel a N$27/l de agosto *(era menos con el precio de julio)*.
 **Se presupuesta ~N$9.100 (~€455) — €228 por persona**; el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
-2.800–3.200 km de la ruta con el sur.)*
+2.800–3.200 km de la ruta con el sur.)* ⚠️ **Tras la subida del 2 de septiembre** el diésel del
+interior ya no anda por N$27 sino por **N$29–30/l**, así que ese central de N$9.100 queda del **lado
+optimista**: la banda **N$8.002–10.549** lo sigue cubriendo *(a N$30/l son ~N$10.000)*, pero cuenta
+con la **mitad alta**, no con el central.
 
 Fuentes: [rebaja de julio](https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/) ·
-[subida de N$2,00/l del 5 ago 2026](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/) *(403 aquí; vía fragmento del buscador)*
+[subida de N$2,00/l del 5 ago 2026](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/) *(403 aquí; vía fragmento del buscador)* ·
+[subida del 2 sep 2026, +N$1,60 diésel](https://thebrief.com.na/2026/08/motorists-to-pay-n1-60-more-for-diesel-60-cents-more-for-petrol/) y
+[The Namibian, «fuel prices to rise in September»](https://www.namibian.com.na/fuel-prices-to-rise-in-september-as-ministry-increases-road-levies/) *(las dos en egress/403 aquí; vía fragmento convergente del buscador — extracción sin verificar)*
 
 ### ❌ El mito de la tarjeta — corregido
 

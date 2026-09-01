@@ -999,6 +999,20 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   resort *(ioverlander + relatos de viajeros ◐/○)*, pero se secó en 2025 y NWR no lo publicita:
   **la regla operativa de `07`/`08` es tratarlo como que NO hay** — llena en Henties Bay y entra
   con autonomía para salir. Sigue sin cerrar si hay diésel en el bucle Ugabmund–Springbokwasser.
+- ⛽ **Precio del diésel — la 1ª de las «~3 revisiones más» que avisaba `07` ya cayó (01/09/2026)**
+  ◐/❌. El Ministerio de Industrias, Minas y Energía subió el combustible **desde el 2 de septiembre
+  de 2026**: **diésel +N$1,60/l** → Walvis Bay **N$27,86/l (~€1,39)** el 50 ppm y N$27,96 el 10 ppm;
+  **gasolina 95 +60 c** → N$25,08/l; y el **gravamen de uso de carretera +30 c/l** (243 → 273 c/l),
+  para carreteras alimentadoras. Motivo declarado: el barril de diésel 50 ppm de ~US$145 (julio) a
+  ~US$162 (agosto) y las tensiones del estrecho de Ormuz, que el dólar más fuerte no compensó.
+  **Igual que en agosto, la extracción NO está verificada contra el primario**: las cifras convergen
+  en dos búsquedas independientes *(thebrief.com.na, The Namibian, allAfrica, Informanté)* pero
+  **ninguna se dejó abrir** aquí —egress 403; mme.gov.na ni resuelve DNS—, así que el decimal exacto
+  se queda en ❌; la dirección y el orden de magnitud, en ◐. **Efecto en el presupuesto: ninguno en
+  el total** —el diésel del viaje sigue dentro de la banda N$8.002–10.549 de `02`/`07` (a N$30/l en el
+  interior sale ~N$10.000)—, pero **el central de N$27/l queda ya optimista**: `07` y `02` pasan a
+  contar la mitad alta de la banda. **Quedan aún la revisión de octubre y la de noviembre**;
+  reconfírmese la semana antes de salir.
 - 🎫 **La tabla fina de tasas del MEFT**: el PDF primario sigue sin abrirse — pero el **reparto
   premium (N$280) vs estándar (~N$200) por parque** quedó resuelto a nivel de fragmento el **15/08
   (◐/○, ver §Tasas arriba)**: la lista premium repetida por dos búsquedas independientes incluye
