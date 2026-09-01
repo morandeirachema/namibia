@@ -263,6 +263,12 @@ flowchart LR
   remotas** (Solitaire, Sesriem, Okaukuejo) sube sobre eso → banda **N$26–29/l**, central **~N$27/l**.
   ⚠️ **El precio se revisa cada mes**: entre agosto y la salida de noviembre habrá **~3 revisiones más**,
   así que esto sigue siendo estimación — reconfírmalo la semana antes de salir.
+- 🆕 **La 1ª de esas revisiones ya llegó (2 sep 2026): +N$1,60/l diésel** → costa **~N$27,86/l ◐/❌**;
+  el interior, con su diferencial de transporte encima, hacia **~N$29–30/l**. **No desborda la banda
+  total del cálculo** *(a N$30/l el diésel del viaje sale ~N$10.000, aún bajo el techo N$10.549)*,
+  pero deja el central de **N$27/l ya optimista**: cuenta con la **mitad alta** de la banda, no con el
+  central. Dos búsquedas convergentes; **ni una fuente abierta aquí** (egress 403), extracción sin
+  verificar. Detalle y el gravamen de carretera (+30 c/l) en `07` y en `15`.
 
 - **Cálculo central**: 2.798 km × 0,12 l/km × N$27/l = **~N$9.066 (~€453)** para la pareja.
 - **Banda**: **N$8.002–10.549 (~€400–527)** *(2.798 km × 11–13 l/100 km × N$26–29/l — recalculada
