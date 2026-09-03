@@ -382,8 +382,23 @@ sobre sus propias URL *(gondwana-collection.com/accommodation/…)*.
 *(Sesriem: Desert Camp, Desert Quiver, The Desert Grace; Swakopmund; Twyfelfontein Country Lodge —
 que NO es de Gondwana; puertas de Etosha: Taleni, Toshari)*. El buscador devuelve sus **actividades**
 antes que el alojamiento, y el `403` impide leer la ficha. Como referencia de gama media namibia
-sigue valiendo **~€75–170 por noche para dos ◐** (rango de agregador). *(Twyfelfontein Country Lodge:
-un agregador da «desde ~$223 pp DBB» para may–oct 2026 ◐; sin cifra limpia para noviembre.)*
+sigue valiendo **~€75–170 por noche para dos ◐** (rango de agregador).
+
+> **Avance (03/09/2026) — Twyfelfontein Country Lodge, la noche del D8, ya tiene cifra para el año
+> del viaje ◐.** Varios agregadores devuelven, por snippet, la misma tarifa: **«desde ~$223 pp DBB»
+> para may–oct 2026** y, para **1 nov 2026 – 31 oct 2027 —el año exacto del viaje—, «desde N$4.470»**.
+> Las dos cifras cuadran entre sí *(≈$223 pp a ~N$20 = €1)*, así que **N$4.470 se lee como por
+> persona en media pensión (DBB)** → **N$8.940 (~€447) la pareja**. **Muy por encima del rango
+> «€75–170 para dos» de arriba**, porque aquél es de habitación suelta en agregador y éste es la
+> media pensión del propio lodge. ⚠️ **Sigue en ◐, no en ✅**: como con Gondwana, todas las fichas
+> —[siyabona](https://www.siyabona.com/pricing_twyfelfontein-country-lodge.html),
+> [madbookings](https://www.madbookings.com/namibia/twyfelfontein-country-lodge-rates-prices.htm),
+> [namibweb](https://www.namibweb.com/twy.htm) y la web propia
+> [twyfelfontein.com.na](https://twyfelfontein.com.na/)— devuelven **`403`** desde este entorno, así
+> que la cifra viene del **fragmento del buscador**, sin poder abrir la página para comprobar la
+> extracción ni la habitación exacta. **Confírmalo por email antes de presupuestar** *(y ojo: el `02`
+> presupuesta esta noche aún sin tarifa cerrada — si se confirman los ~€447 DBB, sube el bloque de
+> alojamiento).*
 
 **Antelación** ◐: la temporada alta namibia es **julio–octubre**, y **noviembre es hombro**. El
 cuello de botella no es la temporada: es **estructural**, porque **Sesriem tiene 44 parcelas** y es
