@@ -1022,6 +1022,25 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   **nature drive de ~07:00** *(N$1.355 · ~€68 pp ✅)* o nada. ⚠️ **Y de Grootberg falta la HORA de
   salida además del precio** ❌ *(res4@journeysnamibia.com · +264 61 228 104)* — es justo el dato que
   tumbó al de Palmwag.
+  > **Avance (17/09/2026) — la HORA de salida de Grootberg no es un número que oculten: es que no lo
+  > hay fijo.** La propia descripción del lodge dice que el rastreo **sale de madrugada «variando
+  > según el amanecer» y que la hora exacta se confirma en recepción** ◐ *(fragmento de
+  > [grootberg.com/activities/rhino-tracking](https://www.grootberg.com/activities/rhino-tracking) y
+  > de una reseña de [TripAdvisor](https://www.tripadvisor.com/ShowUserReviews-g13228161-d969656-r619359124-Grootberg_Lodge-Palmwag_Damaraland.html),
+  > vía WebSearch)*. O sea: sigue el amanecer igual que el de Palmwag *(que la tarifa de Gondwana ya
+  > fijó en 06:00–06:30)*, y a finales de noviembre amanece **~05:50–06:10** *(cálculo del `01`)*.
+  > **La consecuencia es la misma que tumbó al plan de Palmwag**: una salida a la hora del amanecer
+  > **no se coge saliendo de Twyfelfontein a las 07:00** — hay que **dormir ya en Grootberg la noche
+  > anterior** para hacerlo. Así que lo que falta de Grootberg ya no es «la hora» *(tracklea el
+  > amanecer, se confirma en recepción)*, sino **el precio y la decisión de dormir allí el D8**.
+  > ⚠️ **El PRECIO sigue en ❌**: desde este entorno el egress bloquea **todas** las fichas
+  > —grootberg.com, journeysnamibia.com, info-namibia, namibiabookings, yellowzebrasafaris,
+  > holidayarchitects y lekkeslaap devuelven `EGRESS_BLOCKED`—, así que no hay ninguna que abrir para
+  > comprobar la extracción. Lo único que asomó por el buscador fue un **«~N$1.200 (~€60) media
+  > jornada con game drive y almuerzo» que la propia búsqueda marcó como dato ANTIGUO** y que además
+  > choca con la media jornada verificada de Gondwana en Palmwag *(N$3.975 · ~€199 pp)*: **NO se
+  > adopta** —ni entra al presupuesto ni se cruza con nada—. Pídase por email
+  > *(res4@journeysnamibia.com)* junto con la confirmación de que se puede reservar durmiendo allí.
 - 🌙 **¿Vende NWR el nocturno guiado y la guiada de mañana a quien NO duerme en el campamento?** ❌
   **N$2.800 (~€140) en juego.** Al anular Namutoni, las dos últimas noches se duermen fuera y las dos
   actividades salieron del presupuesto. Si las venden igual, vuelven al plan *(`20` §4)*.
