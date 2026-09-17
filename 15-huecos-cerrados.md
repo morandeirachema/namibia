@@ -930,21 +930,30 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   Mochilero la trae de serie—, así que **no ha entrado sola**. Misma comprobación para la
   **evacuación aérea dentro del país** ❌ *(`20` §3)*.
 - 🚗 El **traslado A Coruña ↔ Oporto — decidido (09/08): en coche propio**. **Cotizado el 10/08 en
-  ~€180–185 la pareja ◐/❌** *(egress bloqueó abrir las webs oficiales, así que es candidato con URL,
-  no cifra cerrada — confirmar antes de pagar)*:
-  - **Parking de larga estancia** del aeropuerto Francisco Sá Carneiro: los oficiales más baratos son
-    **P6 y P9 «Low Cost», €5,50/día** ◐ *(rango de los de larga estancia €5,50–16/día)* → **~€88–94**
-    los 16–17 días (30 oct – 15 nov). Fuera del recinto, con lanzadera, desde ~€3,33/día ◐ *(Parkos)*.
-    Reserva oficial en `store.ana.pt` / +351 229 410 787. — *WebSearch 10/08/2026; `store.ana.pt` y
-    `parkos.com` no descargables (egress).*
-  - **Peajes ≈ €40,80 i/v** ◐: **AP-9 A Coruña → Tui (frontera) €20,40/trayecto** *(tarifa 2026,
-    vehículo ligero)* → €40,80 i/v; la **A28 Vigo ↔ Oporto es gratuita desde el 1 de enero de 2025**
-    *(peaje suprimido; el ~€4–5 que aún circula es anterior)* → €0 en Portugal. La bonificación de
-    ida y vuelta en <24 h de la AP-9 no aplica (17 días). — *Fuente legal citable no descargable:
-    Ministerio de Transportes, tarifas AP-9 «Ferrol–frontera portuguesa» 2026 (PDF en
-    `cdn.transportes.gob.es`).*
-  - **Combustible ≈ €50–55** ❌: ~540 km i/v, ~6,5 l/100 km, gasóleo ~€1,45–1,55/l — **los dos
-    supuestos sin verificar**.
+  ~€180–185 la pareja y REVISADO al alza el 17/09 a ~€225–270 ◐/❌** *(egress sigue bloqueando las
+  webs oficiales, así que las cifras son síntesis del buscador, no ficha abierta — confirmar antes de
+  pagar)*. **La revisión encontró que la estimación de agosto se quedó corta en los tres frentes:**
+  - **Parking de larga estancia** del aeropuerto Francisco Sá Carneiro: el más barato de los oficiales
+    «Low Cost» es el **P9 a ~€7/día online** y el **P6 a ~€7,70/día** ◐ *(rango oficial actual €7–16/día;
+    el «€5,50/día» de agosto era el suelo del rango y ya no lo publica ninguno)* → **~€112–133** los
+    16–17 días (30 oct – 15 nov). Fuera del recinto, con lanzadera, desde ~€4/día ◐ *(Parkos)*.
+    Reserva oficial en `store.ana.pt` / +351 229 410 787. — *WebSearch 17/09/2026 (parclick.es,
+    parkmundo.es sobre la tabla de redpark.pt); `store.ana.pt` no descargable (egress).*
+  - **Peajes ≈ €47–67 i/v** ◐ *(antes €40,80, con dos errores)*: **AP-9 A Coruña → Tui (frontera)
+    ~€23,50/trayecto** en 2026 —no €20,40— *(A Coruña→Vigo/Puxeiros €21,40 + Puxeiros–O Porriño €1,05
+    + O Porriño–Tui €1,05, vehículo ligero; A Coruña→Vigo por sí solo ya son €21,40 tras la subida de
+    enero de 2026)* → **€47,00 i/v** solo el lado español. Y el lado portugués **no es €0 por defecto**:
+    la ruta rápida a OPO va por la **A3 (Valença–Braga–Porto), portagem clase 1 €10,20/trayecto en 2026**
+    ◐ *(Brisa)* → **€20,40 i/v**; solo bajando por la **A28 costera** (exenta, más lenta) se queda cerca
+    de €0. Total peajes: **~€47 (por la A28)** a **~€67 (por la A3)** i/v. La bonificación de ida y
+    vuelta en <24 h de la AP-9 no aplica (16 días). — *WebSearch 17/09/2026 (elespanol.com, moncloa.com
+    sobre las tarifas Audasa 2026; auto.pt/ACP para la A3); PDFs primarios de `cdn.transportes.gob.es`
+    e IMT no descargables (egress).*
+  - **Combustible ≈ €63–72** ◐/❌ *(antes €50–55)*: ~580 km i/v *(A Coruña ↔ OPO ~290 km ×2)*, ~6,5 l/100 km
+    → ~38 l, y el **gasóleo A promedió ~€1,77/l en España en septiembre de 2026** *(media mensual; ~€1,84
+    a mediados de mes)* — **no €1,45–1,55/l como se supuso** → **~€67**. — *WebSearch 17/09/2026 (geoportal
+    de hidrocarburos del Ministerio; gasolineracerca.es).* **El consumo del coche sigue ❌ y el precio se
+    revisa cada semana y por provincia.**
   - *(El bus directo A Coruña → terminal, ~€17/persona y trayecto ◐, queda de plan B: i/v los dos
     ≈ ~€68 — `02` §8.)*
 - 🛢️ La **capacidad real del depósito — CERRADO ✅ (12/08): 140 l**, doble depósito de 80+60 l,
