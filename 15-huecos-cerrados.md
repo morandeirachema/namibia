@@ -970,6 +970,28 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   desde la entrada»* ◐ *(`03`)* — con ese criterio la reentrada cae dentro de la unidad ya pagada.
   **Si en la práctica la ventanilla cobra por entrada, son 5 unidades y N$620 más.** Se pregunta en
   la puerta de Andersson al entrar el D10, y **la respuesta cambia el presupuesto, no el plan**.
+  > **Avance (17/09/2026) — la evidencia convergente apunta a que las 4 unidades bastan, y de paso
+  > resuelve la tensión con el `03`.** Tres búsquedas independientes (WebSearch) coinciden en que la
+  > tasa se cobra **por día natural / por cada 24 h desde la entrada**, con el matiz que aquí decide:
+  > **quien duerme DENTRO renueva en continuo y la reentrada de la mañana siguiente va incluida, pero
+  > quien duerme FUERA y vuelve a cruzar la puerta paga una tasa diaria nueva cada mañana** —
+  > *«if you stay at a private lodge outside the gates and re-enter every day, you trigger a
+  > brand-new daily fee every single morning you cross the gate»*. Las dos últimas noches se duermen
+  > **fuera** (Onguma, `03`), así que la reentrada del D13 **no cae dentro de una unidad ya pagada**
+  > *(eso solo valdría durmiendo dentro)*: **es su propia unidad diaria**. Pero el cómputo sigue
+  > dando **4, no 5**, porque se entra en **cuatro días naturales distintos —D10, D11, D12 y D13— y
+  > el D14 no se vuelve a entrar** *(`03`)*: una unidad por día natural = 4, y la reentrada del D13
+  > **es** la unidad del D13, no un quinto cargo encima de un supuesto arrastre del D12. Con esto el
+  > riesgo de **+N$620 (~€31) no se materializa para este calendario de puertas**, y desaparece la
+  > contradicción entre el `03` *(«4 unidades, y siguen siéndolo»)* y este hueco.
+  > ⚠️ **Sigue en ◐, no en ✅**: el egress vuelve a bloquear TODA página —etoshanationalpark.com.na,
+  > [mat-travel](https://mat-travel.com/namibia/etosha/entry-fees/), tripadvisor.com y etosha.org
+  > devuelven `EGRESS_BLOCKED` desde este entorno—, así que la mecánica sale de **fragmentos del
+  > buscador, sin una sola ficha abierta para verificar la extracción**, y un fragmento aislado aún
+  > dice «per calendar day» a secas, sin el matiz dentro/fuera. **Confírmese en la puerta de Andersson
+  > al entrar el D10**: (a) si la reentrada desde fuera se cobra como día nuevo —sí, según esto— y
+  > (b) si el cargo de vehículo **N$60 (~€3)** se repite en cada cruce. El presupuesto no se mueve:
+  > ya cuenta 4 unidades.
 - 🕕 **El horario de recepción de Onguma** ❌, y ahora sí importa. El D12 se sale del parque
   **con Von Lindequist cerrando a las 19:10** y Onguma queda 3,4 km después: la llegada puede ser a
   las **~19:15–19:30**. Y su propia tarifa dice que **la cena y las actividades se reservan al
