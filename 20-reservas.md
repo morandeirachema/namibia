@@ -465,11 +465,12 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
 - **El permiso internacional de conducir (DGT)** — cita previa en cualquier Jefatura o
   [sede electrónica](https://sede.dgt.gob.es/es/permisos-de-conducir/permiso-internacional/) ◐:
   **€10,51 (~N$210)**, vale 1 año, siempre junto al carnet *(`04`)*.
-- **El viaje a Oporto — decidido (09/08): se va y se vuelve en coche propio** *(~270 km)*. Queda
+- **El viaje a Oporto — decidido (09/08): se va y se vuelve en coche propio** *(~290 km)*. Queda
   **cotizar para las fechas y reservar el aparcamiento de larga estancia** del aeropuerto Sá
-  Carneiro *(17 días, 30 oct – 15 nov)* y los **peajes** ❌. Orden de magnitud, ganchos «desde» ◐:
-  los **oficiales de larga estancia más baratos son P6 y P9 «Low Cost», €5,50/día** *(~€88–94 los
-  16–17 días — `02` §8)*; fuera del recinto, con lanzadera, **desde ~€3,3–5/día** *(~€57–85 —
+  Carneiro *(17 días, 30 oct – 15 nov)* y los **peajes** ❌. Orden de magnitud, ganchos «desde» ◐
+  *(revisado 17/09: el conjunto sube a ~€225–270 la pareja — `02` §8)*:
+  el **oficial «Low Cost» más barato es el P9, ~€7/día, y el P6 ~€7,70/día** *(~€112–133 los
+  16–17 días; el «€5,50» de agosto ya no lo publica ninguno — `02` §8)*; fuera del recinto, con lanzadera, **desde ~€4–5/día** *(~€64–85 —
   [parkingoporto.com](https://parkingoporto.com/) ·
   [ParkCare](https://parkcare.es/parking-aeropuerto-oporto) ·
   [Parkos](https://eu.parkos.com/porto-airport-parking/))*; y el oficial junto a la terminal,

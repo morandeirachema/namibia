@@ -505,37 +505,51 @@ la mañana entera del primero y el día 14 completo.** Tres consecuencias, todas
    el **2 de noviembre** *(reservada 2–3 nov)*, y todas las de parque caen del **1 de noviembre**
    en adelante, en tramo barato.
 
-### 🚗 Y el precio de salir de Oporto: **~270 km hasta el aeropuerto — en coche propio**
+### 🚗 Y el precio de salir de Oporto: **~290 km hasta el aeropuerto — en coche propio**
 
 **Decisión del viajero (09/08/2026): se va y se vuelve en coche propio.** Con salida a las 16:10 se
 llega con margen; a la vuelta se aterriza a las **12:50 del día 15** con el coche esperando en el
-parking. Los tres costes de salir de Oporto, cotizados el **10/08/2026** *(egress bloqueó abrir toda
-web para verificar la extracción, así que van en ◐/❌ — son candidatos con URL, no cifras cerradas;
-confírmalos en la web oficial antes de pagar)*:
+parking. Los tres costes de salir de Oporto se cotizaron el **10/08/2026** y se **revisaron con
+tarifas actuales el 17/09/2026** *(egress sigue bloqueando abrir las webs oficiales —`store.ana.pt`,
+el PDF del Ministerio en `cdn.transportes.gob.es`— así que van en ◐/❌: cifras de síntesis del
+buscador, no de ficha abierta; confírmalos antes de pagar)*. **La revisión los sube: el precio de
+agosto se quedó corto en los tres frentes** —parking, peajes y, sobre todo, el combustible—:
 
-- 🅿️ **Aparcamiento de larga estancia** del aeropuerto Francisco Sá Carneiro. Los oficiales de larga
-  estancia más baratos son **P6 y P9 «Low Cost», a €5,50/día** *(descubiertos, 5–7 min a pie de la
-  terminal; el rango de los oficiales de larga estancia va de €5,50 a €16/día)* ◐. Para la estancia
-  **30 oct – 15 nov** *(~16–17 días de 24 h)* salen **~€88–94** ◐. Fuera del recinto, con lanzadera,
-  hay terceros **desde ~€3,33/día** ◐ *(Parkos)* — más baratos, pero con traslado y reserva previa.
-  Reserva online de los oficiales: `store.ana.pt` o **+351 229 410 787**.
-- 🛣️ **Peajes, ida y vuelta ≈ €40,80** ◐. En España, la **AP-9 A Coruña → Tui (frontera)** cuesta
-  **€20,40/trayecto** *(tarifa 2026, vehículo ligero)* ◐ → **€40,80** i/v. En Portugal, la **A28
-  Vigo ↔ Oporto es GRATUITA desde el 1 de enero de 2025** *(peaje suprimido; el ~€4–5 de la A28 que
-  aún circula por la web es anterior a esa fecha)* ◐ → **€0** el lado portugués. La bonificación de
-  ida y vuelta en <24 h de la AP-9 **no aplica** (van 17 días entre trayectos).
-- ⛽ **Combustible del coche propio A Coruña ↔ Oporto ≈ €50–55** ❌. ~270 km × 2 = **~540 km**; con un
-  consumo de **~6,5 l/100 km** y gasóleo a **~€1,45–1,55/l** salen ~35 l. **Los dos supuestos —el
-  consumo del coche y el precio del día— van sin verificar**: ajústalo a tu coche.
+- 🅿️ **Aparcamiento de larga estancia** del aeropuerto Francisco Sá Carneiro. El más barato de los
+  oficiales «Low Cost» es el **P9 a ~€7/día online** *(el más alejado, ~12 min a pie)*, y el **P6 a
+  ~€7,70/día** *(descubierto, ~5 min a pie)*; el rango oficial de larga estancia va de **€7 a
+  €16/día** ◐ *(el «€5,50/día» de agosto era el suelo del rango y ya no lo publica ninguno; síntesis
+  de parclick.es y parkmundo.es sobre la tabla de redpark.pt)*. Para la estancia **30 oct – 15 nov**
+  *(~16–17 días)* salen **~€112–133** ◐ *(P9 los 16 días ≈ €112; P6 ≈ €123)*. Fuera del recinto, con
+  lanzadera, hay terceros **desde ~€4/día** ◐ *(Parkos)* — más baratos, pero con traslado y reserva
+  previa. Reserva online de los oficiales: `store.ana.pt` o **+351 229 410 787**.
+- 🛣️ **Peajes, ida y vuelta ≈ €47–67** ◐ *(antes se dieron €40,80, con dos errores)*. En España, la
+  **AP-9 A Coruña → Tui (frontera)** cuesta **~€23,50/trayecto** en 2026 —no €20,40— *(vehículo
+  ligero: A Coruña→Vigo/Puxeiros €21,40 + Puxeiros–O Porriño €1,05 + O Porriño–Tui €1,05; el tramo
+  A Coruña→Vigo por sí solo ya son €21,40 tras la subida de enero de 2026)* ◐ → **€47,00** i/v. En
+  Portugal, **el «€0» de agosto era engañoso**: la ruta rápida a OPO entra por la **A3
+  (Valença–Braga–Porto), con portagem clase 1 de €10,20/trayecto en 2026** *(Brisa)* ◐ → **€20,40**
+  i/v; solo bajando por la **A28 costera** *(exenta, pero más lenta)* el lado portugués se queda
+  cerca de **€0**. Así que los peajes van de **~€47 (por la A28)** a **~€67 (por la A3)** i/v según
+  la ruta. La bonificación de ida y vuelta en <24 h de la AP-9 **no aplica** (van 16 días entre
+  trayectos).
+- ⛽ **Combustible del coche propio A Coruña ↔ Oporto ≈ €63–72** ◐/❌ *(antes €50–55, con el precio del
+  gasóleo mal puesto)*. ~290 km × 2 = **~580 km**; con **~6,5 l/100 km** salen **~38 l**, y el
+  **gasóleo A promedió ~€1,77/l en España en septiembre de 2026** *(media mensual; a mediados de mes
+  rondaba €1,84 — Ministerio de Transportes / geoportal de hidrocarburos, vía buscador)* — **no
+  €1,45–1,55/l como se supuso en agosto** → **~€67**. **El consumo del coche sigue sin verificar** y
+  el precio del gasóleo **se revisa cada semana y por provincia**: ajústalo a tu coche y a la fecha.
 
-**Total de salir de Oporto, la pareja ≈ ~€180–185** *(◐/❌ — la mayor parte, parking + peajes, es ◐;
-el combustible, ❌)*. Es un extra **fuera** del ~€3.990 por persona del presupuesto.
+**Total de salir de Oporto, la pareja ≈ ~€225–270** *(◐/❌ — parking y peajes en ◐; el combustible,
+◐ en el precio y ❌ en el consumo)*. Es un extra **fuera** del ~€3.990 por persona del presupuesto,
+y **~€45–85 más caro** de lo que decía la estimación de agosto *(~€180–185)*: la mayor parte del
+salto es el precio real del gasóleo y la portagem portuguesa que antes se daba por €0.
 
 ```mermaid
 flowchart LR
-    A["Salir de Oporto<br/>ida y vuelta, la pareja"] --> B["COCHE PROPIO · decidido<br/>parking ~90 EUR<br/>peajes ~41 EUR<br/>combustible ~50 EUR<br/>= ~180 EUR"]
+    A["Salir de Oporto<br/>ida y vuelta, la pareja"] --> B["COCHE PROPIO · decidido<br/>parking ~112 EUR (P9)<br/>peajes 47-67 EUR (segun ruta)<br/>combustible ~67 EUR<br/>= ~225-270 EUR"]
     A --> C["BUS · plan B archivado<br/>ALSA / FlixBus directo<br/>~17 EUR pp, i/v los dos<br/>= ~68 EUR"]
-    B --> D["El coche cuesta ~115 EUR mas,<br/>pero lleva puerta a puerta<br/>todo el equipaje de camping<br/>y no depende de horarios"]
+    B --> D["El coche cuesta ~160 EUR mas,<br/>pero lleva puerta a puerta<br/>todo el equipaje de camping<br/>y no depende de horarios"]
     C --> D
     style B fill:#2d6a4f,color:#fff
     style C fill:#e9c46a,color:#000
@@ -743,8 +757,9 @@ flowchart LR
 >
 > **Lo que todavía puede moverlo** *(ver §3, §4 y §9)*: las **6 noches de camping sin cotizar** ·
 > **el Sundowner de Onguma** si se coge *(+€49 pp)* ·
-> **+el traslado a Oporto** ida y vuelta *(ya cotizado el 10/08 en ~€180–185 la pareja ◐/❌ —
-> parking + peajes + combustible, ver §8)* y **+el día extra de seguro** *(❌ sin cotizar)*.
+> **+el traslado a Oporto** ida y vuelta *(revisado el 17/09 a ~€225–270 la pareja ◐/❌ — parking +
+> peajes + combustible, subió desde los ~€180–185 de agosto, ver §8)* y **+el día extra de seguro**
+> *(❌ sin cotizar)*.
 > **Cuenta ~€4.250 por persona para no llevarte sorpresas.**
 
 **Qué parte de este número es sólida: en §11, al final.**
