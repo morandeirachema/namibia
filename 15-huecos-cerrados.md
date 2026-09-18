@@ -1011,6 +1011,26 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   dos sitios identificados *(Twyfelfontein Country Lodge y la zona de Palmwag)* **son lodges**. Es el
   **único riesgo al alza serio del presupuesto**: presupuestada como camping *(~€35 la pareja)*,
   puede irse a **€150–200** si acaba siendo habitación *(`02` §3)*.
+  > **Avance (18/09/2026) — sí hay camping en Twyfelfontein, y eso rebaja el «único riesgo al alza».**
+  > El hueco se abrió diciendo que *«los dos sitios identificados son lodges»*; el problema no era que
+  > no exista camping, sino que no se había buscado. A ~6 km de los grabados, sobre el lecho del
+  > Aba-Huab, hay **al menos cuatro campings** localizados por WebSearch: **Aba-Huab Camp/Campsite**
+  > *([namibweb](https://www.namibweb.com/abahuab.htm) · [africanreservations](https://www.africanreservations.com/Aba-Huab-Campsite) · [wheretostay.na](https://abahuabcamp.wheretostay.na/))*,
+  > **Madisa Camp** *([info-namibia](https://www.info-namibia.com/accommodation/damaraland/madisa-camp) · [africanreservations](https://www.africanreservations.com/Madisa-Camp))*,
+  > **Mowani Campsite** *([africanreservations](https://www.africanreservations.com/Mowani-Campsite))* y
+  > **Twyfelfontein Adventure Camp** *([africanreservations](https://www.africanreservations.com/Twyfelfontein-Adventure-Camp))*.
+  > Las cifras que devuelve el buscador son **de ~2024 y dispersas** ○: Aba-Huab **~N$80 (~€4) pp**,
+  > Madisa **~N$160 (~€8) pp** en su fila de *overlanding*, y una reseña suelta cita **N$500/noche sin
+  > aclarar si es por parcela o por persona**. **Ninguna sirve como tarifa de noviembre 2026 cerrada**,
+  > pero para lo que decide el presupuesto basta el orden de magnitud: **dos personas acampando salen
+  > del orden de N$160–500 (~€8–25) la noche**, dentro —o por debajo— de la banda de camping de
+  > Damaraland que el `02` ya presupuesta *(~€35 la pareja)*. **Conclusión: la noche del D8 no amenaza
+  > con el salto de €150–200; ese salto solo llegaría eligiendo lodge por gusto, no por falta de
+  > camping.** ⚠️ **Sigue en ◐/○, no en ✅**: el egress bloquea madbookings, africanreservations,
+  > namibweb y wheretostay.na *(WebFetch → `EGRESS_BLOCKED`)*, así que las tarifas salen de fragmentos
+  > del buscador —sin abrir una sola ficha— y son de 2024. **Ciérrese la tarifa de noviembre por
+  > WhatsApp/email del campo elegido**; Aba-Huab es comunitario y no exige reserva en temporada hombro,
+  > que es justo por lo que esta noche es la red del calendario *(`01` §D8)*.
 - 🦓 ~~**La cebra de montaña de Hartmann no tiene ficha**~~ **CERRADO el 29/08** ✅. El motivo del
   descarte del 09/08 era cierto solo dentro de Etosha *(destapado el 28/08)*: la ruta cruza su
   terreno clásico **dos veces** —la escarpa de Spreetshoogte el D2 y Twyfelfontein → Palmwag →
