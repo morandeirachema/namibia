@@ -200,6 +200,10 @@ persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terra
   sumar €150–200 la pareja** y el total de §10 se queda corto. **Pídelo por escrito** *(`20` §5)*.
   *(A favor: es la noche que **no hay que reservar** —fuera de parque, temporada hombro— y por eso
   es la red del calendario: `01` §D8.)*
+  > **⚠️ Matizado el 18/09**: sí hay camping a ~6 km de los grabados —**Aba-Huab, Madisa, Mowani
+  > Campsite, Twyfelfontein Adventure Camp**—, del orden de **N$160–500 (~€8–25) la pareja** *(cifras
+  > de 2024, sin cerrar para nov 2026 · `15`)*. El presupuestarlo como camping **se sostiene**: el
+  > salto a €150–200 solo llegaría eligiendo lodge por gusto, no por falta de camping.
 - **D9 Hoada** (Grootberg) — **cerrado en esta pasada ◐**: **N$542–732/noche para dos (~€27–37)** según
   temporada (la de noviembre sin fijar; ver `15`). Coincide con la estimación de práctica común.
 - **D14 Windhoek**: **camping, con el coche hasta el 14 — decidido el 07/08**. Lo natural es
