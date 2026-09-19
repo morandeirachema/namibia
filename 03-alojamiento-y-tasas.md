@@ -238,6 +238,11 @@ Subieron un **80–100 % el 1 de abril de 2026**: **~N$280 (~€14) por adulto e
 en Etosha, Namib-Naukluft/Sossusvlei y Skeleton Coast, **más ~N$60 (~€3) de vehículo**,
 cobrado **por parque y por cada 24 h desde la entrada**.
 
+Esos N$280 (~€14) del extranjero se reparten en **N$140 (~€7) de entrada + N$140 (~€7) de
+conservación** por persona y día *(el residente SADC paga N$180 (~€9); el namibio, N$60 (~€3); los
+menores de 8 años, gratis)* — corroborado el 19/09 contra cinco fuentes secundarias concordantes y
+la nota del MEFT, todavía sin poder abrir el PDF primario del baremo desde aquí *(egress; `12` §7)*.
+
 **Presupuestar ~N$620 (~€31)/día** para dos adultos y coche, en cada parque.
 
 > **En Etosha son 4 unidades de 24 h, y siguen siéndolo** con las dos últimas noches fuera: se entra el

@@ -138,11 +138,23 @@ hoy, ~14.)*
 - https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia
 - https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements
 
-## 7. Las tasas de parque subieron un 80–100 % el 1 de abril de 2026 ◐ *(secundarias concordantes; el PDF primario del MEFT sigue sin abrirse — `02` §5, `15` §Tasas)*
+## 7. Las tasas de parque subieron un 80–100 % el 1 de abril de 2026 ◐ *(secundarias concordantes y el documento primario ya localizado por URL, aunque el egress lo siga bloqueando — `02` §5, `15` §Tasas)*
 
 **N$280 (~€14) por adulto internacional y día**, más **N$60 (~€3) por vehículo, por parque y por cada
 24 h**. Es casi el doble de la cifra que sigue circulando por los blogs (N$150), y es de las
 correcciones que más dinero mueven del dossier: en esta ruta son **7 unidades**.
+
+**Desglose del baremo no-SADC, corroborado el 19/09 por cinco fuentes secundarias independientes que
+coinciden al detalle**: los N$280 (~€14) del adulto internacional son **N$140 (~€7) de entrada +
+N$140 (~€7) de conservación** por persona y día; el adulto SADC paga N$180 (~€9), el namibio N$60
+(~€3) y los menores de 8 años entran gratis. Y **el documento primario del MEFT ya está localizado**
+—antes solo se conocía como «gaceta 8877»—: la nota
+[«Implementation of New Park Entrance Fees and Conservation Fee»](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/)
+y el PDF del baremo
+[«Park Entrance and Conservation Fees»](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF).
+**Sigue en ◐, no en ✅**: el egress bloquea `meft.gov.na` desde este entorno, así que las cifras
+salen de fragmentos de buscador concordantes, no de la ficha abierta —confírmese abriendo el PDF
+cuando haya red, o en la puerta de Andersson al entrar.
 
 > El baremo completo, la gaceta que lo publica y lo que falta por verificar están en
 > [`15-huecos-cerrados`](15-huecos-cerrados.md).

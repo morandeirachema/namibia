@@ -818,10 +818,12 @@ verificable», no como cierto. Y por mi cuenta, lo que se puede reproducir con c
 - Y marcas infladas rebajadas: SABAP1 es una *pers. obs.*; «364 días» del CCF no está en su web;
   «3,4 km» y «105 km» son enrutado propio, no fuente; Waterberg N$280 no está en la ficha de NWR.
 
-**Lo que sigue sin poderse abrir desde aquí** *(y por eso sigue en ◐ o ❌, no en ✅)*: la gaceta
-8877 del MEFT, el portal del e-visa *(WAF 468)*, las páginas de Lufthansa/Discover, la ficha de
-UNESCO de Twyfelfontein, y la nota de prensa del Ministerio con el diésel de agosto *(que existe y
-dice N$26,26, pero el dominio no resuelve)*.
+**Lo que sigue sin poderse abrir desde aquí** *(y por eso sigue en ◐ o ❌, no en ✅)*: el baremo de
+tasas del MEFT *(gaceta 8877 — localizado el 19/09 como la nota `meft.gov.na/news/199` y el PDF
+`543 Park Entrance and Conservation Fees`, con las cifras corroboradas por cinco secundarias, pero
+`meft.gov.na` sigue bloqueado por egress; `12` §7)*, el portal del e-visa *(WAF 468)*, las páginas
+de Lufthansa/Discover, la ficha de UNESCO de Twyfelfontein, y la nota de prensa del Ministerio con
+el diésel de agosto *(que existe y dice N$26,26, pero el dominio no resuelve)*.
 
 ## 🐆 El desvío al CCF — DESCARTADO *(26/08/2026)*
 
