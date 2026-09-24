@@ -295,10 +295,12 @@ flowchart LR
 
 ## 5. Tasas de parque — N$620/día para pareja + coche ◐
 
-**N$280 (~€14)/adulto extranjero/día + N$60 (~€3)/vehículo** ❌ *(el reparto interno entre entrada y
-conservación no se ha podido leer en la gaceta: el 28/08 se retiró un «N$140 + N$140» que no dice
-ninguna fuente — la única tabla primaria abierta, la de 2021, repartía 2:1. El total sí está
-respaldado)*,
+**N$280 (~€14)/adulto extranjero/día + N$60 (~€3)/vehículo** ◐ *(el reparto interno se corroboró el
+19/09 contra cinco secundarias concordantes: **N$140 (~€7) de entrada + N$140 (~€7) de conservación**
+—el SADC paga N$180 (~€9); el namibio, N$60 (~€3); los menores de 8 años, gratis; ver `12` §7 y `15`—.
+Sigue en ◐, no ✅: el PDF primario del baremo sigue sin poder abrirse desde aquí, y la única tabla
+primaria que llegó a abrirse —la de 2021— repartía 2:1 (N$100 + N$50), así que el 1:1 de 2026 descansa
+en las secundarias, no en la ficha oficial. El total sí está respaldado)*,
 cobrado **por parque y por cada 24 h desde la entrada** (ver `12` §7 y `15`). Dos adultos + coche =
 **N$620 (~€31)/día de parque**. Baremo del MEFT publicado en el **Government Gazette Nº 8877 ·
 Government Notice Nº 115** (firmado por la ministra el 26/03/2026, en vigor desde el **1/04/2026**),

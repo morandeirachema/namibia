@@ -147,14 +147,16 @@ correcciones que más dinero mueven del dossier: en esta ruta son **7 unidades**
 **Desglose del baremo no-SADC, corroborado el 19/09 por cinco fuentes secundarias independientes que
 coinciden al detalle**: los N$280 (~€14) del adulto internacional son **N$140 (~€7) de entrada +
 N$140 (~€7) de conservación** por persona y día; el adulto SADC paga N$180 (~€9), el namibio N$60
-(~€3) y los menores de 8 años entran gratis. Y **el documento primario del MEFT ya está localizado**
-—antes solo se conocía como «gaceta 8877»—: la nota
+(~€3) y los menores de 8 años entran gratis. Del **documento primario del MEFT** se conoce la URL
+—antes solo se citaba «gaceta 8877»—: la nota
 [«Implementation of New Park Entrance Fees and Conservation Fee»](https://www.meft.gov.na/news/199/Implementation-of-New-Park-Entrance-Fees-and-Conservation-Fee/)
 y el PDF del baremo
 [«Park Entrance and Conservation Fees»](https://www.meft.gov.na/files/downloads/543_Park%20Entrance%20and%20Conservation%20Fees.PDF).
-**Sigue en ◐, no en ✅**: el egress bloquea `meft.gov.na` desde este entorno, así que las cifras
-salen de fragmentos de buscador concordantes, no de la ficha abierta —confírmese abriendo el PDF
-cuando haya red, o en la puerta de Andersson al entrar.
+**Sigue en ◐, no en ✅, y con una salvedad**: el egress bloquea `meft.gov.na` desde este entorno, y
+la única vez que ese PDF `543` llegó a abrirse *(25/08)* servía **la tabla de 2021** *(«with effect
+from 1 January 2021», reparto 2:1)*, así que no está confirmado que la URL sirva ya el baremo de 2026
+—las cifras salen de fragmentos de buscador concordantes, no de la ficha abierta—. Confírmese abriendo
+el PDF cuando haya red, o en la puerta de Andersson al entrar.
 
 > El baremo completo, la gaceta que lo publica y lo que falta por verificar están en
 > [`15-huecos-cerrados`](15-huecos-cerrados.md).
