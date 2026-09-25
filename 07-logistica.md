@@ -69,13 +69,14 @@ The Namibian, allAfrica, Informanté— pero **ni una sola fuente se dejó abrir
 > más subidas en mayo y junio, y **esta bajada de N$4,00 en julio**.
 >
 > **3. Y hay riesgo al alza:** el «emergency coordinated fuel supply arrangement» del Gobierno —que
-> compra al Basic Fuel Price sin primas de importación— **solo dura de julio a septiembre de 2026**.
-> **Caduca antes de tu viaje.**
+> compra al Basic Fuel Price sin primas de importación— **duraba de julio a septiembre de 2026: se
+> acaba el 30/09**, un mes antes del viaje. Si se prorroga o qué lo sustituye, no consta en este
+> dossier ❌.
 
 **Para presupuestar (tras la subida de septiembre):** **N$28–31/l (~€1,40–1,55)** de diésel en el
 interior, **como estimación, no como dato** *(la costa quedó en N$27,86 el 2 sep, y el interior suma
 su diferencial de transporte encima; la banda vieja de agosto era N$26–29)*. 👉 **Recomprueba la
-semana antes de salir** —quedan aún la revisión de octubre y la de noviembre.
+semana antes de salir (~23/10)** —quedan aún la revisión de octubre y la de noviembre.
 
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: el
 Ford doble cabina cargado en los **~2.798 km de la ruta** (control OSRM, rehecho el 24/08

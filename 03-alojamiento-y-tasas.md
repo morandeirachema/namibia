@@ -105,9 +105,10 @@ justo al principio de la ventana)*:
   se pospone**. *(Desde el 26/08 ya no hay desvío al CCF que lo active: la segunda noche es firme
   — [el plan del guepardo](aparte/plan-del-guepardo.md).)* ❌ *El importe exacto de la
   reserva, por confirmar.*
-- ⚠️ **Lo que este cambio cuesta no es el alojamiento**: al no dormir dentro, **el nocturno guiado
-  de NWR y la guiada de mañana de Namutoni dejan de ser comprables** —se venden a quien pernocta—,
-  **N$2.800 (~€140) la pareja** que salen del plan *(abajo, y `02` §9)*
+- ⚠️ **Lo que este cambio cuesta no es el alojamiento**: al no dormir dentro, **la guiada de mañana
+  de Namutoni deja de ser comprable** —se vende a quien pernocta—, **N$1.300 (~€65) la pareja**.
+  *(Hasta el 28/08 aquí se daba también por perdido el nocturno; no lo está: se compra el D10 y el
+  D11 — abajo, y `02` §9.)*
 - **25 parcelas**, máximo **2 tiendas / 4 personas** por parcela · **cada parcela con ducha, wc y
   enchufe propios**, limpieza diaria, **un lote de leña el día de llegada** y **wifi gratis en
   recepción** · kiosco con lo básico, hielo, leña y braai packs · **restaurante à la carte: la

@@ -183,8 +183,9 @@ el crucero y el trío del nocturno en el nocturno. Las 14 del 10/08 llegaron tod
 del propio eje: la ardilla en el restaurante de Halali, el turdoide en su camping, el galápago
 cazando quéleas en Nuamses. Y las 13 del 11/08, con el suyo de su zona: el mular en el crucero,
 la rata dassie en las peñas de Twyfelfontein, el lagarto de nariz de cuña en la base de la duna
-por donde se camina. Y las 33 del 15/08, con 29 líneas sacadas de veintidós informes de viaje de octubre-noviembre leídos enteros —el autillo africano en su árbol de Halali, el halconcito dentro del pajar de Sesriem, el águila cafre en el alto de Spreetshoogte— y cuatro sin ella porque ningún informe las cita en la ruta: gato de patas negras, águila pomerana, aguilucho caricalvo y milano.)* Las 48 fichas restantes **no llevan esa línea**: no apareció información
-específica en ninguna fuente decente, y rellenarlo a ojo sería inventar.
+por donde se camina. Y las 33 del 15/08, con 29 líneas sacadas de veintidós informes de viaje de octubre-noviembre leídos enteros —el autillo africano en su árbol de Halali, el halconcito dentro del pajar de Sesriem, el águila cafre en el alto de Spreetshoogte— y cuatro sin ella porque ningún informe las cita en la ruta: gato de patas negras, águila pomerana, aguilucho caricalvo y milano.)* Las 59 fichas restantes **no llevan esa línea** *(100 + 59 = las 159
+de la guía)*: en 48 no apareció información específica en ninguna fuente decente, y las once que
+entraron el 29/08 llegaron sin ella. Rellenarlo a ojo sería inventar.
 
 ### Y once avisos que corrigen lo que dicen las webs de safaris
 

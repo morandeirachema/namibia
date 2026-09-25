@@ -10,7 +10,7 @@
 **30 de octubre – 15 de noviembre de 2026**
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
-[![cuenta atrás](https://img.shields.io/badge/faltan-62_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
+[![cuenta atrás](https://img.shields.io/badge/faltan-35_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-7_de_8-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
 [![presupuesto](https://img.shields.io/badge/€4.082-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
@@ -28,13 +28,13 @@
 
 ## 📍 Estado del viaje
 
-**28 de agosto de 2026**
+**Revisado el 25 de septiembre de 2026** · *las reservas, tal como constan anotadas desde el 24/08*
 
 </div>
 
 ```mermaid
 flowchart LR
-    D["DECIDIDO<br/>ruta del norte, 15 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>tasas de parque y los<br/>2 campings sin tarifa"]
+    D["DECIDIDO<br/>ruta del norte, 15 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>tasas de parque; faltan<br/>5 noches sin tarifa"]
     C --> R["RESERVADO<br/>coche Savanna 12/08<br/>Etosha x4 el 21/08"]
     R --> P["PAGADO<br/>vuelo EMITIDO 10/08<br/>seguro IATI 24/08"]
     style D fill:#2d6a4f,color:#fff
@@ -60,9 +60,10 @@ flowchart LR
 > aparece una **noche nueva en Twyfelfontein (sáb 7)** que parte en dos el día más largo de grava
 > del viaje; **Sesriem y Terrace Bay bajan un día** *(2–3 nov y 6 nov)*; y **Namutoni desaparece**:
 > sus noches de Etosha son ahora **Okaukuejo, Halali y Onguma Tamboti ×2**. El precio de ese último
-> cambio **no es el alojamiento** *(+€16 la pareja)* sino las **dos actividades de NWR que se compran
-> durmiendo dentro** —el nocturno y una guiada de mañana— y que **dejan de ser comprables**:
-> **−N$2.800 · ~−€140 la pareja**.
+> cambio **no es el alojamiento** *(+€16 la pareja)* sino **la guiada de mañana de Namutoni**, que se
+> compra durmiendo allí: **N$1.300 · ~€65 la pareja** que se pierden. *(El 24/08 salió también del
+> total el nocturno —**−N$2.800 · ~−€140 la pareja** entre los dos—, y el 28/08 se vio que era un
+> error: NWR lo vende en los tres campamentos y se compra el D10 y el D11 — punto 5, abajo.)*
 
 ### ✅ Cerrado de verdad
 
@@ -99,10 +100,15 @@ flowchart LR
    cerrar la partida de [`02`](02-presupuesto.md) — hoy va con la cotización)* y confirmar si se
    pidió por escrito la **evacuación aérea dentro del país** *(cerca de Sesriem no hay hospital)* y
    la **búsqueda y salvamento**; si no se pidieron, pedirlas ahora *(`20` §3)*.
-3. **Pedir el e-visa** — el billete de vuelta ya existe *(emitido el 10/08)*: nada lo bloquea.
-4. **Pedir cita en el Centro de Vacunación Internacional** *(A Coruña, Durán Lóriga 3 ·
-   **981 989 570**)*. Para salir el 30/10 hay que ser atendidos hacia el **19–26 de septiembre**, y
-   **la cita es el recurso escaso, no la vacuna**.
+3. **Pedir el e-visa** — el billete de vuelta ya existe *(emitido el 10/08)*: nada lo bloquea. El
+   plan es **la primera semana de octubre** *(`04`)*; los pagos y plazos de octubre, en el
+   [`20`](20-reservas.md) §9.
+4. 🛑 **La cita del Centro de Vacunación Internacional — su ventana se cierra ya** *(A Coruña,
+   Durán Lóriga 3 · **981 989 570**)*. Para salir el 30/10 había que ser atendidos hacia el
+   **19–26 de septiembre**, y el repo **no tiene anotado que esté pedida** ❌: si no lo está, **es
+   urgente** — llamar ya y que el CVI diga qué cabe antes del 30/10. Tampoco constan hechos **el
+   permiso internacional de conducir** *(tocaba en septiembre)* ni **la comprobación de los
+   pasaportes** contra el 15/05/2027 *(`04`)*.
 5. 🐆 **Los felinos, solo en libertad — decidido el 27/08.** El CCF *(«más un zoo»)* y
    **Otjitotongwe** *(guepardos alimentados a mano)* **están fuera del viaje**; no hay ninguna
    llamada que hacer por ellos. El guepardo *«caza de día, a plena luz»*, así que se juega entero
@@ -129,19 +135,22 @@ flowchart LR
    ✅ **Lo demás salió de esta lista**: **Windhoek Urban Camp** *(D1)*, **Spreetshoogte** *(D2, una
    noche)*, **Sesriem ×2** *(2–3 nov)*, **Okaukuejo** *(9–10)*, **Halali** *(10–11)* y
    **[Onguma Tamboti](https://onguma.com/) ×2** *(11–13)*, ya **fuera** de la puerta de Von
-   Lindequist. **Namutoni se anuló.** *(Contador: **8 noches cerradas de 14**; quedan Terrace Bay
-   —con tarifa ✅ pero sin reservar— y las cinco de camping aún sin reservar: Walvis ×2,
-   Twyfelfontein, Hoada *(con banda de precio ◐)* y Windhoek del D14.)*
+   Lindequist. **Namutoni se anuló.** *(Contador de noches: **8 de 14 reservadas**; quedan Terrace
+   Bay —con tarifa ✅ pero sin reservar— y las cinco de camping aún sin reservar: Walvis ×2,
+   Twyfelfontein, Hoada *(con banda de precio ◐)* y Windhoek del D14. **La chapa «7 de 8» de arriba
+   cuenta otra cosa**: las casillas de reserva del `20` §9 que hacen el viaje —Sesriem, Etosha
+   (que vale por cuatro), Spreetshoogte, Windhoek D1 y Terrace Bay—, y de ésas solo falta Terrace
+   Bay.)*
    ⏳ **Y la noche nueva de Twyfelfontein (D8) NO hay que reservarla**: fuera de parque y en
    temporada hombro, se decide sobre la marcha — **por eso es la red del calendario**, la que se
    sacrifica sin perder un céntimo si el vuelo se retrasa *(`aparte/decision-del-ccf`)*.
 7. **Preguntar a NWR (+264 67 229 800)** si las **2 salidas guiadas de mañana** que quedan
    *(Okaukuejo el D11 y Halali el D12)* se pueden dejar cerradas desde España — su tarifa avisa de
    que **en temporada de lluvias no aceptan pre-reserva de actividades**; si no, van en recepción al
-   llegar. ⚠️ **Y la pregunta nueva del 24/08: si el nocturno guiado se vende a quien NO duerme en
-   el campamento** ❌ — al dejar Namutoni, las dos últimas noches se duermen fuera del parque y el
-   nocturno deja de ser comprable por la vía normal. Y **en Onguma, pre-reservar la cena, el
-   Sundowner Drive del D12** *(N$980 ≈ €49 pp ✅ — lo que sustituye al nocturno)* **y el game drive
+   llegar. *(La pregunta del 24/08 —si el nocturno se vende a quien no duerme en el campamento— **ya
+   no hace falta**: se compra el D10 y el D11 durmiendo dentro, punto 5.)* Y **en Onguma, pre-reservar
+   la cena, el Sundowner Drive del D12** *(N$980 ≈ €49 pp ✅ — complementa al nocturno de NWR, no lo
+   sustituye)* **y el game drive
    guiado dentro de Etosha del D13** *(N$1.930 ≈ €97 pp ✅ — el único que sirve para el guepardo)*:
    **los dos decididos el 26/08 y ya en el presupuesto** *(`02` §9)*.
 
@@ -152,7 +161,8 @@ pide por escrito al cerrarla y lo que se deja para recepción— **está en
 <details>
 <summary><b>🕳️ Lo que sigue sin poder cerrarse</b></summary>
 
-**Tres** campings sin tarifa publicada *(Windhoek, Walvis Bay y **la noche nueva de Twyfelfontein**
+**Cinco noches** sin tarifa cerrada, en **tres sitios** *(Windhoek D1 y D14, Walvis Bay ×2 y **la
+noche nueva de Twyfelfontein**, que desde el 18/09 tiene al menos orden de magnitud de camping ◐/○
 — **contactos ya localizados el 09/08, ver [`20`](20-reservas.md)**)*. **Spreetshoogte salió de esta
 lista el 24/08**: abierto ◐, operado por Barkhan Dune Retreat y con **tarifa cerrada ✅** de su
 propio rack ·
@@ -171,7 +181,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 171 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 179 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -350,8 +360,8 @@ flowchart LR
 
 > [!IMPORTANT]
 > **Billete EMITIDO el 10·08·2026 por €1.536 p.p.** *(cotizado en €1.450 el 05/08: +€86 entre
-> cotizar y comprar)*. Con el billete de vuelta, **el e-visa queda desbloqueado** — y el seguro
-> tiene que rehacerse **desde el 30/10**.
+> cotizar y comprar)*. Con el billete de vuelta, **el e-visa queda desbloqueado** — y el seguro, que
+> tenía que rehacerse **desde el 30/10**, quedó **contratado así el 24/08**.
 
 - ✈️ **Ida** vie 30 oct, **una sola escala en Fráncfort**: 15h15 y **aterrizas el 31 de octubre a
   las 09:25**. **Vuelta** sáb 14 a las 20:45 por **Múnich** — 18h05, y en casa el día 15.
@@ -367,10 +377,10 @@ flowchart LR
   ◐)* y **combustible** *(~580 km, gasóleo real ~€1,77/l → ~€67, no los ~€50 supuestos)* — el egress
   sigue bloqueando abrir las webs, así que va sin verificar la extracción *(el bus directo, ~3h43
   desde ~€17 por persona ◐, queda de plan B — `02` §8)*.
-- ⚠️ **Ya pagado — tres cosas que repasar AHORA en el localizador**: que **incluya maleta
-  facturada** *(Lufthansa vende Economy Light sin ella)*, que sea **billete único** *(una conexión
-  perdida pasa a ser problema de la aerolínea)* y que los **nombres calquen el pasaporte**
-  *(`02` §8)*.
+- ⚠️ **Ya pagado — las tres comprobaciones del localizador**: que **incluya maleta facturada**
+  *(Lufthansa vende Economy Light sin ella)* y que sea **billete único** *(una conexión perdida pasa
+  a ser problema de la aerolínea)* **constan hechas** *(`20` §9)*; que los **nombres calquen el
+  pasaporte** **no consta**: compruébalo antes de pedir el e-visa *(`02` §8)*.
 - 🩺 **El seguro llega hasta el día 15**, no hasta el 14: son las horas de vuelta que sin eso irían
   sin cobertura, y cerrar ese hueco costó **€14,69**.
 - 👉 **Dos cosas que pedirle a IATI por escrito**: que cubra **evacuación aérea DENTRO del país**
@@ -417,20 +427,27 @@ pie showData
 - ✈️ Vuelo **€1.536** ✅ *(EMITIDO el 10/08)* · 🚙 Coche **€1.181,50** ✅ *(RESERVADO con Savanna,
   15 días completos — `20` §1)* ·
   ⛺ Alojamiento **~€385** *(€276,50 verificado ✅)* · ⛽ Combustible **~€228** · 🍖 Comida **~€140** ·
-  🩺 Seguro **€113** ✅ · 🎫 Tasas **~€124** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€149** *(los safaris
-  guiados de Etosha que quedan comprables, dentro)*
-- **El ~81 % ya está cerrado** con precio real: vuelo *(emitido)*, el coche completo *(reservado)*,
-  seguro, visado y **8 de las 14 noches** *(Sesriem ×2, Okaukuejo, Halali, Onguma ×2, Terrace Bay y
-  Spreetshoogte)*. Lo demás (~€743) son las **6 noches de
-  camping sin precio** (más Hoada ◐), lo que queda del paquete guiado de Etosha —2 mañanas +
-  lanzadera de Deadvlei— *(~€74, tarifa ✅ sin reservar)*, el
-  combustible, la comida y los misceláneos: **ese es el margen honesto, ±€150 por persona**.
-- ⚠️ **Baja €60 desde el 21/08, y no es un ahorro que celebrar**: **−€70 son las dos salidas
-  guiadas de NWR que dejan de poder comprarse** al dormir las dos últimas noches fuera del parque
-  *(`02` §9)*. El resto se compensa entre la noche de Spreetshoogte que se quita y la de
-  Twyfelfontein que aparece.
+  🩺 Seguro **€113** ✅ · 🎫 Tasas **~€124** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€295**
+  *(actividades ~€220 —las 2 guiadas de mañana de NWR, la lanzadera de Deadvlei y las dos de Onguma—
+  y misceláneos ~€75, `02` §10)*
+- **El ~78 % ya está cerrado** con precio real *(~€3.187, `02` §11)*: vuelo *(emitido)*, el coche
+  completo *(reservado)*, seguro, visado y **8 de las 14 noches con precio cerrado** *(Sesriem ×2,
+  Okaukuejo, Halali, Onguma ×2 y Spreetshoogte, reservadas; y Terrace Bay, con tarifa oficial pero
+  **sin reservar todavía**)*. Lo demás (~€895) son las **actividades** *(~€220, tarifa ✅ sin
+  reservar: 2 mañanas guiadas de NWR y la lanzadera de Deadvlei, ~€74, y las dos de Onguma,
+  ~€146)*, las **tasas de parque** *(~€124 ◐)* y **~€552 estimados ○**: las **6 noches sin precio
+  cerrado** *(cinco sin tarifa cerrada ❌ y Hoada ◐)*, el combustible, la comida y los misceláneos: **ese es
+  el margen honesto, ±€150 por persona**.
+- ⚠️ **Cómo llegó aquí** *(`02` §10)*: **€3.990 el 21/08 → €3.936 el 24/08 → €4.082 el 26/08.** La
+  bajada del 24/08 no era un ahorro: **−€70 eran las dos salidas guiadas de NWR que se dieron por
+  no comprables** al dormir las dos últimas noches fuera del parque, y **el 28/08 se vio que una de
+  las dos —el nocturno— sí lo es** *(D10 y D11, ~€38 pp cada uno, fuera del total hasta que se decida
+  — `02` §9)*. El resto se compensó entre la noche de Spreetshoogte que se quitó y la de
+  Twyfelfontein que apareció, y la subida del 26/08 son **+€146 de las dos actividades de Onguma**.
 - ⚠️ **Lo que aún puede mover el número**: **la noche nueva de Twyfelfontein**, presupuestada como
-  camping cuando los candidatos identificados son lodges *(❌ — puede sumar €150–200 la pareja)*, el
+  camping cuando los candidatos identificados eran lodges *(❌ — podía sumar €150–200 la pareja;
+  **rebajado el 18/09**: hay camping a ~6 km de los grabados, del orden de ~€8–25 la pareja ◐/○,
+  `02` §3)*, el
   día extra de seguro *(sin cotizar)* y el traslado a Oporto ida y vuelta *(revisado el 17/09,
   ~€225–270 la pareja ◐/❌)*.
 
@@ -455,7 +472,7 @@ flowchart TD
     A["EL 4x4 · RESERVADO<br/>Savanna · 2.363 EUR<br/>15 dias completos"]
     B["SESRIEM DENTRO x2<br/>44 parcelas<br/>es EL amanecer del viaje"]
     C["TERRACE BAY<br/>sin reserva confirmada<br/>NO se entra al parque"]
-    D["e-visa + CVI<br/>eservices.mhaiss.gov.na<br/>cita de vacunas en agosto"]
+    D["e-visa + CVI<br/>eservices.mhaiss.gov.na<br/>CVI: ventana 19-26 sept"]
     A --> E["30 oct - 15 nov<br/>asegurado"]
     B --> E
     C --> E
@@ -479,8 +496,10 @@ flowchart TD
 4. **Los papeles con calendario.** El **e-visa (N$1.600, ~€80)** se pide online y **se imprime y
    firma ante el oficial** — en `eservices.mhaiss.gov.na` *(hay visado a la llegada como plan B, MAEC)* ⚠️ *(`namibia-evisa.com` parece
    oficial y no lo es; el portal real puede dar un aviso de certificado — es mala configuración
-   suya: verifica el dominio y sigue)*. La **cita del Centro de Vacunación** (A Coruña, Durán
-   Lóriga 3 · **981 989 570**) se pide **en agosto**. Y el **permiso internacional de conducir**:
+   suya: verifica el dominio y sigue)*; el plan, **la primera semana de octubre**. La **cita del
+   Centro de Vacunación** (A Coruña, Durán Lóriga 3 · **981 989 570**) tocaba pedirla en agosto
+   para ser atendidos hacia el **19–26 de septiembre**: esa ventana se cierra ya, y si no está
+   pedida, **es urgente**. Y el **permiso internacional de conducir**:
    con carnet español (que no está en inglés) **sí hace falta** — lo pide la ley namibia, el
    alquiler y el seguro. Se saca en la DGT por **~€10,51 (~N$210)**, vale **1 año** y va **siempre
    junto al carnet** *(detalle y evidencia en `04`)*.
@@ -778,6 +797,6 @@ de €3.940–4.240 pero siempre hacia arriba. **Lleva N$, no euros mentales.**
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 
-**Última actualización: 29 de agosto de 2026**
+**Última actualización: 25 de septiembre de 2026**
 
 </div>

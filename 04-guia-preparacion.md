@@ -68,14 +68,15 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
-*Recalculada el 24/08/2026: el vuelo sale de Oporto el **30 de octubre** — **quedan 67 días**.
-Los hitos de julio ya vencieron y siguen pendientes: van los primeros.*
+*Recalculada el 25/09/2026: el vuelo sale de Oporto el **30 de octubre**. Lo que ya venció y el
+repo no da por hecho va primero — que no conste hecho aquí no significa que no lo esté: significa
+que nadie lo ha anotado.*
 
 ```mermaid
 flowchart LR
 %% ancho
-    J["VENCIDO<br/>era julio"] --> A["AHORA<br/>agosto"] --> S["Septiembre"]
-    S --> O1["Primera semana<br/>de octubre"] --> O2["~21 oct"] --> O3["~24 oct"]
+    J["VENCIDO<br/>julio - septiembre"] --> A["AHORA<br/>finales de septiembre"]
+    A --> O1["Primera semana<br/>de octubre"] --> O2["~16-23 oct"] --> O3["~24 oct"]
     O3 --> F["30 oct<br/>VUELO"]
     style J fill:#9d0208,color:#fff
     style A fill:#e85d04,color:#000
@@ -87,16 +88,18 @@ flowchart LR
   §4)*; reservar **Sesriem ×2** *(✅ hecho el 24/08, 2–3 nov)* y **Terrace Bay**, que sigue
   pendiente; y **comprobar los pasaportes** contra la
   vuelta del 15 de noviembre —válidos hasta el **15/05/2027** y con 3 páginas en blanco de verdad
-  (§Pasaporte)—, que es lo que el e-visa da por hecho y nadie ha confirmado todavía.
-- **AHORA · agosto** — pedir cita **ya** en el Centro de Vacunación Internacional: **la cita es el
-  recurso escaso, no la vacuna**. Mandar las preguntas por escrito de la entrega a Savanna
-  *(`20` §1)* y **leer la póliza de IATI** —ya contratada el 24/08— para confirmar que lleva
-  **evacuación aérea dentro del país** y **búsqueda y salvamento** *(`20` §3)*.
-- **Septiembre** — acudir al CVI *(para salir el 30-10, atendidos hacia el 19–26 de septiembre)*; recetas
-  de profilaxis —la mefloquina empieza ~16–23 de octubre—; resolver el permiso internacional de
-  conducir.
+  (§Pasaporte)—, que es lo que el e-visa da por hecho y el repo sigue sin tener confirmado.
+- **VENCIDO · septiembre** — **ser atendidos en el CVI**: para salir el 30/10, «4–6 semanas de
+  antelación» era **hacia el 19–26 de septiembre**, y esa ventana **se cierra ya (26/09)**. Si la
+  cita no está pedida, **es lo más urgente de esta lista**: llamar ya y preguntar qué cabe todavía
+  antes del 30/10 ❌. Y **el permiso internacional de conducir**, que tocaba en septiembre.
+- **AHORA · finales de septiembre** — lo del CVI y el permiso, si no están; **mandar las preguntas
+  por escrito de la entrega a Savanna** *(`20` §1)* y **leer la póliza de IATI** —contratada el
+  24/08— para confirmar que lleva **evacuación aérea dentro del país** y **búsqueda y salvamento**
+  *(`20` §3)*. Los plazos de pago de octubre, en el `20` §9.
 - **Primera semana de octubre** — solicitar el e-visa: necesita billete y reservas. Adaptadores
   tipo M y mapa en papel.
+- **~16–23 de octubre** — empezar la mefloquina, **si** el CVI la receta *(§malaria)*.
 - **~21 de octubre** — último día para la fiebre amarilla **si** la ruta llegara a exigirla.
 - **~24 de octubre** — imprimirlo **todo**, que Namibia funciona con papel; recomprobar el diésel y
   el self-drive a Deadvlei.
@@ -132,8 +135,8 @@ Fuente: [Namibia Airports Company](https://www.airports.com.na/useful-informatio
 >   son **las mismas no oficiales que cobran de más** y contra las que avisa el recuadro de arriba.
 >   **No se usan como fuente de plazo.**
 > - **Validez, ❌ sin confirmar en fuente oficial**: circula **90 días desde la emisión** ◐, pero
->   solo lo he visto en esas mismas webs no oficiales. **Si son 90 días, pedirlo ya en septiembre
->   es seguro** *(septiembre + 90 → diciembre, y el viaje acaba el 15/11)*. **Si fueran menos,
+>   solo lo he visto en esas mismas webs no oficiales. **Si son 90 días, pedirlo ya, a finales de
+>   septiembre, es seguro** *(25/09 + 90 → finales de diciembre, y el viaje acaba el 15/11)*. **Si fueran menos,
 >   pedirlo demasiado pronto lo dejaría caducado.** Confírmalo **en el portal oficial** antes de
 >   adelantarlo.
 > - ❌ **Un tercer dominio que conviene mirar con lupa**: en los buscadores aparece
@@ -181,8 +184,9 @@ flowchart TD
     style SOL fill:#2d6a4f,color:#fff
 ```
 
-En este viaje el punto 3 pesa: con las exclusiones de bajos y vuelco de la Super Cover (`12`), no
-conviene dar a la aseguradora **ningún** motivo formal para discutir un parte.
+En este viaje el punto 3 pesa: con el vuelco sin terceros que la página de seguro de Savanna deja
+fuera de la Opción 4 —y que su otra página da por cubierto— (`20` §1), no conviene dar a la
+aseguradora **ningún** motivo formal para discutir un parte.
 
 **Cómo se saca en España (DGT):**
 - Documento: **permiso internacional para conducir**, modelo del **Convenio de Viena de 1968** — que
@@ -243,8 +247,9 @@ atendido**, no cuánto antes hay que **llamar**. En verano, la cita es el recurs
 > La fiebre amarilla **solo** se pone en un Centro de Vacunación Internacional autorizado.
 > **Tu médico de cabecera no puede emitir la cartilla amarilla.**
 
-👉 **Estamos en agosto: pide la cita ESTA SEMANA.** Para la salida del 30 de octubre, «4–6 semanas
-de antelación» significa ser atendidos **hacia el 19–26 de septiembre** — «u octubre» ya no vale.
+👉 **Para la salida del 30 de octubre, «4–6 semanas de antelación» significaba ser atendidos hacia
+el 19–26 de septiembre, y esa ventana se cierra el 26/09.** Si la cita no está pedida, **llama ya**:
+es urgente, y lo que quepa todavía antes del 30/10 lo decide el CVI, no este dossier ❌.
 Fuente: https://www.sanidad.gob.es/areas/sanidadExterior/laSaludTambienViaja/centrosVacunacionInternacional/centrosvacu.htm
 
 ### La lista para llevar a la cita — la pauta la fija el CVI, las preguntas van hechas

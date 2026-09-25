@@ -411,11 +411,12 @@ la única forma de estar en Deadvlei al amanecer.
 Criterio del viajero: *«el safari es un 90 % un buen guía»*. ⚠️ **Reducido el 24/08, y no por
 decisión**: al anular Namutoni, las dos últimas noches se duermen fuera del parque y **las salidas
 de NWR se venden a quien pernocta**. Queda comprable **2 salidas de mañana** *(Okaukuejo el D11 y
-Halali el D12, N$650 pp ✅)* = **N$2.600 (~€130) la pareja**; **se caen la guiada de Namutoni y el
-nocturno**, N$2.800 (~€140). Tarifa NWR verificada, **sin reservar**: horarios
-de salida ❌ no publicados y pre-reserva incierta en temporada de lluvias — se cierra en
-recepción (la pregunta a NWR está en el README, punto 7). **Lo que sustituye al nocturno lo vende
-Onguma**: Sundowner Drive con foco, N$980 (~€49) pp ✅ — **decidido el 26/08 para el D12, junto con
+Halali el D12, N$650 pp ✅)* = **N$2.600 (~€130) la pareja**; **se cae la guiada de Namutoni**
+*(N$1.300 · ~€65 la pareja)*. **El nocturno también se dio por caído ese día, y no lo está**
+*(corregido el 28/08, abajo en la lista maestra)*: se compra el D10 y el D11. Tarifa NWR verificada,
+**sin reservar**: horarios de salida ❌ no publicados y pre-reserva incierta en temporada de lluvias
+— se cierra en recepción (la pregunta a NWR está en el README, punto 7). **Lo que complementa al
+nocturno lo vende Onguma**: Sundowner Drive con foco, N$980 (~€49) pp ✅ — **decidido el 26/08 para el D12, junto con
 el game drive diurno dentro de Etosha del D13, N$1.930 (~€97) pp** *(`02` §9)*. Los traslados entre campamentos siguen
 siendo con el 4x4. El análisis descartado, en `16` §7.
 
@@ -673,12 +674,13 @@ maleta**. Detalle y fuentes en [`02`](02-presupuesto.md) §8.
 
 - **Las mareas del D6–D8** *(Walvis Bay es el puerto patrón de la costa)* ◐ — leídas de la tabla
   de noviembre de 2026 de
-  [tidetime.org](https://www.tidetime.org/africa/namibia/walvis-bay-calendar-nov.htm): **D6**
-  bajamares 06:37 y 19:01 · **D7 — el día del tour: bajamares 07:18 y 19:38, pleamares 01:21 y
-  13:27** · **D8** 07:54 y 20:12; el rango crece hacia las **mareas vivas del novilunio del 9**
+  [tidetime.org](https://www.tidetime.org/africa/namibia/walvis-bay-calendar-nov.htm): **D6 (5 nov)
+  — el día del tour desde el 24/08: bajamares 06:37 y 19:01** · **D7 (6 nov)**, el del tour hasta el
+  24/08: bajamares 07:18 y 19:38, pleamares 01:21 y 13:27 · **D8** 07:54 y 20:12; el rango crece hacia las **mareas vivas del novilunio del 9**
   *(coherencia interna que respalda la tabla)*. Es **predicción comercial, no tabla náutica**
   *(las primarias —SANHO, Namport— no se abrieron desde aquí)*: vale para planificar la mañana
-  del D7 —**la salida de Sandwich Harbour de las ~08:30 es la de la playa**—, no para navegar,
+  del D6 —**«la salida de Sandwich Harbour de las ~08:30 es la de la playa»** se escribió con la
+  bajamar de las 07:18 del 6 nov; con la de las 06:37 del 5, confírmalo con el operador ❌—, no para navegar,
   y **el operador manda con su propia tabla**.
 - **La fase lunar, calculada en casa** *(conjunción de referencia + mes sinódico; ±1 día en el
   instante)* — **luna nueva el 9–10 de noviembre**: las **cuatro noches de Etosha (D10–D13)
@@ -874,17 +876,20 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   Camp de Windhoek también se cerraron el 24/08**, así que el contador del README va a **7 de 8**.
   **Queda una: Terrace Bay** —y una noche nueva sin tarifa, la de Twyfelfontein del D8, que a
   propósito **no se reserva** *(`aparte/decision-del-ccf`)*.
-- 🚗 **Recotizar el coche con las fechas decididas** *(31 oct 11:00 → 14 nov 18:00, 15 días,
-  aeropuerto → aeropuerto; el 31-oct fuera de temporada baja ❌ y la entrega EN el aeropuerto sin
-  confirmar ❌ — `02` §2)*.
+- 🚗 ~~**Recotizar el coche con las fechas decididas**~~ **RESERVADO el 12/08** ✅ *(Savanna, 31 oct
+  11:00 → 14 nov 18:00, 15 días, €2.363 en total — `20` §1)*. Lo que queda del coche no es precio:
+  es **la pregunta nº 1 de la entrega** —el vuelco sin terceros— y **el transfer de vuelta de las
+  18:00** por escrito, que cae fuera de su horario publicado *(`20` §1)*.
 - 🛡️ ~~**Adelantar el seguro IATI al 30/10**~~ **CONTRATADO el 24/08** ✅ *(IATI **Estrella**,
   empezando ya el 30/10, con el código de Chavetas — dicho por el viajero)*. **Lo que queda no es
   la fecha, es el importe**: el día extra nunca se cotizó ❌ y el descuento de Chavetas no se
   verificó ❌, así que `02` sigue con los €113,02 p.p. de la cotización — **recuperar el pagado
   real de la póliza** *(`20` §3)*.
-- 💉 **La cita del Centro de Vacunación Internacional** — para salir el 30/10 hay que ser atendidos
-  hacia el **19–26 de septiembre**. Se pide en agosto.
-- 🪪 **El permiso internacional de conducir**: fuente ◐, y la DGT pide cita.
+- 💉 **La cita del Centro de Vacunación Internacional** — para salir el 30/10 había que ser
+  atendidos hacia el **19–26 de septiembre**, y esa ventana **se cierra ya** *(25/09)*. No consta
+  pedida ❌: si no lo está, **es urgente** *(`04`)*.
+- 🪪 **El permiso internacional de conducir**: fuente ◐, y la DGT pide cita. Tocaba en septiembre y
+  no consta hecho ❌ *(`04`)*.
 
 **Precios sin cerrar — el margen real del presupuesto:**
 
@@ -920,9 +925,12 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   email y teléfono ◐ — y el aviso de «closed down» quedó **refutado el 10/08** ◐ *(abierto,
   operado por Barkhan Dune Retreat — `20` §5)*. **Ninguna tarifa nueva
   verificada: los tres siguen en la estimación.**
-- 💳 **La fianza que retiene Savanna en la tarjeta — CERRADO ✅ (12/08)**: es el importe de la
-  franquicia/Excess, y con la Opción 4 la franquicia es **N$0** — no hay nada que retener por ese
-  concepto. La hoja de condiciones firmada en la entrega SÍ deja otros cargos que sí pueden ir
+- 💳 **La fianza que retiene Savanna en la tarjeta — REABIERTO ⚠️ (28/08)**: es el importe de la
+  franquicia/Excess, y hasta el 28/08 se daba por cerrado con «la Opción 4 deja la franquicia en
+  **N$0**». **No es así**: la página de seguro de Savanna excluye de la Opción 4 el accidente sin
+  terceros —el vuelco—, con **N$165.000 (~€8.900)** a cargo del cliente *(`20` §1)*, así que
+  **cuánto retienen en la tarjeta ❌ no se sabe**: se pregunta en la entrega junto con la pregunta
+  nº 1. La hoja de condiciones firmada en la entrega SÍ deja otros cargos que sí pueden ir
   a la tarjeta: N$850 de gestión si hay cualquier daño, N$350 si Savanna paga una multa por
   cuenta del cliente, y el depósito de combustible sigue sin una cifra propia de Savanna —
   **N$2.500 (~€125) sin confirmar ❌**, cifra suelta de reventas, no de fuente primaria.
@@ -1072,9 +1080,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   > choca con la media jornada verificada de Gondwana en Palmwag *(N$3.975 · ~€199 pp)*: **NO se
   > adopta** —ni entra al presupuesto ni se cruza con nada—. Pídase por email
   > *(res4@journeysnamibia.com)* junto con la confirmación de que se puede reservar durmiendo allí.
-- 🌙 **¿Vende NWR el nocturno guiado y la guiada de mañana a quien NO duerme en el campamento?** ❌
-  **N$2.800 (~€140) en juego.** Al anular Namutoni, las dos últimas noches se duermen fuera y las dos
-  actividades salieron del presupuesto. Si las venden igual, vuelven al plan *(`20` §4)*.
+- 🌙 ~~**¿Vende NWR el nocturno guiado y la guiada de mañana a quien NO duerme en el campamento?**~~
+  **Resuelta en lo que importa el 28/08** ✅: el nocturno se vende en los tres campamentos y se
+  compra el D10 y el D11 durmiendo dentro *(arriba)*. Queda, menor, si la guiada de mañana de
+  Namutoni se vende a quien duerme en Onguma ❌ *(N$1.300 · ~€65 la pareja)* — ya sustituida por el
+  game drive de Onguma del D13 *(`20` §4)*.
 
 **Datos que siguen abiertos:**
 
@@ -1212,7 +1222,7 @@ o de un email)*:
 - 🎈 ~~**El vuelo panorámico** *(Sossusvlei / Skeleton Coast)*: operadores reales con precio ✅ —
   globo con Namib Sky (N$9.920/persona) o avioneta con Sossusvlei Scenic Flights / Sossusfly
   (N$6.900–17.500 según ruta y grupo), todos desde Swakopmund o Kulala.~~ **DESCARTADO (24/08):
-  el viajero decide no hacerlo** — el día de mar del D7 es la excursión a Sandwich Harbour en 4x4
+  el viajero decide no hacerlo** — el día de mar del D6 es la excursión a Sandwich Harbour en 4x4
   (`20` §7).
 - 🎫 ~~**El tramo exacto de Cape Cross**~~ **cerrado a nivel ◐ (25/08)**: tramo premium, **N$280 +
   N$60 = N$620 (~€31) los dos** *(arriba, §Lo que estaba mal)*; queda el PDF primario del MEFT sin

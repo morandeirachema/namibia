@@ -58,7 +58,7 @@ aparte las tasas de camping.
 **El hallazgo que decidió la contratación:** en las tres empresas verificadas, **todos los niveles de
 cobertura por debajo del máximo excluyen justo lo que se sufre en pista** —vuelco sin terceros,
 bajos, cristales, neumáticos—. Las franquicias de los niveles básicos iban de **N$35.000 a N$40.000
-(~€1.750–2.000)**, y la exposición por un vuelco sin terceros llegaba a **N$165.000 (~€8.250)** más
+(~€1.750–2.000)**, y la exposición por un vuelco sin terceros llegaba a **N$165.000 (~€8.900)** más
 un rescate **sin tope**.
 
 **Por eso el criterio fue «franquicia cero o nada»**: el coche reservado, con Savanna, lleva la
