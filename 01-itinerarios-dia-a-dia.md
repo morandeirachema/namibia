@@ -45,14 +45,12 @@ llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
 >
 > - **Se pierde una charca iluminada de las tres, y es la floja**: Okaukuejo el D10 y Halali el D11
 >   siguen igual; la de Namutoni —la peor de las tres según los partes— es la que cae.
-> - **Y se pierden las dos actividades de NWR que dependían de dormir dentro**: el **nocturno
->   guiado** *(N$750 · ~€38 pp)*, que se hacía desde Namutoni, y la **salida guiada de mañana de
->   Namutoni** *(N$650 · ~€33 pp)*. Se compran durmiendo la víspera en el campamento, y ya no se duerme
->   ahí. **Lo que las sustituye lo vende Onguma**: su **Sundowner Drive con foco y campo a través**
->   *(N$980 · ~€49 pp ✅)* y su **game drive guiado dentro de Etosha** *(4 h, N$1.930 · ~€97 pp ✅)*. El detalle y
->   el choque de horarios, en el D12 y el D13.
->   ❌ *Si NWR vende el nocturno a quien no duerme en el campamento, no se ha podido verificar:
->   pregúntalo en la llamada.*
+> - **Y se pierde la salida guiada de mañana de Namutoni** *(N$650 · ~€33 pp)*: se compra durmiendo
+>   la víspera en el campamento, y ya no se duerme ahí. **La sustituye el game drive guiado dentro de
+>   Etosha de Onguma** *(4 h, N$1.930 · ~€97 pp ✅)*, y se suma su **Sundowner Drive con foco y campo
+>   a través** *(N$980 · ~€49 pp ✅)*. El detalle y el choque de horarios, en el D12 y el D13.
+>   🛑 *El **nocturno guiado NO se pierde** (corregido el 28/08; hasta entonces aquí se decía que sí):
+>   NWR lo vende en los tres campamentos y se compra el D10 y el D11 — abajo, §En los parques.*
 > - **Se gana el D13 entero en una reserva privada** de **35.970 ha** con **leopardo, guepardo y
 >   rinoceronte confirmados por escrito**, que vende **foco, campo a través y paseo a pie** — las
 >   tres cosas prohibidas dentro del parque.
@@ -663,12 +661,11 @@ flowchart LR
 - 🚪 **Y hoy hay una hora nueva: HAY QUE SALIR DEL PARQUE.** Von Lindequist cierra a las **19:10**
   ✅ y **Onguma queda 3,4 km después** ✅ *(enrutado propio)* — con luz de sobra para montar. **Cuenta
   el día hacia atrás desde esa hora**: el este de Etosha se hace con reloj, no a ojo
-- ⚠️ **Lo que se pierde al no dormir en Namutoni, dicho claro** *(cambio del 24/08)*: el **nocturno
-  guiado de NWR** *(N$750 · ~€38 pp)* y la **guiada de mañana de Namutoni** *(N$650 · ~€33 pp)* **se compran
-  durmiendo en el campamento**, y ya no se duerme. Salen del plan. ❌ *Si NWR los vende a quien no
-  pernocta, no está verificado: pregúntalo en la llamada de reservas.* **Lo que entra a cambio lo
-  vende Onguma** —sundowner con foco, paseo a pie y game drive guiado dentro de Etosha—, abajo y
-  en el D13
+- ⚠️ **Lo que se pierde al no dormir en Namutoni, dicho claro** *(cambio del 24/08)*: la **guiada de
+  mañana de Namutoni** *(N$650 · ~€33 pp)*, que **se compra durmiendo en el campamento**. **El
+  nocturno NO**: NWR lo vende en los tres campamentos y se compra el D10 y el D11 *(corregido el
+  28/08)*. **Lo que entra a cambio lo vende Onguma** —sundowner con foco, paseo a pie y game drive
+  guiado dentro de Etosha—, abajo y en el D13
 - 🐾 **Partes de viajeros en Namutoni** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/namutoni-camp/reviews/1) — ojo, muestra corta: 16 viajeros y
   11–16 partes por especie ◐)*: jirafa,
   órix, ñu y cebra **100 %**, **guepardo 50 % (7 de 14) — la mejor cifra de guepardo, son sus
@@ -703,8 +700,8 @@ flowchart LR
   propia tarifa ✅ y guepardo en su web ✅ — **la única de la zona con leopardo Y guepardo
   confirmados por escrito en fuente propia**. De su tarifa oficial 2027, reservable desde el camping:
   - **Sundowner Drive · 3 h · N$980 (~€49) pp** — sale al atardecer y **vuelve de noche, con foco y
-    campo a través**: las dos cosas, prohibidas dentro del parque. **Es lo que sustituye al nocturno
-    de NWR** que se perdió al dejar Namutoni
+    campo a través**: las dos cosas, prohibidas dentro del parque. **No sustituye al nocturno de
+    NWR —que no se perdió (28/08)—: lo complementa**
   - **Onkolo Hide, media mañana · 3 h · N$720 (~€36) pp** *(mín. 2, máx. 7)* · **paseo
     interpretativo a pie · 1½ h · N$980 (~€49) pp** *(16+)* — Etosha no permite andar en ninguna
     circunstancia · **game drive guiado dentro de Etosha · 4 h · N$1.930 (~€97) pp** — el que
@@ -865,9 +862,11 @@ flowchart LR
   el código de Chavetas**, `20` §3):
   **~€8.164 (~N$163.300) la pareja · ~€4.082 por persona** (ver `02`; actualizado el 26/08 —
   **+€146 por persona** sobre la cifra del 24/08 por **las dos actividades de Onguma, decididas**;
-  la bajada del 24/08 fueron €70 de salidas guiadas que ya no se pueden comprar, no un ahorro)*
+  la bajada del 24/08 fueron €70 de salidas guiadas que se dieron por no comprables, no un ahorro
+  — y la mitad, el nocturno, sí lo es: corregido el 28/08)*
 - ✅ **Decidido el 26/08, y ya dentro del total de arriba**: el **Sundowner Drive de Onguma el D12
-  — N$1.960 (~€98) los dos** ✅, que es lo que sustituye al nocturno perdido, y el **game drive
+  — N$1.960 (~€98) los dos** ✅, que complementa al nocturno de NWR *(no lo sustituye: no se
+  perdió)*, y el **game drive
   guiado dentro de Etosha el D13 — N$3.860 (~€193) los dos** ✅, que sustituye a la guiada de mañana
   de Namutoni y es la única actividad de Onguma que sirve para el guepardo
 
@@ -993,10 +992,11 @@ entre campamentos** *(que son safari igualmente, a ritmo de charcas)*, la libert
 y todo lo de fuera de Etosha. *(La cuenta anterior —«de día no compensa»— queda registrada en
 [`16`](16-punto-de-decision.md) §7: la preferencia pesa más que la aritmética.)*
 
-- **Etosha → GUIADO, decidido (08/08) — pero desde el 24/08 son DOS salidas, no cuatro.** El plan:
-  **salida guiada de mañana en Okaukuejo (D11) y en Halali (D12)**, N$650 ≈ €33/persona cada una ✅.
-  **Las otras dos cayeron con Namutoni**: la guiada de mañana de Namutoni y el nocturno se compran
-  **durmiendo la víspera en ese campamento**, y el D12 ya se sale a dormir a Onguma. Los **traslados
+- **Etosha → GUIADO, decidido (08/08) — pero desde el 24/08 son DOS salidas de mañana, no tres.** El
+  plan: **salida guiada de mañana en Okaukuejo (D11) y en Halali (D12)**, N$650 ≈ €33/persona cada
+  una ✅. **La de Namutoni cayó con Namutoni**: se compra **durmiendo la víspera en ese campamento**,
+  y el D12 ya se sale a dormir a Onguma. **El nocturno, no** *(se dio por caído el 24/08 y se
+  corrigió el 28/08: se compra el D10 y el D11, abajo)*. Los **traslados
   Okaukuejo → Halali → Namutoni → Onguma siguen siendo con vuestro 4x4** —no hay alternativa: el
   coche viaja con vosotros— y se hacen como safari lento de tarde, parando en las charcas. *(La
   charca iluminada de Okaukuejo y la de Halali son gratis y andando desde la parcela; la de
@@ -1005,7 +1005,8 @@ y todo lo de fuera de Etosha. *(La cuenta anterior —«de día no compensa»—
   un avistamiento; lleva los prismáticos EN el asiento.
 - 💶 **La cuenta del paquete guiado**: 2 mañanas × 2 pax × N$650 = **N$2.600 (~€130) la pareja** ✅
   *(tarifas NWR verificadas; cada tarde guiada extra: +N$1.300 · ~€65 la pareja)*. **Son N$2.800
-  (~€140) menos que el paquete de cuatro que había hasta el 24/08.** ⚠️ **Los horarios de salida no
+  (~€140) menos que el paquete de cuatro que había hasta el 24/08**, y la mitad es el nocturno, que
+  sigue comprable *(N$1.500 · ~€75 la pareja cada uno, fuera del total — abajo)*. ⚠️ **Los horarios de salida no
   se publican** ❌ y NWR avisa de que **puede no aceptar reserva anticipada de actividades en
   temporada de lluvias**: se cierran **en recepción, el día que llegas a cada campamento** — y la de
   Okaukuejo, nada más cruzar Andersson el D10.

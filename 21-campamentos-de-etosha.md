@@ -37,11 +37,11 @@ flowchart LR
 - **Se pierde una charca iluminada de las tres, y es la floja**: Okaukuejo el D10 y Moringa el D11
   siguen a un paseo de la parcela; **King Nehale ya no**. *(El campamento se visita igual el D12 —el
   fuerte, el museo, la torre del atardecer— pero de paso.)*
-- ⚠️ **Y se pierden las dos actividades de NWR que dependían de dormir dentro**: el **nocturno
-  guiado** *(N$750 · ~€38 pp)* y la **guiada de mañana de Namutoni** *(N$650 · ~€33 pp)*. Se venden
-  a quien pernocta. **Lo que las sustituye lo vende Onguma** —Sundowner Drive con foco y campo a
-  través, N$980 (~€49) pp— y **cuesta más** *(`01` §D13, `02` §9)*.
-  ❌ *Si NWR las vende a quien no duerme allí, sin verificar: preguntado en el `20` §4.*
+- ⚠️ **Y se pierde la guiada de mañana de Namutoni** *(N$650 · ~€33 pp)*, que se vende a quien
+  pernocta. **La sustituye el game drive guiado dentro de Etosha de Onguma** *(N$1.930 · ~€97 pp)*,
+  que **cuesta más** *(`01` §D13, `02` §9)*.
+  🌙 **El nocturno guiado NO se pierde** *(corregido el 28/08; hasta entonces aquí se decía que sí)*:
+  se vende en los tres campamentos y se compra el D10 y el D11 *(abajo)*.
 - **Aparece una hora de puerta el D12 Y el D13**: hay que estar fuera de Von Lindequist antes de
   las **19:10** ✅ *(tabla oficial del parque, 10–16 nov)*, dos días seguidos — y el D13 hay que
   volver a entrar por la mañana. Son **+30 km** entre los dos días *(`13` §5)*.

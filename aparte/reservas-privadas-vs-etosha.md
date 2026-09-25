@@ -4,8 +4,8 @@
 PDF. Investigación del 12/08/2026, con enlaces y precios verificados abriendo la web real de cada
 operador (PDF de tarifas cuando existe, no un resumen de terceros) — nunca de memoria.*
 
-**Marco**: el presupuesto del viaje es ajustado (~€4.000 por persona en 15 días, alojamiento sobre
-todo en camping), así que esto es sobre si vale la pena un **lujo puntual de una noche o una
+**Marco**: el presupuesto del viaje es ajustado (hoy ~€4.082 por persona en 15 días —`02` §10—,
+alojamiento sobre todo en camping), así que esto es sobre si vale la pena un **lujo puntual de una noche o una
 actividad suelta**, no un cambio de plan. La pregunta no es "¿es mejor que Etosha?" en abstracto,
 sino **qué da una reserva privada que el self-drive de Etosha estructuralmente no puede dar**:
 
