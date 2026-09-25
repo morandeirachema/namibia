@@ -33,6 +33,28 @@ def bien(msg):
     print("  ok     " + msg)
 
 
+def aviso(msg):
+    """Lo que conviene saber pero no rompe nada: no suma a FALLOS y el CI no se pone rojo."""
+    print("  aviso  " + msg)
+
+
+def _paginas(ruta):
+    """Paginas de un PDF segun pdfinfo; None —y un FALLO— si no hay poppler para medirlo."""
+    try:
+        salida = subprocess.run(["pdfinfo", ruta], capture_output=True, text=True).stdout
+    except FileNotFoundError:
+        mal("sin pdfinfo no se cuentan las paginas de los PDF — instala poppler-utils")
+        return None
+    return next((int(l.split()[1]) for l in salida.splitlines() if l.startswith("Pages:")), 0)
+
+
+def _fecha(etapa):
+    """La fecha de una etapa como `date`: «31 oct» es el unico dia de octubre."""
+    import datetime
+    d, m = etapa["fecha"].split()
+    return datetime.date(2026, 10 if m == "oct" else 11, int(d))
+
+
 def revisa_imagenes():
     ruta = os.path.join(RAIZ, "img", "creditos.json")
     if not os.path.exists(ruta):
@@ -76,6 +98,19 @@ def revisa_geo():
     sin_traza = [e["id"] for e in ruta if e["km"] is None]
     if sin_traza:
         mal(f"etapas sin trazado: {sin_traza}")
+    # ruta.json guarda una copia de cada etapa (titulo, fecha, por, duerme…) y de ahi la
+    # leen el GPX, el KML y My Maps. Si se toca trazado.ETAPAS y no se regenera, esos
+    # ficheros siguen contando la ruta de antes: se compara campo a campo.
+    for fich, etapas in (("ruta.json", trazado.ETAPAS), ("ruta-alt.json", trazado.ETAPAS_ALT)):
+        ruta_f = os.path.join(HERE, "geo", fich)
+        if not os.path.exists(ruta_f):
+            continue                                   # ruta-alt la vigila revisa_ruta_alt
+        guardadas = json.load(open(ruta_f))
+        distintas = [e["id"] for e, g in zip(etapas, guardadas)
+                     if any(e[k] != g.get(k) for k in e)]
+        if len(guardadas) != len(etapas) or distintas:
+            mal(f"geo/{fich} no lleva las etapas de trazado.py ({distintas or 'otro numero'}): "
+                f"regenera con `python3 fuente/geodatos.py`")
     total = sum(e["km"] or 0 for e in ruta)
     if not 2200 < total < 3200:
         mal(f"la ruta suma {total:.0f} km, fuera de lo razonable para este viaje")
@@ -108,6 +143,9 @@ def revisa_geo():
              f"ninguno largo sin clasificar")
 
 
+SIN_KM_EN_EL_TITULAR = {"D1", "D6", "D15"}    # la llegada, el descanso y el vuelo
+
+
 def revisa_dia_a_dia():
     """Que los kilometros del `01` sean los que mide la geometria de la ruta.
 
@@ -138,6 +176,13 @@ def revisa_dia_a_dia():
         if abs(km - medido[dia]) > 2:
             fallos.append(f"{dia}: el `01` titula {km:.0f} km y OSRM mide {medido[dia]:.1f}")
 
+    # la llegada, el descanso y el vuelo no titulan km a proposito; el resto de dias, si.
+    # Sin este minimo, un cambio de formato del titular dejaba «0 con kilometros» en verde.
+    esperados = len(set(medido) - SIN_KM_EN_EL_TITULAR)
+    if con_km < esperados:
+        fallos.append(f"solo {con_km} titulares del `01` dan kilometros y deberian darlos "
+                      f"{esperados}: o ha cambiado el formato y esto se ha quedado ciego, o "
+                      f"un dia ha perdido su cifra")
     if fallos:
         for f in fallos:
             mal(f)
@@ -160,6 +205,15 @@ def revisa_anclas_de_la_agenda():
             f"dia entre esos dos encabezados")
     else:
         bien("agenda: el `01` conserva los dos encabezados entre los que se recorta")
+    # lo opcional de cada dia sale del `10` cortado por sus `### Dn ·`: un encabezado
+    # renombrado dejaba ese dia sin joyas en la agenda y nadie se enteraba
+    diez = open(os.path.join(RAIZ, "10-joyas-ocultas.md")).read()
+    faltan = [e["id"] for e in trazado.ETAPAS if not re.search(rf"^### {e['id']} ·", diez, re.M)]
+    if faltan:
+        mal(f"el `10` no tiene encabezado `### Dn ·` para {faltan}: la agenda saca de ahi lo "
+            f"opcional de cada dia y esos se quedan sin nada")
+    else:
+        bien(f"agenda: el `10` tiene sus {len(trazado.ETAPAS)} encabezados de dia")
 
 
 def revisa_ruta_alt():
@@ -233,7 +287,7 @@ def revisa_ruta_alt():
 
 
 # Velocidades de planificacion del `13`: asfalto 100, grava 80, dentro de parque 60.
-V = {"asfalto": 100.0, "grava": 80.0, "parque": 60.0}
+V = trazado.VELOCIDAD
 
 
 def _horas_de_la_variante(doc, medido):
@@ -248,7 +302,7 @@ def _horas_de_la_variante(doc, medido):
     reparto tiene que sumar los kilometros de la etapa; y el minimo tiene que ser
     exactamente el que sale de las tres velocidades. El realista, nunca menor que el minimo.
     """
-    fallos = []
+    fallos, con_tiempo = [], 0
     for trozo in re.split(r"\n(?=- \*\*D\d+ ·)", doc):
         m = re.match(r"- \*\*(D\d+) ·", trozo)
         if not m:
@@ -258,6 +312,7 @@ def _horas_de_la_variante(doc, medido):
         tiempos = [int(a) + int(b) / 60 for a, b in re.findall(r"~(\d+) h (\d+)", renglon)]
         if not km or not tiempos:
             continue
+        con_tiempo += 1
         firme = {c: 0.0 for c in V}
         for n, clase in re.findall(r"(\d+)\s+(?:km\s+)?de\s+(asfalto|grava)", renglon):
             firme[clase] += float(n)
@@ -278,6 +333,9 @@ def _horas_de_la_variante(doc, medido):
                           f"{int(esperado)}h{round(esperado % 1 * 60):02d}")
         if len(tiempos) > 1 and min(tiempos[1:]) < tiempos[0]:
             fallos.append(f"{dia}: el `aparte/decision-del-ccf` da un tiempo realista menor que su minimo")
+    if not con_tiempo:
+        fallos.append("el `aparte/decision-del-ccf` ya no da ningun tiempo «~N h MM» que case con "
+                      "el patron: la comprobacion de tiempos se ha quedado ciega")
     return fallos
 
 
@@ -306,6 +364,7 @@ def revisa_precios():
     for nombre in SOBRE_EL_TERRENO:
         ruta = os.path.join(RAIZ, nombre)
         if not os.path.exists(ruta):
+            huerfanos.append(f"{nombre}: NO EXISTE — si se ha renombrado, cambia SOBRE_EL_TERRENO")
             continue
         texto = open(ruta).read()
         for m in RE_NAD.finditer(texto):
@@ -394,6 +453,30 @@ def revisa_fechas():
     elif m2.group(1) != esperada:
         mal(f"los PDF se imprimen con fecha «{m2.group(1)}» (fuente/fecha.py) y el README dice "
             f"«{esperada}»")
+
+    # Las fechas del viaje que imprimen las portadas salen de fecha.VIAJE; el README las
+    # escribe a mano en su cabecera. Hasta el 25/09 la guia de fauna decia otras.
+    import fecha as fecha_mod
+    if f"**{fecha_mod.VIAJE}**" not in texto:
+        mal(f"la cabecera del README no dice «{fecha_mod.VIAJE}», que es lo que imprimen las "
+            f"portadas (fuente/fecha.py VIAJE)")
+
+    # Y lo que NO es un fallo pero conviene ver: la fecha declarada contra el ultimo commit
+    # que toco los documentos, y contra hoy. Solo avisa: comparar con hoy en rojo haria
+    # fallar el CI cada dia sin que nadie haya roto nada.
+    try:
+        ultimo = subprocess.run(["git", "-C", RAIZ, "log", "-1", "--format=%cs", "--",
+                                 "README.md", "[0-9][0-9]-*.md"],
+                                capture_output=True, text=True).stdout.strip()
+    except FileNotFoundError:
+        ultimo = ""
+    if ultimo and datetime.date.fromisoformat(ultimo) > fecha:
+        aviso(f"el ultimo commit que toca los documentos es del {ultimo} y el README dice "
+              f"«Última actualización» {fecha:%d/%m/%Y}: ¿falta subir la fecha?")
+    hoy = datetime.date.today()
+    if (hoy - fecha).days > 14 and hoy < datetime.date(*SALIDA_VIAJE):
+        aviso(f"el README se actualizo hace {(hoy - fecha).days} dias ({fecha:%d/%m/%Y}) y "
+              f"hoy faltan {(datetime.date(*SALIDA_VIAJE) - hoy).days} para salir")
 
 
 # Las reservas de alojamiento que hacen el viaje, con lo que pesa cada casilla del `20`
@@ -572,8 +655,6 @@ def revisa_sol_y_luna():
     el `01` no lo nombra —«amanecer **06:14** · anochecer **19:17**»— se usa donde se
     duerme esa noche, que es lo que el documento da por supuesto.
     """
-    import datetime
-
     import astro
 
     texto = open(os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md"), encoding="utf-8").read()
@@ -587,18 +668,19 @@ def revisa_sol_y_luna():
         return mal(f"sol: solo encuentro {len(dias)} dias en el `01` — la comprobacion se ha "
                    "quedado ciega")
 
-    fallos, comprobadas = [], 0
+    fallos, comprobadas, sin_sol = [], 0, []
     for e in trazado.ETAPAS:
         cuerpo = dias.get(e["id"])
         if not cuerpo:
             continue
-        d, m = ((31, 10) if e["fecha"] == "31 oct" else (int(e["fecha"].split()[0]), 11))
-        fecha = datetime.date(2026, m, d)
+        fecha = _fecha(e)
         defecto = e["duerme"] or "windhoek"
         pat = (r"amanecer \*\*~?(\d\d:\d\d)\*\*(?:\s*\(([^)]+)\))?"
                r"(?:\s*·\s*anochecer \*\*~?(\d\d:\d\d)\*\*(?:\s*\(([^)]+)\))?)?")
         mm = re.search(pat, cuerpo)
         if not mm:
+            if e["id"] != "D1":                    # el D1 se aterriza de noche: no lo lleva
+                sin_sol.append(e["id"])
             continue
         for hora, sitio, cual in ((mm.group(1), mm.group(2), "sale"),
                                   (mm.group(3), mm.group(4), "pone")):
@@ -612,71 +694,78 @@ def revisa_sol_y_luna():
             if abs(calc - dicho) > 4:
                 fallos.append(f"{e['id']} {cual} en {clave}: dice {hora} y sale "
                               f"{astro.hhmm(calc)}")
-    if comprobadas < 20:
-        return mal(f"sol: solo he podido cotejar {comprobadas} horas de las ~29 que tiene el "
-                   "`01` — el formato ha cambiado y la comprobacion se ha quedado ciega")
+    if sin_sol:
+        return mal(f"sol: no encuentro el amanecer de {sin_sol} en el `01` — o ha cambiado el "
+                   "formato y la comprobacion se ha quedado ciega, o se ha perdido la linea")
     if fallos:
         return mal(f"sol: {len(fallos)} horas no cuadran con el calculo — {'; '.join(fallos[:4])}")
 
-    # la luna: el bloque de arriba nombra el novilunio y va noche a noche en el cuerpo
-    lunas = re.findall(r"[Ll]una al (?:~)?([\d,]+) ?%", texto)
-    if not lunas:
-        return mal("sol: el `01` ya no dice ninguna «Luna al … %» — la comprobacion de la luna "
-                   "se ha quedado ciega")
-    mal_luna = []
+    # la luna, en dos sitios: noche a noche en el cuerpo de cada dia («Luna al ~2 %») y el
+    # arco del bloque de arriba («la costa la apaga del todo (D6 ~12 %, D7 ~6 %)»). Hasta el
+    # 25/09 solo se miraba lo primero —tres noches— y el arco, que da nueve, iba sin vigilar.
+    por_dia = {e["id"]: e for e in trazado.ETAPAS}
+    lunas = []                                             # (dia, dicho)
     for e in trazado.ETAPAS:
-        cuerpo = dias.get(e["id"]) or ""
-        ml = re.search(r"[Ll]una al (?:~)?([\d,]+) ?%", cuerpo)
-        if not ml:
-            continue
-        d, m = ((31, 10) if e["fecha"] == "31 oct" else (int(e["fecha"].split()[0]), 11))
-        dicho = float(ml.group(1).replace(",", "."))
-        calc = astro.iluminada(datetime.date(2026, m, d))
+        ml = re.search(r"[Ll]una,? al\s+\**~?([\d,]+) ?%", dias.get(e["id"]) or "")
+        if ml:
+            lunas.append((e["id"], ml.group(1)))
+    arco = re.search(r"^> ### 🌙.*?\n(?!>)", texto, re.S | re.M)
+    if not arco:
+        return mal("luna: el `01` ya no tiene el bloque «### 🌙» del arco de la luna — la "
+                   "comprobacion se ha quedado ciega")
+    # «Dn … X %» sin otro Dn en medio, y sin los rangos «D10–D13», que dan dos cifras
+    for m in re.finditer(r"(?<![–-])\bD(\d+)\b(?![–-]D)(?:(?!D\d)[^%]){0,70}?(\d+(?:,\d+)?) ?%",
+                         arco.group(0)):
+        lunas.append((f"D{m.group(1)}", m.group(2)))
+    if len(lunas) < 8:
+        return mal(f"luna: solo encuentro {len(lunas)} fracciones en el `01` — ha cambiado el "
+                   "formato y la comprobacion se ha quedado ciega")
+    mal_luna = []
+    for dia, dicho in lunas:
+        dicho = float(dicho.replace(",", "."))
+        calc = astro.iluminada(_fecha(por_dia[dia]))
         if abs(calc - dicho) > 2:
-            mal_luna.append(f"{e['id']}: dice {dicho:g} % y sale {calc:.1f} %")
+            mal_luna.append(f"{dia}: dice {dicho:g} % y sale {calc:.1f} %")
     if mal_luna:
         return mal(f"luna: {len(mal_luna)} noches no cuadran — {'; '.join(mal_luna)}")
     bien(f"sol y luna: las {comprobadas} horas del `01` cuadran con el calculo propio "
          f"(NOAA + Meeus) y las {len(lunas)} lunas tambien")
 
 
-def revisa_gps():
-    """Que el GPX y el KML sigan describiendo la MISMA ruta que el dossier.
+def revisa_derivados():
+    """Que los ficheros derivados que se commitean sean EXACTAMENTE los que sale de regenerarlos.
 
-    Se generan de `geo/ruta.json`, igual que el mapa y la lamina, asi que lo unico que
-    puede pasar es que se queden sin regenerar tras mover una noche: entonces el GPS
-    llevaria una ruta y el PDF otra, que es la peor forma de descubrirlo —en Namibia—.
+    El GPX y el KML del GPS, los tres de My Maps y el estudio de charcas no se escriben a
+    mano: salen de `trazado.py` y de `geo/*.json`. Hasta el 25/09 aqui solo se contaban
+    las pistas y los puntos del GPX —y del KML, que existiera—, asi que un punto con el
+    dia o la clase cambiados pasaba: Otjiwarongo salio como gasolinera obligatoria en el
+    GPS y en My Maps con el `01` diciendo opcional. Ahora cada generador devuelve su texto
+    sin escribir nada y se compara byte a byte con lo que hay en disco.
     """
-    import xml.etree.ElementTree as ET
-    ruta = json.load(open(os.path.join(HERE, "geo", "ruta.json")))
-    con_traza = [e for e in ruta if e.get("geometria")]
-    km = sum(e["km"] or 0 for e in ruta)
-
-    gpx = os.path.join(RAIZ, "ruta-namibia-2026.gpx")
-    if not os.path.exists(gpx):
-        return mal("falta ruta-namibia-2026.gpx — ejecuta `make gps`")
-    try:
-        raiz = ET.parse(gpx).getroot()
-    except ET.ParseError as e:
-        return mal(f"ruta-namibia-2026.gpx no es XML valido: {e}")
-    ns = {"g": "http://www.topografix.com/GPX/1/1"}
-    pistas = raiz.findall("g:trk", ns)
-    puntos = raiz.findall("g:wpt", ns)
-    if len(pistas) != len(con_traza):
-        return mal(f"el GPX lleva {len(pistas)} etapas y la ruta tiene {len(con_traza)} "
-                   f"con trazado — regenera con `make gps`")
-    if len(puntos) != len(trazado.puntos_oficiales()):
-        return mal(f"el GPX lleva {len(puntos)} puntos y la ruta oficial tiene "
-                   f"{len(trazado.puntos_oficiales())} — regenera con `make gps`")
-    if not os.path.exists(os.path.join(RAIZ, "ruta-namibia-2026.kml")):
-        return mal("falta ruta-namibia-2026.kml — ejecuta `make gps`")
+    import estudio_charcas
+    import gps
+    import mapas_google
+    viejos = []
+    for modulo, orden in ((gps, "make gps"), (mapas_google, "make mymaps"),
+                          (estudio_charcas, "make charcas")):
+        for ruta, texto in modulo.textos().items():
+            rel = os.path.relpath(ruta, RAIZ)
+            if not os.path.exists(ruta):
+                viejos.append(f"{rel} (no existe — {orden})")
+            elif open(ruta, encoding="utf-8", newline="").read() != texto:
+                viejos.append(f"{rel} ({orden})")
+    if viejos:
+        return mal(f"derivados sin regenerar, no cuentan lo que dice la fuente: {', '.join(viejos)}")
 
     # Y que el README cuente los mismos puntos y pistas que hay dentro. Decia «las 13
     # etapas» con 14 en el fichero desde que el dia de llegada paso a ser el D1: los PDF
     # tienen su comprobacion de paginas desde hace semanas y esto no la tenia.
+    ruta = gps.etapas()
+    pistas = sum(1 for e in ruta if e.get("geometria"))
+    puntos = len(trazado.puntos_oficiales())
     texto = open(os.path.join(RAIZ, "README.md"), encoding="utf-8").read()
-    for cuantos, patron, que in ((len(puntos), r"los (\d+) puntos de la ruta como waypoints", "puntos"),
-                                 (len(pistas), r"las (\d+)\s*\n?etapas con trazado", "etapas con trazado")):
+    for cuantos, patron, que in ((puntos, r"los (\d+) puntos de la ruta como waypoints", "puntos"),
+                                 (pistas, r"las (\d+)\s*\n?etapas con trazado", "etapas con trazado")):
         m = re.search(patron, texto)
         if not m:
             return mal(f"el README ya no dice cuantos {que} lleva el GPX, o lo dice de otra "
@@ -684,8 +773,35 @@ def revisa_gps():
         if int(m.group(1)) != cuantos:
             return mal(f"el README dice {m.group(1)} {que} en el GPX, y hay {cuantos}")
 
-    bien(f"gps: el GPX y el KML llevan las {len(pistas)} etapas con trazado, "
-         f"{len(puntos)} puntos y los {km:.0f} km de la ruta, y el README lo dice bien")
+    bien(f"derivados: GPX, KML, los tres de My Maps y el estudio de charcas, identicos a "
+         f"regenerarlos ({pistas} etapas, {puntos} puntos, "
+         f"{sum(e['km'] or 0 for e in ruta):.0f} km), y el README los cuenta bien")
+
+
+def revisa_gasolineras():
+    """Que las gasolineras obligatorias de `trazado.GASOLINERAS` sean las del `01` §gasolineras.
+
+    La lamina y el mapa las pintan desde la tabla; el `01` las decide en su diagrama. Son
+    la misma lista escrita dos veces, y nada obligaba a que coincidieran.
+    """
+    texto = open(os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md"), encoding="utf-8").read()
+    sec = re.search(r"^### ⛽ Las gasolineras.*?```mermaid\n(.*?)```", texto, re.S | re.M)
+    if not sec:
+        return mal("el `01` ya no tiene el diagrama de «### ⛽ Las gasolineras»: la comprobacion "
+                   "de las obligatorias se ha quedado ciega")
+    nodos = re.findall(r'\["([^"]+)"\]', sec.group(1))
+    duras = " ".join(n for n in nodos if "OBLIGATORIA" in n or "CRITICA" in n).upper()
+    nombre = {k: trazado.PUNTOS[k][2].split(" · ")[0].upper() for k, *_ in trazado.GASOLINERAS}
+    en_01 = {k for k, n in nombre.items() if n in duras}
+    en_tabla = {k for k, estado, _ in trazado.GASOLINERAS if estado == "obligatoria"}
+    if not en_01:
+        return mal("no encuentro ninguna gasolinera OBLIGATORIA en el diagrama del `01`: "
+                   "la comprobacion se ha quedado ciega")
+    if en_01 != en_tabla:
+        return mal(f"gasolineras obligatorias: el `01` dice {sorted(en_01)} y "
+                   f"trazado.GASOLINERAS dice {sorted(en_tabla)}")
+    bien(f"gasolineras: las {len(en_tabla)} obligatorias del `01` son las de trazado.GASOLINERAS "
+         f"({', '.join(sorted(en_tabla))})")
 
 
 def revisa_avistamientos():
@@ -707,8 +823,11 @@ def revisa_avistamientos():
         mal(f"{len(sobran)} recuentos de especies que ya no estan en el catalogo: {sorted(sobran)}")
 
     camps = d.get("campamentos") or {}
-    if not camps:
-        mal("no hay porcentajes por campamento: la guia se queda sin la cifra directa")
+    # `avistamientos.viajeros()` se salta un campamento si la red falla, y `main` no lo
+    # reintenta mientras quede alguno: sin esto, un cache con dos de tres pasaba en verde
+    faltan_camps = [c for c in ("okaukuejo", "halali", "namutoni") if c not in camps]
+    if faltan_camps:
+        mal(f"faltan los partes de {faltan_camps}: rehaz con `python3 fuente/avistamientos.py --forzar`")
     sin_muestra = [f"{c['nombre']}/{s}" for c in camps.values()
                    for s, f in c.get("especies", {}).items() if not f.get("partes")]
     if sin_muestra:
@@ -717,7 +836,7 @@ def revisa_avistamientos():
     if flojos:
         mal(f"campamentos con menos de 10 partes, no dan para publicar un porcentaje: {flojos}")
 
-    if not (faltan or sobran or sin_sesgo(d) or sin_muestra or flojos):
+    if not (faltan or sobran or faltan_camps or sin_sesgo(d) or sin_muestra or flojos):
         n = sum(len(c.get("especies", {})) for c in camps.values())
         bien(f"avistamientos: {len(d['especies'])} especies en GBIF y {n} porcentajes "
              f"de {len(camps)} campamentos, todos con su muestra")
@@ -783,9 +902,9 @@ def revisa_pdf(nombre, minimo):
     ruta = os.path.join(RAIZ, nombre)
     if not os.path.exists(ruta):
         return mal(f"no existe {nombre}")
-    salida = subprocess.run(["pdfinfo", ruta], capture_output=True, text=True).stdout
-    paginas = next((int(l.split()[1]) for l in salida.splitlines()
-                    if l.startswith("Pages:")), 0)
+    paginas = _paginas(ruta)
+    if paginas is None:
+        return
     mb = os.path.getsize(ruta) / 1024 / 1024
     if paginas < minimo:
         mal(f"{nombre} tiene {paginas} paginas, esperaba al menos {minimo}")
@@ -804,9 +923,9 @@ def revisa_agenda(nombre="agenda-namibia-2026.pdf"):
     ruta = os.path.join(RAIZ, nombre)
     if not os.path.exists(ruta):
         return mal(f"no existe {nombre}")
-    salida = subprocess.run(["pdfinfo", ruta], capture_output=True, text=True).stdout
-    paginas = next((int(l.split()[1]) for l in salida.splitlines()
-                    if l.startswith("Pages:")), 0)
+    paginas = _paginas(ruta)
+    if paginas is None:
+        return
     import agenda
     esperadas = agenda.paginas_esperadas()
     debe = {e["id"]: 2 + agenda.PAGINAS_EXTRA.get(e["id"], 0) for e in trazado.ETAPAS}
@@ -826,6 +945,12 @@ def revisa_agenda(nombre="agenda-namibia-2026.pdf"):
     # las tres llevan su «Dn» en cabecera y la cuenta por dia no lo ve — paso el 25/08 con el
     # D7, que salio a 32 paginas sin que esto avisara.
     extra = ", ".join(f"{d} con {2 + n}" for d, n in agenda.PAGINAS_EXTRA.items())
+    # si pdftotext no saca ningun «Dn» de cabecera, la cuenta por dia queda vacia y el
+    # reparto «cuadraba» sin haber mirado nada
+    sin_cabecera = [d for d in debe if d not in cuenta]
+    if sin_cabecera:
+        return mal(f"{nombre}: no encuentro la cabecera de {sin_cabecera} en ninguna pagina — o "
+                   "falta el dia, o pdftotext no la lee y esta comprobacion se ha quedado ciega")
     if paginas == esperadas and all(n == debe.get(d, 2) for d, n in cuenta.items()):
         return bien(f"{nombre}: portada + {len(trazado.ETAPAS)} dias, mapa y explicacion"
                     + (f" ({extra})" if extra else ""))
@@ -847,9 +972,10 @@ def revisa_lamina(nombre="mapa-ruta-namibia-2026.pdf"):
     ruta = os.path.join(RAIZ, nombre)
     if not os.path.exists(ruta):
         return mal(f"no existe {nombre}")
+    paginas = _paginas(ruta)
+    if paginas is None:
+        return
     salida = subprocess.run(["pdfinfo", ruta], capture_output=True, text=True).stdout
-    paginas = next((int(l.split()[1]) for l in salida.splitlines()
-                    if l.startswith("Pages:")), 0)
     medida = next((l.split(":", 1)[1].strip() for l in salida.splitlines()
                    if l.startswith("Page size:")), "")
     # pdfinfo rotula el formato el solo; Chrome deja el tamano en 1191,12 x 1685,04 pt
@@ -878,13 +1004,16 @@ def revisa_escala(nombre, alto=267, tolerancia=3):
     """
     ruta = os.path.join(RAIZ, nombre)
     if not os.path.exists(ruta):
-        return
+        return mal(f"no existe {nombre}: no se puede medir su escala")
     with tempfile.TemporaryDirectory() as tmp:
         base = os.path.join(tmp, "p")
-        r = subprocess.run(["pdftoppm", "-f", "1", "-l", "1", "-r", "72", "-png", ruta, base],
-                           capture_output=True)
-        png = sorted(f for f in os.listdir(tmp) if f.endswith(".png"))
-        if r.returncode or not png:
+        try:
+            r = subprocess.run(["pdftoppm", "-f", "1", "-l", "1", "-r", "72", "-png", ruta, base],
+                               capture_output=True)
+        except FileNotFoundError:
+            r = None                                   # sin poppler: el mensaje de abajo
+        png = sorted(f for f in os.listdir(tmp) if f.endswith(".png")) if r else []
+        if r is None or r.returncode or not png:
             return mal(f"{nombre}: sin pdftoppm no se mide la escala — instala poppler-utils; "
                        f"esta es la comprobacion de la tarde perdida y no pasa en verde sin correr")
         try:
@@ -912,16 +1041,15 @@ def revisa_escala(nombre, alto=267, tolerancia=3):
 
 def revisa_paginas_readme():
     """El README anuncia cuantas paginas tiene cada PDF: que no se quede desfasado."""
-    import re
     texto = open(os.path.join(RAIZ, "README.md")).read()
     for nombre in ("dossier-namibia-2026.pdf", "guia-fauna-namibia.pdf",
                    "mapa-ruta-namibia-2026.pdf", "agenda-namibia-2026.pdf"):
         ruta = os.path.join(RAIZ, nombre)
         if not os.path.exists(ruta):
             continue
-        salida = subprocess.run(["pdfinfo", ruta], capture_output=True, text=True).stdout
-        real = next((int(l.split()[1]) for l in salida.splitlines()
-                     if l.startswith("Pages:")), 0)
+        real = _paginas(ruta)
+        if real is None:
+            return
         dichas = {int(n) for n in re.findall(
             re.escape(nombre) + r"[^\n]*?(\d+)\s+páginas", texto)}
         dichas |= {int(n) for n in re.findall(
@@ -943,7 +1071,6 @@ def revisa_paginas_readme():
 
 def revisa_indice_readme():
     """El indice del README se numera a mano: que no se descuadre ni pierda un documento."""
-    import re
     texto = open(os.path.join(RAIZ, "README.md")).read()
     listados = re.findall(r"^(\d+)\. .*?\[\*\*`(\d\d)-[a-z-]+`\*\*\]", texto, re.M)
     numeros = [int(n) for n, _ in listados]
@@ -953,11 +1080,12 @@ def revisa_indice_readme():
     en_disco = {f[:2] for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f)}
     if en_disco - docs:
         return mal(f"el indice del README no lista {sorted(en_disco - docs)}")
+    if docs - en_disco:
+        return mal(f"el indice del README lista {sorted(docs - en_disco)}, que no existen en disco")
     bien(f"el indice del README: {len(numeros)} documentos, numerados y completos")
 
 
 def revisa_documentos():
-    import re
     docs = sorted(f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
     huecos = [f for f in docs if not open(os.path.join(RAIZ, f)).read().startswith("# ")]
     if huecos:
@@ -1006,7 +1134,8 @@ def main():
     revisa_anclas_de_la_agenda()
     revisa_ruta_alt()
     revisa_sol_y_luna()
-    revisa_gps()
+    revisa_gasolineras()
+    revisa_derivados()
     revisa_avistamientos()
     revisa_ruta()
     revisa_pdf("dossier-namibia-2026.pdf", 40)

@@ -31,7 +31,7 @@ import trazado
 from comun import RAIZ, marca_texto, md
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-from fecha import FECHA
+from fecha import FECHA, VIAJE
 FUENTE = os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md")
 JOYAS = os.path.join(RAIZ, "10-joyas-ocultas.md")
 
@@ -376,7 +376,7 @@ def portada():
     casilla se marca a boli.</p>
     <ol class="indice">{"".join(li)}</ol>
   </div>
-  <div class="pie">~{comun.mil(total)} km en 15 días · 30 de octubre – 15 de noviembre ·
+  <div class="pie">~{comun.mil(total)} km en 15 días · {VIAJE[:-8]} ·
   Chema Morandeira y Miguel Rivera · generado de los documentos <code>01</code> y <code>10</code> el {FECHA}</div>
 </section>"""
 
@@ -396,14 +396,12 @@ def html_completo():
                          f'{banda_mapa(dia, alto_mapa(opc))}{bloque_opcional(dia, opc)}</section>'
                          f'<section class="d texto">{cabecera_dia(dia, titulo, breve=True)}'
                          f'<div class="cuerpo">{a_html(poda(cuerpo))}</div></section>')
-    completo = dossier.html_completo()
-    script = completo[completo.index('<script src="'):completo.rindex("</body>")]
     return f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 <title>Namibia 2026 — la agenda</title>
 <style>{tipos}</style><style>{CSS}</style></head><body>
 {portada()}
 {"".join(secciones)}
-{script}
+{dossier.script_mermaid()}
 </body></html>"""
 
 

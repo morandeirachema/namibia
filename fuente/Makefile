@@ -4,7 +4,6 @@
 #   make imagenes   descarga las fotos del catalogo (Wikimedia Commons) a img/
 #   make geo        descarga y cachea la geometria de los mapas a fuente/geo/
 #   make avistam    recuentos de GBIF y porcentajes por campamento
-#   make pais       reparto por regiones: donde vive cada bicho en Namibia a fuente/geo/
 #   make charcas    reescribe aparte/charcas-de-los-campamentos-de-etosha.md
 #   make mapas      exporta los mapas a img/mapas/ (SVG y PNG; el de la ruta va en el README)
 #   make mymaps     reescribe los CSV y el KML de aparte/ para Google My Maps

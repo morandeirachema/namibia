@@ -85,13 +85,11 @@ MUESTRA_MINIMA = 120
 # montana en Damaraland dan un 3 % que suena a «la vais a ver» y no lo es.
 MINIMO_ESPECIE = 10
 
-# Las dos fichas donde el indice diria una cosa y la fuente dice la contraria. La
-# suricata no vive en esta ruta (es del Kalahari y del sur) y la cebra de Hartmann
-# esta dentro del poligono de Etosha pero solo en las lomas del extremo oeste, a
-# doscientos kilometros del eje Okaukuejo-Namutoni. GBIF no distingue eso; la ficha si.
-# Vacio desde el 09/08: las especies que la fuente situaba fuera de la ruta (suricata,
-# cebra de Hartmann) salieron del catalogo con la regla nueva — la guia no lleva
-# animales que nadie va a ver. El mecanismo se queda por si vuelve a hacer falta.
+# Fichas donde el indice diria una cosa y la fuente dice la contraria, con banda forzada.
+# Vacio desde el 09/08, cuando la suricata y la cebra de Hartmann salieron del catalogo
+# con la regla de la ruta. La suricata sigue fuera (es del Kalahari); la cebra de Hartmann
+# VOLVIO el 29/08 por la regla normal —la ruta ya pisa Spreetshoogte y Damaraland, donde
+# GBIF si la registra— y no necesita banda forzada. El mecanismo se queda por si acaso.
 FUERA_DE_RUTA = set()
 
 

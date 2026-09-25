@@ -37,7 +37,7 @@ más, estos datos no lo dicen — así que no se dice.
 
 ## 🔬 Lo que de verdad separa a las tres charcas — y lo que es ruido
 
-Puestos los intervalos del 95 %, de catorce especies **solo sobreviven tres diferencias**:
+Puestos los intervalos del 95 %, de 14 especies **solo sobreviven tres diferencias**:
 
 > ⚠️ **Y hay que decir qué test es éste, porque cambia la respuesta** *(revisado el 28/08)*. «Que los
 > intervalos no se toquen» es un criterio **conservador**: equivale a exigir un α de ~0,005, no de

@@ -21,11 +21,9 @@ from comun import RAIZ, marca_texto                                # noqa: E402
 from textos_especies import ID                                     # noqa: E402
 from textos_poblacion import CUANTOS, FUENTES_POBLACION            # noqa: E402
 from textos_safari import CONSEJOS                                 # noqa: E402
+from fecha import VIAJE                                            # noqa: E402
 
-try:
-    from textos_etosha import DONDE, FUENTES_ETOSHA, INTRO_EXTRA, NOCTURNO
-except ImportError:                                                # aun sin el informe
-    DONDE, INTRO_EXTRA, FUENTES_ETOSHA, NOCTURNO = {}, "", [], ""
+from textos_etosha import DONDE, FUENTES_ETOSHA, INTRO_EXTRA, NOCTURNO  # noqa: E402
 
 
 def metodo():
@@ -112,7 +110,7 @@ def portadilla():
   cuántas quedan cuando hay una cifra publicada que citar, y <strong>en qué zona del viaje
   cae</strong>, con los días al lado.</p>
   <p><strong>Y aquí solo hay fauna de sitios a los que se va.</strong> Las {total()} fichas
-  caen en los <strong>2.798 km de este viaje</strong> y en ninguna otra parte: cada una tiene
+  caen en los <strong>{comun.mil(sum(e.get('km') or 0 for e in mapa.carga('ruta.json')))} km de este viaje</strong> y en ninguna otra parte: cada una tiene
   registros de GBIF dentro de alguna de las cuatro zonas de la ruta. <em>(El 29/08 se probó lo
   contrario —una segunda parte con el hipopótamo, el licaón y el sable del Zambeze y del
   Okavango, rotulada «lo que este viaje no pisa»— y se deshizo el mismo día: rotularlo no
@@ -328,7 +326,7 @@ def total():
 def remite_desde_dossier(ancla=""):
     """El dossier NO lleva las fichas dentro: solo remite a la guia suelta.
 
-    Meter las 148 fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
+    Meter las fotos de fauna dentro del dossier lo engordaba en unas veinte paginas y
     varios megas, y duplicaba un documento que ya existe aparte y que ademas se imprime
     solo para llevarlo en la guantera. Aqui queda el enlace y el resumen de lo que hay.
     """
@@ -342,7 +340,7 @@ def remite_desde_dossier(ancla=""):
     {total()} fichas con fotografía que engordarían el volumen en más de veinte páginas y
     varios megas, y que se usan en otro momento y de otra forma — en el coche, con el motor
     apagado en una charca, no leyendo del tirón en casa.</p>
-    <p><strong>Y desde el 29/08 no es solo la fauna de la ruta:</strong> son
+    <p><strong>Y es solo la fauna de la ruta:</strong> son
     {total()} especies <strong>de esta ruta y de ninguna otra parte</strong>, y desde el 29/08
     <strong>cada ficha reparte sus registros entre las cuatro zonas del viaje</strong> —el
     Namib, la costa, Damaraland y Etosha— con el día al lado, que es lo que contesta la
@@ -350,8 +348,8 @@ def remite_desde_dossier(ancla=""):
     <p><strong>Está en <code>guia-fauna-namibia.pdf</code></strong>, en la raíz del repo:
     {cuentas}. Cada ficha lleva el nombre en castellano, el científico y el inglés —el de
     los carteles del parque—, cómo reconocer la especie, <strong>qué posibilidades hay de
-    verla</strong> —medidas, no dichas a ojo—, <strong>en qué región del país vive</strong>
-    y, donde hay fuente, dónde y cuándo verla y cuántas quedan.</p>
+    verla</strong> —medidas, no dichas a ojo—, <strong>en qué zona del viaje cae, con el
+    día al lado,</strong> y, donde hay fuente, dónde y cuándo verla y cuántas quedan.</p>
     <p>Delante de las fichas va lo que no cabe aquí: <strong>cómo se hace un safari</strong>
     —la ropa, lo que tiene que ir a mano dentro del coche, la táctica de la charca y lo
     que es reglamento y no consejo—.</p>
@@ -377,7 +375,7 @@ def html_suelto():
 <title>Fauna de Namibia — guía de campo</title>
 <style>{tipos}</style><style>{css}</style></head><body>
 <section class="guia-portada">
-  <div class="epi">Namibia · 31 de octubre – 14 de noviembre de 2026</div>
+  <div class="epi">Namibia · {VIAJE}</div>
   <h1>Fauna de Namibia</h1>
   <h2>Guía de campo · {total()} especies de vuestra ruta</h2>
   <div class="datos">{cuentas}<br>

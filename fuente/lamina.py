@@ -27,12 +27,11 @@ import trazado
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(HERE)
-from fecha import FECHA
+from fecha import FECHA, VIAJE
 
 # --- La geometria de la hoja, en mm. Todo lo demas se calcula de aqui. -----------
 HOJA_ANCHO, HOJA_ALTO = 420, 594
 MARGEN = (10, 10, 12, 10)                      # arriba, derecha, abajo, izquierda
-UTIL_ANCHO = HOJA_ANCHO - MARGEN[1] - MARGEN[3]
 MAPA_ANCHO = 372                               # ~9 pt de rotulo; ver la cabecera. Bajo de
                                                # 384 el 28/08 para que quepa la segunda
                                                # linea de cada etapa (carreteras y firme)
@@ -166,7 +165,7 @@ def cabecera(km):
   </div>
   <div class="datos">
     <span class="grande">~{comun.mil(km)} km en 15 días</span>
-    <b>30 de octubre – 15 de noviembre</b> · un 4×4 con tienda de techo<br>
+    <b>{VIAJE[:-8]}</b> · un 4×4 con tienda de techo<br>
     14 noches, 13 de ellas arriba · cuatro en Etosha, dos dentro del parque
   </div>
 </header>"""

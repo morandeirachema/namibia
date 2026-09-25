@@ -21,6 +21,7 @@ RAIZ = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
 import catalogo                                                    # noqa: E402
+from fecha import VIAJE_CORTO                                      # noqa: E402
 
 SALIDA = os.path.join(RAIZ, "aparte", "charcas-de-los-campamentos-de-etosha.md")
 
@@ -35,6 +36,8 @@ EMOJI = {"leon": "🦁", "leopardo": "🐆", "guepardo": "🐆", "rino-negro": "
          "hiena-parda": "🐕", "oricteropo": "🐖"}
 
 CAMPS = ("okaukuejo", "halali", "namutoni")
+# Las especies cuya diferencia entre charcas la prosa de `documento()` da por buena.
+PROSA_PARA = {"leopardo", "guepardo", "rino-negro"}
 
 
 def carga():
@@ -94,7 +97,14 @@ def documento():
     c = d["campamentos"]
     filas = "\n".join(renglon(d, nom, s) for s in ORDEN if
                       any(dato(d, k, s) for k in CAMPS))
-    reales = [(s, p) for s in ORDEN for p in separan(d, s)]
+    # La prosa de abajo cuenta TRES diferencias —el leopardo de Moringa, el guepardo de
+    # Namutoni y el rinoceronte negro de Okaukuejo— y las nombra una a una. Si los partes
+    # cambian y sobrevive otra, el documento no puede seguir diciendolo: se para aqui.
+    reales = {s for s in ORDEN if separan(d, s)}
+    if reales != PROSA_PARA:
+        raise SystemExit(f"estudio_charcas: la prosa habla de {sorted(PROSA_PARA)} y los "
+                         f"intervalos separan {sorted(reales)} — reescribe documento()")
+    medidas = sum(1 for s in ORDEN if any(dato(d, k, s) for k in CAMPS))
     ruido = [s for s in ORDEN if any(dato(d, k, s) for k in CAMPS) and not separan(d, s)]
     lista_ruido = ", ".join(nom.get(s, s) for s in ruido)
     v = {k: c[k]["viajeros"] for k in CAMPS}
@@ -107,7 +117,7 @@ def documento():
 
     return f"""# Las charcas de los campamentos de Etosha — qué se ve en cada una, y qué no
 
-> **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](../README.md)
+> **Namibia · {VIAJE_CORTO} · la clásica del norte** — [← índice del dossier](../README.md)
 >
 > Los **siete campamentos de Etosha que nombra este repo**, y lo que la evidencia dice de la charca
 > de cada uno. **Tres tienen partes de avistamiento de verdad**; los otros cuatro no, y eso también
@@ -144,14 +154,14 @@ más, estos datos no lo dicen — así que no se dice.
 
 ## 🔬 Lo que de verdad separa a las tres charcas — y lo que es ruido
 
-Puestos los intervalos del 95 %, de catorce especies **solo sobreviven tres diferencias**:
+Puestos los intervalos del 95 %, de {medidas} especies **solo sobreviven tres diferencias**:
 
 > ⚠️ **Y hay que decir qué test es éste, porque cambia la respuesta** *(revisado el 28/08)*. «Que los
 > intervalos no se toquen» es un criterio **conservador**: equivale a exigir un α de ~0,005, no de
 > 0,05. Con el test que toca —**Fisher exacto, bilateral**— salen **cinco** diferencias a 0,05:
 > entran también el **rinoceronte negro de Halali** *(p=0,036)* y el **eland de Namutoni**
-> *(p=0,035)*, que aquí abajo figuran como ruido. Y en sentido contrario: aquí se hacen **42
-> comparaciones** *(14 especies × 3 pares)*, donde a 0,05 se esperan ~2 falsos positivos por puro
+> *(p=0,035)*, que aquí abajo figuran como ruido. Y en sentido contrario: aquí se hacen **{3 * medidas}
+> comparaciones** *({medidas} especies × 3 pares)*, donde a 0,05 se esperan ~2 falsos positivos por puro
 > azar. Corrigiendo por eso **sobrevive UNA sola: el leopardo de Moringa** *(p=0,0001 → 0,006
 > corregido)*. El **guepardo de Namutoni** queda en p=0,004 sin corregir y **0,17 corregido**, sobre
 > **14 partes**, y siendo además **el máximo de tres campamentos** — que es exactamente el sesgo que
@@ -342,15 +352,25 @@ tres y **se sostiene** — pero todo lo demás que parece destacar aquí *(eland
 ]
 
 
-def main():
+def texto():
     d, nom = carga(), nombres()
-    texto = documento()
+    t = documento()
     for camp, titulo, prosa in CHARCAS:
-        texto += "\n" + ficha(d, nom, camp, titulo, prosa)
-    texto += "\n" + cola(d)
+        t += "\n" + ficha(d, nom, camp, titulo, prosa)
+    return t + "\n" + cola(d)
+
+
+def textos():
+    """Fichero -> contenido. `comprobar.revisa_derivados` lo compara con lo que hay en disco."""
+    return {SALIDA: texto()}
+
+
+def main():
+    d = carga()
+    texto_ = texto()
     with io.open(SALIDA, "w", encoding="utf-8") as f:
-        f.write(texto)
-    print(f"{os.path.relpath(SALIDA, RAIZ)} · {len(texto.splitlines())} lineas, "
+        f.write(texto_)
+    print(f"{os.path.relpath(SALIDA, RAIZ)} · {len(texto_.splitlines())} lineas, "
           f"{len(d['campamentos'])} campamentos con partes")
     return 0
 

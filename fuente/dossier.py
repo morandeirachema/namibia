@@ -22,7 +22,7 @@ import mapa                                                        # noqa: E402
 import trazado                                                     # noqa: E402
 from comun import RAIZ, marca_texto, md                            # noqa: E402
 
-from fecha import FECHA
+from fecha import FECHA, VIAJE
 
 # ---------------------------------------------------------------------------
 # Estructura del volumen
@@ -339,6 +339,18 @@ def reparte_fotos(cuerpo, slugs):
 # Piezas del volumen
 # ---------------------------------------------------------------------------
 
+def total_por_persona():
+    """El titular del presupuesto, tal cual lo escribe el README («### ~€4.082 por persona»).
+
+    La portada lo llevaba tecleado y nada lo cotejaba; `comprobar` ya vigila que ese titular
+    cuadre con las dos tartas, asi que leyendolo de ahi la portada queda vigilada tambien.
+    """
+    m = re.search(r"^### ~€([\d.]+) por persona", open(os.path.join(RAIZ, "README.md")).read(), re.M)
+    if not m:
+        raise SystemExit("dossier: el README ya no escribe «### ~€… por persona» y la portada lo necesita")
+    return m.group(1)
+
+
 def portada(total_paginas=None):
     cr = comun.creditos()["lugares/portada"]
     pie_izq = f"{len(documentos())} documentos · 2 mapas · guía de fauna aparte"
@@ -356,9 +368,9 @@ def portada(total_paginas=None):
     la Costa de los Esqueletos y cuatro noches de safari en Etosha.</p>
     <p class="viajan"><b>Chema Morandeira</b> y <b>Miguel Rivera</b></p>
     <div class="datos">
-      Un 4×4 con tienda de techo · <b>30 de octubre – 15 de noviembre</b><br>
+      Un 4×4 con tienda de techo · <b>{VIAJE[:-8]}</b><br>
       Desierto → costa → Damaraland → <b>cuatro noches de safari en Etosha</b><br>
-      ~2.798 km · <b>~€4.082 por persona</b>, todo incluido
+      ~{comun.mil(sum(e.get('km') or 0 for e in mapa.carga('ruta.json')))} km · <b>~€{total_por_persona()} por persona</b>, todo incluido
     </div>
     <div class="pie"><span>{pie_izq}</span><span>{pie_der}</span></div>
   </div>
@@ -436,17 +448,11 @@ def indice(paginas):
 </section>"""
 
 
-# Los mapas que van DENTRO de un documento, y no en su pagina suelta del principio.
-# En el markdown van como <img> —para que GitHub los pinte y el `.md` se lea solo—, y
-# aqui se cambian por el SVG en linea: en el PDF sale vectorial, nitido a cualquier
-# tamano y sin depender de que el PNG este generado. Clave: nombre en img/mapas/.
-# Mapas que van DENTRO de un documento, en vez de en las paginas de mapas del principio.
-# Vacio desde el 25/08: el unico que habia era el de la variante del CCF, y ese documento
-# se fue a `aparte/` — fuera del PDF. El mecanismo se queda montado por si vuelve a hacer
-# falta; `mapa.mapa_ruta_alt()` sigue existiendo y su SVG sigue generandose.
-# El mapa que va DENTRO de un documento y no en las paginas de mapas del principio. En el
-# markdown va como <img> —para que GitHub lo pinte— y aqui se cambia por el SVG en linea:
-# sale vectorial y no depende de que el PNG este generado.
+# Los mapas que van DENTRO de un documento, y no en las paginas de mapas del principio.
+# En el markdown van como <img> —para que GitHub los pinte y el `.md` se lea solo— y aqui
+# se cambian por el SVG en linea: en el PDF sale vectorial y no depende de que el PNG este
+# generado. Hoy solo el de las zonas de fauna del `09`; el de la variante del CCF estuvo
+# aqui hasta el 25/08, cuando ese documento se fue a `aparte/`, fuera del PDF.
 MAPAS_EN_DOC = {"09": ("zonas-fauna", mapa.mapa_zonas)}
 
 
@@ -628,7 +634,17 @@ def html_completo(paginas=None):
 {cuerpo_documentos()}
 {fauna()}
 {creditos_seccion()}
-<script src="{VENDOR}"></script>
+{script_mermaid()}
+</body></html>"""
+
+
+VENDOR = "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"
+
+
+def script_mermaid():
+    """Mermaid y su arranque. Lo comparte la agenda, que hasta el 25/09 montaba el dossier
+    ENTERO —unos 20 MB de HTML— solo para recortarle estas lineas."""
+    return f"""<script src="{VENDOR}"></script>
 <script>
 // startOnLoad va a false y se dibuja DESPUES de que carguen las tipografias: si
 // Mermaid mide las etiquetas con la fuente de respaldo, calcula cajas mas pequenas
@@ -655,11 +671,7 @@ mermaid.initialize({{startOnLoad:false, securityLevel:'loose', theme:'base',
   .then(function () {{ return mermaid.run({{querySelector: 'pre.mermaid'}}); }})
   .then(function () {{ document.documentElement.dataset.diagramas = 'listos'; }})
   .catch(function (e) {{ document.documentElement.dataset.diagramas = 'error'; console.error(e); }});
-</script>
-</body></html>"""
-
-
-VENDOR = "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"
+</script>"""
 
 MARCAS_PAGINA = dict(
     {"doc" + num(f): f"xqpagina{num(f)}" for f in documentos()},
