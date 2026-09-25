@@ -12,7 +12,8 @@ PUNTOS: clave -> (lat, lon, rotulo, clase). La clase manda en como se pinta:
     puerta  · puerta de parque con horario
     paso    · puerto de montana
     ciudad  · nucleo de referencia
-    combu   · gasolinera que el dossier marca como obligatoria
+    combu   · gasolinera obligatoria — NO se escribe aqui: la pone `GASOLINERAS` al final
+              del modulo, para que el mapa, el GPX y My Maps no puedan contradecir al `01`
 """
 
 PUNTOS = {
@@ -21,12 +22,12 @@ PUNTOS = {
     "aeropuerto":    (-22.48220, 17.47205, "Aeropuerto Hosea Kutako", "hito"),
     "rehoboth":      (-23.31510, 17.08170, "Rehoboth", "ciudad"),
     "okahandja":     (-21.97923, 16.91282, "Okahandja", "ciudad"),
-    "otjiwarongo":   (-20.46093, 16.65121, "Otjiwarongo", "combu"),
+    "otjiwarongo":   (-20.46093, 16.65121, "Otjiwarongo", "ciudad"),
     "tsumeb":        (-19.24672, 17.71622, "Tsumeb", "ciudad"),
 
     # --- el desierto ---
     "spreetshoogte": (-23.65792, 16.18549, "Paso de Spreetshoogte", "paso"),
-    "solitaire":     (-23.89429, 16.00553, "Solitaire", "combu"),
+    "solitaire":     (-23.89429, 16.00553, "Solitaire", "ciudad"),
     "sesriem":       (-24.48713, 15.79849, "Sesriem", "parada"),
     "duna45":        (-24.72952, 15.47192, "Duna 45", "hito"),
     "sossusvlei":    (-24.73953, 15.29236, "Sossusvlei", "hito"),
@@ -35,7 +36,7 @@ PUNTOS = {
     # --- la costa ---
     "walvisbay":     (-22.95576, 14.50711, "Walvis Bay", "parada"),
     "swakopmund":    (-22.67684, 14.52897, "Swakopmund", "ciudad"),
-    "hentiesbay":    (-22.11597, 14.28266, "Henties Bay", "combu"),
+    "hentiesbay":    (-22.11597, 14.28266, "Henties Bay", "ciudad"),
     "capecross":     (-21.77145, 13.95196, "Cape Cross", "hito"),
     "ugabmund":      (-21.17270, 13.66950, "Puerta de Ugabmund", "puerta"),
     "torrabay":      (-20.32287, 13.23804, "Torra Bay", "hito"),
@@ -51,10 +52,10 @@ PUNTOS = {
     "palmwag":       (-19.88436, 13.94799, "Palmwag", "hito"),
     "grootberg":     (-19.84295, 14.12820, "Paso de Grootberg", "paso"),
     "hoada":         (-19.73222, 14.30791, "Hoada", "parada"),
-    "kamanjab":      (-19.62841, 14.84336, "Kamanjab", "combu"),
+    "kamanjab":      (-19.62841, 14.84336, "Kamanjab", "ciudad"),
 
     # --- Etosha ---
-    "outjo":         (-20.11186, 16.15669, "Outjo", "combu"),
+    "outjo":         (-20.11186, 16.15669, "Outjo", "ciudad"),
     "andersson":     (-19.33130, 15.94010, "Puerta de Andersson", "puerta"),
     "galton":        (-19.31470, 14.48160, "Puerta de Galton", "puerta"),
     "okaukuejo":     (-19.18080, 15.91790, "Okaukuejo", "parada"),
@@ -138,53 +139,16 @@ ETAPAS = [
 # por la B1 y el D14 salia de alli.
 # Misma forma que ETAPAS para que `geodatos.ruta_alt()` y `mapa.mapa_ruta_alt()` la
 # traten igual — y para que el dia a dia del `aparte/decision-del-ccf` no se escriba a mano en ningun sitio.
-ETAPAS_ALT = [
-    {"id": "D1", "fecha": "31 oct", "bloque": "llegada",
-     "titulo": "Llegada, coche y compra en Windhoek", "duerme": "windhoek",
-     "por": ["aeropuerto", "windhoek"]},
-    {"id": "D2", "fecha": "1 nov", "bloque": "desierto",
-     "titulo": "Windhoek → paso de Spreetshoogte", "duerme": "spreetshoogte",
-     "por": ["windhoek", "rehoboth", "spreetshoogte"]},
-    {"id": "D3", "fecha": "2 nov", "bloque": "desierto",
-     "titulo": "Spreetshoogte → Solitaire → Sesriem", "duerme": "sesriem",
-     "por": ["spreetshoogte", "solitaire", "sesriem"]},
-    {"id": "D4", "fecha": "3 nov", "bloque": "desierto",
-     "titulo": "Sossusvlei, Deadvlei y Duna 45", "duerme": "sesriem",
-     "por": ["sesriem", "sossusvlei", "duna45", "sesriem"]},
-    {"id": "D5", "fecha": "4 nov", "bloque": "costa",
-     "titulo": "Sesriem → Walvis Bay", "duerme": "walvisbay",
-     "por": ["sesriem", "solitaire", "walvisbay"]},
-    {"id": "D6", "fecha": "5 nov", "bloque": "costa",
-     "titulo": "Walvis Bay: flamencos y descanso", "duerme": "walvisbay",
-     "por": []},
-    {"id": "D7", "fecha": "6 nov", "bloque": "costa",
-     "titulo": "Cape Cross → Terrace Bay", "duerme": "terracebay",
-     "por": ["walvisbay", "swakopmund", "hentiesbay", "capecross", "ugabmund", "terracebay"]},
-    {"id": "D8", "fecha": "7 nov", "bloque": "damaraland",
-     "titulo": "Skeleton Coast → Twyfelfontein", "duerme": "twyfelfontein",
-     "por": ["terracebay", "springbokwasser", "twyfelfontein"]},
-    {"id": "D9", "fecha": "8 nov", "bloque": "damaraland",
-     "titulo": "Twyfelfontein → Palmwag → Hoada", "duerme": "hoada",
-     "por": ["twyfelfontein", "palmwag", "grootberg", "hoada"]},
-    {"id": "D10", "fecha": "9 nov", "bloque": "etosha",
-     "titulo": "Hoada → Etosha (Okaukuejo)", "duerme": "okaukuejo",
-     "por": ["hoada", "kamanjab", "outjo", "andersson", "okaukuejo"]},
-    {"id": "D11", "fecha": "10 nov", "bloque": "etosha",
-     "titulo": "Safari Okaukuejo → Halali", "duerme": "halali",
-     "por": ["okaukuejo", "gemsbokvlakte", "salvadora", "halali"]},
-    {"id": "D12", "fecha": "11 nov", "bloque": "etosha",
-     "titulo": "Safari Halali → Namutoni → Onguma", "duerme": "onguma",
-     "por": ["halali", "goas", "chudob", "namutoni", "lindequist", "onguma"]},
+# Las doce primeras son las de ETAPAS, no una copia: hasta el 25/09 eran dos listas de
+# literales iguales y nada obligaba a que siguieran siendolo.
+ETAPAS_ALT = [dict(e) for e in ETAPAS[:12]] + [
     {"id": "D13", "fecha": "12 nov", "bloque": "vuelta",
      "titulo": "Onguma → Tsumeb → Otjiwarongo → CCF", "duerme": "ccf",
      "por": ["onguma", "tsumeb", "otjiwarongo", "ccf"]},
     {"id": "D14", "fecha": "13 nov", "bloque": "vuelta",
      "titulo": "Cheetah Run y bajada a Windhoek", "duerme": "windhoek",
      "por": ["ccf", "windhoek"]},
-    {"id": "D15", "fecha": "14 nov", "bloque": "vuelta",
-     "titulo": "Vuelo de vuelta", "duerme": None,
-     "por": ["windhoek", "aeropuerto"]},
-]
+] + [dict(ETAPAS[14])]
 
 # El firme de cada carretera, por su nombre. En Namibia la letra manda: B es asfalto, C y D
 # son grava — y luego estan las excepciones, que son justo las que el dossier ya tenia
@@ -214,6 +178,11 @@ FIRME = {
 
 # Carreteras que OSM nombra pero no numera. La de Sossusvlei es asfalto hasta el
 # aparcamiento 2WD (`06` §5, `01` §D4); los ultimos 5 km de arena no los enruta OSRM.
+# Las velocidades de planificacion del `13` §3, por firme: asfalto 100, grava 80, pista de
+# parque 60. De aqui las leen el mapa del dia de la agenda y la comprobacion de tiempos de
+# la variante, que hasta el 25/09 llevaban cada uno su copia.
+VELOCIDAD = {"asfalto": 100.0, "grava": 80.0, "parque": 60.0}
+
 FIRME_POR_NOMBRE = {"Sossusvlei Road": "asfalto", "Sesriem Road": "grava"}
 
 
@@ -279,3 +248,34 @@ COLOR_BLOQUE = {
     "etosha":     "#5F7043",
     "vuelta":     "#7D776E",
 }
+
+
+# La clase «combu» sale de aqui y de ningun otro sitio. Hasta el 25/09 PUNTOS la llevaba
+# escrita a mano y Otjiwarongo salia como obligatoria en el GPX, en My Maps y en el mapa
+# del dossier mientras el `01` y esta tabla la daban por opcional.
+_OBLIGATORIAS = {clave for clave, estado, _ in GASOLINERAS if estado == "obligatoria"}
+PUNTOS = {k: (v[0], v[1], v[2], "combu") if k in _OBLIGATORIAS and v[3] == "ciudad" else v
+          for k, v in PUNTOS.items()}
+
+
+# Puntos que la ruta visita de verdad pero que NO son ancla de enrutado: OSRM pasa por
+# ellos sin necesitar un punto de paso, asi que no aparecen en ningun `por`. Se situan a
+# mano contra el `01`, y es el unico sitio donde se dice a mano en que dia cae un punto.
+# Vivia en `mapas_google.py` y el GPX no lo veia: Deadvlei y Torra Bay salian sin dia.
+A_MANO = {"deadvlei":  ("D4", "duna45"),      # clave -> (dia, punto tras el que va)
+          "torrabay":  ("D7", "ugabmund")}   # la C34 pasa por el; cerrado y sin parada
+
+
+def dias_del_punto(clave, etapas=None):
+    """Los dias en que se pisa un punto —se pase, se duerma o este en `A_MANO`—, en orden."""
+    etapas = ETAPAS if etapas is None else etapas
+    dias = [e["id"] for e in etapas if clave in e.get("por", []) or e.get("duerme") == clave]
+    if clave in A_MANO and A_MANO[clave][0] not in dias:
+        dias.append(A_MANO[clave][0])
+    return sorted(dias, key=lambda d: int(d[1:]))
+
+
+def color_kml(hexrgb):
+    """KML pide el color al reves y con alfa delante: #RRGGBB -> ffBBGGRR."""
+    r, g, b = hexrgb[1:3], hexrgb[3:5], hexrgb[5:7]
+    return f"ff{b}{g}{r}".lower()

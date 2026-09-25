@@ -12,6 +12,7 @@ quedaban contando la ruta de antes sin que nada avisara. Aqui se generan:
     python3 fuente/mapas_google.py
 """
 import csv
+import io
 import json
 import os
 
@@ -30,13 +31,6 @@ CATEGORIA = {
     "combu":  "Gasolinera obligatoria",
 }
 
-# Puntos que la ruta visita de verdad pero que NO son ancla de enrutado: OSRM pasa por
-# ellos sin necesitar un punto de paso, asi que no aparecen en ningun `por`. Se situan a
-# mano contra el `01`, y va aqui —y no en el CSV— para que quede dicho de donde sale.
-A_MANO = {"deadvlei":  ("D4", "duna45"),      # clave -> (dia, punto tras el que va)
-          "torrabay":  ("D7", "ugabmund")}   # la C34 pasa por el; cerrado y sin parada
-
-
 def _dias():
     """Para cada punto: en que dias se pasa por el y en cuales se duerme alli."""
     pasa, duerme, orden = {}, {}, []
@@ -51,58 +45,42 @@ def _dias():
             duerme.setdefault(d, []).append(etapa["id"])
             if d not in pasa:
                 pasa[d], _ = [], orden.append(d)
-    for clave, (dia, tras) in A_MANO.items():
+    for clave, (dia, tras) in trazado.A_MANO.items():
         pasa[clave] = [dia]
         orden.insert(orden.index(tras) + 1, clave)
     return pasa, duerme, orden
 
 
+def _csv(filas):
+    f = io.StringIO()
+    csv.writer(f).writerows(filas)
+    return f.getvalue()
+
+
 def paradas():
+    """Los dos CSV: las paradas con su dia, y los puntos que ningun dia situa."""
     pasa, duerme, orden = _dias()
-    oficiales = trazado.puntos_oficiales()
     con, sin = [], []
-    for clave, (lat, lon, rotulo, clase) in oficiales.items():
+    for clave, (lat, lon, rotulo, clase) in trazado.puntos_oficiales().items():
         fila = [rotulo, CATEGORIA[clase], lat, lon]
         if clave in pasa:
             con.append((orden.index(clave), fila + [", ".join(pasa[clave]),
                                                     ", ".join(duerme.get(clave, []))]))
         else:
             sin.append(fila)
-
-    ruta = os.path.join(APARTE, "namibia-paradas-google-maps.csv")
-    with open(ruta, "w", newline="") as f:
-        w = csv.writer(f)
-        w.writerow(["Nombre", "Categoría", "Latitud", "Longitud",
-                    "Días de la ruta", "Noche aquí"])
-        for _, fila in sorted(con):
-            w.writerow(fila)
-    print(f"   -> aparte/namibia-paradas-google-maps.csv ({len(con)} paradas)")
-
-    ruta = os.path.join(APARTE, "namibia-puntos-sin-dia-confirmado.csv")
-    with open(ruta, "w", newline="") as f:
-        w = csv.writer(f)
-        w.writerow(["Nombre", "Categoría", "Latitud", "Longitud"])
-        w.writerows(sin)
-    print(f"   -> aparte/namibia-puntos-sin-dia-confirmado.csv ({len(sin)} puntos)")
-    return len(con), len(sin)
-
-
-def _abgr(hexrgb):
-    """KML pide el color al reves y con alfa delante: #RRGGBB -> ffBBGGRR."""
-    r, g, b = hexrgb[1:3], hexrgb[3:5], hexrgb[5:7]
-    return f"ff{b}{g}{r}".lower()
+    cabeza = ["Nombre", "Categoría", "Latitud", "Longitud"]
+    return (_csv([cabeza + ["Días de la ruta", "Noche aquí"]] + [f for _, f in sorted(con)]),
+            _csv([cabeza] + sin))
 
 
 def trazado_kml():
-    ruta_json = os.path.join(HERE, "geo", "ruta.json")
-    etapas = json.load(open(ruta_json))
+    etapas = json.load(open(os.path.join(HERE, "geo", "ruta.json")))
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
            '<kml xmlns="http://www.opengis.net/kml/2.2">', "<Document>",
            "  <name>Namibia 2026 — trazado real por carretera</name>"]
     for bloque, color in trazado.COLOR_BLOQUE.items():
         out.append(f'  <Style id="bloque-{bloque}"><LineStyle>'
-                   f"<color>{_abgr(color)}</color><width>5</width></LineStyle></Style>")
-    tramos = 0
+                   f"<color>{trazado.color_kml(color)}</color><width>5</width></LineStyle></Style>")
     for e in etapas:
         if not e.get("geometria"):
             continue
@@ -116,19 +94,27 @@ def trazado_kml():
                 "    <LineString>", "      <tessellate>1</tessellate>",
                 f"      <coordinates>{coords}</coordinates>",
                 "    </LineString>", "  </Placemark>"]
-        tramos += 1
     out += ["</Document>", "</kml>", ""]
-    dest = os.path.join(APARTE, "namibia-trazado-carreteras.kml")
-    open(dest, "w").write("\n".join(out))
-    print(f"   -> aparte/namibia-trazado-carreteras.kml ({tramos} tramos, "
-          f"{os.path.getsize(dest) // 1024} KB)")
-    return tramos
+    return "\n".join(out)
+
+
+PARADAS = os.path.join(APARTE, "namibia-paradas-google-maps.csv")
+SIN_DIA = os.path.join(APARTE, "namibia-puntos-sin-dia-confirmado.csv")
+KML = os.path.join(APARTE, "namibia-trazado-carreteras.kml")
+
+
+def textos():
+    """Fichero -> contenido. `comprobar.revisa_derivados` los compara con lo que hay en disco."""
+    con, sin = paradas()
+    return {PARADAS: con, SIN_DIA: sin, KML: trazado_kml()}
 
 
 def main():
     print("Google My Maps · paradas y trazado, desde trazado.ETAPAS y geo/ruta.json")
-    paradas()
-    trazado_kml()
+    for ruta, texto in textos().items():
+        with open(ruta, "w", newline="") as f:
+            f.write(texto)
+        print(f"   -> {os.path.relpath(ruta, RAIZ)} ({len(texto.splitlines()) - 1} filas)")
     return 0
 
 

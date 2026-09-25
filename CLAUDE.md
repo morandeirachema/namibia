@@ -86,9 +86,10 @@ sus `### Dn` —el `10` tiene una sección por día, las quince, con el mismo en
 y se queda **solo con las viñetas**: cada viñeta es una joya con dónde cae, qué cuesta y cuánto
 desvío añade. Los párrafos sueltos y las líneas «Fuentes:» del `10` son del dossier y no pasan.
 Por eso en el `10` las viñetas son cortas y los porqués van en párrafo aparte. **El mapa cede
-altura al bloque**: 800 px de alto para un día de dos joyas, 700 para uno de cuatro y 600 para el
-D7, que lleva nueve (`agenda.alto_mapa`); si no, la lista saltaba entera a una tercera página, que es
-lo que pasó la primera vez con el D5, el D7, el D8 y el D14.
+altura al bloque** según lo largo que sea: 800 px de alto hasta 1.100 caracteres de opcionales,
+700 hasta 1.700 y 600 por encima —el D7, con nueve joyas— (`agenda.alto_mapa`); si no, la lista
+saltaba entera a una tercera página, que es lo que pasó la primera vez con el D5, el D7, el D8 y
+el D14.
 
 **Los puntos de interés del mapa** —dónde comer, qué ver de paso, compras— son los que el `08` y el
 `10` ya nombran; `geodatos.py interes` les pone coordenada **con Nominatim, nunca a ojo**, y los
@@ -136,15 +137,15 @@ lado del otro, y si el recorte no coincide la comparación miente.
 ⚠️ **La variante ya no es otra ruta: es UN cambio, el del final.** Hasta el 24/08 proponía además
 Spreetshoogte con una noche y la suelta en Damaraland — **eso se adoptó y es la ruta oficial**. Lo
 que queda en `ETAPAS_ALT` es idéntico a `ETAPAS` hasta el D12 y solo cambia el D13 y el D14: en vez
-de la segunda noche de Onguma, se baja al CCF. Por eso las dos listas comparten sus primeras doce
-etapas — si se toca una, hay que tocar la otra.
+de la segunda noche de Onguma, se baja al CCF. **Desde el 25/09 `ETAPAS_ALT` se construye con
+`ETAPAS[:12]`** más sus dos días propios y el D15: antes eran dos listas de literales iguales y
+nada obligaba a que lo siguieran siendo.
 
 Tres cosas que no se ven:
 
-- **El mapa entra DENTRO del documento**, no en las páginas de mapas del principio. En el markdown
-  va como `<img>` —para que GitHub lo pinte— y `dossier.MAPAS_EN_DOC` lo cambia por el **SVG en
-  línea** al montar el PDF, que sale vectorial y no depende de que el PNG esté generado. La clase
-  `.mapa-doc` cruza las dos columnas: a 89 mm la leyenda es ilegible.
+- **El mapa va DENTRO del documento**, como `<img>` de `img/mapas/ruta-alternativa.png`. Mientras
+  el documento estuvo en el PDF, `dossier.MAPAS_EN_DOC` lo cambiaba por el SVG en línea; desde
+  que se fue a `aparte/` ya no pasa por ahí *(hoy `MAPAS_EN_DOC` solo lleva el de zonas del `09`)*.
 - **Los puntos de la variante no van al GPS.** `ccf` vive en la misma tabla `PUNTOS` —para que el
   mapa lo rotule con el mismo código— pero `trazado.SOLO_VARIANTE` lo saca del GPX y del KML: esos
   son de la ruta que se va a conducir, y un waypoint del CCF en el GPS es una invitación a salir de
@@ -159,8 +160,15 @@ Los tres ficheros de `aparte/` que se suben a My Maps —`namibia-paradas-google
 fuente**: los escribe `mapas_google.py` (`make mymaps`) desde `trazado.ETAPAS` y `geo/ruta.json`.
 Se mantenían a mano hasta el 24/08 y al mover una noche se quedaban contando la ruta de antes sin
 que nada avisara. Los puntos que la ruta pisa pero que **no son ancla de enrutado OSRM** —hoy
-Deadvlei y Torra Bay— no aparecen en ningún `por`, así que llevan su día escrito en la tabla
-`A_MANO` del propio script; es el único sitio donde se dice a mano en qué día cae un punto.
+Deadvlei y Torra Bay— no aparecen en ningún `por`, así que llevan su día escrito en
+`trazado.A_MANO`; es el único sitio donde se dice a mano en qué día cae un punto. *(Hasta el 25/09
+vivía en `mapas_google.py` y el GPX no lo veía: los dos waypoints salían sin día.)*
+
+**La clase «gasolinera obligatoria» (`combu`) no se escribe en `PUNTOS`**: la pone
+`trazado.GASOLINERAS` al final del módulo, y `make comprueba` exige que las obligatorias de esa
+tabla sean las del diagrama del `01` §gasolineras. Hasta el 25/09 iba a mano en `PUNTOS` y
+Otjiwarongo salía como obligatoria en el GPX, en My Maps y en el mapa del dossier mientras el `01`
+y la lámina la daban por opcional.
 
 ## La guía de fauna es SOLO de los sitios a los que se va
 
@@ -294,19 +302,34 @@ que grita sin motivo se acaba ignorando.
 
 Y cuatro más que estaban sin escribir aquí: que **el día a día del `01` cuadre con OSRM**
 *(`revisa_dia_a_dia`: cada `### Dn` con kilómetros contra `geo/ruta.json` — la gemela de la de la
-variante)*; que **el GPX y el KML lleven la misma ruta** que `ruta.json` **y que el README cuente sus puntos y
-sus pistas bien** *(decía «las 13 etapas» con 14 dentro desde que el día de llegada pasó a ser el D1:
-los PDF tenían su comprobación de páginas y esto no)*; que **la cuenta atrás del
+variante; desde el 25/09 exige además que titulen km todos los días que se conducen, para que un
+cambio de formato no la deje en «0 con kilómetros» y en verde)*; que **la cuenta atrás del
 README cuadre con la fecha que él mismo declara, y que esa fecha sea la que imprimen los tres PDF**
 —vive en `fuente/fecha.py` y de ahí la leen `dossier.py`, `agenda.py` y `lamina.py`, porque el
 26/08 cada uno llevaba la suya y salieron con tres fechas—; que **el `01` conserve los dos
-encabezados entre los que `agenda.py` recorta el día a día**; y que **los 22 documentos tengan
-título**.
+encabezados entre los que `agenda.py` recorta el día a día, y el `10` sus quince `### Dn ·`**; y que
+**los 22 documentos tengan título**.
+
+**Los derivados se comparan byte a byte, desde el 25/09** (`revisa_derivados`): el GPX y el KML
+del GPS, los tres de My Maps y el estudio de charcas. Cada generador —`gps.textos()`,
+`mapas_google.textos()`, `estudio_charcas.textos()`— devuelve su texto sin escribir nada, y lo que
+no coincida con el disco es un derivado sin regenerar. Antes solo se contaban pistas y puntos del
+GPX, y un punto con la clase o el día cambiados pasaba. Sigue exigiendo que **el README cuente
+bien los puntos y las pistas del GPX**. Y `revisa_geo` coteja campo a campo los metadatos que
+`ruta.json` y `ruta-alt.json` guardan de cada etapa con `trazado.py`.
+
+**Las fechas del viaje** *(«30 de octubre – 15 de noviembre de 2026», de puerta a puerta)* viven
+en `fecha.VIAJE` y de ahí las leen las cuatro portadas y el estudio de charcas; la portada del
+dossier saca además los km de `ruta.json` y el total por persona del titular del README. `make
+comprueba` exige que la cabecera del README diga lo mismo, y **avisa sin fallar** si el README
+lleva más de 14 días sin actualizarse o si hay commits de documentos posteriores a su fecha:
+comparar con hoy en rojo pondría el CI rojo cada día sin que nadie haya roto nada.
 
 Y **que el sol y la luna del `01` salgan del cálculo y no de la memoria** *(desde el 28/08)*: los
 quince amaneceres, los quince ocasos y la fracción iluminada de cada noche se recalculan en
 `fuente/astro.py` —**algoritmo solar de la NOAA** con cenit 90,833° y **series de Meeus** para la
-fase, sin red ni dependencias— y `revisa_sol_y_luna` los cotea línea a línea contra el markdown,
+fase, sin red ni dependencias— y `revisa_sol_y_luna` los cotea línea a línea contra el markdown
+*(la luna, desde el 25/09, también en el arco del bloque «### 🌙», que da nueve noches y no se miraba)*,
 sacando el sitio del propio texto *(«amanecer **06:18** (Cape Cross)»)* y, cuando no lo nombra, de
 donde se duerme esa noche. Tolerancia de 4 minutos y de 2 puntos de luna. **Si el formato cambia y
 el patrón deja de encontrar horas, falla en vez de callar.** *(Las horas ya estaban bien —las

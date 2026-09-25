@@ -31,9 +31,9 @@
   </wpt>
   <wpt lat="-20.46093" lon="16.65121">
     <name>Otjiwarongo</name>
-    <desc>gasolinera de las obligatorias · D14</desc>
-    <sym>Gas Station</sym>
-    <type>combu</type>
+    <desc>nucleo de referencia · D14</desc>
+    <sym>City (Medium)</sym>
+    <type>ciudad</type>
   </wpt>
   <wpt lat="-19.24672" lon="17.71622">
     <name>Tsumeb</name>
@@ -73,7 +73,7 @@
   </wpt>
   <wpt lat="-24.76299" lon="15.2944">
     <name>Deadvlei</name>
-    <desc>lo que se visita</desc>
+    <desc>lo que se visita · D4</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>
@@ -109,7 +109,7 @@
   </wpt>
   <wpt lat="-20.32287" lon="13.23804">
     <name>Torra Bay</name>
-    <desc>lo que se visita</desc>
+    <desc>lo que se visita · D7</desc>
     <sym>Flag, Blue</sym>
     <type>hito</type>
   </wpt>

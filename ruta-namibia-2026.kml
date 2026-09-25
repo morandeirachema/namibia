@@ -128,7 +128,7 @@
     </Placemark>
     <Placemark>
       <name>Otjiwarongo</name>
-      <description>gasolinera de las obligatorias · D14</description>
+      <description>nucleo de referencia · D14</description>
       <Point><coordinates>16.65121,-20.46093,0</coordinates></Point>
     </Placemark>
     <Placemark>
@@ -163,7 +163,7 @@
     </Placemark>
     <Placemark>
       <name>Deadvlei</name>
-      <description>lo que se visita</description>
+      <description>lo que se visita · D4</description>
       <Point><coordinates>15.2944,-24.76299,0</coordinates></Point>
     </Placemark>
     <Placemark>
@@ -193,7 +193,7 @@
     </Placemark>
     <Placemark>
       <name>Torra Bay</name>
-      <description>lo que se visita</description>
+      <description>lo que se visita · D7</description>
       <Point><coordinates>13.23804,-20.32287,0</coordinates></Point>
     </Placemark>
     <Placemark>

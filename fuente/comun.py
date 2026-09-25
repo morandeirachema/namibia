@@ -73,7 +73,7 @@ RE_EMOJI = re.compile(
     "\u2B00-\u2BFF\u2100-\u214F\u2600-\u26FF\uFE0F\u20E3"
     "\U0001F1E6-\U0001F1FF]\uFE0F?\u20E3?")
 
-_CONSERVAR = {"→", "←", "↔", "—", "–", "·", "±", "≈", "×", "→"}
+_CONSERVAR = {"→", "←", "↔"}   # flechas: caen en el rango de RE_EMOJI y son texto
 
 
 _UNIDADES = ["cero", "una", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve",

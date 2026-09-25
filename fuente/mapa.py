@@ -216,6 +216,9 @@ def tropico(L, lat=-23.4362):
             f'fill="{C["tinta3"]}" font-style="italic">trópico de Capricornio</text></g>')
 
 
+# color segun la clase del punto; la leyenda del mapa del dia usa el mismo
+COLOR_CLASE = {"parada": C["oxido"], "puerta": C["rojo"], "paso": C["oro"], "combu": C["verde"]}
+
 ICONO = {          # radio y forma segun la clase del punto
     "parada": 5.2, "puerta": 4.0, "hito": 3.4, "paso": 3.8, "ciudad": 3.6, "combu": 3.6,
 }
@@ -227,8 +230,7 @@ def punto(L, clave, texto=None, dx=7, dy=2.6, anclaje="start", tam=8.4, clase=No
     cl = clase or cl
     x, y = L.xy(lat, lon)
     r = ICONO.get(cl, 3.4)
-    col = color or {"parada": C["oxido"], "puerta": C["rojo"], "paso": C["oro"],
-                    "combu": C["verde"]}.get(cl, C["tinta"])
+    col = color or COLOR_CLASE.get(cl, C["tinta"])
     g = []
     if cl == "parada":
         g.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r + 2.4}" fill="{C["papel"]}" opacity=".9"/>')
@@ -282,7 +284,8 @@ COLOR_FIRME = {"asfalto": "#3A3632", "grava": "#C2542F", "sal": "#8A6210",
                "parque": "#5F7043", "urbano": "#3A3632"}
 NOMBRE_FIRME = {"asfalto": "asfalto", "grava": "grava", "sal": "sal compactada",
                 "parque": "pista de parque"}
-VEL = {"asfalto": 100.0, "urbano": 100.0, "grava": 80.0, "sal": 80.0, "parque": 60.0}
+# la sal compactada se conduce como grava y lo urbano cuenta como asfalto
+VEL = dict(trazado.VELOCIDAD, urbano=trazado.VELOCIDAD["asfalto"], sal=trazado.VELOCIDAD["grava"])
 
 
 def _tramos(dia):
@@ -346,9 +349,7 @@ def mapa_dia(dia, ancho=1000, alto=None):
     L = Lienzo(sur=clat - dlat * (0.5 + holg), oeste=clon - dlon * (0.5 + holg),
                norte=clat + dlat * (0.5 + holg), este=clon + dlon * (0.5 + holg),
                ancho=ancho)
-    cuerpo = [capa_paises(L)]
-    cuerpo.append(capa_parques(L, ["Namib-Naukluft", "Skeleton Coast", "Dorob", "Etosha"]))
-    cuerpo.append(capa_pan(L))
+    cuerpo = _fondo(L)
     cuerpo.append(tropico(L))
     # el resto de la ruta, de gris fino
     for e in carga("ruta.json"):
@@ -442,8 +443,7 @@ def leyenda_dia(L, firmes, clases_interes, clases_punto):
                        f'fill="{col}" stroke="{C["papel"]}" stroke-width="1.2"/>')
         else:
             r = ICONO[tipo]
-            colp = {"parada": C["oxido"], "puerta": C["rojo"], "paso": C["oro"],
-                    "combu": C["verde"]}.get(tipo, C["tinta"])
+            colp = COLOR_CLASE.get(tipo, C["tinta"])
             cx = x0 + 13
             if tipo == "parada":
                 out.append(f'<circle cx="{cx}" cy="{y}" r="{r}" fill="{colp}" stroke="{C["papel"]}" stroke-width="1.6"/>'
@@ -647,20 +647,22 @@ def mapa_ruta_alt(ancho=1000):
                       BLOQUES_LEYENDA_ALT, ROTULOS_ALT)
 
 
-def _mapa_ruta(ancho, fichero, en_mapa, textos, bloques, mueve=None):
-    # El encuadre esta elegido para que el mapa quepa a ancho de caja en una pagina
-    # A4 junto con el titular y el pie: proporcion alto/ancho ~1,25.
-    L = Lienzo(sur=-25.05, oeste=12.62, norte=-18.32, este=18.42, ancho=ancho, margen=0)
-    km = _kms(fichero)
-    total = sum(v for v in km.values() if v)
+# El recorte de los mapas de pais: la ruta, su variante y la lamina van con el MISMO para
+# que se puedan comparar uno al lado del otro.
+ENCUADRE_PAIS = dict(sur=-25.05, oeste=12.62, norte=-18.32, este=18.42)
 
-    cuerpo = [capa_paises(L)]
-    cuerpo.append(capa_parques(L, ["Namib-Naukluft", "Skeleton Coast", "Dorob", "Etosha"]))
-    cuerpo.append(capa_pan(L))
-    cuerpo.append(tropico(L))
-    cuerpo.append(capa_ruta(L, ancho=3.6, fichero=fichero))
 
-    # rotulos de los paises vecinos, en gris y en versalita
+def _fondo(L):
+    """Lo que va debajo de todo mapa: paises, los cuatro parques de la ruta y el salar."""
+    return [capa_paises(L),
+            capa_parques(L, ["Namib-Naukluft", "Skeleton Coast", "Dorob", "Etosha"]),
+            capa_pan(L)]
+
+
+def _rotulos_pais(L):
+    """Los rotulos de un mapa de pais: vecinos en versalita, el oceano, los parques y la
+    depresion de Etosha. Los compartian a mano el mapa de ruta y el de la lamina."""
+    cuerpo = []
     for nom, lat, lon in [("ANGOLA", -17.15, 15.6), ("BOTSUANA", -20.4, 21.6),
                           ("SUDÁFRICA", -25.15, 19.6), ("ZAMBIA", -17.35, 24.2)]:
         x, y = L.xy(lat, lon)
@@ -671,8 +673,6 @@ def _mapa_ruta(ancho, fichero, en_mapa, textos, bloques, mueve=None):
     cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="12" fill="{C["mar2"]}" '
                   f'letter-spacing="3" font-style="italic" font-weight="600" '
                   f'transform="rotate(-90 {x:.0f} {y:.0f})">OCÉANO ATLÁNTICO</text>')
-
-    # nombres de los parques
     for texto, lat, lon, rot in [("Parque Nacional de Etosha", -19.44, 16.55, 0),
                                  ("Namib-Naukluft", -24.15, 15.05, -62),
                                  ("Costa de los Esqueletos", -20.75, 13.15, -68)]:
@@ -683,6 +683,21 @@ def _mapa_ruta(ancho, fichero, en_mapa, textos, bloques, mueve=None):
     x, y = L.xy(-18.83, 16.32)
     cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="8" fill="{C["tinta3"]}" '
                   f'font-style="italic" text-anchor="middle">depresión de Etosha</text>')
+    return "".join(cuerpo)
+
+
+def _mapa_ruta(ancho, fichero, en_mapa, textos, bloques, mueve=None):
+    # El encuadre esta elegido para que el mapa quepa a ancho de caja en una pagina
+    # A4 junto con el titular y el pie: proporcion alto/ancho ~1,25.
+    L = Lienzo(**ENCUADRE_PAIS, ancho=ancho, margen=0)
+    km = _kms(fichero)
+    total = sum(v for v in km.values() if v)
+
+    cuerpo = _fondo(L)
+    cuerpo.append(tropico(L))
+    cuerpo.append(capa_ruta(L, ancho=3.6, fichero=fichero))
+
+    cuerpo.append(_rotulos_pais(L))
 
     sitios = dict(ROTULOS_RUTA, **(mueve or {}))
     for clave in en_mapa:
@@ -1057,37 +1072,16 @@ def leyenda_lamina(L, total, lx=40, fondo=None):
 def mapa_lamina(ancho=1100):
     """El mapa de la lamina A2: la ruta oficial por firme, con carreteras, distancias y
     gasolineras. Mismo encuadre que `mapa_ruta`."""
-    L = Lienzo(sur=-25.05, oeste=12.62, norte=-18.32, este=18.42, ancho=ancho, margen=0)
+    L = Lienzo(**ENCUADRE_PAIS, ancho=ancho, margen=0)
     km = _kms("ruta.json")
     total = sum(v for v in km.values() if v)
 
-    cuerpo = [capa_paises(L)]
-    cuerpo.append(capa_parques(L, ["Namib-Naukluft", "Skeleton Coast", "Dorob", "Etosha"]))
-    cuerpo.append(capa_pan(L))
+    cuerpo = _fondo(L)
     cuerpo.append(tropico(L))
     cuerpo.append(capa_ruta_firme(L, ancho=3.8))
     cuerpo.append(capa_arena(L, ancho=3.8))
 
-    for nom, lat, lon in [("ANGOLA", -17.15, 15.6), ("BOTSUANA", -20.4, 21.6),
-                          ("SUDÁFRICA", -25.15, 19.6), ("ZAMBIA", -17.35, 24.2)]:
-        x, y = L.xy(lat, lon)
-        if 0 < x < L.ancho and 0 < y < L.alto:
-            cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="11" fill="{C["tinta3"]}" '
-                          f'letter-spacing="2.2" font-weight="600" opacity=".8">{nom}</text>')
-    x, y = L.xy(-22.4, 13.05)
-    cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="12" fill="{C["mar2"]}" '
-                  f'letter-spacing="3" font-style="italic" font-weight="600" '
-                  f'transform="rotate(-90 {x:.0f} {y:.0f})">OCÉANO ATLÁNTICO</text>')
-    for texto, lat, lon, rot in [("Parque Nacional de Etosha", -19.44, 16.55, 0),
-                                 ("Namib-Naukluft", -24.15, 15.05, -62),
-                                 ("Costa de los Esqueletos", -20.75, 13.15, -68)]:
-        x, y = L.xy(lat, lon)
-        cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="8.6" fill="{C["parqueb"]}" '
-                      f'font-weight="700" letter-spacing=".6" text-anchor="middle" '
-                      f'transform="rotate({rot} {x:.0f} {y:.0f})">{esc(texto)}</text>')
-    x, y = L.xy(-18.83, 16.32)
-    cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="8" fill="{C["tinta3"]}" '
-                  f'font-style="italic" text-anchor="middle">depresión de Etosha</text>')
+    cuerpo.append(_rotulos_pais(L))
 
     cuerpo.append(rotulos_carreteras(L))
     cuerpo.append(rotulos_distancias(L))
@@ -1349,9 +1343,7 @@ def mapa_zonas(ancho=1100):
     cuenta = _fichas_por_zona()
     zonas = avistamientos.datos().get("zonas", {})
 
-    cuerpo = [capa_paises(L)]
-    cuerpo.append(capa_parques(L, ["Namib-Naukluft", "Skeleton Coast", "Dorob", "Etosha"]))
-    cuerpo.append(capa_pan(L))
+    cuerpo = _fondo(L)
 
     etiquetas = []
     for clave, nombre, cuando, color in ZONAS_FAUNA:

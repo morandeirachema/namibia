@@ -10,8 +10,8 @@ Es decir: si se cambia una noche, el GPX cambia solo. Nada escrito a mano.
 Se generan dos ficheros porque no los come el mismo sitio:
 
   · **GPX** — el formato de los GPS de verdad (Garmin) y de casi toda app de navegacion
-    offline (OsmAnd, Locus, Organic Maps, Gaia). Lleva los 40 puntos como *waypoints*,
-    con simbolo segun lo que sean, y las 15 etapas como *tracks* separados, para poder
+    offline (OsmAnd, Locus, Organic Maps, Gaia). Lleva los puntos de la ruta como
+    *waypoints*, con simbolo segun lo que sean, y cada etapa con trazado como *track* aparte, para poder
     encender y apagar los dias uno a uno.
   · **KML** — el que importa Google My Maps y Google Earth, con las etapas ya coloreadas
     por bloque de viaje (desierto, costa, Damaraland, Etosha), como en el mapa del PDF.
@@ -57,11 +57,10 @@ def etapas():
 
 def donde_sale(clave, tramos):
     """Los dias en que se pisa un punto, para que el waypoint diga a que etapa es."""
-    dias = [e["id"] for e in tramos if clave in e.get("por", []) or e.get("duerme") == clave]
-    return ", ".join(dias)
+    return ", ".join(trazado.dias_del_punto(clave, tramos))
 
 
-def escribe_gpx(tramos):
+def texto_gpx(tramos):
     p = ['<?xml version="1.0" encoding="UTF-8"?>',
          '<gpx version="1.1" creator="Namibia 2026 · fuente/gps.py"',
          '     xmlns="http://www.topografix.com/GPX/1/1">',
@@ -95,24 +94,17 @@ def escribe_gpx(tramos):
         p += ['    </trkseg>', '  </trk>']
 
     p.append('</gpx>')
-    open(GPX, "w").write("\n".join(p) + "\n")
-    return len(trazado.puntos_oficiales()), sum(1 for e in tramos if e.get("geometria"))
+    return "\n".join(p) + "\n"
 
 
-def _kml_color(hexa):
-    """#RRGGBB -> aabbggrr, que es como KML pide el color (y al reves)."""
-    r, g, b = hexa[1:3], hexa[3:5], hexa[5:7]
-    return f"ff{b}{g}{r}".lower()
-
-
-def escribe_kml(tramos):
+def texto_kml(tramos):
     p = ['<?xml version="1.0" encoding="UTF-8"?>',
          '<kml xmlns="http://www.opengis.net/kml/2.2"><Document>',
          '  <name>Namibia 2026 · la clasica del norte</name>']
 
     for bloque, color in trazado.COLOR_BLOQUE.items():
         p += [f'  <Style id="{bloque}"><LineStyle>',
-              f'    <color>{_kml_color(color)}</color><width>4</width>',
+              f'    <color>{trazado.color_kml(color)}</color><width>4</width>',
               '  </LineStyle></Style>']
 
     p.append('  <Folder><name>Etapas</name>')
@@ -141,16 +133,22 @@ def escribe_kml(tramos):
     p.append('  </Folder>')
 
     p.append('</Document></kml>')
-    open(KML, "w").write("\n".join(p) + "\n")
+    return "\n".join(p) + "\n"
+
+
+def textos():
+    """Fichero -> contenido. `comprobar.revisa_derivados` los compara con lo que hay en disco."""
+    tramos = etapas()
+    return {GPX: texto_gpx(tramos), KML: texto_kml(tramos)}
 
 
 def main():
     tramos = etapas()
-    puntos, pistas = escribe_gpx(tramos)
-    escribe_kml(tramos)
-    for f in (GPX, KML):
+    for f, texto in textos().items():
+        open(f, "w").write(texto)
         print(f"{os.path.basename(f)} · {os.path.getsize(f) / 1024:.0f} KB")
-    print(f"  {puntos} puntos · {pistas} etapas con trazado · "
+    print(f"  {len(trazado.puntos_oficiales())} puntos · "
+          f"{sum(1 for e in tramos if e.get('geometria'))} etapas con trazado · "
           f"{sum(e['km'] or 0 for e in tramos):.0f} km")
 
 
