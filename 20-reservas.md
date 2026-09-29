@@ -9,7 +9,7 @@
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Levantado el 09/08/2026; revisado el 25/09/2026 con los plazos de octubre (§9). Desde el 24/08
+> *Levantado el 09/08/2026; revisado el 25/09/2026 con los plazos de octubre (§9) y puesto al 29/09. Desde el 24/08
 > —lo último que consta anotado de reservas—, el **vuelo está EMITIDO (€1.536 p.p.)**, el **coche
 > RESERVADO con Savanna (€2.363 en total)** y **ocho de las catorce noches RESERVADAS** — Windhoek
 > Urban Camp, Spreetshoogte, Sesriem ×2, Okaukuejo, Halali y **Onguma Tamboti ×2** (§4 y §5).
@@ -312,7 +312,7 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   octubre**. Lo no pagado **se cancela**.
 > - **Escala de cancelación** ✅: **más de 30 días, sin penalización** *(pero el depósito se pierde
 >   igual)* · **29–15 días, 30 %** · **14–7 días, 75 %** · **6–0 días y no-show, 100 %**.
-> - 👉 **Lo que esto significa a finales de septiembre** *(el calendario entero, en §9)*: **Sesriem ya
+> - 👉 **Lo que esto significa a 29 de septiembre** *(el calendario entero, en §9)*: **Sesriem ya
 >   está reservado**, así que su 20 % ya está comprometido y **su pago íntegro vence hacia el 3 de
 >   octubre** — apúntalo en el calendario. La misma regla pone **Okaukuejo hacia el 10 y Halali
 >   hacia el 11 de octubre** ○ *(aplicación de la regla; si NWR las lleva como una sola reserva, las
@@ -468,12 +468,13 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
   parece oficial y **no lo es**; y un aviso de certificado en el portal real es mala configuración
   suya: **verifica el dominio y sigue** *(`04`)*.
 - **La cita del Centro de Vacunación Internacional — tocaba pedirla en agosto, y su ventana se
-  cierra ya**: Sanidad Exterior A Coruña, **Durán Lóriga 3, 5ª planta · 981 989 570 / 71 ·
+  cerró el 26/09**: Sanidad Exterior A Coruña, **Durán Lóriga 3, 5ª planta · 981 989 570 / 71 ·
   09:00–14:00** ✅. Para salir el 30/10, atendidos hacia el **19–26 de septiembre** — *la cita es el
-  recurso escaso, no la vacuna*. Si no está pedida, **es urgente**: llamar ya *(`04`)*.
+  recurso escaso, no la vacuna*. No consta pedida: **es urgente**, y la llamada está apuntada para el **30/09** *(`04`)*.
 - **El permiso internacional de conducir (DGT)** — cita previa en cualquier Jefatura o
   [sede electrónica](https://sede.dgt.gob.es/es/permisos-de-conducir/permiso-internacional/) ◐:
-  **€10,51 (~N$210)**, vale 1 año, siempre junto al carnet *(`04`)*.
+  **€10,51 (~N$210)**, uno por conductor, vale 1 año, siempre junto al carnet *(`04`)*. Apuntado
+  para pedirlo por la sede el **30/09**.
 - **El viaje a Oporto — decidido (09/08): se va y se vuelve en coche propio** *(~290 km)*. Queda
   **cotizar para las fechas y reservar el aparcamiento de larga estancia** del aeropuerto Sá
   Carneiro *(17 días, 30 oct – 15 nov)* y los **peajes** ❌. Orden de magnitud, ganchos «desde» ◐
@@ -572,7 +573,7 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] **Y en la misma hoja**: zona sunrise/sunset como zona cubierta de la Opción 4,
   teléfono de emergencias 24h, con cuánto tanque lo entregan, y que Miguel figure como conductor
   adicional *(**N$30/día · ~€1,50**, publicado en su web — ~N$450 el viaje; ya no es una incógnita)*
-- [ ] 🛑 **Cita del CVI pedida** *(§6 — la ventana para ser atendidos, 19–26/09, se cierra ya: urgente)*
+- [ ] 🛑 **Cita del CVI pedida** *(§6 — la ventana para ser atendidos, 19–26/09, se cerró: urgente; la llamada, el 30/09)*
 - [x] **Seguro contratado desde el 30/10** — IATI **Estrella**, con el código de Chavetas, 24/08 *(§3)*
 - [ ] **Del seguro, recuperar el importe real pagado** ❌ — hoy `02` va con la cotización *(§3)*
 - [ ] **Comprobar en la póliza** que lleva **evacuación aérea dentro del país** y **búsqueda y
@@ -604,8 +605,8 @@ Para no gastar llamadas en lo que se cierra allí:
       precio igualmente, y de paso el **rastreo de Grootberg/Palmwag** ❌ *(§5)*
 - [ ] **Hoada** *(8 nov)* *(§5)*
 - [ ] **e-visa** *(tras el billete — solo `eservices.mhaiss.gov.na`)* *(§6)*
-- [ ] **Permiso internacional de conducir** *(DGT)* *(§6 — tocaba en septiembre: si no está, pedir
-      cita ya)*
+- [ ] **Permiso internacional de conducir** *(DGT)* *(§6 — tocaba en septiembre: se pide por la sede
+      de la DGT el 30/09, uno por conductor)*
 - [ ] **Aparcamiento de larga estancia en Oporto** *(30 oct – 15 nov, en coche propio — §6)*
 - [ ] *(Opcional)* **el día de mar del D6** — con la marea confirmada *(§7)*
 

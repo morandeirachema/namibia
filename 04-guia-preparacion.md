@@ -68,14 +68,14 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
-*Recalculada el 25/09/2026: el vuelo sale de Oporto el **30 de octubre**. Lo que ya venció y el
+*Recalculada el 29/09/2026: el vuelo sale de Oporto el **30 de octubre**. Lo que ya venció y el
 repo no da por hecho va primero — que no conste hecho aquí no significa que no lo esté: significa
 que nadie lo ha anotado.*
 
 ```mermaid
 flowchart LR
 %% ancho
-    J["VENCIDO<br/>julio - septiembre"] --> A["AHORA<br/>finales de septiembre"]
+    J["VENCIDO<br/>julio - septiembre"] --> A["AHORA · 30 sep<br/>CVI y permiso"]
     A --> O1["Primera semana<br/>de octubre"] --> O2["~16-23 oct"] --> O3["~24 oct"]
     O3 --> F["30 oct<br/>VUELO"]
     style J fill:#9d0208,color:#fff
@@ -90,10 +90,12 @@ flowchart LR
   vuelta del 15 de noviembre —válidos hasta el **15/05/2027** y con 3 páginas en blanco de verdad
   (§Pasaporte)—, que es lo que el e-visa da por hecho y el repo sigue sin tener confirmado.
 - **VENCIDO · septiembre** — **ser atendidos en el CVI**: para salir el 30/10, «4–6 semanas de
-  antelación» era **hacia el 19–26 de septiembre**, y esa ventana **se cierra ya (26/09)**. Si la
-  cita no está pedida, **es lo más urgente de esta lista**: llamar ya y preguntar qué cabe todavía
-  antes del 30/10 ❌. Y **el permiso internacional de conducir**, que tocaba en septiembre.
-- **AHORA · finales de septiembre** — lo del CVI y el permiso, si no están; **mandar las preguntas
+  antelación» era **hacia el 19–26 de septiembre**, y esa ventana **se cerró el 26/09** sin que
+  conste la cita pedida: **es lo más urgente de esta lista**, y qué cabe todavía antes del 30/10
+  lo dice el CVI ❌. Y **el permiso internacional de conducir**, que tocaba en septiembre.
+- **AHORA · 30 de septiembre** — **llamar al CVI y pedir el permiso internacional por la sede de
+  la DGT**, que el viajero tiene apuntados para ese día *(dicho el 29/09; no constan hechos hasta
+  que se anoten)*; **mandar las preguntas
   por escrito de la entrega a Savanna** *(`20` §1)* y **leer la póliza de IATI** —contratada el
   24/08— para confirmar que lleva **evacuación aérea dentro del país** y **búsqueda y salvamento**
   *(`20` §3)*. Los plazos de pago de octubre, en el `20` §9.
@@ -197,6 +199,7 @@ aseguradora **ningún** motivo formal para discutir un parte.
 - Se pide en **cualquier Jefatura de Tráfico con cita previa**, o **por internet** en la sede
   electrónica de la DGT (se recoge ~2 días después, sin cita para recoger). Solo es válido **junto al
   carnet español**, jamás por separado.
+- **Uno por conductor**: si Miguel figura como conductor adicional *(`20` §1)*, necesita el suyo.
 
 > ⚠️ **Grado de evidencia, con honestidad.** Las páginas primarias (embajada de Namibia, AA Namibia,
 > sede de la DGT y el propio *Government Gazette*) **devolvieron HTTP 403 y no se pudieron descargar**
@@ -248,7 +251,7 @@ atendido**, no cuánto antes hay que **llamar**. En verano, la cita es el recurs
 > **Tu médico de cabecera no puede emitir la cartilla amarilla.**
 
 👉 **Para la salida del 30 de octubre, «4–6 semanas de antelación» significaba ser atendidos hacia
-el 19–26 de septiembre, y esa ventana se cierra el 26/09.** Si la cita no está pedida, **llama ya**:
+el 19–26 de septiembre, y esa ventana se cerró el 26/09.** La llamada va el **30/09** *(apuntada por el viajero el 29/09)*:
 es urgente, y lo que quepa todavía antes del 30/10 lo decide el CVI, no este dossier ❌.
 Fuente: https://www.sanidad.gob.es/areas/sanidadExterior/laSaludTambienViaja/centrosVacunacionInternacional/centrosvacu.htm
 
