@@ -886,10 +886,11 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
   verificó ❌, así que `02` sigue con los €113,02 p.p. de la cotización — **recuperar el pagado
   real de la póliza** *(`20` §3)*.
 - 💉 **La cita del Centro de Vacunación Internacional** — para salir el 30/10 había que ser
-  atendidos hacia el **19–26 de septiembre**, y esa ventana **se cierra ya** *(25/09)*. No consta
-  pedida ❌: si no lo está, **es urgente** *(`04`)*.
-- 🪪 **El permiso internacional de conducir**: fuente ◐, y la DGT pide cita. Tocaba en septiembre y
-  no consta hecho ❌ *(`04`)*.
+  atendidos hacia el **19–26 de septiembre**, y esa ventana **se cerró el 26/09**. No consta
+  pedida ❌: la llamada está apuntada para el **30/09** *(dicho por el viajero el 29/09 — `04`)*.
+- 🪪 **El permiso internacional de conducir**: fuente ◐; se pide por la sede electrónica de la DGT o con cita en
+  una Jefatura, uno por conductor. Tocaba en septiembre y no consta hecho ❌: va por internet el
+  **30/09** *(`04`)*.
 
 **Precios sin cerrar — el margen real del presupuesto:**
 

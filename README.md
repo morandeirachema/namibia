@@ -10,7 +10,7 @@
 **30 de octubre – 15 de noviembre de 2026**
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
-[![cuenta atrás](https://img.shields.io/badge/faltan-35_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
+[![cuenta atrás](https://img.shields.io/badge/faltan-31_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-7_de_8-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
 [![presupuesto](https://img.shields.io/badge/€4.082-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
@@ -28,7 +28,7 @@
 
 ## 📍 Estado del viaje
 
-**Revisado el 25 de septiembre de 2026** · *las reservas, tal como constan anotadas desde el 24/08*
+**Revisado el 29 de septiembre de 2026** · *las reservas, tal como constan anotadas desde el 24/08*
 
 </div>
 
@@ -103,11 +103,12 @@ flowchart LR
 3. **Pedir el e-visa** — el billete de vuelta ya existe *(emitido el 10/08)*: nada lo bloquea. El
    plan es **la primera semana de octubre** *(`04`)*; los pagos y plazos de octubre, en el
    [`20`](20-reservas.md) §9.
-4. 🛑 **La cita del Centro de Vacunación Internacional — su ventana se cierra ya** *(A Coruña,
+4. 🛑 **La cita del Centro de Vacunación Internacional — su ventana se cerró el 26/09** *(A Coruña,
    Durán Lóriga 3 · **981 989 570**)*. Para salir el 30/10 había que ser atendidos hacia el
-   **19–26 de septiembre**, y el repo **no tiene anotado que esté pedida** ❌: si no lo está, **es
-   urgente** — llamar ya y que el CVI diga qué cabe antes del 30/10. Tampoco constan hechos **el
-   permiso internacional de conducir** *(tocaba en septiembre)* ni **la comprobación de los
+   **19–26 de septiembre**, y el repo **no tiene anotado que esté pedida** ❌: **es urgente**, y la
+   llamada está apuntada para el **30/09** —que el CVI diga qué cabe antes del 30/10—. Tampoco
+   constan hechos **el permiso internacional de conducir** *(tocaba en septiembre; se pide por la
+   sede de la DGT el 30/09, uno por conductor)* ni **la comprobación de los
    pasaportes** contra el 15/05/2027 *(`04`)*.
 5. 🐆 **Los felinos, solo en libertad — decidido el 27/08.** El CCF *(«más un zoo»)* y
    **Otjitotongwe** *(guepardos alimentados a mano)* **están fuera del viaje**; no hay ninguna
@@ -181,7 +182,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 179 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 175 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -498,10 +499,10 @@ flowchart TD
    oficial y no lo es; el portal real puede dar un aviso de certificado — es mala configuración
    suya: verifica el dominio y sigue)*; el plan, **la primera semana de octubre**. La **cita del
    Centro de Vacunación** (A Coruña, Durán Lóriga 3 · **981 989 570**) tocaba pedirla en agosto
-   para ser atendidos hacia el **19–26 de septiembre**: esa ventana se cierra ya, y si no está
-   pedida, **es urgente**. Y el **permiso internacional de conducir**:
+   para ser atendidos hacia el **19–26 de septiembre**: esa ventana se cerró el 26/09 sin constar
+   pedida: **es urgente** *(la llamada, el 30/09)*. Y el **permiso internacional de conducir**:
    con carnet español (que no está en inglés) **sí hace falta** — lo pide la ley namibia, el
-   alquiler y el seguro. Se saca en la DGT por **~€10,51 (~N$210)**, vale **1 año** y va **siempre
+   alquiler y el seguro. Se saca en la DGT por **~€10,51 (~N$210)**, **uno por conductor**, vale **1 año** y va **siempre
    junto al carnet** *(detalle y evidencia en `04`)*.
 
 **Y tres datos médicos que se resuelven en una tarde:** **malaria** — ⚠️ **la zona no empieza en
@@ -797,6 +798,6 @@ de €3.940–4.240 pero siempre hacia arriba. **Lleva N$, no euros mentales.**
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 
-**Última actualización: 25 de septiembre de 2026**
+**Última actualización: 29 de septiembre de 2026**
 
 </div>
