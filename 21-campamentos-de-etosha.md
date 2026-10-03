@@ -36,15 +36,19 @@ flowchart LR
 
 - **Se pierde una charca iluminada de las tres, y es la floja**: Okaukuejo el D10 y Moringa el D11
   siguen a un paseo de la parcela; **King Nehale ya no**. *(El campamento se visita igual el D12 —el
-  fuerte, el museo, la torre del atardecer— pero de paso.)*
+  fuerte, el museo, la torre— pero de paso y a media tarde: **el atardecer desde la torre ya no se
+  ve**, se sale hacia las ~16:30 al sundowner de Onguma — 03/10.)*
 - ⚠️ **Y se pierde la guiada de mañana de Namutoni** *(N$650 · ~€33 pp)*, que se vende a quien
   pernocta. **La sustituye el game drive guiado dentro de Etosha de Onguma** *(N$1.930 · ~€97 pp)*,
   que **cuesta más** *(`01` §D13, `02` §9)*.
   🌙 **El nocturno guiado NO se pierde** *(corregido el 28/08; hasta entonces aquí se decía que sí)*:
-  se vende en los tres campamentos y se compra el D10 y el D11 *(abajo)*.
+  se vende en los tres campamentos y se puede comprar el D10 y el D11 — **sin decidir** *(N$750 ·
+  ~€38 pp, fuera del presupuesto; en recepción al llegar si se decide — `20` §9; abajo)*.
 - **Aparece una hora de puerta el D12 Y el D13**: hay que estar fuera de Von Lindequist antes de
-  las **19:10** ✅ *(tabla oficial del parque, 10–16 nov)*, dos días seguidos — y el D13 hay que
-  volver a entrar por la mañana. Son **+30 km** entre los dos días *(`13` §5)*.
+  las **~19:10** ◐ *(tabla oficial del parque, pero la de **2025**, tramo 10–16 nov; la semana de
+  2026 es 9–15 y los minutos bailan ±1–2 — la buena es la de la puerta, `01` §horarios)*, dos días
+  seguidos — y el D13 hay que volver a entrar por la mañana. Son **+30 km** entre los dos días
+  *(`13` §5)*. **Y el D12 el tope real es antes, ~16:30: el sundowner de Onguma** *(abajo)*.
 - **Y se gana media hora el D14**: durmiendo fuera no hay que esperar a que la puerta abra.
 - 🐆 **La segunda noche de Onguma es firme desde el 26/08**: el desvío al Cheetah Conservation
   Fund queda descartado *(el porqué, en [el plan del guepardo](aparte/plan-del-guepardo.md); el
@@ -79,7 +83,9 @@ Está a **17 km (~20 min) de la puerta de Anderson** ◐
 Iluminada del ocaso al amanecer y **abierta las 24 h para quien duerme dentro** ◐; la guía del
 parque la llama sin rodeos «the most reliable predator and megafauna viewing spot inside
 Etosha», con el **pico de actividad entre las 19:00 y las 22:00 en estación seca** ◐ *(misma
-ficha de etoshanationalpark.com.na)* — y vuestra noche del 9 al 10 de noviembre cae justo en
+ficha de etoshanationalpark.com.na)* — ⚠️ **que es justo la ventana del nocturno guiado de NWR**
+*(N$750 · ~€38 pp, **sin decidir** — `20` §9)*: comprarlo esa noche es perderse el pico de la charca
+en la noche más oscura del viaje; una cosa o la otra — y vuestra noche del 9 al 10 de noviembre cae justo en
 la cola de esa estación seca: en 4 de las 5 últimas temporadas, cuando estéis allí las lluvias
 aún no habían empezado *([`14`](14-lluvias-historico.md))*. Las reseñas hablan de **hasta diez
 rinocerontes en una misma noche**, elefante, león y algún leopardo ○
@@ -153,20 +159,24 @@ sus cuatro torres, es **Monumento Nacional desde 1947** y abrió como rest camp 
 [Britannica](https://www.britannica.com/topic/Namutoni) ·
 [namibian.org](https://namibian.org/blog/namutoni-from-cattle-post-to-battle-ground-and-tourist-attraction);
 la web de NWR dice «built 1897» y Wikipedia 1896 — la discrepancia queda anotada)*. Dentro hay un pequeño museo ✅
-*(NWR)*, y **el atardecer se mira desde la torre** ◐ — la historia de la batalla, contada con su
+*(NWR)*, y **el atardecer se mira desde la torre** ◐ *(no en este viaje: el D12 se sale antes — abajo)*
+— la historia de la batalla, contada con su
 contexto, está en el [`19`](19-cultura-de-namibia.md). Es el campamento más cercano a su puerta:
 ~8 km de Von Lindequist ◐ *(una sola fuente leída — por eso el ◐)*, la que cruzáis **el D12 por la
 tarde** para ir a dormir a Onguma, y otra vez **el D13** en los dos sentidos.
 
 > ⚠️ **Aquí se dormía hasta el 24/08, y ya no.** La parcela se cambió por una **segunda noche en
 > Onguma**, así que este campamento pasa a ser **parada de tarde del D12**: el fuerte, el museo, la
-> torre del atardecer y **Chudop a un paso**, que es lo que de verdad compensa aquí. **Contad el
-> reloj hacia atrás desde las 19:10**, que es cuando cierra Von Lindequist.
+> torre y **Chudop a un paso**, que es lo que de verdad compensa aquí. **Contad el reloj hacia atrás
+> desde las ~16:30 en Von Lindequist** *(03/10)*, no desde las 19:10 de la puerta: el **Sundowner
+> Drive de Onguma** *(3 h, N$980 · ~€49 pp, decidido el 26/08)* sale al atardecer y hay que estar
+> montados antes — **el atardecer desde la torre se pierde**, salvo que se salte el sundowner.
 >
 > 🌙 **Lo que se fue con la parcela es LA NOCHE del D12, no el nocturno guiado** *(corregido el
 > 28/08)*: el nocturno **se vende en los tres campamentos** *(N$750 · ~€38 pp, web de NWR, temporada
-> nov 2026 – jun 2027 ✅)*, así que **se compra igual el D10 en Okaukuejo y el D11 en Halali** — y
-> el de Halali es el mejor rato de leopardo del viaje. Lo que ya no se puede es salir de noche
+> nov 2026 – jun 2027 ✅)*, así que **se puede comprar igual el D10 en Okaukuejo y el D11 en Halali**
+> — **sin decidir (03/10)**, en recepción al llegar; el de Halali es el mejor rato de leopardo del
+> viaje y el de Okaukuejo compite con el pico de su charca *(19:00–22:00)*. Lo que ya no se puede es salir de noche
 > **desde aquí**. El **Sundowner Drive de Onguma** —foco y campo a través, fuera del parque— es
 > otra cosa, no el sustituto *(`01` §D13)*.
 
@@ -242,12 +252,14 @@ camping:
 - Young Explorers Walk N$460 (~€23) · game drive privado N$10.680 (~€534)/vehículo · desayuno
   suelto N$320 (~€16)
 
-> ⚖️ **El choque de horarios, resuelto el 26/08**: el sundowner sale al atardecer y obliga a salir
-> del parque hacia las 17:00, así que **va el D12** —que se llega desde Halali con la tarde ya
-> gastada en el traslado— y **el D13 queda entero para la llanura del este**. Y el D13 arranca con
-> el **game drive guiado dentro de Etosha** *(4 h · N$1.930 · ~€97 pp)*, la única actividad de
-> Onguma que sirve para el guepardo. **Los dos están decididos y en el presupuesto** *(`02` §9,
-> `aparte/plan-del-guepardo.md`)*.
+> ⚖️ **El choque de horarios, resuelto el 26/08**: el sundowner sale al atardecer *(hora exacta ❌)*
+> y obliga a cruzar Von Lindequist hacia las **~16:30**, así que **va el D12** —que se llega desde
+> Halali con la tarde ya gastada en el traslado, y Namutoni se ve sin su atardecer— y **el D13 queda
+> entero para la llanura del este**. El D13 lleva el **game drive guiado dentro de Etosha** *(4 h ·
+> N$1.930 · ~€97 pp)*, la única actividad de Onguma que sirve para el guepardo — ⚠️ **pero a qué
+> hora, sin resolver (03/10)**: si sale al alba choca con la cola de las 06:05 de Von Lindequist con
+> el coche propio; la primera luz solo se vende una vez *(`01` §D13, `20` §9)*. **Los dos están
+> decididos y en el presupuesto** *(`02` §9, `aparte/plan-del-guepardo.md`)*.
 
 > ⚠️ **El hueco honesto: «night drive» NO figura en el tarifario oficial 2027 de Onguma** ❌ — el
 > que sale de noche es el sundowner. *(Lo que decía aquí hasta el 28/08 —«el nocturno de NWR ya no
@@ -297,9 +309,12 @@ sale de esto, y que el [`07`](07-logistica.md) ya aplica en general:
 
 ## 🕳️ Lo que esta ficha no pudo cerrar
 
-**El importe exacto de la reserva de Onguma** ❌ *(el rack da N$1.240 · ~€62 la noche, **N$2.480 ·
-~€124 las dos**; el dato recibido es **€132** — **+€8 que nadie ha explicado**, quizá el cambio del día
-o el depósito: **pregúntalo antes de pagar el segundo 50 %**)* · **si Onguma hace night drive de verdad y a qué precio** ❌ *(su
+**El importe de la reserva de Onguma, casi cerrado** ◐ *(el rack da N$1.240 · ~€62 la noche, **N$2.480 ·
+~€124 las dos**; el dato recibido es **€132**. Hasta el 03/10 aquí se leía como un 50 % con «+€8 que
+nadie ha explicado» — pero **N$2.480 / €132 = 18,79 N$/€**, dentro del cambio real de 2026 *(18,5–19,4,
+BCE)*: **con toda probabilidad son las dos noches ENTERAS al cambio real, no el depósito, y no queda
+segundo 50 %**; los «+€8» eran el euro de bolsillo de estas páginas, que se queda ~7 % corto. Lo que
+queda es ❌ **confirmar con el recibo de Onguma que no queda segundo pago** — la casilla, en `20` §9)* · **si Onguma hace night drive de verdad y a qué precio** ❌ *(su
 tarifa 2027 solo lista el sundowner)* · **La distancia exacta parcela → charca en Okaukuejo** ❌
 *(nadie la publica; «un paseo» en todas las reseñas)* · **wifi y cajeros en los tres del parque**
 ❌ *(NWR no lo publica; solo «cobertura irregular» en Halali ○ — Onguma sí anuncia wifi en

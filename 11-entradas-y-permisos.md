@@ -139,7 +139,7 @@ queda por si algún día se reabre, con operadores reales verificados en su prop
   - Sector self-drive: **entre las puertas de Ugabmund (sur) y Springbokwasser (este)**. El
     **permiso de tránsito es gratis** y se saca en la propia puerta.
   - Puertas **07:30–19:00**; **no se entra después de las 15:00** sin reserva confirmada.
-  - **Torra Bay abre solo diciembre-enero → CERRADO todo noviembre, incluido vuestro paso del 7 nov.** Terrace Bay
+  - **Torra Bay abre solo diciembre-enero → CERRADO todo noviembre, incluido vuestro paso del 6 nov (D7).** Terrace Bay
     (NWR) abre todo el año, pero pernoctar exige **reserva previa**.
   - Fuentes: [NWR — Skeleton Coast](https://www.nwrnamibia.com/skeleton-coast-national-park.htm) ·
     [TripAdvisor — permits & gate times](https://www.tripadvisor.com/ShowTopic-g479222-i25768-k8459916-Driving_permits_and_gate_opening_times-Skeleton_Coast_National_Park_Khomas_Region.html)
@@ -175,10 +175,10 @@ es el dinero, es el reloj**.
 flowchart LR
 %% ancho
     T["FUERA DE ETOSHA<br/>que cabe en la ruta tal y como esta"]
-    S["D9 · RASTREO DE RINOCERONTE<br/>PALMWAG, media jornada y en el camino<br/>la manana libre que dio el D8"]
+    S["D9 · PALMWAG, en el camino, a las ~08:45<br/>nature drive de 3 h (~07:00) o caminatas guiadas<br/>la manana libre que dio el D8"]
     G["D9 · Hoada / Grootberg<br/>nature drive con sundowner<br/>la tarde de llegada"]
     O["D12 · Onguma: Sundowner Drive N$980 pp<br/>D13 · game drive en Etosha N$1.930 pp<br/>decididos el 26/08"]
-    X["SIGUEN SIN CABER:<br/>el rastreo de rino de DIA ENTERO de Grootberg<br/>(saldria de noche por grava) · el leopardo de<br/>Okonjima (medio dia en el D14 de 539 km) ·<br/>Okapuka · el farm drive de Spreetshoogte"]
+    X["SIGUEN SIN CABER:<br/>el rastreo de rino de MEDIA JORNADA de Palmwag<br/>(sale a las 06:00-06:30: solo durmiendo el D8 alli) ·<br/>el de DIA ENTERO de Grootberg (saldria de noche<br/>por grava) · el leopardo de Okonjima (medio dia en<br/>el D14 de 539 km) · Okapuka · el farm drive de Spreetshoogte"]
     T --> S --> G --> O
     T --> X
     style T fill:#7a3a22,color:#fff
@@ -197,15 +197,17 @@ el `01` deja abierta en el D2** *(«pregúntale al dueño qué baja al anochecer
 parte de avistamientos ni polígono GBIF que llegue, así que **el guía de la finca ES la fuente**.
 
 - **Precio** ❌ — **no aparece en el rack de camping 2026 ni en el 2027**; su página de tarifas de
-  **2024/25** sí listaba **Sundowner Drive N$605 (~€30)/persona** ◐. **Pregúntalo al reservar.**
+  **2024/25** sí listaba **Sundowner Drive N$605 (~€30)/persona** ◐. **La reserva se hizo el 24/08
+  sin preguntarlo: queda pendiente, por email a bookings@barkhan.africa** *(`20` §5; de paso, que
+  confirmen la reserva — su 50 % no consta pagado)*.
 - ⚠️ **Y desde el 24/08 ya no encaja cómodo.** Encajaba en el **D3 de 0 km**, que **ya no existe**:
   la escarpa se hace en **una sola noche**. Lo que queda es el **atardecer del D2**, que ya está
   ocupado por el mirador del paso —que es el plan del día—. **O una cosa o la otra**: el sundowner
   drive de la finca sale a esa misma hora.
 - ❌ **Sin confirmar si los del camping pueden apuntarse** o es solo para los del lodge: su ficha
-  no lo dice. Va en la misma llamada que la reserva.
+  no lo dice. Va en el mismo email.
 
-### 🦏 D9 · Damaraland — el mejor safari no-Etosha de la ruta, y desde el 24/08 CABE
+### 🦏 D9 · Damaraland — el mejor safari no-Etosha de la ruta: lo que CABE desde Twyfelfontein y lo que NO *(corregido el 28/08)*
 
 **Grootberg Lodge está a 25 km de vuestro campamento de Hoada y es el mismo operador** *(Journeys
 Namibia — el mismo contacto con el que se reserva la noche)*. Hace ✅

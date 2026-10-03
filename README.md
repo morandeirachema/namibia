@@ -10,7 +10,7 @@
 **30 de octubre – 15 de noviembre de 2026**
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
-[![cuenta atrás](https://img.shields.io/badge/faltan-31_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
+[![cuenta atrás](https://img.shields.io/badge/faltan-27_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-7_de_8-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
 [![presupuesto](https://img.shields.io/badge/€4.082-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
@@ -28,7 +28,7 @@
 
 ## 📍 Estado del viaje
 
-**Revisado el 29 de septiembre de 2026** · *las reservas, tal como constan anotadas desde el 24/08*
+**Revisado el 3 de octubre de 2026** · *las reservas, tal como constan anotadas desde el 24/08 — y, desde el 03/10, también lo que NO consta: ningún pago*
 
 </div>
 
@@ -93,9 +93,13 @@ flowchart LR
 
 ### 🔴 Lo que toca ahora, por orden
 
+*Lo que solo el viajero puede contestar —pagos, llamadas, permisos— está junto, con dónde apuntar cada
+respuesta, en [`aparte/recordatorio`](aparte/recordatorio.md) *(03/10)*.*
+
 1. **En la entrega del coche, pedir por escrito**: que la franja de sunrise/sunset sea la zona
    cubierta por la Opción 4 *(por la salida a Deadvlei, `20` §1)* · el teléfono de emergencias
-   24 h · con cuánto tanque lo entregan · el coste del conductor adicional.
+   24 h · con cuánto tanque lo entregan · que Miguel figure como conductor adicional *(el coste ya no es
+   incógnita: **N$30/día · ~€1,50**, publicado — ~N$450 · ~€23 el viaje, `20` §9)*.
 2. **Del seguro, ya contratado, quedan dos flecos**: recuperar el **importe real pagado** ❌ *(para
    cerrar la partida de [`02`](02-presupuesto.md) — hoy va con la cotización)* y confirmar si se
    pidió por escrito la **evacuación aérea dentro del país** *(cerca de Sesriem no hay hospital)* y
@@ -105,11 +109,18 @@ flowchart LR
    [`20`](20-reservas.md) §9.
 4. 🛑 **La cita del Centro de Vacunación Internacional — su ventana se cerró el 26/09** *(A Coruña,
    Durán Lóriga 3 · **981 989 570**)*. Para salir el 30/10 había que ser atendidos hacia el
-   **19–26 de septiembre**, y el repo **no tiene anotado que esté pedida** ❌: **es urgente**, y la
-   llamada está apuntada para el **30/09** —que el CVI diga qué cabe antes del 30/10—. Tampoco
-   constan hechos **el permiso internacional de conducir** *(tocaba en septiembre; se pide por la
-   sede de la DGT el 30/09, uno por conductor)* ni **la comprobación de los
-   pasaportes** contra el 15/05/2027 *(`04`)*.
+   **19–26 de septiembre**, y el repo **no tiene anotado que esté pedida** ❌. La llamada estaba
+   apuntada para el **30/09 y ese día ya pasó sin resultado anotado**: lo que cabe ahora lo dice el
+   CVI, y **sin cita antes del ~16/10 la mefloquina queda fuera** y solo queda Malarone, comprada
+   antes de volar *(`04`)*. Tampoco constan hechos **el permiso internacional de conducir** *(se pedía
+   en la DGT el 30/09, uno por conductor — y «uno por conductor» obliga a decidir ANTES si Miguel
+   conduce)* ni **la comprobación de los pasaportes** contra el 15/05/2027 *(`04`)*.
+5. 🛑 **Ocho noches constan reservadas y NINGÚN pago consta** *(03/10)*: ni el 20 % de NWR en 48 h
+   para Sesriem, Okaukuejo y Halali, ni el 50 % que confirma Barkhan, ni si Savanna cobró los €2.363
+   o solo el 25 %. **El pago íntegro de Sesriem vence hoy, 3/10, y NWR cancela lo no pagado.** Los
+   €132 recibidos de Onguma son las dos noches enteras al cambio real *(N$2.480 / 18,8)*, no un
+   50 % ◐: no hay segundo pago que esperar, hay un recibo que comprobar. Todo en el [`20`](20-reservas.md) §9
+   y, noche a noche, en [`aparte/noches-y-reservas`](aparte/noches-y-reservas.md).
 5. 🐆 **Los felinos, solo en libertad — decidido el 27/08.** El CCF *(«más un zoo»)* y
    **Otjitotongwe** *(guepardos alimentados a mano)* **están fuera del viaje**; no hay ninguna
    llamada que hacer por ellos. El guepardo *«caza de día, a plena luz»*, así que se juega entero
@@ -144,7 +155,9 @@ flowchart LR
    Bay.)*
    ⏳ **Y la noche nueva de Twyfelfontein (D8) NO hay que reservarla**: fuera de parque y en
    temporada hombro, se decide sobre la marcha — **por eso es la red del calendario**, la que se
-   sacrifica sin perder un céntimo si el vuelo se retrasa *(`aparte/decision-del-ccf`)*.
+   sacrifica sin perder un céntimo si algo se retrasa **entre el D7 y el D9** *(`aparte/decision-del-ccf`)*.
+   *(Un retraso del vuelo de ida, en cambio, se come Spreetshoogte: Sesriem y Terrace Bay tienen fecha
+   fija — 03/10.)*
 7. **Preguntar a NWR (+264 67 229 800)** si las **2 salidas guiadas de mañana** que quedan
    *(Okaukuejo el D11 y Halali el D12)* se pueden dejar cerradas desde España — su tarifa avisa de
    que **en temporada de lluvias no aceptan pre-reserva de actividades**; si no, van en recepción al
@@ -182,7 +195,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 175 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 180 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -296,7 +309,8 @@ entrega— está en [`20-reservas`](20-reservas.md) §1.
   peñas de granito que la referencia llama el más bonito de su viaje. ◐
 - 🦩 **Flamencos en Walvis Bay** al amanecer, ostras y paseo — **dos noches (4 y 5 nov) y un día entero de
   descanso** a mitad de viaje. La excursión a **Sandwich Harbour, en tour guiado** *(con tu coche
-  la prohíbe el contrato — el tour es mejor plan)*. ◐
+  la prohíbe el contrato — el tour es mejor plan)*: **decidida el 24/08, pero sin operador ni reserva**
+  ❌ — la marea obliga a la salida de las 08:30 y las plazas se acaban *(`20` §7)*. ◐
 - 🥧 **La tarta de manzana de Solitaire** — dos veces, porque la ruta pasa dos veces. Y las dos se
   reposta: después hay **~230 km sin nada** *(OSRM)*. ✅
 - 🍺 **Joe's Beerhouse** en Windhoek — la opción de mesa del D1 y del D14, si el cuerpo no está
@@ -405,9 +419,12 @@ Rango honesto: **€3.940–4.240**. El **~78 %** ya está cerrado con precio re
 </div>
 
 **Incluye:** vuelo · coche **15 días** · **seguro de viaje** · combustible · tasas de parque · visado ·
-las 14 noches · comida · actividades · imprevistos. **No queda nada fuera** salvo el traslado a Oporto
-*(revisado el 17/09 a ~€225–270 la pareja ◐/❌ — abajo)*, el día extra de seguro *(❌ sin cotizar)* y
-lo que compres allí por gusto.
+las 14 noches · comida · actividades · imprevistos. **Fuera del total quedan**, además del traslado a
+Oporto *(revisado el 17/09 a ~€225–270 la pareja ◐/❌ — abajo)*, el día extra de seguro *(❌ sin
+cotizar)* y lo que compres allí por gusto, **cosas ya decididas o probables que el `02` lista aparte
+*(03/10)*: el día de mar de Sandwich Harbour *(~€260–322 la pareja)*, los dos nocturnos de NWR si se
+deciden *(~€150)*, el conductor adicional *(~€23)*, los permisos de la DGT *(€21)* y la profilaxis de
+malaria** — del orden de **€300–500 la pareja** en total.
 
 ```mermaid
 pie showData
@@ -801,6 +818,6 @@ de €3.940–4.240 pero siempre hacia arriba. **Lleva N$, no euros mentales.**
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 
-**Última actualización: 29 de septiembre de 2026**
+**Última actualización: 3 de octubre de 2026**
 
 </div>

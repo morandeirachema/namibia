@@ -9,7 +9,8 @@
 >
 > *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · precio del
 > combustible actualizado a la revisión del 5 ago 2026 · coche actualizado a la reserva con
-> Savanna del 12/08/2026*
+> Savanna del 12/08/2026 · revisado el 03/10/2026: seguro, Terrace Bay, coche, Onguma y lo que
+> está decidido pero FUERA del total (§10)*
 
 Coste del viaje con las **partidas grandes ya cerradas** (vuelo emitido, coche reservado y seguro
 contratado), en N$ y
@@ -17,7 +18,7 @@ contratado), en N$ y
 deja como estimación marcada: un número plausible presentado como hallazgo es un fallo grave — aquí
 no se hace.**
 
-> ⚠️ **«Cotizado» no es «reservado» — y al 24/08/2026 hay bastantes excepciones ya**: el **vuelo,
+> ⚠️ **«Cotizado» no es «reservado» — y al 03/10/2026 hay bastantes excepciones ya**: el **vuelo,
 > EMITIDO y PAGADO (€1.536 p.p.)**, el **coche, RESERVADO con Savanna (€2.363 en total, ~€1.181,50
 > p.p.)**, el **seguro IATI Estrella, CONTRATADO el 24/08** *(desde el 30/10; el importe real
 > pagado, ❌ por recuperar — §7 y `20` §3)* y **ocho noches RESERVADAS**: **Windhoek Urban Camp** *(D1,
@@ -34,7 +35,10 @@ no se hace.**
 > campamentos y se duerme dentro dos noches *(§9)*.
 >
 > **Terrace Bay sigue sin reservar** *(ver [`15`](15-huecos-cerrados.md) §lista maestra y
-> [`20`](20-reservas.md))*, aunque **con tarifa cerrada**: es un precio real, no un pago hecho. La
+> [`20`](20-reservas.md))*, aunque **con tarifa cerrada**: es un precio real, no un pago hecho —
+> **ni reservado ni pagado al 03/10**, y ⚠️ **desde ~el 7/10 NWR cobra el 100 % al reservar**, no
+> el 20 % *(`20` §4)*. Y **del coche no consta si los €2.363 se pagaron enteros o solo el depósito
+> del 25 %** ❌ *(§2)*. La
 > ruta que presupuestan quedó **confirmada el 06/08/2026** — la nota de abajo.
 
 
@@ -51,7 +55,8 @@ no se hace.**
 > - **Coche**: **Savanna** — grupo GSXA-1 Camping, Ford Ranger 2.2/2.0 D/Cab automático. El
 >   detalle completo de la reserva está en [`20`](20-reservas.md) §1.
 >
-> Los importes de abajo son los de esta ruta, **cotizados — el vuelo y el coche, ya cerrados**.
+> Los importes de abajo son los de esta ruta, **cotizados — el vuelo, el coche y el seguro, ya
+> cerrados**.
 
 ---
 
@@ -97,7 +102,14 @@ flowchart LR
 ```
 
 - 🚙 **€2.363 en total — ~€1.181,50 por persona** ✅ *(precio cerrado, no estimado)*.
-- ⛽ **Depósito de 140 L** ✅ — y doble depósito (80+60 l) ◐ *(la web de Savanna solo dice «140L»; el reparto sale de su oferta)*; el detalle de cómo se lee el
+  ⚠️ **Dos cosas que el precio cerrado no cierra** *(03/10)*: **(a)** **no consta si los €2.363 se
+  pagaron enteros o solo el depósito del 25 %** ❌ — la regla de Savanna es 25 % al confirmar y el
+  resto por transferencia 10 días antes *(~21/10)* o en la recogida; si fue solo el depósito, quedan
+  **~€1.770 (~N$35.400) por pagar hacia el 21/10** *(`20` §1 y §calendario)*; **(b)** su tarifa
+  publicada, sumada pieza a pieza *(15 días + contrato + limpieza + Opción 4 + satelital + sacos)*,
+  da **~N$44.140 (~€2.150–2.260 según cambio)** y **no cuadra exactamente con los €2.363** ❌ —
+  manda lo pagado, no se fuerza el cuadre *(`20` §1)*.
+- ⛽ **Depósito de 140 L** ✅ — y doble depósito (80+60 l) ✅ *(la web de Savanna solo dice «140L»; el reparto sale de su propia oferta, que es fuente primaria — `20` §1, `15`)*; el detalle de cómo se lee el
   indicador, en `20` §1.
 - 🛡️ **Seguro Opción 4 — y aquí hay que leer despacio, porque «franquicia cero» no es lo que dice
   Savanna** ⚠️ *(destapado el 28/08)*. Su página de seguro define la Opción 4 como
@@ -117,6 +129,13 @@ flowchart LR
   60 parque y ciudad)*.
 - 🛰️📦 **Extras: teléfono satelital y 2 sacos de dormir con almohada** ✅ — pagados y ya dentro
   del precio total; no hay que gastar nada aparte en satelital.
+- 💳 **La retención en la tarjeta en la entrega — y un aviso de liquidez** *(03/10)*: la
+  franquicia estándar que Savanna cita es **N$35.000 (~€1.750)**, la Opción 4 la rebaja, pero
+  **cuánto bloquean de verdad en la tarjeta no se sabe** ❌ *(`15` §lista maestra, `20` §1)*. Una
+  retención de ese orden **se come el límite de una tarjeta normal durante todo el viaje** y se
+  libera **días después** de la devolución del 14/11, no en el momento ○. Por eso el `17` pide
+  **dos tarjetas de bancos distintos**: la que soporta la retención no es la que paga las noches
+  de NWR ni el gasoil, y **el límite se sube antes de salir** ○.
 - ✈️ **Transfer aeropuerto ↔ oficina de Windhoek**, no entrega en el aeropuerto — gratuito por
   ser 15 días, con un matiz de horario en la vuelta: el detalle completo, en `20` §1.
 
@@ -154,7 +173,11 @@ siguen sin precio**, salvo **Hoada**, que va en ◐.
   2027, **vigente del 01/11/26 al 31/10/27** *(el año fiscal de Onguma va de noviembre a octubre,
   igual que el de NWR — vuestras noches caen dentro)*.
   **Condiciones de cancelación del camping, en el propio rack 2027 de Onguma ✅** *(verificado el 25/08 abriendo el PDF)*: *«In the event of a confirmed reservation being cancelled and not postponed (in writing) 100% cancellation fees will be charged and pre-payments will be non-refundable»* — y **depósito del 50 % al reservar, el otro 50 % 30 días antes**. Es decir: **cancelar la segunda noche cuesta el 100 % (N$1.240 · ~€62); POSPONERLA por escrito, no.** *(El repo lo dio por desconocido hasta el 25/08: estaba en el mismo PDF que ya citaba.)*
-  ❌ *El importe exacto de la reserva, por confirmar.*
+  **El importe recibido es €132** *(`21`)*, **+€8 sobre los ~€124 de bolsillo** — pero
+  **N$2.480 / €132 = 18,79**, que es justo el cambio real del BCE que la cabecera cita
+  *(18,5–19,4)*: **los €132 son las dos noches completas al cambio real, no un recargo** ◐
+  *(deducción, 03/10)*. ❌ *Pendiente de confirmarlo con la confirmación escrita de Onguma — y de
+  saber si lo cobrado fue el 50 % o el total (`20` §9).*
 - **La segunda de Onguma sustituye a la de Namutoni**, que era **la charca iluminada más floja de
   las tres**: cuesta **N$320 (~€16) más** y a cambio da **ducha y wc propios en la parcela** y una
   reserva privada con **salida al atardecer con foco y campo a través** y **paseo guiado a pie**,
@@ -185,7 +208,9 @@ persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terra
 
 **Parcialmente cerrado / sin verificar ○/◐ (6 noches):**
 - **D1 Windhoek — RESERVADO ✅ (Urban Camp), pero sin tarifa publicada ❌.** Reservar no es lo mismo
-  que saber cuánto cuesta: pide el importe por escrito.
+  que saber cuánto cuesta: pide el importe por escrito. *(La pista del agregador, **~N$660–700
+  (~€33–35) la noche los dos ○**, cae dentro de la banda estimada y **no entra en el total** —
+  `15`, `20` §5.)*
 - **D5–D6 Walvis Bay ×2** → **Lagoon Chalets**, camping identificado, **precio no cerrado ❌**
   (WebFetch bloqueado; ver `15`). Estimación de práctica común: **~N$500–900 (~€25–45)/noche
   para dos**. *(Referencia real que ancla el extremo bajo: el camping comunitario de Spitzkoppe
@@ -195,7 +220,8 @@ persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terra
 - 🆕 **D8 Twyfelfontein — la noche nueva, y no tiene tarifa ❌.** Los dos candidatos que el dossier
   tiene identificados son **lodges**, no campings: **Twyfelfontein Country Lodge** *(para nov 2026 –
   oct 2027, «desde N$4.470» por persona en media pensión ◐ → ~N$8.940 (~€447) la pareja, de
-  fragmento de buscador — `15`, 03/09)* y la zona de
+  fragmento de buscador — `15`, 03/09; el «desde ~$223 pp DBB» que da `20` §5 **es la misma
+  tarifa en dólares, no otra cotización**)* y la zona de
   **Palmwag**. **Se presupuesta en la banda de camping de Damaraland** —la de Hoada, que sí está
   medida— **porque es lo que se va a buscar**; ⚠️ **si acaba siendo lodge, esta noche sola puede
   sumar €150–200 la pareja** y el total de §10 se queda corto. **Pídelo por escrito** *(`20` §5)*.
@@ -208,11 +234,14 @@ persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terra
 - **D9 Hoada** (Grootberg) — **cerrado en esta pasada ◐**: **N$542–732/noche para dos (~€27–37)** según
   temporada (la de noviembre sin fijar; ver `15`). Coincide con la estimación de práctica común.
 - **D14 Windhoek**: **camping, con el coche hasta el 14 — decidido el 07/08**. Lo natural es
-  **repetir el Urban Camp del D1**, tarifa ❌. *(La habitación con traslados quedó descartada.)*
+  **repetir el Urban Camp del D1**, tarifa ❌ *(misma pista ○ de ~N$660–700 · ~€33–35; **sin
+  reservar al 03/10** — `20` §5)*. *(La habitación con traslados quedó descartada.)*
 
 **Y la noche que sí está cerrada y sigue siendo la más cara:**
 - **D7 Terrace Bay** (NWR) — **precio cerrado ✅ (la reserva, no: `20` §4) y es la noche más cara
-  del viaje**: el tarifario oficial
+  del viaje**. ⚠️ **Al 03/10 sigue sin reservar y sin pagar**: el precio es el del rack, no un
+  pago hecho, y **desde ~el 7/10 NWR exige el 100 % al reservar** en vez del 20 % *(`20` §4)*. El
+  tarifario oficial
   2026/2027 da **doble en media pensión a N$1.740/persona → N$3.480 (~€174) la pareja** en la
   ventana nov 2026 – jun 2027. **No hay camping en Terrace Bay** *(la ficha web lista una fila de
   «Campsite» que no aparece en el tarifario: es un error suyo)*. Consuelo: **incluye cena y
@@ -360,16 +389,17 @@ que usan los totales.
 ## 6. Visado — cifra dura ✅
 
 **e-visa: N$1.600 (~€80)/persona** → **pareja N$3.200 (~€160)**, pago único. Ver `12` §6.
-⚠️ El visado **manual a la llegada** puede llevar un recargo de N$2.000 (~€100) aprobado pero sin
-publicar en el boletín: **usa el e-visa**. Fuente:
+⚠️ El visado **manual a la llegada** puede llevar un recargo de N$2.000 (~€100) ❌ *(afirmación
+**sin fuente localizada**: la ficha del MAEC no lo menciona — `12` §6, comprobado el 29/08)*: el
+consejo vale igual, **usa el e-visa**. Fuente:
 [MAEC — Namibia](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Namibia).
 
 ---
 
-## 7. Seguro de viaje — cerrado ✅
+## 7. Seguro de viaje — **CONTRATADO ✅ (IATI Estrella, 24/08)** · importe real ❌
 
-> ### €226,04 la pareja · **€113,02 por persona** *(31/10 – 15/11)*
-> ### ⚠️ **Con el vuelo de Oporto hay que rehacerla: empieza el 30, no el 31**
+> ### €226,04 la pareja · **€113,02 por persona** *(cotización 31/10 – 15/11: la cifra que usa el presupuesto)*
+> ### ✅ **Contratado el 24/08 empezando el 30/10** — el importe real pagado, ❌ por recuperar de la póliza *(03/10)*
 
 ### ✅ El final ya está bien: llega hasta el 15 — y costó €14,69
 
@@ -384,11 +414,13 @@ sin cobertura:
 **Catorce euros y setenta céntimos por no volver a casa sin seguro.** *(Curiosidad: al Estándar el
 día extra le sale gratis — mismo precio con y sin él.)*
 
-> ### ⚠️ Y ahora falta el otro extremo
-> El vuelo elegido **sale de Oporto el 30 de octubre** *(§8)*, no el 31. **Hay que adelantar el
-> inicio de la póliza al 30/10** — si no, el vuelo de ida va sin cobertura, con el traslado a
-> Oporto incluido. **Simulación 30/10 – 15/11: ❌ sin cotizar.** Es el mismo trámite que cerró el
-> hueco del final; hazlo antes de pagar el billete.
+> ### ✅ El otro extremo también está cerrado *(24/08)*
+> El vuelo elegido **sale de Oporto el 30 de octubre** *(§8)*, no el 31, y la póliza contratada
+> **empieza el 30/10** ✅ *(dicho por el viajero, `20` §3)*: el vuelo de ida va cubierto. Lo que
+> nunca se hizo fue **cotizar el día extra antes de contratar**, así que **el importe real pagado
+> ❌ no consta** —el día extra lo sube; el código de Chavetas lo baja— y este documento sigue
+> contando los **€113,02 p.p.** de la cotización, la cifra conservadora, hasta recuperarlo del
+> correo de IATI *(03/10)*.
 
 ### ✅ Cumple la condición de entrada
 
@@ -431,8 +463,8 @@ España. Lo que este viaje necesita es lo otro: **que te saquen en avión de una
 Windhoek**. Cerca de Sesriem **no hay hospital** *(Windhoek a ~320 km, Walvis Bay a ~270, ambos 4+ h
 de grava)*. **La tabla no lo aclara.**
 
-> 👉 **Pregúntaselo a IATI por escrito antes de contratar.** Es la cobertura que de verdad cambia
-> algo aquí.
+> 👉 **Ya está contratado: compruébalo en la póliza, y si no está, pídelo a IATI por escrito
+> ahora** *(`20` §3)*. Es la cobertura que de verdad cambia algo aquí.
 
 ### Las tres, comparadas
 
@@ -709,7 +741,9 @@ la pareja** ◐ *(N$2.600–3.220 pp × 2)*, o el crucero para dos ~**N$2.800–
 combo con Sandwich Harbour ~**N$9.480 (~€474)** la pareja *(ver §9 y [`20`](20-reservas.md) §7)*.
 
 ### Misceláneos ○
-SIM MTC «Leisure» **N$349 (~€17)** ◐ *(cerrada el 05/08 — ver `15` y `07`)*, propinas, peajes y
+SIM MTC «Leisure» **N$349 (~€17)** ◐ *(cerrada el 05/08 — ver `15` y `07`)*, **el conductor
+adicional — N$30 (~€1,50)/día → ~N$450 (~€23) el viaje ✅** *(publicado por Savanna, se paga en la
+entrega — `20` §9; hasta el 03/10 iba ❌ y `15` remitía aquí sin que aquí constara)*, propinas, peajes y
 tasas menores *(aquí cae la visita guiada de Twyfelfontein, ~N$540 · ~€27 los dos ◐)*, imprevistos →
 colchón **~N$3.000 (~€150) pareja / ~€75 por persona** ○.
 
@@ -746,13 +780,14 @@ flowchart LR
 - 🍖 Comida **~€140** ○
 - 🎫 Tasas de parque **~€124** ◐ *(7 × N$620 + la entrada propia de Cape Cross, ~N$620 los dos —
   premium desde 2026, corregido el 25/08)*
-- 🩺 Seguro **€113,02** ✅
+- 🩺 Seguro **€113,02** ✅ *(CONTRATADO el 24/08 — la cifra es la cotización; el importe real
+  pagado, ❌ por recuperar de la póliza — §7)*
 - 🛂 Visado **€80** ✅
 - 🎯 Actividades **~€220** ✅ *(tarifas verificadas: 2 guiadas de mañana de NWR + lanzadera de
   Deadvlei = €74, más **el Sundowner del D12 y el game drive dentro de Etosha del D13, de Onguma,
   €146 — decididos el 26/08**. La guiada de Namutoni se cayó al dormir fuera; el nocturno, que
   sigue comprable el D10 y el D11, está fuera hasta que se decida — §9)*
-- 🧷 Misceláneos **~€75** ○
+- 🧷 Misceláneos **~€75** ○ *(incluye el conductor adicional, ~N$450 · ~€23 el viaje ✅ — §9)*
 
 > ### **TOTAL POR PERSONA: ~€4.082 (~N$81.600)** *con el coche y ocho noches cerrados*
 > ### **TOTAL LA PAREJA: ~€8.164 (~N$163.300)**
@@ -781,6 +816,35 @@ flowchart LR
 > **Cuenta ~€4.250 por persona para no llevarte sorpresas.**
 
 **Qué parte de este número es sólida: en §11, al final.**
+
+### ➕ Decidido o probable — y FUERA del total *(03/10)*
+
+El ~€4.082 es lo que cuesta el viaje **tal como está presupuestado**; esto es lo que **ya está
+decidido o es probable y NO está dentro**, junto en un sitio para no tener que recogerlo por cuatro
+documentos. **No mueve los totales de §1 y §10**: se deja fuera a propósito, para que lo que está
+dentro siga siendo exactamente lo presupuestado.
+
+- 🚤 **Sandwich Harbour en 4x4 — DECIDIDO el 24/08** ◐: **~N$5.200–6.440 (~€260–322) la pareja**
+  *(§9, `20` §7)*. Sin reservar ❌.
+- 🌙 **Los dos nocturnos de NWR (D10 y D11)** — sin decidir: **N$3.000 (~€150) la pareja** los
+  dos, N$1.500 (~€75) solo el de Halali *(§9)*.
+- 🪪 **Conductor adicional** ✅: N$30/día → **~N$450 (~€23) el viaje**, en la entrega *(cabe en el
+  colchón de misceláneos de §9; se lista para que conste)*.
+- 🪪 **Permiso internacional de conducir (DGT)** ◐: **€10,51 (~N$210) × 2 = ~€21 (~N$420)**, en
+  España. No consta pedido ❌ *(`20` §6)*.
+- 💊 **La profilaxis de la malaria** — **sin coste en ningún documento** ❌: la receta el CVI
+  *(Malarone o mefloquina, `04` §malaria)* y **se compra en España antes de volar**. Importe ❌ no
+  consta — y la cita del CVI tampoco consta pedida.
+- 🐆 **La noche opcional en Okonjima (D14)** — sin decidir: **~€135–215 pp → ~€270–430 la pareja**
+  ○/◐ *(`aparte/plan-felinos.md`)*; sustituiría a la noche estimada del D14 en Windhoek *(~€35)*.
+- 🦏 **El nature drive de Palmwag (D8)** — sin decidir: **N$1.355 (~€68) pp → N$2.710 (~€136) la
+  pareja** ✅ *(`20` §5)*.
+
+→ **Lo decidido suma ~€300–370 la pareja** *(Sandwich Harbour + conductor + DGT)*; **con los dos
+nocturnos, ~€450–520**. Okonjima y Palmwag, si entran, añaden otros **~€140–430**. Y **el traslado a
+Oporto (~€225–270 la pareja, §8) tampoco está dentro**. Sobre los €4.082 por persona: **con lo
+decidido, ~€4.230–4.270 pp**; **con todo lo de esta lista, ~€4.380–4.560 pp** *(la malaria, ❌,
+aparte)*; y el traslado a Oporto suma otros **~€115–135 pp**.
 
 ### 👥 ¿Y si vais 3 o 4 en el mismo 4x4? — la economía de escala, calculada
 
@@ -854,9 +918,12 @@ y corto; con la tarjeta en la mano manda el N$**.
 
 - **✅ Duro — ~€3.187 de los €4.082 (78 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
   15 días, RESERVADO con Savanna, €1.181,50 · las 6 noches de Sesriem, Etosha y Onguma €175
-  *(**reservadas**)* · Terrace Bay €87 *(tarifa oficial, **sin reservar**)* · **Spreetshoogte €14,50** *(una noche, tarifa cerrada el
-  24/08)* · seguro €113 · visado €80.
-  Todo con precio real para las fechas exactas.
+  *(**reservadas**)* · Terrace Bay €87 *(tarifa oficial de rack; **sin reservar ni pagar al 03/10**,
+  y desde ~el 7/10 se paga entera al reservar — `20` §4)* · **Spreetshoogte €14,50** *(una noche, tarifa cerrada el
+  24/08)* · seguro €113 *(**contratado** el 24/08 ✅; la cifra es la cotización — el importe real
+  pagado, ❌ por recuperar, §7)* · visado €80.
+  Todo con precio real para las fechas exactas. *(Y una duda que no cambia la cifra pero sí lo
+  «pagado»: del coche no consta si se abonó entero o solo el 25 % — §2.)*
 - **✅ Decidido con tarifa verificada — ~€220**: las **dos** guiadas de mañana que quedan comprables
   *(Okaukuejo y Halali)* y la lanzadera de Deadvlei —tarifas NWR reales, reserva en recepción—, más
   **el Sundowner del D12 y el game drive dentro de Etosha del D13**, del rack 2027 de Onguma

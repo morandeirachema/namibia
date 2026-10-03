@@ -856,17 +856,22 @@ marcado como archivado.*
 
 ---
 
-## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 24/08/2026)*
+## 🕳️ Lo que sigue sin cerrarse — la lista maestra *(al 03/10/2026)*
 
 El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo el dossier.
+*(Levantada el 24/08; los avances fechados de septiembre se dejaron donde cayeron, y **el 03/10 se
+revisó entera**: se tacha lo que ya estaba cerrado en otros documentos y entra lo que solo vivía en
+`20`.)*
 
 **Bloquean algo con fecha:**
 
 - ✈️ **El billete está EMITIDO desde el 10/08** ✅ *(€1.536 p.p.; se cotizó en €1.450 el 05/08)*:
   **el e-visa queda desbloqueado** — pedirlo es el siguiente trámite con fecha.
-- 🏕️ **El coche ya está reservado (Savanna, `20`); lo que sigue sin reservar es el alojamiento**:
-  ni Sesriem ×2, ni Terrace Bay *(sin ella no se entra
-  al parque a pernoctar)*, ~~ni las cuatro de Etosha~~ — ~~**ni la de Spreetshoogte**~~ *(el «closed
+- 🏕️ **El coche ya está reservado (Savanna, `20`); del alojamiento, lo único sin reservar es
+  Terrace Bay** *(sin ella no se entra al parque a pernoctar; ⚠️ **y desde ~el 7/10 NWR cobra el
+  100 % al reservar**, no el 20 % — `20` §4)*: ~~ni Sesriem ×2~~ *(RESERVADAS el 24/08 — la frase
+  «ni Sesriem ×2» se arrastró aquí hasta el 03/10 contradiciendo al párrafo de abajo)*,
+  ~~ni las cuatro de Etosha~~ — ~~**ni la de Spreetshoogte**~~ *(el «closed
   down» quedó **refutado el 10/08** ◐ y la trampa de homónimos, aclarada: **lo opera Barkhan Dune
   Retreat** — «Camp Gecko» y Namibgrens son OTROS, `20` §5)*. **De
   Spreetshoogte ya no falta nada: la tarifa se cerró el 24/08** ✅ *(abajo, §Spreetshoogte)* **y la
@@ -891,6 +896,29 @@ El inventario de huecos abiertos, para no tener que reconstruirlo leyendo todo e
 - 🪪 **El permiso internacional de conducir**: fuente ◐; se pide por la sede electrónica de la DGT o con cita en
   una Jefatura, uno por conductor. Tocaba en septiembre y no consta hecho ❌: va por internet el
   **30/09** *(`04`)*.
+
+**Lo que solo vivía en `20` y faltaba aquí** *(añadido el 03/10 — ninguno consta hecho; si ya lo
+está, se tacha)*:
+
+- 💳 **Los pagos a NWR no constan** ❌: pago íntegro de **Sesriem ×2 (N$2.680 · ~€134), que vence
+  ~3/10**; **Okaukuejo (N$920 · ~€46), ~10/10**; **Halali (N$920 · ~€46), ~11/10** ○ *(regla de los
+  30 días; **lo no pagado se cancela** — `20` §4 y §calendario)*. Ni el depósito del 20 % ni el
+  pago íntegro constan en ningún documento.
+- 🚙 **El coche: ¿pagado entero o solo el depósito del 25 %?** ❌ — `20` da los €2.363 por pagados;
+  si fue el depósito, el resto *(~€1.770 · ~N$35.400)* vence **~21/10** *(`20` §1; `02` §2)*.
+- 🏕️ **Onguma: confirmar los €132** — N$2.480 / €132 = 18,79, el cambio real del BCE: parecen
+  **las dos noches enteras al cambio real, no un recargo** ◐; falta la confirmación escrita ❌
+  *(`02` §3, `21`)*.
+- ✈️ **Los nombres del billete contra el pasaporte** — no consta comprobado ❌ *(`20` §2)*; 🛂 y la
+  **validez del pasaporte** *(6 meses desde el regreso, 3 páginas en blanco — `12` §6)*, tampoco ❌.
+- 📷 **El límite por objeto de la póliza** *(dentro de los 4.000 € de equipaje)* ❌ *(`20` §3)*.
+- 🐆 **Okonjima el D14** — sin decidir ni pedir ❌; y **el Urban Camp del D14, sin reservar** ❌
+  *(`20` §5 y §9; `aparte/plan-felinos`)*.
+- 🔴 **Terrace Bay** — sin reservar; **fecha dura ~7/10** *(arriba)*.
+- 💉🪪 **La cita del CVI y el permiso de la DGT** — apuntados para el 30/09 *(arriba)*; **ninguno
+  consta hecho al 03/10** ❌.
+- 🚤 **Sandwich Harbour** — decidido el 24/08 y **sin reservar** ❌ *(`20` §7; fuera del total,
+  `02` §10)*.
 
 **Precios sin cerrar — el margen real del presupuesto:**
 
@@ -1190,8 +1218,9 @@ o de un email)*:
 
 - 🧰 **De la entrega del coche** *(`20` §1, `05`, `01` §D1)*: **con cuánto tanque entregan** el
   coche ❌ *(se entrega sin lleno, `20` §1)* · el **teléfono de emergencias 24 h de Savanna** ❌
-  *(el servicio de asistencia 24 h SÍ existe, `20` §1 — falta el número)* · el **coste del
-  conductor adicional** ❌ *(`02` §10)*. *(La nevera con batería propia y el hornillo ya constan
+  *(el servicio de asistencia 24 h SÍ existe, `20` §1 — falta el número)* · ~~el **coste del
+  conductor adicional**~~ **cerrado: N$30 (~€1,50)/día → ~N$450 (~€23) el viaje ✅** *(publicado por
+  Savanna — `20` §9; `02` §9–10, 03/10)*. *(La nevera con batería propia y el hornillo ya constan
   en la oferta — `20` §1.)*
 - ⚠️ **NUEVO (12/08): la zona sin cobertura del seguro que sí choca con la ruta.** De la lista de
   «zonas a riesgo propio» de la hoja de condiciones de Savanna, casi todas quedan fuera de esta
@@ -1209,9 +1238,11 @@ o de un email)*:
 - ⚙️ **Nuevo (12/08): el 4x4 se desactiva en asfalto y grava normal** ✅ — la hoja de condiciones
   lo marca como obligación: conducir con la tracción 4x4 puesta en firme duro daña la transmisión,
   y ese daño **no lo cubre ningún nivel de seguro**. Regla nueva para `06`.
-- 🏕️ **De cada recepción** *(`18`)*: **enchufe por parcela** campamento a campamento ❌ *(NWR lo
-  anuncia en los grandes ◐)* · **precio de la leña** ❌ *(**salvo Spreetshoogte**, que sí lo
-  publica: N$55 el fardo de 10 kg ✅ — 24/08)* · **potabilidad del grifo** camping a
+- 🏕️ **De cada recepción** *(`18`)*: ~~**enchufe por parcela** campamento a campamento~~ **cerrado
+  el 11/08 ◐** *(`18` §5: toma en los cuatro NWR de interior y en Onguma Tamboti ✅; Hoada y
+  Spreetshoogte, sin ella)* · **precio de la leña** ❌ *(**salvo Spreetshoogte**, que sí lo
+  publica: N$55 · ~€2,75 el fardo de 10 kg ✅ — 24/08; **y Onguma, que incluye un lote de leña el
+  día de llegada** ✅ — `03`, `21`, 03/10)* · **potabilidad del grifo** camping a
   camping ❌ · el **check-out del camping de Windhoek el D15** y si se puede volver por la tarde ❌
   *(`01` §D15)* · los **horarios de desayuno/restaurante** de los campamentos NWR y de Joe's ❌
   *(`01` §horarios)*.

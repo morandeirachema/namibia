@@ -27,8 +27,9 @@
 
 ## 🧭 Cómo se lee este documento — y cómo lo lee la agenda
 
-- **Joya es lo que NO está en el `01` como plan.** Twyfelfontein, Cape Cross, Sesriem Canyon o el
-  rastreo de rinoceronte son el viaje; aquí va lo que queda al lado y nadie te cuenta.
+- **Joya es lo que NO está en el `01` como plan.** Twyfelfontein, Cape Cross o Sesriem Canyon son el
+  viaje *(el rastreo de rinoceronte ya no: desde el 29/08 es alternativa, no plan — no cabe llegando
+  desde Twyfelfontein, `01` §D9)*; aquí va lo que queda al lado y nadie te cuenta.
 - **Cada día tiene su sección `### Dn`**, y dentro **cada viñeta es una joya** con dónde cae, qué
   cuesta y cuánto desvío añade. **La agenda de la guantera copia esas viñetas tal cual** bajo el
   mapa de cada día, como bloque *opcional* —lo que se hace si sobra tiempo—; los párrafos sueltos y
@@ -216,13 +217,15 @@ Fuentes: [Wikipedia — C14](https://en.wikipedia.org/wiki/C14_road_(Namibia)) �
   **~1.500 años**, con el oasis de Goanikontes en medio.
   🛑 **Pero NO detrás de Sandwich Harbour, y esto se corrigió el 28/08**: el Welwitschia Drive son
   **160 km de pista y ~4 h** según la propia fuente que se cita aquí, y el tour de Sandwich Harbour
-  no devuelve a Walvis Bay hasta las ~15:00. Con el ocaso a las **19:17** y la oficina del MEFT ya
-  cerrada a la vuelta, **no cabe**: es medio día propio, no un remate de tarde.
+  no devuelve a Walvis Bay hasta las ~15:00. Con el ocaso a las **19:17** y el permiso del MEFT aún
+  por sacar, **no cabe**: es medio día propio, no un remate de tarde.
   👉 **La versión que sí cabe** es el **Moon Landscape solo, por la C28** — una hora, los mismos
   badlands y sin pista de 4×4 —, y la tarde para las ostras, que es para lo que está el D6. **Permiso
-  obligatorio en la oficina del MEFT de Swakopmund** *(Bismarck St esq. Sam Nujoma Ave)* — es
+  obligatorio, ANTES, en la oficina del MEFT de Swakopmund** *(Bismarck St esq. Sam Nujoma Ave)* — es
   Namib-Naukluft, parque premium: **cuenta N$280 (~€14) por persona + N$60 (~€3) el coche** ◐ y
-  confírmalo en la oficina. ⚠️ La oficina cierra el fin de semana según blogs — **hoy es jueves** ✓.
+  confírmalo en la oficina. ⚠️ **Horario de la oficina ❌ sin verificar** *(los blogs la dan cerrada en
+  fin de semana; hoy es jueves, pero si a las ~15:30, de vuelta del tour, ya no abre, **el Moon
+  Landscape se cae** — no hay otra forma de tener el permiso; 03/10)*.
 - **Pelican Point y las salinas rosas** ◐ — península con **faro de 1932** *(hoy lodge)* y lobos
   marinos a tiro de piedra; el acceso cruza las **salinas rosas llenas de flamencos**. La lengua de
   arena, **en tour**: con vuestro coche es terreno de atasco y el contrato no está para bromas.
@@ -292,7 +295,9 @@ Fuentes: [namibweb — Skeleton Coast](https://www.namibweb.com/skeleton.htm) �
   corta, si no hay tiempo: **el hide del segundo brazo y el mirador de las cinco pozas**, que sí
   están al lado. Un hilo de cascada en la Costa de los Esqueletos: eso no lo trae casi nadie a
   casa. Va con la entrada
-  del parque; **hoy hay tiempo** *(211 km, sin puerta con hora — solo hay que salir del parque)*.
+  del parque; **hoy hay tiempo si se sale pronto** *(211 km; Springbokwasser cierra a las 17:00 ◐ y
+  los grabados son a última hora: saliendo a las ~08:00 caben el Uniab y una de las dos siguientes,
+  no todo — la cuenta, en el `01`)*.
 - **Las welwitschias de la C39** *(entre Springbokwasser y Bergsig, ~54 km)* ◐ — crecen **junto a
   la carretera**, en los drenajes que bajan al Huab y al Springbokwasser: es el Welwitschia Drive
   sin permiso ni desvío. Parar, mirar, no pisar.
@@ -374,9 +379,10 @@ Fuentes: [etoshanationalpark.com.na — mapa](https://etoshanationalpark.com.na/
 
 ### D12 · mié 11 — Safari Halali → Namutoni → Onguma
 
-- **El fuerte de Namutoni, por dentro** — de paso, ya no se duerme: el museo y la torre del
-  atardecer *(`01`)*; la historia de los **siete soldados de enero de 1904** que lo defendieron y
-  escaparon de noche está en el `19`. Contando el reloj hacia atrás desde las 19:10 de Von Lindequist.
+- **El fuerte de Namutoni, por dentro** — de paso, ya no se duerme: el museo y la torre, **sin su
+  atardecer** *(`01`)*; la historia de los **siete soldados de enero de 1904** que lo defendieron y
+  escaparon de noche está en el `19`. Contando el reloj hacia atrás desde las ~16:30 en Von
+  Lindequist —la hora del sundowner de Onguma—, no desde las 19:10 de la puerta *(03/10)*.
 
 ### D13 · jue 12 — Etosha este desde Onguma: Fischer's Pan
 

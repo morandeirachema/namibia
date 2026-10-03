@@ -103,17 +103,20 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
   12:15–12:45, holgadamente antes de las 15:00** — y quedan **~160 km de parque a 60** hasta
   Terrace Bay (~2h30). Un pinchazo se come la mitad del margen: disciplina de reloj.
 - **D8 · Terrace Bay → Springbokwasser → Twyfelfontein (~211 km ◐, OSRM 211,5)** — grava entera.
-  A 60–70, **~3h–3h30 de volante**; sin puerta con hora, pero **el permiso de Skeleton Coast obliga
-  a salir del parque el mismo día**. Llegando a media tarde, los grabados entran hoy o mañana
-  temprano ✓ **Es la etapa que nació el 24/08**, de partir en dos el antiguo D9
+  A 60–70, **~3h–3h30 de volante**; **Springbokwasser cierra a las 17:00** ◐ *(`08`)* y **el permiso
+  de Skeleton Coast obliga a salir del parque el mismo día**. Los grabados entran **hoy a última
+  hora** *(horario de apertura ❌)*, lo que pide salir de Terrace Bay a las ~08:00 *(`01` §D8)*; mañana
+  temprano mataría la salida a las ~07:00 de la alternativa de Palmwag ✓ **Es la etapa que nació el
+  24/08**, de partir en dos el antiguo D9
 - **D9 · Twyfelfontein → Palmwag → Hoada (~159 km ◐, OSRM 158,7)** — grava entera *(107 + 51)*: a
   60–70, **~2h15–2h35 de volante**; «~2,5 h» del operador. **Con la mañana libre entera** — que no
   llega a dar para el rastreo de rinoceronte de Palmwag, que sale a las 06:00–06:30 *(28/08)*: eso
   queda como alternativa y sólo cabe durmiendo el D8 allí *(`11`)* ✓
   *(Hasta el 24/08 estos dos días eran **uno solo de ~370 km**, la etapa más dura del viaje, con la
   visita de Twyfelfontein metida en medio. Partirla cuesta **+3 km** y devuelve una mañana.)*
-- **D10 · Hoada → Okaukuejo (~343 km ◐, resuelto 04/08 y OSRM 342,6 — ver §3)** — grava hasta Kamanjab, asfalto después (firme de la C38
-  por confirmar, `01`) → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
+- **D10 · Hoada → Okaukuejo (~343 km ◐, resuelto 04/08 y OSRM 342,6 — ver §3)** — grava hasta Kamanjab, asfalto después ◐
+  *(C40 Kamanjab–Outjo y C38 Outjo–Okaukuejo, fichas de Wikipedia — §3; hasta el 03/10 aquí decía «por
+  confirmar»)* → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
 - **D11–D13 · Etosha (~70–108 km/día ◐)** — a 60 km/h y parando en cada charca: **el día entero ES
   el trayecto** — no son horas de tránsito, son horas de safari. *(El D11 es el largo: ~108 km por
   el **desvío obligatorio** de las obras — abajo, §3. El **D12 sube a ~93 km** porque termina
@@ -122,6 +125,9 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
 - **D14 · Onguma → Windhoek (~539 km ◐ — OSRM propio; desde Namutoni eran 548)** — asfalto a ~100 →
   **mínimo ~5h30 · realista 6h–6h30 con comida en Otjiwarongo**. **Y durmiendo fuera del parque no
   hay que esperar a que la puerta abra a las 06:10**: media hora larga de ventaja ✓
+  *(⚠️ **Variante sin decidir** —`01` §D14—: dormir el D14 en **Okonjima** deja el día en **~312 km** y
+  mete **~225 km** en el D15 antes del Craft Centre; aquí y en el D15 solo está calculada la versión
+  de Windhoek — 03/10.)*
 
 > **Lectura de conjunto, revisada el 24/08:** ningún día rompe las reglas de velocidad, y **ahora
 > solo quedan DOS etapas grandes, no tres**: el **D7** exige disciplina de reloj —la puerta de
@@ -195,8 +201,9 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   C40)* y **CityMeter da Kamanjab → Okaukuejo vía Outjo en 271 km** —a 6 km de los 265 de la matriz—.
   Total **75 + 265…271 = ~340–346 km**, que **confirma el ~340 y descarta el ~315** *(un subconteo de
   `01`)*. No hay ruta más corta: cualquier alternativa a Okaukuejo pasa por Kamanjab y Outjo *(Galton, al
-  oeste, exige reserva y es más largo por dentro)*. Firme: grava hasta Kamanjab, asfalto después *(la C38
-  sin confirmar)*.
+  oeste, exige reserva y es más largo por dentro)*. Firme: grava hasta Kamanjab, asfalto después ◐ *(C40
+  asfaltada Outjo–Kamanjab y C38 Otjiwarongo–Okaukuejo, las dos por las fichas de Wikipedia de §Fuentes;
+  hasta el 03/10 aquí la C38 iba «sin confirmar»)*.
 - **Etosha, travesía interior**: **Okaukuejo → Halali, ~70 km por la pista directa — pero en
   vuestras fechas rige el desvío obligatorio de las obras** *(MEFT `news/335`, ver `01` §D11)*:
   **por Gemsbokvlakte–Salvadora son ~108 km (OSRM propio, +38)**. **Halali → Namutoni ~70–77 km**

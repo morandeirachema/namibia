@@ -51,13 +51,33 @@ el viaje sigue; si se pierde la cabina, no.
 - [ ] **Billetes de avión impresos** ×1 p.p.
 - [ ] **Reservas impresas** ×1 de cada: coche, **Windhoek Urban Camp**, **Spreetshoogte**,
       **Sesriem ×2**, **Terrace Bay**, **Okaukuejo**, **Halali** y **Onguma Tamboti ×2**
-      *(Terrace Bay sin reserva en papel no entra al parque ✅)*
-- [ ] **Póliza IATI en papel** ×2: número de póliza y **teléfono 24 h** ✅
-- [ ] **Carné de conducir** ×1 p.p. + **permiso internacional** ×1 p.p.
-- [ ] **Cartilla de vacunación** ×1 p.p.
+      *(Terrace Bay sin reserva en papel no entra al parque ✅ — ⚠️ **y al 03/10 esa confirmación
+      no existe: la noche sigue sin reservar** ❌, `20` §4)*
+- [ ] **Confirmación de las actividades pre-reservadas en Onguma** ×1 — el Sundowner del D12 y el
+      game drive del D13 *(decididos el 26/08; **pedirlas no consta hecho** ❌ — `20` §9)*
+- [ ] **Prueba de fondos** ○ — extracto o captura de la cuenta: el MAEC da como referencia
+      **N$1.200 (~€60) por persona y día** ≈ ~N$36.000 (~€1.800) los dos *(`12` §6; lo piden «a la
+      entrada», aunque rara vez lo miren)*
+- [ ] **Póliza IATI en papel** ×2: número de póliza y **teléfono 24 h** ✅ *(el **número de
+      emergencias 24 h de Savanna**, en cambio, sigue ❌ — se pide en la entrega y se apunta aquí)*
+- [ ] **Carné de conducir** ×1 p.p. + **permiso internacional** ×1 p.p. *(la DGT: no consta pedido
+      ❌, `20` §6)*
+- [ ] **Cartilla de vacunación** ×1 p.p. — ⚠️ presupone **la cita del CVI, que no consta pedida**
+      ❌ *(`04`, `20` §6)*
 - [ ] **Tarjetas** ×2 p.p., de bancos distintos ○ *(Savanna cobra por Visa o Mastercard ✅; Diners
-      y Amex, sin confirmar ❌)*
-- [ ] **Efectivo en euros** para cambiar a la llegada ○
+      y Amex, sin confirmar ❌)* — y **con límite para la retención de la franquicia** *(del orden de
+      N$35.000 · ~€1.750, sin confirmar ❌ — `02` §2)*: la tarjeta que la soporta no es la que paga
+      el viaje
+- [ ] **Algo de efectivo en euros, de respaldo** ○ — **no para cambiar: el plan es el cajero**
+      *(`07`: cajero mejor que cambiar euros)*. **El plan de efectivo, en una línea ○** *(03/10)*:
+      **N$500–1.000 (~€25–50) en el cajero del aeropuerto el D1** y **la carga grande, N$6.000–8.000
+      (~€300–400), ese mismo día en Windhoek**, en cajero pegado a sucursal y en varias operaciones
+      *(`01` §D1, `07`)*; de eso, **~N$2.000 (~€100) en billetes apartados para el D2–D4**
+      —Spreetshoogte N$580 (~€29) si no está pagado, la reserva de efectivo que NWR pide en
+      Sesriem, leña y lanzadera—, porque **hasta Walvis Bay (D5) no hay cajero fiable** *(el Cash
+      Express de Solitaire es un bonus, no un plan)*. **Cape Cross y Twyfelfontein cobran solo en
+      efectivo** *(~N$620 + ~N$540 · ~€31 + ~€27 los dos)*: se recarga en Walvis o Henties Bay el
+      D5–D7, el último cajero antes de Kamanjab
 - [ ] **Fotocopias de todo** ×1 juego, en bolsa aparte del original ○
 - [ ] Fotos de todo en el móvil, **descargadas para verlas sin cobertura** ○
 - [ ] **Teléfonos de emergencia de `07` impresos** ×1, en la guantera ✅ *(con el de la
@@ -164,7 +184,9 @@ ya hace el apaño.
 
 - [ ] **Botas Hoka de trail ×1 par, ya domadas** ○ — Big Daddy, Sesriem Canyon, Twyfelfontein y
       la cascada del Uniab *(ya en posesión)*
-- [ ] **Sandalias Hoka Hopara 2 ×1 par** ○ — conducir y campamento *(decidido el 25/08 en vez de
+- [ ] **Sandalias Hoka Hopara 2 ×1 par** ○ — conducir y campamento **de día; desde el ocaso, las
+      botas** ✅ *(`22`: nunca sandalias ni chanclas por la parcela de noche — la víctima típica del
+      escorpión va en sandalias tras la puesta de sol; añadido el 03/10)* *(decidido el 25/08 en vez de
       las barefoot Saguaro: sandalia cerrada de outdoor, con puntera y suela de trail — aguanta la
       grava del campamento y el pedal, y no entra arena por delante)*
 - [ ] **Chanclas ×1 par** ○ — duchas compartidas. Gama más barata de Decathlon:
@@ -252,7 +274,9 @@ ya hace el apaño.
 **Lo básico, sin receta**
 
 - [ ] **Analgésico/antitérmico** — 1 caja *(paracetamol)* ○
-- [ ] **Antiinflamatorio** — 1 caja *(ibuprofeno)* ○
+- [ ] **Antiinflamatorio** — 1 caja *(ibuprofeno)* ○ — ⚠️ **para la picadura de escorpión no
+      cuenta**: los antiinflamatorios «decepcionan» y **nada de opiáceos ni sedantes**, que deprimen
+      la respiración; paracetamol, frío y al hospital ✅ *(Müller, `22` §3)*
 - [ ] **Antidiarreico** — 1 caja *(loperamida)* ○
 - [ ] **Sales de rehidratación oral ×8 sobres** ○ — con 35–38 °C la deshidratación va por delante
       de la sed, y la regla del agua son **4+ L por persona y día EN el coche** ✅
@@ -285,6 +309,9 @@ ya hace el apaño.
       2 primeras horas *([CMEJ](http://www.cmej.org.za/index.php/cmej/article/view/2545/2580))* —
       y en una parcela no hay congelador. Los teléfonos toxicológicos, con los de emergencia
       de `07`; el protocolo entero de la picadura, en el `22`
+- [ ] **Bote pequeño con tapa ×1** ○ — para meter el escorpión *(con las pinzas, sin tocarlo)* y
+      llevarlo al hospital a que lo identifiquen: lo recomienda Müller ✅ *(`22` §3)*. Vale un tarro
+      de cocina vacío; viaja con la compresa fría
 - [ ] **Mascarilla de barrera para RCP ×1** ○ — pesa nada; la lista el protocolo de mordedura del
       [African Snakebite Institute](https://www.africansnakebiteinstitute.com/articles/first-aid-for-snakebite-2/)
 - [ ] **Crema para picaduras** ×1 y **corticoide suave** ×1 ○
@@ -532,7 +559,12 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 - [ ] **4 litros de agua por persona y día, EN el coche** ✅ — no en el maletero de atrás. Y es
       suelo, no techo: el FCDO dice «plenty of water» sin cifra, y la referencia overlanding pide
       **5 L y doblar el margen en los tramos sin servicios** ◐
-      *([Tracks4Africa](https://blog.tracks4africa.co.za/water-supply-overland/))*
+      *([Tracks4Africa](https://blog.tracks4africa.co.za/water-supply-overland/))*.
+      👉 **La cuenta del tramo largo ○** *(03/10)*: de Henties Bay (D7) a Kamanjab (D9) son **tres
+      días sin tienda fiable** *(`07`)* → **24 L para beber los dos** + la cocina de dos noches
+      *(~2–3 L por noche ○)* ≈ **~30 L**: **seis garrafas de 5 L o tres de 10 L**, compradas el D6
+      en Walvis Bay o el D7 en Henties Bay *(la lista del `08` dimensiona la compra del D1, no
+      ésta)* — aparte de la garrafa de 20 L del coche, que no se bebe
 - [ ] **Garrafas o bidones, de plástico GRUESO** ✅ *(se compran allí, `08`)* — las garrafas
       finas de agua mineral **revientan con el corrugado**: mejor dos medianas que una grande
       *([Tracks4Africa](https://blog.tracks4africa.co.za/water-supply-overland/): «prone to

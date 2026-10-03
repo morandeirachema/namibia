@@ -130,6 +130,11 @@ Nevera **Engel de 40 L, con batería PROPIA** ✅ *(`20` §1)* — el riesgo que
 este manual queda resuelto: no cuelga de la batería del coche, así que no hay que preguntar por
 segunda batería ni corte por voltaje. Solo queda una duda menor: cuántas horas aguanta con su
 propia batería sin recarga, sin confirmar ❌.
+⚠️ **Y la noche de Terrace Bay (D7) es justo la que pone a prueba esa autonomía** *(03/10)*: se
+duerme en habitación, así que la nevera pasa la noche en el coche **sin poste, la noche siguiente
+a la compra grande de la costa**. Qué hacer ○: **pedir en recepción un enchufe para la nevera, o
+subirla a la habitación**, que es lo seguro; y comprar lo congelado del D8–D9 en Henties Bay
+**el D7 al pasar**, no el D6.
 
 - **Aun así, con enchufe carga mejor**: de noche —si la parcela tiene enchufe— del poste. **Toma
   de 220 V EN la parcela en
@@ -173,8 +178,9 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 - **Babuino chacma** en miradores y áreas de descanso ○: ventanillas arriba si te alejas del
   coche con comida dentro a la vista. *(Es el «mono» de esta ruta — ficha en la guía; el vervet
   ni aparece: sin un solo registro en la consulta GBIF del 08/08, archivada en `15`.)*
-- **Escorpión y serpientes**: la prevención cabe en una línea — **botas sacudidas, linterna al
-  baño, mirar dónde pisas al anochecer** ○ —; el protocolo entero de la picadura, con el hospital
+- **Escorpión y serpientes**: la prevención cabe en una línea — **botas cerradas desde el ocaso
+  (las sandalias son de día), botas sacudidas por la mañana, linterna al baño, mirar dónde pisas**
+  ✅/○ *(la víctima típica de Müller va en sandalias tras la puesta de sol — `22`)* —; el protocolo entero de la picadura, con el hospital
   etapa a etapa, es el [`22`](22-picadura-de-escorpion.md), y las fichas de los bichos, la
   [guía de fauna](guia-fauna-namibia.pdf).
 - **Mosquito al anochecer**: manga larga y repelente desde el crepúsculo ✅ — Etosha es zona de
