@@ -494,6 +494,9 @@ flowchart TD
    (vie 6 nov)**, y sin ella **no te dejan entrar** al Skeleton Coast para
    pernoctar (el permiso de tránsito obliga a salir el mismo día). *(Las **4 noches de Etosha** ya
    están: Okaukuejo, Halali y **Onguma Tamboti ×2** ✅ — **Namutoni se anuló el 24/08**.)*
+   **Las catorce noches de un vistazo —dónde se duerme, si es camping o habitación y si está
+   reservada—, en [`aparte/noches-y-reservas`](aparte/noches-y-reservas.md)** *(8 reservadas,
+   6 sin reservar, una de ellas a propósito; estado a 03/10)*.
 4. **Los papeles con calendario.** El **e-visa (N$1.600, ~€80)** se pide online y **se imprime y
    firma ante el oficial** — en `eservices.mhaiss.gov.na` *(hay visado a la llegada como plan B, MAEC)* ⚠️ *(`namibia-evisa.com` parece
    oficial y no lo es; el portal real puede dar un aviso de certificado — es mala configuración
@@ -605,7 +608,7 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 **🧳 Preparar — antes de salir de casa**
 
 4. 📅 [**`04-guia-preparacion`**](04-guia-preparacion.md) — la cuenta atrás, el e-visa, las vacunas y los plazos que vencen
-5. 📞 [**`20-reservas`**](20-reservas.md) — **el cuaderno de llamadas**: cada reserva con su canal, su contacto y su fuente — y lo que se cierra en recepción
+5. 📞 [**`20-reservas`**](20-reservas.md) — **el cuaderno de llamadas**: cada reserva con su canal, su contacto y su fuente — y lo que se cierra en recepción. *Su resumen noche a noche, en [`aparte/noches-y-reservas`](aparte/noches-y-reservas.md).*
 6. 🎒 [**`05-equipaje`**](05-equipaje.md) — el porqué del petate: las seis reglas, las temperaturas y qué trae ya el coche
 7. ✅ [**`17-lista-de-equipaje`**](17-lista-de-equipaje.md) — **la lista de la víspera**, con cantidades y casilla: ropa, neceser, botiquín, electrónica y kits
 
