@@ -145,7 +145,9 @@ y los visitantes *«may also use the concessionaire's shuttle service but buses 
 permitted»*.
 
 > A 16/07/2026 **el self-drive está permitido**, pero **ya bailó una vez en tres meses**.
-> 👉 **Reconfirmar ~4 semanas antes = primeros de octubre de 2026.**
+> 👉 **Reconfirmar ~4 semanas antes = primeros de octubre de 2026.** ⚠️ **A 03/10 no consta
+> reconfirmado ❌: sigue pendiente** — si no se hace antes de salir, se pregunta en recepción de
+> Sesriem el D3.
 >
 > Y si vuelve a caer, el plan B ya tiene precio: **la lanzadera del concesionario About Africa**,
 > que sale del propio aparcamiento 2WD — **N$200 (~€10) por persona ida y vuelta** ◐ *(prensa

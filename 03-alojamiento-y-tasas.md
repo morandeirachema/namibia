@@ -10,7 +10,8 @@
 >
 > *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 08/08/2026 · **añadida el
 21/08/2026 la tarifa de Onguma**, leída de su tarifario oficial 2027, al reservarse ahí la última
-noche de Etosha —y el 24/08, también la anterior—*
+noche de Etosha —y el 24/08, también la anterior— · puesto al 03/10/2026: Terrace Bay en el
+tarifario, los €132 de Onguma y dos flecos cerrados*
 
 https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf
 *(descargado y leído directamente el 16/07/2026)*
@@ -103,8 +104,11 @@ justo al principio de la ventana)*:
   una parcela de Namutoni**, y a cambio la parcela lleva **ducha y wc propios**
 - **Condiciones de cancelación del camping, en el propio rack 2027 de Onguma ✅** *(verificado el 25/08 abriendo el PDF)*: *«In the event of a confirmed reservation being cancelled and not postponed (in writing) 100% cancellation fees will be charged and pre-payments will be non-refundable»* — y **depósito del 50 % al reservar, el otro 50 % 30 días antes**. Es decir: **cancelar la segunda noche cuesta el 100 % (N$1.240 · ~€62); POSPONERLA por escrito, no.** El cambio por el CCF se resuelve sobre el terreno, y ahora se sabe cómo: **no se cancela,
   se pospone**. *(Desde el 26/08 ya no hay desvío al CCF que lo active: la segunda noche es firme
-  — [el plan del guepardo](aparte/plan-del-guepardo.md).)* ❌ *El importe exacto de la
-  reserva, por confirmar.*
+  — [el plan del guepardo](aparte/plan-del-guepardo.md).)* 💳 **El dato recibido es €132**
+  *(`21`)*, y hasta el 03/10 se leía como un 50 % con «+€8 sin explicar»: pero **N$2.480 / €132 =
+  18,79 N$/€**, dentro del cambio real de 2026 *(18,5–19,4)*, así que **con toda probabilidad son
+  las dos noches enteras, no el 50 %, y no queda segundo pago el ~12/10** ◐. ❌ *Confirmar con el
+  recibo de Onguma que es el total y que el saldo es cero (`20` §9).*
 - ⚠️ **Lo que este cambio cuesta no es el alojamiento**: al no dormir dentro, **la guiada de mañana
   de Namutoni deja de ser comprable** —se vende a quien pernocta—, **N$1.300 (~€65) la pareja**.
   *(Hasta el 28/08 aquí se daba también por perdido el nocturno; no lo está: se compra el D10 y el
@@ -167,6 +171,11 @@ flowchart LR
 **Otros**
 - **Dolomite Camp** *(Etosha oeste)*, bush chalet **media pensión** — N$3.180 (~€159)/pax → N$6.360 (~€318)
 - **Sossus Dune Lodge** *(dentro de la puerta de Sesriem)*, dune chalet **media pensión** — N$4.030 (~€202)/pax → N$8.060 (~€403)
+- **Terrace Bay** *(Costa de los Esqueletos — la noche del D7, la única del viaje sin camping)*,
+  habitación doble **media pensión** — **N$1.740 (~€87)/pax → N$3.480 (~€174)** ✅ *(PDF de tarifas
+  2026/27; añadida el 03/10, que faltaba del tarifario)*. ⚠️ **Su ficha web muestra «Bush Chalet B&B
+  1.450 pp» y «Campsite 460», que son cifras de otro resort** *(verificado el 25/08)*: Terrace Bay
+  **no tiene camping** y el PDF es el bueno — al reservar, el importe por escrito *(`20` §4)*.
 
 > Las tarifas son **por persona en habitación doble**: siempre hay que multiplicar por dos.
 > Los campamentos de Etosha son **con desayuno**; Dolomite y Sossus Dune son **media pensión**,
@@ -198,8 +207,10 @@ Misma unidad, mismo campamento, una semana de diferencia:
 - **Habitación doble** (2 pax) — octubre N$4.760 (~€238) → **noviembre N$3.800 (~€190)** · ahorro N$960 (~€48)/noche
 - **Chalet del charco** (2 pax) — octubre N$6.960 (~€348) → **noviembre N$4.760 (~€238)** · ahorro **N$2.200 (~€110)/noche**
 
-En un viaje de 15 días con lodges esto se acumula en **cientos de euros**. *(No hay dato de si la
-tarifa de Savanna en el coche varía igual entre octubre y noviembre ❌. Las fechas del viaje son
+En un viaje de 15 días con lodges esto se acumula en **cientos de euros**. *(~~No hay dato de si la
+tarifa de Savanna en el coche varía igual entre octubre y noviembre~~ — **cerrado el 12/08: el coche
+está reservado a precio cerrado, €2.363 en total (`20` §1), así que la variación oct/nov del
+alquiler ya no cambia nada.** Las fechas del viaje son
 las del vuelo, 31 oct – 14 nov, decididas por otros motivos — ver `16`. El ahorro de alojamiento
 sigue siendo real independientemente del coche.)*
 
@@ -259,7 +270,12 @@ La cifra de N$150 (~€7,5) de casi todas las webs es la tabla obsoleta de 2021 
 
 - Tarifas de **lodges privados** de gama media (zona de Sossusvlei, puertas de Etosha,
   Swakopmund, Damaraland). NWR es el operador estatal; los lodges privados son otro mercado.
-- **Antelación de reserva** para nov–dic 2026, y si el acceso anticipado de Sesriem desde dentro
-  de la puerta (amanecer en Deadvlei ~1 h antes que los visitantes de fuera) justifica su precio.
+- ~~**Antelación de reserva** para nov–dic 2026, y si el acceso anticipado de Sesriem desde dentro
+  de la puerta (amanecer en Deadvlei ~1 h antes que los visitantes de fuera) justifica su precio~~
+  — **cerrados el 24/08** *(anotado el 03/10)*: Sesriem ×2 está **reservado DENTRO de la puerta**
+  *(`20` §4)*, o sea que la hora de ventaja se compró; y la antelación, resuelta en el `20`
+  §«¿Con cuánta antelación reserva la gente?».
+- **Terrace Bay** *(03/10)*: la tarifa ya está arriba; **lo que sigue abierto es la reserva**, la
+  única con fecha dura que falta *(`20` §4 y §9)*.
 - ~~El **veredicto de fechas** y el **itinerario**~~ — **cerrados el 06/08/2026** *(ruta del
   norte y fechas del vuelo, ver `16`)*: el presupuesto ya se apoya en ellos.

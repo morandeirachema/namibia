@@ -145,7 +145,7 @@ en [`13`](13-itinerario.md).** Lo que importa aquí es dónde **no** hay gasolin
 flowchart LR
     S["Solitaire"] -->|"~230 km · NADA en medio<br/>pasos de Gaub y Kuiseb"| W["Walvis Bay<br/>Swakopmund"]
     SE["Sesriem"] -->|"ida y vuelta ~120 km<br/>+ 5 km de arena en reductora"| D["Sossusvlei<br/>Deadvlei"]
-    H["Henties Bay<br/>ultima gasolinera<br/>segura de la costa"] -->|"Ugabmund Terrace Bay<br/>y salida por Springbokwasser<br/>diesel en Terrace Bay<br/>SIN VERIFICAR"| T["Terrace Bay<br/>D8 y D9"]
+    H["Henties Bay<br/>ultima gasolinera<br/>segura de la costa"] -->|"Ugabmund Terrace Bay<br/>y salida por Springbokwasser<br/>surtidor de Terrace Bay:<br/>tratalo como que NO hay"| T["Terrace Bay · D7<br/>siguiente seguro:<br/>Kamanjab, D10"]
     style S fill:#e85d04,color:#000
     style T fill:#9d0208,color:#fff
 ```
@@ -181,9 +181,13 @@ flowchart LR
 
 > ### 👉 «Nunca pases de largo una gasolinera», no «reposta cuando estés bajo»
 
-**Puntos de anclaje de la ruta**: **Solitaire · Henties Bay · Kamanjab · Outjo · Otjiwarongo** —
-llena en **todos**, mires lo que mires en el indicador. En ciudad (Windhoek, Walvis Bay,
-Swakopmund), sal siempre lleno.
+**Puntos de anclaje de la ruta** *(la clasificación que manda es la del `01` §gasolineras, que es la
+que llevan el mapa y el GPS)*: **obligatorias Solitaire (las dos veces) · Henties Bay · Kamanjab ·
+Outjo** — llena en **todas**, mires lo que mires en el indicador; **Palmwag** opcional recomendada;
+y el D14, **Tsumeb primero** *(a ~105 km de Onguma: el depósito no se fía a los surtidores del
+parque)* y **Otjiwarongo** después, donde se come — las dos recomendadas, ninguna obligatoria
+*(corregido el 03/10: aquí faltaba Tsumeb)*. En ciudad (Windhoek, Walvis Bay, Swakopmund), sal
+siempre lleno.
 
 ⚠️ **Y con el límite contractual de 80 km/h en grava**, los días largos rinden menos de lo que
 parece — planifica llegar mucho antes del anochecer (las puertas de Etosha cierran al ocaso, y
@@ -230,7 +234,7 @@ flowchart LR
 - La carne **cocinada** suele pasar; envasados al vacío comerciales y **biltong**, normalmente bien
 - **La aplicación varía**
 
-👉 **Plan, día a día:** la carne del **D9** *(la comprada en Walvis Bay)* se cocina en Twyfelfontein
+👉 **Plan, día a día:** la carne del **D9** *(la comprada en Walvis Bay el D6, jueves 5 — `08`)* se cocina en Twyfelfontein
 el D8 o se queda en el control de Palmwag · la de **Outjo, el D10**, da para los braais de Okaukuejo
 y Halali y **se acaba antes del D12**, que es cuando se sale por Von Lindequist · y las dos noches de
 **Onguma se resuelven con sus braai packs**, que se compran ya fuera de la Línea *(`21`)*.

@@ -50,7 +50,7 @@ llegada el sábado 31 de octubre a las 09:25, vuelta el sábado 14**
 >   Etosha de Onguma** *(4 h, N$1.930 · ~€97 pp ✅)*, y se suma su **Sundowner Drive con foco y campo
 >   a través** *(N$980 · ~€49 pp ✅)*. El detalle y el choque de horarios, en el D12 y el D13.
 >   🛑 *El **nocturno guiado NO se pierde** (corregido el 28/08; hasta entonces aquí se decía que sí):
->   NWR lo vende en los tres campamentos y se compra el D10 y el D11 — abajo, §En los parques.*
+>   NWR lo vende en los tres campamentos y se PUEDE comprar el D10 y el D11 — **sin decidir** (N$750 · ~€38 pp, fuera del presupuesto; abajo, §En los parques).*
 > - **Se gana el D13 entero en una reserva privada** de **35.970 ha** con **leopardo, guepardo y
 >   rinoceronte confirmados por escrito**, que vende **foco, campo a través y paseo a pie** — las
 >   tres cosas prohibidas dentro del parque.
@@ -177,7 +177,7 @@ gantt
 > flowchart TD
 >     T["TIENDA DE TECHO · 8 noches ya RESERVADAS<br/>D1 Windhoek Urban Camp · D2 Spreetshoogte<br/>D3-D4 Sesriem dentro de la puerta · D10 Okaukuejo<br/>D11 Halali · D12-D13 Onguma Tamboti, fuera de la puerta"]
 >     D["POR ELEGIR CAMPING · 5 noches<br/>D5-D6 Walvis Bay: Lagoon Chalets<br/>D8 Twyfelfontein y D9 Hoada: Damaraland<br/>D14 Windhoek: se repite el Urban Camp"]
->     P["HABITACION, NO TIENDA · D7 Terrace Bay<br/>el tarifario oficial de NWR no tiene camping aqui:<br/>doble en media pension, N$3.480 (~EUR 174) los dos"]
+>     P["HABITACION, NO TIENDA · D7 Terrace Bay<br/>SIN RESERVAR a 03/10: la unica con fecha dura que falta<br/>doble en media pension, N$3.480 (~EUR 174) los dos"]
 >     T ~~~ D ~~~ P
 >     style T fill:#2d6a4f,color:#fff
 >     style P fill:#e85d04,color:#000
@@ -185,7 +185,9 @@ gantt
 >
 > **El recuento, que suma 14:** **8** ya resueltas en tienda *(D1, D2, D3–D4, D10, D11 y D12–D13)* ·
 > **5** en las que se duerme arriba pero falta cerrar campamento *(D5–D6 Walvis Bay, D8
-> Twyfelfontein, D9 Hoada y D14 Windhoek)* · **1 imposible**: *D7 Terrace Bay* (no tiene camping).
+> Twyfelfontein —sin camping con nombre identificado aún ❌—, D9 Hoada y D14 Windhoek)* · **1 imposible**:
+> *D7 Terrace Bay* (no tiene camping — **y es la única noche con fecha dura que sigue SIN RESERVAR a
+> 03/10**: sin su confirmación impresa no se cruza Ugabmund, ver D7 y `20` §4).
 >
 > 👉 **El techo real son 13 de 14 noches arriba** — con el coche del aeropuerto, la primera y la
 > última también. La única que no puede ser: Terrace Bay, que solo tiene habitaciones.
@@ -205,8 +207,8 @@ gantt
 flowchart LR
 %% ancho
     A["09:25<br/>aterrizas"] --> B["~10:15-11:00<br/>cajero + SIM MTC<br/>en la terminal"]
-    B --> C["~11:00-13:00<br/>4x4 y briefing<br/>SIN prisa"]
-    C --> D["~13:00-13:45<br/>B6 al centro<br/>45 km asfalto"]
+    B --> C["~11:00-13:00<br/>transfer de Savanna por la B6<br/>(45 km) y en su oficina:<br/>4x4 y briefing SIN prisa"]
+    C --> D["~13:30<br/>primeros 5 km al volante:<br/>oficina - Maerua, ciudad"]
     D --> E["~14:00-16:30<br/>comer + compra<br/>grande Maerua"]
     E --> F["~17:00 camping<br/>tienda con luz<br/>anochecer 19:04"]
     style A fill:#2d6a4f,color:#fff
@@ -289,7 +291,9 @@ flowchart LR
   en [la decisión del CCF](aparte/decision-del-ccf.md))*.
   ⚠️ **Y con ella se va el colchón del calendario**: ya no hay ningún día que sacrificar si el
   vuelo se retrasa. **La red que queda es la noche del D8** —Twyfelfontein, sin reservar y fuera de
-  parque—: es la que se cae sin perder un céntimo *(`aparte/decision-del-ccf`)*
+  parque—: es la que se cae sin perder un céntimo *(`aparte/decision-del-ccf`)*. **Pero solo
+  absorbe un retraso entre el D7 y el D9**: si el que se retrasa es el vuelo del D1, lo que se come
+  es Spreetshoogte, porque Sesriem (2–3) y Terrace Bay (6) tienen fecha fija *(03/10)*
 - 🛏️ **Spreetshoogte Campsite — RESERVADO ✅ (24/08), UNA noche** — lo opera **Barkhan Dune
   Retreat**: **N$290 (~€14,50) por persona y noche → N$580 (~€29) los dos**, parcela «stand only»,
   wifi gratis y máximo 4 adultos *(la **VIP con baño propio**, N$680 · ~€34 pp)*. Se reservó en
@@ -382,8 +386,8 @@ flowchart LR
   reventón de `06` §11; en Sesriem hay aire para rematar. **El compresor se comprueba en la entrega
   del D1**. ⚠️ **La norma bailó en mayo de 2026**: el 1/05 se prohibió el self-drive en esos 5 km y
   el 2/05 el MEFT lo revirtió — *«self-driving visitors with 4x4 vehicles»* pueden seguir ✅ *(nota
-  del MEFT del 2/05, citada en `06` §5)*. **Reconfírmalo a primeros de octubre**, y si vuelve la
-  prohibición o no apetece la arena: **la lanzadera del concesionario About Africa** sale del propio
+  del MEFT del 2/05, citada en `06` §5)*. **La reconfirmación de primeros de octubre, a 03/10, no
+  consta hecha ❌ — pendiente**; y si vuelve la prohibición o no apetece la arena: **la lanzadera del concesionario About Africa** sale del propio
   aparcamiento 2WD, en continuo desde primera hora — **N$200 · ~€10 por persona** ◐ *(ida y vuelta;
   prensa namibia de agosto de 2025 y guías de 2026; alguna fuente da N$250)*, mientras **la web de
   NWR sigue listando N$180 · ~€9** ✅: el precio bueno es el que digan en recepción
@@ -415,7 +419,10 @@ flowchart LR
   la corriente de Benguela. Pero ojo a la madrugada: **12–14 °C**, y viento. Cortavientos a mano
 - ☀️ amanecer **06:08** (Sesriem) · anochecer **19:16** (Walvis Bay)
 - C14 por los pasos de **Gaub y Kuiseb** + Trópico de Capricornio
-- ⛽ **Solitaire otra vez, sí o sí** — después, **~230 km sin nada** *(OSRM Solitaire → Walvis 233)*
+- ⛽ **Solitaire otra vez, sí o sí** — después, **~230 km sin nada** *(OSRM Solitaire → Walvis 233)*.
+  ⏰ **Saliendo de Sesriem a las ~08:00 ○, lleno en Solitaire a las ~09:30 y en Walvis Bay hacia las
+  14:30–15:00** *(las 5h30–6h del titular: pasos de Gaub y Kuiseb a 60–70, la parada incluida)* —
+  queda tarde de laguna
 - 🐾 **Alrededor del camping: la laguna ES la fauna** — **flamenco común y enano a millares** ◐
   *(SABAP1 respalda la estacionalidad —su máximo es jun–nov, ver D6—; la magnitud es la fama
   documentada de la laguna)*. En GBIF de oct–nov los dos flamencos suman **2.536 registros ◐**
@@ -429,7 +436,8 @@ flowchart LR
   bajan un día respecto al plan de agosto: 4 y 5 de noviembre, no 5 y 6.**
 
 ### D6 · jue 5 — Walvis Bay: flamencos y descanso ✅
-- 🌡️ **Walvis Bay 25,0 / 12,7** ✅ — el día fresco del viaje: aprovecha para el Welwitschia Drive
+- 🌡️ **Walvis Bay 25,0 / 12,7** ✅ — el día fresco del viaje, y el de mar *(el Welwitschia Drive
+  se descartó el 28/08: 160 km y ~4 h que no caben tras Sandwich Harbour — `10`)*
 - ☀️ amanecer **06:14** · anochecer **19:17** — *flamencos con la primera luz, ~06:15–07:30*
 - 🌊 **La marea manda sobre Sandwich Harbour**: bajamar **06:37** y **19:01**, pleamar **12:42** ◐
   *(predicción de [tidetime.org](https://www.tidetime.org/africa/namibia/walvis-bay-calendar-nov.htm)
@@ -449,7 +457,8 @@ flowchart LR
   Heaviside es residente de la corriente de Benguela — su ficha está en la guía; el mular,
   práctica común de los cruceros ○)*. Ficha nueva en la [guía de fauna](guia-fauna-namibia.pdf) *(añadida el 08/08)*
 - Día libre: paseo marítimo, ostras, y la excursión guiada a **Sandwich Harbour en 4x4** —
-  **decidida (24/08)** *(~N$2.600–3.220, ~€130–161 pp ◐)*; el **crucero de delfines y lobos**
+  **decidida (24/08), pero a 03/10 SIN RESERVAR y sin operador elegido ❌** *(~N$2.600–3.220,
+  ~€130–161 pp ◐; Desert Compass o Red Dune, por email y con la marea confirmada — `20` §7)*; el **crucero de delfines y lobos**
   sigue abierto como alternativa o complemento del mismo día *(~N$1.400–1.990, ~€70–100 pp ◐)*
   *(🚫 con el coche, Sandwich Harbour está prohibida en el contrato de **Asco** —el de Savanna, ya leído, no la nombra, pero sí anula el seguro fuera de pista— el tour es la forma correcta y mejor;
   precios y fuentes en [`02`](02-presupuesto.md), §9 y [`20`](20-reservas.md) §7)*
@@ -483,13 +492,14 @@ flowchart LR
 - Dentro del parque: **60 km/h** · 🎫 Skeleton Coast ~N$620 (~€31)/24 h
 - 🛏️ **Terrace Bay (NWR)** — dormir en la Costa de los Esqueletos, con la niebla y el
   Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping** — el precio,
-  cerrado, dos líneas más abajo
+  cerrado, dos líneas más abajo. 🔴 **Y a 03/10 es la única noche con fecha dura que sigue SIN
+  RESERVAR**: sin la confirmación impresa, la puerta de arriba no se cruza *(`20` §4)*
 - 🐾 **Alrededor del resort** — el **chacal de lomo negro es el fijo de la costa** *(GBIF costa:
   271 registros, 57 en oct–nov ◐)* y la **hiena parda deja huellas en las playas** ○ — en GBIF
   hay 17 registros en la zona pero **solo 4 en oct–nov: muestra corta, no se afirma más** ◐. **Springbok, órix y hasta
   hiena parda en el delta del Uniab**, que se cruza dos veces ◐ *(`10`)*. ¿León del desierto en la
   playa? **1 registro en la zona: por debajo del umbral — no se afirma nada**
-- 💰 **Precio cerrado (03/08) ✅:** el PDF oficial de tarifas de NWR 2026/2027 da para Terrace Bay
+- 💰 **Precio cerrado (03/08) ✅ — reserva, NO (03/10) ❌:** el PDF oficial de tarifas de NWR 2026/2027 da para Terrace Bay
   **habitación doble en media pensión a N$1.740/persona → N$3.480 (~€174) los dos**, en tu ventana.
   **No hay camping**: la ficha web listaba una fila de «Campsite» que **no existe en el tarifario**
   — es un error de su web. Es **la noche más cara del viaje**, pero incluye **cena y desayuno**.
@@ -510,12 +520,18 @@ flowchart LR
   tardío del viaje: estás en el extremo occidental del huso*
 - Salida por **Springbokwasser** → C39 → D2612/**D3254** → **Twyfelfontein**. **Terrace Bay →
   Twyfelfontein son ~211 km ◐** *(OSRM; cuadra con el 96+120 verificado el 03/08 y con los 216 del
-  routeplanner)*: **grava entera**, sin puerta con hora — pero **el permiso de Skeleton Coast obliga
-  a salir del parque el mismo día**, así que tampoco hay que dormirse
+  routeplanner)*: **grava entera**, y **Springbokwasser cierra a las 17:00** ◐ *(07:30–17:00, `08`;
+  además el permiso de Skeleton Coast obliga a salir el mismo día)*. **La cuenta del día** ○: ~96 km
+  de parque a 60 hasta la puerta (~1h40) y ~115 de grava a Twyfelfontein (~1h50); para estar en los
+  grabados a las ~16:00, **tope de salida de Terrace Bay ~12:00 sin paradas** — y lo que el `10`
+  carga en el día no cabe entero: **saliendo a las ~08:00 caben el Uniab (~2 h a pie) y Wondergat
+  (+45 min) o el Living Museum (~1 h)**; los Organ Pipes (+1h13) se van a la mañana del D9 o se caen
 - 🗿 **Los grabados, con tiempo por primera vez**: **Twyfelfontein** (arte rupestre, Patrimonio de
   la Humanidad; Google lo lista como cerrado — **es un fallo del listado**). ⚠️ **La visita guiada
   es obligatoria y de pago: N$270 (~€13,5)/persona, solo efectivo** ◐ *(tarifario NHC; ver `11`)*.
-  Llegando a media tarde entra **hoy o mañana temprano**: es la ventaja de dormir aquí
+  **Horario de apertura ❌ sin verificar.** Llegando a media tarde entra **hoy a última hora**, que es
+  la ventaja de dormir aquí — **mañana temprano, no**: mataría la salida a las ~07:00 que pide la
+  alternativa de Palmwag *(D9)*
 - 🏜️ **Y con la tarde libre, lo que hay al lado**: el **Organ Pipes**, la **Burnt Mountain** y el
   **Bosque Petrificado** están a pocos kilómetros *(`10`)*
 - ⚠️ **Damaraland: los bajos, cubiertos por la Opción 4 de Savanna** ✅ *(`20` §1)*, pero
@@ -530,8 +546,10 @@ flowchart LR
 - 🛏️ **Damaraland, y ESTA es la noche que NO hay que reservar con antelación** — ni está dentro de
   un parque ni es Sesriem, y **noviembre es temporada hombro**: la práctica documentada es que
   fuera de Etosha y Sesriem no hace falta reservar ◐ *(`20` §antelación)*. **Por eso es la red del
-  calendario**: si el vuelo se retrasa el D1, es la que se cae **sin perder un céntimo**.
-  **Tarifa ❌ en los dos candidatos**: **Twyfelfontein Country Lodge** *(un agregador da «desde
+  calendario**: la que se cae **sin perder un céntimo si algo se retrasa entre el D7 y el D9** — un
+  vuelo tardío el D1 no llega hasta aquí: se come Spreetshoogte, con Sesriem (2–3) y Terrace Bay (6)
+  fijos *(03/10)*. **Camping con nombre: ninguno identificado aún ❌ (03/10)** — los dos candidatos
+  son lodges y **sin tarifa ❌**: **Twyfelfontein Country Lodge** *(un agregador da «desde
   ~$223 pp DBB» para may–oct 2026 ◐, sin cifra limpia de noviembre — `15`)* y la zona de **Palmwag**,
   50 km más al norte, que además es la base de los rastreos. **Pide las dos por escrito** *(`20` §5)*
 
@@ -567,13 +585,13 @@ flowchart LR
   📞 **Palmwag se reserva en Gondwana: +264 61 427 200 · info@gcnam.com** ✅
 - Ruta: **Twyfelfontein → Palmwag ~107 km** ◐ → **paso de Grootberg** → **Hoada ~51 km**. Grava
   entera, y **la C40 por el paso es de las carreteras bonitas del país** ○
-- ⛽ **Palmwag es el surtidor de respaldo del tramo** *(`07`)* — si el de Terrace Bay falló, aquí
-  se repone
+- ⛽ **Palmwag es el primer surtidor que cuenta desde Henties Bay** *(`07`; el de Terrace Bay se
+  trata como si no existiera — §gasolineras)*: opcional recomendado, el bucle entero cabe en los 140 l
 - 🥩 **Y aquí está la primera puerta veterinaria del viaje, que el dossier situaba solo en Etosha**
   *(corregido el 28/08)*: el control de la Línea Roja está **en la C43, entre el cruce de la C40 y el
   lodge de Palmwag** ◐ *(OpenStreetMap: «Disease Control Point», −19,884 · 13,949; el lodge queda
   ~500 m al norte)*. Se cruza **hacia el sur** al salir de Palmwag rumbo a Grootberg, y ahí
-  **confiscan la carne cruda** — la comprada en Walvis Bay el D5 hay que **habérsela comido o
+  **confiscan la carne cruda** — la comprada en Walvis Bay el D6 hay que **habérsela comido o
   cocinado antes**. Pasan el biltong, las conservas, los envasados comerciales, el pollo y el
   pescado *(`07`)*
 - 🐾 **Alrededor del campamento** — mismo polígono GBIF que ayer *(Damaraland: elefante del
@@ -590,15 +608,20 @@ flowchart LR
   mes**: 37,8 en octubre → 37,1 en noviembre → 35,6 en diciembre
 - ☀️ amanecer **06:18** (Hoada) · anochecer **19:08** (Okaukuejo) — *las puertas de Etosha cierran
   al ocaso: pasa Andersson con margen de sobra*
-- C40 a Kamanjab → C38 a la puerta de **Andersson** (asfalto desde Kamanjab... ⚠️ firme por
-  confirmar) → **Okaukuejo a 17 km** de la puerta
+- C40 a Kamanjab → Outjo → C38 a la puerta de **Andersson** *(grava hasta Kamanjab; **asfalto
+  Kamanjab–Outjo por la C40 y Outjo–Okaukuejo por la C38** ◐ — fichas de Wikipedia de ambas, `13`
+  §3; hasta el 03/10 aquí decía «firme por confirmar»)* → **Okaukuejo a 17 km** de la puerta.
+  ⏰ **Salida de Hoada ~08:00 ○ → Kamanjab ~09:15 (lleno) → Outjo ~11:15 (lleno y compra) →
+  Andersson ~12:45 → Okaukuejo ~13:30**: las ~4h30 del titular más dos repostajes y la ventanilla
 - ✅ **Son ~343 km (verificado 04/08, antes se manejaba ~315)**: Hoada → Kamanjab **75 km** + Kamanjab
   → Okaukuejo por Outjo **~265–271 km** *(distancesto: Kamanjab–Outjo 156 km; CityMeter: Kamanjab–Okaukuejo
   271 km; la matriz de 2010 daba 265, convergen — **y OSRM lo remacha: 343**)*. **El ~315 queda
   refutado.** Cuenta ~343 para el depósito y la hora de puerta. Ver [`13`](13-itinerario.md), §3.
 - 🎫 Etosha ~N$620 (~€31)/24 h × 4 días · trámite de puerta 20–30 min · **60 km/h dentro**
 - 🎟️ **Nada más llegar, en recepción: cierra los guiados** — la salida de mañana de MAÑANA en
-  Okaukuejo y pregunta los horarios *(❌ no los publican; decidido 08/08 — ver §parques)*
+  Okaukuejo y pregunta los horarios *(❌ no los publican; decidido 08/08 — ver §parques)*. **El
+  nocturno de esta noche sigue SIN DECIDIR** *(N$750 · ~€38 pp, se pide aquí si se decide — `20` §9)*
+  — ⚠️ **compite con la charca en su pico, 19:00–22:00 ◐, la noche más oscura del viaje**
 - 🌙 **Noche en la charca iluminada de Okaukuejo** — rinocerontes negros. Y **en luna nueva**
   *(novilunio **el 9 a las ~09:00**: esta noche es la más oscura del viaje entero, **0,2 %** — ver el bloque 🌙 de arriba)*: la
   charca manda sola sobre la oscuridad total, y el cielo de la parcela es de libro
@@ -628,7 +651,8 @@ flowchart LR
   *(«closed on February 1», citando al MEFT)* ◐. Es decir: **el proyecto es plurianual y el desvío
   sigue en pie** — **planifica este día CON el desvío**, no con la directa. Lo que sigue sin nota
   oficial abierta es la fecha de fin *(«julio de 2027» solo en secundarias)*.
-  👉 **Pregúntaselo igualmente a NWR Okaukuejo, +264 67 229 800**, al reservar: si para noviembre
+  👉 **Pregúntaselo igualmente a NWR Okaukuejo, +264 67 229 800** — se reservó el 21/08 y **no
+  consta respuesta sobre el desvío ❌ (03/10)**: en recepción al llegar. Si para noviembre
   el tramo hubiera reabierto, serían **~38 km menos** y **Nebrownii y Kapupuhedi volverían a entrar**.
 - 🚗 **El desvío en la práctica ◐**: desde Okaukuejo se sigue por grava hasta **~km 47** y ahí se
   toma el **bypass nuevo y el Rhino Drive** hacia Halali. Las charcas accesibles en ese tramo se
@@ -656,15 +680,19 @@ flowchart LR
 - 🧭 **Salida guiada de mañana desde Halali — N$650 (~€33)/persona** ✅ — y el traslado por la
   tarde con vuestro coche, parando en **Goas, Nuamses, Springbokfontein, Batia, Okerfontein y
   Chudop** — el corazón del safari. *(**Okerfontein se añadió el 28/08**: es una de las cinco
-  charcas de guepardo que nombra la guía y estaba fuera de la lista.)* **Namutoni se visita entero** *(el fuerte alemán, su museo, la torre del
-  atardecer)*, pero **ya no se duerme ahí**
-- 🚪 **Y hoy hay una hora nueva: HAY QUE SALIR DEL PARQUE.** Von Lindequist cierra a las **19:10**
-  ✅ y **Onguma queda 3,4 km después** ✅ *(enrutado propio)* — con luz de sobra para montar. **Cuenta
-  el día hacia atrás desde esa hora**: el este de Etosha se hace con reloj, no a ojo
+  charcas de guepardo que nombra la guía y estaba fuera de la lista.)* **Namutoni se visita a media
+  tarde** *(el fuerte alemán, su museo, la torre)*, pero **ya no se duerme ahí ni se ve su atardecer
+  desde la torre** — el sundowner manda *(abajo; 03/10)*
+- 🚪 **Y hoy hay una hora nueva, y NO es la de la puerta.** Von Lindequist cierra a las **19:10** ✅
+  y **Onguma queda 3,4 km después** ✅ *(enrutado propio)*, pero **la actividad de hoy es el Sundowner
+  Drive de Onguma — 3 h, N$980 (~€49) pp ✅, decidido el 26/08**: sale «al atardecer» *(hora exacta ❌:
+  pregúntala al reservar)* y hay que estar montados antes → **cruza la puerta hacia las ~16:30** ○.
+  **Cuenta el día hacia atrás desde las 16:30**, no desde las 19:10 *(que vuelve a mandar solo si se
+  salta el sundowner)*: el este de Etosha se hace con reloj, no a ojo
 - ⚠️ **Lo que se pierde al no dormir en Namutoni, dicho claro** *(cambio del 24/08)*: la **guiada de
   mañana de Namutoni** *(N$650 · ~€33 pp)*, que **se compra durmiendo en el campamento**. **El
-  nocturno NO**: NWR lo vende en los tres campamentos y se compra el D10 y el D11 *(corregido el
-  28/08)*. **Lo que entra a cambio lo vende Onguma** —sundowner con foco, paseo a pie y game drive
+  nocturno NO**: NWR lo vende en los tres campamentos y se puede comprar el D10 y el D11 *(corregido el
+  28/08)* — **sin decidir** *(N$750 · ~€38 pp, `20` §9)*. **Lo que entra a cambio lo vende Onguma** —sundowner con foco, paseo a pie y game drive
   guiado dentro de Etosha—, abajo y en el D13
 - 🐾 **Partes de viajeros en Namutoni** *([Expert Africa](https://www.expertafrica.com/namibia/etosha-national-park/namutoni-camp/reviews/1) — ojo, muestra corta: 16 viajeros y
   11–16 partes por especie ◐)*: jirafa,
@@ -709,11 +737,13 @@ flowchart LR
   - ⚠️ **Un «night drive» como tal NO figura en el tarifario oficial 2027** ❌; lo citan agregadores
     independientes ◐ *([safaribookings](https://www.safaribookings.com/onguma))*, sin precio ni
     horario. El que está en la tarifa —y el que hay que reservar— es el sundowner
-  - ⚖️ **El choque de horarios, resuelto el 26/08**: el sundowner sale al atardecer y obligaría a
-    salir del parque hacia las 17:00, así que **se hace el D12, no hoy** — el D13 queda entero para
-    la llanura. Y **el game drive guiado dentro de Etosha va hoy a primera hora**: es la única
-    actividad de Onguma que sirve para el guepardo *(`aparte/plan-del-guepardo.md`)*. **Los dos,
-    decididos y en el presupuesto** *(`02` §9)*
+  - ⚖️ **El choque de horarios, resuelto el 26/08**: el sundowner sale al atardecer y obliga a
+    salir del parque hacia las 16:30, así que **se hace el D12, no hoy** — el D13 queda entero para
+    la llanura. **El game drive guiado dentro de Etosha es de hoy** *(4 h, en vehículo de Onguma,
+    hora de salida ❌)* — y **ahí hay un choque SIN RESOLVER (03/10): la primera luz solo se vende una
+    vez**, o al guiado o a la cola de las 06:05 de abajo. **Lo que hay que preguntar a Onguma es a qué
+    hora sale**; la decisión, pendiente *(la casilla, en `20` §9)*. **Los dos, en el presupuesto**
+    *(`02` §9)*
   - 📌 **Las actividades y las comidas se reservan al hacer la reserva o al llegar a recepción** ✅
 - 🛏️ **Onguma Tamboti, segunda noche** ✅ **RESERVADA**
 
@@ -727,8 +757,11 @@ flowchart LR
 > Lo que eso significa: **esta segunda noche de Onguma es firme**, no hay que llamar a nadie ni
 > decidir nada sobre la marcha — y **el día hay que exprimirlo**:
 >
-> - 🕕 **En la cola de Von Lindequist a las 06:05**, no a las 07:30. La primera hora de luz en
->   llanura abierta es la mejor del día y hoy no compite con ningún traslado.
+> - 🕕 **En la cola de Von Lindequist a las 06:05**, no a las 07:30 — **si la primera luz es con
+>   vuestro coche**. ⚖️ **Sin decidir (03/10)**: el game drive guiado de Onguma *(4 h, su vehículo,
+>   hora de salida ❌)* la quiere también; si sale al alba, Andoni va con el guía o se cae y lo de
+>   abajo empieza a su vuelta. **Antes de elegir, la hora de salida — `20` §9.** La primera hora de
+>   luz en llanura abierta es la mejor del día y hoy no compite con ningún traslado.
 > - 🌾 **06:15–09:30 · ANDONI primero** *(rehecho el 28/08)* — Namutoni → Tsumcor → la **llanura de
 >   Andoni**, ~35–40 km al norte: **la única pradera de hierba corta de verdad del este**, con
 >   springbok, órix y ñu al descubierto. **El circuito viejo —Chudop, Dik-dik Drive, Fischer's
@@ -784,8 +817,8 @@ flowchart LR
 %% ancho
     A["06:01 amanecer<br/>desmontar<br/>sin madrugon"] --> B["10:00-13:00<br/>regalos<br/>Craft Centre"]
     B --> C["13:00-16:30<br/>comida y gastar<br/>los ultimos N$"]
-    C --> D["17:00 salida B6<br/>deposito lleno<br/>a la ida"]
-    D --> E["~18:00 devolucion<br/>4x4 y facturar<br/>cierra 19:45"]
+    C --> D["~17:00 a la oficina<br/>de Savanna, en Windhoek<br/>tanque como se entrego"]
+    D --> E["~18:00 devolucion y<br/>transfer al aeropuerto<br/>facturar: cierra 19:45"]
     E --> F["20:45<br/>despegue"]
     style A fill:#2d6a4f,color:#fff
     style F fill:#9d0208,color:#fff
@@ -820,7 +853,8 @@ flowchart LR
   16:00**, y fuera de horario cobran **N$550 (~€28) por trayecto** ⚠️ *(corregido el 28/08: el
   17:20 de antes era la hora tope de las llegadas que recogen, no la del transfer de vuelta)*. Que
   cubran las 18:00 **de un sábado sigue sin confirmar por escrito: es la pieza que más falta por
-  cerrar**. Plan B: **devolver a las 16:00** y salir en el último transfer gratis.
+  cerrar**. Plan B: **devolver a las 16:00** y salir en el último transfer gratis — **sin horario
+  escrito ❌**: con él, la comida y la última vuelta acaban a las ~15:00 y el diagrama de arriba no vale.
 - 🧳 **Facturación** ◐ — mostradores de Discover: **abren 16:45 y CIERRAN 19:45** *(4 h antes y
   60 min antes)* — **la hora dura del día es esa**. Devolviendo a las 18:00 quedan **~1h45 de
   colchón**, transfer incluido: cabe hasta un pinchazo en la B6. Franquicia **1×23 kg por
@@ -996,7 +1030,7 @@ y todo lo de fuera de Etosha. *(La cuenta anterior —«de día no compensa»—
   plan: **salida guiada de mañana en Okaukuejo (D11) y en Halali (D12)**, N$650 ≈ €33/persona cada
   una ✅. **La de Namutoni cayó con Namutoni**: se compra **durmiendo la víspera en ese campamento**,
   y el D12 ya se sale a dormir a Onguma. **El nocturno, no** *(se dio por caído el 24/08 y se
-  corrigió el 28/08: se compra el D10 y el D11, abajo)*. Los **traslados
+  corrigió el 28/08: se puede comprar el D10 y el D11 — sin decidir, abajo)*. Los **traslados
   Okaukuejo → Halali → Namutoni → Onguma siguen siendo con vuestro 4x4** —no hay alternativa: el
   coche viaja con vosotros— y se hacen como safari lento de tarde, parando en las charcas. *(La
   charca iluminada de Okaukuejo y la de Halali son gratis y andando desde la parcela; la de
@@ -1022,7 +1056,7 @@ exactamente lo que el viajero valora**: decidido el 08/08. La aritmética antigu
 y trece horas de puerta»)* queda en `16` §7 por si algún día se revisa; los traslados y el
 mediodía siguen siendo vuestros.
 
-> ### 🛑 El nocturno de NWR **NO se cae**: se compra el D10 y el D11 *(corregido el 28/08)*
+> ### 🛑 El nocturno de NWR **NO se cae**: se PUEDE comprar el D10 y el D11 — **sin decidir** *(corregido el 28/08; estado a 03/10)*
 > De noche está **prohibido circular por libre** dentro de Etosha, así que el nocturno guiado es
 > **la única forma legal de estar en el parque a oscuras**: puercoespín, liebre saltadora, **zorro
 > del Cabo, gato montés africano o un lobo de tierra** *(los tres, con ficha en la guía)*, leones
@@ -1033,8 +1067,12 @@ mediodía siguen siendo vuestros.
 > Namutoni». Era falso, y ha costado cuatro días.** El nocturno **no es de Namutoni: es de los tres
 > campamentos**, y la web de NWR lo lista uno por uno para **la temporada de vuestras fechas**
 > *(nov 2026 – jun 2027)*: **Okaukuejo, Halali y Namutoni — «Guided Night Drives · Per Person
-> 750.00»** ✅. Se duerme dentro **dos noches**, así que **se puede comprar dos veces**:
-> - 🌙 **D10, Okaukuejo** — se pide en recepción al cruzar Andersson, con la guiada de mañana.
+> 750.00»** ✅. Se duerme dentro **dos noches**, así que **se puede comprar dos veces** — **comprable
+> no es decidido: los dos siguen SIN DECIDIR y fuera del presupuesto** *(`20` §9, `02` §9)*; si se
+> decide, se piden en recepción al llegar:
+> - 🌙 **D10, Okaukuejo** — se pediría en recepción al cruzar Andersson, con la guiada de mañana.
+>   ⚠️ **Y compite con la charca**: su pico es **19:00–22:00** ◐ *(`21`)*, justo la ventana del
+>   nocturno, en la noche más oscura del viaje — una cosa o la otra.
 > - 🐆 **D11, Halali — y ésta es LA noche de leopardo del viaje.** Foco, pistas cerradas al
 >   self-drive, y el campamento con la única cifra de leopardo que aguanta el análisis estadístico
 >   *(31 %, 12 de 39)*. La propia ficha de NWR: *«The thick vegetation in the area makes it a
@@ -1042,13 +1080,13 @@ mediodía siguen siendo vuestros.
 >
 > **Lo que se perdió al dejar Namutoni fue la noche del D12, no el producto** — y con ella la
 > tercera oportunidad, no las tres. **Coste: N$750 · ~€38 pp cada uno** *(los dos, N$3.000 · ~€150
-> la pareja)*. ➕ **Y hay una tercera actividad que este dossier nunca nombró**: la **guiada de
+> la pareja)* — **sin decidir y fuera del total** *(`20` §9)*. ➕ **Y hay una tercera actividad que este dossier nunca nombró**: la **guiada de
 > TARDE**, N$650 (~€33) pp, también en los tres campamentos ✅.
 > ❌ *Los horarios de salida siguen sin publicarse y no se sabe si aceptan reserva anticipada: se
 > cierran en recepción al llegar a cada campamento* 📞 *+264 67 229 800.*
 >
 > 👉 **Y el Sundowner Drive de Onguma, decidido el 26/08 para el D12, sigue en pie y sigue siendo
-> otra cosa**
+> otra cosa** *(y manda el reloj del D12: puerta hacia las ~16:30, no 19:10 — ver D12)*
 > *(3 h, **N$980 · ~€49 pp** → **N$1.960 · ~€98 los dos** ✅)*: sale al atardecer y **vuelve de
 > noche, con foco y campo a través**. No es dentro de Etosha —es la reserva privada de 35.970 ha
 > que linda con ella— pero **da las dos cosas que el parque prohíbe**. *(El **paseo guiado a pie**,
@@ -1112,4 +1150,5 @@ persona y noche** ✅ — la reserva privada por el precio del parque, sin el lo
   D9)*. Lo que sigue **sin precio ❌** es lo de **Grootberg** —rastreo de rinoceronte de día entero,
   que tampoco cabe, y elefante del desierto— *(res4@journeysnamibia.com · +264 61 228 104)*.
 - 🚧 **Las obras de Etosha** — **desvío obligatorio Okaukuejo→Halali en vigor hasta julio de 2027**
-  *(afecta al D11; detalle y fuente en ese día)*. Confírmalo con NWR al reservar.
+  *(afecta al D11; detalle y fuente en ese día)*. La reserva se hizo el 21/08 y **no consta
+  respuesta de NWR sobre el desvío ❌ (03/10)**: pregúntalo en recepción al llegar.

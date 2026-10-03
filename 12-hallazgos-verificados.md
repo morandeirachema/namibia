@@ -34,6 +34,10 @@ privada — su año tarifario corre también de noviembre a octubre, `03`. Se at
 
 ## 2. El equipo de camping va incluido, no se factura aparte
 
+> *(03/10)* **Asco se descartó el 12/08 — el coche es de Savanna** *(`20` §1)*: lo que sigue es la
+> tarifa con la que se verificó el método, y se conserva como registro histórico, no como precio
+> vigente. En Savanna el equipo de camping también va dentro del grupo GSXA-1 *(`20` §1)*.
+
 La tarifa de camping de Asco incluye tienda de techo, nevera, mesas, sillas, ropa de cama,
 parrilla, ollas y utensilios **sin línea de alquiler separada**.
 

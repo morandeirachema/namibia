@@ -229,7 +229,9 @@ flowchart LR
 1. **El §2 se hace siempre**: Moringa por turnos el D11, leopardo al guía el D12, y el sundowner
    con el foco puesto en él. No cuesta nada más.
 2. **Se pide por email a Okonjima** *(info@okonjimalodge.com · +264 83 373 1400)* — la
-   recomendación es del 27/08 y **no consta pedido** ❌ *(sigue sin decidir, `20` §9)*: **una parcela
+   recomendación es del 27/08 y **no consta pedido** ❌ *(sigue sin decidir, `20` §9 — **y la
+   alternativa, el Urban Camp del D14, tampoco está reservada** ❌, `20` §5: al 03/10 la noche del
+   D14 está abierta en las dos direcciones)*: **una parcela
    del camping Omboroko para el 13 de noviembre, el rastreo de leopardo de esa tarde, y sus
    condiciones de cancelación** ❌. Con eso en la mano, la decisión final se toma **la tarde del D13
    en Onguma, con lo visto**: si el leopardo ya salió en Moringa o con el foco, se cancela *(según

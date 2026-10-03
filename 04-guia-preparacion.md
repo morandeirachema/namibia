@@ -7,7 +7,8 @@
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 09/08/2026*
+> *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 09/08/2026 · cuenta atrás
+> y plazos puestos al 03/10/2026*
 
 
 La técnica de conducción en grava no tiene fuente oficial: va marcada como ○ en vez de disfrazarla
@@ -54,10 +55,14 @@ del viaje (**D10–D13, del 9 al 12 de noviembre**), las fechas reales son:
   y la zona empieza en el **D7, el cruce de Ugabmund hacia Terrace Bay (vie 6 — región de
   Kunene)**: **~4–5 de noviembre**, ya de viaje — hay que llevarla comprada
 - **Mefloquina** — empieza **2–3 semanas antes** → **~16–23 de octubre**, receta necesaria en la
-  cita del CVI de septiembre
+  cita del CVI — **que a 03/10 no consta pedida** ❌ *(la ventana de septiembre se cerró y la llamada
+  del 30/09 no tiene resultado anotado)*
   ⚠️ *Las dos fechas bajaron un día el 24/08, al adelantarse Terrace Bay del 7 al 6 de noviembre.*
 
-👉 **Saca la receta en la cita del CVI, no la semana antes.**
+👉 **La cadena, dicha entera** *(03/10)*: **sin cita del CVI antes del ~16/10, la mefloquina queda
+fuera** —no hay tiempo de empezarla— **y solo queda Malarone**, que se empieza el ~4–5/11 ya de viaje
+y **hay que llevar comprada antes de volar** *(con receta o lo que el CVI o el médico de cabecera
+indiquen)*. La cita se pide hoy, no la semana antes.
 Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 > ❌ **Corrección:** un borrador de esta guía decía que la rabia es una pauta de 3–4 semanas y que
@@ -68,14 +73,15 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
-*Recalculada el 29/09/2026: el vuelo sale de Oporto el **30 de octubre**. Lo que ya venció y el
-repo no da por hecho va primero — que no conste hecho aquí no significa que no lo esté: significa
-que nadie lo ha anotado.*
+*Recalculada el 29/09/2026 y puesta al 03/10: el vuelo sale de Oporto el **30 de octubre**. Lo que
+ya venció y el repo no da por hecho va primero — que no conste hecho aquí no significa que no lo
+esté: significa que nadie lo ha anotado. **El 30/09, que esta cuenta atrás daba como «AHORA», ya
+pasó sin resultado anotado.***
 
 ```mermaid
 flowchart LR
 %% ancho
-    J["VENCIDO<br/>julio - septiembre"] --> A["AHORA · 30 sep<br/>CVI y permiso"]
+    J["VENCIDO<br/>julio - 30 sept<br/>sin resultado anotado"] --> A["AHORA · 3 oct<br/>CVI, DGT, pasaportes<br/>y los pagos que no constan"]
     A --> O1["Primera semana<br/>de octubre"] --> O2["~16-23 oct"] --> O3["~24 oct"]
     O3 --> F["30 oct<br/>VUELO"]
     style J fill:#9d0208,color:#fff
@@ -88,20 +94,33 @@ flowchart LR
   §4)*; reservar **Sesriem ×2** *(✅ hecho el 24/08, 2–3 nov)* y **Terrace Bay**, que sigue
   pendiente; y **comprobar los pasaportes** contra la
   vuelta del 15 de noviembre —válidos hasta el **15/05/2027** y con 3 páginas en blanco de verdad
-  (§Pasaporte)—, que es lo que el e-visa da por hecho y el repo sigue sin tener confirmado.
-- **VENCIDO · septiembre** — **ser atendidos en el CVI**: para salir el 30/10, «4–6 semanas de
-  antelación» era **hacia el 19–26 de septiembre**, y esa ventana **se cerró el 26/09** sin que
-  conste la cita pedida: **es lo más urgente de esta lista**, y qué cabe todavía antes del 30/10
-  lo dice el CVI ❌. Y **el permiso internacional de conducir**, que tocaba en septiembre.
-- **AHORA · 30 de septiembre** — **llamar al CVI y pedir el permiso internacional por la sede de
-  la DGT**, que el viajero tiene apuntados para ese día *(dicho el 29/09; no constan hechos hasta
-  que se anoten)*; **mandar las preguntas
-  por escrito de la entrega a Savanna** *(`20` §1)* y **leer la póliza de IATI** —contratada el
-  24/08— para confirmar que lleva **evacuación aérea dentro del país** y **búsqueda y salvamento**
-  *(`20` §3)*. Los plazos de pago de octubre, en el `20` §9.
-- **Primera semana de octubre** — solicitar el e-visa: necesita billete y reservas. Adaptadores
-  tipo M y mapa en papel.
-- **~16–23 de octubre** — empezar la mefloquina, **si** el CVI la receta *(§malaria)*.
+  (§Pasaporte)—, que es lo que el e-visa da por hecho. **A 03/10 no consta hecho** ❌: va esta
+  semana, **antes de pedir el e-visa**, y si alguno falla la cita de renovación es el cuello. Ya
+  tiene casilla en el `20` §9.
+- **VENCIDO · septiembre, y el 30/09** — **ser atendidos en el CVI**: para salir el 30/10, «4–6
+  semanas de antelación» era **hacia el 19–26 de septiembre**; la ventana **se cerró el 26/09**, la
+  llamada iba el 30/09 y **a 03/10 no consta hecha ni su resultado** ❌. **Lo que toca ahora**:
+  llamar y coger la primera cita que den, sabiendo que **sin cita antes del ~16/10 la mefloquina
+  queda fuera y solo queda Malarone, comprada antes de volar** *(§malaria)*; qué vacunas caben
+  todavía lo dice el CVI. Y **el permiso internacional de conducir**: la petición del 30/09 por la
+  sede de la DGT **tampoco consta** ❌ — y «uno por conductor» exige **decidir antes si Miguel va de
+  conductor adicional** *(N$30/día · ~€1,50 — `20` §9)*: uno o dos permisos se decide ahora, no en
+  el mostrador de Savanna.
+- **AHORA · 3 de octubre** — **CVI y DGT** *(arriba)*; **los pagos que no constan** *(el 20 % de
+  Sesriem —cuyo íntegro vence hoy—, Okaukuejo y Halali; el 50 % de Barkhan; el importe del Urban
+  Camp; y si del coche se pagó el total o el 25 % — `20` §9)*; **pedir por escrito a Savanna**,
+  antes de volar y no en el mostrador, la devolución del sábado a las 18:00 con transfer tardío y
+  lo que cubre la Opción 4 en un vuelco sin terceros *(`20` §1)*; y **leer la póliza de IATI**
+  —contratada el 24/08, tocaba el 30/09 y no consta— para confirmar que lleva **evacuación aérea
+  dentro del país** y **búsqueda y salvamento** *(`20` §3)*: **antes del ~10/10**. Los plazos de pago
+  de octubre, en el `20` §9.
+- **Primera semana de octubre** — solicitar el e-visa: necesita el **billete de vuelta emitido**
+  *(`20` §6)*; **si pide además reservas de alojamiento, no está verificado ❌** —este documento lo
+  daba por hecho y el `20` no—: **compruébalo en el formulario antes de empezar**, y la validez
+  *(¿90 días? ❌, abajo)* también. Antes, pasaportes y nombres del billete. Adaptadores tipo M y
+  mapa en papel.
+- **~16–23 de octubre** — empezar la mefloquina, **si** el CVI la receta — **y solo si hubo cita
+  antes del ~16/10; si no, Malarone** *(§malaria)*.
 - **~21 de octubre** — último día para la fiebre amarilla **si** la ruta llegara a exigirla.
 - **~24 de octubre** — imprimirlo **todo**, que Namibia funciona con papel; recomprobar el diésel y
   el self-drive a Deadvlei.
@@ -137,10 +156,11 @@ Fuente: [Namibia Airports Company](https://www.airports.com.na/useful-informatio
 >   son **las mismas no oficiales que cobran de más** y contra las que avisa el recuadro de arriba.
 >   **No se usan como fuente de plazo.**
 > - **Validez, ❌ sin confirmar en fuente oficial**: circula **90 días desde la emisión** ◐, pero
->   solo lo he visto en esas mismas webs no oficiales. **Si son 90 días, pedirlo ya, a finales de
->   septiembre, es seguro** *(25/09 + 90 → finales de diciembre, y el viaje acaba el 15/11)*. **Si fueran menos,
->   pedirlo demasiado pronto lo dejaría caducado.** Confírmalo **en el portal oficial** antes de
->   adelantarlo.
+>   solo lo he visto en esas mismas webs no oficiales. **Si son 90 días, pedirlo ahora, la primera
+>   semana de octubre, es seguro** *(03/10 + 90 → principios de enero, y el viaje acaba el 15/11)*. **Si fueran menos,
+>   pedirlo demasiado pronto lo dejaría caducado.** Confírmalo **en el portal oficial** al
+>   solicitarlo — está en el calendario del `20` §9 como «comprobar en el portal al solicitar»,
+>   junto con qué documentos pide el formulario *(¿solo el billete de vuelta, o también reservas? ❌)*.
 > - ❌ **Un tercer dominio que conviene mirar con lupa**: en los buscadores aparece
 >   `evisa.mha.gov.na` como portal oficial, distinto del `eservices.mhaiss.gov.na` que este dossier
 >   verificó contra la Namibia Airports Company y la embajada. **No se toca la recomendación de
@@ -224,6 +244,9 @@ Para la vuelta real del **15 de noviembre de 2026** → pasaporte válido **hast
 
 > Si alguno falla, **renuévalo YA**. El cuello de botella es la **cita previa** en Policía Nacional,
 > no la impresión. Dejarlo para noviembre es como se pierden los viajes.
+>
+> ⚠️ **A 03/10 esta comprobación no consta hecha** ❌ *(tocaba en julio)*: va esta semana, **antes de
+> pedir el e-visa**, que copia el pasaporte. Casilla en el `20` §9.
 
 ### Y si el pasaporte se pierde ALLÍ: España tiene embajada EN Windhoek ◐
 
@@ -251,8 +274,11 @@ atendido**, no cuánto antes hay que **llamar**. En verano, la cita es el recurs
 > **Tu médico de cabecera no puede emitir la cartilla amarilla.**
 
 👉 **Para la salida del 30 de octubre, «4–6 semanas de antelación» significaba ser atendidos hacia
-el 19–26 de septiembre, y esa ventana se cerró el 26/09.** La llamada va el **30/09** *(apuntada por el viajero el 29/09)*:
-es urgente, y lo que quepa todavía antes del 30/10 lo decide el CVI, no este dossier ❌.
+el 19–26 de septiembre, y esa ventana se cerró el 26/09.** La llamada estaba apuntada para el
+**30/09** y **a 03/10 no consta hecha ni su resultado** ❌. **Lo que toca**: llamar hoy y coger la
+primera cita que den; **sin cita antes del ~16/10, la mefloquina (2–3 semanas antes) queda fuera y
+solo queda Malarone, comprada antes del 30/10** *(§malaria)*. Lo que quepa todavía de vacunas antes
+del 30/10 lo decide el CVI, no este dossier.
 Fuente: https://www.sanidad.gob.es/areas/sanidadExterior/laSaludTambienViaja/centrosVacunacionInternacional/centrosvacu.htm
 
 ### La lista para llevar a la cita — la pauta la fija el CVI, las preguntas van hechas

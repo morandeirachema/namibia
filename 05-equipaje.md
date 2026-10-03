@@ -189,7 +189,10 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   Y el **buff** no es un accesorio: es la herramienta oficial contra el olor de Cape Cross ✅.
 - **Dos calzados y unas chanclas** ○: zapatilla de trail **ya domada** para Big Daddy, Sesriem
   Canyon, Twyfelfontein y la cascada del Uniab (`10`); **sandalias Hoka Hopara 2** para conducir y
-  para el campamento *(cerradas por delante: la arena no entra)*; chanclas para las duchas compartidas. La arena a mediodía **quema**: nunca
+  para el campamento **de día** *(cerradas por delante: la arena no entra)* — **desde el ocaso,
+  botas cerradas** ✅ *(`22`: la víctima típica del escorpión va «en sandalias, después de la
+  puesta de sol, fuera de casa» — es decir, en una parcela; añadido el 03/10)*; chanclas para las
+  duchas compartidas. La arena a mediodía **quema**: nunca
   descalzo ○.
 - **La colada del D5–D6, sin lavadero** ◐: en Swakopmund hay deja-y-recoge — **Swakopmund
   Laundrette**, 15 Swakop St *([ficha](https://vymaps.com/NA/Swakopmund-Laundrette-484378/) ·

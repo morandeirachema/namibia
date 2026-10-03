@@ -238,8 +238,9 @@ flowchart TD
   alemán que **en enero de 1904 defendieron siete soldados frente a cientos de guerreros
   ondonga** — resistieron el día y escaparon de noche; los ovambo lo arrasaron, y la versión
   reconstruida es hoy un campamento de NWR con museo ◐. **Vosotros lo cruzáis la tarde del D12**
-  camino de Onguma: da tiempo al museo y a la torre del atardecer, contando el reloj hacia atrás
-  desde las 19:10 que cierra Von Lindequist
+  camino de Onguma: da tiempo al museo y a la torre —no al atardecer desde ella: se sale hacia las
+  ~16:30 al sundowner de Onguma *(`01` §D12, 03/10)*—, contando el reloj hacia atrás desde esa hora
+  y no desde las 19:10 que cierra Von Lindequist
   *([Wikipedia — Fort Namutoni](https://en.wikipedia.org/wiki/Fort_Namutoni))*.
 - **D14 · Okahandja** — los **tallistas de Mbangura** ya están en el plan de regalos *(`08`)*;
   ahora ya sabéis por qué esta parada de carretera es, además, suelo sagrado herero.

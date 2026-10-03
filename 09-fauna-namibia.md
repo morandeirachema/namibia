@@ -260,7 +260,8 @@ Lo que sí lleva, porque está verificado: **cómo funciona el safari** —horar
 para vuestros días, el límite de 60 km/h, la prohibición de bajar del coche, las **dos** charcas
 iluminadas que se pisan *(Okaukuejo y Moringa; King Nehale se perdió con la noche de Namutoni)*,
 el safari nocturno guiado de NWR *(**N$750 ≈ €38** por persona — **comprable las dos noches que se
-duerme dentro, D10 en Okaukuejo y D11 en Halali** ✅, corregido el 28/08)* y —decidido el 08/08— **las salidas guiadas de mañana
+duerme dentro, D10 en Okaukuejo y D11 en Halali** ✅, corregido el 28/08; **sin decidir y fuera del
+presupuesto**: se pide en recepción al llegar si se decide, `20` §9)* y —decidido el 08/08— **las salidas guiadas de mañana
 desde los dos campamentos donde se duerme (N$650 ≈ €33 por persona)**: los traslados entre
 campamentos van con el 4x4 propio—, y un **bloque de
 seguridad** con las serpientes y el escorpión que de verdad importan.
@@ -280,11 +281,15 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 > draw to **leopards**, rhinos and elephants»* ✅. Que este repo tiene avistamientos de esos mismos
 > nocturnos ya estaba escrito aquí y nadie ató cabos: el **caracal a 20 m del coche** salió del
 > nocturno de Okaukuejo, y los dos búhos del de Halali.
+> ⚖️ **Comprable no es decidido** *(03/10)*: los dos nocturnos siguen **sin decidir y fuera del
+> presupuesto** *(`20` §9)*, y el de Okaukuejo compite con el pico de su charca *(19:00–22:00, `21`)*
+> en la noche más oscura del viaje — una cosa o la otra.
 >
 > ➕ **Y hay una tercera actividad que este dossier nunca ha nombrado**: la **salida guiada de
 > TARDE**, también N$650 pp, en los tres campamentos ✅.
 >
-> El **Sundowner Drive de Onguma** *(3 h, N$980 ≈ €49 pp ✅)* **sigue valiendo y sigue comprado**:
+> El **Sundowner Drive de Onguma** *(3 h, N$980 ≈ €49 pp ✅)* **sigue valiendo y sigue decidido**
+> *(en el presupuesto; la reserva, pendiente — `20` §9)*:
 > sale al atardecer y vuelve de noche **con foco y campo a través**, las dos cosas prohibidas dentro
 > del parque, y para el **zorro del Cabo**, el **gato montés africano** y el **lobo de tierra** es
 > una oportunidad distinta —fuera del parque— y no un sustituto. ⚠️ Un «night drive» como tal **no

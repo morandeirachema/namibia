@@ -71,6 +71,13 @@ y saliendo antes de cerrar ✅. **Von Lindequist, ~06:10–19:10** ◐, con **am
 > al norte de Namutoni, que la propia guía cita cinco veces para las rapaces de campo abierto y como
 > el sitio de la grulla azul, y que este plan no nombraba ni una vez.
 
+> ⚠️ **Conflicto ABIERTO, sin resolver (03/10)**: este mismo D13 lleva, más abajo *(§la agenda)* y
+> en el presupuesto, **el game drive guiado de Onguma «a primera hora»** *(4 h dentro de Etosha,
+> decidido el 26/08, `02` §9)* **y aquí la salida propia a Andoni de 06:05 a 09:30**. **No caben
+> los dos en la misma mañana**: o la primera luz es del guía o es vuestra. **La hora de salida
+> del game drive de Onguma no está publicada** ❌ *(se cierra en recepción al llegar el D12)*; con
+> ella en la mano se decide, y **aquí no se decide**: las dos versiones se dejan escritas.
+
 - 🕕 **En la cola de la puerta a las 06:05**, no a las 07:30. La primera hora de luz en llanura
   abierta es la mejor del día, y hoy no compite con ningún traslado.
 - 🌾 **06:15–09:30 · ANDONI, y esto es lo primero del día.** Namutoni → Tsumcor → **la llanura de
@@ -173,7 +180,9 @@ mismo criterio** *(§5)*. Solo fauna suelta.
    hoy**, no mañana.
 4. **D13** — **el game drive guiado de Onguma a primera hora** *(4 h, dentro de Etosha)*; después,
    el circuito del este por vuestra cuenta, **comer en el coche**, y la última hora de luz en
-   llanura. **Sin sundowner.**
+   llanura. **Sin sundowner.** ⚠️ *Choca con la salida propia a Andoni 06:05–09:30 del §D13 de
+   arriba: **conflicto abierto**, y la hora de salida del game drive ❌ no se conoce — se resuelve
+   en recepción el D12, no aquí (03/10).*
 5. **Las dos actividades de Onguma están decididas y en el presupuesto**: sundowner del D12
    *(N$980 · ~€49 pp)* y game drive del D13 *(N$1.930 · ~€97 pp)* — **+€146 por persona**.
 6. **No hay decisión que tomar en Etosha**: el CCF y Otjitotongwe están fuera y las dos noches de

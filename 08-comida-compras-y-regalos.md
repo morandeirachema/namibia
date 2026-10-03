@@ -27,7 +27,7 @@ humano» a scripts; en navegador abren)* ✅:
 flowchart LR
     A["Tus domingos de viaje:<br/>1 y 8 nov"] --> B["Sin alcohol para llevar<br/>en tienda"]
     C["Sabados y laborables"] --> D["Cerveza/vino en el super<br/>destilados en la bottle store"]
-    B --> E["La compra de bebida:<br/>SABADO 31 al llegar, con la<br/>compra grande - y reponer<br/>el viernes 6 en Swakopmund"]
+    B --> E["La compra de bebida:<br/>SABADO 31 al llegar, con la<br/>compra grande - y reponer<br/>el JUEVES 5 (D6) en Walvis Bay"]
     D --> E
     style E fill:#2d6a4f,color:#fff
 ```
@@ -61,8 +61,8 @@ en la bottle store, **que el domingo 1 no se puede**.
 La regla de la lista: **solo cosas que un súper grande namibio tiene seguro** — todo son básicos de
 las cadenas de arriba ◐ *(las mismas guías citadas, y los precios se pueden comprobar desde casa en
 [shop.pnp.na](https://shop.pnp.na/) ✅)*. Nada de fiar el menú a encontrar un producto concreto.
-Cubre **del D1 a la mañana del D5** *(en Walvis Bay y Swakopmund, el D6 —el día de descanso—, se
-repone TODO; §abajo)*.
+Cubre **del D1 a la mañana del D5** *(en Walvis Bay —o Swakopmund—, el **D6, jueves 5**, el día de
+descanso, se repone TODO; §abajo)*.
 ⚠️ **La primera noche es de campamento remoto** *(Spreetshoogte, D2, sin tienda ni restaurante que
 consten ❌)*: **sin reposición hasta Solitaire/Sesriem, el D3**:
 
@@ -103,10 +103,13 @@ viene de casa *(`17`)*.
 ### Walvis Bay (D5–D6)
 - **Pick n Pay en Dunes Mall** y **SuperSpar** ○ bien surtidos.
 
-### Swakopmund (D6 o D7) — ⚠️ LA ÚLTIMA COMPRA GRANDE del viaje norte
+### Walvis Bay o Swakopmund (D6, jueves 5) — ⚠️ LA ÚLTIMA COMPRA GRANDE del viaje norte
 Después de aquí: Henties (incierto) → Terrace Bay (kiosco) → Damaraland (puestos) → Outjo (súper
-de pueblo). **El viernes 6 se compra TODO lo de los 3 días siguientes: comida, leña, hielo y
-bebida** *(viernes = alcohol disponible; el domingo 8 no habrá)*.
+de pueblo). **El jueves 5 (D6) se compra TODO lo de los 3 días siguientes: comida, leña, hielo y
+bebida** *(jueves = alcohol disponible; el domingo 8 no habrá)*. ⚠️ *Hasta el 03/10 aquí decía
+«viernes 6 en Swakopmund»: era el calendario viejo — el viernes 6 es ya el D7 y se sale a las ~07:30
+hacia Cape Cross (`13`), sin hora de compra. Walvis Bay es donde se duerme; Swakopmund, solo si el
+Moon Landscape lleva allí esa tarde (`10`).*
 - SuperSpar (Garnison Rd), Ocean View Spar, Pick n Pay, **Woermann Brock con productos alemanes**,
   Checkers en Platz am Meer ○ ([foro](https://www.4x4community.co.za/forum/showthread.php/375861-Supermarket-in-Swakopmund)).
 
