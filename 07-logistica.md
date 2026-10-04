@@ -8,7 +8,7 @@
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · precio del
-> combustible actualizado a la revisión del 5 ago 2026*
+> combustible actualizado a la revisión de octubre de 2026 (diésel sin cambio desde el 2 sep)*
 
 
 ---
@@ -55,6 +55,29 @@ The Namibian, allAfrica, Informanté— pero **ni una sola fuente se dejó abrir
 **no se ha leído del primario**. La dirección y el orden de magnitud son sólidos; el decimal, no.
 👉 **Reconfírmalo la semana antes de salir.)*
 
+**Y en octubre, la buena noticia para un coche diésel: el Gobierno lo congeló. Revisión del 7 de
+octubre de 2026 (+N$1,50 gasolina, diésel SIN CAMBIO) ◐.** El ministro Amutse subió solo la gasolina
+y **dejó los dos diésel intactos**, «para no cargar a la industria», que es la que más lo consume.
+Precios de bomba de la costa (Walvis Bay), vigentes desde el **7 de octubre de 2026**:
+
+- **Diésel 50 ppm** — **N$27,86/l (~€1,39)** *(sin cambio desde el 2 sep)*
+- **Diésel 10 ppm** — **N$27,96/l (~€1,40)** *(sin cambio)*
+- **Gasolina 95** — **N$26,58/l (~€1,33)** *(+N$1,50)*
+
+Lo que subió fue el coste de importar: la gasolina **+19,27 %** en septiembre y el diésel **~13 %**,
+por las tensiones geopolíticas, el estrecho de Ormuz y el N$ más débil; el diésel se blindó a pulso.
+Y de paso **cierra el hueco de septiembre**: el «emergency coordinated fuel supply arrangement» que se
+temía expirar el 30/09 era **con Vitol**, **se mantuvo de julio a octubre** y **ahorró ~N$220,5
+millones** en primas sobre el Basic Fuel Price —por eso octubre no subió más—. 👉 **Para el Ford
+diésel, esto significa que el central del presupuesto NO empeora en octubre**: la cifra del 2 de
+septiembre sigue siendo la vigente, y el interior sigue en la misma banda.
+
+*(◐ **extracción sin verificar**, igual que las revisiones anteriores: las cifras convergen en
+**varias búsquedas independientes** —allAfrica, The Namibian, Informanté, TheDailyNG, Mining & Energy,
+africapulse— pero **ni una sola fuente se dejó abrir** aquí (egress 403 en todas). La dirección —diésel
+congelado— y los decimales **coinciden con el dato de septiembre ya en el dossier**, que es la
+concordancia más fuerte posible sin abrir el primario.)*
+
 > ### ⚠️ Dos avisos que invalidan esa cifra para tu viaje
 >
 > **1. Son precios de WALVIS BAY.** Namibia fija **un precio base nacional en el puerto** de Walvis
@@ -68,15 +91,18 @@ The Namibian, allAfrica, Informanté— pero **ni una sola fuente se dejó abrir
 > Solo en 2026 los precios han pegado bandazos: **+N$2,50 gasolina / +N$4,00 diésel el 1 de abril**,
 > más subidas en mayo y junio, y **esta bajada de N$4,00 en julio**.
 >
-> **3. Y hay riesgo al alza:** el «emergency coordinated fuel supply arrangement» del Gobierno —que
-> compra al Basic Fuel Price sin primas de importación— **duraba de julio a septiembre de 2026: se
-> acaba el 30/09**, un mes antes del viaje. Si se prorroga o qué lo sustituye, no consta en este
-> dossier ❌.
+> **3. El «emergency arrangement» se prorrogó hasta octubre — CERRADO ◐ (04/10).** Ese acuerdo de
+> suministro —compra al Basic Fuel Price sin primas de importación— era **con Vitol** y **se mantuvo
+> de julio a octubre de 2026**, con un ahorro de **~N$220,5 millones**: es justo lo que permitió
+> **congelar el diésel en octubre**. **Lo que sigue sin constar es qué pasa en noviembre** ❌, cuando
+> el arreglo ya ha cumplido su ventana — y la revisión de noviembre cae **a mitad de viaje (~4/11)**,
+> no antes de salir.
 
 **Para presupuestar (tras la subida de septiembre):** **N$28–31/l (~€1,40–1,55)** de diésel en el
 interior, **como estimación, no como dato** *(la costa quedó en N$27,86 el 2 sep, y el interior suma
-su diferencial de transporte encima; la banda vieja de agosto era N$26–29)*. 👉 **Recomprueba la
-semana antes de salir (~23/10)** —quedan aún la revisión de octubre y la de noviembre.
+su diferencial de transporte encima; la banda vieja de agosto era N$26–29)*. 👉 **La revisión de
+octubre ya salió (7/10) y dejó el diésel sin cambio**, así que esta banda sigue vigente; **queda solo
+la de noviembre, que cae a mitad de viaje (~4/11)** —recomprueba al repostar los primeros días.
 
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: el
 Ford doble cabina cargado en los **~2.798 km de la ruta** (control OSRM, rehecho el 24/08
@@ -92,7 +118,11 @@ con la **mitad alta**, no con el central.
 Fuentes: [rebaja de julio](https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/) ·
 [subida de N$2,00/l del 5 ago 2026](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/) *(403 aquí; vía fragmento del buscador)* ·
 [subida del 2 sep 2026, +N$1,60 diésel](https://thebrief.com.na/2026/08/motorists-to-pay-n1-60-more-for-diesel-60-cents-more-for-petrol/) y
-[The Namibian, «fuel prices to rise in September»](https://www.namibian.com.na/fuel-prices-to-rise-in-september-as-ministry-increases-road-levies/) *(las dos en egress/403 aquí; vía fragmento convergente del buscador — extracción sin verificar)*
+[The Namibian, «fuel prices to rise in September»](https://www.namibian.com.na/fuel-prices-to-rise-in-september-as-ministry-increases-road-levies/) ·
+[octubre 2026, gasolina +N$1,50 y diésel sin cambio](https://www.namibian.com.na/petrol-price-goes-up-again-in-october-diesel-remains-the-same/) ·
+[allAfrica, «diesel remains the same»](https://allafrica.com/stories/202610020328.html) ·
+[TheDailyNG, el ahorro de N$220,5M con Vitol](https://thedaily-ng.com/namibia-raises-petrol-price-by-n1-50/) ·
+[Informanté, «government shields industry from diesel rise»](https://informante.web.na/?p=401816) *(todas en egress/403 aquí; vía fragmento convergente del buscador — extracción sin verificar)*
 
 ### ❌ El mito de la tarjeta — corregido
 

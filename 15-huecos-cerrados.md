@@ -1137,8 +1137,21 @@ está, se tacha)*:
   se queda en ❌; la dirección y el orden de magnitud, en ◐. **Efecto en el presupuesto: ninguno en
   el total** —el diésel del viaje sigue dentro de la banda N$8.002–10.549 de `02`/`07` (a N$30/l en el
   interior sale ~N$10.000)—, pero **el central de N$27/l queda ya optimista**: `07` y `02` pasan a
-  contar la mitad alta de la banda. **Quedan aún la revisión de octubre y la de noviembre**;
-  reconfírmese la semana antes de salir.
+  contar la mitad alta de la banda.
+  > **Avance (04/10/2026) — la revisión de octubre congeló el diésel, y de paso cerró el hueco del
+  > «emergency arrangement».** El 7 de octubre de 2026 el ministro Amutse subió **solo la gasolina**
+  > (+N$1,50 → N$26,58/l · ~€1,33) y **dejó los dos diésel sin cambio: N$27,86 y N$27,96/l** en la
+  > costa ◐ *(«diesel is used by industries», de ahí la decisión)*. **El hueco de septiembre —si el
+  > «emergency coordinated fuel supply arrangement» se prorrogaba más allá del 30/09— queda resuelto**:
+  > era **con Vitol**, **se mantuvo de julio a octubre** y **ahorró ~N$220,5 millones** en primas
+  > sobre el Basic Fuel Price, que es justo lo que permitió no subir el diésel. **Efecto en el
+  > presupuesto: ninguno** —la cifra de septiembre (N$27,86 costa) sigue siendo la vigente para
+  > octubre, y la banda de `02`/`07` no se mueve—. **Queda solo la revisión de noviembre, y cae a
+  > mitad de viaje (~4/11), no antes de salir**: reconfírmese al repostar los primeros días.
+  > ⚠️ **Sigue en ◐**: convergen varias búsquedas independientes —allAfrica, The Namibian, Informanté,
+  > TheDailyNG, Mining & Energy, africapulse— pero **ninguna se dejó abrir aquí** (egress 403 en
+  > todas); la concordancia más fuerte es que los decimales **coinciden con el dato de septiembre ya
+  > verificado como convergente en el dossier**.
 - 🎫 **La tabla fina de tasas del MEFT**: el PDF primario sigue sin abrirse — pero el **reparto
   premium (N$280) vs estándar (~N$200) por parque** quedó resuelto a nivel de fragmento el **15/08
   (◐/○, ver §Tasas arriba)**: la lista premium repetida por dos búsquedas independientes incluye
