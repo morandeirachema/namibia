@@ -8,9 +8,9 @@
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · precio del
-> combustible actualizado a la revisión del 5 ago 2026 · coche actualizado a la reserva con
-> Savanna del 12/08/2026 · revisado el 03/10/2026: seguro, Terrace Bay, coche, Onguma y lo que
-> está decidido pero FUERA del total (§10)*
+> combustible actualizado a la revisión de octubre de 2026 (diésel sin cambio) · coche actualizado a
+> la reserva con Savanna del 12/08/2026 · revisado el 03/10/2026: seguro, Terrace Bay, coche, Onguma y
+> lo que está decidido pero FUERA del total (§10)*
 
 Coste del viaje con las **partidas grandes ya cerradas** (vuelo emitido, coche reservado y seguro
 contratado), en N$ y
@@ -305,6 +305,11 @@ flowchart LR
   pero deja el central de **N$27/l ya optimista**: cuenta con la **mitad alta** de la banda, no con el
   central. Dos búsquedas convergentes; **ni una fuente abierta aquí** (egress 403), extracción sin
   verificar. Detalle y el gravamen de carretera (+30 c/l) en `07` y en `15`.
+- 🆕 **La revisión de octubre (7 oct 2026) congeló el diésel ◐** —subió solo la gasolina (+N$1,50 →
+  N$26,58/l · ~€1,33), y los dos diésel se quedaron en **N$27,86 y N$27,96/l** en la costa—, así que
+  **el presupuesto NO empeora en octubre**: la cifra de septiembre sigue vigente y esta banda no se
+  mueve. **Queda solo la revisión de noviembre, que cae a mitad de viaje (~4/11)** *(detalle en `07`
+  y `15`; misma cautela ◐ — egress 403 en todas las fuentes, extracción sin verificar)*.
 
 - **Cálculo central**: 2.798 km × 0,12 l/km × N$27/l = **~N$9.066 (~€453)** para la pareja.
 - **Banda**: **N$8.002–10.549 (~€400–527)** *(2.798 km × 11–13 l/100 km × N$26–29/l — recalculada
