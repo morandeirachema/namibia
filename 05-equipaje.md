@@ -102,7 +102,8 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
   **regiones, y Kunene incluye Terrace Bay** — la entrada en zona es el **D7 (6 nov)** *(un día
   antes desde el 24/08)*.
   Si es Malarone, se empieza ya de viaje (~4–5 nov); si es mefloquina, **~16–23 de octubre** — la
-  receta sale de la cita de septiembre. A esa cita se va con el dato de la guía oficial británica:
+  receta sale de la cita de septiembre *(y la mefloquina no está autorizada en España: solo como
+  medicamento extranjero ✅ — `04` §malaria)*. A esa cita se va con el dato de la guía oficial británica:
   en estas regiones, **de mayo a noviembre solo recomienda evitar picaduras, sin
   quimioprofilaxis** ✅ *([TravelHealthPro](https://travelhealthpro.org.uk/country/157/namibia))*
 - **El sol es el riesgo diario real**, no la fauna ni la malaria: el UV de noviembre es **extremo

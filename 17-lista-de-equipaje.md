@@ -96,7 +96,11 @@ el viaje sigue; si se pierde la cabina, no.
       viaje; se vende desde Sudáfrica/UK ◐, p. ej.
       [mapsworldwide](https://www.mapsworldwide.com/maps-charts-atlases-c1811/road-maps-c1932/namibia-tracks-map-p26089)
       con envío internacional — pedirlo con margen)*
-- [ ] **Libreta y boli** ×1 ✅ — para apuntar las presiones en frío de la entrega *(`06`)*
+- [ ] **Libreta y boli** ×1 ✅ — para apuntar las presiones en frío de la entrega *(`06`)*.
+      Modelos, de papel que aguanta sudor y polvo: **[Rite in the Rain 374-M, 9×13 cm,
+      negra](https://www.amazon.es/dp/B00J535NN2)** ✅ 16,54 € · o la **[Rite in the Rain de
+      espiral, 8×13 cm](https://www.amazon.es/dp/B009F1E01A)** ✅ 11,99 € (Amazon, 05/10). En ese
+      papel escribe también el lápiz
 
 ## 👕 Ropa — las cuentas, por persona
 
@@ -107,8 +111,12 @@ el viaje sigue; si se pierde la cabina, no.
       [Merino REC Fresh](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-lana-merina-reciclada-hombre-merino-rec-fresh/364687/c372m8939992),
       que era la recomendada aquí)* **y 1 de Patagonia** ○. *La merina aguanta varias puestas sin
       oler: es exactamente lo que compra este viaje, con **una sola colada en quince días**
-      (`05`).* **Faltan 2 para llegar a cinco** — sintéticas normales valen: la **Forclaz Resist**
-      o cualquiera de casa. ⚠️ Y una nota de uso: la merina **se seca más despacio** que la
+      (`05`).* **Faltan 2 para llegar a cinco** — sintéticas normales valen: la **[Quechua
+      MH100](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-manga-corta-hombre-quechua-mh100/106632/c242m8612133)**
+      ◐ 6,99 € *(100 % poliéster, secado rápido)* o cualquiera de casa. *(La **[Forclaz
+      Resist](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-manga-corta-lana-merino-hombre-forclaz-resist/356413/c383c382m8976797)**
+      que se citaba aquí **no es sintética: es merina** —fibra envuelta en poliamida— ◐ 34,99 €;
+      vale si se quiere una cuarta merina.)* ⚠️ Y una nota de uso: la merina **se seca más despacio** que la
       sintética, así que la colada de Swakopmund se tiende **la primera noche, no la última** ○
 - [ ] **Camisas de manga larga ligeras ×2** — sol de mediodía y mosquitos del anochecer.
       **Una resuelta (21/08): [Craghoppers NosiLife Adventure III](https://www.craghoppers.com/mens-nosilife-adventure-long-sleeved-shirt-iii-parchment/)**
@@ -134,8 +142,9 @@ el viaje sigue; si se pierde la cabina, no.
       [Forclaz Trek500 merina](https://www.decathlon.es/es/p/calzoncillos-boxer-montana-y-trekking-lana-merina-hombre-forclaz-trek500/306561/c405m8751633))*
 - [ ] **Calcetines finos ×6 pares** — **[Hike 500 mid, pack de 2](https://www.decathlon.es/es/p/calcetines-mid-de-senderismo-2-pares-adultos-hike-500-rojo/330181/c14m8965692)**
       ◐ ~12,99 € *(dato de rebaja sin fecha fija, no es lectura de hoy)* + **1 par gordo** para las
-      noches de la costa — modelo sin identificar ❌: mirar la categoría
-      [calcetines térmicos Decathlon](https://www.decathlon.es/es/deportes/montana/calcetines-termicos-trekking-senderismo)
+      noches de la costa — **[Quechua SH900 Mid, pack de 2
+      pares](https://www.decathlon.es/es/p/calcetines-calidos-de-senderismo-sh900-mid-x2-pares/_/R-p-336930)**
+      ◐ 24,99 € *(88 % lana, rizo grueso; el segundo par, para el otro)*
 - [ ] **Forro polar ×1** — la mínima más baja del viaje son **12,7 °C** en la costa ✅. **Ya en
       posesión**: el más nuevo que tengáis de Decathlon ○ — no hace falta comprar. Y va **a mano
       la primera noche, no enterrado en el petate**: el camping de Spreetshoogte está a
@@ -154,8 +163,11 @@ el viaje sigue; si se pierde la cabina, no.
       y camiseta térmica **Under Armour** ○ — no hace falta comprar nada
 - [ ] **Bañador ×1** — hay piscina en **Okaukuejo y Halali**, las dos noches de dentro ✅ *(en
       **Onguma Tamboti**, donde se duermen el D12 y el D13, la piscina es de Onguma Bush Camp y
-      sirve a la otra parcela, Leadwood — no a la vuestra ◐)*
-- [ ] **Ropa de dormir ligera ×1**
+      sirve a la otra parcela, Leadwood — no a la vuestra ◐)*. Si no hay uno en casa:
+      **[Olaian 100, corto](https://www.decathlon.es/es/p/banador-hombre-corto-surf-olaian-100-16-palm/_/R-p-170271)**
+      ◐ 7,99 €, ligero y con forro
+- [ ] **Ropa de dormir ligera ×1** — si no vale la de casa: **[pijama corto de algodón, 2
+      piezas](https://www.amazon.es/dp/B0DQ16GPNK)** ✅ 14,99 € (Amazon, 05/10; marca genérica)
 - [ ] **Sombrero de ala ×1** — de ala **≥7,5 cm** ✅ *([skincancer.org](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/))*, no gorra: las orejas y
       la nuca se queman igual. Y **con barbuquejo** ◐ — el viento de la costa está en su máximo
       anual justo en nov–mar *([Atlas of Namibia](https://atlasofnamibia.online/chapter-3/wind))*.
@@ -189,9 +201,11 @@ ya hace el apaño.
       escorpión va en sandalias tras la puesta de sol; añadido el 03/10)* *(decidido el 25/08 en vez de
       las barefoot Saguaro: sandalia cerrada de outdoor, con puntera y suela de trail — aguanta la
       grava del campamento y el pedal, y no entra arena por delante)*
-- [ ] **Chanclas ×1 par** ○ — duchas compartidas. Gama más barata de Decathlon:
-      **[chanclas de piscina Olaian](https://www.decathlon.es/es/deportes/natacion/chanclas-piscina)**
-      ❌ *(categoría, no ficha exacta — históricamente 3–5 €)*
+- [ ] **Chanclas ×1 par** ○ — duchas compartidas. **[Nabaiji de piscina, pala
+      gris](https://www.decathlon.es/es/p/chanclas-piscina-hombre-pala-gris/_/R-p-149116)** ◐
+      5,99 € *(EVA, suela perforada que escurre)* · o la **[Nabaiji de pala con insertos de
+      goma](https://www.decathlon.es/es/p/chanclas-pala-piscina-hombre-nabaiji/_/R-p-3659)** ◐
+      9,99 €, que agarra mejor en el suelo mojado de la ducha
 - [ ] **Calcetines viejos ×2 pares p.p., para la duna** ◐ — Big Daddy se sube y se baja **en
       calcetines, con las botas en el daypack**: a media mañana la arena ya quema *(lo repiten
       las crónicas de la duna: [anywhereweroam](https://anywhereweroam.com/big-daddy-dune/) ·
@@ -200,7 +214,10 @@ ya hace el apaño.
 
 ## 🧼 Neceser
 
-- [ ] Cepillo de dientes ×1 p.p. · **pasta ×1 tubo** · hilo dental
+- [ ] Cepillo de dientes ×1 p.p. · **pasta ×1 tubo** · hilo dental — los de casa; si se quiere
+      plegable: **[Colgate Total, kit de viaje](https://www.amazon.es/dp/B0DWSMQN5J)** ✅ 2,50 €
+      *(cepillo plegable + pasta mini)* · o **[Colgate plegable, pack de
+      4](https://www.amazon.es/dp/B0BNR4P2JG)** ✅ 6,28 €, con repuesto para los dos (Amazon, 05/10)
 - [ ] **Pastilla de jabón sólido ×1 — decidido (25/08), en vez de gel** ○: pesa menos, **no
       revienta con el corrugado ni cuenta como líquido en cabina**, y una de 100 g da para los
       quince días entre dos. Que sea **de cuerpo y pelo a la vez** y **sin perfume**: el olor atrae
@@ -208,12 +225,19 @@ ya hace el apaño.
       mucho enjabonado. Modelo: **[Dr. Bronner's Pure-Castile, 140 g, sin
       perfume](https://www.amazon.es/dp/B00016XJ4M)** ❌ *(precio sin leer en vivo; ~6–8 €)*. Con
       **jabonera de rejilla** o bolsita de sisal que la deje secar: una pastilla húmeda cerrada en el
-      neceser a 35 °C se deshace en dos días ○
+      neceser a 35 °C se deshace en dos días ○ — **[cajita de jabón
+      Decathlon](https://www.decathlon.es/es/p/cajita-de-jabon/349100/c340c267m8826774)** ◐ 5,99 €
+      *(59 g, con rejilla y cierre de imán, para pastillas de hasta 100 g)* · o **[2 jaboneras de
+      aluminio](https://www.amazon.es/dp/B0DCVPRQBS)** ✅ 6,31 € (Amazon, 05/10), una por cabeza
       *(el **jabón WILDERNESS** de la colada, abajo, es otro: ése es detergente)*
 - [ ] Desodorante ×1 p.p. · peine ×1 · maquinilla y espuma
 - [ ] **Toallitas húmedas ×3 paquetes** ○ — el recurso más usado del viaje: manos, cara y polvo
-      cuando la ducha queda a horas
-- [ ] **Gel hidroalcohólico ×2 botes** ○
+      cuando la ducha queda a horas. **[Chicco multiusos, 16
+      uds](https://www.amazon.es/dp/B06XZVKHBC)** ✅ 2,39 € *(sin alcohol ni perfume)* · o
+      **[The Fruit Company, bolsillo, pack de 3](https://www.amazon.es/dp/B0D1YLZWKK)** ✅ 6,50 €
+      (Amazon, 05/10)
+- [ ] **Gel hidroalcohólico ×2 botes** ○ — **[Snonas, 100 ml](https://www.amazon.es/dp/B078SMVXHY)**
+      ✅ 2,90 €/ud (Amazon, 05/10), justo en el límite de líquidos de cabina
 - [ ] **Papel higiénico ×2 rollos** ○ — los campings lo tienen; los 500 km entre medias, no
 - [ ] Pañuelos de papel ×4 paquetes
 - [ ] **Toallas de microfibra ×2** ○ *(la ficha del coche ya lista 4 toallas ✅ — éstas quedan de
@@ -228,15 +252,25 @@ ya hace el apaño.
       ○ — dos semanas de lona y cremalleras. Modelo: **[Beter cajita de costura de viaje](https://www.amazon.es/dp/B00ZON1FOS)**
       ✅ 4,95 € (Amazon)
 - [ ] **Crema de manos y crema hidratante ×1 de cada** ◐ — el aire del Namib seca la piel a
-      diario; sobre piel húmeda, dice la dermatología *([AAD](https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin))*
+      diario; sobre piel húmeda, dice la dermatología *([AAD](https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin))*.
+      **[Neutrogena manos concentrada, 50 ml](https://www.amazon.es/dp/B01BIS1VQY)** ✅ 2,28 € y
+      **[NIVEA Creme, lata de 30 ml](https://www.amazon.es/dp/B0CTR82ZJF)** ✅ 1,29 € (Amazon,
+      05/10 — ojo: otra ficha de la misma lata pide 9,99 €)
 - [ ] **Vaselina o spray salino nasal ×1** ◐ — nariz reseca y sangrados por el aire seco
-      *([Mayo Clinic](https://www.mayoclinic.org/first-aid/first-aid-nosebleeds/basics/art-20056683))*
+      *([Mayo Clinic](https://www.mayoclinic.org/first-aid/first-aid-nosebleeds/basics/art-20056683))*.
+      **[Vaselina pura Aposán, 30 g](https://www.amazon.es/dp/B07D5CVDCD)** ✅ 4,20 € *(vale
+      también para los labios)* · o **[Naso FAES Triple Acción+, agua de mar, 30
+      ml](https://www.amazon.es/dp/B0711HHX3B)** ✅ 5,22 € (Amazon, 05/10)
 - [ ] **Tapones para los oídos ×1 par p.p.** ○ · **antifaz ×1 p.p.** ○ — lona al viento y amanecer
       a las 06:07. Modelos: **[16 tapones de silicona + 3 estuches](https://www.amazon.es/dp/B0DVLY85FZ)**
       ✅ 8,99 € (para los dos, Amazon) y **[antifaz Forclaz Travel 500](https://www.decathlon.es/es/p/antifaz-para-dormir-de-viaje-travel-500-negro/352759/c1m8871934)**
       ✅ 9,99 €/ud (19,98 € los dos)
 - [ ] Bolsas de basura ×5, **ziplocs ×10** y **×4 grandes tipo escombro para enfundar los petates
-      en la caja del pick-up** ◐ *([Expert Africa](https://www.expertafrica.com/namibia/info/namibia-holiday-and-safari-packing-list) y [FullSuitcase](https://fullsuitcase.com/namibia-packing-list/) las piden así)*
+      en la caja del pick-up** ◐ *([Expert Africa](https://www.expertafrica.com/namibia/info/namibia-holiday-and-safari-packing-list) y [FullSuitcase](https://fullsuitcase.com/namibia-packing-list/) las piden así)*.
+      **[Albal Ultra-Zip 3 L, 15 bolsas](https://www.amazon.es/dp/B0B5HTRZGJ)** ✅ 5,97 € *(o la
+      de [1 L, 20 bolsas](https://www.amazon.es/dp/B00KX7VLEE) ✅ 3,45 €)* y **[sacos de escombro
+      Relevo, 150 L, 80×110 cm, 75 µm, 10 uds](https://www.amazon.es/dp/B07YYB8T1V)** ✅ 12,95 €
+      (Amazon, 05/10) — de **film, no de rafia tejida**: la rafia no para el polvo
 - [x] **Detergente de viaje ×1** — **resuelto (21/08): jabón WILDERNESS de 100 ml** ○, un
       multiusos biodegradable de la misma familia que el
       **[Pharmavoyage](https://www.decathlon.es/es/p/jabon-concentrado-multiusos-biologico-de-camping/X8598405/m8598405)**
@@ -259,6 +293,30 @@ ya hace el apaño.
 > viaje oficial del CDC Yellow Book** ✅ *([la tabla](https://www.ncbi.nlm.nih.gov/books/NBK620961/table/healthkits.tab2/?report=objectonly))*: de ahí entran el aloe, la venda elástica, el
 > antifúngico, la pomada antibiótica, las potabilizadoras y la lágrima artificial.
 
+**Receta sí o no, en España** ✅ *(05/10/2026, cada caso contra el
+[CIMA de la AEMPS](https://cima.aemps.es/cima/publico/home.html), que lo dice registro a registro)*.
+Lo que hay que saber antes de ir a la farmacia: **la receta no la decide el principio activo, sino
+cada marca o genérico concreto** — con la misma dosis hay cajas con receta y cajas sin ella. Por
+eso abajo cada ítem lleva **la caja concreta que se vende sin receta**: se pide por su nombre.
+
+```mermaid
+flowchart LR
+%% ancho
+    R["CON RECETA<br/>antipaludico (Malarone)<br/>antibioticos<br/>pomada antibiotica<br/>hidrocortisona al 1 %<br/>Canesten de piel<br/>ibuprofeno 600"]
+    S["SIN RECETA<br/>paracetamol 500-650<br/>Ibufen 400 · Fortasec<br/>Sueroral · Alercina<br/>Almax · Biodramina<br/>Plantaben · Cinfatos<br/>Betadine · Cristalmina<br/>Fenistil · Calmiox 0,5 %<br/>Canespie"]
+    X["NI CON RECETA<br/>mefloquina:<br/>no autorizada en Espana<br/>solo medicamento extranjero"]
+    R ~~~ S ~~~ X
+    style R fill:#9d0208,color:#fff
+    style S fill:#2d6a4f,color:#fff
+    style X fill:#6c757d,color:#fff
+```
+
+Y fuera del CIMA, porque **no son medicamentos** y se compran sin receta: el suero fisiológico y la
+lágrima artificial *(productos sanitarios)*, las potabilizadoras, las cápsulas de sal y los
+repelentes *(biocidas: el Goibi Xtreme al 45 % está en la lista oficial de Sanidad como de venta al
+público, ES/APP(NA)-2016-19-00365 ✅ —
+[listado](https://www.sanidad.gob.es/profesionales/saludPublica/enfermedadesEmergentes/Crimea_Congo/docs/listadorepel1_JUNIO2020.pdf))*.
+
 **Lo que viene con receta**
 
 - [ ] **Profilaxis de malaria** ✅ — la pauta **completa** más 3–4 días de margen. Ojo a la
@@ -266,63 +324,154 @@ ya hace el apaño.
       en zona es el **D7 (vie 6)** *(un día antes desde el 24/08)*. Si es Malarone, empieza en
       viaje *(~4–5 nov)*; si es mefloquina, **~16–23 de octubre**. Y a la cita del CVI, con el dato: para la guía oficial
       británica, en estas regiones **de mayo a noviembre basta evitar picaduras, sin
-      quimioprofilaxis** ✅ *([TravelHealthPro](https://travelhealthpro.org.uk/country/157/namibia))* — que lo decida el CVI con eso delante *(`04`)*
+      quimioprofilaxis** ✅ *([TravelHealthPro](https://travelhealthpro.org.uk/country/157/namibia))* — que lo decida el CVI con eso delante *(`04`)*.
+      **Con receta, siempre** ✅: **[Malarone 250/100 mg](https://cima.aemps.es/cima/publico/detalle.html?nregistro=63452)** o su genérico
+      **[Malaway](https://cima.aemps.es/cima/publico/detalle.html?nregistro=78402)**. ⚠️ **La mefloquina (Lariam) no está autorizada en España** ✅ —ni un
+      registro en el CIMA, ni siquiera retirado—: solo llega por el trámite de
+      [medicamento extranjero](https://www.aemps.gob.es/medicamentos-de-uso-humano/acceso-a-medicamentos-en-situaciones-especiales/medicamentos-extranjeros/),
+      así que **lo realista es Malarone** *(`04` §malaria)*. **Y no hay plan B allí**: en Namibia el
+      antipalúdico también pide receta ✅ *(§si algo se olvida, abajo)*
 - [ ] **Medicación propia** — la del viaje **+5 días**, en el **envase original** y con la receta ○
 - [ ] Antibiótico de amplio espectro **solo si tu médico lo receta para el viaje** ○ *(no se
-      automedica: es para el caso de no llegar a un centro)*
+      automedica: es para el caso de no llegar a un centro)*. **Con receta** ✅ — azitromicina y
+      ciprofloxacino no tienen ni un registro sin ella *(p. ej. [azitromicina Normon
+      500](https://cima.aemps.es/cima/publico/detalle.html?nregistro=66065) · [ciprofloxacino Normon 500](https://cima.aemps.es/cima/publico/detalle.html?nregistro=62300))*
 
-**Lo básico, sin receta**
+**Lo básico, sin receta** — *todos los precios de este bloque, leídos en la ficha de la farmacia online el 05/10 ✅; el ✅
+que va con «sin receta» es el del CIMA*
 
-- [ ] **Analgésico/antitérmico** — 1 caja *(paracetamol)* ○
+- [ ] **Analgésico/antitérmico** — 1 caja *(paracetamol)* ○ — **[Paracetamol Normon 650 mg, 20
+      comp.](https://www.farmaciasdirect.eu/products/paracetamol-normon-efg-650-mg-20-tablets)**
+      0,86 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=68331))*. El de **1 g**, solo en cajas de 10 de marcas
+      concretas *(Gelocatil, Antidol)*: la mayoría de cajas de 1 g piden receta
 - [ ] **Antiinflamatorio** — 1 caja *(ibuprofeno)* ○ — ⚠️ **para la picadura de escorpión no
       cuenta**: los antiinflamatorios «decepcionan» y **nada de opiáceos ni sedantes**, que deprimen
-      la respiración; paracetamol, frío y al hospital ✅ *(Müller, `22` §3)*
-- [ ] **Antidiarreico** — 1 caja *(loperamida)* ○
+      la respiración; paracetamol, frío y al hospital ✅ *(Müller, `22` §3)*. **[Ibufen 400 mg, 20
+      comp.](https://www.farmaciasdirect.eu/products/ibufen-400-mg-20-film-coated-tablets)** 4,59 €
+      · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=63597))*. **El de 600 pide receta siempre**, y hasta algún 400
+      genérico también: pedir la marca
+- [ ] **Antidiarreico** — 1 caja *(loperamida)* ○ — **[Fortasec 2 mg, 12
+      cáps.](https://www.farmaciasdirect.eu/products/fortasec-2-mg-12-hard-capsules)** 8,06 € ·
+      sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=56523))*
 - [ ] **Sales de rehidratación oral ×8 sobres** ○ — con 35–38 °C la deshidratación va por delante
-      de la sed, y la regla del agua son **4+ L por persona y día EN el coche** ✅
+      de la sed, y la regla del agua son **4+ L por persona y día EN el coche** ✅. **[Sueroral
+      hiposódico, 5 sobres](https://okfarma.es/sueroral-hiposodico-polvo-para-solucion-oral-5-sobres)**
+      3,20 € la caja — **dos cajas** para llegar a ocho · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=59877))*. Cada
+      sobre, en **1 L** de agua
 - [ ] **Cápsulas de sal/electrolitos ×1 bote** ○ — para el sudor del esfuerzo *(Big Daddy, las
       caminatas)*: complementan a las SRO, que son para la diarrea. Elegidas:
       **[cápsulas de sal ×100 de Decathlon](https://www.decathlon.es/es/p/capsulas-de-sal-x100/188711/g78m8409161)**
-- [ ] **Antihistamínico** — 1 caja ○
-- [ ] **Protector gástrico** — 1 caja ○
+      · alternativa, **[226ERS Salts, 100 cáps.](https://www.amazon.es/226ERS-Salts-Electrolitos-100-C%C3%A1psulas/dp/B0757T6WHC)**
+      ✅ 21,00 € (Amazon). Suplemento, no medicamento: sin receta
+- [ ] **Antihistamínico** — 1 caja ○ — **[Alercina 10 mg, 7
+      comp.](https://www.farmaciaevacontreras.com/producto/alercina-10-mg-7-comprimidos/)** 5,76 €
+      · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=66044))* · o Clarityne 10 mg ×10, también sin receta ✅. La
+      cetirizina y la loratadina genéricas «normales» piden receta
+- [ ] **Protector gástrico** — 1 caja ○ — **[Almax 500 mg, 24
+      comp.](https://www.farmaciasdirect.eu/products/almax-500-mg-24-chewable-tablets)** 9,87 € · sin receta ✅
+      *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=55396))* · o **[Omeprazol Pensavital 20 mg, 14
+      cáps.](https://www.farmaciasdirect.eu/products/omeprazole-pensavital-efg-20mg-14-capsules)**
+      3,60 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=64477))* — ojo, otros omeprazoles de 20 mg sí piden receta
 - [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.798 km, y el paso de Spreetshoogte y la
-      grava de los D8–D9 se notan)*
-- [ ] **Laxante suave o fibra** ○ — dieta de camping y poca verdura
-- [ ] **Antitusivo o descongestionante — 1 caja** ○ *(kit CDC: el polvo de pista y el aire seco)*
+      grava de los D8–D9 se notan)*. **[Biodramina 50 mg, 12
+      comp.](https://okfarma.es/biodramina-12-comprimidos)** 7,08 € · sin receta ✅
+      *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=16409))*. ⚠️ **Da sueño: para el copiloto, nunca para quien conduce**
+- [ ] **Laxante suave o fibra** ○ — dieta de camping y poca verdura. **[Plantaben 3,5 g, 30
+      sobres](https://www.farmaciaevacontreras.com/producto/plantaben-polvo-efervescente/)** 8,96 €
+      · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=56342))*
+- [ ] **Antitusivo o descongestionante — 1 caja** ○ *(kit CDC: el polvo de pista y el aire seco)*.
+      **[Cinfatós 15 mg, 18 sobres](https://www.farmaciasdirect.eu/products/cinfatos-15-mg-oral-solution-18-sachets)**
+      9,09 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=78764))* · o el spray **[Respibien 0,5
+      mg/ml](https://www.farmaciaevacontreras.com/producto/respibien-05-mgml-nebulizador-nasal/)**
+      6,44 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=51889))* — éste, pocos días seguidos como mucho, por el efecto rebote
 - [ ] **Pastillas potabilizadoras ×1 tubo** ○ *(kit CDC: el respaldo de la regla del agua en los
       tramos de 500 km)*. Modelo: **[Aquatabs, 50 uds, 1 L/pastilla](https://www.decathlon.es/es/p/mp/pastillas-potabilizadoras-de-agua-supervivencia-aquatabs-50uds-1l-pastilla/068a8bed-71b5-44bb-af68-bd91f7c8686f/novar)**
-      ✅ 13,95 € (marketplace Decathlon)
+      ✅ 13,95 € (marketplace Decathlon) · o **[las mismas en
+      Amazon](https://www.amazon.es/Albainox-33430-Pastillas-Potabilizadoras-Unisex/dp/B00GOPHOSQ)**
+      ✅ 11,74 € (05/10). No son medicamento: sin receta
 
 **Curas y picaduras**
 
 - [ ] Antiséptico *(clorhexidina)* ×1 · **gasas ×10** · **esparadrapo ×1** · **venda elástica ×1**
       *(elástica, con apellido — kit CDC: es la del esguince bajando Big Daddy)* · **pomada
-      antibiótica ×1** *(la clorhexidina limpia; esto cubre la herida ya curada)*
-- [ ] **Tiritas ×20** de varios tamaños · **apósitos para ampollas ×6** ○ — Big Daddy las hace
+      antibiótica ×1** *(la clorhexidina limpia; esto cubre la herida ya curada)*.
+      ⚠️ **La pomada antibiótica pide receta en España, todas** ✅ — mupirocina *(Bactroban,
+      [CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=58868))*, ácido fusídico, bacitracina, neomicina: ni un registro sin receta. **O la
+      receta el médico en la misma cita del CVI, o se sustituye** por un segundo antiséptico sin
+      receta: **[Betadine, povidona yodada, 50
+      ml](https://www.farmacialiceo.com/betadine-100-mg-ml-solucion-topica-1-frasco-50-m)** ✅
+      7,47 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=36340))*. El de clorhexidina: **[Cristalmina 10 mg/ml, 25
+      ml](https://okfarma.es/cristalmina-10mgml-solucion-cutanea-25-ml)** ✅ 6,35 € · sin receta ✅
+      *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=56549))*.
+      **[Gasas estériles Interapothek 20×20 cm, 20
+      uds](https://www.promofarma.com/es/interapothek-compresa-esteril-tnt-20-uds/p-516978)** ✅
+      7,00 € · **[esparadrapo de papel Omnipor 5 m ×
+      2 cm](https://www.promofarma.com/en/omnipor-esparadrapo-papel-5mx2/p-20306)** ✅ 1,84 €
+      *(hipoalergénico; con mucho sudor despega)* · **[venda cohesiva Nexcare 2,5 m ×
+      5 cm](https://www.promofarma.com/en/nexcare-cohesive-bandage-skin-colour-2/p-52770)** ✅
+      3,65 € *(se pega a sí misma: ni grapas ni esparadrapo)* — PromoFarma, 05/10
+- [ ] **Tiritas ×20** de varios tamaños · **apósitos para ampollas ×6** ○ — Big Daddy las hace.
+      **[Hansaplast Universal, 40 uds, 4
+      tamaños](https://www.atida.com/es-es/hansaplast-universal-4-tamanos-40-apositos)** ✅ 3,99 €
+      y **[Compeed ampollas medianas, 5
+      uds](https://www.atida.com/es-es/compeed-apositos-ampollas-medianas-5-uds)** ✅ 8,99 € —
+      Atida, 05/10; para llegar a seis, una caja más o la de pequeñas
 - [ ] **Tijeras ×1** y **pinzas ×1** ○ — las espinas de acacia se clavan y se parten. Y las
       pinzas son también **el extractor de garrapatas**: revisión corporal al anochecer los días
       de monte ◐ — la fiebre por garrapata africana es la fiebre con sarpullido más frecuente del
       safari austral, y quien acampa es el grupo de riesgo; el tratamiento es del médico, no del
-      botiquín *([CDC Yellow Book](https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/rickettsial-diseases.html))*
+      botiquín *([CDC Yellow Book](https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/rickettsial-diseases.html))*.
+      **[Tijera Beter punta roma, inox, 10,4
+      cm](https://www.atida.com/es-es/tijera-punta-roma-recta-inoxidable-beter)** ✅ 5,99 € (Atida)
+      y, mejor que unas pinzas para la garrapata, el **[Tick Twister, 3 tamaños, el original de
+      O'Tom](https://www.promofarma.com/it/tick-twister-set-de-3-tire-tiques/p-579977)** ✅ 10,26 €
+      *(la ficha que se pudo leer es la italiana de PromoFarma)* · o **[Biocanina Tic-Tac-Toe, 2
+      uds](https://www.promofarma.com/en/biocanina-tic-tac-toe-2unts/p-426020)** ✅ 6,04 € —
+      05/10
 - [ ] **Compresa fría instantánea ×2** ◐ — la única medida de primeros auxilios con respaldo para
       la picadura de *Parabuthus*, el escorpión grande de la ruta: frío local, más eficaz en las
       2 primeras horas *([CMEJ](http://www.cmej.org.za/index.php/cmej/article/view/2545/2580))* —
       y en una parcela no hay congelador. Los teléfonos toxicológicos, con los de emergencia
-      de `07`; el protocolo entero de la picadura, en el `22`
+      de `07`; el protocolo entero de la picadura, en el `22`. **[Nexcare ColdHot, frío
+      instantáneo, 2 uds](https://www.promofarma.com/es/nexcare-coldhot-bolsa-de-frio-instantaneo-2uds/p-53693)**
+      ✅ 4,75 € (PromoFarma, 05/10) — de un solo uso, sin congelador: justo las dos de la lista
 - [ ] **Bote pequeño con tapa ×1** ○ — para meter el escorpión *(con las pinzas, sin tocarlo)* y
       llevarlo al hospital a que lo identifiquen: lo recomienda Müller ✅ *(`22` §3)*. Vale un tarro
       de cocina vacío; viaja con la compresa fría
 - [ ] **Mascarilla de barrera para RCP ×1** ○ — pesa nada; la lista el protocolo de mordedura del
-      [African Snakebite Institute](https://www.africansnakebiteinstitute.com/articles/first-aid-for-snakebite-2/)
-- [ ] **Crema para picaduras** ×1 y **corticoide suave** ×1 ○
+      [African Snakebite Institute](https://www.africansnakebiteinstitute.com/articles/first-aid-for-snakebite-2/).
+      **[Protector facial de RCP de llavero, válvula antirretorno, 5
+      uds](https://www.amazon.es/Protectores-unidades-reanimaci%C3%B3n-primeros-entrenamiento/dp/B07XCM534R)**
+      ✅ 10,99 € (Amazon, 05/10)
+- [ ] **Crema para picaduras** ×1 y **corticoide suave** ×1 ○ — **[Fenistil gel, 30
+      g](https://www.farmacialiceo.com/fenistil-1-mg-g-gel-topico-30-g)** ✅ 9,14 € · sin receta ✅
+      *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=54083))* *(o [After Bite, 14 ml](https://www.farmacialiceo.com/after-bite-original-14-ml)
+      ✅ 5,23 €, que no es medicamento)* y **[Calmiox, hidrocortisona 0,5 %, 30
+      g](https://www.ibanezfarmacia.com/2618-calmiox-5-mgg-crema-30-g)** ✅ 10,98 € · sin receta ✅
+      *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=60889))*. ⚠️ **La hidrocortisona al 1 % ya pide receta** ✅
+      *([Dermosa, CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=21428))*: la del 0,5 % es el techo sin ella
 - [ ] **Gel de aloe vera ×1** ○ *(kit CDC: la quemadura solar Y la del braai — se cocina al fuego
-      cada noche y nada más del botiquín cubre quemaduras)*
-- [ ] **Antifúngico en crema o polvos ×1** ○ *(kit CDC — 17 días de calor y botas)*
+      cada noche y nada más del botiquín cubre quemaduras)*. **[Botanica Pharma, aloe vera 100 %,
+      250 ml](https://www.promofarma.com/en/botanica-pharma-sabila-aloe-vera-gel-100-pure-250ml/p-58794)**
+      ✅ 9,28 € (PromoFarma, 05/10)
+- [ ] **Antifúngico en crema o polvos ×1** ○ *(kit CDC — 17 días de calor y botas)* —
+      **[Canespie clotrimazol 1 %, crema 30
+      g](https://www.farmacialiceo.com/canespie-clotrimazol-10-mg-g-crema-30-g)** ✅ 12,16 € · sin
+      receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=69680))*. ⚠️ **Ojo con el nombre: el Canesten de piel —crema, polvo y
+      spray— sí pide receta** ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=52626))*, aunque sea el mismo clotrimazol. **En polvo
+      sin receta no se encontró ninguno** ❌: crema
 - [ ] **Suero fisiológico en monodosis ×10** y **lágrima artificial sin conservantes ×20** ◐ — el
       polvo es diario: el suero lava, la lágrima lubrica *(CDC Pack Smart y
-      [AOA](https://www.aoa.org/healthy-eyes/vision-and-vision-correction/environments))*
+      [AOA](https://www.aoa.org/healthy-eyes/vision-and-vision-correction/environments))*.
+      **[Suero fisiológico Kern Pharma, 30 × 5
+      ml](https://www.dosfarma.com/8930-suero-fisiologico-kern-pharma-5ml-x-30ud.html)** ✅ 3,99 € y
+      **[Artelac Complete, 30 monodosis sin
+      conservantes](https://www.dosfarma.com/11868-artelac-complete-30-monodosis.html)** ✅ 17,99 €
+      (DosFarma, 05/10)
 - [ ] **Termómetro ×1** — **[Braun PRT1000](https://www.amazon.es/dp/B000FHC0QK)** ✅ 10,38 €
-      (Amazon) · **guantes de nitrilo ×4** ○
+      (Amazon) · **guantes de nitrilo ×4** ○ — **[Peha-Soft nitrilo, 10
+      uds](https://promofarma.com/peha-soft-guantes-desechables-de-nitrilo-talla-l-10uds)** ✅
+      3,15 € (PromoFarma, 05/10; tallas S, M y L en la misma ficha)
 
 **Sol y bichos — lo que de verdad se gasta**
 
@@ -330,9 +479,18 @@ ya hace el apaño.
       UV de noviembre es **extremo (13–15)**, también bajo la niebla de la costa ◐. La cuenta que
       jubiló los 2 tubos del primer borrador: la dosis dermatológica son **~30 ml por aplicación,
       cada 2 h** — dos personas y 15 días salen a **750–900 ml aun yendo de manga larga**
-      *([AAD](https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen) · [Skin Cancer Foundation](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sunscreen/))*
-- [ ] **Protector labial con filtro ×2** ○
-- [ ] **Aftersun ×1** ○
+      *([AAD](https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen) · [Skin Cancer Foundation](https://www.skincancer.org/skin-cancer-prevention/sun-protection/sunscreen/))*.
+      Dos modelos de 200 ml, resistentes al agua: **[Babaria spray SPF 50+ piel
+      sensible](https://www.promofarma.com/en/babaria-solar-spray-spf50-sensitive-skin-waterproof-200ml-vapori/p-272824)**
+      ✅ 13,39 € · o **[La Roche-Posay Anthelios Wet Skin SPF
+      50+](https://www.promofarma.com/en/la-roche-posay-anthelios-gel-wet-skin-spf50-200ml/p-726406)**
+      ✅ 19,73 € *(se pone sobre piel mojada o sudada)* — PromoFarma, 05/10
+- [ ] **Protector labial con filtro ×2** ○ — **[ISDIN SPF 50+, stick de
+      4 g](https://www.promofarma.com/es/isdin-protector-labial-spf50-stick-4g/p-161029)** ✅
+      7,07 €/ud (PromoFarma, 05/10)
+- [ ] **Aftersun ×1** ○ — **[ISDIN After Sun loción, 200
+      ml](https://www.promofarma.com/en/after-sun-isdin-lotion-200ml/p-10086)** ✅ 12,79 €
+      (PromoFarma, 05/10)
 - [x] **Repelente con DEET ≥20 % (o icaridina) ×2 frascos** ✅ — **resuelto (21/08): Goibi Xtreme
       Trópical** ✅, **DEET al 45 %** *(N,N-dietil-m-toluamida 45 g/100 g + etanol; ficha de
       farmacia ◐◐, dos fuentes concordantes)*: **muy por encima del ≥20 % que pide el CDC**, con
@@ -402,7 +560,11 @@ ya hace el apaño.
       **~74 Wh**, **por debajo del límite de 100 Wh** que las aerolíneas dejan pasar sin permiso
       previo ✅: no hay trámite, pero **tiene que ir contigo**. *(La misma regla vale para las
       baterías sueltas de la cámara — ver abajo.)*
-- [ ] **Cables de carga ×2 de cada tipo** ○ — el polvo mata conectores
+- [ ] **Cables de carga ×2 de cada tipo** ○ — el polvo mata conectores. Trenzados:
+      **[Anker USB-C a USB-C 240 W, 0,9 m](https://www.amazon.es/Anker-trenzado-multicolor-flexible-cargador/dp/B0DDXPFN2Z)**
+      ✅ 12,33 € · y, si hay iPhone con Lightning, **[Anker USB-C a Lightning MFi, 0,9
+      m](https://www.amazon.es/Anker-Lightning-trenzado-reciclado-ultrarr%C3%A1pido/dp/B0DL4WTHFY)**
+      ✅ 15,29 € (Amazon, 05/10)
 - [ ] **Funda para el teléfono ×1 p.p.** ○ — que aguante polvo y golpes: el móvil vive quince días
       entre grava, arena y el salpicadero *(para el día de niebla y salitre de la costa ya está la
       bolsa estanca)*. Modelo: **[Funda estanca IPX8](https://www.decathlon.es/es/p/funda-estanca-telefono-movil-ipx8/346905/m8802142)**
@@ -410,7 +572,13 @@ ya hace el apaño.
 - [ ] **Soporte de móvil para el salpicadero ×1** ◐ — Tracks4Africa es el navegador del viaje y
       son 2.798 km: el móvil va sujeto, no en el regazo — y que agarre de verdad, que el
       corrugado vibra *([FullSuitcase](https://fullsuitcase.com/namibia-packing-list/) lo pide
-      así: «must attach securely for rough gravel roads»)*
+      así: «must attach securely for rough gravel roads»)*. **[Quad Lock, de rejilla de
+      ventilación](https://www.amazon.es/Quad-Soporte-Rejilla-Ventilaci%C3%B3n-Coche/dp/B0BFQLRGKW)**
+      ✅ 45,51 € — el que no suelta el móvil, pero **pide su funda o su adaptador, aparte** · o,
+      barato, **[PORTENTUM de gancho para la
+      rejilla](https://www.amazon.es/PORTENTUM-Telemovel-Ventilaci%C3%B3n-Accesorios-Universal/dp/B0CGQ3Q3FD)**
+      ✅ 9,99 € (Amazon, 05/10). ❌ *Cómo es la rejilla del Ford Ranger de Savanna *(`20` §1)*
+      no consta: si no admite gancho, los de rejilla no valen*
 - [ ] **Frontal ×1 por persona, con modo rojo** ○ — letrina a las 3 AM, montar la tienda al
       anochecer y el camino a la charca; **en la plataforma de la charca, apagado del todo** ◐
       *(la norma documentada es más dura que el modo rojo — `18` §8)*. **Ya en posesión: Forclaz**
@@ -491,7 +659,11 @@ normas de cabina) está arriba, al final de Electrónica.*
       compacto)
 - [ ] **Paño de microfibra ×2 y perilla sopladora ×1** ○ — el polvo cae a diario sobre lentes y
       gafas: soplar primero, frotar después *(frotar en seco raya)*. La limpieza de la cámara va
-      en su repo; los prismáticos viajan en éste
+      en su repo; los prismáticos viajan en éste. **[Paños de microfibra, pack de
+      12](https://www.amazon.es/Pa%C3%B1os-Limpieza-Microfibra-Tel%C3%A9fonos-Superficies/dp/B00A7P2JGQ)**
+      ✅ 7,49 € *(o el [Quechua Clean 100](https://www.decathlon.es/es/p/limpiagafas-toallita-limpiadora-de-microfibra-quechua-clean-100/173494/c4c5m8385702)
+      ◐ 1,99 €/ud)* y **[Giottos Rocket-air](https://www.amazon.es/Giottos-Rocket-air-Limpiador-presi%C3%B3n-videoc%C3%A1maras/dp/B00017LSPI)**
+      ✅ 24,00 € (Amazon, 05/10)
 
 ## 🏕️ Campamento — solo lo que el coche NO trae
 
@@ -506,16 +678,26 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       50 g](https://www.decathlon.es/es/p/almohada-de-viaje-hinchable-y-compacta-decathlon-travel-100/_/R-p-333306)**
       ✅ 9,99 €
 - [ ] **Abanico ×1 p.p.** ○ — la siesta parada del mediodía a 35–38 °C y las noches quietas de
-      Etosha sin un soplo de aire; pesa nada y no gasta batería
+      Etosha sin un soplo de aire; pesa nada y no gasta batería. **[PracticDomus, tela de algodón
+      y varillas de madera](https://www.amazon.es/PracticDomus-Abanico-Plegable-Estampada-Colecci%C3%B3n/dp/B08DXVRD55)**
+      ✅ 9,90 € (Amazon, 05/10) — Decathlon no vende abanicos
 - [ ] **Ventilador de mano recargable ×1** ○ — el refuerzo del abanico para el mucho calor: la
       espera parada del mediodía y el rato en la tienda de techo antes de que la noche baje los
       grados. Candidato: **JISULIFE 3 en 1** *(ventilador + linterna + powerbank de emergencia,
       12–19 h por carga; se carga por USB del cargador 12 V del coche —arriba—, así no roba
-      powerbank en Spreetshoogte y Hoada)* —
-      **[búsqueda en Amazon.es](https://www.amazon.es/s?k=jisulife+ventilador+de+mano)**, precio
-      sin leer en vivo ❌ *(Amazon bloquea la consulta, como en la pasada del 12/08)*. ⚠️ En la
+      powerbank en Spreetshoogte y Hoada)*. Ya con ficha: **[JISULIFE 3 en 1 con powerbank y
+      linterna](https://www.amazon.es/JISULIFE-ventilador-port%C3%A1til-bolsillo-recargable/dp/B096VN8LY6)**
+      ✅ 22,99 € · o el **[JISULIFE 7, de mano, mesa o cuello, 5.000
+      mAh](https://www.amazon.es/JISULIFE-Ventilador-ventilador-enfriamiento-velocidades/dp/B0CRDT715R)**
+      ✅ 28,99 €, hasta ~19 h (Amazon, 05/10). ⚠️ En la
       plataforma de la charca, apagado ○ — la misma etiqueta de silencio que el frontal *(`18` §8)*
-- [ ] **Cinta americana ×1**, **bridas ×10** y **cuerda fina ×5 m** ○
+- [ ] **Cinta americana ×1**, **bridas ×10** y **cuerda fina ×5 m** ○ — **[tesa Extra Power, 25 m ×
+      50 mm](https://www.amazon.es/Tesa-adhesiva-americana-Universal-25mx50mm/dp/B001IVKXWA)** ✅
+      7,40 € · **[bridas Gocableties 150 × 3,6 mm, 100
+      uds](https://www.amazon.es/100-unidades-bridas-PREMIUM-calidad-gocableties/dp/B078XLJR6Y)** ✅
+      7,49 € *(nailon 66 resistente al UV)* · **[paracord 550 Ganzoo, 4 mm × 15
+      m](https://www.amazon.es/Paracord-550-Cuerda-metros-pulsera/dp/B0716PXSPR)** ✅ 8,99 € — se
+      cortan 5 m (Amazon, 05/10; en 5 m sueltos no se encontró)
 - [ ] **Mecheros y pastillas de encendido — NO van en la maleta: se compran ALLÍ**, y ya están en
       la compra del D1 con la leña y las cerillas largas *(`08` §lista)*. La norma aérea es la
       inversa de la navaja ◐: **prohibidos en el facturado**, y en cabina **como mucho UNO por
@@ -538,7 +720,12 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       cordón no fuera imprescindible, la alternativa allí es el clásico **[Opinel n.° 8](https://www.decathlon.es/es/p/navaja-de-camping-trekking-senderismo-acero-inoxidable-opinel-numero-8/X8277671/c27m8277671)**
       ✅ 11,99 €
 - [ ] **Silbato ×1** ○ — pesa nada y se oye donde la voz no llega *(ninguna de las listas del
-      barrido del 11/08 lo pedía: entra por decisión propia)*
+      barrido del 11/08 lo pedía: entra por decisión propia)*. **[Fox 40 Classic, con
+      cordón](https://www.amazon.es/Fox-40-Classic-silbato-oficial-romper/dp/B00020SU00)** ✅
+      10,07 € (Amazon, 05/10) — sin bola dentro, así que ni el polvo ni el agua lo atascan · o,
+      barato, el **[silbato de salvamento N-1B con
+      cordón](https://www.decathlon.es/es/p/mp/silbato-salvamento-y-emergencias-n-1b-rojo-con-cordon/1371a833-eacd-4ab5-91f9-c8ac4b30d75d/c14)**
+      ◐ 2,90 € (marketplace de Decathlon)
 - [ ] **Guantes de trabajo ×1 par POR PERSONA** ○ — subidos de uno a dos el 25/08: **si hay que
       cavar o empujar, se cava y se empuja entre dos**. Sirven para el pinchazo del mediodía *(la
       llanta y el gato queman a 35–38 °C, y el `13` cuenta con «un pinchazo = +1 h»)*, para
@@ -546,11 +733,22 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       *(`20` §1)*, y el desinflar/reinflar de válvulas al sol *(`06` §5)*— y para la leña y la
       parrilla del braai. **El kit de recuperación de Savanna NO los incluye** ✅ *(su inventario
       confirmado lista pala, gatos, compresor, cuerda de remolque y pinzas — guantes no)*: si no se
-      llevan, no hay. Práctica overlanding común. Viajan en la caja de la noche *(`18` §2)*
+      llevan, no hay. Práctica overlanding común. Viajan en la caja de la noche *(`18` §2)*.
+      **[BricoLoco, piel de vacuno, CE cat.
+      II](https://www.amazon.es/BricoLoco-Guantes-trabajo-cuero-vacuno/dp/B093FPZZJN)** ✅ 10,99 €
+      (Amazon, 05/10 — la ficha da también «5,50 €/ud»: puede ser un pack de dos pares, mirar la
+      variante y la talla) — el cuero, para la llanta caliente · o **[JUBA H5112, nailon con
+      puntos de nitrilo](https://www.leroymerlin.es/productos/herramientas/ropa-de-trabajo/guantes-de-trabajo/guantes-mecanico/guante-nylon-recubierto-nitrilo-con-puntos-ref-juba-h5112-7-82157797.html)**
+      ◐ desde 3,39 € (Leroy Merlin), que agarran con grasa y polvo
 - [ ] **Opcional: linterna UV pequeña ×1** ○ — los escorpiones **fluorescen bajo luz UV**: un
       barrido a la parcela al anochecer, antes de las sandalias. Casa con la compresa fría del
       *Parabuthus* del botiquín y el «mirar dónde pisas» del `18`. Como el silbato: ninguna lista
-      del barrido la pedía — entra por decisión propia
+      del barrido la pedía — entra por decisión propia. **De 365 nm**, la longitud de onda que
+      hace brillar al escorpión: **[DARKDAWN 365 nm recargable, pack de
+      2](https://www.amazon.es/DARKDAWN-Linterna-Recargable-Ultravioleta-Fluorescente/dp/B0C2Q9FWMP)**
+      ✅ 29,99 € *(una por cabeza)* · o **[WESLITE 365 + 395
+      nm](https://www.amazon.es/WESLITE-Ultravioleta-Verificaci%C3%B3n-Documentos-Escorpiones/dp/B081TDXP9R)**
+      ✅ 23,99 €, que nombra los escorpiones en su ficha (Amazon, 05/10)
 - [ ] **Bolsa estanca ×1** para la electrónica ○ — **[Tribord 10 L, IPX6](https://www.decathlon.es/es/p/bolsa-estanca-caqui-2-puntos-ipx6-10-litros/349371/c241m9002201)**
       ✅ 14,99 €
 
@@ -629,6 +827,12 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 
 ## 🛒 Lo que se compra allí, no aquí
 
+👉 **La compra del primer día tiene su propia lista, para tachar en el carro**: en el
+[`08`](08-comida-compras-y-regalos.md) §la lista de la compra grande del D1. **Dónde**: Maerua Mall,
+Windhoek, el **sábado 31 a las ~14:00–16:30** —SuperSpar con la bottle store TOPS al lado, y
+Checkers y Woermann Brock en el mismo centro—, que **cierra a las 17:00** ✅ *(`01` §D1)*. Lo de
+aquí abajo ya va en esa lista, salvo la SIM, que se compra antes, en el aeropuerto.
+
 - **Agua en garrafa, hielo y comida** — mapeado parada a parada en
   [`08`](08-comida-compras-y-regalos.md) ✅
 - **Leña** para las barbacoas de campamento ✅
@@ -637,6 +841,72 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
   tienda del aeropuerto *(`07`)*
 - **Espirales o barritas antimosquitos para la parcela** ◐ — «Peaceful Sleep» y «Tabard» se
   venden en los súper de allí *([consejos de salud de Etosha](https://etoshanationalpark.co.za/etosha-travel-tips/etosha-health-tips/))*
+
+## 🆘 Si algo se olvida o se pierde: dónde reponerlo allí
+
+*El plan B, no el plan: casi todo lo de esta lista se puede reponer en Namibia, pero **solo en tres
+sitios de la ruta**, y luego vienen días sin nada. Comprobado el 05/10/2026.*
+
+**Dónde y cuándo se pasa por cada sitio:**
+
+- **D1 · Windhoek, Maerua Mall** — abre el sábado de **9:00 a 17:00** ✅
+  *([maeruamall.com](https://maeruamall.com/))*, que es donde ya va la compra grande *(`01` §D1)*.
+  Hay **Clicks** *(farmacia, [su ficha](https://clicks.co.za/store/Maerua-Mall/173) ✅ — la página
+  existe aunque no da datos)*, **Cape Union Mart** *(montaña y acampada, 2.ª planta —
+  [myguidenamibia](https://www.myguidenamibia.com/shopping/cape-union-mart) ◐)*, ropa barata
+  *(PEP, Ackermans, Mr Price, Woolworths, Jet)*, móviles y electrónica *(Incredible Connection, Hi-Fi
+  Corporation, tienda de MTC)* y tres ópticas ◐
+  *([directorio](https://helloadz.biz/listing/maerua-mall/))*. **Dis-Chem** y **Outdoor Warehouse**
+  no están en Maerua sino en **Grove Mall** ✅
+  *([Dis-Chem](https://www.thegrovemallofnamibia.com/store/dis-chem/) ·
+  [Outdoor Warehouse](https://www.outdoorwarehouse.co.za/store/outdoor-warehouse-windhoek), éste
+  abierto el sábado de 9 a 19)*. ⚠️ **Cymot** *(recambios y acampada)* cierra el sábado **a las
+  12:00** ✅ *([cymot.com](https://www.cymot.com/our-stores))*: el D1 llega tarde
+- **D5–D6 · Walvis Bay, Dunes Mall** — **lo más completo de toda la ruta** ✅
+  *([directorio de Dunes Mall](https://www.dunesmall.co.na/index.php/directory))*: Clicks y
+  Dis-Chem, Cape Union Mart, Game, Incredible Connection, MTC, PEP, Ackermans, Mr Price,
+  Woolworths, Jet y Edgars. **El día de descanso es el día de reponer**
+- **D6–D7 · Swakopmund, Platz am Meer** ✅
+  *([directorio](https://platzammeer.com.na/?page_id=960))*: Clicks, Dis-Chem y una farmacia más,
+  Cape Union Mart, Outdoor Centre, PEP, Ackermans, Mr Price y Edgars
+- **D7–D9 · Henties Bay hasta Kamanjab: nada.** En Kamanjab no se encontró ninguna farmacia ❌
+- **D10 · Outjo** — **Outjo Pharmacy**, de lunes a viernes de 8 a 17 ◐
+  *([medpages](https://www.medpages.info/sf/index.php?page=organisation&orgcode=88062))*, y
+  ferretería en la **Agra** ✅ *([agra.com.na](https://www.agra.com.na/index.php/retail-wholesale/branches))*.
+  Es lunes: abierto
+- **D14 · Tsumeb** — **Clicks** ✅ *([su ficha](https://clicks.co.za/store/Tsumeb/1716))*, Agra y
+  Cymot ✅. Pero el D14 ya es la vuelta: lo que se reponga ahí solo sirve para el último día
+
+**Qué se encuentra y qué no:**
+
+- **Ropa, chanclas, bañador, calcetines** — sin problema en PEP, Ackermans o Mr Price
+- **Frontales, pilas, guantes, cinta, bridas, garrafas, forros, sombreros** — Cape Union Mart,
+  Outdoor Warehouse, Game, Cymot o la Agra
+- **Adaptador M/D, cargadores, cables y soporte de móvil** — los adaptadores se venden en súper,
+  ferreterías y gasolineras ◐ *([TripAdvisor](https://www.tripadvisor.com/ShowTopic-g293820-i9680-k14828489-Plug_type_in_Namibia-Namibia.html))*;
+  lo demás, en las tiendas de electrónica de los centros comerciales. **Pero que no se venda en el
+  aeropuerto no se pudo descartar ni confirmar ❌**: el adaptador va desde España igual *(es el
+  fallo tonto del repaso de la víspera)*
+- **Crema solar** — en Clicks y Dis-Chem, Everysun y Nivea ◐
+- **Repelente** — Peaceful Sleep y Tabard en súper y farmacia, pero **al 15–19,5 % de DEET** ◐
+  *([fichas de Clicks](https://clicks.co.za/tabard_mosquito-and-insect-repellent-lotion-150ml/p/720094))*:
+  por debajo del Goibi al 45 %. Sirve de repuesto, no de sustituto
+- **Medicamentos** — en Namibia **hay tres escalones: en cualquier tienda, de mano del
+  farmacéutico sin receta, y con receta** ✅ *(Ley 13/2003 y su clasificación de 2018:
+  [ley](https://www.lac.org.na/laws/annoSTAT/Medicines%20and%20Related%20Substances%20Control%20Act%2013%20of%202003.pdf) ·
+  [GN 278/2018](https://www.lac.org.na/laws/2018/6749.pdf))*. **Sin receta**: paracetamol de
+  ≤500 mg y las sales de rehidratación, en cualquier tienda; ibuprofeno, loperamida, loratadina,
+  cetirizina y los del mareo, al farmacéutico, que apunta la venta. **Con receta**: el
+  **antipalúdico** *(atovacuona-proguanil, y también la mefloquina y la doxiciclina)* y **los
+  antibióticos** ✅. ⚠️ En Sudáfrica el Malanil se vende sin receta *([SAHPRA](https://www.sahpra.org.za/wp-content/uploads/2020/02/Malanil_PI_Litha-Pharma_MCC-format-05-March-2009.pdf))*
+  y muchas webs lo dan por hecho también en Namibia: **no es así**
+- **Baterías de la cámara** — solo una tienda de fotografía localizada, en Windhoek *(MiCam, Klein
+  Windhoek ◐)*, y qué modelos tiene no consta ❌
+
+**Lo que no tiene plan B — va sí o sí desde España:** la **medicación con receta y el
+antipalúdico**, el **repelente fuerte**, las **baterías y el cargador de la cámara**, las **gafas de
+repuesto** *(hay ópticas, pero solo en Windhoek y la costa)* y **el adaptador**, porque el D1 no da
+tiempo de ir buscándolo.
 
 ## 🚫 Lo que NO se lleva
 
@@ -698,3 +968,12 @@ listas de safari encima de la mesa: de ahí los calcetines de la duna, la permet
 fría del escorpión, el cepillo de uñas, el soporte de móvil, la regla de la garrafa de 20 L, el
 repelente en el kit de charca y el veto al camuflaje. Los tres campamentos de Etosha, ahora con
 ficha propia: [`21`](21-campamentos-de-etosha.md). · 14/08/2026*
+
+*El 05/10/2026, a tres semanas y media de volar, **todo lo que había que comprar ganó uno o dos
+modelos** con enlace y precio leído ese día, y el botiquín, **su receta sí o no contra el CIMA de
+la AEMPS**, registro a registro. De ahí salieron tres cosas que cambian la compra: **la pomada
+antibiótica pide receta** *(se sustituye o se pide al médico)*, **el Canesten de piel también, y el
+Canespie no**, y **la mefloquina no está autorizada en España** *(lo realista es Malarone — `04`)*.
+Y una cuarta, de ropa: **la Forclaz Resist que se daba como sintética es merina**. Se añadió además
+**dónde reponer en Namibia lo que se olvide** *(§si algo se olvida)*: solo Windhoek el D1 y la costa
+el D5–D7 tienen de todo; del D7 al D9, nada. · 05/10/2026*
