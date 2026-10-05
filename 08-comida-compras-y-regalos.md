@@ -49,6 +49,13 @@ en la bottle store, **que el domingo 1 no se puede**.
   con **TOPS** (destilados) anexo, más **Checkers** y **Woermann Brock** al lado. Cadenas del país:
   Shoprite/Checkers, Pick n Pay, SuperSpar y la local **Woermann Brock** ✅
   ([estudio](https://www.tandfonline.com/doi/full/10.1080/0376835X.2020.1819774) · [woermannbrock.com](https://www.woermannbrock.com/)).
+- **El horario cabe, con media hora de margen** ✅: el centro abre el sábado de **9:00 a 17:00**
+  *([maeruamall.com](https://maeruamall.com/), leído el 05/10/2026)* y el plan del `01` mete la
+  compra en las **~14:00–16:30**. Si el briefing de Savanna se alarga, lo que se recorta es la
+  comida, no la compra: **a las 17:00 cierra y mañana es domingo**. *(El horario de cada tienda de
+  dentro puede ser otro y no consta ❌.)*
+- **En el mismo centro, por si algo se ha quedado en casa**: farmacia **Clicks**, **Cape Union
+  Mart** *(acampada)*, ropa barata y tienda de móviles — el detalle, en el `17` §si algo se olvida.
 - **Para presupuestar desde casa**: Pick n Pay Namibia tiene **tienda online con precios reales en
   N$** ✅ — [shop.pnp.na](https://shop.pnp.na/).
 - **La lista de camping** ◐ ([guía](https://roamthereaches.com/2021/10/09/the-ultimate-guide-to-camp-cooking-in-namibia/)):
@@ -67,7 +74,8 @@ descanso, se repone TODO; §abajo)*.
 consten ❌)*: **sin reposición hasta Solitaire/Sesriem, el D3**:
 
 - [ ] **Agua: garrafas de 5 L — mínimo 3–4 garrafas** *(4 L/persona/día del coche, `06`, más la
-      cocina de una noche sin grifo confirmado)* — *desde el 24/08 la escarpa es UNA noche, no dos*
+      cocina de una noche sin grifo confirmado)* — *desde el 24/08 la escarpa es UNA noche, no dos*.
+      **De plástico grueso**: las finas revientan con el corrugado *(`17`)*
 - [ ] **Leña de braai PARA UNA NOCHE** *(kameeldoring o sekelbos)* **+ pastillas de encendido +
       cerillas largas** — en la escarpa no hay dónde reponer ❌ *(allí se vende: N$55 · ~€2,75 el
       fardo de 10 kg — `20` §5)*
@@ -84,6 +92,8 @@ consten ❌)*: **sin reposición hasta Solitaire/Sesriem, el D3**:
 - [ ] **Cerveza y vino EN EL SÚPER, HOY** ✅ *(mañana domingo, no)* — destilados, en el TOPS anexo
 - [ ] **Bolsas de basura, papel de cocina, papel higiénico de repuesto, mechero**
 - [ ] **Lavavajillas pequeño y estropajo** *(el menaje viene en el coche; el jabón, no ○)*
+- [ ] **Espirales o barritas antimosquito para la parcela** ◐ — Peaceful Sleep o Tabard, de
+      súper *(`17` §lo que se compra allí)*
 
 ⚠️ Tres cosas que **NO** van en esta compra: la **carne cruda que cruzaría la Línea Roja** hacia el
 norte *(se recompra en Swakopmund y en Outjo — ver `07`)*, nada **congelado en exceso** *(la nevera

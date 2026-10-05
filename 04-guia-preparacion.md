@@ -56,13 +56,22 @@ del viaje (**D10–D13, del 9 al 12 de noviembre**), las fechas reales son:
   Kunene)**: **~4–5 de noviembre**, ya de viaje — hay que llevarla comprada
 - **Mefloquina** — empieza **2–3 semanas antes** → **~16–23 de octubre**, receta necesaria en la
   cita del CVI — **que a 03/10 no consta pedida** ❌ *(la ventana de septiembre se cerró y la llamada
-  del 30/09 no tiene resultado anotado)*
+  del 30/09 no tiene resultado anotado)*. ⚠️ **Y no está autorizada en España** ✅ *(05/10: el
+  CIMA de la AEMPS no tiene ni un registro de mefloquina ni de Lariam, tampoco retirado —
+  [consulta](https://cima.aemps.es/cima/rest/medicamentos?practiv1=mefloquina))*: solo se consigue
+  por la vía de **[medicamentos
+  extranjeros](https://www.aemps.gob.es/medicamentos-de-uso-humano/acceso-a-medicamentos-en-situaciones-especiales/medicamentos-extranjeros/)**,
+  con informe del médico y a través de la consejería. Si el CVI la propone, **que diga él cómo y en
+  cuánto tiempo llega** ❌ — no se puede dar por hecho en tres semanas
   ⚠️ *Las dos fechas bajaron un día el 24/08, al adelantarse Terrace Bay del 7 al 6 de noviembre.*
 
 👉 **La cadena, dicha entera** *(03/10)*: **sin cita del CVI antes del ~16/10, la mefloquina queda
 fuera** —no hay tiempo de empezarla— **y solo queda Malarone**, que se empieza el ~4–5/11 ya de viaje
 y **hay que llevar comprada antes de volar** *(con receta o lo que el CVI o el médico de cabecera
-indiquen)*. La cita se pide hoy, no la semana antes.
+indiquen)*. La cita se pide hoy, no la semana antes. *(Y aun con cita, la mefloquina pasa por el
+trámite de medicamento extranjero — arriba: **lo realista es Malarone**, que sí está registrado en
+España, con receta ✅ — [CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=63452) —, igual
+que su genérico Malaway ✅.)*
 Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 > ❌ **Corrección:** un borrador de esta guía decía que la rabia es una pauta de 3–4 semanas y que

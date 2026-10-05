@@ -509,8 +509,9 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
   llamar hoy y coger la primera cita que den, **y saber que la cadena manda**: la mefloquina se
   empieza 2–3 semanas antes de la zona de riesgo *(~16–23/10)*, así que **sin cita antes del
   ~16/10 la mefloquina queda fuera y solo queda Malarone**, que se empieza el ~4–5/11 ya de viaje y
-  **hay que llevar comprada antes de volar** *(`04` §malaria)*. Lo demás que quepa de vacunas lo
-  dice el CVI, no este cuaderno.
+  **hay que llevar comprada antes de volar** *(`04` §malaria)*. *(Y la mefloquina, además, **no está
+  autorizada en España** ✅ —solo como medicamento extranjero, con su trámite—: lo realista es
+  Malarone, `04` §malaria.)* Lo demás que quepa de vacunas lo dice el CVI, no este cuaderno.
 - **El permiso internacional de conducir (DGT)** — cita previa en cualquier Jefatura o
   [sede electrónica](https://sede.dgt.gob.es/es/permisos-de-conducir/permiso-internacional/) ◐:
   **€10,51 (~N$210)**, uno por conductor, vale 1 año, siempre junto al carnet *(`04`)*. Iba a
@@ -742,7 +743,8 @@ pendiente**, y si ya lo está, se tacha y listo. Los importes, solo donde el cua
 - [ ] **~16/10 ○ · el coche: la cancelación pasa al 100 %** — 15 días o menos antes del 31/10
       *(§1)*.
 - [ ] **~16–23/10 ○ · empezar la mefloquina, si el CVI la receta** — 2–3 semanas antes de entrar
-      en zona de riesgo *(`04` §malaria)*. **Solo si hubo cita antes del ~16/10; si no, Malarone**,
+      en zona de riesgo *(`04` §malaria — y no está autorizada en España: va por el trámite de
+      medicamento extranjero ✅)*. **Solo si hubo cita antes del ~16/10; si no, Malarone**,
       comprada antes del 30/10 y empezada el ~4–5/11 ya de viaje.
 - [ ] **~21/10 ○ · Savanna, el resto por transferencia, solo si no está pagado** — su regla es
       depósito del 25 % y el resto 10 días antes, o en efectivo o tarjeta el día de la recogida

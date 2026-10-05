@@ -838,7 +838,8 @@ dentro siga siendo exactamente lo presupuestado.
 - 🪪 **Permiso internacional de conducir (DGT)** ◐: **€10,51 (~N$210) × 2 = ~€21 (~N$420)**, en
   España. No consta pedido ❌ *(`20` §6)*.
 - 💊 **La profilaxis de la malaria** — **sin coste en ningún documento** ❌: la receta el CVI
-  *(Malarone o mefloquina, `04` §malaria)* y **se compra en España antes de volar**. Importe ❌ no
+  *(Malarone o mefloquina —ésta, sin autorizar en España: medicamento extranjero—, `04` §malaria)*
+  y **se compra en España antes de volar**. Importe ❌ no
   consta — y la cita del CVI tampoco consta pedida.
 - 🐆 **La noche opcional en Okonjima (D14)** — sin decidir: **~€135–215 pp → ~€270–430 la pareja**
   ○/◐ *(`aparte/plan-felinos.md`)*; sustituiría a la noche estimada del D14 en Windhoek *(~€35)*.

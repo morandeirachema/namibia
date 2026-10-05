@@ -14,7 +14,8 @@ Cada una dice **dónde se apunta la respuesta** para que el dossier deje de deci
    (~N$35.400)** por transferir hacia el **21/10**. → Mira la confirmación del 12/08; apúntalo en el
    `20` §1 y §9 y en el [`02` §2](../02-presupuesto.md).
 3. **¿Se llamó al CVI el 30/09 y qué cita dieron?** Sin cita antes del **~16/10** la mefloquina queda
-   fuera y solo queda Malarone, comprada antes de volar. → `20` §6 y §9, [`04`](../04-guia-preparacion.md).
+   fuera y solo queda Malarone, comprada antes de volar *(y la mefloquina no está autorizada en
+   España — medicamento extranjero, `04`: lo realista es Malarone)*. → `20` §6 y §9, [`04`](../04-guia-preparacion.md).
 4. **¿Se pidieron los permisos internacionales en la DGT, y cuántos?** «Uno por conductor» obliga a
    decidir **antes** si Miguel conduce *(N$30 · ~€1,50 al día)*. → `20` §9 y `04`.
 5. **¿A qué hora sale el game drive de Onguma del D13?** Decide la mañana entera: o el guiado
