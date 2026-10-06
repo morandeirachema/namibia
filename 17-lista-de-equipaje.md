@@ -299,6 +299,11 @@ Lo que hay que saber antes de ir a la farmacia: **la receta no la decide el prin
 cada marca o genérico concreto** — con la misma dosis hay cajas con receta y cajas sin ella. Por
 eso abajo cada ítem lleva **la caja concreta que se vende sin receta**: se pide por su nombre.
 
+**Y cada ítem dice para qué sirve** ✅ — sacado de la sección 1 de su prospecto oficial, «qué es y
+para qué se utiliza», en el CIMA *(06/10/2026)*; lo que no es medicamento, de su fabricante o de la
+práctica común, con su marca. Va también **el plazo tras el cual el prospecto manda al médico**: a
+500 km de una farmacia, saber cuándo un «ya se pasará» deja de valer es la mitad del botiquín.
+
 ```mermaid
 flowchart LR
 %% ancho
@@ -330,12 +335,18 @@ público, ES/APP(NA)-2016-19-00365 ✅ —
       registro en el CIMA, ni siquiera retirado—: solo llega por el trámite de
       [medicamento extranjero](https://www.aemps.gob.es/medicamentos-de-uso-humano/acceso-a-medicamentos-en-situaciones-especiales/medicamentos-extranjeros/),
       así que **lo realista es Malarone** *(`04` §malaria)*. **Y no hay plan B allí**: en Namibia el
-      antipalúdico también pide receta ✅ *(§si algo se olvida, abajo)*
+      antipalúdico también pide receta ✅ *(§si algo se olvida, abajo)*.
+      🎯 **Para qué** ✅ *(prospecto, CIMA)*: **prevenir el paludismo** —elimina el parásito que
+      mete en la sangre el mosquito infectado— y también tratarlo. **No sustituye al repelente**:
+      el propio prospecto pide protegerse de las picaduras igual
 - [ ] **Medicación propia** — la del viaje **+5 días**, en el **envase original** y con la receta ○
 - [ ] Antibiótico de amplio espectro **solo si tu médico lo receta para el viaje** ○ *(no se
       automedica: es para el caso de no llegar a un centro)*. **Con receta** ✅ — azitromicina y
       ciprofloxacino no tienen ni un registro sin ella *(p. ej. [azitromicina Normon
-      500](https://cima.aemps.es/cima/publico/detalle.html?nregistro=66065) · [ciprofloxacino Normon 500](https://cima.aemps.es/cima/publico/detalle.html?nregistro=62300))*
+      500](https://cima.aemps.es/cima/publico/detalle.html?nregistro=66065) · [ciprofloxacino Normon 500](https://cima.aemps.es/cima/publico/detalle.html?nregistro=62300))*.
+      🎯 **Para qué** ✅ *(prospecto, CIMA)*: **infecciones por bacterias** —garganta, senos, oído,
+      pulmón, piel—; **no sirven para virus** como la gripe o el catarro. **Cuál, para qué infección
+      y durante cuántos días lo dice el médico que lo receta**, y la pauta se cumple entera
 
 **Lo básico, sin receta** — *todos los precios de este bloque, leídos en la ficha de la farmacia online el 05/10 ✅; el ✅
 que va con «sin receta» es el del CIMA*
@@ -343,52 +354,83 @@ que va con «sin receta» es el del CIMA*
 - [ ] **Analgésico/antitérmico** — 1 caja *(paracetamol)* ○ — **[Paracetamol Normon 650 mg, 20
       comp.](https://www.farmaciasdirect.eu/products/paracetamol-normon-efg-650-mg-20-tablets)**
       0,86 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=68331))*. El de **1 g**, solo en cajas de 10 de marcas
-      concretas *(Gelocatil, Antidol)*: la mayoría de cajas de 1 g piden receta
+      concretas *(Gelocatil, Antidol)*: la mayoría de cajas de 1 g piden receta.
+      🎯 **Para qué** ✅ *(prospecto)*: **dolor leve o moderado** —cabeza, muelas, músculos, espalda—
+      **y fiebre**. Es **el analgésico de la picadura de escorpión** *(`22` §3)*
 - [ ] **Antiinflamatorio** — 1 caja *(ibuprofeno)* ○ — ⚠️ **para la picadura de escorpión no
       cuenta**: los antiinflamatorios «decepcionan» y **nada de opiáceos ni sedantes**, que deprimen
       la respiración; paracetamol, frío y al hospital ✅ *(Müller, `22` §3)*. **[Ibufen 400 mg, 20
       comp.](https://www.farmaciasdirect.eu/products/ibufen-400-mg-20-film-coated-tablets)** 4,59 €
       · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=63597))*. **El de 600 pide receta siempre**, y hasta algún 400
-      genérico también: pedir la marca
+      genérico también: pedir la marca.
+      🎯 **Para qué** ✅ *(prospecto)*: lo mismo que el paracetamol —**dolor leve o moderado y
+      fiebre**— y además **baja la inflamación**: el tobillo torcido, la contractura del volante
 - [ ] **Antidiarreico** — 1 caja *(loperamida)* ○ — **[Fortasec 2 mg, 12
       cáps.](https://www.farmaciasdirect.eu/products/fortasec-2-mg-12-hard-capsules)** 8,06 € ·
-      sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=56523))*
+      sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=56523))*.
+      🎯 **Para qué** ✅ *(prospecto)*: **frenar la diarrea aguda ocasional**. No cura su causa ni
+      repone lo perdido —eso son las sales, abajo—. ⚠️ **Al médico si empeora o si en 2 días no
+      mejora**
 - [ ] **Sales de rehidratación oral ×8 sobres** ○ — con 35–38 °C la deshidratación va por delante
       de la sed, y la regla del agua son **4+ L por persona y día EN el coche** ✅. **[Sueroral
       hiposódico, 5 sobres](https://okfarma.es/sueroral-hiposodico-polvo-para-solucion-oral-5-sobres)**
       3,20 € la caja — **dos cajas** para llegar a ocho · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=59877))*. Cada
-      sobre, en **1 L** de agua
+      sobre, en **1 L** de agua.
+      🎯 **Para qué** ✅ *(prospecto)*: **prevenir y tratar la deshidratación por vómitos o
+      diarrea**. El Fortasec frena la diarrea; esto **repone el agua y las sales** que se llevó
 - [ ] **Cápsulas de sal/electrolitos ×1 bote** ○ — para el sudor del esfuerzo *(Big Daddy, las
       caminatas)*: complementan a las SRO, que son para la diarrea. Elegidas:
       **[cápsulas de sal ×100 de Decathlon](https://www.decathlon.es/es/p/capsulas-de-sal-x100/188711/g78m8409161)**
       · alternativa, **[226ERS Salts, 100 cáps.](https://www.amazon.es/226ERS-Salts-Electrolitos-100-C%C3%A1psulas/dp/B0757T6WHC)**
-      ✅ 21,00 € (Amazon). Suplemento, no medicamento: sin receta
+      ✅ 21,00 € (Amazon). Suplemento, no medicamento: sin receta.
+      🎯 **Para qué** ○: **reponer la sal que se va con el sudor** en un esfuerzo largo con calor;
+      no tratan nada
 - [ ] **Antihistamínico** — 1 caja ○ — **[Alercina 10 mg, 7
       comp.](https://www.farmaciaevacontreras.com/producto/alercina-10-mg-7-comprimidos/)** 5,76 €
       · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=66044))* · o Clarityne 10 mg ×10, también sin receta ✅. La
-      cetirizina y la loratadina genéricas «normales» piden receta
+      cetirizina y la loratadina genéricas «normales» piden receta.
+      🎯 **Para qué** ✅ *(prospecto)*: **la alergia de nariz y ojos** —estornudos, moqueo, picor
+      de ojos; el polen o el polvo—. ⚠️ **Ni la Alercina ni el Clarityne dicen servir para el
+      picor de una picadura ni para la urticaria**: eso es el Fenistil, abajo. Al médico si en 3
+      días *(Alercina)* o 7 *(Clarityne)* no mejora
 - [ ] **Protector gástrico** — 1 caja ○ — **[Almax 500 mg, 24
       comp.](https://www.farmaciasdirect.eu/products/almax-500-mg-24-chewable-tablets)** 9,87 € · sin receta ✅
       *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=55396))* · o **[Omeprazol Pensavital 20 mg, 14
       cáps.](https://www.farmaciasdirect.eu/products/omeprazole-pensavital-efg-20mg-14-capsules)**
-      3,60 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=64477))* — ojo, otros omeprazoles de 20 mg sí piden receta
+      3,60 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=64477))* — ojo, otros omeprazoles de 20 mg sí piden receta.
+      🎯 **Para qué** ✅ *(prospectos)*: **acidez y ardor de estómago**. El Almax neutraliza el
+      ácido que ya hay y alivia al momento; el omeprazol hace que se fabrique menos y es para el
+      **reflujo** que se repite —el ardor que sube al pecho—, en tandas cortas. Con uno de los dos
+      basta
 - [ ] **Antiemético para el coche** — 1 caja ○ *(hay 2.798 km, y el paso de Spreetshoogte y la
       grava de los D8–D9 se notan)*. **[Biodramina 50 mg, 12
       comp.](https://okfarma.es/biodramina-12-comprimidos)** 7,08 € · sin receta ✅
-      *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=16409))*. ⚠️ **Da sueño: para el copiloto, nunca para quien conduce**
+      *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=16409))*. ⚠️ **Da sueño: para el copiloto, nunca para quien conduce**.
+      🎯 **Para qué** ✅ *(prospecto)*: **prevenir y tratar el mareo del transporte** —náuseas,
+      vómitos, vértigo—. **Se toma antes del tramo**: al menos media hora, mejor 1–2 horas ✅
+      *(sección 3 del mismo prospecto)*
 - [ ] **Laxante suave o fibra** ○ — dieta de camping y poca verdura. **[Plantaben 3,5 g, 30
       sobres](https://www.farmaciaevacontreras.com/producto/plantaben-polvo-efervescente/)** 8,96 €
-      · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=56342))*
+      · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=56342))*.
+      🎯 **Para qué** ✅ *(prospecto)*: **el estreñimiento** — es fibra *(plantago)* que retiene
+      agua: cada sobre en un vaso de agua, **otro vaso detrás y 1–2 L al día** ✅ *(su
+      prospecto)*. Al médico si en 3 días no mejora
 - [ ] **Antitusivo o descongestionante — 1 caja** ○ *(kit CDC: el polvo de pista y el aire seco)*.
       **[Cinfatós 15 mg, 18 sobres](https://www.farmaciasdirect.eu/products/cinfatos-15-mg-oral-solution-18-sachets)**
       9,09 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=78764))* · o el spray **[Respibien 0,5
       mg/ml](https://www.farmaciaevacontreras.com/producto/respibien-05-mgml-nebulizador-nasal/)**
-      6,44 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=51889))* — éste, pocos días seguidos como mucho, por el efecto rebote
+      6,44 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=51889))* — éste, pocos días seguidos como mucho, por el efecto rebote.
+      🎯 **Para qué** ✅ *(prospectos)*: el Cinfatós, **la tos seca, la que no arranca flemas** —la
+      irritativa del polvo—; con flemas no toca. El Respibien, **la nariz tapada**, y **3 días como
+      máximo**, lo dice su prospecto
 - [ ] **Pastillas potabilizadoras ×1 tubo** ○ *(kit CDC: el respaldo de la regla del agua en los
       tramos de 500 km)*. Modelo: **[Aquatabs, 50 uds, 1 L/pastilla](https://www.decathlon.es/es/p/mp/pastillas-potabilizadoras-de-agua-supervivencia-aquatabs-50uds-1l-pastilla/068a8bed-71b5-44bb-af68-bd91f7c8686f/novar)**
       ✅ 13,95 € (marketplace Decathlon) · o **[las mismas en
       Amazon](https://www.amazon.es/Albainox-33430-Pastillas-Potabilizadoras-Unisex/dp/B00GOPHOSQ)**
-      ✅ 11,74 € (05/10). No son medicamento: sin receta
+      ✅ 11,74 € (05/10). No son medicamento: sin receta.
+      🎯 **Para qué** ○: **potabilizar agua dudosa** —una pastilla por litro, y esperar el tiempo
+      que marque el envase antes de beber—. No quitan el barro: si el agua viene turbia, se filtra
+      antes con un paño
 
 **Curas y picaduras**
 
@@ -403,6 +445,11 @@ que va con «sin receta» es el del CIMA*
       7,47 € · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=36340))*. El de clorhexidina: **[Cristalmina 10 mg/ml, 25
       ml](https://okfarma.es/cristalmina-10mgml-solucion-cutanea-25-ml)** ✅ 6,35 € · sin receta ✅
       *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=56549))*.
+      🎯 **Para qué** ✅ *(prospectos)*: los dos son **antisépticos**: matan los gérmenes de
+      **heridas pequeñas, cortes, rozaduras y quemaduras leves**. Primero se lava con agua limpia
+      o suero, luego el antiséptico, luego la gasa. La pomada antibiótica *(si el médico la receta)*
+      no es para limpiar: **trata una herida que ya se ha infectado**. Las **gasas** cubren, el
+      **esparadrapo** las sujeta y la **venda** comprime o inmoviliza *(un esguince)* ○.
       **[Gasas estériles Interapothek 20×20 cm, 20
       uds](https://www.promofarma.com/es/interapothek-compresa-esteril-tnt-20-uds/p-516978)** ✅
       7,00 € · **[esparadrapo de papel Omnipor 5 m ×
@@ -415,7 +462,9 @@ que va con «sin receta» es el del CIMA*
       tamaños](https://www.atida.com/es-es/hansaplast-universal-4-tamanos-40-apositos)** ✅ 3,99 €
       y **[Compeed ampollas medianas, 5
       uds](https://www.atida.com/es-es/compeed-apositos-ampollas-medianas-5-uds)** ✅ 8,99 € —
-      Atida, 05/10; para llegar a seis, una caja más o la de pequeñas
+      Atida, 05/10; para llegar a seis, una caja más o la de pequeñas.
+      🎯 **Para qué** ○: las tiritas, el corte pequeño; el Compeed, **la ampolla** —o la rozadura
+      roja que va a serlo, puesto antes de que reviente—, y se deja hasta que se despegue solo
 - [ ] **Tijeras ×1** y **pinzas ×1** ○ — las espinas de acacia se clavan y se parten. Y las
       pinzas son también **el extractor de garrapatas**: revisión corporal al anochecer los días
       de monte ◐ — la fiebre por garrapata africana es la fiebre con sarpullido más frecuente del
@@ -449,17 +498,27 @@ que va con «sin receta» es el del CIMA*
       ✅ 5,23 €, que no es medicamento)* y **[Calmiox, hidrocortisona 0,5 %, 30
       g](https://www.ibanezfarmacia.com/2618-calmiox-5-mgg-crema-30-g)** ✅ 10,98 € · sin receta ✅
       *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=60889))*. ⚠️ **La hidrocortisona al 1 % ya pide receta** ✅
-      *([Dermosa, CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=21428))*: la del 0,5 % es el techo sin ella
+      *([Dermosa, CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=21428))*: la del 0,5 % es el techo sin ella.
+      🎯 **Para qué** ✅ *(prospectos)*: el **Fenistil**, **el picor de las picaduras** —y de la
+      urticaria y las quemaduras de sol pequeñas—: es un antihistamínico **en gel**, no se traga.
+      El **Calmiox**, **el picor con inflamación** de una irritación de piel —picadura, ortiga,
+      algo que roza—, cuando el Fenistil se queda corto. Al médico si en 7 días no mejora. ⚠️ Y
+      **ninguno de los dos es para la picadura de escorpión**: eso es frío y hospital *(`22`)*
 - [ ] **Gel de aloe vera ×1** ○ *(kit CDC: la quemadura solar Y la del braai — se cocina al fuego
       cada noche y nada más del botiquín cubre quemaduras)*. **[Botanica Pharma, aloe vera 100 %,
       250 ml](https://www.promofarma.com/en/botanica-pharma-sabila-aloe-vera-gel-100-pure-250ml/p-58794)**
-      ✅ 9,28 € (PromoFarma, 05/10)
+      ✅ 9,28 € (PromoFarma, 05/10).
+      🎯 **Para qué** ○: **calmar y refrescar la piel quemada** —sol o braai— cuando la quemadura
+      es leve. Si salen ampollas grandes, es para el médico
 - [ ] **Antifúngico en crema o polvos ×1** ○ *(kit CDC — 17 días de calor y botas)* —
       **[Canespie clotrimazol 1 %, crema 30
       g](https://www.farmacialiceo.com/canespie-clotrimazol-10-mg-g-crema-30-g)** ✅ 12,16 € · sin
       receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=69680))*. ⚠️ **Ojo con el nombre: el Canesten de piel —crema, polvo y
       spray— sí pide receta** ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=52626))*, aunque sea el mismo clotrimazol. **En polvo
-      sin receta no se encontró ninguno** ❌: crema
+      sin receta no se encontró ninguno** ❌: crema.
+      🎯 **Para qué** ✅ *(prospecto)*: **el pie de atleta** —picor, grietas y piel que se pela
+      entre los dedos—, que es justo lo que crían quince días de botas. **Solo para los pies**,
+      según el propio prospecto. Al médico si en 10 días no mejora
 - [ ] **Suero fisiológico en monodosis ×10** y **lágrima artificial sin conservantes ×20** ◐ — el
       polvo es diario: el suero lava, la lágrima lubrica *(CDC Pack Smart y
       [AOA](https://www.aoa.org/healthy-eyes/vision-and-vision-correction/environments))*.
@@ -467,11 +526,19 @@ que va con «sin receta» es el del CIMA*
       ml](https://www.dosfarma.com/8930-suero-fisiologico-kern-pharma-5ml-x-30ud.html)** ✅ 3,99 € y
       **[Artelac Complete, 30 monodosis sin
       conservantes](https://www.dosfarma.com/11868-artelac-complete-30-monodosis.html)** ✅ 17,99 €
-      (DosFarma, 05/10)
+      (DosFarma, 05/10).
+      🎯 **Para qué** ◐: el **suero**, **lavar** —ojos con arena, nariz con polvo, una herida
+      antes del antiséptico—; la **lágrima**, **lubricar el ojo seco** que deja el viento del
+      desierto. Una monodosis abierta se usa y se tira
 - [ ] **Termómetro ×1** — **[Braun PRT1000](https://www.amazon.es/dp/B000FHC0QK)** ✅ 10,38 €
       (Amazon) · **guantes de nitrilo ×4** ○ — **[Peha-Soft nitrilo, 10
       uds](https://promofarma.com/peha-soft-guantes-desechables-de-nitrilo-talla-l-10uds)** ✅
-      3,15 € (PromoFarma, 05/10; tallas S, M y L en la misma ficha)
+      3,15 € (PromoFarma, 05/10; tallas S, M y L en la misma ficha).
+      🎯 **Para qué**: el termómetro dice si **hay fiebre** — y en zona de malaria, **toda fiebre
+      se toma en serio y se mira sin esperar**, aunque sea zona de bajo riesgo ✅
+      *([TravelHealthPro](https://travelhealthpro.org.uk/factsheet/52/malaria): «any febrile
+      illness must be taken seriously and investigated promptly»)*. Los guantes ○, curar a otro sin
+      tocar su sangre
 
 **Sol y bichos — lo que de verdad se gasta**
 
