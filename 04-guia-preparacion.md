@@ -388,7 +388,8 @@ flowchart TD
   veterinaria y los teléfonos de emergencia: en [`07-logistica`](07-logistica.md).
 - **Los adaptadores tipo M** —el fallo tonto más probable del viaje— y el resto del petate: en
   [`05-equipaje`](05-equipaje.md).
-- **Que las bottle stores cierran los domingos**, y tus dos domingos de viaje: en
+- **Que las bottle stores cierran los domingos y el sábado a las 13:00** —así que el D1 no hay
+  bebida de tienda—, y tus dos domingos de viaje: en
   [`08-comida-compras-y-regalos`](08-comida-compras-y-regalos.md).
 
 ---

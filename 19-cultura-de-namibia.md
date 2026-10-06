@@ -191,7 +191,8 @@ os atiende, no un extra.
   el Día del Recuerdo del Genocidio, 28 de mayo, desde 2025)* caen todos fuera —
   el más cercano por detrás es **Heroes' Day, el 26 de agosto**, y por delante el **Día de los
   Derechos Humanos, el 10 de diciembre**. **En octubre y noviembre no hay ninguno.**)* Así que la
-  única restricción de calendario que os aplica es **el domingo** *(alcohol, `08`)* — el
+  única restricción de calendario que os aplica es **el domingo y la tarde del sábado** *(alcohol:
+  el sábado cierra a las 13:00, `08`)* — el
   calendario de horarios de `08`
   vale tal cual. Los grandes son el **21 de marzo** *(Independencia)*, el **26 de agosto**
   *(Heroes' Day — y, en fechas cercanas, el **Herero Day** de Okahandja: miles de hereros de

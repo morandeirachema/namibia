@@ -291,7 +291,7 @@ barata pero con cobertura **notablemente peor** fuera de los pueblos.
 - **Dónde**: los paquetes turistas **se venden solo en la tienda MTC del aeropuerto Hosea Kutako**
   *(kiosco cerca del mostrador de equipaje perdido, antes de la salida de llegadas; cierra ~21:00 —
   si tu vuelo llega tarde, ahí no lo coges)*. En Windhoek —**Maerua Mall**, **Wernhil Park**,
-  supermercados **Pick n Pay / OK**— se compra una **SIM prepago normal** y se le cargan bonos de
+  supermercados **Model** *(el antiguo Pick n Pay)* **/ OK**— se compra una **SIM prepago normal** y se le cargan bonos de
   datos **«Aweh»** (los N$100–200 ≈ €5–10/semana de siempre), que sirve igual si no cogiste el paquete turista.
 - 🛂 **El registro de la SIM es OBLIGATORIO** por normativa CRAN (en vigor desde el 1/01/2023): hay
   que registrarla **en persona con el PASAPORTE**. Tarda ~10–15 min y es gratis.

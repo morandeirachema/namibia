@@ -234,9 +234,13 @@ flowchart LR
   izquierda se estrena en los ~5 km de ciudad de la oficina a Maerua**, un sábado y con rotondas:
   despacio *(corregido el 28/08 — antes esto se contaba como el primer tramo conducido)*
 - 🍽️🛒 **~14:00–16:30 · comer y LA compra grande, HOY que es sábado** — Maerua Mall ○: algo rápido
-  de comer y **SuperSpar + TOPS anexo** — cerveza y vino incluidos: **mañana es domingo y el
-  alcohol para llevar cierra por ley** ✅. Aquí también la **carga grande de efectivo
-  (~N$6.000–8.000 · ~€300–400)**, en cajero pegado a sucursal *(`07`)*. La lista entera, para
+  de comer y **SuperSpar** *(abre hasta las 19:30 ✅)*. ⚠️ **Cerveza y vino, HOY NO**: la venta
+  de alcohol para llevar **cierra el sábado a las 13:00** ✅ *(reglamento de la Liquor Act, reg. 69
+  y 70 — `08` §la ley)* y mañana es domingo: **la bebida de tienda empieza el lunes 2 (D3)**, y la
+  de estas dos noches es de barra. Aquí también la **carga grande de efectivo
+  (~N$6.000–8.000 · ~€300–400)**, en cajero pegado a sucursal *(`07`)* — **pero las sucursales del
+  Mall cierran el sábado a las 12:00** ✅: si el cajero se traga la tarjeta, no hay quién la
+  devuelva hasta el lunes *(`08` §Windhoek)*. La lista entera, para
   tachar, en [`08`](08-comida-compras-y-regalos.md). **⛽ Y depósito lleno al salir de la
   ciudad**: por Spreetshoogte no hay NADA hasta Solitaire *(`08`)* — el depósito son 140 l
   confirmados ✅ *(`20` §1)*, pero se entrega sin lleno: *pregunta al recoger con cuánto tanque lo
@@ -1005,9 +1009,10 @@ flowchart LR
   vuelta**: la devolución del coche a las ~18:00 deja ~1h45 de colchón.
 - **Namibia Craft Centre** ✅ *(web oficial)*: L–V 09:00–17:30 · **sábados 09:00–16:00** · domingos
   09:00–15:00 — vuestro D15 es sábado: los regalos, por la mañana.
-- **Alcohol** ✅: bottle stores y secciones de licores **cierran domingos y festivos**. Tus
-  domingos de viaje: **1 nov (el día que se sale al paso) y 8 nov** — por eso la compra grande es
-  el sábado 31.
+- **Alcohol** ✅: bottle stores y secciones de licores **cierran domingos y festivos, y el sábado a
+  las 13:00** *(reg. 69 y 70 — `08` §la ley)*. Tus domingos de viaje: **1 nov (el día que se sale
+  al paso) y 8 nov** — y como el sábado 31 se llega a la compra pasadas las 13:00, **la bebida de
+  tienda empieza el lunes 2**.
 - ~~**Otjitotongwe (guepardos)**~~ — **FUERA desde el 27/08**: guepardos habituados y alimentados
   a mano, y el viajero solo quiere animales en libertad *(igual que el CCF)*. El D10 se sale de
   Hoada sin hora que cuadrar.
