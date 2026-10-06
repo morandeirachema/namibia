@@ -829,8 +829,9 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 
 👉 **La compra del primer día tiene su propia lista, para tachar en el carro**: en el
 [`08`](08-comida-compras-y-regalos.md) §la lista de la compra grande del D1. **Dónde**: Maerua Mall,
-Windhoek, el **sábado 31 a las ~14:00–16:30** —SuperSpar con la bottle store TOPS al lado, y
-Checkers y Woermann Brock en el mismo centro—, que **cierra a las 17:00** ✅ *(`01` §D1)*. Lo de
+Windhoek, el **sábado 31 a las ~14:00–16:30** —el SuperSpar, pegado al Mall, y Checkers dentro—;
+el Mall **cierra a las 17:00** ✅ *(`01` §D1)*. **Sin cerveza ni vino**: el sábado la venta de
+alcohol para llevar acaba a las 13:00 ✅ *(`08` §la ley)*. Lo de
 aquí abajo ya va en esa lista, salvo la SIM, que se compra antes, en el aeropuerto.
 
 - **Agua en garrafa, hielo y comida** — mapeado parada a parada en

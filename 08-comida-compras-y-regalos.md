@@ -20,20 +20,27 @@ humano» a scripts; en navegador abren)* ✅:
 
 - **Domingos y festivos = «closed day»**: **prohibida la venta de alcohol para llevar** (art. 46(2))
   — ni bottle stores ni supermercados. *Bares y restaurantes sí sirven.*
+- **Y el sábado, solo hasta las 13:00** ✅ — el horario no lo fija la ley sino su reglamento
+  *(art. 79)*: **lunes a viernes 08:00–19:00 y sábado 08:00–13:00**, igual para la bottle store
+  *(reg. 69)* que para el súper *(reg. 70)* — [Liquor Regulations, GN 142/2001](https://www.lac.org.na/laws/annoREG/Liquor%20Act%206%20of%201998-Regulations%202001-142.pdf), anotadas
+  hasta la enmienda de 2024 sin que nadie toque esos dos artículos. Y la tienda lo cumple tal cual:
+  la **TOPS de Maerua, sábado 08:00–13:00 y domingo cerrada** ✅ *([su ficha](https://www.weckevoigtsspar.com/store-location/maerua-super-spar))*. ⚠️ *Hasta
+  el 05/10/2026 este dossier daba el sábado por día entero, y montaba sobre eso la compra de bebida
+  del D1 a las 14:00–16:30: abajo, corregido.*
 - **Los supermercados solo venden «light liquor» (≤16 %: cerveza y vino)** (art. 10). Los
   **destilados, solo en bottle stores** (TOPS de Spar, LiquorShop de Checkers, Cheers de Woermann).
 
 ```mermaid
 flowchart LR
-    A["Tus domingos de viaje:<br/>1 y 8 nov"] --> B["Sin alcohol para llevar<br/>en tienda"]
-    C["Sabados y laborables"] --> D["Cerveza/vino en el super<br/>destilados en la bottle store"]
-    B --> E["La compra de bebida:<br/>SABADO 31 al llegar, con la<br/>compra grande - y reponer<br/>el JUEVES 5 (D6) en Walvis Bay"]
+    A["Domingos 1 y 8 nov<br/>y sabados desde las 13:00"] --> B["Sin alcohol para llevar<br/>en tienda"]
+    C["Laborables 08:00-19:00<br/>sabados 08:00-13:00"] --> D["Cerveza/vino en el super<br/>destilados en la bottle store"]
+    B --> E["La bebida para llevar:<br/>NO el sabado 31 (se llega tarde)<br/>desde el LUNES 2 (D3)<br/>y se repone el JUEVES 5 (D6)"]
     D --> E
     style E fill:#2d6a4f,color:#fff
 ```
 
-*Los súper sí abren en domingo (p. ej. Maerua SuperSpar: D 07:30–18:00 ◐) — solo la sección de
-alcohol queda cerrada.*
+*Los súper sí abren en domingo (p. ej. Maerua SuperSpar: D 07:30–18:00 ✅ —
+[su ficha](https://www.weckevoigtsspar.com/store-location/maerua-super-spar)) — solo la sección de alcohol queda cerrada.*
 
 ---
 
@@ -42,22 +49,39 @@ alcohol queda cerrada.*
 ### Windhoek — LA compra grande (sábado 31, recién aterrizados y con el coche)
 La regla de las guías de alquiler ◐: **hacia el desierto solo hay básicos — la compra seria se
 hace en Windhoek** ([Advanced Car Hire](https://www.advancedcarhire.com/post/a-guide-to-grocery-shopping-in-namibia-for-travellers)).
-**Y el calendario juega a favor** ✅: se llega en sábado — cerveza y vino en el súper y destilados
-en la bottle store, **que el domingo 1 no se puede**.
-- **Maerua Mall** es la jugada redonda ○: **SuperSpar** («probablemente el mejor de Windhoek, con
-  parking» — [foro](https://www.tripadvisor.com/ShowTopic-g293821-i12459-k7050914-Supermarket_in_Windhoek-Windhoek_Khomas_Region.html)),
-  con **TOPS** (destilados) anexo, más **Checkers** y **Woermann Brock** al lado. Cadenas del país:
-  Shoprite/Checkers, Pick n Pay, SuperSpar y la local **Woermann Brock** ✅
+**Y el calendario, para la bebida, juega en contra** ✅: se llega en sábado, pero **la venta de
+alcohol para llevar cierra el sábado a las 13:00** *(§la ley, arriba)* y la compra va a las
+~14:00–16:30; el domingo 1, cerrada todo el día. **Sin cerveza ni vino de tienda hasta el lunes 2
+(D3)** — la tienda de Sossus Oasis anuncia cerveza fría *(§Sesriem, abajo)*. Las dos primeras
+noches, la bebida es **de barra**: el bar del Urban Camp *(`01` §D1)* o Joe's Beerhouse; en
+Spreetshoogte, bar no consta ❌. **La única forma de llevarla el D1 es estar en la caja antes de las
+13:00**, y eso obliga a recortar el briefing del coche, que el `01` quiere sin prisa — **decisión
+vuestra**.
+- **Maerua** es la jugada redonda: **SuperSpar** ✅ *(lunes a sábado 07:30–19:30; [su ficha](https://www.weckevoigtsspar.com/store-location/maerua-super-spar))*,
+  que no está dentro del Maerua Mall sino **pegado a él, en el Maerua Lifestyle Centre, Centaurus
+  Road** ✅ *(«probablemente el mejor de Windhoek, con parking» — [foro](https://www.tripadvisor.com/ShowTopic-g293821-i12459-k7050914-Supermarket_in_Windhoek-Windhoek_Khomas_Region.html) ◐)*,
+  con **TOPS** (destilados) anexo; y **dentro del Mall, Checkers** ✅ *([directorio del
+  centro](https://maeruamall.com/store-directory.html))*. *(La Woermann Brock que se daba «al lado»
+  salía de un foro de hace doce años y **no está en el directorio actual** ❌: fuera del plan.)*
+  Cadenas del país:
+  Shoprite/Checkers, **Model** *(el antiguo Pick n Pay: la cadena dejó Namibia en 2025 y sus
+  tiendas recuperaron el nombre de antes ✅ — [Moneyweb](https://www.moneyweb.co.za/news/companies-and-deals/namibias-ohlthaver-list-to-rebrand-pick-n-pay-stores-to-model/))*, SuperSpar y la local **Woermann
+  Brock** ✅
   ([estudio](https://www.tandfonline.com/doi/full/10.1080/0376835X.2020.1819774) · [woermannbrock.com](https://www.woermannbrock.com/)).
-- **El horario cabe, con media hora de margen** ✅: el centro abre el sábado de **9:00 a 17:00**
-  *([maeruamall.com](https://maeruamall.com/), leído el 05/10/2026)* y el plan del `01` mete la
-  compra en las **~14:00–16:30**. Si el briefing de Savanna se alarga, lo que se recorta es la
-  comida, no la compra: **a las 17:00 cierra y mañana es domingo**. *(El horario de cada tienda de
-  dentro puede ser otro y no consta ❌.)*
+- **El horario de la comida cabe de sobra** ✅: el Mall abre el sábado de **9:00 a 17:00**
+  *([maeruamall.com](https://maeruamall.com/), leído el 05/10/2026)* y el **SuperSpar hasta las
+  19:30** ✅; el plan del `01` mete la compra en las **~14:00–16:30**. Lo que **no** cabe es la
+  bebida *(13:00, arriba)* ni **el banco**: las sucursales del Mall —están las cuatro: FNB, Bank
+  Windhoek, Nedbank y Standard Bank ✅— **cierran el sábado a las 12:00** *(FNB Maerua, 08:30–12:00
+  ✅ — [FNB](https://www.fnbnamibia.com.na/ways-to-bank/for-me/branch.html))*. El cajero funciona,
+  pero **si se traga la tarjeta, no hay quién la saque hasta el lunes**, y el lunes ya se está en
+  el desierto ○ — que la del cajero no sea la tarjeta de la retención de la franquicia *(`17`)*
 - **En el mismo centro, por si algo se ha quedado en casa**: farmacia **Clicks**, **Cape Union
   Mart** *(acampada)*, ropa barata y tienda de móviles — el detalle, en el `17` §si algo se olvida.
-- **Para presupuestar desde casa**: Pick n Pay Namibia tiene **tienda online con precios reales en
-  N$** ✅ — [shop.pnp.na](https://shop.pnp.na/).
+- **Para presupuestar desde casa**: la tienda online con precios reales en N$ es hoy la de
+  **Model**, [shop.modelmooove.na](https://shop.modelmooove.na/) ◐ *(bloquea a los scripts; en navegador abre)*. La de Pick n
+  Pay que se citaba aquí, `shop.pnp.na`, **ya no existe**: el dominio no resuelve ✅ *(06/10)*. El
+  SuperSpar no publica precios.
 - **La lista de camping** ◐ ([guía](https://roamthereaches.com/2021/10/09/the-ultimate-guide-to-camp-cooking-in-namibia/)):
   **leña + pastillas de encendido** (mejor del súper: la de algunos campings es resinosa ○),
   carne de braai y **boerewors**, pap, conservas, **agua en garrafas**, hielo *(fácil: gasolineras
@@ -67,7 +91,9 @@ en la bottle store, **que el domingo 1 no se puede**.
 
 La regla de la lista: **solo cosas que un súper grande namibio tiene seguro** — todo son básicos de
 las cadenas de arriba ◐ *(las mismas guías citadas, y los precios se pueden comprobar desde casa en
-[shop.pnp.na](https://shop.pnp.na/) ✅)*. Nada de fiar el menú a encontrar un producto concreto.
+la [tienda online de Model](https://shop.modelmooove.na/) ◐)*. Nada de fiar el menú a encontrar un producto concreto.
+**Los precios de al lado son de esa tienda, leídos el 05/10/2026** ◐ *(otra cadena y casi un mes
+antes: orientativos, y varios iban «en promoción» sin fecha de fin)*.
 Cubre **del D1 a la mañana del D5** *(en Walvis Bay —o Swakopmund—, el **D6, jueves 5**, el día de
 descanso, se repone TODO; §abajo)*.
 ⚠️ **La primera noche es de campamento remoto** *(Spreetshoogte, D2, sin tienda ni restaurante que
@@ -75,27 +101,51 @@ consten ❌)*: **sin reposición hasta Solitaire/Sesriem, el D3**:
 
 - [ ] **Agua: garrafas de 5 L — mínimo 3–4 garrafas** *(4 L/persona/día del coche, `06`, más la
       cocina de una noche sin grifo confirmado)* — *desde el 24/08 la escarpa es UNA noche, no dos*.
-      **De plástico grueso**: las finas revientan con el corrugado *(`17`)*
+      **De plástico grueso**: las finas revientan con el corrugado *(`17`)*. ~N$39 (~€2) la de 5 L
 - [ ] **Leña de braai PARA UNA NOCHE** *(kameeldoring o sekelbos)* **+ pastillas de encendido +
       cerillas largas** — en la escarpa no hay dónde reponer ❌ *(allí se vende: N$55 · ~€2,75 el
-      fardo de 10 kg — `20` §5)*
-- [ ] **Hielo** — lo último que entra en el carro, y directo a la nevera
-- [ ] **Carne del braai de los primeros días + boerewors** *(al vacío mejor: aguanta)*
+      fardo de 10 kg — `20` §5; **tarifa vigente hasta el 30/11/2026** ✅ —
+      [barkhan](https://www.barkhan.africa/rates.php))*. En el súper, ~N$50 (~€2,50) el saco de 7 kg
+      y ~N$43 (~€2) las 12 pastillas. **Las cerillas largas no salen en el catálogo** ❌: si no
+      aparecen, el mechero de abajo
+- [ ] **Hielo** — lo último que entra en el carro, y directo a la nevera. ~N$18 (~€0,90) la bolsa
+      de 2 kg
+- [ ] **Carne del braai de los primeros días + boerewors** *(al vacío mejor: aguanta)* —
+      boerewors ~N$125–130 (~€6,50) el kilo y filete ~N$140 (~€7) el kilo *(folleto de Checkers de
+      septiembre y la carnicería [KWS](https://kwsnamibia.shop/shop/boerewors-sausage/))*
 - [ ] **Huevos, pan de molde, mantequilla, queso en lonchas**
 - [ ] **Leche UHT, café soluble o de filtro, rooibos, azúcar**
 - [ ] **Avena o cereal, mermelada, crema de cacahuete** — el desayuno de campamento que no falla
 - [ ] **Pasta, arroz, pap, salsas de bote, sopas de sobre**
 - [ ] **Latas: atún, alubias/baked beans, chakalaka, tomate, maíz**
 - [ ] **Fruta dura** *(manzanas, naranjas)* **y verdura que aguante** *(cebolla, zanahoria, calabacín)*
+      — el calabacín *(«baby marrow»)* no sale en el catálogo ❌: si no está, *patty pan*. Y es lo
+      único de la lista que las guías avisan de que puede faltar: **la fruta y la verdura** ◐
+      *([roamthereaches](https://roamthereaches.com/2021/10/09/the-ultimate-guide-to-camp-cooking-in-namibia/))*
 - [ ] **Aceite pequeño, sal, pimienta, especia de braai, ketchup/mostaza**
-- [ ] **Picoteo de coche: frutos secos, galletas, biltong** *(el biltong, en cualquier súper ◐)*
-- [ ] **Cerveza y vino EN EL SÚPER, HOY** ✅ *(mañana domingo, no)* — destilados, en el TOPS anexo
+- [ ] **Picoteo de coche: frutos secos, galletas, biltong** *(el biltong, en cualquier súper ◐)* —
+      el biltong va **a ~N$380–540 (~€19–27) el kilo** *([KWS](https://kwsnamibia.shop/shop/biltong/) y
+      la media de Windhoek de enero)*: se pide a peso, 200 g
 - [ ] **Bolsas de basura, papel de cocina, papel higiénico de repuesto, mechero**
-- [ ] **Lavavajillas pequeño y estropajo** *(el menaje viene en el coche; el jabón, no ○)*
+- [ ] **Lavavajillas pequeño y estropajo** *(el menaje viene en el coche; el jabón, no ○)* —
+      ~N$25 (~€1,25) el Sunlight de 400 ml. **El estropajo no sale en el catálogo** ❌: pesa nada,
+      mejor desde casa ○
 - [ ] **Espirales o barritas antimosquito para la parcela** ◐ — Peaceful Sleep o Tabard, de
-      súper *(`17` §lo que se compra allí)*
+      súper *(`17` §lo que se compra allí)*. Espirales Mortein ~N$17 (~€0,85) las 10; **las
+      pastillas de Peaceful Sleep piden un aparato enchufado**, y en la parcela el enchufe es uno
 
-⚠️ Tres cosas que **NO** van en esta compra: la **carne cruda que cruzaría la Línea Roja** hacia el
+**Cuánto cuesta** ◐ — con esos precios, para **dos personas y cuatro días** *(4 garrafas, un saco
+de leña, 2 bolsas de hielo, 1 kg de boerewors y 1 de filete, 200 g de biltong, y del resto una
+unidad o un kilo)*: **≈ N$2.050 (~€102)**, sin bebida; al cambio real de 2026 *(18,5–19,4)*, ~€105–111.
+Encaja **por arriba** con el `02` §9 *(N$300–500 · €15–25 al día para dos → N$1.200–2.000 ·
+€60–100 los cuatro días)*, y es razonable: esta compra lleva despensa que dura el viaje entero
+—aceite, sal, café, azúcar, especias—. **Y Checkers sale un pelo más barato**: en la encuesta de
+agosto de 2026 la misma cesta costaba **N$1.262 (~€63) en Checkers Maerua**, N$1.279 (~€64) en el
+SuperSpar de Grove y N$1.302 (~€65) en Model ◐ *([The Brief](https://thebrief.com.na/2026/09/checkers-offers-the-cheapest-grocery-basket-among-premium-stores-in-august-2026/))* — un 2–3 %, que no compensa
+cambiar de súper: se compra donde se esté.
+
+⚠️ Cuatro cosas que **NO** van en esta compra: **la cerveza y el vino** ✅ *(a las 14:00 del sábado
+ya no se venden para llevar — §la ley; desde el lunes 2)*, la **carne cruda que cruzaría la Línea Roja** hacia el
 norte *(se recompra en Swakopmund y en Outjo — ver `07`)*, nada **congelado en exceso** *(la nevera
 del coche no es un arcón: ver [`18`](18-manual-de-campamento.md) §5)* y el **repelente**, que ya
 viene de casa *(`17`)*.
@@ -111,7 +161,7 @@ viene de casa *(`17`)*.
   y la costa.
 
 ### Walvis Bay (D5–D6)
-- **Pick n Pay en Dunes Mall** y **SuperSpar** ○ bien surtidos.
+- **Model en Dunes Mall** *(el antiguo Pick n Pay)* y **SuperSpar** ○ bien surtidos.
 
 ### Walvis Bay o Swakopmund (D6, jueves 5) — ⚠️ LA ÚLTIMA COMPRA GRANDE del viaje norte
 Después de aquí: Henties (incierto) → Terrace Bay (kiosco) → Damaraland (puestos) → Outjo (súper
@@ -120,7 +170,7 @@ bebida** *(jueves = alcohol disponible; el domingo 8 no habrá)*. ⚠️ *Hasta 
 «viernes 6 en Swakopmund»: era el calendario viejo — el viernes 6 es ya el D7 y se sale a las ~07:30
 hacia Cape Cross (`13`), sin hora de compra. Walvis Bay es donde se duerme; Swakopmund, solo si el
 Moon Landscape lleva allí esa tarde (`10`).*
-- SuperSpar (Garnison Rd), Ocean View Spar, Pick n Pay, **Woermann Brock con productos alemanes**,
+- SuperSpar (Garnison Rd), Ocean View Spar, Model *(antes Pick n Pay)*, **Woermann Brock con productos alemanes**,
   Checkers en Platz am Meer ○ ([foro](https://www.4x4community.co.za/forum/showthread.php/375861-Supermarket-in-Swakopmund)).
 
 ### Henties Bay (D7) — ⚠️ estado incierto
