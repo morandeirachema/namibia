@@ -749,8 +749,36 @@ escribe** — la conversión es optimista, no conservadora.
   redondo sigue valiendo como regla de bolsillo en el surtidor, y bajar la cabecera a ~19 dejaría el
   encabezado diciendo una cosa y las conversiones «~€» de todo el dossier *(calculadas a 20)*
   diciendo otra — peor el remedio. Lo correcto es **tratar la conversión de la parte en N$ como ~5 %
-  optimista** y **revisar la banda cerca de la salida** *(finales de noviembre)*, cuando el EUR/ZAR
+  optimista** y **revisar la banda cerca de la salida**, cuando el EUR/ZAR
   del momento sea el que importe. Queda anotado como tarea de revisión, no como corrección aplicada.
+
+### 🔁 Revisión del 08/10/2026 — a tres semanas de la salida: la banda aguanta, sigue por la parte baja ◐
+
+La tarea de revisión de arriba tocaba **cerca de la salida** *(el coche se recoge el 31/10)*, así
+que se rehízo la lectura. **El EUR/ZAR no se ha movido de la zona de agosto — si acaso está un
+pelín más bajo**, pegado al suelo de la banda:
+
+- **La cifra del 7–8 de octubre de 2026** ◐: **1 € ≈ 18,6 N$**. Cinco fuentes convergen en ~18,6
+  para el EUR/ZAR del 7–8/10 —**18,59** *(Pluang)*, **18,62** *(OFX, interbancario)*, **18,61**
+  *(currency.wiki)*, **18,65** *(freecurrencyrates, origen BCE)*, **18,67** *(xe)*—, y como el
+  **N$ está clavado 1:1 al rand**, ese EUR/ZAR **es** el EUR/N$ que importa. *(Las cotizaciones
+  EUR→N$ directas que asoman a ~18,9–19,3 —Wise, poundsterlinglive— son el par flojo y con
+  instantáneas cacheadas; el ancla objetiva es el EUR/ZAR.)* Sigue siendo **◐ y no ✅** por lo
+  mismo que en agosto: **los conversores devuelven egress/403**, así que es síntesis de WebSearch,
+  no ficha descargada — pero converge estrecho y es objetivo.
+- **Contexto del año** ◐: el rango de los últimos doce meses va de **~18,48 a ~20,46** *(Pluang)*;
+  a 08/10 el euro cotiza **cerca del mínimo** de esa horquilla — es decir, el rand está fuerte y el
+  euro compra pocos N$.
+- 👉 **Qué cambia: nada, y eso es el hallazgo.** La banda de agosto *(18,6–19,1)* **se confirma**, y
+  la lectura cae en su extremo bajo, así que **la conversión «~€» de todo el dossier sigue siendo
+  optimista — ahora más cerca del ~7 % que del ~5 %** sobre lo que se paga en N$ sobre el terreno.
+  **No se reescribe ni un precio** *(el motivo de arriba sigue en pie)*; las partidas grandes van en
+  euros y no se tocan. **Relectura final recomendada en los días previos al 30/10**, por si el
+  EUR/ZAR se despega del suelo antes de salir. Fuentes:
+  [OFX EUR→ZAR](https://www.ofx.com/en-au/exchange-rates/eur-to-zar/),
+  [freecurrencyrates EUR→ZAR (BCE)](https://freecurrencyrates.com/en/convert-EUR-ZAR/eucb),
+  [Pluang EUR→ZAR](https://pluang.com/en/tools/currency-converter/eur-zar),
+  [xe EUR→ZAR](https://www.xe.com/en-us/currencyconverter/convert/?Amount=1&From=EUR&To=ZAR).
 
 ---
 
