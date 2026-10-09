@@ -162,6 +162,32 @@ def cabecera_dia(dia, titulo, breve=False):
 </header>"""
 
 
+def hm(h):
+    """Horas en «4 h 05». Los minutos se redondean ANTES de partir en horas: con int(h) y
+    round(h % 1 * 60) por separado, 4,995 h salia «4 h 60» (paso en la pagina del D5)."""
+    m = round(h * 60)
+    return f"{m // 60} h {m % 60:02d}"
+
+
+def tiempos_del_dia(dia):
+    """(km por firme, minimo, realista bajo, realista alto) de un dia, en horas.
+
+    El minimo, a las velocidades de planificacion del `13`; el realista, con el convenio
+    del `13` tal cual: grava y sal a 60–70 de media real, y 30–60 min de paradas y
+    repostaje — una banda, no un numero, porque asi es como lo da el dossier y asi no
+    salen dos cifras distintas para el mismo dia en el mismo PDF. Lo lee tambien
+    `comprobar.revisa_horas_del_01`: el titular de cada dia del `01` tiene que caer en
+    esta banda, que es la que imprime la ficha del mapa.
+    """
+    import mapa
+    km, h_min = mapa.firme_del_dia(dia)
+
+    def con(vel_grava, paradas):
+        return sum(v / (vel_grava if f in ("grava", "sal") else mapa.VEL[f])
+                   for f, v in km.items()) + paradas
+    return km, h_min, con(70.0, 0.5), con(60.0, 1.0)
+
+
 def banda_mapa(dia, alto=800):
     """El mapa del dia con, encima, su ficha: kilometros por firme, tiempos y lugares de paso.
 
@@ -173,7 +199,7 @@ def banda_mapa(dia, alto=800):
     """
     import mapa
     etapa = next(e for e in trazado.ETAPAS if e["id"] == dia)
-    km, h_min = mapa.firme_del_dia(dia)
+    km, h_min, h_r0, h_r1 = tiempos_del_dia(dia)
     total = sum(km.values())
     if not total:
         # dia sin traslado: el mapa es lo que hay alrededor de donde se duerme
@@ -185,15 +211,6 @@ def banda_mapa(dia, alto=800):
   <div class="svg">{svg}</div>
   <div class="paso">{donde}: lo que hay alrededor, sin mover el coche de sitio</div>
 </section>"""
-    # realista, con el convenio del `13` tal cual: grava y sal a 60–70 de media real, y
-    # 30–60 min de paradas y repostaje — una banda, no un numero, porque asi es como lo
-    # da el dossier y asi no salen dos cifras distintas para el mismo dia en el mismo PDF
-    def con(vel_grava, paradas):
-        return sum(v / (vel_grava if f in ("grava", "sal") else mapa.VEL[f])
-                   for f, v in km.items()) + paradas
-    h_r0, h_r1 = con(70.0, 0.5), con(60.0, 1.0)
-    def hm(h):
-        return f"{int(h)} h {int(round(h % 1 * 60)):02d}"
     orden = ["asfalto", "grava", "sal", "parque"]
     firmes = "".join(
         f'<span class="f"><i style="background:{mapa.COLOR_FIRME[f]}"></i>'

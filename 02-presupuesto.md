@@ -10,7 +10,8 @@
 > *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · precio del
 > combustible actualizado a la revisión de octubre de 2026 (diésel sin cambio) · coche actualizado a
 > la reserva con Savanna del 12/08/2026 · revisado el 03/10/2026: seguro, Terrace Bay, coche, Onguma y
-> lo que está decidido pero FUERA del total (§10)*
+> lo que está decidido pero FUERA del total (§10) · puesto al 09/10/2026: el cuadre del coche, el
+> conductor adicional contado una sola vez, la cifra «para no llevarte sorpresas» y el cambio del 08/10*
 
 Coste del viaje con las **partidas grandes ya cerradas** (vuelo emitido, coche reservado y seguro
 contratado), en N$ y
@@ -18,7 +19,7 @@ contratado), en N$ y
 deja como estimación marcada: un número plausible presentado como hallazgo es un fallo grave — aquí
 no se hace.**
 
-> ⚠️ **«Cotizado» no es «reservado» — y al 03/10/2026 hay bastantes excepciones ya**: el **vuelo,
+> ⚠️ **«Cotizado» no es «reservado» — y al 09/10/2026 hay bastantes excepciones ya**: el **vuelo,
 > EMITIDO y PAGADO (€1.536 p.p.)**, el **coche, RESERVADO con Savanna (€2.363 en total, ~€1.181,50
 > p.p.)**, el **seguro IATI Estrella, CONTRATADO el 24/08** *(desde el 30/10; el importe real
 > pagado, ❌ por recuperar — §7 y `20` §3)* y **ocho noches RESERVADAS**: **Windhoek Urban Camp** *(D1,
@@ -36,8 +37,8 @@ no se hace.**
 >
 > **Terrace Bay sigue sin reservar** *(ver [`15`](15-huecos-cerrados.md) §lista maestra y
 > [`20`](20-reservas.md))*, aunque **con tarifa cerrada**: es un precio real, no un pago hecho —
-> **ni reservado ni pagado al 03/10**, y ⚠️ **desde ~el 7/10 NWR cobra el 100 % al reservar**, no
-> el 20 % *(`20` §4)*. Y **del coche no consta si los €2.363 se pagaron enteros o solo el depósito
+> **ni reservado ni pagado al 09/10**, y ⚠️ **desde el ~7/10 NWR ya cobra el 100 % al reservar**,
+> no el 20 % *(`20` §4)*. Y **del coche no consta si los €2.363 se pagaron enteros o solo el depósito
 > del 25 %** ❌ *(§2)*. La
 > ruta que presupuestan quedó **confirmada el 06/08/2026** — la nota de abajo.
 
@@ -102,13 +103,15 @@ flowchart LR
 ```
 
 - 🚙 **€2.363 en total — ~€1.181,50 por persona** ✅ *(precio cerrado, no estimado)*.
-  ⚠️ **Dos cosas que el precio cerrado no cierra** *(03/10)*: **(a)** **no consta si los €2.363 se
+  ⚠️ **Lo que el precio cerrado no cierra, y lo que sí** *(03/10; puesto al 09/10)*: **(a)** **no consta si los €2.363 se
   pagaron enteros o solo el depósito del 25 %** ❌ — la regla de Savanna es 25 % al confirmar y el
   resto por transferencia 10 días antes *(~21/10)* o en la recogida; si fue solo el depósito, quedan
   **~€1.770 (~N$35.400) por pagar hacia el 21/10** *(`20` §1 y §calendario)*; **(b)** su tarifa
   publicada, sumada pieza a pieza *(15 días + contrato + limpieza + Opción 4 + satelital + sacos)*,
-  da **~N$44.140 (~€2.150–2.260 según cambio)** y **no cuadra exactamente con los €2.363** ❌ —
-  manda lo pagado, no se fuerza el cuadre *(`20` §1)*.
+  da **~N$44.140** y **cuadra con los €2.363** ◐ *(corregido el 09/10)*: aquí se convertía a
+  19,5–20,5 N$/€ *(~€2.150–2.260)* y se daba por descuadrado ❌, pero **al cambio real de 2026,
+  18,5–19,4, son ~€2.275–2.386**, y **N$44.140 / €2.363 = 18,68 N$/€**, dentro de la banda. El
+  descuadre era el euro de bolsillo, no un cargo oculto *(`20` §1)*.
 - ⛽ **Depósito de 140 L** ✅ — y doble depósito (80+60 l) ✅ *(la web de Savanna solo dice «140L»; el reparto sale de su propia oferta, que es fuente primaria — `20` §1, `15`)*; el detalle de cómo se lee el
   indicador, en `20` §1.
 - 🛡️ **Seguro Opción 4 — y aquí hay que leer despacio, porque «franquicia cero» no es lo que dice
@@ -220,8 +223,10 @@ persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terra
 - 🆕 **D8 Twyfelfontein — la noche nueva, y no tiene tarifa ❌.** Los dos candidatos que el dossier
   tiene identificados son **lodges**, no campings: **Twyfelfontein Country Lodge** *(para nov 2026 –
   oct 2027, «desde N$4.470» por persona en media pensión ◐ → ~N$8.940 (~€447) la pareja, de
-  fragmento de buscador — `15`, 03/09; el «desde ~$223 pp DBB» que da `20` §5 **es la misma
-  tarifa en dólares, no otra cotización**)* y la zona de
+  fragmento de buscador — `15`, 03/09; el «desde ~$223 pp DBB» que da `20` §5 **no es la misma
+  cifra en dólares** *(corregido el 09/10)*: a los ~N$18,5/US$ del `11`, $223 son **~N$4.126
+  (~€206)**, un ~8 % menos — y es la de **may–oct 2026**, el año tarifario anterior, así que el
+  salto cuadra con un cambio de temporada, no con dos fuentes que se contradigan)* y la zona de
   **Palmwag**. **Se presupuesta en la banda de camping de Damaraland** —la de Hoada, que sí está
   medida— **porque es lo que se va a buscar**; ⚠️ **si acaba siendo lodge, esta noche sola puede
   sumar €150–200 la pareja** y el total de §10 se queda corto. **Pídelo por escrito** *(`20` §5)*.
@@ -235,12 +240,12 @@ persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terra
   temporada (la de noviembre sin fijar; ver `15`). Coincide con la estimación de práctica común.
 - **D14 Windhoek**: **camping, con el coche hasta el 14 — decidido el 07/08**. Lo natural es
   **repetir el Urban Camp del D1**, tarifa ❌ *(misma pista ○ de ~N$660–700 · ~€33–35; **sin
-  reservar al 03/10** — `20` §5)*. *(La habitación con traslados quedó descartada.)*
+  reservar al 09/10** — `20` §5)*. *(La habitación con traslados quedó descartada.)*
 
 **Y la noche que sí está cerrada y sigue siendo la más cara:**
 - **D7 Terrace Bay** (NWR) — **precio cerrado ✅ (la reserva, no: `20` §4) y es la noche más cara
-  del viaje**. ⚠️ **Al 03/10 sigue sin reservar y sin pagar**: el precio es el del rack, no un
-  pago hecho, y **desde ~el 7/10 NWR exige el 100 % al reservar** en vez del 20 % *(`20` §4)*. El
+  del viaje**. ⚠️ **Al 09/10 sigue sin reservar y sin pagar**: el precio es el del rack, no un
+  pago hecho, y **desde el ~7/10 NWR ya exige el 100 % al reservar** en vez del 20 % *(`20` §4)*. El
   tarifario oficial
   2026/2027 da **doble en media pensión a N$1.740/persona → N$3.480 (~€174) la pareja** en la
   ventana nov 2026 – jun 2027. **No hay camping en Terrace Bay** *(la ficha web lista una fila de
@@ -316,7 +321,12 @@ flowchart LR
   el 24/08 sobre el itinerario nuevo; la subida de agosto no la desborda)*.
 
 > **Se presupuesta ~N$9.100 (~€455) pareja / ~€228 por persona** *(el central ~N$9.066 redondeado
-> al alza; es la cifra que usan los totales de §10 y del README)*. Fuentes del precio:
+> al alza; es la cifra que usan los totales de §10 y del README)*.
+> ⚠️ **Y el riesgo de ese central, puesto en cifra** ◐ *(09/10)*: este mismo apartado dice que la
+> costa va a **N$27,86/l** y el interior a **~N$29–30/l**, así que los N$27/l del cálculo son
+> optimistas. **A N$29/l**: 2.798 km × 0,12 l/km × N$29 = **~N$9.737 (~€487) la pareja**, **+N$637
+> (~€32) la pareja, ~+€16 por persona** sobre lo presupuestado. No se mueven las tartas: **cabe de
+> sobra en el margen de ±€150 pp del cubo estimado de §11**, que es para esto. Fuentes del precio:
 > [GlobalPetrolPrices — Namibia diésel](https://www.globalpetrolprices.com/Namibia/diesel_prices/) ·
 > [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) *(403, no abierta aquí)* ·
 > rebaja de julio 2026 en [thebrief.com.na](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/)
@@ -404,7 +414,7 @@ consejo vale igual, **usa el e-visa**. Fuente:
 ## 7. Seguro de viaje — **CONTRATADO ✅ (IATI Estrella, 24/08)** · importe real ❌
 
 > ### €226,04 la pareja · **€113,02 por persona** *(cotización 31/10 – 15/11: la cifra que usa el presupuesto)*
-> ### ✅ **Contratado el 24/08 empezando el 30/10** — el importe real pagado, ❌ por recuperar de la póliza *(03/10)*
+> ### ✅ **Contratado el 24/08 empezando el 30/10** — el importe real pagado, ❌ por recuperar de la póliza *(a 09/10)*
 
 ### ✅ El final ya está bien: llega hasta el 15 — y costó €14,69
 
@@ -425,7 +435,7 @@ día extra le sale gratis — mismo precio con y sin él.)*
 > nunca se hizo fue **cotizar el día extra antes de contratar**, así que **el importe real pagado
 > ❌ no consta** —el día extra lo sube; el código de Chavetas lo baja— y este documento sigue
 > contando los **€113,02 p.p.** de la cotización, la cifra conservadora, hasta recuperarlo del
-> correo de IATI *(03/10)*.
+> correo de IATI *(a 09/10 sigue sin constar)*.
 
 ### ✅ Cumple la condición de entrada
 
@@ -818,11 +828,17 @@ flowchart LR
 > **+el traslado a Oporto** ida y vuelta *(revisado el 17/09 a ~€225–270 la pareja ◐/❌ — parking +
 > peajes + combustible, subió desde los ~€180–185 de agosto, ver §8)* y **+el día extra de seguro**
 > *(❌ sin cotizar)*.
-> **Cuenta ~€4.250 por persona para no llevarte sorpresas.**
+> **Cuenta ~€4.350 por persona para no llevarte sorpresas** *(rehecho el 09/10: aquí ponía ~€4.250,
+> y quedaba por debajo de lo que este mismo documento dice)*. La cuenta: **€4.082** presupuestados
+> **+ €93** del euro corto *(§💱, al ~18,6 del 08/10)* **+ €141–172** de lo ya decidido que va fuera
+> del total *(Sandwich Harbour y los permisos de la DGT: la mitad de los ~€281–343 de la pareja,
+> abajo)* = **~€4.316–4.347**. Si Savanna cobra el transfer tardío del D15 y la tasa de parque de
+> Sandwich Harbour va aparte, **hasta ~€4.375**; y con el traslado a Oporto *(~€113–135 pp, §8)*,
+> **~€4.430–4.510**.
 
 **Qué parte de este número es sólida: en §11, al final.**
 
-### ➕ Decidido o probable — y FUERA del total *(03/10)*
+### ➕ Decidido o probable — y FUERA del total *(03/10; rehecho el 09/10)*
 
 El ~€4.082 es lo que cuesta el viaje **tal como está presupuestado**; esto es lo que **ya está
 decidido o es probable y NO está dentro**, junto en un sitio para no tener que recogerlo por cuatro
@@ -833,8 +849,13 @@ dentro siga siendo exactamente lo presupuestado.
   *(§9, `20` §7)*. Sin reservar ❌.
 - 🌙 **Los dos nocturnos de NWR (D10 y D11)** — sin decidir: **N$3.000 (~€150) la pareja** los
   dos, N$1.500 (~€75) solo el de Halali *(§9)*.
-- 🪪 **Conductor adicional** ✅: N$30/día → **~N$450 (~€23) el viaje**, en la entrega *(cabe en el
-  colchón de misceláneos de §9; se lista para que conste)*.
+- 🚐 **El transfer fuera de horario del D15** ◐: **N$550 (~€28)** el trayecto oficina → aeropuerto
+  *(su tope gratuito es a las 16:00 y la devolución va a las 18:00 de un sábado — `20` §1)*.
+  Probable mientras Savanna no diga por escrito que lo cubre ❌. *(Hasta el 09/10 no estaba ni en
+  el total ni en esta lista.)*
+- 🏜️ **La tasa de parque de Sandwich Harbour, si el tour no la incluye** ❌: **~N$560 (~€28) la
+  pareja** *(N$280 · ~€14 pp, la tarifa premium del Namib-Naukluft, §5)*. Del combo de Mola Mola
+  consta que va sin ella; del tour de 4x4 decidido, ninguna ficha lo dice *(`20` §7)*.
 - 🪪 **Permiso internacional de conducir (DGT)** ◐: **€10,51 (~N$210) × 2 = ~€21 (~N$420)**, en
   España. No consta pedido ❌ *(`20` §6)*.
 - 💊 **La profilaxis de la malaria** — **sin coste en ningún documento** ❌: la receta el CVI
@@ -846,11 +867,15 @@ dentro siga siendo exactamente lo presupuestado.
 - 🦏 **El nature drive de Palmwag (D8)** — sin decidir: **N$1.355 (~€68) pp → N$2.710 (~€136) la
   pareja** ✅ *(`20` §5)*.
 
-→ **Lo decidido suma ~€300–370 la pareja** *(Sandwich Harbour + conductor + DGT)*; **con los dos
-nocturnos, ~€450–520**. Okonjima y Palmwag, si entran, añaden otros **~€140–430**. Y **el traslado a
-Oporto (~€225–270 la pareja, §8) tampoco está dentro**. Sobre los €4.082 por persona: **con lo
-decidido, ~€4.230–4.270 pp**; **con todo lo de esta lista, ~€4.380–4.560 pp** *(la malaria, ❌,
-aparte)*; y el traslado a Oporto suma otros **~€115–135 pp**.
+→ **Lo decidido suma ~€281–343 la pareja** *(Sandwich Harbour €260–322 + DGT €21)*; con lo
+probable *(el transfer tardío y la tasa de Sandwich Harbour, ~€28 cada uno)*, **hasta ~€399**; **con
+los dos nocturnos, ~€431–549**. Okonjima y Palmwag, si entran, añaden otros **~€140–430**. Y **el
+traslado a Oporto (~€225–270 la pareja, §8) tampoco está dentro**. Sobre los €4.082 por persona:
+**con lo decidido, ~€4.223–4.254 pp** *(~€4.282 con lo probable)*; **con todo lo de esta lista,
+~€4.365–4.570 pp** *(la malaria, ❌, aparte)*; y el traslado a Oporto suma otros **~€113–135 pp**.
+⚠️ **Corregido el 09/10: el conductor adicional ya no está en esta lista ni en esta suma.** Va
+**dentro** del total, en el colchón de misceláneos de §9 *(~N$450 · ~€23 el viaje, en la entrega)*,
+y hasta hoy se contaba también aquí — dos veces el mismo dinero.
 
 ### 👥 ¿Y si vais 3 o 4 en el mismo 4x4? — la economía de escala, calculada
 
@@ -904,17 +929,21 @@ flowchart LR
 
 ---
 
-### 💱 Y un sesgo que no es riesgo, es un hecho: el euro de este dossier va ~7 % corto *(28/08)*
+### 💱 Y un sesgo que no es riesgo, es un hecho: el euro de este dossier va ~7 % corto *(28/08; revisado el 08/10)*
 
 Todo el dossier convierte a **N$20 = €1**, que es la cuenta de bolsillo con la que se anda por
 Namibia. **El cambio real no ha tocado esa cifra en todo 2026**: el BCE da **18,62 el 27 de agosto**
 y **18,88 el 17 de julio** —la fecha que el propio README estampaba en su «rango 19,5–20,5»—, con
-una banda de **18,5–19,4** en el año entero. Convertir a 20 **abarata** en euros cada precio namibio.
+una banda de **18,5–19,4** en el año entero. **La relectura del 08/10, a tres semanas de salir,
+lo confirma** ◐: **~18,6 N$/€** el 7–8 de octubre, cinco fuentes convergentes, pegado al suelo de la
+banda *(`15` §💱 tipo de cambio)*. Convertir a 20 **abarata** en euros cada precio namibio.
 
 **Cuánto.** La parte del presupuesto denominada en N$ *(alojamiento, combustible, comida, tasas,
 actividades, misceláneos y visado — unos N$25.000 por persona)* sale a **~€1.344 y no a €1.251**:
-**+€93 por persona, +€186 la pareja**. El total honesto se va a **~€4.175 pp · ~€8.350 la pareja**,
-que **sigue dentro del rango declarado de €3.940–4.240** — pero siempre por arriba.
+**+€93 por persona, +€186 la pareja** *(a 18,6, que es justo la cifra del 08/10: los números
+aguantan)*. El total honesto se va a **~€4.175 pp · ~€8.350 la pareja**, que **sigue dentro del
+rango declarado de €3.940–4.240** — pero siempre por arriba; y sumando lo decidido que va fuera del
+total, **~€4.350** *(§10)*.
 
 **No se reconvierten las cifras una a una** *(son cientos, y lo que se paga es el N$)*: queda dicho
 aquí, en la cabecera de los 21 documentos y en el README — **el euro de este dossier es orientativo
@@ -924,8 +953,8 @@ y corto; con la tarjeta en la mano manda el N$**.
 
 - **✅ Duro — ~€3.187 de los €4.082 (78 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
   15 días, RESERVADO con Savanna, €1.181,50 · las 6 noches de Sesriem, Etosha y Onguma €175
-  *(**reservadas**)* · Terrace Bay €87 *(tarifa oficial de rack; **sin reservar ni pagar al 03/10**,
-  y desde ~el 7/10 se paga entera al reservar — `20` §4)* · **Spreetshoogte €14,50** *(una noche, tarifa cerrada el
+  *(**reservadas**)* · Terrace Bay €87 *(tarifa oficial de rack; **sin reservar ni pagar al 09/10**,
+  y desde el ~7/10 se paga entera al reservar — `20` §4)* · **Spreetshoogte €14,50** *(una noche, tarifa cerrada el
   24/08)* · seguro €113 *(**contratado** el 24/08 ✅; la cifra es la cotización — el importe real
   pagado, ❌ por recuperar, §7)* · visado €80.
   Todo con precio real para las fechas exactas. *(Y una duda que no cambia la cifra pero sí lo

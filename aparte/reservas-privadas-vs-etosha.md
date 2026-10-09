@@ -125,9 +125,12 @@ Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikimedia.org/wik
   - Bush Camp Chalet, FI: **N$15.650 (~€783)**
   - Private Bush Suite, FI: **N$22.350 (~€1.118)** — el tope
 - **Esto no son game drives, son trackings dirigidos por investigadores con collar de radio** —
-  precio aparte, sujetos a disponibilidad, no reservables por adelantado: leopard tracking N$1.600
-  pp (~€80), **rhino tracking a pie N$2.200 pp (~€110)**, brown hyaena tracking N$1.600 pp,
-  pangolin tracking N$2.900 pp (mín. 2 noches), night drive N$1.600 pp.
+  precio aparte y sujetos a disponibilidad: leopard tracking N$1.600 pp (~€80), **rhino tracking
+  a pie N$2.200 pp (~€110)**, brown hyaena tracking N$1.600 pp, pangolin tracking N$2.900 pp
+  (mín. 2 noches), night drive N$1.600 pp. **El leopardo y el pangolín SÍ se reservan por
+  adelantado**; nocturno, rinoceronte y senderos solo en el lodge *(corregido el 09/10/2026: aquí
+  decía «no reservables» de todo el lote — el PDF de abajo, el `11` y el `15` dicen que el
+  leopardo sí)*.
 - **Fauna**: el foco actual de AfriCat es leopardo, hiena parda y pangolín ✅ (africat.org); el
   guepardo, histórico de la fundación, ya no aparece en su resumen actual. **Perro salvaje:
   confirmado ausente** ✅ — no aparece en programas presentes ni pasados.

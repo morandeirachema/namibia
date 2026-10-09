@@ -32,22 +32,24 @@ CATEGORIA = {
 }
 
 def _dias():
-    """Para cada punto: en que dias se pasa por el y en cuales se duerme alli."""
-    pasa, duerme, orden = {}, {}, []
+    """Para cada punto: en que dias se pisa, en cuales se duerme alli, y el orden de la ruta.
+
+    Los dias salen de `trazado.dias_del_punto`, que es lo que usa el GPX: hasta el 09/10
+    esto llevaba su propia copia y trataba `A_MANO` de otra manera (lo sobrescribia en vez
+    de anadirlo). Daba lo mismo mientras Deadvlei y Torra Bay no estuvieran en ningun `por`,
+    pero eran dos reglas para la misma pregunta. Aqui solo queda el ORDEN, que es de My Maps:
+    cada punto, donde la ruta lo pisa por primera vez, y los de `A_MANO` tras su punto.
+    """
+    duerme, orden = {}, []
     for etapa in trazado.ETAPAS:
-        for p in etapa["por"]:
-            if p not in pasa:
-                pasa[p], _ = [], orden.append(p)
-            if etapa["id"] not in pasa[p]:
-                pasa[p].append(etapa["id"])
-        d = etapa.get("duerme")
-        if d:
-            duerme.setdefault(d, []).append(etapa["id"])
-            if d not in pasa:
-                pasa[d], _ = [], orden.append(d)
-    for clave, (dia, tras) in trazado.A_MANO.items():
-        pasa[clave] = [dia]
+        for p in etapa["por"] + ([etapa["duerme"]] if etapa.get("duerme") else []):
+            if p not in orden:
+                orden.append(p)
+        if etapa.get("duerme"):
+            duerme.setdefault(etapa["duerme"], []).append(etapa["id"])
+    for clave, (_dia, tras) in trazado.A_MANO.items():
         orden.insert(orden.index(tras) + 1, clave)
+    pasa = {p: trazado.dias_del_punto(p) for p in orden}
     return pasa, duerme, orden
 
 

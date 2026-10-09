@@ -4,7 +4,8 @@
 PDF.*
 
 Investigación acotada a las dos únicas paradas realmente urbanas de la ruta: **Windhoek** (llegada
-D1, noche final D14-D15) y **Swakopmund** (varias noches a mitad de viaje). Cada estudio está
+D1, noche final D14-D15) y **Swakopmund** (no se duerme allí: las dos noches de la costa son en
+Walvis Bay, D5–D6, a media hora por la B2, y Swakopmund se cruza de paso el D7). Cada estudio está
 verificado abriendo su web, Instagram o Facebook reales — ✅ fuente propia abierta y confirmada ·
 ◐ solo fragmento de buscador o fuente de terceros, sin poder abrir la página original · ❌ sin
 verificar. Conversión N$→€ con la misma convención que el resto del repo, ~N$20 = €1.

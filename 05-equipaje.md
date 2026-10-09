@@ -11,7 +11,8 @@
 >
 > *Investigación cerrada el 02/08/2026 · podado el 06/08/2026 al separar la lista en `17` ·
 > barrido completo de fuentes el 11/08/2026 (salud, clima, sol, energía y listas comparadas) ·
-> segunda auditoría el 14/08/2026 (clima verificado etapa a etapa, tsé-tsé, permetrina y garrapata)*
+> segunda auditoría el 14/08/2026 (clima verificado etapa a etapa, tsé-tsé, permetrina y garrapata) ·
+> puesto al 09/10/2026 (la pauta entera de Malarone, el enchufe por noche y los precios del pie)*
 
 
 ---
@@ -54,8 +55,9 @@ flowchart TD
    tonto más probable del viaje». Matizado el 11/08 ◐: el Europlug fino (tipo C) entra **a veces,
    flojo y con chispazo** en las tomas D, y **no entra** en las M, que son las mayoritarias
    *([worldstandards](https://www.worldstandards.eu/electricity/plugs-and-sockets/m/))*; el Schuko
-   gordo, en ninguna. Y el enchufe **en la parcela** quedó confirmado para los cuatro NWR de
-   interior ◐ *(`18` §5)* — de ahí la regleta nueva del `17`.
+   gordo, en ninguna. Y el enchufe **en la parcela** quedó confirmado ◐ *(`18` §5)* para las
+   noches de NWR de interior —**Sesriem, Okaukuejo y Halali**; Namutoni ya no es noche desde el
+   24/08— y para **Onguma Tamboti** — de ahí la regleta nueva del `17`.
 5. **Papel** ✅ (`04`): e-visa impreso y firmado, reservas, póliza — todo impreso una semana antes.
 6. **Espacio justo** ○: doble cabina con nevera y cajas de camping — **bolsa blanda, no maleta
    rígida**: se embute donde la rígida no cabe.
@@ -101,9 +103,14 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 - **Profilaxis de malaria** según lo que diga el CVI ✅ (`04`): el riesgo se define por
   **regiones, y Kunene incluye Terrace Bay** — la entrada en zona es el **D7 (6 nov)** *(un día
   antes desde el 24/08)*.
-  Si es Malarone, se empieza ya de viaje (~4–5 nov); si es mefloquina, **~16–23 de octubre** — la
-  receta sale de la cita de septiembre *(y la mefloquina no está autorizada en España: solo como
-  medicamento extranjero ✅ — `04` §malaria)*. A esa cita se va con el dato de la guía oficial británica:
+  Si es **Malarone**, la pauta de su ficha técnica ✅ *(CIMA)*: un comprimido al día con comida,
+  **del mié 4 o jue 5 de noviembre** *(24–48 h antes de entrar)* **al vie 20**, siete días después
+  de dejar la zona — que no se deja en Etosha sino **el D14, vie 13**, al pasar de Otjozondjupa a
+  Khomas —: **2 cajas de 12 por persona** *(`04` §malaria)*. Si es mefloquina, **~16–23 de
+  octubre** — y **la receta tiene que salir de una cita del CVI que a 09/10 no consta pedida** ❌:
+  la de septiembre no llegó a haberla *(y la mefloquina no está autorizada en España: solo como
+  medicamento extranjero ✅ — `04` §malaria)*. La tercera opción, la **doxiciclina**, con sus pegas
+  para este viaje, también en el `04`. A esa cita se va con el dato de la guía oficial británica:
   en estas regiones, **de mayo a noviembre solo recomienda evitar picaduras, sin
   quimioprofilaxis** ✅ *([TravelHealthPro](https://travelhealthpro.org.uk/country/157/namibia))*
 - **El sol es el riesgo diario real**, no la fauna ni la malaria: el UV de noviembre es **extremo
@@ -139,10 +146,10 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 
 ## 🔌 Electrónica
 
-- **2 adaptadores tipo M + D** ◐ (`04`) — pedidos online YA, no existen en súper españoles; que cubran los dos tipos, que Namibia usa ambos
+- **2 adaptadores tipo M + D** ◐ (`04`) — pedidos online YA, no existen en súper españoles; que cubran los dos tipos, que Namibia usa ambos. **A 09/10 no constan pedidos** ❌ — modelo y precio, en el `17`
 - **Cargador 12 V multi-USB** ○ para el coche (los 12 V «se saltan el problema entero», `04`) +
-  **powerbank** grande para las noches sin electricidad en parcela (**enchufe en parcela: sin
-  dato** — pregúntalo al reservar NWR)
+  **powerbank** grande para las noches sin toma en la parcela *(Spreetshoogte y Hoada; dónde sí
+  la hay, arriba y en el `18` §5)*
 - **Frontal por persona** ○ (la letrina a las 3 AM, montar la tienda al anochecer, el camino a la
   charca) — **con modo rojo para el camino; en la plataforma, apagado del todo** ◐: la norma
   documentada es la luz del recinto y nada más — ni linterna, ni flash, ni pantalla de móvil
@@ -228,7 +235,8 @@ día. Por eso se preparan la víspera y viajan en el daypack, no abajo.
 
 ---
 
-*Los precios de lo que falta por comprar (adaptadores, satelital, garrafas) no están cotizados en
-el dossier — se compran fuera o allí (`08`). Los «sin dato» de la ficha del coche —toallas,
+*Lo que falta por comprar lleva ya precio: **los adaptadores**, el Skross a 8,83 €/ud *(`17`)*; **el
+satelital** no se compra, va pagado con el alquiler *(arriba, `20` §1)*; y **las garrafas** se
+compran allí, ~N$39 (~€2) la de 5 L *(`08`)*. Los «sin dato» de la ficha del coche —toallas,
 almohadas, hornillo y menaje— los cerró la propia ficha en el cotejo del 10/08/2026 ✅: para la
-entrega quedan la batería de la nevera y el tanque (`18` §5, `20`). · 10/08/2026*
+entrega quedan la batería de la nevera y el tanque (`18` §5, `20`). · 10/08/2026, puesto al 09/10/2026*

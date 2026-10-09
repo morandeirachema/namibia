@@ -86,7 +86,7 @@ Etosha», con el **pico de actividad entre las 19:00 y las 22:00 en estación se
 ficha de etoshanationalpark.com.na)* — ⚠️ **que es justo la ventana del nocturno guiado de NWR**
 *(N$750 · ~€38 pp, **sin decidir** — `20` §9)*: comprarlo esa noche es perderse el pico de la charca
 en la noche más oscura del viaje; una cosa o la otra — y vuestra noche del 9 al 10 de noviembre cae justo en
-la cola de esa estación seca: en 4 de las 5 últimas temporadas, cuando estéis allí las lluvias
+la cola de esa estación seca: en las 5 últimas temporadas, cuando estéis allí las lluvias
 aún no habían empezado *([`14`](14-lluvias-historico.md))*. Las reseñas hablan de **hasta diez
 rinocerontes en una misma noche**, elefante, león y algún leopardo ○
 *([Expert Africa, reviews](https://www.expertafrica.com/namibia/etosha-national-park/okaukuejo-camp/reviews/1))*.
@@ -94,7 +94,8 @@ El protocolo de la plataforma —silencio y todo apagado— ya está en el [`18`
 
 ### El camping y sus pegas
 
-**37 parcelas** ✅ *(NWR)* — **RESERVADA una noche, N$920 (~€46) los dos** ✅ *(21/08)* —, con toma
+**37 parcelas** ✅ *(NWR)* — **RESERVADA una noche, N$920 (~€46) los dos** ✅ *(21/08)* ⚠️ **pago
+no consta a 09/10** ❌: el íntegro vence hacia el **10/10** y NWR cancela lo no pagado *(`20` §4)* —, con toma
 de 220 V, grifo y braai ◐. Las pegas repetidas entre
 viajeros ○ *([Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g424916-d2441506-Reviews-Okaukuejo_Camp-Etosha_National_Park_Oshikoto_Region.html))*:
 es el campamento **grande, turístico y ruidoso** de los tres — los grupos overlander acampan
@@ -145,7 +146,8 @@ curios»; una fuente añade leña ◐)*, restaurante y bar ◐, y **piscina con 
 la siesta del D11 está resuelta. Cobertura móvil irregular ○; wifi ❌.
 
 **Precio**: **N$460 (~€23) por persona → N$920 (~€46) los dos** ✅ *(NWR 2026/27)* — **RESERVADO el
-21/08**.
+21/08** ⚠️ **pago no consta a 09/10** ❌: el íntegro vence hacia el **11/10** y NWR cancela lo no
+pagado *(`20` §4)*.
 
 ---
 
@@ -205,8 +207,13 @@ descrito como seco en varias reseñas ○ — se llega con eso sabido y no estro
 
 Gasolinera, tienda, restaurante, bar y piscina ✅ *(NWR)*. El restaurante es el más criticado de
 los tres ○ *(elección corta, comida fría en reseñas recientes)* — pero **ya no hay cena aquí**: el
-D12 se sigue camino de Onguma. Lo que sí conviene es **hacer la compra del braai en la tienda de
-Halali antes de salir** ○, porque el kiosco de Onguma es kiosco *(`08`)*.
+D12 se sigue camino de Onguma. **Y la carne de Onguma tampoco sale de aquí**: al salir el D12 por
+**Von Lindequist** se cruza la Línea Roja hacia el sur, y **la carne cruda que baja de Etosha se
+confisca en el control** ◐ *(`07` §Línea Roja)*. **Las dos noches de Onguma se resuelven con sus
+braai packs**, que se compran en su kiosco, **ya fuera de la Línea** *(`07`, `08`, y abajo)*; lo
+que sí puede cruzar es lo cocinado, los envasados al vacío comerciales y el biltong ◐. *(Hasta el
+09/10 aquí decía «hacer la compra del braai en la tienda de Halali antes de salir»: esa carne se
+habría quedado en la puerta.)*
 
 ---
 
@@ -246,7 +253,7 @@ camping:
 - **Onkolo Hide, media mañana · 3 h · N$720 (~€36) pp** *(mín. 2, máx. 7 personas, 7+ años, se
   reserva con antelación)* — un hide a pie de charca
 - **Paseo interpretativo · 1½ h · N$980 (~€49) pp** *(mínimo 16 años)* — **a pie**
-- **Game drive guiado dentro de Etosha · 4 h · N$1.930 (~€97) pp** — caro frente a los N$650 de
+- **Game drive guiado dentro de Etosha · 4 h · N$1.930 (~€97) pp** — caro frente a los N$650 (~€33) de
   NWR, pero desde el 24/08 **es lo que hay**: al no dormir en Namutoni, la guiada de mañana de NWR
   ya no se puede comprar. Es el sustituto directo, y cuesta **casi el triple**
 - Young Explorers Walk N$460 (~€23) · game drive privado N$10.680 (~€534)/vehículo · desayuno
@@ -277,9 +284,10 @@ por persona y noche** = **N$620 (~€31) por persona**, IVA y Social Development
 **N$1.240 (~€62) los dos y por noche → N$2.480 (~€124) las dos noches**. Son **N$320 (~€16) más
 por noche que la parcela de Namutoni** que sustituye.
 
-**Condiciones de cancelación del camping, en el propio rack 2027 de Onguma ✅** *(verificado el 25/08 abriendo el PDF)*: *«In the event of a confirmed reservation being cancelled and not postponed (in writing) 100% cancellation fees will be charged and pre-payments will be non-refundable»* — y **depósito del 50 % al reservar, el otro 50 % 30 días antes**. Es decir: **cancelar la segunda noche cuesta el 100 % (N$1.240 · ~€62); POSPONERLA por escrito, no.** La segunda noche se cambia por el Cheetah Conservation Fund **sobre el terreno, posponiéndola
-por escrito, no cancelándola** *(`20` §4)*. **Ya no hace falta para el guepardo** —el desvío al CCF
-se descartó el 26/08—, pero sigue valiendo si algo obliga a mover la noche.
+**Condiciones de cancelación del camping, en el propio rack 2027 de Onguma ✅** *(verificado el 25/08 abriendo el PDF)*: *«In the event of a confirmed reservation being cancelled and not postponed (in writing) 100% cancellation fees will be charged and pre-payments will be non-refundable»* — y **depósito del 50 % al reservar, el otro 50 % 30 días antes**. Es decir: **cancelar la segunda noche cuesta el 100 % (N$1.240 · ~€62); POSPONERLA por escrito, no.**
+Si algo obligara a mover una noche sobre el terreno, **se pospone por escrito, no se cancela**
+*(`20` §4)*. *(La cláusula se leyó pensando en el desvío al Cheetah Conservation Fund, descartado el
+26/08: hoy las dos noches son firmes.)*
 ❌ **El importe exacto de la reserva, por confirmar.**
 
 ---
@@ -303,7 +311,8 @@ sale de esto, y que el [`07`](07-logistica.md) ya aplica en general:
   105 km de Onguma** ✅ *(enrutado propio)*. ⚠️ **Y desde el 24/08 hay que mirarlo dos veces**: se
   sale del parque **la tarde del D12** y se vuelve a entrar y salir **el D13**, así que **las dos
   últimas noches se pasan fuera, donde no hay surtidor** — **Onguma no tiene** ❌. El último de
-  dentro es el de Namutoni, al pasar el D12.
+  dentro es el de Namutoni, que se pasa **el D12 y otra vez el D13** *(el circuito de ese día
+  vuelve por el fuerte — `01` §D13)*: dos ocasiones de rellenar, no una.
 
 ---
 

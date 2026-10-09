@@ -9,6 +9,15 @@ entre abril y junio de 2023) y contrastándola con nuestra ruta cerrada de `01` 
 nuestro con fuente primaria · ◐ secundaria concordante · ○ práctica común, sin fuente ·
 ❌ sin verificar. Precios en **N$ y €** a ~N$20 = €1.
 
+> ⚠️ **Registro del 14/08 — la ruta cambió el 24/08 y aquí no se reescribió** *(nota del
+> 09/10/2026)*. Lo que ya no es así: **Spreetshoogte es UNA noche** (D2), no dos, y el D3 ya no es
+> un día de escarpa sino Spreetshoogte → Sesriem; **Etosha no son 4 noches dentro sino 2 dentro
+> (Okaukuejo D10, Halali D11) y 2 fuera, en Onguma (D12–D13)**, junto a Von Lindequist — así que la
+> comparación del §3 *(«2 fuera contra 4 dentro»)* hoy es **2 + 2 contra 2 fuera**; y **Sandwich
+> Harbour en 4×4 ya no es un capricho sin decidir: se DECIDIÓ el 24/08** para el D6 *(`20` §7)*.
+> La ruta que manda está en [`01`](../01-itinerarios-dia-a-dia.md); lo de abajo queda como estaba
+> el 14/08, salvo un número de día corregido en el §5.
+
 ---
 
 ## 0 · La diferencia que manda sobre todas: el formato
@@ -148,7 +157,8 @@ nuestros 15 días, con el sur ya sacrificado, no tienen de dónde pagar.**
   `01` §D14 y `10`; entrada N$250 · ~€12,5 ◐)*. Ellos lo encajaron dentro de un día de 600 km;
   nosotros solo si el D14 va sobrado de hora — el D14 ya mide ~539 km.
 - **Welwitschia Plain y Moon Landscape ✅.** Lo único de su tronco que nuestra ruta no contempla.
-  El hueco natural sería la tarde del D7 *(día de descanso en Walvis)*: está a ~30–40 km de
+  El hueco natural sería la tarde del D6 *(día de descanso en Walvis; aquí ponía D7 — corregido el
+  09/10)*: está a ~30–40 km de
   Swakopmund ○. Sin verificar permisos ni tasas del Welwitschia Drive ❌ *(sería una entrada de
   parque más — comprobar contra `11` antes de decidir)*.
 - **Waterberg**: ya figura como desvío opcional del D14 desde Otjiwarongo *(`01` §D14; entrada

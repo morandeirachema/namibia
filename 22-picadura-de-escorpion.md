@@ -4,7 +4,7 @@
 >
 > El protocolo de la picadura, para leerlo **antes** y tenerlo a mano **después**: qué escorpión
 > es, qué va a pasar, qué hacer y qué no, cuándo salir corriendo al hospital y a quién llamar.
-> Catorce noches en tienda, trece de ellas en el suelo de un escorpión.
+> Trece de las catorce noches en tienda ◐ *(el plan del `01`)*, y todas en tierra de escorpión.
 >
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
@@ -24,8 +24,8 @@ no quiere decir poco veneno ✅.
 flowchart LR
 %% ancho
     P["PICADURA<br/>dolor inmediato, quemante<br/>casi sin marca local"] --> Q["¿ALGO DE ESTO?<br/>hormigueo en manos y pies<br/>babeo · sudor · tragar mal<br/>temblor · andar de borracho<br/>respirar mal"]
-    Q -- "no: solo duele" --> L["LEVE<br/>frío local si lo aguanta<br/>paracetamol · limpiar<br/>vigilar 12-24 h<br/>(las 4 primeras, pegado)"]
-    Q -- "sí, o es niño o mayor" --> G["GRAVE<br/>al hospital YA<br/>llamar por el camino<br/>NSIG +264 81 127 5109<br/>ambulancia 924 / 999"]
+    Q -- "no: solo duele" --> L["LEVE<br/>frío local si lo aguanta<br/>paracetamol · limpiar<br/>vigilar 12-24 h<br/>(las 8 primeras, pegado)"]
+    Q -- "sí, o es niño o mayor" --> G["GRAVE<br/>al hospital YA<br/>llamar por el camino<br/>NSIG +264 81 127 5109<br/>E-Med +264 83 924 9111<br/>LifeLink +264 64 500 346<br/>(924 gratis · 999 solo fijo)"]
     L -- "aparece algo<br/>en las horas siguientes" --> G
     style P fill:#F7F4ED,stroke:#C2542F
     style Q fill:#FAF1DC,stroke:#8A6210
@@ -72,8 +72,11 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
 - **La marca engaña:** «la reacción local es leve y a menudo poco llamativa; en algunos casos
   cuesta hasta localizar el sitio de la picadura». **Poca hinchazón no descarta un cuadro grave.**
 - **De 15 a 60 minutos:** en la mayoría de los casos ya se ve por dónde va a ir la cosa. Pero en
-  adultos los signos sistémicos **pueden retrasarse hasta 8 horas** — de ahí la vigilancia.
-- **De 1 a 4 horas, si se complica:** hormigueo en manos y pies, hipersensibilidad de la piel,
+  adultos los signos sistémicos **pueden retrasarse hasta 8 horas** *(«may occasionally be delayed
+  up to 8 hours after the sting»)* — de ahí que la vigilancia estrecha sea de **ocho horas, no de
+  cuatro** *(§3)*.
+- **De 1 a 4 horas, si se complica:** la mayoría de los adultos nota el hormigueo en ese plazo
+  *(«within 1 - 4 hours»)*; con él, o detrás: hormigueo en manos y pies, hipersensibilidad de la piel,
   dolores y calambres musculares, **babeo y dificultad para tragar**, temblores y movimientos
   involuntarios, sudor, **andar de borracho**, reflejos exagerados, tensión y temperatura altas.
 - **Lo que mata:** el **fallo respiratorio**, «la causa primaria de muerte»; en niños puede llegar
@@ -98,8 +101,12 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
    dolor de verdad es la infiltración anestésica **en el hospital** ✅. El ibuprofeno no está
    contraindicado, pero no espera nada de él ◐.
 5. **Vigilar 12–24 horas** ✅ *(Müller 1993: «observación estrecha durante 12–24 h»)*, **las
-   cuatro primeras sin separarse** — es cuando aparece lo sistémico. De noche, en la tienda,
-   uno de los dos despierto a ratos: mirar si babea, si suda, si tiembla, cómo respira.
+   ocho primeras sin separarse** ✅ — en la mayoría lo sistémico aparece antes de las 4 h
+   *(Müller 1993: «within 4 hours … in most instances»)*, pero **en adultos puede tardar hasta
+   8** *(Müller 2012)*, y cuatro horas tranquilas no dan el alta. *(Hasta el 09/10 aquí decía
+   «las cuatro primeras», que contradecía la sección 2: se corrige hacia el lado seguro.)* De
+   noche, en la tienda, uno de los dos despierto a ratos: mirar si babea, si suda, si tiembla,
+   cómo respira.
 6. **A la primera señal sistémica —o si el picado es niño o mayor—: hospital.** «Es una
    emergencia médica; el primer auxilio se centra en el soporte respiratorio y el traslado a un
    centro médico lo antes posible, **avisando por teléfono antes de llegar**» ✅. Y el aviso
@@ -119,7 +126,9 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
   con veneno de *P. transvaalicus*, «5–10 ml intravenosos, adultos y niños; tarda 2–6 horas en
   hacer efecto máximo, y por eso el soporte respiratorio salva la vida mientras tanto» ✅—, pero
   **solo se pone en hospital**, con *P. villosus* **no funciona** ◐, en 2025–2026 ha estado en
-  **desabastecimiento** en Sudáfrica ◐ *(Daily Maverick, jun 2026)* y el NSIG habla sin rodeos
+  **desabastecimiento** en Sudáfrica ◐ *(Daily Maverick, 5/06/2026: la rotura de existencias
+  «set to last until July»)* — **y cómo está en octubre no se sabe** ❌: no hay fuente posterior en
+  el dossier, así que no se cuenta con que el hospital lo tenga — y el NSIG habla sin rodeos
   de «falta de antiveneno eficaz y grandes distancias a los hospitales» en Namibia ✅. Es decir:
   **lo que os salva es un hospital con respirador, no una ampolla**. Se conduce.
 
@@ -134,8 +143,17 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
 - ☎️ **Línea toxicológica de Sudáfrica, en formato internacional: +27 861 555 777** ✅ *(AfriTox;
   el «0861 555 777» a secas es marcación nacional sudafricana y no sirve desde Namibia)*. 24 h,
   la que atiende el centro de Tygerberg — el del propio Müller.
-- 🚑 **E-Med Rescue 24: 924** (gratuito) / **+264 61 411 600** ✅ · **LifeLink: 999** /
-  **+264 64 500 346** ✅ *(ambulancia aérea nacional)* · **Windhoek: 061 211 111** ✅.
+- 🚑 **E-Med Rescue 24: +264 83 924 9111** / **+264 61 411 600** ✅ *(y el corto **924**,
+  gratuito)* · **LifeLink: +264 64 500 346** ✅ *(ambulancia aérea nacional; su **999 es solo
+  desde fijo**)* · **Windhoek: +264 61 211 111** ✅ *(todos, de la lista del [`07`](07-logistica.md),
+  que es de 2024 y pide verificarlos al llegar ◐)*. **Se graban en formato internacional**: los
+  cortos no se sabe si salen desde un satelital.
+- 🛰️ **Cómo se llama a emergencias desde el teléfono satelital de Savanna** ❌ *(09/10)* — si
+  marca números namibios con el +264, si los cortos (924) funcionan, si hace falta saldo: **a
+  preguntar en la entrega del coche**, con el teléfono en la mano. Es el teléfono propio de la
+  noche de Terrace Bay y de buena parte de Damaraland, sin cobertura móvil *(`20` §1, `06` §13)*.
+- 🏕️ **Recepción de Okaukuejo / NWR: +264 67 229 800** ◐ *(`01` §D11)* — dentro de Etosha, el
+  personal del campamento es quien abre la puerta de noche.
 
 **El hospital, etapa a etapa** *(detalle y fuentes en el [`07`](07-logistica.md))*:
 
@@ -146,7 +164,7 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
   hasta el 28/08**, y conviene saberlo antes de arrancar hacia Windhoek de noche ⚠️
   *(distancias remedidas con el enrutado propio; centros localizados en OpenStreetMap ◐)*:
   - **Desde Spreetshoogte (D2)**: **Rietoog Clinic a 83 km / ~1h05** · **St Mary's Hospital de
-    Rehoboth a 114 km / ~1h30** *(062 522 2006)* · Windhoek a **174 km / ~2h20**.
+    Rehoboth a 114 km / ~1h30** *(**+264 62 522 2006** ◐ — el del [`07`](07-logistica.md), sin ficha propia del hospital abierta)* · Windhoek a **174 km / ~2h20**.
   - **Desde Sesriem (D3–D4)**: **Maltahöhe Health Centre a 167 km / ~2h05** · Rietoog Clinic a
     141 km / ~1h50 · Rehoboth a 251 km / ~3h · **Windhoek a 340 km / ~4h** y **Walvis Bay a
     315 km / ~3h55** *(no los «~320 y ~270» que ponía aquí: los dos estaban cortos)*.
@@ -158,25 +176,45 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
   al helicóptero donde digan.
 - **D5–D6, Walvis Bay y Swakopmund** — Welwitschia Hospital, urgencias **+264 64 218 911** ✅
   *(«24/7»)* · Mediclinic Swakopmund, urgencias **+264 64 412 205** ✅.
-- **D7, Terrace Bay** — nada al norte de Henties Bay: Swakopmund queda a más de 400 km de sal y
-  grava. Es la noche del satelital y del 924/999. Y es, con Damaraland, la tierra de
-  *P. villosus*: la que **no tiene antiveneno**.
-- **D8 y D9, Twyfelfontein y Hoada** — Mediclinic Otjiwarongo **+264 67 303 734** ✅, por Kamanjab y
-  Outjo; lejos. ⚠️ **Desde el 24/08 son DOS noches en Damaraland, no una** *(la del D8 es la nueva)*:
-  las dos, en la tierra de *P. villosus* y las dos con el hospital a horas. Satelital a mano.
+- **D7, Terrace Bay** *(si se reserva: a 09/10 sigue sin reserva ❌, `20` §4)* — nada al norte de
+  Henties Bay: Swakopmund queda a **~365 km por carretera** ◐ *(OSRM, 09/10; ~377 por la ruta del
+  D7, con la entrada a Cape Cross)*, **los primeros ~76 de asfalto hasta Henties Bay y el resto de
+  sal y pista**. Es la noche del satelital y de los números internacionales de arriba. Y es, con
+  Damaraland, la tierra de *P. villosus*: la que **no tiene antiveneno**.
+- **D8 y D9, Twyfelfontein y Hoada** — el hospital de verdad es **Mediclinic Otjiwarongo
+  +264 67 303 734** ✅, a **más de tres horas**. Lo que hay más cerca, medido ◐ *(OSRM, 09/10;
+  tiempo de volante sin paradas)*:
+  - **Desde Twyfelfontein (D8)**: Khorixas **93 km / ~1h25** · Outjo 227 km / ~2h50 · Otjiwarongo
+    295 km / ~3h30.
+  - **Desde Hoada (D9)**: Kamanjab **69 km / ~55 min** · Outjo 224 km / ~2h30 · Otjiwarongo
+    292 km / ~3h15.
+  - **Qué hay en cada pueblo**: de **Khorixas y Kamanjab** el dossier no tiene ni centro ni
+    dotación ❌ — que haya algo no está comprobado; **Outjo** es «el médico u hospital más cercano»
+    desde Halali según Expert Africa ◐, sin saber cuál ni con qué ❌.
+  ⚠️ **Desde el 24/08 son DOS noches en Damaraland, no una** *(la del D8 es la nueva)*: las dos, en
+  la tierra de *P. villosus* y las dos con el hospital a horas. Satelital a mano, y **la llamada
+  antes que el volante** — como en el desierto.
 - **D10–D13, Etosha** — dentro del parque **no hay médico** ◐: Okaukuejo tiene «una clínica
   básica con dos enfermeras» y botiquín en recepción, y «en una emergencia se evacúa en avión a
   Windhoek»; desde Halali, «el médico u hospital más cercano está en Outjo, a unas dos horas»;
   y en la zona de Namutoni el de referencia es Tsumeb, «a unos 115 km» ◐ *(fichas de Expert Africa,
   2026; NWR no publica nada ❌)*. Los de referencia: **Mediclinic Otjiwarongo** (arriba) y **Tsumeb
-  Private Hospital +264 67 221 001** ◐. Y el problema añadido: **las puertas del parque cierran del
-  ocaso al amanecer** — de noche, la salida es con el personal del campamento y la llamada al
-  924/999. Eso vale para **el D10 y el D11**, las dos noches de dentro *(Okaukuejo y Halali)*.
+  Private Hospital +264 67 221 001** ◐. Medido ◐ *(OSRM, 09/10; dentro del parque a 60 km/h, porque
+  ahí el tiempo de OSRM no sirve; desde Halali, por el desvío de obras de Gemsbokvlakte)*:
+  - **Desde Okaukuejo (D10)**: Outjo **116 km / ~1h20** · Otjiwarongo 184 km / ~2h05 · Kamanjab
+    181 km / ~2h20.
+  - **Desde Halali (D11)**: Outjo **200 km / ~2h45** · Tsumeb 183 km / ~2h40 · Otjiwarongo 269 km /
+    ~3h30 — la noche más lejos de todo.
+  - **Desde Onguma (D12–D13)**: Tsumeb **105 km / ~1h40** · Otjiwarongo 255 km / ~3h25.
+  Y el problema añadido: **las puertas del parque cierran del ocaso al amanecer** — de noche, la
+  salida es con el personal del campamento *(recepción de NWR en Okaukuejo, **+264 67 229 800**)* y
+  la llamada a la ambulancia. Eso vale para **el D10 y el D11**, las dos noches de dentro
+  *(Okaukuejo y Halali)* — ⚠️ **y las dos, con el pago a NWR sin constar a 09/10** ❌ *(`20` §4)*.
   ✅ **Y desde el 24/08 las DOS últimas noches quedan fuera**: el D12 y el D13 se duermen en
   **Onguma**, pasada la puerta de Von Lindequist, así que **no hay puerta echada por delante** —
   de Onguma a **Tsumeb** hay **105 km** ✅ *(enrutado propio)* y se pueden hacer a cualquier hora.
   **Es la mitad de las noches de Etosha con salida libre, no una.**
-  Precisamente por eso las cuatro primeras horas de vigilancia importan tanto en Etosha.
+  Precisamente por eso las ocho primeras horas de vigilancia importan tanto en Etosha.
 
 ## 5. Que no pase — la prevención, que es casi toda ✅◐
 
@@ -213,7 +251,8 @@ caídos» — y *P. granulatus*, «a menudo cerca de donde vive la gente» ✅.
   opiáceos, sedantes, antihistamínicos, corticoides y atropina, el antiveneno SAVP y su dosis.
 - ✅ **Müller GJ.** «Scorpionism in South Africa. A report of 42 serious scorpion envenomations».
   *S Afr Med J* 1993;83(6):405-11 — [PubMed 8211457](https://pubmed.ncbi.nlm.nih.gov/8211457/):
-  42 graves, 4 muertes; síntomas sistémicos en <4 h; observación 12–24 h.
+  42 graves, 4 muertes; síntomas sistémicos en <4 h «en la mayoría»; observación estrecha 12–24 h.
+  *(Y Müller 2012: en adultos, «ocasionalmente» hasta 8 h — de ahí las ocho horas de §3.)*
 - ✅ **Bergman NJ.** «Clinical description of Parabuthus transvaalicus scorpionism in Zimbabwe».
   *Toxicon* 1997;35(5):759-71 — [PubMed 9203301](https://pubmed.ncbi.nlm.nih.gov/9203301/):
   10 % graves, letalidad 0,3 %.
@@ -243,4 +282,7 @@ caídos» — y *P. granulatus*, «a menudo cerca de donde vive la gente» ✅.
   Halali y Namutoni *(clínica básica, dos horas a Outjo, 115 km a Tsumeb)*.
 - ◐ **Prevención:** [Travel Namibia, «Namibia's fascinating world of scorpions»](https://travelnam.com/namibias-fascinating-world-of-scorpions/)
   (Dirk Heinrich, 2024).
-- ◐ **Desabastecimiento del antiveneno:** [Daily Maverick, 5/06/2026](https://www.dailymaverick.co.za/article/2026-06-05-sas-antivenom-crisis-deepens-as-major-stockouts-are-set-to-last-until-july/).
+- ◐ **Desabastecimiento del antiveneno:** [Daily Maverick, 5/06/2026](https://www.dailymaverick.co.za/article/2026-06-05-sas-antivenom-crisis-deepens-as-major-stockouts-are-set-to-last-until-july/)
+  *(«hasta julio»; el estado de octubre, sin fuente ❌)*.
+- ◐ **Distancias del norte:** enrutado público de OSRM, 09/10/2026, sobre las coordenadas de
+  `fuente/trazado.py`.

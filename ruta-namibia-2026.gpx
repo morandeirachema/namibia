@@ -43,9 +43,9 @@
   </wpt>
   <wpt lat="-23.65792" lon="16.18549">
     <name>Paso de Spreetshoogte</name>
-    <desc>puerto de montana · D2, D3</desc>
-    <sym>Summit</sym>
-    <type>paso</type>
+    <desc>donde se duerme · D2, D3</desc>
+    <sym>Campground</sym>
+    <type>parada</type>
   </wpt>
   <wpt lat="-23.89429" lon="16.00553">
     <name>Solitaire</name>
@@ -193,9 +193,9 @@
   </wpt>
   <wpt lat="-18.8059" lon="16.9405">
     <name>Namutoni</name>
-    <desc>donde se duerme · D12, D13</desc>
-    <sym>Campground</sym>
-    <type>parada</type>
+    <desc>lo que se visita · D12, D13</desc>
+    <sym>Flag, Blue</sym>
+    <type>hito</type>
   </wpt>
   <wpt lat="-18.8034" lon="17.0433">
     <name>Puerta de Von Lindequist</name>

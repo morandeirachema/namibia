@@ -8,7 +8,7 @@
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 09/08/2026 · cuenta atrás
-> y plazos puestos al 03/10/2026*
+> y plazos puestos al 09/10/2026*
 
 
 La técnica de conducción en grava no tiene fuente oficial: va marcada como ○ en vez de disfrazarla
@@ -26,7 +26,7 @@ Otjozondjupa: **está dentro**.
 
 ```mermaid
 flowchart LR
-    N["Etapa NORTE<br/>Etosha D10-D13 · Damaraland D8-D9<br/>+ Terrace Bay D7 (region Kunene)"] --> R["Zona de riesgo<br/>de malaria"]
+    N["Etapa NORTE<br/>Terrace Bay D7 (region Kunene)<br/>Damaraland D8-D9 · Etosha D10-D13<br/>+ el D14 de paso (Oshikoto, Otjozondjupa)"] --> R["Zona de riesgo<br/>de malaria"]
     S["Desierto y costa<br/>Sossusvlei · Walvis Bay"] --> NR["Sin riesgo"]
     W["Windhoek"] --> NR
     R --> T["Tu ventana 31 oct - 14 nov va ANTES<br/>del arranque tipico de lluvias:<br/>riesgo en su minimo estacional"]
@@ -50,12 +50,26 @@ por meses; la del **CDC** recomienda quimioprofilaxis en esas regiones sin disti
 consulta del CVI decide, con las dos encima de la mesa.
 
 **La profilaxis marca la cuenta atrás**, porque cada fármaco tiene su plazo — y con Etosha al final
-del viaje (**D10–D13, del 9 al 12 de noviembre**), las fechas reales son:
-- **Atovacuona/proguanil (Malarone)** — empieza **1–2 días antes** de entrar en zona de riesgo,
-  y la zona empieza en el **D7, el cruce de Ugabmund hacia Terrace Bay (vie 6 — región de
-  Kunene)**: **~4–5 de noviembre**, ya de viaje — hay que llevarla comprada
+del viaje (**D10–D13, del 9 al 12 de noviembre**), las fechas reales son. **La zona, de punta a
+punta** *(las regiones del CDC de arriba contra el calendario del `01`)*: **se entra el D7, vie 6**,
+en el cruce de Ugabmund hacia Terrace Bay *(Kunene)*; Damaraland *(D8–D9)* y Etosha *(D10–D13)* van
+dentro; y **no se sale en Etosha sino el D14, vie 13**, porque la vuelta cruza **Oshikoto**
+*(Tsumeb)* y **Otjozondjupa** *(Otjiwarongo, Okahandja)*, que también están en la lista: **la zona
+se deja al entrar en Khomas, la tarde del 13, camino de Windhoek**.
+- **Atovacuona/proguanil (Malarone)** — la pauta de su ficha técnica ✅ *([CIMA, §4.2](https://cima.aemps.es/cima/dochtml/ft/63452/FT_63452.html),
+  leída el 09/10)*: **un comprimido al día**, **con comida o con una bebida láctea y a la misma hora
+  cada día**; empieza **«24 o 48 horas antes de entrar»** en la zona, sigue **toda la estancia** y
+  **«hasta 7 días después de abandonar dicha zona»** *(el CDC Yellow Book dice lo mismo ✅)*. En
+  este viaje:
+  - **Primera toma: mié 4 o jue 5 de noviembre** *(D5 o D6, en Walvis Bay)* — ya de viaje: **hay
+    que llevarla comprada**
+  - **Última toma: vie 20 de noviembre**, **ya en casa** — los siete días después del 13 cuentan
+    aunque se haya vuelto, y es el tramo que más se olvida
+  - **Cuántas** ✅: del 4 al 20 son **17 comprimidos por persona** *(16 si se empieza el 5)*; con
+    margen de 3–4 por pérdida o retraso, **~20**. La caja de Malarone trae **12** ✅ *(ficha
+    técnica, §6.5)*, así que son **2 cajas por persona — 4 los dos**, y sobran 7
 - **Mefloquina** — empieza **2–3 semanas antes** → **~16–23 de octubre**, receta necesaria en la
-  cita del CVI — **que a 03/10 no consta pedida** ❌ *(la ventana de septiembre se cerró y la llamada
+  cita del CVI — **que a 09/10 no consta pedida** ❌ *(la ventana de septiembre se cerró y la llamada
   del 30/09 no tiene resultado anotado)*. ⚠️ **Y no está autorizada en España** ✅ *(05/10: el
   CIMA de la AEMPS no tiene ni un registro de mefloquina ni de Lariam, tampoco retirado —
   [consulta](https://cima.aemps.es/cima/rest/medicamentos?practiv1=mefloquina))*: solo se consigue
@@ -64,11 +78,23 @@ del viaje (**D10–D13, del 9 al 12 de noviembre**), las fechas reales son:
   con informe del médico y a través de la consejería. Si el CVI la propone, **que diga él cómo y en
   cuánto tiempo llega** ❌ — no se puede dar por hecho en tres semanas
   ⚠️ *Las dos fechas bajaron un día el 24/08, al adelantarse Terrace Bay del 7 al 6 de noviembre.*
+- **Doxiciclina — la tercera opción, que este documento no nombraba hasta el 09/10**: la guía
+  británica da para estas regiones **atovacuona/proguanil, doxiciclina o mefloquina** ✅
+  *([TravelHealthPro](https://travelhealthpro.org.uk/country/157/namibia), para su periodo de riesgo
+  alto de diciembre a abril)*. En España **toda la de 100 mg pide receta** ✅ *([CIMA](https://cima.aemps.es/cima/rest/medicamentos?practiv1=doxiciclina))*,
+  y **la profilaxis del paludismo no figura en su ficha técnica española** ✅ *([Doxiciclina Normon,
+  §4.1](https://cima.aemps.es/cima/dochtml/ft/47077/FT_47077.html))*: la pauta es la de las guías de
+  viaje, no la del prospecto. Esa pauta ✅ *([CDC Yellow Book](https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/malaria.html))*:
+  **1–2 días antes, diaria, y 4 semanas después de salir** → **del 4–5/11 al ~11/12**, ~38
+  comprimidos por persona. Y **una pega que en ESTE viaje pesa**: **fotosensibiliza** —«una reacción
+  de quemadura solar exagerada», mismo CDC ✅— con el UV en 13–15 *(`05`)*. **Pregunta para el CVI,
+  no elección de este dossier** ◐
 
-👉 **La cadena, dicha entera** *(03/10)*: **sin cita del CVI antes del ~16/10, la mefloquina queda
-fuera** —no hay tiempo de empezarla— **y solo queda Malarone**, que se empieza el ~4–5/11 ya de viaje
-y **hay que llevar comprada antes de volar** *(con receta o lo que el CVI o el médico de cabecera
-indiquen)*. La cita se pide hoy, no la semana antes. *(Y aun con cita, la mefloquina pasa por el
+👉 **La cadena, dicha entera** *(09/10)*: **sin cita del CVI antes del ~16/10 —dentro de una
+semana—, la mefloquina queda fuera** —no hay tiempo de empezarla— **y queda Malarone** *(o la
+doxiciclina, si el CVI la prefiere)*, que se empieza el 4–5/11 ya de viaje y **hay que llevar
+comprada antes de volar** *(con receta o lo que el CVI o el médico de cabecera indiquen)*. La cita
+se pide hoy, no la semana antes. *(Y aun con cita, la mefloquina pasa por el
 trámite de medicamento extranjero — arriba: **lo realista es Malarone**, que sí está registrado en
 España, con receta ✅ — [CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=63452) —, igual
 que su genérico Malaway ✅.)*
@@ -82,57 +108,71 @@ Fuente: https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
 
 ## 📅 Cuenta atrás
 
-*Recalculada el 29/09/2026 y puesta al 03/10: el vuelo sale de Oporto el **30 de octubre**. Lo que
-ya venció y el repo no da por hecho va primero — que no conste hecho aquí no significa que no lo
-esté: significa que nadie lo ha anotado. **El 30/09, que esta cuenta atrás daba como «AHORA», ya
-pasó sin resultado anotado.***
+*Recalculada el 29/09/2026 y puesta al 09/10: el vuelo sale de Oporto el **30 de octubre**, dentro
+de tres semanas. Lo que ya venció y el repo no da por hecho va primero — que no conste hecho aquí
+no significa que no lo esté: significa que nadie lo ha anotado. **El «AHORA · 3 oct» de esta cuenta
+atrás pasó sin un solo resultado anotado**, y lo que entonces era «esta semana» ya está vencido.*
 
 ```mermaid
 flowchart LR
 %% ancho
-    J["VENCIDO<br/>julio - 30 sept<br/>sin resultado anotado"] --> A["AHORA · 3 oct<br/>CVI, DGT, pasaportes<br/>y los pagos que no constan"]
-    A --> O1["Primera semana<br/>de octubre"] --> O2["~16-23 oct"] --> O3["~24 oct"]
+    J["VENCIDO - no consta<br/>julio - 9 oct<br/>CVI, DGT, pasaportes, e-visa,<br/>Terrace Bay y pagos de NWR"] --> A["HOY · 9 oct<br/>todo lo vencido, de golpe"]
+    A --> O1["~16 oct<br/>corte de la mefloquina<br/>coche al 100 %"] --> O2["~22-23 oct<br/>Terrace Bay deja el 30 %<br/>e-visa, como tarde"] --> O3["~24 oct<br/>imprimir"]
     O3 --> F["30 oct<br/>VUELO"]
     style J fill:#9d0208,color:#fff
     style A fill:#e85d04,color:#000
     style F fill:#2d6a4f,color:#fff
 ```
 
-- **VENCIDO · era julio** — reservar el 4×4 *(✅ hecho — Savanna, `20` §1)*; los **campamentos de
-  Etosha** *(✅ hechos: Okaukuejo, Halali y Onguma Tamboti ×2 — Namutoni se anuló el 24/08, `20`
-  §4)*; reservar **Sesriem ×2** *(✅ hecho el 24/08, 2–3 nov)* y **Terrace Bay**, que sigue
-  pendiente; y **comprobar los pasaportes** contra la
-  vuelta del 15 de noviembre —válidos hasta el **15/05/2027** y con 3 páginas en blanco de verdad
-  (§Pasaporte)—, que es lo que el e-visa da por hecho. **A 03/10 no consta hecho** ❌: va esta
-  semana, **antes de pedir el e-visa**, y si alguno falla la cita de renovación es el cuello. Ya
-  tiene casilla en el `20` §9.
-- **VENCIDO · septiembre, y el 30/09** — **ser atendidos en el CVI**: para salir el 30/10, «4–6
-  semanas de antelación» era **hacia el 19–26 de septiembre**; la ventana **se cerró el 26/09**, la
-  llamada iba el 30/09 y **a 03/10 no consta hecha ni su resultado** ❌. **Lo que toca ahora**:
-  llamar y coger la primera cita que den, sabiendo que **sin cita antes del ~16/10 la mefloquina
-  queda fuera y solo queda Malarone, comprada antes de volar** *(§malaria)*; qué vacunas caben
-  todavía lo dice el CVI. Y **el permiso internacional de conducir**: la petición del 30/09 por la
-  sede de la DGT **tampoco consta** ❌ — y «uno por conductor» exige **decidir antes si Miguel va de
-  conductor adicional** *(N$30/día · ~€1,50 — `20` §9)*: uno o dos permisos se decide ahora, no en
-  el mostrador de Savanna.
-- **AHORA · 3 de octubre** — **CVI y DGT** *(arriba)*; **los pagos que no constan** *(el 20 % de
-  Sesriem —cuyo íntegro vence hoy—, Okaukuejo y Halali; el 50 % de Barkhan; el importe del Urban
-  Camp; y si del coche se pagó el total o el 25 % — `20` §9)*; **pedir por escrito a Savanna**,
-  antes de volar y no en el mostrador, la devolución del sábado a las 18:00 con transfer tardío y
-  lo que cubre la Opción 4 en un vuelco sin terceros *(`20` §1)*; y **leer la póliza de IATI**
-  —contratada el 24/08, tocaba el 30/09 y no consta— para confirmar que lleva **evacuación aérea
-  dentro del país** y **búsqueda y salvamento** *(`20` §3)*: **antes del ~10/10**. Los plazos de pago
-  de octubre, en el `20` §9.
-- **Primera semana de octubre** — solicitar el e-visa: necesita el **billete de vuelta emitido**
-  *(`20` §6)*; **si pide además reservas de alojamiento, no está verificado ❌** —este documento lo
-  daba por hecho y el `20` no—: **compruébalo en el formulario antes de empezar**, y la validez
-  *(¿90 días? ❌, abajo)* también. Antes, pasaportes y nombres del billete. Adaptadores tipo M y
-  mapa en papel.
+- **Hecho, y no se toca** ✅ — el 4×4 *(Savanna, `20` §1)*; los **campamentos de Etosha**
+  *(Okaukuejo, Halali y Onguma Tamboti ×2 — Namutoni se anuló el 24/08, `20` §4)*; **Sesriem ×2**
+  reservado *(24/08, 2–3 nov — el pago, abajo)*; el billete *(10/08)* y el seguro *(24/08)*.
+- **🛑 VENCIDO — no consta** *(a 09/10; cada línea con la fecha que tenía)*:
+  - **Llamar al CVI** *(era el 30/09; la ventana de ser atendidos, el 19–26/09)* ❌ — llamar hoy y
+    coger la primera cita: **sin cita antes del ~16/10 la mefloquina queda fuera** y queda
+    Malarone *(o doxiciclina)*, **comprada antes de volar** *(§malaria: 4 cajas los dos)*; qué
+    vacunas caben todavía lo dice el CVI.
+  - **Comprobar los pasaportes** *(era julio)* ❌ — válidos hasta el **15/05/2027** y con 3 páginas
+    en blanco de verdad *(§Pasaporte)*; **y que los nombres del billete los calquen** ❌ *(`20` §2)*.
+    Las dos cosas van **antes del e-visa**, que copia el pasaporte; si uno falla, la cita de
+    renovación es el cuello.
+  - **El e-visa** *(era la primera semana de octubre)* ❌ — con **7–10 días hábiles** ◐, **pedido hoy
+    llega hacia el 20–23/10**: una semana de margen sobre el vuelo, ya sin holgura para un rechazo
+    y una corrección *(§e-visa, abajo)*. **Al solicitarlo**, comprobar en el formulario si pide
+    reservas además del billete de vuelta y cuánto dura *(¿90 días? ❌)*.
+  - **El permiso internacional de la DGT** *(era el 30/09)* ❌ — y antes, **decidir si Miguel va de
+    conductor adicional** *(N$30/día · ~€1,50 — `20` §9)*: uno o dos permisos. Por la sede se
+    recoge ~2 días después *(§permiso)*: cabe, si se pide ya.
+  - **Terrace Bay, la noche del 6/11 en la Costa de los Esqueletos — sin reservar** ❌ *(era julio;
+    el plazo del 20 % era antes del ~7/10)*. **Desde el ~7/10 NWR cobra el 100 % de golpe, pero
+    anular hasta el ~22/10 cuesta el 30 %** *(N$3.480 · ~€174 la noche; `20` §4)*. Es la única
+    reserva con fecha dura y la que deja entrar al parque.
+  - **Sesriem: el pago íntegro** *(N$2.680 · ~€134, **vencía el 3/10**)* ❌ — ni el 20 % ni el
+    íntegro constan pagados, y **NWR cancela lo no pagado**: que confirmen por escrito que la
+    reserva sigue viva *(`20` §4)*.
+  - **Barkhan, el 50 % del D2** *(N$290 · ~€14,50; la provisional caducaba hacia el 31/08)* ❌ —
+    pedir por escrito que está confirmada *(`20` §5)*.
+  - **Leer la póliza de IATI** *(era el 30/09; tope, ~10/10)* ❌ — que lleve **evacuación aérea
+    dentro del país** y **búsqueda y salvamento** *(`20` §3)*.
+  - **Okaukuejo y Halali: los pagos íntegros** *(N$920 · ~€46 cada uno; **vencen ~10/10 y ~11/10**,
+    este fin de semana)* ❌ — si no constan, hoy, con la llamada de Sesriem *(`20` §4)*.
+  - **Pre-reservar en Onguma** la cena, el Sundowner del D12 y el game drive del D13 *(decidido el
+    26/08; sin fecha dura, pero a tres semanas no consta pedido)* ❌ *(`20` §9)*.
+  - Y lo que **no tiene fecha pero sí casilla**: el importe del Urban Camp, si del coche se pagó
+    el total o el 25 %, y **pedir por escrito a Savanna** la devolución del sábado a las 18:00 y lo
+    que cubre la Opción 4 en un vuelco sin terceros *(`20` §1 y §9)*.
+- **Esta semana, en casa** — **los adaptadores tipo M + D**, que se piden online y tardan días
+  *(`17`)*; y el **mapa en papel**: el Reise Know-How llega de Amazon, el **Tracks4Africa se envía
+  desde Sudáfrica o el Reino Unido — pedirlo hoy o descartarlo** *(`17`)*.
+- **~12 de octubre** — Onguma: **comprobar, no pagar**, que los €132 son el total *(`20` §9)*.
+- **~16 de octubre** — **último día para que la mefloquina sea posible** *(cita del CVI antes)*;
+  y anular el coche pasa a costar el 100 % *(`20` §1)*.
 - **~16–23 de octubre** — empezar la mefloquina, **si** el CVI la receta — **y solo si hubo cita
-  antes del ~16/10; si no, Malarone** *(§malaria)*.
-- **~21 de octubre** — último día para la fiebre amarilla **si** la ruta llegara a exigirla.
+  antes del ~16/10; si no, Malarone, del 4–5 al 20 de noviembre** *(§malaria)*.
+- **~21 de octubre** — Savanna, el resto, **solo si** se pagó el 25 % *(`20` §9)*.
+- **~22 de octubre** — último día en que anular Terrace Bay cuesta el 30 % y no el 75 %.
 - **~24 de octubre** — imprimirlo **todo**, que Namibia funciona con papel; recomprobar el diésel y
-  el self-drive a Deadvlei.
+  el self-drive a Deadvlei. **Y el antipalúdico, en el daypack de cabina.**
 
 ### El portal del e-visa — y las webs que te van a cobrar de más ✅
 
@@ -160,13 +200,15 @@ Fuente: [Namibia Airports Company](https://www.airports.com.na/useful-informatio
 >
 > - **La cifra prudente: 7–10 días hábiles** ◐ *(atribuida al propio Gobierno, con retrasos
 >   reportados en temporada alta)*. **Con la salida el 30/10, pedirlo la primera semana de octubre
->   deja ~3 semanas de margen: llega, pero sin holgura para un rechazo y una corrección.**
+>   dejaba ~3 semanas de margen.** ⚠️ **A 09/10 no consta pedido** ❌: **pedido hoy, 10 días
+>   hábiles llevan al ~23/10** — una semana sobre el vuelo, y ya sin holgura para un rechazo y una
+>   corrección.
 > - ⚠️ **Y ojo a quién promete «minutos»**: las webs que dicen *«aprobación en minutos o 48 horas»*
 >   son **las mismas no oficiales que cobran de más** y contra las que avisa el recuadro de arriba.
 >   **No se usan como fuente de plazo.**
 > - **Validez, ❌ sin confirmar en fuente oficial**: circula **90 días desde la emisión** ◐, pero
->   solo lo he visto en esas mismas webs no oficiales. **Si son 90 días, pedirlo ahora, la primera
->   semana de octubre, es seguro** *(03/10 + 90 → principios de enero, y el viaje acaba el 15/11)*. **Si fueran menos,
+>   solo lo he visto en esas mismas webs no oficiales. **Si son 90 días, pedirlo ahora es seguro**
+>   *(09/10 + 90 → principios de enero, y el viaje acaba el 15/11)*. **Si fueran menos,
 >   pedirlo demasiado pronto lo dejaría caducado.** Confírmalo **en el portal oficial** al
 >   solicitarlo — está en el calendario del `20` §9 como «comprobar en el portal al solicitar»,
 >   junto con qué documentos pide el formulario *(¿solo el billete de vuelta, o también reservas? ❌)*.
@@ -254,8 +296,8 @@ Para la vuelta real del **15 de noviembre de 2026** → pasaporte válido **hast
 > Si alguno falla, **renuévalo YA**. El cuello de botella es la **cita previa** en Policía Nacional,
 > no la impresión. Dejarlo para noviembre es como se pierden los viajes.
 >
-> ⚠️ **A 03/10 esta comprobación no consta hecha** ❌ *(tocaba en julio)*: va esta semana, **antes de
-> pedir el e-visa**, que copia el pasaporte. Casilla en el `20` §9.
+> ⚠️ **A 09/10 esta comprobación no consta hecha** ❌ *(tocaba en julio)*: **está vencida** y va hoy,
+> **antes de pedir el e-visa**, que copia el pasaporte. Casilla en el `20` §9.
 
 ### Y si el pasaporte se pierde ALLÍ: España tiene embajada EN Windhoek ◐
 
@@ -284,9 +326,9 @@ atendido**, no cuánto antes hay que **llamar**. En verano, la cita es el recurs
 
 👉 **Para la salida del 30 de octubre, «4–6 semanas de antelación» significaba ser atendidos hacia
 el 19–26 de septiembre, y esa ventana se cerró el 26/09.** La llamada estaba apuntada para el
-**30/09** y **a 03/10 no consta hecha ni su resultado** ❌. **Lo que toca**: llamar hoy y coger la
+**30/09** y **a 09/10 no consta hecha ni su resultado** ❌. **Lo que toca**: llamar hoy y coger la
 primera cita que den; **sin cita antes del ~16/10, la mefloquina (2–3 semanas antes) queda fuera y
-solo queda Malarone, comprada antes del 30/10** *(§malaria)*. Lo que quepa todavía de vacunas antes
+queda Malarone —o la doxiciclina, si el CVI la prefiere—, comprada antes del 30/10** *(§malaria)*. Lo que quepa todavía de vacunas antes
 del 30/10 lo decide el CVI, no este dossier.
 Fuente: https://www.sanidad.gob.es/areas/sanidadExterior/laSaludTambienViaja/centrosVacunacionInternacional/centrosvacu.htm
 

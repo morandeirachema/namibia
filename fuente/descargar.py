@@ -36,8 +36,6 @@ ANCHO_DESCARGA = 1800
 ANCHO_FINAL = {"lugares": 1400, "fauna": 700}
 CALIDAD = 78
 
-LICENCIAS_OK = ("CC BY", "CC0", "Public domain", "FAL")
-
 
 def pide(url, timeout=60):
     """Commons devuelve 429 con facilidad y manda Retry-After: seis intentos."""
@@ -127,7 +125,7 @@ def main():
             if not info:
                 fallos.append(f"{clave}: no existe «{fichero}» en Commons")
                 continue
-            if not info["licencia"].startswith(LICENCIAS_OK):
+            if not catalogo.licencia_libre(info["licencia"]):
                 fallos.append(f"{clave}: licencia no libre «{info['licencia']}»")
                 continue
             if forzar or not os.path.exists(destino):

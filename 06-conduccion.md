@@ -23,8 +23,9 @@
 > nadie, que es justo el siniestro de este documento— con **N$165.000 (~€8.900)** a cargo del
 > cliente, mientras su otra página lista el vuelco como cubierto. **Sin resolver** *(`20` §1)*. Trata lo de abajo como **la referencia del sector**
 > —los límites reales pueden ser iguales o peores— y **pide el contrato de Savanna por escrito**
-> con tres preguntas concretas: bajos en Damaraland, número de ruedas de repuesto, y coste
-> orientativo de rescate. Buena noticia de ruta: **las pistas malditas D3707/D3703 NO están en la
+> con dos preguntas concretas: bajos en Damaraland y coste orientativo de rescate. *(La tercera
+> que había aquí —cuántas ruedas de repuesto— ya está contestada: **dos, de serie** ✅, `20` §1 y
+> §14 abajo. Y los límites de velocidad del propio Savanna, también: §3.)* Buena noticia de ruta: **las pistas malditas D3707/D3703 NO están en la
 > ruta.**
 
 ---
@@ -87,12 +88,17 @@ Para que no le pidas al dato más de lo que da:
 
 ---
 
-## 3. El límite: 80 en grava, 60 en parques ✅
+## 3. El límite: 80 en grava, 60 en parques y en ciudad ✅
 
 Ya está en `12`: **80 km/h contractuales en grava** (el legal es 100), **caja negra**, y superarlo
-**anula el seguro**. Añadidos de este bloque:
+**anula el seguro**. **Y en el coche contratado está verificado desde el 25/08**: las condiciones
+de **Savanna** dan **120 en asfalto, 80 en grava, 60 en los parques y 60 dentro de las ciudades** ✅
+*(`20` §1; [rental-conditions](https://www.savannacarhire.com.na/rental-conditions), `13` §1)*,
+con caja negra, y *«if you exceed this speed limit all insurances and Reduced Excesses lapse»*.
+**Ojo al 60 urbano**: Windhoek, Swakopmund, Walvis Bay, Outjo o Tsumeb se cruzan a 60 aunque la
+señal diga más. Añadidos de este bloque:
 
-- **Asco te limita a 60 km/h dentro de los parques nacionales**, pase lo que pase
+- **Asco limitaba igual a 60 km/h dentro de los parques nacionales** *(la referencia de antes)*
 - African Tracks lo pone aún más duro en sus condiciones: *«Drive only from sunrise to sunset on any
   B or C roads! Driving outside of these times is very risky and will be at own risk!»*
 - Avis, en su guía de safari: *«Never drive at night»*
@@ -145,7 +151,7 @@ y los visitantes *«may also use the concessionaire's shuttle service but buses 
 permitted»*.
 
 > A 16/07/2026 **el self-drive está permitido**, pero **ya bailó una vez en tres meses**.
-> 👉 **Reconfirmar ~4 semanas antes = primeros de octubre de 2026.** ⚠️ **A 03/10 no consta
+> 👉 **Reconfirmar ~4 semanas antes = primeros de octubre de 2026.** ⚠️ **A 09/10 no consta
 > reconfirmado ❌: sigue pendiente** — si no se hace antes de salir, se pregunta en recepción de
 > Sesriem el D3.
 >
@@ -167,12 +173,14 @@ permitted»*.
 - Presión de arena típica **~1,0–1,6 bar** (African Tracks da 1,6) — pero **necesitas el compresor**
   para volver a subir: **confirma que funciona en la entrega**
 
-> ### 🚫 Cláusula crítica del contrato de Asco *(referencia del sector — asume lo mismo en Savanna)*
+> ### 🚫 Cláusula crítica del contrato de Asco *(referencia del sector)* — y en Savanna, lo mismo
 > *«Dune Driving and driving to Sandwich Harbour: This is strictly prohibited.»*
 >
 > La pista de arena hasta Deadvlei **no** es *dune driving*. Pero **Sandwich Harbour y cualquier
 > excursión por dunas anulan tu cobertura entera**. Para eso, **tour guiado** — que además es el
-> plan del D6. *Asume que el contrato de Savanna dirá lo mismo hasta que lo leas.*
+> plan del D6. **En Savanna ya no hay que suponerlo**: su hoja de condiciones pone **Sandwich
+> Harbour en la lista de zonas a riesgo propio**, sin cobertura ✅ *(`20` §1)*. Las dunas en general
+> no las nombra esa lista ❌: trátalas igual.
 
 ---
 
@@ -223,8 +231,9 @@ Por región, como porcentaje de los accidentes de esa región:
 
 **Lo tranquilizador:** los accidentes con animal mataron **solo a 7 personas** en 2019.
 **Lo inquietante:** son una forma excelente de destrozar un radiador, un parabrisas o un tren
-delantero **a 200 km de un taller**, en una región donde tu empresa de alquiler **admite por escrito
-que no garantiza asistencia en 24 h** (ver §8).
+delantero **a 200 km de un taller**, en una región donde **Asco —la referencia del sector— admite
+por escrito que no garantiza asistencia técnica en 24 h** (ver §8). Savanna anuncia **asistencia
+24 h incluida** ✅ *(`20` §1)*, pero cuánto tarda en llegar a Damaraland no lo dice ❌.
 
 ❌ **Refutado 0–2:** el titular «los animales son el 2º tipo más común» **lo contradice la propia
 tabla** según el verificador. Los números están bien transcritos; el encabezado se pasó de frenada.
@@ -409,8 +418,8 @@ Dormir fuera significa que **no puedes llegar físicamente** antes de que el sol
 
 **Y por qué esto es un asunto de conducción, no de logística:** quien reserva fuera y aun así intenta
 llegar al amanecer **hace esos 60 km demasiado rápido y a oscuras**, justo en la ventana del alba en
-que se mueven kudús y órix — y el límite contractual de **60 km/h dentro de parques** (documentado
-en Asco; asume lo mismo en Savanna) manda de todas formas.
+que se mueven kudús y órix — y el límite contractual de **60 km/h dentro de parques** (en las
+condiciones de Savanna, verificado el 25/08 ✅ — §3) manda de todas formas.
 
 > ❌ **Refutado 0–2 por exceso**: la cita de NWR es exacta, pero el documento original estiraba dos
 > conclusiones que la fuente no sostiene, y una tenía un error aritmético. **Lo que aguanta es la
@@ -435,8 +444,8 @@ en la cláusula 10.8 de Asco) que da prestaciones médicas y por lesión a **cua
 accidente de tráfico en Namibia, **sin importar nacionalidad ni culpa**.
 👉 **Como visitante español, estás cubierto por él.** Centralita: **+264 61 289 7000**
 
-- **Savanna** — ⚠️ **su número de emergencias 24 h no está en el dossier: pídelo al reservar y
-  grábalo**, es el que de verdad importa.
+- **Savanna** — ⚠️ **su número de emergencias 24 h sigue sin estar en el dossier a 09/10** ❌:
+  pídelo antes de salir o, como tarde, en la entrega, y grábalo — es el que de verdad importa.
 - **AA Namibia**, asistencia 24/7: **+264 81 555 9432** / **+264 85 25 555 00**
   *(es por membresía: te van a pedir datos de socio, así que es un plan B, no una garantía)*
 - **Asco**, emergencias: **+264 (0)81 127 2949** / **+264 (0)81 129 2514** *(empresa descartada —
@@ -454,8 +463,10 @@ corto es el de la policía sudafricana)*. En Namibia funciona **con prefijo de z
 hay cobertura móvil en buena parte de Damaraland, el Namib y el sur profundo** — que es justo por lo
 que existen la regla de la noche y la de los repuestos.
 
-> Dado que **Asco admite que no puede garantizar asistencia en 24 h en Damaraland**, plantearse un
-> **mensajero satelital** para las etapas de Damaraland y el Namib **no es paranoia**.
+> Dado que **Asco admite que no puede garantizar asistencia en 24 h en Damaraland**, el
+> **teléfono satelital va reservado con el coche** ✅ *(`20` §1, N$160 · ~€8 al día)* — es lo que
+> cubre las etapas de Damaraland, el Namib y Terrace Bay. Lo que falta es **saber cómo se llama a
+> emergencias desde él** ❌ *(prefijo, números cortos, saldo — `22` §4)*: se pregunta en la entrega.
 
 ---
 
@@ -479,8 +490,8 @@ ninguno**. El **primer** pinchazo te convierte en un viajero normal. El **segund
 te convierte en **un peatón varado a 35 °C sin sombra y quizá sin cobertura**, y de ahí **no se sale
 andando**.
 
-👉 **EXÍGELO POR ESCRITO al reservar** y **verifica que las dos están, infladas y coinciden**, antes
-de salir del patio.
+👉 **Las dos van de serie** ✅ *(`20` §1)*: en la entrega, **verifica que están, infladas y
+coinciden**, antes de salir del patio.
 
 **El procedimiento:**
 - **Sal completamente de la carretera** (polvo = eres invisible), warning, calza una rueda

@@ -22,6 +22,7 @@ import mapa                                                        # noqa: E402
 import trazado                                                     # noqa: E402
 from comun import RAIZ, marca_texto, md                            # noqa: E402
 
+import fecha                                                       # noqa: E402
 from fecha import FECHA, VIAJE
 
 # ---------------------------------------------------------------------------
@@ -465,7 +466,12 @@ def mete_mapas(html, doc):
     patron = (r'<p>\s*<a href="img/mapas/' + re.escape(nombre) +
               r'\.svg">\s*<img[^>]*>\s*</a>\s*</p>')
     if not re.search(patron, html):
-        return html
+        # antes se devolvia el HTML tal cual y el PDF salia con el PNG —o con la imagen rota
+        # si no estaba generado— sin que nada lo dijera: el <img> del markdown habia cambiado
+        raise SystemExit(f"dossier: el `{doc}` ya no enlaza su mapa como "
+                         f"[<img>](img/mapas/{nombre}.svg) en un parrafo propio, y "
+                         f"MAPAS_EN_DOC no puede cambiarlo por el SVG en linea — mira el "
+                         f"markdown o quita la entrada de MAPAS_EN_DOC")
     return re.sub(patron, lambda _: f'<div class="mapa mapa-doc">{dibuja()}</div>',
                   html, count=1)
 
@@ -485,6 +491,10 @@ def paginas_de_mapas():
             f'<span class="km">{"—" if not km else miles(km)}</span>'
             f'<span class="dor">{duerme}</span></li>')
     total = sum(d.get("km") or 0 for d in datos.values())
+    # las noches y la fecha de la medicion salen de trazado.py y fecha.py: escritas aqui
+    # decian «el 8 de agosto» con la ruta rehecha el 24/08
+    noches = trazado.noches()
+    en_tienda = sum(1 for e in noches if e["duerme"] not in trazado.SIN_TIENDA)
 
     return f"""
 <section class="mapa-plena" id="mapas">
@@ -506,10 +516,10 @@ def paginas_de_mapas():
     {"".join(filas)}
     <li class="total"><span class="dia"></span><span class="fec"></span>
       <span class="etapa">Total conducido</span><span class="km">{miles(total)}</span>
-      <span class="dor">14 noches — 13 en tienda</span></li>
+      <span class="dor">{len(noches)} noches — {en_tienda} en tienda</span></li>
   </ol>
   <p class="nota-tabla">Los kilómetros de esta tabla son <b>de carretera, puerta a puerta</b>,
-  medidos con OSRM sobre el trazado de OpenStreetMap el 8 de agosto de 2026. No incluyen los
+  medidos con OSRM sobre el trazado de OpenStreetMap el {fecha.larga(fecha.RUTA_MEDIDA)}. No incluyen los
   desvíos a charcas dentro de Etosha ni las vueltas del día de descanso.</p>
 </section>
 
@@ -638,7 +648,10 @@ def html_completo(paginas=None):
 </body></html>"""
 
 
-VENDOR = "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"
+# La version EXACTA: con `mermaid@11` el CDN sirve la ultima 11.x del dia, y una version
+# nueva mueve cajas y rotulos sin que cambie una linea del repo — un PDF regenerado sin
+# tocar nada salia maquetado distinto. 11.17.2 es la que resolvia `@11` el 09/10/2026.
+VENDOR = "https://cdn.jsdelivr.net/npm/mermaid@11.17.2/dist/mermaid.min.js"
 
 
 def script_mermaid():

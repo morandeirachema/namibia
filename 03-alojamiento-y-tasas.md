@@ -11,7 +11,7 @@
 > *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 08/08/2026 · **añadida el
 21/08/2026 la tarifa de Onguma**, leída de su tarifario oficial 2027, al reservarse ahí la última
 noche de Etosha —y el 24/08, también la anterior— · puesto al 03/10/2026: Terrace Bay en el
-tarifario, los €132 de Onguma y dos flecos cerrados*
+tarifario, los €132 de Onguma y dos flecos cerrados · repasado el 09/10/2026: lo que venció*
 
 https://www.nwr.com.na/wp-content/uploads/2026/06/NWR-Rack-Rates-2026-2027.pdf
 *(descargado y leído directamente el 16/07/2026)*
@@ -72,13 +72,13 @@ flowchart LR
 
 Precios **nov 2026 – jun 2027** (nuestra ventana) → *jul–oct 2027*:
 
-- **Okaukuejo** *(Etosha)* — N$460 (~€23) → *N$560* · **2 pax: N$920 (~€46)**
-- **Halali** *(Etosha)* — N$460 (~€23) → *N$550* · **2 pax: N$920 (~€46)**
-- **Namutoni** *(Etosha)* — N$460 (~€23) → *N$550* · **2 pax: N$920 (~€46)**
-- **Olifantsrus** *(Etosha)* — N$510 (~€26) → *N$510* · **2 pax: N$1.020 (~€51)**
-- **Sesriem** *(Sossusvlei)* — N$670 (~€34) → *N$670* · **2 pax: N$1.340 (~€67)**
-- **Waterberg** — N$430 (~€22) → *N$430* · 2 pax: N$860 (~€43)
-- **Khorixas** *(Damaraland)* — N$330 (~€17) → *N$330* · 2 pax: N$660 (~€33)
+- **Okaukuejo** *(Etosha)* — N$460 (~€23) → *N$560 (~€28)* · **2 pax: N$920 (~€46)**
+- **Halali** *(Etosha)* — N$460 (~€23) → *N$550 (~€28)* · **2 pax: N$920 (~€46)**
+- **Namutoni** *(Etosha)* — N$460 (~€23) → *N$550 (~€28)* · **2 pax: N$920 (~€46)**
+- **Olifantsrus** *(Etosha)* — N$510 (~€26) → *N$510 (~€26)* · **2 pax: N$1.020 (~€51)**
+- **Sesriem** *(Sossusvlei)* — N$670 (~€34) → *N$670 (~€34)* · **2 pax: N$1.340 (~€67)**
+- **Waterberg** — N$430 (~€22) → *N$430 (~€22)* · 2 pax: N$860 (~€43)
+- **Khorixas** *(Damaraland)* — N$330 (~€17) → *N$330 (~€17)* · 2 pax: N$660 (~€33)
 
 Las parcelas admiten **máximo 8 personas**, pero el precio es **por persona**: dos pagan dos.
 
@@ -98,7 +98,7 @@ Las parcelas admiten **máximo 8 personas**, pero el precio es **por persona**: 
 justo al principio de la ventana)*:
 
 - **N$540 (~€27) netos por adulto y noche** + **tasa de conservación N$80 (~€4) por persona y
-  noche** = **N$620 (~€31) por persona** · niños de 3 a 11 años N$270 + tasa · menores de 3 gratis
+  noche** = **N$620 (~€31) por persona** · niños de 3 a 11 años N$270 (~€13,50) + tasa · menores de 3 gratis
 - **IVA y Social Development Levy incluidos**
 - **2 pax: N$1.240 (~€62) por noche → N$2.480 (~€124) las dos** — **N$320 (~€16) más por noche que
   una parcela de Namutoni**, y a cambio la parcela lleva **ducha y wc propios**
@@ -107,7 +107,7 @@ justo al principio de la ventana)*:
   — [el plan del guepardo](aparte/plan-del-guepardo.md).)* 💳 **El dato recibido es €132**
   *(`21`)*, y hasta el 03/10 se leía como un 50 % con «+€8 sin explicar»: pero **N$2.480 / €132 =
   18,79 N$/€**, dentro del cambio real de 2026 *(18,5–19,4)*, así que **con toda probabilidad son
-  las dos noches enteras, no el 50 %, y no queda segundo pago el ~12/10** ◐. ❌ *Confirmar con el
+  las dos noches enteras, no el 50 %, y el segundo pago del ~12/10 probablemente no existe** ◐. ❌ *Confirmar con el
   recibo de Onguma que es el total y que el saldo es cero (`20` §9).*
 - ⚠️ **Lo que este cambio cuesta no es el alojamiento**: al no dormir dentro, **la guiada de mañana
   de Namutoni deja de ser comprable** —se vende a quien pernocta—, **N$1.300 (~€65) la pareja**.
@@ -273,9 +273,13 @@ La cifra de N$150 (~€7,5) de casi todas las webs es la tabla obsoleta de 2021 
 - ~~**Antelación de reserva** para nov–dic 2026, y si el acceso anticipado de Sesriem desde dentro
   de la puerta (amanecer en Deadvlei ~1 h antes que los visitantes de fuera) justifica su precio~~
   — **cerrados el 24/08** *(anotado el 03/10)*: Sesriem ×2 está **reservado DENTRO de la puerta**
-  *(`20` §4)*, o sea que la hora de ventaja se compró; y la antelación, resuelta en el `20`
-  §«¿Con cuánta antelación reserva la gente?».
-- **Terrace Bay** *(03/10)*: la tarifa ya está arriba; **lo que sigue abierto es la reserva**, la
-  única con fecha dura que falta *(`20` §4 y §9)*.
+  *(`20` §4)*, o sea que la hora de ventaja se reservó — ⚠️ **pero su pago íntegro venció el
+  3/10 y a 09/10 no consta pagado** ❌: hasta que NWR confirme por escrito que sigue viva, no está
+  comprada del todo *(`20` §9)*; y la antelación, resuelta en el `20` §«¿Con cuánta antelación
+  reserva la gente?».
+- **Terrace Bay** *(03/10; a 09/10, igual)*: la tarifa ya está arriba; **lo que sigue abierto es
+  la reserva**, la única con fecha dura que falta — y **desde el ~7/10 se paga el 100 % al
+  reservar** *(N$3.480 · ~€174)*, con anulación al 30 % hasta el ~22/10. Si no hay sitio, el plan B
+  es **Spitzkoppe**, ~N$640 (~€32) los dos ◐ *(`20` §4 y §9)*.
 - ~~El **veredicto de fechas** y el **itinerario**~~ — **cerrados el 06/08/2026** *(ruta del
   norte y fechas del vuelo, ver `16`)*: el presupuesto ya se apoya en ellos.

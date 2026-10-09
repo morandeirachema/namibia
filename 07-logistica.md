@@ -8,7 +8,8 @@
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · precio del
-> combustible actualizado a la revisión de octubre de 2026 (diésel sin cambio desde el 2 sep)*
+> combustible actualizado a la revisión de octubre de 2026 (diésel sin cambio desde el 2 sep) ·
+> el coste del depósito, la banda del viaje y la aduana del efectivo, rehechos el 09/10/2026*
 
 
 ---
@@ -78,7 +79,7 @@ africapulse— pero **ni una sola fuente se dejó abrir** aquí (egress 403 en t
 congelado— y los decimales **coinciden con el dato de septiembre ya en el dossier**, que es la
 concordancia más fuerte posible sin abrir el primario.)*
 
-> ### ⚠️ Dos avisos que invalidan esa cifra para tu viaje
+> ### ⚠️ Tres avisos que invalidan esa cifra para tu viaje
 >
 > **1. Son precios de WALVIS BAY.** Namibia fija **un precio base nacional en el puerto** de Walvis
 > Bay y luego **suma un diferencial de transporte** por cada pueblo del interior. Windhoek,
@@ -87,9 +88,10 @@ concordancia más fuerte posible sin abrir el primario.)*
 > así que **no hay cifra exacta para Windhoek ni Solitaire**. 👉 **No dejes que nadie te dé un precio
 > preciso de una estación remota sin enseñarte el boletín oficial.**
 >
-> **2. Namibia revisa el precio CADA MES.** La cifra de julio **no vale para tu quincena de noviembre**.
-> Solo en 2026 los precios han pegado bandazos: **+N$2,50 gasolina / +N$4,00 diésel el 1 de abril**,
-> más subidas en mayo y junio, y **esta bajada de N$4,00 en julio**.
+> **2. Namibia revisa el precio CADA MES.** Ni la cifra de octubre **vale para tu quincena de
+> noviembre**: la revisión de noviembre cae **a mitad de viaje (~4/11)**. Solo en 2026 el diésel ha
+> pegado bandazos: **+N$4,00 el 1 de abril**, más subidas en mayo y junio, **−N$4,00 en julio**,
+> **+N$2,00 en agosto**, **+N$1,60 en septiembre** y **congelado en octubre**.
 >
 > **3. El «emergency arrangement» se prorrogó hasta octubre — CERRADO ◐ (04/10).** Ese acuerdo de
 > suministro —compra al Basic Fuel Price sin primas de importación— era **con Vitol** y **se mantuvo
@@ -107,13 +109,14 @@ la de noviembre, que cae a mitad de viaje (~4/11)** —recomprueba al repostar l
 **Cálculo del viaje** *(aritmética nuestra, no cifra de fuente; actualizado a la ruta del viaje)*: el
 Ford doble cabina cargado en los **~2.798 km de la ruta** (control OSRM, rehecho el 24/08
 con las dos noches en Onguma y Damaraland partido en dos), a
-**~11–13 l/100 km**, quema **~308–364 l** → banda **N$8.002–10.549 (~€400–527)**, central
-**~N$9.066 (~€453)** con el diésel a N$27/l de agosto *(era menos con el precio de julio)*.
-**Se presupuesta ~N$9.100 (~€455) — €228 por persona**; el detalle, en `02`. *(El cálculo antiguo de ~N$9.000–10.500 era para los
-2.800–3.200 km de la ruta con el sur.)* ⚠️ **Tras la subida del 2 de septiembre** el diésel del
-interior ya no anda por N$27 sino por **N$29–30/l**, así que ese central de N$9.100 queda del **lado
-optimista**: la banda **N$8.002–10.549** lo sigue cubriendo *(a N$30/l son ~N$10.000)*, pero cuenta
-con la **mitad alta**, no con el central.
+**~11–13 l/100 km**, quema **~308–364 l** *(central, ~336 l)*. **Con el diésel de hoy, N$28–31/l (~€1,40–1,55) en
+el interior** *(arriba)*, eso es una banda de **~N$8.600–11.300 (~€430–565)**, y **a consumo
+central, ~N$9.400–10.400 (~€470–520)** *(09/10)*. **Se presupuesta ~N$9.100 (~€455) — €228 por
+persona** *(el detalle, en `02`)*, que salía del central con el diésel a N$27/l de agosto
+*(N$8.002–10.549 · ~€400–527 era la banda de entonces, a N$26–29/l)*. ⚠️ **Así que hoy el N$9.100
+(~€455) ya no es el central sino el borde bajo**: solo cuadra si el consumo va también por abajo *(~308 l)*. **A consumo
+central cuesta N$300–1.300 (~€15–65) más** — cuenta con eso, no con el N$9.100 (~€455). *(El cálculo
+antiguo de ~N$9.000–10.500 (~€450–525) era para los 2.800–3.200 km de la ruta con el sur.)*
 
 Fuentes: [rebaja de julio](https://observer24.com.na/govt-cuts-fuel-prices-unveils-import-overhaul-after-n1-3bn-relief-bill/) ·
 [subida de N$2,00/l del 5 ago 2026](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/) *(403 aquí; vía fragmento del buscador)* ·
@@ -140,8 +143,10 @@ Fuentes: [rebaja de julio](https://observer24.com.na/govt-cuts-fuel-prices-unvei
   combustible con tarjeta**
 
 **Pero lleva efectivo igual**, por razones prácticas y no por la norma: datáfonos caídos, enlaces
-por satélite fuera de servicio, sitios remotos. **Un depósito de 80 l a ~N$26/l son ~N$2.080 (~€104)
-por repostaje.**
+por satélite fuera de servicio, sitios remotos. **Lo que cuesta un depósito, con las cifras de
+hoy**: el del Ford es de **140 l** *(80 + 60, §Distancias)* y el diésel del interior va a **N$28–31/l (~€1,40–1,55)**
+*(arriba)* → **llenarlo de vacío son ~N$3.900–4.300 (~€195–215)**; un repostaje normal, con algo
+dentro, menos. *(Hasta el 09/10 aquí ponía 80 l a N$26/l: ~N$2.080 (~€104), la mitad.)*
 
 👉 Pregunta a **Savanna** *(tu proveedor)* **por escrito** si tienen tarjeta o acuerdo de
 combustible y si sirve **en Solitaire y en Henties Bay concretamente**, no «en Namibia».
@@ -156,9 +161,10 @@ hace y no está permitido.
 > Equivocar el combustible en un coche de alquiler **no lo cubre ningún nivel de seguro** y es un
 > error catastrófico que termina el viaje.
 
-- **Propina habitual: ~N$5 (~€0,25)**, hasta **N$10 (~€0,50)** si te hace ruedas y parabrisas
+- **Propina habitual: ~N$10 (~€0,50)** ◐ *(la cifra del operador local de §Dinero, abajo)*; algo
+  más si te hace ruedas, presiones y parabrisas ○
 - Lleva monedas y billetes pequeños **en el hueco de la puerta** para esto: lo harás **10–15 veces**
-  en el circuito → **~N$100 (~€5) en total**. Dinero trivial que compra buena voluntad real
+  en el circuito → **~N$100–150 (~€5–7,50) en total**. Dinero trivial que compra buena voluntad real
 - 👉 **Pídeles que miren las presiones en CADA parada**: es tu defensa más barata contra las
   exclusiones de neumáticos y bajos del seguro (ver `06`)
 
@@ -398,20 +404,26 @@ la caja común de recepción.
 se negocian). Límite oficial de billetes: **N$10.000 (~€500) por viaje** fuera del CMA ◐ *(FAQ de Exchange
 Control del [Bank of Namibia](https://www.bon.com.na/Informations/FAQ/Exchange-Control.aspx) — la
 web daba error al verificarla; corroborado en guía secundaria)*. La aduana
-([NamRA](https://www.namra.org.na/documents/cms/uploaded/customs-procedure-travellers-guide-information-1579b9600b.pdf) ✅)
-exige **declarar divisas** al entrar y salir, sin umbral publicado.
+([NamRA](https://www.namra.org.na/documents/cms/uploaded/customs-procedure-travellers-guide-information-1579b9600b.pdf) ✅,
+releída el 09/10) exige **declarar el efectivo y las divisas que se lleven**, al entrar *y* al
+salir — *«cash/bearer negotiable instruments, or foreign currency in their possession»* —, **sin
+umbral**: se declara **todo**, sea la cantidad que sea. *(El `08` daba un «≥ N$100.000 (~€5.000)» que esa guía
+no dice; corregido allí el mismo día.)*
 
 ### Cuánto efectivo
 
 Tus restricciones reales:
-- **Combustible**: en la práctica, efectivo → **~N$2.000 (~€100) por depósito**
+- **Combustible**: **tarjeta primero** —la gasolinera sí la acepta, §el mito de la tarjeta—, y
+  **efectivo de respaldo para un depósito lleno**: **~N$3.900–4.300 (~€195–215)** *(140 l a
+  N$28–31/l · ~€1,40–1,55)*, por si el datáfono cae justo en Solitaire, Henties Bay, Kamanjab u Outjo
 - **Tasas de parque**: ~N$280 (~€14)/adulto/día **más vehículo, por parque**
 - **Lodges remotos, campings y puestos de artesanía**: efectivo
 - **Propinas**
 
 > **Plan:** saca efectivo en **Windhoek** y recarga en **Swakopmund** y **Otjiwarongo/Outjo** — los
 > últimos cajeros fiables antes de Damaraland y Etosha. **Nunca dejes que la reserva baje de
-> ~N$4.000 (~€200)** entrando en tramos remotos.
+> ~N$4.000 (~€200)** entrando en tramos remotos — **lo que cuesta, más o menos, un depósito lleno**
+> si el datáfono no funciona *(arriba)*.
 >
 > ❌ **No cuentes con encontrar un cajero que funcione en Khorixas, Kamanjab, Solitaire ni Sesriem.**
 > *(Matiz del 02/08: en Kamanjab y Solitaire SÍ figuran puntos Cash Express en el listado oficial
@@ -463,8 +475,9 @@ No son una incidencia — son parte del paisaje, y con el kit en la guantera dur
 - **E-Med Rescue 24** *(todos los centros principales del país)* — gratuito **924**, también
   **924** / **+264 83 924 9111** / **061 411 600** *(los cortos 081 924 / 083 924 de la lista NHP de
   2024 ya no figuran en la web de E-Med, que publica éstos — 25/08)*
-- **Lifelink Emergency Services** *(centros principales + ambulancia aérea nacional)* — **999** desde
-  fijo / **064 500 346**
+- **Lifelink Emergency Services** *(centros principales + ambulancia aérea nacional)* — **999 desde
+  fijo** *(desde el móvil no se da por hecho)* / **064 500 346**, en formato internacional
+  **+264 64 500 346**
 - **Medical Rescue Africa** *(ambulancia aérea nacional)* — **912** nacional /
   **+264 8333 900 33** / **+264 81 129 4973** internacional
 - **International SOS Namibia** *(viajeros internacionales)* — **081 129 3137**

@@ -9,15 +9,17 @@
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Levantado el 09/08/2026; revisado el 25/09/2026 con los plazos de octubre (§9) y puesto al 03/10.
+> *Levantado el 09/08/2026; revisado el 25/09/2026 con los plazos de octubre (§9), puesto al 03/10
+> y otra vez al 09/10.
 > Desde el 24/08
 > —lo último que consta anotado de reservas—, el **vuelo está EMITIDO (€1.536 p.p.)**, el **coche
 > RESERVADO con Savanna (€2.363 en total)** y **ocho de las catorce noches RESERVADAS** — Windhoek
 > Urban Camp, Spreetshoogte, Sesriem ×2, Okaukuejo, Halali y **Onguma Tamboti ×2** (§4 y §5).
-> ⚠️ **Pero de ninguna de las ocho consta el pago** *(03/10)*: hay anotada la reserva y no el
+> ⚠️ **Pero de ninguna de las ocho consta el pago** *(a 09/10)*: hay anotada la reserva y no el
 > depósito que la sostiene —el 20 % de NWR en 48 h, el 50 % de Barkhan en 7 días— ni el importe
 > del Urban Camp; **y del coche no consta si se pagó el total o solo el 25 %**. Cada hueco lleva
-> su casilla en §9: no se da por pagado lo que no está anotado.
+> su casilla en §9: no se da por pagado lo que no está anotado. **Y el pago íntegro de Sesriem
+> venció el 3/10** sin constar hecho: lo primero, que NWR confirme por escrito que sigue viva.
 > **Namutoni se anuló** y **Terrace Bay es la única que queda con fecha dura sin reservar**. Los contactos que el
 > dossier no tiene localizados se dicen en blanco: rellenar un teléfono plausible sería peor que
 > dejar el hueco. Los marcados ◐ salieron de la búsqueda del 09/08/2026 sin poder abrir la ficha
@@ -89,8 +91,8 @@ fuentes, y coinciden entre sí ◐:
 >   de un parque y todos caen en temporada baja. **Conviene llamar el día antes** para no conducir
 >   sin red, pero **no hace falta bloquearlos con antelación**.
 > - 🛟 **Y la de Twyfelfontein conviene dejarla suelta a propósito**: al quedarse Spreetshoogte en
->   una noche, **el viaje se quedó sin colchón de calendario**. La única noche sin reservar y sin
->   penalización es la del D8 — **es la que se sacrifica si el vuelo se retrasa** *(`aparte/decision-del-ccf`)*.
+>   una noche, **el viaje se quedó sin colchón de calendario**. La noche que se deja sin reservar a
+>   propósito, sin penalización, es la del D8 — **es la que se sacrifica si el vuelo se retrasa** *(`aparte/decision-del-ccf`)*.
 
 *Esto es práctica documentada, no garantía: si una noche concreta es irrenunciable, resérvala.*
 
@@ -119,9 +121,13 @@ fuentes, y coinciden entre sí ◐:
   otro a la vuelta. ⚠️ **Corregido el 28/08**: su web da **«Latest transfer: 16:00 (from the office
   to the airport)»** y **N$550 (~€28) por trayecto fuera de horario** — el 17:20 es la hora tope de
   las **llegadas** que van a recoger, no la del transfer de vuelta, y **el D15 la devolución está
-  puesta a las 18:00**: hay que pedir por escrito el transfer tardío (y las horas de sábado, que no
-  publican) o devolver a las 16:00. La llegada
-  (09:25) cae dentro; **la salida (20:45) cae fuera** — fuera de esa ventana el transfer es de
+  puesta a las 18:00**: hay que pedir por escrito el transfer tardío o devolver a las 16:00. **Y
+  ojo al sábado** *(corregido el 09/10)*: los dos días punta caen en sábado y su oficina abre los
+  sábados **08:30–12:00** ◐ *(abajo, «Contacto»; `16`)*, así que **la entrega del 31/10 —transfer
+  a las 11:00 y briefing en su oficina hasta ~13:00, `01` §D1— y la devolución del 14/11 a las
+  18:00 —seis horas después del cierre— son las dos fuera de horario**: las dos, con acuerdo por
+  escrito *(§9)*. Del horario del transfer, la
+  llegada (09:25) cae dentro; **la salida (20:45) cae fuera** — fuera de esa ventana el transfer es de
   pago, N$550 (~€27,50) el trayecto hasta 4 personas. La confirmación de reserva marca «Airport Transfer:
   yes» para la vuelta, así que Savanna parece asumirlo de todos modos ◐ — **confírmalo por
   escrito, es la pieza que más falta por cerrar**.
@@ -130,11 +136,12 @@ fuentes, y coinciden entre sí ◐:
   N$2.250/~€112,50) + N$40 (~€2) de contrato + N$300 (~€15) de limpieza**; sumando la Opción 4
   *(N$450/día ~€22,50 × 15 = N$6.750 ~€337,50)*, el satelital *(N$160/día ~€8 × 15 = N$2.400
   ~€120, más N$60 ~€3 por unidad usada)* y 2 sacos con almohada *(N$30/día ~€1,50 cada uno × 15 =
-  N$900 ~€45)* la cuenta ronda **N$44.140 (~€2.150–2.260 según cambio)** — **no llega a
-  cuadrar exactamente con los €2.363 cerrados** ❌: la diferencia puede ser el tipo de cambio real
-  de la tarjeta, cargos no listados en la tarifa genérica o el uso efectivo del satelital. No se
-  fuerza el cuadre: el precio que manda es el cerrado, €2.363.
-  ⚠️ **Lo que NO consta es cuánto de eso está pagado** ❌ *(03/10)*: la regla de Savanna es
+  N$900 ~€45)* la cuenta ronda **N$44.140** — y **cuadra con los €2.363 cerrados** ◐ *(corregido
+  el 09/10)*: aquí se convertía a 19,5–20,5 N$/€ *(~€2.150–2.260)* y se daba por descuadrado ❌,
+  pero **al cambio real de 2026, 18,5–19,4, son ~€2.275–2.386**, y **N$44.140 / €2.363 = 18,68
+  N$/€**, de lleno en esa banda. La diferencia era el euro de bolsillo, no un cargo oculto. El
+  precio que manda sigue siendo el cerrado, €2.363.
+  ⚠️ **Lo que NO consta es cuánto de eso está pagado** ❌ *(a 09/10)*: la regla de Savanna es
   **depósito del 25 % al confirmar y el resto 10 días antes** *(~21/10)* o el día de la recogida,
   y **este cuaderno no tiene anotado si se pagó el total o solo el 25 % (~€591)**. Hasta el 03/10
   aquí se decía «pagados»: era una suposición. Compruébalo en la confirmación — la casilla y la
@@ -142,7 +149,8 @@ fuentes, y coinciden entre sí ◐:
 - 🛑 **Seguro: Opción 4 — y NO es franquicia cero. Es la pregunta nº 1 de la entrega** ⚠️
   *(corregido el 28/08; hasta esa fecha este cuaderno decía «franquicia CERO ✅»)*. Cubre
   **lunas** *(«limited to ONLY side windows and/or windscreen»)*, **dos neumáticos — «NOT RIMS»**,
-  **sandblast**, **vuelco** y **bajos** ✅, y cuesta N$450/día (~€22,50) sobre la franquicia
+  **sandblast** y **bajos** ✅ —**el vuelco, no: está en disputa entre sus dos páginas**, justo
+  abajo—, y cuesta N$450/día (~€22,50) sobre la franquicia
   estándar de N$35.000 (~€1.750). **Pero sus dos páginas dicen cosas distintas:**
   - `rental-conditions` define la Opción 4 como *«Collision with a moving object only — animal,
     person or another vehicle»* y aun así lista *«Vehicle Overturning/Role over»* y
@@ -201,9 +209,13 @@ fuentes, y coinciden entre sí ◐:
   antes por transferencia** o en efectivo/tarjeta el día de recogida. Cancelación: **30 %** a
   60–90 días · **50 %** a 31–59 · **75 %** a 16–30 · **100 %** con 15 días o menos.
 - **Contacto**: oficina de Windhoek, 80 Trift Street, Snyman Circle — 📞 **+264 61 22 92 72** ·
-  gestora Zironika Van Zyl. Horario: L–V 07:30–12:45 y 14:00–16:30 · sáb 08:30–12:00 *(con acuerdo
-  previo para otra hora — la recogida a las 11:00 del sábado 31/10 entra en ese horario sin
-  problema)* · dom/festivos, con acuerdo previo.
+  gestora Zironika Van Zyl. Horario: L–V 07:30–12:45 y 14:00–16:30 · sáb 08:30–12:00 ◐ *(con
+  acuerdo previo para otra hora)* · dom/festivos, con acuerdo previo. ⚠️ **Los dos sábados del
+  viaje se salen de ese horario** *(corregido el 09/10 — aquí ponía que la recogida «entraba sin
+  problema»)*: las **11:00 del 31/10 son la recogida en el aeropuerto**, no la entrega, que en su
+  oficina va de ~11:00 a ~13:00 *(`01` §D1)* y pasa del cierre de las 12:00; y la **devolución
+  del 14/11 a las 18:00** cae seis horas después. **Las dos franjas, acordadas por escrito antes
+  de volar** *(§9)*.
 
 ---
 
@@ -231,7 +243,7 @@ fuentes, y coinciden entre sí ◐:
   Chavetas**. Con esto se cierra de golpe **lo que era el frente más urgente del cuaderno**: la
   póliza cotizada arrancaba el 31 y el vuelo sale el 30, así que ese día de vuelo iba descubierto.
 - ⚠️ **Lo que NO se sabe todavía: el importe real pagado** ❌. La cotización de referencia era
-  **€226,04 (~N$4.520) la pareja / €113,02 (~N$2.260) por persona** para 31/10–15/11 ✅, y sobre
+  **~N$4.520 (€226,04) la pareja / ~N$2.260 (€113,02) por persona** para 31/10–15/11 ✅, y sobre
   ella actúan **dos cosas en sentidos contrarios y ninguna medida**: el **día extra** del 30/10
   *(❌ nunca cotizado)* lo sube, y el **descuento de afiliado de Chavetas** *(❌ porcentaje sin
   verificar)* lo baja. **`02` sigue presupuestando con los €113,02 sin descontar** hasta que
@@ -270,11 +282,17 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
   ⚠️ **Sin esta reserva confirmada no se cruza Ugabmund a pernoctar** —última entrada **15:00**— y
   el permiso de tránsito obliga a salir del parque el mismo día: **llevadla impresa** *(`11`)*.
   ⚠️ **También bajó un día** *(era el 7)*.
-  ⚠️ **Pagar todo y perder todo no son lo mismo** *(aclarado el 03/10; abajo, la escala)*:
-  reservando **antes del 7/10** se paga el 20 % en 48 h *(~N$696 · ~€35)* y el resto hacia el
-  7/10; reservando **del 7/10 en adelante** —a menos de 30 días— NWR pide el **100 % de golpe**
-  *(N$3.480 · ~€174)*. Pero lo que se **pierde** si luego hay que anular sigue siendo su escala:
-  **30 % hasta el ~22/10** *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10 y 100 % desde el 31/10.
+  ⚠️ **A 09/10 sigue sin reservar, y ya estamos dentro de los 30 días** *(el ~7/10 pasó)*: NWR
+  pide el **100 % al reservar** *(N$3.480 · ~€174)*, no el 20 %. **Pagar todo y perder todo no son
+  lo mismo** *(aclarado el 03/10; abajo, la escala)*: lo que se **pierde** si luego hay que anular
+  sigue siendo su escala — **30 % hasta el ~22/10** *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10 y
+  100 % desde el 31/10. Cuanto más se espera, más caro sale echarse atrás.
+  🛟 **Y el plan B, anotado ANTES de llamar a NWR** *(de [los desvíos](aparte/desvios-que-valen-la-pena.md))*:
+  si no hay sitio, la noche del 6 nov se va a **Spitzkoppe** — camping comunitario, **~N$640
+  (~€32) los dos** *(N$320 · ~€16 pp en noviembre ◐; el rack ✅ de N$300 · ~€15 caduca el 31/10)*,
+  más de 50 parcelas, reserva por 📧 **reservations@logufa.com** ✅. La línea interior
+  Walvis → Spitzkoppe → Twyfelfontein es **~200 km más corta** que la de la costa y quita la hora
+  límite de Ugabmund; a cambio se pierden Cape Cross, la noche dentro del parque y el Uniab.
 - **Okaukuejo — lun 9 (D10)** · **Halali — mar 10 (D11)** — camping
   **N$920 (~€46)/noche los dos** ✅ — **las dos RESERVADAS el 21/08**, y **sus fechas no se
   movieron**.
@@ -299,11 +317,15 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   el euro de bolsillo de estas páginas, que se queda ~7 % corto. **Por tanto el «segundo 50 %
 >   hacia el 12/10» probablemente no existe.**
 >   ❌ **Confirmar con el recibo de Onguma que los €132 son el total y que no queda segundo pago.**
-> - 🆕 ⏰ **Y una pregunta que sí conviene hacer: ¿hasta qué hora abre recepción?** ❌ El D12 se llega
->   **después de cerrar Von Lindequist (19:10)**, o sea hacia las **19:15–19:30**, y su tarifa dice
->   que **la cena y las actividades se reservan al llegar, en recepción** ✅. Si a esa hora está
->   cerrada, se pierden las dos la primera noche. *(Con dos noches el daño es menor: lo que no se
->   cierre el D12 se cierra el D13.)*
+> - 🆕 ⏰ **Y una pregunta que sí conviene hacer: ¿hasta qué hora abre recepción?** ❌ Hasta el
+>   03/10 aquí se llegaba el D12 **después de cerrar Von Lindequist (19:10)**, hacia las 19:15–19:30.
+>   **Ya no** *(corregido el 09/10)*: con el **Sundowner Drive** decidido, el `01` §D12 cruza la
+>   puerta **hacia las ~16:30** ○ para estar montados antes de que salga «al atardecer». La pregunta
+>   cambia de forma pero sigue: su tarifa dice que **la cena y las actividades se reservan al
+>   llegar, en recepción** ✅, así que conviene saber **si recepción está abierta a esa hora y a qué
+>   hora exacta sale el sundowner** ❌ —y si el D12 se llega tarde por lo que sea, si a las ~19:15
+>   sigue habiendo alguien—. *(Con dos noches el daño es menor: lo que no se cierre el D12 se cierra
+>   el D13.)*
 > - ✅ **Y desde el 26/08 esto deja de tener consecuencias.** El desvío al Cheetah Conservation Fund
 >   **queda descartado** —el D13 es el mejor día de guepardo salvaje del viaje y bajar al CCF se lo
 >   comía entero: [el plan del guepardo](aparte/plan-del-guepardo.md)—, así que **las dos noches de
@@ -330,7 +352,7 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   siguientes a hacer la reserva** ✅ *(cliente individual; a los turoperadores les dan 30 días,
 >   de ahí que circulen otras cifras)*. **Reservar el viernes por la tarde y despistarse el fin de
 >   semana es perder la reserva.** ⚠️ **Y de los 20 % de Sesriem, Okaukuejo y Halali no consta el
->   pago** ❌ *(03/10)*: si no se pagaron en sus 48 h, NWR puede haber soltado las parcelas sin
+>   pago** ❌ *(a 09/10)*: si no se pagaron en sus 48 h, NWR puede haber soltado las parcelas sin
 >   avisar. **Antes de dar esas cuatro noches por hechas, que NWR confirme por escrito que siguen
 >   vivas y qué queda por pagar** *(§9)*.
 > - **Pago íntegro, a más tardar 30 días antes de la llegada** ✅. Para **Sesriem, que se llega el
@@ -338,15 +360,15 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   octubre**. Lo no pagado **se cancela**.
 > - **Escala de cancelación** ✅: **más de 30 días, sin penalización** *(pero el depósito se pierde
 >   igual)* · **29–15 días, 30 %** · **14–7 días, 75 %** · **6–0 días y no-show, 100 %**.
-> - 👉 **Lo que esto significa a 3 de octubre** *(el calendario entero, en §9)*: **Sesriem ya
->   está reservado** y **su pago íntegro vence HOY, 3/10** — y **ni el 20 % ni el íntegro constan
->   pagados** ❌. La misma regla pone **Okaukuejo hacia el 10 y Halali
->   hacia el 11 de octubre** ○ *(aplicación de la regla; si NWR las lleva como una sola reserva, las
->   dos hacia el 10)*, tampoco anotados. Y **Terrace Bay**: reservando antes del 7/10, el **20 %
->   (~N$696 · ~€35) en 48 h**; **desde el 7/10 se PAGA el 100 % de golpe** *(N$3.480 · ~€174)*,
->   pero **lo que se PIERDE al anular es la escala de arriba** —30 % hasta el ~22/10, 75 % hasta el
->   ~30/10, 100 % después—. *(Hasta el 03/10 aquí se decía «se arriesga el 100 %», que mezclaba las
->   dos cosas.)*
+> - 👉 **Lo que esto significa a 9 de octubre** *(el calendario entero, en §9)*: **Sesriem está
+>   reservado y su pago íntegro venció el 3/10 — no consta pagado** ❌, ni el 20 % ni el íntegro,
+>   y lo no pagado NWR lo cancela: **confirmar con NWR por escrito que la reserva sigue viva**. La
+>   misma regla pone **Okaukuejo hacia el 10 —mañana— y Halali hacia el 11 de octubre** ○
+>   *(aplicación de la regla; si NWR las lleva como una sola reserva, las dos hacia el 10)*,
+>   tampoco anotados. Y **Terrace Bay**, sin reservar: **desde el ~7/10 se PAGA el 100 % de golpe**
+>   *(N$3.480 · ~€174)*, pero **lo que se PIERDE al anular es la escala de arriba** —30 % hasta el
+>   ~22/10, 75 % hasta el ~30/10, 100 % después—. *(Hasta el 03/10 aquí se decía «se arriesga el
+>   100 %», que mezclaba las dos cosas.)*
 > - ✅ **Y ya no hay ninguna decisión de ruta con fecha límite por este lado.** Cuando el
 >   [`aparte/decision-del-ccf`](aparte/decision-del-ccf.md) proponía otra ruta entera, decidirlo
 >   tarde costaba dinero porque movía las fechas de Sesriem y Terrace Bay; desde el **24/08** esas
@@ -442,10 +464,15 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
     confirmada con el **50 %**. Cancelación: **30–22 días 20 % · 21–15 días 50 % · 14–8 días
     75 % · 7–0 días y no-show, 100 %**. Allí no consta tienda, restaurante ni datáfono ❌: se paga
     en efectivo *(`01` §D2)*.
-  - ⚠️ **Lo que no consta es ese 50 %** ❌ *(03/10)*: la reserva se hizo el 24/08 y la provisional
+  - ⚠️ **Lo que no consta es ese 50 %** ❌ *(a 09/10)*: la reserva se hizo el 24/08 y la provisional
     se guarda **7 días**, así que **si el 50 % (N$290 · ~€14,50) no se pagó, caducó hacia el
     31/08** y la parcela puede estar suelta sin que nadie haya avisado. **Pedir por escrito a
     bookings@barkhan.africa que la reserva está confirmada y qué queda por pagar al llegar** *(§9)*.
+    Y si está viva, **desde el ~11/10 anularla ya cuesta el 50 %**.
+  - ⚠️ **Y cuándo se paga el resto no está claro** ❌ *(09/10)*: su rack dice **«pago íntegro ANTES
+    de llegar»** ✅, y el `01` §D2 lleva el efectivo para pagar la parcela allí, porque no consta
+    datáfono. **Las dos cosas no casan**: en el mismo correo, preguntar si vale **en efectivo al
+    llegar el D2 (1/11)** o hay que **transferir antes del 30/10** — y hacer lo que digan.
 - **Windhoek — sáb 31 oct (D1), RESERVADO ✅ en el Urban Camp · y vie 13 nov (D14), por cerrar**
   *(`01` §D1)*: **Urban Camp** *(Schanzen Road; piscina, bar, wifi, cajero)* — 📧 booking@urbancamp.net ·
   WhatsApp **+264 81 162 0761** · reserva por
@@ -455,7 +482,7 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
   agregador, ~N$660–700 (~€33–35) la noche los dos ○. **La del D1 ya está reservada ahí; falta
   pedirles el importe por escrito** ❌ y **cerrar la del D14**, que lo natural es repetir en el
   mismo sitio. ⚠️ **De la reserva por NightsBridge no consta ni el importe, ni si cobró depósito,
-  ni las condiciones de cancelación** ❌ *(03/10)*: las tres cosas, por escrito, en el mismo
+  ni las condiciones de cancelación** ❌ *(a 09/10)*: las tres cosas, por escrito, en el mismo
   correo *(§9)*. Alternativa: **Arebbusch** — 📞 +264 81 950 5000 ·
   [arebbusch.com](https://www.arebbusch.com/windhoek-accommodation/rates-and-availability/) ◐. Al
   llegar el D14, pregunta el **check-out del D15 y si se puede volver por la tarde** ❌.
@@ -468,9 +495,15 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
   con el fragmento de N$600 · ~€30 ○ que ya había; para la ventana del viaje sigue **sin tarifa
   confirmada** ❌. *Plan B: Swakopmund, a 30 km, tiene más oferta de camping ○.*
 - 🆕 **Twyfelfontein — sáb 7 nov (D8), la noche NUEVA** — nace de dejar Spreetshoogte en una noche
-  *(`aparte/decision-del-ccf`)*. **Sin tarifa ❌ y los candidatos identificados son lodges, no campings**: **Twyfelfontein
-  Country Lodge** *(un agregador da «desde ~$223 pp DBB» para may–oct 2026 ◐, sin cifra de
-  noviembre — `15`)* y la zona de **Palmwag**, 50 km al norte, que además es base de rastreos.
+  *(`aparte/decision-del-ccf`)*. **Sin tarifa cerrada ❌, pero hay camping** *(corregido el 09/10:
+  aquí ponía que los candidatos eran lodges)*: el 18/09 aparecieron **cuatro campings a ~6 km de
+  los grabados**, sobre el lecho del Aba-Huab —**Aba-Huab Camp, Madisa Camp, Mowani Campsite y
+  Twyfelfontein Adventure Camp**—, del orden de **N$160–500 (~€8–25) la noche los dos** ◐/○
+  *(cifras de ~2024; Aba-Huab es comunitario y no exige reserva en temporada hombro — `15`)*. Los
+  lodges quedan como capricho: **Twyfelfontein Country Lodge** *(un agregador da «desde ~$223 pp
+  DBB» para may–oct 2026 ◐, sin cifra de noviembre — `15`)* y la zona de **Palmwag**, **~107 km
+  por carretera** al norte *(OSRM: los 159 del D9 menos los 52 de Palmwag a Hoada; aquí ponía
+  50)*, que además es base de rastreos.
   - 🛟 **Es la única noche del viaje que conviene NO reservar**: fuera de parque, temporada hombro,
     y **es el colchón que quedó** cuando la escarpa perdió su segunda noche — la que se sacrifica
     sin penalización si el vuelo se retrasa. **Pide precios igualmente**, para que el presupuesto no
@@ -480,13 +513,13 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
     pp, mínimo 2**, tarifa 2026/27 de Gondwana— pero **sale entre las 06:00 y las 06:30**, así que
     **no cabe llegando desde Twyfelfontein**: o se duerme esta noche **en Palmwag** en vez de en
     Twyfelfontein *(y entonces cabe, y son N$7.950 · ~€398 la pareja)*, o se cambia por lo que sí
-    sale a las ~07:00 —**nature drive de 3 h, N$980–1.355 pp**… el suyo es **N$1.355 (~€68) pp** ✅— o
+    sale a las ~07:00 —**nature drive de 3 h, N$980–1.355 (~€49–68) pp**… el suyo es **N$1.355 (~€68) pp** ✅— o
     se renuncia. 📞 **Gondwana: +264 61 427 200 · 📧 info@gcnam.com**.
     ⚠️ **Del de Grootberg falta la HORA, no solo el precio** *(res4@journeysnamibia.com ·
     +264 61 228 104)*: el de día entero sale a primera hora desde el lodge y no cabe sin conducir
     grava de noche *(`11`)*.
 - **Hoada Campsite — dom 8 nov (D9)** — campamento **comunitario** *(la caja se queda en la
-  conservancy ◐ — `19`)*, el que el blog llama el más bonito de su viaje. **N$271–366/persona según
+  conservancy ◐ — `19`)*, el que el blog llama el más bonito de su viaje. **N$271–366 (~€13,50–18)/persona según
   temporada → N$542–732 (~€27–37) los dos** ◐ *(la temporada de noviembre sin fijar — `02` §3)*.
   **Reservas: Journeys Namibia** *(la gestora, con Grootberg Lodge)* ◐: 📧 res4@journeysnamibia.com ·
   📞 +264 61 228 104 *([grootberg.com/contact](http://www.grootberg.com/contact) ·
@@ -503,7 +536,7 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
   parece oficial y **no lo es**; y un aviso de certificado en el portal real es mala configuración
   suya: **verifica el dominio y sigue** *(`04`)*.
 - **La cita del Centro de Vacunación Internacional — la ventana se cerró el 26/09, la llamada iba
-  el 30/09 y a 03/10 no consta hecha ni con resultado** ❌: Sanidad Exterior A Coruña, **Durán
+  el 30/09 y a 09/10 no consta hecha ni con resultado** ❌: Sanidad Exterior A Coruña, **Durán
   Lóriga 3, 5ª planta · 981 989 570 / 71 · 09:00–14:00** ✅. Para salir el 30/10, atendidos hacia
   el **19–26 de septiembre** — *la cita es el recurso escaso, no la vacuna*. **Lo que toca ahora**:
   llamar hoy y coger la primera cita que den, **y saber que la cadena manda**: la mefloquina se
@@ -515,7 +548,7 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
 - **El permiso internacional de conducir (DGT)** — cita previa en cualquier Jefatura o
   [sede electrónica](https://sede.dgt.gob.es/es/permisos-de-conducir/permiso-internacional/) ◐:
   **€10,51 (~N$210)**, uno por conductor, vale 1 año, siempre junto al carnet *(`04`)*. Iba a
-  pedirse por la sede el **30/09** y **a 03/10 no consta pedido** ❌. ⚠️ **Y «uno por conductor»
+  pedirse por la sede el **30/09** y **a 09/10 no consta pedido** ❌. ⚠️ **Y «uno por conductor»
   esconde una decisión que va ANTES de pedirlos, no en el mostrador de Savanna**: si **Miguel va de
   conductor adicional** *(N$30/día · ~€1,50, ~N$450 · ~€22,50 el viaje — §9)* hacen falta **dos**
   permisos; si no, uno. Decidirlo ahora y pedir los que toquen.
@@ -545,7 +578,9 @@ Viator, cruzadas entre operadores — confírmalas por email antes de reservar.*
   contrato de referencia — el tour es la forma correcta, `06`)* — **N$2.600–3.220
   (~€130–161)/persona**: [Desert Compass](https://www.sandwichharbour-namibia.com) *(N$2.600;
   +N$300 · ~€15 recogida en Swakopmund)* · [Red Dune Safaris](https://www.reddunesafarisnamibia.com/sandwich-harbour-4x4)
-  *(N$3.220 · ~€161)*.
+  *(N$3.220 · ~€161)*. ❌ **Si la tasa de parque del Namib-Naukluft va dentro no lo dice ninguna
+  ficha** *(del combo sí consta que no)*: si no va, son **~N$560 (~€28) la pareja** más
+  *(N$280 · ~€14 pp)* — pregúntalo al reservar *(`02` §10)*.
 - ⚠️ **La marea manda, y el día bajó al 5-nov**: esa fecha la bajamar es a las **06:37** —41 min
   antes que en la fecha anterior— así que **la salida de ~08:30 sigue siendo la que baja por la
   playa**; la de ~12:30 cae casi en pleamar *(que es a las 12:42)* ◐
@@ -594,8 +629,8 @@ Para no gastar llamadas en lo que se cierra allí:
   decididos y en el presupuesto** *(26/08, `02` §9)*.
 - **La lanzadera de Deadvlei** *(N$180 · ~€9/persona ✅ en la web de NWR; About Africa, que la opera, cobra N$200 · ~€10 ◐)*: en Sesriem, y solo si no apetece la arena o vuelve la prohibición del 1/05/2026 *(`01` D4)*.
 - **Las tasas de parque** *(~N$620 · ~€31 al día, pareja + coche ◐)*: en cada puerta, por cada 24 h.
-- **Cape Cross** *(~N$620 · ~€31 los dos ◐ — tramo premium desde abril de 2026; el N$350 que
-  circulaba era la tabla de 2021)*: **en efectivo** en recepción — y vuestro día, el 6
+- **Cape Cross** *(~N$620 · ~€31 los dos ◐ — tramo premium desde abril de 2026; el N$350 (~€17,50)
+  que circulaba era la tabla de 2021)*: **en efectivo** en recepción — y vuestro día, el 6
   nov, **abre a las 10:00**, no a las 08:00 *(la raya está en el 16 de noviembre, así que adelantar
   el día no cambia nada — `01` §D7)*.
 - **Twyfelfontein** *(N$270 · ~€13,5/persona ◐)*: visita guiada obligatoria, **solo efectivo**, se
@@ -616,12 +651,12 @@ Para no gastar llamadas en lo que se cierra allí:
   ¿cuánto pago?** Sus dos páginas se contradicen y la diferencia es **N$165.000 (~€8.900)** *(§1)*
 - [ ] **Y en la misma hoja**: zona sunrise/sunset como zona cubierta de la Opción 4,
   teléfono de emergencias 24h, con cuánto tanque lo entregan, y que Miguel figure como conductor
-  adicional *(**N$30/día · ~€1,50**, publicado en su web — ~N$450 el viaje; ya no es una incógnita)*
+  adicional *(**N$30/día · ~€1,50**, publicado en su web — ~N$450 · ~€23 el viaje; ya no es una incógnita)*
 - [ ] 🛑 **Cita del CVI pedida** *(§6 — la ventana 19–26/09 se cerró el 26/09 y **la llamada del 30/09
       no consta hecha** ❌)*: llamar ya. **Sin cita antes del ~16/10, la mefloquina queda fuera y solo
       queda Malarone, comprada antes de volar** *(`04` §malaria)*
 - [ ] 🛂 **Pasaportes comprobados** — válidos hasta el **15/05/2027** como mínimo y **3 páginas en
-      blanco de verdad** ❌ *(tocaba en julio y a 03/10 no consta hecho; va ANTES del e-visa — `04`
+      blanco de verdad** ❌ *(tocaba en julio y a 09/10 no consta hecho; va ANTES del e-visa — `04`
       §Pasaporte; si alguno falla, la cita de renovación es el cuello)*
 - [ ] ✈️ **Que los nombres del billete calquen los pasaportes** — **ANTES de pedir el e-visa** ❌
       *(§2: maleta y billete único constan comprobados; los nombres, no)*
@@ -631,22 +666,32 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] 📧 **De Savanna, POR ESCRITO y antes de volar — no en el mostrador**: la devolución del **sábado
       14/11 a las 18:00** con el **transfer tardío al aeropuerto** *(su tope publicado es 16:00)* y
       **qué cubre exactamente la Opción 4 en un vuelco sin terceros** ❌ *(§1)*
+- [ ] 🕐 **Y de Savanna, también por escrito: las DOS franjas de sábado fuera de horario** ❌ — su
+      oficina abre los sábados **08:30–12:00** ◐: la **entrega del 31/10** *(transfer a las 11:00,
+      briefing en la oficina hasta ~13:00 — `01` §D1)* y la **devolución del 14/11 a las 18:00**.
+      Que digan que las atienden y **si cobran los N$550 (~€28) del transfer fuera de horario** —
+      hoy fuera del presupuesto *(`02` §10)* *(§1)*
 - [x] **Seguro contratado desde el 30/10** — IATI **Estrella**, con el código de Chavetas, 24/08 *(§3)*
 - [ ] **Del seguro, recuperar el importe real pagado** ❌ — hoy `02` va con la cotización *(§3)*
 - [ ] **Comprobar en la póliza** que lleva **evacuación aérea dentro del país** y **búsqueda y
       salvamento** *(en el Estrella es OPCIONAL: no entra sola)*; si no están, pedirlas *(§3)* —
-      **tocaba el 30/09 *(`04`)* y no consta: leerla esta semana, antes del ~10/10**
+      **tocaba el 30/09 *(`04`)* y a 09/10 no consta: leerla antes del ~10/10, que es mañana**
 - [x] **Billete emitido** — 10/08, €1.536 pp, con maleta, billete único *(§2)*
 - [x] **Sesriem ×2 — RESERVADO** *(2–3 nov, dentro de la puerta)* *(§4)*
 - [ ] 💳 **El 20 % de las dos noches de Sesriem** *(~N$536 · ~€27, en 48 h)* **y su pago íntegro**
-      *(N$2.680 · ~€134, vencía el 3/10)* — **no consta ninguno pagado** ❌: que NWR confirme por
-      escrito que la reserva sigue viva *(§4)*
+      *(N$2.680 · ~€134)* — **el íntegro venció el 3/10 y no consta pagado, ni el 20 %** ❌; NWR
+      cancela lo no pagado: **confirmar con NWR por escrito que la reserva sigue viva** y, si lo
+      está, pagar lo que digan *(§4)*
 - [ ] 🔴 **Terrace Bay** *(6 nov — confirmación impresa)* — **la única que queda con fecha dura**;
-      **desde el ~7/10 se paga el 100 % de golpe, pero anular hasta el ~22/10 cuesta el 30 %** *(§4)*
+      **desde el ~7/10 se paga el 100 % al reservar** *(N$3.480 · ~€174)*, **pero anular hasta el
+      ~22/10 cuesta el 30 %** *(~N$1.044 · ~€52)* *(§4)*. 🛟 **Plan B si NWR no tiene sitio**:
+      **Spitzkoppe**, ~N$640 (~€32) los dos ◐ — 📧 reservations@logufa.com ✅
+      *([los desvíos](aparte/desvios-que-valen-la-pena.md))*
 - [x] **Las 4 noches de Etosha — RESERVADAS** *(§4)*: Okaukuejo *(9–10)* · Halali
       *(10–11)* · **Onguma Tamboti ×2** *(11–13, ya fuera de la puerta)*. **Namutoni, anulado**
 - [ ] 💳 **El 20 % de Okaukuejo y el de Halali** *(~N$184 · ~€9 cada uno, en 48 h)* **y sus pagos
-      íntegros** *(N$920 · ~€46 cada uno, ~10/10 y ~11/10)* — **no consta ninguno pagado** ❌ *(§4)*
+      íntegros** *(N$920 · ~€46 cada uno, ~10/10 y ~11/10 — mañana y pasado)* — **no consta
+      ninguno pagado** ❌ *(§4)*
 - [x] **Condiciones de cancelación de Onguma — leídas en su rack 2027** ✅ *(25/08: cancelar cuesta
       el 100 %, posponer por escrito no; y con el CCF descartado el 26/08 no hay nada que cancelar
       — §4)*
@@ -667,19 +712,25 @@ Para no gastar llamadas en lo que se cierra allí:
       noche del D14 a por el leopardo, en vez de Windhoek *([el plan de felinos](aparte/plan-felinos.md))*.
       *(Otjitotongwe y el CCF, fuera desde el 27/08: solo animales en libertad.)*
 - [x] **Spreetshoogte — RESERVADO** *(1 nov, UNA noche)*: lo opera **Barkhan Dune Retreat** en la
-      D1275 y la tarifa está cerrada ✅ — **N$290 pp/noche → N$580 (~€29) los dos** *(§5)*
+      D1275 y la tarifa está cerrada ✅ — **N$290 (~€14,50) pp/noche → N$580 (~€29) los dos** *(§5)*
 - [ ] 💳 **El 50 % de Barkhan que confirma la provisional del D2** *(N$290 · ~€14,50)* — **no consta
       pagado** ❌; la provisional dura 7 días, así que **si no se pagó caducó hacia el 31/08**: pedir
-      por escrito que la reserva está confirmada *(§5)*
+      por escrito que la reserva está confirmada *(§5)*. **Y el resto, N$290 (~€14,50), sin fecha
+      clara** ❌: el rack dice «íntegro antes de llegar» y el `01` §D2 lleva efectivo para pagarlo
+      allí — **preguntar si vale en efectivo al llegar el 1/11 o hay que transferir antes del
+      30/10**. Anular, desde el ~11/10, cuesta el 50 %
 - [x] **Windhoek D1 — RESERVADO** *(Urban Camp)* — falta pedirles el importe por escrito ❌ *(§5)*
 - [ ] 💳 **Del Urban Camp del D1, por NightsBridge: importe, depósito cobrado y condiciones de
       cancelación — no consta ninguno** ❌ *(§5)*
 - [ ] **Windhoek D14** *(repetir Urban Camp)* *(§5)*
 - [ ] **Walvis Bay ×2** *(4–5 nov, Lagoon Chalets)* *(§5)*
 - [ ] **Twyfelfontein** *(7 nov)* — **a propósito sin reservar: es el colchón del calendario**; pide
-      precio igualmente, y de paso el **rastreo de Grootberg/Palmwag** ❌ *(§5)*
+      precio igualmente a uno de los campings del Aba-Huab *(Aba-Huab, Madisa, Mowani, Adventure
+      Camp)*, y de paso el **rastreo de Grootberg/Palmwag** ❌ *(§5)*
 - [ ] **Hoada** *(8 nov)* *(§5)*
-- [ ] **e-visa** *(tras el billete — solo `eservices.mhaiss.gov.na`)* *(§6)* — antes, pasaportes y
+- [ ] **e-visa** *(tras el billete — solo `eservices.mhaiss.gov.na`)* *(§6)* — **iba la primera
+      semana de octubre, que ya pasó, y a 09/10 no consta pedido** ❌: con 7–10 días hábiles de
+      trámite ◐, pedido hoy llega hacia el **~23/10**; antes, pasaportes y
       nombres del billete *(arriba)*; y **comprobar en el portal al solicitar** qué pide el formulario
       además del billete de vuelta *(¿reservas? ❌ — el `04` lo daba por hecho y el `20` no)* y la
       validez *(¿90 días? ❌ — `04`)*
@@ -692,54 +743,61 @@ Para no gastar llamadas en lo que se cierra allí:
       *(Desert Compass N$2.600 · ~€130 pp · Red Dune N$3.220 · ~€161 pp)* y **reservar con fecha** —
       **fuera del presupuesto** *(§7, `02` §9)*. El crucero de delfines sí sigue opcional
 
-### 📅 Calendario de pagos y plazos de octubre *(hecho el 25/09/2026; repasado el 03/10)*
+### 📅 Calendario de pagos y plazos de octubre *(hecho el 25/09/2026; repasado el 03/10 y el 09/10)*
 
 Las fechas salen de **las reglas que este cuaderno ya tiene escritas**, aplicadas a las fechas del
 viaje: las marcadas **○** son **aplicación de la regla**, no una fecha que haya dicho el proveedor
 —confírmalas con él—. Ninguna dice que algo esté o no pagado: **lo que no consta pagado se da por
 pendiente**, y si ya lo está, se tacha y listo. Los importes, solo donde el cuaderno los tiene.
+**Puesto al 09/10, por orden de fecha**: lo vencido primero, dicho como vencido.
 
 - ~~**~01/10 ○ · el coche: la cancelación sube al 75 %**~~ — **ya pasó** *(03/10)*: desde el 1/10
   anular el coche cuesta el 75 %, a 16–30 días de la recogida del 31/10 *(§1)*. No era un pago ni
   una tarea: es un hecho consumado.
 - ~~**~02/10 ○ · la noche del D2: la cancelación empieza a costar**~~ — **ya pasó** *(03/10)*:
   Barkhan cobra el 20 % a 30–22 días de la llegada del 1/11, el 50 % desde ~11/10, el 75 % desde
-  ~18/10 y el 100 % desde ~25/10 *(§5)*. Pago íntegro **antes de llegar**: N$580 (~€29) la parcela
-  estándar — **y el 50 % que confirmaba la provisional no consta pagado** ❌ *(abajo)*.
-- [ ] **HOY, 3/10 ○ · NWR, pago íntegro de las dos noches de Sesriem** *(N$2.680 · ~€134)* — 30 días
-      antes de la llegada del 2/11; **lo no pagado se cancela** *(§4)*. **Ni el 20 % ni el íntegro
-      constan pagados** ❌: hoy, llamar o escribir a NWR y que confirmen que la reserva sigue viva.
-- [ ] **Esta semana · CVI** — la llamada del 30/09 **no consta hecha** ❌: llamar y coger la primera
-      cita. **Sin cita antes del ~16/10, la mefloquina queda fuera → Malarone, comprada antes del
-      30/10** *(§6, `04` §malaria)*.
-- [ ] **Esta semana · el permiso de la DGT** — la petición del 30/09 **no consta** ❌; **antes,
-      decidir si Miguel conduce** *(uno o dos permisos — §6)*.
-- [ ] **Esta semana · Barkhan, por escrito** — confirmar que la reserva del D2 está confirmada: el
-      50 % no consta pagado y la provisional caducaba hacia el **31/08** *(§5)*.
-- [ ] **Esta semana, antes del ~10/10 · leer la póliza de IATI** — evacuación aérea dentro del país y
-      búsqueda y salvamento; tocaba el 30/09 *(`04`)* y no consta *(§3)*.
-- [ ] **Antes de pedir el e-visa · pasaportes y nombres** — válidos hasta el 15/05/2027 con 3 páginas
-      en blanco, y que los nombres del billete calquen el pasaporte ❌ *(§2, `04`)*.
-- [ ] **Primera semana de octubre · el e-visa** — N$1.600 (~€80) por persona, solo en
-      `eservices.mhaiss.gov.na` *(§6 y `04`)*. Con 7–10 días hábiles de trámite ◐ deja ~3 semanas
-      de margen: llega, pero sin holgura para un rechazo y una corrección *(`04`)*. **Al solicitar,
-      comprobar en el portal** qué pide además del billete de vuelta *(¿reservas? ❌)* y cuánto dura
-      *(¿90 días? ❌)*.
-- [ ] **~07/10 ○ · NWR, la noche del 6 nov en la Costa de los Esqueletos** — todavía **sin
-      reservar**: N$3.480 (~€174) en media pensión. **Antes del 7/10**: el 20 % —~N$696 (~€35)— en
-      **48 horas** y el resto hacia el 7/10. **Del 7/10 en adelante se PAGA el 100 % de golpe**
-      *(regla de los 30 días)*, pero **lo que se PIERDE al anular es su escala**: 30 % hasta el ~22/10
-      *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10, 100 % después *(§4)*. Pagar todo no es perder todo.
+  ~18/10 y el 100 % desde ~25/10 *(§5)*. Pago íntegro **antes de llegar** según su rack: N$580
+  (~€29) la parcela estándar — **y el 50 % que confirmaba la provisional no consta pagado** ❌
+  *(abajo)*.
+- [ ] **VENCIÓ el 3/10 ○ · NWR, pago íntegro de las dos noches de Sesriem** *(N$2.680 · ~€134)* —
+      30 días antes de la llegada del 2/11; **lo no pagado se cancela** *(§4)*. **A 09/10 no consta
+      pagado, ni el 20 %** ❌: **confirmar con NWR por escrito que la reserva sigue viva** y pagar lo
+      que pidan.
+- [ ] **PASÓ el ~07/10 ○ · NWR, la noche del 6 nov en la Costa de los Esqueletos** — **sigue sin
+      reservar** a 09/10: N$3.480 (~€174) en media pensión. **Desde el 7/10 se PAGA el 100 % al
+      reservar** *(regla de los 30 días)*, pero **lo que se PIERDE al anular es su escala**: 30 %
+      hasta el ~22/10 *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10, 100 % después *(§4)*. Pagar todo no
+      es perder todo — y cada semana que pasa sube lo que cuesta echarse atrás. **Plan B: Spitzkoppe,
+      ~N$640 (~€32), reservations@logufa.com** *(§4)*.
+- [ ] **PASÓ la primera semana de octubre · el e-visa** — N$1.600 (~€80) por persona, solo en
+      `eservices.mhaiss.gov.na` *(§6 y `04`)*. **A 09/10 no consta pedido** ❌: con 7–10 días hábiles
+      de trámite ◐, **pedido hoy llega hacia el ~23/10** — con margen para imprimirlo el 24/10, pero
+      sin holgura para un rechazo y una corrección *(`04`)*. **Antes, pasaportes y nombres**
+      *(válidos hasta el 15/05/2027 con 3 páginas en blanco, y los nombres del billete idénticos al
+      pasaporte ❌ — §2, `04`)*. **Al solicitar, comprobar en el portal** qué pide además del billete
+      de vuelta *(¿reservas? ❌)* y cuánto dura *(¿90 días? ❌)*.
+- [ ] **Ya · el permiso de la DGT** — la petición del 30/09 **no consta** ❌; **antes, decidir si
+      Miguel conduce** *(uno o dos permisos — §6)*.
+- [ ] **Ya · Barkhan, por escrito** — confirmar que la reserva del D2 está confirmada: el 50 % no
+      consta pagado y la provisional caducaba hacia el **31/08** *(§5)*; y **cuándo y cómo se paga
+      el resto** —efectivo al llegar o transferencia antes del 30/10— ❌.
+- [ ] **~10/10 ○ · leer la póliza de IATI** — evacuación aérea dentro del país y búsqueda y
+      salvamento; tocaba el 30/09 *(`04`)* y a 09/10 no consta *(§3)*.
 - [ ] **~10/10 ○ · NWR, pago íntegro de Okaukuejo** *(N$920 · ~€46)*, si no está pagado ya ❌ —
       30 días antes de la llegada del 9/11 *(§4)*.
 - [ ] **~11/10 ○ · NWR, pago íntegro de Halali** *(N$920 · ~€46)*, si no está pagado ya ❌ — 30
       días antes del 10/11; si NWR lleva las dos noches como una sola reserva, **las dos hacia el
       10/10** *(§4)*.
+- [ ] **~11/10 ○ · Barkhan: anular pasa a costar el 50 %** — no es un pago: es la fecha a partir de
+      la cual echarse atrás de la noche del D2 duele la mitad *(§5)*.
 - [ ] **~12/10 ○ · Onguma — COMPROBAR, no pagar** — hasta el 03/10 aquí constaba «el segundo 50 %»
       *(su rack pide el otro 50 % 30 días antes de la llegada del 11/11)*. Pero **N$2.480 (~€124) de
       rack / €132 recibidos = 18,79 N$/€, el cambio real**, así que **los €132 son con toda
-      probabilidad las dos noches enteras** ◐ y **no hay segundo pago**. Pedir el recibo y confirmar
-      que el saldo es cero ❌ *(§4, `03`)*.
+      probabilidad las dos noches enteras** ◐ y **el segundo pago probablemente no existe**. Pedir
+      el recibo y confirmar que el saldo es cero ❌ *(§4, `03`)*.
+- [ ] **Antes del ~16/10 · la cita del CVI** — la llamada del 30/09 **no consta hecha** ❌: llamar y
+      coger la primera cita. **Sin cita antes del ~16/10, la mefloquina queda fuera → Malarone,
+      comprada antes del 30/10** *(§6, `04` §malaria)*.
 - [ ] **~16/10 ○ · el coche: la cancelación pasa al 100 %** — 15 días o menos antes del 31/10
       *(§1)*.
 - [ ] **~16–23/10 ○ · empezar la mefloquina, si el CVI la receta** — 2–3 semanas antes de entrar
@@ -751,13 +809,20 @@ pendiente**, y si ya lo está, se tacha y listo. Los importes, solo donde el cua
       *(§1)*. **Este cuaderno no tiene anotado si se pagó el total o solo el 25 % (~€591)** ❌ —
       compruébalo en la confirmación; si fue solo el depósito, el resto *(~€1.772)* vence aquí o se
       paga el 31/10 en la recogida.
-- [ ] **Antes del 30/10 · de Savanna, por escrito** — la devolución del sábado 14/11 a las 18:00 con
-      el transfer tardío, y la Opción 4 en un vuelco sin terceros *(§1, §9)*.
+- [ ] **~22/10 ○ · NWR, la cancelación de la noche de la costa sube del 30 % al 75 %** — si se
+      reservó, a partir de aquí echarse atrás cuesta tres cuartos *(§4)*.
 - [ ] **Cuanto antes · reservar Sandwich Harbour para el 5/11** — operador por elegir, salida de
-      ~08:30 por la marea; fuera del presupuesto *(§7)*.
-- [ ] **~23/10 · recomprobar el precio del diésel** — la última cifra del dossier es la revisión
-      del 2 de septiembre, y el acuerdo de emergencia que contenía los precios acaba con septiembre
-      *(`07`)*.
+      ~08:30 por la marea; fuera del presupuesto *(§7)*; y **preguntar si la tasa de parque del
+      Namib-Naukluft va incluida** ❌ *(`02` §10)*.
+- [ ] **Antes del 30/10 · de Savanna, por escrito** — **las dos franjas de sábado fuera de su
+      horario** *(la entrega del 31/10, que pasa de las 12:00, y la devolución del 14/11 a las 18:00
+      con el transfer tardío — N$550 · ~€28 si lo cobran)* y la Opción 4 en un vuelco sin terceros
+      *(§1, §9)*.
+- [ ] **~23/10 · recomprobar el precio del diésel** — la revisión del **7 de octubre lo congeló** ◐
+      *(N$27,86/l en la costa, el de septiembre)* y el arreglo de emergencia con **Vitol duró hasta
+      octubre** *(`07`, `02` §4)*; **la siguiente revisión cae a mitad de viaje, hacia el ~4/11**, y
+      lo que pase con el arreglo en noviembre no consta ❌. No hay nada que pagar: es mirar si
+      anuncian algo antes de salir.
 - [ ] **~24/10 · imprimirlo todo** *(`04`)*: el e-visa firmado, las confirmaciones de NWR —la de la
       costa, imprescindible para cruzar Ugabmund—, la de Onguma, la del coche y la póliza.
 

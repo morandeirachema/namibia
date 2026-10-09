@@ -166,7 +166,9 @@ CCF. [Ver el mapa en grande](../img/mapas/ruta-alternativa.svg).*
   El viaje pasa de **13 noches de tienda sobre 14** a **12**.
 - 💳 **Hay que CANCELAR una noche ya reservada**, y **sus condiciones de cancelación no se han
   verificado** ❌ *(ni el importe exacto de la reserva — `20` §4)*. **Se ha decidido asumirlo a
-  ciegas** *(24/08)*: sobre N$1.240 (~€62), el techo del riesgo es pequeño.
+  ciegas** *(24/08)*: sobre N$1.240 (~€62), el techo del riesgo es pequeño. *(Cerrado al día
+  siguiente, el 25/08 ✅: estaban en el propio PDF de Onguma — cancelar el camping es el 100 %,
+  posponer por escrito no; `15` §auditoría.)*
 - 💶 **Cuesta dinero, y probablemente bastante.** Sale una noche de **N$1.240 (~€62)** y entra una
   del **CCF**, que **no publica precios** ❌ y es **lodge con desayuno y cena incluidos** —así que
   casi con seguridad **por encima** de la de Onguma—. *(A favor: el alojamiento del CCF da **15 % de
@@ -192,6 +194,8 @@ el terreno. *(Dentro del parque no habría sido tan fácil: la cobertura de los 
 
 - 💳 **La penalización de cancelación de Onguma se asume sin conocerla** ❌. El techo es pequeño —la
   noche son **N$1.240 (~€62)**—, que es justo por lo que la decisión aguanta bien sin ese dato.
+  *(Nota del 09/10: el dato se cerró el 25/08 ✅ — cancelar es el 100 %, posponer por escrito no —
+  y por eso la auditoría dijo «se pospone la noche, no se anula»; `15` §auditoría.)*
 - 🛏️ **El CCF puede estar lleno**, y a última hora es más probable ○. **Si lo está, no pasa nada**:
   se queda la segunda noche de Onguma, que es un buen plan por sí mismo. **Ésa es la red, y es
   buena.**

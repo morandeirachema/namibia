@@ -10,6 +10,7 @@ Por que el intervalo: los tres campamentos tienen muestras muy distintas —149 
 Okaukuejo, 48 en Halali, 16 en Namutoni—, asi que comparar los porcentajes pelados hace
 decir tonterias. Con el intervalo de Wilson al 95 % solo quedan en pie tres diferencias.
 """
+import datetime
 import io
 import json
 import math
@@ -21,6 +22,8 @@ RAIZ = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
 import catalogo                                                    # noqa: E402
+import fecha                                                       # noqa: E402
+import trazado                                                     # noqa: E402
 from fecha import VIAJE_CORTO                                      # noqa: E402
 
 SALIDA = os.path.join(RAIZ, "aparte", "charcas-de-los-campamentos-de-etosha.md")
@@ -38,6 +41,51 @@ EMOJI = {"leon": "🦁", "leopardo": "🐆", "guepardo": "🐆", "rino-negro": "
 CAMPS = ("okaukuejo", "halali", "namutoni")
 # Las especies cuya diferencia entre charcas la prosa de `documento()` da por buena.
 PROSA_PARA = {"leopardo", "guepardo", "rino-negro"}
+
+
+# --- lo que el texto dice de la ruta, sacado de la ruta -----------------------------------
+# Hasta el 09/10 iba escrito: «la noche del 9 al 10 de noviembre», «se duerme en dos de los
+# tres (Okaukuejo y Halali; Namutoni se cruza de dia el D12)». Al mover una noche, esto
+# seguia contando la de antes —y el D13 tambien cruza Namutoni, que no lo decia—.
+_CUANTOS = {1: "uno", 2: "dos", 3: "los tres"}           # «se duerme en dos de los tres»
+_TIRADAS = {1: "una tirada", 2: "dos tiradas", 3: "tres tiradas"}
+
+
+def _rotulo(clave):
+    return trazado.PUNTOS[clave][2].split(" · ")[0]
+
+
+def _los_dias(ids):
+    """[«D12», «D13»] -> «el D12 y el D13»."""
+    dias = [f"el {i}" for i in ids]
+    return " y ".join([", ".join(dias[:-1])] + dias[-1:]) if len(dias) > 1 else dias[0]
+
+
+def _de_paso(clave):
+    """Los dias en que se pisa un campamento sin dormir en el."""
+    return [d for d in trazado.dias_del_punto(clave)
+            if next(e for e in trazado.ETAPAS if e["id"] == d)["duerme"] != clave]
+
+
+def _noche_en(clave):
+    """«la noche del 9 al 10 de noviembre»: la primera que se duerme en `clave`."""
+    d = fecha.de_etapa(next(e for e in trazado.ETAPAS if e["duerme"] == clave))
+    m = d + datetime.timedelta(days=1)
+    if d.month == m.month:
+        return f"la noche del {d.day} al {m.day} de {fecha.MESES[m.month - 1]}"
+    return (f"la noche del {d.day} de {fecha.MESES[d.month - 1]} al {m.day} de "
+            f"{fecha.MESES[m.month - 1]}")
+
+
+def _donde_se_duerme():
+    """«dos de los tres *(Okaukuejo y Halali; Namutoni se cruza de día el D12 y el D13 —» y
+    cuantas «tiradas»: una por campamento donde se duerme, y media si alguno solo se cruza."""
+    duerme = [k for k in CAMPS if any(e["duerme"] == k for e in trazado.ETAPAS)]
+    cruza = [k for k in CAMPS if k not in duerme and _de_paso(k)]
+    nombres_ = " y ".join(_rotulo(k) for k in duerme)
+    cruces = "; ".join(f"{_rotulo(k)} se cruza de día {_los_dias(_de_paso(k))}" for k in cruza)
+    tiradas = _TIRADAS.get(len(duerme), f"{len(duerme)} tiradas") + (" y media" if cruza else "")
+    return _CUANTOS.get(len(duerme), str(len(duerme))), nombres_, cruces, tiradas
 
 
 def carga():
@@ -114,6 +162,7 @@ def documento():
     rin = dato(d, "okaukuejo", "rino-negro")
     rin_na = dato(d, "namutoni", "rino-negro")
     ori = dato(d, "okaukuejo", "oricteropo")
+    donde = _donde_se_duerme()
 
     return f"""# Las charcas de los campamentos de Etosha — qué se ve en cada una, y qué no
 
@@ -145,8 +194,8 @@ es «lo que se acercó a beber»**.
 Nadie publica lo segundo. Si algún día apareciera, sería otro documento.
 
 Y la segunda advertencia, de tamaño: **la estancia típica es de una o dos noches** ✅. Como en esta
-ruta se duerme en dos de los tres *(Okaukuejo y Halali; Namutoni se cruza de día el D12 —
-`../21-campamentos-de-etosha.md`)*, son **dos tiradas y media**, y la
+ruta se duerme en {donde[0]} de los tres *({donde[1]}{'; ' + donde[2] if donde[2] else ''} —
+`../21-campamentos-de-etosha.md`)*, son **{donde[3]}**, y la
 posibilidad real en el conjunto del viaje es **más alta que cualquiera de estos números**. Cuánto
 más, estos datos no lo dicen — así que no se dice.
 
@@ -323,7 +372,7 @@ CHARCAS = [
 parque *(rest camp desde octubre de 1957 ◐)*: **iluminada del ocaso al amanecer y abierta las 24 h
 para quien duerme dentro** ◐. La guía del parque la llama, sin rodeos, *«the most reliable predator
 and megafauna viewing spot inside Etosha»*, con el **pico entre las 19:00 y las 22:00 en estación
-seca** ◐ — y la noche del 9 al 10 de noviembre cae **en la cola de esa estación seca**: en 4 de las
+seca** ◐ — y """ + _noche_en("okaukuejo") + """ cae **en la cola de esa estación seca**: en 4 de las
 5 últimas temporadas las lluvias aún no habían empezado *(`../14-lluvias-historico.md`)*.
 
 Los números confirman su fama, y la afinan: **no es la charca de los felinos, es la del
@@ -337,7 +386,7 @@ partes sostienen**.
 cerrado *(`../17-lista-de-equipaje.md`)*."""),
     ("namutoni", "💧 Namutoni · King Nehale — la charca del guepardo, y la muestra más floja",
      """⚠️ **Desde el 24/08 aquí ya no se duerme** —la noche se cambió por una segunda en Onguma—,
-así que **esta charca iluminada se pierde**: Namutoni se cruza el D12 de paso, con la puerta de Von
+así que **esta charca iluminada se pierde**: Namutoni se cruza """ + _los_dias(_de_paso("namutoni")) + """ de paso, con la puerta de Von
 Lindequist en el reloj. Lo que sigue vale para saber qué se deja atrás, y era la floja de las tres.
 
 Al pie de las murallas del fuerte, **iluminada y con bancos** ✅. La pega honesta de los

@@ -228,7 +228,7 @@ def a_pdf(html, salida, izquierda="Namibia 2026", derecha="", espera=8.0,
         manda("Page.navigate", url=url)
         # Mermaid pinta despues de load: se espera a que no queden bloques sin dibujar.
         limite = time.time() + espera + 40
-        listo = False
+        listo, v = False, None
         while time.time() < limite:
             time.sleep(0.6)
             r = manda("Runtime.evaluate", returnByValue=True, expression="""
@@ -237,17 +237,26 @@ def a_pdf(html, salida, izquierda="Namibia 2026", derecha="", espera=8.0,
                   var t = document.querySelectorAll('pre.mermaid, .mermaid').length;
                   var h = document.querySelectorAll('.mermaid svg, pre.mermaid svg').length;
                   var estado = document.documentElement.dataset.diagramas || '';
-                  if (t && estado !== 'listos' && estado !== 'error') return '1:0';
+                  if (t && estado === 'error') return 'error';
+                  if (t && estado !== 'listos') return '1:0';
                   return t + ':' + h;
                 })()""")
             v = r.get("result", {}).get("value")
+            if v == "error":
+                break
             if v:
                 total, hechos = (int(x) for x in v.split(":"))
                 if hechos >= total:
                     listo = True
                     break
+        # Un diagrama sin dibujar sale en el PDF como su codigo fuente en texto plano, y
+        # hasta el 09/10 esto solo lo decia por stderr y escribia el PDF igual: el aviso se
+        # perdia entre la salida del build. Ahora el PDF NO se escribe — falle Mermaid al
+        # dibujar o no llegue a cargar (sin red, o el CDN caido).
         if not listo:
-            print("   aviso: algun diagrama pudo no terminar de dibujarse", file=sys.stderr)
+            raise RuntimeError(f"{os.path.basename(html)}: los diagramas de Mermaid no se han "
+                               f"dibujado ({v or 'sin respuesta'}): ¿hay red para el CDN? "
+                               f"mira la consola del navegador. No se escribe el PDF.")
         time.sleep(espera)
 
         arriba, der, abajo, izq = margenes

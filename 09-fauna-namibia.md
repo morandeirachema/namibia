@@ -62,7 +62,7 @@ la guía usa las dos —cada una con su etiqueta, porque **no miden lo mismo**�
 ```mermaid
 flowchart LR
     A["13 especies grandes<br/>PARTES DE VIAJEROS"] --> A1["% que lo vio<br/>durante su estancia<br/>en el campamento"]
-    B["las otras 135<br/>REGISTROS DE GBIF"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
+    B["otras 143<br/>REGISTROS DE GBIF<br/>(3 se quedan sin linea)"] --> B1["peso de la especie<br/>en su grupo, en la zona,<br/>en oct-nov"]
     A1 --> C["frecuente / escasa<br/>siempre con la muestra"]
     B1 --> C
     style A fill:#EDF1E4,stroke:#5F7043
@@ -126,10 +126,10 @@ flowchart LR
 **El mapa va dentro de la guía**, delante de las fichas. Son los **mismos polígonos** con los que
 `avistamientos.py` cuenta en GBIF —el límite real del parque para Etosha y tres cajas para el
 resto—, así que lo que dice la ficha y lo que dibuja el mapa no pueden separarse. El número de
-cada zona es cuántas de las 159 fichas tienen ahí **el grueso** de sus registros: **Etosha
-97**, **la costa 31**, **Damaraland 18** y **el
-Namib 6** — y eso es tanto porque hay más fauna como porque es donde más mira todo
-el mundo. **El sesgo del observador está en el dato y se dice, no se disimula.**
+cada zona es cuántas fichas tienen ahí **el grueso** de sus registros de octubre-noviembre:
+**152 de las 159** —**Etosha 97**, **la costa 31**, **Damaraland 18** y **el Namib 6**— *(las 7
+sin registros de octubre-noviembre no cuentan)* — y eso es tanto porque hay más fauna como porque
+es donde más mira todo el mundo. **El sesgo del observador está en el dato y se dice, no se disimula.**
 
 ⚠️ **Fuera de estas cuatro zonas esta guía no afirma nada, y es a propósito** *(29/08)*. Ese día se
 probó lo contrario: **24 fichas del Zambeze, el Okavango y el Kalahari** —hipopótamo, licaón, sable,
@@ -138,6 +138,12 @@ deshizo el mismo día**: rotularlo no arregla nada, porque en la guantera ocupa 
 viaje que no se hace. `make comprueba` ya no deja que vuelva: **toda ficha tiene que tener al menos
 un registro dentro de alguna de las cuatro zonas**, y lo que no lo tenga va en
 `catalogo.EXCEPCIONES_RUTA` con su motivo escrito *(hoy, una sola: el shongololo)*.
+
+⚠️ **Y la propia ruta tiene dos tramos que no caen en ninguna caja**: la **escarpa de Spreetshoogte**
+(D2, a 23,66° S, al norte de la caja del Namib) y la **Skeleton Coast desde poco al norte de Cape
+Cross hasta Springbokwasser** —**Terrace Bay (D7) incluida**, a 19,99° S y 13,03° E: la caja de la
+costa acaba en 21,60° S y la de Damaraland empieza en 13,90° E—. Lo que se vea allí es de la ruta,
+pero **ninguna línea «En la ruta» lo cuenta**.
 
 ### Y lo que el barrido dejó, que sí era de la ruta
 
@@ -165,7 +171,8 @@ austral** *(3 en la costa, y se va de esta costa antes de que lleguéis)*.
 Tres páginas antes de las especies, maquetadas como un documento del dossier: **la ropa**
 *(Okaukuejo promedia 37,1 °C de máxima y 18,9 °C de mínima en noviembre ✅ — se viste por
 capas)*, **lo que tiene que ir dentro del habitáculo y no en el maletero** *(prismáticos uno por
-persona, 4 L de agua por persona y día ✅, frontal de luz roja, efectivo, microfibra)*, **la
+persona, 4 L de agua por persona y día ○ *(regla de trabajo del `06`, sin cifra de fuente)*,
+frontal de luz roja, efectivo, microfibra)*, **la
 táctica de la charca** *(motor apagado y tres cuartos de hora, que es lo que de verdad funciona)*,
 **fotografía sin trípode** y un bloque aparte en rojo con **lo que es reglamento y no consejo**
 ✅: 60 km/h, no bajar del coche fuera de los campamentos, no salirse de las pistas y estar dentro
@@ -199,11 +206,14 @@ entraron el 29/08 llegaron sin ella. Rellenarlo a ojo sería inventar.
 - ⚠️ **La cebra de montaña de Hartmann: el motivo por el que se excluyó era cierto solo a medias**
   *(destapado el 28/08, cerrado el 29/08)*. **Dentro de Etosha** sí lo era —vive en las lomas de
   dolomita del extremo oeste, a doscientos kilómetros del eje Okaukuejo–Namutoni— y ése fue el
-  argumento del 09/08 para dejarla sin ficha. **Pero la ruta no es solo Etosha**: el **D2 cruza la
-  escarpa de Spreetshoogte** y el **D8–D9 va Twyfelfontein → Palmwag → paso de Grootberg**, que es su
-  terreno clásico. En los propios polígonos de este repo, GBIF le da **55 registros en el Namib
-  (8 en oct–nov)** y **28 en Damaraland (7 en oct–nov)**, varios con coordenada sobre la carretera
-  del D9 — y **635 en todo el país**, con el grueso en Hardap. Era un animal grande, conspicuo y
+  argumento del 09/08 para dejarla sin ficha. **Pero la ruta no es solo Etosha**: el **D8–D9 va
+  Twyfelfontein → Palmwag → paso de Grootberg**, que es su terreno clásico, y el **D2 cruza la
+  escarpa de Spreetshoogte**, donde la finca la anuncia. En los propios polígonos de este repo,
+  GBIF le da **28 registros en Damaraland (7 en oct–nov)**, varios con coordenada sobre la
+  carretera del D9, y **55 en el Namib (8 en oct–nov)** — ⚠️ **pero esos 55 no son de la
+  escarpa**: la caja del Namib va de 24,10° a 25,15° S —Sesriem, Sossusvlei, el Naukluft, el D3–D4—
+  y Spreetshoogte está en 23,66° S, **fuera de las cuatro zonas** *(`01` §D2)*. Lo del D2 es la
+  palabra de la finca, no un recuento. **635 registros en todo el país**, con el grueso en Hardap. Era un animal grande, conspicuo y
   casi endémico que probablemente veáis, y la guía no llevaba su ficha: **el hueco quedó reconocido
   el 28/08 y se cerró el 29/08**, con ficha propia en la parte 1. Para distinguirlas: la de Etosha es
   la de **Burchell**; la de la escarpa y Damaraland, si tiene la panza blanca sin rayar y una papada
@@ -343,7 +353,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 - **Lobo de tierra** — *Proteles cristata* · Aardwolf *(añadido el 08/08: ídem — nocturno estricto,
 - **Ardilla de matorral de Smith** — *Paraxerus cepapi* · Smith's bush squirrel *(añadida el
 - **Mangosta esbelta** — *Galerella sanguinea* · Slender mongoose *(añadida el 10/08: la
-- **Cebra de montaña de Hartmann** — *Equus zebra hartmannae* · Hartmann's mountain zebra *(vuelve el 29/08: salió el 09/08 por vivir «en el extremo oeste de Etosha», pero la ruta cambió y ahora pisa la escarpa de Spreetshoogte —donde la finca la anuncia— y Damaraland; 635 registros en el país, el grueso en Hardap)*
+- **Cebra de montaña de Hartmann** — *Equus zebra hartmannae* · Hartmann's mountain zebra *(vuelve el 29/08: salió el 09/08 por vivir «en el extremo oeste de Etosha», pero la ruta cambió y ahora pisa Damaraland —28 registros, 7 de oct–nov— y la escarpa de Spreetshoogte, donde la finca la anuncia pero que queda fuera de las cuatro zonas de GBIF; 635 registros en el país, el grueso en Hardap)*
 
 ### 🦅 Aves rapaces (40)
 
@@ -439,7 +449,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 ### 🦎 Reptiles (16)
 
-*Las tres primeras van por seguridad: dormís trece noches en tienda.*
+*Las tres primeras van por seguridad: dormís trece de las catorce noches en tienda.*
 
 - **Víbora bufadora** — *Bitis arietans* · Puff adder
 - **Cobra escupidora cebra** — *Naja nigricincta* · Zebra spitting cobra

@@ -339,17 +339,38 @@ INTERES = [
 
 
 def interes():
-    """Geocodifica INTERES con Nominatim y lo guarda en geo/interes.json."""
+    """Geocodifica INTERES con Nominatim y lo guarda en geo/interes.json.
+
+    Solo va a `sin_resultado` lo que Nominatim contesta VACIO. Un error de red no es una
+    respuesta: hasta el 09/10 se guardaba igual, como «sin resultado», y ese punto quedaba
+    fuera del mapa para siempre sin que nadie lo volviera a pedir. Ahora, si la consulta
+    falla, se conserva lo que hubiera en el cache de antes; si no habia nada, el punto no
+    entra en ninguna de las dos listas, `comprobar.revisa_geo` lo da por FALLO y esto
+    termina con error para que se repita.
+    """
     print("Nominatim · puntos de interes de la agenda")
-    salida, faltan = [], []
+    antes = {}
+    if hecho("interes.json"):
+        with open(os.path.join(GEO, "interes.json")) as f:
+            viejo = json.load(f)
+        antes = {p["consulta"]: p for p in viejo.get("puntos", [])}
+        antes.update({c: None for c in viejo.get("sin_resultado", [])})
+    salida, faltan, errores = [], [], []
     for consulta, rotulo, clase, dias in INTERES:
         url = ("https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode(
             {"q": consulta, "format": "json", "limit": 1, "countrycodes": "na"}))
         try:
             r = json.loads(pide(url, timeout=40, intentos=2))
         except Exception as e:                                    # noqa: BLE001
-            r = []
             print(f"   !! {consulta}: {e}")
+            if consulta not in antes:
+                errores.append(consulta)
+            elif antes[consulta] is None:
+                faltan.append(consulta)
+            else:
+                salida.append(dict(antes[consulta], rotulo=rotulo, clase=clase, dias=dias))
+            time.sleep(1.1)
+            continue
         if not r:
             faltan.append(consulta)
             print(f"   —  {rotulo:32s} sin resultado")
@@ -362,6 +383,9 @@ def interes():
     guarda("interes.json", {"puntos": salida, "sin_resultado": faltan})
     if faltan:
         print(f"   {len(faltan)} sin coordenada — quedan FUERA del mapa, no se inventan")
+    if errores:
+        raise SystemExit(f"   {len(errores)} consultas fallaron por la red y no estaban en el "
+                         f"cache: {errores} — repite `python3 geodatos.py interes --forzar`")
 
 
 PASOS = [("paises.json", paises),

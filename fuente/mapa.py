@@ -146,6 +146,24 @@ def capa_parques(L, nombres=None, relleno=None, trazo=None, ancho=0.9, guion="2.
     return "".join(out)
 
 
+def en_parque(clave, parque="Etosha"):
+    """Si un punto de `trazado.PUNTOS` cae DENTRO del limite del parque (geo/parques.json).
+
+    Para decir «dos noches dentro del parque» sin escribirlo a mano: Okaukuejo y Halali
+    caen dentro y Onguma, a 3 km de la puerta de Von Lindequist, fuera. Par o impar de
+    cruces con el anillo exterior; las puertas caen justo en el borde y no se preguntan."""
+    lat, lon = trazado.PUNTOS[clave][:2]
+    dentro = False
+    for e in carga("parques.json")["elements"]:
+        if parque.lower() not in e["tags"].get("name", "").lower():
+            continue
+        for anillo in anillos(e):
+            for (y1, x1), (y2, x2) in zip(anillo, anillo[1:] + anillo[:1]):
+                if (y1 > lat) != (y2 > lat) and lon < (x2 - x1) * (lat - y1) / (y2 - y1) + x1:
+                    dentro = not dentro
+    return dentro
+
+
 def capa_pan(L, borde=0.8):
     """La depresion de Etosha: relleno de sal, con las islas recortadas."""
     for e in carga("etosha_pan.json")["elements"]:
@@ -327,8 +345,11 @@ def mapa_dia(dia, ancho=1000, alto=None):
             lats.append(lat); lons.append(lon)
     # los puntos de interes del dia tambien entran en el encuadre: en un dia sin traslado
     # son el mapa entero (Walvis Bay con Pelican Point, Dune 7 y el Welwitschia Drive)
-    interes = carga("interes.json")["puntos"] if os.path.exists(
-        os.path.join(GEO, "interes.json")) else []
+    # sin el cache, la agenda salia sin un solo punto de interes y nadie se enteraba: ahora
+    # se para, como cualquier otro geodato que falte
+    if not os.path.exists(os.path.join(GEO, "interes.json")):
+        raise SystemExit("falta geo/interes.json — ejecuta `python3 fuente/geodatos.py interes`")
+    interes = carga("interes.json")["puntos"]
     for pi in interes:
         if dia in pi["dias"]:
             lats.append(pi["lat"]); lons.append(pi["lon"])
@@ -1088,7 +1109,7 @@ def mapa_lamina(ancho=1100):
     # las gasolineras dejan de ser una clase de punto: el surtidor las cuenta aparte
     for clave in EN_MAPA_RUTA:
         dx, dy, anc = ROTULOS_RUTA[clave]
-        cl = "ciudad" if trazado.PUNTOS[clave][3] == "combu" else None
+        cl = trazado.CLASE_BASE[clave] if trazado.PUNTOS[clave][3] == "combu" else None
         cuerpo.append(punto(L, clave, TEXTO_ROTULO.get(clave), dx, dy, anc,
                             tam=9.6 if clave in TEXTO_ROTULO else 8.4, clase=cl))
     cuerpo.append(capa_gasolineras(L))
@@ -1404,6 +1425,24 @@ def mapa_zonas(ancho=1100):
     return envoltorio(L.ancho, L.alto, "".join(cuerpo))
 
 
+EXPORTADOS = (("ruta", mapa_ruta, 1100), ("etosha", mapa_etosha, 1500),
+              ("ruta-alternativa", mapa_ruta_alt, 1100), ("zonas-fauna", mapa_zonas, 1100))
+
+
+def textos(destino=None):
+    """Fichero SVG -> contenido, sin escribir nada. `comprobar.revisa_derivados` los compara
+    con lo que hay en img/mapas/, igual que el GPX o My Maps: salen de `geo/` y de
+    `trazado.py` sin red, y hasta el 09/10 un cambio de clase de un punto movia el mapa del
+    README sin que nada avisara de que el SVG commiteado era el de antes.
+
+    El contador de `envoltorio` se pone a cero: los id de los clipPath van numerados por
+    orden de llamada, y sin esto el texto dependeria de lo que se hubiera dibujado antes.
+    """
+    destino = destino or os.path.join(os.path.dirname(HERE), "img", "mapas")
+    _ENVOLTORIOS[0] = 0
+    return {os.path.join(destino, nombre + ".svg"): fn(ancho) for nombre, fn, ancho in EXPORTADOS}
+
+
 def exporta(destino=None):
     """Escribe los mapas en img/mapas/ como SVG y como PNG.
 
@@ -1417,11 +1456,10 @@ def exporta(destino=None):
     destino = destino or os.path.join(os.path.dirname(HERE), "img", "mapas")
     os.makedirs(destino, exist_ok=True)
     hechos = []
-    for nombre, fn, ancho in (("ruta", mapa_ruta, 1100), ("etosha", mapa_etosha, 1500),
-                              ("ruta-alternativa", mapa_ruta_alt, 1100),
-                              ("zonas-fauna", mapa_zonas, 1100)):
-        svg = fn(ancho)
-        ruta_svg = os.path.join(destino, nombre + ".svg")
+    anchos = {nombre: ancho for nombre, _fn, ancho in EXPORTADOS}
+    for ruta_svg, svg in textos(destino).items():
+        nombre = os.path.basename(ruta_svg)[:-4]
+        ancho = anchos[nombre]
         with open(ruta_svg, "w") as f:
             f.write(svg)
         alto = round(float(_re.search(r'viewBox="0 0 [\d.]+ ([\d.]+)"', svg).group(1)))
