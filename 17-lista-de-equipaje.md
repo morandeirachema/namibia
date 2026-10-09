@@ -54,6 +54,10 @@ de DEET)*; lo de cabina, no.
       ✅ 79,99 €)*
 - [ ] **Daypack 20-25 L ×1 p.p.** — **[Quechua MH100, 20 L](https://www.decathlon.es/es/p/mochila-de-senderismo-20l-nh100-arpenaz-beige/_/R-p-301674)**
       ✅ 24,99 €, homologada como equipaje de mano
+- [ ] Neceser **colgable** ×1 ○ — no hay repisa garantizada. Modelo: **[Forclaz Ultralight](https://www.decathlon.es/es/p/neceser-plegable-de-viaje-forclaz-ultralight/_/R-p-173360)**
+      ✅ 9,99 €, 43 g
+- [ ] **Bolsa estanca ×1** para la electrónica ○ — **[Tribord 10 L, IPX6](https://www.decathlon.es/es/p/bolsa-estanca-caqui-2-puntos-ipx6-10-litros/349371/c241m9002201)**
+      ✅ 14,99 €
 
 ---
 
@@ -277,8 +281,6 @@ ya hace el apaño.
 - [ ] **Toallas de microfibra ×2** ○ *(la ficha del coche ya lista 4 toallas ✅ — éstas quedan de
       respaldo y para la piscina)*. Modelo: **[Toalla microfibra XL 110×175 cm](https://www.decathlon.es/es/p/toalla-microfibra-talla-xl-110-x-175-cm-negro/_/R-p-158653)**
       ✅ 11,99 €/ud (23,98 € las dos)
-- [ ] Neceser **colgable** ×1 ○ — no hay repisa garantizada. Modelo: **[Forclaz Ultralight](https://www.decathlon.es/es/p/neceser-plegable-de-viaje-forclaz-ultralight/_/R-p-173360)**
-      ✅ 9,99 €, 43 g
 - [ ] Cortaúñas ×1 · pinzas de depilar ×1 · **cepillo de uñas ×1** ◐ *(lo piden dos listas de
       self-drive por separado — la arena se mete en todo:
       [Bushlore](https://bushlore.com/wp-content/uploads/2018/05/Self-Drive-Safari-Planning-Guide.pdf) ·
@@ -886,8 +888,6 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       ✅ 29,99 € *(una por cabeza)* · o **[WESLITE 365 + 395
       nm](https://www.amazon.es/WESLITE-Ultravioleta-Verificaci%C3%B3n-Documentos-Escorpiones/dp/B081TDXP9R)**
       ✅ 23,99 €, que nombra los escorpiones en su ficha (Amazon, 05/10)
-- [ ] **Bolsa estanca ×1** para la electrónica ○ — **[Tribord 10 L, IPX6](https://www.decathlon.es/es/p/bolsa-estanca-caqui-2-puntos-ipx6-10-litros/349371/c241m9002201)**
-      ✅ 14,99 €
 
 ## 💧 En el coche, todos los días
 
