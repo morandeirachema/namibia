@@ -17,6 +17,7 @@ make agenda     solo la agenda (el día a día del `01`, dos A4 por día: mapa y
 make avistam    recuentos de GBIF y porcentajes por campamento (las 4 zonas de la ruta)
 make mymaps     los CSV y el KML de `aparte/` para Google My Maps
 make gps        el GPX y el KML de la ruta, para el GPS y el móvil
+make lista      la lista del `17` como página para marcar en el móvil (ver abajo)
 make mapas      los cuatro mapas de `img/mapas/`, SVG y PNG (el PNG lo saca Chrome)
 make charcas    reescribe `aparte/charcas-de-los-campamentos-de-etosha.md` desde el cache
 make imagenes   baja las fotos del catálogo de Commons (red)
@@ -111,6 +112,17 @@ Crocodile Farm, los meteoritos de Gibeon…)*; **sin coordenada, y por tanto fue
 seis**: el Urban Camp, Anchors @ the Jetty, el delta del Uniab, el lago Otjikoto, el memorial de
 Khorab y el Telephone Man. Los desvíos que el `10` cita *(Petrified Forest +60 km, Hoba +93,
 Peet Alberts +4)* se midieron metiendo el punto en la etapa de OSRM y restando.
+
+## La lista del `17`, para marcar en el móvil
+
+`lista_web.py` (`make lista`) saca del `17` `fuente/lista-de-equipaje.html` —ignorado por git, como
+todo el HTML intermedio— y Claude lo publica como Artifact privado:
+https://claude.ai/artifact/AV6yctxcGktwWp1DMtDKNX. Cada `- [ ]` es una casilla con su nombre a la
+vista —lo que va antes de la primera raya— y el resto plegado; lo demás va como nota. **Las marcas
+y los ítems que se añaden desde la página viven en la base de datos del Artifact** (colecciones
+`marcas` y `extras`), no en el `17`: lo añadido allí se pasa al `17` a mano, leyéndolo con
+ArtifactData. La clave de cada marca es **el nombre del ítem**: tocar su detalle no la pierde,
+renombrarlo sí. Tras cambiar el `17`, `make lista` y volver a publicar al mismo URL.
 
 ## Convenciones que no se ven en el markdown
 

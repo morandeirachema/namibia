@@ -12,6 +12,7 @@
 #   make lamina     mapa-ruta-namibia-2026.pdf, la lamina A2 para imprimir
 #   make agenda     agenda-namibia-2026.pdf, el dia a dia del `01` y nada mas, dos A4 por dia
 #   make gps        el GPX y el KML de la ruta, para el GPS y el movil
+#   make lista      lista-de-equipaje.html: el `17` para marcar en el movil (se publica como Artifact)
 #   make todo       de cero: imagenes + geo + avistamientos + mapas + los cuatro PDF
 #   make comprueba  imagenes, licencias, geometria, avistamientos, escala y README
 #   make limpia     borra el HTML intermedio
@@ -28,7 +29,7 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps limpia comprueba
+.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps lista limpia comprueba
 
 all: dossier fauna lamina agenda gps
 
@@ -63,6 +64,9 @@ lamina: | $(GEO)/ruta.json
 # El GPX y el KML, para el GPS y el movil. Misma geometria que el mapa y la lamina.
 gps: | $(GEO)/ruta.json
 	$(PY) gps.py
+
+lista:
+	$(PY) lista_web.py
 
 # La agenda es el `01` recortado a sus quince dias, con el mapa de cada uno: pide la
 # geometria y los tramos con firme.
