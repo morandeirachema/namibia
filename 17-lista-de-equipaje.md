@@ -99,6 +99,11 @@ el viaje sigue; si se pierde la cabina, no.
 - [ ] Fotos de todo en el móvil, **descargadas para verlas sin cobertura** ○
 - [ ] **Teléfonos de emergencia de `07` impresos** ×1, en la guantera ✅ *(con el de la
       embajada de España — `04`)*
+- [ ] **Lo que imprime este mismo dossier** ○ — la **agenda** *(`agenda-namibia-2026.pdf`, un
+      día por pliego, para la guantera)*, la **guía de fauna** *(`guia-fauna-namibia.pdf`, para
+      las charcas)* y la **lámina de ruta** *(`mapa-ruta-namibia-2026.pdf`, A2, una hoja)*.
+      **Impresos de la última versión**, la de la fecha de su portada: si algo cambia después,
+      se regeneran y se vuelven a imprimir
 - [ ] **El kit del control policial, JUNTO en la guantera** ○ — carnet + permiso internacional
       *(jamás separados ✅)*, contrato del alquiler y copia del pasaporte *(el guion del control,
       en `07`)*
@@ -706,7 +711,9 @@ teléfonos toxicológicos, con los de emergencia del [`07`](07-logistica.md).
       pila AAA](https://www.amazon.es/dp/B0F63KK6QK)** ✅ 14,69 € (Amazon)
 - [ ] **Lámpara de tienda ×1** ○ — la que ya tenéis: cuelga del techo y hace de luz ambiente en la
       tienda de techo sin gastar los frontales
-- [ ] Móvil con **Tracks4Africa** ✅ y mapas offline **descargados** — y las otras tres apps,
+- [ ] Móvil con **Tracks4Africa** ✅ y mapas offline **descargados**, y **la ruta del viaje
+      cargada**: el `ruta-namibia-2026.gpx` *(o el `.kml`)* de este repo, con las etapas y los
+      puntos — y las otras tres apps,
       TAMBIÉN antes de salir ○: **iOverlander** *(campings y aguadas — útil para los tres sin
       tarifa)*, una de **cielo/estrellas con modo offline** *(las noches de luna nueva del
       9–12, `01`)* y una de **previsión marina/viento y marea** para el día de mar del D6
@@ -1058,14 +1065,14 @@ tiempo de ir buscándolo.
 
 ```mermaid
 flowchart TD
-    A["¿Estan los papeles<br/>IMPRESOS?"] -->|"no"| A1["Imprimir AHORA:<br/>e-visa, reservas,<br/>poliza y telefonos"]
+    A["¿Estan los papeles<br/>IMPRESOS?"] -->|"no"| A1["Imprimir AHORA:<br/>e-visa, reservas,<br/>poliza, telefonos,<br/>agenda y guia de fauna"]
     A -->|"si"| B["¿Los 2 adaptadores<br/>tipo M y D en el daypack?"]
     B -->|"no"| B1["Es el fallo tonto<br/>mas probable del viaje"]
     B -->|"si"| C["¿Medicacion y gafas<br/>en CABINA?"]
     C -->|"si"| C2["¿Powerbank Anker y las baterias<br/>de la camara en CABINA,<br/>con los contactos tapados?"]
     C2 -->|"si"| D["¿Navaja y multiherramienta<br/>en el petate FACTURADO?"]
     D -->|"si"| G["¿Mecheros y pastillas FUERA<br/>de las maletas? Se compran alli<br/>- maximo uno en el bolsillo"]
-    G -->|"si"| E["¿Mapas offline y Tracks4Africa<br/>descargados de verdad?"]
+    G -->|"si"| E["¿Mapas offline, Tracks4Africa<br/>y el GPX de la ruta<br/>en el movil de verdad?"]
     E -->|"si"| F["Listo"]
     style A1 fill:#9d0208,color:#fff
     style B1 fill:#9d0208,color:#fff
