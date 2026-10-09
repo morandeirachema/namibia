@@ -924,11 +924,17 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 
 - [ ] Daypack con **3 L de agua por persona** — en la **bolsa de hidratación** *(§En el coche)*,
       llenada de las garrafas la víspera
-- [ ] Forro y cortavientos *(se quedan en el coche a las 9:00)*
+- [ ] Forro y **el Torrentshell, que hace de cortavientos** *(la lista no lleva cortavientos
+      aparte; los dos se quedan en el coche a las 9:00)*
 - [ ] Buff, frontal y calzado cerrado
 - [ ] **Calcetines viejos para la duna** ◐ — Big Daddy se sube en calcetines, botas al daypack
       *(ver calzado)*
 - [ ] Cámara *(desinflar y reinflar no es problema: el compresor va en el coche ✅)*
+- [ ] **Sombrero, gafas de sol y crema solar puesta** — más el tubo en el daypack ○: se sale
+      de noche pero se baja de Big Daddy y se cruza Deadvlei **bajo el UV extremo de noviembre**
+      *(13–15 ◐, §Sol y bichos)*, y la crema se repone cada 2 h
+- [ ] **Desayuno y algo de comer** ○ — se sale a las ~05:10 y no se vuelve al campamento hasta
+      media mañana
 
 **Kit charca nocturna — D10 a D13**
 
@@ -939,14 +945,15 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       los márgenes del pan y las charcas» *([WhySafari](https://whysafari.com/guides-travel-experts/staying-healthy-in-etosha-malaria-sun-and-wildlife-safety/))*:
       la espera de la charca es el momento exacto del repelente del botiquín
 - [ ] Frontal **en modo rojo para el camino — y apagado en la plataforma** ◐
-- [ ] Prismáticos y trípode
+- [ ] Prismáticos — **y el trípode, si va**: se decide en el repo de fotografía y no está en
+      esta lista; si va, apúntalo en Electrónica, en el bloque de la cámara
 - [ ] Paciencia: apagar y darle 15–20 minutos ✅ *(`01`)* — la ventana buena va de las **20:00 a
       la medianoche**, cuando el campamento se acuesta ◐
       *([Viatu](https://www.viatu.com/en/blog/namibia/a-complete-guide-to-etosha-national-parks-waterholes))*
 
 **Kit costa — D5 a D7**
 
-- [ ] Cortavientos
+- [ ] El **Torrentshell, de cortavientos** *(y el forro, para la noche: 13–15 °C con viento)*
 - [ ] Buff para Cape Cross
 - [ ] **Toda la electrónica en bolsa estanca**: niebla, salitre y polvo el mismo día
 
