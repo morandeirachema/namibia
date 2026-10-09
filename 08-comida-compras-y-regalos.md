@@ -7,7 +7,8 @@
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 02/08/2026 · formato y contenido revisados el 03/08/2026*
+> *Investigación cerrada el 02/08/2026 · formato y contenido revisados el 03/08/2026 · la carne de
+> Onguma, Palmwag y la aduana del efectivo, corregidas el 09/10/2026*
 
 
 ---
@@ -145,8 +146,10 @@ SuperSpar de Grove y N$1.302 (~€65) en Model ◐ *([The Brief](https://thebrie
 cambiar de súper: se compra donde se esté.
 
 ⚠️ Cuatro cosas que **NO** van en esta compra: **la cerveza y el vino** ✅ *(a las 14:00 del sábado
-ya no se venden para llevar — §la ley; desde el lunes 2)*, la **carne cruda que cruzaría la Línea Roja** hacia el
-norte *(se recompra en Swakopmund y en Outjo — ver `07`)*, nada **congelado en exceso** *(la nevera
+ya no se venden para llevar — §la ley; desde el lunes 2)*, la **carne de más allá del D4** ○ —no
+por la Línea Roja, que del D1 al D5 no se cruza, sino porque **cuatro días de carne cruda en una
+nevera de 40 L no caben ni aguantan**: la de la costa y la de Damaraland se compran en Walvis Bay
+el D6, y la de Etosha en Outjo el D10 *(`07` §Línea Roja)*—, nada **congelado en exceso** *(la nevera
 del coche no es un arcón: ver [`18`](18-manual-de-campamento.md) §5)* y el **repelente**, que ya
 viene de casa *(`17`)*.
 
@@ -207,10 +210,15 @@ Moon Landscape lleva allí esa tarde (`10`).*
 - **D12 y D13, ya fuera: Onguma Tamboti** ✅ *(las DOS últimas noches, desde el cambio del 24/08)* —
   **kiosco** con lo básico, **hielo, leña y braai packs** *(un lote de leña gratis el día de
   llegada)*, y **restaurante à la carte: la cena se reserva AL LLEGAR, en recepción** *(tarifa
-  oficial 2027)*. Desayuno suelto N$320 (~€16). ⚠️ **Y ahora son dos noches de braai, no una**: la
-  compra se hace **en la tienda de Halali antes de salir el D12** ○, porque el kiosco de Onguma es
-  kiosco. *(Namutoni queda de paso ese mismo día y también tiene tienda, pero se cruza a media
-  tarde con la puerta en el reloj: mejor no fiarlo.)*
+  oficial 2027)*. Desayuno suelto N$320 (~€16). ⚠️ **Y son dos noches de braai, no una — y la carne
+  de esas dos noches NO sale de dentro del parque**: al salir el D12 por **Von Lindequist** se cruza
+  la Línea Roja hacia el sur, y **la carne cruda que baja de Etosha se confisca en el control** ◐
+  *(`07` §Línea Roja)*. Así que ni Halali ni Namutoni: **las dos noches de Onguma se resuelven con
+  sus braai packs**, que se compran en su kiosco, **ya fuera de la Línea** *(`07`, `21`)*; lo que
+  sí puede cruzar es lo cocinado, los envasados al vacío comerciales y el biltong ◐. Y la carne de
+  Outjo del D10 se calcula **para acabarla antes del D12** *(`07`: dos braais, Okaukuejo y
+  Halali)*. *(Hasta el 09/10 aquí decía «comprar en la tienda de Halali antes de salir el D12»: esa
+  carne se habría quedado en la puerta.)*
 
 ### Otjiwarongo (D14)
 - Spar «enorme», OK y Multisave ○ — para el picoteo del último día, poco más hace falta.
@@ -252,7 +260,8 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
   salir sin repostar aquí.** Tienda pequeña y restaurante de menú fijo, sí ✅/◐.
 - **Bergsig** ❌ — **ninguna gasolinera documentada en ninguna fuente**; solo una tienda de
   básicos ○. Planifica como si no hubiera nada.
-- **Palmwag** *(fuera de la ruta, el respaldo del tramo)* ✅ — **surtidor 07:00–19:00, diésel
+- **Palmwag** *(EN la ruta: el D9 pasa por él, Twyfelfontein → Palmwag → Hoada — `01`, `07`;
+  opcional recomendada, el respaldo del tramo)* ✅ — **surtidor 07:00–19:00, diésel
   50 ppm** en el lodge de Gondwana ([oficial](https://gondwana-collection.com/accommodation/palmwag-lodge));
   lleva efectivo por si el datáfono ○.
 - **Twyfelfontein** ◐/○ — irregular: la bomba histórica ya no va; hay reportes de surtidor tras el
@@ -365,9 +374,11 @@ flowchart TD
   *Sí* entran: miel (≤2 kg) y pescado (≤20 kg).
 - **Marfil: prohibido en la UE desde el 19/01/2022** ◐/✅; **welwitschia = CITES Apéndice II** ✅
   (nada de semillas ni plantas — [CITES](https://cites.org/eng/gallery/species/other_plant/welwitschia_mirabilis.html)).
-- **Namibia a la salida** ✅ ([guía NamRA](https://www.namra.org.na/documents/cms/uploaded/customs-procedure-travellers-guide-information-1579b9600b.pdf)):
-  declarar efectivo ≥ **N$100.000 (~€5.000)**; productos de especies controladas, solo con permiso
-  (Act 9/2008).
+- **Namibia a la salida** ✅ ([guía NamRA](https://www.namra.org.na/documents/cms/uploaded/customs-procedure-travellers-guide-information-1579b9600b.pdf),
+  releída el 09/10): **declarar todo el efectivo y las divisas que se lleven**, al entrar y al
+  salir, **sin umbral** — igual que dice el `07`. *(Aquí ponía «≥ N$100.000 (~€5.000)»: esa cifra
+  **no está en la guía de NamRA** ❌ y no se sabe de dónde salió; lo prudente es declararlo siempre.)*
+  Productos de especies controladas, solo con permiso (Act 9/2008).
 - **España a la entrada** ✅ ([AEAT](https://sede.agenciatributaria.gob.es/Sede/viajeros-trabajadores-desplazados-fronterizos/viajeros/franquicias-tabaco-alcohol-otras-mercancias.html)):
   franquicia de **430 €/persona** en compras (guarda tickets), 200 cigarrillos, **1 L de >22° o
   2 L de <22°, MÁS 4 L de vino y 16 L de cerveza**; declarar efectivo ≥ **10.000 €**.

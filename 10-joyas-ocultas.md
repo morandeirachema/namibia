@@ -91,7 +91,7 @@ encontrarlas es la gracia; la urbana tiene pin público y se da)*:
 para la foto, ni llevarse el disco; y si dais con uno no documentado, la norma de la comunidad es
 **no publicar sus coordenadas**. El lema del autor lo dice todo: *«Art Before Artist»*.
 
-Fuentes: [foto del Lone Man en un mirador del Skeleton Coast — Alamy](https://www.alamy.com/stone-man-by-artist-renn-at-skeleton-coast-view-point-in-the-namib-desert-lone-men-kaokoland-kunene-region-namibia-africa-image499103414.html) ◐ ·
+Fuentes: [foto de un Lone Man que Alamy rotula «Skeleton Coast view point» y su propio fotógrafo sitúa en Kaokoland — Alamy](https://www.alamy.com/stone-man-by-artist-renn-at-skeleton-coast-view-point-in-the-namib-desert-lone-men-kaokoland-kunene-region-namibia-africa-image499103414.html) ◐ ·
 [Bienal de Venecia](https://www.labiennale.org/en/art/2022/national-participations/namibia) y
 [biennalenamibia.art](https://biennalenamibia.art/eng/1399) ✅ ·
 [Wikipedia — The Lone Stone Men](https://en.wikipedia.org/wiki/The_Lone_Stone_Men) ·
@@ -139,7 +139,7 @@ flowchart LR
   presidente fundador, está enterrado aquí desde el 1 de marzo de 2025** ✅ — murió el 8 de febrero
   de 2025 a los 95 y su tumba es ahora el centro del recinto. Estáis ante la tumba del hombre que
   sale en los billetes, año y medio después de que el país lo enterrase.
-  **Abre a diario 08:00–17:00 ✅ · N$70 (~€3,5) ✅**. Salís a las 09:00–09:30 con un día de 3h–3h30:
+  **Abre a diario 08:00–17:00 ✅ · N$70 (~€3,5) ✅**. Salís a las 09:00–09:30 con un día de 3h15–3h45:
   media hora que sobra, y ésta es la media hora mejor pagada del documento.
 - **El paso, para contarlo arriba** ◐ — 1.822 m en lo alto y **casi 1.000 m de caída en 4 km**,
   pendiente entre 1:4,5 y 1:6: **el paso más empinado de Namibia** y el de mayor desnivel. Lo abrió
@@ -199,7 +199,8 @@ Fuentes: [Gondwana — fairy circles](https://gondwana-collection.com/news/fairy
   salir de Sesriem si el de vuestras 24 h lo cubre ❌.
 - **Dune 7** *(a la entrada de Walvis, junto a la C14)* — la duna más alta de Namibia *(383 m ○)*,
   subida ~45 min y vistas a desierto y Atlántico a la vez. **Ya no es gratis: N$150 (~€7,5) por
-  extranjero adulto desde el 1/12/2022** ✅ *(MEFT; namibios N$50, SADC N$100)*. Llegando a media
+  extranjero adulto desde el 1/12/2022** ◐ *(MEFT vía prensa — **es la cifra de 2022**: con la subida
+  de tasas de abril de 2026 puede haber cambiado, confírmala en la duna; namibios N$50, SADC N$100)*. Llegando a media
   tarde, mejor **dejarla para el D6 al amanecer o al atardecer** ○: a mediodía la arena quema.
 
 Fuentes: [Wikipedia — C14](https://en.wikipedia.org/wiki/C14_road_(Namibia)) ◐ ·
@@ -225,7 +226,7 @@ Fuentes: [Wikipedia — C14](https://en.wikipedia.org/wiki/C14_road_(Namibia)) �
   Namib-Naukluft, parque premium: **cuenta N$280 (~€14) por persona + N$60 (~€3) el coche** ◐ y
   confírmalo en la oficina. ⚠️ **Horario de la oficina ❌ sin verificar** *(los blogs la dan cerrada en
   fin de semana; hoy es jueves, pero si a las ~15:30, de vuelta del tour, ya no abre, **el Moon
-  Landscape se cae** — no hay otra forma de tener el permiso; 03/10)*.
+  Landscape se cae** — no hay otra forma de tener el permiso; a 09/10 sigue sin verificar)*.
 - **Pelican Point y las salinas rosas** ◐ — península con **faro de 1932** *(hoy lodge)* y lobos
   marinos a tiro de piedra; el acceso cruza las **salinas rosas llenas de flamencos**. La lengua de
   arena, **en tour**: con vuestro coche es terreno de atasco y el contrato no está para bromas.
@@ -260,7 +261,7 @@ salvo el Uniab, que se deja para mañana.*
 - **Cape Cross, lo que no son los lobos** ◐ — las **dos cruces de piedra** son réplicas del
   *padrão* que **Diogo Cão plantó en 1486**: una de **1895** y otra, privada y más fiel, posterior;
   **la original está en el museo del transporte de Berlín**. Al lado, la salina que cruzó **el
-  primer ferrocarril del país** ◐. Va dentro de la entrada *(N$280 + N$60 el coche, `01`)*.
+  primer ferrocarril del país** ◐. Va dentro de la entrada *(N$280 · ~€14 por persona + N$60 · ~€3 el coche, `01`)*.
 - **La puerta de Ugabmund** — las **calaveras** de las dos hojas de la verja son la foto que abre
   todos los reportajes del parque ◐; treinta segundos, que la puerta cierra a las 15:00.
 - **La torre del Toscanini** *(~50 km al norte de la puerta — OSRM 51 —, a la derecha de la pista;
@@ -269,7 +270,6 @@ salvo el Uniab, que se deja para mañana.*
   Acordonada: se mira, no se sube.
 - **Los pecios «míticos» del tramo** *(Winston, South West Seal, Atlantic Pride)* ◐ — chatarra medio
   enterrada: la guía Bradt avisa de que queda «muy poco». El bueno fue el Zeila, esta mañana.
-- **Ojo a las crestas: los Lone Men** *(arriba)* ◐ — este parque es donde hay foto de uno.
 - **Terrace Bay es una mina** ◐ — el resort **es la antigua colonia minera reconvertida**: por eso
   hay bungalós, tienda y bar en mitad de nada. Y el **delta del Uniab**, que se cruza a ~10 km de
   llegar, **se deja para mañana al amanecer** *(D8)*.
@@ -384,11 +384,13 @@ Fuentes: [etoshanationalpark.com.na — mapa](https://etoshanationalpark.com.na/
   escaparon de noche está en el `19`. Contando el reloj hacia atrás desde las ~16:30 en Von
   Lindequist —la hora del sundowner de Onguma—, no desde las 19:10 de la puerta *(03/10)*.
 
-### D13 · jue 12 — Etosha este desde Onguma: Fischer's Pan
+### D13 · jue 12 — Etosha este desde Onguma: Andoni y Fischer's Pan
 
-- **Hoy no hay joya fuera del plan: el día entero es del guepardo** — Chudop, el **Dik-dik Drive**
-  de Klein Namutoni, Fischer's Pan y el game drive guiado de Onguma ya están en el `01`, con sus
-  horas. Comer en el coche y la última luz en llanura: eso es la joya.
+- **Hoy no hay joya fuera del plan: el día entero es del guepardo** — **Andoni primero**, al abrir
+  la puerta *(Namutoni → Tsumcor → Andoni, ~80 km ida y vuelta ◐ OSRM)*; Fischer's Pan y Twee
+  Palms a la vuelta; el **Dik-dik Drive** de Klein Namutoni el último, al anochecer — y el game drive
+  guiado de Onguma, si gana la primera luz. Todo en el `01`, con sus horas. Comer en el coche y la
+  última luz en llanura: eso es la joya.
 
 ### D14 · vie 13 — Onguma → Tsumeb → Otavi → Otjiwarongo → Windhoek
 
@@ -457,9 +459,10 @@ Fuentes: [Wikipedia — Gibeon (meteorite)](https://en.wikipedia.org/wiki/Gibeon
   viaje: no cabe *(D14)*. N$250 (~€12,5) ◐ por si algún día se parte el D14 en dos.
 - **Vingerklip** *(el «dedo de Dios», monolito de 35 m)* — solo encaja **cambiando el D10 a la
   variante Khorixas–Outjo, que son +111 km medidos** *(desvíos)*. Precio ○: ~N$20 (~€1).
-- **Spitzkoppe y Brandberg** — no son joyas de esta ruta sino de la **variante interior**, la que
-  se activa solo si Terrace Bay se queda sin sitio: medidas y con veredicto en
-  [los desvíos](aparte/desvios-que-valen-la-pena.md).
+- **Spitzkoppe** — no es joya de esta ruta sino **el plan B de Terrace Bay**: si NWR no tiene sitio
+  el 6/11, el D7 baja por dentro y se duerme en su camping comunitario *(~N$640 · ~€32 los dos ◐,
+  reservations@logufa.com — `01` §D7)*. **Brandberg** solo entra si ya se va por ahí. Medidas y con
+  veredicto en [los desvíos](aparte/desvios-que-valen-la-pena.md).
 - **El lago Oanob** *(junto a Rehoboth, a 3 km de la C24 del D2)* — no se ha investigado: consta
   aquí para que no parezca olvido.
 
@@ -473,8 +476,10 @@ Fuentes: [Wikipedia — Gibeon (meteorite)](https://en.wikipedia.org/wiki/Gibeon
 - **Accesos sin confirmar** ❌: si el ramal del **Etosha Lookout** está abierto con las obras; si el
   permiso de Sesriem cubre bajarse en Vogelfederberg y en el Kuiseb; y cómo está señalizada hoy la
   pista al refugio de Henno Martin.
-- **Los Lone Men del Skeleton Coast** no se prometen: hay una foto de uno en un mirador del parque, y
-  nada más. Encontrarlos es la obra.
+- **Ningún Lone Man en el campo**: el más meridional que nadie ha encontrado está entre Sesfontein
+  y Purros, 100–250 km al norte de vuestro tramo de costa, y la foto que se citaba como «del
+  Skeleton Coast» es de Kaokoland *(arriba, 28/08)*. En este viaje, solo el Telephone Man de
+  Windhoek — y con una sola fuente.
 
 ---
 

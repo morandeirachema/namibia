@@ -14,7 +14,8 @@
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Levantada el 05/08/2026 · completada con cantidades el 06/08/2026*
+> *Levantada el 05/08/2026 · completada con cantidades el 06/08/2026 · puesta al 09/10/2026 (la
+> pauta entera de Malarone, el protocolo de serpiente y lo que no consta pedido)*
 
 ---
 
@@ -51,10 +52,11 @@ el viaje sigue; si se pierde la cabina, no.
 - [ ] **Billetes de avión impresos** ×1 p.p.
 - [ ] **Reservas impresas** ×1 de cada: coche, **Windhoek Urban Camp**, **Spreetshoogte**,
       **Sesriem ×2**, **Terrace Bay**, **Okaukuejo**, **Halali** y **Onguma Tamboti ×2**
-      *(Terrace Bay sin reserva en papel no entra al parque ✅ — ⚠️ **y al 03/10 esa confirmación
-      no existe: la noche sigue sin reservar** ❌, `20` §4)*
+      *(Terrace Bay sin reserva en papel no entra al parque ✅ — ⚠️ **y al 09/10 esa confirmación
+      no existe: la noche sigue sin reservar** ❌ — desde el ~7/10 NWR cobra el 100 % de golpe y
+      anular cuesta el 30 % hasta el ~22/10, `20` §4)*
 - [ ] **Confirmación de las actividades pre-reservadas en Onguma** ×1 — el Sundowner del D12 y el
-      game drive del D13 *(decididos el 26/08; **pedirlas no consta hecho** ❌ — `20` §9)*
+      game drive del D13 *(decididos el 26/08; **a 09/10 pedirlas no consta hecho** ❌ — `20` §9)*
 - [ ] **Prueba de fondos** ○ — extracto o captura de la cuenta: el MAEC da como referencia
       **N$1.200 (~€60) por persona y día** ≈ ~N$36.000 (~€1.800) los dos *(`12` §6; lo piden «a la
       entrada», aunque rara vez lo miren)*
@@ -95,7 +97,9 @@ el viaje sigue; si se pierde la cabina, no.
       *(PolyArt, con **tiempos de viaje por cada pista** — el mapa hermano del navegador del
       viaje; se vende desde Sudáfrica/UK ◐, p. ej.
       [mapsworldwide](https://www.mapsworldwide.com/maps-charts-atlases-c1811/road-maps-c1932/namibia-tracks-map-p26089)
-      con envío internacional — pedirlo con margen)*
+      con envío internacional)*. ⚠️ **A 09/10, a tres semanas del vuelo, el Tracks4Africa se pide
+      HOY o se descarta** ❌ *(el plazo de un envío desde Sudáfrica o el Reino Unido no consta, y no
+      hay margen para esperarlo)*: si no, el Reise Know-How, que llega de Amazon
 - [ ] **Libreta y boli** ×1 ✅ — para apuntar las presiones en frío de la entrega *(`06`)*.
       Modelos, de papel que aguanta sudor y polvo: **[Rite in the Rain 374-M, 9×13 cm,
       negra](https://www.amazon.es/dp/B00J535NN2)** ✅ 16,54 € · o la **[Rite in the Rain de
@@ -326,8 +330,15 @@ público, ES/APP(NA)-2016-19-00365 ✅ —
 
 - [ ] **Profilaxis de malaria** ✅ — la pauta **completa** más 3–4 días de margen. Ojo a la
       geografía: el riesgo se define **por regiones, y Kunene incluye Terrace Bay** — la entrada
-      en zona es el **D7 (vie 6)** *(un día antes desde el 24/08)*. Si es Malarone, empieza en
-      viaje *(~4–5 nov)*; si es mefloquina, **~16–23 de octubre**. Y a la cita del CVI, con el dato: para la guía oficial
+      en zona es el **D7 (vie 6)** *(un día antes desde el 24/08)*, y **la salida, el D14 (vie
+      13)**, porque la vuelta cruza Oshikoto y Otjozondjupa *(`04` §malaria)*.
+      **Si es Malarone** ✅ *([ficha técnica, CIMA](https://cima.aemps.es/cima/dochtml/ft/63452/FT_63452.html),
+      09/10)*: **un comprimido al día, con comida o bebida láctea, a la misma hora**, desde 24–48 h
+      antes de entrar hasta **7 días después de salir** → **del mié 4 o jue 5 de noviembre al vie
+      20, ya en casa**: 16–17 comprimidos por persona, ~20 con el margen. **La caja trae 12** ✅:
+      **2 cajas por persona, 4 los dos**. Si es mefloquina, **~16–23 de octubre**; si es
+      doxiciclina, del 4–5/11 **hasta 4 semanas después de salir** y con el sol en contra
+      *(`04`)*. Y a la cita del CVI, con el dato: para la guía oficial
       británica, en estas regiones **de mayo a noviembre basta evitar picaduras, sin
       quimioprofilaxis** ✅ *([TravelHealthPro](https://travelhealthpro.org.uk/country/157/namibia))* — que lo decida el CVI con eso delante *(`04`)*.
       **Con receta, siempre** ✅: **[Malarone 250/100 mg](https://cima.aemps.es/cima/publico/detalle.html?nregistro=63452)** o su genérico
@@ -392,7 +403,8 @@ que va con «sin receta» es el del CIMA*
       🎯 **Para qué** ✅ *(prospecto)*: **la alergia de nariz y ojos** —estornudos, moqueo, picor
       de ojos; el polen o el polvo—. ⚠️ **Ni la Alercina ni el Clarityne dicen servir para el
       picor de una picadura ni para la urticaria**: eso es el Fenistil, abajo. Al médico si en 3
-      días *(Alercina)* o 7 *(Clarityne)* no mejora
+      días *(Alercina)* o 7 *(Clarityne)* no mejora. ⚠️ Y **no tras una picadura de escorpión**
+      *(`22`: ni antihistamínicos ni corticoides «de rutina»)*: eso es frío y hospital
 - [ ] **Protector gástrico** — 1 caja ○ — **[Almax 500 mg, 24
       comp.](https://www.farmaciasdirect.eu/products/almax-500-mg-24-chewable-tablets)** 9,87 € · sin receta ✅
       *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=55396))* · o **[Omeprazol Pensavital 20 mg, 14
@@ -408,7 +420,9 @@ que va con «sin receta» es el del CIMA*
       *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=16409))*. ⚠️ **Da sueño: para el copiloto, nunca para quien conduce**.
       🎯 **Para qué** ✅ *(prospecto)*: **prevenir y tratar el mareo del transporte** —náuseas,
       vómitos, vértigo—. **Se toma antes del tramo**: al menos media hora, mejor 1–2 horas ✅
-      *(sección 3 del mismo prospecto)*
+      *(sección 3 del mismo prospecto)*. ⚠️ Y **no tras una picadura de escorpión** *(`22`)*: el
+      dimenhidrinato es un antihistamínico que da sueño, y ahí no van **ni sedantes ni
+      antihistamínicos** ✅ — aunque la picadura dé náuseas
 - [ ] **Laxante suave o fibra** ○ — dieta de camping y poca verdura. **[Plantaben 3,5 g, 30
       sobres](https://www.farmaciaevacontreras.com/producto/plantaben-polvo-efervescente/)** 8,96 €
       · sin receta ✅ *([CIMA](https://cima.aemps.es/cima/publico/detalle.html?nregistro=56342))*.
@@ -540,6 +554,27 @@ que va con «sin receta» es el del CIMA*
       illness must be taken seriously and investigated promptly»)*. Los guantes ○, curar a otro sin
       tocar su sangre
 
+**🐍 Mordedura de serpiente — el protocolo, corto** ✅ *(el del [African Snakebite
+Institute](https://www.africansnakebiteinstitute.com/articles/first-aid-for-snakebite-2/), leído el
+09/10; es el que el `22` da por «protocolo de serpiente del `17`» y no estaba escrito hasta hoy)*.
+Del botiquín solo pide la venda y la mascarilla: **lo que salva es llegar al hospital**. Los
+teléfonos toxicológicos, con los de emergencia del [`07`](07-logistica.md).
+
+- **Lejos de la serpiente y quieto** ✅ — una segunda mordedura lo complica todo. **Calmar a la
+  víctima** y que **no mueva el miembro** *(una férula ayuda)*. **No intentar cogerla ni matarla**
+  ✅ — al revés que con el escorpión y su bote: como mucho, una foto de lejos ○
+- **Fuera anillos, pulseras, reloj y lo que apriete** ✅ — el miembro se hincha
+- **Al hospital, avisando antes** ✅ — llamar a urgencias, o conducir si es más rápido; donde no
+  hay señal, el SOS del satelital *(`07`)*
+- **NADA de torniquete, ni cortar, ni chupar, ni hielo ni calor, ni antiinflamatorios** ✅
+- **La venda de presión, SOLO para mamba y cobra no escupidora** ✅ *(veneno neurotóxico: párpados
+  caídos, problemas para tragar o respirar)* — **«nunca» en una mordedura citotóxica**, la de la
+  **víbora bufadora** *(hinchazón y dolor que avanzan)*, para la que el ASI dice que **no hay
+  primeros auxilios eficaces**: solo el traslado. **Si no se sabe cuál fue**, el ASI da para el
+  medio rural una almohadilla de presión sobre la mordedura, vendada encima, y al hospital ✅
+- **Si deja de respirar: una insuflación suave cada 6 segundos** ✅ — con la mascarilla de RCP
+- **Veneno en los ojos** *(cobra escupidora)*: **lavar con mucha agua** ✅
+
 **Sol y bichos — lo que de verdad se gasta**
 
 - [ ] **Crema solar 50+ ×4 tubos de 200 ml** ◐ — el sol es el riesgo diario real, no la fauna: el
@@ -606,7 +641,8 @@ que va con «sin receta» es el del CIMA*
       genéricos (Travel Blue, Skross 1103180) **excluyen Sudáfrica/Namibia explícitamente** — el
       pin M es más grueso que el que llevan de serie. Hace falta el producto específico: **[Skross
       44703 «South Africa World Adapter»](https://www.amazon.es/Skross-44703-Adaptador-Mundial-Sud%C3%A1frica/dp/B01JN9Z8RI)**
-      ✅ 8,83 €/ud (17,66 € los dos, Amazon)
+      ✅ 8,83 €/ud (17,66 € los dos, Amazon). ⚠️ **A 09/10 no constan pedidos** ❌ — el `05` los quería
+      «pedidos online YA» desde agosto: **esta semana**, que es el fallo tonto del repaso de la víspera
 - [ ] **Regleta pequeña o ladrón ×1** ◐ — la parcela tiene **una** toma en el poste y sois dos
       móviles, cámara, frontales y powerbank *(dos listas de Namibia la llevan; el cierre del
       enchufe camp a camp, en [`18`](18-manual-de-campamento.md) §5)*. Modelo: **[Garza Power, 4
@@ -618,9 +654,9 @@ que va con «sin receta» es el del CIMA*
       regleta *(elegida sin USB)* y el enchufe del poste: el cargador de mechero solo carga con el
       motor en marcha. **Cualquiera de los de casa sirve** — se apunta para que no se quede en la
       mesilla
-- [x] **Powerbank ×1 grande** ○ *(el enchufe en parcela quedó confirmado el 11/08 para los cuatro
-      NWR de interior ◐ — `18` §5; el powerbank cubre Spreetshoogte, Hoada y las tomas rotas de
-      Sesriem)*. **Resuelto (21/08): Anker de 20.000 mAh, ya en posesión** ○ — no hace falta
+- [x] **Powerbank ×1 grande** ○ *(el enchufe en parcela quedó confirmado el 11/08 ◐ — `18` §5 —
+      para las noches de NWR de interior, **Sesriem, Okaukuejo y Halali**, y para Onguma Tamboti;
+      el powerbank cubre Spreetshoogte, Hoada y las tomas rotas de Sesriem)*. **Resuelto (21/08): Anker de 20.000 mAh, ya en posesión** ○ — no hace falta
       comprar.
       ⚠️ **Y esto sí importa el día del vuelo: VA EN CABINA, nunca en la maleta facturada** ✅ —
       es norma IATA para toda batería de litio suelta. Los 20.000 mAh a 3,7 V son
@@ -779,9 +815,11 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       ✅ 24,99 €
 - [ ] **Multiherramienta ×1** — **facturada, jamás en cabina** ○. **Ya en posesión** ○ — no hace
       falta comprar
-- [ ] **Navaja ×1** — **facturada, jamás en cabina** ○ *(a comprar; la multiherramienta ya cubre
-      alicates y destornilladores, pero no sustituye a una navaja de hoja fija/plegable de verdad)*.
-      Con cordón para el cuello, como se pidió: **[Carimee, mango de madera, orificio para
+- [x] **Navaja ×1** — **facturada, jamás en cabina** ○. **Ya en posesión: hay una en el equipaje**
+      *(nota del 21/08, §lo que NO se lleva)* — no hace falta comprar. *(Hasta el 09/10 este ítem
+      decía «a comprar» y el de abajo, que ya la había: manda la nota del 21/08.)* Solo si la que
+      hay no lleva orificio para cordón *(se pidió con cordón para el cuello)* y se quiere una que
+      sí: **[Carimee, mango de madera, orificio para
       cordón](https://www.amazon.es/Carimee-C12RDE-Navajas-M012B02DE/dp/B0DKDPMHPJ)** ✅ 11,13 €
       (Amazon, acero D3) — Decathlon no tiene ninguna navaja de su gama con ese orificio; si el
       cordón no fuera imprescindible, la alternativa allí es el clásico **[Opinel n.° 8](https://www.decathlon.es/es/p/navaja-de-camping-trekking-senderismo-acero-inoxidable-opinel-numero-8/X8277671/c27m8277671)**
@@ -825,8 +863,8 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       suelo, no techo: el FCDO dice «plenty of water» sin cifra, y la referencia overlanding pide
       **5 L y doblar el margen en los tramos sin servicios** ◐
       *([Tracks4Africa](https://blog.tracks4africa.co.za/water-supply-overland/))*.
-      👉 **La cuenta del tramo largo ○** *(03/10)*: de Henties Bay (D7) a Kamanjab (D9) son **tres
-      días sin tienda fiable** *(`07`)* → **24 L para beber los dos** + la cocina de dos noches
+      👉 **La cuenta del tramo largo ○** *(03/10)*: de Henties Bay (D7) a Kamanjab (la mañana del
+      D10) son **tres días sin tienda fiable** *(`07`)* → **24 L para beber los dos** + la cocina de dos noches
       *(~2–3 L por noche ○)* ≈ **~30 L**: **seis garrafas de 5 L o tres de 10 L**, compradas el D6
       en Walvis Bay o el D7 en Henties Bay *(la lista del `08` dimensiona la compra del D1, no
       ésta)* — aparte de la garrafa de 20 L del coche, que no se bebe
@@ -884,7 +922,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       la medianoche**, cuando el campamento se acuesta ◐
       *([Viatu](https://www.viatu.com/en/blog/namibia/a-complete-guide-to-etosha-national-parks-waterholes))*
 
-**Kit costa — D6 a D8**
+**Kit costa — D5 a D7**
 
 - [ ] Cortavientos
 - [ ] Buff para Cape Cross

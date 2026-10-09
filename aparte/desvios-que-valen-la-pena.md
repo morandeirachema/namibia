@@ -208,7 +208,7 @@ primera mitad no tiene nada reservado y la segunda sí**: Etosha está cerrada c
 flowchart LR
 %% ancho
     A["YA GASTADO 24-08<br/>el dia entero en Spreetshoogte"] --> A2["se fue a DAMARALAND<br/>-> noche en Twyfelfontein el D8<br/>y manana libre el D9<br/>(el rastreo de rinoceronte NO cabe:<br/>sale a las 06:00 - auditoria del 28-08)"]
-    B["QUITAR LA 2a NOCHE DE ONGUMA<br/>el D13 · SIGUE DISPONIBLE"] --> B2["se duerme en el CCF<br/>-> Cheetah Run de las 08:00<br/>(Okonjima ya NO tiene guepardo)<br/>y el D14 deja de ser 539 km"]
+    B["QUITAR LA 2a NOCHE DE ONGUMA<br/>el D13 · DESCARTADO 26-08"] --> B2["se duerme en el CCF<br/>-> Cheetah Run de las 08:00<br/>(Okonjima ya NO tiene guepardo)<br/>y el D14 deja de ser 539 km"]
     style A fill:#7D776E,color:#fff
     style B fill:#2d6a4f,color:#fff
     style A2 fill:#2d6a4f,color:#fff
@@ -230,7 +230,7 @@ flowchart LR
 - **Qué costó**: **el colchón**. Ya no hay ningún día que sacrificar si el vuelo se retrasa; la red
   que queda es **no reservar la noche del D8**, que es la única sin penalización.
 
-### Donante B · quitar la SEGUNDA noche de Onguma (D13) — **el que sí compra el guepardo, y sigue vivo**
+### Donante B · quitar la SEGUNDA noche de Onguma (D13) — **el que sí compra el guepardo** *(descartado el 26/08: arriba)*
 
 - **Cómo queda**: el **12 de noviembre**, en vez de la segunda noche de Onguma, se conduce hasta el
   **CCF (331 km desde Onguma, mínimo ~3 h 26)** y se duerme allí. El
@@ -243,9 +243,10 @@ flowchart LR
 - **Qué cuesta**: Onguma es **reserva privada de 35.970 ha con leopardo, guepardo y
   rinoceronte confirmados por escrito**, con **baño propio en la parcela**, **salida al atardecer
   con foco y campo a través** y **paseo a pie**, las dos cosas que el parque prohíbe *(`21`)*. Se
-  pierde además **el D13 de safari en Fischer's Pan**. Y **es una noche RESERVADA**: ❌ **sus
-  condiciones de cancelación siguen sin pedirse**, y **se ha decidido asumirlas a ciegas** *(24/08)*
-  — sobre N$1.240 (~€62), el techo del riesgo es pequeño.
+  pierde además **el D13 de safari en Fischer's Pan**. Y **es una noche RESERVADA**: ~~❌ **sus
+  condiciones de cancelación siguen sin pedirse**, y **se ha decidido asumirlas a ciegas** *(24/08)*~~
+  — **cerrado el 25/08** ✅: estaban en el propio PDF de Onguma *(cancelar el camping es el 100 %;
+  posponer por escrito, no — `15` §auditoría)*. Sobre N$1.240 (~€62), el techo del riesgo es pequeño.
 - **El intercambio, dicho sin adornos**: se cambia un **guepardo salvaje improbable pero real**
   *(Onguma, reserva privada)* por un **guepardo casi seguro que no es salvaje** *(CCF)* o por uno
   **casi seguro pero cautivo** *(CCF)*. **Okonjima ya no es opción de guepardo** *(§3)*: lo suyo
@@ -304,7 +305,7 @@ rojos de 700 millones de años sobre la llanura, el **arco de roca** que es la p
 
 **Lo que cuesta llegar, medido.** Aquí está lo interesante, y no es lo que uno espera:
 
-- **Como excursión de un día desde Walvis en el D7** *(el día de descanso)*: **192 km por sentido,
+- **Como excursión de un día desde Walvis en el D6** *(el día de descanso)*: **192 km por sentido,
   383 km ida y vuelta** ✅ *(OSRM)*. A velocidad de planificación son **~5 horas de coche**.
   **Se carga el único día sin conducir del viaje.** ❌ No.
 - **Como variante que sustituye a la costa**: **Walvis → Spitzkoppe → Twyfelfontein son 413 km**,

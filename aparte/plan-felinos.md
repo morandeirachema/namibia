@@ -160,7 +160,7 @@ tocan.
 ## 3 · La vía casi segura — la noche del D14 en Okonjima, no en Windhoek
 
 **La idea**: el D14 se conduce **Onguma → Okonjima, 312 km** en vez de Onguma → Windhoek, 539; se
-duerme **en su camping** *(la noche de Windhoek del D14 no está reservada — `20` §6)*; se hace **el
+duerme **en su camping** *(la noche de Windhoek del D14 no está reservada — `20` §5)*; se hace **el
 rastreo de leopardo de la tarde** y, si falla, **el de la mañana siguiente**; y el D15 son **225 km
 por la B1 hasta Windhoek**, con la tarde de regalos y la entrega del coche como estaban. **Ni el
 D13, ni las dos noches de Onguma, ni el vuelo se tocan.**

@@ -16,9 +16,18 @@ make lamina     solo la lámina de ruta (A2, una hoja)
 make agenda     solo la agenda (el día a día del `01`, dos A4 por día: mapa y explicación)
 make avistam    recuentos de GBIF y porcentajes por campamento (las 4 zonas de la ruta)
 make mymaps     los CSV y el KML de `aparte/` para Google My Maps
+make gps        el GPX y el KML de la ruta, para el GPS y el móvil
+make mapas      los cuatro mapas de `img/mapas/`, SVG y PNG (el PNG lo saca Chrome)
+make charcas    reescribe `aparte/charcas-de-los-campamentos-de-etosha.md` desde el cache
+make imagenes   baja las fotos del catálogo de Commons (red)
+make geo        baja y cachea la geometría de `fuente/geo/` (red: OSRM, Overpass, Nominatim)
 make comprueba  las comprobaciones de abajo
 make todo       de cero: imágenes, geometría, avistamientos, mapas y los cuatro PDF
+make limpia     borra el HTML intermedio
 ```
+
+`gps`, `mymaps`, `mapas` y `charcas` no tocan la red: tras cambiar `trazado.py` se pueden rehacer
+sin más, y `make comprueba` los compara byte a byte con lo commiteado.
 
 La **lámina** (`lamina.py` → `mapa-ruta-namibia-2026.pdf`) es una hoja A2 suelta para imprimir: el
 mapa de ruta grande, las quince etapas y una banda de reglas. No lleva ni un dato a mano — las
@@ -87,7 +96,7 @@ y se queda **solo con las viñetas**: cada viñeta es una joya con dónde cae, q
 desvío añade. Los párrafos sueltos y las líneas «Fuentes:» del `10` son del dossier y no pasan.
 Por eso en el `10` las viñetas son cortas y los porqués van en párrafo aparte. **El mapa cede
 altura al bloque** según lo largo que sea: 800 px de alto hasta 1.100 caracteres de opcionales,
-700 hasta 1.700 y 600 por encima —el D7, con nueve joyas— (`agenda.alto_mapa`); si no, la lista
+700 hasta 1.700 y 600 por encima —a 09/10, el D6, el D7, el D8 y el D14— (`agenda.alto_mapa`); si no, la lista
 saltaba entera a una tercera página, que es lo que pasó la primera vez con el D5, el D7, el D8 y
 el D14.
 
@@ -162,10 +171,15 @@ Se mantenían a mano hasta el 24/08 y al mover una noche se quedaban contando la
 que nada avisara. Los puntos que la ruta pisa pero que **no son ancla de enrutado OSRM** —hoy
 Deadvlei y Torra Bay— no aparecen en ningún `por`, así que llevan su día escrito en
 `trazado.A_MANO`; es el único sitio donde se dice a mano en qué día cae un punto. *(Hasta el 25/09
-vivía en `mapas_google.py` y el GPX no lo veía: los dos waypoints salían sin día.)*
+vivía en `mapas_google.py` y el GPX no lo veía: los dos waypoints salían sin día.)* Los días de
+cada punto los da **una sola función**, `trazado.dias_del_punto`, para el GPX y para My Maps *(hasta
+el 09/10 My Maps llevaba su propia copia, que no contaba la noche como día de paso: Walvis Bay
+salía «D5, D7», sin el D6 que se pasa entero allí)*.
 
 **La clase «gasolinera obligatoria» (`combu`) no se escribe en `PUNTOS`**: la pone
-`trazado.GASOLINERAS` al final del módulo, y `make comprueba` exige que las obligatorias de esa
+`trazado.GASOLINERAS` al final del módulo —sea cual sea la clase del punto, que queda en
+`trazado.CLASE_BASE` para la lámina; hasta el 09/10 solo se marcaba si era «ciudad» y una
+obligatoria en otro punto se quedaba sin marcar, callada—, y `make comprueba` exige que las obligatorias de esa
 tabla sean las del diagrama del `01` §gasolineras. Hasta el 25/09 iba a mano en `PUNTOS` y
 Otjiwarongo salía como obligatoria en el GPX, en My Maps y en el mapa del dossier mientras el `01`
 y la lámina la daban por opcional.
@@ -203,8 +217,11 @@ que conduce: **en qué día toca buscar esto**. Sale de `guia_fauna.en_la_ruta()
 `geo/avistamientos.json` que la de arriba: **ni una consulta más ni un fichero más**.
 
 El mapa que la sitúa es `mapa.mapa_zonas()` → `img/mapas/zonas-fauna.svg` y `.png`: las cuatro
-zonas con la ruta encima y cuántas fichas tienen su grueso en cada una *(Etosha 97, la costa 31,
-Damaraland 18, el Namib 6)*. **Se dibuja desde el WKT que `avistamientos.py` cacheó**, no desde una
+zonas con la ruta encima y cuántas fichas tienen en cada una **el grueso de sus registros de
+octubre-noviembre** —la zona con más registros *absolutos* de oct-nov, la misma regla que la línea de
+posibilidades—: **152 de las 159** *(Etosha 97, la costa 31, Damaraland 18, el Namib 6)*; las 7 que
+no tienen ni un registro de oct-nov no caen en ninguna (`mapa._fichas_por_zona`). El `09` lo cuenta
+en prosa y `revisa_zonas_del_09` exige que diga esas mismas cifras. **Se dibuja desde el WKT que `avistamientos.py` cacheó**, no desde una
 geometría aparte: si la caja cambia, el mapa cambia con ella y la ficha no puede separarse del
 dibujo. Va dentro de la guía *(SVG en línea)* y dentro del `09` *(vía `dossier.MAPAS_EN_DOC`)*.
 
@@ -255,7 +272,13 @@ Que estén las 208 imágenes con licencia libre y autor, que el catálogo y los 
 la geometría de la ruta esté completa, **que ningún porcentaje de avistamiento se quede sin su
 muestra detrás**, que las 159 especies tengan recuento y **que ninguna sea de fuera de la ruta**, que los PDF tengan las páginas que
 deben, **que la portada mida sus 267 mm** —si mide menos, Chrome ha encogido el documento— y que el
-README no mienta ni en el número de páginas ni en el índice de documentos.
+README no mienta ni en el número de páginas ni en el índice de documentos. **La escala se mide en
+tres PDF desde el 09/10**, no solo en el dossier: la guía de fauna tiene el mismo bloque de 267 mm,
+y la agenda, que no tiene foto de portada, se mide por **dónde cae el filete de su pie** *(a 270 mm
+del borde; encogida al 95 % ya sube 13)*. La licencia libre es **una sola regla**,
+`catalogo.licencia_libre`, para `descargar.py` y para esto: acepta CC BY, CC BY-SA, CC0, dominio
+público y FAL y **rechaza NC y ND** *(hasta el 09/10 bastaba con empezar por «CC BY», y
+«CC BY-NC-SA» empieza así)*.
 
 Y **que el presupuesto cuadre consigo mismo**, que es lo que se coló tres días seguidos: las dos
 tartas —la del README va **por persona** y la del `02` §1 **por pareja**— tienen que **sumar el
@@ -292,8 +315,12 @@ Y que la **lámina de ruta sea UNA hoja A2** *(si se desborda salen dos y la seg
 vacía; el margen es de pocos milímetros, así que cualquier línea de más en la banda de abajo lo
 rompe)*. Y que **cada documento del PDF tenga su resumen en `RESUMEN`** de `dossier.py` *(el índice sale
 mudo si falta y nada avisaba)*. Más las tres convenciones de arriba, que antes solo estaban
-escritas: **ninguna tabla de markdown**, **el `%% ancho` en la segunda línea** del bloque Mermaid,
-y **todo precio en N$ con su € al lado**.
+escritas: **ninguna tabla de markdown** *(buscada en el HTML que sale de markdown-it, no con un
+`^\|`: desde el 09/10 también caza la tabla dentro de una cita o de una lista)*, **el `%% ancho` en
+la segunda línea** del bloque Mermaid, y **todo precio en N$ con su € al lado — el suyo**: desde el
+09/10 cada N$ necesita un € propio, detrás de él antes del siguiente N$ y a no más de 40
+caracteres, o pegado delante si ningún otro lo ha usado. Antes valía cualquier € a 80 caracteres y
+en «N$1.740/persona → N$3.480 (~€174)» el segundo tapaba al primero: 30 precios pasaban así.
 Lo del euro se comprueba solo en los documentos que se leen sobre el terreno —`01`, `03`, `13`,
 `18`, `21` y `22`— y en el cuaderno de reservas —`20`, que se lee con la tarjeta en la mano—, porque los de
 investigación citan cifras para desmentirlas *(«N$150 es lo que repiten los blogs»)* y tarifas que
@@ -306,32 +333,66 @@ variante; desde el 25/09 exige además que titulen km todos los días que se con
 cambio de formato no la deje en «0 con kilómetros» y en verde)*; que **la cuenta atrás del
 README cuadre con la fecha que él mismo declara, y que esa fecha sea la que imprimen los tres PDF**
 —vive en `fuente/fecha.py` y de ahí la leen `dossier.py`, `agenda.py` y `lamina.py`, porque el
-26/08 cada uno llevaba la suya y salieron con tres fechas—; que **el `01` conserve los dos
+26/08 cada uno llevaba la suya y salieron con tres fechas—. **Desde el 09/10 se lee de lo impreso**
+(`revisa_fechas_impresas`): pdftotext de las dos primeras páginas de cada PDF, que tienen que
+llevar `fecha.FECHA` *(la guía de fauna no la imprime)* y las fechas del viaje; antes solo se
+comparaba fecha.py con el README, y subir las dos sin regenerar nada pasaba en verde. Que **el `01` conserve los dos
 encabezados entre los que `agenda.py` recorta el día a día, y el `10` sus quince `### Dn ·`**; y que
 **los 22 documentos tengan título**.
 
 **Los derivados se comparan byte a byte, desde el 25/09** (`revisa_derivados`): el GPX y el KML
-del GPS, los tres de My Maps y el estudio de charcas. Cada generador —`gps.textos()`,
-`mapas_google.textos()`, `estudio_charcas.textos()`— devuelve su texto sin escribir nada, y lo que
+del GPS, los tres de My Maps, el estudio de charcas y, desde el 09/10, **los cuatro SVG de
+`img/mapas/`** *(los PNG no: los saca Chrome y no salen iguales de una máquina a otra)*. Cada
+generador —`gps.textos()`, `mapas_google.textos()`, `estudio_charcas.textos()`, `mapa.textos()`—
+devuelve su texto sin escribir nada, y lo que
 no coincida con el disco es un derivado sin regenerar. Antes solo se contaban pistas y puntos del
 GPX, y un punto con la clase o el día cambiados pasaba. Sigue exigiendo que **el README cuente
 bien los puntos y las pistas del GPX**. Y `revisa_geo` coteja campo a campo los metadatos que
-`ruta.json` y `ruta-alt.json` guardan de cada etapa con `trazado.py`.
+`ruta.json` y `ruta-alt.json` guardan de cada etapa con `trazado.py`, y `revisa_interes` que
+`geo/interes.json` lleve **cada consulta de `geodatos.INTERES`** —con coordenada o en
+`sin_resultado`— con su mismo rótulo, clase y días, y ninguna de más. *(`geodatos.py interes` ya no
+guarda un error de red como «sin resultado»: eso dejaba el punto fuera del mapa para siempre.)*
+
+Y **que la clase «parada» sea donde se duerme, y nada más** (`revisa_clases`, desde el 09/10): todo
+«duerme» de `ETAPAS` y `ETAPAS_ALT` es «parada» en `PUNTOS`, y toda «parada» es el «duerme» de
+algún día, salvo `trazado.DUERME_SIN_PARADA` *(hoy solo Windhoek, que es la capital y pesa como
+ciudad en todos los mapas)*. Namutoni siguió como «parada» desde el 24/08 hasta el 09/10 y el GPS y My
+Maps lo daban como «donde se duerme · D12, D13»; Spreetshoogte, donde sí se duerme, salía como
+puerto de montaña. Hoy Namutoni es «hito» y Spreetshoogte «parada».
+
+Y **que el tiempo que titula cada día del `01` caiga en la banda de su mapa** (`revisa_horas_del_01`,
+desde el 09/10): la ficha de la agenda da «mínimo 3 h 56 · realista 5 h 00–6 h 14»
+(`agenda.tiempos_del_dia`) y el titular del mismo día, dos páginas después, daba su propia cifra a
+mano. Cada hora del titular —las dos puntas de «~3h15–3h45» o la única de «~4h30»— tiene que caer
+entre el mínimo y el realista alto, con 2 minutos de redondeo. Los días que no titulan tiempo a
+propósito van en `SIN_HORA_EN_EL_TITULAR` *(la llegada, las dunas, el descanso, el logístico del
+D7, los tres de safari y el vuelo)*; cualquier otro sin hora falla, porque o ha cambiado el formato
+o se ha perdido la cifra.
 
 **Las fechas del viaje** *(«30 de octubre – 15 de noviembre de 2026», de puerta a puerta)* viven
 en `fecha.VIAJE` y de ahí las leen las cuatro portadas y el estudio de charcas; la portada del
 dossier saca además los km de `ruta.json` y el total por persona del titular del README. `make
 comprueba` exige que la cabecera del README diga lo mismo, y **avisa sin fallar** si el README
 lleva más de 14 días sin actualizarse o si hay commits de documentos posteriores a su fecha:
-comparar con hoy en rojo pondría el CI rojo cada día sin que nadie haya roto nada.
+comparar con hoy en rojo pondría el CI rojo cada día sin que nadie haya roto nada. Desde el 09/10
+avisa también **si algo de lo que alimenta un PDF tiene un commit posterior al del PDF**
+(`revisa_pdf_al_dia`, con la lista de fuentes de cada uno en `FUENTES_PDF`), y si
+`geo/ruta.json` cambió otro día que el que el dossier imprime como fecha de la medición
+(`fecha.RUTA_MEDIDA`). Para eso el CI hace checkout con `fetch-depth: 0`: con el clon de un solo
+commit todo parece tocado a la vez y el aviso del README salía en cada push. Las fechas del viaje
+son ahora dos `date` —`fecha.SALIDA` y `fecha.VUELTA`— y de ellas salen `VIAJE`, `VIAJE_CORTO`,
+la cuenta atrás de `comprobar.py` y la fecha de cada etapa (`fecha.de_etapa`), que antes llevaban
+cada una su 2026 escrito a mano.
 
 Y **que el sol y la luna del `01` salgan del cálculo y no de la memoria** *(desde el 28/08)*: los
 quince amaneceres, los quince ocasos y la fracción iluminada de cada noche se recalculan en
 `fuente/astro.py` —**algoritmo solar de la NOAA** con cenit 90,833° y **series de Meeus** para la
 fase, sin red ni dependencias— y `revisa_sol_y_luna` los cotea línea a línea contra el markdown
 *(la luna, desde el 25/09, también en el arco del bloque «### 🌙», que da nueve noches y no se miraba)*,
-sacando el sitio del propio texto *(«amanecer **06:18** (Cape Cross)»)* y, cuando no lo nombra, de
-donde se duerme esa noche. Tolerancia de 4 minutos y de 2 puntos de luna. **Si el formato cambia y
+sacando el sitio del propio texto *(«amanecer **06:18** (Cape Cross)»)* y, cuando no lo nombra, el
+amanecer de donde se durmió **la víspera** —donde uno se despierta— y el anochecer de donde se
+duerme esa noche. **Un sitio nombrado que no se reconoce falla** *(hasta el 09/10 caía callado en
+la noche del día: el «(Spreetshoogte)» del D3 se calculaba en Sesriem)*. Tolerancia de 4 minutos y de 2 puntos de luna. **Si el formato cambia y
 el patrón deja de encontrar horas, falla en vez de callar.** *(Las horas ya estaban bien —las
 veintisiete cuadran—; la luna no: iba con «conjunción de referencia + mes sinódico» y se quedaba
 3–7 puntos alta en toda la menguante, así que las noches del viaje son más oscuras de lo que decía
@@ -340,7 +401,12 @@ el dossier.)*
 **Y la regla que se aprendió el 26/08: una comprobación que no puede correr FALLA, no calla.** Sin
 `pdftoppm` o sin Pillow, la de la escala devolvía `ok`; la de las páginas del README daba `ok` cuando
 su patrón no encontraba nada *(le pasaba con la lámina, que no dice «páginas» sino «una sola hoja»)*;
-dos cuadres del presupuesto se saltaban si su literal desaparecía. Todas gritan ahora. Si una
+dos cuadres del presupuesto se saltaban si su literal desaparecía. Todas gritan ahora. *(Y desde
+el 09/10 también el build: si un diagrama de Mermaid no se dibuja, `imprimir.a_pdf` no escribe el
+PDF —antes lo escribía con el código del diagrama en texto plano y un aviso por stderr—; Mermaid va
+fijado a la versión exacta, `mermaid@11.17.2`, porque `@11` cambia de versión solo y mueve las
+cajas; y si el `<img>` del mapa del `09` deja de casar, `dossier.mete_mapas` para en vez de meter
+el PNG.)* Si una
 comprobación depende de un literal del markdown y el literal cambia, tiene que avisar de que se ha
 quedado ciega — un tick verde sin haber medido es peor que ninguna comprobación.
 

@@ -509,3 +509,22 @@ GRUPOS_FAUNA = [
     ('costa', 'La costa, la roca y la arena', COSTA),
     ('bicho', 'Bichos', BICHOS),
 ]
+
+
+# Que licencias de Commons valen para imprimir y repartir el PDF: las que solo piden citar
+# autor (CC BY, CC BY-SA, FAL) y las que no piden nada (CC0, dominio publico). Una sola
+# regla para `descargar.py`, que no baja lo que no pase, y para `comprobar.py`, que grita
+# si algo se ha colado. Hasta el 09/10 las dos llevaban su copia de un `startswith("CC BY")`,
+# y «CC BY-NC-SA» o «CC BY-ND» tambien empiezan asi: el NC prohibe el uso que este dossier
+# no tiene, pero el ND prohibe recortar la foto, que es justo lo que hace la maqueta.
+LICENCIAS_LIBRES = ("CC BY", "CC0", "Public domain", "FAL")
+
+
+def licencia_libre(licencia):
+    """True si la licencia de Commons («CC BY-SA 4.0», «Public domain»…) deja usar la foto aqui."""
+    licencia = (licencia or "").strip()
+    if not licencia.startswith(LICENCIAS_LIBRES):
+        return False
+    # «NC» (no comercial) y «ND» (sin obras derivadas) como pieza del codigo de la licencia
+    piezas = licencia.upper().replace("-", " ").split()
+    return not ({"NC", "ND"} & set(piezas))

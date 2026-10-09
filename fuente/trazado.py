@@ -7,7 +7,8 @@ trazado real de carretera de cada dia — lo que ademas sirve de control cruzado
 kilometros del dossier, que se midieron con otras herramientas.
 
 PUNTOS: clave -> (lat, lon, rotulo, clase). La clase manda en como se pinta:
-    parada  · donde se duerme
+    parada  · donde se duerme — y SOLO eso: `comprobar.revisa_clases` exige que toda
+              parada sea el «duerme» de algun dia y al reves, salvo DUERME_SIN_PARADA
     hito    · lo que se visita
     puerta  · puerta de parque con horario
     paso    · puerto de montana
@@ -26,7 +27,9 @@ PUNTOS = {
     "tsumeb":        (-19.24672, 17.71622, "Tsumeb", "ciudad"),
 
     # --- el desierto ---
-    "spreetshoogte": (-23.65792, 16.18549, "Paso de Spreetshoogte", "paso"),
+    # se duerme arriba, en el campamento del paso (D2): es «parada», no «paso» —el GPX
+    # decia «Summit · puerto de montana» del unico sitio donde se pasa esa noche—
+    "spreetshoogte": (-23.65792, 16.18549, "Paso de Spreetshoogte", "parada"),
     "solitaire":     (-23.89429, 16.00553, "Solitaire", "ciudad"),
     "sesriem":       (-24.48713, 15.79849, "Sesriem", "parada"),
     "duna45":        (-24.72952, 15.47192, "Duna 45", "hito"),
@@ -60,7 +63,10 @@ PUNTOS = {
     "galton":        (-19.31470, 14.48160, "Puerta de Galton", "puerta"),
     "okaukuejo":     (-19.18080, 15.91790, "Okaukuejo", "parada"),
     "halali":        (-19.03560, 16.47220, "Halali", "parada"),
-    "namutoni":      (-18.80590, 16.94050, "Namutoni", "parada"),
+    # desde el 24/08 las noches del D12–D13 son de Onguma: Namutoni se cruza, se come y se
+    # mira la charca, pero no se duerme. Hasta el 09/10 seguia como «parada» y el GPX y My
+    # Maps decian «Namutoni · donde se duerme · D12, D13».
+    "namutoni":      (-18.80590, 16.94050, "Namutoni", "hito"),
     "lindequist":    (-18.80340, 17.04330, "Puerta de Von Lindequist", "puerta"),
     "onguma":        (-18.78191, 17.05919, "Onguma · Tamboti", "parada"),
     "tweepalms":     (-18.76560, 17.02990, "Twee Palms · Fischer's Pan", "hito"),
@@ -75,6 +81,23 @@ PUNTOS = {
 # KML: esos son de la ruta que se va a conducir, y un waypoint del CCF en el GPS del
 # viaje es una invitacion a salir de Etosha por donde no toca.
 SOLO_VARIANTE = ("ccf",)
+
+
+# Donde se duerme sin ser «parada», con su motivo. Windhoek es la capital y el nucleo de
+# referencia de todos los mapas; dormir en ella (el D1 y el D14, en un camping de la
+# ciudad) no la convierte en campamento, y como «parada» se pintaria igual que Sesriem.
+DUERME_SIN_PARADA = ("windhoek",)
+
+
+# Las noches que NO se duermen en la tienda del techo, y por que. Terrace Bay no tiene
+# camping —la fila «Campsite» de su web no existe en el tarifario de NWR (`01` §D7)—: es
+# habitacion doble en media pension. El resto, catorce menos esta, son de tienda.
+SIN_TIENDA = ("terracebay",)
+
+
+def noches(etapas=None):
+    """Las etapas en las que se duerme en algun sitio (todas menos la del vuelo)."""
+    return [e for e in (etapas or ETAPAS) if e.get("duerme")]
 
 
 def puntos_oficiales():
@@ -253,8 +276,16 @@ COLOR_BLOQUE = {
 # La clase «combu» sale de aqui y de ningun otro sitio. Hasta el 25/09 PUNTOS la llevaba
 # escrita a mano y Otjiwarongo salia como obligatoria en el GPX, en My Maps y en el mapa
 # del dossier mientras el `01` y esta tabla la daban por opcional.
+# Hasta el 09/10 solo se marcaba si el punto era «ciudad»: una obligatoria en un punto de
+# otra clase se quedaba sin marcar, callada. Ahora se marca sea cual sea su clase, y la
+# clase de antes se guarda en CLASE_BASE para quien pinte el surtidor aparte (la lamina).
 _OBLIGATORIAS = {clave for clave, estado, _ in GASOLINERAS if estado == "obligatoria"}
-PUNTOS = {k: (v[0], v[1], v[2], "combu") if k in _OBLIGATORIAS and v[3] == "ciudad" else v
+_SIN_PUNTO = sorted(_OBLIGATORIAS - set(PUNTOS))
+if _SIN_PUNTO:
+    raise SystemExit(f"trazado.GASOLINERAS da por obligatoria {_SIN_PUNTO}, que no esta en "
+                     f"PUNTOS: no hay donde marcarla")
+CLASE_BASE = {k: v[3] for k, v in PUNTOS.items()}
+PUNTOS = {k: (v[0], v[1], v[2], "combu") if k in _OBLIGATORIAS else v
           for k, v in PUNTOS.items()}
 
 

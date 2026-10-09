@@ -359,11 +359,42 @@ def remite_desde_dossier(ancla=""):
 </section>"""
 
 
+def _juntas(fechas):
+    """[«11 nov», «12 nov»] -> «11 y 12 nov»; de meses distintos, cada una con el suyo."""
+    if len({f.split()[1] for f in fechas}) > 1:
+        return " y ".join(fechas)
+    dias = [f.split()[0] for f in fechas]
+    cabeza = ", ".join(dias[:-1])
+    return f"{cabeza + ' y ' if cabeza else ''}{dias[-1]} {fechas[0].split()[1]}"
+
+
+def noches_de_etosha():
+    """«Cuatro noches en Etosha · dos dentro del parque» y «Okaukuejo · 9 nov — …», desde
+    `trazado.ETAPAS`. Hasta el 09/10 la portada lo llevaba escrito a mano, y era lo primero
+    que se quedaba viejo al mover una noche: el 24/08 Namutoni paso a Onguma."""
+    import trazado
+    noches = [e for e in trazado.ETAPAS if e["bloque"] == "etosha" and e["duerme"]]
+    seguidas = []                                     # [(clave, [fechas])], en orden
+    for e in noches:
+        if seguidas and seguidas[-1][0] == e["duerme"]:
+            seguidas[-1][1].append(e["fecha"])
+        else:
+            seguidas.append((e["duerme"], [e["fecha"]]))
+    dentro = sum(1 for e in noches if mapa.en_parque(e["duerme"]))
+    cuantas = (f"{comun.en_letras(len(noches)).capitalize()} noches en Etosha · "
+               f"{comun.en_letras(dentro)} <b>dentro del parque</b>")
+    cuales = " &nbsp;—&nbsp; ".join(
+        f"<b>{trazado.PUNTOS[clave][2].split(' · ')[0]}</b> · {_juntas(fechas)}"
+        for clave, fechas in seguidas)
+    return cuantas, cuales
+
+
 def html_suelto():
     css = "".join(open(os.path.join(HERE, "estilo", f)).read()
                   for f in ("comun.css", "fauna.css"))
     tipos = comun.tipografias(os.path.join(HERE, "tipos"))
     cuentas = " · ".join(f"<b>{len(l)}</b> {n.lower()}" for _, n, l in catalogo.GRUPOS_FAUNA)
+    etosha = noches_de_etosha()
     cr = comun.creditos()
     lista = "".join(
         f'<li><b>{v["es"]}</b> — {v["autor"]}, <i>{v["licencia"]}</i> · '
@@ -380,9 +411,8 @@ def html_suelto():
   <h2>Guía de campo · {total()} especies de vuestra ruta</h2>
   <div class="datos">{cuentas}<br>
     Cada ficha dice <b>en qué zona del viaje cae</b>, y en qué días<br>
-    Cuatro noches en Etosha · dos <b>dentro del parque</b><br>
-    <b>Okaukuejo</b> · 9 nov &nbsp;—&nbsp; <b>Halali</b> · 10 nov &nbsp;—&nbsp;
-    <b>Onguma</b> · 11 y 12 nov<br>
+    {etosha[0]}<br>
+    {etosha[1]}<br>
     Final de la estación seca: la fauna, concentrada en las charcas</div>
   <div class="pie">Fotografías de Wikimedia Commons, todas con licencia libre:<br>
   autoría y licencia bajo cada foto y en los créditos del final.<br>

@@ -55,9 +55,12 @@ del mundo**:
 - 🦌 **Dos endemismos del noroeste que ya llevan ficha en vuestra guía** ✅: el **impala de cara
   negra** *(Aepyceros melampus petersi)* —Etosha es su bastión— y el **dik-dik de Damara**
   *(Madoqua damarensis)* *(`09`)*.
-- 🦓 **La cebra de montaña de Hartmann**, endémica del escarpe namibio-angoleño ◐ *(y ojo: la guía
-  la dejó FUERA a propósito porque **no cae en vuestro eje** — vive en las lomas de dolomita,
-  `09` §126. Si la queréis, hay que buscarla, no aparece sola.)*
+- 🦓 **La cebra de montaña de Hartmann**, endémica del escarpe namibio-angoleño ◐ *(y **ya tiene
+  ficha en la guía, desde el 29/08** ✅: cuando se escribió esto la guía la había dejado fuera por
+  «no caer en vuestro eje», y era cierto solo dentro de Etosha — la ruta cruza su terreno en la
+  escarpa de Spreetshoogte (D2) y en Twyfelfontein → Palmwag → Grootberg (D8–D9). GBIF da **23
+  registros de oct-nov en Etosha, 8 en el Namib y 7 en Damaraland** — `15`. Aun así, hay que
+  buscarla: no aparece sola.)*
 - 🦭 **Cape Cross**: decenas de miles de **lobos marinos de El Cabo** ✅. Es fauna de **corriente
   fría** — el Okavango y el Luangwa están a mil kilómetros del mar.
 - 🐾 **La «pequeña cinco» del Namib y los especialistas de duna** ✅: el gecko palmado, la víbora

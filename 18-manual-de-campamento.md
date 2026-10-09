@@ -14,18 +14,23 @@
 **Este manual empieza donde apagas el motor.** Conducir es el [`06`](06-conduccion.md); qué meter
 en el petate, el [`05`](05-equipaje.md) y el [`17`](17-lista-de-equipaje.md); qué comprar de comer,
 el [`08`](08-comida-compras-y-regalos.md). Esto es lo de en medio: **13 de las 14 noches se duerme
-en el techo del coche** ✅ *(la única que no: Terrace Bay, que solo tiene habitaciones — con el
-coche del aeropuerto, decidido el 07/08, la primera y la última también son de tienda)*, y nadie
-de la expedición ha vivido antes de un 4×4.
+en el techo del coche** ◐ *(es el plan del [`01`](01-itinerarios-dia-a-dia.md), no aún la cuenta
+cerrada: a 09/10 cinco de esas trece —D5–D6 Walvis Bay, D8 Twyfelfontein, D9 Hoada y D14
+Windhoek— siguen sin camping cerrado. La única que no es de tienda: Terrace Bay, que solo tiene
+habitaciones — **y que a 09/10 sigue SIN RESERVAR** ❌, `20` §4. Con el coche del aeropuerto,
+decidido el 07/08, la primera y la última también son de tienda)*, y nadie de la expedición ha
+vivido antes de un 4×4.
 
 ---
 
 ## 1. La regla que ordena el día: acampado con luz
 
 Todo lo demás de este manual cuelga de esto. El sol se pone **~19:05–19:20** ✅ *(NOAA, día a día
-en el [`01`](01-itinerarios-dia-a-dia.md))* y la franja de **19:00–24:00 concentra el 29 % de los
-muertos en carretera** ✅ *(el porqué, en el [`06`](06-conduccion.md))*: la regla de la casa ya es
-**«en el campamento a las 18:00»**, y en las etapas largas, 17:30. Este manual le añade el motivo
+en el [`01`](01-itinerarios-dia-a-dia.md))* y la franja de **16:00–19:59** —la que acaba justo
+con el ocaso, el último tramo de cualquier etapa— **concentra el 29 % de los muertos en
+carretera** ✅ *(121 de 413, NRSC 2019; el porqué, en el [`06`](06-conduccion.md) §6)*: por eso la
+regla de la casa es **«en el campamento a las 18:00»**, y en las etapas largas, 17:30: una hora
+larga antes del ocaso, sin conducir ni el final de esa franja ni la oscuridad que viene detrás. Este manual le añade el motivo
 doméstico: **montar campamento, encender el fuego y cenar se hace CON luz o se hace mal** ○.
 
 ```mermaid
@@ -42,7 +47,9 @@ flowchart LR
 ```
 
 *Las horas son orientativas ○ — lo fijo son los dos extremos: el sol ✅ y, en Etosha, las
-puertas (06:13–19:06 del 3 al 9 de nov · 06:10–19:10 del 10 al 16 ✅).*
+puertas (06:13–19:06 del 3 al 9 de nov · 06:10–19:10 del 10 al 16 ◐ — **es la tabla oficial de
+2025**: en 2026 los tramos van del 2 al 8 y del 9 al 15, con los minutos ±1–2; la buena es la que
+está puesta en la puerta, `01` §horarios).*
 
 - 👉 **La víspera decide la mañana** ○: en Sesriem y en Etosha lo que hay al amanecer es lo bueno
   —la puerta interior, la charca— y se llega si el campamento quedó recogido la noche antes.
@@ -86,7 +93,8 @@ Dos personas viviendo 15 días de un coche: o hay sistema, o hay arqueología di
 - **Dos cajas mandan** ○: la **caja del día** (a mano en el habitáculo: agua, fruta, gorra,
   prismáticos, esta guía) y la **caja de la noche** (todo lo que solo se toca acampados: hornillo,
   menaje, condimentos, frontal de repuesto). Lo que se usa junto, viaja junto.
-- **4 L de agua por persona y día, EN el habitáculo** ✅ *(regla del [`06`](06-conduccion.md))* —
+- **4 L de agua por persona y día, EN el habitáculo** ○ *(regla de trabajo del
+  [`06`](06-conduccion.md) §11 — el FCDO dice «carry plenty of water» y no da cifra)* —
   el maletero de atrás no existe cuando tienes sed conduciendo.
 - **La nevera no se entierra** ○: se abre veinte veces al día; si hay que descargar para llegar,
   el sistema está mal.
@@ -101,7 +109,7 @@ hasta que salga sola:
 - [ ] **Fuego apagado con agua** — no enterrado: la brasa enterrada sigue viva horas ○
 - [ ] Basura recogida — **se viaja con ella** hasta el siguiente contenedor ○
 - [ ] Nevera cerrada y **alimentada** *(ver §5)*
-- [ ] Agua del día en el habitáculo (4 L × 2) ✅
+- [ ] Agua del día en el habitáculo (4 L × 2) ○
 - [ ] Combustible: **¿llega al siguiente punto seguro?** — las tres trampas de la ruta están
   medidas en el [`07`](07-logistica.md)
 - [ ] Nada suelto sobre el techo ni el capó ○
@@ -130,20 +138,25 @@ Nevera **Engel de 40 L, con batería PROPIA** ✅ *(`20` §1)* — el riesgo que
 este manual queda resuelto: no cuelga de la batería del coche, así que no hay que preguntar por
 segunda batería ni corte por voltaje. Solo queda una duda menor: cuántas horas aguanta con su
 propia batería sin recarga, sin confirmar ❌.
-⚠️ **Y la noche de Terrace Bay (D7) es justo la que pone a prueba esa autonomía** *(03/10)*: se
+⚠️ **Y la noche de Terrace Bay (D7) es justo la que pone a prueba esa autonomía** *(03/10 —
+siempre que esa noche llegue a reservarse: a 09/10 sigue sin reserva, y desde el ~7/10 NWR cobra el
+100 % al reservar, `20` §4; si cae, cambia la noche y este párrafo con ella)*: se
 duerme en habitación, así que la nevera pasa la noche en el coche **sin poste, la noche siguiente
 a la compra grande de la costa**. Qué hacer ○: **pedir en recepción un enchufe para la nevera, o
 subirla a la habitación**, que es lo seguro; y comprar lo congelado del D8–D9 en Henties Bay
 **el D7 al pasar**, no el D6.
 
 - **Aun así, con enchufe carga mejor**: de noche —si la parcela tiene enchufe— del poste. **Toma
-  de 220 V EN la parcela en
-  Okaukuejo, Halali, Namutoni y Sesriem** *([okaukuejo](https://www.nwrnamibia.com/okaukuejo-camping.htm) · [halali](https://etoshanationalpark.com.na/accommodation/inside-the-park/halali-campsite/) · [namutoni](https://www.nwrnamibia.com/namutoni-camping.htm) ·
+  de 220 V EN la parcela en los tres NWR donde se duerme: Sesriem (D3–D4), Okaukuejo (D10) y
+  Halali (D11)** ◐ *([okaukuejo](https://www.nwrnamibia.com/okaukuejo-camping.htm) · [halali](https://etoshanationalpark.com.na/accommodation/inside-the-park/halali-campsite/) ·
   [sesriem](https://www.sossusvlei.org/accommodation/sesriem-camp-site/) — en Sesriem, con avisos
   de viajeros de tomas averiadas ○: pedir parcela con toma que funcione)* **y en Onguma Tamboti**,
   donde se duermen el **D12 y el D13** y que además lleva **ducha y wc propios en la parcela** ✅
-  *(rack oficial 2027)*; en
-  Hoada y los campamentos comunitarios, da por hecho que no ○.
+  *(rack oficial 2027)*. *(Namutoni también la tiene, pero desde el 24/08 ya no se duerme allí.)*
+  **En Spreetshoogte (D2), sin electricidad en la parcela** ◐ *(solo luz solar en el bloque, de
+  extractos de buscador — `20` §5)*. **En Walvis Bay (D5–D6), Twyfelfontein (D8) y Windhoek
+  (D1 y D14), sin dato** ❌ *(los dos primeros, aún sin camping cerrado)* — se pregunta al
+  reservar. En Hoada y los campamentos comunitarios, da por hecho que no ○.
 - **Lo que la mata** ○: abrirla como si fuera la de casa, el sol directo sobre ella y meter la
   compra caliente. Las latas entran frías de la primera nevera de súper o no entran.
 - **Estrategia de carga** ○: lo congelado el primer día hace de acumulador; lo del final del viaje,
@@ -153,7 +166,7 @@ subirla a la habitación**, que es lo seguro; y comprar lo congelado del D8–D9
 
 - **La de beber, comprada o de grifo declarado potable** ○ — en los campamentos grandes de NWR el
   agua de grifo se considera potable, pero **se pregunta en recepción en cada uno** ○. Los 4 L
-  del coche ✅ no se negocian con «ya rellenaremos».
+  del coche ○ no se negocian con «ya rellenaremos».
 - **Duchas: haylas, y la buena hora es la mala hora** ○. Los campamentos de la ruta tienen bloque
   de aseos ○; con sol quedan mejores duchas que en muchos hoteles, al anochecer hay cola y bichos
   alrededor de la luz. Ducha a las 18:00, no a las 21:00.
@@ -208,10 +221,11 @@ El safari no termina en la puerta de la parcela — la fauna de campamento tiene
 
 **Cuántas horas aguanta la nevera con su propia batería sin recarga** ❌ — la batería es propia,
 no del coche (§5); solo falta ese dato de autonomía · **enchufe por parcela, campamento a
-campamento** — **cerrado el 11/08 ◐** *(§5: toma en los cuatro NWR de interior; Hoada y
-Spreetshoogte, sin ella)* · **el precio de la leña** ❌ *(salvo en **Spreetshoogte**, que lo
-publica: **N$55 · ~€2,75** el fardo de 10 kg, y **N$30 · ~€1,50** la del calentador *donkey* ✅ —
-24/08)* · **la
+campamento** — **cerrado a medias** ◐ *(§5: toma en Sesriem, Okaukuejo, Halali y Onguma;
+Spreetshoogte, sin ella ◐; Hoada, que no ○; **Walvis Bay, Twyfelfontein y Windhoek, sin dato** ❌)*
+· **el precio de la leña** ❌ *(salvo en **Spreetshoogte**, que lo publica: **N$55 · ~€2,75** el
+fardo de 10 kg, y **N$30 · ~€1,50** la del calentador *donkey* ✅ — 24/08; **y en Onguma, que
+incluye un lote de leña el día de llegada** ✅ — `03`, `21`)* · **la
 potabilidad camping a camping** ❌ — se pregunta en cada recepción. Ninguno cambia una reserva:
 son preguntas de la entrega del coche y de cada llegada.
 

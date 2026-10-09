@@ -8,7 +8,7 @@
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · avances fechados hasta el 04/10/2026, y repasado contra el `01` y el `20` el 09/10/2026*
 
 > ### La regla de la casa
 > **Todas** las temperaturas que circulaban por webs de safaris fueron **refutadas 0–3**. Las de aquí
@@ -239,7 +239,9 @@ Etosha > el resto, sin datos suficientes para ordenarlo.
 
 La ventana de luz se calculó por longitud para las fechas reales, y luego apareció algo mejor: **la
 tabla oficial de horarios de puerta del parque**, que va con el orto y el ocaso. Para vuestras
-fechas: **3–9 nov 06:13–19:06** y **10–16 nov 06:10–19:10**. El desglose día a día, con el sol de
+fechas: **3–9 nov 06:13–19:06** y **10–16 nov 06:10–19:10** ◐ — ⚠️ **ojo: esa tabla es la de 2025**
+*(destapado el 25/08, abajo §auditoría)*; en 2026 los tramos caen en **2–8 y 9–15 nov**, con minutos
+que se moverán ±1–2. **Manda la tabla de la puerta.** El desglose día a día, con el sol de
 cada parada, está en [`01`](01-itinerarios-dia-a-dia.md).
 
 ---
@@ -415,7 +417,7 @@ Halali el D12, N$650 pp ✅)* = **N$2.600 (~€130) la pareja**; **se cae la gui
 *(N$1.300 · ~€65 la pareja)*. **El nocturno también se dio por caído ese día, y no lo está**
 *(corregido el 28/08, abajo en la lista maestra)*: se compra el D10 y el D11. Tarifa NWR verificada,
 **sin reservar**: horarios de salida ❌ no publicados y pre-reserva incierta en temporada de lluvias
-— se cierra en recepción (la pregunta a NWR está en el README, punto 7). **Lo que complementa al
+— se cierra en recepción (la pregunta a NWR está en el README, punto 11). **Lo que complementa al
 nocturno lo vende Onguma**: Sundowner Drive con foco, N$980 (~€49) pp ✅ — **decidido el 26/08 para el D12, junto con
 el game drive diurno dentro de Etosha del D13, N$1.930 (~€97) pp** *(`02` §9)*. Los traslados entre campamentos siguen
 siendo con el 4x4. El análisis descartado, en `16` §7.
@@ -683,11 +685,13 @@ maleta**. Detalle y fuentes en [`02`](02-presupuesto.md) §8.
   bajamar de las 07:18 del 6 nov; con la de las 06:37 del 5, confírmalo con el operador ❌—, no para navegar,
   y **el operador manda con su propia tabla**.
 - **La fase lunar, calculada en casa** *(conjunción de referencia + mes sinódico; ±1 día en el
-  instante)* — **luna nueva el 9–10 de noviembre**: las **cuatro noches de Etosha (D10–D13)
+  instante)* — **luna nueva el 9–10 de noviembre**: ~~las **cuatro noches de Etosha (D10–D13)
   entre el 0 y el 9 % de iluminación**, el amanecer de Deadvlei —que desde el 24/08 es el **D4**,
   un día antes— con un menguante del **~36 %**, y la salida (D1–D3) con una menguante del 47–68 %
-  que sale ya de noche. El día a día, en el
-  bloque 🌙 de `01`.
+  que sale ya de noche~~. ⚠️ **Superado el 28/08**: ese método se quedaba **3–7 puntos alto** en
+  toda la menguante *(abajo, §auditoría)*. Con las series de Meeus, **Etosha (D10–D13) va del 0,2 %
+  al ~11 %**, **Deadvlei (D4) al ~29 %** y **la salida de Windhoek al ~51 %**. El día a día, en el
+  bloque 🌙 de `01`, que es el que manda.
 
 ## ⛺ Spreetshoogte: tarifa cerrada con el rack del operador — y una trampa de calendario *(24/08/2026)*
 
@@ -895,8 +899,9 @@ revisó entera**: se tacha lo que ya estaba cerrado en otros documentos y entra 
 
 - ✈️ **El billete está EMITIDO desde el 10/08** ✅ *(€1.536 p.p.; se cotizó en €1.450 el 05/08)*:
   **el e-visa queda desbloqueado** — pedirlo es el siguiente trámite con fecha.
-- 🏕️ **El coche ya está reservado (Savanna, `20`); del alojamiento, lo único sin reservar es
-  Terrace Bay** *(sin ella no se entra al parque a pernoctar; ⚠️ **y desde ~el 7/10 NWR cobra el
+- 🏕️ **El coche ya está reservado (Savanna, `20`); del alojamiento, el único sin reservar con
+  fecha dura es Terrace Bay** *(también siguen sin reservar **Walvis Bay ×2, Hoada y el Windhoek
+  del D14** — `20` §9 —, pero ninguno es noche de parque; sin Terrace Bay no se entra al parque a pernoctar; ⚠️ **y desde ~el 7/10 NWR cobra el
   100 % al reservar**, no el 20 % — `20` §4)*: ~~ni Sesriem ×2~~ *(RESERVADAS el 24/08 — la frase
   «ni Sesriem ×2» se arrastró aquí hasta el 03/10 contradiciendo al párrafo de abajo)*,
   ~~ni las cuatro de Etosha~~ — ~~**ni la de Spreetshoogte**~~ *(el «closed
@@ -907,7 +912,8 @@ revisó entera**: se tacha lo que ya estaba cerrado en otros documentos y entra 
   **Las cuatro de Etosha están RESERVADAS** ✅ — y desde el **24/08 son Okaukuejo, Halali y
   **Onguma Tamboti ×2**: **Namutoni se anuló** *(`20` §4)*. **Sesriem ×2, Spreetshoogte y el Urban
   Camp de Windhoek también se cerraron el 24/08**, así que el contador del README va a **7 de 8**.
-  **Queda una: Terrace Bay** —y una noche nueva sin tarifa, la de Twyfelfontein del D8, que a
+  **Queda una con fecha dura: Terrace Bay** *(Walvis Bay ×2, Hoada y el Windhoek del D14, sin
+  reservar aún — `20` §9)* —y una noche nueva sin tarifa, la de Twyfelfontein del D8, que a
   propósito **no se reserva** *(`aparte/decision-del-ccf`)*.
 - 🚗 ~~**Recotizar el coche con las fechas decididas**~~ **RESERVADO el 12/08** ✅ *(Savanna, 31 oct
   11:00 → 14 nov 18:00, 15 días, €2.363 en total — `20` §1)*. Lo que queda del coche no es precio:
@@ -1074,6 +1080,10 @@ está, se tacha)*:
   llegar, en recepción** ✅. **Si recepción cierra antes, se pierden las dos cosas la primera
   noche.** Se pregunta en el mismo email que las condiciones de cancelación *(`20` §4)*.
   *(Con dos noches el daño es menor que con una: lo que no se cierre el D12 se cierra el D13.)*
+  > **Avance (09/10/2026) — la llegada ya no es a las 19:15.** Desde el 03/10 el `01` cuenta el D12
+  > hacia atrás desde el sundowner: se cruza Von Lindequist hacia las **~16:30** *(`01` §D12, `20` §4)*,
+  > así que recepción está abierta casi seguro. La pregunta del horario sigue en el email a Onguma,
+  > pero deja de ser la que decide la primera noche.
 - 🛏️ **La noche de Twyfelfontein (D8) no tiene tarifa NI candidato de camping confirmado** ❌ — los
   dos sitios identificados *(Twyfelfontein Country Lodge y la zona de Palmwag)* **son lodges**. Es el
   **único riesgo al alza serio del presupuesto**: presupuestada como camping *(~€35 la pareja)*,
@@ -1124,7 +1134,8 @@ está, se tacha)*:
   > [grootberg.com/activities/rhino-tracking](https://www.grootberg.com/activities/rhino-tracking) y
   > de una reseña de [TripAdvisor](https://www.tripadvisor.com/ShowUserReviews-g13228161-d969656-r619359124-Grootberg_Lodge-Palmwag_Damaraland.html),
   > vía WebSearch)*. O sea: sigue el amanecer igual que el de Palmwag *(que la tarifa de Gondwana ya
-  > fijó en 06:00–06:30)*, y a finales de noviembre amanece **~05:50–06:10** *(cálculo del `01`)*.
+  > fijó en 06:00–06:30)*, y los días que tocan —D8–D9, 7–8 de noviembre— amanece **~06:17–06:18**
+  > *(cálculo del `01`; el «~05:50–06:10 a finales de noviembre» que ponía aquí no era del viaje)*.
   > **La consecuencia es la misma que tumbó al plan de Palmwag**: una salida a la hora del amanecer
   > **no se coge saliendo de Twyfelfontein a las 07:00** — hay que **dormir ya en Grootberg la noche
   > anterior** para hacerlo. Así que lo que falta de Grootberg ya no es «la hora» *(tracklea el

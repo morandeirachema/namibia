@@ -157,6 +157,17 @@ ol.etapas .vias b {{ font-weight: 600; color: #1D1A15; }}
 """
 
 
+def noches_texto():
+    """«14 noches, 13 de ellas arriba · cuatro en Etosha, dos dentro del parque», contado de
+    `trazado.ETAPAS` (y de `trazado.SIN_TIENDA` y el limite del parque) en vez de escrito."""
+    noches = trazado.noches()
+    arriba = sum(1 for e in noches if e["duerme"] not in trazado.SIN_TIENDA)
+    etosha = [e for e in noches if e["bloque"] == "etosha"]
+    dentro = sum(1 for e in etosha if mapa.en_parque(e["duerme"]))
+    return (f"{len(noches)} noches, {arriba} de ellas arriba · {comun.en_letras(len(etosha))} "
+            f"en Etosha, {comun.en_letras(dentro)} dentro del parque")
+
+
 def cabecera(km):
     return f"""<header class="cab">
   <div>
@@ -166,7 +177,7 @@ def cabecera(km):
   <div class="datos">
     <span class="grande">~{comun.mil(km)} km en 15 días</span>
     <b>{VIAJE[:-8]}</b> · un 4×4 con tienda de techo<br>
-    14 noches, 13 de ellas arriba · cuatro en Etosha, dos dentro del parque
+    {noches_texto()}
   </div>
 </header>"""
 
@@ -190,10 +201,15 @@ def tira():
             f'<ol class="etapas">{"".join(li)}</ol></section>')
 
 
+# Las velocidades salen de trazado.VELOCIDAD, que es de donde las leen el mapa del dia de la
+# agenda y las comprobaciones de tiempos: si el `13` las cambia, cambian aqui solas. El resto
+# son literales copiados del dossier —las horas de las puertas del `01` y el `18`, el 29 %
+# del `06` y los telefonos del `22`— y nada los coteja: al tocarlos alli, tocarlos aqui.
+_V = {k: f"{v:.0f}" for k, v in trazado.VELOCIDAD.items()}
 REGLAS = [
     ("", "Velocidad de planificación",
-     "Asfalto <b>100</b> · grava <b>80</b>, que es el techo del contrato y no la "
-     "media · parque <b>60</b>."),
+     f"Asfalto <b>{_V['asfalto']}</b> · grava <b>{_V['grava']}</b>, que es el techo del contrato "
+     f"y no la media · parque <b>{_V['parque']}</b>."),
     ("rojo", "La regla de oro",
      "<b>En el campamento a las 18:00</b>. La franja 16:00–20:00 concentra el "
      "<b>29 %</b> de los muertos del país."),

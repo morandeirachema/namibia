@@ -2,7 +2,7 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
-> Lo que sobrevivió a la verificación adversarial a tres votos: alquiler, seguros, visado, tasas — y lo que quedó refutado.
+> Lo que sobrevivió a la verificación adversarial a tres votos: alquiler, seguros, visado y tasas.
 >
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
@@ -10,18 +10,25 @@
 > *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 09/08/2026*
 
 
-Lo **refutado** está al final — varias de esas afirmaciones circulan por toda la web y habrían
-costado dinero real.
+*(Hasta el 09/10 esta cabecera prometía «lo refutado, al final»: esa sección se quitó en la revisión
+editorial del 03/08 y nadie tocó la promesa. No se repone: la mitad hablaba de empresas que ya no
+son las del viaje —Namibia2Go, el equipo de Savanna «sin verificar» que hoy está confirmado— y lo
+que seguía valiendo vive donde se usa: la tasa de parque de N$150 desmentida en §7, la malaria de
+Etosha en el `04`.)*
 
 
 ---
 
-## 1. NWR sube de precio el 1 de noviembre — las cuatro noches oficiales caen en tarifa barata ✅
+## 1. NWR baja de precio el 1 de noviembre — las cuatro noches de camping NWR caen en tarifa barata ✅
 
-**NWR cambia de temporada el 1 de noviembre**, así que las **cuatro** noches de campings oficiales
-—**Sesriem ×2** y las **dos de dentro de Etosha** *(Okaukuejo y Halali)*— caen todas en
-el tramo barato; la primera es Sesriem, el **2**. **Y la de Terrace Bay (D7), que también es NWR
-aunque sea habitación y no parcela**, cae igualmente después del 1.
+**NWR cambia de temporada el 1 de noviembre**: **ese día deja el tramo caro (jul–oct 2026) y entra
+en la columna barata «November 2026 – June 2027»** *(`03`)*, así que las **cuatro** noches de
+campings oficiales —**Sesriem ×2** y las **dos de dentro de Etosha** *(Okaukuejo y Halali)*— caen
+todas en el tramo barato; la primera es Sesriem, el **2**. *(Hasta el 09/10 el titular decía
+«sube de precio»: es al revés.)* **Y la de Terrace Bay (D7), que también es NWR
+aunque sea habitación y no parcela**, cae igualmente después del 1 — **si llega a reservarse: a
+09/10 sigue sin reserva** ❌ *(`20` §4)*. Y de las cuatro de camping, **el pago a NWR no consta a
+09/10** ❌ *(`20` §4)*.
 *(Eran cinco hasta el 24/08: **Namutoni se anuló** y su noche se fue a Onguma, que no es NWR.)*
 *(Desde el 21/08 la **cuarta** noche de Etosha ya **no es NWR**: es **Onguma Tamboti**, reserva
 privada — su año tarifario corre también de noviembre a octubre, `03`. Se aterriza el 31 a las
@@ -32,14 +39,14 @@ privada — su año tarifario corre también de noviembre a octubre, `03`. Se at
 
 ---
 
-## 2. El equipo de camping va incluido, no se factura aparte
+## 2. El equipo de camping va incluido, no se factura aparte ✅ *(en Asco, de su propia web — registro histórico)*
 
 > *(03/10)* **Asco se descartó el 12/08 — el coche es de Savanna** *(`20` §1)*: lo que sigue es la
 > tarifa con la que se verificó el método, y se conserva como registro histórico, no como precio
 > vigente. En Savanna el equipo de camping también va dentro del grupo GSXA-1 *(`20` §1)*.
 
 La tarifa de camping de Asco incluye tienda de techo, nevera, mesas, sillas, ropa de cama,
-parrilla, ollas y utensilios **sin línea de alquiler separada**.
+parrilla, ollas y utensilios **sin línea de alquiler separada** ✅ *(sus dos páginas, abajo)*.
 
 La tabla de tarifas lo demuestra: mismo vehículo, misma temporada (15/03–14/07/26, 6–15 días) —
 Hilux estándar **€120/día (~N$2.400)** frente a equipado para camping **€127/día (~N$2.540)**.
@@ -112,18 +119,24 @@ seguros**, con caja negra *(§4)*. Depósito de combustible de 140 l confirmado 
 80+60 l). El detalle completo de la reserva, con todo lo que trae de serie —kit de recuperación,
 triángulo, botiquín, tienda, nevera con batería propia— está en [`20`](20-reservas.md) §1.
 
-## 6. Visado — los españoles SÍ lo necesitan (desde el 1 de abril de 2025)
+## 6. Visado — los españoles SÍ lo necesitan (desde el 1 de abril de 2025) ✅ *(MAEC)*
 
-- **Tasa: N$1.600 (~€78–82)**, por **e-visa online** (emitido en ~24 h, hay que **imprimirlo y
-  firmarlo** delante del funcionario) o visado a la llegada.
-- España es uno de los 33 estados afectados. La tasa subió de N$1.200 (~€60) el 01/04/2025.
-- El visado a la llegada se **amplió** a 36 países más en septiembre de 2025 — no se está retirando.
+- **Tasa: N$1.600 (~€78–82)**, por **e-visa online** o visado a la llegada ✅ *(MAEC: «1 de abril
+  de 2025, preferentemente online, también a la llegada, 1.600 NAD» — releída el 29/08)*. Hay que
+  **imprimirlo y firmarlo** delante del funcionario ◐. ⚠️ **El «emitido en ~24 h» que ponía aquí no
+  se sostiene** ❌: la cifra prudente es **7–10 días hábiles** ◐, y los «minutos» o «24–48 h» son
+  de las webs no oficiales que cobran de más *(`04` §e-visa)*.
+- España es uno de los 33 estados afectados. La tasa subió de N$1.200 (~€60) el 01/04/2025 ❌
+  *(las dos cifras, sin la fuente anotada aquí — el MAEC solo da la fecha y los 1.600)*.
+- El visado a la llegada se **amplió** a 36 países más en septiembre de 2025 — no se está
+  retirando ❌ *(ídem: sin fuente anotada)*.
 - ⚠️ Hay un recargo de **N$2.000 (~€100)** para el visado manual a la llegada aprobado por el
   Consejo de Ministros pero **sin publicar en el boletín**. Volver a comprobarlo cerca de la
   salida. **Mejor el e-visa.**
 
-**También exigen a la entrada:**
-- Pasaporte válido **6 meses desde la fecha de regreso**, con **3 páginas en blanco**
+**También exigen a la entrada** ✅ *(MAEC; el FCDO, más escueto)*:
+- Pasaporte válido **6 meses desde la fecha de regreso**, con **3 páginas en blanco** ✅ *(literal
+  del MAEC; la oficina de turismo namibia dice «desde la entrada», más laxo — `04` §Pasaportes)*
 - Billete de vuelta o de continuación
 - Seguro médico internacional que cubra todos los gastos **incluida la repatriación**
 - Prueba de alojamiento
@@ -144,9 +157,14 @@ hoy, ~14.)*
 
 ## 7. Las tasas de parque subieron un 80–100 % el 1 de abril de 2026 ◐ *(secundarias concordantes y el documento primario ya localizado por URL, aunque el egress lo siga bloqueando — `02` §5, `15` §Tasas)*
 
-**N$280 (~€14) por adulto internacional y día**, más **N$60 (~€3) por vehículo, por parque y por cada
-24 h**. Es casi el doble de la cifra que sigue circulando por los blogs (N$150), y es de las
-correcciones que más dinero mueven del dossier: en esta ruta son **7 unidades**.
+**N$280 (~€14) por adulto internacional y día**, más **N$60 (~€3) por vehículo y día**, por parque.
+Es casi el doble de la cifra que sigue circulando por los blogs (N$150), y es de las correcciones
+que más dinero mueven del dossier: en esta ruta son **7 unidades**. ⚠️ **Qué es «un día» no está
+cerrado** ❌: este documento decía «por cada 24 h», pero una secundaria lo da por **día natural**,
+y en Etosha —se sale el D12 y se vuelve a entrar el D13— **por 24 h o por entrada son N$620
+(~€31) de diferencia** *(`20` §9, `15` §Tasas)*. La evidencia convergente ◐ da 4 unidades en
+Etosha —se entra en cuatro días naturales, D10–D13—, las mismas que con las 24 h; se confirma en
+la puerta de Andersson.
 
 **Desglose del baremo no-SADC, corroborado el 19/09 por cinco fuentes secundarias independientes que
 coinciden al detalle**: los N$280 (~€14) del adulto internacional son **N$140 (~€7) de entrada +
@@ -181,8 +199,10 @@ se quedó **1,7 veces corta**. Se cerró después con una cotización real para 
 
 ## Advertencia sobre la calidad de las fuentes
 
-9 de las 16 afirmaciones verificadas son **tarifas y condiciones autopublicadas por las propias
-empresas**. Es la fuente primaria correcta para "cuánto cobra esta empresa / qué dicen sus
+**Cinco de las ocho secciones** —NWR (§1), Asco (§2), el seguro (§3), el límite de velocidad (§4)
+y Savanna (§5)— descansan en **tarifas y condiciones autopublicadas por las propias empresas**.
+*(Hasta el 09/10 decía «9 de las 16 afirmaciones»: era la cuenta de antes del 03/08, con la sección
+de refutadas dentro.)* Es la fuente primaria correcta para "cuánto cobra esta empresa / qué dicen sus
 condiciones", y varias revelan cosas **en contra de su interés** (responsabilidades, exclusiones,
 límites de velocidad), lo que aumenta la confianza. Pero significa que la sección de alquiler
 refleja lo que las empresas **prometen**, no lo que **hacen**. En TripAdvisor hay hilos que

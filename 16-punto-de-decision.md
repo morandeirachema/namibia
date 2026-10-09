@@ -175,6 +175,9 @@ flowchart LR
   noviembre**, así que **faltan el día 31 y el día 14** *(ver [`01`](01-itinerarios-dia-a-dia.md) D1
   y [`02` §2](02-presupuesto.md))*. Hay que **recotizar el alquiler con las fechas del vuelo** y
   **adelantar el inicio del seguro al 30/10**.
+  > **Superado → cerrado.** El coche se **reservó con Savanna el 12/08**, aeropuerto → aeropuerto,
+  > con los días 31 y 14 dentro, y el seguro **IATI Estrella se contrató el 24/08 empezando el
+  > 30/10** ✅ *([`20`](20-reservas.md) §1 y §3)*. Este fleco ya no vive.
 
 ---
 
@@ -191,6 +194,13 @@ ciudad a medio gas ○.
 Windhoek el domingo por la mañana, descansados; atardecer y amanecer en el paso; y el lunes queda
 de día lento en la escarpa. Lo que se comparó:
 
+> **Superado el 24/08 →** Spreetshoogte se quedó en **UNA sola noche** (D2, dom 1 nov, reservada
+> con Barkhan) y, con ella, **Sesriem bajó un día** *(lun 2 y mar 3, D3–D4)* y **Terrace Bay
+> también** *(vie 6, D7)*: lo de «de Sesriem en adelante NADA se mueve» dejó de ser cierto ese día.
+> El colchón pasó a ser la noche suelta de Twyfelfontein (D8). La ruta que manda está en
+> [`01`](01-itinerarios-dia-a-dia.md) y las reservas en [`20`](20-reservas.md) §4–§5; lo de abajo
+> queda como registro del 08/08.
+
 ```mermaid
 flowchart TD
     Q{"¿Donde duerme la<br/>noche del domingo 1?"}
@@ -205,7 +215,8 @@ Por qué ganó la primera: **conserva el colchón** —la noche extra sigue caye
 primera reserva NWR (Sesriem, 3 nov), así que un vuelo o una maleta con +24 h se absorben sin
 tocar reservas—, **no mueve ni una fecha** de Sesriem en adelante, no añade logística nueva
 (mismo camping, dos noches — eso sí: un camping aún **sin tarifa ni contacto verificados**;
-reservarlo es el pendiente que abre esta decisión) y es coste-neutral (una noche de camping de Windhoek por una de
+reservarlo es el pendiente que abre esta decisión — *superado: reservado el 24/08, una noche, con
+tarifa de rack cerrada ✅, `20` §5*) y es coste-neutral (una noche de camping de Windhoek por una de
 Spreetshoogte, las dos en la misma banda estimada ○). El blog de referencia hacía exactamente
 esas 2 noches. Las descartadas quedan aquí por si se replantea: la de partir el D9 es la mejor
 en seguridad pura, pero cuesta el colchón de llegada y un camping nuevo sin verificar.
@@ -219,6 +230,13 @@ solo compraba el nocturno (N$750 pp). Los traslados entre campamentos siguen sie
 viaja con vosotros: no hay alternativa)* y el análisis antiguo queda registrado por si se revisa.
 ⚠️ La reserva de las salidas se cierra **en recepción al llegar**: horarios ❌ no publicados y
 pre-reserva incierta en temporada de lluvias.
+
+> **Superado el 24/08 →** al pasar las noches del D12–D13 de Namutoni a **Onguma**, quedan **dos
+> salidas guiadas de mañana** *(Okaukuejo y Halali, N$2.600 · ~€130 la pareja ✅)* y la de Namutoni
+> la sustituye el **game drive guiado dentro de Etosha de Onguma** *(D13)*. El **nocturno** ya no es
+> «el de Namutoni»: NWR lo vende en los tres campamentos, y **comprarlo sigue sin decidir**
+> *(N$750 · ~€38 pp, fuera del total — `02` §9)*. Lo vigente, en [`20`](20-reservas.md) §4 y §8 y en
+> [`01`](01-itinerarios-dia-a-dia.md).
 
 ---
 

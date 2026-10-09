@@ -28,7 +28,7 @@ es «lo que se acercó a beber»**.
 Nadie publica lo segundo. Si algún día apareciera, sería otro documento.
 
 Y la segunda advertencia, de tamaño: **la estancia típica es de una o dos noches** ✅. Como en esta
-ruta se duerme en dos de los tres *(Okaukuejo y Halali; Namutoni se cruza de día el D12 —
+ruta se duerme en dos de los tres *(Okaukuejo y Halali; Namutoni se cruza de día el D12 y el D13 —
 `../21-campamentos-de-etosha.md`)*, son **dos tiradas y media**, y la
 posibilidad real en el conjunto del viaje es **más alta que cualquiera de estos números**. Cuánto
 más, estos datos no lo dicen — así que no se dice.
@@ -182,7 +182,7 @@ cerrado *(`../17-lista-de-equipaje.md`)*.
 ## 💧 Namutoni · King Nehale — la charca del guepardo, y la muestra más floja
 
 ⚠️ **Desde el 24/08 aquí ya no se duerme** —la noche se cambió por una segunda en Onguma—,
-así que **esta charca iluminada se pierde**: Namutoni se cruza el D12 de paso, con la puerta de Von
+así que **esta charca iluminada se pierde**: Namutoni se cruza el D12 y el D13 de paso, con la puerta de Von
 Lindequist en el reloj. Lo que sigue vale para saber qué se deja atrás, y era la floja de las tres.
 
 Al pie de las murallas del fuerte, **iluminada y con bancos** ✅. La pega honesta de los

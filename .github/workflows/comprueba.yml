@@ -12,7 +12,12 @@ jobs:
   comprueba:
     runs-on: ubuntu-latest
     steps:
+      # la historia entera: los avisos de fechas comparan el ultimo commit de cada fichero
+      # (README contra documentos, cada PDF contra su fuente), y con el clon de un solo
+      # commit que hace checkout por defecto todo parece tocado a la vez y avisan siempre
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

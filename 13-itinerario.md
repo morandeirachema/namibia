@@ -86,12 +86,16 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
 **media real 60–70** · parque a 60 · **+30–60 min de paradas** por día de tránsito · un pinchazo =
 +1 h que no está en ninguna cifra.
 
-- **D2 · Windhoek → Spreetshoogte (~205 km ◐, OSRM)** — 87 km asfalto (~50 min) + ~120 km de
-  grava (a 60–70: 1h40–2h) → **mínimo ~2h30 · realista 3h–3h30 con paradas** ✓ *(coincide con `01`)*
+- **D2 · Windhoek → Spreetshoogte (~205 km ◐, OSRM)** — ~95 km asfalto (~1 h) + ~110 km de
+  grava (a 60–70: 1h35–1h50) → **mínimo ~2h20 · realista ~3h15–3h45 con paradas** ✓ *(coincide con
+  `01`; el reparto de firme es el de OSRM — la B1 a Rehoboth son 87, más la salida de Windhoek)*
 - **D3 · Spreetshoogte → Solitaire → Sesriem (~129 km ◐, OSRM 128,8)** — grava entera (a 60–70:
-  ~2h) + parada en Solitaire → **realista ~2h–2h30** ✓ *(el ~150–170 anterior sobraba)*
+  1h50–2h10) + 30–60 min de parada en Solitaire → **mínimo ~1h35 · realista ~2h30–3h** ✓ *(el
+  ~150–170 anterior sobraba)*
 - **D4 · Sossusvlei (~122 km, dentro del parque ◐, OSRM 122)** — ~120 km a 60 = 2h de volante
-  repartidas en el día + arena + dunas a pie → **día completo, y por eso se madruga a las ~05:10**
+  repartidas en el día + arena + dunas a pie, **y otros ~90 km si se vuelve a la Duna 45 al
+  atardecer** *(45 por sentido; no van en la geometría — `01` §D4)* → **día completo, y por eso se
+  madruga a las ~05:10**
 - **D5 · Sesriem → Walvis Bay (~316 km ◐, OSRM 315,6)** — grava y paso del Kuiseb (a 60–70:
   4h30–5h15) + paradas → **realista ~5h30–6h** ✓ *(la matriz de 2010 daba ~270 vía «Swakopmund
   −30»: se quedaba 45 km corta)*
@@ -103,27 +107,27 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
   12:15–12:45, holgadamente antes de las 15:00** — y quedan **~160 km de parque a 60** hasta
   Terrace Bay (~2h30). Un pinchazo se come la mitad del margen: disciplina de reloj.
 - **D8 · Terrace Bay → Springbokwasser → Twyfelfontein (~211 km ◐, OSRM 211,5)** — grava entera.
-  A 60–70, **~3h–3h30 de volante**; **Springbokwasser cierra a las 17:00** ◐ *(`08`)* y **el permiso
+  A 60–70 —y 60 en el parque—, **~3h10–3h40 de volante y ~3h45–4h30 con paradas**; **Springbokwasser cierra a las 17:00** ◐ *(`08`)* y **el permiso
   de Skeleton Coast obliga a salir del parque el mismo día**. Los grabados entran **hoy a última
   hora** *(horario de apertura ❌)*, lo que pide salir de Terrace Bay a las ~08:00 *(`01` §D8)*; mañana
   temprano mataría la salida a las ~07:00 de la alternativa de Palmwag ✓ **Es la etapa que nació el
   24/08**, de partir en dos el antiguo D9
 - **D9 · Twyfelfontein → Palmwag → Hoada (~159 km ◐, OSRM 158,7)** — grava entera *(107 + 51)*: a
-  60–70, **~2h15–2h35 de volante**; «~2,5 h» del operador. **Con la mañana libre entera** — que no
+  60–70, **~2h15–2h35 de volante y ~3h–3h30 con paradas**; «~2,5 h» del operador, sin parar. **Con la mañana libre entera** — que no
   llega a dar para el rastreo de rinoceronte de Palmwag, que sale a las 06:00–06:30 *(28/08)*: eso
   queda como alternativa y sólo cabe durmiendo el D8 allí *(`11`)* ✓
   *(Hasta el 24/08 estos dos días eran **uno solo de ~370 km**, la etapa más dura del viaje, con la
   visita de Twyfelfontein metida en medio. Partirla cuesta **+3 km** y devuelve una mañana.)*
 - **D10 · Hoada → Okaukuejo (~343 km ◐, resuelto 04/08 y OSRM 342,6 — ver §3)** — grava hasta Kamanjab, asfalto después ◐
   *(C40 Kamanjab–Outjo y C38 Outjo–Okaukuejo, fichas de Wikipedia — §3; hasta el 03/10 aquí decía «por
-  confirmar»)* → **mínimo ~3h30 · realista ~4h–4h45** ✓ — y dentro del parque ya a 60
+  confirmar»)* → **mínimo ~3h35 · realista ~4h15–4h55** ✓ *(el «~4h30» del `01` cae dentro)* — y dentro del parque ya a 60
 - **D11–D13 · Etosha (~70–108 km/día ◐)** — a 60 km/h y parando en cada charca: **el día entero ES
   el trayecto** — no son horas de tránsito, son horas de safari. *(El D11 es el largo: ~108 km por
   el **desvío obligatorio** de las obras — abajo, §3. El **D12 sube a ~93 km** porque termina
   saliendo por Von Lindequist hasta Onguma, y el **D13 son ~70 km** de entrar y volver a salir por
-  la misma puerta: **+30 km entre los dos** frente al plan de agosto, que dormía dentro el D12.)*
+  la misma puerta *(sin Andoni: la ida y vuelta desde Namutoni son **~80 km más** ◐, OSRM 09/10 — `01` §D13)*: **+30 km entre los dos** frente al plan de agosto, que dormía dentro el D12.)*
 - **D14 · Onguma → Windhoek (~539 km ◐ — OSRM propio; desde Namutoni eran 548)** — asfalto a ~100 →
-  **mínimo ~5h30 · realista 6h–6h30 con comida en Otjiwarongo**. **Y durmiendo fuera del parque no
+  **mínimo ~5h25 · realista ~6h–6h20 con comida en Otjiwarongo**. **Y durmiendo fuera del parque no
   hay que esperar a que la puerta abra a las 06:10**: media hora larga de ventaja ✓
   *(⚠️ **Variante sin decidir** —`01` §D14—: dormir el D14 en **Okonjima** deja el día en **~312 km** y
   mete **~225 km** en el D15 antes del Craft Centre; aquí y en el D15 solo está calculada la versión
@@ -181,26 +185,29 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   correcta del acceso final; un borrador decía «D3245», con los dígitos bailados)*. *(El routeplanner lo da en 216 km;
   cuadra con el negativo: la puerta de Springbokwasser está a 40 km al este de Torra Bay y a 170 km al
   oeste de Khorixas por la C39 —Wikipedia—, así que ir por Khorixas serían ~360 km; la ruta directa se
-  ahorra esa vuelta.)* La **cola Twyfelfontein → Hoada mide ~155 km ◐** *(verificado 03/08)*. Hoada
+  ahorra esa vuelta.)* La **cola Twyfelfontein → Hoada mide ~155 km ◐** *(verificado 03/08; OSRM, 158,7)*. Hoada
   está en la **C40, a 25 km al este de Grootberg, ~50 km al este de Palmwag y 75 km al oeste de
-  Kamanjab** (GPS S 19°43,9′ E 14°18,4′). Dos rutas convergen: **Twyfelfontein → Palmwag ~110 km +
-  Palmwag → Hoada ~50 km ≈ 160 km**, y **Twyfelfontein → Grootberg ~130 km + Hoada 25 km al este ≈
+  Kamanjab** según su ficha *(OSRM mide **~69 km** hasta Kamanjab — abajo, D10)* (GPS S 19°43,9′ E
+  14°18,4′). Dos rutas convergen: **Twyfelfontein → Palmwag ~110 km + Palmwag → Hoada ~50 km ≈ 160
+  km** *(OSRM: 107 + 51)*, y **Twyfelfontein → Grootberg ~130 km + Hoada 25 km al este ≈
   155 km**; el operador da el trayecto en **«~2,5 h»**. **El ~85 km anterior queda refutado**: es menor
   que la línea recta Twyfelfontein–Hoada (~95 km, por coordenadas), imposible por carretera.
-- **Twyfelfontein → Palmwag**: **~110 km** ◐ *(operadores namibios convergentes: padlangsnamibia y
-  foro 4x4community lo dan en «~2,5 h» de grava)*. **No está en la ruta**, pero se apunta porque
-  **Palmwag es el surtidor de respaldo** del tramo si el de Terrace Bay falla *(ver `07`)*.
+- **Twyfelfontein → Palmwag**: **~107 km** ◐ *(OSRM; operadores namibios convergentes —padlangsnamibia
+  y foro 4x4community— daban ~110 km y «~2,5 h» de grava)*. **Desde el 24/08 es la primera mitad
+  del D9** *(`01` §D9)*, y **Palmwag es el primer surtidor que cuenta desde Henties Bay** —el de
+  Terrace Bay se trata como si no existiera— *(ver `07` y `01` §gasolineras)*.
 
 ### Eje Etosha y vuelta
 
 - **Hoada → Okaukuejo (D10) — DISCREPANCIA RESUELTA (04/08): son ~340 km, y el ~315 queda refutado.**
-  Se cierra sumando tramos con fuente propia: **Hoada → Kamanjab 75 km** *(el campamento se sitúa «75 km
-  al oeste de Kamanjab por la C40»)* **+ Kamanjab → Okaukuejo por Outjo ~265–271 km**. Esta última pata
+  Se cierra sumando tramos con fuente propia: **Hoada → Kamanjab ~69 km** ◐ *(OSRM, 09/10; el campamento
+  se sitúa «75 km al oeste de Kamanjab por la C40», que es la cifra redonda de su ficha)* **+ Kamanjab →
+  Okaukuejo por Outjo ~265–271 km**. Esta última pata
   se corroboró con **dos fuentes independientes que convergen con la matriz de 2010**: **distancesto.com
   da Kamanjab → Outjo en 156 km** *(C40, asfaltado Outjo–Kamanjab, coincide con la ficha de Wikipedia del
   C40)* y **CityMeter da Kamanjab → Okaukuejo vía Outjo en 271 km** —a 6 km de los 265 de la matriz—.
-  Total **75 + 265…271 = ~340–346 km**, que **confirma el ~340 y descarta el ~315** *(un subconteo de
-  `01`)*. No hay ruta más corta: cualquier alternativa a Okaukuejo pasa por Kamanjab y Outjo *(Galton, al
+  Total **69 + 265…271 = ~334–340 km** —y OSRM, de punta a punta, **343**—, que **confirma el ~340 y
+  descarta el ~315** *(un subconteo de `01`)*. No hay ruta más corta: cualquier alternativa a Okaukuejo pasa por Kamanjab y Outjo *(Galton, al
   oeste, exige reserva y es más largo por dentro)*. Firme: grava hasta Kamanjab, asfalto después ◐ *(C40
   asfaltada Outjo–Kamanjab y C38 Otjiwarongo–Okaukuejo, las dos por las fichas de Wikipedia de §Fuentes;
   hasta el 03/10 aquí la C38 iba «sin confirmar»)*.
@@ -237,8 +244,8 @@ secundaria y vieja; ver `07`); los de la **costa y la salida al interior** se re
   convergentes ◐ — y **las tres cuadran con OSRM a ±5 km**, que es justo lo que les faltaba.
   El desglose viejo de la costa (~380) **quedó refutado** el 09/08 *(ver §3)*.
 - **La cola Twyfelfontein → Hoada quedó cerrada en ~159 km ◐** *(OSRM 158,7 por Palmwag; el 03/08 se
-  midió en ~150 con un enrutado anterior)*: el ~85 km que se
-  manejaba antes está **refutado** por ser menor que la línea recta (~95 km). Con esto **la ruta E
+  había dado en ~155 con secundarias convergentes, §3)*: el ~85 km que se
+  manejaba antes está **refutado** por ser menor que la línea recta (~95 km). Con esto **la ruta
   ya no tiene distancias sin medir**, y **la discrepancia del D10 quedó resuelta el 04/08 en ~340 km**
   *(ver §3)*.
 - **En la pasada del 17/07, ni la web de NWR ni las de los lodges se dejaban descargar** (HTTP 403
@@ -264,7 +271,7 @@ cálculo que pinta el mapa del PDF y que da el **total de ~2.798 km**. Guardado 
 **D1 · 46** *(aeropuerto → Windhoek)* · **D2 · 205** · **D3 · 129** · **D4 · 122** · **D5 · 316** ·
 **D6 · 0** · **D7 · 412** · **D8 · 211** · **D9 · 159** · **D10 · 343** · **D11 · 108** *(con el
 desvío de las obras)* · **D12 · 93** *(safari y **salida a Onguma**)* · **D13 · 70** *(el bucle de
-Fischer's Pan, **entrando y saliendo por Von Lindequist**)* · **D14 · 539** *(ya desde Onguma)* ·
+Fischer's Pan, **entrando y saliendo por Von Lindequist** — sin la ida a Andoni, ~80 km más)* · **D14 · 539** *(ya desde Onguma)* ·
 **D15 · 46** *(al aeropuerto)* — **total 2.798**.
 
 > **Los 34 km de diferencia con los ~2.764 del 21/08 salen de dos sitios, y conviene separarlos**:
@@ -275,9 +282,9 @@ Fischer's Pan, **entrando y saliendo por Von Lindequist**)* · **D14 · 539** *(
 
 **Lectura honesta**: OSRM es una medición **de gabinete** (◐) — depende de que OSM tenga el trazado
 al día — pero es **consistente de punta a punta**, y donde discrepó de las triangulaciones de
-secundarias ganó dos veces por geometría *(el D8, cuyo tramo «~200 km» era menor que la línea
-recta; y el D6, heredero de la matriz de 2010)*. Donde ambas convergen *(D9, D10, D14, D2–D5)*, la
-cifra queda doblemente apoyada.
+secundarias ganó dos veces por geometría *(el D7, cuyo tramo «Cape Cross → Terrace Bay ~200 km» era
+menor que la línea recta; y el D5, heredero de la matriz de 2010, que daba 270 donde hay 316)*. Donde
+ambas convergen *(D2–D4, D8, D9, D10 y D14)*, la cifra queda doblemente apoyada.
 
 ---
 

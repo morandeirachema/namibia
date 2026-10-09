@@ -96,12 +96,12 @@ queda por si algún día se reabre, con operadores reales verificados en su prop
   incluidos — tarifa publicada hasta jun-2026, reconfirmar para la temporada 2026/27.
 - **Avioneta sobre las dunas** ✅ — ambos salen de **Swakopmund**, no de Sesriem:
   [Sossusvlei Scenic Flights](https://sossusvleiscenicflights.com/sossusvlei-scenic-flights/rates/)
-  (Eagle Eye Aviation), N$7.000–17.500/persona según grupo (2h06) · o
-  [Sossusfly](https://sossusfly.com/), N$6.900/persona (grupo de 5, 2h10, dunas + Costa de los
+  (Eagle Eye Aviation), N$7.000–17.500 (~€350–875)/persona según grupo (2h06) · o
+  [Sossusfly](https://sossusfly.com/), N$6.900 (~€345)/persona (grupo de 5, 2h10, dunas + Costa de los
   Esqueletos en un único vuelo).
 - **Avioneta sobre la Costa de los Esqueletos** ✅ — también desde Swakopmund:
   [Sossusvlei Scenic Flights](https://sossusvleiscenicflights.com/sossusvlei-scenic-flights/rates/),
-  N$5.500–13.750/persona (~1h30, naufragios + lobos marinos + Sandwich Harbour) · o
+  N$5.500–13.750 (~€275–688)/persona (~1h30, naufragios + lobos marinos + Sandwich Harbour) · o
   [Wings & Wheels Tours](https://wingsandwheelstours.com/featured_item/skeleton-coast-scenic-flight/)
   (misma ruta, precio sin publicar ❌).
 
@@ -252,8 +252,8 @@ Namibia — el mismo contacto con el que se reserva la noche)*. Hace ✅
 >   que deja «antes del amanecer» como zona a riesgo propio** *(`20` §1)*. **Solo cabría dándole
 >   una segunda noche a Damaraland.**
 >
-> ✅ **El precio de Palmwag ya está** *(28/08, tarifa 2026/27 de Gondwana: rastreo N$3.975, nature
-> drive N$1.355, caminatas N$400/485, todo por persona)*; **📞 se reserva en Gondwana: +264 61 427 200
+> ✅ **El precio de Palmwag ya está** *(28/08, tarifa 2026/27 de Gondwana: rastreo N$3.975 · ~€199,
+> nature drive N$1.355 · ~€68, caminatas N$400/485 · ~€20/24, todo por persona)*; **📞 se reserva en Gondwana: +264 61 427 200
 > · 📧 info@gcnam.com**. **Lo que falta es el de Grootberg** ❌ — pídelo por escrito al reservar
 > Hoada: 📧 **res4@journeysnamibia.com** · 📞 **+264 61 228 104** *(`20` §5)*, **y pídele la hora de
 > salida, no solo el precio**.
@@ -289,16 +289,16 @@ la razón de que allí se vean con una frecuencia que el parque no da ◐.
   vuestra)*, N$1.450 (~€72,5) en baja** ✅; niño de 6 a 13, la mitad. Salidas **06:00–06:30**
   *(vuelta 09:30–10:00)* y **15:30–16:00** *(vuelta 19:00–19:30)* ✅. **Y el jefe de guías declara
   «alrededor del 80 %» de éxito** ◐ *(Expert Africa, entrevista)*.
-- ✅ **Corregido el 27/08 — y esto es de las que importan**: hasta hoy aquí ponía **N$880/970**, que
-  es **la línea del game drive normal** *(«Game & Nature Drive», sin telemetría)*, no la del rastreo.
+- ✅ **Corregido el 27/08 — y esto es de las que importan**: hasta hoy aquí ponía **N$880/970
+  (~€44/48,50)**, que es **la línea del game drive normal** *(«Game & Nature Drive», sin telemetría)*, no la del rastreo.
   El PDF oficial *(«Okonjima Experience 2026», actualizado el 06/12/2025)* **se abrió por fin con
   `curl` y cabecera de navegador** —a `WebFetch` le sigue devolviendo `403`— y da la tabla entera:
-  **leopardo, hiena parda e «Into AfriCat» N$1.600 · nocturno N$1.600 · rinoceronte a pie N$2.200 ·
-  pangolín N$2.900 *(mínimo dos noches)* · game drive N$970 · sendero guiado N$420** *(alta, por
-  adulto)*. **Nocturno, rinoceronte y senderos no se pueden reservar por adelantado**: se piden en
+  **leopardo, hiena parda e «Into AfriCat» N$1.600 (~€80) · nocturno N$1.600 (~€80) · rinoceronte a
+  pie N$2.200 (~€110) · pangolín N$2.900 (~€145) *(mínimo dos noches)* · game drive N$970 (~€48,50) ·
+  sendero guiado N$420 (~€21)** *(alta, por adulto)*. **Nocturno, rinoceronte y senderos no se pueden reservar por adelantado**: se piden en
   el lodge, sujetos a tiempo y disponibilidad; el pangolín sí, sin reembolso.
-  **Camping Omboroko: N$880 + N$250 de tasa de parque = N$1.130 (~€56,5) por persona y noche** ✅
-  *(rack 2026; cena N$750, desayuno N$420)*. 📞 +264 83 373 1400 · 📧 info@okonjimalodge.com ·
+  **Camping Omboroko: N$880 (~€44) + N$250 (~€12,50) de tasa de parque = N$1.130 (~€56,5) por
+  persona y noche** ✅ *(rack 2026; cena N$750 · ~€37,50, desayuno N$420 · ~€21)*. 📞 +264 83 373 1400 · 📧 info@okonjimalodge.com ·
   [PDF de actividades](https://okonjima.com/wp-content/uploads/2025/12/Okonjima-Activity-Overview-2026-.pdf) ·
   [PDF de tarifas](https://okonjima.com/wp-content/uploads/2025/12/Okonjima-Rack-Rates-2026.pdf) ·
   [el 80 %](https://blog.expertafrica.com/conservation/looking-out-for-leopards/).
@@ -328,14 +328,14 @@ Son las únicas que caben en un día de llegada o de salida, porque están **a m
 
 ### 🚫 Y dónde NO hay game drive, para no buscarlo
 
-- **D4–D5 Sesriem/Sossusvlei** — el Namib-Naukluft se hace **con vuestro propio coche**; lo que
+- **D3–D4 Sesriem/Sossusvlei** — el Namib-Naukluft se hace **con vuestro propio coche**; lo que
   venden los lodges son **excursiones guiadas a Sossusvlei** y nature drives en fincas privadas, no
   safari de fauna. **NamibRand no es self-drive libre** *(arriba, §Zonas restringidas)*.
-- **D6–D7 Walvis/Swakopmund** — **Sandwich Harbour en 4x4**, ya decidido *(`20` §7)*, y el
+- **D5–D6 Walvis/Swakopmund** — **Sandwich Harbour en 4x4**, ya decidido *(`20` §7)*, y el
   **Living Desert Tour** de los «pequeños cinco» del Dorob *(camaleón, gecko de dunas, víbora
   sidewinder…)*: **precio actual sin verificar** ❌ *(las tarifas que circulan, N$750–850 · ~€38–43
   pp, son de 2019–2021 ○)*.
-- **D8 Skeleton Coast** — nada: el permiso es de tránsito y no hay operador de game drive dentro.
+- **D7 Skeleton Coast** — nada: el permiso es de tránsito y no hay operador de game drive dentro.
 - **D10 Kamanjab** — ~~Otjitotongwe~~, **fuera desde el 27/08** *(animales alimentados a mano; el viajero solo quiere fauna libre)*.
 - 🐆 *(**Descartado el 26/08 y del todo el 27/08** —el viajero: «más un zoo que animales en
   libertad»—; el dato se deja solo como registro: el Cheetah Conservation Fund, a 44 km

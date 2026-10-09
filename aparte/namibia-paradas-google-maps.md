@@ -9,7 +9,9 @@ PDF.*
 🔴 **24/08 — LA RUTA CAMBIÓ Y ESTOS TRES FICHEROS ESTÁN REGENERADOS: hay que reimportarlos
 enteros.** Los días se movieron: **Spreetshoogte pasa de dos noches a una**, aparece **noche propia
 en Twyfelfontein (D8)** y **Namutoni deja de ser noche** —sus dos últimas las hace **Onguma
-Tamboti**—. En la práctica, **todo lo que va del D3 al D9 lleva un número de día distinto** y hay
+Tamboti**—: **Namutoni sigue en el mapa con el D12 y el D13, pero como punto de paso** *(el
+campamento que se cruza camino de Von Lindequist y de Fischer's Pan)*, **no como sitio donde se
+duerme**. En la práctica, **todo lo que va del D3 al D9 lleva un número de día distinto** y hay
 un tramo más en el KML. *(El itinerario nuevo, en [`01`](../01-itinerarios-dia-a-dia.md); el porqué,
 en [el archivo del CCF](decision-del-ccf.md), que es donde quedó escrito el argumento de mover la
 noche de Spreetshoogte a Damaraland.)*
@@ -78,7 +80,8 @@ estimación nueva ni una línea recta.
 del catálogo: lo calcula `mapas_google.py` recorriendo `ETAPAS` día a día y anotando la primera vez
 que se pisa cada punto. **Dos de esos 37 —Deadvlei y Torra Bay— no son ancla de enrutado OSRM** (el
 camino pasa por ellos sin necesitar un punto de paso aparte para que la ruta salga bien), así que
-el cruce automático los dejaría sin día: van en la tabla `A_MANO` del propio script, con su día
+el cruce automático los dejaría sin día: van en la tabla `A_MANO` de `fuente/trazado.py` *(vivía
+en el propio script hasta el 25/09; se mudó para que el GPX la vea también)*, con su día
 escrito y el punto tras el que se insertan —**Deadvlei justo tras Duna 45 en el D4**, y **Torra Bay
 tras la puerta de Ugabmund en el D7**, que es la C34 de la costa, cerrada y sin parada pero de
 paso—. *(Palmwag y el paso de Grootberg también iban a mano hasta el 24/08; ahora son puntos de
