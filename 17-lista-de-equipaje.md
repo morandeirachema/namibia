@@ -150,7 +150,8 @@ de DEET)*; lo de cabina, no.
       Resist](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-manga-corta-lana-merino-hombre-forclaz-resist/356413/c383c382m8976797)**
       que se citaba aquí **no es sintética: es merina** —fibra envuelta en poliamida— ◐ 34,99 €;
       vale si se quiere una cuarta merina.)* ⚠️ Y una nota de uso: la merina **se seca más despacio** que la
-      sintética, así que la colada de Swakopmund se tiende **la primera noche, no la última** ○
+      sintética, así que si la colada del D5–D6 se hace a mano, se tiende **la primera noche de
+      Walvis Bay, no la segunda** ○ *(si va a la lavandería, vuelve seca)*
 - [ ] **Camisas de manga larga ligeras ×2** — sol de mediodía y mosquitos del anochecer.
       **Una resuelta (21/08): [Craghoppers NosiLife Adventure III](https://www.craghoppers.com/mens-nosilife-adventure-long-sleeved-shirt-iii-parchment/)**
       ✅ — es **la** camisa de este viaje y merece explicación: **el tejido lleva repelente de
@@ -310,11 +311,11 @@ ya hace el apaño.
       ✅ 8,99 € que este ítem proponía *(100 ml, sirve para ropa, cuerpo y vajilla)*. ❌ *Su
       composición y su rendimiento no se han verificado aquí: mira en la etiqueta que sea
       **biodegradable** y que valga para ropa, y **cuenta 100 ml para dos personas y quince
-      días** — da para la colada de Swakopmund y algún lavado de pila, no para más ○.*
+      días** — da para la colada del D5–D6 y algún lavado de pila, no para más ○.*
       Y **[tendedero de camping 5 m
       Quechua](https://www.decathlon.es/es/p/tendedero-para-camping-5-m-quechua/323789/c251c227m8578470)**
       ✅ 4,99 € — trae 20 perlas integradas que sujetan la ropa: **no hacen falta pinzas aparte**.
-      El respaldo a mano de la colada *(la cómoda es la lavandería de Swakopmund ◐ —
+      El respaldo a mano de la colada *(la cómoda es la lavandería, en Swakopmund o en Walvis Bay ◐ —
       [`05`](05-equipaje.md))*
 
 ## 💊 Botiquín — qué llevar y cuánto
