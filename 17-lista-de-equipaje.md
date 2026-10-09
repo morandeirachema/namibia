@@ -40,6 +40,15 @@ flowchart TD
 tarjetas, cargadores)*; en el petate, lo que sí *(ropa, calzado, neceser)*. Si el petate se pierde,
 el viaje sigue; si se pierde la cabina, no.
 
+**Y los líquidos parten el botiquín en dos** ◐: en cabina, **como mucho 100 ml por envase y todos
+en una bolsa transparente de 1 L** *(la norma de seguridad aérea de la UE)*. Así que **a cabina,
+los comprimidos, las cápsulas y los sobres** —el Malarone y la medicación propia, sobre todo— y lo
+líquido pequeño *(el gel hidroalcohólico de 100 ml, el colirio y el suero en monodosis)*; **al
+petate facturado, todo envase de más de 100 ml**: los **4 tubos de crema solar de 200 ml**, el
+**aloe de 250 ml**, el **aftersun**, el **repelente** y el **detergente**. Lo que se pierda de
+eso se repone en Windhoek o en la costa *(§si algo se olvida — el repelente, solo al 15–19,5 %
+de DEET)*; lo de cabina, no.
+
 - [ ] **Petate blando 60-80 L ×1 p.p.** — **[Altus Petate 70](https://www.decathlon.es/es/p/bolsa-de-viaje-duffle-bag-70l-altus-petate-70-cd/_/R-p-X8978467)**
       ✅ 53,99 € *(o, con más margen para la vuelta, [Forclaz 80L/120L expandible](https://www.decathlon.es/es/p/bolsa-de-viaje-80l-120l-duffle-bag-forclaz/_/R-p-156360)
       ✅ 79,99 €)*
