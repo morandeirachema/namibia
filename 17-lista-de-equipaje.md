@@ -14,8 +14,12 @@
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
+> **Las casillas se tachan al meter la cosa en su bulto, no al comprarla**: por eso ninguna sale
+> tachada, ni las de lo que ya está en casa. Lo comprado o en posesión lo dice el propio ítem.
+>
 > *Levantada el 05/08/2026 · completada con cantidades el 06/08/2026 · puesta al 09/10/2026 (la
-> pauta entera de Malarone, el protocolo de serpiente y lo que no consta pedido)*
+> pauta entera de Malarone, el protocolo de serpiente, lo que no consta pedido, y lo que la lista
+> decía distinto que el `20`)*
 
 ---
 
@@ -121,7 +125,7 @@ el viaje sigue; si se pierde la cabina, no.
 
 *Por qué esta ropa y no otra, en [`05`](05-equipaje.md). Aquí van los números.*
 
-- [x] **Camisetas transpirables ×5** — una puesta, cuatro en el petate. **Resuelto (21/08): 3 de
+- [ ] **Camisetas transpirables ×5** — una puesta, cuatro en el petate. **A medias (21/08): 3 de
       lana merina ya en casa** — **2 de Decathlon** *(la
       [Merino REC Fresh](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-lana-merina-reciclada-hombre-merino-rec-fresh/364687/c372m8939992),
       que era la recomendada aquí)* **y 1 de Patagonia** ○. *La merina aguanta varias puestas sin
@@ -286,7 +290,7 @@ ya hace el apaño.
       de [1 L, 20 bolsas](https://www.amazon.es/dp/B00KX7VLEE) ✅ 3,45 €)* y **[sacos de escombro
       Relevo, 150 L, 80×110 cm, 75 µm, 10 uds](https://www.amazon.es/dp/B07YYB8T1V)** ✅ 12,95 €
       (Amazon, 05/10) — de **film, no de rafia tejida**: la rafia no para el polvo
-- [x] **Detergente de viaje ×1** — **resuelto (21/08): jabón WILDERNESS de 100 ml** ○, un
+- [ ] **Detergente de viaje ×1** — **resuelto (21/08): jabón WILDERNESS de 100 ml** ○, un
       multiusos biodegradable de la misma familia que el
       **[Pharmavoyage](https://www.decathlon.es/es/p/jabon-concentrado-multiusos-biologico-de-camping/X8598405/m8598405)**
       ✅ 8,99 € que este ítem proponía *(100 ml, sirve para ropa, cuerpo y vajilla)*. ❌ *Su
@@ -604,7 +608,7 @@ teléfonos toxicológicos, con los de emergencia del [`07`](07-logistica.md).
 - [ ] **Aftersun ×1** ○ — **[ISDIN After Sun loción, 200
       ml](https://www.promofarma.com/en/after-sun-isdin-lotion-200ml/p-10086)** ✅ 12,79 €
       (PromoFarma, 05/10)
-- [x] **Repelente con DEET ≥20 % (o icaridina) ×2 frascos** ✅ — **resuelto (21/08): Goibi Xtreme
+- [ ] **Repelente con DEET ≥20 % (o icaridina) ×2 frascos** ✅ — **resuelto (21/08): Goibi Xtreme
       Trópical** ✅, **DEET al 45 %** *(N,N-dietil-m-toluamida 45 g/100 g + etanol; ficha de
       farmacia ◐◐, dos fuentes concordantes)*: **muy por encima del ≥20 % que pide el CDC**, con
       **hasta 12 h de protección frente a mosquito y 8 h frente a garrapata** ◐, y **a partir de 2
@@ -665,7 +669,7 @@ teléfonos toxicológicos, con los de emergencia del [`07`](07-logistica.md).
       regleta *(elegida sin USB)* y el enchufe del poste: el cargador de mechero solo carga con el
       motor en marcha. **Cualquiera de los de casa sirve** — se apunta para que no se quede en la
       mesilla
-- [x] **Powerbank ×1 grande** ○ *(el enchufe en parcela quedó confirmado el 11/08 ◐ — `18` §5 —
+- [ ] **Powerbank ×1 grande** ○ *(el enchufe en parcela quedó confirmado el 11/08 ◐ — `18` §5 —
       para las noches de NWR de interior, **Sesriem, Okaukuejo y Halali**, y para Onguma Tamboti;
       el powerbank cubre Spreetshoogte, Hoada y las tomas rotas de Sesriem)*. **Resuelto (21/08): Anker de 20.000 mAh, ya en posesión** ○ — no hace falta
       comprar.
@@ -725,11 +729,11 @@ teléfonos toxicológicos, con los de emergencia del [`07`](07-logistica.md).
 *Las decisiones de fotografía tienen repo propio, aparte de este dossier. En esta lista entra solo
 lo que hay que **meter en un bulto y pasar por un control de aeropuerto**.*
 
-- [x] **Cuerpo — Sony α6700** ○, comprada (21/08)
-- [x] **Gran angular — Sony E 11 mm f/1.8** ○, comprado (21/08). En APS-C equivale a
+- [ ] **Cuerpo — Sony α6700** ○, comprada (21/08)
+- [ ] **Gran angular — Sony E 11 mm f/1.8** ○, comprado (21/08). En APS-C equivale a
       **~16,5 mm**: es el de paisaje, el de Deadvlei al amanecer y **el de la Vía Láctea de las
       noches de Etosha** *(luna nueva el 9–10 — `01`)*
-- [x] **Teleobjetivo — Sony E 70–350 mm G OSS, prestado** ○ *(equivale a ~105–525 mm)* — el de
+- [ ] **Teleobjetivo — Sony E 70–350 mm G OSS, prestado** ○ *(equivale a ~105–525 mm)* — el de
       fauna. **Devolverlo entra en el plan**: apúntalo en el repaso de la vuelta
 - [ ] ⚠️ **El hueco del kit, dicho antes de que moleste: entre 11 y 70 mm no hay nada** ○. Eso
       deja fuera el rango de **elefante a treinta metros, paisaje con animal dentro y retrato de
@@ -826,7 +830,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       ✅ 24,99 €
 - [ ] **Multiherramienta ×1** — **facturada, jamás en cabina** ○. **Ya en posesión** ○ — no hace
       falta comprar
-- [x] **Navaja ×1** — **facturada, jamás en cabina** ○. **Ya en posesión: hay una en el equipaje**
+- [ ] **Navaja ×1** — **facturada, jamás en cabina** ○. **Ya en posesión: hay una en el equipaje**
       *(nota del 21/08, §lo que NO se lleva)* — no hace falta comprar. *(Hasta el 09/10 este ítem
       decía «a comprar» y el de abajo, que ya la había: manda la nota del 21/08.)* Solo si la que
       hay no lleva orificio para cordón *(se pidió con cordón para el cuello)* y se quiere una que
