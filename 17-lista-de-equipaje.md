@@ -46,15 +46,24 @@ el viaje sigue; si se pierde la cabina, no.
 
 ## 📄 Documentos — van en cabina, y también en papel
 
-- [ ] **Pasaporte** ×1 p.p. ✅ — válido hasta el **15/05/2027** como mínimo y con **3 páginas en
-      blanco**
-- [ ] **e-visa impreso y firmado** ×1 p.p. ✅ + **1 copia** suelta
+- [ ] **Pasaporte** ×1 p.p. — válido hasta el **15/05/2027** como mínimo y con **3 páginas en
+      blanco** ✅ *(la regla)* — ⚠️ **a 09/10, comprobarlo no consta hecho** ❌, y va **antes del
+      e-visa**, igual que **que los nombres del billete calquen los del pasaporte** ❌ *(`20` §9)*
+- [ ] **e-visa impreso y firmado** ×1 p.p. + **1 copia** suelta — ⚠️ **a 09/10 no consta
+      pedido** ❌: tocaba la primera semana de octubre, y con 7–10 días hábiles de trámite ◐, pedido
+      hoy llega hacia el **~23/10**, sin holgura para un rechazo *(`20` §6 y §9)*
 - [ ] **Billetes de avión impresos** ×1 p.p.
-- [ ] **Reservas impresas** ×1 de cada: coche, **Windhoek Urban Camp**, **Spreetshoogte**,
-      **Sesriem ×2**, **Terrace Bay**, **Okaukuejo**, **Halali** y **Onguma Tamboti ×2**
+- [ ] **Reservas impresas** ×1 de cada: coche, **Windhoek Urban Camp** *(D1 y, cuando se
+      reserve, D14)*, **Spreetshoogte**, **Sesriem ×2**, **Walvis Bay ×2** *(Lagoon Chalets)*,
+      **Terrace Bay**, **Hoada**, **Okaukuejo**, **Halali** y **Onguma Tamboti ×2**. *Walvis Bay,
+      Hoada y el Urban Camp del D14 **siguen sin reservar a 09/10** ❌ — van en la lista para que no
+      se olviden al imprimir cuando lo estén; Twyfelfontein queda sin reservar a propósito, es el
+      colchón del calendario (`20` §5)*
       *(Terrace Bay sin reserva en papel no entra al parque ✅ — ⚠️ **y al 09/10 esa confirmación
       no existe: la noche sigue sin reservar** ❌ — desde el ~7/10 NWR cobra el 100 % de golpe y
-      anular cuesta el 30 % hasta el ~22/10, `20` §4)*
+      anular cuesta el 30 % hasta el ~22/10, `20` §4)*. ⚠️ **Y Sesriem, reservado, está en el
+      aire**: el pago íntegro vencía el **3/10**, a 09/10 no consta ni el 20 % ❌, y **NWR cancela
+      lo no pagado** — confirmar por escrito que la reserva sigue viva antes de imprimirla *(`20` §9)*
 - [ ] **Confirmación de las actividades pre-reservadas en Onguma** ×1 — el Sundowner del D12 y el
       game drive del D13 *(decididos el 26/08; **a 09/10 pedirlas no consta hecho** ❌ — `20` §9)*
 - [ ] **Prueba de fondos** ○ — extracto o captura de la cuenta: el MAEC da como referencia
@@ -62,8 +71,10 @@ el viaje sigue; si se pierde la cabina, no.
       entrada», aunque rara vez lo miren)*
 - [ ] **Póliza IATI en papel** ×2: número de póliza y **teléfono 24 h** ✅ *(el **número de
       emergencias 24 h de Savanna**, en cambio, sigue ❌ — se pide en la entrega y se apunta aquí)*
-- [ ] **Carné de conducir** ×1 p.p. + **permiso internacional** ×1 p.p. *(la DGT: no consta pedido
-      ❌, `20` §6)*
+- [ ] **Carné de conducir** ×1 p.p. + **permiso internacional**, **uno por cada conductor** *(la
+      DGT: no consta pedido ❌, `20` §6)* — **uno o dos se decide antes de pedirlo**: depende de si
+      Miguel va de conductor adicional *(N$30 · ~€1,50 al día, `20` §9)*, y quien no lleve permiso no
+      conduce
 - [ ] **Cartilla de vacunación** ×1 p.p. — ⚠️ presupone **la cita del CVI, que no consta pedida**
       ❌ *(`04`, `20` §6)*
 - [ ] **Tarjetas** ×2 p.p., de bancos distintos ○ *(Savanna cobra por Visa o Mastercard ✅; Diners
