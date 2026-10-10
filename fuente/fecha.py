@@ -8,7 +8,7 @@ distintas (21, 24 y 25 de agosto) sin que nada avisara: solo se comprobaba la de
 """
 import datetime
 
-FECHA = "9 de octubre de 2026"
+FECHA = "10 de octubre de 2026"
 
 MESES = ("enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
          "agosto", "septiembre", "octubre", "noviembre", "diciembre")
