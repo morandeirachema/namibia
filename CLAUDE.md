@@ -17,7 +17,7 @@ make agenda     solo la agenda (el día a día del `01`, dos A4 por día: mapa y
 make avistam    recuentos de GBIF y porcentajes por campamento (las 4 zonas de la ruta)
 make mymaps     los CSV y el KML de `aparte/` para Google My Maps
 make gps        el GPX y el KML de la ruta, para el GPS y el móvil
-make lista      la lista del `17` como página para marcar en el móvil (ver abajo)
+make lista      la lista del `17` y la compra del D1 del `08`, como páginas para marcar en el móvil
 make mapas      los cuatro mapas de `img/mapas/`, SVG y PNG (el PNG lo saca Chrome)
 make charcas    reescribe `aparte/charcas-de-los-campamentos-de-etosha.md` desde el cache
 make imagenes   baja las fotos del catálogo de Commons (red)
@@ -123,6 +123,15 @@ y los ítems que se añaden desde la página viven en la base de datos del Artif
 `marcas` y `extras`), no en el `17`: lo añadido allí se pasa al `17` a mano, leyéndolo con
 ArtifactData. La clave de cada marca es **el nombre del ítem**: tocar su detalle no la pierde,
 renombrarlo sí. Tras cambiar el `17`, `make lista` y volver a publicar al mismo URL.
+
+**La compra grande del D1 del `08` sale igual, desde el 10/10**: `lista_web.py` lleva las dos en
+`LISTAS` —`equipaje` y `compra`— y de la segunda corta solo el trozo del `08` que va del
+`#### ✅ La lista de la compra grande del D1` al siguiente `###`. Sale a
+`fuente/lista-de-la-compra.html` y se publica en su propio Artifact, con su propia base de datos:
+https://claude.ai/artifact/J3Cg3ry9PPyQeDrbCTWHEK. **Los dos URL van escritos al principio de su
+lista** —en la cabecera del `17` y bajo el encabezado de la compra del `08`—, y `lista_web.py`
+quita de la página la línea que enlaza a ella misma. Si el encabezado del `08` cambia, el corte
+falla en vez de sacar una página vacía.
 
 ## Convenciones que no se ven en el markdown
 

@@ -2,6 +2,8 @@
 
 > **Namibia · 30 oct – 15 nov 2026 · la clásica del norte** — [← índice del dossier](README.md)
 >
+> **Para marcar en el móvil, entre los dos**: <https://claude.ai/artifact/AV6yctxcGktwWp1DMtDKNX>
+>
 > Todo lo que sube al petate, **ítem a ítem, con cantidad y con casilla**. El **porqué** de cada
 > decisión está en [`05`](05-equipaje.md) —las seis reglas, las temperaturas, lo que ya trae el
 > coche—: aquí solo está **la lista**, para imprimirla y tacharla la víspera.

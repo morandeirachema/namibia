@@ -9,7 +9,13 @@ los dos viajeros. Sin ella —o en la copia que la propia página deja descargar
 conexión— se guardan en el navegador. La clave de cada casilla es el nombre del ítem, no su
 posición: cambiar el detalle de un ítem no le quita la marca; cambiarle el nombre, sí.
 
-    python3 lista_web.py            -> fuente/lista-de-equipaje.html (ignorado por git)
+Lo mismo vale para la compra grande del D1, que es la lista con casillas del `08`
+(§«La lista de la compra grande del D1»): se corta desde su encabezado hasta el siguiente `###`
+y sale como otra página, con su propio Artifact y su propia base de datos.
+
+    python3 lista_web.py            -> las dos, en fuente/ (ignoradas por git)
+    python3 lista_web.py equipaje   -> fuente/lista-de-equipaje.html
+    python3 lista_web.py compra     -> fuente/lista-de-la-compra.html
 """
 import html
 import json
@@ -21,8 +27,30 @@ import unicodedata
 from comun import RAIZ, md, marca_texto
 import fecha
 
-FUENTE = os.path.join(RAIZ, "17-lista-de-equipaje.md")
-SALIDA = os.path.join(os.path.dirname(os.path.abspath(__file__)), "lista-de-equipaje.html")
+AQUI = os.path.dirname(os.path.abspath(__file__))
+LISTAS = {
+    "equipaje": {
+        "fuente": "17-lista-de-equipaje.md",
+        "salida": os.path.join(AQUI, "lista-de-equipaje.html"),
+        "titulo_pagina": "Equipaje Namibia 2026",
+        "clave": "lista17",
+        "cuenta": "en su bulto",
+        "descarga": "lista-de-equipaje-namibia-2026.html",
+        "corte": None,                      # el documento entero
+    },
+    "compra": {
+        "fuente": "08-comida-compras-y-regalos.md",
+        "salida": os.path.join(AQUI, "lista-de-la-compra.html"),
+        "titulo_pagina": "Compra D1 Namibia",
+        "titulo": "La compra grande del D1",
+        "clave": "compra08",
+        "cuenta": "en el carro",
+        "descarga": "lista-de-la-compra-namibia-2026.html",
+        "corte": "#### ✅ La lista de la compra grande del D1",
+    },
+}
+# La línea que enlaza el documento con su propia página: en la página sobra.
+RE_ENLACE_PROPIO = re.compile(r"claude\.ai/artifact/")
 SANGRIA = "      "   # la continuación de una casilla en el `17`
 
 
@@ -84,18 +112,41 @@ def bloque(texto):
     return marca_texto(mermaid(md.render(texto)))
 
 
-def lee():
-    lineas = open(FUENTE, encoding="utf-8").read().split("\n")
+def sin_enlace_propio(lineas):
+    """Quita la línea que apunta al Artifact, y el `>` vacío que la separaba, si lo hay."""
+    fuera = []
+    for n, l in enumerate(lineas):
+        if RE_ENLACE_PROPIO.search(l):
+            fuera.append(n)
+            if n + 1 < len(lineas) and lineas[n + 1].strip() in (">", ""):
+                fuera.append(n + 1)
+    return [l for n, l in enumerate(lineas) if n not in fuera]
+
+
+def lee(lista):
+    nombre = lista["fuente"]
+    lineas = open(os.path.join(RAIZ, nombre), encoding="utf-8").read().split("\n")
     # La cabecera: el título y la cita que la sigue.
-    assert lineas[0].startswith("# "), "el `17` ha perdido su título"
+    assert lineas[0].startswith("# "), f"el `{nombre[:2]}` ha perdido su título"
     cab, i = [], 1
     while i < len(lineas) and not lineas[i].startswith("---"):
         cab.append(lineas[i])
         i += 1
-    # La historia de la lista: lo que va tras el último `---`.
-    ult = max(n for n, l in enumerate(lineas) if l.strip() == "---")
-    historia = "\n".join(lineas[ult + 1:]).strip()
-    cuerpo = lineas[i:ult]
+    cab = sin_enlace_propio(cab)
+    if lista["corte"] is None:
+        # La historia de la lista: lo que va tras el último `---`.
+        ult = max(n for n, l in enumerate(lineas) if l.strip() == "---")
+        historia = "\n".join(lineas[ult + 1:]).strip()
+        cuerpo = lineas[i:ult]
+    else:
+        # Un trozo del documento: de su encabezado al siguiente `###` (o `##`, o `---`).
+        desde = [n for n, l in enumerate(lineas) if l.startswith(lista["corte"])]
+        assert len(desde) == 1, f"el `{nombre[:2]}` ha perdido «{lista['corte']}»: la lista se queda ciega"
+        hasta = next(n for n in range(desde[0] + 1, len(lineas))
+                     if re.match(r"^(#{2,3} |---\s*$)", lineas[n]))
+        historia = ""
+        cuerpo = lineas[desde[0]:hasta]
+    cuerpo = sin_enlace_propio(cuerpo)
 
     secciones, sec, nota, vistos = [], None, [], {}
 
@@ -153,7 +204,7 @@ def lee():
         nota.append(l)
         n += 1
     cierra_nota()
-    titulo_doc = re.sub(r"^#\s*\d+\s*·\s*", "", lineas[0]).strip()
+    titulo_doc = lista.get("titulo") or re.sub(r"^#\s*\d+\s*·\s*", "", lineas[0]).strip()
     intro = bloque("\n".join(re.sub(r"^>\s?", "", x) for x in cab))
     return titulo_doc, intro, secciones, bloque(historia) if historia else ""
 
@@ -310,10 +361,10 @@ body.pendiente section.sec.completa { display: none; }
 
 JS = r"""
 (function () {
-  // Dos cosas se guardan: las marcas de las casillas del `17` (por su clave) y los ítems que
+  // Dos cosas se guardan: las marcas de las casillas (por su clave) y los ítems que
   // se añaden desde la página. Con la base de datos del Artifact, compartidas; sin ella —o en
   // la copia descargada—, en este navegador.
-  var CLAVE = "lista17-marcas", CLAVE_EXTRA = "lista17-extras";
+  var CLAVE = "@CLAVE@-marcas", CLAVE_EXTRA = "@CLAVE@-extras";
   var inicial = {};
   try { inicial = JSON.parse(document.getElementById("estado-inicial").textContent) || {}; } catch (e) {}
   var esCopia = document.documentElement.hasAttribute("data-copia");
@@ -519,7 +570,7 @@ JS = r"""
       clon.querySelectorAll("input.casilla").forEach(function (c) { c.removeAttribute("disabled"); });
       clon.querySelector("body").classList.remove("lectura");
       var bc = clon.querySelector("#descarga"); if (bc) bc.remove();
-      dl.save({ filename: "lista-de-equipaje-namibia-2026.html",
+      dl.save({ filename: "@DESCARGA@",
                 data: "<!doctype html>\n" + clon.outerHTML })
         .then(function () { aviso.textContent = "Copia guardada. Ábrela en el navegador del móvil: funciona sin conexión y guarda los cambios ahí."; })
         .catch(function (e) {
@@ -532,8 +583,8 @@ JS = r"""
 """
 
 
-def escribe(salida=SALIDA):
-    titulo, intro, secciones, historia = lee()
+def escribe(lista):
+    titulo, intro, secciones, historia = lee(lista)
     partes = []
     total = 0
     for s in secciones:
@@ -573,7 +624,8 @@ def escribe(salida=SALIDA):
     indice = "".join(
         f'<a href="#{s["id"]}">{html.escape(s["titulo"])} <b></b></a>'
         for s in secciones if any(t == "item" for t, _ in s["bloques"]))
-    pagina = f"""<title>Equipaje Namibia 2026</title>
+    js = JS.replace("@CLAVE@", lista["clave"]).replace("@DESCARGA@", lista["descarga"])
+    pagina = f"""<title>{html.escape(lista["titulo_pagina"])}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap">
@@ -587,7 +639,7 @@ def escribe(salida=SALIDA):
   </div>
 </header>
 <div class="barra">
-  <div class="cuenta"><span class="num" id="num">0</span><span class="de">de <span id="total">{total}</span> en su bulto</span>
+  <div class="cuenta"><span class="num" id="num">0</span><span class="de">de <span id="total">{total}</span> {html.escape(lista["cuenta"])}</span>
     <span class="modo" id="modo"></span></div>
   <div class="progreso" aria-hidden="true"><i id="barra-i"></i></div>
   <div class="mandos">
@@ -600,15 +652,15 @@ def escribe(salida=SALIDA):
 <nav class="indice" aria-label="Secciones">{indice}</nav>
 {"".join(partes)}
 <details class="historia"><summary>De dónde sale esta lista</summary>{historia}
-<p>Generada desde <code>17-lista-de-equipaje.md</code> el {html.escape(fecha.FECHA)}.</p></details>
+<p>Generada desde <code>{html.escape(lista["fuente"])}</code> el {html.escape(fecha.FECHA)}.</p></details>
 </div>
 <script type="application/json" id="estado-inicial">{{}}</script>
-<script id="app">{JS}</script>
+<script id="app">{js}</script>
 """
     pagina = marca_texto_seguro(pagina)
-    with open(salida, "w", encoding="utf-8") as f:
+    with open(lista["salida"], "w", encoding="utf-8") as f:
         f.write(pagina)
-    return salida, total
+    return lista["salida"], total
 
 
 def marca_texto_seguro(pagina):
@@ -617,5 +669,6 @@ def marca_texto_seguro(pagina):
 
 
 if __name__ == "__main__":
-    ruta, n = escribe(sys.argv[1] if len(sys.argv) > 1 else SALIDA)
-    print(f"{os.path.relpath(ruta)}: {n} casillas")
+    for clave in sys.argv[1:] or LISTAS:
+        ruta, n = escribe(LISTAS[clave])
+        print(f"{os.path.relpath(ruta)}: {n} casillas")

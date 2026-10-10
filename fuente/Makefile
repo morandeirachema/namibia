@@ -12,7 +12,7 @@
 #   make lamina     mapa-ruta-namibia-2026.pdf, la lamina A2 para imprimir
 #   make agenda     agenda-namibia-2026.pdf, el dia a dia del `01` y nada mas, dos A4 por dia
 #   make gps        el GPX y el KML de la ruta, para el GPS y el movil
-#   make lista      lista-de-equipaje.html: el `17` para marcar en el movil (se publica como Artifact)
+#   make lista      el `17` y la compra del D1 del `08`, para marcar en el movil (se publican como Artifact)
 #   make todo       de cero: imagenes + geo + avistamientos + mapas + los cuatro PDF
 #   make comprueba  imagenes, licencias, geometria, avistamientos, escala y README
 #   make limpia     borra el HTML intermedio
