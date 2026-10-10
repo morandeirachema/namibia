@@ -90,6 +90,8 @@ vuestra**.
 
 #### ✅ La lista de la compra grande del D1 — para tachar en el carro
 
+**Para marcar en el móvil, entre los dos**: <https://claude.ai/artifact/J3Cg3ry9PPyQeDrbCTWHEK>
+
 La regla de la lista: **solo cosas que un súper grande namibio tiene seguro** — todo son básicos de
 las cadenas de arriba ◐ *(las mismas guías citadas, y los precios se pueden comprobar desde casa en
 la [tienda online de Model](https://shop.modelmooove.na/) ◐)*. Nada de fiar el menú a encontrar un producto concreto.
