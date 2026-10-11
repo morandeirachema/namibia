@@ -198,7 +198,8 @@ INTROS = {
               "la noche por el día</strong> en la costa de la niebla y el <strong>lagarto de "
               "nariz de cuña</strong> de la base de las dunas.</p>",
     "costa": "<p>Etosha no es toda la fauna del viaje. Esto es lo que veréis <strong>fuera del "
-             "parque</strong>: en <strong>Cape Cross</strong> (D7), en la laguna de "
+             "parque</strong>: en <strong>Cape Cross</strong> (D7) —desde la pasarela: <strong>hay rabia en los "
+             "lobos marinos de la costa desde junio de 2025</strong>, y no se toca ninguno—, en la laguna de "
              "<strong>Walvis Bay</strong> (D5–D6), en los roquedos de Damaraland y en la arena "
              "del Namib. La laguna, por cierto, no es una charca cualquiera: <strong>sitio "
              "Ramsar desde 1995</strong> y descrita como el humedal costero más importante del "

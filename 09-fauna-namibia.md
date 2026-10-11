@@ -472,7 +472,9 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 
 *Lo de fuera de Etosha: Cape Cross (D7), la laguna de Walvis Bay (D5–D6) y los roquedos de
 Damaraland — con una excepción a caballo: la ardilla terrestre campa igual de bien por dentro del
-parque, y de ahí sale su banda.*
+parque, y de ahí sale su banda.* ⚠️ **Los lobos marinos, desde la pasarela y sin tocarlos: hay rabia
+en la colonia de la costa desde junio de 2025** ✅ *(seis casos positivos y trece exposiciones
+humanas, siete de turistas, a septiembre de 2026 — [`23`](23-situaciones-a-evitar.md) §5)*.
 
 - **Lobo marino del Cabo** — *Arctocephalus pusillus* · Cape fur seal
 - **Delfín de Heaviside** — *Cephalorhynchus heavisidii* · Heaviside's dolphin

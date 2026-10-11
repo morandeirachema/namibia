@@ -499,6 +499,9 @@ flowchart LR
   el límite: lo es la puerta de las 15:00*
 - ⏰ **Salida temprana — este día tiene una hora límite.** C34 costera (sal compactada):
   Swakopmund → Henties Bay → 🦭 **Cape Cross** (miles de lobos marinos; pañuelo para el olor).
+  ⚠️ **Desde la pasarela y sin tocar ninguno: hay rabia en los lobos marinos de la costa desde
+  junio de 2025** ✅ — seis casos positivos y trece exposiciones humanas, siete de turistas, a
+  septiembre de 2026; una mordedura o un arañazo es lavar y hospital el mismo día (`23` §5).
   ⛽ **En Henties Bay se llena sí o sí** *(Puma 24 h)*: es el último surtidor seguro antes del
   bucle de la costa y Damaraland — la aritmética del depósito, en `07`
 - 🎫 **Cape Cross cobra entrada propia, aparte del permiso de Skeleton Coast:** **N$280 (~€14)/extranjero
