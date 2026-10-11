@@ -352,6 +352,54 @@ def revisa_calendario():
              f"cuadro de noches cuadran")
 
 
+def revisa_noches():
+    """Que el cuadro de noches de `aparte/noches-y-reservas.md` cuente las noches de la ruta.
+
+    Es un espejo del `20` §9 escrito a mano: una linea por noche con donde se duerme y si esta
+    reservada, y arriba «8 noches reservadas · 6 sin reservar». El README repite el contador
+    («8 de 14 reservadas»). Se exige que haya una linea por noche de `trazado.ETAPAS` con el
+    sitio donde se duerme, que las cuentas de la cabecera sean las de las lineas y que el
+    README diga lo mismo.
+    """
+    texto = _doc(os.path.join("aparte", "noches-y-reservas.md"))
+    lineas = {m.group(1): m.group(2) for m in
+              re.finditer(r"^- \*\*(D\d+) · [^\n]*?— ([^\n]*)", texto, re.M)}
+    fallos, reservadas, sin = [], 0, 0
+    for e in trazado.noches():
+        linea = lineas.get(e["id"])
+        sitio = trazado.PUNTOS[e["duerme"]][2].split(" · ")[0].replace("Paso de ", "")
+        if linea is None:
+            fallos.append(f"el cuadro de noches no tiene linea para {e['id']}")
+            continue
+        if sitio not in linea:
+            fallos.append(f"{e['id']}: la ruta duerme en {sitio} y el cuadro de noches dice "
+                          f"«{linea[:50]}»")
+        if "RESERVADO ✅" in linea:
+            reservadas += 1
+        elif "SIN RESERVAR" in linea:
+            sin += 1
+        else:
+            fallos.append(f"{e['id']}: la linea del cuadro no dice RESERVADO ✅ ni SIN RESERVAR")
+    m = re.search(r"\*\*(\d+) noches reservadas · (\d+) sin reservar\*\*", texto)
+    if not m:
+        fallos.append("el cuadro de noches ya no lleva «N noches reservadas · M sin reservar»")
+    elif (int(m.group(1)), int(m.group(2))) != (reservadas, sin):
+        fallos.append(f"el cuadro de noches dice {m.group(1)} reservadas y {m.group(2)} sin "
+                      f"reservar, y sus lineas dan {reservadas} y {sin}")
+    r = re.search(r"Contador de noches: \*\*(\d+) de (\d+) reservadas\*\*", _doc("README.md"))
+    if not r:
+        fallos.append("el README ya no lleva «Contador de noches: **N de M reservadas**»")
+    elif (int(r.group(1)), int(r.group(2))) != (reservadas, len(trazado.noches())):
+        fallos.append(f"el README cuenta {r.group(1)} de {r.group(2)} noches reservadas y el "
+                      f"cuadro da {reservadas} de {len(trazado.noches())}")
+    if fallos:
+        for f in fallos:
+            mal(f)
+    else:
+        bien(f"noches: el cuadro de aparte/ lleva las {len(trazado.noches())} noches donde dice la "
+             f"ruta, {reservadas} reservadas y {sin} sin reservar, y el README cuenta lo mismo")
+
+
 def revisa_anclas_de_la_agenda():
     """Que el `01` siga teniendo los dos literales entre los que `agenda.py` recorta el dia a dia.
 
@@ -1679,6 +1727,7 @@ def main():
     revisa_dia_a_dia()
     revisa_horas_del_01()
     revisa_calendario()
+    revisa_noches()
     revisa_anclas_de_la_agenda()
     revisa_ruta_alt()
     revisa_sol_y_luna()
