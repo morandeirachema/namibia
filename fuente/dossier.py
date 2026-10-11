@@ -64,6 +64,7 @@ FOTOS = {
     "15": [],
     "17": ["hiddenvlei"],
     "18": ["hoada"],
+    "23": ["capecross", "grava"],
     "21": ["okaukuejo-torre", "okaukuejo-charca-dia", "okaukuejo-charca-noche", "halali",
            "halali-moringa", "halali-piscina", "namutoni", "namutoni-atardecer",
            "namutoni-charca"],
