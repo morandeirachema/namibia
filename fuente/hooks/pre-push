@@ -7,4 +7,5 @@ if [ -x .venv/bin/python ]; then py=.venv/bin/python; else py=python3; fi
 if "$py" -c "import pyflakes" 2>/dev/null; then
   "$py" -m pyflakes ./*.py || { echo "pre-push: pyflakes no pasa — no se hace push"; exit 1; }
 fi
+make pruebas || { echo "pre-push: las pruebas no pasan — no se hace push"; exit 1; }
 make comprueba || { echo "pre-push: make comprueba no pasa — no se hace push"; exit 1; }

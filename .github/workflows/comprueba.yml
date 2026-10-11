@@ -28,4 +28,5 @@ jobs:
           pip install -q -r fuente/requirements.txt pyflakes
       # lo que Python no dice solo: imports muertos, variables sin usar, nombres que no existen
       - run: python -m pyflakes fuente/*.py
+      - run: make -C fuente pruebas
       - run: make -C fuente comprueba

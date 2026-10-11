@@ -15,6 +15,7 @@
 #   make lista      el `17` y la compra del D1 del `08`, para marcar en el movil (se publican como Artifact)
 #   make todo       de cero: imagenes + geo + avistamientos + mapas + los cuatro PDF
 #   make comprueba  imagenes, licencias, geometria, avistamientos, escala y README
+#   make pruebas    las pruebas unitarias de las funciones puras (sol y luna, firme, Wilson…)
 #   make hooks      instala el pre-push que pasa pyflakes y `make comprueba` antes de cada push
 #   make limpia     borra el HTML intermedio
 #
@@ -30,7 +31,7 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps lista limpia comprueba hooks
+.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps lista limpia comprueba hooks pruebas
 
 all: gps mymaps charcas dossier fauna lamina agenda
 
@@ -100,6 +101,9 @@ $(GEO)/avistamientos.json: | $(GEO)/ruta.json
 # Comprobaciones baratas antes de dar un PDF por bueno.
 comprueba:
 	@$(PY) comprobar.py
+
+pruebas:
+	@$(PY) pruebas.py
 
 # El pre-push de fuente/hooks/: git lee los hooks de ahi en vez de .git/hooks, que no se versiona.
 hooks:
