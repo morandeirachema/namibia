@@ -388,7 +388,11 @@ el sitio donde se duerme, y que sus cuentas de reservadas y sin reservar sean la
 del contador del README** (`revisa_noches`); y que los textos del build no lleven cifras del viaje a
 mano: «15 días» y «quince etapas» salen de `trazado.dias_texto()` y `len(ETAPAS)`, y los días de
 cada zona de la guía («D8–D9») de `mapa.dias_de_zona`, que mira qué etapas duermen o visitan un
-hito o una parada dentro del polígono de la zona.
+hito o una parada dentro del polígono de la zona. Y dos más del mismo día: **que los kilómetros por
+día del `13`** —«(~129 km ◐, OSRM 128,8)»— **sean los de la geometría** (`revisa_km_del_13`, la
+gemela de la del `01`), y **que los porcentajes de Expert Africa que citan el `01` por campamento y
+el `09` para los tres juntos —con sus viajeros y sus «(7 de 14)»— sean los del cache**
+(`revisa_partes_citados`): rehacer `avistamientos.json` con `--forzar` los dejaba viejos en silencio.
 
 **Los derivados se comparan byte a byte, desde el 25/09** (`revisa_derivados`): el GPX y el KML
 del GPS, los tres de My Maps, el estudio de charcas y, desde el 09/10, **los cuatro SVG de
