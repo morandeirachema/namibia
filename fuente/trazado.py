@@ -110,6 +110,12 @@ def dias_de_safari(etapas=None):
             if i and e["bloque"] == "etosha" == etapas[i - 1]["bloque"]]
 
 
+def dias_texto(etapas=None):
+    """«15 días», contado de las etapas: hasta el 11/10 iba escrito en el GPX, la lamina, los dos
+    mapas de pais y la agenda, cada uno con su 15."""
+    return f"{len(etapas or ETAPAS)} días"
+
+
 def noches(etapas=None):
     """Las etapas en las que se duerme en algun sitio (todas menos la del vuelo)."""
     return [e for e in (etapas or ETAPAS) if e.get("duerme")]

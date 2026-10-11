@@ -175,7 +175,7 @@ def cabecera(km):
     <div class="sub">El gran roadtrip del norte · Chema Morandeira y Miguel Rivera</div>
   </div>
   <div class="datos">
-    <span class="grande">~{comun.mil(km)} km en 15 días</span>
+    <span class="grande">~{comun.mil(km)} km en {trazado.dias_texto()}</span>
     <b>{VIAJE[:-8]}</b> · un 4×4 con tienda de techo<br>
     {noches_texto()}
   </div>
@@ -196,7 +196,8 @@ def tira():
             f'<span class="que">{mapa.esc(e["titulo"])} '
             f'<i>· duerme <b>{e["duerme"]}</b></i></span>'
             f'<span class="km">{e["km"]}</span>{vias}</li>')
-    return ('<section class="tira"><h2>Las quince etapas · kilómetros del enrutado '
+    return (f'<section class="tira"><h2>Las {comun.en_letras(len(trazado.ETAPAS))} etapas · '
+            'kilómetros del enrutado '
             'propio sobre OpenStreetMap · debajo, las carreteras y el firme de cada día</h2>'
             f'<ol class="etapas">{"".join(li)}</ol></section>')
 

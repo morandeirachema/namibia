@@ -66,8 +66,8 @@ def texto_gpx(tramos):
          '     xmlns="http://www.topografix.com/GPX/1/1">',
          '  <metadata>',
          '    <name>Namibia 2026 · la clasica del norte</name>',
-         '    <desc>15 etapas, 14 noches, ~{:.0f} km. Trazado con OSRM sobre OpenStreetMap.</desc>'
-         .format(sum(e["km"] or 0 for e in tramos)),
+         '    <desc>{} etapas, {} noches, ~{:.0f} km. Trazado con OSRM sobre OpenStreetMap.</desc>'
+         .format(len(tramos), len(trazado.noches(tramos)), sum(e["km"] or 0 for e in tramos)),
          '  </metadata>']
 
     for clave, (lat, lon, rotulo, clase) in trazado.puntos_oficiales().items():

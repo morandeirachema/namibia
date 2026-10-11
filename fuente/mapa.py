@@ -736,7 +736,7 @@ def _mapa_ruta(ancho, fichero, en_mapa, textos, bloques, mueve=None):
     ln = [f'<rect x="{lx - 12}" y="{ly - 26}" width="290" height="{34 + 21 * len(bloques)}" '
           f'rx="6" fill="{C["papel"]}" opacity=".93" stroke="{C["borde"]}" stroke-width=".8"/>',
           f'<text x="{lx}" y="{ly - 8}" font-size="12.5" font-weight="800" fill="{C["tinta"]}">'
-          f'~{total:,.0f}'.replace(",", ".") + ' km en 15 días</text>']
+          f'~{total:,.0f}'.replace(",", ".") + f' km en {trazado.dias_texto()}</text>']
     for i, (bloque, nombre, dias) in enumerate(bloques):
         y0 = ly + 14 + i * 21
         ln.append(f'<line x1="{lx}" y1="{y0}" x2="{lx + 26}" y2="{y0}" '
@@ -1059,7 +1059,7 @@ def leyenda_lamina(L, total, lx=40, fondo=None):
     out = [f'<rect x="{lx - 12}" y="{ly - 26}" width="330" height="{alto}" rx="6" '
            f'fill="{C["papel"]}" opacity=".94" stroke="{C["borde"]}" stroke-width=".8"/>',
            f'<text x="{lx}" y="{ly - 8}" font-size="12.5" font-weight="800" fill="{C["tinta"]}">'
-           f'~{total:,.0f}'.replace(",", ".") + ' km en 15 días · por firme</text>']
+           f'~{total:,.0f}'.replace(",", ".") + f' km en {trazado.dias_texto()} · por firme</text>']
     for i, (tipo, col, txt, _) in enumerate(filas):
         y0 = ly + 14 + i * paso
         cx = lx + 13

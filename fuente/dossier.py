@@ -502,13 +502,13 @@ def paginas_de_mapas():
   <div class="mapa mapa-ruta">{mapa.mapa_ruta()}
     <figcaption>Trazado real de carretera, calculado con <b>OSRM</b> sobre OpenStreetMap a
     partir de las coordenadas de cada parada. Los contornos son de <b>Natural Earth</b>
-    (dominio público). La suma de las quince etapas da <b>{miles(total)}</b>, que cuadra con
+    (dominio público). La suma de las {comun.en_letras(len(trazado.ETAPAS))} etapas da <b>{miles(total)}</b>, que cuadra con
     lo medido aparte en <a href="#doc-13"><code>13</code></a>.</figcaption>
   </div>
 </section>
 
 <section class="mapa-plena">
-  <h1 class="titulo">Las quince etapas</h1>
+  <h1 class="titulo">Las {comun.en_letras(len(trazado.ETAPAS))} etapas</h1>
   <ol class="etapas">
     <li class="cabecera"><span class="dia">Día</span><span class="fec">Fecha</span>
       <span class="etapa">Etapa</span><span class="km">Carretera</span>

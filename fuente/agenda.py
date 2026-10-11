@@ -388,7 +388,7 @@ def portada():
     casilla se marca a boli.</p>
     <ol class="indice">{"".join(li)}</ol>
   </div>
-  <div class="pie">~{comun.mil(total)} km en 15 días · {VIAJE[:-8]} ·
+  <div class="pie">~{comun.mil(total)} km en {trazado.dias_texto()} · {VIAJE[:-8]} ·
   Chema Morandeira y Miguel Rivera · generado de los documentos <code>01</code> y <code>10</code> el {FECHA}</div>
 </section>"""
 
