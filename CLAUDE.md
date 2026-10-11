@@ -23,6 +23,7 @@ make charcas    reescribe `aparte/charcas-de-los-campamentos-de-etosha.md` desde
 make imagenes   baja las fotos del catálogo de Commons (red)
 make geo        baja y cachea la geometría de `fuente/geo/` (red: OSRM, Overpass, Nominatim)
 make comprueba  las comprobaciones de abajo
+make hooks      instala el pre-push que pasa pyflakes y `make comprueba` antes de cada push
 make todo       de cero: imágenes, geometría, avistamientos, mapas y los cuatro PDF
 make limpia     borra el HTML intermedio
 ```
@@ -465,5 +466,8 @@ comprobación depende de un literal del markdown y el literal cambia, tiene que 
 quedado ciega — un tick verde sin haber medido es peor que ninguna comprobación.
 
 Las mismas comprobaciones corren solas en cada push (`.github/workflows/comprueba.yml`), y antes
-`pyflakes` sobre `fuente/*.py` —imports muertos, nombres que no existen—. No regeneran los PDF
+`pyflakes` sobre `fuente/*.py` —imports muertos, nombres que no existen—. **Y antes de salir de la
+máquina**: `make hooks` instala `fuente/hooks/pre-push` (vía `core.hooksPath`), que pasa lo mismo y
+para el push si algo falla — el 11/10 se subió un commit con los PDF sin regenerar y el CI lo cazó
+después, no antes. No regeneran los PDF
 —eso pide Chrome y red—: vigilan que lo commiteado sea coherente.

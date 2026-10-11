@@ -15,6 +15,7 @@
 #   make lista      el `17` y la compra del D1 del `08`, para marcar en el movil (se publican como Artifact)
 #   make todo       de cero: imagenes + geo + avistamientos + mapas + los cuatro PDF
 #   make comprueba  imagenes, licencias, geometria, avistamientos, escala y README
+#   make hooks      instala el pre-push que pasa pyflakes y `make comprueba` antes de cada push
 #   make limpia     borra el HTML intermedio
 #
 # Solo hace falta Python 3 (pip install -r requirements.txt), Google Chrome y poppler-utils.
@@ -29,7 +30,7 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps lista limpia comprueba
+.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps lista limpia comprueba hooks
 
 all: gps mymaps charcas dossier fauna lamina agenda
 
@@ -99,6 +100,12 @@ $(GEO)/avistamientos.json: | $(GEO)/ruta.json
 # Comprobaciones baratas antes de dar un PDF por bueno.
 comprueba:
 	@$(PY) comprobar.py
+
+# El pre-push de fuente/hooks/: git lee los hooks de ahi en vez de .git/hooks, que no se versiona.
+hooks:
+	git config core.hooksPath fuente/hooks
+	chmod +x hooks/*
+	@echo "pre-push instalado: pyflakes y make comprueba antes de cada push"
 
 limpia:
 	rm -f dossier.html guia-fauna.html lamina.html agenda.html

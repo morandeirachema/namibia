@@ -1,0 +1,10 @@
+#!/bin/sh
+# Antes de cada push, lo mismo que el CI: pyflakes y `make comprueba`. Un push con un PDF sin
+# regenerar o un derivado viejo se para aqui, no en GitHub. Se instala con `make hooks`.
+raiz=$(git rev-parse --show-toplevel) || exit 1
+cd "$raiz/fuente" || exit 1
+if [ -x .venv/bin/python ]; then py=.venv/bin/python; else py=python3; fi
+if "$py" -c "import pyflakes" 2>/dev/null; then
+  "$py" -m pyflakes ./*.py || { echo "pre-push: pyflakes no pasa — no se hace push"; exit 1; }
+fi
+make comprueba || { echo "pre-push: make comprueba no pasa — no se hace push"; exit 1; }
