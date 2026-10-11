@@ -220,7 +220,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 195 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 200 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -668,20 +668,21 @@ mercados)*. Y dos bichos con nombre propio: **dassie** *(el damán)* y **shongol
 9. ⛺ [**`18-manual-de-campamento`**](18-manual-de-campamento.md) — **vivir del coche**: la rutina de la tarde, la tienda, el braai, la nevera y los vecinos del campamento
 10. 🏕️ [**`21-campamentos-de-etosha`**](21-campamentos-de-etosha.md) — **las cuatro noches de Etosha por dentro** *(Okaukuejo, Halali y Onguma Tamboti ×2 — y Namutoni, que se visita pero ya no se duerme)*: la parcela, la charca y los servicios de cada una, con los avisos de los viajeros recientes
 11. 🦂 [**`22-picadura-de-escorpion`**](22-picadura-de-escorpion.md) — **si te pica un escorpión**: la regla de la cola, el cuadro hora a hora, qué hacer y qué no, a quién llamar y el hospital etapa a etapa
-12. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
-13. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
-14. 🪘 [**`19-cultura-de-namibia`**](19-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
-15. 🦁 [**`09-fauna-namibia`**](09-fauna-namibia.md) — **guía de campo en PDF**: 159 especies con foto, **todas de esta ruta**, qué posibilidades hay de ver cada una, **en qué zona del viaje cae y en qué día**, dónde y cuándo, y cómo se hace un safari
-16. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — **lo que la ruta pisa y el itinerario no nombra, día a día**: los Lone Stone Men, la cascada del Uniab, la plataforma de guano, la cruz de Diogo Cão, los grabados de Peet Alberts, los cañones del Otjikoto — cada joya con su desvío medido, y es lo que la agenda imprime como *opcional* bajo el mapa de cada día
-17. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
+12. 🚫 [**`23-situaciones-a-evitar`**](23-situaciones-a-evitar.md) — **lo que NO hay que hacer**: al volante, con la policía, en Etosha, en el campamento, en la costa y en Windhoek — con la rabia de los lobos marinos y el rino que embistió un coche
+13. ⛽ [**`07-logistica`**](07-logistica.md) — gasolineras, dinero, cobertura y emergencias
+14. 🛒 [**`08-comida-compras-y-regalos`**](08-comida-compras-y-regalos.md) — súper parada a parada, la ley del alcohol, dónde comer y la aduana
+15. 🪘 [**`19-cultura-de-namibia`**](19-cultura-de-namibia.md) — los pueblos, las lenguas, la historia mínima y la etiqueta del trato, atado a los días de la ruta
+16. 🦁 [**`09-fauna-namibia`**](09-fauna-namibia.md) — **guía de campo en PDF**: 159 especies con foto, **todas de esta ruta**, qué posibilidades hay de ver cada una, **en qué zona del viaje cae y en qué día**, dónde y cuándo, y cómo se hace un safari
+17. 💎 [**`10-joyas-ocultas`**](10-joyas-ocultas.md) — **lo que la ruta pisa y el itinerario no nombra, día a día**: los Lone Stone Men, la cascada del Uniab, la plataforma de guano, la cruz de Diogo Cão, los grabados de Peet Alberts, los cañones del Otjikoto — cada joya con su desvío medido, y es lo que la agenda imprime como *opcional* bajo el mapa de cada día
+18. 📍 [**`11-entradas-y-permisos`**](11-entradas-y-permisos.md) — lo que cuesta entrar en cada sitio, los permisos y la norma de drones
 
 **🔬 El respaldo — por qué te puedes fiar de estos números**
 
-18. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
-19. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad, con el contraste de OSRM
-20. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
-21. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
-22. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
+19. ✅ [**`12-hallazgos-verificados`**](12-hallazgos-verificados.md) — lo que superó la verificación a tres votos, y lo que quedó refutado
+20. 🗺️ [**`13-itinerario`**](13-itinerario.md) — distancias, firme y viabilidad, con el contraste de OSRM
+21. 🌧️ [**`14-lluvias-historico`**](14-lluvias-historico.md) — cinco temporadas de lluvia, milímetro a milímetro
+22. 🕳️ [**`15-huecos-cerrados`**](15-huecos-cerrados.md) — el cuaderno de bitácora, y **la lista maestra de lo que sigue abierto**
+23. 🗄️ [**`16-punto-de-decision`**](16-punto-de-decision.md) — archivado: las variantes que se compararon antes de fijar la ruta del norte
 
 📕 Y el PDF: [**`guia-fauna-namibia.pdf`**](guia-fauna-namibia.pdf) — la guía de campo, **40 páginas**, para imprimir.
 Lleva **medidas** las posibilidades de ver cada bicho: los partes de avistamiento de los tres

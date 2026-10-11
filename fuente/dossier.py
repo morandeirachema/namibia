@@ -156,6 +156,9 @@ RESUMEN = {
           "servicios, con los avisos de los viajeros recientes.",
     "22": "Si te pica un escorpión: quién es quién, qué va a pasar, qué hacer y qué no, a "
           "quién llamar y adónde ir — etapa a etapa.",
+    "23": "La lista en negativo: lo que no hay que hacer al volante, con la policía, en Etosha, "
+          "en el campamento, en la costa y en Windhoek — con el porqué y el documento que lo "
+          "desarrolla.",
 }
 
 
@@ -169,10 +172,10 @@ def miles(n, sufijo=" km"):
 # sale; el manual de campamento (`18`) va pegado al `06`, porque el dia de ruta se lee
 # del tiron: conducir y acampar; los campamentos de Etosha (`21`) van pegados al `18`,
 # que es su manual de uso; la picadura de escorpion (`22`) detras del `21`, porque es del
-# campamento; y la cultura (`19`) pegada al `08`, que ya lleva la mesa y los mercados. (Los
+# campamento; las situaciones a evitar (`23`) detrás del `22`, que cierran el bloque de ruta; y la cultura (`19`) pegada al `08`, que ya lleva la mesa y los mercados. (Los
 # desvios se fueron a `aparte/` el 25/08: lo que vive alli no entra en el PDF ni se ordena.)
 # Renumerar el repo entero seria peor: hay referencias cruzadas por todos lados.
-ORDEN = {"20": "04a", "17": "05a", "18": "06a", "21": "06b", "22": "06c", "19": "08a"}
+ORDEN = {"20": "04a", "17": "05a", "18": "06a", "21": "06b", "22": "06c", "23": "06d", "19": "08a"}
 
 
 def documentos():

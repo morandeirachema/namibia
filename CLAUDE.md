@@ -364,7 +364,7 @@ README cuadre con la fecha que él mismo declara, y que esa fecha sea la que imp
 llevar `fecha.FECHA` *(la guía de fauna no la imprime)* y las fechas del viaje; antes solo se
 comparaba fecha.py con el README, y subir las dos sin regenerar nada pasaba en verde. Que **el `01` conserve los dos
 encabezados entre los que `agenda.py` recorta el día a día, y el `10` sus quince `### Dn ·`**; y que
-**los 22 documentos tengan título**.
+**los 23 documentos tengan título**.
 
 Y **que los números que el build copia a mano del dossier estén en algún documento**
 (`revisa_literales_copiados`, desde el 11/10): la banda de reglas de la lámina —horas de puerta,
