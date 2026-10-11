@@ -1311,15 +1311,45 @@ def mapa_etosha(ancho=1000):
 # Mapa de las zonas de la guia de fauna · donde se mide cada ficha
 # ---------------------------------------------------------------------------
 
-# Las cuatro zonas del viaje, en el orden en que se recorren, con el dia y el color con
-# el que van en la ficha. Son los MISMOS poligonos con los que `avistamientos.py` cuenta
-# en GBIF —el limite real del parque para Etosha y tres cajas para el resto—, y por eso
-# el mapa se dibuja desde el WKT cacheado y no desde una geometria aparte: si la caja
-# cambia, el mapa cambia con ella.
-ZONAS_FAUNA = [("namib", "El Namib", "D3–D4 · Sesriem y Sossusvlei", "#8A6210"),
-               ("costa", "La costa", "D5–D7 · Walvis Bay, Swakopmund y Cape Cross", "#2F6E8E"),
-               ("damaraland", "Damaraland", "D8–D9 · Twyfelfontein, Palmwag y Hoada", "#C2542F"),
-               ("etosha", "Etosha", "D10–D13 · el parque entero", "#5F7043")]
+# Las cuatro zonas del viaje, en el orden en que se recorren, con lo que se pisa en cada una
+# y el color con el que van en la ficha. Son los MISMOS poligonos con los que
+# `avistamientos.py` cuenta en GBIF —el limite real del parque para Etosha y tres cajas para
+# el resto—, y por eso el mapa se dibuja desde el WKT cacheado y no desde una geometria
+# aparte: si la caja cambia, el mapa cambia con ella. Los DIAS no van escritos: los da
+# `dias_de_zona` desde las etapas y el propio poligono (hasta el 11/10 iban a mano, «D8–D9»).
+ZONAS_FAUNA = [("namib", "El Namib", "Sesriem y Sossusvlei", "#8A6210"),
+               ("costa", "La costa", "Walvis Bay, Swakopmund y Cape Cross", "#2F6E8E"),
+               ("damaraland", "Damaraland", "Twyfelfontein, Palmwag y Hoada", "#C2542F"),
+               ("etosha", "Etosha", "el parque entero", "#5F7043")]
+
+
+def _dentro(pts, lat, lon):
+    """Par o impar de cruces con el poligono [(lat, lon), …]."""
+    dentro = False
+    for (y1, x1), (y2, x2) in zip(pts, pts[1:] + pts[:1]):
+        if (y1 > lat) != (y2 > lat) and lon < (x2 - x1) * (lat - y1) / (y2 - y1) + x1:
+            dentro = not dentro
+    return dentro
+
+
+def dias_de_zona(clave):
+    """«D8–D9»: los dias que duermen en la zona o visitan —sin contar de donde salen— un
+    hito o una parada que cae dentro de su poligono. Las ciudades y las puertas no cuentan:
+    Kamanjab queda dentro de la caja de Damaraland y el D10 solo pasa por ella de camino."""
+    import avistamientos
+    pts = _poligono_zona(avistamientos.datos()["zonas"][clave]["wkt"])
+    dias = []
+    for e in trazado.ETAPAS:
+        puntos = ([e["duerme"]] if e["duerme"] else []) + [
+            p for p in e["por"][1:] if trazado.CLASE_BASE[p] in ("hito", "parada")]
+        if any(_dentro(pts, *trazado.PUNTOS[p][:2]) for p in puntos):
+            dias.append(e["id"])
+    return _dias_seguidos(dias) if dias else "—"
+
+
+def cuando_zona(clave, que):
+    """«D8–D9 · Twyfelfontein, Palmwag y Hoada»: la linea de la leyenda del mapa de zonas."""
+    return f"{dias_de_zona(clave)} · {que}"
 
 
 def _poligono_zona(wkt):
@@ -1421,7 +1451,7 @@ def mapa_zonas(ancho=1100):
             f'<text x="{lx + 23}" y="{y0}" font-size="11" font-weight="700" '
             f'fill="{C["tinta"]}">{esc(nombre)}</text>'
             f'<text x="{lx + 23}" y="{y0 + 11}" font-size="9.2" fill="{C["tinta3"]}">'
-            f'{esc(cuando)}</text>'
+            f'{esc(cuando_zona(clave, cuando))}</text>'
             f'<text x="{lx + an - 28}" y="{y0}" font-size="12" font-weight="800" '
             f'fill="{color}" text-anchor="end">{cuenta.get(clave, 0)}</text>')
     cuerpo.append("".join(ln))

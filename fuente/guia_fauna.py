@@ -228,10 +228,11 @@ INTROS = {
 
 # El nombre de cada zona con el dia del viaje al lado: «Damaraland» a secas no dice
 # cuando, y lo que se pregunta en el coche es en que dia toca buscar el bicho. Los dias son
-# los del mapa de zonas (`mapa.ZONAS_FAUNA`) y el nombre, el de `avistamientos.NOMBRES`:
-# hasta el 11/10 esto era una tercera copia de los dos, con guion donde el `09` pone raya.
-ZONA_DIA = {clave: f"{avistamientos.NOMBRES[clave]} ({cuando.split(' · ')[0]})"
-            for clave, _nombre, cuando, _color in mapa.ZONAS_FAUNA}
+# los que `mapa.dias_de_zona` saca de las etapas y el poligono de cada zona, y el nombre, el
+# de `avistamientos.NOMBRES`: hasta el 11/10 esto era una tercera copia escrita a mano, con
+# guion donde el `09` pone raya.
+ZONA_DIA = {clave: f"{avistamientos.NOMBRES[clave]} ({mapa.dias_de_zona(clave)})"
+            for clave, _nombre, _que, _color in mapa.ZONAS_FAUNA}
 
 PELIGRO = {"reptil"}
 
