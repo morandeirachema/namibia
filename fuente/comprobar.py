@@ -244,6 +244,124 @@ def revisa_dia_a_dia():
              f"todos los que mide la geometria")
 
 
+def revisa_km_del_13():
+    """Que los kilometros por dia del `13` sean los de la geometria, como los del `01`.
+
+    El `13` desglosa cada etapa a mano —«D3 · … (~129 km ◐, OSRM 128,8)»— y cita ademas la
+    cifra exacta de OSRM. Es el `01` contado otra vez, y `revisa_dia_a_dia` solo miraba el
+    `01`: cada «~N km» va con 2 km de margen contra `geo/ruta.json`, y cada «OSRM N,N» tiene
+    que ser esa cifra, redondeada a decimas.
+    """
+    medido = {e["id"]: e["km"] for e in _json(os.path.join(HERE, "geo", "ruta.json"))
+              if e["km"] is not None}
+    fallos, vistos = [], 0
+    for m in re.finditer(r"^- \*\*(D\d+) ·[^\n]*?\(~(\d[\d.]*) km([^)\n]*)", _doc("13-itinerario.md"), re.M):
+        dia, dicho, resto = m.group(1), float(m.group(2).replace(".", "")), m.group(3)
+        if dia not in medido:
+            continue
+        vistos += 1
+        if abs(dicho - medido[dia]) > 2:
+            fallos.append(f"{dia}: el `13` dice ~{dicho:.0f} km y OSRM mide {medido[dia]:.1f}")
+        o = re.search(r"OSRM (\d+(?:,\d+)?)\b", resto)
+        if o and abs(float(o.group(1).replace(",", ".")) - medido[dia]) > 0.15:
+            fallos.append(f"{dia}: el `13` cita «OSRM {o.group(1)}» y geo/ruta.json dice "
+                          f"{medido[dia]:.1f}")
+    if vistos < 8:
+        fallos.append(f"solo {vistos} etapas del `13` con «(~N km»: o ha cambiado el formato o "
+                      f"esta comprobacion se ha quedado ciega")
+    if fallos:
+        for f in fallos:
+            mal(f)
+    else:
+        bien(f"el `13`: {vistos} etapas con kilometros, todas las de la geometria")
+
+
+# Como nombra el `01` y el `09` a las especies de los partes de Expert Africa.
+NOMBRE_PARTES = {"rino negro": "rino-negro", "rinoceronte negro": "rino-negro", "elefante": "elefante",
+                 "jirafa": "jirafa", "león": "leon", "leopardo": "leopardo", "guepardo": "guepardo",
+                 "órix": "orix", "ñu": "nu", "cebra": "cebra-burchell", "eland": "eland",
+                 "hiena manchada": "hiena-manchada", "hiena parda": "hiena-parda",
+                 "rino blanco": "rino-blanco", "rinoceronte blanco": "rino-blanco"}
+RE_PCT = re.compile(r"\*{0,2}(\d+) %(?:\*{0,2} \((\d+) de (\d+)\))?")
+
+
+def _pct_citados(texto):
+    """[(slug, pct, (a, b) o None)] de un trozo: cada nombre con el primer «NN %» que le sigue."""
+    # la ventana de cada nombre acaba donde empieza el siguiente: «guepardo 50 % (7 de 14) — la
+    # mejor cifra de guepardo…, león 64 %» no puede darle al segundo «guepardo» el 64 del león
+    nombres = sorted(((m.start(), m.end(), slug) for nombre, slug in NOMBRE_PARTES.items()
+                      for m in re.finditer(r"\b" + nombre + r"\b", texto)))
+    out = []
+    for i, (_ini, fin, slug) in enumerate(nombres):
+        tope = nombres[i + 1][0] if i + 1 < len(nombres) else len(texto)
+        p = RE_PCT.search(texto, fin, min(tope, fin + 45))
+        if p:
+            out.append((slug, int(p.group(1)),
+                        (int(p.group(2)), int(p.group(3))) if p.group(2) else None))
+    return out
+
+
+def revisa_partes_citados():
+    """Que los porcentajes de Expert Africa que citan el `01` y el `09` sean los del cache.
+
+    El `01` cita en cada campamento «rino negro 87 % (119 de 137), elefante 97 %…» y cuantos
+    viajeros hay detras; el `09`, los viajeros de los tres y los porcentajes conjuntos
+    («elefante 96 %, rinoceronte negro 82 %…»). Salen de geo/avistamientos.json, que es lo que
+    imprime la guia, y hasta el 11/10 nada los cotejaba: rehacer el cache con --forzar los
+    dejaba viejos en silencio.
+    """
+    import avistamientos
+    d = _json(os.path.join(HERE, "geo", "avistamientos.json"))
+    camps = d.get("campamentos") or {}
+    fallos, vistos = [], 0
+    # el `01`: una viñeta por campamento, reconocida por el enlace a Expert Africa
+    for m in re.finditer(r"^- 🐾 \*\*[^\n]*?expertafrica\.com/[^/]+/[^/]+/(\w+)-camp/(?:.|\n(?!\n))*",
+                         _doc("01-itinerarios-dia-a-dia.md"), re.M):
+        camp, trozo = m.group(1), m.group(0)
+        if camp not in camps:
+            fallos.append(f"el `01` cita partes de «{camp}», que no esta en el cache")
+            continue
+        v = re.search(r"(\d+) viajeros", trozo)
+        if v and int(v.group(1)) != camps[camp]["viajeros"]:
+            fallos.append(f"{camp}: el `01` dice {v.group(1)} viajeros y el cache {camps[camp]['viajeros']}")
+        for slug, pct, par in _pct_citados(trozo):
+            x = camps[camp]["especies"].get(slug) or camps[camp].get("otros", {}).get(slug)
+            vistos += 1
+            if not x:
+                fallos.append(f"{camp}: el `01` cita {slug} y el cache no lo tiene")
+            elif x["pct"] != pct or (par and par != (x["lo_vieron"], x["partes"])):
+                fallos.append(f"{camp}: el `01` dice {slug} {pct} %{' ' + str(par) if par else ''} "
+                              f"y el cache {x['pct']} % ({x['lo_vieron']} de {x['partes']})")
+    # el `09`: los viajeros de los tres y los porcentajes de los tres juntos
+    nueve = _doc("09-fauna-namibia.md")
+    m = re.search(r"Los partes de avistamiento que publica Expert Africa(?:.|\n(?!\n))*", nueve)
+    if not m:
+        return mal("el `09` ya no tiene el parrafo «Los partes de avistamiento que publica Expert "
+                   "Africa»: la comprobacion se ha quedado ciega")
+    for camp, c in camps.items():
+        v = re.search(r"\*\*" + c["nombre"] + r"\*\* \*\((\d+)(?: viajeros)?\)\*", m.group(0))
+        if not v:
+            fallos.append(f"el `09` no dice los viajeros de {c['nombre']}")
+        elif int(v.group(1)) != c["viajeros"]:
+            fallos.append(f"el `09` da {v.group(1)} viajeros en {c['nombre']} y el cache {c['viajeros']}")
+    for slug, pct, _par in _pct_citados(m.group(0)):
+        p = avistamientos.porcentajes(slug)
+        vistos += 1
+        if not p:
+            fallos.append(f"el `09` cita {slug} y el cache no tiene partes suyos")
+        elif p[1] != f"{pct} %":
+            fallos.append(f"el `09` dice {slug} {pct} % y los tres campamentos juntos dan {p[1]}")
+    if vistos < 10:
+        fallos.append(f"solo {vistos} porcentajes de partes citados en el `01` y el `09`: o ha "
+                      f"cambiado el formato o esta comprobacion se ha quedado ciega")
+    if fallos:
+        for f in fallos:
+            mal(f)
+    else:
+        bien(f"partes citados: los {vistos} porcentajes de Expert Africa que dan el `01` y el `09` "
+             f"son los del cache, y los viajeros de cada campamento tambien")
+
+
 # Los dias que conducen y NO titulan un tiempo, a proposito: el de las dunas, el logistico
 # del Skeleton Coast y los tres de safari dan otra cosa —«dia completo», «de safari»—, porque
 # ahi las horas de volante no son la medida del dia. Los demas que conducen, tiempo si. El de
@@ -1727,6 +1845,7 @@ def main():
     revisa_geo()
     revisa_interes()
     revisa_dia_a_dia()
+    revisa_km_del_13()
     revisa_horas_del_01()
     revisa_calendario()
     revisa_noches()
@@ -1739,6 +1858,7 @@ def main():
     revisa_avistamientos()
     revisa_ruta()
     revisa_zonas_del_09()
+    revisa_partes_citados()
     revisa_intros_guia()
     revisa_literales_copiados()
     revisa_pdf("dossier-namibia-2026.pdf", 40)
