@@ -1,6 +1,6 @@
 # Namibia 2026 · el dossier
 #
-#   make            los cuatro PDF, con lo que ya haya descargado
+#   make            los cuatro PDF y los derivados que no piden red (GPX, My Maps, charcas)
 #   make imagenes   descarga las fotos del catalogo (Wikimedia Commons) a img/
 #   make geo        descarga y cachea la geometria de los mapas a fuente/geo/
 #   make avistam    recuentos de GBIF y porcentajes por campamento
@@ -31,7 +31,7 @@ GEO     := geo
 
 .PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps lista limpia comprueba
 
-all: dossier fauna lamina agenda gps
+all: gps mymaps charcas dossier fauna lamina agenda
 
 todo: imagenes geo avistam mapas mymaps charcas dossier fauna lamina agenda gps
 

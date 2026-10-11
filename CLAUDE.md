@@ -9,7 +9,7 @@ fuente · **❌** sin verificar. Un hueco reconocido vale más que un número pl
 
 ```
 cd fuente
-make            los cuatro PDF
+make            los cuatro PDF y los derivados sin red: GPX, My Maps y el estudio de charcas
 make dossier    solo el dossier
 make fauna      solo la guía de campo
 make lamina     solo la lámina de ruta (A2, una hoja)
@@ -377,6 +377,18 @@ la guía de fauna cuenten las fichas que hay** (`revisa_intros_guia`): «Treinta
 Hartmann, los tres de mar, la grulla carunculada— contra `geo/avistamientos.json`. *(Ese mismo
 día se vio que la guía seguía diciendo que el nocturno de NWR «se cayó del plan el 24/08», cuando
 el `01` lo había corregido el 28/08: se compra el D10 en Okaukuejo y el D11 en Halali.)*
+
+Y cuatro del 11/10, de la segunda pasada: **que ningún enlace ni imagen relativos de los markdown
+apunte a un fichero que no existe** (`revisa_enlaces`, `aparte/` incluido: el mapa de la variante del
+CCF iba como `img/…` en vez de `../img/…` y en GitHub salía roto); **que las etapas vayan seguidas
+del día después del vuelo al día antes de volver y que las fechas escritas —«D3 · lun 2»— en los
+encabezados del `01` y del `10` y en el cuadro de noches sean las del calendario**
+(`revisa_calendario`); **que `aparte/noches-y-reservas.md` lleve una línea por noche de la ruta, en
+el sitio donde se duerme, y que sus cuentas de reservadas y sin reservar sean las de sus líneas y las
+del contador del README** (`revisa_noches`); y que los textos del build no lleven cifras del viaje a
+mano: «15 días» y «quince etapas» salen de `trazado.dias_texto()` y `len(ETAPAS)`, y los días de
+cada zona de la guía («D8–D9») de `mapa.dias_de_zona`, que mira qué etapas duermen o visitan un
+hito o una parada dentro del polígono de la zona.
 
 **Los derivados se comparan byte a byte, desde el 25/09** (`revisa_derivados`): el GPX y el KML
 del GPS, los tres de My Maps, el estudio de charcas y, desde el 09/10, **los cuatro SVG de
