@@ -1545,6 +1545,36 @@ def revisa_indice_readme():
     bien(f"el indice del README: {len(numeros)} documentos, numerados y completos")
 
 
+def revisa_enlaces():
+    """Que ningun enlace ni imagen relativos de los markdown apunten a un fichero que no existe.
+
+    Los documentos se enlazan entre si y con `aparte/` por ruta relativa, y `aparte/` esta un
+    nivel por debajo: el `decision-del-ccf` enlazaba su mapa como `img/mapas/…` en vez de
+    `../img/mapas/…` y en GitHub salia roto, mientras `revisa_ruta_alt` —que busca el nombre
+    como subcadena— lo daba por bien. Se miran los numerados, el README, CLAUDE.md y `aparte/`.
+    """
+    docs = [f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f)] + ["README.md", "CLAUDE.md"]
+    docs += [os.path.join("aparte", f) for f in os.listdir(os.path.join(RAIZ, "aparte")) if f.endswith(".md")]
+    rotos, vistos = [], 0
+    for d in sorted(docs):
+        texto = _doc(d)
+        destinos = [m.group(1) for m in re.finditer(r"\]\(([^)\s]+)\)", texto)]
+        destinos += [m.group(1) for m in re.finditer(r'<img[^>]*src="([^"]+)"', texto)]
+        for dest in destinos:
+            if dest.startswith(("http://", "https://", "mailto:", "#")):
+                continue
+            vistos += 1
+            ruta = os.path.normpath(os.path.join(RAIZ, os.path.dirname(d), dest.partition("#")[0]))
+            if not os.path.exists(ruta):
+                rotos.append(f"{d}: {dest}")
+    if rotos:
+        mal(f"{len(rotos)} enlaces a ficheros que no existen: {rotos[:5]}")
+    elif not vistos:
+        mal("no encuentro ningun enlace relativo en los documentos: la comprobacion se ha quedado ciega")
+    else:
+        bien(f"enlaces: los {vistos} enlaces e imagenes relativos de los {len(docs)} markdown existen")
+
+
 def revisa_documentos():
     docs = sorted(f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
     huecos = [f for f in docs if not _doc(f).startswith("# ")]
@@ -1582,6 +1612,7 @@ def revisa_indice_dossier():
 def main():
     print("Comprobando el build…")
     revisa_documentos()
+    revisa_enlaces()
     revisa_indice_dossier()
     revisa_convenciones()
     revisa_fechas()

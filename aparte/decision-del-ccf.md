@@ -122,7 +122,7 @@ mismas horas que el [`01`](../01-itinerarios-dia-a-dia.md).
 
 ### 🧭 Las quince etapas, a escala de país
 
-[<img src="img/mapas/ruta-alternativa.png" alt="Mapa del final alternativo: la ruta oficial hasta Onguma y la bajada al Cheetah Conservation Fund por la B1" width="620">](../img/mapas/ruta-alternativa.svg)
+[<img src="../img/mapas/ruta-alternativa.png" alt="Mapa del final alternativo: la ruta oficial hasta Onguma y la bajada al Cheetah Conservation Fund por la B1" width="620">](../img/mapas/ruta-alternativa.svg)
 
 *Las **quince etapas con el final del CCF**, cada día del color de su tramo y con el trazado real de
 carretera —**OSRM sobre OpenStreetMap**, los mismos datos que el mapa oficial del volumen—. El
