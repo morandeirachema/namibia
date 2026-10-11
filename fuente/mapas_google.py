@@ -13,9 +13,9 @@ quedaban contando la ruta de antes sin que nada avisara. Aqui se generan:
 """
 import csv
 import io
-import json
 import os
 
+import gps
 import trazado
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -76,28 +76,10 @@ def paradas():
 
 
 def trazado_kml():
-    etapas = json.load(open(os.path.join(HERE, "geo", "ruta.json")))
-    out = ['<?xml version="1.0" encoding="UTF-8"?>',
-           '<kml xmlns="http://www.opengis.net/kml/2.2">', "<Document>",
-           "  <name>Namibia 2026 — trazado real por carretera</name>"]
-    for bloque, color in trazado.COLOR_BLOQUE.items():
-        out.append(f'  <Style id="bloque-{bloque}"><LineStyle>'
-                   f"<color>{trazado.color_kml(color)}</color><width>5</width></LineStyle></Style>")
-    for e in etapas:
-        if not e.get("geometria"):
-            continue
-        coords = " ".join(f"{lon},{lat},0" for lon, lat in e["geometria"])
-        out += ["  <Placemark>",
-                f"    <name>{e['id']} · {e['titulo']}</name>",
-                f"    <description>{e['fecha']} · {e['km']:.0f} km · "
-                f"{e['horas']:.1f} h de conducción · duerme en "
-                f"{e['duerme'] or '—'}</description>",
-                f"    <styleUrl>#bloque-{e['bloque']}</styleUrl>",
-                "    <LineString>", "      <tessellate>1</tessellate>",
-                f"      <coordinates>{coords}</coordinates>",
-                "    </LineString>", "  </Placemark>"]
-    out += ["</Document>", "</kml>", ""]
-    return "\n".join(out)
+    """El trazado para My Maps: el mismo KML del GPS sin la carpeta de puntos, que aqui van en
+    los CSV. Hasta el 11/10 era un segundo generador de la misma ruta, con otros estilos."""
+    return gps.texto_kml(gps.etapas(), nombre="Namibia 2026 — trazado real por carretera",
+                         con_puntos=False)
 
 
 PARADAS = os.path.join(APARTE, "namibia-paradas-google-maps.csv")

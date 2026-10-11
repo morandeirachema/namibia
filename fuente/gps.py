@@ -97,10 +97,15 @@ def texto_gpx(tramos):
     return "\n".join(p) + "\n"
 
 
-def texto_kml(tramos):
+def texto_kml(tramos, nombre="Namibia 2026 · la clasica del norte", con_puntos=True):
+    """El KML: las etapas coloreadas por bloque y, si `con_puntos`, los puntos de la ruta.
+
+    Lo usa tambien `mapas_google.py` para el trazado de My Maps, sin la carpeta de puntos —alli
+    los puntos van en CSV—: hasta el 11/10 cada uno escribia su propio KML de la misma ruta.
+    """
     p = ['<?xml version="1.0" encoding="UTF-8"?>',
          '<kml xmlns="http://www.opengis.net/kml/2.2"><Document>',
-         '  <name>Namibia 2026 · la clasica del norte</name>']
+         f'  <name>{x.escape(nombre)}</name>']
 
     for bloque, color in trazado.COLOR_BLOQUE.items():
         p += [f'  <Style id="{bloque}"><LineStyle>',
@@ -112,15 +117,22 @@ def texto_kml(tramos):
         if not e.get("geometria"):
             continue
         coords = " ".join(f"{lon},{lat},0" for lon, lat in e["geometria"])
+        horas = e.get("horas")
+        duerme = trazado.PUNTOS[e["duerme"]][2] if e.get("duerme") else "—"
+        desc = (f'{e["fecha"]} · {e["km"]:.0f} km' + (f' · ~{horas:.1f} h de conducción' if horas else "")
+                + f' · duerme en {duerme}')
         p += ['    <Placemark>',
               f'      <name>{x.escape(e["id"] + " · " + e["titulo"])}</name>',
-              f'      <description>{x.escape(e["fecha"])} · {e["km"]:.0f} km</description>',
+              f'      <description>{x.escape(desc)}</description>',
               f'      <styleUrl>#{e["bloque"]}</styleUrl>',
               f'      <LineString><tessellate>1</tessellate><coordinates>{coords}</coordinates>'
               '</LineString>',
               '    </Placemark>']
     p.append('  </Folder>')
 
+    if not con_puntos:
+        p.append('</Document></kml>')
+        return "\n".join(p) + "\n"
     p.append('  <Folder><name>Puntos</name>')
     for clave, (lat, lon, rotulo, clase) in trazado.puntos_oficiales().items():
         dias = donde_sale(clave, tramos)

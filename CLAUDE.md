@@ -191,7 +191,9 @@ Tres cosas que no se ven:
 
 Los tres ficheros de `aparte/` que se suben a My Maps —`namibia-paradas-google-maps.csv`,
 `namibia-puntos-sin-dia-confirmado.csv` y `namibia-trazado-carreteras.kml`— **son derivados, no
-fuente**: los escribe `mapas_google.py` (`make mymaps`) desde `trazado.ETAPAS` y `geo/ruta.json`.
+fuente**: los escribe `mapas_google.py` (`make mymaps`) desde `trazado.ETAPAS` y `geo/ruta.json`
+*(el KML es el mismo `gps.texto_kml` del GPS sin la carpeta de puntos, desde el 11/10: antes eran
+dos generadores de la misma ruta con estilos distintos)*.
 Se mantenían a mano hasta el 24/08 y al mover una noche se quedaban contando la ruta de antes sin
 que nada avisara. Los puntos que la ruta pisa pero que **no son ancla de enrutado OSRM** —hoy
 Deadvlei y Torra Bay— no aparecen en ningún `por`, así que llevan su día escrito en
