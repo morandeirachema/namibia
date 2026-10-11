@@ -212,7 +212,6 @@ blockquote blockquote { background: var(--papel); border-left-color: var(--regla
 
 figure { margin: 3.5mm 0; break-inside: avoid; }
 figure img { width: 100%; display: block; border-radius: 1.5mm; }
-figure.alta img { height: 62mm; object-fit: cover; }
 figure.media img { height: 48mm; object-fit: cover; }
 figure.baja img { height: 36mm; object-fit: cover; }
 figcaption { flex-direction: column; gap: .6mm; }
@@ -353,7 +352,6 @@ thead th { background: var(--crema-2); border-bottom: 1pt solid var(--regla-2);
 
 div[align="center"] { text-align: center; }
 div[align="center"] h1, div[align="center"] h2 { border: 0; padding: 0; }
-.centrado { text-align: center; }
 
 /* Las cuatro marcas de fiabilidad. Van dibujadas con CSS y no con emoji: se
    distinguen igual impresas en blanco y negro, que es como acabara este dossier. */

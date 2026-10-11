@@ -1365,8 +1365,10 @@ RE_DATO = re.compile(r"\+264(?: \d+)+|\d\d:\d\d|\d+(?:,\d+)? %|N\$[\d.]+|€[\d.
 def revisa_literales_copiados():
     import lamina
     import textos_etosha
+    import textos_safari
     textos = {"lamina.REGLAS": " ".join(x for _c, _t, x in lamina.REGLAS),
-              "textos_etosha.INTRO_EXTRA": textos_etosha.INTRO_EXTRA}
+              "textos_etosha.INTRO_EXTRA": textos_etosha.INTRO_EXTRA,
+              "textos_safari.CONSEJOS": textos_safari.CONSEJOS}
     docs = "\n".join(_doc(f) for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
     docs = docs.replace("\u00a0", " ")
     velocidades = {f"{v:.0f}" for v in trazado.VELOCIDAD.values()}
@@ -1385,7 +1387,7 @@ def revisa_literales_copiados():
             mal(f)
     else:
         bien(f"literales copiados: los {cotejados} datos de la lamina y de la guia de fauna "
-             f"estan en algun documento")
+             f"(la intro de Etosha y los consejos de safari) estan en algun documento")
 
 
 # Lo que las introducciones de la guia de fauna dicen a mano del catalogo y de GBIF: cuantas
