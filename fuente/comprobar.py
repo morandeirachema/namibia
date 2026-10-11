@@ -298,6 +298,60 @@ def revisa_horas_del_01():
              f"de la agenda")
 
 
+DIAS_SEMANA = ("lun", "mar", "mié", "jue", "vie", "sáb", "dom")
+# Donde cada dia lleva escrita su fecha —«D3 · lun 2», «D1 · sáb 31 oct»—: los encabezados del
+# `01` y del `10` y las noches de `aparte/noches-y-reservas.md`.
+RE_DIA_FECHA = re.compile(r"^(?:### |- \*\*)(D\d+) · (\w{3}) (\d{1,2})(?: (\w{3}))?", re.M)
+CON_FECHAS = ("01-itinerarios-dia-a-dia.md", "10-joyas-ocultas.md",
+              os.path.join("aparte", "noches-y-reservas.md"))
+
+
+def revisa_calendario():
+    """Que la fecha que cada dia lleva escrita sea la del calendario del viaje.
+
+    `trazado.ETAPAS` da la fecha de cada dia y `fecha.SALIDA`, la del vuelo; el `01`, el `10` y
+    el cuadro de noches la escriben otra vez, con el dia de la semana —«D3 · lun 2»—. Nada las
+    cotejaba: mover una noche o cambiar el vuelo dejaba quince encabezados con la fecha de
+    antes. Se exige ademas que las etapas vayan seguidas desde el dia despues de salir hasta
+    el dia antes de volver.
+    """
+    import datetime
+    fallos, vistos = [], 0
+    esperada = fecha.SALIDA + datetime.timedelta(days=1)
+    for e in trazado.ETAPAS:
+        if fecha.de_etapa(e) != esperada:
+            fallos.append(f"{e['id']}: trazado.ETAPAS dice «{e['fecha']}» y le toca el "
+                          f"{esperada:%d/%m}")
+        esperada += datetime.timedelta(days=1)
+    if esperada != fecha.VUELTA:
+        fallos.append(f"la ultima etapa acaba el {esperada - datetime.timedelta(days=1):%d/%m} y "
+                      f"el vuelo de vuelta aterriza el {fecha.VUELTA:%d/%m}")
+    por_dia = {e["id"]: fecha.de_etapa(e) for e in trazado.ETAPAS}
+    for nombre in CON_FECHAS:
+        encontrados = RE_DIA_FECHA.findall(_doc(nombre))
+        if len(encontrados) < len(trazado.ETAPAS):
+            fallos.append(f"{nombre}: solo {len(encontrados)} dias con fecha «Dn · lun 2» de "
+                          f"{len(trazado.ETAPAS)} — o ha cambiado el formato o falta alguno")
+        for dia, sem, num, mes in encontrados:
+            d = por_dia.get(dia)
+            if not d:
+                fallos.append(f"{nombre}: {dia} no es una etapa")
+                continue
+            vistos += 1
+            bien_ = (sem == DIAS_SEMANA[d.weekday()] and int(num) == d.day
+                     and (not mes or mes == fecha.MESES[d.month - 1][:3]))
+            if not bien_:
+                fallos.append(f"{nombre}: {dia} dice «{sem} {num}{' ' + mes if mes else ''}» y es "
+                              f"{DIAS_SEMANA[d.weekday()]} {d.day} {fecha.MESES[d.month - 1][:3]}")
+    if fallos:
+        for f in fallos:
+            mal(f)
+    else:
+        bien(f"calendario: las {len(trazado.ETAPAS)} etapas van seguidas del {fecha.SALIDA:%d/%m} "
+             f"al {fecha.VUELTA:%d/%m} y las {vistos} fechas escritas en el `01`, el `10` y el "
+             f"cuadro de noches cuadran")
+
+
 def revisa_anclas_de_la_agenda():
     """Que el `01` siga teniendo los dos literales entre los que `agenda.py` recorta el dia a dia.
 
@@ -1624,6 +1678,7 @@ def main():
     revisa_interes()
     revisa_dia_a_dia()
     revisa_horas_del_01()
+    revisa_calendario()
     revisa_anclas_de_la_agenda()
     revisa_ruta_alt()
     revisa_sol_y_luna()
