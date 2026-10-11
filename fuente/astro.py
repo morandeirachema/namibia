@@ -13,7 +13,6 @@ entre 3 y 7 puntos alto en toda la fase menguante.
 
 No pide red ni dependencias: es aritmetica.
 """
-import datetime
 import math
 
 ZONA = 2.0                       # UTC+2, sin horario de verano
@@ -90,10 +89,10 @@ def iluminada(fecha, hora_local=21, zona=ZONA):
 
 
 if __name__ == "__main__":
+    import fecha as _fecha
     import trazado
     for e in trazado.ETAPAS:
-        d, m = {"31 oct": (31, 10)}.get(e["fecha"], (int(e["fecha"].split()[0]), 11))
-        fecha = datetime.date(2026, m, d)
+        fecha = _fecha.de_etapa(e)
         clave = e["duerme"] or "windhoek"
         lat, lon = trazado.PUNTOS[clave][:2]
         print(f"{e['id']:4} {fecha}  {trazado.PUNTOS[clave][2][:22]:22}  "

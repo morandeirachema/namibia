@@ -10,7 +10,7 @@ rinoceronte negro»— y cubre las catorce especies que la gente va buscando. Se
 de los tres campamentos del viaje: Okaukuejo, Halali y Namutoni.
 
 **2 · GBIF**, el agregador mundial de registros de biodiversidad (museos,
-anillamientos, eBird, iNaturalist, atlas de aves), cubre las 148. De ahi sale algo
+anillamientos, eBird, iNaturalist, atlas de aves), cubre el catalogo entero. De ahi sale algo
 honesto y reproducible: de cada 100 registros de mamifero dentro de Etosha en octubre
 y noviembre, cuantos son de esta especie.
 
@@ -160,6 +160,27 @@ def wkt(zona):
 # 2 · Los taxones del catalogo, resueltos contra la taxonomia de GBIF
 # ---------------------------------------------------------------------------
 
+ZONAS = ("etosha", "costa", "namib", "damaraland")
+ES_ESPECIE = ("SPECIES", "SUBSPECIES", "VARIETY", "FORM")   # lo que sale en las facetas
+
+
+def taxon(es, sci):
+    """El taxon de GBIF de un nombre cientifico —clave, clase, rango—, o None si no lo resuelve.
+
+    Lo comparten `taxones()` (el catalogo entero) y `completa()` (solo lo nuevo): hasta el 11/10
+    eran dos copias del mismo bloque.
+    """
+    m = pide("species/match", name=sci, strict="false")
+    clave = m.get("speciesKey") or m.get("usageKey")
+    if not clave or m.get("matchType") == "NONE":
+        print(f"   !! sin taxon en GBIF: {es} ({sci})")
+        return None
+    time.sleep(.15)
+    return {"clave": clave, "sci": m.get("canonicalName") or sci,
+            "clase": m.get("class") or m.get("phylum") or "?",
+            "clase_clave": m.get("classKey"), "rango": m.get("rank", "")}
+
+
 def taxones():
     """slug -> {clave, clase, rango}. Se cuenta a nivel de ESPECIE a proposito.
 
@@ -171,17 +192,9 @@ def taxones():
     out = {}
     for _, _, lista in catalogo.GRUPOS_FAUNA:
         for slug, es, _en, sci, _f in lista:
-            m = pide("species/match", name=sci, strict="false")
-            clave = m.get("speciesKey") or m.get("usageKey")
-            if not clave or m.get("matchType") == "NONE":
-                print(f"   !! sin taxon en GBIF: {es} ({sci})")
-                continue
-            out[slug] = {"clave": clave,
-                         "sci": m.get("canonicalName") or sci,
-                         "clase": m.get("class") or m.get("phylum") or "?",
-                         "clase_clave": m.get("classKey"),
-                         "rango": m.get("rank", "")}
-            time.sleep(.15)
+            t = taxon(es, sci)
+            if t:
+                out[slug] = t
     return out
 
 
@@ -208,9 +221,34 @@ def sueltos(geometria, clave, meses=None):
     return pide("occurrence/search", **kw)["count"]
 
 
+def fila_de(t, zonas, facetas_de):
+    """El recuento de un taxon en las cuatro zonas, para el cache.
+
+    Si es especie (o menos), sale de las facetas de su clase —`facetas_de(zona, clase)` da los
+    dos diccionarios, total y oct-nov—; si es un orden o un genero (el solifugo, el anofeles) no
+    sale en las facetas y se pide suelto.
+    """
+    fila = {"sci": t["sci"], "clase": t["clase"], "clase_clave": t["clase_clave"],
+            "rango": t["rango"], "zonas": {}}
+    for zona in ZONAS:
+        if t["rango"] in ES_ESPECIE:
+            todo, ventana = facetas_de(zona, t["clase_clave"])
+            n, nv = todo.get(t["clave"], 0), ventana.get(t["clave"], 0)
+        else:
+            g = zonas[zona]["wkt"]
+            n, nv = sueltos(g, t["clave"]), sueltos(g, t["clave"], MESES)
+        fila["zonas"][zona] = {"registros": n, "oct_nov": nv}
+    return fila
+
+
+def imprime(slug, fila, ancho=22):
+    print(f"   {slug:<{ancho}} " + " ".join(
+        f"{z}:{fila['zonas'][z]['oct_nov']}/{fila['zonas'][z]['registros']}" for z in ZONAS))
+
+
 def recuenta(tx):
     zonas = {}
-    for zona in ("etosha", "costa", "namib", "damaraland"):
+    for zona in ZONAS:
         g = wkt(zona)
         print(f"GBIF · {NOMBRES[zona]}")
         claves = sorted({t["clase_clave"] for t in tx.values() if t["clase_clave"]})
@@ -229,20 +267,10 @@ def recuenta(tx):
 
     especies = {}
     for slug, t in tx.items():
-        fila = {"sci": t["sci"], "clase": t["clase"], "clase_clave": t["clase_clave"],
-                "rango": t["rango"], "zonas": {}}
-        for zona, z in zonas.items():
-            if t["rango"] in ("SPECIES", "SUBSPECIES", "VARIETY", "FORM"):
-                n = z["_todo"].get(t["clave"], 0)
-                nv = z["_ventana"].get(t["clave"], 0)
-            else:                                   # orden o genero: no sale en las facetas
-                n = sueltos(z["wkt"], t["clave"])
-                nv = sueltos(z["wkt"], t["clave"], MESES)
-            fila["zonas"][zona] = {"registros": n, "oct_nov": nv}
-        especies[slug] = fila
-        print(f"   {slug:<22} " + " ".join(
-            f"{z}:{fila['zonas'][z]['oct_nov']}/{fila['zonas'][z]['registros']}"
-            for z in ("etosha", "costa", "namib", "damaraland")))
+        # las facetas ya estan bajadas, clase a clase, y juntas en _todo/_ventana
+        especies[slug] = fila_de(t, zonas, lambda zona, _ck: (zonas[zona]["_todo"],
+                                                              zonas[zona]["_ventana"]))
+        imprime(slug, especies[slug])
 
     for z in zonas.values():
         z.pop("_todo"), z.pop("_ventana")
@@ -356,7 +384,7 @@ def indice(slug):
     ck = str(sp["clase_clave"])
     minimo = d.get("muestra_minima", MUESTRA_MINIMA)
     valida = [(z, sp["zonas"][z]["oct_nov"], base)
-              for z in ("etosha", "costa", "namib", "damaraland")
+              for z in ZONAS
               for base in [d["zonas"][z]["por_clase"].get(ck, {}).get("oct_nov", 0)]
               if base >= minimo]
     if not valida:
@@ -455,38 +483,19 @@ def completa(d):
     if not faltan:
         return False
     print(f"GBIF · {len(faltan)} especies nuevas en el catalogo")
-    tx = {}
-    for slug, es, sci in faltan:
-        m = pide("species/match", name=sci, strict="false")
-        clave = m.get("speciesKey") or m.get("usageKey")
-        if not clave or m.get("matchType") == "NONE":
-            print(f"   !! sin taxon en GBIF: {es} ({sci})")
-            continue
-        tx[slug] = {"clave": clave, "sci": m.get("canonicalName") or sci,
-                    "clase": m.get("class") or m.get("phylum") or "?",
-                    "clase_clave": m.get("classKey"), "rango": m.get("rank", "")}
-        time.sleep(.15)
-    facetas_cache = {}
-    for slug, t in tx.items():
-        fila = {"sci": t["sci"], "clase": t["clase"], "clase_clave": t["clase_clave"],
-                "rango": t["rango"], "zonas": {}}
-        for zona in ("etosha", "costa", "namib", "damaraland"):
+    tx = {slug: t for slug, es, sci in faltan for t in [taxon(es, sci)] if t}
+    cache = {}
+
+    def facetas_de(zona, ck):
+        """Las facetas de una clase en una zona, bajadas una sola vez por (zona, clase)."""
+        if (zona, ck) not in cache:
             g = d["zonas"][zona]["wkt"]
-            if t["rango"] in ("SPECIES", "SUBSPECIES", "VARIETY", "FORM"):
-                k = (zona, t["clase_clave"])
-                if k not in facetas_cache:
-                    _, todo = facetas(g, t["clase_clave"])
-                    _, ventana = facetas(g, t["clase_clave"], MESES)
-                    facetas_cache[k] = (todo, ventana)
-                todo, ventana = facetas_cache[k]
-                n, nv = todo.get(t["clave"], 0), ventana.get(t["clave"], 0)
-            else:
-                n, nv = sueltos(g, t["clave"]), sueltos(g, t["clave"], MESES)
-            fila["zonas"][zona] = {"registros": n, "oct_nov": nv}
-        d["especies"][slug] = fila
-        print(f"   {slug:<26} " + " ".join(
-            f"{z}:{fila['zonas'][z]['oct_nov']}/{fila['zonas'][z]['registros']}"
-            for z in ("etosha", "costa", "namib", "damaraland")))
+            cache[(zona, ck)] = (facetas(g, ck)[1], facetas(g, ck, MESES)[1])
+        return cache[(zona, ck)]
+
+    for slug, t in tx.items():
+        d["especies"][slug] = fila_de(t, d["zonas"], facetas_de)
+        imprime(slug, d["especies"][slug], ancho=26)
     return True
 
 

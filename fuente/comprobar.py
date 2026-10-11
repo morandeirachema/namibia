@@ -2,9 +2,11 @@
 """Comprobaciones baratas antes de dar un PDF por bueno.
 
 No valida el contenido del viaje —eso lo hace la verificacion a tres votos del propio
-dossier—, sino que el build no se ha roto por debajo: que estan todas las imagenes, que
-ninguna se ha colado con licencia no libre, que el catalogo y los creditos cuadran y que
-los PDF existen y tienen paginas.
+dossier—, sino que el build no se ha roto por debajo y que lo que esta contado dos veces
+cuenta lo mismo: las imagenes y sus licencias, la geometria contra el `01`, los derivados
+contra su generador, las tartas del presupuesto entre si, los numeros que el build copia
+del dossier a mano, y que los PDF existen, miden lo que deben y estan al dia. La regla de la
+casa, desde el 26/08: una comprobacion que no puede correr FALLA, no calla.
 """
 import json
 import os
@@ -38,6 +40,23 @@ def aviso(msg):
     print("  aviso  " + msg)
 
 
+def _lee(ruta):
+    """El texto de un fichero, siempre en UTF-8. Con el `open()` pelado la codificacion la
+    decide la maquina, y en una con el locale en C los acentos del markdown revientan."""
+    with open(ruta, encoding="utf-8") as f:
+        return f.read()
+
+
+def _doc(nombre):
+    """Un documento de la raiz del repo («01-itinerarios-dia-a-dia.md», «README.md»)."""
+    return _lee(os.path.join(RAIZ, nombre))
+
+
+def _json(ruta):
+    with open(ruta, encoding="utf-8") as f:
+        return json.load(f)
+
+
 def _paginas(ruta):
     """Paginas de un PDF segun pdfinfo; None —y un FALLO— si no hay poppler para medirlo."""
     try:
@@ -57,7 +76,7 @@ def revisa_imagenes():
     ruta = os.path.join(RAIZ, "img", "creditos.json")
     if not os.path.exists(ruta):
         return mal("no existe img/creditos.json — ejecuta `python3 fuente/descargar.py`")
-    cr = json.load(open(ruta))
+    cr = _json(ruta)
 
     esperadas = {f"lugares/{s}" for s, _, _ in catalogo.LUGARES}
     esperadas |= {f"fauna/{e[0]}" for _, _, l in catalogo.GRUPOS_FAUNA for e in l}
@@ -92,7 +111,7 @@ def revisa_geo():
               if not os.path.exists(os.path.join(HERE, "geo", n))]
     if faltan:
         return mal(f"faltan geodatos: {faltan} — ejecuta `python3 fuente/geodatos.py`")
-    ruta = json.load(open(os.path.join(HERE, "geo", "ruta.json")))
+    ruta = _json(os.path.join(HERE, "geo", "ruta.json"))
     sin_traza = [e["id"] for e in ruta if e["km"] is None]
     if sin_traza:
         mal(f"etapas sin trazado: {sin_traza}")
@@ -103,7 +122,7 @@ def revisa_geo():
         ruta_f = os.path.join(HERE, "geo", fich)
         if not os.path.exists(ruta_f):
             continue                                   # ruta-alt la vigila revisa_ruta_alt
-        guardadas = json.load(open(ruta_f))
+        guardadas = _json(ruta_f)
         distintas = [e["id"] for e, g in zip(etapas, guardadas)
                      if any(e[k] != g.get(k) for k in e)]
         if len(guardadas) != len(etapas) or distintas:
@@ -123,7 +142,7 @@ def revisa_geo():
     fich = os.path.join(HERE, "geo", "tramos.json")
     if not os.path.exists(fich):
         return mal("falta geo/tramos.json — ejecuta `python3 fuente/geodatos.py tramos`")
-    tramos = {e["id"]: e["tramos"] for e in json.load(open(fich))}
+    tramos = {e["id"]: e["tramos"] for e in _json(fich)}
     km_ruta = {e["id"]: e["km"] or 0 for e in ruta}
     if set(tramos) != set(km_ruta):
         return mal("geo/tramos.json no cubre los mismos dias que geo/ruta.json: regenera "
@@ -154,7 +173,7 @@ def revisa_interes():
     fich = os.path.join(HERE, "geo", "interes.json")
     if not os.path.exists(fich):
         return mal("falta geo/interes.json — ejecuta `python3 fuente/geodatos.py interes`")
-    cache = json.load(open(fich))
+    cache = _json(fich)
     con = {p["consulta"]: p for p in cache.get("puntos", [])}
     sin = set(cache.get("sin_resultado", []))
     tabla = {q: (r, c, d) for q, r, c, d in geodatos.INTERES}
@@ -193,8 +212,8 @@ def revisa_dia_a_dia():
     fich = os.path.join(HERE, "geo", "ruta.json")
     if not os.path.exists(fich):
         return mal("falta geo/ruta.json — ejecuta `python3 fuente/geodatos.py`")
-    medido = {e["id"]: e["km"] for e in json.load(open(fich)) if e["km"] is not None}
-    doc = open(os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md")).read()
+    medido = {e["id"]: e["km"] for e in _json(fich) if e["km"] is not None}
+    doc = _doc("01-itinerarios-dia-a-dia.md")
 
     dias_doc = re.findall(r"^### (D\d+) ·", doc, re.M)
     fallos = []
@@ -227,8 +246,10 @@ def revisa_dia_a_dia():
 
 # Los dias que conducen y NO titulan un tiempo, a proposito: el de las dunas, el logistico
 # del Skeleton Coast y los tres de safari dan otra cosa —«dia completo», «de safari»—, porque
-# ahi las horas de volante no son la medida del dia. Los demas que conducen, tiempo si.
-SIN_HORA_EN_EL_TITULAR = SIN_KM_EN_EL_TITULAR | {"D4", "D7", "D11", "D12", "D13"}
+# ahi las horas de volante no son la medida del dia. Los demas que conducen, tiempo si. El de
+# las dunas y los de safari los dan las etapas; solo el logistico va escrito.
+SIN_HORA_EN_EL_TITULAR = (SIN_KM_EN_EL_TITULAR | {trazado.dia_de_arena(), "D7"}
+                          | set(trazado.dias_de_safari()))
 RE_HORA = re.compile(r"(\d+)\s?h\s?(\d\d)?")
 
 
@@ -246,7 +267,7 @@ def revisa_horas_del_01():
     SIN_HORA_EN_EL_TITULAR, falla: o ha cambiado el formato o se ha perdido la cifra.
     """
     import agenda
-    doc = open(os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md"), encoding="utf-8").read()
+    doc = _doc("01-itinerarios-dia-a-dia.md")
     titulares = dict(re.findall(r"^### (D\d+) ·([^\n]*)", doc, re.M))
     if not titulares:
         return mal("no encuentro ningun «### Dn ·» en el `01`: la comprobacion de horas se ha "
@@ -284,7 +305,7 @@ def revisa_anclas_de_la_agenda():
     encabezado, `make agenda` muere — y como el CI no regenera los PDF, nadie lo ve hasta el
     siguiente `make`. Mejor que lo diga esto.
     """
-    texto = open(os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md")).read()
+    texto = _doc("01-itinerarios-dia-a-dia.md")
     faltan = [a for a in ("\n### D1 ·", "\n### 💰 Coste real") if a not in texto]
     if faltan:
         mal(f"el `01` ya no tiene {[a.strip() for a in faltan]}, y `agenda.py` recorta el dia a "
@@ -293,7 +314,7 @@ def revisa_anclas_de_la_agenda():
         bien("agenda: el `01` conserva los dos encabezados entre los que se recorta")
     # lo opcional de cada dia sale del `10` cortado por sus `### Dn ·`: un encabezado
     # renombrado dejaba ese dia sin joyas en la agenda y nadie se enteraba
-    diez = open(os.path.join(RAIZ, "10-joyas-ocultas.md")).read()
+    diez = _doc("10-joyas-ocultas.md")
     faltan = [e["id"] for e in trazado.ETAPAS if not re.search(rf"^### {e['id']} ·", diez, re.M)]
     if faltan:
         mal(f"el `10` no tiene encabezado `### Dn ·` para {faltan}: la agenda saca de ahi lo "
@@ -314,7 +335,7 @@ def revisa_ruta_alt():
     fich = os.path.join(HERE, "geo", "ruta-alt.json")
     if not os.path.exists(fich):
         return mal("falta geo/ruta-alt.json — ejecuta `python3 fuente/geodatos.py ruta-alt`")
-    alt = json.load(open(fich))
+    alt = _json(fich)
     if len(alt) != len(trazado.ETAPAS_ALT):
         mal(f"geo/ruta-alt.json tiene {len(alt)} etapas y trazado.ETAPAS_ALT, "
             f"{len(trazado.ETAPAS_ALT)}: regenera la geometria")
@@ -326,7 +347,7 @@ def revisa_ruta_alt():
     if not os.path.exists(md):
         return mal("falta aparte/decision-del-ccf.md — si se ha borrado a proposito, quita con el "
                    "revisa_ruta_alt, trazado.ETAPAS_ALT y geo/ruta-alt.json")
-    doc = open(md).read()
+    doc = _lee(md)
     medido = {e["id"]: e["km"] for e in alt if e["km"] is not None}
     dichos, fallos = {}, []
     for m in re.finditer(r"^- \*\*(D\d+) ·[^\n]*?(\d[\d.]*) km", doc, re.M):
@@ -350,7 +371,7 @@ def revisa_ruta_alt():
             fallos.append(f"el titular del `aparte/decision-del-ccf` dice {dicho:.0f} km y la geometria suma "
                           f"{total:.0f}")
         oficial = sum(e["km"] or 0 for e in
-                      json.load(open(os.path.join(HERE, "geo", "ruta.json"))))
+                      _json(os.path.join(HERE, "geo", "ruta.json")))
         resta = (oficial - total) if m.group(3) == "menos" else (total - oficial)
         if abs(float(m.group(2)) - resta) > 1.5:
             fallos.append(f"el `aparte/decision-del-ccf` dice {m.group(2)} km {m.group(3)} que la oficial y la resta "
@@ -432,17 +453,16 @@ def _horas_de_la_variante(doc, medido):
     return fallos
 
 
-# Los documentos que se leen SOBRE EL TERRENO, donde cada N$ es dinero que se paga y
-# tiene que llevar su equivalente al lado. Se comprueban solo estos a proposito: en
-# los de investigacion (02, 07, 11, 12, 15) hay cifras que se citan para desmentirlas
-# —«N$150 es lo que repiten los blogs», «N$445 fue un error de extraccion»— y tarifas que
-# no nos aplican, como la de residente namibio. Exigirles el euro llenaria esto de avisos
-# falsos, y una comprobacion que grita sin motivo se acaba ignorando. El `20` entra por la
-# misma logica desde el otro lado: es el cuaderno con el que se reserva, con la tarjeta en
-# la mano — cada N$ suyo es dinero que se va a pagar.
-SOBRE_EL_TERRENO = ("01-itinerarios-dia-a-dia.md", "03-alojamiento-y-tasas.md",
-                    "13-itinerario.md", "18-manual-de-campamento.md", "20-reservas.md",
-                    "21-campamentos-de-etosha.md", "22-picadura-de-escorpion.md")
+# Todo documento lleva cada N$ con su €, salvo los DE INVESTIGACION: en el `02`, el `07`, el
+# `11`, el `12`, el `15` y el `16` hay cifras que se citan para desmentirlas —«N$150 es lo que
+# repiten los blogs», «N$445 fue un error de extraccion»— y tarifas que no nos aplican, como
+# la de residente namibio. Exigirles el euro llenaria esto de avisos falsos, y una comprobacion
+# que grita sin motivo se acaba ignorando. El README va con ellos: sus diez N$ sin euro son
+# todos de ese tipo («N$150 (son ~N$280 desde abril)», «N$1.600, no N$880», «N$2.480 / 18,8»).
+# Hasta el 11/10 la lista era al reves —los siete que se leen sobre el terreno— y el `08`, el
+# `10` (que alimenta la agenda), el `17` y el `06` quedaban fuera sin motivo; un documento
+# nuevo tambien se quedaba fuera, callado.
+DE_INVESTIGACION = {"02", "07", "11", "12", "15", "16"}
 
 RE_NAD = re.compile(r"(?<![+\-±])N\$\s?([\d][\d.,]*)")
 
@@ -460,12 +480,13 @@ def revisa_precios():
     40 caracteres), o pegado delante —«€46 (N$920)»— si ese € no lo ha usado ya otro.
     """
     huerfanos = []
-    for nombre in SOBRE_EL_TERRENO:
-        ruta = os.path.join(RAIZ, nombre)
-        if not os.path.exists(ruta):
-            huerfanos.append(f"{nombre}: NO EXISTE — si se ha renombrado, cambia SOBRE_EL_TERRENO")
-            continue
-        texto = open(ruta).read()
+    en_disco = {f[:2]: f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f)}
+    sobran = sorted(DE_INVESTIGACION - set(en_disco))
+    if sobran:
+        huerfanos.append(f"DE_INVESTIGACION exime {sobran}, que no existen en disco")
+    docs = [f for n, f in sorted(en_disco.items()) if n not in DE_INVESTIGACION]
+    for nombre in docs:
+        texto = _doc(nombre)
         nads = list(RE_NAD.finditer(texto))
         usados = set()
         for i, m in enumerate(nads):
@@ -488,7 +509,7 @@ def revisa_precios():
     if huerfanos:
         mal(f"{len(huerfanos)} precios en N$ sin su propio € al lado: {huerfanos[:6]}…")
     else:
-        bien(f"precios: los {len(SOBRE_EL_TERRENO)} documentos de campo, cada N$ con su €")
+        bien(f"precios: los {len(docs)} documentos que no son de investigacion, cada N$ con su €")
 
 
 def revisa_convenciones():
@@ -510,7 +531,7 @@ def revisa_convenciones():
     for f in sorted(os.listdir(RAIZ)):
         if not re.match(r"\d\d-.*\.md$", f) and f != "README.md":
             continue
-        texto = open(os.path.join(RAIZ, f)).read()
+        texto = _doc(f)
         tablas = md.render(texto).count("<table")
         if tablas:
             fallos.append(f"{f}: {tablas} tabla(s) de markdown — lo tabular va en rejilla o en Mermaid")
@@ -539,7 +560,7 @@ def revisa_fechas():
     los PDF la lleven DE VERDAD impresa lo mira `revisa_fechas_impresas`.
     """
     import datetime
-    texto = open(os.path.join(RAIZ, "README.md")).read()
+    texto = _doc("README.md")
     m = re.search(r"\*\*Última actualización: (\d{1,2}) de (\w+) de (\d{4})\*\*", texto)
     if not m:
         return mal("el README ya no dice cuando se actualizo por ultima vez")
@@ -681,14 +702,21 @@ FUENTES_PDF = {
                                  ":!fuente/mapas_google.py"),
     "agenda-namibia-2026.pdf": ("01-itinerarios-dia-a-dia.md", "10-joyas-ocultas.md",
                                 "fuente/agenda.py", "fuente/mapa.py", "fuente/trazado.py",
-                                "fuente/fecha.py", "fuente/comun.py", "fuente/geo/ruta.json",
-                                "fuente/geo/tramos.json", "fuente/geo/interes.json"),
+                                "fuente/fecha.py", "fuente/comun.py", "fuente/imprimir.py",
+                                "fuente/dossier.py", "fuente/tipos", "fuente/geo/ruta.json",
+                                "fuente/geo/tramos.json", "fuente/geo/interes.json",
+                                "fuente/geo/paises.json", "fuente/geo/parques.json"),
     "mapa-ruta-namibia-2026.pdf": ("fuente/lamina.py", "fuente/mapa.py", "fuente/trazado.py",
-                                   "fuente/fecha.py", "fuente/geo/ruta.json",
-                                   "fuente/geo/tramos.json"),
+                                   "fuente/fecha.py", "fuente/comun.py", "fuente/imprimir.py",
+                                   "fuente/tipos", "fuente/geo/ruta.json",
+                                   "fuente/geo/tramos.json", "fuente/geo/paises.json",
+                                   "fuente/geo/parques.json"),
     "guia-fauna-namibia.pdf": ("fuente/guia_fauna.py", "fuente/catalogo.py", "fuente/textos_*.py",
                                "fuente/mapa.py", "fuente/fecha.py", "fuente/avistamientos.py",
-                               "fuente/geo/avistamientos.json", "img/creditos.json"),
+                               "fuente/trazado.py", "fuente/comun.py", "fuente/imprimir.py",
+                               "fuente/estilo", "fuente/tipos", "fuente/geo/avistamientos.json",
+                               "fuente/geo/ruta.json", "fuente/geo/parques.json",
+                               "img/creditos.json"),
 }
 
 
@@ -725,7 +753,7 @@ def revisa_contador_reservas():
     PDF se imprime como casilla de verdad, para marcar a boli sobre el terreno. Nada lo
     vigilaba: la cuenta atras si tenia comprobacion y este contador no.
     """
-    reservas = open(os.path.join(RAIZ, "20-reservas.md")).read()
+    reservas = _doc("20-reservas.md")
     hechas = total = 0
     for nombre, peso in RESERVAS_CONTADAS:
         # el \b del final importa: sin el, «Windhoek D1» tambien casaba con
@@ -738,7 +766,7 @@ def revisa_contador_reservas():
         total += peso
         hechas += peso if casillas[0] == "x" else 0
 
-    texto = open(os.path.join(RAIZ, "README.md")).read()
+    texto = _doc("README.md")
     chapa = re.search(r"reservas-(\d+)_de_(\d+)-", texto)
     if not chapa:
         return mal("el README ya no lleva la chapa de reservas")
@@ -796,8 +824,8 @@ def revisa_cuadre_presupuesto():
     sea el doble de la del README —lo que caza que se toque una y no la otra—.
     """
     antes = len(FALLOS)
-    readme = open(os.path.join(RAIZ, "README.md")).read()
-    presu = open(os.path.join(RAIZ, "02-presupuesto.md")).read()
+    readme = _doc("README.md")
+    presu = _doc("02-presupuesto.md")
     pp, par = _lee_tarta(readme), _lee_tarta(presu)
     if not pp or not par:
         return mal("no se encuentran las tartas del presupuesto (README y/o `02` §1)")
@@ -888,10 +916,9 @@ def revisa_sol_y_luna():
     """
     import astro
 
-    texto = open(os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md"), encoding="utf-8").read()
+    texto = _doc("01-itinerarios-dia-a-dia.md")
     # el mapa de nombre visible -> clave de PUNTOS, para leer el «(Cape Cross)» del texto
     por_nombre = {v[2].split(" · ")[0].lower(): k for k, v in trazado.PUNTOS.items()}
-    por_nombre["deadvlei"] = "deadvlei"
     por_nombre["el paso"] = "spreetshoogte"
     por_nombre["spreetshoogte"] = "spreetshoogte"          # el rotulo es «Paso de Spreetshoogte»
 
@@ -1005,7 +1032,7 @@ def revisa_derivados():
     ruta = gps.etapas()
     pistas = sum(1 for e in ruta if e.get("geometria"))
     puntos = len(trazado.puntos_oficiales())
-    texto = open(os.path.join(RAIZ, "README.md"), encoding="utf-8").read()
+    texto = _doc("README.md")
     for cuantos, patron, que in ((puntos, r"los (\d+) puntos de la ruta como waypoints", "puntos"),
                                  (pistas, r"las (\d+)\s*\n?etapas con trazado", "etapas con trazado")):
         m = re.search(patron, texto)
@@ -1063,7 +1090,7 @@ def revisa_gasolineras():
     La lamina y el mapa las pintan desde la tabla; el `01` las decide en su diagrama. Son
     la misma lista escrita dos veces, y nada obligaba a que coincidieran.
     """
-    texto = open(os.path.join(RAIZ, "01-itinerarios-dia-a-dia.md"), encoding="utf-8").read()
+    texto = _doc("01-itinerarios-dia-a-dia.md")
     sec = re.search(r"^### ⛽ Las gasolineras.*?```mermaid\n(.*?)```", texto, re.S | re.M)
     if not sec:
         return mal("el `01` ya no tiene el diagrama de «### ⛽ Las gasolineras»: la comprobacion "
@@ -1092,7 +1119,7 @@ def revisa_avistamientos():
     ruta = os.path.join(HERE, "geo", "avistamientos.json")
     if not os.path.exists(ruta):
         return mal("no existe geo/avistamientos.json — ejecuta `python3 fuente/avistamientos.py`")
-    d = json.load(open(ruta))
+    d = _json(ruta)
     esperadas = {e[0] for _, _, l in catalogo.GRUPOS_FAUNA for e in l}
     faltan = esperadas - set(d.get("especies", {}))
     if faltan:
@@ -1114,8 +1141,11 @@ def revisa_avistamientos():
     flojos = [c["nombre"] for c in camps.values() if (c.get("viajeros") or 0) < 10]
     if flojos:
         mal(f"campamentos con menos de 10 partes, no dan para publicar un porcentaje: {flojos}")
+    # fuera del `or` de abajo a proposito: ahi dentro, con otra cosa fallando antes, el
+    # cortocircuito se lo saltaba y el sable podia desaparecer sin que nadie lo dijera
+    sesgo = sin_sesgo(d)
 
-    if not (faltan or sobran or faltan_camps or sin_sesgo(d) or sin_muestra or flojos):
+    if not (faltan or sobran or faltan_camps or sesgo or sin_muestra or flojos):
         n = sum(len(c.get("especies", {})) for c in camps.values())
         bien(f"avistamientos: {len(d['especies'])} especies en GBIF y {n} porcentajes "
              f"de {len(camps)} campamentos, todos con su muestra")
@@ -1149,8 +1179,8 @@ def revisa_ruta():
     ruta = os.path.join(HERE, "geo", "avistamientos.json")
     if not os.path.exists(ruta):
         return mal("no existe geo/avistamientos.json — no se puede comprobar la regla de la ruta")
-    d = json.load(open(ruta))
-    excepciones = getattr(catalogo, "EXCEPCIONES_RUTA", {})
+    d = _json(ruta)
+    excepciones = catalogo.EXCEPCIONES_RUTA
     fuera, flojas = [], []
     for _clave, _nombre, lista in catalogo.GRUPOS_FAUNA:
         for slug, es, *_ in lista:
@@ -1192,7 +1222,7 @@ def revisa_zonas_del_09():
     tienen ni un registro de oct-nov y no caen en ninguna zona.
     """
     import mapa
-    texto = open(os.path.join(RAIZ, "09-fauna-namibia.md"), encoding="utf-8").read()
+    texto = _doc("09-fauna-namibia.md")
     plano = re.sub(r"[*_]", "", texto)
     m = re.search(r"(\d+) de las (\d+)\s*—(.{0,200}?)\(las (\d+)\s+sin\s+registros", plano, re.S)
     if not m:
@@ -1218,6 +1248,97 @@ def revisa_zonas_del_09():
     else:
         bien(f"el reparto por zonas del `09` es el del mapa: {con_zona} de {total} — "
              + ", ".join(f"{n} {cuenta.get(c, 0)}" for c, n in ZONAS_DEL_09))
+
+
+# Textos del build que copian datos del dossier a mano —las horas de puerta de Etosha, los
+# telefonos de emergencia, el 29 % de los muertos, los precios de las actividades— y que nada
+# cotejaba: la propia lamina lo decia en un comentario («nada los coteja: al tocarlos alli,
+# tocarlos aqui»). Cada dato que llevan tiene que aparecer en algun documento numerado. Las
+# velocidades de la lamina no entran: ya salen de trazado.VELOCIDAD. El NOCTURNO de la guia no
+# entra tampoco: las tarifas de Hobatere o de Ongava son suyas, verificadas en su propia fuente
+# (FUENTES_ETOSHA), y el dossier no las lleva.
+RE_DATO = re.compile(r"\+264(?: \d+)+|\d\d:\d\d|\d+(?:,\d+)? %|N\$[\d.]+|€[\d.,]*\d")
+
+
+def revisa_literales_copiados():
+    import lamina
+    import textos_etosha
+    textos = {"lamina.REGLAS": " ".join(x for _c, _t, x in lamina.REGLAS),
+              "textos_etosha.INTRO_EXTRA": textos_etosha.INTRO_EXTRA}
+    docs = "\n".join(_doc(f) for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
+    docs = docs.replace("\u00a0", " ")
+    velocidades = {f"{v:.0f}" for v in trazado.VELOCIDAD.values()}
+    fallos, cotejados = [], 0
+    for nombre, texto in textos.items():
+        plano = re.sub(r"<[^>]+>", "", texto).replace("&nbsp;", " ").replace("\u00a0", " ")
+        datos = sorted({d for d in RE_DATO.findall(plano) if d not in velocidades})
+        if not datos:
+            fallos.append(f"{nombre}: no encuentro ningun dato que cotejar — o ha cambiado el "
+                          f"formato o esta comprobacion se ha quedado ciega")
+        cotejados += len(datos)
+        fallos += [f"{nombre} dice «{d}» y ningun documento numerado lo dice" for d in datos
+                   if d not in docs]
+    if fallos:
+        for f in fallos:
+            mal(f)
+    else:
+        bien(f"literales copiados: los {cotejados} datos de la lamina y de la guia de fauna "
+             f"estan en algun documento")
+
+
+# Lo que las introducciones de la guia de fauna dicen a mano del catalogo y de GBIF: cuantas
+# fichas tiene cada grupo —«Treinta y dos fichas», «aquí van seis»— y las cifras de oct-nov que
+# citan de fichas concretas. Se escribieron una vez y nada las cotejaba con el catalogo ni con
+# geo/avistamientos.json: al anadir una ficha, o al rehacer GBIF con --forzar, mentian calladas.
+CUENTA_EN_INTRO = {                     # grupo -> como escribe la intro el numero de fichas
+    "felino":   lambda n, letras: f"aquí van {letras(n)}",
+    "mamifero": lambda n, letras: f"{letras(n).capitalize()} fichas",
+    "rapaz":    lambda n, letras: f"{letras(n).capitalize()} rapaces",
+    "reptil":   lambda n, letras: f"Las otras {letras(n - 3)}",   # tres son seguridad, no fauna
+}
+CIFRA_EN_INTRO = [                      # (grupo, ficha, zonas cuyos oct-nov cita la intro)
+    ("mamifero", "cebra-hartmann", ("etosha", "namib", "damaraland")),
+    ("costa", "alcatraz-cabo", ("costa",)),
+    ("costa", "cormoran-bancas", ("costa",)),
+    ("costa", "pinguino-africano", ("costa",)),
+    ("ave", "grulla-carunculada", ("etosha",)),
+]
+
+
+def revisa_intros_guia():
+    try:
+        from comun import en_letras
+        import guia_fauna
+    except ImportError as e:
+        return mal(f"sin {e.name} no se cotejan las intros de la guia de fauna — pip install -r "
+                   f"requirements.txt; esta comprobacion no pasa en verde sin correr")
+    ruta = os.path.join(HERE, "geo", "avistamientos.json")
+    if not os.path.exists(ruta):
+        return mal("no existe geo/avistamientos.json — no se cotejan las intros de la guia")
+    especies = _json(ruta).get("especies", {})
+    cuenta = {c: len(l) for c, _n, l in catalogo.GRUPOS_FAUNA}
+    plano = {g: re.sub(r"<[^>]+>", "", t) for g, t in guia_fauna.INTROS.items()}
+    fallos = []
+    for grupo, forma in CUENTA_EN_INTRO.items():
+        esperado = forma(cuenta[grupo], en_letras)
+        if esperado not in plano.get(grupo, ""):
+            fallos.append(f"la intro de «{grupo}» de la guia no dice «{esperado}» "
+                          f"({cuenta[grupo]} fichas en el catalogo)")
+    for grupo, slug, zonas in CIFRA_EN_INTRO:
+        for z in zonas:
+            n = especies.get(slug, {}).get("zonas", {}).get(z, {}).get("oct_nov")
+            if n is None:
+                fallos.append(f"{slug} no tiene recuento de {z} en geo/avistamientos.json")
+            elif not re.search(rf"\b{n}\b", plano.get(grupo, "")):
+                fallos.append(f"la intro de «{grupo}» no cita los {n} registros de oct-nov de "
+                              f"{slug} en {z}")
+    if fallos:
+        for f in fallos:
+            mal(f)
+    else:
+        bien(f"intros de la guia de fauna: {len(CUENTA_EN_INTRO)} cuentas de fichas y "
+             f"{sum(len(z) for _g, _s, z in CIFRA_EN_INTRO)} cifras de GBIF, como en el catalogo "
+             f"y en el cache")
 
 
 def revisa_pdf(nombre, minimo):
@@ -1380,7 +1501,7 @@ def revisa_escala(nombre, alto=267, tolerancia=3, medida="mancha"):
 
 def revisa_paginas_readme():
     """El README anuncia cuantas paginas tiene cada PDF: que no se quede desfasado."""
-    texto = open(os.path.join(RAIZ, "README.md")).read()
+    texto = _doc("README.md")
     for nombre in ("dossier-namibia-2026.pdf", "guia-fauna-namibia.pdf",
                    "mapa-ruta-namibia-2026.pdf", "agenda-namibia-2026.pdf"):
         ruta = os.path.join(RAIZ, nombre)
@@ -1410,7 +1531,7 @@ def revisa_paginas_readme():
 
 def revisa_indice_readme():
     """El indice del README se numera a mano: que no se descuadre ni pierda un documento."""
-    texto = open(os.path.join(RAIZ, "README.md")).read()
+    texto = _doc("README.md")
     listados = re.findall(r"^(\d+)\. .*?\[\*\*`(\d\d)-[a-z-]+`\*\*\]", texto, re.M)
     numeros = [int(n) for n, _ in listados]
     docs = {d for _, d in listados}
@@ -1426,7 +1547,7 @@ def revisa_indice_readme():
 
 def revisa_documentos():
     docs = sorted(f for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
-    huecos = [f for f in docs if not open(os.path.join(RAIZ, f)).read().startswith("# ")]
+    huecos = [f for f in docs if not _doc(f).startswith("# ")]
     if huecos:
         mal(f"documentos sin titulo de primer nivel: {huecos}")
     else:
@@ -1442,7 +1563,7 @@ def revisa_indice_dossier():
     markdown-it y el resto del build, y esta comprobacion tiene que poder gritar
     precisamente cuando ese fichero esta a medio tocar.
     """
-    fuente = open(os.path.join(HERE, "dossier.py")).read()
+    fuente = _lee(os.path.join(HERE, "dossier.py"))
     m_res = re.search(r"^RESUMEN = \{(.*?)^\}", fuente, re.S | re.M)
     m_fuera = re.search(r"^FUERA_DEL_PDF = \{([^}]*)\}", fuente, re.M)
     if not (m_res and m_fuera):
@@ -1481,6 +1602,8 @@ def main():
     revisa_avistamientos()
     revisa_ruta()
     revisa_zonas_del_09()
+    revisa_intros_guia()
+    revisa_literales_copiados()
     revisa_pdf("dossier-namibia-2026.pdf", 40)
     revisa_pdf("guia-fauna-namibia.pdf", 8)
     revisa_lamina()

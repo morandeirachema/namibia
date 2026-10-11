@@ -296,7 +296,7 @@ seguridad** con las serpientes y el escorpión que de verdad importan.
 > en la noche más oscura del viaje — una cosa o la otra.
 >
 > ➕ **Y hay una tercera actividad que este dossier nunca ha nombrado**: la **salida guiada de
-> TARDE**, también N$650 pp, en los tres campamentos ✅.
+> TARDE**, también N$650 (~€33) pp, en los tres campamentos ✅.
 >
 > El **Sundowner Drive de Onguma** *(3 h, N$980 ≈ €49 pp ✅)* **sigue valiendo y sigue decidido**
 > *(en el presupuesto; la reserva, pendiente — `20` §9)*:

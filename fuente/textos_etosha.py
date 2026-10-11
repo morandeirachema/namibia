@@ -12,13 +12,15 @@ INTRO_EXTRA = """
   <strong>solo se puede bajar del coche dentro de los campamentos</strong>.</p>
   <p><strong>La táctica que funciona no es conducir: es esperar.</strong> Elegid una charca, apagad
   el motor, bajad la voz y dadle tiempo — la fauna llega por turnos. En seca, <strong>mediodía es
-  bueno para elefante</strong> y primera y última hora para león. De noche no se circula, y
-  <strong>el nocturno guiado de NWR se cayó del plan</strong>: se vende a quien duerme en el
-  campamento, y las dos últimas noches ya se duermen fuera. Lo que queda son las <strong>dos charcas
-  iluminadas de Okaukuejo y Halali</strong>, que se ven andando desde la parcela, y —ya en
-  Onguma— su <strong>Sundowner Drive (3 h, N$980 ≈ €49 p.p.)</strong>, que sale al atardecer y
-  vuelve de noche con foco y campo a través, y un <strong>paseo guiado a pie (1½ h, N$980)</strong>:
-  las dos cosas, prohibidas dentro del parque. Y de día, en esta
+  bueno para elefante</strong> y primera y última hora para león. De noche no se circula por
+  libre: lo que hay son las <strong>dos charcas iluminadas de Okaukuejo y Halali</strong>, que se
+  ven andando desde la parcela, y <strong>el nocturno guiado de NWR (N$750 ≈ €38 p.p.)</strong>,
+  que se compra en recepción durmiendo en el campamento — <strong>el D10 en Okaukuejo y el D11 en
+  Halali</strong>, sin decidir todavía <em>(el dossier lo dio por perdido del 24/08 al 28/08; no lo
+  está: se vende en los tres campamentos)</em>. Y ya en Onguma, su <strong>Sundowner Drive (3 h,
+  N$980 ≈ €49 p.p.)</strong>, que sale al atardecer y vuelve de noche con foco y campo a través, y
+  un <strong>paseo guiado a pie (1½ h, N$980)</strong>: las dos cosas, prohibidas dentro del
+  parque, y que complementan al nocturno de NWR, no lo sustituyen. Y de día, en esta
   ruta <strong>la salida de mañana se hace guiada desde cada campamento (N$650 ≈ €33 p.p.,
   decidido el 08/08)</strong>: los traslados entre campamentos van con el 4x4 propio.</p>
   <p>🚧 <strong>Aviso de obras — confirmado que os afecta:</strong> están asfaltando la pista
@@ -46,10 +48,12 @@ NOCTURNO = """
   recintos de Okaukuejo, de noche sale a cazar el <strong>gecko de Fischer</strong>.
   <em>Norma de la plataforma: todo apagado, ni linterna ni pantalla — la única luz es la del
   recinto.</em></li>
-  <li><strong>Nocturno guiado de NWR (N$750 ≈ €38 p.p.)</strong> — ⚠️ <strong>fuera del plan desde
-  el 24/08</strong>: se compra durmiendo en el campamento, y las dos últimas noches se duermen en
-  Onguma. Era circuito corto en grupo
-  cerca del campamento y la única forma legal de circular de noche dentro del parque. Su objetivo declarado son
+  <li><strong>Nocturno guiado de NWR (N$750 ≈ €38 p.p.)</strong> — se compra en recepción
+  durmiendo en el campamento, así que cabe <strong>dos veces: el D10 en Okaukuejo y el D11 en
+  Halali</strong>, y está <strong>sin decidir</strong> <em>(del 24/08 al 28/08 el dossier lo dio por
+  perdido «porque se compraba desde Namutoni»; NWR lo vende en los tres campamentos)</em>. Es un
+  circuito corto en grupo cerca del campamento y la única forma legal de circular de noche dentro
+  del parque. Su objetivo declarado son
   tres especies que de día casi no se dejan ver: <strong>zorro del Cabo, gato montés africano y
   lobo de tierra</strong>. Los guías enseñan además la <strong>liebre saltadora</strong> casi
   todas las noches, aunque no figure como objetivo oficial — es tan nocturna que ni un registro
@@ -78,8 +82,8 @@ NOCTURNO = """
   chotacabras y <strong>oso hormiguero</strong> — este último, con 0&nbsp;% de avistamientos
   declarados dentro de Etosha, es precisamente el que se quedó sin ficha en esta guía.</li>
   <li><strong>Onguma</strong> <em>(pasada la puerta de Von Lindequist)</em> — <strong>ya no es una
-  alternativa teórica: es donde dormís el D12 y el D13</strong>, y desde el 24/08 <strong>es también
-  lo único que queda para ver fauna de noche</strong>. Su tarifa oficial 2027 vende
+  alternativa teórica: es donde dormís el D12 y el D13</strong>, y es <strong>lo que añade de noche
+  fuera del parque</strong>, además del nocturno de NWR de dentro. Su tarifa oficial 2027 vende
   <strong>Sundowner Drive de 3 h (N$980 ≈ €49 p.p.)</strong> —sale al atardecer y vuelve de noche,
   con foco y campo a través—, <strong>Onkolo Hide de 3 h (N$720 ≈ €36 p.p.)</strong> y
   <strong>paseo interpretativo a pie de 1½ h (N$980 ≈ €49 p.p., 16+)</strong> ✅. Su reserva declara
@@ -116,7 +120,7 @@ DONDE = {
   "hartebeest": "Llanuras abiertas del este; se cita en la charca de King Nehale, en Namutoni.",
   "mangosta-rayada": "De día, por el suelo de los campamentos y claros del este — Namutoni es su zona: las tropas cruzan la pista en fila y parloteando (400 registros en el parque).",
   "babuino-chacma": "En esta ruta, los miradores y áreas de descanso de la escarpa (D2) y de Damaraland (D8–D9) — en Etosha apenas figura. Ventanillas arriba si os alejáis con comida a la vista.",
-  "zorro-del-cabo": "Solo de noche y solo guiado: **el Sundowner Drive de Onguma (D12 o D13)**, ya fuera del parque — el nocturno de NWR se cayó al dejar de dormir dentro. Por libre está prohibido circular a oscuras, y él no sale de día.",
+  "zorro-del-cabo": "Solo de noche y solo guiado: **el nocturno guiado de NWR (D10 en Okaukuejo, D11 en Halali), que lo lleva como objetivo declarado, o el Sundowner Drive de Onguma (D12 o D13)**, ya fuera del parque. Por libre está prohibido circular a oscuras, y él no sale de día.",
   "gato-montes-africano": "El **sundowner de Onguma (D12 o D13)**, y con suerte: es discretísimo. De día, como mucho, unos ojos en un matorral desde la charca.",
   "lobo-de-tierra": "El **sundowner de Onguma (D12 o D13)**, en las llanuras con termiteros — que son su despensa.",
   "ballena-jorobada": "Desde el **crucero de Walvis Bay (D6)**: la migración pasa frente a esta costa de junio a noviembre, y vuestro día cae aún en temporada.",

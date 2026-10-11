@@ -18,7 +18,6 @@ y sale como otra página, con su propio Artifact y su propia base de datos.
     python3 lista_web.py compra     -> fuente/lista-de-la-compra.html
 """
 import html
-import json
 import os
 import re
 import sys

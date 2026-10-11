@@ -95,6 +95,21 @@ DUERME_SIN_PARADA = ("windhoek",)
 SIN_TIENDA = ("terracebay",)
 
 
+def dia_de_arena(etapas=None):
+    """El dia que pisa los ~5 km de arena de Sossusvlei que OSRM no enruta: el que pasa por
+    `sossusvlei`. Lo leen la lamina, el mapa de la lamina y la agenda; hasta el 11/10 los tres
+    decian «D4» a mano, y renumerar un dia los dejaba pintando la arena en otro sitio."""
+    return next((e["id"] for e in (etapas or ETAPAS) if "sossusvlei" in e["por"]), None)
+
+
+def dias_de_safari(etapas=None):
+    """Los dias que arrancan y acaban en Etosha —su etapa y la anterior son del bloque—: los de
+    safari puro, sin traslado desde fuera ni salida del parque. Hoy D11, D12 y D13."""
+    etapas = ETAPAS if etapas is None else etapas
+    return [e["id"] for i, e in enumerate(etapas)
+            if i and e["bloque"] == "etosha" == etapas[i - 1]["bloque"]]
+
+
 def noches(etapas=None):
     """Las etapas en las que se duerme en algun sitio (todas menos la del vuelo)."""
     return [e for e in (etapas or ETAPAS) if e.get("duerme")]
@@ -171,7 +186,7 @@ ETAPAS_ALT = [dict(e) for e in ETAPAS[:12]] + [
     {"id": "D14", "fecha": "13 nov", "bloque": "vuelta",
      "titulo": "Cheetah Run y bajada a Windhoek", "duerme": "windhoek",
      "por": ["ccf", "windhoek"]},
-] + [dict(ETAPAS[14])]
+] + [dict(ETAPAS[-1])]
 
 # El firme de cada carretera, por su nombre. En Namibia la letra manda: B es asfalto, C y D
 # son grava — y luego estan las excepciones, que son justo las que el dossier ya tenia

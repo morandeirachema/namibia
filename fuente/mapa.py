@@ -12,7 +12,9 @@ codigo es trivial de auditar — que es lo que pide un dossier que presume de fu
 import json
 import math
 import os
+import re
 
+import navegador
 import trazado
 from geodatos import anillos
 
@@ -845,10 +847,10 @@ def arena_sossusvlei():
     """Los ~5 km de arena blanda que OSRM no enruta: del aparcamiento 2WD —donde acaba
     el asfalto del D4— a Sossusvlei y a Deadvlei. Es el unico firme del viaje que no sale
     del enrutado, y por eso es el unico que se traza recto entre dos puntos conocidos."""
-    d4 = next((e for e in carga("tramos.json") if e["id"] == "D4"), None)
-    if not d4 or not d4["tramos"]:
+    dia = next((e for e in carga("tramos.json") if e["id"] == trazado.dia_de_arena()), None)
+    if not dia or not dia["tramos"]:
         return []
-    asfalto = max(d4["tramos"], key=lambda t: t["km"])
+    asfalto = max(dia["tramos"], key=lambda t: t["km"])
     lon, lat = asfalto["geometria"][-1]
     fin = (lat, lon)
     return [[fin, trazado.PUNTOS["sossusvlei"][:2]], [fin, trazado.PUNTOS["deadvlei"][:2]]]
@@ -1129,9 +1131,6 @@ def mapa_lamina(ancho=1100):
 # Mapa 2 · Etosha, charca a charca
 # ---------------------------------------------------------------------------
 
-import re as _re
-
-
 def charcas():
     """Las charcas con nombre de Etosha, sacadas de OpenStreetMap.
 
@@ -1150,10 +1149,10 @@ def charcas():
                  or "wateringhole" in n.lower())
         if not pinta:
             continue
-        artificial = bool(_re.search(r"man[- ]?made", n, _re.I))
-        limpio = _re.sub(r"\s*\((natural |man[- ]?made )?water\s*(hole|point)?\)", "", n, flags=_re.I)
-        limpio = _re.sub(r"\s*\(man[- ]?made\)", "", limpio, flags=_re.I)
-        limpio = _re.sub(r"\s*(Waterhole|Wateringhole)\s*$", "", limpio, flags=_re.I).strip()
+        artificial = bool(re.search(r"man[- ]?made", n, re.I))
+        limpio = re.sub(r"\s*\((natural |man[- ]?made )?water\s*(hole|point)?\)", "", n, flags=re.I)
+        limpio = re.sub(r"\s*\(man[- ]?made\)", "", limpio, flags=re.I)
+        limpio = re.sub(r"\s*(Waterhole|Wateringhole)\s*$", "", limpio, flags=re.I).strip()
         if not limpio or limpio.lower() in fuera:
             continue
         lat = e.get("lat") or e.get("center", {}).get("lat")
@@ -1215,7 +1214,12 @@ def mapa_etosha(ancho=1000):
     cuerpo.append(f'<path d="{"".join(pistas)}" fill="none" stroke="{C["borde"]}" '
                   f'stroke-width=".9" stroke-linecap="round" opacity=".85"/>')
 
-    cuerpo.append(capa_ruta(L, etapas=["D10", "D11", "D12", "D13", "D14"], ancho=3.2))
+    # las etapas que entran en el encuadre: las de Etosha y las que llegan y salen de el
+    # (hasta el 11/10 iban escritas, «D10» a «D14», y mover una noche las dejaba viejas)
+    dias = [e["id"] for e in trazado.ETAPAS
+            if any(L.sur <= trazado.PUNTOS[p][0] <= L.norte and L.oeste <= trazado.PUNTOS[p][1] <= L.este
+                   for p in e["por"])]
+    cuerpo.append(capa_ruta(L, etapas=dias, ancho=3.2))
 
     x, y = L.xy(-18.83, 16.28)
     cuerpo.append(f'<text x="{x:.0f}" y="{y:.0f}" font-size="15" fill="{C["tinta3"]}" '
@@ -1242,7 +1246,7 @@ def mapa_etosha(ancho=1000):
             continue
         dx, dy, anc = DESVIO_CHARCA.get(
             next((k for k in DESVIO_CHARCA if k in clave_corta), ""), (6, 3, "start"))
-        etiqueta = _re.sub(r"\s*Waterhole.*", "", nombre)
+        etiqueta = re.sub(r"\s*Waterhole.*", "", nombre)
         cuerpo.append(f'<text x="{px + dx:.1f}" y="{py + dy:.1f}" text-anchor="{anc}" '
                       f'font-size="9" font-weight="600" fill="#20536B" paint-order="stroke" '
                       f'stroke="{C["parque"]}" stroke-width="2.4" stroke-linejoin="round">'
@@ -1462,8 +1466,7 @@ def exporta(destino=None):
         ancho = anchos[nombre]
         with open(ruta_svg, "w") as f:
             f.write(svg)
-        alto = round(float(_re.search(r'viewBox="0 0 [\d.]+ ([\d.]+)"', svg).group(1)))
-        import navegador
+        alto = round(float(re.search(r'viewBox="0 0 [\d.]+ ([\d.]+)"', svg).group(1)))
         chrome = navegador.chrome()
         ruta_png = os.path.join(destino, nombre + ".png")
         if chrome:

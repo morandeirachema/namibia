@@ -200,7 +200,7 @@ Fuentes: [Gondwana — fairy circles](https://gondwana-collection.com/news/fairy
 - **Dune 7** *(a la entrada de Walvis, junto a la C14)* — la duna más alta de Namibia *(383 m ○)*,
   subida ~45 min y vistas a desierto y Atlántico a la vez. **Ya no es gratis: N$150 (~€7,5) por
   extranjero adulto desde el 1/12/2022** ◐ *(MEFT vía prensa — **es la cifra de 2022**: con la subida
-  de tasas de abril de 2026 puede haber cambiado, confírmala en la duna; namibios N$50, SADC N$100)*. Llegando a media
+  de tasas de abril de 2026 puede haber cambiado, confírmala en la duna; namibios N$50 · ~€2,5, SADC N$100 · ~€5)*. Llegando a media
   tarde, mejor **dejarla para el D6 al amanecer o al atardecer** ○: a mediodía la arena quema.
 
 Fuentes: [Wikipedia — C14](https://en.wikipedia.org/wiki/C14_road_(Namibia)) ◐ ·
@@ -341,8 +341,8 @@ Fuentes: [namibweb — Skeleton Coast](https://www.namibweb.com/skeleton.htm) �
   **06:00–06:30** y desde Twyfelfontein se llega a las 08:45 *(28/08)*. Queda como **alternativa** y
   sólo entra durmiendo el D8 en Palmwag — **N$3.975 (~€199) pp, mínimo 2** ✅.
 - **Lo que sí sale a las ~07:00 en Palmwag**, ya de paso y sin tocar dónde se duerme: **nature drive
-  de ~3 h, N$1.355 (~€68) pp** ✅, o las **caminatas guiadas de 2 y 5 km** *(N$400 y N$485 · ~€20 y
-  ~€24 pp)* ✅. Sin decidir *(`11`)*.
+  de ~3 h, N$1.355 (~€68) pp** ✅, o las **caminatas guiadas de 2 y 5 km** *(N$400 · ~€20 y N$485 · ~€24
+  pp)* ✅. Sin decidir *(`11`)*.
 - **El paso de Grootberg** *(C40, de paso)* ○ — la vista desde lo alto sobre el valle del Klip y las
   mesetas de basalto del Etendeka es la carretera bonita del país que el `01` ya promete: parar en
   el mirador, que después viene Hoada y su granito.
@@ -398,8 +398,8 @@ Fuentes: [etoshanationalpark.com.na — mapa](https://etoshanationalpark.com.na/
   dolina kárstica de **145 m de hondo** donde las tropas alemanas **arrojaron sus cañones y munición
   antes de rendirse en 1915**: parte está en el museo de Tsumeb, parte sigue abajo como «museo
   subacuático». Mini-zoo y caldera de vapor de la mina. **Precio discordante**: el baremo NHC vía
-  prensa dice **N$250 (~€12,5)** ◐ y reseñas de 2025 dicen **N$25 + N$10 de aparcamiento
-  (~€1,25 + €0,5)** ○ — lleva N$250 en efectivo en mente y paga lo que diga la taquilla. Abre ~08:00
+  prensa dice **N$250 (~€12,5)** ◐ y reseñas de 2025 dicen **N$25 (~€1,25) + N$10 de
+  aparcamiento (~€0,5)** ○ — lleva N$250 (~€12,5) en efectivo en mente y paga lo que diga la taquilla. Abre ~08:00
   ○: saliendo de Onguma a las 06:30 se llega antes.
 - **El museo de Tsumeb** *(President St esq. Joel Kaapande — en el mapa)* ✅ — la **sala Khorab con
   los cañones y las cajas de munición rescatados del Otjikoto**, y los minerales que hicieron a

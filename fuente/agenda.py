@@ -217,7 +217,7 @@ def banda_mapa(dia, alto=800):
         f'{mapa.NOMBRE_FIRME[f]} <b>{km[f]:.0f} km</b></span>'
         for f in orden if km.get(f, 0) >= 1)
     aviso = ""
-    if "sossusvlei" in etapa["por"]:
+    if dia == trazado.dia_de_arena():
         aviso = ('<span class="f aviso">+ los <b>últimos ~5 km de arena blanda</b> hasta '
                  'Sossusvlei/Deadvlei, que OSRM no enruta: 4H y desinflar, o la lanzadera</span>')
     paso = [trazado.PUNTOS[p][2].split(" · ")[0] for p in etapa["por"]]
@@ -281,19 +281,14 @@ ol.indice .k { font-family: var(--mono); font-size: 8.4pt; color: var(--tinta-2)
 /* --- el mapa del día ------------------------------------------------------ */
 .mapa-dia { margin: 0; break-inside: avoid; }
 .mapa-dia .svg { border: .35mm solid var(--regla); }
-.mapa-dia .ficha { margin: 2.5mm 0 1.5mm; font-size: 9.6pt; gap: 1mm 6mm; }
-.mapa-dia .ficha .tot { font-size: 14pt; }
-.mapa-dia .ficha .t { margin-left: auto; font-size: 9pt; }
 .mapa-dia .ficha .aviso { color: var(--oxido); font-size: 8.6pt; flex-basis: 100%; }
-.mapa-dia .paso { font-size: 9.4pt; margin-top: 1.5mm; }
-section.d.texto .cuerpo { column-count: 2; column-gap: 6mm; }
 header.dia.breve { margin-bottom: 3mm; padding-bottom: 1.5mm; }
 header.dia.breve .num { font-size: 22pt; }
 header.dia.breve h1 { font-size: 13pt; }
 header.dia.breve .cifra, header.dia.breve .duerme { display: none; }
 .mapa-dia .svg svg { display: block; width: 100%; height: auto; }
 .mapa-dia .ficha { display: flex; flex-wrap: wrap; gap: 1mm 5mm; align-items: baseline;
-                   font-size: 8.8pt; color: var(--tinta-2); margin-bottom: 1.5mm; }
+                   font-size: 8.8pt; color: var(--tinta-2); margin: 2.5mm 0 1.5mm; }
 .mapa-dia .ficha .tot { font-family: var(--serif); font-size: 12pt; color: var(--tinta); }
 .mapa-dia .ficha .f i { display: inline-block; width: 6mm; height: 1.4mm; border-radius: .7mm;
                         vertical-align: middle; margin-right: 1.4mm; }

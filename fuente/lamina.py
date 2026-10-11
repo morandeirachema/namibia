@@ -61,7 +61,7 @@ def firme_texto(dia):
     km, _ = mapa.firme_del_dia(dia)
     nombre = {"asfalto": "asfalto", "grava": "tierra", "sal": "sal", "parque": "parque"}
     partes = [f"{v:.0f} {nombre[f]}" for f, v in km.items() if f in nombre]
-    if dia == "D4":
+    if dia == trazado.dia_de_arena():
         partes.append("~5 arena")
     return " · ".join(partes)
 
@@ -79,9 +79,9 @@ def etapas():
                   if e["duerme"] else "—")
         d = km.get(e["id"]) or 0
         refs, sin_ref = carreteras_del_dia(e["id"])
-        if e["id"] == "D4":
+        if e["id"] == trazado.dia_de_arena():
             vias = "carretera de Sossusvlei"
-        elif e["id"] in ("D11", "D12", "D13"):
+        elif e["id"] in trazado.dias_de_safari():
             vias = " · ".join(refs + ["pistas de Etosha"]) if refs else "pistas de Etosha"
         else:
             vias = " · ".join(refs)
@@ -259,8 +259,8 @@ def main():
     print(f"\n{os.path.relpath(salida_pdf, RAIZ)} · {HOJA_ANCHO}×{HOJA_ALTO} mm · "
           f"{n} página · {os.path.getsize(salida_pdf) // 1024} KB")
     if n != 1:
-        print("   aviso: la lámina debería ser UNA página; algo se desborda",
-              file=sys.stderr)
+        raise SystemExit(f"lamina: {n} páginas y la lámina es UNA — algo se desborda en la banda "
+                         f"de abajo; el PDF queda escrito para mirarlo, pero no vale")
     return 0
 
 

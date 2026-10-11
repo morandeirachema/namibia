@@ -157,7 +157,7 @@ permitted»*.
 >
 > Y si vuelve a caer, el plan B ya tiene precio: **la lanzadera del concesionario About Africa**,
 > que sale del propio aparcamiento 2WD — **N$200 (~€10) por persona ida y vuelta** ◐ *(prensa
-> namibia, 08/2025; alguna fuente da N$250)*, frente a los **N$180 (~€9)** que sigue listando la web
+> namibia, 08/2025; alguna fuente da N$250 · ~€12,5)*, frente a los **N$180 (~€9)** que sigue listando la web
 > de NWR ✅. Con 4×4 es **opcional**: la nota del MEFT del 2 de mayo deja pasar a los
 > *«self-driving visitors with 4x4 vehicles»*.
 
@@ -323,12 +323,12 @@ parabrisas simplemente picados son **muchísimos más** y no se registran.
 - **No esquives una piedra**
 
 **Coberturas de Savanna, confirmadas ✅** *(hoja de condiciones firmada en la entrega, `20` §1)*:
-la Opción 4 cubre **hasta 2 neumáticos (máx. N$2.800 cada uno) y una luna**, con un matiz sin
+la Opción 4 cubre **hasta 2 neumáticos (máx. N$2.800 · ~€140 cada uno) y una luna**, con un matiz sin
 resolver: un párrafo de la propia hoja dice que esa cobertura sigue aplicando en las «zonas a
 riesgo propio» y otro dice literalmente lo contrario — **se pregunta al firmar, no se adivina**.
 Lo que **NUNCA cubre ningún nivel de seguro, ni la Opción 4**: llantas (rims) perdidas, robadas o
 dañadas, luces delanteras y traseras, daños por agua, desgaste excesivo, y daños de embrague
-*(éste con una fianza inmediata de N$15.000 para un coche de sustitución — N$25.000 si ocurre
+*(éste con una fianza inmediata de N$15.000 · ~€750 para un coche de sustitución — N$25.000 · ~€1.250 si ocurre
 fuera de Namibia)*.
 
 > Un parabrisas roto en un nivel bajo es **tu factura**. Asume que **te vas a llevar al menos un

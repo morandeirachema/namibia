@@ -39,7 +39,10 @@ Desde el 28/08 su mapa es `mapa.mapa_lamina()`, no el `mapa_ruta()` del README: 
 firme, no por bloque del viaje** *(el bloque ya lo dice el color de la tira de etapas)*, con la
 misma paleta que el mapa del día de la agenda y **una capa más, la arena**: los ~5 km del
 aparcamiento 2WD a Sossusvlei y Deadvlei, que OSRM no enruta, se trazan rectos desde el final del
-asfalto del D4 (`mapa.arena_sossusvlei`) — el único firme del viaje que no sale del enrutado.
+asfalto del D4 (`mapa.arena_sossusvlei`) — el único firme del viaje que no sale del enrutado. **Qué
+día es «el D4» lo dice `trazado.dia_de_arena()`** —el que pasa por `sossusvlei`— y los tres de
+safari, `trazado.dias_de_safari()` —los que arrancan y acaban en Etosha—: hasta el 11/10 la lámina,
+el mapa, la agenda y `comprobar.py` llevaban esos números escritos a mano, cada uno el suyo.
 Encima van **los escudos de carretera** *(`rotulos_carreteras`: un escudo por tramo largo con el
 mismo `ref`, uno cada ~150 km en los muy largos, nunca dos del mismo número a menos de 60 km y
 ninguno dentro de Etosha, donde es pista)*, **las distancias entre paradas** *(`tramos_entre_paradas`:
@@ -342,11 +345,13 @@ la segunda línea** del bloque Mermaid, y **todo precio en N$ con su € al lado
 09/10 cada N$ necesita un € propio, detrás de él antes del siguiente N$ y a no más de 40
 caracteres, o pegado delante si ningún otro lo ha usado. Antes valía cualquier € a 80 caracteres y
 en «N$1.740/persona → N$3.480 (~€174)» el segundo tapaba al primero: 30 precios pasaban así.
-Lo del euro se comprueba solo en los documentos que se leen sobre el terreno —`01`, `03`, `13`,
-`18`, `21` y `22`— y en el cuaderno de reservas —`20`, que se lee con la tarjeta en la mano—, porque los de
-investigación citan cifras para desmentirlas *(«N$150 es lo que repiten los blogs»)* y tarifas que
+Lo del euro se comprueba en **todos los documentos numerados menos los de investigación** —`02`,
+`07`, `11`, `12`, `15` y `16`, la lista `DE_INVESTIGACION`— y menos el README, porque ésos citan
+cifras para desmentirlas *(«N$150 es lo que repiten los blogs», «N$1.600, no N$880»)* y tarifas que
 no nos aplican: exigirles el euro llenaría la comprobación de avisos falsos, y una comprobación
-que grita sin motivo se acaba ignorando.
+que grita sin motivo se acaba ignorando. *(Hasta el 11/10 la lista era al revés —los siete que se
+leen sobre el terreno— y el `08`, el `10`, que alimenta la agenda, el `17` y el `06` quedaban fuera
+sin motivo; un documento nuevo también.)*
 
 Y cuatro más que estaban sin escribir aquí: que **el día a día del `01` cuadre con OSRM**
 *(`revisa_dia_a_dia`: cada `### Dn` con kilómetros contra `geo/ruta.json` — la gemela de la de la
@@ -360,6 +365,18 @@ llevar `fecha.FECHA` *(la guía de fauna no la imprime)* y las fechas del viaje;
 comparaba fecha.py con el README, y subir las dos sin regenerar nada pasaba en verde. Que **el `01` conserve los dos
 encabezados entre los que `agenda.py` recorta el día a día, y el `10` sus quince `### Dn ·`**; y que
 **los 22 documentos tengan título**.
+
+Y **que los números que el build copia a mano del dossier estén en algún documento**
+(`revisa_literales_copiados`, desde el 11/10): la banda de reglas de la lámina —horas de puerta,
+teléfonos, el 29 %— y la intro de Etosha de la guía de fauna (`textos_etosha.INTRO_EXTRA`) llevan
+datos tecleados que el propio código decía que nadie cotejaba; cada hora, teléfono, porcentaje y
+precio suyo tiene que aparecer en un `NN-*.md` *(el bloque del nocturno de la guía no entra: las
+tarifas de Hobatere y Ongava son suyas, con su fuente en `FUENTES_ETOSHA`)*. Y **que las intros de
+la guía de fauna cuenten las fichas que hay** (`revisa_intros_guia`): «Treinta y dos fichas»,
+«Cuarenta rapaces», «aquí van seis», «Las otras trece», y las cifras de GBIF que citan —la cebra de
+Hartmann, los tres de mar, la grulla carunculada— contra `geo/avistamientos.json`. *(Ese mismo
+día se vio que la guía seguía diciendo que el nocturno de NWR «se cayó del plan el 24/08», cuando
+el `01` lo había corregido el 28/08: se compra el D10 en Okaukuejo y el D11 en Halali.)*
 
 **Los derivados se comparan byte a byte, desde el 25/09** (`revisa_derivados`): el GPX y el KML
 del GPS, los tres de My Maps, el estudio de charcas y, desde el 09/10, **los cuatro SVG de
@@ -431,5 +448,6 @@ el PNG.)* Si una
 comprobación depende de un literal del markdown y el literal cambia, tiene que avisar de que se ha
 quedado ciega — un tick verde sin haber medido es peor que ninguna comprobación.
 
-Las mismas comprobaciones corren solas en cada push (`.github/workflows/comprueba.yml`). No
-regeneran los PDF —eso pide Chrome y red—: vigilan que lo commiteado sea coherente.
+Las mismas comprobaciones corren solas en cada push (`.github/workflows/comprueba.yml`), y antes
+`pyflakes` sobre `fuente/*.py` —imports muertos, nombres que no existen—. No regeneran los PDF
+—eso pide Chrome y red—: vigilan que lo commiteado sea coherente.

@@ -108,7 +108,7 @@ de DEET)*; lo de cabina, no.
       —Spreetshoogte N$580 (~€29) si no está pagado, la reserva de efectivo que NWR pide en
       Sesriem, leña y lanzadera—, porque **hasta Walvis Bay (D5) no hay cajero fiable** *(el Cash
       Express de Solitaire es un bonus, no un plan)*. **Cape Cross y Twyfelfontein cobran solo en
-      efectivo** *(~N$620 + ~N$540 · ~€31 + ~€27 los dos)*: se recarga en Walvis o Henties Bay el
+      efectivo** *(~N$620 · ~€31 + ~N$540 · ~€27 los dos)*: se recarga en Walvis o Henties Bay el
       D5–D7, el último cajero antes de Kamanjab
 - [ ] **Fotocopias de todo** ×1 juego, en bolsa aparte del original ○
 - [ ] Fotos de todo en el móvil, **descargadas para verlas sin cobertura** ○

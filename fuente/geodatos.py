@@ -257,6 +257,9 @@ def tramos():
         url = (f"https://router.project-osrm.org/route/v1/driving/{coords}"
                "?overview=false&steps=true&geometries=geojson&annotations=false")
         d = json.loads(pide(url, timeout=120))
+        if d.get("code") != "Ok":
+            raise SystemExit(f"   !! {etapa['id']}: OSRM dice {d.get('code')} — no se escribe "
+                             f"tramos.json a medias")
         tr = []
         for leg in d["routes"][0]["legs"]:
             for st in leg["steps"]:

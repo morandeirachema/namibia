@@ -708,7 +708,10 @@ def main():
     paginas = imprimir.indice_de_paginas(salida_pdf, MARCAS_PAGINA)
     faltan = [k for k in MARCAS_PAGINA if k not in paginas]
     if faltan:
-        print(f"   aviso: sin página para {', '.join(faltan)}")
+        # el indice saldria con esa linea sin numero de pagina y nada mas lo diria: hasta el
+        # 11/10 era un aviso por stdout, perdido entre la salida del build
+        raise SystemExit(f"dossier: la primera pasada no encuentra en el PDF la marca de "
+                         f"{', '.join(faltan)} — el indice se quedaria sin su pagina")
     print("Pasada 2 · escribiendo los números en el índice…")
     open(salida_html, "w").write(html_completo(paginas))
     imprimir.a_pdf(salida_html, salida_pdf, izquierda="Namibia 2026 · el dossier del viaje",
