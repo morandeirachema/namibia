@@ -1484,9 +1484,13 @@ def revisa_literales_copiados():
     import lamina
     import textos_etosha
     import textos_safari
+    # el estudio de las charcas copia a mano los precios de las actividades de Onguma y de los
+    # campamentos del oeste (estudio_charcas.cola); sus porcentajes son datos del cache y no entran
+    charcas = re.sub(r"\d+(?:,\d+)? %", "", _doc(os.path.join("aparte", "charcas-de-los-campamentos-de-etosha.md")))
     textos = {"lamina.REGLAS": " ".join(x for _c, _t, x in lamina.REGLAS),
               "textos_etosha.INTRO_EXTRA": textos_etosha.INTRO_EXTRA,
-              "textos_safari.CONSEJOS": textos_safari.CONSEJOS}
+              "textos_safari.CONSEJOS": textos_safari.CONSEJOS,
+              "aparte/charcas (precios)": charcas}
     docs = "\n".join(_doc(f) for f in os.listdir(RAIZ) if re.match(r"\d\d-.*\.md$", f))
     docs = docs.replace("\u00a0", " ")
     velocidades = {f"{v:.0f}" for v in trazado.VELOCIDAD.values()}
@@ -1504,8 +1508,8 @@ def revisa_literales_copiados():
         for f in fallos:
             mal(f)
     else:
-        bien(f"literales copiados: los {cotejados} datos de la lamina y de la guia de fauna "
-             f"(la intro de Etosha y los consejos de safari) estan en algun documento")
+        bien(f"literales copiados: los {cotejados} datos de la lamina, de la guia de fauna (la intro "
+             f"de Etosha y los consejos de safari) y del estudio de charcas estan en algun documento")
 
 
 # Lo que las introducciones de la guia de fauna dicen a mano del catalogo y de GBIF: cuantas
