@@ -21,7 +21,7 @@
 >
 > *Levantada el 05/08/2026 · completada con cantidades el 06/08/2026 · puesta al 09/10/2026 (la
 > pauta entera de Malarone, el protocolo de serpiente, lo que no consta pedido, y lo que la lista
-> decía distinto que el `20`)*
+> decía distinto que el `20`) · y al 17/10 (lo que de la compra de Decathlon ya estaba en casa)*
 
 ---
 
@@ -53,13 +53,14 @@ de DEET)*; lo de cabina, no.
 
 - [ ] **Petate blando 60-80 L ×1 p.p.** — **[Altus Petate 70](https://www.decathlon.es/es/p/bolsa-de-viaje-duffle-bag-70l-altus-petate-70-cd/_/R-p-X8978467)**
       ✅ 53,99 € *(o, con más margen para la vuelta, [Forclaz 80L/120L expandible](https://www.decathlon.es/es/p/bolsa-de-viaje-80l-120l-duffle-bag-forclaz/_/R-p-156360)
-      ✅ 79,99 €)*
+      ✅ 79,99 €)*. **Ya en posesión los dos (17/10)** ○ — no hace falta comprar
 - [ ] **Daypack 20-25 L ×1 p.p.** — **[Quechua MH100, 20 L](https://www.decathlon.es/es/p/mochila-de-senderismo-20l-nh100-arpenaz-beige/_/R-p-301674)**
-      ✅ 24,99 €, homologada como equipaje de mano
+      ✅ 24,99 €, homologada como equipaje de mano. **Ya en posesión los dos (17/10)** ○ — no hace
+      falta comprar
 - [ ] Neceser **colgable** ×1 ○ — no hay repisa garantizada. Modelo: **[Forclaz Ultralight](https://www.decathlon.es/es/p/neceser-plegable-de-viaje-forclaz-ultralight/_/R-p-173360)**
       ✅ 9,99 €, 43 g
 - [ ] **Bolsa estanca ×1** para la electrónica ○ — **[Tribord 10 L, IPX6](https://www.decathlon.es/es/p/bolsa-estanca-caqui-2-puntos-ipx6-10-litros/349371/c241m9002201)**
-      ✅ 14,99 €
+      ✅ 14,99 €. **Ya en posesión (17/10)** ○ — no hace falta comprar
 
 ---
 
@@ -150,14 +151,16 @@ de DEET)*; lo de cabina, no.
       [Merino REC Fresh](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-lana-merina-reciclada-hombre-merino-rec-fresh/364687/c372m8939992),
       que era la recomendada aquí)* **y 1 de Patagonia** ○. *La merina aguanta varias puestas sin
       oler: es exactamente lo que compra este viaje, con **una sola colada en quince días**
-      (`05`).* **Faltan 2 para llegar a cinco** — sintéticas normales valen: la **[Quechua
-      MH100](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-manga-corta-hombre-quechua-mh100/106632/c242m8612133)**
-      ◐ 6,99 € *(100 % poliéster, secado rápido)* o cualquiera de casa. *(La **[Forclaz
+      (`05`).* **Faltan 2 para llegar a cinco, y desde el 17/10 son de merina
+      también** ○ — las cinco, merinas: la **[Forclaz
       Resist](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-manga-corta-lana-merino-hombre-forclaz-resist/356413/c383c382m8976797)**
-      que se citaba aquí **no es sintética: es merina** —fibra envuelta en poliamida— ◐ 34,99 €;
-      vale si se quiere una cuarta merina.)* ⚠️ Y una nota de uso: la merina **se seca más despacio** que la
-      sintética, así que si la colada del D5–D6 se hace a mano, se tiende **la primera noche de
-      Walvis Bay, no la segunda** ○ *(si va a la lavandería, vuelve seca)*
+      ◐ 34,99 €/ud *(69,98 € las dos; fibra merina envuelta en poliamida)* · o dos más de la
+      [Merino REC Fresh](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-lana-merina-reciclada-hombre-merino-rec-fresh/364687/c372m8939992),
+      como las de casa ❌ *(precio sin leer)*. *(Hasta el 17/10 aquí valían sintéticas normales
+      —la [Quechua MH100](https://www.decathlon.es/es/p/camiseta-de-montana-y-trekking-manga-corta-hombre-quechua-mh100/106632/c242m8612133)
+      ◐ 6,99 €—, y la Forclaz Resist se citaba como sintética: es merina.)* ⚠️ Y una nota de
+      uso: la merina **se seca más despacio** que la sintética, así que si la colada del D5–D6 se
+      hace a mano, se tiende **la primera noche de Walvis Bay, no la segunda** ○ *(si va a la lavandería, vuelve seca)*
 - [ ] **Camisas de manga larga ligeras ×2** — sol de mediodía y mosquitos del anochecer.
       **Una resuelta (21/08): [Craghoppers NosiLife Adventure III](https://www.craghoppers.com/mens-nosilife-adventure-long-sleeved-shirt-iii-parchment/)**
       ✅ — es **la** camisa de este viaje y merece explicación: **el tejido lleva repelente de
@@ -179,10 +182,11 @@ de DEET)*; lo de cabina, no.
       pernera corta de los desmontables ya cubre el hueco — no hace falta comprar más
 - [ ] **Ropa interior ×7** — sintética de secado rápido: **[Kalenji Dry+ bóxer](https://www.decathlon.es/es/p/calzoncillo-boxer-deportivo-transpirable-hombre-negro/_/R-p-121488)**
       ❌ *(precio sin verificar hoy; alternativa merina, misma lógica que la camiseta REC Fresh:
-      [Forclaz Trek500 merina](https://www.decathlon.es/es/p/calzoncillos-boxer-montana-y-trekking-lana-merina-hombre-forclaz-trek500/306561/c405m8751633))*
+      [Forclaz Trek500 merina](https://www.decathlon.es/es/p/calzoncillos-boxer-montana-y-trekking-lana-merina-hombre-forclaz-trek500/306561/c405m8751633))*.
+      **Ya en posesión (17/10)** ○ — no hace falta comprar
 - [ ] **Calcetines finos ×6 pares** — **[Hike 500 mid, pack de 2](https://www.decathlon.es/es/p/calcetines-mid-de-senderismo-2-pares-adultos-hike-500-rojo/330181/c14m8965692)**
-      ◐ ~12,99 € *(dato de rebaja sin fecha fija, no es lectura de hoy)* + **1 par gordo** para las
-      noches de la costa — **[Quechua SH900 Mid, pack de 2
+      ◐ ~12,99 € *(dato de rebaja sin fecha fija, no es lectura de hoy)*. **Los finos, ya en posesión
+      (17/10)** ○; falta **1 par gordo** para las noches de la costa — **[Quechua SH900 Mid, pack de 2
       pares](https://www.decathlon.es/es/p/calcetines-calidos-de-senderismo-sh900-mid-x2-pares/_/R-p-336930)**
       ◐ 24,99 € *(88 % lana, rizo grueso; el segundo par, para el otro)*
 - [ ] **Forro polar ×1** — la mínima más baja del viaje son **12,7 °C** en la costa ✅. **Ya en
@@ -203,7 +207,8 @@ de DEET)*; lo de cabina, no.
       y camiseta térmica **Under Armour** ○ — no hace falta comprar nada
 - [ ] **Bañador ×1** — hay piscina en **Okaukuejo y Halali**, las dos noches de dentro ✅ *(en
       **Onguma Tamboti**, donde se duermen el D12 y el D13, la piscina es de Onguma Bush Camp y
-      sirve a la otra parcela, Leadwood — no a la vuestra ◐)*. Si no hay uno en casa:
+      sirve a la otra parcela, Leadwood — no a la vuestra ◐)*. **Ya en posesión (17/10)** ○ — no hace falta comprar; el que se
+      proponía:
       **[Olaian 100, corto](https://www.decathlon.es/es/p/banador-hombre-corto-surf-olaian-100-16-palm/_/R-p-170271)**
       ◐ 7,99 €, ligero y con forro
 - [ ] **Ropa de dormir ligera ×1** — si no vale la de casa: **[pijama corto de algodón, 2
@@ -215,7 +220,8 @@ de DEET)*; lo de cabina, no.
       los ≥7,5 cm; si se queda corta, es el único punto de este ítem donde tocaría decidir entre
       comprar uno nuevo o asumir menos protección en cuello y orejas
 - [ ] **Buff o pañuelo ×2** ✅ — polvo de la grava, viento de la costa y el olor de Cape Cross.
-      **Ya en posesión: uno negro** ○; el segundo, de color safari, a comprar — modelo:
+      **Ya en posesión: uno negro** ○, **y el segundo también (17/10)** ○ — no hace falta comprar.
+      Se proponía, de color safari:
       **[Forclaz MT100](https://www.decathlon.es/es/p/braga-cuello-montana-y-trekking-mt100-rojo/330154/c331c106c83m8616253)** ◐ ~3,99 €/ud *(dos fichas de color coinciden en el precio)*
 - [ ] **Gafas de sol ×1** — «protección real» tiene nombre: **UV400, marcado CE (EN ISO 12312-1)
       y filtro de categoría 3** ◐ — la 4 no vale para conducir. Mejor envolventes, por la arena en
@@ -245,7 +251,7 @@ ya hace el apaño.
       gris](https://www.decathlon.es/es/p/chanclas-piscina-hombre-pala-gris/_/R-p-149116)** ◐
       5,99 € *(EVA, suela perforada que escurre)* · o la **[Nabaiji de pala con insertos de
       goma](https://www.decathlon.es/es/p/chanclas-pala-piscina-hombre-nabaiji/_/R-p-3659)** ◐
-      9,99 €, que agarra mejor en el suelo mojado de la ducha
+      9,99 €, que agarra mejor en el suelo mojado de la ducha. **Ya en posesión (17/10)** ○ — no hace falta comprar
 - [ ] **Calcetines viejos ×2 pares p.p., para la duna** ◐ — Big Daddy se sube y se baja **en
       calcetines, con las botas en el daypack**: a media mañana la arena ya quema *(lo repiten
       las crónicas de la duna: [anywhereweroam](https://anywhereweroam.com/big-daddy-dune/) ·
@@ -302,7 +308,7 @@ ya hace el apaño.
 - [ ] **Tapones para los oídos ×1 par p.p.** ○ · **antifaz ×1 p.p.** ○ — lona al viento y amanecer
       a las 06:07. Modelos: **[16 tapones de silicona + 3 estuches](https://www.amazon.es/dp/B0DVLY85FZ)**
       ✅ 8,99 € (para los dos, Amazon) y **[antifaz Forclaz Travel 500](https://www.decathlon.es/es/p/antifaz-para-dormir-de-viaje-travel-500-negro/352759/c1m8871934)**
-      ✅ 9,99 €/ud (19,98 € los dos)
+      ✅ 9,99 €/ud (19,98 € los dos). **Los antifaces, ya en posesión (17/10)** ○
 - [ ] Bolsas de basura ×5, **ziplocs ×10** y **×4 grandes tipo escombro para enfundar los petates
       en la caja del pick-up** ◐ *([Expert Africa](https://www.expertafrica.com/namibia/info/namibia-holiday-and-safari-packing-list) y [FullSuitcase](https://fullsuitcase.com/namibia-packing-list/) las piden así)*.
       **[Albal Ultra-Zip 3 L, 15 bolsas](https://www.amazon.es/dp/B0B5HTRZGJ)** ✅ 5,97 € *(o la
@@ -319,6 +325,7 @@ ya hace el apaño.
       Y **[tendedero de camping 5 m
       Quechua](https://www.decathlon.es/es/p/tendedero-para-camping-5-m-quechua/323789/c251c227m8578470)**
       ✅ 4,99 € — trae 20 perlas integradas que sujetan la ropa: **no hacen falta pinzas aparte**.
+      **Ya en posesión (17/10)** ○.
       El respaldo a mano de la colada *(la cómoda es la lavandería, en Swakopmund o en Walvis Bay ◐ —
       [`05`](05-equipaje.md))*
 
@@ -739,7 +746,7 @@ teléfonos toxicológicos, con los de emergencia del [`07`](07-logistica.md).
       **comprobarlo en casa al probar el modo rojo, y si algo gasta otro formato, apuntarlo
       aquí**. **[Forclaz alcalinas AAA, pack de
       12](https://www.decathlon.es/es/p/pilas-alcalinas-camping-forclaz-aaa-lr03-lote-x12-unidades/11921/m8058023)**
-      ✅ 4,99 € — repartidas medio pack en el neceser y medio en la guantera ○: en la grava a las
+      ✅ 4,99 €. **Ya en posesión (17/10)** ○ — no hace falta comprar — repartidas medio pack en el neceser y medio en la guantera ○: en la grava a las
       3 AM no hay tienda abierta, y el calor del maletero castiga menos a la alcalina si va en
       la cabina
 - [ ] **Satelital con SOS** ✅ — reservado y pagado como extra del alquiler de Savanna *(`20` §1)*
@@ -782,13 +789,11 @@ este dossier. Lo que de la cámara es **equipaje** (cuerpo, objetivos, baterías
 normas de cabina) está arriba, al final de Electrónica.*
 
 - [ ] **Prismáticos ×1 por persona** ○ — compartir unos en una charca es pelearse, y viajan **en el
-      asiento, no en el maletero** ✅. **Actualizado el 21/08: hay unos prestados** ○ — **con eso el
-      ítem queda a medias, no cerrado**: siguen haciendo falta **dos**, uno por cabeza, que es
-      justo el motivo de este punto. ❌ *Marca, aumentos y diámetro de los prestados, sin apuntar:
-      míralo en el tubo —dirá algo como «8x42» o «10x50»— porque decide qué conviene para el
-      segundo par.* Y **pruébalos en casa antes de meterlos**: enfoque, dioptrías y que no bailen
+      asiento, no en el maletero** ✅. **Cerrado el 17/10: los dos pares, ya en posesión** ○ — unos prestados *(desde el 21/08)* y el
+      segundo; no hace falta comprar. ❌ *Marca, aumentos y diámetro de los dos, sin apuntar:
+      míralo en el tubo —dirá algo como «8x42» o «10x50».* Y **pruébalos en casa antes de meterlos**: enfoque, dioptrías y que no bailen
       las lentes.
-      Modelos verificados para el par que falta — recomendado el **8x42** para la
+      Los modelos que se proponían para el segundo par — recomendado el **8x42** para la
       charca de noche: pupila de salida 5,25 mm frente a 4,2 mm del 10x42, se nota en luz baja.
       **[Solognac 500 8x42](https://www.decathlon.es/es/p/prismaticos-caza-solognac-500-8x42-caqui-estancos/_/R-p-327243)**
       ✅ 139,99 €/ud *(FMC, 77 % transmisión)* · más barato, **[Solognac 100
@@ -848,7 +853,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
 - [ ] **Termo ×1** ◐ — el café del amanecer en el mirador y las esperas de charca; es lo único de
       cocina que el menaje del coche no trae *([Bushlore](https://bushlore.com/wp-content/uploads/2018/05/Self-Drive-Safari-Planning-Guide.pdf) y Gondwana lo piden expresamente)*.
       Modelo: **[Quechua MH900, acero inoxidable, 1 L](https://www.decathlon.es/es/p/botella-termica-de-montana-y-trekking-acero-inoxidable-1l-quechua-mh900/341498/c261m8750954)**
-      ✅ 24,99 €
+      ✅ 24,99 €. **Ya en posesión (17/10)** ○ — no hace falta comprar
 - [ ] **Multiherramienta ×1** — **facturada, jamás en cabina** ○. **Ya en posesión** ○ — no hace
       falta comprar
 - [ ] **Navaja ×1** — **facturada, jamás en cabina** ○. **Ya en posesión: hay una en el equipaje**
@@ -866,7 +871,7 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       10,07 € (Amazon, 05/10) — sin bola dentro, así que ni el polvo ni el agua lo atascan · o,
       barato, el **[silbato de salvamento N-1B con
       cordón](https://www.decathlon.es/es/p/mp/silbato-salvamento-y-emergencias-n-1b-rojo-con-cordon/1371a833-eacd-4ab5-91f9-c8ac4b30d75d/c14)**
-      ◐ 2,90 € (marketplace de Decathlon)
+      ◐ 2,90 € (marketplace de Decathlon). **Ya en posesión (17/10)** ○ — no hace falta comprar
 - [ ] **Guantes de trabajo ×1 par POR PERSONA** ○ — subidos de uno a dos el 25/08: **si hay que
       cavar o empujar, se cava y se empuja entre dos**. Sirven para el pinchazo del mediodía *(la
       llanta y el gato queman a 35–38 °C, y el `13` cuenta con «un pinchazo = +1 h»)*, para
@@ -914,14 +919,14 @@ pagados con el coche—, **ni esterilla, ni cacharros.** Lo que sí sube al peta
       a 35–38 °C el agua de la botella normal se bebe caliente en una hora *(una de las listas del
       barrido pedía botella reutilizable por persona; la térmica es la versión que aguanta este
       calor)*. Modelo: **[Quechua Cantimplora 900, isotérmica, inox, 0,8 L](https://www.decathlon.es/es/p/cantimplora-900-isotermica-inox-0-8l-tapon-apertura-rapida-para-senderismo/301275/)**
-      ✅ 14,99 €/ud
+      ✅ 14,99 €/ud. **Ya en posesión las dos (17/10)** ○ — no hace falta comprar
 - [ ] **Bolsa de hidratación 3 L ×1 p.p.** ○ — la respuesta a una cuenta que la lista ya hacía
       sin resolverla: el kit de Deadvlei manda **3 L por persona en el daypack** y la botella de
       arriba solo carga 0,8. Se rellena de las garrafas la víspera, va pegada a la espalda
       *(fresca al amanecer, que es cuando se sube)* y deja las manos libres en Big Daddy.
       Modelo: **[Forclaz MT500, 3 L](https://www.decathlon.es/es/p/bolsa-de-agua-3-litros-forclaz-mt500/_/R-p-306517)**
       ❌ *(precio sin leer en vivo — el bloqueo Cloudflare de Decathlon, como en la pasada del
-      12/08)*. **Comprobar en casa** que cabe en el daypack con el tubo por fuera ○ — y a secarla
+      12/08)*. **Ya en posesión las dos (17/10)** ○. **Comprobar en casa** que cabe en el daypack con el tubo por fuera ○ — y a secarla
       abierta tras cada uso, que a 35 °C lo húmedo cerrado cría de todo
 - [ ] **Bolsa de basura en la puerta** ○ — en los parques la basura vuelve contigo
 - [ ] **Ziplocs para la Línea Roja** ✅ — los restos de carne no bajan del norte
