@@ -1,6 +1,6 @@
 # Namibia 2026 · el dossier
 #
-#   make            los cuatro PDF y los derivados que no piden red (GPX, My Maps, charcas)
+#   make            los cinco PDF y los derivados que no piden red (GPX, My Maps, charcas)
 #   make imagenes   descarga las fotos del catalogo (Wikimedia Commons) a img/
 #   make geo        descarga y cachea la geometria de los mapas a fuente/geo/
 #   make avistam    recuentos de GBIF y porcentajes por campamento
@@ -11,9 +11,11 @@
 #   make fauna      solo guia-fauna-namibia.pdf
 #   make lamina     mapa-ruta-namibia-2026.pdf, la lamina A2 para imprimir
 #   make agenda     agenda-namibia-2026.pdf, el dia a dia del `01` y nada mas, dos A4 por dia
+#   make viaje      guia-de-viaje-namibia-2026.pdf, el dossier de mano: sin precios ni reservas,
+#                   y la guia de fauna detras
 #   make gps        el GPX y el KML de la ruta, para el GPS y el movil
 #   make lista      el `17` y la compra del D1 del `08`, para marcar en el movil (se publican como Artifact)
-#   make todo       de cero: imagenes + geo + avistamientos + mapas + los cuatro PDF
+#   make todo       de cero: imagenes + geo + avistamientos + mapas + los cinco PDF
 #   make comprueba  imagenes, licencias, geometria, avistamientos, escala y README
 #   make pruebas    las pruebas unitarias de las funciones puras (sol y luna, firme, Wilson…)
 #   make hooks      instala el pre-push que pasa pyflakes y `make comprueba` antes de cada push
@@ -31,11 +33,11 @@ RAIZ    := $(abspath ..)
 IMG     := $(RAIZ)/img
 GEO     := geo
 
-.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda gps lista limpia comprueba hooks pruebas
+.PHONY: all todo imagenes geo avistam mapas charcas mymaps dossier fauna lamina agenda viaje gps lista limpia comprueba hooks pruebas
 
-all: gps mymaps charcas dossier fauna lamina agenda
+all: gps mymaps charcas dossier fauna lamina agenda viaje
 
-todo: imagenes geo avistam mapas mymaps charcas dossier fauna lamina agenda gps
+todo: imagenes geo avistam mapas mymaps charcas dossier fauna lamina agenda viaje gps
 
 imagenes:
 	$(PY) descargar.py
@@ -58,6 +60,11 @@ dossier: | $(IMG)/creditos.json $(GEO)/ruta.json
 
 fauna: | $(IMG)/creditos.json $(GEO)/avistamientos.json
 	$(PY) guia_fauna.py
+
+# La guia de viaje es el dossier sin precios ni reservas y con la guia de fauna detras:
+# pide lo de los dos.
+viaje: | $(IMG)/creditos.json $(GEO)/ruta.json $(GEO)/avistamientos.json
+	$(PY) guia_viaje.py
 
 # La lamina solo necesita la geometria: ni fotos ni avistamientos.
 lamina: | $(GEO)/ruta.json
@@ -112,4 +119,4 @@ hooks:
 	@echo "pre-push instalado: pyflakes y make comprueba antes de cada push"
 
 limpia:
-	rm -f dossier.html guia-fauna.html lamina.html agenda.html
+	rm -f dossier.html guia-fauna.html lamina.html agenda.html guia-de-viaje.html

@@ -9,11 +9,12 @@ fuente · **❌** sin verificar. Un hueco reconocido vale más que un número pl
 
 ```
 cd fuente
-make            los cuatro PDF y los derivados sin red: GPX, My Maps y el estudio de charcas
+make            los cinco PDF y los derivados sin red: GPX, My Maps y el estudio de charcas
 make dossier    solo el dossier
 make fauna      solo la guía de campo
 make lamina     solo la lámina de ruta (A2, una hoja)
 make agenda     solo la agenda (el día a día del `01`, dos A4 por día: mapa y explicación)
+make viaje      solo la guía de viaje (el dossier de mano: sin precios ni reservas, y la fauna detrás)
 make avistam    recuentos de GBIF y porcentajes por campamento (las 4 zonas de la ruta)
 make mymaps     los CSV y el KML de `aparte/` para Google My Maps
 make gps        el GPX y el KML de la ruta, para el GPS y el móvil
@@ -25,7 +26,7 @@ make geo        baja y cachea la geometría de `fuente/geo/` (red: OSRM, Overpas
 make comprueba  las comprobaciones de abajo
 make pruebas    las pruebas unitarias de las funciones puras (`fuente/pruebas.py`)
 make hooks      instala el pre-push que pasa pyflakes, `make pruebas` y `make comprueba` antes de cada push
-make todo       de cero: imágenes, geometría, avistamientos, mapas y los cuatro PDF
+make todo       de cero: imágenes, geometría, avistamientos, mapas y los cinco PDF
 make limpia     borra el HTML intermedio
 ```
 
@@ -117,6 +118,35 @@ Crocodile Farm, los meteoritos de Gibeon…)*; **sin coordenada, y por tanto fue
 seis**: el Urban Camp, Anchors @ the Jetty, el delta del Uniab, el lago Otjikoto, el memorial de
 Khorab y el Telephone Man. Los desvíos que el `10` cita *(Petrified Forest +60 km, Hoba +93,
 Peet Alberts +4)* se midieron metiendo el punto en la etapa de OSRM y restando.
+
+## La guía de viaje, que es el dossier de mano sin dinero
+
+`guia_viaje.py` (`make viaje`) → `guia-de-viaje-namibia-2026.pdf`: lo que se consulta **sobre el
+terreno**, sin un precio ni una reserva, y **con la guía de fauna entera detrás**. Pedida el 18/10
+para llevarla en la mano en Namibia sin las hojas de presupuesto, tarifas y trámites. Lleva la
+portada, el índice, los tres mapas del dossier, el `01`, el `06`, el `18`, el `21`, el `22`, el
+`23`, el `07`, el `08`, el `19` y el `10` (`PARTES`), y la portadilla y las fichas de la guía de
+fauna. Los números de documento son los del dossier, para que «ver `06`» siga valiendo.
+
+**No se escribe nada a mano**: es el mismo markdown, recortado en dos capas.
+- **Secciones enteras** que no entran, por un trozo del encabezado (`SECCIONES_FUERA` y
+  `FUERA_SIEMPRE`: el coste, lo pendiente, la deliberación del principio del `01`, el estado de
+  las noches, los «🕳️ Lo que no se pudo verificar» y las «Fuentes»). Valen también para las
+  secciones que van dentro de una cita (`> ### …`), que es como el `01` escribe las suyas.
+- **Dentro de la frase**, `sin_precios.py`: primero los paréntesis y los incisos «—…—» con precio,
+  reserva, remisión a un documento que no entra o fecha de trabajo del dossier; después, lo que aún
+  lleve precio o reserva se parte por niveles —frase, «;», raya, «:», «·», coma— y **se quita solo
+  el trozo**. Lo que cuelga de una cabeza quitada (tras «;», raya, «:» o coma) se va con ella, y lo
+  que se queda solo y corto al lado de lo quitado —«— súmalo», «para vuestras fechas»— también,
+  salvo que lleve una cifra. Solo se borra texto: las etiquetas se quedan y el HTML no puede salir
+  desparejado. En los Mermaid se quita la línea de la etiqueta (entre `<br/>`); los SVG no se tocan.
+
+Qué cuenta como precio y como reserva está en `PRECIO` y `RESERVA` —**la reserva natural no**: la
+«reserva privada» de Onguma, la «Nature Reserve», el agua «de reserva»— y **lo único que se queda
+aunque nombre una reserva** está en `CONSERVA`: en Ugabmund no se entra a dormir sin la de Terrace
+Bay confirmada, y eso es una regla de la puerta, no un trámite. `guia_viaje.py` **no imprime** si su
+HTML conserva algo (`sin_precios.restos`), y `revisa_guia_sin_precios` lo vuelve a buscar en el PDF
+impreso, con las palabras partidas por el guion de fin de línea ya pegadas.
 
 ## La lista del `17`, para marcar en el móvil
 

@@ -863,7 +863,7 @@ def _texto_pdf(ruta, primera=None, ultima=None):
         return None
 
 
-# Los cuatro PDF y lo que cada uno imprime de fecha.py en sus dos primeras paginas: la
+# Los cinco PDF y lo que cada uno imprime de fecha.py en sus dos primeras paginas: la
 # fecha de generacion —en el pie de los tres que la llevan; la guia de fauna no la
 # imprime— y las fechas del viaje, que las cuatro portadas dan sin el año («[:-8]» quita
 # « de 2026») salvo la de la guia, que las da enteras y en versalita.
@@ -872,6 +872,7 @@ FECHAS_IMPRESAS = {
     "agenda-namibia-2026.pdf":    (True, fecha.VIAJE[:-8]),
     "mapa-ruta-namibia-2026.pdf": (True, fecha.VIAJE[:-8]),
     "guia-fauna-namibia.pdf":     (False, fecha.VIAJE),
+    "guia-de-viaje-namibia-2026.pdf": (True, fecha.VIAJE[:-8]),
 }
 
 
@@ -937,6 +938,11 @@ FUENTES_PDF = {
                                "fuente/estilo", "fuente/tipos", "fuente/geo/avistamientos.json",
                                "fuente/geo/ruta.json", "fuente/geo/parques.json",
                                "img/creditos.json"),
+    "guia-de-viaje-namibia-2026.pdf": ("[0-9][0-9]-*.md", "fuente/*.py", "fuente/estilo",
+                                       "fuente/tipos", "fuente/geo", "img/creditos.json",
+                                       ":!fuente/comprobar.py", ":!fuente/pruebas.py",
+                                       ":!fuente/estudio_charcas.py", ":!fuente/gps.py",
+                                       ":!fuente/mapas_google.py", ":!fuente/lista_web.py"),
 }
 
 
@@ -1567,6 +1573,36 @@ def revisa_intros_guia():
              f"y en el cache")
 
 
+def revisa_guia_sin_precios(nombre="guia-de-viaje-namibia-2026.pdf"):
+    """Que la guía de viaje no lleve impreso ni un precio ni una reserva.
+
+    Es lo que la define: el dossier de mano, sin dinero ni trámites. `guia_viaje.py` ya se
+    niega a imprimir si su HTML conserva algo, pero esto lee lo IMPRESO —pdftotext de todo
+    menos la portada y el índice, que dicen «sin precios ni reservas» a propósito—, con el
+    mismo detector (`sin_precios.restos`) y las palabras partidas por el guion de fin de
+    línea ya pegadas: «reser‐\nvado» tiene que contar.
+    """
+    import sin_precios
+    ruta = os.path.join(RAIZ, nombre)
+    if not os.path.exists(ruta):
+        return mal(f"no existe {nombre}")
+    paginas = _paginas(ruta)
+    if paginas is None:
+        return
+    texto = _texto_pdf(ruta, 3, paginas)
+    if texto is None:
+        return
+    if not texto.strip():
+        return mal(f"{nombre}: pdftotext no saca texto de las paginas 3 a {paginas}")
+    texto = re.sub(r"[‐-]\n(?=[a-záéíóúñ])", "", texto)
+    quedan = sin_precios.restos(texto)
+    if quedan:
+        for r in quedan[:8]:
+            mal(f"{nombre} lleva impreso un precio o una reserva: «{r.strip()}»")
+    else:
+        bien(f"{nombre}: ni un precio ni una reserva en sus {paginas - 2} paginas de contenido")
+
+
 def revisa_pdf(nombre, minimo):
     ruta = os.path.join(RAIZ, nombre)
     if not os.path.exists(ruta):
@@ -1729,7 +1765,8 @@ def revisa_paginas_readme():
     """El README anuncia cuantas paginas tiene cada PDF: que no se quede desfasado."""
     texto = _doc("README.md")
     for nombre in ("dossier-namibia-2026.pdf", "guia-fauna-namibia.pdf",
-                   "mapa-ruta-namibia-2026.pdf", "agenda-namibia-2026.pdf"):
+                   "mapa-ruta-namibia-2026.pdf", "agenda-namibia-2026.pdf",
+                   "guia-de-viaje-namibia-2026.pdf"):
         ruta = os.path.join(RAIZ, nombre)
         if not os.path.exists(ruta):
             continue
@@ -1867,12 +1904,15 @@ def main():
     revisa_literales_copiados()
     revisa_pdf("dossier-namibia-2026.pdf", 40)
     revisa_pdf("guia-fauna-namibia.pdf", 8)
+    revisa_pdf("guia-de-viaje-namibia-2026.pdf", 40)
+    revisa_guia_sin_precios()
     revisa_lamina()
     revisa_agenda()
     revisa_fechas_impresas()
     revisa_pdf_al_dia()
     revisa_escala("dossier-namibia-2026.pdf")
     revisa_escala("guia-fauna-namibia.pdf")
+    revisa_escala("guia-de-viaje-namibia-2026.pdf")
     # 14 mm de margen + la caja de 267 − el pie de la portada (dos lineas y su aire). La
     # tolerancia es mas ancha porque el pie puede ganar una linea (~4 mm); encogido al 95 %
     # el filete ya sube 13, y a dos tercios, 85

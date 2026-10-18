@@ -92,8 +92,11 @@ def mapa_de_las_zonas():
   sitios, y una guía que hable de donde no se va sobra en la guantera.</p>"""
 
 
-def portadilla():
+def portadilla(filtro=None):
     """El documento de entrada, maquetado como los del dossier: dos columnas y titular.
+
+    `filtro`, si se da, pasa por el HTML de «Cómo funciona el parque» antes de los emoji:
+    la guía de viaje lo usa para quitar las tarifas de los nocturnos.
 
     Antes todo esto —el metodo, como funciona el parque— iba metido en la cajita de
     introduccion de los mamiferos, que crecio hasta comerse media pagina y dejar la
@@ -118,8 +121,7 @@ def portadilla():
   {metodo()}
   {mapa_de_las_zonas()}
   <h2>Cómo funciona el parque</h2>
-  {INTRO_EXTRA}
-  {NOCTURNO}
+  {(filtro or (lambda h: h))(INTRO_EXTRA + NOCTURNO)}
   {CONSEJOS}
 </section>""")
 

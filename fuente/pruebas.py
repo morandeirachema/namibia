@@ -20,6 +20,7 @@ import comun                                                       # noqa: E402
 import estudio_charcas                                             # noqa: E402
 import fecha                                                       # noqa: E402
 import mapa                                                        # noqa: E402
+import sin_precios                                                 # noqa: E402
 import trazado                                                     # noqa: E402
 
 
@@ -135,6 +136,49 @@ class Textos(unittest.TestCase):
         t, d = lista_web.parte_titulo("Billetes de avión impresos ×1 p.p.")
         self.assertEqual((t, d), ("Billetes de avión impresos ×1 p.p.", ""))
         self.assertEqual(lista_web.slug("Camisetas transpirables ×5"), "camisetas-transpirables-5")
+
+
+class SinPrecios(unittest.TestCase):
+    """El filtro de la guia de viaje: quita el trozo con precio o reserva y deja el resto."""
+
+    def limpia(self, md_texto):
+        return sin_precios.limpia(comun.md.render(md_texto)).strip()
+
+    def test_corta_dentro_de_la_frase(self):
+        h = self.limpia("- **Spreetshoogte Campsite — RESERVADO ✅ (24/08), UNA noche** — lo opera "
+                        "**Barkhan**: **N$290 (~€14,50) por persona**, parcela «stand only», wifi "
+                        "gratis. Se reservó en **bookings@barkhan.africa**")
+        self.assertIn("Spreetshoogte Campsite, UNA noche", h)
+        self.assertNotIn("N$", h)
+        self.assertNotIn("€", h)
+        self.assertNotIn("serv", h.lower().replace("servicio", ""))
+
+    def test_la_lista_tras_el_precio_se_queda(self):
+        h = self.limpia("- 💱 **~10:15 · dinero y SIM** — cajeros de FNB y Bank Windhoek ✅: "
+                        "**N$500–1.000 (~€25–50) de bolsillo** — y la **SIM de MTC**")
+        self.assertIn("cajeros de FNB y Bank Windhoek", h)
+        self.assertIn("SIM de MTC", h)
+        self.assertNotIn("bolsillo", h)
+
+    def test_la_etiqueta_queda_cerrada(self):
+        h = self.limpia("Aquí la **carga de efectivo (~N$6.000 · ~€300)**, en cajero.")
+        self.assertEqual(h.count("<strong>"), h.count("</strong>"))
+        self.assertIn("carga de efectivo", h)
+
+    def test_lo_que_no_es_reserva_se_queda(self):
+        for texto in ("Onguma es una reserva privada de 35.970 ha.",
+                      "La garrafa es la reserva de avería.",
+                      "Hace falta reserva confirmada de Terrace Bay para entrar."):
+            self.assertFalse(sin_precios.hay_precio(texto), texto)
+        self.assertTrue(sin_precios.hay_precio("Camping Halali — RESERVADO el 21/08"))
+        self.assertTrue(sin_precios.hay_precio("la Tarifa de noviembre"))
+
+    def test_bloque_solo_de_precio_desaparece(self):
+        self.assertEqual(self.limpia("- 🎫 Namib-Naukluft ~N$620 (~€31)/24 h"), "")
+
+    def test_mermaid(self):
+        m = sin_precios.limpia_mermaid('    B --> C["13:00<br/>comida<br/>los ultimos N$"]')
+        self.assertEqual(m, '    B --> C["13:00<br/>comida"]')
 
 
 if __name__ == "__main__":

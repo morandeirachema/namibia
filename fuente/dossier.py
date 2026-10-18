@@ -198,7 +198,9 @@ def titulo_de(texto):
 # Markdown -> HTML del dossier
 # ---------------------------------------------------------------------------
 
-def a_html(texto, doc=None):
+def a_html(texto, doc=None, antes_de_marcar=None):
+    """Markdown -> HTML del dossier. `antes_de_marcar` recibe el HTML antes de que los emoji
+    pasen a tipografia: lo usa la guia de viaje para quitar precios y reservas."""
     h = md.render(texto)
 
     # los bloques mermaid los pinta el navegador: se devuelve el codigo sin escapar
@@ -239,6 +241,8 @@ def a_html(texto, doc=None):
     h = re.sub(r'href="guia-fauna-namibia\.pdf"', 'href="#fauna"', h)
     h = re.sub(r'href="dossier-namibia-2026\.pdf"', 'href="#portada"', h)
 
+    if antes_de_marcar:
+        h = antes_de_marcar(h)
     h = marca_texto(h)
 
     # las referencias sueltas a otro documento («ver `13`») se hacen enlace — con guardia:
