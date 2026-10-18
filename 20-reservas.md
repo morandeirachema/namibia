@@ -333,8 +333,7 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   leídas en su propio rack 2027** ✅ *(25/08: cancelar cuesta el 100 %, posponer por escrito no —
 >   arriba)*, y ya no bloquean nada: son solo el seguro por si algo obliga a mover la noche.
 > - **Lo que hay que hacer con esta reserva, y nadie lo va a recordar por vosotros**: su tarifa
->   dice expresamente que **las comidas y las actividades se pre-reservan** ✅ — o al reservar, o
->   en recepción al llegar. **El Sundowner Drive del D12** *(3 h, N$980 · ~€49 pp)* **y el game drive
+>   dice expresamente que **las comidas y las actividades se pre-reservan** ✅ — **y con 30 días de antelación** *(onguma.com ✅, 18/10: para el D12 el plazo venció el ~12/10; escribir ya)*. **El Sundowner Drive del D12** *(3 h, N$980 · ~€49 pp)* **y el game drive
 >   guiado dentro de Etosha del D13** *(4 h, N$1.930 · ~€97 pp)* **están decididos (26/08)**: pedidlos
 >   ya, con la cena.
 > - **Y una pregunta que sigue abierta** ❌: **si hacen un night drive de verdad**. Su tarifa
@@ -363,7 +362,7 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 > - 👉 **Lo que esto significa a 9 de octubre** *(el calendario entero, en §9)*: **Sesriem está
 >   reservado y su pago íntegro venció el 3/10 — no consta pagado** ❌, ni el 20 % ni el íntegro,
 >   y lo no pagado NWR lo cancela: **confirmar con NWR por escrito que la reserva sigue viva**. La
->   misma regla pone **Okaukuejo hacia el 10 —mañana— y Halali hacia el 11 de octubre** ○
+>   misma regla pone **Okaukuejo hacia el 10 y Halali hacia el 11 de octubre** ○ *(vencidos a 18/10)*
 >   *(aplicación de la regla; si NWR las lleva como una sola reserva, las dos hacia el 10)*,
 >   tampoco anotados. Y **Terrace Bay**, sin reservar: **desde el ~7/10 se PAGA el 100 % de golpe**
 >   *(N$3.480 · ~€174)*, pero **lo que se PIERDE al anular es la escala de arriba** —30 % hasta el
@@ -468,7 +467,7 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
     se guarda **7 días**, así que **si el 50 % (N$290 · ~€14,50) no se pagó, caducó hacia el
     31/08** y la parcela puede estar suelta sin que nadie haya avisado. **Pedir por escrito a
     bookings@barkhan.africa que la reserva está confirmada y qué queda por pagar al llegar** *(§9)*.
-    Y si está viva, **desde el ~11/10 anularla ya cuesta el 50 %**.
+    Y si está viva, **anularla cuesta el 50 % desde el ~11/10 y el 75 % desde el ~18/10** *(su escala, §9)*.
   - ⚠️ **Y cuándo se paga el resto no está claro** ❌ *(09/10)*: su rack dice **«pago íntegro ANTES
     de llegar»** ✅, y el `01` §D2 lleva el efectivo para pagar la parcela allí, porque no consta
     datáfono. **Las dos cosas no casan**: en el mismo correo, preguntar si vale **en efectivo al
@@ -623,7 +622,7 @@ Para no gastar llamadas en lo que se cierra allí:
   el 24/08 por error: se vende en los tres campamentos *(corregido el 28/08)*. Lo que sí se perdió
   con Namutoni es su guiada de mañana.
 - **Las actividades de Onguma** *(Sundowner Drive N$980 · ~€49 pp ✅; paseo a pie N$980 · ~€49 pp ✅;
-  game drive dentro de Etosha N$1.930 · ~€97 pp ✅)*: **al reservar o en recepción al llegar** — el
+  game drive dentro de Etosha N$1.930 · ~€97 pp ✅)*: **con 30 días de antelación** *(onguma.com ✅, 18/10; el plazo del D12 venció el ~12/10)* — el
   game drive sustituye a la guiada de Namutoni; el sundowner complementa al nocturno de NWR, no lo
   sustituye *(§4)*. **El sundowner (D12) y el game drive (D13) están
   decididos y en el presupuesto** *(26/08, `02` §9)*.
@@ -675,7 +674,7 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] **Del seguro, recuperar el importe real pagado** ❌ — hoy `02` va con la cotización *(§3)*
 - [ ] **Comprobar en la póliza** que lleva **evacuación aérea dentro del país** y **búsqueda y
       salvamento** *(en el Estrella es OPCIONAL: no entra sola)*; si no están, pedirlas *(§3)* —
-      **tocaba el 30/09 *(`04`)* y a 09/10 no consta: leerla antes del ~10/10, que es mañana**
+      **tocaba el 30/09 *(`04`)* y a 09/10 no consta: leerla antes del ~10/10 — vencido a 18/10**
 - [x] **Billete emitido** — 10/08, €1.536 pp, con maleta, billete único *(§2)*
 - [x] **Sesriem ×2 — RESERVADO** *(2–3 nov, dentro de la puerta)* *(§4)*
 - [ ] 💳 **El 20 % de las dos noches de Sesriem** *(~N$536 · ~€27, en 48 h)* **y su pago íntegro**
@@ -690,7 +689,7 @@ Para no gastar llamadas en lo que se cierra allí:
 - [x] **Las 4 noches de Etosha — RESERVADAS** *(§4)*: Okaukuejo *(9–10)* · Halali
       *(10–11)* · **Onguma Tamboti ×2** *(11–13, ya fuera de la puerta)*. **Namutoni, anulado**
 - [ ] 💳 **El 20 % de Okaukuejo y el de Halali** *(~N$184 · ~€9 cada uno, en 48 h)* **y sus pagos
-      íntegros** *(N$920 · ~€46 cada uno, ~10/10 y ~11/10 — mañana y pasado)* — **no consta
+      íntegros** *(N$920 · ~€46 cada uno, ~10/10 y ~11/10 — vencidos a 18/10)* — **no consta
       ninguno pagado** ❌ *(§4)*
 - [x] **Condiciones de cancelación de Onguma — leídas en su rack 2027** ✅ *(25/08: cancelar cuesta
       el 100 %, posponer por escrito no; y con el CCF descartado el 26/08 no hay nada que cancelar
@@ -718,7 +717,7 @@ Para no gastar llamadas en lo que se cierra allí:
       por escrito que la reserva está confirmada *(§5)*. **Y el resto, N$290 (~€14,50), sin fecha
       clara** ❌: el rack dice «íntegro antes de llegar» y el `01` §D2 lleva efectivo para pagarlo
       allí — **preguntar si vale en efectivo al llegar el 1/11 o hay que transferir antes del
-      30/10**. Anular, desde el ~11/10, cuesta el 50 %
+      30/10**. Anular cuesta el 50 % desde el ~11/10 y el 75 % desde el ~18/10
 - [x] **Windhoek D1 — RESERVADO** *(Urban Camp)* — falta pedirles el importe por escrito ❌ *(§5)*
 - [ ] 💳 **Del Urban Camp del D1, por NightsBridge: importe, depósito cobrado y condiciones de
       cancelación — no consta ninguno** ❌ *(§5)*

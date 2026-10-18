@@ -116,7 +116,7 @@ atrás pasó sin un solo resultado anotado**, y lo que entonces era «esta seman
 ```mermaid
 flowchart LR
 %% ancho
-    J["VENCIDO - no consta<br/>julio - 9 oct<br/>CVI, DGT, pasaportes, e-visa,<br/>Terrace Bay y pagos de NWR"] --> A["HOY · 9 oct<br/>todo lo vencido, de golpe"]
+    J["VENCIDO - no consta<br/>julio - 9 oct<br/>CVI, DGT, pasaportes, e-visa,<br/>Terrace Bay y pagos de NWR"] --> A["9 oct<br/>todo lo vencido, de golpe<br/>(a 18 oct, sin nada anotado)"]
     A --> O1["~16 oct<br/>corte de la mefloquina<br/>coche al 100 %"] --> O2["~22-23 oct<br/>Terrace Bay deja el 30 %<br/>e-visa, como tarde"] --> O3["~24 oct<br/>imprimir"]
     O3 --> F["30 oct<br/>VUELO"]
     style J fill:#9d0208,color:#fff
@@ -154,10 +154,10 @@ flowchart LR
     pedir por escrito que está confirmada *(`20` §5)*.
   - **Leer la póliza de IATI** *(era el 30/09; tope, ~10/10)* ❌ — que lleve **evacuación aérea
     dentro del país** y **búsqueda y salvamento** *(`20` §3)*.
-  - **Okaukuejo y Halali: los pagos íntegros** *(N$920 · ~€46 cada uno; **vencen ~10/10 y ~11/10**,
-    este fin de semana)* ❌ — si no constan, hoy, con la llamada de Sesriem *(`20` §4)*.
+  - **Okaukuejo y Halali: los pagos íntegros** *(N$920 · ~€46 cada uno; **vencían ~10/10 y ~11/10**,
+    ya pasados a 18/10)* ❌ — si no constan, hoy, con la llamada de Sesriem *(`20` §4)*.
   - **Pre-reservar en Onguma** la cena, el Sundowner del D12 y el game drive del D13 *(decidido el
-    26/08; sin fecha dura, pero a tres semanas no consta pedido)* ❌ *(`20` §9)*.
+    26/08; **con 30 días de antelación** —onguma.com ✅, 18/10—, así que el plazo del D12 venció el ~12/10 y no consta pedido)* ❌ *(`20` §9)*.
   - Y lo que **no tiene fecha pero sí casilla**: el importe del Urban Camp, si del coche se pagó
     el total o el 25 %, y **pedir por escrito a Savanna** la devolución del sábado a las 18:00 y lo
     que cubre la Opción 4 en un vuelco sin terceros *(`20` §1 y §9)*.
@@ -303,7 +303,7 @@ Para la vuelta real del **15 de noviembre de 2026** → pasaporte válido **hast
 
 No hay que llamar a Pretoria: la **Embajada de España está en la propia Windhoek** — **58 Simeon
 Shixungileni Street** · **+264 61 22 30 66** · sección consular `emb.windhoek.sc@maec.es` · y el
-**teléfono de emergencia consular 24/7: +264 85 128 0571** *(solo para urgencias graves de
+**teléfono de emergencia consular 24/7: +264 85 128 0571** *(su web da también +264 81 128 0571 — grabar los dos, `07`)* *(solo para urgencias graves de
 españoles)*. Con las **fotocopias y fotos de pasaporte** que ya manda llevar [`17`](17-lista-de-equipaje.md),
 un pasaporte perdido o robado es una mañana de trámite, no un viaje roto. **Grábalo junto a los
 teléfonos de emergencia de `07`.**

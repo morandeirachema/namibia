@@ -41,7 +41,7 @@ flowchart TD
    **12,7 °C en la costa · 15,5 en Sesriem · 16,3 en Windhoek · 18,9 en Etosha**. **Plumas,
    térmicos, gorro y guantes se quedan en casa** — son peso muerto en una tienda de techo. *La
    noche fría del viaje es la de la costa, no la del desierto.* El único matiz es de altitud:
-   **el camping de Spreetshoogte está a 1.728 m** ◐
+   **el camping de Spreetshoogte está a media bajada del paso** ✅ *(altitud exacta sin dato ❌; los 1.728 m que se daban eran los del mirador)*
    *([barkhan](https://www.barkhan.africa/spreetshoogte-campsite.php))* — la primera noche, el
    forro a mano, no enterrado en el petate.
 3. **El problema es el calor** ✅: **37,1 °C de media de máximas en Etosha** *(la cifra GHCN es el

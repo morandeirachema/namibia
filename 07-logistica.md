@@ -511,7 +511,7 @@ No son una incidencia — son parte del paisaje, y con el kit en la guantera dur
 👉 **Guárdalos OFFLINE** — como contactos **y en papel en la guantera** — porque los vas a necesitar
 **justo donde no hay señal para buscarlos**.
 
-Y de `06`: **MVA Fund 9682** (gratuito), organismo estatutario que cubre a **cualquier** herido en
+Y de `06`: **MVA Fund 9682** (gratuito; **solo desde una línea namibia** — desde fuera, +264 61 289 7000), organismo estatutario que cubre a **cualquier** herido en
 accidente de tráfico **sin importar nacionalidad ni culpa**.
 
 🦂 **Toxicología (mordedura o picadura) — médicos, gratuito y namibio** ◐: el **Namibian Snakebite

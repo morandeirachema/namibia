@@ -133,7 +133,7 @@ viajero puede contestar —pagos, llamadas, permisos— está junto, con dónde 
    **evacuación aérea dentro del país** *(cerca de Sesriem no hay hospital)* y la **búsqueda y
    salvamento** —si no, pedirlas ya— y recuperar el **importe real pagado** ❌ *(para cerrar la
    partida de [`02`](02-presupuesto.md) — hoy va con la cotización; `20` §3)*.
-5. 💳 **10–12/10 — los pagos que vencen esta semana, y los que no constan**: **Okaukuejo hacia el
+5. 💳 **10–12/10 — los pagos que vencían esa semana *(ya pasados a 18/10)*, y los que no constan**: **Okaukuejo hacia el
    ~10/10 y Halali hacia el ~11/10**, pago íntegro *(N$920 · ~€46 cada una)* ○, sin constar
    tampoco sus 20 %. **Barkhan** *(D2)*: el 50 % que confirmaba la provisional no consta —si no se
    pagó, caducó hacia el 31/08—, **desde el ~11/10 anular cuesta el 50 %**, y **cuándo se paga el
@@ -220,9 +220,9 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 203 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 204 páginas
 
-*Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
+*Todo esto en un solo documento maquetado, con fotos, **tres mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
 🦁 Y suelta, para la guantera: [**la guía de fauna**](guia-fauna-namibia.pdf) *(**159 especies con foto, todas de esta ruta y de ningún otro sitio**, cada una con **qué posibilidades hay de verla** medidas de verdad. **Desde el 29/08 cada ficha reparte además sus registros entre las cuatro zonas del viaje —el Namib, la costa, Damaraland y Etosha— con el día al lado**, que es lo que contesta la pregunta del que conduce: en qué día toca buscar esto. Ese mismo día se probaron 24 fichas de fuera de la ruta —el hipopótamo, el licaón, el sable del Zambeze— y se deshizo: en la guantera ocupa sitio una guía de un viaje que no se hace. Antes de las fichas, cómo se hace un safari)* — va aparte **a propósito**: se usa en el coche, no en el sofá.
 
@@ -263,7 +263,7 @@ está en el agua. [Verlo en grande](img/mapas/etosha.svg).*
 *El trazado no está dibujado a mano: son las coordenadas reales de cada parada, enrutadas por
 carretera con **OSRM** sobre OpenStreetMap. [Ver el mapa en grande](img/mapas/ruta.svg).*
 
-**~2.798 km · 15 días de coche · una noche en Spreetshoogte, dos en Sesriem, dos en la costa, DOS en Damaraland y CUATRO en Etosha** *(dos dentro del parque y las dos últimas en Onguma, a su puerta)*
+**~2.798 km · 15 días de coche · una noche en Spreetshoogte, dos en Sesriem, TRES en la costa, DOS en Damaraland y CUATRO en Etosha** *(dos dentro del parque y las dos últimas en Onguma, a su puerta)*
 
 </div>
 
@@ -779,7 +779,7 @@ pagado, se mueve aquí arriba y se pone la fecha**.
   [`15`](15-huecos-cerrados.md), con la fuente y la fecha.
 - **Al cambiar cualquier `.md`** → regenerar los PDF, que salen de estos mismos ficheros:
   ```
-  cd fuente && make          # los cuatro PDF
+  cd fuente && make          # los cinco PDF
   make comprueba             # imagenes, licencias, escala y que el README no mienta
   ```
   Las convenciones del build —el marcador `%% ancho`, las casillas `- [ ]`, por qué una URL larga
@@ -798,7 +798,7 @@ pagado, se mueve aquí arriba y se pone la fecha**.
 
 </div>
 
-Los `.md` numerados son **la fuente de verdad**; los cuatro PDF, la lámina y los ficheros de GPS
+Los `.md` numerados son **la fuente de verdad**; los cinco PDF, la lámina y los ficheros de GPS
 **se generan desde ellos** y nada se escribe a mano en la salida. Para reconstruirlo todo desde
 cero:
 
@@ -820,11 +820,11 @@ Y a partir de ahí, todo se hace desde `fuente/`:
 
 ```bash
 cd fuente
-make            # los cuatro PDF: dossier, guía de fauna, lámina y agenda
+make            # los cinco PDF: dossier, guía de fauna, lámina, agenda y guía de viaje
 make dossier    # solo el dossier            make fauna   # solo la guía de campo
 make lamina     # solo la lámina A2          make agenda  # solo la agenda
 make gps        # el GPX y el KML            make comprueba  # las comprobaciones — que nada mienta
-make todo       # de cero: imágenes, geometría, avistamientos, mapas y los cuatro PDF
+make todo       # de cero: imágenes, geometría, avistamientos, mapas y los cinco PDF
 ```
 
 > ⚠️ **`make todo` descarga de la red**: las ~208 imágenes con licencia libre, la geometría de

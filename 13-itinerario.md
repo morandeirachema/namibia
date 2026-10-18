@@ -107,9 +107,9 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
   12:15–12:45, holgadamente antes de las 15:00** — y quedan **~160 km de parque a 60** hasta
   Terrace Bay (~2h30). Un pinchazo se come la mitad del margen: disciplina de reloj.
 - **D8 · Terrace Bay → Springbokwasser → Twyfelfontein (~211 km ◐, OSRM 211,5)** — grava entera.
-  A 60–70 —y 60 en el parque—, **~3h10–3h40 de volante y ~3h45–4h30 con paradas**; **Springbokwasser cierra a las 17:00** ◐ *(`08`)* y **el permiso
+  A 60–70 —y 60 en el parque—, **~3h10–3h40 de volante y ~3h45–4h30 con paradas**; **Springbokwasser deja entrar hasta las 17:00 y salir hasta las 19:00** ◐ *(`01` §D8; corregido el 18/10)* y **el permiso
   de Skeleton Coast obliga a salir del parque el mismo día**. Los grabados entran **hoy a última
-  hora** *(horario de apertura ❌)*, lo que pide salir de Terrace Bay a las ~08:00 *(`01` §D8)*; mañana
+  hora** *(abren de 08:00 a 17:00 ◐, `01` §D8)*, lo que pide salir de Terrace Bay a las ~08:00 *(`01` §D8)*; mañana
   temprano mataría la salida a las ~07:00 de la alternativa de Palmwag ✓ **Es la etapa que nació el
   24/08**, de partir en dos el antiguo D9
 - **D9 · Twyfelfontein → Palmwag → Hoada (~159 km ◐, OSRM 158,7)** — grava entera *(107 + 51)*: a
@@ -129,7 +129,7 @@ transparente sobre datos marcados**, no medición. Método: asfalto a 100 · gra
 - **D14 · Onguma → Windhoek (~539 km ◐ — OSRM propio; desde Namutoni eran 548)** — asfalto a ~100 →
   **mínimo ~5h25 · realista ~6h–6h20 con comida en Otjiwarongo**. **Y durmiendo fuera del parque no
   hay que esperar a que la puerta abra a las 06:10**: media hora larga de ventaja ✓
-  *(⚠️ **Variante sin decidir** —`01` §D14—: dormir el D14 en **Okonjima** deja el día en **~312 km** y
+  *(⚠️ **Variante sin decidir** —`01` §D14—: dormir el D14 en **Okonjima** deja el día en **~345–360 km** *(corregido el 18/10: los 312 eran la ruta libre de OSRM por pistas D — `01` §D14)* y
   mete **~225 km** en el D15 antes del Craft Centre; aquí y en el D15 solo está calculada la versión
   de Windhoek — 03/10.)*
 

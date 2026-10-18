@@ -145,7 +145,7 @@ DONDE = {
   "gaviota-hartlaub": "La **laguna y el muelle de Walvis Bay (D5–D6)**: la nube blanca detrás del barco del crucero — el ave más registrada de la costa tras el cormorán.",
   "avoceta": "El **agua somera de la laguna de Walvis Bay (D5–D6)**, barriendo con el pico entre los flamencos — mejor con la bajamar de la mañana.",
   # --- COSTA ---
-  "lobo-marino": "**Cape Cross, D7.** Una de las mayores colonias del mundo. ⚠️ **Y con rabia desde junio de 2025** ✅ *(seis lobos positivos y trece exposiciones humanas, siete de turistas, a septiembre de 2026 — The Namibian)*: se mira desde la pasarela, no se toca ninguno, y una mordedura o un arañazo es hospital el mismo día.",
+  "lobo-marino": "**Cape Cross, D7 — y la laguna de Walvis Bay, D5–D6, donde empezó el brote.** Cape Cross es una de las mayores colonias del mundo. ⚠️ **Y con rabia desde junio de 2025** ✅ *(seis lobos positivos y trece exposiciones humanas, siete de turistas, a septiembre de 2026 — The Namibian)*: se mira desde la pasarela, no se toca ninguno, y una mordedura o un arañazo es hospital el mismo día.",
   "delfin-heaviside": "Frente a **Walvis Bay**, en las salidas en barco (D5–D6).",
 
   # --- Ampliacion del 10/08 (fuentes en el bloque de abajo) ---

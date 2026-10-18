@@ -159,7 +159,7 @@ tocan.
 
 ## 3 · La vía casi segura — la noche del D14 en Okonjima, no en Windhoek
 
-**La idea**: el D14 se conduce **Onguma → Okonjima, 312 km** en vez de Onguma → Windhoek, 539; se
+**La idea**: el D14 se conduce **Onguma → Okonjima, ~345–360 km** *(corregido el 18/10: los 312 eran la ruta libre de OSRM por pistas D — `01` §D14)* en vez de Onguma → Windhoek, 539; se
 duerme **en su camping** *(la noche de Windhoek del D14 no está reservada — `20` §5)*; se hace **el
 rastreo de leopardo de la tarde** y, si falla, **el de la mañana siguiente**; y el D15 son **225 km
 por la B1 hasta Windhoek**, con la tarde de regalos y la entrega del coche como estaban. **Ni el
@@ -168,7 +168,7 @@ D13, ni las dos noches de Onguma, ni el vuelo se tocan.**
 ```mermaid
 flowchart LR
 %% ancho
-    A["D14 · vie 13<br/>Onguma 07:00 -> Okonjima ~11:00<br/>312 km B1 · realista ~4 h"] --> B["15:30-19:00<br/>RASTREO DE LEOPARDO<br/>80% declarado · N$1.600 pp"]
+    A["D14 · vie 13<br/>Onguma 07:00 -> Okonjima ~11:00<br/>~345-360 km B1 · realista ~4h30"] --> B["15:30-19:00<br/>RASTREO DE LEOPARDO<br/>80% declarado · N$1.600 pp"]
     B --> C["noche · camping Omboroko<br/>N$2.260 los dos<br/>nocturno opcional, N$1.600 pp"]
     C --> D["D15 · sab 14<br/>06:00-09:30 2o rastreo si falto<br/>o salir a las 07:30"]
     D --> E["Windhoek a 225 km · ~12:30<br/>Craft Centre hasta las 16:00<br/>coche a las 18:00 · vuelo 20:45"]
@@ -178,18 +178,18 @@ flowchart LR
 
 ### Los kilómetros y las horas, medidos *(OSRM, 27/08; tiempos con el convenio del `13`)*
 
-- **Onguma → Okonjima: 312 km** ✅, B1 asfaltada casi entera *(por Tsumeb y Otjiwarongo)*. **Mínimo
+- **Onguma → Okonjima: ~345–360 km** ◐ *(18/10)*, B1 asfaltada casi entera *(por Tsumeb y Otjiwarongo)*. **Mínimo
   ~3 h 15 a 100 · realista ~4 h** con el repostaje de Tsumeb y una parada. Saliendo a las **07:00**
   *(no hay puerta que esperar: se duerme fuera)* se llega **hacia las 11:00**: comer, montar la
-  tienda, y a las **15:30** el rastreo *(vuelta 19:00–19:30 ✅)*. **Se conduce 227 km menos que en
+  tienda, y a las **15:30** el rastreo *(vuelta 19:00–19:30 ✅)*. **Se conducen ~180–195 km menos que en
   el D14 actual**, y el día más largo del viaje desaparece.
 - **Okonjima → Windhoek: 225 km** ✅ de B1. **Mínimo ~2 h 15 · realista ~2 h 45.** Con el segundo
   rastreo *(06:00–09:30)* se sale hacia las **10:00** y se está en Windhoek **hacia las 12:45**; sin
   él, saliendo a las 07:30, hacia las **10:15**. El Craft Centre abre los sábados **09:00–16:00** ✅
   y el coche se entrega a las **18:00** *(`01` §D15)*: **el D15 sigue cabiendo con margen**, y un
   pinchazo en la B1 *(+1 h)* también.
-- **Total D14 + D15: 312 + 225 + 45 = 582 km**, contra los **539 + 45 = 584** del plan actual:
-  **los mismos kilómetros, repartidos en dos días en vez de uno**.
+- **Total D14 + D15: ~350 + 225 + 45 ≈ 620 km**, contra los **539 + 45 = 584** del plan actual:
+  **unos 35 km más, repartidos en dos días en vez de uno** *(con los 312 de antes salían iguales)*.
 
 ### Lo que cuesta, en dinero
 

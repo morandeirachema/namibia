@@ -207,7 +207,7 @@ os atiende, no un extra.
 ```mermaid
 flowchart TD
 %% ancho
-    D1["D1 y D15 · WINDHOEK<br/>Christuskirche 1910 · Alte Feste<br/>Independence Museum · Craft Centre<br/>kapana en Katutura con cabeza"]
+    D1["D1 y D15 · WINDHOEK<br/>Christuskirche 1910 · Alte Feste (cerrado)<br/>Independence Museum · Craft Centre<br/>kapana en Katutura con cabeza"]
     D2["D2 · REHOBOTH de paso<br/>tierra de los basters"]
     D7["D7 · SWAKOPMUND<br/>la ciudad alemana: arquitectura,<br/>Brotchen, Cafe Anton, Mondesa"]
     D9["D8-D9 · DAMARALAND<br/>Twyfelfontein: arte san UNESCO y noche propia<br/>puestos damara · despues Hoada,<br/>campamento comunitario"]

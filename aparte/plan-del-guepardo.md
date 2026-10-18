@@ -75,7 +75,7 @@ y saliendo antes de cerrar ✅. **Von Lindequist, ~06:10–19:10** ◐, con **am
 > en el presupuesto, **el game drive guiado de Onguma «a primera hora»** *(4 h dentro de Etosha,
 > decidido el 26/08, `02` §9)* **y aquí la salida propia a Andoni de 06:05 a 09:30**. **No caben
 > los dos en la misma mañana**: o la primera luz es del guía o es vuestra. **La hora de salida
-> del game drive de Onguma no está publicada** ❌ *(se cierra en recepción al llegar el D12)*; con
+> del game drive de Onguma no está publicada** ❌ *(se reserva con 30 días de antelación — onguma.com ✅, 18/10 —, no en recepción)*; con
 > ella en la mano se decide, y **aquí no se decide**: las dos versiones se dejan escritas.
 
 - 🕕 **En la cola de la puerta a las 06:05**, no a las 07:30. La primera hora de luz en llanura

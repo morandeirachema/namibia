@@ -24,8 +24,8 @@ los lodges *(`15`, 18/09)*—.
   dice **íntegro antes de llegar** y el `01` §D2 lleva el **efectivo** para pagarlo allí —
   preguntar si vale en efectivo el 1/11 o hay que transferir antes del 30/10.
   **El 50 % que confirma la provisional: no consta pagado ❌** — la provisional dura 7 días, así que
-  si no se pagó **caducó hacia el 31/08**; pedir confirmación por escrito. Desde el ~11/10, anular
-  cuesta el 50 %.
+  si no se pagó **caducó hacia el 31/08**; pedir confirmación por escrito. Anular cuesta el 50 % desde el ~11/10
+  y el 75 % desde el ~18/10.
 - **D3 · lun 2 nov — Sesriem Campsite (NWR), dentro de la puerta** · *⛺ camping* — **RESERVADO ✅**.
   **N$1.340 (~€67)/noche los dos**. 🛑 **El pago íntegro de las dos noches —N$2.680 (~€134)—
   venció el 3/10** ○ **y no consta pagado ❌**, ni el 20 % de las 48 h; lo no pagado, NWR lo
@@ -53,7 +53,7 @@ los lodges *(`15`, 18/09)*—.
   los dos** según temporada ◐. Reservas: Journeys Namibia · res4@journeysnamibia.com ·
   +264 61 228 104.
 - **D10 · lun 9 nov — Okaukuejo (NWR), Etosha** · *⛺ camping* — **RESERVADO ✅ (21/08)**. Camping **N$920 (~€46)
-  los dos**. Pago íntegro hacia el **~10/10 ○ — mañana**. **Pago: no consta ❌**, ni el 20 % ni el
+  los dos**. Pago íntegro hacia el **~10/10 ○ — vencido a 18/10**. **Pago: no consta ❌**, ni el 20 % ni el
   íntegro.
 - **D11 · mar 10 nov — Halali (NWR), Etosha** · *⛺ camping* — **RESERVADO ✅ (21/08)**. Camping **N$920 (~€46)
   los dos**. Pago íntegro hacia el **~11/10 ○** *(o el 10/10 si NWR lleva las dos como una)*.

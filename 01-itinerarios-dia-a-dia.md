@@ -416,8 +416,8 @@ flowchart LR
   del MEFT del 2/05, citada en `06` §5)*. **La reconfirmación de primeros de octubre, a 09/10, no
   consta hecha ❌ — pendiente**; y si vuelve la prohibición o no apetece la arena: **la lanzadera del concesionario About Africa** sale del propio
   aparcamiento 2WD, en continuo desde primera hora — **presupuestada a N$180 · ~€9 por persona, lo
-  que lista la web de NWR** ✅ *(N$360 · ~€18 los dos, `02`)*; About Africa cobra **N$200 · ~€10**
-  ◐ *(ida y vuelta; prensa namibia de agosto de 2025 y guías de 2026; alguna fuente da N$250)*, o
+  que lista la web de NWR** ✅ *(N$360 · ~€18 los dos, `02`)*; About Africa cobra **N$260 · ~€13**
+  ◐ *(ida y vuelta; ATTA, 09/12/2025: N$260 · ~€13 por adulto desde enero de 2026 — hasta el 18/10 aquí decía N$200 · ~€10, de prensa de 2025)*, o
   sea **+N$40 (~€2) la pareja** si se usa: el precio bueno es el que digan en recepción
 - 🎫 **La tasa de parque no se paga otra vez**: las **dos unidades de Namib-Naukluft** del presupuesto
   *(`02` §5, ~N$620 · ~€31 cada una)* cubren el D3 y el D4 — se cobra **por 24 h desde la entrada**

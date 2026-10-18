@@ -22,7 +22,7 @@ decir «no consta». A 09/10 no consta ninguna contestada.*
    páginas en blanco)* y **nombres del billete idénticos al pasaporte**. → `20` §9 y
    [`04`](../04-guia-preparacion.md).
 
-## Las de esta semana y la que viene
+## Las de la semana del 9/10 y la siguiente *(a 18/10, todas vencidas y sin anotar)*
 
 4. **La póliza IATI, antes del ~10/10** — que lleve **evacuación aérea dentro del país** y
    **búsqueda y salvamento**; si no, pedirlas ya. Y el **importe real pagado**, para cerrar el `02`.

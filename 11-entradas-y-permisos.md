@@ -304,7 +304,7 @@ la razón de que allí se vean con una frecuencia que el parque no da ◐.
   [el 80 %](https://blog.expertafrica.com/conservation/looking-out-for-leopards/).
 - ⚠️ **Y otra vez el reloj — que aquí es lo único que estorba, porque el desvío es baratísimo**:
   **son +34 km sobre el trazado directo del D14** ✅ *(medido con OSRM el 24/08 — está casi en la
-  B1)*, pero la salida de las 06:00 obliga a **haber dormido cerca** *(desde Onguma son 312 km)* y
+  B1)*, pero la salida de las 06:00 obliga a **haber dormido cerca** *(desde Onguma son ~345–360 km, `01` §D14)* y
   la de las 15:30 termina a las 19:30, llegando a Windhoek **de noche**, contra la regla de las
   18:00 *(`06`)*. *(Cambiar una noche de Onguma por Okonjima encajaría —el D14 quedaría en 226 km—,
   pero **no se hace**: Okonjima ya no tiene guepardo y las dos noches de Onguma son firmes desde

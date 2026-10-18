@@ -124,7 +124,7 @@ cálculo reproduce los números ya publicados** en las celdas conocidas:
 Tres regímenes distintos (meseta, sabana, desierto) clavados a **±0,04 °C**: el mismo tubo de
 cálculo aplicado a los puntos sin medir es fiable. Con eso:
 
-- 🏔️ **Spreetshoogte** *(campamento del D2, borde de la escarpa ~1.700 m)* — **media de máximas de
+- 🏔️ **Spreetshoogte** *(campamento del D2, a media bajada del paso — Barkhan ✅, 18/10 —; la celda ERA5 es la del borde de la escarpa, ~1.700 m)* — **media de máximas de
   noviembre 31,5 °C / mínima 17,1 °C** ◐ *(ERA5, celda −24,00 / 16,00)*. **Corrobora el proxy de
   Windhoek** que ya usaba `01`: misma altitud, mismo clima de meseta. Días extremos de la serie
   entre 22,5 y **38,0 °C**. Como es meseta —el terreno donde ERA5 apenas tiene sesgo— el número se
@@ -1150,7 +1150,7 @@ está, se tacha)*:
   > *(res4@journeysnamibia.com)* junto con la confirmación de que se puede reservar durmiendo allí.
 - 🌙 ~~**¿Vende NWR el nocturno guiado y la guiada de mañana a quien NO duerme en el campamento?**~~
   **Resuelta en lo que importa el 28/08** ✅: el nocturno se vende en los tres campamentos y se
-  compra el D10 y el D11 durmiendo dentro *(arriba)*. Queda, menor, si la guiada de mañana de
+  puede comprar el D10 y el D11 durmiendo dentro *(arriba; si se compra, sin decidir — `01`)*. Queda, menor, si la guiada de mañana de
   Namutoni se vende a quien duerme en Onguma ❌ *(N$1.300 · ~€65 la pareja)* — ya sustituida por el
   game drive de Onguma del D13 *(`20` §4)*.
 

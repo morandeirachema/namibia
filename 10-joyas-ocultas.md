@@ -295,7 +295,7 @@ Fuentes: [namibweb — Skeleton Coast](https://www.namibweb.com/skeleton.htm) �
   corta, si no hay tiempo: **el hide del segundo brazo y el mirador de las cinco pozas**, que sí
   están al lado. Un hilo de cascada en la Costa de los Esqueletos: eso no lo trae casi nadie a
   casa. Va con la entrada
-  del parque; **hoy hay tiempo si se sale pronto** *(211 km; Springbokwasser cierra a las 17:00 ◐ y
+  del parque; **hoy hay tiempo si se sale pronto** *(211 km; Springbokwasser deja salir hasta las 19:00 ◐ y
   los grabados son a última hora: saliendo a las ~08:00 caben el Uniab y una de las dos siguientes,
   no todo — la cuenta, en el `01`)*.
 - **Las welwitschias de la C39** *(entre Springbokwasser y Bergsig, ~54 km)* ◐ — crecen **junto a
