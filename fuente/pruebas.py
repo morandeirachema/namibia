@@ -176,6 +176,19 @@ class SinPrecios(unittest.TestCase):
     def test_bloque_solo_de_precio_desaparece(self):
         self.assertEqual(self.limpia("- 🎫 Namib-Naukluft ~N$620 (~€31)/24 h"), "")
 
+    def test_lo_que_parece_dinero_y_no_lo_es_se_queda(self):
+        # Lo que el 18/10 se llevó por delante: reglas del terreno y el nombre de una ficha.
+        for texto in ("No pagar nunca una «multa» en mano en un control.",
+                      "No perder de vista la tarjeta al pagar.",
+                      "La regla barata: a nadie de uniforme, a ninguna verja con garita.",
+                      "Cobra escupidora cebra · Zebra spitting cobra",
+                      "Presupuesta 130–150 km de combustible para el día.",
+                      "Su reserva declara 34.000 ha con fauna libre."):
+            self.assertFalse(sin_precios.hay_precio(texto), texto)
+        for texto in ("se pagan N$650 por persona", "lo cobra NWR", "sale más barato que el lodge",
+                      "en Booking.com", "Cancelación gratuita hasta 48 h", "el pago del 20 %"):
+            self.assertTrue(sin_precios.hay_precio(texto), texto)
+
     def test_mermaid(self):
         m = sin_precios.limpia_mermaid('    B --> C["13:00<br/>comida<br/>los ultimos N$"]')
         self.assertEqual(m, '    B --> C["13:00<br/>comida"]')

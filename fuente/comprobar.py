@@ -1601,6 +1601,21 @@ def revisa_guia_sin_precios(nombre="guia-de-viaje-namibia-2026.pdf"):
             mal(f"{nombre} lleva impreso un precio o una reserva: «{r.strip()}»")
     else:
         bien(f"{nombre}: ni un precio ni una reserva en sus {paginas - 2} paginas de contenido")
+    # Y que el filtro no se haya llevado lo que no debía: cada ficha de fauna con su nombre
+    # —el 18/10 la cobra salió como «Naja nigricincta» a secas, porque «cobra» parecía
+    # «cobrar»— y las reglas del terreno que suenan a dinero sin serlo.
+    import catalogo
+    plano = re.sub(r"\s+", " ", texto)
+    fichas = [e[1] for g in (catalogo.FELINOS, catalogo.MAMIFEROS, catalogo.RAPACES, catalogo.AVES,
+                             catalogo.REPTILES, catalogo.COSTA, catalogo.BICHOS) for e in g]
+    sin_nombre = [f for f in fichas if f not in plano]
+    if sin_nombre:
+        mal(f"{nombre}: fichas sin su nombre impreso: {', '.join(sin_nombre)}")
+    else:
+        bien(f"{nombre}: las {len(fichas)} fichas llevan su nombre")
+    for frase in ("No pagar nunca una «multa» en mano", "La regla barata", "tarjeta al pagar"):
+        if frase not in plano:
+            mal(f"{nombre}: el filtro se ha llevado «{frase}»")
 
 
 def revisa_pdf(nombre, minimo):

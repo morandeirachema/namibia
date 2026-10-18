@@ -1127,8 +1127,9 @@ y todo lo de fuera de Etosha. *(La cuenta anterior —«de día no compensa»—
 - **Etosha → GUIADO, decidido (08/08) — pero desde el 24/08 son DOS salidas de mañana, no tres.** El
   plan: **salida guiada de mañana en Okaukuejo (D11) y en Halali (D12)**, N$650 ≈ €33/persona cada
   una ✅. **La de Namutoni cayó con Namutoni**: se compra **durmiendo la víspera en ese campamento**,
-  y el D12 ya se sale a dormir a Onguma. **El nocturno, no** *(se dio por caído el 24/08 y se
-  corrigió el 28/08: se puede comprar el D10 y el D11 — sin decidir, abajo)*. Los **traslados
+  y el D12 ya se sale a dormir a Onguma. **El nocturno sí se puede comprar, el D10 en
+  Okaukuejo y el D11 en Halali** —sin decidir, abajo— *(se dio por caído el 24/08 y se
+  corrigió el 28/08)*. Los **traslados
   Okaukuejo → Halali → Namutoni → Onguma siguen siendo con vuestro 4x4** —no hay alternativa: el
   coche viaja con vosotros— y se hacen como safari lento de tarde, parando en las charcas. *(La
   charca iluminada de Okaukuejo y la de Halali son gratis y andando desde la parcela; la de

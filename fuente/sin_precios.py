@@ -28,12 +28,22 @@ import html as _html
 import re
 
 # Lo que cuenta como precio. «cuesta» no entra a propósito: «ir y volver cuesta dos horas».
+# Tampoco «pagar» a secas, «cobra» a secas ni «barata» a secas —el 18/10 se llevaron por
+# delante «No pagar nunca una «multa» en mano», «La regla barata: a nadie de uniforme» y el
+# nombre de la cobra escupidora—: el verbo solo cuenta con una cifra o una moneda cerca, y
+# «presupuesta 130 km de combustible» no es un presupuesto. Las parejas de palabras van con
+# `\s+`, porque el markdown parte la frase donde quiere: «es más\nbarata».
 PRECIO = re.compile(
     r"N\$|€|\bEUR\b|\beuros?\b|US\$|\bUSD\b|\bZAR\b|«desde R\d|\bR\d{3,}\b"
-    r"|\btarifas?\b|\btarifario\b|\b(?:sobre)?precios?\b|\bcostes?\b|\bimportes?\b|\bpresupuest\w*"
-    r"|\bpag(?:o|os|ar|ado|ada|ados|adas|ando|arla|arlo|ará|an)\b|\bcobr(?:a|an|ar|ará|o)\b"
-    r"|\bIVA\b|\bLevy\b|\brack\b|\bdepósito del \d|\bm[áa]s car[oa]s?\b|\bbarat[oa]s?\b"
-    r"|\bcuestan? (?:más|menos|casi|el doble|el triple|lo mismo)\b|\blo que cuestan?\b",
+    r"|\btarifas?\b|\btarifario\b|\b(?:sobre)?precios?\b|\bcostes?\b|\bimportes?\b"
+    r"|\bpresupuest(?:o|os|ari[oa]s?|ad[oa]s?)\b|\bpagos?\b"
+    r"|\bpag(?:ar|ado|ada|ados|adas|ando|arla|arlo|ará|an)\b"
+    r"(?=[\s\S]{0,40}?(?:N\$|€|\d\s*%|\d{1,3}(?:\.\d{3})+))"
+    r"|\bcobr(?:an|ar|ará|arán|ó|o)\b|\b(?:se|lo|la|os|te|les?)\s+cobra\b"
+    r"|\bcobra\s+(?:N\$|€|\d|más|menos|el\s+\d|un\s+\d)"
+    r"|\bIVA\b|\bLevy\b|\brack\b|\bdepósito\s+del\s+\d|\bm[áa]s\s+car[oa]s?\b"
+    r"|\bm[áa]s\s+barat[oa]s?\b|\bbarat[oa]s?\s+que\b|\bsal(?:e|ía|dría)\s+barat[oa]\b"
+    r"|\bcuestan?\s+(?:más|menos|casi|el\s+doble|el\s+triple|lo\s+mismo)\b|\blo\s+que\s+cuestan?\b",
     re.I)
 
 # Lo que cuenta como reserva —la de alojamiento o actividad, no la natural—. Quedan fuera
@@ -41,9 +51,10 @@ PRECIO = re.compile(
 # el gasoil «en reserva» y la «reserva con fauna libre».
 RESERVA = re.compile(
     r"(?<!\ben )\b[Rr]eserv(?!e\b)"
-    r"(?!as?\s+(?:privad|natural|de avería|de efectivo|de agua|limitada|con fauna|valladas))"
+    r"(?!as?\s+(?:privad|natural|de avería|de efectivo|de agua|limitada|con fauna|valladas"
+    r"|declara|de Onguma|de \d))"
     r"(?!a\s+baje)\w*"
-    r"|\bRESERV\w*|\bbookings?\b|\bse cancela\b|\bcancel(?:ar\w*|aci[óo]n\w*|ad[oa]s?)\b"
+    r"|\bRESERV\w*|\b[Bb]ookings?\b|\bse cancela\b|\b[Cc]ancel(?:ar\w*|aci[óo]n\w*|ad[oa]s?)\b"
     r"|\bvenc(?:e|ía|ió|en)\b|\bsin cerrar\b|\bconfirm(?:ad[oa]s?|ar|arlo|arla)? por escrito\b"
     r"|\banular\b|\bpospon\w*|\bPOSPON\w*")
 
