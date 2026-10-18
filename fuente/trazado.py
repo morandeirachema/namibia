@@ -251,6 +251,8 @@ def firme_de(ref, lat=None, lon=None, nombre=None):
         return "asfalto"                                       # Swakopmund–Henties Bay
     if ref == "C40" and lat is not None and lon < 14.85:
         return "grava"                                         # al oeste de Kamanjab
+    if ref == "C38" and lat is not None and -19.2 < lat < -18.3 and 15.95 < lon < 16.93:
+        return "parque"      # Okaukuejo–Halali–Namutoni: OSM le deja el ref, pero es pista
     return f
 
 
