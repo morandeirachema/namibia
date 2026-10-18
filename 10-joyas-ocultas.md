@@ -139,7 +139,7 @@ flowchart LR
   presidente fundador, está enterrado aquí desde el 1 de marzo de 2025** ✅ — murió el 8 de febrero
   de 2025 a los 95 y su tumba es ahora el centro del recinto. Estáis ante la tumba del hombre que
   sale en los billetes, año y medio después de que el país lo enterrase.
-  **Abre a diario 08:00–17:00 ✅ · N$70 (~€3,5) ✅**. Salís a las 09:00–09:30 con un día de 3h15–3h45:
+  **Abre a diario 08:00–17:00 ❌ · N$70 (~€3,5) ❌** *(la ficha del Ayuntamiento que se citaba como fuente no publica ni horario ni entrada — comprobado el 18/10; el horario es el que repiten las guías)*. Salís a las 09:00–09:30 con un día de 3h15–3h45:
   media hora que sobra, y ésta es la media hora mejor pagada del documento.
 - **El paso, para contarlo arriba** ◐ — 1.822 m en lo alto y **casi 1.000 m de caída en 4 km**,
   pendiente entre 1:4,5 y 1:6: **el paso más empinado de Namibia** y el de mayor desnivel. Lo abrió
@@ -233,7 +233,7 @@ Fuentes: [Wikipedia — C14](https://en.wikipedia.org/wiki/C14_road_(Namibia)) �
   El de Sandwich Harbour de esta mañana suele pasar por aquí ○ — pregúntalo al reservar.
 - **Bird Rock, la plataforma de guano** *(B2, ~10 km al norte de Walvis, camino de Swakopmund — se
   ve desde la carretera; la ruta pasa a 800 m)* ◐ — una **plataforma de madera sobre el mar levantada
-  en 1930 por el carpintero Adolf Winter** y ampliada hasta ~17.000 m² en 1939, hoy colonia de cría
+  en 1930 por el carpintero Adolf Winter** y ampliada hasta ~17.000 m² en 1937 ◐ *([Wikipedia](https://en.wikipedia.org/wiki/Bird_Island_(Namibia)); aquí decía 1939)*, hoy colonia de cría
   de **cormorán del Cabo y pelícano** que rinde ~650 t de guano al año. Gratis, sin bajarse.
 
 Fuentes: [The Orange Backpack — Welwitschia Drive](https://theorangebackpack.nl/en/namibia/the-welwitschia-drive/) ○ ·
@@ -260,7 +260,7 @@ salvo el Uniab, que se deja para mañana.*
   accesible** de toda la Costa de los Esqueletos, sin andar nada. Gratis ○.
 - **Cape Cross, lo que no son los lobos** ◐ — las **dos cruces de piedra** son réplicas del
   *padrão* que **Diogo Cão plantó en 1486**: una de **1895** y otra, privada y más fiel, posterior;
-  **la original está en el museo del transporte de Berlín**. Al lado, la salina que cruzó **el
+  **la original estuvo en el Deutsches Historisches Museum de Berlín y volvió a Namibia en 2019** ✅ *([DHM](https://dhm.de/en/press/press-release/the-stone-cross-from-cape-cross); en 2021 seguía en un almacén de Walvis Bay según el [Bundestag](https://www.bundestag.de/presse/hib/845318-845318), y dónde se expone hoy ❌ — corregido el 18/10: aquí decía «museo del transporte de Berlín»)*. Al lado, la salina que cruzó **el
   primer ferrocarril del país** ◐. Va dentro de la entrada *(N$280 · ~€14 por persona + N$60 · ~€3 el coche, `01`)*.
 - **La puerta de Ugabmund** — las **calaveras** de las dos hojas de la verja son la foto que abre
   todos los reportajes del parque ◐; treinta segundos, que la puerta cierra a las 15:00.
@@ -306,7 +306,7 @@ Fuentes: [namibweb — Skeleton Coast](https://www.namibweb.com/skeleton.htm) �
   línea del día)* ◐ —
   dolina en caliza con **37 m de caída** a un sistema de galerías de 830 m; «Heitsieibeb», lugar
   sagrado para los khoikhoi. Sin barandilla ○. Gratis ○.
-- **El Damara Living Museum** *(en la D3254, ~10 km antes de los grabados — en el mapa)* ✅ — el
+- **El Damara Living Museum** *(en la D2612, ~10 km antes de los grabados — en el mapa; aquí decía D3254 ◐ [info-namibia](https://www.info-namibia.com/activities-and-places-of-interest/damaraland/damara-living-museum))* ✅ — el
   primer museo vivo damara del país: herrería, curtido, joyería, danza, juegos y fuego sagrado, con
   guía. **Tarifa 2026–27 ✅** *(su propio PDF, descargado el 28/08 — hasta esa fecha aquí estaban
   las cifras de 2024–25 con etiqueta de 2026)*: **N$150 (~€7,5) la vida tradicional (~1 h) · N$120
@@ -314,7 +314,7 @@ Fuentes: [namibweb — Skeleton Coast](https://www.namibweb.com/skeleton.htm) �
   (a petición, a 2 km)**; niños 0–2 gratis y 3–12 mitad de precio. Horario ❌.
 - **Organ Pipes y Burnt Mountain** *(al sur de Twyfelfontein, señalizados; a 7 y 8 km de la línea
   del día, pero las pistas son lentas: **+25 km y +1 h 13 medidos con OSRM** sobre la etapa)* ◐ —
-  columnas de dolerita de **~120 millones de años** en una garganta *(mejor luz al amanecer)* y la
+  columnas de dolerita de **~125–150 millones de años** ◐ *(las fuentes no coinciden; [Wikipedia](https://en.wikipedia.org/wiki/Organ_Pipes_(Namibia)))* en una garganta *(mejor luz al amanecer)* y la
   ladera volcánica que vira a púrpuras y negros. **N$250 (~€12,5)/adulto como visita guiada** ◐
   *(NHC vía prensa; los blogs viejos dicen «gratis»)*. Horario ❌.
 - **Petrified Forest** *(C39 hacia Khorixas, 42 km al oeste del pueblo)* — troncos fosilizados del
@@ -349,7 +349,7 @@ Fuentes: [namibweb — Skeleton Coast](https://www.namibweb.com/skeleton.htm) �
 
 ### D10 · lun 9 — Hoada → Kamanjab → Outjo → Etosha (Okaukuejo)
 
-- **Peet Alberts Koppie** *(C40, ~7 km al este de Kamanjab; +4 km medidos — en el mapa)* ◐ — un
+- **Peet Alberts Koppie** *(C40, ~4–5 km al este de Kamanjab, hacia Outjo — [Oppi-Koppi](https://www.oppi-koppi-kamanjab.com/activities/) y [RARI](https://rari.wits.ac.za/index.php/piet-albert-koppies-i); aquí decía ~7; +4 km medidos — en el mapa)* ◐ — un
   cerro con **más de 1.500 grabados san y khoi** *(jirafas, cebras, órix)*, monumento nacional y
   «una de las concentraciones más ricas del país». **La llave se pide con depósito en el Oase Garni
   B&B o en Oppi-Koppi, en Kamanjab** ◐; unas cancelas de granja, subida empinada de 600–800 m y sin
@@ -375,7 +375,7 @@ Fuentes: [Tripadvisor — Peet Alberts Koppie](https://www.tripadvisor.com/Attra
   el campamento, al atardecer, antes de sentarse en Moringa.
 
 Fuentes: [etoshanationalpark.com.na — mapa](https://etoshanationalpark.com.na/etosha-map/) ◐ ·
-[MEFT — desvío por Gemsbokvlakte](https://www.meft.gov.na/news/335/TRAFFIC-DEVIATION-VIA-GEMSBOKVLAKTE-ROAD-FROM-OKAUKUEJO-TO-HALALI-ETOSHA-NATIONAL-PARK/) ✅
+[MEFT — desvío por Gemsbokvlakte](https://www.meft.gov.na/news/335/TRAFFIC-DEVIATION-VIA-GEMSBOKVLAKTE-ROAD-FROM-OKAUKUEJO-TO-HALALI-ETOSHA-NATIONAL-PARK/) ✅ *(es la fase de 2025, del 23/04 al 30/11/2025)* · la de 2026, desde el 26/02 por la pista de Sueda, Salvadora y Charitsaub hasta el km 47: [namibian.org](https://namibian.org/blog/construction-of-new-main-road-through-etosha-progressing) ◐ · [Tourism Update](https://www.tourismupdate.com/article/etosha-road-closed-for-upgrades) ◐
 
 ### D12 · mié 11 — Safari Halali → Namutoni → Onguma
 
@@ -395,7 +395,7 @@ Fuentes: [etoshanationalpark.com.na — mapa](https://etoshanationalpark.com.na/
 ### D14 · vie 13 — Onguma → Tsumeb → Otavi → Otjiwarongo → Windhoek
 
 - **El lago Otjikoto** *(B1, ~20 km antes de Tsumeb, a la izquierda; la ruta pasa a 200 m)* ◐ —
-  dolina kárstica de **145 m de hondo** donde las tropas alemanas **arrojaron sus cañones y munición
+  dolina kárstica de **más de 90 m de hondo** ◐ *(145 según info-namibia; la cifra está discutida — [Wikipedia](https://en.wikipedia.org/wiki/Lake_Otjikoto))* donde las tropas alemanas **arrojaron sus cañones y munición
   antes de rendirse en 1915**: parte está en el museo de Tsumeb, parte sigue abajo como «museo
   subacuático». Mini-zoo y caldera de vapor de la mina. **Precio discordante**: el baremo NHC vía
   prensa dice **N$250 (~€12,5)** ◐ y reseñas de 2025 dicen **N$25 (~€1,25) + N$10 de
@@ -410,7 +410,7 @@ Fuentes: [etoshanationalpark.com.na — mapa](https://etoshanationalpark.com.na/
   una lápida entre matorral, en el km 500 del ferrocarril de Swakopmund. Diez minutos y solo para
   quien lo sepa. *(Nominatim no lo sitúa: no está en el mapa.)*
 - **Otjiwarongo, donde se come** ◐ — la **Crocodile Farm** *(Henk Willems St — en el mapa)*, abierta
-  **09:00–15:00** con visita de 20–30 min, precio ❌; y en la estación, **la locomotora 41**, una
+  **L–V 08:00–17:00 —el D14 es viernes—, sáb 08:00–15:00 y dom 09:00–15:00** ✅ *([namcrocs.com](https://www.namcrocs.com/); aquí decía 09:00–15:00)* con visita de 20–30 min, precio ❌; y en la estación, **la locomotora 41**, una
   Henschel de **1912** que traía el mineral de Tsumeb al puerto de Swakopmund hasta 1960.
 - **Okahandja, los tallistas** *(el mercado de madera junto a la B1 — en el mapa)* — ya en el `08`,
   y ya sabéis por qué es suelo herero *(`19`)*.
@@ -437,7 +437,7 @@ Fuentes: [info-namibia — Lake Otjikoto](https://www.info-namibia.com/activitie
   Craft Centre, o a 235 m de la entrada del D14)* ○ — la única figura de los Lone Men que cae en
   este viaje, y con una sola fuente detrás *(arriba)*: el cierre del viaje, con la cámara.
 - **La Christuskirche, el Alte Feste y el museo de la Independencia** están juntos a diez minutos
-  del Craft Centre, y ya están contados en el `19`.
+  del Craft Centre, y ya están contados en el `19` — ⚠️ **el Alte Feste está cerrado, se ve solo por fuera** ◐ *(«As of 2023, Alte Feste is closed and in urgent need of renovation», [Wikipedia](https://en.wikipedia.org/wiki/Alte_Feste))*.
 
 Fuentes: [Wikipedia — Gibeon (meteorite)](https://en.wikipedia.org/wiki/Gibeon_(meteorite)) ◐ ·
 [Atlas Obscura — Gibeon meteorites](https://www.atlasobscura.com/places/the-gibeon-meteorites-windhoek-namibia) ○ ·

@@ -10,7 +10,7 @@
 **30 de octubre – 15 de noviembre de 2026**
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
-[![cuenta atrás](https://img.shields.io/badge/faltan-19_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
+[![cuenta atrás](https://img.shields.io/badge/faltan-12_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
 [![reservas](https://img.shields.io/badge/reservas-7_de_8-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
 [![presupuesto](https://img.shields.io/badge/€4.082-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
@@ -220,7 +220,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 201 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 203 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **dos mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -230,7 +230,7 @@ leer del tirón, imprimir o llevar sin conexión.*
 
 🗺️ Y para la pared, o para doblar en la guantera: [**la lámina de ruta**](mapa-ruta-namibia-2026.pdf) *(**una sola hoja A2**, 420×594 mm, vectorial: el recorrido entero a 372 mm de ancho **pintado por firme** —asfalto, tierra, sal compactada, pista de parque y los ~5 km de arena de Sossusvlei—, con **el número de cada carretera en su escudo** (B1, C14, D1275…), **la distancia entre paradas** medida sobre el enrutado, y **las gasolineras en tres estados** —obligatoria, opcional y «sin garantía», tal como las clasifica el `01`—; debajo, las quince etapas con sus kilómetros, **sus carreteras y su firme**, y dónde se duerme cada noche; y al pie lo que manda —velocidades de planificación, la regla de las 18:00, los horarios de puerta de Etosha y los teléfonos de emergencia—. Se genera sola desde la misma geometría que el dossier y la agenda: si cambia una noche, cambia la lámina. En una impresora de casa, «ajustar a página» a A3 o A4)*.
 
-🎒 Y para llevar en la mano allí: [**la guía de viaje**](guia-de-viaje-namibia-2026.pdf) *(**92 páginas, sin un precio ni una reserva**: los mapas, el día a día, conducir, el campamento, los campamentos de Etosha, el escorpión, lo que no hay que hacer, la logística, la comida, la cultura y las joyas del camino, y **detrás, la guía de fauna entera**. Es el dossier recortado a lo que se consulta sobre el terreno —fuera el presupuesto, las tarifas, el estado de las reservas, la preparación y la investigación— y se genera sola de los mismos documentos: cada precio y cada reserva se cortan dentro de la frase, y `make comprueba` lee el PDF impreso para asegurarse de que no queda ninguno)*.
+🎒 Y para llevar en la mano allí: [**la guía de viaje**](guia-de-viaje-namibia-2026.pdf) *(**93 páginas, sin un precio ni una reserva**: los mapas, el día a día, conducir, el campamento, los campamentos de Etosha, el escorpión, lo que no hay que hacer, la logística, la comida, la cultura y las joyas del camino, y **detrás, la guía de fauna entera**. Es el dossier recortado a lo que se consulta sobre el terreno —fuera el presupuesto, las tarifas, el estado de las reservas, la preparación y la investigación— y se genera sola de los mismos documentos: cada precio y cada reserva se cortan dentro de la frase, y `make comprueba` lee el PDF impreso para asegurarse de que no queda ninguno)*.
 
 🛰️ Y para el GPS y el móvil: [**`ruta-namibia-2026.gpx`**](ruta-namibia-2026.gpx) y
 [**`ruta-namibia-2026.kml`**](ruta-namibia-2026.kml) — **los 39 puntos de la ruta como waypoints**
@@ -855,6 +855,6 @@ presupuesto de €3.940–4.240 pero siempre hacia arriba — y con lo decidido 
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 
-**Última actualización: 11 de octubre de 2026**
+**Última actualización: 18 de octubre de 2026**
 
 </div>

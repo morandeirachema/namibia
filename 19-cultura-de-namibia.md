@@ -61,7 +61,7 @@ timeline
   en Heroes' Acre desde el 1 de marzo** ✅ — el monumento por el que pasáis el D2 *(`10`)* es ahora
   su tumba. Y desde el **21 de marzo de 2025** gobierna **Netumbo Nandi-Ndaitwah, la primera
   presidenta** del país, sucediendo a Nangolo Mbumba ✅. Namibia marca además el **28 de mayo como
-  Día del Recuerdo del Genocidio** desde 2025: por eso los festivos ya son **catorce**, no trece.
+  Día del Recuerdo del Genocidio** desde 2025: con él, los festivos son **trece** ◐ *(doce de la ley de 1990 más éste — [Wikipedia](https://en.wikipedia.org/wiki/Public_holidays_in_Namibia), [namibian.org](https://namibian.org/blog/new-public-holiday-namibia-commemorates-victims-of-genocide); corregido el 18/10: aquí decía catorce)*.
 
 Fuentes ◐: [Wikipedia — History of Namibia](https://en.wikipedia.org/wiki/History_of_Namibia) ·
 [Wikipedia — Herero and Namaqua genocide](https://en.wikipedia.org/wiki/Herero_and_Nama_genocide) ·
@@ -73,11 +73,11 @@ Fuentes ◐: [Wikipedia — History of Namibia](https://en.wikipedia.org/wiki/Hi
 ## 2. Quién es quién — los pueblos, y dónde os los cruzáis
 
 **~3 millones de habitantes en un país del tamaño de Francia y el Reino Unido juntos: el segundo
-país menos denso del mundo** ◐. La lengua del hogar, según el censo de 2023 *(redondeado ◐)*:
+país menos denso del mundo** ◐. La lengua del hogar, según el censo de 2011 *(redondeado ◐ — [Wikipedia](https://en.wikipedia.org/wiki/Languages_of_Namibia); el reparto por lengua del de 2023 no está publicado, y hasta el 18/10 esto decía «2023» con las cifras de 2011)*:
 
 ```mermaid
 pie showData
-    title Lengua principal del hogar · censo 2023 · en %
+    title Lengua principal del hogar · censo 2011 · en %
     "Oshiwambo" : 49
     "Khoekhoegowab (damara-nama)" : 11
     "Afrikaans" : 10
@@ -187,7 +187,7 @@ os atiende, no un extra.
   **la ley seca dominical del alcohol (`08`) es tan cultural como legal**, y vuestros dos
   domingos de viaje *(1 y 8 de noviembre)* ya están planificados con ella.
 - **En vuestra quincena no cae ningún festivo nacional** ✅ *(verificado el 24/08 contra el
-  calendario oficial de 2026: los **catorce** festivos *(trece del Public Holidays Act de 1990 más
+  calendario oficial de 2026: los **trece** festivos *(doce del Public Holidays Act de 1990 más
   el Día del Recuerdo del Genocidio, 28 de mayo, desde 2025)* caen todos fuera —
   el más cercano por detrás es **Heroes' Day, el 26 de agosto**, y por delante el **Día de los
   Derechos Humanos, el 10 de diciembre**. **En octubre y noviembre no hay ninguno.**)* Así que la
@@ -219,7 +219,7 @@ flowchart TD
     style D12 fill:#7a3a22,color:#fff
 ```
 
-- **D1/D15 · Windhoek** — la **Christuskirche** *(1910)* y el **Alte Feste** *(el fuerte de 1890)*
+- **D1/D15 · Windhoek** — la **Christuskirche** *(1910)* y el **Alte Feste** *(el fuerte de 1890 — ⚠️ **cerrado, se ve solo por fuera** ◐: «As of 2023, Alte Feste is closed and in urgent need of renovation», [Wikipedia](https://en.wikipedia.org/wiki/Alte_Feste))*
   quedan juntos y a diez minutos del Craft Centre; enfrente, el **Independence Memorial Museum**
   —el edificio dorado construido, curiosidad, por el estudio norcoreano Mansudae ◐— cuenta la
   versión namibia de todo el §1. Entrada del museo: gratuita según guías ◐, horario ❌ sin
@@ -227,7 +227,7 @@ flowchart TD
 - **D2 · Rehoboth** *(de paso por la B1)* — la capital baster: no hay parada prevista, pero ya
   sabéis qué es cuando la crucéis.
 - **D7 · Swakopmund** — la colonia que no se fue: paseo de media hora entre el **Woermannhaus**,
-  el faro y el muelle de 1905 *(la cena, en `08`)*. Los **tours de Mondesa** *(el township)*
+  el faro y el muelle *(el de hierro, empezado en 1912: el de madera de 1905 se lo comió la carcoma ◐ — [Gondwana](https://gondwana-collection.com/blog/the-jetty-oyster-bar-instead-of-harbour-cranes); la cena, en `08`)*. Los **tours de Mondesa** *(el township)*
   existen y los llevan vecinos ◐ — misma regla ética del §4.
 - **D8–D9 · Twyfelfontein y Hoada** — los dos días más culturales del viaje sin proponérselo, y
   desde el 24/08 son **dos**: el **arte rupestre san** con guía local *(N$270 · ~€13,5 ◐, `11`)*
@@ -253,8 +253,8 @@ flowchart TD
 Sin pretensión de discografía — cuatro nombres que os sitúan la radio *(práctica común ○)*:
 **Jackson Kaujeua** *(la voz histórica de la canción de la independencia)*, **The Dogg** y
 **Gazza** *(los dos grandes del kwaito namibio)*, **EES** *(el «Nam-slang» de la comunidad
-alemana-namibia)* — y el **oviritje** herero que suena en Okahandja. La NBC emite en las doce
-lenguas del país: girar el dial por la grava de Damaraland es un curso de idiomas gratis.
+alemana-namibia)* — y el **oviritje** herero que suena en Okahandja. La radio de la NBC emite en **diez lenguas**, una emisora por lengua ◐
+*([Wikipedia](https://en.wikipedia.org/wiki/Namibian_Broadcasting_Corporation); aquí decía «las doce lenguas»)*: girar el dial por la grava de Damaraland es un curso de idiomas gratis.
 
 ---
 

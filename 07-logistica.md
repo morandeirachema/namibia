@@ -229,17 +229,16 @@ siempre lleno.
 parece — planifica llegar mucho antes del anochecer (las puertas de Etosha cierran al ocaso, y
 la de Ugabmund no deja pasar a pernoctar después de las 15:00).
 
-◐ **Con fecha desde el 14/08**: hay **reportes de 2025–2026 de cortes prolongados de combustible
-en Okaukuejo, Halali y Namutoni** *([travelandtourworld](https://www.travelandtourworld.com/news/article/etosha-sossusvlei-namibia-highlights-fuel-challenges-reshaping-self-drive-safari-travel-in-2026/) ·
-[Tripadvisor](https://www.tripadvisor.com/ShowTopic-g293820-i9680-k15422426-Fuel_planning_Etosha-Namibia.html))*,
-aunque NWR mantenga que sus surtidores funcionan «el 95 % del tiempo» ◐. Planifica igual: como si
-el corte te tocara a ti. El respaldo estable queda **fuera de la puerta de Anderson: Etosha
+⚠️ **Dentro de Etosha NO hay gasolina** ◐: los surtidores de Okaukuejo, Halali y Namutoni están
+**cerrados desde 2025** —el proveedor de NWR entró en liquidación— y a finales de septiembre de 2026
+seguían así *([etoshanationalpark.com.na](https://etoshanationalpark.com.na/plan-your-visit/etosha-road-conditions-fuel-planning), julio de 2026 ·
+[travelgumbo, 27/09/2026](https://travelgumbo.com/fuel-shortage-by-decree))*, aunque la web de NWR los
+siga listando *(corregido el 18/10: aquí se hablaba de «cortes prolongados»)*. El respaldo estable queda **fuera de la puerta de Anderson: Etosha
 Trading Post, a 6,5 km, con diésel 50 ppm y gasolina 95** ◐
 *([web](https://www.etosha-tradingpost.com/facilities.html))* — la regla de los días de Etosha,
-en el [`21`](21-campamentos-de-etosha.md): entrar lleno de Outjo y no fiar el D14 al surtidor de
-Namutoni. ⚠️ **Y desde el 24/08 hay un matiz nuevo: las dos últimas noches se duermen en Onguma,
-fuera del parque, y Onguma no tiene surtidor** ❌ — el último de dentro es el de Namutoni, **al
-pasar el D12**; el siguiente seguro es **Tsumeb, a 105 km** ✅.
+en el [`21`](21-campamentos-de-etosha.md): entrar con los dos depósitos llenos de Outjo y de la
+Trading Post, y no repostar hasta Tsumeb el D14 (~575 km desde Outjo, 63–75 l de los 140). ⚠️ **Y desde el 24/08 hay un matiz nuevo: las dos últimas noches se duermen en Onguma,
+fuera del parque, y Onguma no tiene surtidor** ❌ — el siguiente seguro es **Tsumeb, a 105 km** ✅.
 
 ---
 
@@ -267,13 +266,27 @@ flowchart LR
   de Palmwag** ◐ *(OpenStreetMap: −19,884 · 13,949, ~500 m al sur del lodge)*, que se cruza hacia el
   sur el **D9** camino de Grootberg y Hoada · Springbokwasser figura como puerta de control, aunque
   solo consta que revisen en sentido norte ○
-- La carne **cocinada** suele pasar; envasados al vacío comerciales y **biltong**, normalmente bien
+- La carne **cocinada** suele pasar ◐. **El biltong NO**: *«Biltong is considered a raw animal
+  product»* ◐, y lo **envasado al vacío o congelado cuenta como crudo** — la guía de la valla no
+  distingue *(Tracks4Africa, abajo; corregido el 18/10: aquí decía «normalmente bien»)*. Y el MEFT lo
+  dice sin excepciones para las tres puertas del sur de Etosha: *«it is prohibited to exit the park
+  with raw meat at the Anderson, Galton and Von Lindequist gates»* ◐ *(nota de 25/02/2025, vía
+  [Namibian Sun](https://namibiansun.com/tourism/ministry-concerned-over-disregard-for-national-park-rules2025-03-03149849))*
 - **La aplicación varía**
+- ⚠️ **Y en 2026 hay brote de fiebre aftosa** ◐: confirmado el 23/09/2026 en el distrito de
+  **Karasburg** (||Kharas, el extremo sur, lejos de la ruta). La notificación de la DVS del 28/09
+  mantiene **restringido el movimiento de productos de pezuña hendida hacia el norte de la valla**,
+  y al sur la carne de tienda circula **con el ticket de compra** *([The Namibian, 28/09/2026](https://www.namibian.com.na/fmd-update-in-kharas-region/))*.
+  En la práctica: **guarda el ticket de toda la carne**, y **pregunta en el control de Palmwag (D9) y
+  en la puerta de Andersson (D10) si dejan pasar carne cruda** — si no, se cocina antes o se compra
+  ya dentro *(los braai packs de los campamentos)*.
 
 👉 **Plan, día a día:** la carne del **D9** *(la comprada en Walvis Bay el D6, jueves 5 — `08`)* se cocina en Twyfelfontein
 el D8 o se queda en el control de Palmwag · la de **Outjo, el D10**, da para los braais de Okaukuejo
 y Halali y **se acaba antes del D12**, que es cuando se sale por Von Lindequist · y las dos noches de
-**Onguma se resuelven con sus braai packs**, que se compran ya fuera de la Línea *(`21`)*.
+**Onguma se resuelven con sus braai packs**, que se compran ya fuera de la Línea *(`21`)* — **pero
+el D13 se vuelve a entrar y a salir por Von Lindequist con el coche**: ese día, **ni un gramo de
+carne cruda en la nevera**; el braai pack de esa noche se compra a la vuelta.
 No llenes la nevera de filetes crudos para la vuelta.
 **Declara siempre**: al turista que declara **no se le multa**, pero **saltarse un control
 veterinario es delito**. Para cuando te lo indiquen.
@@ -284,7 +297,7 @@ Fuente: https://blog.tracks4africa.co.za/veterinary-fences-in-namibia-and-botswa
 
 ## 📱 Cobertura: MTC, y los silencios reales ◐
 
-**MTC tiene ~80 % de cuota** y de largo la mayor huella rural. **TN Mobile** (Telecom Namibia) es más
+**MTC tiene ~80–91 % de cuota** *(el 91 %, según el consejero delegado de CRAN en octubre de 2025 ◐ — [The Brief](https://thebrief.com.na/2025/10/namibian-market-can-sustain-more-telecom-players-cran/))* y de largo la mayor huella rural. **TN Mobile** (Telecom Namibia) es más
 barata pero con cobertura **notablemente peor** fuera de los pueblos.
 👉 **Para un self-drive, MTC es la elección correcta, y no está reñido.**
 
@@ -406,9 +419,11 @@ Control del [Bank of Namibia](https://www.bon.com.na/Informations/FAQ/Exchange-C
 web daba error al verificarla; corroborado en guía secundaria)*. La aduana
 ([NamRA](https://www.namra.org.na/documents/cms/uploaded/customs-procedure-travellers-guide-information-1579b9600b.pdf) ✅,
 releída el 09/10) exige **declarar el efectivo y las divisas que se lleven**, al entrar *y* al
-salir — *«cash/bearer negotiable instruments, or foreign currency in their possession»* —, **sin
-umbral**: se declara **todo**, sea la cantidad que sea. *(El `08` daba un «≥ N$100.000 (~€5.000)» que esa guía
-no dice; corregido allí el mismo día.)*
+salir — *«cash/bearer negotiable instruments, or foreign currency in their possession»* —, y en su
+pág. 11 pone entre los bienes restringidos, que piden certificado o permiso, *«Currency, bearer
+negotiable instruments, or both, equal to and exceeding an amount of N$100 000»* (~€5.000) ✅. Es
+decir: **se declara todo, y a partir de N$100.000 (~€5.000) hace falta además permiso** *(releída el
+18/10: el 09/10 se había leído solo la primera lista y se dio por hecho que no había umbral)*.
 
 ### Cuánto efectivo
 
@@ -464,10 +479,12 @@ No son una incidencia — son parte del paisaje, y con el kit en la guantera dur
 
 ## 🚑 Emergencias
 
-> ### ⚠️ La trampa del 10111
-> **No es un número corto nacional** que puedas marcar del tirón desde un móvil: **va precedido de
-> prefijo de zona** — Windhoek = **+264 61 10111** — y **el prefijo cambia por región**.
-> 👉 **Graba el número completo en formato internacional, no «10111».**
+> ### ⚠️ El 10111, en sus dos formatos
+> El [FCDO](https://www.gov.uk/foreign-travel-advice/namibia/getting-help) da como números de emergencias de Namibia **10111, 999 y 112** *(«ambulance, fire,
+> police»)* ✅; la Embajada de España da la policía con prefijo de zona — Windhoek =
+> **+264 61 10111** ◐, y el prefijo cambia por región.
+> 👉 **Graba los dos: el corto y el completo en formato internacional** *(corregido el 18/10: aquí
+> decía que el 10111 no era un número corto nacional)*.
 
 **Rescate y ambulancia** *(lista de un proveedor de Namibia Health Plan, con fecha 13/02/2024 —
 ⚠️ verificar al llegar)*:
@@ -475,8 +492,8 @@ No son una incidencia — son parte del paisaje, y con el kit en la guantera dur
 - **E-Med Rescue 24** *(todos los centros principales del país)* — gratuito **924**, también
   **924** / **+264 83 924 9111** / **061 411 600** *(los cortos 081 924 / 083 924 de la lista NHP de
   2024 ya no figuran en la web de E-Med, que publica éstos — 25/08)*
-- **Lifelink Emergency Services** *(centros principales + ambulancia aérea nacional)* — **999 desde
-  fijo** *(desde el móvil no se da por hecho)* / **064 500 346**, en formato internacional
+- **Lifelink Emergency Services** *(centros principales + ambulancia aérea nacional)* — **999**
+  *(el FCDO lo da como número general de emergencias; desde el móvil, sin confirmar ◐)* / **064 500 346**, en formato internacional
   **+264 64 500 346**
 - **Medical Rescue Africa** *(ambulancia aérea nacional)* — **912** nacional /
   **+264 8333 900 33** / **+264 81 129 4973** internacional
@@ -503,12 +520,15 @@ Interest Group** — Dr. Christo Buys **+264 81 127 5109** · Dra. Esta Saaiman 
 por el [African Snakebite Institute](https://www.africansnakebiteinstitute.com/snakebite/) ✅)*.
 ⚠️ El «Poison Information Helpline 0861 555 777» que repiten las guías es **marcación nacional
 sudafricana: no sirve desde Namibia** — en formato internacional es **+27 861 555 777** ✅
-*([AfriTox](https://www.afritox.co.za/), 24 h)*. El protocolo entero de la picadura de escorpión —qué
+*([AfriTox](https://www.afritox.co.za/))* — **ojo al horario**: AfriTox dice 24 h, pero la
+Universidad de Ciudad del Cabo, que lo lleva, publica *«It operates between 08:30 and 01:30 daily»*
+✅ *([UCT](https://health.uct.ac.za/node/71338))*: de madrugada, primero el NSIG y la ambulancia. El protocolo entero de la picadura de escorpión —qué
 hacer, qué no, cuándo correr al hospital y cuál— es el [`22`](22-picadura-de-escorpion.md); la
 compresa fría y la venda del caso, en el botiquín del [`17`](17-lista-de-equipaje.md).
 
 🇪🇸 Y el de los papeles: **Embajada de España en Windhoek** — emergencia consular 24/7
-**+264 85 128 0571** · centralita +264 61 22 30 66 ◐ *(datos y fuentes, en `04`)*. Pasaporte
+**+264 85 128 0571** · centralita +264 61 22 30 66 ◐ *(datos y fuentes, en `04`)* — y graba
+también el **+264 81 128 0571**, que es el que da otra página de la misma web del Ministerio ◐. Pasaporte
 perdido o robado: a ellos.
 
 ---
@@ -560,13 +580,16 @@ zona de Etosha.
 
 ### La costa (D5–D7) sí tiene hospital — dos, privados ◐
 
-- **Mediclinic Swakopmund** — Franziska van Neel St · **+264 64 412 200** ◐
+- **Mediclinic Swakopmund** — Franziska van Neel St · **+264 64 412 200** ◐ · urgencias **+264 64 412 205**
+  ✅ *([Mediclinic](https://www.mediclinic.co.za/en/corporate/hospitals/emergency-centres.html))*
   *([mediclinic.co.za/swakopmund](https://www.mediclinic.co.za/en/swakopmund/home.html))*
 - **Welwitschia Hospital (Walvis Bay)** — urgencias **+264 64 218 911** · centralita
   **+264 64 218 902** ◐ *([welwitschiahospital.com](https://welwitschiahospital.com/contact-us/))*
 
 Cubren los tres días de la costa —crucero, dunas y ostras incluidos— y son la referencia del D5
-al D7 por la mañana. **Del norte de Henties Bay hasta Kamanjab no hay NADA**, y desde el 24/08 ese
+al D7 por la mañana. **Del norte de Henties Bay hasta Kamanjab no hay ningún hospital privado** —sí
+el **hospital público de distrito de Khorixas**, el más cercano a Twyfelfontein el D8–D9 ◐
+*([New Era](https://neweralive.na/?p=262610))*—, y desde el 24/08 ese
 vacío dura **cuatro días** en vez de tres *(D7 desde mediodía, D8 en Twyfelfontein, D9 en Hoada y
 la mañana del D10)*: ese tramo es del satelital y de las ambulancias de arriba.
 
@@ -595,7 +618,6 @@ Fuente: https://www.mediclinic.co.za/en/otjiwarongo/home.html
   **N$349 ≈ €17/14 días/10,1 GB** y «Premium» **N$659 ≈ €33/30 días/20,1 GB**, convergentes entre la web de MTC,
   su PDF de T&C y un blog independiente (ver §Cobertura). El precio de la **eSIM** sigue sin cerrar
 - ~~**Disponibilidad de combustible dentro de los campamentos de parques**: reportes sin
-  confirmar~~ **con fecha desde el 14/08 ◐**: cortes reportados en 2025–2026 en los tres camps de
-  Etosha *(ver §Distancias reales y el [`21`](21-campamentos-de-etosha.md))*
+  confirmar~~ **cerrado el 18/10 ◐**: los tres surtidores de Etosha, cerrados desde 2025 y así a septiembre de 2026 *(ver §Distancias reales y el [`21`](21-campamentos-de-etosha.md))*
 - **La matriz de distancias es de 2010**: verificar contra Tracks4Africa
 - **La lista de emergencias es de febrero de 2024**: verificar al llegar

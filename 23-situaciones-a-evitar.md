@@ -262,8 +262,10 @@ acaban el viaje**, por orden de probabilidad real y no de miedo:
 - **No conducir el tramo de la tarde con menos de un litro de agua a mano por cabeza** ✅ — 4 L
   por persona y día **en el coche**, y el calor es un peligro de conducción, no de confort
   *(`06` §11, `17` §en el coche)*.
-- **No olvidar que la zona de malaria empieza el D7, no en Etosha** ✅ — Kunene incluye Terrace
-  Bay; la profilaxis arranca el 4–5 de noviembre y el repelente va desde el crepúsculo
+- **No olvidar que la zona de malaria empieza en Damaraland (D8), no en Etosha** ◐ — el riesgo
+  estacional está en *«most parts of Kunene»* y en Etosha, y la costa y el Namib quedan fuera *([ITM
+  Amberes](https://www.wanda.be/en/landen/namibia/), 16/10/2026; corregido el 18/10: aquí decía el D7,
+  por Terrace Bay)*. La profilaxis sigue arrancando el 4–5 de noviembre y el repelente va desde el crepúsculo
   *(`04` §malaria)*. Y **toda fiebre en zona de malaria se mira el mismo día** ✅ *(`17` §botiquín)*.
 - **No ir en pantalón corto por el monte al anochecer sin repelente** ◐ — mosquito y garrapata;
   la fiebre por garrapata africana es la fiebre con sarpullido más frecuente del safari austral y

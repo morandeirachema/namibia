@@ -38,7 +38,7 @@ Informe **NRSC «Road Crashes in Namibia» 2019**, sobre **18.665 accidentes** y
 flowchart LR
     T["Letalidad por tipo de accidente<br/>muertos por cada 100 accidentes"]
     n0["Vuelco de vehiculo unico<br/>17,7"]
-    n1["Choque frontal/alcance<br/>0,64"]
+    n1["Alcance por detras<br/>0,64"]
     T ~~~ n0
     n0 ~~~ n1
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
@@ -49,8 +49,9 @@ flowchart LR
 - También el mayor número de heridos graves (**310**) y leves (**466**) de cualquier tipo:
   **928 víctimas (27,8 %)**
 - El propio informe: *«the most devastating crashes with casualties were single vehicle overturned (928)»*
-- **Letalidad comparada**: el vuelco mata **17,7 por cada 100 accidentes**; el choque frontal/alcance
-  —el más **común**, con 4.090— mata **0,64 por cada 100**
+- **Letalidad comparada**: el vuelco mata **17,7 por cada 100 accidentes**; el **alcance por detrás**
+  —«head/rear end», el más **común**, con 4.090; el frontal, «head on», es otra fila— *(traducción
+  corregida el 18/10)* mata **0,64 por cada 100**
 - 👉 **Un vuelco es ~28 veces más letal por evento que el accidente más frecuente**
 
 ### Y se concentra exactamente en nuestra ruta ✅
@@ -220,13 +221,13 @@ El consejo es bueno; la cita, mal usada.
 ## 7. Animales: muy frecuentes, rara vez mortales — pero rompen el coche
 
 **Los datos** ✅ (NRSC 2019, tabla 5): accidentes **«with animal» = 2.756 = 14,8 %** de todos,
-**el 2º tipo más frecuente** tras el frontal/alcance.
+**el 2º tipo más frecuente** tras el alcance por detrás.
 
 Por región, como porcentaje de los accidentes de esa región:
 - **Kunene** (Damaraland/Twyfelfontein): **153 de 502 = 30,5 %** → **casi un tercio de los
   accidentes de la región llevan animal**
 - **Otjozondjupa** (el corredor Windhoek–Otjiwarongo–Etosha que vas a hacer): **525** en absoluto,
-  el mayor fuera del norte
+  el mayor de todas las regiones ◐ *(por delante de Khomas, 379; aquí decía «el mayor fuera del norte»)*
 - Hardap 133 · Erongo 129 · !Karas 62
 
 **Lo tranquilizador:** los accidentes con animal mataron **solo a 7 personas** en 2019.
@@ -437,12 +438,15 @@ exterior desde **~06:10**. El amanecer en Deadvlei mismo, ese 3 de noviembre: **
 
 ## 13. Teléfonos que hay que llevar grabados ✅
 
-> ### 🚑 **MVA Fund — respuesta a accidentes: 9682** (gratuito dentro de Namibia)
+> ### 🚑 **MVA Fund — respuesta a accidentes: 9682** (gratuito, desde una línea namibia)
 
 El **MVA Fund** es un organismo **estatutario** (Motor Vehicle Accident Fund Act 10 de 2007, citado
 en la cláusula 10.8 de Asco) que da prestaciones médicas y por lesión a **cualquiera** herido en un
 accidente de tráfico en Namibia, **sin importar nacionalidad ni culpa**.
-👉 **Como visitante español, estás cubierto por él.** Centralita: **+264 61 289 7000**
+👉 **Como visitante español, estás cubierto por él.** Centralita: **+264 61 289 7000** — es la que
+hay que marcar desde el satelital o desde una SIM española: el 9682 solo sale por operador namibio ◐
+*(Recomendaciones de viaje del MAEC: «0819682 (gratuito, pero válido solo para llamadas a través de
+operadores namibios)»)*
 
 - **Savanna** — ⚠️ **su número de emergencias 24 h sigue sin estar en el dossier a 09/10** ❌:
   pídelo antes de salir o, como tarde, en la entrega, y grábalo — es el que de verdad importa.
@@ -455,9 +459,11 @@ accidente de tráfico en Namibia, **sin importar nacionalidad ni culpa**.
 ❌ **Refutado 0–2** el envoltorio legal de este punto, **no los contactos**: todos los teléfonos
 están verificados y la cita del CEO del MVA Fund es literal en su web.
 
-⚠️ **El «10111» a secas no te sirve**: no es un número corto nacional fiable desde móvil *(el
-corto es el de la policía sudafricana)*. En Namibia funciona **con prefijo de zona** — Windhoek:
-**+264 61 10111** — y el prefijo cambia por región: **graba el formato completo** (ver `07`).
+⚠️ **Graba los dos formatos de la policía**: el corto, **10111** —que el [FCDO](https://www.gov.uk/foreign-travel-advice/namibia/getting-help) da como número de
+emergencias de Namibia junto con el **999** y el **112**: *«Telephone: 10111, 999, 112 (ambulance,
+fire, police)»* ✅— y el largo con prefijo de zona, **+264 61 10111** en Windhoek ◐, que es el que
+da la Embajada de España y el que sale desde un teléfono que no sea namibio *(corregido el 18/10:
+aquí decía que el 10111 a secas «no te sirve»)*.
 
 **Práctico:** guárdalos **offline**, **apúntalos en papel en la guantera**, y ten presente que **no
 hay cobertura móvil en buena parte de Damaraland, el Namib y el sur profundo** — que es justo por lo

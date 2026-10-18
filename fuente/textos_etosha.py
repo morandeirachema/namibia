@@ -7,7 +7,8 @@ INTRO_EXTRA = """
   pasada la puerta de Von Lindequist, así que <strong>el D12 y el D13 hay que estar fuera antes del
   cierre</strong>. Las
   puertas siguen al sol y cambian cada semana: para vuestras fechas, <strong>06:13–19:06</strong> del
-  3 al 9 y <strong>06:10–19:10</strong> del 10 al 16 — <em>trece horas de parque al día</em>, casi dos
+  3 al 9 y <strong>06:10–19:10</strong> del 10 al 16 <em>(la tabla de 2025: la de 2026 está en la
+  puerta)</em> — <em>trece horas de parque al día</em>, casi dos
   más que en invierno. Dentro, <strong>60 km/h</strong> (20 en los campamentos) y
   <strong>solo se puede bajar del coche dentro de los campamentos</strong>.</p>
   <p><strong>La táctica que funciona no es conducir: es esperar.</strong> Elegid una charca, apagad
@@ -24,12 +25,14 @@ INTRO_EXTRA = """
   ruta <strong>la salida de mañana se hace guiada desde cada campamento (N$650 ≈ €33 p.p.,
   decidido el 08/08)</strong>: los traslados entre campamentos van con el 4x4 propio.</p>
   <p>🚧 <strong>Aviso de obras — confirmado que os afecta:</strong> están asfaltando la pista
-  Okaukuejo–Halali–Namutoni y la nota oficial del MEFT de 2026 fija un <strong>desvío OBLIGATORIO
-  por la pista de Gemsbokvlakte del 2 de junio de 2026 a julio de 2027</strong> — vuestra ventana
-  cae de lleno. Las charcas accesibles del tramo son <strong>Gemsbokvlakte, Sueda y
+  Okaukuejo–Halali–Namutoni, y en 2026 hay <strong>desvío OBLIGATORIO</strong>: desde el 26 de
+  febrero por la pista de Sueda, Salvadora y Charitsaub hasta el km 47, y de ahí por el bypass y el
+  Rhino Drive hacia Halali — la nota oficial del MEFT es de la fase de 2025; la de 2026 la cuentan
+  namibian.org y Tourism Update ◐, y la fecha de fin, «julio de 2027», solo las secundarias. Vuestra
+  ventana cae de lleno. Las charcas accesibles del tramo son <strong>Gemsbokvlakte, Sueda y
   Salvadora</strong> —el mejor borde de pan para guepardo y león—; <strong>Nebrownii y Kapupuhedi
-  quedan fuera</strong> por la obra. Son ~108 km en vez de ~70. <strong>Reconfirmad con NWR al
-  reservar</strong> (+264 67 229 800).</p>
+  quedan fuera</strong> por la obra. Son ~108 km en vez de ~70. <strong>Preguntadlo en recepción de
+  Okaukuejo</strong> (+264 67 229 800) — si el tramo hubiera reabierto, volverían las dos charcas.</p>
 """
 
 NOCTURNO = """

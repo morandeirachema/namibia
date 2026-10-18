@@ -287,7 +287,11 @@ flowchart LR
   **Confirma el proxy de Windhoek** (31,2/16,3 ✅): misma altitud (~1.700 m), mismo clima de meseta.
   Arriba corre viento y refresca al caer el sol ○
 - ☀️ amanecer **06:07** (Windhoek) · anochecer **~19:09** (el paso) — *el atardecer en el paso es
-  el plan del día: en posición hacia las 18:40*
+  el plan del día: en posición hacia las 18:40*. ⚠️ **Pero el camping no está arriba**: está *«on the
+  D1275, about half way down the pass from the Spreetshoogte view point»* ✅ *([Barkhan](https://www.barkhan.africa/spreetshoogte-campsite.php))*
+  — así que el atardecer del mirador obliga a bajar medio paso, el más empinado del país, ya
+  oscureciendo. **O se ve desde el camping**, que la misma ficha vende por sus *«golden sunsets»*, **o
+  se baja en cuanto el sol toca el horizonte**, sin esperar al último color *(añadido el 18/10)*
 - B1 a Rehoboth (87 asfalto) → C24 → D1261 → **D1275: el paso**. ⚠️ **Muy empinado**, tramos de
   hormigón para tracción, prohibido a caravanas — se baja despacio y es espectacular
 - 💧🪵💶 **La carga de escarpa se hizo AYER**: agua **≥3–4 garrafas de 5 L** ○ *(la regla de
@@ -296,7 +300,12 @@ flowchart LR
   noche — tarifa cerrada el 24/08 ✅, `20` §5 — **más la leña, que allí se vende: N$55 (~€2,75)
   el fardo de 10 kg**)*. Sin cajero fiable hasta Walvis Bay (D5): **no
   bajar de N$4.000 (~€200)** *(`07`)*
-- 🌇 **Atardecer desde el mirador del paso**: el Namib a 1.000 m bajo tus pies
+- 🌇 **Atardecer desde el mirador del paso**: el Namib a 1.000 m bajo tus pies — con la bajada al
+  camping todavía por delante *(arriba)*
+- 🔌 **Y en la parcela no hay enchufe**: *«no electricity at camp sites, only solar lights at the
+  ablution block»* ✅ *([Barkhan](https://www.barkhan.africa/spreetshoogte-campsite.php))* — la nevera, con su
+  batería propia, no se recarga esta noche *(su autonomía sin recarga, sin confirmar ❌ — `18` §5)*, y
+  los móviles, del mechero del coche
 - 🐾 **Alrededor del campamento: sin parte de avistamientos — es granja privada en la escarpa** ❌.
   Ni Expert Africa publica partes aquí ni el polígono GBIF del Namib llega tan al norte:
   **pregúntale al dueño qué baja al anochecer**. Lo único afirmable: el chacal se oye en casi
@@ -454,6 +463,12 @@ flowchart LR
   van las otras dos reinas de la laguna, con ficha nueva del 08/08: **gaviota de Hartlaub** *(1.591
   ◐)* y **avoceta** *(1.057 ◐)*; los **pelícanos** cierran la lista grande *(977 ◐)*. En
   tierra, nada que esperar: es ciudad ○
+- ⚠️🦭 **Y la rabia de los lobos marinos empezó AQUÍ**: el primer lobo marino rabioso del país
+  *«was spotted at the Walvis Bay Lagoon on 12 June»* de 2025 ✅ *([The Namibian, 18/09/2025](https://www.namibian.com.na/rabies-detected-in-namibiascape-fur-seals-for-first-time/))*,
+  y la misma nota nombra como exposición *«kayaking, marine cruises and visits to Cape Cross»*. **Ni
+  tocar ni acercarse a ningún lobo marino** —en la orilla de la laguna, en el paseo ni en el crucero
+  del D6—; una mordedura o un arañazo es **lavar con agua y jabón y hospital el mismo día**
+  *(Welwitschia, en Walvis Bay — `07`; el detalle, en el [`23`](23-situaciones-a-evitar.md) §5)*
 - 🛏️ **Walvis Bay — también en tienda.** El único sitio con camping que aparece listado en la
   ciudad es **Lagoon Chalets**, que es además el que usó el blog de referencia ◐. **Precio: un
   portal publica camping «desde R700» ≈ N$700 (~€35) la noche para dos** ◐ *(lekkeslaap, `20` §5)*;
@@ -562,8 +577,9 @@ flowchart LR
   tardío del viaje: estás en el extremo occidental del huso*
 - Salida por **Springbokwasser** → C39 → D2612/**D3254** → **Twyfelfontein**. **Terrace Bay →
   Twyfelfontein son ~211 km ◐** *(OSRM; cuadra con el 96+120 verificado el 03/08 y con los 216 del
-  routeplanner)*: **grava entera**, y **Springbokwasser cierra a las 17:00** ◐ *(07:30–17:00, `08`;
-  además el permiso de Skeleton Coast obliga a salir el mismo día)*. **La cuenta del día** ○: ~96 km
+  routeplanner)*: **grava entera**, y **Springbokwasser: entrada hasta las 17:00, salida hasta las 19:00** ◐
+  *(«open from 7:30 am to 5 pm, and exit is between 7:30 am and 7 pm» — [anywhereweroam](https://anywhereweroam.com/driving-the-skeleton-coast/), 18/09/2026; además el permiso de
+  Skeleton Coast obliga a salir el mismo día)*. **La cuenta del día** ○: ~96 km
   de parque a 60 hasta la puerta (~1h40) y ~115 de grava a Twyfelfontein (~1h50): **~3h30 de volante
   pelado, ~3h45–4h30 con paradas** ◐ *(el convenio del `13` sobre el firme de OSRM)*; para estar en los
   grabados a las ~16:00, **tope de salida de Terrace Bay ~12:00 sin paradas** — y lo que el `10`
@@ -572,7 +588,9 @@ flowchart LR
 - 🗿 **Los grabados, con tiempo por primera vez**: **Twyfelfontein** (arte rupestre, Patrimonio de
   la Humanidad; Google lo lista como cerrado — **es un fallo del listado**). ⚠️ **La visita guiada
   es obligatoria y de pago: N$270 (~€13,5)/persona, solo efectivo** ◐ *(tarifario NHC; ver `11`)*.
-  **Horario de apertura ❌ sin verificar.** Llegando a media tarde entra **hoy a última hora**, que es
+  **Abre todos los días de 08:00 a 17:00** ◐ *(«open daily from 08:00 to 17:00» — [cycloscope](https://cycloscope.net/twyfelfontein-rock-paintings-namibia-unesco/), junio de 2026; la
+  hora de la última visita no se publica: **llegar como tarde hacia las 15:30**, que la visita son
+  45–60 min y 500 m a pie)*. Llegando a media tarde entra **hoy a última hora**, que es
   la ventaja de dormir aquí — **mañana temprano, no**: mataría la salida a las ~07:00 que pide la
   alternativa de Palmwag *(D9)*
 - 🏜️ **Y con la tarde libre, lo que hay al lado**: el **Organ Pipes**, la **Burnt Mountain** y el
@@ -651,8 +669,8 @@ flowchart LR
   lodge de Palmwag** ◐ *(OpenStreetMap: «Disease Control Point», −19,884 · 13,949; el lodge queda
   ~500 m al norte)*. Se cruza **hacia el sur** al salir de Palmwag rumbo a Grootberg, y ahí
   **confiscan la carne cruda** — la comprada en Walvis Bay el D6 hay que **habérsela comido o
-  cocinado antes**. Pasan el biltong, las conservas, los envasados comerciales, el pollo y el
-  pescado *(`07`)*
+  cocinado antes**. **El biltong y lo envasado al vacío también se quedan**: cuentan como carne
+  cruda ◐; pasan las conservas, el pollo y el pescado ○ *(`07`; corregido el 18/10)*
 - 🐾 **Alrededor del campamento** — mismo polígono GBIF que ayer *(Damaraland: elefante del
   desierto 139/27, damán 62/13, springbok 50/23 ◐)*, pero **Hoada está en el granito**: el damán es
   el fijo de las rocas del campamento ○
@@ -809,7 +827,8 @@ flowchart LR
     vez**, o al guiado o a la cola de las 06:05 de abajo. **Lo que hay que preguntar a Onguma es a qué
     hora sale**; la decisión, pendiente *(la casilla, en `20` §9)*. **Los dos, en el presupuesto**
     *(`02` §9)*
-  - 📌 **Las actividades y las comidas se reservan al hacer la reserva o al llegar a recepción** ✅
+  - 📌 **Onguma pide reservar las actividades con 30 días de antelación** ✅
+    *([onguma.com](https://www.onguma.com/activities))*: si no están cerradas, **escribir ya** *(corregido el 18/10)*
 - 🛏️ **Onguma Tamboti, segunda noche** ✅ **RESERVADA**
 
 > ### 🐆 El día del guepardo — y ya no hay plan B, así que se juega bien
@@ -857,8 +876,8 @@ flowchart LR
   riesgo propio *(`06` §6, `20` §1)* — la ventaja es la ventanilla que no hay que hacer, no madrugar
   a oscuras *(corregido el 28/08)*
 - Onguma → C38 → Tsumeb → Otjiwarongo → B1 · comida en Otjiwarongo
-- ⛽ **Primer repostaje, Tsumeb: ~105 km** ◐ *(enrutado propio; las secundarias dan 108–110)* — el depósito no se fía a los
-  surtidores del parque *(`07`)*
+- ⛽ **Primer repostaje, Tsumeb: ~105 km** ◐ *(enrutado propio; las secundarias dan 108–110)* — dentro del parque no
+  hay gasolina desde 2025 *(`21` §gasolina)*: se llega con lo que salió de Outjo
 - 🗿 **Al entrar en la ciudad pasáis a 235 m del «Telephone Man»** ○ *(−22,56397 · 17,07045,
   Windhoek West)* — el único Lone Man que cae en este viaje. Verlo hoy desde el coche ahorra el
   paseo de 25 minutos de mañana *(`10`)*
@@ -872,7 +891,8 @@ flowchart LR
   Grootfontein (B8), **+93 km — no cabe con la regla de las 18:00** ◐ *(OSRM: 632 frente a 539, sobre
   el día más largo del viaje — `10`)*
 - 🐆 **Y la versión de este día que va a por el leopardo, sin tocar nada de Etosha**: dormir hoy en
-  **Okonjima** en vez de en Windhoek —**312 km** en vez de 539—, con el **rastreo de leopardo de la
+  **Okonjima** en vez de en Windhoek —**~345–360 km** en vez de 539, por Tsumeb, Otjiwarongo y la B1, los
+  últimos ~25 de grava ◐ *(los 312 que se daban eran la ruta libre de OSRM, con ~150 km de pistas D)*—, con el **rastreo de leopardo de la
   tarde** *(N$1.600 · ~€80 pp, «alrededor del 80 %» según su jefe de guías)* y otro a la mañana
   siguiente si hace falta, y el D15 con **225 km** hasta Windhoek. **Sin decidir**: medida entera
   en `aparte/plan-felinos` *(27/08)*
@@ -1025,14 +1045,18 @@ flowchart LR
     irregular, la bomba histórica ya no va — respaldo de emergencia, no plan. · ❌ **Grootberg /
     Hoada**: nada.
 - **D10 · Kamanjab** ✅/◐ — ⛽ **OBLIGATORIA**: Shell con SaveMor Spar. **Y Outjo** ✅ — ⛽
-  **OBLIGATORIA también**: Shell Eyambeko, y **aquí se llena antes de cruzar Andersson**.
-- **D11–D13 · Etosha** ✅⚠️ — los campamentos **listan «Filling Station» en la web oficial de
-  NWR**, pero **con historial de cortes en 2025**: **entra lleno desde Outjo** y no planifiques con
-  ellos. Respaldo: la **Etosha Trading Post**, a 6,5 km de Andersson *(`08`)*. ⚠️ **Y desde el
-  24/08 esto pesa más**: durmiendo fuera desde el D12, el coche hace **tres cruces de Von
-  Lindequist** —salida el D12, entrada y salida el D13— con lo que salga de Outjo — son pocos kilómetros *(93 el D12 y ~150 el D13: los 70 del bucle más los ~80 de Andoni)*, pero cuéntalos.
+  **OBLIGATORIA también**: la gasolinera del pueblo —consta al menos una **Engen** ◐; la «Shell
+  Eyambeko» que se daba aquí no sale en ninguna fuente, y Eyambeko es una casa de huéspedes ❌
+  *(corregido el 18/10)*—, y **aquí se llenan los dos depósitos antes de cruzar Andersson**.
+- **D11–D13 · Etosha** ⚠️ — **SIN GASOLINA**: los tres surtidores de dentro están **cerrados
+  desde 2025, y a finales de septiembre de 2026 seguían igual** ◐ — aunque la web de NWR los liste
+  *(fuentes y cuenta, en el [`21`](21-campamentos-de-etosha.md) §gasolina; corregido el 18/10)*.
+  **Se entra con los dos depósitos llenos desde Outjo**, rellenando en la **Etosha Trading Post**, a
+  6,5 km de Andersson *(`08`)*, y con eso se llega a **Tsumeb el D14**: ~575 km desde Outjo, 63–75 l
+  de los 140. Los tres cruces de Von Lindequist —salida el D12, entrada y salida el D13— van con lo
+  que salió de Outjo *(93 km el D12 y ~150 el D13: los 70 del bucle más los ~80 de Andoni)*.
 - **D14 · Tsumeb, a 105 km de Onguma** ✅ — ⛽ **primer repostaje del día largo**, precisamente
-  **porque el depósito no se fía a los surtidores del parque**. Y **Otjiwarongo** ✅, punto de
+  **porque dentro del parque no hay gasolina**. Y **Otjiwarongo** ✅, punto de
   anclaje de la ruta, donde además se come.
 - **D15 · Windhoek** — ⛽ **repostar antes de devolver**: el coche se entrega **con el mismo nivel
   con el que se recibió** *(`20` §1 — y ojo, **se entrega sin lleno**: Savanna no tiene surtidor
@@ -1052,9 +1076,10 @@ flowchart LR
   **~05:10–20:10**, exterior **~06:10–19:10**. *Confírmalo en recepción al llegar: se mueve con el orto real (`06`).*
 - **Skeleton Coast** ◐: para pernoctar en Terrace Bay hay que cruzar Ugabmund **antes de las
   15:00** *(el D7, el 6 de noviembre)* y con **reserva confirmada** (`11`). **Y al día siguiente hay
-  que SALIR**: el permiso de tránsito no deja quedarse — el D8 sale por Springbokwasser *(07:30–17:00
-  ◐)*. Horarios de puerta: las fuentes bailan — NWR/foros
-  daban 07:30–19:00; guías recientes, Ugab 07:30–15:00 y Springbokwasser 07:30–17:00 (`08`). **En
+  que SALIR**: el permiso de tránsito no deja quedarse — el D8 sale por Springbokwasser *(entrada
+  07:30–17:00, salida hasta las 19:00 ◐)*. Horarios de puerta: las fuentes bailan porque mezclan
+  entrada y salida — el 07:30–19:00 que daban NWR y los foros es el de **salir**; el de **entrar**, Ugab
+  07:30–15:00 y Springbokwasser 07:30–17:00 (`08`; aclarado el 18/10). **En
   la práctica manda el 15:00.**
 - **Etosha** ◐ — **horarios oficiales de puerta**, de la tabla que publica el parque *(cambian cada
   semana siguiendo al sol, y están puestas en cada puerta)*: **3–9 nov: 06:13–19:06** ·
@@ -1084,9 +1109,9 @@ flowchart LR
 - ~~**Otjitotongwe (guepardos)**~~ — **FUERA desde el 27/08**: guepardos habituados y alimentados
   a mano, y el viajero solo quiere animales en libertad *(igual que el CCF)*. El D10 se sale de
   Hoada sin hora que cuadrar.
-- **Gasolinera en Etosha** ✅⚠️: los tres campamentos **listan «Filling Station» en la web oficial
-  de NWR**, pero con historial de cortes en 2025 — entra lleno desde Outjo; respaldo: la Etosha
-  Trading Post a 6,5 km de Andersson (`08`).
+- **Gasolinera en Etosha** ⚠️: **no hay** — los tres surtidores están cerrados desde 2025 ◐, aunque
+  la web de NWR los liste *(`21` §gasolina)*. Entra lleno desde Outjo y rellena en la Etosha
+  Trading Post, a 6,5 km de Andersson (`08`).
 - **❌ Sin verificar — pídelo al reservar con NWR:** horarios de desayuno/restaurante de los
   campamentos (importa para salir al alba: pide desayuno para llevar o hazlo tú) y el horario de
   Joe's Beerhouse.

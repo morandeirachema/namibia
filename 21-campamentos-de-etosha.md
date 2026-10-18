@@ -57,7 +57,7 @@ flowchart LR
 **Lo común a los campamentos de NWR** ✅ *(fichas de NWR: [Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
 [Halali](https://www.nwr.com.na/resorts/halali-resort/) · [Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/))* —
 *de los tres, ahora solo se duerme en los dos primeros*:
-gasolinera, tienda, restaurante, bar, piscina y **charca iluminada de noche a un paseo de la
+tienda, restaurante, bar, piscina y **charca iluminada de noche a un paseo de la
 parcela**. Parcela de camping con braai y toma de 220 V ◐ *(el cierre camp a camp, en el
 [`18`](18-manual-de-campamento.md) §5)*, máximo 8 personas, y bloque de aseos compartido. La
 puerta del campamento funciona **del ocaso al amanecer** ◐, y las del parque no admiten entrada
@@ -105,7 +105,7 @@ comestible a la vista *(el protocolo, en el [`18`](18-manual-de-campamento.md) �
 
 ### Los servicios
 
-Gasolinera, tienda, restaurante, bar y piscina ✅ *(NWR)*. El restaurante sirve desayuno, comida
+Tienda, restaurante, bar y piscina ✅ *(NWR; la gasolinera que también lista está **cerrada** — §gasolina, abajo)*. El restaurante sirve desayuno, comida
 de kiosko y cena — horario de verano orientativo: desayuno 6:00–10:00, comida 12:00–14:00, cena
 19:00–22:00 ◐ *(Expert Africa)* — con fama de bufé irregular: llegar pronto ○. Hay oficina de
 correos ◐; **wifi y cajero, sin dato** ❌.
@@ -141,7 +141,7 @@ en Halali, la comida al coche **siempre**, no «un momento en la mesa».
 
 ### Los servicios
 
-Gasolinera ✅, tienda mixta de comestibles y recuerdos ✅ *(NWR: «combination of groceries and
+Gasolinera **cerrada** *(§gasolina, abajo)*; tienda mixta de comestibles y recuerdos ✅ *(NWR: «combination of groceries and
 curios»; una fuente añade leña ◐)*, restaurante y bar ◐, y **piscina con toldos de sombra** ✅ —
 la siesta del D11 está resuelta. Cobertura móvil irregular ○; wifi ❌.
 
@@ -164,7 +164,7 @@ la web de NWR dice «built 1897» y Wikipedia 1896 — la discrepancia queda ano
 *(NWR)*, y **el atardecer se mira desde la torre** ◐ *(no en este viaje: el D12 se sale antes — abajo)*
 — la historia de la batalla, contada con su
 contexto, está en el [`19`](19-cultura-de-namibia.md). Es el campamento más cercano a su puerta:
-~8 km de Von Lindequist ◐ *(una sola fuente leída — por eso el ◐)*, la que cruzáis **el D12 por la
+~10–12 km de Von Lindequist ◐ *(«about 10km», [Wikipedia](https://en.wikipedia.org/wiki/Namutoni); ~12 por pista con OSRM; aquí decía ~8)*, la que cruzáis **el D12 por la
 tarde** para ir a dormir a Onguma, y otra vez **el D13** en los dos sentidos.
 
 > ⚠️ **Aquí se dormía hasta el 24/08, y ya no.** La parcela se cambió por una **segunda noche en
@@ -205,13 +205,15 @@ descrito como seco en varias reseñas ○ — se llega con eso sabido y no estro
 
 ### Los servicios
 
-Gasolinera, tienda, restaurante, bar y piscina ✅ *(NWR)*. El restaurante es el más criticado de
+Tienda, restaurante, bar y piscina ✅ *(NWR; la gasolinera, **cerrada** — §gasolina)*. El restaurante es el más criticado de
 los tres ○ *(elección corta, comida fría en reseñas recientes)* — pero **ya no hay cena aquí**: el
 D12 se sigue camino de Onguma. **Y la carne de Onguma tampoco sale de aquí**: al salir el D12 por
 **Von Lindequist** se cruza la Línea Roja hacia el sur, y **la carne cruda que baja de Etosha se
 confisca en el control** ◐ *(`07` §Línea Roja)*. **Las dos noches de Onguma se resuelven con sus
-braai packs**, que se compran en su kiosco, **ya fuera de la Línea** *(`07`, `08`, y abajo)*; lo
-que sí puede cruzar es lo cocinado, los envasados al vacío comerciales y el biltong ◐. *(Hasta el
+braai packs**, que se compran en su kiosco, **ya fuera de la Línea** *(`07`, `08`, y abajo)* — **y
+el del D13, a la vuelta**: ese día se entra y se sale otra vez por Von Lindequist con la nevera en
+el coche. Lo único que cruza es **lo cocinado** ◐: el biltong y lo envasado al vacío cuentan como
+carne cruda *(`07` §Línea Roja; corregido el 18/10)*. *(Hasta el
 09/10 aquí decía «hacer la compra del braai en la tienda de Halali antes de salir»: esa carne se
 habría quedado en la puerta.)*
 
@@ -294,25 +296,22 @@ Si algo obligara a mover una noche sobre el terreno, **se pospone por escrito, n
 
 ## ⚠️ La gasolina de los tres del parque, con letra grande
 
-NWR mantiene que los tres surtidores funcionan «el 95 % del tiempo» ◐
-*([nwrnamibia](https://www.nwrnamibia.com/etosha-food-eating-fuel.htm))*, pero hay **reportes de
-2025–2026 de cortes prolongados de combustible en Okaukuejo, Halali y Namutoni** ◐
-*([travelandtourworld, 2026](https://www.travelandtourworld.com/news/article/etosha-sossusvlei-namibia-highlights-fuel-challenges-reshaping-self-drive-safari-travel-in-2026/) ·
-[Tripadvisor](https://www.tripadvisor.com/ShowTopic-g293820-i9680-k15422426-Fuel_planning_Etosha-Namibia.html))*
-— la versión con fecha del «poco fiables» que ya decía el [`07`](07-logistica.md). El respaldo
-estable está **fuera de la puerta de Anderson: Etosha Trading Post, a 6,5 km, con diésel 50 ppm
-y gasolina 95** ◐ *([web](https://www.etosha-tradingpost.com/facilities.html))*. La regla que
-sale de esto, y que el [`07`](07-logistica.md) ya aplica en general:
+**Dentro de Etosha NO hay gasolina: los tres surtidores están cerrados, y llevan así desde 2025** ◐
+*([etoshanationalpark.com.na](https://etoshanationalpark.com.na/plan-your-visit/etosha-road-conditions-fuel-planning), revisada en julio de 2026: «There is absolutely no fuel available inside Etosha National Park» · [travelgumbo, 27/09/2026](https://travelgumbo.com/fuel-shortage-by-decree): «All three fuel outlets in Etosha NP are closed» · [namibian.org, 27/06/2025](https://namibian.org/blog/fuel-supplier-to-be-liquidated-refuel-outside-national-parks))*. No son cortes sueltos: el proveedor de NWR dejó de suministrar a principios de 2025 y
+entró en liquidación, y a finales de septiembre de 2026 seguía todo cerrado. **La web oficial de
+NWR sigue listando «Filling Station» en los tres campamentos: no le hagas caso** *(corregido el
+18/10: hasta entonces aquí se hablaba de «cortes prolongados» y se contaba con rellenar en Halali
+o Namutoni)*. El último surtidor antes de entrar es **la Etosha Trading Post, fuera de la puerta
+de Anderson, a 6,5 km, con diésel 50 ppm y gasolina 95** ◐
+*([web](https://www.etosha-tradingpost.com/facilities.html))*, y el siguiente, **Tsumeb, a 105 km
+de Onguma** ✅ *(enrutado propio)*. La regla:
 
-- **Entrar al parque el D10 con el depósito lleno de Outjo** ○ — los surtidores de dentro pasan a
-  ser un bonus, no el plan
-- **No fiar los 539 km del D14 a los surtidores del parque** ○: si en Halali o Namutoni hay
-  diésel, se rellena al pasar; si no, el D14 arranca con lo que haya y reposta en **Tsumeb, a
-  105 km de Onguma** ✅ *(enrutado propio)*. ⚠️ **Y desde el 24/08 hay que mirarlo dos veces**: se
-  sale del parque **la tarde del D12** y se vuelve a entrar y salir **el D13**, así que **las dos
-  últimas noches se pasan fuera, donde no hay surtidor** — **Onguma no tiene** ❌. El último de
-  dentro es el de Namutoni, que se pasa **el D12 y otra vez el D13** *(el circuito de ese día
-  vuelve por el fuerte — `01` §D13)*: dos ocasiones de rellenar, no una.
+- **Entrar al parque el D10 con los DOS depósitos llenos** — en Outjo, y rellenando en la Etosha
+  Trading Post justo antes de Andersson.
+- **Y con eso se llega a Tsumeb el D14**: desde Outjo son **~575 km** *(~120 a Okaukuejo + 108 el
+  D11 + 93 el D12 + ~150 el D13 + 105 a Tsumeb, con los km del enrutado)* — a 11–13 l/100 km,
+  **63–75 litros de los 140** *(`07`)*; desde la Trading Post, ~480 km. Cabe con margen, **pero
+  solo si se sale lleno**: no hay dónde corregirlo dentro, **ni en Onguma** ❌ *(no consta surtidor)*.
 
 ---
 

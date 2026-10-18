@@ -206,8 +206,7 @@ Moon Landscape lleva allí esa tarde (`10`).*
 
 ### Etosha (D10–D13)
 - **D10–D11, dentro** — Okaukuejo y Halali: **restaurante, kiosco y tienda pequeña con
-  básicos y bebidas frías** ◐; la gasolinera «el 95 % del tiempo tiene, pero ha llegado a agotarse»
-  ([nwrnamibia](https://www.nwrnamibia.com/etosha-food-eating-fuel.htm)). Los foros insisten: esas
+  básicos y bebidas frías** ◐; la gasolinera, **cerrada desde 2025** ◐ *([`21`](21-campamentos-de-etosha.md) §gasolina)*. Los foros insisten: esas
   tiendas **no dan para avituallarse** ○. Leña en los camps: **sin dato**.
 - **D12 y D13, ya fuera: Onguma Tamboti** ✅ *(las DOS últimas noches, desde el cambio del 24/08)* —
   **kiosco** con lo básico, **hielo, leña y braai packs** *(un lote de leña gratis el día de
@@ -217,7 +216,8 @@ Moon Landscape lleva allí esa tarde (`10`).*
   la Línea Roja hacia el sur, y **la carne cruda que baja de Etosha se confisca en el control** ◐
   *(`07` §Línea Roja)*. Así que ni Halali ni Namutoni: **las dos noches de Onguma se resuelven con
   sus braai packs**, que se compran en su kiosco, **ya fuera de la Línea** *(`07`, `21`)*; lo que
-  sí puede cruzar es lo cocinado, los envasados al vacío comerciales y el biltong ◐. Y la carne de
+  sí puede cruzar es lo cocinado ◐ — el biltong y lo envasado al vacío cuentan como carne cruda
+  *(`07` §Línea Roja; corregido el 18/10)*. Y la carne de
   Outjo del D10 se calcula **para acabarla antes del D12** *(`07`: dos braais, Okaukuejo y
   Halali)*. *(Hasta el 09/10 aquí decía «comprar en la tienda de Halali antes de salir el D12»: esa
   carne se habría quedado en la puerta.)*
@@ -232,7 +232,8 @@ Moon Landscape lleva allí esa tarde (`10`).*
 *Contexto que manda sobre todo esto ◐: NWR (la estatal) sufrió **cortes de combustible en sus
 resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos de su proveedor
 ([crónica](http://umhambi.blogspot.com/2025/03/namibia-wildlife-resorts-nwr-issues.html)). Regla:
-**todo surtidor de NWR es «probable, no garantizado» — se entra siempre lleno.***
+**todo surtidor de NWR es «probable, no garantizado» — se entra siempre lleno.** Y los tres de
+Etosha no es que fallen: **están cerrados desde 2025**, y a septiembre de 2026 seguían así ◐ (`21`).*
 
 - **Windhoek** ✅ — decenas, todas las marcas, muchas 24 h ([localizador Puma](https://pumaenergy.com/wp-content/uploads/2025/08/Puma-Energy-Africa-Stations-Locations.pdf) ·
   [Shell](https://find.shell.com/na/fuel/locations/en_NA)). **Sal lleno**: por Spreetshoogte no hay
@@ -271,14 +272,14 @@ resorts en 2025** (Okaukuejo, Halali, Namutoni, Terrace Bay, Sesriem) por fallos
 - **Grootberg / Hoada** ❌ — nada; los puntos más cercanos son Palmwag (23 km del pass) y Kamanjab.
 - **Kamanjab** ✅/◐ — **Shell con tienda SaveMor Spar** (comida fresca para llevar) + una segunda
   estación con general dealer (pan, ferretería, recambios).
-- **Outjo** ✅ — Shell **Eyambeko** con tienda; y la parada clásica: la **Outjo Bakkery** ✅
+- **Outjo** ◐ — gasolinera del pueblo *(consta al menos una **Engen**; la «Shell Eyambeko» que se daba aquí no sale en ninguna fuente y Eyambeko es una casa de huéspedes ❌ — corregido el 18/10)*; y la parada clásica: la **Outjo Bakkery** ✅
   (panadería-cafetería histórica frente al Spar — [outjobakkery.com](https://outjobakkery.com/)).
   **Aquí se llena antes de Andersson.**
-- **Dentro de Etosha** ✅⚠️ — **los tres campamentos listan «Filling Station» en la web oficial de
-  NWR** ([Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
+- **Dentro de Etosha** ⚠️ — **no hay gasolina**: los tres campamentos listan «Filling Station» en la
+  web oficial de NWR ([Okaukuejo](https://www.nwr.com.na/resorts/okaukuejo-resort/) ·
   [Halali](https://www.nwr.com.na/resorts/halali-resort/) ·
-  [Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/)) — con el historial de cortes de
-  2025 encima: efectivo a mano y depósito lleno desde Outjo. **Respaldo justo fuera**: la **Etosha
+  [Namutoni](https://www.nwr.com.na/resorts/namutoni-resort/)), pero **están cerrados desde 2025** ◐
+  *([`21`](21-campamentos-de-etosha.md) §gasolina)*: los dos depósitos llenos desde Outjo. **Respaldo justo fuera**: la **Etosha
   Trading Post** a 6,5 km de Andersson — «suministro estable», diésel 50 ppm, take-away caliente y
   taller ✅ ([etosha-tradingpost.com](https://www.etosha-tradingpost.com/facilities.html)).
 - **Tsumeb / Otjiwarongo / Okahandja (D14)** ✅ — Puma 24 h y Shell en la B1; ciudades con de todo.
@@ -378,8 +379,9 @@ flowchart TD
   (nada de semillas ni plantas — [CITES](https://cites.org/eng/gallery/species/other_plant/welwitschia_mirabilis.html)).
 - **Namibia a la salida** ✅ ([guía NamRA](https://www.namra.org.na/documents/cms/uploaded/customs-procedure-travellers-guide-information-1579b9600b.pdf),
   releída el 09/10): **declarar todo el efectivo y las divisas que se lleven**, al entrar y al
-  salir, **sin umbral** — igual que dice el `07`. *(Aquí ponía «≥ N$100.000 (~€5.000)»: esa cifra
-  **no está en la guía de NamRA** ❌ y no se sabe de dónde salió; lo prudente es declararlo siempre.)*
+  salir, y **a partir de N$100.000 (~€5.000) hace falta además permiso**: la misma guía lo pone en
+  la pág. 11, entre los bienes restringidos ✅ — igual que dice el `07`. *(Del 09/10 al 18/10 aquí se
+  dijo que esa cifra no estaba en la guía: sí está.)*
   Productos de especies controladas, solo con permiso (Act 9/2008).
 - **España a la entrada** ✅ ([AEAT](https://sede.agenciatributaria.gob.es/Sede/viajeros-trabajadores-desplazados-fronterizos/viajeros/franquicias-tabaco-alcohol-otras-mercancias.html)):
   franquicia de **430 €/persona** en compras (guarda tickets), 200 cigarrillos, **1 L de >22° o

@@ -25,7 +25,7 @@ flowchart LR
 %% ancho
     P["PICADURA<br/>dolor inmediato, quemante<br/>casi sin marca local"] --> Q["¿ALGO DE ESTO?<br/>hormigueo en manos y pies<br/>babeo · sudor · tragar mal<br/>temblor · andar de borracho<br/>respirar mal"]
     Q -- "no: solo duele" --> L["LEVE<br/>frío local si lo aguanta<br/>paracetamol · limpiar<br/>vigilar 12-24 h<br/>(las 8 primeras, pegado)"]
-    Q -- "sí, o es niño o mayor" --> G["GRAVE<br/>al hospital YA<br/>llamar por el camino<br/>NSIG +264 81 127 5109<br/>E-Med +264 83 924 9111<br/>LifeLink +264 64 500 346<br/>(924 gratis · 999 solo fijo)"]
+    Q -- "sí, o es niño o mayor" --> G["GRAVE<br/>al hospital YA<br/>llamar por el camino<br/>NSIG +264 81 127 5109<br/>E-Med +264 83 924 9111<br/>LifeLink +264 64 500 346<br/>(924 gratis · 999 o 112)"]
     L -- "aparece algo<br/>en las horas siguientes" --> G
     style P fill:#F7F4ED,stroke:#C2542F
     style Q fill:#FAF1DC,stroke:#8A6210
@@ -141,11 +141,14 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
   Snakebite Institute)* · **Dra. Esta Saaiman — +264 81 288 9157** ◐ *(scorpions.co.za, sin
   fecha)*. Médicos, namibios y de esto: la llamada mientras se conduce.
 - ☎️ **Línea toxicológica de Sudáfrica, en formato internacional: +27 861 555 777** ✅ *(AfriTox;
-  el «0861 555 777» a secas es marcación nacional sudafricana y no sirve desde Namibia)*. 24 h,
-  la que atiende el centro de Tygerberg — el del propio Müller.
+  el «0861 555 777» a secas es marcación nacional sudafricana y no sirve desde Namibia)*, la que
+  atiende el centro de Tygerberg — el del propio Müller. ⚠️ **No es 24 h**: *«It operates between
+  08:30 and 01:30 daily»* ✅ *([UCT](https://health.uct.ac.za/node/71338); corregido el 18/10)* — de
+  madrugada, el NSIG y la ambulancia.
 - 🚑 **E-Med Rescue 24: +264 83 924 9111** / **+264 61 411 600** ✅ *(y el corto **924**,
-  gratuito)* · **LifeLink: +264 64 500 346** ✅ *(ambulancia aérea nacional; su **999 es solo
-  desde fijo**)* · **Windhoek: +264 61 211 111** ✅ *(todos, de la lista del [`07`](07-logistica.md),
+  gratuito)* · **LifeLink: +264 64 500 346** ✅ *(ambulancia aérea nacional; el **999** —y el **112**— los da el
+  [FCDO](https://www.gov.uk/foreign-travel-advice/namibia/getting-help) como números generales de
+  emergencia ✅)* · **Windhoek: +264 61 211 111** ✅ *(todos, de la lista del [`07`](07-logistica.md),
   que es de 2024 y pide verificarlos al llegar ◐)*. **Se graban en formato internacional**: los
   cortos no se sabe si salen desde un satelital.
 - 🛰️ **Cómo se llama a emergencias desde el teléfono satelital de Savanna** ❌ *(09/10)* — si
@@ -158,7 +161,8 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
 **El hospital, etapa a etapa** *(detalle y fuentes en el [`07`](07-logistica.md))*:
 
 - **D1 y D14, Windhoek** — Mediclinic Windhoek, urgencias **+264 61 433 1109** ✅ · Lady Pohamba,
-  urgencias **+264 83 335 9036** ✅ · Roman Catholic, urgencias **+264 61 270 2443** ✅.
+  urgencias **+264 83 335 9036** ✅ · Roman Catholic, urgencias **+264 61 270 2443** ✅ *(y el **+264 61 270 2143**, que su web da como
+  «Emergency» en la cabecera ◐ — [rchnam.com](https://www.rchnam.com/))*.
 - **D2–D4, Spreetshoogte y Sesriem** — **no hay hospital con respirador cerca**, que es lo que
   cuenta; pero **sí hay asistencia a menos de la mitad de distancia de la que decía este documento
   hasta el 28/08**, y conviene saberlo antes de arrancar hacia Windhoek de noche ⚠️
@@ -272,7 +276,7 @@ caídos» — y *P. granulatus*, «a menudo cerca de donde vive la gente» ✅.
   Saaiman)* · [el antiveneno SAVP](https://scorpions.co.za/savp-scorpion-antivenom/). La web del
   fabricante (savp.co.za) no responde ❌.
 - ✅ **Línea toxicológica sudafricana:** [UCT, Poisons Information Centre](https://health.uct.ac.za/department-paediatrics/clinical-services-medical-services/poisons-information-centre)
-  y [AfriTox](https://www.afritox.co.za/) *(+27 861 555 777, 24 h)*.
+  y [AfriTox](https://www.afritox.co.za/) *(+27 861 555 777; AfriTox dice 24 h y la UCT, «08:30 and 01:30 daily» — [UCT](https://health.uct.ac.za/node/71338))*.
 - ✅ **Ambulancias:** [E-Med Rescue 24](https://www.emedrescue.com/) · [LifeLink](https://lifelink.pro/) ·
   [City of Windhoek](https://www.windhoekcc.org.na/ambulance-fire-and-rescue-response-services/).
   **Hospitales:** [Mediclinic — urgencias](https://www.mediclinic.co.za/en/corporate/hospitals/emergency-centres.html)

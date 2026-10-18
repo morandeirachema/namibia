@@ -219,7 +219,7 @@ REGLAS = [
      "última entrada <b>15:00</b>."),
     ("rojo", "Emergencias",
      "E-Med <b>924</b> · LifeLink <b>999</b> · venenos <b>+264 81 127 5109</b> · "
-     "policía <b>+264 61 10111</b> (pide prefijo)."),
+     "policía <b>10111</b> · <b>+264 61 10111</b>."),
 ]
 
 
