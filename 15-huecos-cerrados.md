@@ -946,7 +946,8 @@ está, se tacha)*:
   *(`02` §3, `21`)*.
 - ✈️ **Los nombres del billete contra el pasaporte** — no consta comprobado ❌ *(`20` §2)*; 🛂 y la
   **validez del pasaporte** *(6 meses desde el regreso, 3 páginas en blanco — `12` §6)*, tampoco ❌.
-- 📷 **El límite por objeto de la póliza** *(dentro de los 4.000 € de equipaje)* ❌ *(`20` §3)*.
+- 📷 **El límite de equipaje y por objeto de la póliza** *(el Mochilero; el Estrella daba 4.000 €)* ❌
+  *(`20` §3)*.
 - 🐆 **Okonjima el D14** — sin decidir ni pedir ❌; y **el Urban Camp del D14, sin reservar** ❌
   *(`20` §5 y §9; `aparte/plan-felinos`)*.
 - ✅ ~~**Terrace Bay** — sin reservar~~ **reservada el 19/10**; queda el importe cobrado ❌ *(`20` §4)*.

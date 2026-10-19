@@ -1228,8 +1228,8 @@ persona y noche** ✅ — la reserva privada por el precio del parque, sin el lo
   cerrado desde el 03/08** ✅ *(N$3.480 · ~€174 la pareja, ver D7 — **y reservada el 19/10 ✅**; el importe
   cobrado, por anotar)* y **Hoada ya tiene precio** ◐ (arriba);
   los lodges privados siguen sin rack/noche (Gondwana y las webs propias, en 403). *(El camping de
-  **Spitzkoppe** no es de esta lista: es el **plan B de Terrace Bay**, con su precio y su contacto en
-  el D7.)*
+  **Spitzkoppe** no es de esta lista: era el **plan B de Terrace Bay**, ya reservada, con su precio y su
+  contacto en el D7.)*
 - ◐ **Km del D7 y del D14 — recalibrados el 09/08 con el enrutado OSRM propio y revisados el
   24/08**: la costa **Walvis Bay → Terrace Bay ≈ ~412 km** *(la triangulación secundaria del 03/08
   daba ~380 y se quedaba corta: su tramo «Cape Cross → Terrace Bay ~200» era menor que la línea

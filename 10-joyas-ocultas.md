@@ -459,8 +459,8 @@ Fuentes: [Wikipedia — Gibeon (meteorite)](https://en.wikipedia.org/wiki/Gibeon
   viaje: no cabe *(D14)*. N$250 (~€12,5) ◐ por si algún día se parte el D14 en dos.
 - **Vingerklip** *(el «dedo de Dios», monolito de 35 m)* — solo encaja **cambiando el D10 a la
   variante Khorixas–Outjo, que son +111 km medidos** *(desvíos)*. Precio ○: ~N$20 (~€1).
-- **Spitzkoppe** — no es joya de esta ruta sino **el plan B de Terrace Bay**: si NWR no tiene sitio
-  el 6/11, el D7 baja por dentro y se duerme en su camping comunitario *(~N$640 · ~€32 los dos ◐,
+- **Spitzkoppe** — no es joya de esta ruta sino **el plan B de Terrace Bay** *(reservada el 19/10:
+  solo si NWR fallara)*: si no hubiera sitio el 6/11, el D7 baja por dentro y se duerme en su camping comunitario *(~N$640 · ~€32 los dos ◐,
   reservations@logufa.com — `01` §D7)*. **Brandberg** solo entra si ya se va por ahí. Medidas y con
   veredicto en [los desvíos](aparte/desvios-que-valen-la-pena.md).
 - **El lago Oanob** *(junto a Rehoboth, a 3 km de la C24 del D2)* — no se ha investigado: consta

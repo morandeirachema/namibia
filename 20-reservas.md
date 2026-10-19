@@ -771,12 +771,11 @@ pendiente**, y si ya lo está, se tacha y listo. Los importes, solo donde el cua
       30 días antes de la llegada del 2/11; **lo no pagado se cancela** *(§4)*. **A 09/10 no consta
       pagado, ni el 20 %** ❌: **confirmar con NWR por escrito que la reserva sigue viva** y pagar lo
       que pidan.
-- [ ] **PASÓ el ~07/10 ○ · NWR, la noche del 6 nov en la Costa de los Esqueletos** — **sigue sin
-      reservar** a 09/10: N$3.480 (~€174) en media pensión. **Desde el 7/10 se PAGA el 100 % al
-      reservar** *(regla de los 30 días)*, pero **lo que se PIERDE al anular es su escala**: 30 %
-      hasta el ~22/10 *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10, 100 % después *(§4)*. Pagar todo no
-      es perder todo — y cada semana que pasa sube lo que cuesta echarse atrás. **Plan B: Spitzkoppe,
-      ~N$640 (~€32), reservations@logufa.com** *(§4)*.
+- [x] **PASÓ el ~07/10 ○ · NWR, la noche del 6 nov en la Costa de los Esqueletos — RESERVADA el
+      19/10** *(habitación doble, tarifa estándar DBB)*. Dentro de los 30 días **se PAGA el 100 % al
+      reservar** *(N$3.480 · ~€174 de rack; el cobro, ❌ por anotar)*, pero **lo que se PIERDE al
+      anular es su escala**: 30 % hasta el ~22/10 *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10, 100 %
+      después *(§4)*.
 - [ ] **PASÓ la primera semana de octubre · el e-visa** — N$1.600 (~€80) por persona, solo en
       `eservices.mhaiss.gov.na` *(§6 y `04`)*. **A 09/10 no consta pedido** ❌: con 7–10 días hábiles
       de trámite ◐, **pedido hoy llega hacia el ~23/10** — con margen para imprimirlo el 24/10, pero
@@ -818,8 +817,8 @@ pendiente**, y si ya lo está, se tacha y listo. Los importes, solo donde el cua
       *(§1)*. **Este cuaderno no tiene anotado si se pagó el total o solo el 25 % (~€591)** ❌ —
       compruébalo en la confirmación; si fue solo el depósito, el resto *(~€1.772)* vence aquí o se
       paga el 31/10 en la recogida.
-- [ ] **~22/10 ○ · NWR, la cancelación de la noche de la costa sube del 30 % al 75 %** — si se
-      reservó, a partir de aquí echarse atrás cuesta tres cuartos *(§4)*.
+- [ ] **~22/10 ○ · NWR, la cancelación de la noche de la costa sube del 30 % al 75 %** — ya
+      reservada: a partir de aquí echarse atrás cuesta tres cuartos *(§4)*.
 - [ ] **Cuanto antes · reservar Sandwich Harbour para el 5/11** — operador por elegir, salida de
       ~08:30 por la marea; fuera del presupuesto *(§7)*; y **preguntar si la tasa de parque del
       Namib-Naukluft va incluida** ❌ *(`02` §10)*.

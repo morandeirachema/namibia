@@ -277,9 +277,9 @@ La cifra de N$150 (~€7,5) de casi todas las webs es la tabla obsoleta de 2021 
   3/10 y a 09/10 no consta pagado** ❌: hasta que NWR confirme por escrito que sigue viva, no está
   comprada del todo *(`20` §9)*; y la antelación, resuelta en el `20` §«¿Con cuánta antelación
   reserva la gente?».
-- **Terrace Bay** *(03/10; a 09/10, igual)*: la tarifa ya está arriba; **lo que sigue abierto es
-  la reserva**, la única con fecha dura que falta — y **desde el ~7/10 se paga el 100 % al
-  reservar** *(N$3.480 · ~€174)*, con anulación al 30 % hasta el ~22/10. Si no hay sitio, el plan B
-  es **Spitzkoppe**, ~N$640 (~€32) los dos ◐ *(`20` §4 y §9)*.
+- **Terrace Bay** *(03/10; **reservada el 19/10** ✅)*: la tarifa ya está arriba y la reserva,
+  hecha —habitación doble, tarifa estándar en media pensión—; **lo que sigue abierto es el importe
+  cobrado** ❌: dentro de los 30 días NWR cobra el 100 % al reservar *(N$3.480 · ~€174 de rack)*,
+  con anulación al 30 % hasta el ~22/10. El plan B de Spitzkoppe ya no hace falta *(`20` §4 y §9)*.
 - ~~El **veredicto de fechas** y el **itinerario**~~ — **cerrados el 06/08/2026** *(ruta del
   norte y fechas del vuelo, ver `16`)*: el presupuesto ya se apoya en ellos.
