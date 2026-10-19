@@ -8,7 +8,7 @@
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · avances fechados hasta el 04/10/2026, y repasado contra el `01` y el `20` el 09/10/2026*
+> *Investigación cerrada el 17/07/2026 · formato y contenido revisados el 09/08/2026 · avances fechados hasta el 04/10/2026, y repasado contra el `01` y el `20` el 09/10/2026 · el seguro y Terrace Bay, cerrados el 19/10*
 
 > ### La regla de la casa
 > **Todas** las temperaturas que circulaban por webs de safaris fueron **refutadas 0–3**. Las de aquí
@@ -746,7 +746,7 @@ escribe** — la conversión es optimista, no conservadora.
 - **El efecto, acotado**: el desfase de ~19 frente a ~20 son **~5 %** *(y hasta ~7 % si toca la
   banda baja de 18,6)*, pero **solo sobre lo que se paga en N$ sobre el terreno** —combustible,
   comida, tasas de parque, camping y actividades—. **Las partidas grandes NO se mueven**: el vuelo
-  *(€1.536 p.p., emitido)*, el coche *(€/día)* y el seguro *(€226 la pareja, ~€13/día)* ya están en euros. Por eso el
+  *(€1.536 p.p., emitido)*, el coche *(€/día)* y el seguro *(€175 la pareja, ~€10/día)* ya están en euros. Por eso el
   total del `02` es **mucho menos sensible de lo que el titular sugiere**. Ejemplo tangible: la tasa
   de N$280 que el `15` §Tasas convierte en **~€14** al convenio son **~€14,7–15** al mercado real.
 - 👉 **Acción — y lo que NO se hace esta noche**: **no se reescriben los precios**. El ~N$20
@@ -899,10 +899,10 @@ revisó entera**: se tacha lo que ya estaba cerrado en otros documentos y entra 
 
 - ✈️ **El billete está EMITIDO desde el 10/08** ✅ *(€1.536 p.p.; se cotizó en €1.450 el 05/08)*:
   **el e-visa queda desbloqueado** — pedirlo es el siguiente trámite con fecha.
-- 🏕️ **El coche ya está reservado (Savanna, `20`); del alojamiento, el único sin reservar con
-  fecha dura es Terrace Bay** *(también siguen sin reservar **Walvis Bay ×2, Hoada y el Windhoek
-  del D14** — `20` §9 —, pero ninguno es noche de parque; sin Terrace Bay no se entra al parque a pernoctar; ⚠️ **y desde ~el 7/10 NWR cobra el
-  100 % al reservar**, no el 20 % — `20` §4)*: ~~ni Sesriem ×2~~ *(RESERVADAS el 24/08 — la frase
+- 🏕️ **El coche ya está reservado (Savanna, `20`); del alojamiento, la última con fecha dura,
+  Terrace Bay, se reservó el 19/10** *(siguen sin reservar **Walvis Bay ×2, Hoada y el Windhoek
+  del D14** — `20` §9 —, pero ninguno es noche de parque; de Terrace Bay queda anotar el importe
+  cobrado — `20` §4)*: ~~ni Sesriem ×2~~ *(RESERVADAS el 24/08 — la frase
   «ni Sesriem ×2» se arrastró aquí hasta el 03/10 contradiciendo al párrafo de abajo)*,
   ~~ni las cuatro de Etosha~~ — ~~**ni la de Spreetshoogte**~~ *(el «closed
   down» quedó **refutado el 10/08** ◐ y la trampa de homónimos, aclarada: **lo opera Barkhan Dune
@@ -911,19 +911,20 @@ revisó entera**: se tacha lo que ya estaba cerrado en otros documentos y entra 
   reserva se hizo el mismo día, por UNA sola noche**.
   **Las cuatro de Etosha están RESERVADAS** ✅ — y desde el **24/08 son Okaukuejo, Halali y
   **Onguma Tamboti ×2**: **Namutoni se anuló** *(`20` §4)*. **Sesriem ×2, Spreetshoogte y el Urban
-  Camp de Windhoek también se cerraron el 24/08**, así que el contador del README va a **7 de 8**.
-  **Queda una con fecha dura: Terrace Bay** *(Walvis Bay ×2, Hoada y el Windhoek del D14, sin
+  Camp de Windhoek también se cerraron el 24/08**, y **Terrace Bay el 19/10**, así que el contador del README va a **8 de 8**.
+  **Ya no queda ninguna con fecha dura** *(Walvis Bay ×2, Hoada y el Windhoek del D14, sin
   reservar aún — `20` §9)* —y una noche nueva sin tarifa, la de Twyfelfontein del D8, que a
   propósito **no se reserva** *(`aparte/decision-del-ccf`)*.
 - 🚗 ~~**Recotizar el coche con las fechas decididas**~~ **RESERVADO el 12/08** ✅ *(Savanna, 31 oct
   11:00 → 14 nov 18:00, 15 días, €2.363 en total — `20` §1)*. Lo que queda del coche no es precio:
   es **la pregunta nº 1 de la entrega** —el vuelco sin terceros— y **el transfer de vuelta de las
   18:00** por escrito, que cae fuera de su horario publicado *(`20` §1)*.
-- 🛡️ ~~**Adelantar el seguro IATI al 30/10**~~ **CONTRATADO el 24/08** ✅ *(IATI **Estrella**,
-  empezando ya el 30/10, con el código de Chavetas — dicho por el viajero)*. **Lo que queda no es
-  la fecha, es el importe**: el día extra nunca se cotizó ❌ y el descuento de Chavetas no se
-  verificó ❌, así que `02` sigue con los €113,02 p.p. de la cotización — **recuperar el pagado
-  real de la póliza** *(`20` §3)*.
+- 🛡️ ~~**Adelantar el seguro IATI al 30/10**~~ **CONTRATADO** ✅ *(el 24/08 se anotó el
+  **Estrella** desde el 30/10, dicho por el viajero; **el 19/10 el viajero cierra el IATI
+  Mochilero**, que trae la búsqueda y salvamento de serie)*. **Lo que queda es la fecha de inicio
+  —tiene que ser el 30/10— y el importe**: el día extra nunca se cotizó ❌ y el descuento de
+  Chavetas no se verificó ❌, así que `02` va con los €87,75 p.p. de la cotización del Mochilero —
+  **recuperar las dos cosas de la póliza** *(`20` §3)*.
 - 💉 **La cita del Centro de Vacunación Internacional** — para salir el 30/10 había que ser
   atendidos hacia el **19–26 de septiembre**, y esa ventana **se cerró el 26/09**. No consta
   pedida ❌: la llamada está apuntada para el **30/09** *(dicho por el viajero el 29/09 — `04`)*.
@@ -948,7 +949,7 @@ está, se tacha)*:
 - 📷 **El límite por objeto de la póliza** *(dentro de los 4.000 € de equipaje)* ❌ *(`20` §3)*.
 - 🐆 **Okonjima el D14** — sin decidir ni pedir ❌; y **el Urban Camp del D14, sin reservar** ❌
   *(`20` §5 y §9; `aparte/plan-felinos`)*.
-- 🔴 **Terrace Bay** — sin reservar; **fecha dura ~7/10** *(arriba)*.
+- ✅ ~~**Terrace Bay** — sin reservar~~ **reservada el 19/10**; queda el importe cobrado ❌ *(`20` §4)*.
 - 💉🪪 **La cita del CVI y el permiso de la DGT** — apuntados para el 30/09 *(arriba)*; **ninguno
   consta hecho al 03/10** ❌.
 - 🚤 **Sandwich Harbour** — decidido el 24/08 y **sin reservar** ❌ *(`20` §7; fuera del total,
@@ -997,11 +998,11 @@ está, se tacha)*:
   a la tarjeta: N$850 de gestión si hay cualquier daño, N$350 si Savanna paga una multa por
   cuenta del cliente, y el depósito de combustible sigue sin una cifra propia de Savanna —
   **N$2.500 (~€125) sin confirmar ❌**, cifra suelta de reventas, no de fuente primaria.
-- 🛟 La **opción de búsqueda y salvamento del IATI Estrella: ❌ sin cotizar y, ahora, sin
-  confirmar**. Con el **Estrella ya contratado (24/08)**, esto deja de ser una pregunta de compra
-  y pasa a ser **una comprobación de la póliza**: en el Estrella la garantía es **opcional** —el
-  Mochilero la trae de serie—, así que **no ha entrado sola**. Misma comprobación para la
-  **evacuación aérea dentro del país** ❌ *(`20` §3)*.
+- 🛟 ~~La **opción de búsqueda y salvamento del IATI Estrella**~~ **resuelta el 19/10**: se
+  contrató el **Mochilero**, que la trae de serie *(15.000 €)*. Lo que sigue siendo **una
+  comprobación de la póliza** es la **evacuación aérea dentro del país** ❌, la fecha de inicio
+  *(30/10)* y, nuevas con el cambio de modalidad, **la franquicia de coche y el límite de equipaje**
+  ❌ *(`20` §3, `02` §7)*.
 - 🚗 El **traslado A Coruña ↔ Oporto — decidido (09/08): en coche propio**. **Cotizado el 10/08 en
   ~€180–185 la pareja y REVISADO al alza el 17/09 a ~€225–270 ◐/❌** *(egress sigue bloqueando las
   webs oficiales, así que las cifras son síntesis del buscador, no ficha abierta — confirmar antes de

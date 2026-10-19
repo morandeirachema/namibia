@@ -180,7 +180,7 @@ Todo esto es Müller et al. 2012, la revisión clínica del sur de África:
   al helicóptero donde digan.
 - **D5–D6, Walvis Bay y Swakopmund** — Welwitschia Hospital, urgencias **+264 64 218 911** ✅
   *(«24/7»)* · Mediclinic Swakopmund, urgencias **+264 64 412 205** ✅.
-- **D7, Terrace Bay** *(si se reserva: a 09/10 sigue sin reserva ❌, `20` §4)* — nada al norte de
+- **D7, Terrace Bay** *(reservada el 19/10 ✅, `20` §4)* — nada al norte de
   Henties Bay: Swakopmund queda a **~365 km por carretera** ◐ *(OSRM, 09/10; ~377 por la ruta del
   D7, con la entrada a Cape Cross)*, **los primeros ~76 de asfalto hasta Henties Bay y el resto de
   sal y pista**. Es la noche del satelital y de los números internacionales de arriba. Y es, con

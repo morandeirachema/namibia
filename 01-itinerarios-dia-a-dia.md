@@ -178,19 +178,19 @@ gantt
 > flowchart TD
 >     T["TIENDA DE TECHO · 8 noches ya RESERVADAS<br/>D1 Windhoek Urban Camp · D2 Spreetshoogte<br/>D3-D4 Sesriem dentro de la puerta · D10 Okaukuejo<br/>D11 Halali · D12-D13 Onguma Tamboti, fuera de la puerta"]
 >     D["POR ELEGIR CAMPING · 5 noches<br/>D5-D6 Walvis Bay: Lagoon Chalets<br/>D8 Twyfelfontein y D9 Hoada: Damaraland<br/>D14 Windhoek: se repite el Urban Camp"]
->     P["HABITACION, NO TIENDA · D7 Terrace Bay<br/>SIN RESERVAR a 09/10: la unica con fecha dura que falta<br/>doble en media pension, N$3.480 (~EUR 174) los dos<br/>desde el 7/10 se paga el 100 % de golpe"]
+>     P["HABITACION, NO TIENDA · D7 Terrace Bay<br/>RESERVADA el 19/10: doble en media pension<br/>N$3.480 (~EUR 174) los dos de rack<br/>el importe cobrado, por anotar"]
 >     T ~~~ D ~~~ P
 >     style T fill:#2d6a4f,color:#fff
->     style P fill:#e85d04,color:#000
+>     style P fill:#2d6a4f,color:#fff
 > ```
 >
 > **El recuento, que suma 14:** **8** ya resueltas en tienda *(D1, D2, D3–D4, D10, D11 y D12–D13)* ·
 > **5** en las que se duerme arriba pero falta cerrar campamento *(D5–D6 Walvis Bay, D8
 > Twyfelfontein —cuatro campings a ~6 km de los grabados, sin tarifa de noviembre ◐/○, ver D8—, D9
 > Hoada y D14 Windhoek)* · **1 imposible**:
-> *D7 Terrace Bay* (no tiene camping — **y es la única noche con fecha dura que sigue SIN RESERVAR a
-> 09/10**: sin su confirmación impresa no se cruza Ugabmund; **desde el 7/10 NWR cobra el 100 % al
-> reservar** y anular cuesta el 30 % hasta el ~22/10 — ver D7 y `20` §4).
+> *D7 Terrace Bay* (no tiene camping — **reservada el 19/10**, habitación doble en media pensión:
+> su confirmación impresa es la que cruza Ugabmund; el importe cobrado, por anotar — ver D7 y
+> `20` §4).
 >
 > 👉 **El techo real son 13 de 14 noches arriba** — con el coche del aeropuerto, la primera y la
 > última también. La única que no puede ser: Terrace Bay, que solo tiene habitaciones.
@@ -536,23 +536,23 @@ flowchart LR
 - Dentro del parque: **60 km/h** · 🎫 Skeleton Coast ~N$620 (~€31)/24 h
 - 🛏️ **Terrace Bay (NWR)** — dormir en la Costa de los Esqueletos, con la niebla y el
   Atlántico rugiendo. **Ojo: es un resort con media pensión (DBB), no un camping** — el precio,
-  cerrado, dos líneas más abajo. 🔴 **Y a 09/10 es la única noche con fecha dura que sigue SIN
-  RESERVAR** ❌: sin la confirmación impresa, la puerta de arriba no se cruza *(`20` §4)*. **Y el
-  reloj ya corrió**: el 7/10 —30 días antes— pasó, así que **reservando ahora NWR cobra el 100 % de
-  golpe** *(N$3.480 · ~€174)*; lo que se **pierde** si luego hay que anular sigue siendo su escala
-  ✅: **30 % hasta el ~22/10** *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10 y 100 % desde el 31/10
-  *(`20` §4 y §9)*. Cada día que pasa sin reservar es un día más de riesgo de quedarse sin sitio
+  cerrado, dos líneas más abajo. ✅ **RESERVADA el 19/10** —habitación doble, tarifa
+  estándar en media pensión—: **la confirmación va impresa**, que es lo que cruza la puerta de
+  arriba *(`20` §4)*. Dentro de los 30 días NWR cobra el 100 % al reservar *(N$3.480 · ~€174 de
+  rack; el importe cobrado, ❌ por anotar)*; lo que se **perdería** si hubiera que anular es su
+  escala ✅: **30 % hasta el ~22/10** *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10 y 100 % desde el
+  31/10 *(`20` §4 y §9)*
 - 🐾 **Alrededor del resort** — el **chacal de lomo negro es el fijo de la costa** *(GBIF costa:
   271 registros, 57 en oct–nov ◐)* y la **hiena parda deja huellas en las playas** ○ — en GBIF
   hay 17 registros en la zona pero **solo 4 en oct–nov: muestra corta, no se afirma más** ◐. **Springbok, órix y hasta
   hiena parda en el delta del Uniab**, que se cruza dos veces ◐ *(`10`)*. ¿León del desierto en la
   playa? **1 registro en la zona: por debajo del umbral — no se afirma nada**
-- 💰 **Precio cerrado (03/08) ✅ — reserva, NO (09/10) ❌:** el PDF oficial de tarifas de NWR 2026/2027 da para Terrace Bay
+- 💰 **Precio cerrado (03/08) ✅ — reserva hecha (19/10) ✅, importe cobrado por anotar ❌:** el PDF oficial de tarifas de NWR 2026/2027 da para Terrace Bay
   **habitación doble en media pensión a N$1.740 (~€87)/persona → N$3.480 (~€174) los dos**, en tu ventana.
   **No hay camping**: la ficha web listaba una fila de «Campsite» que **no existe en el tarifario**
   — es un error de su web. Es **la noche más cara del viaje**, pero incluye **cena y desayuno**.
-  ⚠️ **La fecha baja un día: 6 de noviembre, no 7** — se reserva con la fecha nueva
-- 🛟 **Plan B, si Terrace Bay no tiene sitio: SPITZKOPPE** *(el razonamiento entero, en
+  ⚠️ **La fecha baja un día: 6 de noviembre, no 7** — reservada ya con la fecha nueva
+- 🛟 **Plan B, que con la reserva hecha ya no hace falta — solo si NWR fallara: SPITZKOPPE** *(el razonamiento entero, en
   [los desvíos](aparte/desvios-que-valen-la-pena.md) §Spitzkoppe)*. El D7 baja por dentro en vez de
   por la costa: **Walvis → Spitzkoppe → Twyfelfontein son 413 km** frente a los **616** de la costa
   ◐ *(OSRM, mismos extremos — `aparte/desvios`)*, sin la puerta de las 15:00. La noche, en el **camping comunitario, a
@@ -677,7 +677,9 @@ flowchart LR
 - 🌙 **Luna al 0,3 %** — la segunda noche más oscura del viaje, y en un campamento sin una luz
 - 🛏️ **Hoada Campsite** (zona Grootberg) — el blog lo llama su campamento más bonito del viaje:
   rocas de granito, duchas entre peñas, cielo estrellado. **N$271–366/persona según temporada
-  (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `15`)*
+  (~€14–18 pp) → N$542–732/noche la pareja (~€27–37)** ◐ *(la temporada de noviembre sin fijar; ver `15`)*.
+  ⚖️ **Sin decidir a 19/10: el camping (~€40 los dos, dicho por el viajero) o Grootberg Lodge**, el
+  lodge de al lado y del mismo operador *(~N$4.318 · ~€216 pp en DBB ◐ — `20` §5)*
 
 ### D10 · lun 9 — Hoada → Etosha (Okaukuejo) · **~343 km · ~4h30** ◐ *(OSRM 342,6)*
 - 🌡️ **Okaukuejo, medias de noviembre: 37,1 °C máx / 18,9 °C mín** ✅ *(NOAA GHCN, serie completa
@@ -956,7 +958,7 @@ flowchart LR
 - **Noches NWR verificadas**: Sesriem 2×1.340 + Okaukuejo 920 + Halali 920 =
   **N$4.520 (~€226)** ✅ — **dos de las cuatro noches de Etosha, dentro del parque**
   *(⚠️ **reservadas, pero de ninguna consta el pago a 09/10** ❌ — Sesriem vencía el 3/10, `20` §4)*
-  *(+ **Terrace Bay, precio cerrado ✅ y SIN RESERVAR a 09/10 ❌ — N$3.480 · ~€174 la pareja** y **Spreetshoogte, una noche, cerrado el
+  *(+ **Terrace Bay, precio cerrado ✅ y RESERVADA el 19/10 ✅ — N$3.480 · ~€174 la pareja, el cobro por anotar** y **Spreetshoogte, una noche, cerrado el
   24/08 ✅ — N$580 · ~€29 los dos**; Walvis, Twyfelfontein, Hoada y Windhoek: sin cerrar)*
 - **Las otras dos noches de Etosha, fuera: Onguma Tamboti ×2 (D12 y D13) — N$1.240 (~€62) los dos
   por noche → N$2.480 (~€124)** ✅ *(rack oficial 2027: N$540 · ~€27 + N$80 · ~€4 de tasa de conservación por
@@ -981,9 +983,10 @@ flowchart LR
   actividades ~€440 + misceláneos ~€150, que es el desglose por persona del `02` §10 por dos
   (corregido el 09/10: aquí decía ~€4.560, que no restaba bien del total; el coche, RESERVADO con
   Savanna, es cifra cerrada — €2.363 los 15 días completos). Sumando
-  vuelos (**€3.072, EMITIDOS el 10/08**) y seguro IATI Estrella (€226,04 — **contratado el 24/08 con
-  el código de Chavetas**, `20` §3):
-  **~€8.164 (~N$163.300) la pareja · ~€4.082 por persona** (ver `02`; actualizado el 26/08 —
+  vuelos (**€3.072, EMITIDOS el 10/08**) y seguro IATI Mochilero (€175,49 de cotización — **contratado el 19/10**; el
+  importe real, por anotar, `20` §3):
+  **~€8.113 (~N$162.300) la pareja · ~€4.057 por persona** (ver `02`; rebajado €25 pp el 19/10
+  por el seguro; actualizado el 26/08 —
   **+€146 por persona** sobre la cifra del 24/08 por **las dos actividades de Onguma, decididas**;
   la bajada del 24/08 fueron €70 de salidas guiadas que se dieron por no comprables, no un ahorro
   — y la mitad, el nocturno, sí lo es: corregido el 28/08)*
@@ -1222,8 +1225,8 @@ persona y noche** ✅ — la reserva privada por el precio del parque, sin el lo
   y los campings de Windhoek (D1, ya reservado pero **sin tarifa publicada**, y D14).
   **Spreetshoogte salió de esta lista el 24/08** ✅ *(N$290 · ~€14,50 pp/noche → **N$580 · ~€29 la noche
   única**, del rack propio de Barkhan; «Camp Gecko» es OTRO camping, `20` §5)*. **Terrace Bay tiene precio
-  cerrado desde el 03/08** ✅ *(N$3.480 · ~€174 la pareja, ver D7 — **la reserva, NO: a 09/10 sigue
-  sin hacer ❌**, y desde el 7/10 se paga entera al reservar)* y **Hoada ya tiene precio** ◐ (arriba);
+  cerrado desde el 03/08** ✅ *(N$3.480 · ~€174 la pareja, ver D7 — **y reservada el 19/10 ✅**; el importe
+  cobrado, por anotar)* y **Hoada ya tiene precio** ◐ (arriba);
   los lodges privados siguen sin rack/noche (Gondwana y las webs propias, en 403). *(El camping de
   **Spitzkoppe** no es de esta lista: es el **plan B de Terrace Bay**, con su precio y su contacto en
   el D7.)*

@@ -176,8 +176,8 @@ flowchart LR
   y [`02` §2](02-presupuesto.md))*. Hay que **recotizar el alquiler con las fechas del vuelo** y
   **adelantar el inicio del seguro al 30/10**.
   > **Superado → cerrado.** El coche se **reservó con Savanna el 12/08**, aeropuerto → aeropuerto,
-  > con los días 31 y 14 dentro, y el seguro **IATI Estrella se contrató el 24/08 empezando el
-  > 30/10** ✅ *([`20`](20-reservas.md) §1 y §3)*. Este fleco ya no vive.
+  > con los días 31 y 14 dentro, y el seguro **se contrató —el IATI Mochilero, cerrado el 19/10; que
+  > empiece el 30/10 se comprueba en la póliza—** ✅ *([`20`](20-reservas.md) §1 y §3)*. Este fleco ya no vive.
 
 ---
 

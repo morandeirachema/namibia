@@ -15,9 +15,9 @@
 en el petate, el [`05`](05-equipaje.md) y el [`17`](17-lista-de-equipaje.md); qué comprar de comer,
 el [`08`](08-comida-compras-y-regalos.md). Esto es lo de en medio: **13 de las 14 noches se duerme
 en el techo del coche** ◐ *(es el plan del [`01`](01-itinerarios-dia-a-dia.md), no aún la cuenta
-cerrada: a 09/10 cinco de esas trece —D5–D6 Walvis Bay, D8 Twyfelfontein, D9 Hoada y D14
+cerrada: a 19/10 cinco de esas trece —D5–D6 Walvis Bay, D8 Twyfelfontein, D9 Hoada y D14
 Windhoek— siguen sin camping cerrado. La única que no es de tienda: Terrace Bay, que solo tiene
-habitaciones — **y que a 09/10 sigue SIN RESERVAR** ❌, `20` §4. Con el coche del aeropuerto,
+habitaciones — **reservada el 19/10** ✅, `20` §4. Con el coche del aeropuerto,
 decidido el 07/08, la primera y la última también son de tienda)*, y nadie de la expedición ha
 vivido antes de un 4×4.
 

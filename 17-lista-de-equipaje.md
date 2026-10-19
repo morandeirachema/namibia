@@ -76,12 +76,12 @@ de DEET)*; lo de cabina, no.
 - [ ] **Reservas impresas** ×1 de cada: coche, **Windhoek Urban Camp** *(D1 y, cuando se
       reserve, D14)*, **Spreetshoogte**, **Sesriem ×2**, **Walvis Bay ×2** *(Lagoon Chalets)*,
       **Terrace Bay**, **Hoada**, **Okaukuejo**, **Halali** y **Onguma Tamboti ×2**. *Walvis Bay,
-      Hoada y el Urban Camp del D14 **siguen sin reservar a 09/10** ❌ — van en la lista para que no
+      Hoada y el Urban Camp del D14 **siguen sin reservar a 19/10** ❌ — van en la lista para que no
       se olviden al imprimir cuando lo estén; Twyfelfontein queda sin reservar a propósito, es el
       colchón del calendario (`20` §5)*
-      *(Terrace Bay sin reserva en papel no entra al parque ✅ — ⚠️ **y al 09/10 esa confirmación
-      no existe: la noche sigue sin reservar** ❌ — desde el ~7/10 NWR cobra el 100 % de golpe y
-      anular cuesta el 30 % hasta el ~22/10, `20` §4)*. ⚠️ **Y Sesriem, reservado, está en el
+      *(Terrace Bay sin reserva en papel no entra al parque ✅ — **reservada el 19/10**, habitación
+      doble en media pensión: imprimir la confirmación de NWR, y anotar antes el importe cobrado ❌,
+      `20` §4)*. ⚠️ **Y Sesriem, reservado, está en el
       aire**: el pago íntegro vencía el **3/10**, a 09/10 no consta ni el 20 % ❌, y **NWR cancela
       lo no pagado** — confirmar por escrito que la reserva sigue viva antes de imprimirla *(`20` §9)*
 - [ ] **Confirmación de las actividades pre-reservadas en Onguma** ×1 — el Sundowner del D12 y el

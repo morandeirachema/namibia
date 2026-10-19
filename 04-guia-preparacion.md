@@ -8,7 +8,7 @@
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
 > *Investigación cerrada el 16/07/2026 · formato y contenido revisados el 09/08/2026 · cuenta atrás
-> y plazos puestos al 09/10/2026*
+> y plazos puestos al 09/10/2026, y al 19/10 el seguro y Terrace Bay*
 
 
 La técnica de conducción en grava no tiene fuente oficial: va marcada como ○ en vez de disfrazarla
@@ -143,17 +143,17 @@ flowchart LR
   - **El permiso internacional de la DGT** *(era el 30/09)* ❌ — y antes, **decidir si Miguel va de
     conductor adicional** *(N$30/día · ~€1,50 — `20` §9)*: uno o dos permisos. Por la sede se
     recoge ~2 días después *(§permiso)*: cabe, si se pide ya.
-  - **Terrace Bay, la noche del 6/11 en la Costa de los Esqueletos — sin reservar** ❌ *(era julio;
-    el plazo del 20 % era antes del ~7/10)*. **Desde el ~7/10 NWR cobra el 100 % de golpe, pero
-    anular hasta el ~22/10 cuesta el 30 %** *(N$3.480 · ~€174 la noche; `20` §4)*. Es la única
-    reserva con fecha dura y la que deja entrar al parque.
+  - ~~**Terrace Bay, la noche del 6/11 en la Costa de los Esqueletos**~~ **RESERVADA el 19/10** ✅
+    *(era julio)*. Queda **anotar el importe cobrado** ❌ *(N$3.480 · ~€174 la noche de rack; `20`
+    §4)* y llevar la confirmación impresa: es la que deja entrar al parque.
   - **Sesriem: el pago íntegro** *(N$2.680 · ~€134, **vencía el 3/10**)* ❌ — ni el 20 % ni el
     íntegro constan pagados, y **NWR cancela lo no pagado**: que confirmen por escrito que la
     reserva sigue viva *(`20` §4)*.
   - **Barkhan, el 50 % del D2** *(N$290 · ~€14,50; la provisional caducaba hacia el 31/08)* ❌ —
     pedir por escrito que está confirmada *(`20` §5)*.
-  - **Leer la póliza de IATI** *(era el 30/09; tope, ~10/10)* ❌ — que lleve **evacuación aérea
-    dentro del país** y **búsqueda y salvamento** *(`20` §3)*.
+  - **Leer la póliza de IATI** *(era el 30/09; la póliza —el Mochilero— se cerró el 19/10)* ❌ —
+    que empiece el **30/10**, que lleve **evacuación aérea dentro del país** y el importe pagado;
+    la búsqueda y salvamento va de serie *(`20` §3)*.
   - **Okaukuejo y Halali: los pagos íntegros** *(N$920 · ~€46 cada uno; **vencían ~10/10 y ~11/10**,
     ya pasados a 18/10)* ❌ — si no constan, hoy, con la llamada de Sesriem *(`20` §4)*.
   - **Pre-reservar en Onguma** la cena, el Sundowner del D12 y el game drive del D13 *(decidido el
@@ -446,9 +446,9 @@ flowchart TD
   verificado; la demanda, no
 - **Si el permiso internacional de conducir es exigible de verdad** con carnet español: la fuente
   es ◐ y conviene sacarlo igual, que cuesta poco
-- **La opción de búsqueda y salvamento** del seguro IATI: sin cotizar — y, con el **Estrella ya
-  contratado (24/08)**, lo que toca no es cotizarla sino **comprobar en la póliza si se añadió**,
-  porque en esa modalidad es **opcional** *(`20` §3)*
+- ~~**La opción de búsqueda y salvamento** del seguro IATI~~ — **resuelta el 19/10**: se contrató
+  el **Mochilero**, que la trae de serie; lo que queda de la póliza es la **evacuación aérea dentro
+  del país** y la fecha de inicio *(`20` §3)*
 
 ---
 

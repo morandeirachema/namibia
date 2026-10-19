@@ -1013,7 +1013,7 @@ TARTAS = {
     "Alojamiento":        ("Alojamiento 14 noches",),
     "Combustible":        ("Combustible",),
     "Comida":             ("Comida",),
-    "Seguro":             ("Seguro IATI Estrella x2",),
+    "Seguro":             ("Seguro IATI Mochilero x2",),
     "Tasas de parque":    ("Tasas de parque",),
     "Visado":             ("Visado x2",),
     "Misc + actividades": ("Miscelaneos", "Actividades"),

@@ -11,7 +11,8 @@
 > combustible actualizado a la revisión de octubre de 2026 (diésel sin cambio) · coche actualizado a
 > la reserva con Savanna del 12/08/2026 · revisado el 03/10/2026: seguro, Terrace Bay, coche, Onguma y
 > lo que está decidido pero FUERA del total (§10) · puesto al 09/10/2026: el cuadre del coche, el
-> conductor adicional contado una sola vez, la cifra «para no llevarte sorpresas» y el cambio del 08/10*
+> conductor adicional contado una sola vez, la cifra «para no llevarte sorpresas» y el cambio del 08/10 · el 19/10/2026: el seguro, cerrado
+> como Mochilero y no Estrella —el total baja €25 por persona—, y Terrace Bay, reservada*
 
 Coste del viaje con las **partidas grandes ya cerradas** (vuelo emitido, coche reservado y seguro
 contratado), en N$ y
@@ -21,10 +22,11 @@ no se hace.**
 
 > ⚠️ **«Cotizado» no es «reservado» — y al 09/10/2026 hay bastantes excepciones ya**: el **vuelo,
 > EMITIDO y PAGADO (€1.536 p.p.)**, el **coche, RESERVADO con Savanna (€2.363 en total, ~€1.181,50
-> p.p.)**, el **seguro IATI Estrella, CONTRATADO el 24/08** *(desde el 30/10; el importe real
-> pagado, ❌ por recuperar — §7 y `20` §3)* y **ocho noches RESERVADAS**: **Windhoek Urban Camp** *(D1,
-> tarifa ❌)*, **Spreetshoogte** *(D2, una sola noche)*, **Sesriem ×2** *(D3–D4)*, **Okaukuejo** *(D10)*,
-> **Halali** *(D11)* y **Onguma Tamboti ×2** *(D12–D13)*.
+> p.p.)**, el **seguro IATI Mochilero, CONTRATADO el 19/10** *(el importe real pagado y la fecha de
+> inicio, ❌ por anotar — §7 y `20` §3)* y **nueve noches RESERVADAS**: **Windhoek Urban Camp** *(D1,
+> tarifa ❌)*, **Spreetshoogte** *(D2, una sola noche)*, **Sesriem ×2** *(D3–D4)*, **Terrace Bay**
+> *(D7, la habitación — 19/10)*, **Okaukuejo** *(D10)*, **Halali** *(D11)* y **Onguma Tamboti ×2**
+> *(D12–D13)*.
 >
 > ⚠️ **Y este documento se rehízo el 24/08 sobre un itinerario distinto**, así que las cifras de
 > agosto ya no valen: **Spreetshoogte pasó de dos noches a una** —la liberada se fue a Damaraland,
@@ -35,10 +37,9 @@ no se hace.**
 > actividades y **N$2.800**, metiendo el nocturno, que **no se cae** — se vende en los tres
 > campamentos y se duerme dentro dos noches *(§9)*.
 >
-> **Terrace Bay sigue sin reservar** *(ver [`15`](15-huecos-cerrados.md) §lista maestra y
-> [`20`](20-reservas.md))*, aunque **con tarifa cerrada**: es un precio real, no un pago hecho —
-> **ni reservado ni pagado al 09/10**, y ⚠️ **desde el ~7/10 NWR ya cobra el 100 % al reservar**,
-> no el 20 % *(`20` §4)*. Y **del coche no consta si los €2.363 se pagaron enteros o solo el depósito
+> **Terrace Bay se reservó el 19/10** *(habitación doble, tarifa estándar en media pensión — `20`
+> §4)*: la tarifa cerrada de aquí es la del rack, y **el importe cobrado no consta** ❌ —dentro de
+> los 30 días NWR cobra el 100 % al reservar—. Y **del coche no consta si los €2.363 se pagaron enteros o solo el depósito
 > del 25 %** ❌ *(§2)*. La
 > ruta que presupuestan quedó **confirmada el 06/08/2026** — la nota de abajo.
 
@@ -74,7 +75,7 @@ pie showData
     "Alojamiento 14 noches" : 770
     "Combustible" : 455
     "Comida" : 280
-    "Seguro IATI Estrella x2" : 226
+    "Seguro IATI Mochilero x2" : 175
     "Tasas de parque" : 248
     "Visado x2" : 160
     "Miscelaneos" : 150
@@ -84,7 +85,7 @@ pie showData
 > **Vuelo y coche son el 67 % del viaje.** El vuelo está **EMITIDO (10/08: €3.072 los dos)** y el
 > coche **RESERVADO (12/08: €2.363 los dos, los 15 días completos con Savanna)** — las dos
 > partidas grandes ya cerradas, no estimadas.
-> Todo lo demás junto (~€2.729 de la pareja) pesa menos que ellas dos.
+> Todo lo demás junto (~€2.678 de la pareja) pesa menos que ellas dos.
 
 ---
 
@@ -238,14 +239,22 @@ persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terra
   > salto a €150–200 solo llegaría eligiendo lodge por gusto, no por falta de camping.
 - **D9 Hoada** (Grootberg) — **cerrado en esta pasada ◐**: **N$542–732/noche para dos (~€27–37)** según
   temporada (la de noviembre sin fijar; ver `15`). Coincide con la estimación de práctica común.
+  ⚖️ **Y a 19/10 está sin decidir si se duerme en el camping o en Grootberg Lodge**, el lodge de al
+  lado y del mismo operador *(~N$4.318 · ~€216 pp en DBB ◐ — `aparte/reservas-privadas-vs-etosha`)*:
+  el camping, el viajero lo da en **~€40 los dos**, que cuadra con la banda alta; el lodge sumaría
+  del orden de **~€390 la pareja** sobre lo presupuestado. **No está en el total hasta que se decida.**
+  ⚖️ **Y a 19/10 está sin decidir si se duerme en el camping o en Grootberg Lodge**, el lodge de al
+  lado y del mismo operador *(~N$4.318 · ~€216 pp en DBB ◐ — `aparte/reservas-privadas-vs-etosha`)*:
+  el camping, el viajero lo da en **~€40 los dos**, que cuadra con la banda alta; el lodge sumaría
+  del orden de **~€390 la pareja** sobre lo presupuestado. **No está en el total hasta que se decida.**
 - **D14 Windhoek**: **camping, con el coche hasta el 14 — decidido el 07/08**. Lo natural es
   **repetir el Urban Camp del D1**, tarifa ❌ *(misma pista ○ de ~N$660–700 · ~€33–35; **sin
   reservar al 09/10** — `20` §5)*. *(La habitación con traslados quedó descartada.)*
 
 **Y la noche que sí está cerrada y sigue siendo la más cara:**
-- **D7 Terrace Bay** (NWR) — **precio cerrado ✅ (la reserva, no: `20` §4) y es la noche más cara
-  del viaje**. ⚠️ **Al 09/10 sigue sin reservar y sin pagar**: el precio es el del rack, no un
-  pago hecho, y **desde el ~7/10 NWR ya exige el 100 % al reservar** en vez del 20 % *(`20` §4)*. El
+- **D7 Terrace Bay** (NWR) — **precio cerrado ✅ y RESERVADA el 19/10 ✅ (`20` §4) — y es la noche más cara
+  del viaje**. ⚠️ **El importe cobrado no consta** ❌: el precio de aquí es el del rack, y dentro de
+  los 30 días NWR cobra el 100 % al reservar *(`20` §4)*. El
   tarifario oficial
   2026/2027 da **doble en media pensión a N$1.740/persona → N$3.480 (~€174) la pareja** en la
   ventana nov 2026 – jun 2027. **No hay camping en Terrace Bay** *(la ficha web lista una fila de
@@ -261,7 +270,7 @@ persona** ✅ *(coincide con `01-itinerarios-dia-a-dia.md` §Coste real; **Terra
 
 → Bloque estimado: **6 noches × ~€25–45 la pareja (central ~€35) ≈ ~€210 pareja / ~€105 por
 persona ○**. **Precio cerrado: €553 — 8 de las 14 noches** — los N$7.000 de Sesriem, Etosha y
-Onguma ✅, los N$3.480 de Terrace Bay ✅ *(tarifa oficial; la noche, **sin reservar** todavía — `20`
+Onguma ✅, los N$3.480 de Terrace Bay ✅ *(tarifa oficial; la noche, **reservada el 19/10** — `20`
 §4)* y los N$580 de Spreetshoogte ✅ — y **Hoada suma ◐**.
 
 → **Alojamiento total: ~€763 la pareja (~€382/persona)** con Spreetshoogte en parcela estándar, o
@@ -411,65 +420,64 @@ consejo vale igual, **usa el e-visa**. Fuente:
 
 ---
 
-## 7. Seguro de viaje — **CONTRATADO ✅ (IATI Estrella, 24/08)** · importe real ❌
+## 7. Seguro de viaje — **CONTRATADO ✅ (IATI Mochilero, 19/10)** · importe real ❌
 
-> ### €226,04 la pareja · **€113,02 por persona** *(cotización 31/10 – 15/11: la cifra que usa el presupuesto)*
-> ### ✅ **Contratado el 24/08 empezando el 30/10** — el importe real pagado, ❌ por recuperar de la póliza *(a 09/10)*
+> ### €175,49 la pareja · **€87,75 por persona** *(cotización 31/10 – 15/11 del Mochilero: la cifra que usa el presupuesto)*
+> ### ✅ **Contratado el 19/10** — el importe real pagado y la fecha de inicio, ❌ por anotar de la póliza
 
-### ✅ El final ya está bien: llega hasta el 15 — y costó €14,69
+> ⚠️ **Hasta el 19/10 este documento contaba el Estrella** *(€113,02 p.p.; el 24/08 se anotó como
+> contratado, dicho por el viajero)*. **Lo que se cerró al final es el Mochilero** —dicho por el
+> viajero el 19/10—, así que el presupuesto baja **€25,27 por persona** y la comparativa de abajo
+> se lee al revés de como se escribió: la búsqueda y salvamento, que en el Estrella había que
+> añadir, **en el Mochilero va de serie**; lo que se pierde es la médica ilimitada *(el Mochilero
+> cubre 1,5 M€)*.
+
+### ✅ El final ya está bien: llega hasta el 15
 
 La póliza tiene que **cubrir el día del aterrizaje en casa, no el del despegue en Windhoek**. Con
 la vuelta llegando **el día 15**, una póliza que acabase el 14 dejaba el tramo más largo del viaje
-sin cobertura:
+sin cobertura. La cotización del Mochilero que usa el presupuesto ya va del **31/10 al 15/11** ✅.
+*(Se vio cotizando el Estrella: 31/10 – 14/11, €211,35; 31/10 – 15/11, €226,04 — **+€14,69** por
+no volver a casa sin seguro. Al Estándar el día extra le salía gratis.)*
 
-- Estrella · 31/10 – 14/11 *(con hueco al final)* — €211,35
-- Estrella · **31/10 – 15/11** — **€226,04** · **€113,02 p.p.**
-- **Coste de cerrar el hueco: +€14,69** *(+€7,35 por persona)*
-
-**Catorce euros y setenta céntimos por no volver a casa sin seguro.** *(Curiosidad: al Estándar el
-día extra le sale gratis — mismo precio con y sin él.)*
-
-> ### ✅ El otro extremo también está cerrado *(24/08)*
-> El vuelo elegido **sale de Oporto el 30 de octubre** *(§8)*, no el 31, y la póliza contratada
-> **empieza el 30/10** ✅ *(dicho por el viajero, `20` §3)*: el vuelo de ida va cubierto. Lo que
-> nunca se hizo fue **cotizar el día extra antes de contratar**, así que **el importe real pagado
-> ❌ no consta** —el día extra lo sube; el código de Chavetas lo baja— y este documento sigue
-> contando los **€113,02 p.p.** de la cotización, la cifra conservadora, hasta recuperarlo del
-> correo de IATI *(a 09/10 sigue sin constar)*.
+> ### ⚠️ El otro extremo hay que comprobarlo en la póliza
+> El vuelo elegido **sale de Oporto el 30 de octubre** *(§8)*, no el 31, y la póliza **tiene que
+> empezar el 30/10** para que el vuelo de ida vaya cubierto. El 24/08 se anotó que así se había
+> contratado; **con la póliza del Mochilero cerrada el 19/10, la fecha de inicio ❌ no consta
+> anotada: léela**. Y como el día extra nunca se cotizó ni el descuento de Chavetas se verificó,
+> **el importe real pagado ❌ tampoco consta**: este documento cuenta los **€87,75 p.p.** de la
+> cotización del Mochilero hasta recuperarlo del correo de IATI.
 
 ### ✅ Cumple la condición de entrada
 
-Namibia **exige** seguro médico con **repatriación sanitaria**. El Estrella la lleva al **100 %** —
+Namibia **exige** seguro médico con **repatriación sanitaria**. El Mochilero la lleva al **100 %** —
 requisito cumplido. *(Las tres modalidades de IATI la cubren, así que por el requisito legal
 cualquiera valdría.)*
 
-**Lo que sí compra el Estrella:** asistencia médica **ilimitada** *(Mochilero 1,5 M€ · Estándar
-1 M€)*, regreso anticipado por cierre de fronteras y 4.000 € de equipaje. *En un país donde no hay
-hospital cerca de Sesriem y la evacuación aérea es todo el argumento, «ilimitado» no es marketing.*
+**Lo que compra el Mochilero:** asistencia médica de **1,5 M€** *(Estrella ilimitada · Estándar
+1 M€)*, **búsqueda y salvamento incluida (15.000 €)** y regreso anticipado por cierre de fronteras.
+*En un país donde no hay hospital cerca de Sesriem y la evacuación aérea es todo el argumento,
+1,5 M€ es un techo alto; «ilimitado» era lo que compraba el Estrella.* ❌ **El límite de equipaje y
+el límite por objeto del Mochilero están sin mirar** *(el Estrella daba 4.000 €)* — importa si al
+final viaja una cámara comprada.
 
-### ⚠️ Búsqueda y salvamento: el top lo deja opcional… y el Mochilero lo incluye
+### ✅ Búsqueda y salvamento: el Mochilero la trae de serie
 
-Curiosidad de la tabla que conviene mirar dos veces: **«Búsqueda y salvamento» viene INCLUIDO en el
-Mochilero (15.000 €) pero es OPCIONAL en el Estrella.**
+Curiosidad de la tabla que decidió la cosa: **«Búsqueda y salvamento» viene INCLUIDO en el
+Mochilero (15.000 €) y es OPCIONAL en el Estrella.** Y en **este** viaje importa: **Damaraland, el
+Namib y buena parte de la ruta no tienen cobertura móvil**. Es exactamente el escenario para el que
+existe esa garantía. *(Hasta el 19/10 aquí se pedía añadirla al Estrella; con el Mochilero
+contratado **no hay nada que pedir**.)*
 
-Y en **este** viaje importa: **Damaraland, el Namib y buena parte de la ruta no tienen cobertura
-móvil**. Es exactamente el escenario para el que existe esa garantía.
+### 🔁 La franquicia de coche de alquiler *(corregido el 28/08, y reabierto el 19/10)*
 
-> 👉 **Añádele la opción de búsqueda y salvamento al Estrella.** Si no, tienes el seguro más caro sin
-> una cobertura que sí trae el más barato. ⚠️ **Y esto sigue vivo tras contratar (24/08)**: se
-> contrató el **Estrella**, donde la garantía **no entra sola** — **hay que comprobar en la póliza
-> que se añadió** *(`20` §3)*.
-
-### 🔁 La franquicia de coche de alquiler **NO te sobra** *(corregido el 28/08)*
-
-Esto decía lo contrario hasta el 28/08, y era el consejo equivocado. El Estrella cubre **1.000 € de
-franquicia del coche**, y la Opción 4 de Savanna **no deja la franquicia en cero en el accidente más
-probable de Namibia**: su propia página excluye de las cuatro opciones el *«single vehicle
-accident»* —perder el control y volcar— y ahí el cliente responde de **N$165.000 (~€8.900)**
-*(§2)*. Los €1.000 del Estrella no tapan eso ni de lejos, pero **dejan de ser redundantes**: son
-los únicos mil euros de colchón que hay. **Cuéntalos como valor, no como duplicado** — y si en la
-entrega Savanna confirma por escrito que el vuelco SÍ entra en la Opción 4, entonces sí vuelve a
-sobrar.
+Hasta el 28/08 esto decía que la franquicia del seguro sobraba, y era el consejo equivocado: la
+Opción 4 de Savanna **no deja la franquicia en cero en el accidente más probable de Namibia** —su
+propia página excluye de las cuatro opciones el *«single vehicle accident»*, perder el control y
+volcar, y ahí el cliente responde de **N$165.000 (~€8.900)** *(§2)*—. El Estrella cubría **1.000 €
+de franquicia del coche**; ❌ **si el Mochilero la lleva, y con qué tope, está sin mirar en la
+póliza**. Si la lleva, son los únicos mil euros de colchón que hay: cuéntalos como valor. Y si en
+la entrega Savanna confirma por escrito que el vuelco SÍ entra en la Opción 4, entonces sí sobra.
 
 ### ❓ La pregunta que decide: ¿evacuación aérea DENTRO del país?
 
@@ -484,10 +492,10 @@ de grava)*. **La tabla no lo aclara.**
 ### Las tres, comparadas
 
 - IATI **Estándar** — €117,41 *(€58,70 p.p.)*
-- IATI **Mochilero** — €175,49 *(€87,75 p.p.)* · **incluye búsqueda y salvamento**
-- 🏆 IATI **Estrella** — **€226,04** *(€113,02 p.p.)* · **médica ilimitada** · *búsqueda y salvamento opcional*
+- 🏆 IATI **Mochilero** — **€175,49** *(€87,75 p.p.)* · **incluye búsqueda y salvamento** · médica 1,5 M€ — **la contratada (19/10)**
+- IATI **Estrella** — €226,04 *(€113,02 p.p.)* · **médica ilimitada** · *búsqueda y salvamento opcional*
 
-*Estrella vs Mochilero: **+€50,55** (+€25,27 por persona).*
+*Estrella vs Mochilero: **+€50,55** (+€25,27 por persona) — lo que se ahorró al elegir el Mochilero.*
 
 > 🎟️ **Cómo se contrata, decidido el 21/08**: **con el código de descuento de Chavetas** *(el blog
 > de viajes cuyo itinerario ya sirve de contraste en `aparte/desviacion-itinerario-chavetas.md`)* —
@@ -548,12 +556,13 @@ noche entera de aeropuertos.
 **Aterrizas el 31 de octubre a las 09:25 y despegas el 14 a las 20:45: son 15 días de suelo, con
 la mañana entera del primero y el día 14 completo.** Tres consecuencias, todas accionables:
 
-1. ✅ **El seguro se quedaba corto por un día — RESUELTO el 24/08.** La póliza **cotizada** en §7
-   iba del **31/10 al 15/11** y el vuelo sale el **30**, así que el primer vuelo habría ido sin
-   cobertura. **Ya está contratado el IATI Estrella empezando el 30/10** *(dicho por el viajero,
-   `20` §3)*. *(Lo que sigue abierto no es la fecha sino **el importe**: el día extra nunca se
-   cotizó ❌ y el descuento de Chavetas no se verificó ❌, así que este documento sigue contando
-   los **€113,02 p.p.** de la cotización, sin descontar — la cifra conservadora.)*
+1. ⚠️ **El seguro se quedaba corto por un día — y hay que comprobar en la póliza que ya no.** La
+   póliza **cotizada** en §7 iba del **31/10 al 15/11** y el vuelo sale el **30**, así que el
+   primer vuelo habría ido sin cobertura. El 24/08 se anotó el Estrella contratado desde el 30/10;
+   **lo que se cerró al final, el 19/10, es el IATI Mochilero** *(dicho por el viajero, `20` §3)*,
+   y **su fecha de inicio ❌ no consta: tiene que ser el 30/10**. *(Y el importe tampoco: el día
+   extra nunca se cotizó ❌ y el descuento de Chavetas no se verificó ❌, así que este documento
+   cuenta los **€87,75 p.p.** de la cotización del Mochilero.)*
 2. ✅ **El coche: RESERVADO — 15 días completos, con transfer aeropuerto ↔ oficina** — 31 oct
    11:00 → 14 nov 18:00, el día del vuelo de vuelta (20:45). Precio cerrado *(§2)*.
 3. ✅ **Las noches de NWR no se tocan.** Las del 31 de octubre (Windhoek) y del 1 de noviembre
@@ -597,7 +606,7 @@ agosto se quedó corto en los tres frentes** —parking, peajes y, sobre todo, e
   el precio del gasóleo **se revisa cada semana y por provincia**: ajústalo a tu coche y a la fecha.
 
 **Total de salir de Oporto, la pareja ≈ ~€225–270** *(◐/❌ — parking y peajes en ◐; el combustible,
-◐ en el precio y ❌ en el consumo)*. Es un extra **fuera** del ~€4.082 por persona del presupuesto *(§10)*,
+◐ en el precio y ❌ en el consumo)*. Es un extra **fuera** del ~€4.057 por persona del presupuesto *(§10)*,
 y **~€45–85 más caro** de lo que decía la estimación de agosto *(~€180–185)*: la mayor parte del
 salto es el precio real del gasóleo y la portagem portuguesa que antes se daba por €0.
 
@@ -629,8 +638,8 @@ equipaje. Decisión ya tomada: coche propio.)*
 
 > ✅ **EMITIDO el 10/08/2026, €1.536 por persona.** Con el billete de vuelta en la mano, **el
 > e-visa queda desbloqueado**: es el siguiente trámite de [`04`](04-guia-preparacion.md).
-> *(Y el seguro, que tenía que rehacerse desde el 30/10, **está contratado desde el 24/08** —
-> §7 y `20` §3.)*
+> *(Y el seguro **está contratado** —el IATI Mochilero, cerrado el 19/10; que empiece el 30/10 se
+> comprueba en la póliza — §7 y `20` §3.)*
 
 ---
 
@@ -795,8 +804,8 @@ flowchart LR
 - 🍖 Comida **~€140** ○
 - 🎫 Tasas de parque **~€124** ◐ *(7 × N$620 + la entrada propia de Cape Cross, ~N$620 los dos —
   premium desde 2026, corregido el 25/08)*
-- 🩺 Seguro **€113,02** ✅ *(CONTRATADO el 24/08 — la cifra es la cotización; el importe real
-  pagado, ❌ por recuperar de la póliza — §7)*
+- 🩺 Seguro **€87,75** ✅ *(IATI Mochilero, CONTRATADO el 19/10 — la cifra es la cotización; el
+  importe real pagado, ❌ por recuperar de la póliza — §7)*
 - 🛂 Visado **€80** ✅
 - 🎯 Actividades **~€220** ✅ *(tarifas verificadas: 2 guiadas de mañana de NWR + lanzadera de
   Deadvlei = €74, más **el Sundowner del D12 y el game drive dentro de Etosha del D13, de Onguma,
@@ -804,8 +813,8 @@ flowchart LR
   sigue comprable el D10 y el D11, está fuera hasta que se decida — §9)*
 - 🧷 Misceláneos **~€75** ○ *(incluye el conductor adicional, ~N$450 · ~€23 el viaje ✅ — §9)*
 
-> ### **TOTAL POR PERSONA: ~€4.082 (~N$81.600)** *con el coche y ocho noches cerrados*
-> ### **TOTAL LA PAREJA: ~€8.164 (~N$163.300)**
+> ### **TOTAL POR PERSONA: ~€4.057 (~N$81.100)** *con el coche, el seguro y nueve noches cerrados*
+> ### **TOTAL LA PAREJA: ~€8.113 (~N$162.300)**
 > Rango honesto: **€3.940–4.240 por persona** — el margen (±~€150) está en las noches sin
 > precio, el combustible, la comida y los misceláneos; el coche, el vuelo y las noches reservadas
 > son precio cerrado. *(El 21/08 la cifra era €3.990; el 24/08 bajó a €3.936 —**−€70 de
@@ -813,7 +822,8 @@ flowchart LR
 > el 28/08)*, **−€14,50 de la noche de Spreetshoogte que se
 > quita**, contra **+€8 de la segunda de Onguma**, **+€3,50 de combustible** y **+€13 de la noche
 > nueva de Twyfelfontein**, más redondeos de las partidas estimadas—; y **el 26/08 sube a €4.082:
-> +€146 por las dos actividades de Onguma, decididas** *(§9)*.)*
+> +€146 por las dos actividades de Onguma, decididas** *(§9)*; **y el 19/10 baja a €4.057**: el
+> seguro se cerró como Mochilero, −€25,27 p.p. *(§7)*.)*
 >
 > ⚠️ **Y el número tiene un riesgo al alza que antes no tenía**: la **noche del D8 en
 > Twyfelfontein** está presupuestada como camping *(~€35 la pareja)* y **los dos candidatos
@@ -828,19 +838,20 @@ flowchart LR
 > **+el traslado a Oporto** ida y vuelta *(revisado el 17/09 a ~€225–270 la pareja ◐/❌ — parking +
 > peajes + combustible, subió desde los ~€180–185 de agosto, ver §8)* y **+el día extra de seguro**
 > *(❌ sin cotizar)*.
-> **Cuenta ~€4.350 por persona para no llevarte sorpresas** *(rehecho el 09/10: aquí ponía ~€4.250,
-> y quedaba por debajo de lo que este mismo documento dice)*. La cuenta: **€4.082** presupuestados
+> **Cuenta ~€4.325 por persona para no llevarte sorpresas** *(rehecho el 09/10: aquí ponía ~€4.250,
+> y quedaba por debajo de lo que este mismo documento dice; rebajado €25 el 19/10 con el seguro
+> Mochilero)*. La cuenta: **€4.057** presupuestados
 > **+ €93** del euro corto *(§💱, al ~18,6 del 08/10)* **+ €141–172** de lo ya decidido que va fuera
 > del total *(Sandwich Harbour y los permisos de la DGT: la mitad de los ~€281–343 de la pareja,
-> abajo)* = **~€4.316–4.347**. Si Savanna cobra el transfer tardío del D15 y la tasa de parque de
-> Sandwich Harbour va aparte, **hasta ~€4.375**; y con el traslado a Oporto *(~€113–135 pp, §8)*,
-> **~€4.430–4.510**.
+> abajo)* = **~€4.291–4.322**. Si Savanna cobra el transfer tardío del D15 y la tasa de parque de
+> Sandwich Harbour va aparte, **hasta ~€4.350**; y con el traslado a Oporto *(~€113–135 pp, §8)*,
+> **~€4.405–4.485**.
 
 **Qué parte de este número es sólida: en §11, al final.**
 
 ### ➕ Decidido o probable — y FUERA del total *(03/10; rehecho el 09/10)*
 
-El ~€4.082 es lo que cuesta el viaje **tal como está presupuestado**; esto es lo que **ya está
+El ~€4.057 es lo que cuesta el viaje **tal como está presupuestado**; esto es lo que **ya está
 decidido o es probable y NO está dentro**, junto en un sitio para no tener que recogerlo por cuatro
 documentos. **No mueve los totales de §1 y §10**: se deja fuera a propósito, para que lo que está
 dentro siga siendo exactamente lo presupuestado.
@@ -870,9 +881,9 @@ dentro siga siendo exactamente lo presupuestado.
 → **Lo decidido suma ~€281–343 la pareja** *(Sandwich Harbour €260–322 + DGT €21)*; con lo
 probable *(el transfer tardío y la tasa de Sandwich Harbour, ~€28 cada uno)*, **hasta ~€399**; **con
 los dos nocturnos, ~€431–549**. Okonjima y Palmwag, si entran, añaden otros **~€140–430**. Y **el
-traslado a Oporto (~€225–270 la pareja, §8) tampoco está dentro**. Sobre los €4.082 por persona:
-**con lo decidido, ~€4.223–4.254 pp** *(~€4.282 con lo probable)*; **con todo lo de esta lista,
-~€4.365–4.570 pp** *(la malaria, ❌, aparte)*; y el traslado a Oporto suma otros **~€113–135 pp**.
+traslado a Oporto (~€225–270 la pareja, §8) tampoco está dentro**. Sobre los €4.057 por persona:
+**con lo decidido, ~€4.198–4.229 pp** *(~€4.257 con lo probable)*; **con todo lo de esta lista,
+~€4.340–4.545 pp** *(la malaria, ❌, aparte)*; y el traslado a Oporto suma otros **~€113–135 pp**.
 ⚠️ **Corregido el 09/10: el conductor adicional ya no está en esta lista ni en esta suma.** Va
 **dentro** del total, en el colchón de misceláneos de §9 *(~N$450 · ~€23 el viaje, en la entrega)*,
 y hasta hoy se contaba también aquí — dos veces el mismo dinero.
@@ -891,35 +902,35 @@ por cabeza:
   Sesriem N$670/pax, Etosha NWR N$460/pax, Onguma N$620/pax, Spreetshoogte N$290/pax — y Terrace
   Bay, por persona en DBB)* ·
   comida ~€140 ·
-  tasas de persona 7 × N$280 = **N$1.960 (~€98) + Cape Cross N$280 (~€14)** · seguro ~€113 ·
-  visado €80 · actividades ~€220 · misceláneos ~€75 → **~€2.661 (~N$53.200)**
+  tasas de persona 7 × N$280 = **N$1.960 (~€98) + Cape Cross N$280 (~€14)** · seguro ~€88 ·
+  visado €80 · actividades ~€220 · misceláneos ~€75 → **~€2.636 (~N$52.700)**
 
 ```mermaid
 flowchart LR
     T["Total por persona segun cuantos vais<br/>EUR · camping"]
-    n0["2 personas<br/>4.082"]
-    n1["3 personas<br/>3.608"]
-    n2["4 personas<br/>3.372"]
+    n0["2 personas<br/>4.057"]
+    n1["3 personas<br/>3.583"]
+    n2["4 personas<br/>3.347"]
     T ~~~ n0
     n0 ~~~ n1
     n1 ~~~ n2
     style T fill:#7a3a22,color:#fff,stroke:#7a3a22
 ```
 
-- **2 personas** — **~€4.082 (~N$81.600)/persona** · grupo ~€8.164 (~N$163.300) *(cuadra con el
+- **2 personas** — **~€4.057 (~N$81.100)/persona** · grupo ~€8.113 (~N$162.300) *(cuadra con el
   total oficial de §10, que es el que manda para el plan real)*
-- **3 personas** — **~€3.608 (~N$72.200)/persona** · grupo ~€10.825 (~N$216.500) → *ahorra
+- **3 personas** — **~€3.583 (~N$71.700)/persona** · grupo ~€10.750 (~N$215.000) → *ahorra
   ~€474/persona (−12 %) respecto a ir dos* — **sin cotizar con Savanna** ❌: su grupo GSXA-1 es
   camping para 2; para 3–4 puede tocar otro grupo, con otro precio. ⚠️ Y hay un tope:
   **la parcela de Onguma Tamboti admite máximo 2 tiendas / 4 personas** ✅ — y ahora son **dos
   noches** las que dependen de ese tope
-- **4 personas** — **~€3.372 (~N$67.400)/persona** · grupo ~€13.486 (~N$269.700) → *ahorra
+- **4 personas** — **~€3.347 (~N$66.900)/persona** · grupo ~€13.388 (~N$267.800) → *ahorra
   ~€710/persona (−17 %)* — misma reserva ❌ que la de 3
 
 > ⚠️ **Cuatro letras pequeñas antes de invitar a nadie:**
 > 1. **El vuelo (€1.536) está EMITIDO para 2 plazas** — un tercero o cuarto necesitaría su
 >    propio billete a la tarifa del día, que puede ser otra ❌.
-> 2. **El seguro (€113,02 p.p.) es la simulación de 2 viajeros** — el p.p. a 3–4 se asume lineal ○:
+> 2. **El seguro (€87,75 p.p.) es la simulación de 2 viajeros** — el p.p. a 3–4 se asume lineal ○:
 >    pide cotización.
 > 3. **Las 6 noches estimadas (~€105 p.p. ○)** son campings por persona salvo la habitación de
 >    Terrace Bay: con 3–4 puede salir algo mejor o algo peor. El límite de personas por parcela
@@ -941,9 +952,9 @@ banda *(`15` §💱 tipo de cambio)*. Convertir a 20 **abarata** en euros cada p
 **Cuánto.** La parte del presupuesto denominada en N$ *(alojamiento, combustible, comida, tasas,
 actividades, misceláneos y visado — unos N$25.000 por persona)* sale a **~€1.344 y no a €1.251**:
 **+€93 por persona, +€186 la pareja** *(a 18,6, que es justo la cifra del 08/10: los números
-aguantan)*. El total honesto se va a **~€4.175 pp · ~€8.350 la pareja**, que **sigue dentro del
+aguantan)*. El total honesto se va a **~€4.150 pp · ~€8.300 la pareja**, que **sigue dentro del
 rango declarado de €3.940–4.240** — pero siempre por arriba; y sumando lo decidido que va fuera del
-total, **~€4.350** *(§10)*.
+total, **~€4.325** *(§10)*.
 
 **No se reconvierten las cifras una a una** *(son cientos, y lo que se paga es el N$)*: queda dicho
 aquí, en la cabecera de los 21 documentos y en el README — **el euro de este dossier es orientativo
@@ -951,12 +962,12 @@ y corto; con la tarjeta en la mano manda el N$**.
 
 ## 11. Qué parte de este número es sólida
 
-- **✅ Duro — ~€3.187 de los €4.082 (78 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
+- **✅ Duro — ~€3.162 de los €4.057 (78 %)**: vuelo €1.536 *(emitido)* · el coche completo, los
   15 días, RESERVADO con Savanna, €1.181,50 · las 6 noches de Sesriem, Etosha y Onguma €175
-  *(**reservadas**)* · Terrace Bay €87 *(tarifa oficial de rack; **sin reservar ni pagar al 09/10**,
-  y desde el ~7/10 se paga entera al reservar — `20` §4)* · **Spreetshoogte €14,50** *(una noche, tarifa cerrada el
-  24/08)* · seguro €113 *(**contratado** el 24/08 ✅; la cifra es la cotización — el importe real
-  pagado, ❌ por recuperar, §7)* · visado €80.
+  *(**reservadas**)* · Terrace Bay €87 *(tarifa oficial de rack; **reservada el 19/10**, el importe
+  cobrado por anotar — `20` §4)* · **Spreetshoogte €14,50** *(una noche, tarifa cerrada el
+  24/08)* · seguro €88 *(IATI Mochilero, **contratado** el 19/10 ✅; la cifra es la cotización — el importe
+  real pagado, ❌ por recuperar, §7)* · visado €80.
   Todo con precio real para las fechas exactas. *(Y una duda que no cambia la cifra pero sí lo
   «pagado»: del coche no consta si se abonó entero o solo el 25 % — §2.)*
 - **✅ Decidido con tarifa verificada — ~€220**: las **dos** guiadas de mañana que quedan comprables
@@ -989,5 +1000,5 @@ y corto; con la tarjeta en la mano manda el N$**.
   [NAMCOR — fuel prices](https://www.namcor.com.na/fuel-prices/) ·
   [thebrief.com.na — rebaja julio 2026](https://thebrief.com.na/2026/07/gvt-cuts-petrol-price-by-n1-diesel-by-n4/) ·
   [thebrief.com.na — subida de N$2,00/l del 5 ago 2026](https://thebrief.com.na/2026/07/fuel-prices-to-rise-by-n2-00-a-litre-as-government-restores-levies/).
-- **Seguro y vuelos**: cotizaciones cerradas (IATI Estrella; Gotogate/Mytrip/Booking) — arriba.
+- **Seguro y vuelos**: cotizaciones cerradas (IATI Mochilero, la contratada, y Estándar y Estrella para comparar; Gotogate/Mytrip/Booking) — arriba.
 - **Ruta y distancias**: [`13-itinerario.md`](13-itinerario.md) *(histórico del sur)* y [`01-itinerarios-dia-a-dia.md`](01-itinerarios-dia-a-dia.md) *(la ruta vigente)*.

@@ -564,9 +564,9 @@ zona de Etosha.
 
 **Por eso, tres cosas encajan en una sola:**
 1. Tu seguro con **REPATRIACIÓN** —que además es **condición de entrada**— **no es papeleo**. El
-   elegido es el **IATI Estrella** (ver README y `02`), y la pregunta clave **sigue pendiente por
+   contratado es el **IATI Mochilero** *(19/10; ver README y `02`)*, y la pregunta clave **sigue pendiente por
    escrito**: 👉 **confirma que cubre evacuación AÉREA dentro del país desde una pista remota**, no
-   solo el vuelo de vuelta a casa desde Windhoek. *(Y añádele la opción de búsqueda y salvamento.)*
+   solo el vuelo de vuelta a casa desde Windhoek. *(La búsqueda y salvamento, el Mochilero la trae de serie.)*
 2. 🛑 **La exposición de ~N$165.000 (~€8.900) por el vuelco sin terceros NO era solo de Asco: es
    también de Savanna, y este párrafo decía lo contrario hasta el 28/08.** Su propia página de
    seguro avisa en mayúsculas de que *«an accident without involvement of other parties (single

@@ -9,18 +9,19 @@
 > **~N$20 = €1**, de bolsillo *(el cambio real de 2026 va por **18,5–19,4** — BCE, 28/08: el euro de estas páginas se queda ~7 % corto)* · **✅** fuente primaria · **◐** secundaria concordante ·
 > **○** práctica común, sin fuente · **❌** sin verificar, dicho en blanco
 >
-> *Levantado el 09/08/2026; revisado el 25/09/2026 con los plazos de octubre (§9), puesto al 03/10
-> y otra vez al 09/10.
+> *Levantado el 09/08/2026; revisado el 25/09/2026 con los plazos de octubre (§9), puesto al 03/10,
+> al 09/10 y al 19/10 —el seguro cerrado como Mochilero y Terrace Bay reservada—.
 > Desde el 24/08
 > —lo último que consta anotado de reservas—, el **vuelo está EMITIDO (€1.536 p.p.)**, el **coche
-> RESERVADO con Savanna (€2.363 en total)** y **ocho de las catorce noches RESERVADAS** — Windhoek
-> Urban Camp, Spreetshoogte, Sesriem ×2, Okaukuejo, Halali y **Onguma Tamboti ×2** (§4 y §5).
-> ⚠️ **Pero de ninguna de las ocho consta el pago** *(a 09/10)*: hay anotada la reserva y no el
+> RESERVADO con Savanna (€2.363 en total)** y **nueve de las catorce noches RESERVADAS** — Windhoek
+> Urban Camp, Spreetshoogte, Sesriem ×2, **Terrace Bay** *(19/10)*, Okaukuejo, Halali y **Onguma
+> Tamboti ×2** (§4 y §5).
+> ⚠️ **Pero de ninguna de las nueve consta el pago** *(a 09/10)*: hay anotada la reserva y no el
 > depósito que la sostiene —el 20 % de NWR en 48 h, el 50 % de Barkhan en 7 días— ni el importe
 > del Urban Camp; **y del coche no consta si se pagó el total o solo el 25 %**. Cada hueco lleva
 > su casilla en §9: no se da por pagado lo que no está anotado. **Y el pago íntegro de Sesriem
 > venció el 3/10** sin constar hecho: lo primero, que NWR confirme por escrito que sigue viva.
-> **Namutoni se anuló** y **Terrace Bay es la única que queda con fecha dura sin reservar**. Los contactos que el
+> **Namutoni se anuló** y **Terrace Bay, la última con fecha dura, se reservó el 19/10**. Los contactos que el
 > dossier no tiene localizados se dicen en blanco: rellenar un teléfono plausible sería peor que
 > dejar el hueco. Los marcados ◐ salieron de la búsqueda del 09/08/2026 sin poder abrir la ficha
 > oficial: confírmalos al usarlos.*
@@ -33,14 +34,14 @@ Reservar no es una lista plana: unas cosas abren la puerta de otras. **El coche 
 que se agota, no el vuelo (`04`)—, **el billete emitido es la llave del e-visa**, y las **reservas
 de alojamiento que hacen el viaje** van en cuanto el coche esté firmado.
 
-✅ **Casi todas están hechas desde el 24/08** *(lo último anotado)*: **Windhoek Urban Camp** *(D1)*,
-**Spreetshoogte** *(D2, una
-sola noche)*, **Sesriem ×2** *(D3–D4)*, **Okaukuejo** *(D10)*, **Halali** *(D11)* y **Onguma Tamboti
-×2** *(D12–D13)* — **ocho noches de catorce**. **Namutoni se anuló**: su parcela se cambió por la
+✅ **Las que hacen el viaje están todas** *(ocho desde el 24/08, la novena el 19/10)*: **Windhoek
+Urban Camp** *(D1)*, **Spreetshoogte** *(D2, una sola noche)*, **Sesriem ×2** *(D3–D4)*, **Terrace
+Bay** *(D7, habitación — 19/10)*, **Okaukuejo** *(D10)*, **Halali** *(D11)* y **Onguma Tamboti ×2**
+*(D12–D13)* — **nueve noches de catorce**. **Namutoni se anuló**: su parcela se cambió por la
 segunda de Onguma.
 
-🔴 **Queda una sola con fecha dura: Terrace Bay (vie 6 nov)**, sin la cual no se cruza Ugabmund a
-pernoctar. Y **cinco noches sin reservar** que no necesitan reserva anticipada: Walvis Bay ×2,
+✅ **Ya no queda ninguna con fecha dura**: Terrace Bay *(vie 6 nov)*, sin la cual no se cruza Ugabmund
+a pernoctar, se reservó el 19/10 — **el importe cobrado, ❌ por anotar** *(§4)*. Y **cinco noches sin reservar** que no necesitan reserva anticipada: Walvis Bay ×2,
 **Twyfelfontein —la noche nueva del D8—**, Hoada y la vuelta a Windhoek del D14 *(ninguna con
 tarifa cerrada: Hoada tiene banda ◐ y Twyfelfontein, desde el 18/09, orden de magnitud de camping
 ◐/○; las otras tres, ❌ — y la del D1, reservada, tampoco tiene tarifa todavía)*.
@@ -49,15 +50,15 @@ tarifa cerrada: Hoada tiene banda ◐ y Twyfelfontein, desde el 18/09, orden de 
 flowchart LR
 %% ancho
     C["1 · EL 4x4<br/>RESERVADO 12/08<br/>Savanna, 2.363 EUR<br/>total, Ford GSXA-1"] --> V["2 · EL VUELO<br/>EMITIDO 10/08<br/>1.536 EUR pp"]
-    V --> S["3 · SEGURO IATI<br/>CONTRATADO 24/08<br/>Estrella, desde el 30-10"]
+    V --> S["3 · SEGURO IATI<br/>CONTRATADO 19/10<br/>Mochilero · inicio 30-10 por comprobar"]
     V --> E["6 · E-VISA<br/>desbloqueado:<br/>ya hay billete de vuelta"]
-    C --> N["4 · LAS NOCHES NWR<br/>Sesriem x2 RESERVADO<br/>Terrace Bay: LA QUE FALTA"]
+    C --> N["4 · LAS NOCHES NWR<br/>Sesriem x2 RESERVADO<br/>Terrace Bay RESERVADO 19/10"]
     N --> Y["ETOSHA, CERRADO<br/>Okaukuejo · Halali<br/>y Onguma Tamboti x2"]
     N --> R["5 · EL RESTO DE CAMPINGS<br/>Windhoek D1 RESERVADO · Walvis x2<br/>Twyfelfontein · Hoada · Windhoek D14"]
     P["EN PARALELO · CVI<br/>la llamada del 30/09 no consta:<br/>sin cita antes del ~16/10,<br/>solo queda Malarone"]
     style C fill:#9d0208,color:#fff
     style V fill:#2d6a4f,color:#fff
-    style N fill:#9d0208,color:#fff
+    style N fill:#2d6a4f,color:#fff
     style Y fill:#2d6a4f,color:#fff
     style P fill:#e85d04,color:#000
 ```
@@ -83,9 +84,9 @@ fuentes, y coinciden entre sí ◐:
 > ### 👉 Traducido a vuestro caso
 > - ✅ **Los críticos ya están**: **Etosha** *(Okaukuejo y Halali)*, **Sesriem ×2** y las **dos
 >   noches de Onguma** — más Spreetshoogte y el Urban Camp de Windhoek.
-> - ⚠️ **Terrace Bay hay que reservarlo igual, pero por otro motivo**: no es que se llene, es que
->   **sin la confirmación no se entra a pernoctar** al Skeleton Coast *(§4)*. Es una llave, no una
->   plaza. **Es la única llamada que queda con fecha dura.**
+> - ✅ **Terrace Bay, reservado el 19/10**: había que reservarlo por otro motivo —no es que se
+>   llene, es que **sin la confirmación no se entra a pernoctar** al Skeleton Coast *(§4)*; es una
+>   llave, no una plaza—. **Era la última llamada con fecha dura.**
 > - 🟡 **Y el resto se puede dejar para más adelante, o incluso para allí**: **Walvis Bay ×2**,
 >   **Hoada**, **Windhoek del D14** y **la noche nueva de Twyfelfontein (D8)**. Ninguno está dentro
 >   de un parque y todos caen en temporada baja. **Conviene llamar el día antes** para no conducir
@@ -236,26 +237,32 @@ fuentes, y coinciden entre sí ◐:
 
 ---
 
-## 3 · 🩺 El seguro — IATI Estrella: **CONTRATADO ✅ (24/08/2026)**
+## 3 · 🩺 El seguro — IATI Mochilero: **CONTRATADO ✅ (19/10/2026)**
 
-- **Qué**: **IATI Estrella, contratado y empezando el 30/10** ✅ *(dicho directamente por el
-  viajero, 24/08 — misma vía por la que consta el precio del coche)*, **con el código de
-  Chavetas**. Con esto se cierra de golpe **lo que era el frente más urgente del cuaderno**: la
-  póliza cotizada arrancaba el 31 y el vuelo sale el 30, así que ese día de vuelo iba descubierto.
-- ⚠️ **Lo que NO se sabe todavía: el importe real pagado** ❌. La cotización de referencia era
-  **~N$4.520 (€226,04) la pareja / ~N$2.260 (€113,02) por persona** para 31/10–15/11 ✅, y sobre
-  ella actúan **dos cosas en sentidos contrarios y ninguna medida**: el **día extra** del 30/10
-  *(❌ nunca cotizado)* lo sube, y el **descuento de afiliado de Chavetas** *(❌ porcentaje sin
-  verificar)* lo baja. **`02` sigue presupuestando con los €113,02 sin descontar** hasta que
-  aparezca la póliza: es la cifra conservadora. **Recupérala del correo de IATI y ciérrala.**
-- ⚠️ **Y el fleco que la modalidad Estrella deja vivo**: **la búsqueda y salvamento es OPCIONAL en
-  el Estrella** —el Mochilero, más barato, la trae de serie— así que **no entra sola por haber
-  contratado el Estrella**: hay que haberla añadido. ❌ **Sin confirmar si se añadió**, y su coste
-  tampoco se llegó a cotizar. Lo mismo con la petición de que cubra **evacuación aérea DENTRO del
-  país** *(cerca de Sesriem no hay hospital)*: ❌ **sin confirmar que se pidiera por escrito**.
-  **Las dos se comprueban leyendo la póliza; si no están, se piden ahora.**
-- **Y si al final viaja una cámara comprada** *(equipo de fotografía, en el repo aparte)*: el
-  **límite por objeto** dentro de los 4.000 € de equipaje sigue ❌ sin mirar.
+- **Qué**: **IATI Mochilero, contratado** ✅ *(dicho directamente por el viajero el 19/10 — misma
+  vía por la que consta el precio del coche)*. ⚠️ **No es la modalidad que este cuaderno llevaba
+  anotada**: el 24/08 se apuntó el Estrella como contratado desde el 30/10, también dicho por el
+  viajero; **lo que se cerró al final es el Mochilero**, €50,55 la pareja más barato en cotización y
+  **con la búsqueda y salvamento de serie**, que en el Estrella había que añadir. Con la póliza
+  cerrada, **lo que era el frente más urgente del cuaderno** —que el seguro empezara el 30 y no el
+  31— depende solo de leerla.
+- ⚠️ **Lo que NO consta todavía: el importe real pagado y la fecha de inicio** ❌. La cotización de
+  referencia del Mochilero era **~N$3.510 (€175,49) la pareja / ~N$1.755 (€87,75) por persona**
+  para 31/10–15/11 ✅, y sobre ella actúan **dos cosas en sentidos contrarios y ninguna medida**: el
+  **día extra** del 30/10 *(❌ nunca cotizado)* lo sube, y el **descuento de afiliado de Chavetas**
+  *(❌ porcentaje sin verificar)* lo baja. **`02` presupuesta con los €87,75 sin descontar** hasta
+  que aparezca la póliza. **Y la póliza tiene que empezar el 30/10, el día del vuelo de ida**: ❌
+  sin anotar que sea así. **Recupera las dos cosas del correo de IATI y ciérralas.**
+- ✅ **El fleco que el Estrella dejaba vivo se cierra solo**: **la búsqueda y salvamento va
+  INCLUIDA en el Mochilero (15.000 €)** — no hay que añadirla ni cotizarla. Lo que queda es la
+  petición de que cubra **evacuación aérea DENTRO del país** *(cerca de Sesriem no hay hospital)*:
+  ❌ **sin confirmar que se pidiera por escrito** — **se comprueba leyendo la póliza; si no está,
+  se pide ahora.**
+- ⚠️ **Y dos cosas que el Mochilero no garantiza como el Estrella y están ❌ sin mirar en la
+  póliza**: la **médica es de 1,5 M€** *(el Estrella, ilimitada)* y **si lleva franquicia de coche
+  de alquiler y con qué tope** *(el Estrella daba 1.000 €, los únicos mil euros de colchón contra el
+  vuelco sin terceros — `02` §7)*. **Y si al final viaja una cámara comprada** *(equipo de
+  fotografía, en el repo aparte)*: el **límite de equipaje y por objeto** del Mochilero, ❌ sin mirar.
 - **Contacto** ◐ *(web propia, vía búsqueda del 09/08)*:
   [iatiseguros.com](https://www.iatiseguros.com/soporte/contacto/) · 📞 **+34 93 201 49 43** ·
   info@iatiseguros.com. La póliza impresa con su **teléfono de asistencia 24 h** *(depende del
@@ -272,27 +279,22 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
   los dos** ✅ — **RESERVADAS**. **44 parcelas y son la hora de ventaja de Deadvlei.** ⚠️ **Ojo a
   las fechas: bajaron un día el 24/08** *(eran el 3 y el 4)*, al quedarse Spreetshoogte en una sola
   noche.
-- 🔴 **Terrace Bay — vie 6 nov (D7)** — **habitación doble en media pensión, N$3.480 (~€174) los
+- ✅ **Terrace Bay — vie 6 nov (D7) — RESERVADA el 19/10**: **habitación doble, tarifa estándar
+  TB1 en media pensión (DBB)** *(así consta en la confirmación)*. Rack: **N$3.480 (~€174) los
   dos** ✅ *(no hay camping: la fila «Campsite» de su web no existe en el tarifario — error suyo)*.
-  **ES LA ÚNICA QUE QUEDA POR RESERVAR con fecha dura.**
-  ⚠️ **Y su ficha web contradice al PDF en más cosas** *(verificado el 25/08)*: la web muestra
-  «Bush Chalet B&B 1.450 pp» y «Campsite 460», que son de otro resort; **el PDF de tarifas es el
-  bueno (1.740 pp DBB, sin camping)**. Al reservar, **pide el importe por escrito**: si la reserva
-  sale por la web, puede llegar con la cifra equivocada.
+  **Era la última que quedaba por reservar con fecha dura.**
+  ⚠️ **El importe cobrado no consta** ❌: dentro de los 30 días NWR cobra el **100 % al reservar**,
+  así que lo normal es que esté pagada entera — **anótalo del correo de NWR, con el número de
+  reserva**. Y como su ficha web contradice al PDF *(verificado el 25/08: la web muestra «Bush
+  Chalet B&B 1.450 pp» y «Campsite 460», que son de otro resort; **el PDF de tarifas es el bueno,
+  1.740 pp DBB**)*, **comprueba que el importe cobrado es el del rack**, N$3.480 · ~€174.
   ⚠️ **Sin esta reserva confirmada no se cruza Ugabmund a pernoctar** —última entrada **15:00**— y
   el permiso de tránsito obliga a salir del parque el mismo día: **llevadla impresa** *(`11`)*.
-  ⚠️ **También bajó un día** *(era el 7)*.
-  ⚠️ **A 09/10 sigue sin reservar, y ya estamos dentro de los 30 días** *(el ~7/10 pasó)*: NWR
-  pide el **100 % al reservar** *(N$3.480 · ~€174)*, no el 20 %. **Pagar todo y perder todo no son
-  lo mismo** *(aclarado el 03/10; abajo, la escala)*: lo que se **pierde** si luego hay que anular
-  sigue siendo su escala — **30 % hasta el ~22/10** *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10 y
-  100 % desde el 31/10. Cuanto más se espera, más caro sale echarse atrás.
-  🛟 **Y el plan B, anotado ANTES de llamar a NWR** *(de [los desvíos](aparte/desvios-que-valen-la-pena.md))*:
-  si no hay sitio, la noche del 6 nov se va a **Spitzkoppe** — camping comunitario, **~N$640
-  (~€32) los dos** *(N$320 · ~€16 pp en noviembre ◐; el rack ✅ de N$300 · ~€15 caduca el 31/10)*,
-  más de 50 parcelas, reserva por 📧 **reservations@logufa.com** ✅. La línea interior
-  Walvis → Spitzkoppe → Twyfelfontein es **~200 km más corta** que la de la costa y quita la hora
-  límite de Ugabmund; a cambio se pierden Cape Cross, la noche dentro del parque y el Uniab.
+  Lo que se **perdería** si hubiera que anular es la escala de NWR: **30 % hasta el ~22/10**
+  *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10 y 100 % desde el 31/10.
+  🛟 **El plan B de Spitzkoppe ya no hace falta** *(queda escrito en
+  [los desvíos](aparte/desvios-que-valen-la-pena.md), por si NWR fallara)*: camping comunitario,
+  ~N$640 (~€32) los dos ◐, reservations@logufa.com ✅.
 - **Okaukuejo — lun 9 (D10)** · **Halali — mar 10 (D11)** — camping
   **N$920 (~€46)/noche los dos** ✅ — **las dos RESERVADAS el 21/08**, y **sus fechas no se
   movieron**.
@@ -364,8 +366,8 @@ Todas con **tarifa oficial 2026/2027 verificada** ✅
 >   y lo no pagado NWR lo cancela: **confirmar con NWR por escrito que la reserva sigue viva**. La
 >   misma regla pone **Okaukuejo hacia el 10 y Halali hacia el 11 de octubre** ○ *(vencidos a 18/10)*
 >   *(aplicación de la regla; si NWR las lleva como una sola reserva, las dos hacia el 10)*,
->   tampoco anotados. Y **Terrace Bay**, sin reservar: **desde el ~7/10 se PAGA el 100 % de golpe**
->   *(N$3.480 · ~€174)*, pero **lo que se PIERDE al anular es la escala de arriba** —30 % hasta el
+>   tampoco anotados. Y **Terrace Bay**, reservada el 19/10 ya dentro de los 30 días: **se PAGA el
+>   100 % al reservar** *(N$3.480 · ~€174; el cobro, ❌ por anotar)*, pero **lo que se PIERDE al anular es la escala de arriba** —30 % hasta el
 >   ~22/10, 75 % hasta el ~30/10, 100 % después—. *(Hasta el 03/10 aquí se decía «se arriesga el
 >   100 %», que mezclaba las dos cosas.)*
 > - ✅ **Y ya no hay ninguna decisión de ruta con fecha límite por este lado.** Cuando el
@@ -523,6 +525,11 @@ Okaukuejo, +264 67 229 800** *(`01` §D11)*. **Sesriem pide llevar reserva de ef
   **Reservas: Journeys Namibia** *(la gestora, con Grootberg Lodge)* ◐: 📧 res4@journeysnamibia.com ·
   📞 +264 61 228 104 *([grootberg.com/contact](http://www.grootberg.com/contact) ·
   [journeysnamibia.com](https://journeysnamibia.com/en/lodges/hoada-campsite-tented-camp))*.
+  ⚖️ **Sin decidir a 19/10: el camping o Grootberg Lodge.** El viajero da el camping en **~€40 los
+  dos** *(que cuadra con la banda alta ◐)* y está mirando **el lodge de al lado, Grootberg Lodge**
+  —mismo operador, 25 km al oeste, **~N$4.318 (~€216) pp en DBB** ◐, con el rastreo de rinoceronte
+  a pie que el camping no da *(`aparte/reservas-privadas-vs-etosha`, `11`)*—. **Ni una ni otro
+  están reservados**; el `02` presupuesta el camping.
 
 ---
 
@@ -670,22 +677,24 @@ Para no gastar llamadas en lo que se cierra allí:
       briefing en la oficina hasta ~13:00 — `01` §D1)* y la **devolución del 14/11 a las 18:00**.
       Que digan que las atienden y **si cobran los N$550 (~€28) del transfer fuera de horario** —
       hoy fuera del presupuesto *(`02` §10)* *(§1)*
-- [x] **Seguro contratado desde el 30/10** — IATI **Estrella**, con el código de Chavetas, 24/08 *(§3)*
-- [ ] **Del seguro, recuperar el importe real pagado** ❌ — hoy `02` va con la cotización *(§3)*
-- [ ] **Comprobar en la póliza** que lleva **evacuación aérea dentro del país** y **búsqueda y
-      salvamento** *(en el Estrella es OPCIONAL: no entra sola)*; si no están, pedirlas *(§3)* —
-      **tocaba el 30/09 *(`04`)* y a 09/10 no consta: leerla antes del ~10/10 — vencido a 18/10**
+- [x] **Seguro contratado** — IATI **Mochilero**, 19/10 *(§3; el 24/08 se había anotado el Estrella)*
+- [ ] **Del seguro, recuperar el importe real pagado y que empieza el 30/10** ❌ — hoy `02` va con
+      la cotización del Mochilero *(§3)*
+- [ ] **Comprobar en la póliza** que lleva **evacuación aérea dentro del país**; si no, pedirla
+      *(§3)* — la búsqueda y salvamento ya va de serie en el Mochilero. **Tocaba el 30/09 *(`04`)*;
+      con la póliza cerrada el 19/10, leerla ya**
 - [x] **Billete emitido** — 10/08, €1.536 pp, con maleta, billete único *(§2)*
 - [x] **Sesriem ×2 — RESERVADO** *(2–3 nov, dentro de la puerta)* *(§4)*
 - [ ] 💳 **El 20 % de las dos noches de Sesriem** *(~N$536 · ~€27, en 48 h)* **y su pago íntegro**
       *(N$2.680 · ~€134)* — **el íntegro venció el 3/10 y no consta pagado, ni el 20 %** ❌; NWR
       cancela lo no pagado: **confirmar con NWR por escrito que la reserva sigue viva** y, si lo
       está, pagar lo que digan *(§4)*
-- [ ] 🔴 **Terrace Bay** *(6 nov — confirmación impresa)* — **la única que queda con fecha dura**;
-      **desde el ~7/10 se paga el 100 % al reservar** *(N$3.480 · ~€174)*, **pero anular hasta el
-      ~22/10 cuesta el 30 %** *(~N$1.044 · ~€52)* *(§4)*. 🛟 **Plan B si NWR no tiene sitio**:
-      **Spitzkoppe**, ~N$640 (~€32) los dos ◐ — 📧 reservations@logufa.com ✅
-      *([los desvíos](aparte/desvios-que-valen-la-pena.md))*
+- [x] **Terrace Bay — RESERVADO** *(19/10; 6 nov, habitación doble, tarifa estándar DBB —
+      confirmación impresa)* *(§4)*
+- [ ] 💳 **De la habitación del D7, anotar el importe cobrado por NWR y el número de reserva** ❌ —
+      dentro de los 30 días NWR cobra el 100 % al reservar *(N$3.480 · ~€174 de rack; comprobar que
+      no cobraron la cifra equivocada de su web)*; anular hasta el ~22/10 costaría el 30 %
+      *(~N$1.044 · ~€52)* *(§4)*
 - [x] **Las 4 noches de Etosha — RESERVADAS** *(§4)*: Okaukuejo *(9–10)* · Halali
       *(10–11)* · **Onguma Tamboti ×2** *(11–13, ya fuera de la puerta)*. **Namutoni, anulado**
 - [ ] 💳 **El 20 % de Okaukuejo y el de Halali** *(~N$184 · ~€9 cada uno, en 48 h)* **y sus pagos
@@ -726,7 +735,7 @@ Para no gastar llamadas en lo que se cierra allí:
 - [ ] **Twyfelfontein** *(7 nov)* — **a propósito sin reservar: es el colchón del calendario**; pide
       precio igualmente a uno de los campings del Aba-Huab *(Aba-Huab, Madisa, Mowani, Adventure
       Camp)*, y de paso el **rastreo de Grootberg/Palmwag** ❌ *(§5)*
-- [ ] **Hoada** *(8 nov)* *(§5)*
+- [ ] **Hoada** *(8 nov)* — ⚖️ **antes, decidir camping (~€40 los dos) o Grootberg Lodge** *(§5)*
 - [ ] **e-visa** *(tras el billete — solo `eservices.mhaiss.gov.na`)* *(§6)* — **iba la primera
       semana de octubre, que ya pasó, y a 09/10 no consta pedido** ❌: con 7–10 días hábiles de
       trámite ◐, pedido hoy llega hacia el **~23/10**; antes, pasaportes y
@@ -780,8 +789,9 @@ pendiente**, y si ya lo está, se tacha y listo. Los importes, solo donde el cua
 - [ ] **Ya · Barkhan, por escrito** — confirmar que la reserva del D2 está confirmada: el 50 % no
       consta pagado y la provisional caducaba hacia el **31/08** *(§5)*; y **cuándo y cómo se paga
       el resto** —efectivo al llegar o transferencia antes del 30/10— ❌.
-- [ ] **~10/10 ○ · leer la póliza de IATI** — evacuación aérea dentro del país y búsqueda y
-      salvamento; tocaba el 30/09 *(`04`)* y a 09/10 no consta *(§3)*.
+- [ ] **Ya · leer la póliza de IATI** *(el Mochilero, cerrada el 19/10)* — que empiece el 30/10,
+      la evacuación aérea dentro del país y el importe pagado; la búsqueda y salvamento va de serie
+      *(§3)*.
 - [ ] **~10/10 ○ · NWR, pago íntegro de Okaukuejo** *(N$920 · ~€46)*, si no está pagado ya ❌ —
       30 días antes de la llegada del 9/11 *(§4)*.
 - [ ] **~11/10 ○ · NWR, pago íntegro de Halali** *(N$920 · ~€46)*, si no está pagado ya ❌ — 30

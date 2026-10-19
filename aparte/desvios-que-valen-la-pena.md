@@ -317,7 +317,8 @@ rojos de 700 millones de años sobre la llanura, el **arco de roca** que es la p
 > Esqueletos, y eso significa borrar **Cape Cross, la puerta de Ugabmund, la noche dentro del
 > parque y el delta del Uniab** *(`10`)* — cuatro cosas por una.
 >
-> **Pero si Terrace Bay no tiene sitio** —que es la reserva binaria del viaje: sin ella no se
+> **Pero si Terrace Bay no tuviera sitio** *(reservada el 19/10: este plan B queda de recambio, por si
+> NWR fallara)* —que es la reserva binaria del viaje: sin ella no se
 > entra a pernoctar *(`20` §4)`*— entonces **Spitzkoppe es exactamente el recambio**: la noche
 > existe y se reserva por email, es **~200 km más corta**, cuesta **N$640 (~€32) en vez de los
 > N$3.480 (~€174)** de Terrace Bay, y el D8 dejaría de tener la hora límite de las 15:00 de

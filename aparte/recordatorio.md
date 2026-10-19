@@ -1,9 +1,10 @@
 # 📌 Recordatorio — lo que solo tú puedes contestar
 
-*Escrito el **3 de octubre de 2026**, tras la auditoría de ese día, y **puesto al 9 de octubre**. Son
+*Escrito el **3 de octubre de 2026**, tras la auditoría de ese día, y **puesto al 19 de octubre**. Son
 las preguntas cuya respuesta no está en ningún correo ni PDF del repo: está en tu banco, tu bandeja
 de entrada o tu memoria. Cada una dice **dónde se apunta la respuesta** para que el dossier deje de
-decir «no consta». A 09/10 no consta ninguna contestada.*
+decir «no consta». El 19/10 se contestaron dos: el seguro, cerrado con el Mochilero, y Terrace Bay, reservada — a las
+dos les queda el importe.*
 
 ## Las que ya vencieron
 
@@ -12,11 +13,10 @@ decir «no consta». A 09/10 no consta ninguna contestada.*
    Si no consta ninguno, **que NWR confirme por escrito que la reserva sigue viva**.
    → reservations@nwr.com.na · +264 61 285 7200. Tacha la casilla en el [`20` §9](../20-reservas.md)
    y escribe la fecha y el importe.
-2. **Terrace Bay (D7, 6 nov)** — la única noche con fecha dura sin reservar. **Desde el ~7/10** NWR
-   cobra el **100 % al reservar** *(N$3.480 · ~€174)*; anular costaría el 30 % *(~N$1.044 · ~€52)*
-   hasta el ~22/10. Sin la confirmación impresa no se cruza Ugabmund. Si no hay sitio, **plan B:
-   Spitzkoppe** *(~N$640 · ~€32 los dos, reservations@logufa.com)*. → reservations@nwr.com.na ·
-   +264 61 285 7200; la reserva, a `20` §4 y §9.
+2. ~~**Terrace Bay (D7, 6 nov)**~~ **reservada el 19/10** — habitación doble, tarifa estándar en
+   media pensión. Queda **anotar el importe cobrado y el número de reserva** *(el rack son N$3.480 ·
+   ~€174; dentro de los 30 días NWR cobra el 100 % al reservar — comprueba que no cobraron la cifra
+   equivocada de su web)* e **imprimir la confirmación**. → `20` §4 y §9.
 3. **¿Se pidió el e-visa?** Iba **la primera semana de octubre**. Con 7–10 días hábiles de trámite,
    **pedido hoy llega hacia el ~23/10**. Antes, **pasaportes** *(válidos hasta el 15/05/2027, 3
    páginas en blanco)* y **nombres del billete idénticos al pasaporte**. → `20` §9 y
@@ -24,9 +24,9 @@ decir «no consta». A 09/10 no consta ninguna contestada.*
 
 ## Las de la semana del 9/10 y la siguiente *(a 18/10, todas vencidas y sin anotar)*
 
-4. **La póliza IATI, antes del ~10/10** — que lleve **evacuación aérea dentro del país** y
-   **búsqueda y salvamento**; si no, pedirlas ya. Y el **importe real pagado**, para cerrar el `02`.
-   → `20` §3.
+4. **La póliza IATI — cerrada el 19/10 con el Mochilero**: que **empiece el 30/10**, que lleve
+   **evacuación aérea dentro del país** *(la búsqueda y salvamento ya va de serie)*, y el **importe
+   real pagado**, para cerrar el `02`. → `20` §3.
 5. **¿Están pagados Okaukuejo y Halali?** Su 20 % no consta, y el íntegro *(N$920 · ~€46 cada uno)*
    va hacia el **~10/10 y ~11/10**. → `20` §4 y §9.
 6. **Barkhan (Spreetshoogte, D2)** — ¿se pagó el 50 % que confirmaba la provisional? Si no, caducó
@@ -64,6 +64,10 @@ decir «no consta». A 09/10 no consta ninguna contestada.*
     salida de las 08:30. Pregunta si la tasa de parque va incluida. → `20` §7.
 15. **~24/10 — imprimirlo todo** *(`04`)*: el e-visa firmado, las confirmaciones de NWR, la de
     Onguma, la del coche y la póliza.
+16. **La noche de Hoada (D9): ¿el camping o Grootberg Lodge?** El camping, ~€40 los dos; el lodge,
+    el de al lado y del mismo operador, ~N$4.318 (~€216) pp en DBB ◐ — unos ~€390 la pareja más,
+    con el rastreo de rinoceronte a pie. Se está mirando a 19/10. → `20` §5 y
+    `aparte/reservas-privadas-vs-etosha`; la decisión va al `02` §3 y a `noches-y-reservas`.
 
 *Cuando contestes una, muévela al sitio que indica y bórrala de aquí: este fichero debería quedarse
 vacío antes del 30 de octubre. Las noches, una a una, en

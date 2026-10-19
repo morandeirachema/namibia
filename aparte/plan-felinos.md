@@ -206,7 +206,7 @@ flowchart LR
   del D14 *(~N$700 · ~€35 de gasóleo ○)*. **Lo que se pierde**: la cena de despedida en Joe's del
   D14 *(se puede hacer el D15 al mediodía)* y la última noche «de ciudad» antes del vuelo.
 - **Neto: ~N$5.460 (~€273) los dos** con un rastreo, **~N$8.660 (~€433)** con dos — es decir,
-  **~€135–215 por persona** sobre los ~€4.082 del `02`. Es el precio de pasar el leopardo de «uno
+  **~€135–215 por persona** sobre los ~€4.057 del `02`. Es el precio de pasar el leopardo de «uno
   de cada tres» a «ocho de cada diez, dos veces».
 
 ### Lo que cuesta, aparte del dinero

@@ -1,13 +1,13 @@
 # 🛏️ Dónde se duerme cada noche — y qué está reservado
 
-*Estado a **9 de octubre de 2026**. Catorce noches, del 31 de octubre al 13 de noviembre. Es un
+*Estado a **19 de octubre de 2026**. Catorce noches, del 31 de octubre al 13 de noviembre. Es un
 espejo de un vistazo del [`20` §9](../20-reservas.md): **lo que manda es el `20`**; si los dos
-dicen cosas distintas, el `20` tiene razón y éste va atrasado. Revisado el 03/10 y el 09/10: **de
-las ocho reservadas no consta el pago de ninguna** — ni los 20 % de NWR ni el íntegro de Sesriem,
+dicen cosas distintas, el `20` tiene razón y éste va atrasado. Revisado el 03/10, el 09/10 y el 19/10
+—Terrace Bay, reservada—: **de las nueve reservadas no consta el pago de ninguna** — ni los 20 % de NWR ni el íntegro de Sesriem,
 que **venció el 3/10**, ni el 50 % de Barkhan ni el importe del Urban Camp—; cada noche lo dice
 abajo.*
 
-**8 noches reservadas · 6 sin reservar** — una de ellas, Twyfelfontein, **sin reservar a propósito**.
+**9 noches reservadas · 5 sin reservar** — una de ellas, Twyfelfontein, **sin reservar a propósito**.
 
 **Qué tipo de cama**: **12 noches de camping** en parcela con la tienda del coche *(NWR, comunitario,
 urbano o de reserva privada)*, **1 noche en habitación** —Terrace Bay, donde no hay camping— y
@@ -35,14 +35,15 @@ los lodges *(`15`, 18/09)*—.
 - **D5 · mié 4 nov — Walvis Bay, Lagoon Chalets** · *⛺ camping* — **SIN RESERVAR ❌**. Camping «desde» ~N$700
   (~€35) la noche los dos ◐, sin tarifa confirmada para noviembre. Plan B: Swakopmund, a 30 km ○.
 - **D6 · jue 5 nov — Walvis Bay, Lagoon Chalets** · *⛺ camping* — **SIN RESERVAR ❌** *(segunda noche)*.
-- **D7 · vie 6 nov — Terrace Bay (NWR), Costa de los Esqueletos** · *🏨 habitación doble, media pensión* — 🔴 **SIN RESERVAR — la urgente**.
-  Habitación doble en media pensión, **N$3.480 (~€174) los dos** ✅; no hay camping. Es **la única
-  con fecha dura**: sin la confirmación impresa **no se cruza Ugabmund** a pernoctar. **El ~7/10 ○
-  ya pasó**: desde entonces **se PAGA el 100 % al reservar**, pero **lo que se PIERDE al anular es
-  la escala de NWR: 30 % hasta el ~22/10 *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10, 100 %
-  después** — pagar todo no es perder todo. Canal: reservations@nwr.com.na · +264 61 285 7200 *(el
-  portal online está caído ◐)*. **Plan B si no hay sitio: Spitzkoppe**, camping comunitario,
-  ~N$640 (~€32) los dos ◐ — reservations@logufa.com ✅ *(`aparte/desvios-que-valen-la-pena`)*.
+- **D7 · vie 6 nov — Terrace Bay (NWR), Costa de los Esqueletos** · *🏨 habitación doble, media pensión* — **RESERVADO ✅ (19/10)**.
+  Habitación doble, tarifa estándar TB1 en media pensión (DBB), tal como consta en la confirmación;
+  rack **N$3.480 (~€174) los dos** ✅; no hay camping. Es **la única con fecha dura**: sin la
+  confirmación impresa **no se cruza Ugabmund** a pernoctar. **Pago: no consta ❌** — dentro de los
+  30 días NWR cobra el 100 % al reservar, así que lo normal es que esté pagada entera: anotar el
+  importe y el número de reserva del correo de NWR, y comprobar que cobraron el rack y no la cifra
+  equivocada de su web. Lo que se **perdería** al anular es la escala de NWR: 30 % hasta el ~22/10
+  *(~N$1.044 · ~€52)*, 75 % hasta el ~30/10, 100 % después. *(El plan B de Spitzkoppe ya no hace
+  falta.)*
 - **D8 · sáb 7 nov — Twyfelfontein** · *❓ por decidir: lodge o camping* — **SIN RESERVAR, A PROPÓSITO 🛟**: es el colchón del
   calendario, la noche que se sacrifica sin penalización si algo se retrasa. Sin tarifa cerrada ❌,
   pero **hay camping**: **Aba-Huab, Madisa, Mowani Campsite y Twyfelfontein Adventure Camp**, a
@@ -51,7 +52,9 @@ los lodges *(`15`, 18/09)*—.
   carretera al norte)*. Pedir precio igualmente, para que el `02` no mienta.
 - **D9 · dom 8 nov — Hoada Campsite (comunitario)** · *⛺ camping comunitario* — **SIN RESERVAR ❌**. **N$542–732 (~€27–37)
   los dos** según temporada ◐. Reservas: Journeys Namibia · res4@journeysnamibia.com ·
-  +264 61 228 104.
+  +264 61 228 104. ⚖️ **Y sin decidir a 19/10 si se duerme aquí o en Grootberg Lodge**, el lodge
+  de al lado y del mismo operador *(~N$4.318 · ~€216 pp en DBB ◐)*: el camping, ~€40 los dos según
+  el viajero; el lodge, unos ~€390 la pareja más de lo presupuestado *(`20` §5)*.
 - **D10 · lun 9 nov — Okaukuejo (NWR), Etosha** · *⛺ camping* — **RESERVADO ✅ (21/08)**. Camping **N$920 (~€46)
   los dos**. Pago íntegro hacia el **~10/10 ○ — vencido a 18/10**. **Pago: no consta ❌**, ni el 20 % ni el
   íntegro.
@@ -72,12 +75,12 @@ los lodges *(`15`, 18/09)*—.
   antes de reservar cualquiera de las dos.
 - **D15 · sáb 14 nov — vuelo de vuelta**: no se duerme en Namibia.
 
-## Lo que queda por hacer, en orden *(a 09/10)*
+## Lo que queda por hacer, en orden *(a 19/10)*
 
 1. 🛑 **Sesriem (D3–D4)** — el íntegro **venció el 3/10** y no consta pagado, ni el 20 %: que NWR
    confirme por escrito que la reserva sigue viva, y pagar lo que pidan.
-2. 🔴 **Terrace Bay (D7)** — reservar ya, por email o teléfono: desde el ~7/10 se paga el 100 % al
-   reservar *(y anular hasta el ~22/10 cuesta el 30 %)*. Plan B, Spitzkoppe.
+2. ✅ **Terrace Bay (D7)** — reservada el 19/10; queda **anotar el importe cobrado y el número de
+   reserva** e imprimir la confirmación.
 3. **Okaukuejo y Halali (D10–D11)** — sus 20 % no constan; los pagos íntegros, hacia el **10 y el
    11 de octubre**. **Onguma (D12–D13)** — el ~12/10, comprobar con el recibo que los €132 fueron el
    total, no pagar.
@@ -85,7 +88,8 @@ los lodges *(`15`, 18/09)*—.
    el 50 % de Barkhan no consta y, si no se pagó, la provisional caducó hacia el 31/08; desde el
    ~11/10 anularla cuesta el 50 %, y falta saber si el resto va en efectivo al llegar o por
    transferencia antes del 30/10.
-5. **Walvis Bay ×2 (D5–D6)** y **Hoada (D9)** — reservar, sin fecha dura. **Windhoek D14**, después
+5. **Walvis Bay ×2 (D5–D6)** y **Hoada (D9)** — reservar, sin fecha dura; **Hoada, después de
+   decidir camping o Grootberg Lodge**. **Windhoek D14**, después
    de decidir si esa noche es Windhoek u Okonjima.
 6. **Twyfelfontein (D8)** — solo pedir precio a uno de los campings del Aba-Huab; se deja sin
    reservar.

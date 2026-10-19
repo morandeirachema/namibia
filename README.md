@@ -10,9 +10,9 @@
 **30 de octubre – 15 de noviembre de 2026**
 
 [![ruta](https://img.shields.io/badge/ruta-DECIDIDA-2d6a4f?style=for-the-badge)](16-punto-de-decision.md)
-[![cuenta atrás](https://img.shields.io/badge/faltan-12_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
-[![reservas](https://img.shields.io/badge/reservas-7_de_8-e85d04?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
-[![presupuesto](https://img.shields.io/badge/€4.082-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
+[![cuenta atrás](https://img.shields.io/badge/faltan-11_d%C3%ADas-C2542F?style=for-the-badge)](04-guia-preparacion.md)
+[![reservas](https://img.shields.io/badge/reservas-8_de_8-2d6a4f?style=for-the-badge)](#-lo-que-toca-ahora-por-orden)
+[![presupuesto](https://img.shields.io/badge/€4.057-por_persona-1D1A15?style=for-the-badge)](02-presupuesto.md)
 [![dossier](https://img.shields.io/badge/dossier-PDF-9A3F20?style=for-the-badge)](dossier-namibia-2026.pdf)
 
 *Las dunas más altas del mundo al amanecer · la Costa de los Esqueletos*
@@ -28,15 +28,15 @@
 
 ## 📍 Estado del viaje
 
-**Revisado el 9 de octubre de 2026** · *las reservas, tal como constan anotadas desde el 24/08 — y, desde el 03/10, también lo que NO consta: ningún pago*
+**Revisado el 19 de octubre de 2026** · *las reservas, tal como constan anotadas — el 19/10 se cerraron el seguro y Terrace Bay— y, desde el 03/10, también lo que NO consta: ningún pago*
 
 </div>
 
 ```mermaid
 flowchart LR
     D["DECIDIDO<br/>ruta del norte, 15 dias<br/>fechas del vuelo<br/>30 oct - 14 nov"] --> C["COTIZADO<br/>tasas de parque; faltan<br/>5 noches sin tarifa"]
-    C --> R["RESERVADO<br/>coche Savanna 12/08<br/>Etosha x4 el 21/08"]
-    R --> P["PAGADO<br/>vuelo EMITIDO 10/08<br/>seguro IATI 24/08"]
+    C --> R["RESERVADO<br/>coche Savanna 12/08<br/>Etosha x4 el 21/08<br/>Terrace Bay 19/10"]
+    R --> P["PAGADO<br/>vuelo EMITIDO 10/08<br/>seguro IATI 19/10"]
     style D fill:#2d6a4f,color:#fff
     style C fill:#e9c46a,color:#000
     style R fill:#2d6a4f,color:#fff
@@ -74,10 +74,11 @@ flowchart LR
   «franquicia cero»** *(28/08)*: la propia web de Savanna excluye de las cuatro opciones el
   **accidente sin terceros** —volcar en grava— y ahí el cliente responde de **N$165.000 (~€8.900)**,
   aunque su otra página liste el vuelco como cubierto. **Es la pregunta nº 1 de la entrega.**
-- 🩺 **Seguro IATI Estrella — CONTRATADO, y ya desde el 30/10** ✅ *(dicho por el viajero el 24/08,
-  con el código de Chavetas)*. Era lo más urgente del cuaderno y deja de serlo. ⚠️ **El importe
-  real pagado, ❌ sin recuperar todavía**: el presupuesto sigue contando la cotización de
-  **€113,02 p.p.** —sin descuento— hasta que aparezca la póliza *(`20` §3)*.
+- 🩺 **Seguro — IATI Mochilero, CONTRATADO** ✅ *(dicho por el viajero el 19/10; el 24/08 se había
+  anotado el Estrella, y al final se cerró el Mochilero, que trae de serie la búsqueda y
+  salvamento)*. ⚠️ **El importe real pagado y la fecha de inicio, ❌ sin anotar**: el presupuesto
+  cuenta la cotización del Mochilero, **€87,75 p.p.**, hasta que aparezca la póliza, y ésta tiene
+  que empezar **el 30/10**, el día del vuelo *(`20` §3)*.
 
 ### 🟡 Cotizado con precio real, pero sin cerrar
 
@@ -101,24 +102,25 @@ viajero puede contestar —pagos, llamadas, permisos— está junto, con dónde 
    noches; ni siquiera consta el 20 % de las 48 h)*, y **NWR cancela lo no pagado**. **Confirmar con
    NWR por escrito que la reserva sigue viva** *(reservations@nwr.com.na · +264 61 285 7200)* y pagar
    lo que pidan. Es la noche que da la hora de ventaja de Deadvlei *(`20` §4 y §9)*.
-2. 🔴 **Reservar Terrace Bay — la única noche que queda sin reservar y con fecha dura** *(vie 6 nov,
-   un día antes de lo que decía el plan de agosto)*: sin ella **no se entra** al Skeleton Coast a
-   pernoctar. ⚠️ **Desde el ~7/10 NWR cobra el 100 % al reservar** *(N$3.480 · ~€174)*, no el 20 %;
-   **lo que se pierde al anular sigue siendo su escala: el 30 % hasta el ~22/10** *(~N$1.044 ·
-   ~€52)*, el 75 % hasta el ~30/10. Pagar todo no es perder todo — pero cada semana sube lo que
-   cuesta echarse atrás. 🛟 **Si no hay sitio, el plan B es Spitzkoppe** *(~N$640 · ~€32 los dos ◐,
-   reservations@logufa.com ✅ — `20` §4)*.
-   ✅ **Lo demás salió de esta lista**: **Windhoek Urban Camp** *(D1)*, **Spreetshoogte** *(D2, una
+2. ✅ **Terrace Bay — RESERVADA el 19/10** *(vie 6 nov; habitación doble, tarifa estándar TB1 en
+   media pensión — DBB)*: era la única noche con fecha dura que faltaba, y es la llave del Skeleton
+   Coast — **la confirmación va impresa**, sin ella no se cruza Ugabmund *(`20` §4)*. ⚠️ **Lo que no
+   consta es el importe pagado** ❌: dentro de los 30 días NWR cobra el 100 % al reservar *(rack
+   N$3.480 · ~€174)*, así que lo normal es que esté pagada entera — **apúntalo del correo de NWR, y
+   comprueba que cobraron el rack y no la cifra equivocada de su web**. Anular costaría el 30 %
+   hasta el ~22/10 y el 75 % hasta el ~30/10. *(El plan B de Spitzkoppe ya no hace falta.)*
+   ✅ **Lo demás ya estaba**: **Windhoek Urban Camp** *(D1)*, **Spreetshoogte** *(D2, una
    noche)*, **Sesriem ×2** *(2–3 nov)*, **Okaukuejo** *(9–10)*, **Halali** *(10–11)* y
    **[Onguma Tamboti](https://onguma.com/) ×2** *(11–13)*, ya **fuera** de la puerta de Von
-   Lindequist. **Namutoni se anuló.** *(Contador de noches: **8 de 14 reservadas**; quedan Terrace
-   Bay —con tarifa ✅ pero sin reservar— y las cinco de camping aún sin reservar: Walvis ×2,
-   Twyfelfontein, Hoada *(con banda de precio ◐)* y Windhoek del D14. **La chapa «7 de 8» de arriba
-   cuenta otra cosa**: las casillas de reserva del `20` §9 que hacen el viaje —Sesriem, Etosha
-   (que vale por cuatro), Spreetshoogte, Windhoek D1 y Terrace Bay—, y de ésas solo falta Terrace
-   Bay. ⚠️ **Y cuenta reservas, no pagos**: tres de esas siete son de NWR —Sesriem, Okaukuejo y
-   Halali— y **de ninguna consta el pago** *(a 09/10)*; NWR suelta lo que no se paga, así que la
-   chapa dice «reservado», no «asegurado».)*
+   Lindequist. **Namutoni se anuló.** *(Contador de noches: **9 de 14 reservadas**; quedan las
+   cinco de camping aún sin reservar: Walvis ×2, Twyfelfontein *(a propósito)*, Hoada *(con banda
+   de precio ◐ — y ⚖️ **sin decidir** entre el camping, ~€40 los dos, y Grootberg Lodge, el lodge
+   de al lado; `20` §5)* y Windhoek del D14. **La chapa «8 de 8» de arriba cuenta otra cosa**: las
+   casillas de reserva del `20` §9 que hacen el viaje —Sesriem, Etosha (que vale por cuatro),
+   Spreetshoogte, Windhoek D1 y Terrace Bay—, y desde el 19/10 están todas. ⚠️ **Y cuenta
+   reservas, no pagos**: cuatro de esas ocho son de NWR —Sesriem, Okaukuejo, Halali y Terrace Bay—
+   y **de ninguna consta el pago** *(a 19/10)*; NWR suelta lo que no se paga, así que la chapa
+   dice «reservado», no «asegurado».)*
    ⏳ **Y la noche nueva de Twyfelfontein (D8) NO hay que reservarla**: fuera de parque y en
    temporada hombro, se decide sobre la marcha — **por eso es la red del calendario**, la que se
    sacrifica sin perder un céntimo si algo se retrasa **entre el D7 y el D9** *(`aparte/decision-del-ccf`)*.
@@ -129,10 +131,11 @@ viajero puede contestar —pagos, llamadas, permisos— está junto, con dónde 
    **pedido hoy llega hacia el ~23/10**, justo a tiempo de imprimirlo, sin holgura para un rechazo.
    **Antes, los pasaportes** *(válidos hasta el 15/05/2027 y 3 páginas en blanco)* **y que los
    nombres del billete calquen el pasaporte** — tampoco constan *(`04`, `20` §9)*.
-4. 🩺 **~10/10 — la póliza de IATI, ya contratada, con dos flecos**: confirmar si lleva la
-   **evacuación aérea dentro del país** *(cerca de Sesriem no hay hospital)* y la **búsqueda y
-   salvamento** —si no, pedirlas ya— y recuperar el **importe real pagado** ❌ *(para cerrar la
-   partida de [`02`](02-presupuesto.md) — hoy va con la cotización; `20` §3)*.
+4. 🩺 **La póliza de IATI — cerrada el 19/10 con el Mochilero, con tres flecos**: confirmar que
+   **empieza el 30/10** *(el día del vuelo de ida)*, si lleva **evacuación aérea dentro del país**
+   *(cerca de Sesriem no hay hospital; la búsqueda y salvamento ya va de serie en el Mochilero)* y
+   recuperar el **importe real pagado** ❌ *(para cerrar la partida de [`02`](02-presupuesto.md) —
+   hoy va con la cotización del Mochilero, €87,75 p.p.; `20` §3)*.
 5. 💳 **10–12/10 — los pagos que vencían esa semana *(ya pasados a 18/10)*, y los que no constan**: **Okaukuejo hacia el
    ~10/10 y Halali hacia el ~11/10**, pago íntegro *(N$920 · ~€46 cada una)* ○, sin constar
    tampoco sus 20 %. **Barkhan** *(D2)*: el 50 % que confirmaba la provisional no consta —si no se
@@ -220,7 +223,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 204 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 205 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **tres mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*
@@ -394,7 +397,7 @@ flowchart LR
 
 ## ✈️ El vuelo y 🩺 el seguro
 
-### €1.536 por persona el vuelo — **EMITIDO** · €113,02 el seguro
+### €1.536 por persona el vuelo — **EMITIDO** · €87,75 el seguro
 
 **Oporto → Windhoek, 30 oct – 14 nov** · Lufthansa *(parcialmente Discover Airlines)*
 
@@ -424,10 +427,11 @@ flowchart LR
   a ser problema de la aerolínea)* **constan hechas** *(`20` §9)*; que los **nombres calquen el
   pasaporte** **no consta**: compruébalo antes de pedir el e-visa *(`02` §8)*.
 - 🩺 **El seguro llega hasta el día 15**, no hasta el 14: son las horas de vuelta que sin eso irían
-  sin cobertura, y cerrar ese hueco costó **€14,69**.
-- 👉 **Dos cosas que pedirle a IATI por escrito**: que cubra **evacuación aérea DENTRO del país**
-  *(cerca de Sesriem no hay hospital)* y **añadirle búsqueda y salvamento**, que en el Estrella es
-  opcional y el Mochilero sí trae.
+  sin cobertura, y cerrar ese hueco costó **€14,69** *(en la cotización del Estrella; la del
+  Mochilero, la contratada, ya iba del 31/10 al 15/11)*.
+- 👉 **Dos cosas que comprobar en la póliza del Mochilero**: que **empieza el 30/10** y que cubre
+  **evacuación aérea DENTRO del país** *(cerca de Sesriem no hay hospital)*. La **búsqueda y
+  salvamento** ya no hay que pedirla: el Mochilero la trae de serie.
 
 📖 **El detalle completo de los dos —el itinerario tramo a tramo, la comparativa de las tres
 modalidades de IATI y por qué la franquicia de coche sobra— está en
@@ -439,11 +443,11 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 
 ## 💶 El presupuesto — por persona, partida a partida
 
-### ~€4.082 por persona · todo incluido
+### ~€4.057 por persona · todo incluido
 
 Rango del presupuesto: **€3.940–4.240**. El **~78 %** ya está cerrado con precio real, no estimado.
-**Para no llevarse sorpresas, ~€4.350 por persona**: al cambio real *(~18,6, 08/10)* el total
-presupuestado son ~€4.175, y lo ya decidido que va fuera *(Sandwich Harbour y los permisos de la DGT)*
+**Para no llevarse sorpresas, ~€4.325 por persona**: al cambio real *(~18,6, 08/10)* el total
+presupuestado son ~€4.150, y lo ya decidido que va fuera *(Sandwich Harbour y los permisos de la DGT)*
 suma otros ~€141–172 *(`02` §10)*.
 
 </div>
@@ -466,34 +470,36 @@ pie showData
     "Alojamiento" : 385
     "Combustible" : 228
     "Comida" : 140
-    "Seguro" : 113
+    "Seguro" : 88
     "Misc + actividades" : 295
     "Tasas de parque" : 124
     "Visado" : 80
 ```
 
-*Vuelo y coche son el **67 %** del viaje. Todo lo demás junto son ~€1.365.*
+*Vuelo y coche son el **67 %** del viaje. Todo lo demás junto son ~€1.340.*
 
 - ✈️ Vuelo **€1.536** ✅ *(EMITIDO el 10/08)* · 🚙 Coche **€1.181,50** ✅ *(RESERVADO con Savanna,
   15 días completos — `20` §1)* ·
   ⛺ Alojamiento **~€385** *(€276,50 verificado ✅)* · ⛽ Combustible **~€228** · 🍖 Comida **~€140** ·
-  🩺 Seguro **€113** ✅ · 🎫 Tasas **~€124** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€295**
+  🩺 Seguro **€88** ✅ *(Mochilero, cotización)* · 🎫 Tasas **~€124** ◐ · 🛂 Visado **€80** ✅ · 🎯 Actividades y varios **~€295**
   *(actividades ~€220 —las 2 guiadas de mañana de NWR, la lanzadera de Deadvlei y las dos de Onguma—
   y misceláneos ~€75, `02` §10)*
-- **El ~78 % ya está cerrado** con precio real *(~€3.187, `02` §11)*: vuelo *(emitido)*, el coche
+- **El ~78 % ya está cerrado** con precio real *(~€3.162, `02` §11)*: vuelo *(emitido)*, el coche
   completo *(reservado)*, seguro, visado y **8 de las 14 noches con precio cerrado** *(Sesriem ×2,
-  Okaukuejo, Halali, Onguma ×2 y Spreetshoogte, reservadas; y Terrace Bay, con tarifa oficial pero
-  **sin reservar todavía**)*. Lo demás (~€895) son las **actividades** *(~€220, tarifa ✅ sin
+  Okaukuejo, Halali, Onguma ×2, Spreetshoogte y, desde el 19/10, Terrace Bay — **todas
+  reservadas**)*. Lo demás (~€895) son las **actividades** *(~€220, tarifa ✅ sin
   reservar: 2 mañanas guiadas de NWR y la lanzadera de Deadvlei, ~€74, y las dos de Onguma,
   ~€146)*, las **tasas de parque** *(~€124 ◐)* y **~€552 estimados ○**: las **6 noches sin precio
   cerrado** *(cinco sin tarifa cerrada ❌ y Hoada ◐)*, el combustible, la comida y los misceláneos: **ese es
   el margen honesto, ±€150 por persona**.
-- ⚠️ **Cómo llegó aquí** *(`02` §10)*: **€3.990 el 21/08 → €3.936 el 24/08 → €4.082 el 26/08.** La
+- ⚠️ **Cómo llegó aquí** *(`02` §10)*: **€3.990 el 21/08 → €3.936 el 24/08 → €4.082 el 26/08 → €4.057 el 19/10.** La
   bajada del 24/08 no era un ahorro: **−€70 eran las dos salidas guiadas de NWR que se dieron por
   no comprables** al dormir las dos últimas noches fuera del parque, y **el 28/08 se vio que una de
   las dos —el nocturno— sí lo es** *(D10 y D11, ~€38 pp cada uno, fuera del total hasta que se decida
   — `02` §9)*. El resto se compensó entre la noche de Spreetshoogte que se quitó y la de
-  Twyfelfontein que apareció, y la subida del 26/08 son **+€146 de las dos actividades de Onguma**.
+  Twyfelfontein que apareció, y la subida del 26/08 son **+€146 de las dos actividades de Onguma**. La bajada del 19/10 son
+  **−€25 de seguro**: se contrató el Mochilero, no el Estrella *(`02` §7)*. La bajada del 19/10 son
+  **−€25 de seguro**: se contrató el Mochilero, no el Estrella *(`02` §7)*.
 - ⚠️ **Lo que aún puede mover el número**: **la noche nueva de Twyfelfontein**, presupuestada como
   camping cuando los candidatos identificados eran lodges *(❌ — podía sumar €150–200 la pareja;
   **rebajado el 18/09**: hay camping a ~6 km de los grabados, del orden de ~€8–25 la pareja ◐/○,
@@ -521,7 +527,7 @@ si vais 3 o 4 en el mismo coche— está en [`02-presupuesto`](02-presupuesto.md
 flowchart TD
     A["EL 4x4 · RESERVADO<br/>Savanna · 2.363 EUR<br/>15 dias completos"]
     B["SESRIEM DENTRO x2<br/>44 parcelas<br/>es EL amanecer del viaje"]
-    C["TERRACE BAY<br/>sin reserva confirmada<br/>NO se entra al parque"]
+    C["TERRACE BAY · RESERVADA 19/10<br/>doble DBB · confirmacion impresa<br/>sin ella NO se entra al parque"]
     D["e-visa + CVI<br/>eservices.mhaiss.gov.na<br/>CVI: ventana 19-26 sept"]
     A --> E["30 oct - 15 nov<br/>asegurado"]
     B --> E
@@ -540,14 +546,14 @@ flowchart TD
    la diferencia entre *ver* Deadvlei y *tenerlo para ti* al amanecer. *(Plan B: Sossus Oasis en la
    puerta — perdiendo la hora de ventaja, que es el motivo.)* ⚠️ **Su pago íntegro venció el 3/10
    y no consta pagado**: que NWR confirme por escrito que sigue viva *(arriba, punto 1)*.
-3. **Terrace Bay con reserva confirmada** — **es la única que queda por reservar con fecha dura
-   (vie 6 nov)**, y sin ella **no te dejan entrar** al Skeleton Coast para
-   pernoctar (el permiso de tránsito obliga a salir el mismo día); desde el ~7/10 se paga entera al
-   reservar, y el plan B es Spitzkoppe *(arriba, punto 2)*. *(Las **4 noches de Etosha** ya
+3. **Terrace Bay — RESERVADA el 19/10 ✅ (vie 6 nov, habitación doble en media pensión)**: era la
+   última con fecha dura, y sin ella **no te dejan entrar** al Skeleton Coast para pernoctar (el
+   permiso de tránsito obliga a salir el mismo día) — **la confirmación va impresa**. Lo que falta
+   es anotar el importe pagado *(arriba, punto 2)*. *(Las **4 noches de Etosha** ya
    están: Okaukuejo, Halali y **Onguma Tamboti ×2** ✅ — **Namutoni se anuló el 24/08**.)*
    **Las catorce noches de un vistazo —dónde se duerme, si es camping o habitación y si está
-   reservada—, en [`aparte/noches-y-reservas`](aparte/noches-y-reservas.md)** *(8 reservadas,
-   6 sin reservar, una de ellas a propósito; estado a 09/10)*.
+   reservada—, en [`aparte/noches-y-reservas`](aparte/noches-y-reservas.md)** *(9 reservadas,
+   5 sin reservar, una de ellas a propósito; estado a 19/10)*.
 4. **Los papeles con calendario.** El **e-visa (N$1.600, ~€80)** se pide online y **se imprime y
    firma ante el oficial** — en `eservices.mhaiss.gov.na` *(hay visado a la llegada como plan B, MAEC)* ⚠️ *(`namibia-evisa.com` parece
    oficial y no lo es; el portal real puede dar un aviso de certificado — es mala configuración
@@ -573,10 +579,9 @@ el CDC sí, sin distinguir estación—: **lo decide la cita del CVI, con las do
 *(el detalle, en [`04`](04-guia-preparacion.md))* · **fiebre amarilla** —
 con el vuelo elegido **no hace falta**, porque **Fráncfort y Múnich no son zona de riesgo**
 *(Doha y Johannesburgo, también limpios)* · **seguro con repatriación** — es condición de entrada, y
-**el IATI Estrella la lleva al 100 %: requisito cumplido, y contratado el 24/08**. *Lo que queda es
-**leer la póliza**: que cubra **evacuación aérea dentro del país** (cerca de Sesriem no hay
-hospital) y que lleve **búsqueda y salvamento**, que en el Estrella es **opcional** y no entra sola
-❌.*
+**el IATI Mochilero la lleva al 100 %: requisito cumplido, y contratado el 19/10**. *Lo que queda es
+**leer la póliza**: que empiece el 30/10 y que cubra **evacuación aérea dentro del país** (cerca de
+Sesriem no hay hospital) ❌; la **búsqueda y salvamento**, el Mochilero la trae de serie.*
 
 ---
 
@@ -851,10 +856,10 @@ El NAD va ligado al rand: **el importe en N$ es el que se paga**, el euro es ori
 convertir a 20 **se queda ~7 % corto**: la parte del presupuesto denominada en N$ son
 **~€93 más por persona (~€186 la pareja)** de los que dicen estas páginas, dentro del rango del
 presupuesto de €3.940–4.240 pero siempre hacia arriba — y con lo decidido que va fuera del total,
-**~€4.350 por persona** *(`02` §10)*. **Lleva N$, no euros mentales.**
+**~€4.325 por persona** *(`02` §10)*. **Lleva N$, no euros mentales.**
 
 *Todos los precios en N$ y € · Las tarifas namibias cambian: reconfirma antes de pagar*
 
-**Última actualización: 18 de octubre de 2026**
+**Última actualización: 19 de octubre de 2026**
 
 </div>
