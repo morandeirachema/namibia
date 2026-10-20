@@ -446,9 +446,9 @@ modalidades de IATI y por qué la franquicia de coche sobra— está en
 ### ~€4.057 por persona · todo incluido
 
 Rango del presupuesto: **€3.940–4.240**. El **~78 %** ya está cerrado con precio real, no estimado.
-**Para no llevarse sorpresas, ~€4.325 por persona**: al cambio real *(~18,6, 08/10)* el total
-presupuestado son ~€4.150, y lo ya decidido que va fuera *(Sandwich Harbour y los permisos de la DGT)*
-suma otros ~€141–172 *(`02` §10)*.
+**Para no llevarse sorpresas, ~€4.325 por persona**: al cambio real *(~18,4 al 20/10 —el euro se metió
+por debajo de la banda, ver [`15`](15-huecos-cerrados.md)—)* el total presupuestado son ~€4.165, y lo
+ya decidido que va fuera *(Sandwich Harbour y los permisos de la DGT)* suma otros ~€141–172 *(`02` §10)*.
 
 </div>
 

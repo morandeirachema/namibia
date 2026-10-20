@@ -784,6 +784,42 @@ pelín más bajo**, pegado al suelo de la banda:
   [Pluang EUR→ZAR](https://pluang.com/en/tools/currency-converter/eur-zar),
   [xe EUR→ZAR](https://www.xe.com/en-us/currencyconverter/convert/?Amount=1&From=EUR&To=ZAR).
 
+### 🔁 La relectura final del 20/10/2026 — a diez días de la salida: el euro se ha metido POR DEBAJO de la banda ◐
+
+Las dos revisiones de arriba dejaban anotada una **relectura en los días previos al 30/10**, por si
+el EUR/ZAR se despegaba del suelo antes de salir. **No se ha despegado: ha caído un poco más.** A
+diez días de la salida el euro compra **aún menos** N$ que en agosto y en octubre.
+
+- **La cifra del 19–20 de octubre de 2026** ◐: **1 € ≈ 18,4 N$**. Cuatro lecturas convergen
+  estrechas en la ventana del 19–20/10 —**18,42** *(xe, 19/10 23:31 UTC)*, **18,43** *(Wise)*,
+  **18,44** *(currency.wiki, 20/10 10:00 UTC)* y **18,33** *(Revolut, sin fecha)*—, con los
+  arrastres recientes un pelín por encima —**18,51** *(moneyexchangerate.org, 12/10)*, **18,53**
+  *(currency.wiki, 18/10)*—. Como el **N$ sigue clavado 1:1 al rand**, ese EUR/ZAR **es** el EUR/N$
+  que importa. **◐ y no ✅ por lo de siempre**: los conversores y hasta el XML oficial del BCE
+  devuelven egress/`ENOTFOUND` desde aquí *(probados xe, currency.wiki, freecurrencyrates y
+  `ecb.europa.eu` el 20/10)*, así que es síntesis de WebSearch, no ficha descargada — pero converge
+  dentro de 0,02 entre fuentes independientes y es objetivo.
+- **Lo que ha cambiado respecto al 08/10** ◐: la lectura ha bajado de **~18,6 a ~18,4**, es decir
+  **el euro ha perdido otro ~1 %** contra el rand en esas dos semanas. **La banda de agosto
+  *(18,6–19,1)* ya no la contiene: el euro cotiza por debajo de su suelo.** El rand sigue pegado a
+  la zona fuerte de su rango de doce meses *(~18,5–20,5 ◐)*.
+- 👉 **Qué cambia: nada en los precios, y sí el tamaño del colchón.** El desfase del convenio ~N$20
+  frente al mercado real de ~18,4 es ahora de **~8,5 %** *(20 ÷ 18,4 = 1,085)*, no el ~7 % del 08/10
+  ni el ~5 % de agosto — **siempre solo sobre lo que se paga en N$ sobre el terreno** *(combustible,
+  comida, tasas, camping, actividades)*. Las partidas grandes van en euros y **no se tocan**: el
+  vuelo *(€1.536 p.p., emitido)*, el coche *(€/día)* y el seguro. **No se reescribe ni un precio**
+  —el motivo de las dos revisiones de arriba sigue en pie: bajar la cabecera a ~18,4 dejaría las
+  conversiones «~€» de todo el dossier *(calculadas a 20)* diciendo otra cosa—. La regla práctica:
+  **tratar la conversión de la parte en N$ como ~8–9 % optimista** y, en el surtidor, contar con que
+  cada N$20 cuesta de verdad **~€1,09**, no €1. Ejemplo tangible: la tasa de N$280 que el dossier
+  convierte en **~€14** al convenio son **~€15,2** al mercado real del 20/10. **Esta es ya la
+  relectura "de los días previos" que pedían las dos de arriba: salvo vuelco del EUR/ZAR entre hoy y
+  el 30/10, no hay más revisión pendiente.** Fuentes:
+  [xe EUR→ZAR](https://www.xe.com/en-us/currencyconverter/convert/?Amount=1&From=EUR&To=ZAR),
+  [Wise EUR→ZAR](https://wise.com/gb/currency-converter/eur-to-zar-rate),
+  [Revolut EUR→ZAR](https://www.revolut.com/en-US/currency-converter/convert-eur-to-zar-exchange-rate/?amount=1),
+  [Wikipedia, «Namibian dollar» (clavado 1:1 al rand)](https://en.wikipedia.org/wiki/Namibian_dollar).
+
 ---
 
 ## 🐆 Okonjima y el CCF, con tarifa 2026 — y el `11` daba el precio del game drive como rastreo *(27/08/2026)*
