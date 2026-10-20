@@ -66,8 +66,11 @@ dos les queda el importe.*
     Onguma, la del coche y la póliza.
 16. **La noche de Hoada (D9): ¿el camping o Grootberg Lodge?** El camping, ~€40 los dos; el lodge,
     el de al lado y del mismo operador, ~N$4.318 (~€216) pp en DBB ◐ — unos ~€390 la pareja más,
-    con el rastreo de rinoceronte a pie. Se está mirando a 19/10. → `20` §5 y
-    `aparte/reservas-privadas-vs-etosha`; la decisión va al `02` §3 y a `noches-y-reservas`.
+    con el rastreo de rinoceronte a pie. **El precio quedó reconciliado el 20/10** *(dos agregadores
+    coinciden al céntimo y en la ventana de fechas; las cifras altas que no cuadraban eran la tarifa
+    todo incluido por noche, no el DBB pp — `aparte/reservas-privadas-vs-etosha`)*, así que **ya solo
+    falta tu decisión**, no un número. → `20` §5 y `aparte/reservas-privadas-vs-etosha`; la decisión
+    va al `02` §3 y a `noches-y-reservas`.
 
 *Cuando contestes una, muévela al sitio que indica y bórrala de aquí: este fichero debería quedarse
 vacío antes del 30 de octubre. Las noches, una a una, en

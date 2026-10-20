@@ -197,11 +197,21 @@ altiplano. Foto: Sonse, CC BY 2.0 — [Wikimedia Commons](https://commons.wikime
   reconocida por el MEFT namibio como custodio de rinoceronte) ✅. ¾ de día, 4x4 + caminata en
   terreno rocoso, mínimo 2 personas, **prohibido menores de 16**, sin garantía de avistamiento.
   También hay elephant tracking (medio día, sin precio publicado ❌).
-- **Precio**: **N$4.318 (~€216) pp/noche** DBB, 01/07–15/11/26 (cubre el viaje) — dato ◐◐
-  concordante entre dos agregadores independientes. ⚠️ **Hueco reconocido**: la web oficial y
-  SafariFind dan cifras más altas y distintas (N$6.178-6.790 pp) que no se pudieron reconciliar —
-  se dejan las dos referencias en vez de forzar un número único. Según SafariFind (◐, no
-  confirmado en fuente propia) el rhino tracking podría ir incluido en la tarifa, no como extra.
+- **Precio**: **N$4.318 (~€216) pp/noche** DBB, temporada alta **01/07–15/11/26 — que cubre justo
+  la noche del D9** *(~7-8 nov; el 16/11 cae a N$3.581 · ~€179, el mismo precipicio del 15/11 que
+  rige todo el viaje)* ◐. **Reconciliado el 20/10**: dos agregadores independientes —[info-namibia](https://www.info-namibia.com/accommodation/damaraland/grootberg-lodge)
+  y [madbookings](https://www.madbookings.com/namibia/grootberg-lodge-rates-prices.htm)— coinciden
+  al céntimo en la cifra, en la ventana de fechas y en el suplemento individual *(**N$5.830 · ~€292**
+  pp en alta)*. Sigue en ◐ y no en ✅ porque **no se alcanzó la tarifa propia del lodge**
+  (grootberg.com no resuelve tras el proxy; la oferta «Explore Namibia –25 %» de su web caducó, su
+  ventana era noviembre de 2025).
+- ⚠️ **Lo que el 09/10 quedó como «dos cifras discrepantes sin reconciliar», ya cuadra**: las
+  cifras más altas (SafariFind, **N$9.267-12.356 · ~€463-618 por noche**) **no son la tarifa DBB pp,
+  sino otro producto** —por unidad y noche y **todo incluido: comidas + actividades + traslados**—, y
+  el **N$6.605 pp de «full board»** que aparecía en las búsquedas era de **otro lodge** del mismo
+  macizo (Etendeka Mountain Camp, de Big Sky), no de Grootberg. No había discrepancia: se comparaba
+  DBB-por-persona contra todo-incluido-por-noche. Según [SafariFind](https://safarifind.com/accommodations/grootberg-lodge)
+  (◐) esa tarifa todo incluido llevaría el rhino tracking dentro, no como extra.
 - **De más que Etosha**: tracking de rinoceronte negro a pie — Etosha no permite ningún safari a
   pie, bajo ninguna circunstancia.
 
@@ -379,8 +389,9 @@ Con el marco del viaje —self-drive, presupuesto ajustado, una sola noche o act
    en Namibia —Región de Zambezi, con Nambwa Tented Lodge como la opción mejor confirmada—, pero
    es un viaje aparte, a más de 1.200 km de esta ruta, no un añadido — ver arriba.
 
-**Huecos que quedan reconocidos, no rellenados**: precio y régimen exactos de Grootberg (dos
-cifras discrepantes sin reconciliar), precio del rhino/elephant tracking cuando no va empaquetado,
+**Huecos que quedan reconocidos, no rellenados**: la tarifa DBB pp de Grootberg ya está reconciliada
+(N$4.318 · ~€216, 20/10) pero falta **su propia hoja de tarifas** para subirla de ◐ a ✅, y el precio
+exacto del rhino/elephant tracking cuando no va empaquetado,
 tarifa de noviembre de Twyfelfontein Country Lodge, si el drive de Kipwe es realmente off-road
 restringido, si Onguma hace night drive de verdad, y el precio por noche aislado de Desert Rhino
 Camp. Todos con su URL arriba para cerrarlos con una llamada o email directo si alguna de estas
