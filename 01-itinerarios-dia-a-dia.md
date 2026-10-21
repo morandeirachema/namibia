@@ -948,6 +948,8 @@ flowchart LR
 - 🛫 **~20:00 embarque ○ · 20:45 despegue** → escala en Múnich → **Oporto, domingo 15 a las
   12:50** — y el coche propio, del aparcamiento del aeropuerto hasta A Coruña *(decidido 09/08 —
   `02` §8)*
+- 🛋️ **En Múnich, la sala de la G28** ◐ — tras el control de pasaportes; con billete turista se
+  compra, mejor online *(`20` §2)*
 
 ### 💰 Coste real *(31 oct – 14 nov · el detalle completo, en `02-presupuesto.md`)*
 - **Alquiler — RESERVADO, 15 días completos, con transfer aeropuerto ↔ oficina (31 oct 11:00 – 14

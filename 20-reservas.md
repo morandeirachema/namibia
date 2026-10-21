@@ -231,6 +231,26 @@ fuentes, y coinciden entre sí ◐:
   perdida pasa a ser problema de la aerolínea)* · que los **nombres calquen el pasaporte**.
   *(Maleta y billete único constan comprobados —§9—; los nombres, no consta: **va ANTES de pedir
   el e-visa**, que copia el pasaporte — casilla en §9.)*
+- **La escala de vuelta en Múnich, en la sala de la G28** ◐ *(21/10)*: la **Lufthansa Business
+  Lounge** de la **Terminal 2, nivel 04, frente a la puerta G28** — zona **Schengen**, la de las
+  salidas G —; se llega tras el **control de pasaportes**, que es la entrada en Schengen ◐. Tiene
+  duchas, con lista de espera: pedirlas al entrar ◐. Abre, como casi todas las de la T2, de
+  **~05:00 a ~22:00** ◐ *(fuentes: [Amex](https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/MUC/Lufthansa-Business-Lounge-Gate-G28-Schengen--2-Sze4kQX3c7/),
+  [baggagepolicies](https://baggagepolicies.com/munich-lufthansa-lounge/))*.
+  - **Con billete turista no se entra de serie: se compra** ◐ — en la puerta, solo con tarjeta, o
+    reservada online antes *([lufthansa.travelintegration.com](https://lufthansa.travelintegration.com/lounges/search))*;
+    vale con **tarjeta de embarque de Lufthansa con número de billete LH** *([lufthansa.com](https://www.lufthansa.com/gb/en/lounge-companions))*.
+    **~€39–59 (~N$780–1.180) por persona** ◐ — tres blogs, tres precios *(€39 en 2024, €39–49 y
+    €49–59 en 2026 — [AwardWallet](https://awardwallet.com/blog/purchase-lufthansa-lounge-access))*;
+    la web de Lufthansa no se dejó leer ❌.
+  - **Dos pegas que en ESTA escala pesan** ◐ *(baggagepolicies, 31/05/2026)*: el pase da **como
+    mucho 3 h antes de la salida**, y **la venta en la puerta se puede suspender en el pico de la
+    mañana, de 6:00 a 9:00** — justo cuando se aterriza. **Así que, si se quiere, reservada online
+    antes de volar.**
+  - **Las horas de la escala no constan en el dossier** ❌: Discover aterriza en Múnich hacia las
+    **06:30–06:40** ◐ *(el 4Y143 sale de Windhoek a las 20:35 y llega a las 06:30 según AeroRoutes;
+    el billete dice 20:45)* y el de Oporto, que llega a las 12:50, saldría hacia las **~11:00** ○ —
+    unas cuatro horas y media, que el localizador tiene que confirmar.
 - **Lo que arrastra el billete emitido**: **ya se puede pedir el e-visa** *(§6, exige billete de
   vuelta)*. *(Lo otro que arrastraba —que el seguro empezara el 30/10 y no el 31— quedó
   **contratado el 24/08**, §3.)*
