@@ -608,7 +608,7 @@ Sesriem no hay hospital) ❌; la **búsqueda y salvamento**, el Mochilero la tra
   piden suavidad en las piedras igualmente. Las pistas malditas **D3707/D3703 no están en esta ruta**.
   *Dune driving* y Sandwich Harbour, **prohibidos por contrato** — el tour guiado es el plan.
 
-Extras: enchufes **tipo M y D** *(2 adaptadores que cubran los dos, online — el Schuko no entra)* · **SIM de MTC** en el
+Extras: enchufes **tipo M** *(2 adaptadores, pedidos el 21/10 — el Schuko no entra; el D, que solo queda en edificios viejos, no se lleva)* · **SIM de MTC** en el
 aeropuerto con pasaporte *(paquete turista «Leisure» N$349 ~€17 · 14 días · 10,1 GB ◐; el kiosco cierra ~21:00)* · un **satelital con SOS** es buena compañía
 donde no hay cobertura · la **Línea Roja**: la carne cruda no baja del norte — el braai se come en
 Etosha · los **N$ sobrantes se cambian antes de volar**.

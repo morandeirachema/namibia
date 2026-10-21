@@ -13,7 +13,7 @@
 > barrido completo de fuentes el 11/08/2026 (salud, clima, sol, energía y listas comparadas) ·
 > segunda auditoría el 14/08/2026 (clima verificado etapa a etapa, tsé-tsé, permetrina y garrapata) ·
 > puesto al 09/10/2026 (la pauta entera de Malarone, el enchufe por noche y los precios del pie) ·
-los adaptadores M, pedidos el 21/10/2026*
+los adaptadores M pedidos y el D descartado, al 21/10/2026*
 
 
 ---
@@ -52,8 +52,9 @@ flowchart TD
    los datos del pueblo dan 19–21 con un 88 % de humedad ◐, la divergencia queda anotada en
    [`15`](15-huecos-cerrados.md) —, **12,7 de madrugada**, niebla y viento) y **la salida de
    Deadvlei** (en marcha a las ~05:10, `01`).
-4. **Enchufes tipo M y tipo D** ◐ (`04`; Namibia usa los dos — verificado el 25/08): **DOS adaptadores que cubran ambos, comprados online antes de salir** — «el fallo
-   tonto más probable del viaje». Matizado el 11/08 ◐: el Europlug fino (tipo C) entra **a veces,
+4. **Enchufes tipo M y tipo D** ◐ (`04`; Namibia usa los dos — verificado el 25/08): **DOS adaptadores tipo M, comprados online antes de salir** — «el fallo
+   tonto más probable del viaje»; **el D no se lleva** *(decidido el 21/10: solo queda en
+   edificios viejos, y si toca uno, el adaptador se compra allí — `17`)*. Matizado el 11/08 ◐: el Europlug fino (tipo C) entra **a veces,
    flojo y con chispazo** en las tomas D, y **no entra** en las M, que son las mayoritarias
    *([worldstandards](https://www.worldstandards.eu/electricity/plugs-and-sockets/m/))*; el Schuko
    gordo, en ninguna. Y el enchufe **en la parcela** quedó confirmado ◐ *(`18` §5)* para las
@@ -147,7 +148,7 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 
 ## 🔌 Electrónica
 
-- **2 adaptadores tipo M + D** ◐ (`04`) — no existen en súper españoles; que cubran los dos tipos, que Namibia usa ambos. **Los M, pedidos el 21/10** ✅ *(Oliveria)*; **los D, sin pedir** ❌ — se venden allí; modelo y precio de los dos, en el `17`
+- **2 adaptadores tipo M** ◐ (`04`) — no existen en súper españoles. **Pedidos el 21/10** ✅ *(Oliveria)*; **el D no se lleva** *(21/10: solo en edificios viejos, y se vende allí)* — modelo y precio, en el `17`
 - **Cargador 12 V multi-USB** ○ para el coche (los 12 V «se saltan el problema entero», `04`) +
   **powerbank** grande para las noches sin toma en la parcela *(Spreetshoogte y Hoada; dónde sí
   la hay, arriba y en el `18` §5)*
@@ -236,7 +237,7 @@ día. Por eso se preparan la víspera y viajan en el daypack, no abajo.
 
 ---
 
-*Lo que falta por comprar lleva ya precio: **los adaptadores tipo D**, el Clomnpe a 9,99 € los dos *(los M se pidieron el 21/10 — `17`)*; **el
+*Lo que faltaba por comprar ya está resuelto: **los adaptadores M**, pedidos el 21/10 *(`17`)*; **el
 satelital** no se compra, va pagado con el alquiler *(arriba, `20` §1)*; y **las garrafas** se
 compran allí, ~N$39 (~€2) la de 5 L *(`08`)*. Los «sin dato» de la ficha del coche —toallas,
 almohadas, hornillo y menaje— los cerró la propia ficha en el cotejo del 10/08/2026 ✅: para la

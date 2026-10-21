@@ -676,20 +676,19 @@ teléfonos toxicológicos, con los de emergencia del [`07`](07-logistica.md).
 
 ## 🔌 Electrónica y energía
 
-- [ ] **Adaptadores tipo M y D ×2** ◐ — comprados **antes de salir**, y que cubran **los dos tipos**
-      *(Namibia usa M y D; verificado el 25/08)*: el Schuko no entra, y no se
+- [ ] **Adaptadores tipo M ×2** ◐ — comprados **antes de salir** *(Namibia usa M y D; verificado
+      el 25/08 — el D no se lleva, abajo)*: el Schuko no entra, y no se
       venden en supermercados españoles. **⚠️ Ojo con el modelo**: los adaptadores «universales»
       genéricos (Travel Blue, Skross 1103180) **excluyen Sudáfrica/Namibia explícitamente** — el
       pin M es más grueso que el que llevan de serie —, y en Amazon salen, con buena nota, los que
       van **al revés**: de clavija sudafricana a enchufe europeo, para el que viene de allí.
-      **Los M, pedidos el 21/10** ✅: **[Oliveria tipo M](https://www.amazon.es/dp/B0CBB17QTG)**,
+      **Pedidos el 21/10** ✅: **[Oliveria tipo M](https://www.amazon.es/dp/B0CBB17QTG)**,
       10,99 € — acepta clavija C, E y F, así que entra la regleta Schuko; el título dice dos y la
-      ficha «1 artículo»: **contarlos al abrir la caja**. **Los D, sin pedir** ❌ — el D solo queda en
-      edificios viejos ◐ *([worldstandards](https://www.worldstandards.eu/electricity/plug-voltage-by-country/namibia/))*
-      y se vende allí *(abajo, «Si algo se olvida o se pierde»)*; desde aquí, el
-      **[Clomnpe tipo D ×2](https://www.amazon.es/dp/B0CDBB52SV)** ✅ 9,99 € los dos. *(El Skross
-      44703 que se apuntaba desde agosto —8,83 €/ud entonces, 12,02 € el 21/10— solo hace el M: no
-      cubría el D que pedía esta misma línea.)*
+      ficha «1 artículo»: **contarlos al abrir la caja**. **El D no se lleva** *(decidido el 21/10)*:
+      solo queda en edificios viejos ◐ *([worldstandards](https://www.worldstandards.eu/electricity/plug-voltage-by-country/namibia/))*,
+      y si toca uno, el adaptador se compra allí *(abajo, «Si algo se olvida o se pierde»)*. *(El
+      Skross 44703 que se apuntaba desde agosto —8,83 €/ud entonces, 12,02 € el 21/10— solo hacía
+      el M, aunque esta línea pedía entonces los dos tipos.)*
 - [ ] **Regleta pequeña o ladrón ×1** ◐ — la parcela tiene **una** toma en el poste y sois dos
       móviles, cámara, frontales y powerbank *(dos listas de Namibia la llevan; el cierre del
       enchufe camp a camp, en [`18`](18-manual-de-campamento.md) §5)*. Modelo: **[Garza Power, 4
@@ -1040,11 +1039,11 @@ sitios de la ruta**, y luego vienen días sin nada. Comprobado el 05/10/2026.*
 - **Ropa, chanclas, bañador, calcetines** — sin problema en PEP, Ackermans o Mr Price
 - **Frontales, pilas, guantes, cinta, bridas, garrafas, forros, sombreros** — Cape Union Mart,
   Outdoor Warehouse, Game, Cymot o la Agra
-- **Adaptador M/D, cargadores, cables y soporte de móvil** — los adaptadores se venden en súper,
+- **Adaptador M o D, cargadores, cables y soporte de móvil** — los adaptadores se venden en súper,
   ferreterías y gasolineras ◐ *([TripAdvisor](https://www.tripadvisor.com/ShowTopic-g293820-i9680-k14828489-Plug_type_in_Namibia-Namibia.html))*;
   lo demás, en las tiendas de electrónica de los centros comerciales. **Pero que no se venda en el
   aeropuerto no se pudo descartar ni confirmar ❌**: el M va desde España igual *(pedido el 21/10)*;
-  el D, si no se pide, es lo que se busca allí
+  **el D no se lleva** *(21/10)*: si toca un enchufe D, es lo que se busca allí
 - **Crema solar** — en Clicks y Dis-Chem, Everysun y Nivea ◐
 - **Repelente** — Peaceful Sleep y Tabard en súper y farmacia, pero **al 15–19,5 % de DEET** ◐
   *([fichas de Clicks](https://clicks.co.za/tabard_mosquito-and-insect-repellent-lotion-150ml/p/720094))*:
@@ -1096,7 +1095,7 @@ tiempo de ir buscándolo.
 ```mermaid
 flowchart TD
     A["¿Estan los papeles<br/>IMPRESOS?"] -->|"no"| A1["Imprimir AHORA:<br/>e-visa, reservas,<br/>poliza, telefonos,<br/>agenda y guia de fauna"]
-    A -->|"si"| B["¿Los 2 adaptadores<br/>tipo M y D en el daypack?"]
+    A -->|"si"| B["¿Los 2 adaptadores<br/>tipo M en el daypack?"]
     B -->|"no"| B1["Es el fallo tonto<br/>mas probable del viaje"]
     B -->|"si"| C["¿Medicacion y gafas<br/>en CABINA?"]
     C -->|"si"| C2["¿Powerbank Anker y las baterias<br/>de la camara en CABINA,<br/>con los contactos tapados?"]
