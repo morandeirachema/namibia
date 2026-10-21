@@ -12,7 +12,8 @@
 > *Investigación cerrada el 02/08/2026 · podado el 06/08/2026 al separar la lista en `17` ·
 > barrido completo de fuentes el 11/08/2026 (salud, clima, sol, energía y listas comparadas) ·
 > segunda auditoría el 14/08/2026 (clima verificado etapa a etapa, tsé-tsé, permetrina y garrapata) ·
-> puesto al 09/10/2026 (la pauta entera de Malarone, el enchufe por noche y los precios del pie)*
+> puesto al 09/10/2026 (la pauta entera de Malarone, el enchufe por noche y los precios del pie) ·
+los adaptadores M, pedidos el 21/10/2026*
 
 
 ---
@@ -146,7 +147,7 @@ amarilla **no hace falta**: el vuelo escala en Fráncfort y Múnich, que no son 
 
 ## 🔌 Electrónica
 
-- **2 adaptadores tipo M + D** ◐ (`04`) — pedidos online YA, no existen en súper españoles; que cubran los dos tipos, que Namibia usa ambos. **A 09/10 no constan pedidos** ❌ — modelo y precio, en el `17`
+- **2 adaptadores tipo M + D** ◐ (`04`) — no existen en súper españoles; que cubran los dos tipos, que Namibia usa ambos. **Los M, pedidos el 21/10** ✅ *(Oliveria)*; **los D, sin pedir** ❌ — se venden allí; modelo y precio de los dos, en el `17`
 - **Cargador 12 V multi-USB** ○ para el coche (los 12 V «se saltan el problema entero», `04`) +
   **powerbank** grande para las noches sin toma en la parcela *(Spreetshoogte y Hoada; dónde sí
   la hay, arriba y en el `18` §5)*
@@ -235,8 +236,8 @@ día. Por eso se preparan la víspera y viajan en el daypack, no abajo.
 
 ---
 
-*Lo que falta por comprar lleva ya precio: **los adaptadores**, el Skross a 8,83 €/ud *(`17`)*; **el
+*Lo que falta por comprar lleva ya precio: **los adaptadores tipo D**, el Clomnpe a 9,99 € los dos *(los M se pidieron el 21/10 — `17`)*; **el
 satelital** no se compra, va pagado con el alquiler *(arriba, `20` §1)*; y **las garrafas** se
 compran allí, ~N$39 (~€2) la de 5 L *(`08`)*. Los «sin dato» de la ficha del coche —toallas,
 almohadas, hornillo y menaje— los cerró la propia ficha en el cotejo del 10/08/2026 ✅: para la
-entrega quedan la batería de la nevera y el tanque (`18` §5, `20`). · 10/08/2026, puesto al 09/10/2026*
+entrega quedan la batería de la nevera y el tanque (`18` §5, `20`). · 10/08/2026, puesto al 21/10/2026*

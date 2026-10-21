@@ -161,8 +161,8 @@ flowchart LR
   - Y lo que **no tiene fecha pero sí casilla**: el importe del Urban Camp, si del coche se pagó
     el total o el 25 %, y **pedir por escrito a Savanna** la devolución del sábado a las 18:00 y lo
     que cubre la Opción 4 en un vuelco sin terceros *(`20` §1 y §9)*.
-- **Esta semana, en casa** — **los adaptadores tipo M + D**, que se piden online y tardan días
-  *(`17`)*; y el **mapa en papel**: el Reise Know-How llega de Amazon, el **Tracks4Africa se envía
+- **Esta semana, en casa** — ~~**los adaptadores tipo M**~~ **pedidos el 21/10** ✅; quedan **los
+  D**, que se piden online y tardan días o se compran allí *(`17`)*; y el **mapa en papel**: el Reise Know-How llega de Amazon, el **Tracks4Africa se envía
   desde Sudáfrica o el Reino Unido — pedirlo hoy o descartarlo** *(`17`)*.
 - **~12 de octubre** — Onguma: **comprobar, no pagar**, que los €132 son el total *(`20` §9)*.
 - **~16 de octubre** — **último día para que la mefloquina sea posible** *(cita del CVI antes)*;

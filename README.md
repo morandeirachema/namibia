@@ -223,7 +223,7 @@ de Discover, cierra 19:45 ◐ — ver [`02`](02-presupuesto.md) §2 y §8.)*
 
 <div align="center">
 
-### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 205 páginas
+### 📕 [**Descargar el dossier completo en PDF**](dossier-namibia-2026.pdf) · 206 páginas
 
 *Todo esto en un solo documento maquetado, con fotos, **tres mapas propios** y los diagramas — para
 leer del tirón, imprimir o llevar sin conexión.*

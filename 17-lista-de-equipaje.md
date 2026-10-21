@@ -680,10 +680,16 @@ teléfonos toxicológicos, con los de emergencia del [`07`](07-logistica.md).
       *(Namibia usa M y D; verificado el 25/08)*: el Schuko no entra, y no se
       venden en supermercados españoles. **⚠️ Ojo con el modelo**: los adaptadores «universales»
       genéricos (Travel Blue, Skross 1103180) **excluyen Sudáfrica/Namibia explícitamente** — el
-      pin M es más grueso que el que llevan de serie. Hace falta el producto específico: **[Skross
-      44703 «South Africa World Adapter»](https://www.amazon.es/Skross-44703-Adaptador-Mundial-Sud%C3%A1frica/dp/B01JN9Z8RI)**
-      ✅ 8,83 €/ud (17,66 € los dos, Amazon). ⚠️ **A 09/10 no constan pedidos** ❌ — el `05` los quería
-      «pedidos online YA» desde agosto: **esta semana**, que es el fallo tonto del repaso de la víspera
+      pin M es más grueso que el que llevan de serie —, y en Amazon salen, con buena nota, los que
+      van **al revés**: de clavija sudafricana a enchufe europeo, para el que viene de allí.
+      **Los M, pedidos el 21/10** ✅: **[Oliveria tipo M](https://www.amazon.es/dp/B0CBB17QTG)**,
+      10,99 € — acepta clavija C, E y F, así que entra la regleta Schuko; el título dice dos y la
+      ficha «1 artículo»: **contarlos al abrir la caja**. **Los D, sin pedir** ❌ — el D solo queda en
+      edificios viejos ◐ *([worldstandards](https://www.worldstandards.eu/electricity/plug-voltage-by-country/namibia/))*
+      y se vende allí *(abajo, «Si algo se olvida o se pierde»)*; desde aquí, el
+      **[Clomnpe tipo D ×2](https://www.amazon.es/dp/B0CDBB52SV)** ✅ 9,99 € los dos. *(El Skross
+      44703 que se apuntaba desde agosto —8,83 €/ud entonces, 12,02 € el 21/10— solo hace el M: no
+      cubría el D que pedía esta misma línea.)*
 - [ ] **Regleta pequeña o ladrón ×1** ◐ — la parcela tiene **una** toma en el poste y sois dos
       móviles, cámara, frontales y powerbank *(dos listas de Namibia la llevan; el cierre del
       enchufe camp a camp, en [`18`](18-manual-de-campamento.md) §5)*. Modelo: **[Garza Power, 4
@@ -1037,8 +1043,8 @@ sitios de la ruta**, y luego vienen días sin nada. Comprobado el 05/10/2026.*
 - **Adaptador M/D, cargadores, cables y soporte de móvil** — los adaptadores se venden en súper,
   ferreterías y gasolineras ◐ *([TripAdvisor](https://www.tripadvisor.com/ShowTopic-g293820-i9680-k14828489-Plug_type_in_Namibia-Namibia.html))*;
   lo demás, en las tiendas de electrónica de los centros comerciales. **Pero que no se venda en el
-  aeropuerto no se pudo descartar ni confirmar ❌**: el adaptador va desde España igual *(es el
-  fallo tonto del repaso de la víspera)*
+  aeropuerto no se pudo descartar ni confirmar ❌**: el M va desde España igual *(pedido el 21/10)*;
+  el D, si no se pide, es lo que se busca allí
 - **Crema solar** — en Clicks y Dis-Chem, Everysun y Nivea ◐
 - **Repelente** — Peaceful Sleep y Tabard en súper y farmacia, pero **al 15–19,5 % de DEET** ◐
   *([fichas de Clicks](https://clicks.co.za/tabard_mosquito-and-insect-repellent-lotion-150ml/p/720094))*:
@@ -1057,7 +1063,7 @@ sitios de la ruta**, y luego vienen días sin nada. Comprobado el 05/10/2026.*
 
 **Lo que no tiene plan B — va sí o sí desde España:** la **medicación con receta y el
 antipalúdico**, el **repelente fuerte**, las **baterías y el cargador de la cámara**, las **gafas de
-repuesto** *(hay ópticas, pero solo en Windhoek y la costa)* y **el adaptador**, porque el D1 no da
+repuesto** *(hay ópticas, pero solo en Windhoek y la costa)* y **el adaptador M**, porque el D1 no da
 tiempo de ir buscándolo.
 
 ## 🚫 Lo que NO se lleva
